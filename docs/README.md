@@ -44,7 +44,9 @@ This is how I update my setup when new version of TEI Boilerplate gets released:
 - copy `teibp.xsl` and `xml-to-string.xsl` from their `content` directory to my `xslt` directory;
 - in the `xml-stylesheet` processing instruction, I associate my TEI documents with `teibp-custom.xsl`
   and use that for XSLT customization, so their `custom.xsl` is not needed;
-- copy `teibp.css`, `sleepy.css` and `terminal.css` from their `css` directory to mine;
+- copy `teibp.css`, `sleepy.css` and `terminal.css` from their `css` directory to
+  Jekyll's `assets` directory;
+- set `teibpCSS` parameter in my `teibp.xsl` to `teibp.css`;
 - I set `customCSS` XSL parameter in my `teibp-custom.xsl` to `teibp-custom.css`
   and use that for CSS customization, so their `custom.css` is not needed;
 - copy `teibp.js` from their `js` directory to mine;

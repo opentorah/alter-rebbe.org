@@ -27,7 +27,8 @@
   
 
   <!-- Use proper CSS file -->
-  <xsl:param name="customCSS" select="concat($filePrefix,'/css/teibp-custom.css')"/>
+  <xsl:param name="teibpCSS" select="concat($filePrefix,'/assets/teibp.css')"/>
+  <xsl:param name="customCSS" select="concat($filePrefix,'/assets/teibp-custom.css')"/>
 
 
   <!-- Suppress "target" attribute on the links so that they open in-place -->
