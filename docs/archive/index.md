@@ -87,7 +87,7 @@ list: true
 | ? |  |  | pl | [118](documents/118.xml) | <a class="page" href="documents/118.xml#p118-1">118</a> | нет |
 | ? |  |  | pl | [119](documents/119.xml) | <a class="page" href="documents/119.xml#p119-1">119</a> | нет |
 | Допрос жида Шая Ицковича |  | Шая Ицкович | ru | [120](documents/120.xml) | <a class="page" href="documents/120.xml#p120-1">120</a> | да |
-| Допрос жида Леизера Нотолевича |  | Лейзер Нотолевич | ru | [121](documents/121.xml) | <a class="page" href="documents/121.xml#p121-1">121</a> | да |
+| Допрос жида Лейзера Нотолевича |  | Лейзер Нотолевич | ru | [121](documents/121.xml) | <a class="page" href="documents/121.xml#p121-1">121</a> | да |
 | ? |  |  | pl | [122](documents/122.xml) | <a class="page" href="documents/122.xml#p122-1">122</a> | нет |
 | Допрос жида Боруха Мордуховича |  | Борух Мордухович | ru | [123](documents/123.xml) | <a class="page" href="documents/123.xml#p123-1">123</a> | да |
 | ? |  |  | pl | [124](documents/124.xml) | <a class="page" href="documents/124.xml#p124-1">124</a> | нет |
