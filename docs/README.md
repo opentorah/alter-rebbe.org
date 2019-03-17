@@ -41,20 +41,22 @@ I use [TEI Boilerplate](http://dcl.ils.indiana.edu/teibp/). Its help was invalua
 My site is rooted in the `docs` directory; TEI Boilerplate
 [repository](https://github.com/GrantLS/TEI-Boilerplate) has a `dist` directory.
 This is how I update my setup when new version of TEI Boilerplate gets released:
-- copy `teibp.xsl` and `xml-to-string.xsl` from their `content` directory to my `xslt` directory;
-- in the `xml-stylesheet` processing instruction, I associate my TEI documents with `teibp-custom.xsl`
+- copy `teibp.xsl` from their `content` directory to `teibp-orig.xsl` in my `xslt` directory;
+- copy `xml-to-string.xsl` from their `content` directory to my `xslt` directory;
+- in the `xml-stylesheet` processing instruction, I associate my TEI documents with my `teibp.xsl`
   and use that for XSLT customization, so their `custom.xsl` is not needed;
-- copy `teibp.css` from their `css` directory to Jekyll's `_sass` directory as `teibp.scss`;
-- set `teibpCSS` parameter in my `teibp.xsl` to point to my `assets/teibp.css`;
-- I customize TEI-BP CSS in `_sass`, which `assets/teibp.css` includes, so their `custom.css` is not
+- copy `teibp.css` from their `css` directory to Jekyll's `_sass` directory as `teibp-orig.scss`;
+- set `teibpCSS` parameter in my `teibp.xsl` to point to my `/assets/teibp.css`;
+- I customize TEI-BP CSS in `_sass`, so their `custom.css` is not
   needed, and I remove references to it from their `teibp.xsl` and `teibp.js`;
-- I disable their toolbox, so `sleepy.css` and `terminal.css` are not needed;  
+- I disable their toolbox, so `sleepy.css` and `terminal.css` are not needed;
+- I segregate TEI elements styling from `_sass/teibp-orig.css` in `_sass/teibp-elements.scss`;  
 - copy `teibp.js` from their `js` directory to mine;
 - in my layout, TEI documents are in the `documents` directory of a collection,
-  so the path from a document to `teibp-custom.xsl` is `"../../xslt/teibp-custom.xsl"`,
-  and I set `filePrefix` parameter in `teibp-custom.xsl` to `'../..'`.
+  so the path to my `teibp.xsl` is `"/xslt/teibp.xsl"`,
+  and I set `filePrefix` parameter in `teibp.xsl` to `''`.
 - in `js/teibp.js`, in function `showFacs`, in `<script src='../js/teibp.js'>`
-  the path needs to be changed for my nested setup to: `<script src='../../js/teibp.js'>`.
+  the path needs to be changed for my nested setup to: `<script src='/js/teibp.js'>`.
 - in `xslt/teibp.xsl`, line `<script src="{$lessJS}"></script>` in the `htmlHead` template
   needs to be removed: the script mentioned there isn't shipped as a part of TEI Boilerplate :) 
 

@@ -23,18 +23,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 github_username:  dubinsky
 
-header_pages:
-  - archive/index.md
-  - people-and-places.md
-  - dubnov/index.md
-  - README.md
-
-markdown: kramdown
 theme: minima
+markdown: kramdown
 
 include:
   - README.md
-  - people-and-places.md
 
 exclude:
   - CNAME
@@ -48,3 +41,9 @@ defaults:
     values:
       layout: "page"
       title: "README"
+
+header_pages:
+  - archive/index.md
+  - ref.md
+  - dubnov/index.md
+  - README.md

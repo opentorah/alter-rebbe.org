@@ -38,7 +38,7 @@ function showFacs(e,t,n){
         document.querySelector("#maincss").outerHTML,
         null!=document.querySelector("#teibp-tagusage-css")?document.querySelector("#teibp-tagusage-css").outerHTML:"",
         null!=document.querySelector("#teibp-rendition-css")?document.querySelector("#teibp-rendition-css").outerHTML:"",
-        "<script src='../../js/teibp.js'></script>",
+        "<script src='/js/teibp.js'></script>",
         "</head>",
         "<body>",
         "<script>blockUI();</script>",
