@@ -5,20 +5,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Заставка: Расписки в деньгах, пересланных в Иерусалим</title>
+        <title type="main">Расписки в деньгах, пересланных в Иерусалим</title>
         <author>
           <persName>?</persName>
         </author>
-        <respStmt>
-          <resp>транскрибировал</resp>
-          <name>Ифрах Абрамов</name>
-        </respStmt>
+        <editor role="transcribing"><persName>Ифрах Абрамов</persName></editor>
+        <editor role="encoding"><persName>Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -55,6 +48,7 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Заставка: Расписки в деньгах, пересланных в Иерусалим</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

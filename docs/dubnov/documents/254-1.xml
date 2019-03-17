@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">No 5. Сообщение о препровожденiи жалобы Авигдора къ Литовскому губернатору</title>
         <author>
           <persName>Обольяниновъ</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian" when="1800-06-07">1800-06-07</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,10 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-06-07">1800-06-07</date>
+      </creation>
+      <abstract><p>No 5. Сообщение о препровожденiи жалобы Авигдора къ Литовскому губернатору</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

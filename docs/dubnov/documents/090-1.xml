@@ -5,15 +5,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">No 1. Препроводительное письмо къ прошенiю раввина Авигдора Хаимовича</title>
         <author><persName>Брискорнъ</persName></author>
-        <principal><persName>Леонид Дубинский</persName></principal>
+        <editor role="encoding"><persName>Леонид Дубинский</persName></editor>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian" when="1800-04-23">1800-04-23</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -50,6 +44,10 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-04-23">1800-04-23</date>
+      </creation>
+      <abstract><p>No 1. Препроводительное письмо къ прошенiю раввина Авигдора Хаимовича</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

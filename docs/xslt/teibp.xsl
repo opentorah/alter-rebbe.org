@@ -37,12 +37,13 @@
   <xsl:param name="pbNote"><text>страница: </text></xsl:param>
   
 
-  <!-- turn TEI elements with 'ref' attributes (e.g., 'name') into links. -->
+  <!-- wrap TEI elements with 'ref' attributes (e.g., 'name') in HTML <a> with href with ref's value. -->
   <xsl:template match="tei:*[@ref]" priority="99">
     <a href="{@ref}">
-      <xsl:apply-templates select="@*"/>
-      <xsl:call-template name="rendition"/>
-      <xsl:apply-templates select="node()"/>
+      <xsl:copy>
+        <xsl:copy-of select="@*"/>
+        <xsl:apply-templates/>
+      </xsl:copy>
     </a>
   </xsl:template>
 

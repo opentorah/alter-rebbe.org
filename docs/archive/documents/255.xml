@@ -10,11 +10,6 @@
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +46,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-09-19">1800-09-19</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text>

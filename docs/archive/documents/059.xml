@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Собственноручные письменные показания Альтер Ребе</title>
         <author>
-          <persName>?</persName>
+          <persName>Альтер Ребе</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract>
+        <p>Собственноручные письменные показания Альтер Ребе</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="he">

@@ -5,20 +5,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">O переводе показаний с иврита на французский</title>
         <author>
           <persName>Булгаков</persName>
         </author>
-        <respStmt>
-          <resp>транскрибировал</resp>
-          <name>Арье-Лейб Дубинский</name>
-        </respStmt>
+          <editor role="transcribing"><persNam>Арье-Лейб Дубинский</persNam></editor>
+          <editor role="encoding"><persNam>Арье-Лейб Дубинский</persNam></editor>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -55,6 +47,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract>
+        <p>O переводе показаний с иврита на французский</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

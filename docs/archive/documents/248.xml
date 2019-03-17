@@ -11,11 +11,6 @@
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -44,7 +39,9 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage></langUsage>
+        <langUsage>
+            <language ident="ru"/>
+        </langUsage>
       <calendarDesc>
         <calendar xml:id="julian">
           <p>Julian calendar</p>

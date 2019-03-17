@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Список арестованных хасидов и реестры реквизированных бумаг</title>
         <author>
           <persName>Булгаков</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract>
+        <p>Список арестованных хасидов и реестры реквизированных бумаг</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

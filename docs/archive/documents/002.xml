@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Донос</title>
         <author>
           <persName>Гирш Давыдович</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">10 мая 1798</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,12 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-05-10">10 мая 1798</date>
+      </creation>
+      <abstract>
+        <p>Донос</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

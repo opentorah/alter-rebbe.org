@@ -5,17 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main"><num>No 14</num>. Сообщение Бѣлорусскаго губернатора генералъ-прокурору объ отправке хасидскаго
-          „начальника” <persName>Боруховича</persName> въ <placeName>Петербургъ</placeName></title>
         <author>
           <persName>Северинъ</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian" when="1800-11-13">1800-11-13</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -52,6 +45,11 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-11-13">1800-11-13</date>
+      </creation>
+      <abstract><p><num>No 14</num>. Сообщение Бѣлорусскаго губернатора генералъ-прокурору объ отправке хасидскаго
+        „начальника” <persName>Боруховича</persName> въ <placeName>Петербургъ</placeName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

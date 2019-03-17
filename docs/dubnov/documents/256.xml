@@ -5,17 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">No 9. Сообщенiе Литовскаго губернатора Обольянинову о свѣдѣніяхъ отъ Минскаго губернатора,
-          что секта „Шабсусъ-Цвинкусъ" или Китаевая ведетъ себя въ губернiи спокойно</title>
         <author>
           <persName>Голенищевъ</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian" when="1800-07-12">1800-07-12</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -52,6 +45,11 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-07-12">1800-07-12</date>
+      </creation>
+      <abstract><p>No 9. Сообщенiе Литовскаго губернатора Обольянинову о свѣдѣніяхъ отъ Минскаго губернатора,
+        что секта „Шабсусъ-Цвинкусъ" или Китаевая ведетъ себя въ губернiи спокойно</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

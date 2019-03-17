@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Заставка: Следствие, произведенное в Вильне по случаю заведения евреями Каролинской секты</title>
         <author>
           <persName>Булгаков</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">25 октября 1798</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,12 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-10-25">25 октября 1798</date>
+      </creation>
+      <abstract>
+        <p>Заставка: Следствие, произведенное в Вильне по случаю заведения евреями Каролинской секты</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

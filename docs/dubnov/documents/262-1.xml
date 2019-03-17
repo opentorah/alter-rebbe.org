@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main"><num>No 11-а</num>. Извещенiе о томъ же и справка Подольскаго губернатора</title>
         <author>
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian" when="1800-10-07">1800-10-07</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,10 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date calendar="#julian" when="1800-10-07">1800-10-07</date>
+      </creation>
+      <abstract><p><num>No 11-а</num>. Извещенiе о томъ же и справка Подольскаго губернатора</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

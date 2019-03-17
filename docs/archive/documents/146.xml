@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Текст</title>
         <author>
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,7 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Текст</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="yi">

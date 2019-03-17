@@ -5,16 +5,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Заставка: Письмо, найденное у Вольфа Шмулевича</title>
+        <title type="main">Письмо, найденное у Вольфа Шмулевича</title>
         <author>
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +46,7 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Заставка: Письмо, найденное у Вольфа Шмулевича</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

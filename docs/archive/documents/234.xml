@@ -5,16 +5,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Заставка: Бумаги Рафаила Шломовича</title>
+        <title type="main">Бумаги Рафаила Шломовича</title>
         <author>
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">?</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +46,7 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Заставка: Бумаги Рафаила Шломовича</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

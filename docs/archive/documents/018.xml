@@ -10,11 +10,6 @@
           <persName>Булгаков</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">30 августа 1798</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +46,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-08-30">30 августа 1798</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

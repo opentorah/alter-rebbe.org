@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Письмо Лопухину об арестованных</title>
         <author>
           <persName>Булгаков</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">5 декабря</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,12 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-12-05">5 декабря</date>
+      </creation>
+      <abstract>
+        <p>Письмо Лопухину об арестованных</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

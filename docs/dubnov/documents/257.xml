@@ -5,18 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">No 10. Донесенiе Литовского губернатора Кутузова генералъ-прокурору Обольянинову о
-          существованiи секты „Каролиновъ" (Хасидовъ), которая подвергалась гоненiямъ но признана правительствомъ
-          безвредною</title>
         <author>
           <persName>Голенищевъ Кутузовъ</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian" when="1800-07-30">1800-07-30</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -53,6 +45,12 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-07-30">1800-07-30</date>
+      </creation>
+      <abstract><p>No 10. Донесенiе Литовского губернатора Кутузова генералъ-прокурору Обольянинову о
+        существованiи секты „Каролиновъ" (Хасидовъ), которая подвергалась гоненiямъ но признана правительствомъ
+        безвредною</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

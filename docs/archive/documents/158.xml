@@ -9,16 +9,9 @@
         <author>
           <persName>губернский секретарь Козлинский</persName>
         </author>
-        <respStmt>
-          <resp>транскрибировал</resp>
-          <name>Ифрах Абрамов</name>
-        </respStmt>
+        <editor role="transcribing"><persName>Ифрах Абрамов</persName></editor>
+        <editor role="encoding"><persName>Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">16 октября 1798</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -55,6 +48,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-10-16">16 октября 1798</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

@@ -10,11 +10,6 @@
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">18 октября 1798</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +46,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-10-18">18 октября 1798</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

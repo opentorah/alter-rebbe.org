@@ -5,16 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Письмо Лопухину о семи арестованных евреях, отправленных в Вильну</title>
         <author>
           <persName>?</persName>
         </author>
       </titleStmt>
-      <editionStmt>
-        <edition>
-          <date calendar="#julian">26 ноября</date>
-        </edition>
-      </editionStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
@@ -51,6 +45,12 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-11-26">26 ноября</date>
+      </creation>
+      <abstract>
+        <p>Письмо Лопухину о семи арестованных евреях, отправленных в Вильну</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
