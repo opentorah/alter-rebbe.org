@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
+        <title type="main">Заставка: Очные Ставки.</title>
         <author>
           <persName>?</persName>
         </author>
@@ -43,7 +43,9 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage></langUsage>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
       <calendarDesc>
         <calendar xml:id="julian">
           <p>Julian calendar</p>
