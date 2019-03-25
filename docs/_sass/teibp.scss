@@ -1,4 +1,6 @@
 @import "teibp-orig";
+@import "teibp-elements";
+
 //@import "minima";
 
 html {
@@ -26,4 +28,23 @@ TEI text p a:visited {
 [lang="he"] {
     direction: rtl;
     text-align: right;
+}
+
+.-teibp-pb {
+    display: block;
+    width: 100%;
+    text-align: end;
+    color: gray;
+    margin: 2em 0 2em 0;
+    font-size: 11pt;
+}
+
+/* facsViewer */
+#resizable {
+    background-color: #EBEBEB;
+    width: 1060px;
+    height: 1000px;
+    overflow: hidden;
+    padding: 0 1em .25em 0;
+    resize: both;
 }

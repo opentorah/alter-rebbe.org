@@ -55,7 +55,9 @@ function showFacs(e,t,n){
         "</script>",
         "</body>",
         "</html>"
-    ].join("\n");facsWindow=window.open("about:blank"),facsWindow.document.write(l),facsWindow.document.close()
+    ].join("\n");
+    // add 'target' so that facsWindow is reused if already open
+    facsWindow=window.open("about:blank", "facs"),facsWindow.document.write(l),facsWindow.document.close()
 }
 
 document.addEventListener?(document.addEventListener("DOMContentLoaded",init,!1),window.addEventListener("load",init,!1)):document.attachEvent&&(document.attachEvent("onreadystatechange",init),window.attachEvent("onload",init));
