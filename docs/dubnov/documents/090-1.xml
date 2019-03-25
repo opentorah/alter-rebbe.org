@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <author><persName>Брискорнъ</persName></author>
-        <editor role="encoding"><persName>Леонид Дубинский</persName></editor>
+        <editor role="encoder"><persName>Леонид Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -23,14 +22,6 @@
           </licence>
         </availability>
       </publicationStmt>
-      <seriesStmt>
-        <ab xml:id="navigation">
-          <ref xml:id="list" target="../index.html">list</ref>
-          <ref xml:id="prev" target="088.xml">088</ref>
-          <ref xml:id="self" target="090-1.xml">090-1</ref>
-          <ref xml:id="next" target="090-2.xml">090-2</ref>
-        </ab>
-      </seriesStmt>
       <sourceDesc>
         <p>Facsimile</p>
       </sourceDesc>

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="/xslt/teibp.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -25,14 +24,6 @@
           </licence>
         </availability>
       </publicationStmt>
-      <seriesStmt>
-        <ab xml:id="navigation">
-          <ref xml:id="list" target="../index.html">list</ref>
-          <ref xml:id="prev" target="148a.xml">148a</ref>
-          <ref xml:id="self" target="149.xml">149</ref>
-          <ref xml:id="next" target="150.xml">150</ref>
-        </ab>
-      </seriesStmt>
       <sourceDesc>
         <p>Facsimile</p>
       </sourceDesc>

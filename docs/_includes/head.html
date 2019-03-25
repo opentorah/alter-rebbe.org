@@ -3,8 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  {%- if page.list == true -%}
-  <link rel="stylesheet" href="{{ "/assets/list.css" | relative_url }}">
+  {%- if page.layout == 'collection' -%}
+  <link rel="stylesheet" href="{{ "/assets/collection.css" | relative_url }}">
+  {%- elsif page.layout == 'document' -%}
+  <link rel="stylesheet" href="{{ "/assets/document.css" | relative_url }}">
+  {%- elsif page.layout == 'facsimile' -%}
+  <link rel="stylesheet" href="{{ "/assets/facsimile.css" | relative_url }}">
   {%- else -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- endif -%}

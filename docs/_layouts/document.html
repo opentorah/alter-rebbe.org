@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<article class="post">
+    <div class="post-content">
+
+        <div id="TEI">
+            Sadly, this page will not work in Internet Explorer and some older browsers. We suggest you use a newer version of Chrome or Firefox.
+        </div>
+        <script type="module" src="/js/cetei.js"></script>
+        <script type="module">
+            var CETEIcean = new CETEI();
+
+            CETEIcean.addBehaviors({"tei":
+                    {
+                        "pb": function(elt) {
+                            if (!elt.hasAttribute("n") || !elt.hasAttribute("facs")) return null; else {
+                                let n = elt.getAttribute("n")
+                                let facs = elt.getAttribute("facs");
+                                let figure = document.createElement("figure");
+                                figure.setAttribute("class", "-tei-pb");
+                                let img = document.createElement("img");
+                                img.setAttribute("src", facs);
+                                figure.appendChild(img);
+                                var figcaption = document.createElement("figcaption");
+                                figcaption.appendChild(document.createTextNode(n));
+                                figure.appendChild(figcaption);
+                                figure.onclick = (function(){
+                                    // add 'target' so that facsWindow is reused if already open
+                                    var facsWindow=window.open("./{{ page.self }}-facs.html#p" + n, "facs");
+                                    facsWindow.document.write(l);
+                                    facsWindow.document.close();
+                                });
+                                return figure;
+                            }
+                        }
+                    }});
+
+            CETEIcean.getHTML5('../documents/{{ page.self }}.xml', function(data) {
+                document.getElementById("TEI").innerHTML = "";
+                document.getElementById("TEI").appendChild(data);
+                CETEIcean.addStyle(document, data);
+            });
+        </script>
+    </div>
+</article>
