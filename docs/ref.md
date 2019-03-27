@@ -82,6 +82,20 @@ layout: page
 ### Павел I ###
 [Википедия](https://ru.wikipedia.org/wiki/Павел_I)
 
+<a name="jegulin"></a>
+### Жегулин ###
+[Википедия](https://ru.wikipedia.org/wiki/Жегулин,_Семён_Семёнович)
+
+<a name="benkendorf"></a>
+### Бенкендорф ###
+[Википедия](https://ru.wikipedia.org/wiki/Бенкендорф,_Христофор_Иванович)
+
+<a name="bekleshov"></a>
+### Беклешов ###
+[Википедия](https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич)
+
+
+
 
 ## Места ##
 
