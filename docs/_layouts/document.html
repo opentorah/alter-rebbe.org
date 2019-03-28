@@ -15,7 +15,7 @@ layout: default
                     {
                         "pb": function(elt) {
                             if (!elt.hasAttribute("n") || !elt.hasAttribute("facs")) return null; else {
-                                let n = elt.getAttribute("n")
+                                let n = elt.getAttribute("n");
                                 let facs = elt.getAttribute("facs");
                                 let figure = document.createElement("figure");
                                 figure.setAttribute("class", "-tei-pb");
@@ -25,13 +25,12 @@ layout: default
                                 var figcaption = document.createElement("figcaption");
                                 figcaption.appendChild(document.createTextNode(n));
                                 figure.appendChild(figcaption);
-                                figure.onclick = (function(){
-                                    // add 'target' so that facsWindow is reused if already open
-                                    var facsWindow=window.open("./{{ page.self }}-facs.html#p" + n, "facs");
-                                    facsWindow.document.write(l);
-                                    facsWindow.document.close();
-                                });
-                                return figure;
+                                let link = document.createElement("a");
+                                link.setAttribute("class", "-tei-bp-link");
+                                link.setAttribute("href", "./{{ page.self }}-facs.html#p" + n);
+                                link.setAttribute("target", "facsimileViewer");
+                                link.appendChild(figure);
+                                return link;
                             }
                         }
                     }});

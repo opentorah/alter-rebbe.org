@@ -23,6 +23,11 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          {%- if page.layout == 'document' -%}
+            <a class="page-link" href="./{{ page.prev | escape }}.html">{{ page.prev }}</a>
+            <a class="page-link">|{{ page.self }}|</a>
+            <a class="page-link" href="./{{ page.next | escape }}.html">{{ page.next }}</a>
+          {%- endif -%}
         </div>
       </nav>
     {%- endif -%}

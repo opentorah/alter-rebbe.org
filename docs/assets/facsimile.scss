@@ -1,4 +1,28 @@
 ---
 ---
 
-@import "facsimile";
+@import "minima";
+
+/* Facsimile viewer */
+// TODO use class 'facsimileViewer' instead of the 'resizable' id
+#resizable {
+  width: 1060px;
+  height: 1572px;
+  overflow: hidden;
+  padding: 0 1em .25em 0;
+  resize: both;
+}
+
+div.facsimileImages {
+  width: 100%;
+  height: 98%;
+  overflow-y: scroll;
+  border: 1px solid black;
+}
+
+div.facsimileImages img {
+  margin-top: .5em;
+}
+div.facsimileImages img:first-child {
+  margin-top: 0;
+}
