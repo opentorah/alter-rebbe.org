@@ -14,6 +14,7 @@ layout: default
             CETEIcean.addBehaviors({"tei":
                     {
                         "pb": function(elt) {
+                            // TODO use innerHtml string - or a template.
                             if (!elt.hasAttribute("n") || !elt.hasAttribute("facs")) return null; else {
                                 let n = elt.getAttribute("n");
                                 let facs = elt.getAttribute("facs");
@@ -35,7 +36,7 @@ layout: default
                         }
                     }});
 
-            CETEIcean.getHTML5('../documents/{{ page.self }}.xml', function(data) {
+            CETEIcean.getHTML5('../tei/{{ page.self }}.xml', function(data) {
                 document.getElementById("TEI").innerHTML = "";
                 document.getElementById("TEI").appendChild(data);
                 CETEIcean.addStyle(document, data);
