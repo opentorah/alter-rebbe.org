@@ -4,22 +4,13 @@
 @import "minima";
 @import "cetei";
 
-/* page break: thumbnail with caption that links to the facsimile. */
+/* page break: thumbnail with caption that links to the facsimile viewer. */
 
-figure.-tei-pb {
+.-tei-pb figure {
   float: right;
-  color:gray;
   margin-left: 1em;
-  margin-right: 0;
 }
 
 .-tei-pb img {
-  height: 80px;
-}
-
-.-tei-pb figcaption:before {
-  content: "p. "; // add "p. " before page number
-}
-.-tei-pb figcaption {
-  font-size: 11pt;
+  height: 60px;
 }
