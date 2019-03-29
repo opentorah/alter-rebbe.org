@@ -27,6 +27,10 @@
             <a class="page-link" href="./{{ page.prev | escape }}.html">{{ page.prev }}</a>
             <a class="page-link">|{{ page.self }}|</a>
             <a class="page-link" href="./{{ page.next | escape }}.html">{{ page.next }}</a>
+          {%- elsif page.layout == 'facsimile' -%}
+            <a class="page-link" href="./{{ page.prev | escape }}-facs.html">{{ page.prev }}</a>
+            <a class="page-link">|{{ page.self }}|</a>
+            <a class="page-link" href="./{{ page.next | escape }}-facs.html">{{ page.next }}</a>
           {%- endif -%}
         </div>
       </nav>

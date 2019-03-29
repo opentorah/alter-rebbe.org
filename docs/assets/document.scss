@@ -12,6 +12,10 @@ tei-del[type='overstrike'] {
   text-decoration: line-through;
 }
 
+tei-unclear {
+  background-color: #aaffaa;
+}
+
 /* page break: thumbnail with caption that links to the facsimile viewer. */
 
 .-tei-pb figure {

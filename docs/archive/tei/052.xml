@@ -4,9 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <title type="main">Реестръ подлинныхъ допросовъ съ переводами, и разныхъ бумагъ по дѣлу каролинской секты при семъ подъ №ми представляемыхъ</title>
         <author>
           <persName>Булгаков</persName>
         </author>
+        <editor role="transcriber"><persName>Арье-Лейб Дубинский</persName></editor>
+        <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -44,7 +47,50 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p052-1" n="052-1" facs="../facsimiles/052-1.jpg"/>
-      <pb xml:id="p052-2" n="052-2" facs="../facsimiles/052-2.jpg"/>
+      <opener>
+        <note>№Д</note>
+        <note type="page" rend="right-side">52.</note>
+      </opener>
+      <div>
+        <head>Реестръ подлинныхъ допросовъ съ переводами, и разныхъ бумагъ по дѣлу каролинской секты при семъ подъ №ми представляемыхъ</head>
+        <list>
+          <head>Допросы Евреевъ</head>
+          <item>1. <ref target="../documents/090.html">Меіера Рафаловича</ref></item>
+          <item>2 <ref target="../documents/093.html">Нохима ицковича</ref></item>
+          <item>3 <ref target="../documents/097.html">Лейбы Зеликовича</ref></item>
+          <item>4 <ref target="../documents/099.html">Арона Берковича</ref></item>
+          <item>5 <ref target="../documents/101.html">Лейбы Меіеровича</ref></item>
+          <item>6 <ref target="../documents/103.html">Зелмана Янкелевича</ref></item>
+          <item>7 <ref target="../documents/105.html">Вулфа Шимеліовича</ref></item>
+          <item>8 <ref target="../documents/107.html">Рафаила Шломовича</ref></item>
+          <item>9 <ref target="../documents/109.html">Юделя Еліашевича</ref></item>
+          <item>10 <ref target="../documents/111.html">Михеля Файбишовича</ref></item>
+          <item>11. <ref target="../documents/113.html">Зелмана Леизеровича</ref></item>
+          <item>12 <ref target="../documents/115.html">Переца Хаймовича</ref></item>
+          <item>13 <ref target="../documents/117.html">Ицка Саіовича</ref></item>
+          <item>14 <ref target="../documents/120.html">Шая Ицковича</ref></item>
+          <item>15 <ref target="../documents/121.html">Леизера Нотолевича</ref></item>
+          <item>16 <ref target="../documents/123.html">Боруха Мордуховича</ref></item>
+          <item>17 <ref target="../documents/125.html">Јоселя Мовшовича</ref></item>
+          <item>18 <ref target="../documents/127.html">Мовши Јосіеліовича</ref></item>
+          <item>19 <ref target="../documents/129.html">Хлїовны Зоруховича</ref></item>
+          <pb xml:id="p052-2" n="052-2" facs="../facsimiles/052-2.jpg"/>
+          <note type="page">52об.</note>
+          <item>20 <ref target="../documents/131.html">Зелмана Лейбовича</ref></item>
+          <item>21 <ref target="../documents/133.html">Гирши Јосіеліовича</ref></item>
+          <item>22 <ref target="../documents/135.html">Шмуила Хаимовича съ билетами.</ref></item>
+          <item>-----</item>
+          <item>23 <ref target="../documents/143a.html">Бумаги найденныя у Меіера Рафаловича.</ref></item>
+          <item>24 <ref target="../documents/150a.html">Писмо найденное у Волфа Шимеловича</ref></item>
+          <item>25 <ref target="../documents/152a.html">Бумаги Нохима Ицковича</ref></item>
+          <item>26 <ref target="../documents/158.html">Допрос секретаря Кузминскаго</ref></item>
+          <item>27 <ref target="../documents/159.html">Начало писма жидовскаго, руки онаго Кузминскаго</ref></item>
+          <item>28 <ref target="../documents/160.html">росписки денег пересланныхъ отсюда въ Јерусалимъ</ref></item>
+          <item>29 <ref target="../documents/233.html">реестр денег пересланныхъ отсюда въ Јерусалимъ</ref></item>
+          <item>30 <ref target="../documents/234.html">Бумаги Рафала Шломовича</ref></item>
+        </list>
+      </div>
+      <closer><signed>Яковъ Булгаковъ</signed></closer>
     </body>
   </text>
 </TEI>

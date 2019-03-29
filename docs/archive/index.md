@@ -41,7 +41,7 @@ layout: collection
 | Реестр каролинов отправленных в Санктпетербург |  | Булгаков | ru | [046](documents/046.html) | <a class="page" href="documents/046.html#p046-1">046</a> |  |
 | Реестр каролинов оставленных в Вильне |  | Булгаков | ru | [047](documents/047.html) | <a class="page" href="documents/047.html#p047-1">047</a> |  |
 | Реестр Евреев, следующих новой секте каролинскою называемой ... с новыми примечаниями |  |  | ru | [048](documents/048.html) | <a class="page" href="documents/048.html#p048-1">048</a> <a class="page" href="documents/048.html#p048-2">048об</a> <a class="page" href="documents/048.html#p049-1">049</a> <a class="page" href="documents/048.html#p049-2">049об</a> <a class="page" href="documents/048.html#p050-1">050</a> <a class="page" href="documents/048.html#p050-2">050об</a> <a class="page" href="documents/048.html#p051-1">051</a> |  |
-| Список арестованных хасидов и реестры реквизированных бумаг |  | Булгаков | ru | [052](documents/052.html) | <a class="page" href="documents/052.html#p052-1">052</a> <a class="page" href="documents/052.html#p052-2">052об</a> |  |
+| Список арестованных хасидов и реестры реквизированных бумаг |  | Булгаков | ru | [052](documents/052.html) | <a class="page" href="documents/052.html#p052-1">052</a> <a class="page" href="documents/052.html#p052-2">052об</a> | Арье-Лейб Дубинский |
 | ? |  |  | ru | [053](documents/053.html) | <a class="page" href="documents/053.html#p053-1">053</a> <a class="page" href="documents/053.html#p053-2">053об</a> <a class="page" href="documents/053.html#p054-1">054</a> <a class="page" href="documents/053.html#p054-2">054об</a> |  |
 | ? |  |  | ru | [055](documents/055.html) | <a class="page" href="documents/055.html#p055-1">055</a> |  |
 | ? |  |  | ru | [056](documents/056.html) | <a class="page" href="documents/056.html#p056-1">056</a> <a class="page" href="documents/056.html#p056-2">056об</a> |  |
@@ -60,7 +60,7 @@ layout: collection
 | Лопухину | 1798-12-04 | белорусский губернатор | ru | [089](documents/089.html) | <a class="page" href="documents/089.html#p089-1">089</a> <a class="page" href="documents/089.html#p089-2">089об</a> |  |
 | Допрос Жида Меера Рафаловича , раввина и начальника Каролинской секты из Вильно |  | Меер Рафалович | ru | [090](documents/090.html) | <a class="page" href="documents/090.html#p090-1">090</a> <a class="page" href="documents/090.html#p090-2">090об</a> <a class="page" href="documents/090.html#p091-1">091</a> | Ифрах Абрамов |
 | ? |  |  | pl | [092](documents/092.html) | <a class="page" href="documents/092.html#p092-1">092</a> <a class="page" href="documents/092.html#p092-2">092об</a> |  |
-| Допрос жида Нохима Ицковича, повереннаго по делам Каролинов |  | Нохим Ицкович | ru | [093](documents/093.html) | <a class="page" href="documents/093.html#p093-1">093</a> <a class="page" href="documents/093.html#p093-2">093об</a> <a class="page" href="documents/093.html#p094-1">094</a> | Ифрах Абрамов |
+| Допрос жида Нохима Ицковича , повереннаго по делам Каролинов |  | Нохим Ицкович | ru | [093](documents/093.html) | <a class="page" href="documents/093.html#p093-1">093</a> <a class="page" href="documents/093.html#p093-2">093об</a> <a class="page" href="documents/093.html#p094-1">094</a> | Ифрах Абрамов |
 | ? |  |  | pl | [095](documents/095.html) | <a class="page" href="documents/095.html#p095-1">095</a> <a class="page" href="documents/095.html#p095-2">095об</a> <a class="page" href="documents/095.html#p096-1">096</a> |  |
 | Допрос жида Лейбы Зеликовича |  | Лейба Зеликович | ru | [097](documents/097.html) | <a class="page" href="documents/097.html#p097-1">097</a> <a class="page" href="documents/097.html#p097-2">097об</a> | Ифрах Абрамов |
 | ? |  |  | pl | [098](documents/098.html) | <a class="page" href="documents/098.html#p098-1">098</a> <a class="page" href="documents/098.html#p098-2">098об</a> |  |
@@ -127,7 +127,7 @@ layout: collection
 | ? |  |  | pl | [155](documents/155.html) | <a class="page" href="documents/155.html#p155-1">155</a> <a class="page" href="documents/155.html#p155-2">155об</a> |  |
 | ? |  |  | he | [156](documents/156.html) | <a class="page" href="documents/156.html#p156-1">156</a> |  |
 | ? |  |  | he | [157](documents/157.html) | <a class="page" href="documents/157.html#p157-1">157</a> |  |
-| ? | 1798-10-16 | губернский секретарь Козлинский | ru | [158](documents/158.html) | <a class="page" href="documents/158.html#p158-1">158</a> | Ифрах Абрамов |
+| ? | 1798-10-16 | губернский секретарь Козминский | ru | [158](documents/158.html) | <a class="page" href="documents/158.html#p158-1">158</a> | Ифрах Абрамов |
 | ? |  |  | pl | [159](documents/159.html) | <a class="page" href="documents/159.html#p159-1">159</a> |  |
 | Заставка: Расписки в деньгах, пересланных в Иерусалим |  |  | ru | [160](documents/160.html) | <a class="page" href="documents/160.html#p160-1">160</a> | Ифрах Абрамов |
 | ? |  |  | he | [161](documents/161.html) | <a class="page" href="documents/161.html#p161-1">161</a> <a class="page" href="documents/161.html#p161-2">161об</a> |  |
