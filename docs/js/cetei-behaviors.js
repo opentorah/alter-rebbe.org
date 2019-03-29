@@ -69,8 +69,10 @@ export default {
         note.innerHTML = elt.innerHTML
         notes.appendChild(note);
         return content;
-      }],
-      ["_", ["(",")"]]
+      }]
+      // LMD - commented out
+      // ,
+      // ["_", ["(",")"]]
     ],
     "table": function(elt) {
       let table = document.createElement("table");

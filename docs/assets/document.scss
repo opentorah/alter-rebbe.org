@@ -4,6 +4,14 @@
 @import "minima";
 @import "cetei";
 
+tei-note {
+  background-color: lightgray;
+}
+
+tei-del[type='overstrike'] {
+  text-decoration: line-through;
+}
+
 /* page break: thumbnail with caption that links to the facsimile viewer. */
 
 .-tei-pb figure {
