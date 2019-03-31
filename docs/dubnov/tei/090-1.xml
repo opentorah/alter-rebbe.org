@@ -4,8 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName>Брискорнъ</persName></author>
-        <editor role="encoder"><persName>Леонид Дубинский</persName></editor>
+        <author><persName ref="/ref#Брискорнъ">Брискорнъ</persName></author>
+        <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -45,7 +45,7 @@
     <body>
       <pb xml:id="p090" n="090" facs="../facsimiles/090.jpg"/>
 
-      <salute>Милостивый Государь, Петръ Хрисанфовичъ!</salute>
+      <salute>Милостивый Государь, <persName ref="/ref#Обольяниновъ">Петръ Хрисанфовичъ</persName>!</salute>
 
       <p>По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошенiе бывшаго
         въ Пинскѣ оберъ-рабина Хаима, описывающаго притѣсненiя и гоненiя, претерпѣваемыя имъ отъ какой то новой секты, о
@@ -53,7 +53,7 @@
 
       <closer>
         <signed>θедоръ Брискорнъ.</signed>
-        <dateline> В <placeName>С.-П-Бургѣ</placeName>, <date calendar="#julian" when="1800-04-23">апрѣля 23-го
+        <dateline> В <placeName ref="/ref#Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го
             1800-го</date>. </dateline>
       </closer>
 

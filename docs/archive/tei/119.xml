@@ -4,9 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="/ref#Шая Ицкович">Шая Ицкович</persName>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -37,6 +36,7 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Допрос жида <persName ref="/ref#Шая Ицкович">Шая Ицковича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl">

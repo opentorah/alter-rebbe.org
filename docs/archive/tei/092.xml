@@ -4,9 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="/ref#Меіер Рафалович">Меер Рафалович</persName>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -37,12 +36,13 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Допрос Жида <persName ref="/ref#Меіер Рафалович">Меера Рафаловича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl">
     <body>
       <opener>
-        <note type="page" rend="right-side"><subst><add>92</add><del type="overstroke">91</del></subst></note>
+        <note type="page" place="right-side"><subst><add>92</add><del type="overstroke">91</del></subst></note>
         <date>Roku  1798 Miesiąc<unclear>o</unclear> 1 Dnia.</date>
       </opener>
       <pb xml:id="p092-1" n="092-1" facs="../facsimiles/092-1.jpg"/>

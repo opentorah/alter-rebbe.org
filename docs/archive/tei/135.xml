@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Шмуила Хаимовича, Индурскаго рабина</title>
+        <title type="main">Допрос жида <persName ref="/ref#Шмуил Хаимович">Шмуила Хаимовича</persName>, Индурскаго рабина (перевод)</title>
         <author>
-          <persName>Шмуйло Хаймович</persName>
+          <persName ref="/ref#Шмуил Хаимович">Шмуйло Хаймович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p135-1" n="135-1" facs="../facsimiles/135-1.jpg"/>
       <opener>
         <note>№22</note>
-        <note>перевод</note>
-        <note type="page" rend="right-side"><subst>
+        <note><ref target="../documents/136.html">перевод</ref></note>
+        <note type="page" place="right-side"><subst>
             <add>135</add>
             <del type="overstrike">137</del>
           </subst></note>

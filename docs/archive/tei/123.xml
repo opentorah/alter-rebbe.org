@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Боруха Мордуховича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Борух Мордухович">Боруха Мордуховича</persName> (перевод)</title>
         <author>
-          <persName>Борух Мордухович</persName>
+          <persName ref="/ref#Борух Мордухович">Борух Мордухович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p123-1" n="123-1" facs="../facsimiles/123-1.jpg"/>
       <opener>
         <note>№16</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">123.</note>
+        <note place="right-side"><ref target="../documents/124.html">перевод</ref></note>
+        <note type="page" place="right-side">123.</note>
       </opener>
       <div>
         <head>Допрос жида Боруха Мордуховича</head>

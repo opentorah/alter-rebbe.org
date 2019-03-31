@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Иоселя Мовшовича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Јосель Мовшович">Иоселя Мовшовича</persName> (перевод)</title>
         <author>
-          <persName>Иосель Мовшович</persName>
+          <persName ref="/ref#Јосель Мовшович">Иосель Мовшович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p125-1" n="125-1" facs="../facsimiles/125-1.jpg"/>
       <opener>
         <note>№17</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">125.</note>
+        <note place="right-side"><ref target="../documents/126.html">перевод</ref></note>
+        <note type="page" place="right-side">125.</note>
       </opener>
       <div>
         <head>Допрос жида Иоселя Мовшовича</head>

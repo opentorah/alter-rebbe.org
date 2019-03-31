@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Михеля Файбишовича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Михель Файбишович">Михеля Файбишовича</persName> (перевод)</title>
         <author>
-          <persName>Михель Файбишович</persName>
+          <persName ref="/ref#Михель Файбишович">Михель Файбишович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p111-1" n="111-1" facs="../facsimiles/111-1.jpg"/>
       <opener>
         <note>№10</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">111.</note>
+        <note place="right-side"><ref target="../documents/112.html">перевод</ref></note>
+        <note type="page" place="right-side">111.</note>
       </opener>
       <div>
         <head>Допрос жида Михеля Файбишовича</head>

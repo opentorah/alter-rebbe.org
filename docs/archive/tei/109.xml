@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Юделя Елиашевича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Юдель Еліашевич">Юделя Елиашевича</persName> (перевод)</title>
         <author>
-          <persName>Юдель Елиашевич</persName>
+          <persName ref="/ref#Юдель Еліашевич">Юдель Елиашевич</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p109-1" n="109-1" facs="../facsimiles/109-1.jpg"/>
       <opener>
         <note>№9</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">109.</note>
+        <note place="right-side"><ref target="../documents/110.html">перевод</ref></note>
+        <note type="page" place="right-side">109.</note>
       </opener>
       <div>
         <head>Допрос жида Юделя Елиашевича</head>

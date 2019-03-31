@@ -4,8 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Зелмана Лейзеровича</title>
-        <author><persName>Зелман Лейзерович</persName></author>
+        <title type="main">Допрос жида <persName ref="/ref#Зелман Лейзерович">Зелмана Лейзеровича</persName> (перевод)</title>
+        <author><persName ref="/ref#Зелман Лейзерович">Зелман Лейзерович</persName></author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
@@ -44,8 +44,8 @@
       <pb xml:id="p113-1" n="113-1" facs="../facsimiles/113-1.jpg"/>
       <opener>
         <note>№11</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">113.</note>
+        <note place="right-side"><ref target="../documents/114.html">перевод</ref></note>
+        <note type="page" place="right-side">113.</note>
       </opener>
       <div>
         <head>Допрос жида Зелмана Лейзеровича</head>

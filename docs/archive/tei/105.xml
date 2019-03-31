@@ -4,9 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Вулфа Шимелиовича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Вулф Шимеліович">Вулфа Шимелиовича</persName>
+          (перевод)</title>
         <author>
-          <persName>Вулф Шимелиович</persName>
+          <persName ref="/ref#Вулф Шимеліович">Вулф Шимелиович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -19,9 +20,8 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0
+                International License </ref>
             </ab>
           </licence>
         </availability>
@@ -46,17 +46,20 @@
       <pb xml:id="p105-1" n="105-1" facs="../facsimiles/105-1.jpg"/>
       <opener>
         <note>№7</note>
-        <note>перевод</note>
-        <note type="page" rend="right-side">105</note>
+        <note><ref target="../documents/106.html">перевод</ref></note>
+        <note type="page" place="right-side">105</note>
       </opener>
       <div>
-        <head>Допрос жида Вулфа Шимелиовича</head>
-        <p>Я Вулф Шимелиович от роду имею 24 года, нахожусь в мельнице г. Огинскаго, родился в местечке Дзиенциоле, живу
-          в Вильне 14 лет, женат, имею дочь Зислю. Третий год тому, как вступил в Каролинскую секту; к Лозинскому рабину
-          ездил прошлого году, и в Лозне жил пять недель. Еврея Орлина, возобновившего в Вильне секту Каролинов, знаю;
-          живет он в Островне, впрочем ничего не знаю. </p>
+        <head>Допрос жида <persName ref="/ref#Вулф Шимеліович">Вулфа Шимелиовича</persName></head>
+        <p>Я <persName ref="/ref#Вулф Шимеліович">Вулф Шимелиович</persName> от роду имею 24 года, нахожусь в мельнице
+            <persName>г. Огинскаго</persName>, родился в местечке <placeName>Дзиенциоле</placeName>, живу в <placeName
+            ref="/ref#wilno">Вильне</placeName> 14 лет, женат, имею дочь <persName>Зислю</persName>. Третий год тому,
+          как вступил в Каролинскую секту; к <persName ref="/ref#alter-rebbe">Лозинскому рабину</persName> ездил
+          прошлого году, и в <placeName ref="/ref#lozna">Лозне</placeName> жил пять недель. Еврея
+            <persName>Орлина</persName>, возобновившего в <placeName ref="/ref#wilno">Вильне</placeName> секту
+          Каролинов, знаю; живет он в <placeName>Островне</placeName>, впрочем ничего не знаю. </p>
       </div>
-      <closer><signed>Подписал Вулф Шимелиович.</signed></closer>
+      <closer><signed>Подписал <persName ref="/ref#Вулф Шимеліович">Вулф Шимелиович</persName>.</signed></closer>
     </body>
   </text>
 </TEI>

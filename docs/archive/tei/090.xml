@@ -4,10 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос Жида <persName ref="/ref#Меер Рафалович">Меера Рафаловича</persName>, раввина и
-          начальника Каролинской секты из <placeName>Вильно</placeName></title>
+        <title type="main">Допрос Жида <persName ref="/ref#Меіер Рафалович">Меера Рафаловича</persName>, раввина и
+          начальника Каролинской секты из <placeName ref="/ref#wilno">Вильно</placeName> (перевод)</title>
         <author>
-          <persName ref="/ref#Меер Рафалович">Меер Рафалович</persName>
+          <persName ref="/ref#Меіер Рафалович">Меер Рафалович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,66 +46,66 @@
       <pb xml:id="p090-1" n="090-1" facs="../facsimiles/090-1.jpg"/>
       <opener>
         <dateline>
-          <placeName>С. Петербург</placeName>
+          <placeName ref="/ref#Петербург">С. Петербург</placeName>
         </dateline>
         <note>№1</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">90</note>
+        <note place="right-side"><ref target="../documents/092.html">перевод</ref></note>
+        <note type="page" place="right-side">90</note>
       </opener>
 
       <div>
-        <head>Допрос Жида <persName ref="/ref#Меер Рафалович">Меера Рафаловича</persName>, раввина и начальника
+        <head>Допрос Жида <persName ref="/ref#Меіер Рафалович">Меера Рафаловича</persName>, раввина и начальника
           Каролинской секты из <placeName ref="/ref#wilno">Вильно</placeName></head>
 
-        <p>Зовут меня <persName ref="/ref#Меер Рафалович">Меером Рафаловичем</persName>; от рождения моего считаю лет
+        <p>Зовут меня <persName ref="/ref#Меіер Рафалович">Меером Рафаловичем</persName>; от рождения моего считаю лет
           50, торгую разными напитками. Родился в городе <placeName ref="/ref#wilno">Вильно</placeName>; детей имею
-          сыновей двух <persName ref="/ref#Меер Рафалович - Шломо">Шломо</persName> и <persName
-            ref="/ref#Меер Рафалович - Шломо">Янкеля</persName>. Десять лет тому, как я видя умерших уже двух моих
+          сыновей двух <persName ref="/ref#Меіер Рафалович - Шломо">Шломо</persName> и <persName
+            ref="/ref#Меіер Рафалович - Шломо">Янкеля</persName>. Десять лет тому, как я видя умерших уже двух моих
           сыновей, приставших к Каролинской секте, получил желание в оную вступить здесь в <placeName ref="/ref#wilno"
             >Вильно</placeName>, и вступил, ездил я в местечко <placeName ref="/ref#lozna">Лозну</placeName>, где
           тамошний рабин дал мне обыкновенныя наставлении. Каролинская секта ни в чем не различается от старинной
           Еврейской, кроме того, что Каролины отправляют молитвы не тихо, но гласно и с другими обрядами. Начальником у
           Каролинов есть <placeName ref="/ref#lozna">Лозенский</placeName> раввин <persName ref="/ref#alter-rebbe"
             >Зельман Борухович</persName>, и принадлежат к сей секте <persName ref="/ref#Мовша Ицкович">Мовша
-            Ицкович</persName>, <persName ref="/ref#Рафаель Шмойлович">Рафаель Шмойлович</persName>, <persName
-            ref="/ref#Хловна Борухович">Хловна Борухович</persName>. Писал ли я к <placeName ref="/ref#lozna"
+            Ицкович</persName>, <persName ref="/ref#Рафаил Шлїомович"><unclear>Рафаель Шмойлович</unclear></persName>,
+            <persName ref="/ref#Хлїовна Зорухович">Хловна Борухович</persName>. Писал ли я к <placeName ref="/ref#lozna"
           />Лозенскому рабину или нет, не помню, от него же имею два письма, коим года три назад. В минувших месяцах в
-          мае или апреле писал он рабин в Каролинское <placeName ref="/ref/#wilno">виленское</placeName> собрание
+          мае или апреле писал он рабин в Каролинское <placeName ref="/ref#wilno">виленское</placeName> собрание
           <pb xml:id="p090-2" n="090-2" facs="../facsimiles/090-2.jpg"/>
-          <note type="page">90 об</note> письмо, и оно доставлено сюда в <placeName ref="/ref#wilno"
-            >Вильну</placeName> чрез нарочнаго <persName ref="/ref#Лейб Зеликович">Лейба Зеликовича</persName>, который
-          от него привез с собой <measure type="curency">800 рублей</measure> ассигнациями. Я же зделавшись Каролином
-          денег никуда не посылал, кроме того, что прибывшему из <placeName ref="/ref/#witebsk">Витепска</placeName>
-          <persName ref="/ref#Меер Рафалович - Арон">Арону</persName> дал на убогих, находящихся в <placeName
+          <note type="page">90 об</note> письмо, и оно доставлено сюда в <placeName ref="/ref#wilno">Вильну</placeName>
+          чрез нарочнаго <persName ref="/ref#Лейба Зеликович">Лейба Зеликовича</persName>, который от него привез с
+          собой <measure type="curency">800 рублей</measure> ассигнациями. Я же зделавшись Каролином денег никуда не
+          посылал, кроме того, что прибывшему из <placeName ref="/ref#witebsk">Витепска</placeName>
+          <persName ref="/ref#Меіер Рафалович - Арон">Арону</persName> дал на убогих, находящихся в <placeName
             ref="/ref#Иерусалим">Иерусалиме</placeName>. Переписки за границею не имею, денег никуда не посылал и не
-          посылаю. Об <persName ref="/ref#Меер Рафалович - Арон">Ароне</persName> и <persName
-            ref="/ref#Меер Рафалович - Соломон">Соломоне</persName> я слышал, что они набожны, и что <persName
-            ref="/ref#Меер Рафалович - Соломон">Соломон</persName> жил в местечке <placeName ref="/ref#Каролины"
+          посылаю. Об <persName ref="/ref#Меіер Рафалович - Арон">Ароне</persName> и <persName
+            ref="/ref#Меіер Рафалович - Соломон">Соломоне</persName> я слышал, что они набожны, и что <persName
+            ref="/ref#Меіер Рафалович - Соломон">Соломон</persName> жил в местечке <placeName ref="/ref#Каролины"
             >Каролинах</placeName>; также слышал я, но не помню от кого, что <persName
-            ref="/ref#Меер Рафалович - Соломон">Соломон</persName> убит под местечком <placeName ref="/ref#Владимир"
+            ref="/ref#Меіер Рафалович - Соломон">Соломон</persName> убит под местечком <placeName ref="/ref#Владимир"
             >Владимиром</placeName>. <placeName ref="/ref#Индура">Индурскаго</placeName> рабина <persName
-            ref="/ref#Шмуйл Хайка">Шмуйла Хайку</persName>, также и <placeName ref="/ref#Ляховицы"
+            ref="/ref#Шмуил Хаимович">Шмуйла Хайку</persName>, также и <placeName ref="/ref#Ляховицы"
             >Ляховицкаго</placeName>
           <persName ref="/ref#Мордух">Мордуха</persName> знаю, и слышал, что от <persName ref="/ref#Мордух"
             >Мордуха</persName> зависят более ста жидов. Едучи в <placeName ref="/ref#Гродно">Гродно</placeName>, назад
           тому четыре года, был я у <placeName ref="/ref#Индура">индурского</placeName> рабина, который и ныне там
-          жительствует. Еврея <persName ref="/ref#Гирш Давидович">Гиршу Давидовича</persName> не знаю. Богомоление
+          жительствует. Еврея <persName ref="/ref#Гирша Давыдовичъ">Гиршу Давидовича</persName> не знаю. Богомоление
           Каролинов в городе <placeName ref="/ref#wilno">Вильно</placeName>, как я помню, прежде отправляемо было в доме
             <persName ref="/ref#Лезер Хаймович">Лезера Хаймовича</persName>, а потом, года четыре назад, переведено было
           в мой дом. А откуда секта взяла свое начало
           <pb xml:id="p091-1" n="091-1" facs="../facsimiles/091-1.jpg"/>
-          <note type="page" rend="right-side"><subst>
+          <note type="page" place="right-side"><subst>
               <add>91</add>
               <del type="overstrike">92</del>
             </subst></note> не знаю. На отправление богомоления в доме моем дал мне позволение от имени <orgName
             ref="/ref#виленский кагал">виленского Кагала</orgName>
           <persName ref="/ref#Моисей Ошерович">Моисей Ошерович</persName>, чему более уже двух лет. Письма писанного к
-            <persName ref="/ref#Меер Рафалович - Нохим">Нохиму</persName>
+            <persName ref="/ref#Меіер Рафалович - Нохим">Нохиму</persName>
           <note type="gloss">|: о коем выше :|</note> я не читал, а ко мне писал рабин с лишком год назад письма, коими
           советовал, чтобы я во всем пустился на волю Божию.</p>
       </div>
       <closer>
-        <signed>Подписал <persName ref="/ref#Меер Рафалович">Меер Рафалович</persName>.</signed>
+        <signed>Подписал <persName ref="/ref#Меіер Рафалович">Меер Рафалович</persName>.</signed>
       </closer>
     </body>
   </text>

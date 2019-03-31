@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Шая Ицковича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Шая Ицкович">Шая Ицковича</persName> (перевод)</title>
         <author>
-          <persName>Шая Ицкович</persName>
+          <persName ref="/ref#Шая Ицкович">Шая Ицкович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p120-1" n="120-1" facs="../facsimiles/120-1.jpg"/>
       <opener>
         <note>№14</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side"><subst>
+        <note place="right-side"><ref target="../documents/119.html">перевод</ref></note>
+        <note type="page" place="right-side"><subst>
             <del type="overstrike">119.</del>
             <add>120</add>
           </subst></note>

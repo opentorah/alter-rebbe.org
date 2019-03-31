@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Переца Хаймовича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Перец Хаймович">Переца Хаймовича</persName> (перевод)</title>
         <author>
-          <persName>Перец Хаймович</persName>
+          <persName ref="/ref#Перец Хаймович">Перец Хаймович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p115-1" n="115-1" facs="../facsimiles/115-1.jpg"/>
       <opener>
         <note>№12</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">115</note>
+        <note place="right-side"><ref target="../documents/116.html">перевод</ref></note>
+        <note type="page" place="right-side">115</note>
       </opener>
       <div>
         <head>Допрос жида Переца Хаймовича</head>

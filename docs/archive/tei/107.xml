@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос Браславского жида Рафаила Шлиемовича</title>
+        <title type="main">Допрос Браславского жида <persName ref="/ref#Рафаил Шлїомович">Рафаила Шлиемовича</persName> (перевод)</title>
         <author>
-          <persName>Рафаил Шлиомович</persName>
+          <persName ref="/ref#Рафаил Шлїомович">Рафаил Шлиомович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p107-1" n="107-1" facs="../facsimiles/107-1.jpg"/>
       <opener>
         <note>№8</note>
-        <note>перевод</note>
-        <note type="page" rend="right-side">107.</note>
+        <note><ref target="../documents/108.html">перевод</ref></note>
+        <note type="page" place="right-side">107.</note>
       </opener>
       <div>
         <head>Допрос Браславского жида Рафаила Шлиемовича</head>

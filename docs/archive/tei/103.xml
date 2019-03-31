@@ -4,9 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Зелмана Янкелевича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Зелман Янкелевич">Зелмана Янкелевича</persName>
+          (перевод)</title>
         <author>
-          <persName>Зелман Янкелевич</persName>
+          <persName ref="/ref#Зелман Янкелевич">Зелман Янкелевич</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -19,9 +20,8 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0
+                International License </ref>
             </ab>
           </licence>
         </availability>
@@ -46,18 +46,20 @@
       <pb xml:id="p103-1" n="103-1" facs="../facsimiles/103-1.jpg"/>
       <opener>
         <note>№6</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">103</note>
+        <note place="right-side"><ref target="../documents/104.html">перевод</ref></note>
+        <note type="page" place="right-side">103</note>
       </opener>
       <div>
-        <head>Допрос жида Зелмана Янкелевича</head>
-      <p>Я, Зелман Янкелевич от роду имею 30 лет, управляюсь мещанским промыслом, родллся  в местечке Оникштах, в Вильне
-        проживаю более 20 лет, женат, имею детей, сыновей Гиршу и Хайку; третий год, как вступил в Каролинскую секту, и
-        тогда был я в Лозне у рабина, также и в Ляховиче у тамошнего рабина; туда ездил я по комерции; в прочем ничего
-        не знаю.</p>
+        <head>Допрос жида <persName ref="/ref#Зелман Янкелевич">Зелмана Янкелевича</persName></head>
+        <p>Я, <persName ref="/ref#Зелман Янкелевич">Зелман Янкелевич</persName> от роду имею 30 лет, управляюсь
+          мещанским промыслом, родллся в местечке <placeName>Оникштах</placeName>, в <placeName ref="/ref#wilno"
+            >Вильне</placeName> проживаю более 20 лет, женат, имею детей, сыновей <persName>Гиршу</persName> и
+            <persName>Хайку</persName>; третий год, как вступил в Каролинскую секту, и тогда был я в <placeName
+            ref="/ref#lozna">Лозне</placeName> у рабина, также и в <placeName ref="/ref#Ляховицы">Ляховиче</placeName> у
+          тамошнего рабина; туда ездил я по комерции; в прочем ничего не знаю.</p>
       </div>
       <closer>
-      <signed>Подписал Зелман Янкелевич.</signed>
+        <signed>Подписал <persName ref="/ref#Зелман Янкелевич">Зелман Янкелевич</persName>.</signed>
       </closer>
     </body>
   </text>

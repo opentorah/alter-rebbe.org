@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Гирши Иоселиовича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Гирша Јосіеліович">Гирши Иоселиовича</persName> (перевод)</title>
         <author>
-          <persName>Гирша Иоселиович</persName>
+          <persName ref="/ref#Гирша Јосіеліович">Гирша Иоселиович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p133-1" n="133-1" facs="../facsimiles/133-1.jpg"/>
       <opener>
         <note>№21</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">133.</note>
+        <note place="right-side"><ref target="../documents/134.html">перевод</ref></note>
+        <note type="page" place="right-side">133.</note>
       </opener>
       <div>
         <head>Допрос жида Гирши Иоселиовича</head>

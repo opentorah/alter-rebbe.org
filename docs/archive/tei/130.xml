@@ -4,10 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="/ref#Хлїовна Зорухович">Хлиовна Зорухович</persName>
         </author>
+        <editor role="fragment-transcriber"><persName>Mendel Feller</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -37,11 +37,13 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <abstract><p>Допрос жида <persName ref="/ref#Хлїовна Зорухович">Хлиовна Зоруховича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl">
     <body>
       <pb xml:id="p130-1" n="130-1" facs="../facsimiles/130-1.jpg"/>
+      <p xml:lang="he">נאום צפורית במה"ר זרח זקס‎</p>
     </body>
   </text>
 </TEI>

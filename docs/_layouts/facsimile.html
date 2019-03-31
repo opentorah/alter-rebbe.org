@@ -2,8 +2,15 @@
 layout: default
 ---
 
-<div id="resizable">
-  <div class="facsimileImages">
-    {{ content }}
+<div class="facsimileViewer">
+  <div>
+      {%- for image in page.images -%}
+      <a class='facsimile' target='documentViewer' href='./{{ page.self }}.html#p{{ image }}'>
+        <figure>
+          <img id="p{{ image }}" src="../facsimiles/{{ image }}.jpg" alt="facsimile for page {{ image }}">
+          <figcaption>{{ image }}</figcaption>
+        </figure>
+      </a>
+      {%- endfor -%}
   </div>
 </div>

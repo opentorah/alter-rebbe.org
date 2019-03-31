@@ -4,9 +4,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида Ицка Сайовича</title>
+        <title type="main">Допрос жида <persName ref="/ref#Ицко Сайович">Ицка Сайовича</persName> (перевод)</title>
         <author>
-          <persName>Ицко Сайович</persName>
+          <persName ref="/ref#Ицко Сайович">Ицко Сайович</persName>
         </author>
         <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -46,8 +46,8 @@
       <pb xml:id="p117-1" n="117-1" facs="../facsimiles/117-1.jpg"/>
       <opener>
         <note>№13</note>
-        <note rend="right-side">перевод</note>
-        <note type="page" rend="right-side">117</note>
+        <note place="right-side"><ref target="../documents/118.html">перевод</ref></note>
+        <note type="page" place="right-side">117</note>
       </opener>
       <div>
         <head>Допрос жида Ицка Сайовича</head>

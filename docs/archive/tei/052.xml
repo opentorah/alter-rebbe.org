@@ -6,7 +6,7 @@
       <titleStmt>
         <title type="main">Реестръ подлинныхъ допросовъ съ переводами, и разныхъ бумагъ по дѣлу каролинской секты при семъ подъ №ми представляемыхъ</title>
         <author>
-          <persName>Булгаков</persName>
+          <persName ref="/ref#Булгаков">Булгаков</persName>
         </author>
         <editor role="transcriber"><persName>Арье-Лейб Дубинский</persName></editor>
         <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
@@ -49,14 +49,15 @@
       <pb xml:id="p052-1" n="052-1" facs="../facsimiles/052-1.jpg"/>
       <opener>
         <note>№Д</note>
-        <note type="page" rend="right-side">52.</note>
+        <note type="page" place="right-side">52.</note>
       </opener>
       <div>
-        <head>Реестръ подлинныхъ допросовъ съ переводами, и разныхъ бумагъ по дѣлу каролинской секты при семъ подъ №ми представляемыхъ</head>
+        <head>Реестръ подлинныхъ допросовъ съ переводами, и разныхъ бумагъ по дѣлу каролинской секты при семъ подъ №ми
+          представляемыхъ</head>
         <list>
           <head>Допросы Евреевъ</head>
           <item>1. <ref target="../documents/090.html">Меіера Рафаловича</ref></item>
-          <item>2 <ref target="../documents/093.html">Нохима ицковича</ref></item>
+          <item>2 <ref target="../documents/093.html">Нохима Ицковича</ref></item>
           <item>3 <ref target="../documents/097.html">Лейбы Зеликовича</ref></item>
           <item>4 <ref target="../documents/099.html">Арона Берковича</ref></item>
           <item>5 <ref target="../documents/101.html">Лейбы Меіеровича</ref></item>

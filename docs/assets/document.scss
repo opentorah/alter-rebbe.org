@@ -18,11 +18,11 @@ tei-unclear {
 
 /* page break: thumbnail with caption that links to the facsimile viewer. */
 
-.-tei-pb figure {
+.facsimileThumbnail figure {
   float: right;
   margin-left: 1em;
 }
 
-.-tei-pb img {
+.facsimileThumbnail img {
   height: 60px;
 }
