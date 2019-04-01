@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="{{ "/assets/document.css" | relative_url }}">
   {%- elsif page.layout == 'facsimile' -%}
   <link rel="stylesheet" href="{{ "/assets/facsimile.css" | relative_url }}">
+  {%- elsif page.layout == 'names' -%}
+  <link rel="stylesheet" href="{{ "/assets/names.css" | relative_url }}">
   {%- else -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- endif -%}

@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName ref="/ref#Карнеевъ">Карнеевъ</persName>
+          <persName ref="#Карнеевъ">Карнеевъ</persName>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -59,11 +59,11 @@
 
       <closer>
         <salute>Съ совершеннымъ высокочтенiемъ и проч...</salute>
-        <signed><persName ref="/ref#Карнеевъ">Захаръ Карнеевъ</persName>.</signed>
+        <signed><persName ref="#Карнеевъ">Захаръ Карнеевъ</persName>.</signed>
         <num>No 2922</num>
         <dateline>
           <date calendar="#julian" when="1800-10-15">Октября 15 дня 1800</date>
-          <placeName type="city" ref="/ref#Минскъ">г. Минскъ</placeName>.
+          <placeName type="city" ref="#Минскъ">г. Минскъ</placeName>.
         </dateline>
       </closer>
     </body>

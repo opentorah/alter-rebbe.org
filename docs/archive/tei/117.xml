@@ -4,12 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида <persName ref="/ref#Ицко Сайович">Ицка Сайовича</persName> (перевод)</title>
+        <title type="main">Допрос жида <persName ref="#Ицко_Саіович">Ицка Сайовича</persName> (перевод)</title>
         <author>
-          <persName ref="/ref#Ицко Сайович">Ицко Сайович</persName>
+          <persName ref="#Ицко_Саіович">Ицко Сайович</persName>
         </author>
-        <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
-        <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="#IA">Ифрах Абрамов</persName></editor>
+        <editor role="encoder"><persName ref="#ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -53,7 +53,7 @@
         <head>Допрос жида Ицка Сайовича</head>
       <p>Я Ицко Сайович от роду имею 19 лет, торгую напитками, родился в местечке Оникштах, в Вильне живу шестой год,
       женат, имею сына Сайя; третий год, как вступил в Каролинскую секту и сие учинил потому, что понравился мне образ
-        моления; касательно евреия Орлина, согласен во всем с Вулфом Шемелиовичем; о прочем же ничего не знаю.</p>
+        моления; касательно евреия <persName ref="#Орлин">Орлина</persName>, согласен во всем с Вулфом Шемелиовичем; о прочем же ничего не знаю.</p>
       </div>
       <closer>
       <signed>Подписал Ицко Сайович.</signed>

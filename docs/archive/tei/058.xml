@@ -6,10 +6,10 @@
       <titleStmt>
         <!-- TODO must have title? -->
         <author>
-          <persName ref="/ref#Булгаков">Булгаков</persName>
+          <persName ref="#Булгаков">Булгаков</persName>
         </author>
-        <editor role="transcriber"><persName>Арье-Лейб Дубинский</persName></editor>
-        <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="#ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="encoder"><persName ref="#ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -50,11 +50,11 @@
         <note>№2821</note>
         <note>13го Ноября 1798го</note>
         <note>секретно</note>
-        <salute>Милостивой Государь <persName ref="/ref#Лопухин">Петръ Васильевичъ</persName>!</salute>
+        <salute>Милостивой Государь <persName ref="#Лопухин">Петръ Васильевичъ</persName>!</salute>
       </opener>
       <div>
         <p>Присланное при всепочтеннейшимъ отношении отъ <date when="1798-10-18">18 Октября</date> показание <placeName
-            ref="/ref#lozna">Лозенского</placeName> рабина <persName ref="/ref#alter-rebbe">Боруховича</persName>
+            ref="#Лозна">Лозенского</placeName> рабина <persName ref="#alter-rebbe">Боруховича</persName>
           переведено на французский языкъ. Съ нуждою я въ томъ предуспеть мочъ, темъ паче, что писано оно не на простомъ
           ныне жидами употребляемомъ, но на ученомъ Еврейскомъ языке, которого знающихъ и здесь очень мало, а таких, кои
           могли бы переводить на россiйской, и совсем нетъ. При семъ возвращая подлинное Еврейское показание,
@@ -65,13 +65,13 @@
       </div>
       <closer>
         <salute>вашего высокопревосходительства всепокорнейший слуга</salute>
-        <signed><persName ref="/ref#Булгаков">Яковъ Булгаковъ</persName></signed>
+        <signed><persName ref="#Булгаков">Яковъ Булгаковъ</persName></signed>
         <note>№200</note>
         <dateline>
           <date when="1798-11-01">1 Ноября 1798</date>
-          <placeName ref="/ref#wilno">вилна</placeName>
+          <placeName ref="#Вильно">вилна</placeName>
         </dateline>
-        <salute>Его высокопревосходительству Г. Генералу Прокурору <persName ref="/ref#Лопухин" role="addressee"
+        <salute>Его высокопревосходительству Г. Генералу Прокурору <persName ref="#Лопухин" role="addressee"
             >Лопухину</persName></salute>
       </closer>
     </body>

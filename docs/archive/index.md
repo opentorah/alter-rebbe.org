@@ -85,7 +85,7 @@ layout: collection
 | Допрос жида Ицка Сайовича (перевод) |  | Ицко Сайович |  | ru | [117](documents/117.html) | <a class="page" href="documents/117.html#p117-1">117</a> | Ифрах Абрамов |
 | Допрос жидаИцка Сайовича |  | Ицко Сайович |  | pl | [118](documents/118.html) | <a class="page" href="documents/118.html#p118-1">118</a> |  |
 | Допрос жидаШая Ицковича |  | Шая Ицкович |  | pl | [119](documents/119.html) | <a class="page" href="documents/119.html#p119-1">119</a> |  |
-| Допрос жида Шая Ицковича (перевод) |  | Шая Ицкович |  | ru | [120](documents/120.html) | <a class="page" href="documents/120.html#p120-1">120</a> | Ифрах Абрамов |
+| Допрос жида Шая Ицковича (перевод) |  | Шая_Ицкович |  | ru | [120](documents/120.html) | <a class="page" href="documents/120.html#p120-1">120</a> | Ифрах Абрамов |
 | Допрос жида Лейзера Нотолевича (перевод) |  | Лейзер Нотолевич |  | ru | [121](documents/121.html) | <a class="page" href="documents/121.html#p121-1">121</a> | Ифрах Абрамов |
 | Допрос жидаЛейзера Нотолевича |  | Лейзер Нотолевич |  | pl | [122](documents/122.html) | <a class="page" href="documents/122.html#p122-1">122</a> |  |
 | Допрос жида Боруха Мордуховича (перевод) |  | Борух Мордухович |  | ru | [123](documents/123.html) | <a class="page" href="documents/123.html#p123-1">123</a> | Ифрах Абрамов |

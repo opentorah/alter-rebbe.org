@@ -4,12 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида <persName ref="/ref#Хлїовна Зорухович">Хлиовна Зоруховича</persName> (перевод)</title>
+        <title type="main">Допрос жида <persName ref="#Хлїовна_Зорухович">Хлиовна Зоруховича</persName> (перевод)</title>
         <author>
-          <persName ref="/ref#Хлїовна Зорухович">Хлиовна Зорухович</persName>
+          <persName ref="#Хлїовна_Зорухович">Хлиовна Зорухович</persName>
         </author>
-        <editor role="transcriber"><persName>Ифрах Абрамов</persName></editor>
-        <editor role="encoder"><persName>Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="#IA">Ифрах Абрамов</persName></editor>
+        <editor role="encoder"><persName ref="#ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>

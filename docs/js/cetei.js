@@ -151,15 +151,7 @@ class CETEI {
             perElementFn(newElement);
           }
 
-          // TODO(dubinsky) I am not sure this is the best way/place to do this;
-          // see https://github.com/TEIC/CETEIcean/issues/20:
-          if (newElement.hasAttribute("ref")) {
-            let link = document.createElement("a");
-            link.setAttribute("href", this.rw(newElement.getAttribute("ref")));
-            link.appendChild(newElement);
-            return link;
-          } else
-            return newElement;
+          return newElement;
       }
 
       this.dom = convertEl(XML_dom.documentElement);

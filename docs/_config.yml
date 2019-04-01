@@ -42,6 +42,8 @@ defaults:
 
 header_pages:
   - archive/index.md
-  - ref.md
+  - names.html
   - dubnov/index.md
   - README.md
+
+references: 'names'

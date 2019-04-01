@@ -5,45 +5,35 @@ $content-width:    1800px;
 
 @import "minima";
 
-#documents-table {
-  border: 1px solid black;
-  margin-bottom: 20px;
-  text-align: left;
-}
-
+/* Keep header visible */
 th {
-  padding: 10px;
-  background: #e6e4da;
-  color: black;
-
-  /* Keep header visible */
   position: -webkit-sticky;
-  position: -moz-sticky;
-  position: -ms-sticky;
-  position: -o-sticky;
   position: sticky;
   top: 0;
 }
 
-td {
-  padding: 10px;
-  border: 1px solid black;
-}
+/* Size the columns */
+th:nth-child(1) { width: 45%; } // description
+th:nth-child(2) { width:  7%; } // date
+th:nth-child(3) { width: 10%; } // author
+th:nth-child(4) { width: 10%; } // addressee
+th:nth-child(5) { width:  4%; } // language
+th:nth-child(6) { width:  5%; } // document
+th:nth-child(7) { width:  8%; } // pages
+//th:nth-child(8) { width:  5%; } // transcriber
 
-th:nth-child(1) { width: 45%;   } // description
-th:nth-child(2) { width: 140px; } // date
-th:nth-child(3) { width: 160px; } // author
-th:nth-child(4) { width: 50px;  } // language
-th:nth-child(5) { width: 80px;  } // document
-th:nth-child(6) { width: 15%;   } // pages
-th:nth-child(7) { width: 30px;  } // transcriber
-
-a.missing-page {
-  color: red;
-}
-
+/* Part title */
 .part-title {
   font-weight: 700;
   font-size: 32px;
   color: #1614ff;
+}
+
+/* Missing page links */
+a.missing-page {
+  color: red;
+}
+
+table a {
+  target: "documentViewer";
 }

@@ -1,0 +1,37 @@
+---
+---
+
+@import "cetei";
+
+tei-TEI tei-head {
+  padding-top: 1em;
+  font-size: 32px;
+}
+
+tei-person {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-place {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-org {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+tei-persName {
+  font-size: 24px;
+}
+tei-placeName {
+  font-size: 24px;
+}
+tei-orgName {
+  font-size: 24px;
+}

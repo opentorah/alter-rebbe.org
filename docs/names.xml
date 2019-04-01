@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <publicationStmt>
+                <publisher>
+                    <ptr target="www.alter-rebbe.org"/>
+                </publisher>
+                <availability status="free">
+                    <licence>
+                        <ab>
+                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons
+                                Attribution 4.0 International License </ref>
+                        </ab>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Facsimile</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian calendar</p>
+                </calendar>
+            </calendarDesc>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="ru">
+        <body>
+            <!-- TODO lists can be in the text, not only inthe header; but is there a reason to move them? -->
+            <listPerson>
+                <head>Жиды (они же Евреи)</head>
+
+                <person xml:id="Меіер_Рафалович">
+                    <persName>Меіер Рафалович</persName>
+                    <persName>(Меер Рафалович)</persName>
+                    <p>раввин и начальник Каролинской секты из Вильно</p>
+                </person>
+                <person xml:id="Меіер_Рафалович-Шломо">
+                    <persName>Шломо</persName>
+                    <p>сын Меера Рафаловича</p>
+                </person>
+                <person xml:id="Меіер_Рафалович-Янкель">
+                    <persName>Янкель</persName>
+                    <p>сын Меера Рафаловича</p>
+                </person>
+                <person xml:id="Арон">
+                    <persName>Арон</persName>
+                    <p>упомянут в допросе Меера Рафаловича</p>
+                    <p>Арон упомянут дважды, предположительно - один и тот же.</p>
+                    <p>Карлинский?</p>
+                </person>
+                <person xml:id="Соломон">
+                    <persName>Соломон</persName>
+                    <p>упомянут в допросе Меера Рафаловича</p>
+                    <p>Карлинский?</p>
+                </person>
+                <person xml:id="Нохим_Ицкович">
+                    <persName>Нохим Ицкович</persName>
+                    <p>Состоит в родстве с Рафаловичем.</p>
+                </person>
+                <person xml:id="Нохим_Ицкович-Рыбка">
+                    <persName>Рыбка</persName>
+                    <persName>(видимо, Ривка)</persName>
+                    <p>дочь Нохима Ицковича</p>
+                </person>
+                <person xml:id="Лейба_Зеликович">
+                    <persName>Лейба Зеликович</persName>
+                    <persName>(Лейб Зеликович)</persName>
+                </person>
+                <person xml:id="Лейба_Зеликович-Хая">
+                    <persName>Хая</persName>
+                    <p>дочь Лейбы Зеликовича</p>
+                </person>
+
+                <person xml:id="Лейба_Зеликович-Дина">
+                    <persName>Дина</persName>
+                    <p>дочь Лейбы Зеликовича</p>
+                </person>
+
+                <person xml:id="Арон_Беркович">
+                    <persName>Арон Беркович</persName>
+                </person>
+                <person xml:id="Арон_Беркович-Гирша">
+                    <persName>Гирша</persName>
+                    <p>сын Арона Берковича</p>
+                </person>
+                <person xml:id="Арон_Беркович-Мойжес">
+                    <persName>Мойжес</persName>
+                    <p>сын Арона Берковича</p>
+                </person>
+                <person xml:id="Арон_Беркович-Шифра">
+                    <persName>Шифра</persName>
+                    <p>дочь Арона Берковича</p>
+                </person>
+                <person xml:id="Лейба_Меіерович">
+                    <persName>Лейба Меіерович</persName>
+                </person>
+                <person xml:id="Лейба_Меіерович-Сора">
+                    <persName>Сора</persName>
+                    <p>дочь Лейбы Меіеровича</p>
+                </person>
+
+                <person xml:id="Зелман_Янкелевич">
+                    <persName>Зелман Янкелевич</persName>
+                </person>
+                <person xml:id="Зелман_Янкелевич-Гирша">
+                    <persName>Гирша</persName>
+                    <p>сын Зелмана Янкелевича</p>
+                </person>
+                <person xml:id="Зелман_Янкелевич-Хайка">
+                    <persName>Хайка</persName>
+                    <p>сын Зелмана Янкелевича</p>
+                </person>
+                <person xml:id="Вулф_Шимеліович">
+                    <persName>Вулф Шимеліович</persName>
+                </person>
+                <person xml:id="Вулф_Шимеліович-Зисля">
+                    <persName>Зисля</persName>
+                    <p>дочь Вулфа Шимеліовича</p>
+                </person>
+
+                <person xml:id="Рафаил_Шлїомович">
+                    <persName>Рафаил Шлїомович</persName>
+                </person>
+                <person xml:id="Юдель_Еліашевич">
+                    <persName>Юдель Еліашевич</persName>
+                </person>
+                <person xml:id="Михель_Файбишович">
+                    <persName>Михель Файбишович</persName>
+                </person>
+                <person xml:id="Зелман_Леизерович">
+                    <persName>Зелман Леизерович</persName>
+                </person>
+                <person xml:id="Перец_Хаймович">
+                    <persName>Перец Хаймович</persName>
+                </person>
+                <person xml:id="Ицко_Саіович">
+                    <persName>Ицко Саіович</persName>
+                </person>
+                <person xml:id="Шая_Ицкович">
+                    <persName>Шая Ицкович</persName>
+                </person>
+                <person xml:id="Леизер_Нотолевич">
+                    <persName>Леизер Нотолевич</persName>
+                </person>
+                <person xml:id="Борух_Мордухович">
+                    <persName>Борух Мордухович</persName>
+                </person>
+                <person xml:id="Јосель_Мовшович">
+                    <persName>Јосель Мовшович</persName>
+                </person>
+                <person xml:id="Мовша_Јосіеліович">
+                    <persName>Мовша Јосіеліович</persName>
+                </person>
+                <person xml:id="Хлїовна_Зорухович">
+                    <persName>Хлїовна Зорухович</persName>
+                    <p>Подпись: <span xml:lang="he">נאום צפורית במה"ר זרח זקס</span>. Возможно, "Хлёвна" - прозвище по
+                        названию географического пункта? </p>
+                </person>
+                <person xml:id="Зелман_Лейбович">
+                    <persName>Зелман Лейбович</persName>
+                </person>
+                <person xml:id="Гирша_Јосіеліович">
+                    <persName>Гирша Јосіеліович</persName>
+                </person>
+                <person xml:id="Шмуил_Хаимович">
+                    <persName>Шмуил Хаимович</persName>
+                    <persName>(Шмуйл Хайкa)</persName>
+                    <p>Индурский раввин</p>
+                </person>
+                <person xml:id="Мовша_Ицкович">
+                    <persName>Мовша Ицкович</persName>
+                </person>
+                <person xml:id="Мордух">
+                    <persName>Мордух</persName>
+                    <p>Ляховицкий раввин.</p>
+                </person>
+                <person xml:id="Лезер_Хаймович">
+                    <persName>Лезер Хаймович</persName>
+                </person>
+                <person xml:id="Моисей_Ошерович">
+                    <persName>Моисей Ошерович</persName>
+                </person>
+
+                <person xml:id="Шмуйло">
+                    <persName>Шмуйло</persName>
+                </person>
+
+                <person xml:id="Вульф">
+                    <persName>Вульф</persName>
+                </person>
+
+                <person xml:id="Абрамович">
+                    <persName>Абрамович</persName>
+                </person>
+
+                <person xml:id="Саломон">
+                    <persName>Саломон</persName>
+                </person>
+
+                <person xml:id="Рафал">
+                    <persName>Рафал</persName>
+                </person>
+
+                <person xml:id="Зелман">
+                    <persName>Зелман</persName>
+                </person>
+
+                <person xml:id="Шломо_Меиерович">
+                    <persName>Шломо Меиерович</persName>
+                </person>
+
+                <person xml:id="Мовша_Мордохович">
+                    <persName>Мовша Мордохович</persName>
+                </person>
+
+                <person xml:id="Орлин">
+                    <persName>Орлин</persName>
+                </person>
+
+                <person xml:id="Лейба_Юделевич">
+                    <persName>Лейба Юделевич</persName>
+                </person>
+
+                <person xml:id="Ицка">
+                    <persName>Ицка</persName>
+                </person>
+
+                <person xml:id="Зельман">
+                    <persName>Зельман</persName>
+                </person>
+
+                <person xml:id="Гирша_Давыдовичъ">
+                    <persName>Гирша Давыдовичъ</persName>
+                </person>
+
+                <person xml:id="Авигдор">
+                    <persName>Авигдор</persName>
+                </person>
+
+                <person xml:id="alter-rebbe">
+                    <persName>Зелман Борухович</persName>
+                    <persName>(Алтер Ребе)</persName>
+                    <persName>(Соломон Борух?)</persName>
+                    <ref target="https://ru.wikipedia.org/wiki/Алтер_Ребе">[Википедия]</ref>
+                    <p>Лозенский раввин?</p>
+                    <p>see 093...</p>
+                </person>
+                <person xml:id="maggid">
+                    <persName>Магид</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Дов-Бер_из_Межерича">[Википедия]</ref>
+                </person>
+                <person xml:id="Каган">
+                    <persName>Каган</persName>
+                </person>
+            </listPerson>
+
+            <listPerson>
+                <head>Начальство</head>
+                <person xml:id="Александр_I">
+                    <persName>Александр I</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Александр_I">[Википедия]</ref>
+                </person>
+                <person xml:id="Булгаков">
+                    <persName>Булгаков</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Булгаков,_Яков_Иванович">[Википедия]</ref>
+                </person>
+                <person xml:id="Жегулин">
+                    <persName>Жегулин</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Жегулин,_Семён_Семёнович">[Википедия]</ref>
+                    <p>белорусский губернатор</p>
+                </person>
+                <person xml:id="Кутузов">
+                    <persName>Кутузов</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Кутузов,_Михаил_Илларионович">[Википедия]</ref>
+                </person>
+                <person xml:id="Державин">
+                    <persName>Державин</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Державин,_Гавриил_Романович">[Википедия]</ref>
+                </person>
+                <person xml:id="Северинъ">
+                    <persName>Северинъ</persName>
+                </person>
+                <person xml:id="Брискорнъ">
+                    <persName>Брискорнъ</persName>
+                </person>
+                <person xml:id="Карнеевъ">
+                    <persName>Карнеевъ</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Карнеев,_Егор_Васильевич">[Википедия]</ref>
+                </person>
+                <person xml:id="Лопухин">
+                    <persName>Лопухин</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Лопухин,_Пётр_Васильевич">[Википедия]</ref>
+                </person>
+                <person xml:id="Обольяниновъ">
+                    <persName>Обольянинов</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Обольянинов,_Пётр_Хрисанфович">[Википедия]</ref>
+                </person>
+                <person xml:id="Павел_I">
+                    <persName>Павел I</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Павел_I">[Википедия]</ref>
+                </person>
+                <person xml:id="Бенкендорф">
+                    <persName>Бенкендорф</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Бенкендорф,_Христофор_Иванович">[Википедия]</ref>
+                </person>
+                <person xml:id="Беклешов">
+                    <persName>Беклешов</persName>
+                    <ref href="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
+                </person>
+                <person xml:id="Чечерский">
+                    <persName>Чечерский</persName>
+                    <p>Ксёндз</p>
+                </person>
+                <person xml:id="Петров">
+                    <persName>Петров</persName>
+                    <p>Сенатский курьер</p>
+                </person>
+                <person xml:id="Сукин">
+                    <persName>Сукин</persName>
+                    <p>Сенатский курьер</p>
+                </person>
+                <person xml:id="Огинский">
+                    <persName>Огинский</persName>
+                </person>
+                <person xml:id="Козминский">
+                    <persName>Козминский</persName>
+                    <p>секретарь</p>
+                </person>
+            </listPerson>
+
+            <listPlace>
+                <head>Места</head>
+
+                <place xml:id="Украйна">
+                    <placeName>Украйна</placeName>
+                </place>
+                <place xml:id="Словита">
+                    <placeName>Словита</placeName>
+                </place>
+                <place xml:id="Оникшты">
+                    <placeName>Оникшты</placeName>
+                </place>
+                <place xml:id="Дзиенциола">
+                    <placeName>Дзиенциола</placeName>
+                </place>
+                <place xml:id="Гродзен">
+                    <placeName>Гродзен</placeName>
+                </place>
+                <place xml:id="Островна">
+                    <placeName>Островна</placeName>
+                </place>
+
+                <place xml:id="Вильно">
+                    <placeName>Вильно</placeName>
+                    <ref target="https://ru.wikipedia.org/wiki/Вильнюс">[Википедия]</ref>
+                </place>
+                <place xml:id="Лозна">
+                    <placeName>Лозна</placeName>
+                </place>
+                <place xml:id="Витепск">
+                    <placeName>Витепск</placeName>
+                </place>
+                <place xml:id="Каролины">
+                    <placeName>Каролины</placeName>
+                </place>
+                <place xml:id="Владимир">
+                    <placeName>Владимир</placeName>
+                </place>
+                <place xml:id="Индура">
+                    <placeName>Индура</placeName>
+                    <ref href="https://ru.wikipedia.org/wiki/Индура">[Википедия]</ref>
+                </place>
+                <place xml:id="Ляховицы">
+                    <placeName>Ляховицы</placeName>
+                </place>
+                <place xml:id="Гродно">
+                    <placeName>Гродно</placeName>
+                </place>
+                <place xml:id="Чаусы">
+                    <placeName>Чаусы</placeName>
+                </place>
+                <place xml:id="Мезеричи">
+                    <placeName>Мезеричи</placeName>
+                </place>
+                <place xml:id="Нескиза">
+                    <placeName>Нескиза</placeName>
+                </place>
+                <place xml:id="Литва">
+                    <placeName>Литва</placeName>
+                </place>
+                <place xml:id="Белоруссия">
+                    <placeName>Белоруссия</placeName>
+                    <p>Губерния</p>
+                </place>
+                <place xml:id="Могилевская_губерния">
+                    <placeName>Могилевская губерния</placeName>
+                </place>
+                <place xml:id="Минскъ">
+                    <placeName>Минскъ</placeName>
+                </place>
+                <place xml:id="Минская_губерния">
+                    <placeName>Минская губерния</placeName>
+                </place>
+                <place xml:id="Волынская_губерния">
+                    <placeName>Волынская губерния</placeName>
+                </place>
+                <place xml:id="Алексеевский_равелин">
+                    <placeName>Алексеевский равелин</placeName>
+                    <ref href="https://ru.wikipedia.org/wiki/Алексеевский_равелин">[Википедия]</ref>
+                </place>
+                <place xml:id="Петербург">
+                    <placeName>Петербург</placeName>
+                </place>
+                <place xml:id="Петропавловская_крепость">
+                    <placeName>Петропавловская крепость</placeName>
+                    <ref href="https://ru.wikipedia.org/wiki/Петропавловская_крепость">[Википедия]</ref>
+                </place>
+                <place xml:id="Пруссия">
+                    <placeName>Пруссия</placeName>
+                </place>
+                <place xml:id="Гамбург">
+                    <placeName>Гамбург</placeName>
+                </place>
+                <place xml:id="Иерусалим">
+                    <placeName>Иерусалим</placeName>
+                </place>
+            </listPlace>
+
+            <lisrOrg>
+                <head>Организации</head>
+                <org xml:id="Тайная_экспедиция">
+                    <orgName>Тайная экспедиция</orgName>
+                    <ref target="https://ru.wikipedia.org/wiki/Тайная_канцелярия">[Википедия]</ref>
+                </org>
+                <org xml:id="виленский_кагал">
+                    <orgName>Виленский кагал</orgName>
+                </org>
+                <org xml:id="Литовское_губернское_правление">
+                    <orgName>Литовское губернское правление</orgName>
+                </org>
+
+                <org xml:id="губернское_правление">
+                    <orgName>губернское правление</orgName>
+                </org>
+                <org xml:id="Губернатор">
+                    <orgName>Губернатор</orgName>
+                </org>
+            </lisrOrg>
+
+            <listPerson>
+                <head>Расшифровщики</head>
+
+                <person xml:id="IA">
+                    <persName>Ифрах Абрамов</persName>
+                </person>
+                <person xml:id="ALD">
+                    <persName>Арье-Лейб Дубинский</persName>
+                </person>
+                <person xml:id="Дубнов">
+                    <persName>Дубнов</persName>
+                    <ref target="https://ru.wikipedia.org/wiki/Дубнов,_Семён_Маркович">[Википедия]</ref>
+                </person>
+                <person xml:id="MF">
+                    <persName>Мендел Феллер</persName>
+                </person>
+                <person xml:id="BG">
+                    <persName>Борух Горкин</persName>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
