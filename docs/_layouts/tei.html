@@ -6,12 +6,12 @@ layout: page
 </div>
 <script type="module" src="/js/cetei.js"></script>
 <script type="module">
-    var CETEIcean = new CETEI();
+    let refBehavior = [["[ref]", ["<a href='/names$@ref'>","</a>"]]];
+
+    let CETEIcean = new CETEI();
 
     CETEIcean.addBehaviors({"tei": {
-            "persName" : [["[ref]", ["<a href='/{{ site.references }}$@ref'>","</a>"]]],
-            "placeName": [["[ref]", ["<a href='/{{ site.references }}$@ref'>","</a>"]]],
-            "orgName"  : [["[ref]", ["<a href='/{{ site.references }}$@ref'>","</a>"]]],
+            {%- if page.self -%}
             "pb": [["[facs][n]", [
                 "<a class='facsimileThumbnail' target='facsimileViewer' href='{{ page.self }}-facs.html#p$@n'>" +
                 "  <figure>" +
@@ -19,7 +19,12 @@ layout: page
                 "    <figcaption>$@n</figcaption>" +
                 "  </figure>" +
                 "</a>"
-            ]]]
+            ]]],
+            {%- endif -%}
+
+            "persName" : refBehavior,
+            "placeName": refBehavior,
+            "orgName"  : refBehavior
         }
     });
 
