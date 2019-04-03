@@ -670,7 +670,8 @@ class CETEI {
         }
       } else {
         setTimeout(function() {
-          document.querySelector(window.location.hash).scrollIntoView();
+            // LMD added decodeURI() to handle Unicode ids:
+            document.querySelector(window.decodeURI(window.location.hash)).scrollIntoView();
         }, 100);
       }
     }

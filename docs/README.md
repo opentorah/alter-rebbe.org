@@ -33,7 +33,7 @@ them - as it should have been from the beginning :)
 
 Code used for the move and site generation is in Scala. 
 
-## TEI Boilerplate ##
+## TEI Boilerplate and CETEIcean ##
 
 To display TEI documents in the browser, together with the original facsimiles,
 [TEI Boilerplate](http://dcl.ils.indiana.edu/teibp/) was used. Its help was invaluable.

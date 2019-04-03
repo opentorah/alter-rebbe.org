@@ -24,13 +24,13 @@ github_username:  dubinsky
 theme: minima
 markdown: kramdown
 
-include:
-  - README.md
-
 exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+
+include:
+  - README.md
 
 defaults:
   -
@@ -41,7 +41,7 @@ defaults:
       title: "README"
 
 header_pages:
-  - archive/index.md
+  - archive/index.html
   - names.html
-  - dubnov/index.md
+  - dubnov/index.html
   - README.md

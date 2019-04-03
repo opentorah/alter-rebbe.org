@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons
+                    Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rendition="collection-index">
+        <row>
+          <cell>Описание</cell>
+          <cell>Дата</cell>
+          <cell>Кто</cell>
+          <cell>Кому</cell>
+          <cell>Язык</cell>
+          <cell>Документ</cell>
+          <cell>Страницы</cell>
+          <cell>Расшифровка</cell>
+        </row>
+        <row>
+          <cell cols="8">
+            <span rendition="part-title">Матерiалы, документы и сообщения.</span>
+          </cell>
+        </row>
+        <row>
+          <cell>Вмешательство русскаго правительства въ антихасидскую борьбу (1800—1801).</cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Дубнов" xmlns="http://www.tei-c.org/ns/1.0">Дубнов</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/084.html">084</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/084.html#p084">084</ref>
+            <ref rendition="page" target="documents/084.html#p085">085</ref>
+            <ref rendition="page" target="documents/084.html#p086">086</ref>
+            <ref rendition="page" target="documents/084.html#p087">087</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">Список документов</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Дубнов" xmlns="http://www.tei-c.org/ns/1.0">Дубнов</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/088.html">088</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/088.html#p088">088</ref>
+            <ref rendition="page" target="documents/088.html#p089">089</ref>
+            <ref rendition="page" target="documents/088.html#p090">090</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 1. Препроводительное письмо къ прошенiю раввина Авигдора Хаимовича</p>
+          </cell>
+          <cell>1800-04-23</cell>
+          <cell>
+            <persName ref="#Брискорнъ" xmlns="http://www.tei-c.org/ns/1.0">Брискорнъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/090-1.html">090-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/090-1.html#p090">090</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 2. Прошенiе р. Авигдора Хаимовича на Высочайшее имя</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Авигдор" xmlns="http://www.tei-c.org/ns/1.0">Авигдор</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/090-2.html">090-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/090-2.html#p090">090</ref>
+            <ref rendition="page" target="documents/090-2.html#p091">091</ref>
+            <ref rendition="page" target="documents/090-2.html#p092">092</ref>
+            <ref rendition="page" target="documents/090-2.html#p093">093</ref>
+            <ref rendition="page" target="documents/090-2.html#p094">094</ref>
+            <ref rendition="page" target="documents/090-2.html#p095">095</ref>
+            <ref rendition="page" target="documents/090-2.html#p096">096</ref>
+            <ref rendition="page" target="documents/090-2.html#p097">097</ref>
+            <ref rendition="page" target="documents/090-2.html#p098">098</ref>
+            <ref rendition="page" target="documents/090-2.html#p099">099</ref>
+            <ref rendition="page" target="documents/090-2.html#p100">100</ref>
+            <ref rendition="page" target="documents/090-2.html#p101">101</ref>
+            <ref rendition="page" target="documents/090-2.html#p102">102</ref>
+            <ref rendition="page" target="documents/090-2.html#p103">103</ref>
+            <ref rendition="page" target="documents/090-2.html#p104">104</ref>
+            <ref rendition="page" target="documents/090-2.html#p105">105</ref>
+            <ref rendition="page" target="documents/090-2.html#p106">106</ref>
+            <ref rendition="page" target="documents/090-2.html#p107">107</ref>
+            <ref rendition="page" target="documents/090-2.html#p108">108</ref>
+            <ref rendition="page" target="documents/090-2.html#p109">109</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell cols="8">
+            <span rendition="part-title">Окончанie</span>
+          </cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 3. Запросъ генералъ-прокурора П. X. Обольянинова Литовскому военному губернатору о сектѣ „Шабзусъ-Цвинкусъ&quot;
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/253-1.html">253-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/253-1.html#p253">253</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 4. Литовскому прокурору ордеръ о разслѣдованiи дѣла</p>
+          </cell>
+          <cell>1800-06-07</cell>
+          <cell>
+            <persName ref="#Обольяниновъ" xmlns="http://www.tei-c.org/ns/1.0">Обольяниновъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/253-2.html">253-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/253-2.html#p253">253</ref>
+            <ref rendition="page" target="documents/253-2.html#p254">254</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 5. Сообщение о препровожденiи жалобы Авигдора къ Литовскому губернатору</p>
+          </cell>
+          <cell>1800-06-07</cell>
+          <cell>
+            <persName ref="#Обольяниновъ" xmlns="http://www.tei-c.org/ns/1.0">Обольяниновъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/254-1.html">254-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/254-1.html#p254">254</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 6. Ответъ Литовскаго прокурора, что въ Литовской губернии о сектѣ неизвѣстно
+            </p>
+          </cell>
+          <cell>1800-06-21</cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/254-2.html">254-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/254-2.html#p254">254</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 7. Извѣщенiе Литовскаго губернатора о пересылкѣ жалобы Авигдора въ Минскъ</p>
+          </cell>
+          <cell>1800-06-19</cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/255-1.html">255-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/255-1.html#p255">255</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 8. Отношенiе 06ольянинова къ Литовскому губернатору о необходимости отыскать старое дѣло о сектантахъ въ Вильне
+            </p>
+          </cell>
+          <cell>1800-07-09</cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/255-2.html">255-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/255-2.html#p255">255</ref>
+            <ref rendition="page" target="documents/255-2.html#p256">256</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 9. Сообщенiе Литовскаго губернатора Обольянинову о свѣдѣніяхъ отъ Минскаго губернатора, что секта „Шабсусъ-Цвинкусъ&quot; или Китаевая ведетъ себя въ губернiи спокойно
+            </p>
+          </cell>
+          <cell>1800-07-12</cell>
+          <cell>
+            <persName ref="#Кутузов" xmlns="http://www.tei-c.org/ns/1.0">Голенищевъ Кутузовъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/256.html">256</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/256.html#p256">256</ref>
+            <ref rendition="page" target="documents/256.html#p257">257</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 10. Донесенiе Литовского губернатора Кутузова генералъ-прокурору Обольянинову о существованiи секты „Каролиновъ&quot; (Хасидовъ), которая подвергалась гоненiямъ но признана правительствомъ безвредною
+            </p>
+          </cell>
+          <cell>1800-07-30</cell>
+          <cell>
+            <persName ref="#Кутузов" xmlns="http://www.tei-c.org/ns/1.0">Голенищевъ Кутузовъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/257.html">257</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/257.html#p257">257</ref>
+            <ref rendition="page" target="documents/257.html#p258">258</ref>
+            <ref rendition="page" target="documents/257.html#p259">259</ref>
+            <ref rendition="page" target="documents/257.html#p260">260</ref>
+            <ref rendition="page" target="documents/257.html#p261">261</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 11. Объявленiе Авигдору о справкахъ по его денежнымъ претензіямъ</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/261.html">261</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/261.html#p261">261</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              <num>No 11-а</num>
+              . Извещенiе о томъ же и справка Подольскаго губернатора
+            </p>
+          </cell>
+          <cell>1800-10-07</cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/262-1.html">262-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/262-1.html#p262">262</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              <num>No 12</num>
+              . Отзывъ Литовскаго губернатора о претензiи Авигдора
+            </p>
+          </cell>
+          <cell>1800-11-12</cell>
+          <cell>
+            <persName ref="#Кутузов" xmlns="http://www.tei-c.org/ns/1.0">Голенищевъ-Кутузовъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/262-2.html">262-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/262-2.html#p262">262</ref>
+            <ref rendition="page" target="documents/262-2.html#p263">263</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              <num>No 13</num>
+              . Отзывъ Минскаго губернатора о претензіяхъ Авигдора
+            </p>
+          </cell>
+          <cell>1800-10-15</cell>
+          <cell>
+            <persName ref="#Карнеевъ" xmlns="http://www.tei-c.org/ns/1.0">Карнеевъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/263-1.html">263-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/263-1.html#p263">263</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              <num>No 14</num>
+              . Сообщение Бѣлорусскаго губернатора генералъ-прокурору объ отправке хасидскаго „начальника”
+              <persName ref="#alter-rebbe">Боруховича</persName>
+              въ
+              <placeName ref="#Петербург">Петербургъ</placeName>
+            </p>
+          </cell>
+          <cell>1800-11-13</cell>
+          <cell>
+            <persName ref="#Северинъ" xmlns="http://www.tei-c.org/ns/1.0">Северинъ</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/263-2.html">263-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/263-2.html#p263">263</ref>
+            <ref rendition="page" target="documents/263-2.html#p264">264</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 15. Вопросные пункты Авигдора Хаимовича и отвѣты Залмана Боруховича</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Авигдор" xmlns="http://www.tei-c.org/ns/1.0">Авигдор</persName>
+            /
+            <persName ref="#alter-rebbe" xmlns="http://www.tei-c.org/ns/1.0">Алтер Ребе</persName>
+          </cell>
+          <cell></cell>
+          <cell>he</cell>
+          <cell>
+            <ref target="documents/264.html">264</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/264.html#p264">264</ref>
+            <ref rendition="page" target="documents/264.html#p265">265</ref>
+            <ref rendition="page" target="documents/264.html#p266">266</ref>
+            <ref rendition="page" target="documents/264.html#p267">267</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 16. Высоч. повелѣнiе о передачѣ дѣла Авигдора-Залмана въ Сенатъ</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/268-1.html">268-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/268-1.html#p268">268</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 17. Назначенiе дѣла къ слушанию въ 3 департаментѣ Сената</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/268-2.html">268-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/268-2.html#p268">268</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 18. Препровожденie въ 3-й департаментъ Сената книгъ и бумагъ, отобранныхъ при арестѣ Залмана
+            </p>
+          </cell>
+          <cell>1800-12-22</cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/268-3.html">268-3</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/268-3.html#p268">268</ref>
+            <ref rendition="page" target="documents/268-3.html#p269">269</ref>
+            <ref rendition="page" target="documents/268-3.html#p270">270</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 19. Реестрѣ бумагъ и книгъ Залмана Боруховича</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/269.html">269</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/269.html#p269">269</ref>
+            <ref rendition="page" target="documents/269.html#p270">270</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 20. Дополнительное прошенiе Авигдора на имя генералъ-прокурора съ доносомъ на Хасидов
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Авигдор" xmlns="http://www.tei-c.org/ns/1.0">Авигдор</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/271.html">271</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/271.html#p271">271</ref>
+            <ref rendition="page" target="documents/271.html#p272">272</ref>
+            <ref rendition="page" target="documents/271.html#p273">273</ref>
+            <ref rendition="page" target="documents/271.html#p274">274</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 21. Прошение Залмана на высоч. имя объ ускоренiи его дела, съ приложенiемъ документовъ доказывающихъ безвредность хасидской секты
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#alter-rebbe" xmlns="http://www.tei-c.org/ns/1.0">Алтер Ребе</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/272.html">272</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/272.html#p272">272</ref>
+            <ref rendition="page" target="documents/272.html#p273">273</ref>
+            <ref rendition="page" target="documents/272.html#p274">274</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">No 22. Приобщенiе Сенатомъ къ дѣлу предыдущихъ документовъ</p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/274.html">274</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/274.html#p274">274</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 23. Извѣщенiе, что Залманъ по выс. повеленiю освобожденъ и отпущенъ изъ Петербурга (29 марта 1801 г.)
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Авигдор" xmlns="http://www.tei-c.org/ns/1.0">Авигдор</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/275-1.html">275-1</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/275-1.html#p275">275</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 24. Прошенiе Авигдора на имя Сената съ жалобами на хасидовъ и освобожденнаго ихъ начальника Залмана
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Авигдор" xmlns="http://www.tei-c.org/ns/1.0">Авигдор</persName>
+          </cell>
+          <cell></cell>
+          <cell>he</cell>
+          <cell>
+            <ref target="documents/275-2.html">275-2</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/275-2.html#p275">275</ref>
+            <ref rendition="page" target="documents/275-2.html#p276">276</ref>
+            <ref rendition="page" target="documents/275-2.html#p277">277</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 25. Жалоба Залмана на ложные доносы Авигдора, разорительные для жалобщика и хасидовъ, и просьба о наказанiи клеветниковъ
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#alter-rebbe" xmlns="http://www.tei-c.org/ns/1.0">Алтер Ребе</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/277.html">277</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/277.html#p277">277</ref>
+            <ref rendition="page" target="documents/277.html#p278">278</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 26. Новое прошенiе Залмана (августъ 1801 г.) объ обузданiи клеветниковъ и объ обезпеченiи ему и хасидамъ спокойнаго существования
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#alter-rebbe" xmlns="http://www.tei-c.org/ns/1.0">Алтер Ребе</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/279.html">279</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/279.html#p279">279</ref>
+            <ref rendition="page" target="documents/279.html#p280">280</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>
+            <p xmlns="http://www.tei-c.org/ns/1.0">
+              No 27. Пророчество о гибели французскихъ &quot;мятежниковъ&quot; и о побѣдѣ импер. Павла I (безъ даты *)
+            </p>
+          </cell>
+          <cell></cell>
+          <cell>
+            <persName xmlns="http://www.tei-c.org/ns/1.0">?</persName>
+          </cell>
+          <cell></cell>
+          <cell>he</cell>
+          <cell>
+            <ref target="documents/280.html">280</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/280.html#p280">280</ref>
+            <ref rendition="page" target="documents/280.html#p281">281</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>Послесловие</cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Дубнов" xmlns="http://www.tei-c.org/ns/1.0">Дубнов</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/281.html">281</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/281.html#p281">281</ref>
+            <ref rendition="page" target="documents/281.html#p282">282</ref>
+          </cell>
+          <cell></cell>
+        </row>
+        <row>
+          <cell>Къ пророчеству о Бонапарте</cell>
+          <cell></cell>
+          <cell>
+            <persName ref="#Каган" xmlns="http://www.tei-c.org/ns/1.0">М. Каган</persName>
+          </cell>
+          <cell></cell>
+          <cell>ru</cell>
+          <cell>
+            <ref target="documents/427.html">427</ref>
+          </cell>
+          <cell>
+            <ref rendition="page" target="documents/427.html#p427">427</ref>
+            <ref rendition="page" target="documents/427.html#p428">428</ref>
+          </cell>
+          <cell></cell>
+        </row>
+      </table>
+    </body>
+  </text>
+</TEI>
