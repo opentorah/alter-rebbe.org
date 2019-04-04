@@ -10,7 +10,11 @@ export default {
     // @href is piped through the rw (rewrite) function before insertion
     "ptr": ["<a href=\"$rw@target\">$@target</a>"],
     // wraps the content of the <ref> in an HTML link
-    "ref": ["<a href=\"$rw@target\">","</a>"],
+    // LMD ref with 'role' - which becomes 'target' on the 'a'
+    "ref": [
+      ["[role]", ["<a href=\"$rw@target\" target=\"$@role\">","</a>"]],
+      ["_", ["<a href=\"$rw@target\">","</a>"]]
+    ],
     "graphic": function(elt) {
       let content = new Image();
       content.src = this.rw(elt.getAttribute("url"));
