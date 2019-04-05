@@ -27,7 +27,7 @@ task postprocess(type: JavaExec) {
   main = 'org.podval.archive19kislev.collector.Main'
 }
 postprocess.dependsOn(classes)
-build.dependsOn(postprocess)
+check.dependsOn(postprocess)
 
 idea {
   module {
