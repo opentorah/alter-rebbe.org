@@ -41,11 +41,11 @@
                 </person>
                 <person xml:id="Меіер_Рафалович-Шломо">
                     <persName>Шломо</persName>
-                    <p>сын Меера Рафаловича</p>
+                    <p>сын <persName ref="#Меіер_Рафалович">Меера Рафаловича</persName></p>
                 </person>
                 <person xml:id="Меіер_Рафалович-Янкель">
                     <persName>Янкель</persName>
-                    <p>сын Меера Рафаловича</p>
+                    <p>сын <persName ref="#Меіер_Рафалович">Меера Рафаловича</persName></p>
                 </person>
                 <person xml:id="Арон">
                     <persName>Арон</persName>

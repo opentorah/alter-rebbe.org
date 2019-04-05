@@ -106,8 +106,7 @@ tei-table.collection-index > table {
 
 /* editorial */
 
-tei-note {
-  background-color: lightgray;
+tei-add {
 }
 
 tei-del[type='overstrike'] {
@@ -118,3 +117,18 @@ tei-unclear {
   background-color: #aaffaa;
 }
 
+tei-supplied {
+//  background-color: teal;
+}
+
+tei-note[place='end'] a {
+  color: red;
+}
+
+tei-note:not([place='end']) {
+  background-color: lightgray;
+}
+
+ol.notes {
+  padding-top: 2em;
+}
