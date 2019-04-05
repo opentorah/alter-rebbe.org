@@ -1,13 +1,18 @@
-Archive documents of the arrest of the Alter Rebbe and chassidim of
+---
+title: 19 Kislev Archive
+layout: page
+---
+
+<a href="index.html" class="language-switch">Русский</a>
+
+Archive [documents](archive/index.html) of the arrest of the Alter Rebbe and chassidim of
  Vilno in 1798 and the second arrest of 1800.
 
-Transcripts of the documents, identification of documents,
- suggestions etc. are welcome.
+## Publications History ##
+
+## Site History ##
 
 Published using GitHub Pages at <http://www.alter-rebbe.org>
-
-
-## History ##
 
 Documents were discovered in Central State Archive of the October Revolution
 (now - State Archive of the Russian Federation) in 1991 and
@@ -46,3 +51,10 @@ The site can be served locally by running the following command in `docs`:
 ```groovy
 $ bundle exec jekyll serve
 ```
+
+## Usage Instructions ##
+
+## Encoding Instructions ##
+
+Transcripts of the documents, identification of documents,
+ suggestions etc. are welcome.

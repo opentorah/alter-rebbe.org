@@ -29,19 +29,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-include:
-  - README.md
-
-defaults:
-  -
-    scope:
-      path: "README.md"
-    values:
-      layout: "page"
-      title: "README"
-
 header_pages:
   - archive/index.html
   - names.html
   - dubnov/index.html
-  - README.md

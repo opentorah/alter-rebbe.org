@@ -4,16 +4,18 @@ layout: page
 ---
 ## Names List ##
 ### Undefined references ###
-- 'Name>Лейбы Зеликовича</'
-### Unresolved references ###
+None
+### Malformed references ###
 None
 ## Collection 'dubnov' ##
 ### Undefined references ###
 None
-### Unresolved references ###
+### Malformed references ###
 None
 ## Collection 'archive' ##
 ### Undefined references ###
 None
-### Unresolved references ###
+### Malformed references ###
+None
+## Unresolved references ##
 None

@@ -73,12 +73,12 @@
                 </person>
                 <person xml:id="Лейба_Зеликович-Хая">
                     <persName>Хая</persName>
-                    <p>дочь <persName>Лейбы Зеликовича</persName></p>
+                    <p>дочь <persName ref="#Лейба_Зеликович">Лейбы Зеликовича</persName></p>
                 </person>
 
                 <person xml:id="Лейба_Зеликович-Дина">
                     <persName>Дина</persName>
-                    <p>дочь Лейбы Зеликовича</p>
+                    <p>дочь <persName ref="#Лейба_Зеликович">Лейбы Зеликовича</persName></p>
                 </person>
 
                 <person xml:id="Арон_Беркович">
