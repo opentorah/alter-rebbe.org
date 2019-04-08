@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Реестр каролинов отправленных в Санктпетербург</title>
+        <title type="main">Реестръ каролиновъ отправленныхъ в Санктпетербургъ</title>
         <author>
           <persName ref="#Булгаков">Булгаков</persName>
         </author>
@@ -42,6 +42,14 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p046-1" n="046-1" facs="../facsimiles/046-1.jpg"/>
+      <opener>
+        <fw>къ № 192.</fw>
+        <fw>A</fw>
+        <fw type="pageNum" place="right">46.</fw>
+      </opener>
+      <div>
+        <head>Реестръ каролиновъ отправленныхъ в Санктпетербургъ</head>
+      </div>
     </body>
   </text>
 </TEI>

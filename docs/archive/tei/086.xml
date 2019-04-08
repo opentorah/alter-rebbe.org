@@ -37,7 +37,7 @@
         </calendar>
       </calendarDesc>
       <creation>
-        <date when="1798-11-26">26 ноября</date>
+        <date when="1798-11-26">26е ноября</date>
       </creation>
       <abstract>
         <p>Письмо Лопухину о семи арестованных евреях, отправленных в Вильну</p>
@@ -47,6 +47,13 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p086-1" n="086-1" facs="../facsimiles/086-1.jpg"/>
+      <opener>
+        <fw>Секретно.</fw>
+        <fw><date when="1798-11-26">26е ноября 1798</date></fw>
+        <fw>№ 2948й.</fw>
+        <fw type="pageNum" place="right">86.</fw>
+      </opener>
+      
     </body>
   </text>
 </TEI>

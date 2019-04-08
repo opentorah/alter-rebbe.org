@@ -12,8 +12,6 @@ Archive [documents](archive/index.html) of the arrest of the Alter Rebbe and cha
 
 ## Site History ##
 
-Published using GitHub Pages at <http://www.alter-rebbe.org>
-
 Documents were discovered in Central State Archive of the October Revolution
 (now - State Archive of the Russian Federation) in 1991 and
 photographed by F. Z. Shvaiger on behalf of the Shamir Society.

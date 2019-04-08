@@ -37,11 +37,19 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1798-11-09">9 ноября 1798</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p053-1" n="053-1" facs="../facsimiles/053-1.jpg"/>
+      <opener>
+        <fw>№ 2728</fw>
+        <fw><date when="1798-11-09">9 ноября 1798</date></fw>
+        <fw type="pageNum" place="right">53.</fw>
+      </opener>
       <pb xml:id="p053-2" n="053-2" facs="../facsimiles/053-2.jpg"/>
       <pb xml:id="p054-1" n="054-1" facs="../facsimiles/054-1.jpg"/>
       <pb xml:id="p054-2" n="054-2" facs="../facsimiles/054-2.jpg"/>
