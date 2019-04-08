@@ -5,11 +5,13 @@
 
 .facsimileThumbnail figure {
   float: right;
+  clear: both;
   margin-left: 1em;
 }
 
 .facsimileThumbnail img {
   height: 60px;
+  max-width: 40px;
 }
 
 /* Lists of people, places and organizations. */
@@ -84,7 +86,7 @@ tei-table.collection-index > table {
   td.description { width: 45%; }
   td.date        { width:  7%; }
   td.author      { width: 10%; }
-  td.ddressee    { width: 10%; }
+  td.addressee   { width: 10%; }
   td.language    { width:  4%; }
   td.document    { width:  5%; }
   td.pages       { width:  8%; }
@@ -126,7 +128,7 @@ tei-note[place='end'] a {
 }
 
 tei-note[type='gloss'] {
-  background-color: bisque;
+  background-color: beige;
 }
 
 tei-fw[type='pageNum'] {
