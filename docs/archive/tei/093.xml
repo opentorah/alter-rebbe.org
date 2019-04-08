@@ -45,9 +45,9 @@
     <body>
       <pb xml:id="p093-1" n="093-1" facs="../facsimiles/093-1.jpg"/>
       <opener>
-        <note>№2</note>
-        <note><ref target="../documents/095.html">перевод</ref></note>
-        <note type="page" place="right-side">93</note>
+        <fw>№2</fw>
+        <fw><ref target="../documents/095.html">перевод</ref></fw>
+        <fw type="pageNum" place="right">93</fw>
       </opener>
 
       <div>
@@ -65,12 +65,12 @@
           обрядах различается от древних Евреев; а сия отмена или Каролинская секта восприяла свое начало от <placeName
             ref="#Каролины">Каролинских</placeName> рабинов. Оной секты правитель или начальник есть <placeName
             ref="#Лозна">Лозенский</placeName> рабин <persName ref="#alter-rebbe">Соломон Борух</persName>. В реестре мне читанном
-            <note>(которой послан был под № 130)</note> всех признаю Каролинами кроме <persName
+            <note type="gloss">|: которой послан был под № 130 :|</note> всех признаю Каролинами кроме <persName
             ref="#Мовша_Јосіеліович">Мовши Езелевича</persName> и <persName ref="#Јосель_Мовшович">Йозеля
             Мовшовича</persName>. В прочих губерниях, как то в <placeName ref="#Минская_губерния"
             >Минской</placeName>
           <pb xml:id="p093-2" n="093-2" facs="../facsimiles/093-2.jpg"/>
-          <note type="page">93 об</note>
+          <fw type="pageNum">93 об</fw>
           <placeName ref="#Белоруссия">Белорусской</placeName>, <placeName ref="#Волынская_губерния">Волынской</placeName>,
           а также в <placeName ref="#Пруссия">Пруссии</placeName> находятся Каролины, а наш <placeName
             ref="#Лозна">Лозенский</placeName> рабин с ними воспитывался в местечке <placeName ref="#Мезеричи"
@@ -90,10 +90,10 @@
             Рафалович</persName> сделался с другими Каролином.</p>
         <p>Деньги, присланные от рабина <placeName ref="#Лозна">Лозны</placeName>, я получил и издержал на
           <pb xml:id="p094-1" n="094-1" facs="../facsimiles/094-1.jpg"/>
-          <note type="page"><subst>
-              <add>94</add>
-              <del type="overstrike">96</del>
-            </subst></note> разные нужды в тяжбе Каролинов, а именно на канцелярии, на писание просьб, за вынятие копий
+          <subst>
+            <add><fw type="pageNum">94</fw></add>
+            <del type="overstrike"><fw type="pageNum">96</fw></del>
+            </subst> разные нужды в тяжбе Каролинов, а именно на канцелярии, на писание просьб, за вынятие копий
           с резолюций, а досталные употребил для себя. Копия, которую зачал писать своей рукою <persName
             ref="#Козминский">Секретарь Кузминский</persName>, и которая у меня найдена, есть копия письма
           представленного Каролинами в <orgName ref="#губернское_правление">губернское правление</orgName>, а писаннаго от <orgName ref="#Вильно"

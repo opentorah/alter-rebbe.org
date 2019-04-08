@@ -47,9 +47,9 @@
     <body>
       <pb xml:id="p058-1" n="058-1" facs="../facsimiles/058-1.jpg"/>
       <opener>
-        <note>№2821</note>
-        <note>13го Ноября 1798го</note>
-        <note>секретно</note>
+        <fw>№2821</fw>
+        <date when="1798-11-13">13го Ноября 1798го</date>
+        <fw>секретно</fw>
         <salute>Милостивой Государь <persName ref="#Лопухин">Петръ Васильевичъ</persName>!</salute>
       </opener>
       <div>
@@ -66,7 +66,7 @@
       <closer>
         <salute>вашего высокопревосходительства всепокорнейший слуга</salute>
         <signed><persName ref="#Булгаков">Яковъ Булгаковъ</persName></signed>
-        <note>№200</note>
+        <fw>№200</fw>
         <dateline>
           <date when="1798-11-01">1 Ноября 1798</date>
           <placeName ref="#Вильно">вилна</placeName>

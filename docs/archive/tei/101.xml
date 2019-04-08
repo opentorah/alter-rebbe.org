@@ -45,9 +45,9 @@
     <body>
       <pb xml:id="p101-1" n="101-1" facs="../facsimiles/101-1.jpg"/>
       <opener>
-        <note>№5</note>
-        <note place="right-side"><ref target="../documents/102.html">перевод</ref></note>
-        <note type="page" place="right-side">101.</note>
+        <fw>№5</fw>
+        <fw place="right"><ref target="../documents/102.html">перевод</ref></fw>
+        <fw type="pageNum" place="right">101.</fw>
       </opener>
       <div>
         <head>Допрос жида <persName ref="#Лейба_Меіерович">Лейбы Мейеровича</persName></head>
@@ -62,10 +62,10 @@
           Каролинская от древних евреев ни в чем другом не разнетвует, как только в том, что они другим образом обряды
           отправляют, и молятся гласно, дабы в час молитвы никакими другими мыслями не разсееваться. Начальник сей секты
             <persName ref="#alter-rebbe">Лозенский рабин Соломон Борух</persName>
-          <note>|: или <persName ref="#alter-rebbe">Зелман Борухович</persName> :|</note>, потому что он имеет
+          <note type="gloss">|: или <persName ref="#alter-rebbe">Зелман Борухович</persName> :|</note>, потому что он имеет
           великия познания
           <pb xml:id="p101-2" n="101-2" facs="../facsimiles/101-2.jpg"/>
-          <note type="page">101об.</note> и есть учителем секты. К Каролинской секте принадлежат все те, кои помещены в
+          <fw type="pageNum">101об.</fw> и есть учителем секты. К Каролинской секте принадлежат все те, кои помещены в
           реестре, мне читанном, а прочих же не знаю; о <persName ref="#Арон">Ароне</persName> и <persName ref="#Саломон">Саломоне</persName>
           слышал, что они также Каролины, но я и их не знаю. Каролинская секта возобновлена в <placeName
             ref="#Вильно">Вильне</placeName> прибывшим <persName ref="#Орлин">Орлином</persName>, котораго науки последовали

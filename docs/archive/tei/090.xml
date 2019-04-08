@@ -48,9 +48,9 @@
         <dateline>
           <placeName ref="#Петербург">С. Петербург</placeName>
         </dateline>
-        <note>№1</note>
-        <note place="right-side"><ref target="../documents/092.html">перевод</ref></note>
-        <note type="page" place="right-side">90</note>
+        <fw>№1</fw>
+        <fw place="right"><ref target="../documents/092.html">перевод</ref></fw>
+        <fw type="pageNum" place="right">90</fw>
       </opener>
 
       <div>
@@ -73,7 +73,7 @@
           />Лозенскому рабину или нет, не помню, от него же имею два письма, коим года три назад. В минувших месяцах в
           мае или апреле писал он рабин в Каролинское <placeName ref="#Вильно">виленское</placeName> собрание
           <pb xml:id="p090-2" n="090-2" facs="../facsimiles/090-2.jpg"/>
-          <note type="page">90 об</note> письмо, и оно доставлено сюда в <placeName ref="#Вильно">Вильну</placeName>
+          <fw type="pageNum">90 об</fw> письмо, и оно доставлено сюда в <placeName ref="#Вильно">Вильну</placeName>
           чрез нарочнаго <persName ref="#Лейба_Зеликович">Лейба Зеликовича</persName>, который от него привез с
           собой <measure type="curency">800 рублей</measure> ассигнациями. Я же зделавшись Каролином денег никуда не
           посылал, кроме того, что прибывшему из <placeName ref="#Витепск">Витепска</placeName>
@@ -95,10 +95,10 @@
             <persName ref="#Лезер_Хаймович">Лезера Хаймовича</persName>, а потом, года четыре назад, переведено было
           в мой дом. А откуда секта взяла свое начало
           <pb xml:id="p091-1" n="091-1" facs="../facsimiles/091-1.jpg"/>
-          <note type="page" place="right-side"><subst>
+          <fw type="pageNum" place="right"><subst>
               <add>91</add>
               <del type="overstrike">92</del>
-            </subst></note> не знаю. На отправление богомоления в доме моем дал мне позволение от имени <orgName
+            </subst></fw> не знаю. На отправление богомоления в доме моем дал мне позволение от имени <orgName
             ref="#виленский_кагал">виленского Кагала</orgName>
           <persName ref="#Моисей_Ошерович">Моисей Ошерович</persName>, чему более уже двух лет. Письма писанного к
             <persName ref="#Нохим_Ицкович">Нохиму</persName>

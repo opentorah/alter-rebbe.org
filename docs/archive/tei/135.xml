@@ -45,12 +45,16 @@
     <body>
       <pb xml:id="p135-1" n="135-1" facs="../facsimiles/135-1.jpg"/>
       <opener>
-        <note>№22</note>
-        <note><ref target="../documents/136.html">перевод</ref></note>
-        <note type="page" place="right-side"><subst>
-            <add>135</add>
-            <del type="overstrike">137</del>
-          </subst></note>
+        <fw>№22</fw>
+        <fw><ref target="../documents/136.html">перевод</ref></fw>
+        <subst>
+          <add>
+            <fw type="pageNum" place="right">135</fw>
+          </add>
+          <del type="overstrike">
+            <fw type="pageNum" place="right">137</fw>
+          </del>
+        </subst>
       </opener>
       <div>
         <head>Допрос жида Шмуила Хаимовича, Индурскаго рабина</head>
@@ -63,7 +67,7 @@
           уведомляя его, что Еврей <persName ref="#Орлин">Орлин</persName> собирает денги для Иерусалимских бедных, и когда получит, посылает в Иерусалим,
           откуда приезжают Евреи. Записки, находящемуся в моих бу-
           <pb xml:id="p135-2" n="135-2" facs="../facsimiles/135-2.jpg"/>
-          <note type="page">135об</note> магах нашел я в Прусии, (Прилагаются при сем и суть или талисманы, или
+          <fw type="pageNum">135об</fw> магах нашел я в Прусии, (Прилагаются при сем и суть или талисманы, или
           кабалистическийе характеры, а может быть ??? стихи) переежжая в Австрию; чтож они значат, того не знаю. В
           Цесаре (???) ездил для свидания с родственниками находящимися в городе Козенице не далеко от Варшавы.</p>
       </div>

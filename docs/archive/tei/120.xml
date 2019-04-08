@@ -45,12 +45,12 @@
     <body>
       <pb xml:id="p120-1" n="120-1" facs="../facsimiles/120-1.jpg"/>
       <opener>
-        <note>№14</note>
-        <note place="right-side"><ref target="../documents/119.html">перевод</ref></note>
-        <note type="page" place="right-side"><subst>
-            <del type="overstrike">119.</del>
-            <add>120</add>
-          </subst></note>
+        <fw>№14</fw>
+        <fw place="right"><ref target="../documents/119.html">перевод</ref></fw>
+        <subst>
+          <del type="overstrike"><fw type="pageNum" place="right">119.</fw></del>
+          <add><fw type="pageNum" place="right">120</fw></add>
+          </subst>
       </opener>
       <div>
         <head>Допрос жида Шая Ицковича</head>
