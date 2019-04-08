@@ -3,12 +3,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  {%- if page.layout == 'tei' -%}
-    {%- if page.wide -%}
-    <link rel="stylesheet" href="{{ "/assets/tei-wide.css" | relative_url }}">
-    {%- else -%}
-    <link rel="stylesheet" href="{{ "/assets/tei.css" | relative_url }}">
-    {%- endif -%}
+  {%- if page.layout == 'tei' and page.wide -%}
+  <link rel="stylesheet" href="{{ "/assets/tei-wide.css" | relative_url }}">
+  {%- elsif page.layout == 'tei' -%}
+  <link rel="stylesheet" href="{{ "/assets/tei.css" | relative_url }}">
   {%- else -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- endif -%}
