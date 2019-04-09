@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -91,6 +91,7 @@
         <person xml:id="Нохим_Ицкович">
           <persName>Нохим Ицкович</persName>
           <p rendition="mentions">
+            <ref target="/names.html" role="documentViewer">names</ref>
             <ref target="/archive/documents/090.html" role="documentViewer">090</ref>
             <ref target="/archive/documents/093.html" role="documentViewer">093</ref>
             <ref target="/archive/documents/095.html" role="documentViewer">095</ref>
@@ -105,7 +106,10 @@
           <p rendition="mentions">
             <ref target="/archive/documents/093.html" role="documentViewer">093</ref>
           </p>
-          <p>дочь Нохима Ицковича</p>
+          <p>
+            дочь
+            <persName ref="#Нохим_Ицкович">Нохима Ицковича</persName>
+          </p>
         </person>
         <person xml:id="Лейба_Зеликович">
           <persName>Лейба Зеликович</persName>
@@ -868,10 +872,10 @@
           </p>
         </org>
       </listOrg>
-      <listPerson>
+      <listPerson xml:id="transcribers">
         <head>Расшифровщики</head>
-        <person xml:id="IA">
-          <persName>Ифрах Абрамов</persName>
+        <person xml:id="IL">
+          <persName>Илья Лурье</persName>
           <p rendition="mentions">
             <ref target="/archive/documents/090.html" role="documentViewer">090</ref>
             <ref target="/archive/documents/093.html" role="documentViewer">093</ref>
@@ -898,6 +902,11 @@
             <ref target="/archive/documents/158.html" role="documentViewer">158</ref>
             <ref target="/archive/documents/160.html" role="documentViewer">160</ref>
           </p>
+          <p>работал по заказу и под руководством Мондшайна</p>
+        </person>
+        <person xml:id="IA">
+          <persName>Ифрах Абрамов</persName>
+          <p rendition="mentions"> </p>
         </person>
         <person xml:id="ALD">
           <persName>Арье-Лейб Дубинский</persName>
