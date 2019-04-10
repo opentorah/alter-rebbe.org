@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -906,7 +906,31 @@
         </person>
         <person xml:id="IA">
           <persName>Ифрах Абрамов</persName>
-          <p rendition="mentions"> </p>
+          <p rendition="mentions">
+            <ref target="/archive/documents/000.html" role="documentViewer">000</ref>
+            <ref target="/archive/documents/002.html" role="documentViewer">002</ref>
+            <ref target="/archive/documents/003.html" role="documentViewer">003</ref>
+            <ref target="/archive/documents/004.html" role="documentViewer">004</ref>
+            <ref target="/archive/documents/008.html" role="documentViewer">008</ref>
+            <ref target="/archive/documents/018.html" role="documentViewer">018</ref>
+            <ref target="/archive/documents/021.html" role="documentViewer">021</ref>
+            <ref target="/archive/documents/026.html" role="documentViewer">026</ref>
+            <ref target="/archive/documents/028.html" role="documentViewer">028</ref>
+            <ref target="/archive/documents/030.html" role="documentViewer">030</ref>
+            <ref target="/archive/documents/032.html" role="documentViewer">032</ref>
+            <ref target="/archive/documents/034.html" role="documentViewer">034</ref>
+            <ref target="/archive/documents/040.html" role="documentViewer">040</ref>
+            <ref target="/archive/documents/041.html" role="documentViewer">041</ref>
+            <ref target="/archive/documents/042.html" role="documentViewer">042</ref>
+            <ref target="/archive/documents/044.html" role="documentViewer">044</ref>
+            <ref target="/archive/documents/046.html" role="documentViewer">046</ref>
+            <ref target="/archive/documents/059.html" role="documentViewer">059</ref>
+            <ref target="/archive/documents/079.html" role="documentViewer">079</ref>
+            <ref target="/archive/documents/081.html" role="documentViewer">081</ref>
+            <ref target="/archive/documents/086.html" role="documentViewer">086</ref>
+            <ref target="/archive/documents/088.html" role="documentViewer">088</ref>
+            <ref target="/archive/documents/089.html" role="documentViewer">089</ref>
+          </p>
         </person>
         <person xml:id="ALD">
           <persName>Арье-Лейб Дубинский</persName>
