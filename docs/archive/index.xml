@@ -173,7 +173,7 @@
         </row>
         <row>
           <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1798-09-02</cell>
           <cell rendition="author">
             <persName ref="#Булгаков">Булгаков</persName>
           </cell>
@@ -301,7 +301,9 @@
           <cell rendition="author">
             <persName ref="#Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/018.html" role="documentViewer">018</ref>
