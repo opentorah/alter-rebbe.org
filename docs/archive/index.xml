@@ -89,7 +89,9 @@
             <ref target="documents/001.html#p001-1" role="documentViewer" rendition="missing-page">001</ref>
             <ref target="documents/001.html#p001-2" role="documentViewer" rendition="page">001об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IA">Ифрах Абрамов</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -265,7 +267,7 @@
           <cell rendition="description">?</cell>
           <cell rendition="date">1798-08-11</cell>
           <cell rendition="author">
-            <persName ref="#Чечерский">Ксендз Чечерский</persName>
+            <persName ref="#Чечерский">Чечерский</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -591,7 +593,9 @@
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Булгаков">Булгакову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/041.html" role="documentViewer">041</ref>
@@ -612,7 +616,9 @@
           <cell rendition="author">
             <persName ref="#Жегулин">Жегулин</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/042.html" role="documentViewer">042</ref>
@@ -647,7 +653,9 @@
           <cell rendition="author">
             <persName ref="#Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/044.html" role="documentViewer">044</ref>
@@ -1002,7 +1010,9 @@
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/086.html" role="documentViewer">086</ref>
@@ -1040,7 +1050,9 @@
           <cell rendition="author">
             <persName ref="#Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/088.html" role="documentViewer">088</ref>
