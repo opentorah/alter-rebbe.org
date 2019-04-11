@@ -362,7 +362,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Реестр Евреев, следующих новой секте Каролинами называемой – второе приложение к докладу Булгакова</p>
+            <p>Реестр Евреев, следующих новой секте, Каролинами называемой – второе приложение к докладу Булгакова</p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -385,11 +385,13 @@
         </row>
         <row>
           <cell rendition="description">?</cell>
-          <cell rendition="date">1798-09</cell>
+          <cell rendition="date">1798-09-15</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Жегулин">Жегулину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/028.html" role="documentViewer">028</ref>
@@ -422,7 +424,7 @@
         </row>
         <row>
           <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1798-09-29</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>

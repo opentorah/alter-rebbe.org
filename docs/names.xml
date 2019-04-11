@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -531,6 +531,7 @@
         <person xml:id="Жегулин">
           <persName>Жегулин</persName>
           <p rendition="mentions">
+            <ref target="/archive/documents/028.html" role="documentViewer">028</ref>
             <ref target="/archive/documents/042.html" role="documentViewer">042</ref>
             <ref target="/archive/documents/089.html" role="documentViewer">089</ref>
           </p>

@@ -39,6 +39,9 @@
           {%- if page.next -%}
           <a class="page-link" href="{{ page.next }}.html">{{ page.next }}</a>
           {%- endif -%}
+          {%- if page.prev or page.next -%}
+          <a class="page-link" href='../facs/{{ page.self }}.html' target='facsimileViewer'><•></a>
+          {%- endif -%}
         </div>
       </nav>
     {%- endif -%}
