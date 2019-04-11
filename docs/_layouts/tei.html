@@ -11,6 +11,7 @@ layout: page
     let CETEIcean = new CETEI();
 
     CETEIcean.addBehaviors({"tei": {
+            {%- comment -%}
             "pb": [["[facs][n]", [
                 "<a class='facsimileThumbnail' target='facsimileViewer' href='../facs/{{ page.self }}.html#p$@n'>" +
                 "  <figure>" +
@@ -19,6 +20,7 @@ layout: page
                 "  </figure>" +
                 "</a>"
             ]]],
+            {%- endcomment -%}
 
             "persName" : refBehavior,
             "placeName": refBehavior,
