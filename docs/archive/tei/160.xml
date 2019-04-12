@@ -47,18 +47,13 @@
       <pb xml:id="p160-1" n="160-1" facs="../facsimiles/160-1.jpg"/>
       <opener>
         <fw>№28</fw>
-        <subst>
-          <add><fw type="pageNum">160</fw></add>
-          <del type="overstrike"><fw type="pageNum">160 2</fw></del>
-          </subst>
+          <fw type="pageNum">160</fw>
+        <fw type="pageNum"><del type="overstrike">160 2</del></fw>
       </opener>
-      <div>
         <head>Расписки в деньгах, пересланных в Иерусалим</head>
         <!-- TODO
         <p>Г-ину Белорусскому купцу
           Юделю Файбешевичу (???)</p> -->
-      </div>
-
     </body>
   </text>
 </TEI>

@@ -95,7 +95,6 @@ No 85 (документы с 1 по 13 в нумерации Дубнова) и 
 ## Инструкция по расшифровке ##
 
 таги:
-- `div`
 - `persName` `person`
 - `placeName` `place`
 - `orgName` `org`
@@ -116,3 +115,7 @@ No 85 (документы с 1 по 13 в нумерации Дубнова) и 
 
 Дополнения к списку документов, расшифрованные тексты, предложения и замечания просьба направлять по адресу:
 [info@alter-rebbe.org](mailto:info@alter-rebbe.org).
+
+<script type="module">
+  window.name = "collectionViewer"
+</script>
