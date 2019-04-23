@@ -1,0 +1,11 @@
+tei-table.t026 > table {
+  border: none;
+
+  tr {
+    background-color: $background-color;
+
+    td { border: none; }
+
+    td:nth-child(1) { width: 50%; }
+  }
+}

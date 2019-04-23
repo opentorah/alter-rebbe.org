@@ -34,7 +34,7 @@
           <a class="page-link" href="{{ page.prev }}.html">{{ page.prev }}</a>
           {%- endif -%}
           {%- if page.self -%}
-          <a class="page-link"><{{ page.self }}></a>
+          <a class="page-link" href="{{ page.self }}.html"><{{ page.self }}></a>
           {%- endif -%}
           {%- if page.next -%}
           <a class="page-link" href="{{ page.next }}.html">{{ page.next }}</a>
@@ -42,6 +42,9 @@
           {%- if page.facs -%}
           <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'><•></a>
           {%- endif -%}
+          {%- for lang in page.translations -%}
+          <a class="page-link" href='{{ page.self }}-{{ lang }}.html'>{{ lang }}</a>
+          {%- endfor -%}
         </div>
       </nav>
     {%- endif -%}

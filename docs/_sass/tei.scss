@@ -4,14 +4,19 @@
 //@import "thumbnail";
 @import "names";
 @import "collection";
+@import "per-document";
 
 /* editorial */
 
 tei-add {
 }
 
-tei-del[type='overstrike'] {
+tei-del[rend='overstrike'] {
   text-decoration: line-through;
+}
+
+tei-emph[rend='underline'] {
+  text-decoration: underline;
 }
 
 tei-unclear {
