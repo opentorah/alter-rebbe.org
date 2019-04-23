@@ -18,10 +18,11 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-          <li>Encoded using <a href="https://tei-c.org/guidelines/p5/">TEI Guidelines</a>.</li>
-          <li>Published on <a href="https://pages.github.com/">GitHub Pages</a></li>
-          <li>with <a href="https://jekyllrb.com/">Jekyll</a>/<a href="https://github.com/jekyll/minima">Minima</a> and
-            <a href="https://github.com/TEIC/CETEIcean">CETEIcean</a>.</li>
+          <li>Encoded using <a href="https://tei-c.org/guidelines/p5/" target="collectionViewer">TEI Guidelines</a>.</li>
+          <li>Published on <a href="https://pages.github.com/" target="collectionViewer">GitHub Pages</a></li>
+          <li>with <a href="https://jekyllrb.com/" target="collectionViewer"
+          >Jekyll</a>/<a href="https://github.com/jekyll/minima" target="collectionViewer">Minima</a> and
+            <a href="https://github.com/TEIC/CETEIcean" target="collectionViewer">CETEIcean</a>.</li>
         </ul>
       </div>
 
@@ -45,10 +46,8 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-        <p>Documents and facsimiles license: <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</p>
+        <p>Documents and facsimiles license: <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>.</p>
       </div>
     </div>
-
   </div>
-
 </footer>
