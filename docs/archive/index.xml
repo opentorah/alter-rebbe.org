@@ -227,8 +227,8 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">О пасквильном доносе Еврея Давыдовича</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">О пасквильномъ доносѣ Еврея Давыдовича</cell>
+          <cell rendition="date">1798-09-18</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -241,7 +241,9 @@
             <ref target="documents/012.html#p012-1" role="documentViewer" rendition="page">012</ref>
             <ref target="documents/012.html#p012-2" role="documentViewer" rendition="page">012об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>

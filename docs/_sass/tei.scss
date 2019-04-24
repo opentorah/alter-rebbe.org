@@ -16,7 +16,13 @@ tei-del[rend='overstrike'] {
 }
 
 tei-emph[rend='underline'] {
+  font-style: normal;
   text-decoration: underline;
+}
+
+tei-emph[rend='big'] {
+  font-style: normal;
+  font-size: larger;
 }
 
 tei-unclear {
