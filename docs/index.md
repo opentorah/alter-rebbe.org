@@ -36,7 +36,7 @@ layout: page
 
   В этом деле - документы обоих арестов.
 
-- Российский государственный исторический архив - РГИА, Третий (аппелиционный) департамент Сената,
+- Российский государственный исторический архив - [РГИА](http://www.fgurgia.ru/#!), Третий (аппелиционный) департамент Сената,
   [фонд 1347](http://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw==),
   опись 64 чI, 1797-1825,
   [дело 413](http://rgia.su/imageViewer/image?url=i5CLnpOvnpiajMLIyNmcio2NmpGLr56YmsLMxtmah4vCj5uZ2ZCdlZqci8LNyMjHyM7Lz9mei4uNws7PycrO2YyajZaek8LO2ZiNkIqPws/ZjIuQjZ6YmsLOzMrNxs/KzMzP),
