@@ -38,10 +38,9 @@ layout: page
 
 - Российский государственный исторический архив - [РГИА](http://www.fgurgia.ru/#!), Третий (аппелиционный) департамент Сената,
   [фонд 1347](http://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw==),
-  опись 64 чI, 1797-1825,
-  [Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-l26WWi37x5BJJh4cOFmcEnWGVqPx70B)
-  [дело 413](http://rgia.su/imageViewer/image?url=i5CLnpOvnpiajMLIyNmcio2NmpGLr56YmsLMxtmah4vCj5uZ2ZCdlZqci8LNyMjHyM7Lz9mei4uNws7PycrO2YyajZaek8LO2ZiNkIqPws/ZjIuQjZ6YmsLOzMrNxs/KzMzP),
+  опись 64 чI, 1797-1825,  [дело 413](http://rgia.su/imageViewer/image?url=i5CLnpOvnpiajMLIyNmcio2NmpGLr56YmsLMxtmah4vCj5uZ2ZCdlZqci8LNyMjHyM7Lz9mei4uNws7PycrO2YyajZaek8LO2ZiNkIqPws/ZjIuQjZ6YmsLOzMrNxs/KzMzP),
   "О каролинской секте". 
+   [Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-l26WWi37x5BJJh4cOFmcEnWGVqPx70B)
 
   ВОПРОС: что там есть? Видимо, копии избранных документов второго ареста... 
 
