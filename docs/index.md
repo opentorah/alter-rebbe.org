@@ -47,6 +47,7 @@ layout: page
 
 - Российский государственный исторический архив - РГИА, Канцелярия генерал-прокурора Сената,
   фонд 1324, опись 3, 1800, дело 2213.
+   [Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-VU9HH5sNn4uMLdAAtAgTRHmO1iNwKtb)
 
   ВОПРОС: что там есть? Видимо, копии избранных документов второго ареста... 
 
