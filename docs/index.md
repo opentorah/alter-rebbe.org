@@ -32,7 +32,8 @@ layout: page
 - Российский государственный архив древних актов - [РГАДА](http://rgada.info/poisk/index.php),
   Разряд VII. Преображенский приказ, Тайная канцелярия и Тайная экспедиция; 
   коллекция Государственного архива Российской империи; Опись 2. Дела Тайной экспедиции,
-  [дело](http://rgada.info/opisi/7-opis_2/0218.jpg) [3140](http://rgada.info/opisi/7-opis_2m/0089.jpg).
+  [дело](http://rgada.info/opisi/7-opis_2/0218.jpg) [3140](http://rgada.info/opisi/7-opis_2m/0089.jpg).  
+  [Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-jJh-X60Oji8u9t-FUbmWjf8UbA4OYd2)
 
   В этом деле - документы обоих арестов.
 
