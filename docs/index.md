@@ -50,6 +50,10 @@ layout: page
    [Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-VU9HH5sNn4uMLdAAtAgTRHmO1iNwKtb)
 
   ВОПРОС: что там есть? Видимо, копии избранных документов второго ареста... 
+  
+-  Еще два дела в Литовском Историческом Архиве (LVIA)
+[Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-5-siIPJumnHFxjVyYoBnU0CrkcK1X6T)
+[Описание в каталоге The Central Archives for the History of the Jewish People Jerusalem (CAHJP)](https://drive.google.com/open?id=1-J7zoonYe5jIyLorNYjMi7ZCAeyA41Ff)
 
 ## История публикаций ##
 
