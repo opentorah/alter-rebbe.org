@@ -16,9 +16,9 @@ description = '19 Kislev Archive'
 dependencies {
   zinc    "com.typesafe.zinc:zinc:$zincVersion"
   compile "org.scala-lang:scala-library:$scalaVersion"
-  compile "org.scala-lang.modules:scala-xml_$scalaVersionMajor:1.1.1"
+  compile "org.scala-lang.modules:scala-xml_$scalaVersionMajor:1.2.0"
 
-  testCompile "org.scalatest:scalatest_$scalaVersionMajor:3.0.5"
+  testCompile "org.scalatest:scalatest_$scalaVersionMajor:3.0.8"
   testRuntime "org.pegdown:pegdown:1.6.0" // for scalatest reports
 }
 
