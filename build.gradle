@@ -14,7 +14,6 @@ version = '0.3.0'
 description = '19 Kislev Archive'
 
 dependencies {
-  zinc    "com.typesafe.zinc:zinc:$zincVersion"
   compile "org.scala-lang:scala-library:$scalaVersion"
   compile "org.scala-lang.modules:scala-xml_$scalaVersionMajor:1.2.0"
 
