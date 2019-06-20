@@ -2,6 +2,8 @@
 title: Державин
 layout: page
 ---
+* TOC
+{:toc}
 
 Державин
 [Мнение об отвращении в Белорусии голода и устройстве быта евреев. 1800, часть II. О евреях.](http://www.derzhavin-poetry.ru/poems/derzhavin-grot7.pdf)
