@@ -15,3 +15,7 @@ layout: page
 Записки Державина
 стр.723 Вторая поездка в Белорусию. Закрытие винодельни в Лиозно
 стр.749 Жалоба еврейки из Лиозно
+
+<script type="module">
+  window.name = "collectionViewer"
+</script>
