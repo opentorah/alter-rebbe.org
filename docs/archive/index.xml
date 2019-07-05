@@ -4771,7 +4771,7 @@
           <cell rendition="description">?</cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="#фонДубнов">Граф фон Дубнов</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4781,7 +4781,9 @@
           <cell rendition="pages">
             <ref target="documents/348.html#p348-1" role="documentViewer" rendition="page">348</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Zaslavsky, Rina</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>

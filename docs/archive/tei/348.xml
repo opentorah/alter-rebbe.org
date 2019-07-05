@@ -6,14 +6,16 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="#фонДубнов">Граф фон Дубнов</persName>
         </author>
+        <editor role="transcriber"><persName ref="#ALD">Zaslavsky, Rina</persName></editor>
+        <editor role="encoder"><persName ref="#ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
         </publisher>
-        <date>?</date>
+        <date when="1798-11-13">13 Ноября 1798</date>
         <availability status="free">
           <licence>
             <ab>
@@ -42,6 +44,27 @@
   <text>
     <body>
       <pb xml:id="p348-1" n="348-1" facs="../facsimiles/348-1.jpg"/>
+      <fw type="docNum">1535.</fw>
+      <fw><unclear>XXXXXXXXXXXXXXXX</unclear></fw>
+      <fw>Секретно</fw>
+
+      <salute>Милостивый государь мой Петр Хрисaнфович!</salute>
+
+      <fw type="pageNum" place="right"><del rend="overstrike">348</del></fw>
+      <fw type="pageNum" place="right">348</fw>
+
+      <p>в Следствие отношения вашего высоко превосходительства от 2-го сего Ноября Касательно
+      старообрядцев и Королинской Секты Евреев, а равно и вразсуждении не чинения представления
+      и отпуска отставным и изключенным из служб воинской и штатской, кой по особым высочайшим
+        повелениям в деревнях и городах на житье находятся, не преминул я в тоже время кому
+      следовало предписать точнейшее исполнение вышеписанного, очем извещая ваше
+        высокопревосходительство имею честь пребывать с совершеннейшим моем почтением.</p>
+      <closer>
+        <salute>Вашего высокопревосходительства Милостивого Государя моего Покорнейший <unclear>слуга</unclear></salute>
+        <signed><unclear><persName ref="#фонДубнов">Граф фон Дубнов</persName></unclear></signed>
+        <date when="1800-11-05">Ноября 5го дня 1800 года</date>
+        <salute>Его высоко-пре-ву <persName ref="#Обольяниновъ">Обольянинову</persName></salute>
+      </closer>
     </body>
   </text>
 </TEI>

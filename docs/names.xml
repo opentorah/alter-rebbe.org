@@ -587,6 +587,7 @@
         <person xml:id="Обольяниновъ">
           <persName>Обольянинов</persName>
           <p rendition="mentions">
+            <ref target="/archive/documents/348.html" role="documentViewer">348</ref>
             <ref target="/dubnov/documents/090-1.html" role="documentViewer">090-1</ref>
             <ref target="/dubnov/documents/253-2.html" role="documentViewer">253-2</ref>
             <ref target="/dubnov/documents/254-1.html" role="documentViewer">254-1</ref>
@@ -643,6 +644,12 @@
             <ref target="/archive/documents/158.html" role="documentViewer">158</ref>
           </p>
           <p>секретарь</p>
+        </person>
+        <person xml:id="фонДубнов">
+          <persName>граф фон Дубнов</persName>
+          <p rendition="mentions">
+            <ref target="/archive/documents/348.html" role="documentViewer">348</ref>
+          </p>
         </person>
       </listPerson>
       <listPlace>
@@ -972,6 +979,7 @@
             <ref target="/archive/documents/135.html" role="documentViewer">135</ref>
             <ref target="/archive/documents/158.html" role="documentViewer">158</ref>
             <ref target="/archive/documents/160.html" role="documentViewer">160</ref>
+            <ref target="/archive/documents/348.html" role="documentViewer">348</ref>
             <ref target="/dubnov/documents/088.html" role="documentViewer">088</ref>
             <ref target="/dubnov/documents/090-1.html" role="documentViewer">090-1</ref>
           </p>

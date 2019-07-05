@@ -132,6 +132,7 @@ No 85 (документы с 1 по 13 в нумерации Дубнова) и 
 
 <a href="/names#transcribers" target="namesViewer">Список людей</a> предоставивших расшифровки документов.
 
+<a href="/more/derzhavin.html" target="collectionViewer">Выдержки вокруг Державина.</a> 
 
 ## Инструкция по пользованию ##
 
