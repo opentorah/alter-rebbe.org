@@ -7,6 +7,7 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
+           <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -37,11 +38,35 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-10-30">30 октября 1800</date>
+      </creation>
+      <abstract>
+        <p>Поручение об аресте</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p267-1" n="267-1" facs="../facsimiles/267-1.jpg"/>
+      <l>Ордеръ</l>
+ <l>Сен. Кур. Петрову и Сукину</l>
+ <l>Пополучен. сего отправиться</l>
+ <l>велеть съ писмомъ моимъ къ</l>
+ <l><unclear>...</unclear> губ. Северину, покоторому</l>
+ <l>дается вамъ арестантъ для</l>
+ <l>привоза ко мнѣ. съ онымъ аре-</l>
+ <l>стантантомъ ѣхать сюда наипо-</l>
+ <l>спѣшнейше, недозволяя ему</l>
+ <l>нетолько ни съ кемъ говорить или къ кому писать, но чтобъ</l>
+ <l>его никто и видѣть не могъ</l>   
+ <l> для</l>
+  <l>чего на почтовыхъ станцияхъ</l>
+ <l>требовать вездѣ кибитку. По</l>
+ <l>привезенiи же его сюда явиться съ ним у меня.</l>
+ <l>30 октября</l>
+ <l>1800</l>
+
     </body>
   </text>
 </TEI>
