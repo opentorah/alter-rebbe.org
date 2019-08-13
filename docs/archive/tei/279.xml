@@ -7,6 +7,7 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
+          <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -27,6 +28,10 @@
       <sourceDesc>
         <p>Facsimile</p>
       </sourceDesc>
+       <date when="1800-11-15">1800 года ноября 15 дня</date>
+      <abstract>
+        <p>Вызов Хаима с переводчиком</p>
+      </abstract>
     </fileDesc>
     <profileDesc>
       <langUsage>
@@ -42,6 +47,20 @@
   <text>
     <body>
       <pb xml:id="p279-1" n="279-1" facs="../facsimiles/279-1.jpg"/>
+      l>Г.мой г. Петръ Алексеевич</l>
+ <l>Покорно прошу приказать В. С. </l>
+ <l>прислать ко мнѢ сего же дня</l>
+ <l>бывшего оберъ рабина Хайму</l>
+ <l>съ переводчикомъ и живущаго </l>
+ <l>у доктора Шуберта еврея</l>
+ <l>Фавишовича. Пребываю въ проч.</l>
+ <l>съ истиннымъ почтенiемъ</l>
+ <l>№ 929-й</l>
+ <l>ноября 15 дня</l>
+ <l>1800</l>
+ <l>Графу Фонъ Деръ Палену</l>
+ <l></l>
+
     </body>
   </text>
 </TEI>
