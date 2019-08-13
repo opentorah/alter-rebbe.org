@@ -990,7 +990,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Объявитель сего еврей (рабин) Залман Борухович...</p>
+            <p>Объявитель сего еврей рабин Залман Борухович...</p>
           </cell>
           <cell rendition="date">1798-11-17</cell>
           <cell rendition="author">
@@ -4006,10 +4006,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>письмо Кутузову</p>
+          </cell>
+          <cell rendition="date">1800-10-03</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4078,6 +4083,9 @@
           <cell rendition="date">1800-10-17</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4094,6 +4102,9 @@
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4107,10 +4118,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Поручение об аресте</p>
+          </cell>
+          <cell rendition="date">1800-10-30</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4123,10 +4139,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Письмо императору</p>
+          </cell>
+          <cell rendition="date">1800-10-30</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4144,6 +4165,9 @@
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
