@@ -6,9 +6,9 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>Хрущов</persName>
-           <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
-        </author>
+          <persName ref=#Хрущов>Хрущов</persName>
+       </author>
+      <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -42,7 +42,7 @@
         <date when="1800-10-10">10 октября 1800 года</date>
       </creation>
       <abstract>
-        <p>Рапорт Обольянинову</p>
+        <p>Рапорт <persName ref=#Обольянинов>Обольянинову</persName></p>
       </abstract>
     </profileDesc>
   </teiHeader>
@@ -53,8 +53,8 @@
   <l>Его высокопревосходителству</l>
  <l>господину генералу отъ инфантерии</l>
  <l>генералъ прокурору, управляющему провианскимъ департаментом и разныхъ</l>
- <l>орденовъ кавалеру Обольянинову</l>
-  <l>Комисионера 8 класа Хрущова</l>
+ <l>орденовъ кавалеру <persName ref=#Обольянинов>Обольянинову</persName></l>
+  <l>Комисионера 8 класа <persName ref=#Хрущов>Хрущова</persName></l>
  <l>Рапортъ</l>
  <l>Вследствие повелѣния вашего высоко-</l>
  <l>превосходительства сего числа  прибывъ</l>
@@ -68,7 +68,7 @@
  <l>совершенномъ покое. Какъ я ихъ въ</l>
  <l>семъ и оставил. О чем имѣю счастие</l>
  <l>представить. Комисионер 8 класа</l>
- <l>Хрущовъ</l>
+ <l><persName ref=#Хрущов>Хрущовъ</persName></l>
  <l>10 октября</l>
  <l>1800 года</l>
  <l>С. Петербургъ</l>
