@@ -4012,9 +4012,6 @@
           <cell rendition="date">1800-10-03</cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="#IL">Илья Лурье</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4024,7 +4021,9 @@
           <cell rendition="pages">
             <ref target="documents/260.html#p260-1" role="documentViewer" rendition="page">260</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
@@ -4083,9 +4082,6 @@
           <cell rendition="date">1800-10-17</cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="#IL">Илья Лурье</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4095,16 +4091,15 @@
           <cell rendition="pages">
             <ref target="documents/265.html#p265-1" role="documentViewer" rendition="page">265</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="#IL">Илья Лурье</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4115,7 +4110,9 @@
             <ref target="documents/266.html#p266-1" role="documentViewer" rendition="page">266</ref>
             <ref target="documents/266.html#p266-2" role="documentViewer" rendition="missing-page">266об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -4124,9 +4121,6 @@
           <cell rendition="date">1800-10-30</cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="#IL">Илья Лурье</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4136,7 +4130,9 @@
           <cell rendition="pages">
             <ref target="documents/267.html#p267-1" role="documentViewer" rendition="page">267</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -4145,9 +4141,6 @@
           <cell rendition="date">1800-10-30</cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="#IL">Илья Лурье</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4158,16 +4151,15 @@
             <ref target="documents/268.html#p268-1" role="documentViewer" rendition="page">268</ref>
             <ref target="documents/268.html#p268-2" role="documentViewer" rendition="missing-page">268об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="#IL">Илья Лурье</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4182,7 +4174,9 @@
             <ref target="documents/269.html#p271-1" role="documentViewer" rendition="page">271</ref>
             <ref target="documents/269.html#p271-2" role="documentViewer" rendition="missing-page">271об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
@@ -4252,10 +4246,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Донесение о болезни Боруховича</p>
+          </cell>
+          <cell rendition="date">1800-11-14</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4285,10 +4284,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Вызов Хаима с переводчиком</p>
+          </cell>
+          <cell rendition="date">1800-11-15</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4537,10 +4541,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Об отсылке бумаг Белорусскаго губернатора Северина</p>
+          </cell>
+          <cell rendition="date">1800-12-22</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="#IL">Илья Лурье</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
