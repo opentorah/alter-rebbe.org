@@ -7,8 +7,8 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
-          <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
-        </author>         
+        </author>
+        <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -47,6 +47,8 @@
   </teiHeader>
   <text>
     <body>
+      <pb xml:id="p259-1" n="259-1" facs="../facsimiles/259-1.jpg"/>
+       <fw type="pageNum" place="right">259</fw>
        <l>2 октября 1800 къ дѣлу</l>
       <l>Ваше высокопревосходительство</l>
    <l>Милостивой государь</l>
@@ -68,7 +70,6 @@
    <l>нии все говорятъ и утверждаютъ</l>
    <l>что они еще скорее исполняютъ</l>
    <l>свое обязанность чемъ другие</l>
-      <pb xml:id="p259-1" n="259-1" facs="../facsimiles/259-1.jpg"/>
       <pb xml:id="p259-2" n="259-2"/>
     </body>
   </text>
