@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -242,6 +242,7 @@
           <p rendition="mentions">
             <ref target="/archive/documents/111.html" role="documentViewer">111</ref>
             <ref target="/archive/documents/112.html" role="documentViewer">112</ref>
+            <ref target="/archive/documents/278.html" role="documentViewer">278</ref>
           </p>
         </person>
         <person xml:id="Зелман_Леизерович">
@@ -574,11 +575,14 @@
           <persName>Хрущов</persName>
           <p rendition="mentions">
             <ref target="/archive/documents/261.html" role="documentViewer">261</ref>
+            <ref target="/archive/documents/263.html" role="documentViewer">263</ref>
           </p>
         </person>
         <person xml:id="фонъ_Дер_Пален">
           <persName>фонъ Дер Пален</persName>
-          <p rendition="mentions"> </p>
+          <p rendition="mentions">
+            <ref target="/archive/documents/323.html" role="documentViewer">323</ref>
+          </p>
         </person>
         <person xml:id="Карнеевъ">
           <persName>Корнеевъ</persName>
@@ -602,6 +606,8 @@
         <person xml:id="Обольяниновъ">
           <persName>Обольянинов</persName>
           <p rendition="mentions">
+            <ref target="/archive/documents/263.html" role="documentViewer">263</ref>
+            <ref target="/archive/documents/264.html" role="documentViewer">264</ref>
             <ref target="/archive/documents/348.html" role="documentViewer">348</ref>
             <ref target="/dubnov/documents/090-1.html" role="documentViewer">090-1</ref>
             <ref target="/dubnov/documents/253-2.html" role="documentViewer">253-2</ref>
@@ -944,6 +950,8 @@
             <ref target="/archive/documents/259.html" role="documentViewer">259</ref>
             <ref target="/archive/documents/260.html" role="documentViewer">260</ref>
             <ref target="/archive/documents/261.html" role="documentViewer">261</ref>
+            <ref target="/archive/documents/263.html" role="documentViewer">263</ref>
+            <ref target="/archive/documents/264.html" role="documentViewer">264</ref>
             <ref target="/archive/documents/265.html" role="documentViewer">265</ref>
             <ref target="/archive/documents/266.html" role="documentViewer">266</ref>
             <ref target="/archive/documents/267.html" role="documentViewer">267</ref>
@@ -956,7 +964,10 @@
             <ref target="/archive/documents/277.html" role="documentViewer">277</ref>
             <ref target="/archive/documents/278.html" role="documentViewer">278</ref>
             <ref target="/archive/documents/279.html" role="documentViewer">279</ref>
+            <ref target="/archive/documents/322.html" role="documentViewer">322</ref>
+            <ref target="/archive/documents/323.html" role="documentViewer">323</ref>
             <ref target="/archive/documents/324.html" role="documentViewer">324</ref>
+            <ref target="/archive/documents/325.html" role="documentViewer">325</ref>
           </p>
           <p>работал по заказу и под руководством Мондшайна</p>
         </person>

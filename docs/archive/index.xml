@@ -4052,10 +4052,15 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт
+              <persName ref="#Обольяниновъ">Обольянинову</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1800-10-10</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="#Хрущов">Хрущов</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4065,13 +4070,17 @@
           <cell rendition="pages">
             <ref target="documents/263.html#p263-1" role="documentViewer" rendition="page">263</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Отчет о расходах Хрущова</p>
+          </cell>
+          <cell rendition="date">1800-10-15</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="#Обольяниновъ">Петръ Обольянинов</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4081,7 +4090,9 @@
           <cell rendition="pages">
             <ref target="documents/264.html#p264-1" role="documentViewer" rendition="page">264</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -4299,7 +4310,7 @@
           </cell>
           <cell rendition="date">1800-11-14</cell>
           <cell rendition="author">
-            <persName ref="#Файбишовичь">Файбишовичь</persName>
+            <persName ref="#Михель_Файбишович">Файбишовичь</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4538,8 +4549,10 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>О доставке Боруховича в Петербург</p>
+          </cell>
+          <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -4551,13 +4564,17 @@
           <cell rendition="pages">
             <ref target="documents/322.html#p322-1" role="documentViewer" rendition="page">322</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>О поручении оберъ-полицiймейстеру Зильбергарнишу</p>
+          </cell>
+          <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="#фонъ_Дер_Пален">фонъ Дер Пален</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4567,7 +4584,9 @@
           <cell rendition="pages">
             <ref target="documents/323.html#p323-1" role="documentViewer" rendition="page">323</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -4590,8 +4609,18 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>О евреѢ БоруховичѢ (</p>
+            <p>
+              Императорское решение о рассмотрении дела Сенатом
+              <date when="1801-03-21">Марта 21-го 1801 года</date>
+            </p>
+            <p>
+              Императорское решение Еврея Боруховича освободя отпустить въ домъ Его.
+              <date when="1800-11-26">1800 года ноября 26 дня</date>
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-21</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -4606,7 +4635,9 @@
             <ref target="documents/325.html#p326-1" role="documentViewer" rendition="page">326</ref>
             <ref target="documents/325.html#p326-2" role="documentViewer" rendition="page">326об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#IL">Илья Лурье</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
