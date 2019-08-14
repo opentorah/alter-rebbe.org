@@ -28,11 +28,7 @@
       <sourceDesc>
         <p>Facsimile</p>
       </sourceDesc>
-       <creation>
-        <date when="1800-11-02">ноябрь 2-го дня 1800</date>
-      </creation>
-      <abstract><p>Письмо <persName ref="#Кутузов" role="addressee">Кутузову</persName></p></abstract>
-       </fileDesc>
+        </fileDesc>
     <profileDesc>
       <langUsage>
         <language ident="ru"/>
@@ -42,6 +38,10 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+       <creation>
+        <date when="1800-11-02">ноябрь 2-го дня 1800</date>
+      </creation>
+      <abstract><p>Письмо <persName ref="#Кутузов" role="addressee">Кутузову</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text>
