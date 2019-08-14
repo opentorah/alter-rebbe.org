@@ -7,6 +7,7 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
+          <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -26,7 +27,7 @@
       </publicationStmt>
       <sourceDesc>
         <p>Facsimile</p>
-      </sourceDesc>
+        </sourceDesc>
     </fileDesc>
     <profileDesc>
       <langUsage>
@@ -37,11 +38,23 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-12-22">22 декабря 1800 года</date>
+      </creation>
+       <abstract>
+        <p>Об отсылке бумаг Белорусскаго губернатора Северина</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p324-1" n="324-1" facs="../facsimiles/324-1.jpg"/>
-    </body>
+      <l>ЗдѢсь вынуто отнощенiе Белорусскаго</l>
+ <l>губернатора Северина отъ 13 ноября</l>
+ <l>1800 года о преданiи и повиновенiи евреевъ</l>
+ <l>к его императорскому величеству</l>
+ <l>престолу, которое отослано в Сенатъ </l>
+ <l>съ прочими бумагами 22 декабря 1800 года</l>
+     </body>
   </text>
 </TEI>
