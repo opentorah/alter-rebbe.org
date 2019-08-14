@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -188,8 +188,11 @@
           <p>дочь Лейбы Меіеровича</p>
         </person>
         <person xml:id="Файбишовичь">
-          <persName> Файбишовичь</persName>
-           </person>
+          <persName>Файбишовичь</persName>
+          <p rendition="mentions">
+            <ref target="/archive/documents/278.html" role="documentViewer">278</ref>
+          </p>
+        </person>
         <person xml:id="Зелман_Янкелевич">
           <persName>Зелман Янкелевич</persName>
           <p rendition="mentions">
@@ -547,6 +550,7 @@
         <person xml:id="Кутузов">
           <persName>Кутузов</persName>
           <p rendition="mentions">
+            <ref target="/archive/documents/272.html" role="documentViewer">272</ref>
             <ref target="/dubnov/documents/256.html" role="documentViewer">256</ref>
             <ref target="/dubnov/documents/257.html" role="documentViewer">257</ref>
             <ref target="/dubnov/documents/262-2.html" role="documentViewer">262-2</ref>
@@ -561,6 +565,8 @@
         <person xml:id="Северинъ">
           <persName>Северинъ</persName>
           <p rendition="mentions">
+            <ref target="/archive/documents/275.html" role="documentViewer">275</ref>
+            <ref target="/archive/documents/276.html" role="documentViewer">276</ref>
             <ref target="/dubnov/documents/263-2.html" role="documentViewer">263-2</ref>
           </p>
         </person>
@@ -572,10 +578,14 @@
         </person>
         <person xml:id="Хрущов">
           <persName>Хрущов</persName>
-         </person>
+          <p rendition="mentions">
+            <ref target="/archive/documents/261.html" role="documentViewer">261</ref>
+          </p>
+        </person>
         <person xml:id="фонъ_Дер_Пален">
           <persName>фонъ Дер Пален</persName>
-         </person>
+          <p rendition="mentions"> </p>
+        </person>
         <person xml:id="Карнеевъ">
           <persName>Корнеевъ</persName>
           <p rendition="mentions">
@@ -937,13 +947,20 @@
             <ref target="/archive/documents/253.html" role="documentViewer">253</ref>
             <ref target="/archive/documents/255.html" role="documentViewer">255</ref>
             <ref target="/archive/documents/257.html" role="documentViewer">257</ref>
+            <ref target="/archive/documents/259.html" role="documentViewer">259</ref>
             <ref target="/archive/documents/260.html" role="documentViewer">260</ref>
+            <ref target="/archive/documents/261.html" role="documentViewer">261</ref>
             <ref target="/archive/documents/265.html" role="documentViewer">265</ref>
             <ref target="/archive/documents/266.html" role="documentViewer">266</ref>
             <ref target="/archive/documents/267.html" role="documentViewer">267</ref>
             <ref target="/archive/documents/268.html" role="documentViewer">268</ref>
             <ref target="/archive/documents/269.html" role="documentViewer">269</ref>
+            <ref target="/archive/documents/272.html" role="documentViewer">272</ref>
+            <ref target="/archive/documents/274.html" role="documentViewer">274</ref>
+            <ref target="/archive/documents/275.html" role="documentViewer">275</ref>
+            <ref target="/archive/documents/276.html" role="documentViewer">276</ref>
             <ref target="/archive/documents/277.html" role="documentViewer">277</ref>
+            <ref target="/archive/documents/278.html" role="documentViewer">278</ref>
             <ref target="/archive/documents/279.html" role="documentViewer">279</ref>
             <ref target="/archive/documents/324.html" role="documentViewer">324</ref>
           </p>
