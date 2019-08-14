@@ -7,8 +7,8 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
-          <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
-        </author>
+              </author>
+       <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -28,10 +28,7 @@
       <sourceDesc>
         <p>Facsimile</p>
       </sourceDesc>
-      <creation>
-        <date when="1800-11-02">1800 года Ноябрь 2-го дня</date>
-      </creation>
-    </fileDesc>
+      </fileDesc>
     <profileDesc>
       <langUsage>
         <language ident="ru"/>
@@ -41,15 +38,16 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+       <creation>
+        <date when="1800-11-02">1800 года Ноябрь 2-го дня</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p274-1" n="274-1" facs="../facsimiles/274-1.jpg"/>
-      <pb xml:id="p274-2" n="274-2" facs="../facsimiles/274-2.jpg"/>
-      <l>274</l>
- <l></l>
- <l>1800 года Ноябрь 2-го дня въ принятiи посланныхъ при</l>
+      <fw type="pageNum" place="right">274</fw>
+          <l>1800 года Ноябрь 2-го дня въ принятiи посланныхъ при</l>
  <l>семъ от Его высокопревосходительства господина генерала</l>
  <l>прокурора Обольнянинова пакетовъ, а именно</l>
  <l>№                 	Секретныхъ                                	№</l>
@@ -98,8 +96,8 @@
  <l>  	22 Ореусу въ Выборгъ</l>
  <l>А всего сорока одного пакета въ С.п.бургскомъ почтъ амптѢ роспи-</l>
  <l>сался  …</l>
- <l></l>
- <l>274 об</l>
+   <pb xml:id="p274-2" n="274-2" facs="../facsimiles/274-2.jpg"/>
+   <fw type="pageNum" place="left">274</fw>
  <l>1800 года Ноябрь 3 дня въ принятiи пос-</l>
  <l>ланныхъ при семъ от господина генерала</l>
  <l>прокурора Обольнянинова секретных паке-</l>
@@ -107,8 +105,6 @@
  <l>Рихтеру въ Ригу, 3-го Фризелю въ</l>
  <l>Вильну, 4 Лангелю в Ревель, и 5 Ореусу въ Выборгъ, въ С.п.бургскомъ почтамтѢ благова-</l>
  <l><unclear>...</unclear> былъ росписаться</l>
- <l></l>
-
     </body>
   </text>
 </TEI>
