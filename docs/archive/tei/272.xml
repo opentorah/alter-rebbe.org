@@ -7,8 +7,8 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
-          <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
         </author>
+        <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -47,9 +47,8 @@
   <text>
     <body>
       <pb xml:id="p272-1" n="272-1" facs="../facsimiles/272-1.jpg"/>
-      <pb xml:id="p272-2" n="272-2"/>
-      <pb xml:id="p273-1" n="273-1" facs="../facsimiles/273-1.jpg"/>
-      <l>секретно</l>
+      <fw type="pageNum" place="right">272</fw>
+        <l>секретно</l>
  <l>Милостивый Государь мой Михайла Ларiоновичъ.</l>
  <l>По высочайшему Его Императорскаго величества</l>
  <l>повеленiю сообщаю къ вашему высокопревосходитель-</l>
@@ -66,18 +65,18 @@
  <l>Милостивый государь мой,</l>
  <l>вашего высокопревосходительства </l>
  <l>покорный слуга</l>
- <l>№896-й</l>
+  <l>№896-й</l>
  <l>С П бургъ</l>
  <l>ноябрь 2-го дня</l>
  <l>1800      	        	        	        	P.S.</l>
  <l>Его Высоко пр-ву Коленищеву-Кутузову</l>
-<l>273</l>
+      <pb xml:id="p272-2" n="272-2"/>
+      <pb xml:id="p273-1" n="273-1" facs="../facsimiles/273-1.jpg"/>
+ <fw type="pageNum" place="right">273</fw>
  <l>Смоленскому Князю Гику под № 892</l>
  <l>Кiевскому Феньшу</l>
  <l>Иркуцкому Леццано  -  894</l>
  <l>Новороссiйскому Михельсону  -  895</l>
- <l></l>
-
-    </body>
+ <    </body>
   </text>
 </TEI>
