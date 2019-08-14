@@ -7,8 +7,8 @@
         <title type="main">?</title>
         <author>
           <persName>?</persName>
-          <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
-        </author>
+          </author>
+      <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -53,10 +53,8 @@
   <text>
     <body>
       <pb xml:id="p325-1" n="325-1" facs="../facsimiles/325-1.jpg"/>
-      <pb xml:id="p325-2" n="325-2" facs="../facsimiles/325-2.jpg"/>
-      <pb xml:id="p326-1" n="326-1" facs="../facsimiles/326-1.jpg"/>
-      <pb xml:id="p326-2" n="326-2" facs="../facsimiles/326-2.jpg"/>
-  <l>О евреѢ БоруховичѢ</l>
+      <fw type="pageNum" place="right">325</fw>
+      <l>О евреѢ БоруховичѢ</l>
  <l>(На полях</l>
  <l>высочайше </l>
  <l>повелено сенату</l>
@@ -109,8 +107,9 @@
       <l> такъ</l>	
       <l>же в зборѢ съ послѢдователей сему ученiю ве-</l>
  <l>ликихъ суммъ подъ предлогомъ посылки</l>
-  <l>325 об</l>
-  <l>въ Израильской край</l>   
+      <pb xml:id="p325-2" n="325-2" facs="../facsimiles/325-2.jpg"/>
+      <fw type="pageNum" place="left">325</fw>
+       <l>въ Израильской край</l>   
       <l> в обольщенiи дѢтей непо-</l>	
       <l>читать своихъ родителей и обваровывая ихъ </l>
  <l>давать деньги равинамъ</l>   
@@ -141,8 +140,9 @@
  <l>людей въ видѢ противомыслящихъ</l>   
       <l> не найдетъ</l>	
       <l>онъ Хаймовичъ себѢ ни отъ кого подтвержденiя,</l>
- <l>поелику никогда сего не было и быть не могло</l>  
- <l>326</l>
+ <l>поелику никогда сего не было и быть не могло</l> 
+      <pb xml:id="p326-1" n="326-1" facs="../facsimiles/326-1.jpg"/>
+      <fw type="pageNum" place="right">326</fw>
  <l>и тѢмъ болѢе, что всѢ сiи доносы дѢлалъ</l>
  <l>онъ по слухамъ</l>   
       <l> а по тому онъ Боруховичъ, давъ </l>    
@@ -180,6 +180,7 @@
  <l>ни чемъ другимъ съ самого рожденiя его тамъ</l>
  <l>не занимается, какъ единственнымъ чтенiемъ</l>
  <l>духовныхъ книгх, и Богомоленiемъ.</l>
-    </body>
+     <pb xml:id="p326-2" n="326-2" facs="../facsimiles/326-2.jpg"/>
+  </body>
   </text>
 </TEI>
