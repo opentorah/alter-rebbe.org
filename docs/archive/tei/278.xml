@@ -6,8 +6,9 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
-        </author>
+          <persName ref="#Файбишовичь">Файбишовичь</persName>
+                 </author>
+        <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -37,11 +38,35 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+       <creation>
+        <date when="1800-11-14">ноября 14 дня 1800 года</date>
+      </creation>
+      <abstract>
+        <p> Показания Файбишовича</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p278-1" n="278-1" facs="../facsimiles/278-1.jpg"/>
     </body>
-  </text>
+     <l>докладовано ноября 14 дня 1800 года СПбургъ</l>
+ <l>Я <unclear>...</unclear> Файбишовичь бѢлорусской губернiи</l>
+ <l>города Копыси мѢщанинъ приехалъ въ</l>
+ <l>Санктъ Петербургъ сего 15 ноября. Для</l>
+ <l>продажи кожи и юфту находящегося здесь,</l>
+ <l>витебскаго купца Давида Шлiомовича, которыя</l>
+ <l> посланы были около двухъ месяцовъ, адресован-</l>
+ <l>ны были на мое имя, но между тѢмъ</l>
+ <l>отъехалъ в Витебскъ</l>   
+    <l> тѢ товары </l>	
+    <l>еще непроданы и лежатъ въ домѢ док-</l>
+ <l>тора Шуберта, въ то время булъ я здесь</l>
+ <l>съ отцомъ моимъ у госпожи Аграфены</l>
+ <l>Александровны Рыбоперовой, от которой </l>
+ <l>мой отецъ аренду содерживаетъ i для ра-</l>
+ <l>щоту</l>   
+    <l> Копыской мещанинъ <unclear>...</unclear> Файби-</l>
+    <l>шович</l>
+   </text>
 </TEI>
