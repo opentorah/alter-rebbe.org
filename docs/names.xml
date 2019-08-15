@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -472,6 +472,7 @@
           <p rendition="mentions">
             <ref target="/archive/documents/058.html" role="documentViewer">058</ref>
             <ref target="/archive/documents/059.html" role="documentViewer">059</ref>
+            <ref target="/archive/documents/084.html" role="documentViewer">084</ref>
             <ref target="/archive/documents/090.html" role="documentViewer">090</ref>
             <ref target="/archive/documents/093.html" role="documentViewer">093</ref>
             <ref target="/archive/documents/097.html" role="documentViewer">097</ref>
@@ -617,7 +618,9 @@
         </person>
         <person xml:id="Павел_I">
           <persName>Павел I</persName>
-          <p rendition="mentions"> </p>
+          <p rendition="mentions">
+            <ref target="/archive/documents/084.html" role="documentViewer">084</ref>
+          </p>
           <ref target="https://ru.wikipedia.org/wiki/Павел_I">[Википедия]</ref>
         </person>
         <person xml:id="Бенкендорф">
