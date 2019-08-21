@@ -6,7 +6,7 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="#Булгаков">Булгаков</persName>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -47,8 +47,15 @@
       <pb xml:id="p055-1" n="055-1" facs="../facsimiles/055-1.jpg"/>
         <fw>№ 2784.</fw>
         <dateline><date when="1798-11-09">9 ноября 1798</date></dateline>
-        <fw>Секретно</fw>
+        <fw>Секретно</fw>       
         <fw type="pageNum" place="right">55.</fw>
+        <p>
+           <fw>№ 197</fw>
+          <date when="1798-10-28">28 Октября 1798</date>
+         <l>вилна</l>
+        <l>Его высокопревосходительству</l>
+        <l>Г. <persName ref="#Лопухин" role="addressee">Генералу Прокурору Лопухину</persName></l>
+        </p>
     </body>
   </text>
 </TEI>
