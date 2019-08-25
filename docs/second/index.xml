@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rendition="collection-index">
+        <row>
+          <cell rendition="description">Описание</cell>
+          <cell rendition="date">Дата</cell>
+          <cell rendition="author">Кто</cell>
+          <cell rendition="addressee">Кому</cell>
+          <cell rendition="language">Язык</cell>
+          <cell rendition="document">Документ</cell>
+          <cell rendition="pages">Страницы</cell>
+          <cell rendition="transcriber">Расшифровка</cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/00.html" role="documentViewer">00</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/00.html#p00v-01" role="documentViewer" rendition="page">00v-01</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/01.html" role="documentViewer">01</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/01.html#p00v-01" role="documentViewer" rendition="page">00v-01</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/02.html" role="documentViewer">02</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/02.html#p01v-02" role="documentViewer" rendition="page">01v-02</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">he</cell>
+          <cell rendition="document">
+            <ref target="documents/03.html" role="documentViewer">03</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/03.html#p03v-04" role="documentViewer" rendition="page">03v-04</ref>
+            <ref target="documents/03.html#p02v-03" role="documentViewer" rendition="page">02v-03</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/04.html" role="documentViewer">04</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/04.html#p03v-04" role="documentViewer" rendition="page">03v-04</ref>
+            <ref target="documents/04.html#p04v-05" role="documentViewer" rendition="page">04v-05</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/05.html" role="documentViewer">05</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/05.html#p05v-06" role="documentViewer" rendition="page">05v-06</ref>
+            <ref target="documents/05.html#p04v-05" role="documentViewer" rendition="page">04v-05</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/06.html" role="documentViewer">06</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/06.html#p05v-06" role="documentViewer" rendition="page">05v-06</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/07.html" role="documentViewer">07</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/07.html#p06v-07" role="documentViewer" rendition="page">06v-07</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/08.html" role="documentViewer">08</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/08.html#p07v-08" role="documentViewer" rendition="page">07v-08</ref>
+            <ref target="documents/08.html#p08v-09" role="documentViewer" rendition="page">08v-09</ref>
+            <ref target="documents/08.html#p08v-09" role="documentViewer" rendition="page">08v-09</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/10.html" role="documentViewer">10</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/10.html#p09v-10" role="documentViewer" rendition="page">09v-10</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/11.html" role="documentViewer">11</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/11.html#p10v-11" role="documentViewer" rendition="page">10v-11</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">he</cell>
+          <cell rendition="document">
+            <ref target="documents/12.html" role="documentViewer">12</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/12.html#p11v-12" role="documentViewer" rendition="page">11v-12</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/13.html" role="documentViewer">13</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/13.html#p12v-13" role="documentViewer" rendition="page">12v-13</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/14.html" role="documentViewer">14</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/14.html#p13v-14" role="documentViewer" rendition="page">13v-14</ref>
+            <ref target="documents/14.html#p14v-15" role="documentViewer" rendition="page">14v-15</ref>
+            <ref target="documents/14.html#p14v-15" role="documentViewer" rendition="page">14v-15</ref>
+            <ref target="documents/14.html#p15v-16" role="documentViewer" rendition="page">15v-16</ref>
+            <ref target="documents/14.html#p15v-16" role="documentViewer" rendition="page">15v-16</ref>
+            <ref target="documents/14.html#p16v-17" role="documentViewer" rendition="page">16v-17</ref>
+            <ref target="documents/14.html#p16v-17" role="documentViewer" rendition="page">16v-17</ref>
+            <ref target="documents/14.html#p17v-18" role="documentViewer" rendition="page">17v-18</ref>
+            <ref target="documents/14.html#p17v-18" role="documentViewer" rendition="page">17v-18</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/19.html" role="documentViewer">19</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/19.html#p18v-19" role="documentViewer" rendition="page">18v-19</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">he</cell>
+          <cell rendition="document">
+            <ref target="documents/20.html" role="documentViewer">20</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/20.html#p20v-21" role="documentViewer" rendition="page">20v-21</ref>
+            <ref target="documents/20.html#p19v-20" role="documentViewer" rendition="page">19v-20</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/21.html" role="documentViewer">21</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/21.html#p20v-21" role="documentViewer" rendition="page">20v-21</ref>
+            <ref target="documents/21.html#p21v-22" role="documentViewer" rendition="page">21v-22</ref>
+            <ref target="documents/21.html#p21v-22" role="documentViewer" rendition="page">21v-22</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/23.html" role="documentViewer">23</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/23.html#p22v-23" role="documentViewer" rendition="page">22v-23</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/24.html" role="documentViewer">24</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/24.html#p23v-24" role="documentViewer" rendition="page">23v-24</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/25.html" role="documentViewer">25</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/25.html#p24v-25" role="documentViewer" rendition="page">24v-25</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/26.html" role="documentViewer">26</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/26.html#p25v-26" role="documentViewer" rendition="page">25v-26</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/27.html" role="documentViewer">27</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/27.html#p26v-27" role="documentViewer" rendition="page">26v-27</ref>
+            <ref target="documents/27.html#p27v-28" role="documentViewer" rendition="page">27v-28</ref>
+            <ref target="documents/27.html#p27v-28" role="documentViewer" rendition="page">27v-28</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/29.html" role="documentViewer">29</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/29.html#p28v-29" role="documentViewer" rendition="page">28v-29</ref>
+            <ref target="documents/29.html#p29v-30" role="documentViewer" rendition="page">29v-30</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/30.html" role="documentViewer">30</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/30.html#p29v-30" role="documentViewer" rendition="page">29v-30</ref>
+            <ref target="documents/30.html#p30v-31" role="documentViewer" rendition="page">30v-31</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/31.html" role="documentViewer">31</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/31.html#p30v-31" role="documentViewer" rendition="page">30v-31</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/32.html" role="documentViewer">32</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/32.html#p31v-32" role="documentViewer" rendition="page">31v-32</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+      </table>
+    </body>
+  </text>
+</TEI>

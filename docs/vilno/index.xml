@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rendition="collection-index">
+        <row>
+          <cell rendition="description">Описание</cell>
+          <cell rendition="date">Дата</cell>
+          <cell rendition="author">Кто</cell>
+          <cell rendition="addressee">Кому</cell>
+          <cell rendition="language">Язык</cell>
+          <cell rendition="document">Документ</cell>
+          <cell rendition="pages">Страницы</cell>
+          <cell rendition="transcriber">Расшифровка</cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/250.html" role="documentViewer">250</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/250.html#p1799-250" role="documentViewer" rendition="page">1799-250</ref>
+            <ref target="documents/250.html#p1799-250v" role="documentViewer" rendition="page">1799-250v</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/265.html" role="documentViewer">265</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/265.html#p1799-265" role="documentViewer" rendition="page">1799-265</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/276.html" role="documentViewer">276</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/276.html#p1799-276" role="documentViewer" rendition="page">1799-276</ref>
+            <ref target="documents/276.html#p1799-276v" role="documentViewer" rendition="page">1799-276v</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/280.html" role="documentViewer">280</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/280.html#p1799-280" role="documentViewer" rendition="page">1799-280</ref>
+            <ref target="documents/280.html#p1799-280v-281" role="documentViewer" rendition="page">1799-280v-281</ref>
+            <ref target="documents/280.html#p1799-280v-281" role="documentViewer" rendition="page">1799-280v-281</ref>
+            <ref target="documents/280.html#p1799-281v-282" role="documentViewer" rendition="page">1799-281v-282</ref>
+            <ref target="documents/280.html#p1799-281v-282" role="documentViewer" rendition="page">1799-281v-282</ref>
+            <ref target="documents/280.html#p1799-282v-283" role="documentViewer" rendition="page">1799-282v-283</ref>
+            <ref target="documents/280.html#p1799-282v-283" role="documentViewer" rendition="page">1799-282v-283</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/287.html" role="documentViewer">287</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/287.html#p1799-287" role="documentViewer" rendition="page">1799-287</ref>
+            <ref target="documents/287.html#p1799-287v" role="documentViewer" rendition="page">1799-287v</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/344.html" role="documentViewer">344</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/344.html#p1799-344" role="documentViewer" rendition="page">1799-344</ref>
+            <ref target="documents/344.html#p1799-344v-345" role="documentViewer" rendition="page">1799-344v-345</ref>
+            <ref target="documents/344.html#p1799-344v-345" role="documentViewer" rendition="page">1799-344v-345</ref>
+            <ref target="documents/344.html#p1799-345v-346" role="documentViewer" rendition="page">1799-345v-346</ref>
+            <ref target="documents/344.html#p1799-345v-346" role="documentViewer" rendition="page">1799-345v-346</ref>
+            <ref target="documents/344.html#p1799-346" role="documentViewer" rendition="page">1799-346</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/913.html" role="documentViewer">913</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/913.html#p1800-13" role="documentViewer" rendition="page">1800-13</ref>
+            <ref target="documents/913.html#p1800-13v" role="documentViewer" rendition="page">1800-13v</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+      </table>
+    </body>
+  </text>
+</TEI>
