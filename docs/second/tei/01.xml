@@ -3,7 +3,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><author>?</author></titleStmt>
+            <titleStmt>
+                <author> 
+                    <persName ref="#Обольяниновъ">Обольянинов</persName>
+                </author>
+              </titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <date>?</date>
@@ -22,6 +26,10 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <abstract>
+        <p>Копия. Сопроводительное письмо.</p>
+      </abstract>
+            <date when="1800-11-27">27 ноября 1800</date>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
