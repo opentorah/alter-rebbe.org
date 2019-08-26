@@ -22,11 +22,16 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+             <abstract>
+        <p>Заголовок раздела</p>
+      </abstract>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
         <body>
             <pb xml:id="p02-1" n="01v-02" facs="../facsimiles/01v-02.jpg"/>
+            <p><l>доказательства</l>
+                <l>Еврея Абигдора Хаймовича</l></p>
         </body>
     </text>
 </TEI>
