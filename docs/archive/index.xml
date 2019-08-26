@@ -49,7 +49,7 @@
         </row>
         <row>
           <cell rendition="description">
-            О Еврейской секте Каролинов и об учителе их Раввине Залмане Боруховиче и о доносах Еврея Гирша Давидовича 1798 г.
+            О Еврейской секте Каролинов и об учителе их Раввине Залмане Боруховиче и о доносах Еврея Гирша Давидовича. 1798 г. 376 л.
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -63,7 +63,9 @@
           <cell rendition="pages">
             <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell cols="8">
@@ -771,9 +773,11 @@
           <cell rendition="description">?</cell>
           <cell rendition="date">1798-11-09</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="#Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Генералу Прокурору Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/055.html" role="documentViewer">055</ref>
@@ -1038,7 +1042,9 @@
           <cell rendition="author">
             <persName ref="#Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Лопухин">Петръ Васильевичъ</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/087.html" role="documentViewer">087</ref>
@@ -2105,7 +2111,10 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">Заставка: Бумаги, найденные у Меера Рафаиловича</cell>
+          <cell rendition="description">
+            Заставка: Бумаги, найденные у
+            <persName ref="#Меіер_Рафалович">Меера Рафаиловича</persName>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
@@ -2118,7 +2127,9 @@
           <cell rendition="pages">
             <ref target="documents/143a.html#p143a-1" role="documentViewer" rendition="page">143a</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -2256,7 +2267,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заставка: Письмо, найденное у Вольфа Шмулевича</p>
+            <p>
+              Заставка: Письмо, найденное у
+              <persName ref="#Вулф_Шимеліович">Вольфа Шмулевича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -2270,7 +2284,9 @@
           <cell rendition="pages">
             <ref target="documents/150a.html#p150a-1" role="documentViewer" rendition="page">150a</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
@@ -2322,7 +2338,9 @@
           <cell rendition="pages">
             <ref target="documents/152a.html#p152a-1" role="documentViewer" rendition="page">152a</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
@@ -2443,7 +2461,7 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">&quot;Росписки въ денгахъ пересланных въ Јерусалимъ&quot;</cell>
+          <cell rendition="description">Заставка: Росписки въ денгахъ пересланных въ Јерусалимъ</cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
@@ -3648,7 +3666,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заставка: Бумаги Рафаила Шломовича</p>
+            <p>
+              Заставка: Бумаги
+              <persName ref="#Рафаил_Шлїомович">Рафаила Шломовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -3662,7 +3683,9 @@
           <cell rendition="pages">
             <ref target="documents/234.html#p234-1" role="documentViewer" rendition="page">234</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">Содержание бумаг привезенных из Видзы с Жидом Рафаилом Шломовичем</cell>
@@ -4809,7 +4832,9 @@
           <cell rendition="pages">
             <ref target="documents/336.html#p336-1" role="documentViewer" rendition="page">336</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#ALD">Арье-Лейб Дубинский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
