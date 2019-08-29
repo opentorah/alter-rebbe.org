@@ -3,11 +3,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><author>?</author></titleStmt>
+            <titleStmt><author><editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></author></titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor>
-                <date>?</date>
+                                <date>?</date>
                 <availability status="free">
                     <licence>
                         <ab>
@@ -33,10 +32,10 @@
         <body>
             <pb xml:id="p006-1" n="006-1" facs="../facsimiles/006-1.jpg"/>
             <p>
-6
+<fw type="pageNum">6<</fw>
 </p>
 <p>
-копiя
+<fw>копiя</fw>
 </p>
 <p>
 <l><date when="1800-11-28">1800 года ноября 28 дня</date> въжурналѣ пра-</l>
@@ -48,8 +47,8 @@
 <l>раторскаго величества Указъ объяв-</l>
 <l>ленный Сенату Господиномъ Генераломъ</l>
 <l>отъ инфантерiи Генералъ Прокуроромъ</l>
-<l>кавалеромъ <persName ref="#Обольяниновъ">Петромъ Хрисанфови-</l>
-<l>чемъ Обольяниновымъ</persName> въ <date when="1800-11-27">27-й<add place="above">го</add> день
+<l>кавалеромъ <persName ref="#Обольяниновъ">Петромъ Хрисанфови-
+чемъ Обольяниновымъ</persName> въ <date when="1800-11-27">27-й<hi="superscript">го</hi> день
 <l>сего ноября</date>, о разсмотренiи Сенату</l>
 <l>дѣла  между Евреями Абигдаром</l>
 <l>Хаймовичемъ и Залманомъ борухови-</l>
