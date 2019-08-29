@@ -26,6 +26,18 @@ tei-emph[rend='big'] {
   font-size: large;
 }
 
+tei-hi[rend='underline'] {
+  text-decoration: underline;
+}
+
+tei-hi[rend='big'] {
+  font-size: large;
+}
+
+tei-hi[rend='superscript'] {
+  vertical-align: super;
+}
+
 tei-unclear {
   background-color: #aaffaa;
 }
