@@ -26,13 +26,12 @@
     </teiHeader>
     <text xml:lang="ru">
         <body>
-            <pb xml:id="p344-1" n="1799-344"      facs="../facsimiles/1799-344.jpg"/>
-            <pb xml:id="p344-2" n="1799-344v-345" facs="../facsimiles/1799-344v-345.jpg"/>
-            <pb xml:id="p345-1" n="1799-344v-345" facs="../facsimiles/1799-344v-345.jpg"/>
-            <pb xml:id="p345-2" n="1799-345v-346" facs="../facsimiles/1799-345v-346.jpg"/>
-            <pb xml:id="p346-1" n="1799-345v-346" facs="../facsimiles/1799-345v-346.jpg"/>
-            <!-- facsimile image seems to be misnamed; should have been '1799-346v': -->
-            <pb xml:id="p346-2" n="1799-346" facs="../facsimiles/1799-346.jpg"/>
+            <pb xml:id="p344-1" n="344-1" facs="../facsimiles/344-1.jpg"/>
+            <pb xml:id="p344-2" n="344-2" facs="../facsimiles/344-2.jpg"/>
+            <pb xml:id="p345-1" n="345-1" facs="../facsimiles/345-1.jpg"/>
+            <pb xml:id="p345-2" n="345-2" facs="../facsimiles/345-2.jpg"/>
+            <pb xml:id="p346-1" n="346-1" facs="../facsimiles/346-1.jpg"/>
+            <pb xml:id="p346-2" n="346-2" facs="../facsimiles/346-2.jpg"/>
         </body>
     </text>
 </TEI>
