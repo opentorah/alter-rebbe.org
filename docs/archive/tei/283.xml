@@ -1,76 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">?</title>
-        <author>
-          <persName>?</persName>
-        </author>
-        <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <date>?</date>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p283-1" n="283-1" facs="../facsimiles/283-1.jpg"/>
-      <pb xml:id="p283-2" n="283-2" facs="../facsimiles/283-2.jpg"/>
-      <l><fw type="pageNum" place="right">283 об</fw></l>   
- <l>3. Въ той же Каролинской книгѢ</l>
- <l>написано, что человѢкъ не дол-</l>
- <l>женъ бояться никакого тво-</l>
- <l>ренiя ибо хотя и случается,</l>
- <l>что человѢкъ или звѢрь при-</l>
- <l>чиняетъ человѢкамъ какой</l>
- <l>либо вредъ, то сïе происходитъ</l>
- <l>отъ Бога, которой</l>
- <l>входя въ ту </l>
- <l>тварь, причиняетъ наказанïе то</l>
- <l>заслужившему</l>
- <l>каковое ученïе противно еврей-</l>
- <l>ской религïи ибо преступника</l>
- <l>не должно бы было наказывать,</l>
- <l>есть ли бы въ немъ Богъ при-</l>
- <l>судствовалъ и тотъ при-</l>
- <l>чинялъ вредъ.</l>
- <l>4.     Въ оной же книгѢ запрещается </l>
- <l>человѢку бояться другаго чело-</l>
- <l>вѢка или другой твари, ниже</l>
- <l>хвалить или лешить кого, и</l>
- <l>не <unclear>любить</unclear>  никого, кромѢ Бога</l>   
-  <l>что противно Еврейскому Закону</l>
- <l>и библiи, по которой <unclear>...</unclear> , что Праотцы святые</l>
- <l>Абрамъ, Исаак, Jаковъ, и Моисей </l>
- <l>и Давидъ боялись человѢка</l>
-    </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">?</title>
+                <author>
+                    <persName>?</persName>
+                </author>
+                <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ptr target="www.alter-rebbe.org"/>
+                </publisher>
+                <date>?</date>
+                <availability status="free">
+                    <licence>
+                        <ab>
+                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                                Creative Commons Attribution 4.0 International License
+                            </ref>
+                        </ab>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Facsimile</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="ru"/>
+            </langUsage>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian calendar</p>
+                </calendar>
+            </calendarDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="p283-1" n="283-1" facs="../facsimiles/283-1.jpg"/>
+            <pb xml:id="p283-2" n="283-2" facs="../facsimiles/283-2.jpg"/>
+            <l><fw type="pageNum" place="right">283 об</fw></l>
+            <l>3. Въ той же Каролинской книгѢ</l>
+            <l>написано, что человѢкъ не дол-</l>
+            <l>женъ бояться никакого тво-</l>
+            <l>ренiя ибо хотя и случается,</l>
+            <l>что человѢкъ или звѢрь при-</l>
+            <l>чиняетъ человѢкамъ какой</l>
+            <l>либо вредъ, то сïе происходитъ</l>
+            <l>отъ Бога, которой</l>
+            <l>входя въ ту </l>
+            <l>тварь, причиняетъ наказанïе то</l>
+            <l>заслужившему</l>
+            <l>каковое ученïе противно еврей-</l>
+            <l>ской религïи ибо преступника</l>
+            <l>не должно бы было наказывать,</l>
+            <l>есть ли бы въ немъ Богъ при-</l>
+            <l>судствовалъ и тотъ при-</l>
+            <l>чинялъ вредъ.</l>
+            <l>4.     Въ оной же книгѢ запрещается </l>
+            <l>человѢку бояться другаго чело-</l>
+            <l>вѢка или другой твари, ниже</l>
+            <l>хвалить или лешить кого, и</l>
+            <l>не <unclear>любить</unclear>  никого, кромѢ Бога</l>
+            <l>что противно Еврейскому Закону</l>
+            <l>и библiи, по которой <unclear>...</unclear> , что Праотцы святые</l>
+            <l>Абрамъ, Исаак, Jаковъ, и Моисей </l>
+            <l>и Давидъ боялись человѢка</l>
+            <pb xml:id="p284-1" n="284-1" facs="../facsimiles/284-1.jpg"/>
+            <pb xml:id="p284-2" n="284-2" facs="../facsimiles/284-2.jpg"/>
+            <l><fw type="pageNum" place="right">284 об</fw></l>
+            <l>Собирать деньги на содержанiе</l>
+            <l>богумолящихся в JерусалимѢ,</l>
+            <l>однакожъ нетемъ, какъ теперь</l>
+            <l>ежели справится по книгамъ,</l>
+            <l>то видѢть можно, что давнiи</l>
+            <l>зборъ не состовлялъ и сотой </l>
+            <l>части нынѢшнего</l>
+            <l> не взирая на то,</l>
+            <l>что по еврейской религiи должно оста-</l>
+            <l>влять девять частей на домашнихъ</l>
+            <l>убогихъ, а десятую отсылать на</l>
+            <l>содержанiе Jерусалимскихъ.</l>
+            <l>А чтожъ принадлежитъ до прочихъ</l>
+            <l>несогласностей и злоупотребленiи</l>
+            <l>секты Кароинской съ старымъ</l>
+            <l>еврейскимъ Закономъ, то неже-</l>
+            <l>лаетъ и не въ силахъ симъ отомъ доказать,</l>
+            <l>а проситъ чтобы выписать всѢхъ</l>
+            <l>рабиновъ Королинской Секты</l>
+            <l>и столько же рабиновъ стараго</l>
+            <l>Еврейскаго Закона. </l>
+            <pb xml:id="p285-1" n="285-1" facs="../facsimiles/285-1.jpg"/>
+            <pb xml:id="p285-2" n="285-2"/>
+            <pb xml:id="p286-1" n="286-1" facs="../facsimiles/286-1.jpg"/>
+            <pb xml:id="p286-2" n="286-2" facs="../facsimiles/286-2.jpg"/>
+            <pb xml:id="p287-1" n="287-1" facs="../facsimiles/287-1.jpg"/>
+            <pb xml:id="p287-2" n="287-2" facs="../facsimiles/287-2.jpg"/>
+            <pb xml:id="p288-1" n="288-1" facs="../facsimiles/288-1.jpg"/>
+            <pb xml:id="p288-2" n="288-2"/>
+        </body>
+    </text>
 </TEI>
