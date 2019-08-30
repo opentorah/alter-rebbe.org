@@ -94,7 +94,9 @@
             <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
             <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -139,7 +141,7 @@
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
-          <cell rendition="language">ru</cell>
+          <cell rendition="language">he</cell>
           <cell rendition="document">
             <ref target="documents/005.html" role="documentViewer">005</ref>
           </cell>

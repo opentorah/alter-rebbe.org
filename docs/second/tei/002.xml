@@ -3,8 +3,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><author>?</author></titleStmt>
-            <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor>
+            <titleStmt><author>?</author>
+                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor>
+            </titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <date>?</date>
@@ -23,16 +24,16 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-             <abstract>
-        <p>Заголовок раздела</p>
-      </abstract>
+            <abstract>
+                <p>Заголовок раздела</p>
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
         <body>
             <pb xml:id="p002-1" n="002-1" facs="../facsimiles/002-1.jpg"/>
             <p><l>доказательства</l>
-                <l>Еврея Абигдора Хаймовича</l></p>
+                <l>Еврея Абигдара Хаймовича</l></p>
             <pb xml:id="p002-2" n="002-2" facs="../facsimiles/002-2.jpg"/>
         </body>
     </text>
