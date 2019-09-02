@@ -3,7 +3,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><author>?</author></titleStmt>
+            <titleStmt>
+               <author>?
+                </author>
+                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></titleStmt> 
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <date>?</date>
@@ -30,6 +33,25 @@
     <text xml:lang="ru">
         <body>
             <pb xml:id="p010-1" n="010-1" facs="../facsimiles/010-1.jpg"/>
+            <fw type="pageNum" place="right"><del rend="overstrike">46</del></fw>10
+<fw type="pageNum" place="right">10</fw>
+<l><date when="1800-12-01">1800 Года декабря   , дня</date>. Мы нижеподписавшіеся</l>
+<l>разсматривали бумаги принадлежавшія еврею Борухо<lb/>
+вичу и симъ показываемъ, что въ запечатанномъ</l>
+<l>мешкѣ находятся бумаги, которыя суть разных</l>
+<l>евреевъ миролюбныя удѣлки, и обязательства,</l>
+<l>кои даны ему боруховичу подъ сохраненіе, дабы въ испол<lb/>
+неніи оныъ не послѣдовало распровъ, ибо они стыдясь</l>
+<l>почитанія его боруховича не будутъ нарушать оныя, </l>
+<l>которымъ бумагамъ <unclear>калерабетный</unclear> регистръ прило<lb/>
+женъ тамъ же. А кромѣ сихъ и краткаго сочине<lb/>
+нія  обрядахъ еврейской религіи выбраннаго изъ</l>
+<l>древные еврейскихъ книгъ никакихъ другихъ а па<lb/>
+че противныхъ еврейскому Закону или благу народ<lb/>
+ному нетъ. въ чемъ подписуемся. ___</l>
+<l>Переводчикъ съ еврейскаго <signed>еврей Лейба невиховичъ</signed></l>
+<l>Переводчикъ съ еврейскаго <signed>еврей Юда<lb/> <unclear>Файбигновичъ</unclear></signed></l>
+
             <pb xml:id="p010-2" n="010-2" facs="../facsimiles/010-2.jpg"/>
         </body>
     </text>
