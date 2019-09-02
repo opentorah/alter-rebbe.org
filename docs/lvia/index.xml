@@ -65,21 +65,6 @@
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
-            <ref target="documents/013.html" role="documentViewer">013</ref>
-          </cell>
-          <cell rendition="pages">
-            <ref target="documents/013.html#p013-1" role="documentViewer" rendition="page">013</ref>
-            <ref target="documents/013.html#p013-2" role="documentViewer" rendition="page">013об</ref>
-          </cell>
-          <cell rendition="transcriber"></cell>
-        </row>
-        <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document">
             <ref target="documents/250.html" role="documentViewer">250</ref>
           </cell>
           <cell rendition="pages">
@@ -168,6 +153,21 @@
             <ref target="documents/344.html#p345-2" role="documentViewer" rendition="page">345об</ref>
             <ref target="documents/344.html#p346-1" role="documentViewer" rendition="page">346</ref>
             <ref target="documents/344.html#p346-2" role="documentViewer" rendition="page">346об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/013.html" role="documentViewer">013</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/013.html#p013-1" role="documentViewer" rendition="page">013</ref>
+            <ref target="documents/013.html#p013-2" role="documentViewer" rendition="page">013об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
