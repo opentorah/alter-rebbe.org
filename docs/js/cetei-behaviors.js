@@ -12,6 +12,7 @@ export default {
     // wraps the content of the <ref> in an HTML link
     // LMD ref with 'role' - which becomes 'target' on the 'a'
     "ref": [
+      // LMD: in the original:  ["[target]", ["<a href=\"$rw@target\">","</a>"]]
       ["[role]", ["<a href=\"$rw@target\" target=\"$@role\">","</a>"]],
       ["_", ["<a href=\"$rw@target\">","</a>"]]
     ],
@@ -110,7 +111,7 @@ export default {
       return table;
     },
     "teiHeader": function(e) {
-      this.hideContent(e);
+      this.hideContent(e, false);
     },
     "title": [
       ["tei-titlestmt>tei-title", function(elt) {

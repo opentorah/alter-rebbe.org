@@ -79,8 +79,8 @@ class CETEI {
           // Elements with defined namespaces get the prefix mapped to that element. All others keep
           // their namespaces and are copied as-is.
           let newElement;
-          if (this.namespaces.has(el.namespaceURI)) {
-            let prefix = this.namespaces.get(el.namespaceURI);
+          if (this.namespaces.has(el.namespaceURI?el.namespaceURI:"")) {
+            let prefix = this.namespaces.get(el.namespaceURI?el.namespaceURI:"");
             newElement = document.createElement(prefix + "-" + el.localName);
           } else {
             newElement = document.importNode(el, false);
@@ -249,6 +249,14 @@ class CETEI {
       this.behaviors[p + ":" + element] = b;
     }
 
+    /* To change a namespace -> prefix mapping, the namespace must first be
+       unset. Takes a namespace URI. In order to process a TEI P4 document, e.g.,
+       the TEI namespace must be unset before it can be set to the empty string.
+    */
+    unsetNamespace(ns) {
+      this.namespaces.delete(ns);
+    }
+
     /* Sets the base URL for the document. Used to rewrite relative links in the
        XML source (which may be in a completely different location from the HTML
        wrapper).
@@ -260,8 +268,8 @@ class CETEI {
     // "private" method
     _learnElementNames(XML_dom) {
         let root = XML_dom.documentElement;
-        this.els = new Set( Array.from(root.querySelectorAll("*"), e => (this.namespaces.has(e.namespaceURI)?this.namespaces.get(e.namespaceURI) + ":":"") + e.localName) );
-        this.els.add((this.namespaces.has(root.namespaceURI)?this.namespaces.get(root.namespaceURI)+":":"") + root.localName); // Add the root element to the array
+        this.els = new Set( Array.from(root.querySelectorAll("*"), e => (this.namespaces.has(e.namespaceURI?e.namespaceURI:"")?this.namespaces.get(e.namespaceURI?e.namespaceURI:"") + ":":"") + e.localName) );
+        this.els.add((this.namespaces.has(root.namespaceURI?root.namespaceURI:"")?this.namespaces.get(root.namespaceURI?root.namespaceURI:"")+":":"") + root.localName); // Add the root element to the array
     }
 
     // private method
@@ -272,16 +280,25 @@ class CETEI {
           this._processElement(node);
         }
       }
-      if (strings.length > 1) {
-        span.innerHTML = strings[0] + elt.innerHTML + strings[1];
-        span.setAttribute("data-before", strings[0].replace(/<[^>]+>/g,"").length);
-        span.setAttribute("data-after", strings[1].replace(/<[^>]+>/g,"").length);
+      // If we have before and after tags have them parsed by
+      // .innerHTML and then add the content to the resulting child
+      if (strings[0].match("<[^>]+>") && strings[1] && strings[1].match("<[^>]+>")) {
+        span.innerHTML = strings[0] + (strings[1]?strings[1]:"");
+        for (let node of Array.from(elt.childNodes)) {
+          span.firstElementChild.appendChild(node.cloneNode(true));
+        }
       } else {
-        span.innerHTML = strings[0] + elt.innerHTML;
+        span.innerHTML = strings[0];
         span.setAttribute("data-before", strings[0].replace(/<[^>]+>/g,"").length);
+        for (let node of Array.from(elt.childNodes)) {
+          span.appendChild(node.cloneNode(true));
+        }
+        if (strings.length > 1) {
+          span.innerHTML += strings[1];
+          span.setAttribute("data-after", strings[1].replace(/<[^>]+>/g,"").length);
+        }
       }
       return span;
-      
     }
 
     // private method. Runs behaviors recursively on the supplied element and children
@@ -413,9 +430,11 @@ class CETEI {
       } else {
         let self = this;
         return function() {
-          let content = fn.call(self, this);
-          if (content && !self._childExists(this.firstElementChild, content.nodeName)) {
-            self._appendBasic(this, content);
+          if (!this.hasAttribute("data-processed")) {
+            let content = fn.call(self, this);
+            if (content && !self._childExists(this.firstElementChild, content.nodeName)) {
+              self._appendBasic(this, content);
+            }
           }
         }
       }
@@ -573,7 +592,11 @@ class CETEI {
             if (!n.hasAttribute("data-empty")) {
               if (nd.hasAttribute("data-original")) {
                 for (let childNode of Array.from(nd.childNodes)) {
-                  result.appendChild(_clone(childNode));
+                  let child = result.appendChild(_clone(childNode));
+                  if (child.nodeType === Node.ELEMENT_NODE && child.hasAttribute("data-origid")) {
+                    child.setAttribute("id", child.getAttribute("data-origid"));
+                    child.removeAttribute("data-origid");
+                  }
                 }
                 return result;
               } else {
@@ -611,7 +634,7 @@ class CETEI {
           str += "/>";
         }
       }
-
+      //TODO: Be smarter about skipping generated content with hidden original
       for (let node of Array.from(el.childNodes)) {
         switch (node.nodeType) {
           case Node.ELEMENT_NODE:
@@ -636,7 +659,7 @@ class CETEI {
     /* Wraps the content of the element parameter in a <span data-original>
      * with display set to "none".
      */
-    hideContent(elt) {
+    hideContent(elt, rewriteIds = true) {
       if (elt.childNodes.length > 0) {
         let hidden = document.createElement("span");
         elt.appendChild(hidden);
@@ -647,7 +670,14 @@ class CETEI {
             hidden.appendChild(elt.removeChild(node));
           }
         }
-        
+        if (rewriteIds) {
+          for (let e of Array.from(hidden.querySelectorAll("*"))) {
+            if (e.hasAttribute("id")) {
+              e.setAttribute("data-origid", e.getAttribute("id"));
+              e.removeAttribute("id");
+            }
+          }
+        }
       }
     }
 
