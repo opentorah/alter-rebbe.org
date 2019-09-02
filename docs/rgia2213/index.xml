@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <title>?</title>
+      <p>
+        Российский государственный исторический архив -
+        <ref target="http://www.fgurgia.ru/#!">РГИА</ref>
+        , Канцелярия генерал-прокурора Сената, фонд 1324, опись 3, 1800, дело 2213. Видимо, копии избранных документов второго ареста.
+      </p>
+      <p>
+        Описание в
+        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
+        : Материалы переписки генерал-прокурора Сената с литовским военным губернатором и другими по жалобе бывшего пинского &quot;обер-раввина&quot; Авигдора (сына Хайма, раввина Калиша) &quot;на притеснения и гонения, претерпеваемые им от новой секты&quot; хасидов. В жалобе упомянуты Виленский гаон и р. Шнеур Залман из Ляд.
+      </p>
+      <p>Документов этого дела у нас пока нет.</p>
+      <table rendition="collection-index">
+        <row>
+          <cell rendition="description">Описание</cell>
+          <cell rendition="date">Дата</cell>
+          <cell rendition="author">Кто</cell>
+          <cell rendition="addressee">Кому</cell>
+          <cell rendition="language">Язык</cell>
+          <cell rendition="document">Документ</cell>
+          <cell rendition="pages">Страницы</cell>
+          <cell rendition="transcriber">Расшифровка</cell>
+        </row>
+      </table>
+    </body>
+  </text>
+</TEI>

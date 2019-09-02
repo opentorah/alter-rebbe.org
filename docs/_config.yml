@@ -31,8 +31,11 @@ exclude:
   - Gemfile.lock
 
 header_pages:
+# collections-start
   - archive/index.html
-  - second/index.html
+  - rgia413/index.html
+  - rgia2213/index.html
   - dubnov/index.html
   - lvia/index.html
+# collections-end
   - names.html
