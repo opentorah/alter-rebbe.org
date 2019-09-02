@@ -465,7 +465,6 @@
             <ref target="/dubnov/documents/090-2.html" role="documentViewer">090-2</ref>
             <ref target="/dubnov/documents/264.html" role="documentViewer">264</ref>
             <ref target="/dubnov/documents/271.html" role="documentViewer">271</ref>
-            <ref target="/dubnov/documents/275-1.html" role="documentViewer">275-1</ref>
             <ref target="/dubnov/documents/275-2.html" role="documentViewer">275-2</ref>
           </p>
         </person>
@@ -681,32 +680,30 @@
           </p>
           <p>секретарь</p>
         </person>
-         <person xml:id="Тарабеев">
+        <person xml:id="Тарабеев">
           <persName>Петръ Тарабеевъ</persName>
           <p rendition="mentions">
-         </p>
-           </person>
-         <person xml:id="Беклешовъ">
+            <ref target="/dubnov/documents/275-1.html" role="documentViewer">275-1</ref>
+          </p>
+        </person>
+        <person xml:id="Беклешовъ">
           <persName>Генералъ-Прокурорь А. А. Беклешовъ</persName>
-          <p rendition="mentions">
-         </p>
-           </person>
+          <p rendition="mentions"> </p>
+        </person>
         <person xml:id="фонДубнов">
           <persName>граф фон Дубнов</persName>
           <p rendition="mentions">
             <ref target="/archive/documents/348.html" role="documentViewer">348</ref>
           </p>
         </person>
-         <person xml:id="Мириц">
+        <person xml:id="Мириц">
           <persName>Мириц</persName>
-          <p rendition="mentions">
-         </p> 
-            </person>
-           <person xml:id="Сафоновъ">
+          <p rendition="mentions"> </p>
+        </person>
+        <person xml:id="Сафоновъ">
           <persName>Сафоновъ</persName>
-          <p rendition="mentions">
-         </p>  
-          </person>
+          <p rendition="mentions"> </p>
+        </person>
       </listPerson>
       <listPlace>
         <head>Места</head>
@@ -1123,6 +1120,7 @@
             <ref target="/rgia413/documents/006.html" role="documentViewer">006</ref>
             <ref target="/rgia413/documents/007.html" role="documentViewer">007</ref>
             <ref target="/rgia413/documents/008.html" role="documentViewer">008</ref>
+            <ref target="/rgia413/documents/010.html" role="documentViewer">010</ref>
           </p>
         </person>
       </listPerson>
