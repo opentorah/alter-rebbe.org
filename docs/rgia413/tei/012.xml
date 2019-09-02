@@ -4,9 +4,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-               <author>?
+                <author>?
                 </author>
-                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></titleStmt> 
+                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <date>?</date>
@@ -26,8 +26,8 @@
             <langUsage><language ident="he"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
             <abstract>
-             Молитва за императора Павла
-                  </abstract>
+                Молитва за императора Павла
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text xml:lang="he">
@@ -35,13 +35,12 @@
             <pb xml:id="p012-1" n="012-1" facs="../facsimiles/012-1.jpg"/>
             <pb xml:id="p012-2" n="012-2" facs="../facsimiles/012-2.jpg"/>
             <p>
-<l>№=14 – Молитва по еврейски</l>
-<l>сочиненная облагоденствіи все-<lb/>
-милостивѣйшаго Государя</l>
-<l>Императора Павла петро=<lb/>
-вича съ фамилиею</l>
-</p>
-
+                <l>№=14 – Молитва по еврейски</l>
+                <l>сочиненная облагоденствіи все-<lb/>
+                    милостивѣйшаго Государя</l>
+                <l>Императора Павла петро=<lb/>
+                    вича съ фамилиею</l>
+            </p>
         </body>
     </text>
 </TEI>
