@@ -3,7 +3,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><author>?</author></titleStmt>
+            <titleStmt>
+               <author>?
+                </author>
+                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></titleStmt> 
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <date>?</date>
@@ -31,6 +34,14 @@
         <body>
             <pb xml:id="p012-1" n="012-1" facs="../facsimiles/012-1.jpg"/>
             <pb xml:id="p012-2" n="012-2" facs="../facsimiles/012-2.jpg"/>
+            <p>
+<l>№=14 – Молитва по еврейски</l>
+<l>сочиненная облагоденствіи все-<lb/>
+милостивѣйшаго Государя</l>
+<l>Императора Павла петро=<lb/>
+вича съ фамилиею</l>
+</p>
+
         </body>
     </text>
 </TEI>
