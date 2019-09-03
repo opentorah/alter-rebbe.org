@@ -22,11 +22,13 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation>
+                <date when="1801-03-11">11 марта 1801</date>
+            </creation>
+            <abstract>
+                <p>Прошение императору от Алтер Ребе</p>
+            </abstract>
         </profileDesc>
-         <abstract>
-        <p>Прошение императору от Алтер Ребе</p>
-         <date when="1801-03-11">11 марта 1801</date>
-      </abstract>
     </teiHeader>
     <text xml:lang="ru">
         <body>
