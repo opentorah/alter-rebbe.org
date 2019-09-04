@@ -31,7 +31,7 @@
   </teiHeader>
   <text>
     <body>
-      <title>&quot;О каролинской секте&quot;</title>
+      <!-- <title>{title}</title> -->
       <p>
         Российский государственный исторический архив -
         <ref target="http://www.fgurgia.ru/#!">РГИА</ref>
@@ -518,6 +518,11 @@
         <row>
           <cell rendition="description">
             <p>Копия записи в журнале Сената решения о прошении Алтер Ребе</p>
+            <p>
+              Документ
+              <ref role="documentViewer" target="/dubnov/documents/274.html">22</ref>
+              у Дубнова
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
