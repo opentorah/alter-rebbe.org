@@ -335,8 +335,8 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>No 11-а</num>
-              . Извещенiе о томъ же и справка Подольскаго губернатора
+              <num>No 11-а.</num>
+              Извещенiе о томъ же и справка Подольскаго губернатора
             </p>
           </cell>
           <cell rendition="date">1800-10-07</cell>
@@ -356,8 +356,8 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>No 12</num>
-              . Отзывъ Литовскаго губернатора о претензiи Авигдора
+              <num>No 12.</num>
+              Отзывъ Литовскаго губернатора о претензiи Авигдора
             </p>
           </cell>
           <cell rendition="date">1800-11-12</cell>
@@ -378,8 +378,8 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>No 13</num>
-              . Отзывъ Минскаго губернатора о претензіяхъ Авигдора
+              <num>No 13.</num>
+              Отзывъ Минскаго губернатора о претензіяхъ Авигдора
             </p>
           </cell>
           <cell rendition="date">1800-10-15</cell>
@@ -399,8 +399,8 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>No 14</num>
-              . Сообщение Бѣлорусскаго губернатора генералъ-прокурору объ отправке хасидскаго „начальника”
+              <num>No 14.</num>
+              Сообщение Бѣлорусскаго губернатора генералъ-прокурору объ отправке хасидскаго „начальника”
               <persName ref="#alter-rebbe">Боруховича</persName>
               въ
               <placeName ref="#Петербург">Петербургъ</placeName>
@@ -508,7 +508,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>No 18. Препровожденie въ 3-й департаментъ Сената книгъ и бумагъ, отобранныхъ при арестѣ Залмана</p>
+            <p>
+              <num>No 18.</num>
+              Препровожденie въ 3-й департаментъ Сената книгъ и бумагъ, отобранныхъ при арестѣ Залмана
+            </p>
           </cell>
           <cell rendition="date">1800-12-22</cell>
           <cell rendition="author">
@@ -528,7 +531,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>No 19. Реестрѣ бумагъ и книгъ Залмана Боруховича</p>
+            <p>
+              <num>No 19.</num>
+              Реестрѣ бумагъ и книгъ Залмана Боруховича
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/rgia413/documents/011.html">011</ref>
@@ -555,7 +561,7 @@
             <p>No 20. Дополнительное прошенiе Авигдора на имя генералъ-прокурора съ доносомъ на Хасидов</p>
             <p>
               Документ
-              <ref role="documentViewer" target="/rgia413/documents/021.html">021</ref>
+              <ref role="documentViewer" target="../../rgia413/documents/021.html">021</ref>
               в РГИА 413
             </p>
           </cell>
@@ -571,8 +577,22 @@
           <cell rendition="pages">
             <ref target="documents/271.html#p271" role="documentViewer" rendition="page">271</ref>
             <ref target="documents/271.html#p272" role="documentViewer" rendition="page">272</ref>
-            <ref target="documents/271.html#p273" role="documentViewer" rendition="page">273</ref>
-            <ref target="documents/271.html#p274" role="documentViewer" rendition="page">274</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description">
+            <p>Приложение к документу No 20.</p>
+          </cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/272.1.html" role="documentViewer">272.1</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/272.1.html#p272" role="documentViewer" rendition="page">272</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -586,16 +606,28 @@
               <ref role="documentViewer" target="/rgia413/documents/023.html">023</ref>
               в РГИА 413
             </p>
-            <p>Приложения А. Ордер белорусского губернатора об освобождении Залмана (1798)</p>
+          </cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">
+            <persName ref="#alter-rebbe">Алтер Ребе</persName>
+          </cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/272.2.html" role="documentViewer">272.2</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/272.2.html#p272" role="documentViewer" rendition="page">272</ref>
+            <ref target="documents/272.2.html#p273" role="documentViewer" rendition="page">273</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description">
+            <p>Приложение А к документу No 21. Ордер белорусского губернатора об освобождении Залмана (1798)</p>
             <p>
               Документ
               <ref role="documentViewer" target="/rgia413/documents/024.html">024</ref>
-              в РГИА 413
-            </p>
-            <p>Приложения Б. Объявление литовского губернатора о даровании терпимости каролинам</p>
-            <p>
-              Документ
-              <ref role="documentViewer" target="/rgia413/documents/025.html">025</ref>
               в РГИА 413
             </p>
           </cell>
@@ -606,12 +638,31 @@
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
-            <ref target="documents/272.html" role="documentViewer">272</ref>
+            <ref target="documents/273.html" role="documentViewer">273</ref>
           </cell>
           <cell rendition="pages">
-            <ref target="documents/272.html#p272" role="documentViewer" rendition="page">272</ref>
-            <ref target="documents/272.html#p273" role="documentViewer" rendition="page">273</ref>
-            <ref target="documents/272.html#p274" role="documentViewer" rendition="page">274</ref>
+            <ref target="documents/273.html#p274" role="documentViewer" rendition="page">274</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description">
+            <p>Приложение Б к документу No 21. Объявление литовского губернатора о даровании терпимости каролинам</p>
+            <p>
+              Документ
+              <ref role="documentViewer" target="/rgia413/documents/025.html">025</ref>
+              в РГИА 413
+            </p>
+          </cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/274.html" role="documentViewer">274</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/274.html#p274" role="documentViewer" rendition="page">274</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -631,10 +682,10 @@
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
-            <ref target="documents/274.html" role="documentViewer">274</ref>
+            <ref target="documents/274.2.html" role="documentViewer">274.2</ref>
           </cell>
           <cell rendition="pages">
-            <ref target="documents/274.html#p274" role="documentViewer" rendition="page">274</ref>
+            <ref target="documents/274.2.html#p274" role="documentViewer" rendition="page">274</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -658,7 +709,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>No 24. Прошенiе Авигдора на имя Сената съ жалобами на хасидовъ и освобожденнаго ихъ начальника Залмана</p>
+            <p>
+              <num>No 24.</num>
+              Прошенiе Авигдора на имя Сената съ жалобами на хасидовъ и освобожденнаго ихъ начальника Залмана
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/rgia413/documents/005.html">005</ref>
