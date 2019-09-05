@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName ref="#alter-rebbe">Алтер Ребе</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <abstract>
+        <p>No 21. Прошение Залмана на высоч. имя объ ускоренiи его дела, съ приложенiемъ
+        документовъ доказывающихъ безвредность хасидской секты</p>
+        <p>Документ <ref target="/rgia413/documents/023.html" role="documentViewer">023</ref> в РГИА 413</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p272" n="272" facs="../facsimiles/272.jpg"/>
+      <p>Всепресветлейший, Державнейший Великiй Государь Императорь Шавел ть II в тров и чте, Самодержецъ,
+        всероссійскій, Государь Всемилостивейший Просить Белорусской губернiи местечка Ліозны еврей Зал</p>
+      <pb xml:id="p273" n="273" facs="../facsimiles/273.jpg"/>
+      <p>Будучи известенъ, что дело по несправедливому доносу еврея Абикдора Хаймовича на меня и евреевъ хосе до вть, на
+        званныхъ имъ по не на в исти кароли нам и, производится теперь Прав. Сената поднопу всеподданнейше 2 документа
+        подъ литерами A и Б, изъясняющие Высочайшую В. Ива волю чтобъ оставить насъ въ прежнемъ существованiи, и
+        всеподданейше прошу:</p>
+      <p>Дабы Высочайшимъ В. И. В. указомъ повелено было сие мое прошение принявъ записать, и согласно прилагаемымъ
+        документамъ да ускорится разрешенiе судьбы нашей. Съ оныхъ же документовъ списавь къ делу копии, подлинныя мне
+        возвратить,</p>
+      <p>Всемилостивейший Государь! Прошу В. И. В. о семъ моемъ прошении решение учинить.</p>
+      <p>Марта... дня, 1801 года 1)</p>
+      <p>Къ поданию надлежитъ Прав. Сената въ 3-ій департаменть. Прошение писалъ канцеляристъ Рождественскiй.</p>
+      <p>Слушано 12 апреля 1801 года.</p>
+    </body>
+  </text>
+</TEI>
