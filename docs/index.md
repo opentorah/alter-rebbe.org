@@ -38,7 +38,11 @@ layout: page
 "О Еврейской сектеѣ Каролиновъ и объ учителѣ ихъ Раввинѣ Зальманѣ Боруховичѣ, и о доносахъ Еврея Гирша Давидовича".
 - <a href="/rgia413" target="collectionViewer">РГИА 413</a>:
 "О каролинской секте".
-- <a href="/rgia2213" target="collectionViewer">РГИА 2213</a>:
+- <a href="/rgia2213" target="collectionViewer">"2213"</a>:
+"?".
+- <a href="/rgia85" target="collectionViewer">"85"</a>:
+"?".
+- <a href="/rgia328" target="collectionViewer">"328"</a>:
 "?".
 - <a href="/dubnov" target="collectionViewer">Дубнов</a>:
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
