@@ -3,7 +3,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><author>?</author></titleStmt>
+            <titleStmt>
+               <author>?
+                </author>
+                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></titleStmt>
+
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <date>?</date>
@@ -31,6 +35,61 @@
     <text xml:lang="ru">
         <body>
             <pb xml:id="p025-1" n="025-1" facs="../facsimiles/025-1.jpg"/>
+            <fw type="note" place="left">№ 57<hi rend="superscript">ой</hi></fw>
+<fw type="pageNum" place="right"><del rend="overstrike">62</del></fw>
+<fw type="pageNum" place="right">25</fw> <fw type="note" place="left"><unclear> <note place="end">Строка на иврите</note> </unclear></fw>
+<fw type="note" place="center"><emph rend="underline">Копія</emph></fw>
+<fw type="note" place="center"><l>Получено <date when="1800-01-25">генваря 25<hi rend="superscript">го</hi> 1800<hi rend="superscript">го</hi> года</date></l></fw>
+
+<p>
+<head><l><emph rend="big">ПРЕДЛОЖЕНІЕ</emph><lb/>
+
+Дѣйствительнаго статскаго Совѣтника<lb/>
+Литовскаго Гражданскаго Губернатора и<lb/>
+кавалера<lb/>
+
+виленской Городовой полиціи</l></head>
+</p>
+<p>
+<l>Предлагаю виленской полиціи, призвав прежнихъ</l>
+<l>виленскаго еврейскаго Кагала старшинъ евреевъ</l>
+<l>Мовшу Ошеровича и Ицку Меленковича, утружд-</l>
+<l>давшихъ Государя императора прошеніями и по-</l>
+<l>сылавшихъ таковыя же и къ господину Генералъ</l>
+<l>прокурору и кавалеру беклешову о уничтоженіи</l>
+<l>мѣжду прочимъ Секты Каролиновъ и о оста-</l>
+<l>вленіи Кагалу и Синагогѣ права заниматься</l>
+<l>разборомъ гражданскихъ делъ между евреями</l>
+<l>объявить, что по высочайшему <emph rend="big">его император-<lb/>
+скаго величества</emph> соизволенію Секта Каролинская</l>
+<l>должна быть терпима, и что Кагалъ должен-</l>
+<l>ствуетъ заниматься единственно дѣлами</l>
+<l>обрядовъ закона и Богослуженія не вмѣшиваясь</l>
+<l>отнюдь въ гражданскіе дѣла для коей уста-</l>
+<l>новить закономъ особенные мѣста, а что сіе</l>
+<l>имъ объявлено взять отъ нихъ подпись, и о</l>
+<l>томъ меня увѣдомить, подлинное подпи-</l>
+<l>салъ Иванъ Фризель =переводчикъ. – </l>
+<l>съ подлиннымъ свѣрялъ регистраторъ <signed>Кичковичъ</signed></l>
+<l><date when="1800-01-23">генваря 23<hi rend="superscript">го</hi> дня 1800<hi rend="superscript">го</hi> года</date> <placeName ref="#Вильно">Вильна</placeName></l>
+</p>
+<p>
+<l><date when="1800-04-10">1800<hi rend="superscript">го</hi> года апреля 10<hi rend="superscript">го</hi> дня</date> по указу <emph rend="big">его<lb/>
+императорскаго величества</emph> въ виленской го-</l>
+<l>родовой полиціи по поданному отъ виленскаго</l>
+<l>купца меера рафиловича прошенію <emph rend="big"> прика-<lb/>
+зали</emph>: оному рафиловичу просимую имъ сію<lb/>
+копію выдать. на подлинной подписалъ <signed>частный</l>
+<l>приставъ Иванъ тарновскій</signed></l>
+<fw type="note" place="center"><l>У сей копіи <emph rend="big">его императорскаго<lb/>
+величества</emph> виленской городовой<lb/>
+полиціи пѣчать пошлинъ 54 ½ взято</fw></l>
+</p>
+<fw type="note" place="right">МП</fw>
+<l>подпись Городовой Секретарь <unclear>пети…</unclear></l>
+<l>Съ предоставленными выписями читалъ <signed>надворный совѣтникъ –<lb/>
+<unclear>рябининъ</unclear></signed></l>
+
             <pb xml:id="p025-2" n="025-2" facs="../facsimiles/025-2.jpg"/>
         </body>
     </text>
