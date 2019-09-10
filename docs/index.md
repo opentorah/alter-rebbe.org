@@ -48,9 +48,16 @@ layout: page
 "О виленской общине каролинов".
 <a name="collections-end">
 
-А также:
+Имеются:
 - <a href="/names.html" target="namesViewer">список людей и мест</a> упомянутых в документах;
 - <a href="/names#transcribers" target="namesViewer">список людей</a> предоставивших расшифровки документов;
+
+[Фотографии документов]("https://drive.google.com/drive/folders/1hCfbEyTlt4UqLjqWOOr0yr11vZw-4KwQ?usp=sharing")
+ были (если надо):
+- переименованы;
+- разрезаны (`$ convert xxx.tif -crop 2x1+120@ x-%d.tif`);
+- переведены в формат JPEG;
+- сжаты (`$ mogrify -path out -quality 80% -format jpg *.tif`).
 
 
 ### Державин ###
