@@ -848,3 +848,8 @@ Spreds were cut with:
   $ convert 7_2_3140_313ob-314.tif -crop 2x1@ x-%d.tif
   $ convert 7_2_3140_313ob-314.tif -crop 2x1+120@ x-%d.tif
 ```
+
+And squashed with:
+```
+  $ mogrify -path out -quality 80% -format jpg *.tif
+```
