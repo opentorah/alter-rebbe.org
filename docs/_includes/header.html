@@ -44,7 +44,7 @@
           <a class="page-link" href="{{ page.next }}.html">{{ page.next }}</a>
           {%- endif -%}
           {%- if page.facs -%}
-          <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'><•></a>
+          <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⏿</a>
           {%- endif -%}
           {%- for lang in page.translations -%}
           <a class="page-link" href='{{ page.self }}-{{ lang }}.html'>{{ lang }}</a>
