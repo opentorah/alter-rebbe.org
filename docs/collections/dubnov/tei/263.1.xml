@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName ref="#Карнеевъ">Карнеевъ</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <creation>
+        <date when="1800-10-15">1800-10-15</date>
+      </creation>
+      <abstract>
+        <p><num>No 13.</num> Отзывъ Минскаго губернатора о претензіяхъ Авигдора</p>
+      <p>Документ <ref target="/collections/rgia2213/documents/051.html" role="documentViewer">051</ref> в РГИА 2213</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p263" n="263" facs="../facsimiles/263.jpg"/>
+      <p> Милостивый государь Петръ Хрисанфовичь! Предписание вашего высокопревосходительства съ изъясненiемъ
+        высочайшаго Е. И. В. повелѣнiя о взысканіи съ еврейскаго кагала 400 червонныхъ, внесенныхъ бывшимъ еврейскимъ
+        оберь рабиномъ Хаимомъ за полученiе места, и о удовлетвореніи его въ понесенныхъ отъ лишения онаго убыткахъ, отъ
+        3 сего месяца имелъ честь получить и какъ неизвестно мне въ который кагал им те деньги внесены, и самого рабина
+        на лицо нетъ, а известно только то, что онъ жительствомъ изъ Пинска, то я предложилъ Пинскому городовому
+        магистрату, чтобы истребовавъ отъ него или повереннаго его доказательства на взность показанныхъ денегъ, вошель
+        въ разсмотренiе съ кого следуетъ взыскать, равно учинилъ бы законное определенiе и о удовлетворенiи его въ
+        понесенныхъ убыткахъ отъ потерянія места, стараясь елико возможно и скоро и справедливо дело сіе решить, яко
+        производимое по высочайшему Е. И. В. повелѣнію, рапортуя губернскому правлению о успехе ежемесячно, за чемъ о
+        наблюдении и губернскому правлению потвердилъ. </p>
+
+      <closer>
+        <salute>Съ совершеннымъ высокочтенiемъ и проч...</salute>
+        <signed><persName ref="#Карнеевъ">Захаръ Карнеевъ</persName>.</signed>
+        <num>No 2922</num>
+        <dateline>
+          <date calendar="#julian" when="1800-10-15">Октября 15 дня 1800</date>
+          <placeName type="city" ref="#Минскъ">г. Минскъ</placeName>.
+        </dateline>
+      </closer>
+    </body>
+  </text>
+</TEI>

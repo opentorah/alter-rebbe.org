@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName ref="#Обольяниновъ">Обольяниновъ</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <creation>
+        <date when="1800-06-07">1800-06-07</date>
+      </creation>
+      <abstract><p>No 4. Литовскому прокурору ордеръ о разслѣдованiи дѣла</p>
+            <p>Документ <ref target="/collections/rgia2213/documents/024.html" role="documentViewer">024</ref> в РГИА 2213</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p253" n="253" facs="../facsimiles/253.jpg"/>
+      <p>Имея высочайшее Е. И. В. повелѣнiе разсмотреть жалобу бывшаго въ Пинске оберъ-раббина Хаима на притѣсненiя,
+        чинимыя ему последователями секты Шабзу съ - Цв инку съ, препроводилъ я оную къ господину Литовскому военному
+        губернатору, генералу отъ инфантерiи Голенищеву-Кутузову, дабы онъ приказалъ все обстоятельства оныя, чрезъ кого
+        следуетъ, при <pb xml:id="p254" n="254" facs="../facsimiles/254.jpg"/> вести въ ясность — въ чемъ именно
+        состоитъ сiя секта и претензия на нее еврея Хаима, также можетъ ли быть она удовлетворена и на какомъ основании.
+        а вашему высокоблагородію рекомендую по присутственнымъ мѣстамъ наблюсти, чтобы сие изслѣдование производилось
+        съ надлежащею аккуратностью и о успехе онаге меня уведомить . . . . . . . . . </p>
+      <closer>
+        <signed>(Обольяниновъ.</signed>
+        <p>Брискорну.</p>
+        <dateline>
+          <date calendar="#julian" when="1800-06-07">Iюня 7 дня, 1800 г.</date>
+          No 4723.
+        </dateline>
+      </closer>
+    </body>
+  </text>
+</TEI>

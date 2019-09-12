@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName>?</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <creation>
+        <date when="1800-07-09">1800-07-09</date>
+      </creation>
+      <abstract><p>No 8. Отношенiе 06ольянинова къ Литовскому губернатору о необходимости
+        отыскать старое дѣло о сектантахъ въ Вильне</p>
+      <p>Документ <ref target="/collections/rgia2213/documents/028.html" role="documentViewer">028</ref> в РГИА 2213</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p255" n="255" facs="../facsimiles/255.jpg"/>
+      <salute>Милостивый государь мой Михайло Иларіоновичъ:</salute>
+      <p>Получивъ почтеннейшее отношение вашего высокопревосходительства съ извещенiемъ, что вы доставленную отъ меня
+        жалобу оберть-раббина Хаима, по упоминаемому въ ней городу Пинску почитая принадлежащею до разсмотрения Минской
+        губернiи, отправили оную къ тамошнему гражданскому губернатору Карнееву, обязываюсь изъяснить вашему
+        высокопревосходительству, что оная бумага препровождена на ваше разсмотренiе для того, какъ изъ ней же усмотреть
+        изволите, что онъ Хаимъ особлазнительныхъ книгахъ секты ПП абзу съ - Цв инку съ представлялъ къ некоему Елi асу,
+        в ть Вильн в жившему, и его просилъ довести къ свѣдѣнію вышняго начальства, которыя представления просителя
+        разсмотрены и книги публично предь домомъ молитвы сожжены въ Вильне, и что поступки оной секты видель бывший въ
+        Вильне губернаторъ и требовалъ къ себе изъ Лошни старшину той секты Саломона. По каковымъ обстоятельствамъ съ
+        большею вероятностью полагая быть большему сведению объ означенной сект въ длахъ предместниковъ вашего
+        высокопревосходительства, прошу васъ, милостивый государь мой, приказать отыскать оныя и отобравъ откуда
+        следуетъ для соображения подлежащiя справки, о всемъ, согласно первому отношению моему, <pb xml:id="p256"
+          n="256" facs="../facsimiles/256.jpg"/> почтить меня уведомленiемъ, прiобща къ оному и то, что Минскій
+        губернаторъ по отношенію вашего высокопревосходительства можетъ быть откроеть. Съ истиннымъ почтенiемъ есмь . .
+        . . </p>
+      <dateline>Кутузову.
+        <date calendar="#julian" when="1800-07-09">Iюля 9 дня 1800 г.</date>
+        No 5859.</dateline>
+    </body>
+  </text>
+</TEI>

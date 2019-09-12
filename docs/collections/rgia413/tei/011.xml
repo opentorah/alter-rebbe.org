@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <author>?
+                </author>
+                <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor></titleStmt>
+            <publicationStmt>
+                <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+                <date>?</date>
+                <availability status="free">
+                    <licence>
+                        <ab>
+                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                                Creative Commons Attribution 4.0 International License
+                            </ref>
+                        </ab>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc><p>Facsimile</p></sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage><language ident="ru"/></langUsage>
+            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <abstract>
+                <p>Список документов, найденных при обыске у Алтер Ребе</p>
+                <p>Документ <ref target="/collections/dubnov/documents/269.html" role="documentViewer">19</ref> у Дубнова</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text xml:lang="ru">
+        <body>
+            <pb xml:id="p011-1" n="011-1" facs="../facsimiles/011-1.jpg"/>
+            <fw type="pageNum" place="right"><del rend="overstrike">47</del></fw>
+            <fw type="pageNum" place="right">11</fw>
+            <p>
+                <l><head>Регистръ Письмамъ</head></l>
+            </p>
+            <p>
+                <l>1. <hi rend="superscript">е</hi> Писмецо Боруховича къ евреямъ давыду и абелю,</l>
+                <l>о присылкѣ на письмѣ содержание ихъ исковаго спора,</l>
+                <l>для желаемаго ими примирительнаго прекращенія,</l>
+                <l>поелику прежде ими посланное потерялось.</l>
+                <l>2.<hi rend="superscript">е</hi> Писмецо къ одному еврею давыду отъ боруховича,</l>
+                <l>дабы не оставилъ тамъ больнаго еврея менделя денеж</l>
+                <l>нымъ обѣтомъ.</l>
+                <l>3.<hi rend="superscript">е</hi> Писмо боруховича къ евреямъ лейбѣ и бейнишу,</l>
+                <l>чтобы елику можно старались прекратить исковой споръ</l>
+                <l>между евреями нохимомъ и Гершкою миромъ; а по</l>
+                <l>крайней необходимости ежели пожелаютъ (развѣдения)</l>
+                <l>третейскимъ судомъ, записалисьбы нато въ присудственномъ</l>
+                <l>мѣстѣ по законамъ. </l>
+                <l>4.<hi rend="superscript">е</hi> третейское распоряженіе о сиротскомъ имѣніи.</l>
+                <l>5 вручителной регистръ отъ однаго къ другому</l>
+                <l>еврею о долгахъ своего отца.</l>
+                <l>6. письмо еврея Гершки къ еврею бейнишу о испол-</l>
+                <l>неніи его примиренія.</l>
+                <l>7 Запросъ боруховичу присланный о дѣлѣ касающемся</l>
+                <l>еврейскаго Закона со испрошеніемъ разрѣшенія. </l>
+                <l>8 Регистръ о доправленныхъ долгахъ</l>
+                <l>9 Регистры о долгахъ касающихся къ примиренію выше</l>
+                <l>подъ 3№ исковаго спора.</l>
+                <l>10 Регистръ о такихъ же долгахъ</l>
+                <l>11.<hi rend="superscript">и</hi> Распоряженіе о сихъ долгахъ и обо всехъ обсто</l>
+                <l>ятельствахъ вышесказаннаго исковаго дѣла</l>
+                <l>12 Запросы боруховичу отъ брата своего касательно</l>
+                <l>еврейскаго обряда</l>
+                <pb xml:id="p011-2" n="011-2" facs="../facsimiles/011-2.jpg"/>
+                <l>13 Краткия сочиненія объ обрядахъ еврейскаго</l>
+                <l>закона выбранныхъ изъ разныхъ древныхъ еврейскихъ</l>
+                <l>книгъ съ запросами и отвѣтами.</l>
+                <l>14. молитва по еврейскіи сочиненная о благо</l>
+                <l>денствіи и спасеніи Государя._______________</l>
+                <l>Что очно сей регистръ сходствуетъ съ <unclear>подлинн</unclear>,</l>
+                <l>подписуемся. <signed>переводчикъ еврейскаго языка Лейба<lb/>
+                    _________ неваховичъ</signed></l>
+                <l><signed>Переводчикъ еврейскаго языка Юда<unclear>файбитович</unclear></signed></l>
+            </p>
+        </body>
+    </text>
+</TEI>
