@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName>?</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <creation>
+        <date when="1800-06-19">1800-06-19</date>
+      </creation>
+      <abstract><p>No 7. Извѣщенiе Литовскаго губернатора о пересылкѣ жалобы Авигдора въ Минскъ</p>
+        <p>Документ <ref target="/collections/rgia2213/documents/027.html" role="documentViewer">027</ref> в РГИА 2213</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p255" n="255" facs="../facsimiles/255.jpg"/>
+      <salute>Милостивый государь мой Петръ Хрисанфовичь!</salute>
+      <p>Получа почтеннейшее отношение вашего высокопревосходительства за No 4722-Е. И. В. повеления о разсмотрении
+        приложенной при ономъ жалобы бывшаго въ Пинске оберть-раббина Хаима на притѣсненiя, чинимыя ему последователямя
+        секты III абзу съ - Цвинку съ, по случаю полагаемаго мною жительства просителя въ городе Пинске, который
+        принадлежитъ къ Минской, а не Литовской губернiи (ибо проситель въ жалобе своей не означаетъ мѣстопребывания
+        своего), препроводилъ ту жалобу со всеми къ ней приложениями, для произведения по ней высочайше повеленнаго
+        действия, къ Минскому гражданскому губернатору Карнееву — 0 чемъ извещая ваше высокопревосходительство, съ
+        совершеннымъ почесть быть Милостивый государь мой! вашего вы сокопревосходительства всепокорнейший слуга Михайла
+        Голени----</p> 
+      <dateline>No 1268. Вильна.
+        <date calendar="#julian" when="1800-06-19">Iюня 19 дня 1800 года</date>.
+        Его высокопревосход. П. Х. Обольянинову.
+      </dateline>
+    </body>
+  </text>
+</TEI>

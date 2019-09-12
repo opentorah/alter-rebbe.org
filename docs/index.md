@@ -34,25 +34,25 @@ layout: page
 ("Центральный архив истории еврейского народа") имеет не очень качественные копии многих из них.
 Некоторые из этих документов были опубликованы. У нас имеются:
 <a name="collections-start">
-- <a href="/archive" target="collectionViewer">РГАДА</a>:
+- <a href="/collections/rgada/index.html" target="collectionViewer">РГАДА</a>:
 "О Еврейской сектеѣ Каролиновъ и объ учителѣ ихъ Раввинѣ Зальманѣ Боруховичѣ, и о доносахъ Еврея Гирша Давидовича".
-- <a href="/rgia413" target="collectionViewer">РГИА 413</a>:
+- <a href="/collections/rgia413/index.html" target="collectionViewer">РГИА 413</a>:
 "О каролинской секте".
-- <a href="/rgia2213" target="collectionViewer">"2213"</a>:
+- <a href="/collections/rgia2213/index.html" target="collectionViewer">"2213"</a>:
 "?".
-- <a href="/rgia328" target="collectionViewer">"328"</a>:
+- <a href="/collections/rgia328/index.html" target="collectionViewer">"328"</a>:
 "?".
-- <a href="/dubnov" target="collectionViewer">Дубнов</a>:
+- <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
-- <a href="/lvia" target="collectionViewer">LVIA</a>:
+- <a href="/collections/lvia/index.html" target="collectionViewer">LVIA</a>:
 "О виленской общине каролинов".
 <a name="collections-end">
 
 Имеются:
-- <a href="/names.html" target="namesViewer">список людей и мест</a> упомянутых в документах;
-- <a href="/names#transcribers" target="namesViewer">список людей</a> предоставивших расшифровки документов;
+- <a href="/collections/names.html" target="namesViewer">список людей и мест</a> упомянутых в документах;
+- <a href="/collections/names#transcribers" target="namesViewer">список людей</a> предоставивших расшифровки документов;
 
-[Фотографии документов]("https://drive.google.com/drive/folders/1hCfbEyTlt4UqLjqWOOr0yr11vZw-4KwQ?usp=sharing")
+[Фотографии документов](https://drive.google.com/drive/folders/1hCfbEyTlt4UqLjqWOOr0yr11vZw-4KwQ?usp=sharing)
  были (если надо):
 - переименованы;
 - разрезаны (`$ convert xxx.tif -crop 2x1+120@ x-%d.tif`);
@@ -89,7 +89,7 @@ layout: page
  <a href="https://drive.google.com/open?id=0B5KkfPXr7KENMy05U1JYVHVmdjA">стр. 143—191</a>.
 
 - 1910: Анализ материалов второго ареста опубликован С.М. Дубновым в книге "Еврейская старина",
- <a href="/dubnov" target="collectionViewer">том 3</a>,
+ <a href="/collections/dubnov" target="collectionViewer">том 3</a>,
  Еврейское И.-Э. общество, С. М. Дубнов, ISBN-10(13), С.-Петербург, 1910.
  Документы из Сенатского архива.
 

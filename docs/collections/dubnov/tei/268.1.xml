@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">No 16. Высоч. повелѣнiе о передачѣ дѣла Авигдора-Залмана въ Сенатъ</title>
+        <author>
+          <persName>?</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <abstract>
+        <p>No 16. Высоч. повелѣнiе о передачѣ дѣла Авигдора-Залмана въ Сенатъ</p>
+        <p>Документ <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref> в РГИА 413</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p268" n="268" facs="../facsimiles/268.jpg"/>
+      <p>Его Императорское Величество высочайше повелеть соизволили: дело между евреям и Абик дором ть Хаймовичемъ и
+        Залманомъ Боруховичемъ, касающееся до ихъ религiи и прочаго, въ Сенат в раз смотреть и учинить положение, на
+        какомть в предь основанiй быть секте хоседовъ и кагала мть. На каковой конецъ и препроводить учиненные допросы
+        на еврейскомъ языкѣ съ переводомъ. На подлиномъ подписалъ Генералъ-Прокурорь Обольяниновъ. Слушанъ въ Общемъ
+        Собранiи 27 ноября 1800 г.</p>
+    </body>
+  </text>
+</TEI>

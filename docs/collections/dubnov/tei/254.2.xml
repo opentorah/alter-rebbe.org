@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName>?</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <creation>
+        <date when="1800-06-21">1800-06-21</date>
+      </creation>
+      <abstract>
+        <p>No 6. Ответъ Литовскаго прокурора, что въ Литовской губернии о сектѣ неизвѣстно</p>
+        <p>Документ <ref target="/collections/rgia2213/documents/026.html" role="documentViewer">026</ref> в РГИА 2213</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p254" n="254" facs="../facsimiles/254.jpg"/>
+      <salute>Его высокопревосходительству, господину гонералу отъ инфантерiи, генералу-прокурору,
+        генералъ-провiантмейстеру и разныхъ орденовъ кавалеру Петру Хрисанофовичу Обольянинову.</salute>
+      <p>Литовскаго губернскаго прокурора рапортъ.</p>
+      <p>На всепочтеннейшее предписание вашего высокопревосходительства отъ 7 числа сего июня подь последовавшее по
+        именному Е. И. В. высочайшему повелѣнію, касательно производимаго следствия о притѣсненіяхъ, чинимыхъ сектою
+        Шабзусь-Цвинкусь Шинскому оберть-раббину Хайму, имею честь донести вашему высокопревосходительству, что въ
+        здешней губернии подобнаго следствия не производится и не производилось, да и сведения о таковой сект до
+        правительства не доходили, а уш0ваю я, что сіе должно относитьси къ Минской губернiи, въ которой и Пинскъ
+        состоитъ уѣзднымъ городомъ,</p>
+      <closer>
+        <dateline> — Литовскiй губерн No 99.
+          <date when="1800-06-21">Іюня 21-го дня, 1800 года</date>.
+        </dateline>
+      </closer>
+    </body>
+  </text>
+</TEI>

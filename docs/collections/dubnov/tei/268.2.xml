@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>
+          <persName>?</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <abstract><p>No 17. Назначенiе дѣла къ слушанию въ 3 департаментѣ Сената</p>
+      <p>Документ <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref> в РГИА 413</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p268" n="268" facs="../facsimiles/268.jpg"/>
+      <p>1800 года ноября 22 дня (27 ?) въ Журнале правительствующаго Сената записано: Имянный Высочайший Е. И. В. указъ
+        объявленный Сенату господиномъ генераломъ отъ инфантерiи Генераль—Прокуроромъ и Кавалеромъ Петромъ.
+        Хрисанфовичемъ Обольяниновымъ въ 27 день сего ноября, о разсмотрении "Сенату дела между евреями Абиндоромъ
+        Хаймовичемъ и Залманомъ Боруховичемъ, касающемся до ихъ религии, и о учинении положения, на какомъ впре в
+        основании быть секте хоседовъ и кагаламъ: Приказали: оное дело доложить къ слушанiю, вместе съ прочими
+        имеющимися Сената Департамент касательно евреевъ делами, и для того даны въ экспедицію съ сего пункта копии.
+        Подлинной за подписанiемъ Правительствующаго Сената.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="sub">Открытое свидетельство</title>
+        <author>
+          <persName ref="#Тарабеев">Тарабеев</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <date>?</date>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ru"/>
+      </langUsage>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+      <abstract>
+        <p>No 23. Извѣщенiе, что Залманъ по выс. повеленiю освобожденъ и отпущенъ изъ
+        Петербурга (29 марта 1801 г.)</p>
+        <p>Документ <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref> в РГИА 413</p>
+      </abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru">
+    <body>
+      <pb xml:id="p275" n="275" facs="../facsimiles/275.jpg"/>
+      <p>Его Высокопревосходительство Господинъ Генералъ-Прокурорь А. А. Беклешовъ въ отношении ко мне отъ 29 марта сего
+        года изъясняя, что еврей Зал манъ Боруховичъ, бывшій въ СПетербург в по некоторымъ надобностямъ, ныне по
+        Высочайшему Государя Императора повелѣнію освобожденть и отпущенть въ домъ его, о чемъ, а равно о доставленiн
+        полной ему по прежнему его жительству и обращению свободы и о исполненiи сего, изволить сообщить мне, — почему
+        исполняя я вышеписанное снабдилъ Господина Рабина Боруховича симъ открытымъ свидетельствомъ, чтобы онъ
+        пожительству его въ Бѣлорусской губернiи пользовался повсеместно въ оной по прежнему (въ) его жительстве и
+        разномъ обращенiи полною свободою безъ малѣйшаго отъ кого либо препятствия. </p>
+      <p>Витебскь, Iюля 13 дня, 1801 года.</p>
+      <p>У подлиннаго подписалъ Петръ Тарабеевъ.</p>
+    </body>
+  </text>
+</TEI>
