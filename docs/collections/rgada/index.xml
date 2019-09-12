@@ -868,7 +868,10 @@
             <persName ref="#alter-rebbe">Альтер Ребе</persName>
           </cell>
           <cell rendition="addressee"></cell>
-          <cell rendition="language">he</cell>
+          <cell rendition="language">
+            he
+            <ref target="documents/059-ru.html" role="documentViewer">ru</ref>
+          </cell>
           <cell rendition="document">
             <ref target="documents/059.html" role="documentViewer">059</ref>
           </cell>

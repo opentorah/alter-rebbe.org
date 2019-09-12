@@ -40,6 +40,8 @@ layout: page
 "О каролинской секте".
 - <a href="/collections/rgia2213/index.html" target="collectionViewer">"2213"</a>:
 "?".
+- <a href="/collections/rgia119/index.html" target="collectionViewer">РГИА 119</a>:
+"О каролинской секте".
 - <a href="/collections/rgia328/index.html" target="collectionViewer">"328"</a>:
 "?".
 - <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
@@ -167,7 +169,7 @@ layout: page
 
 Навигационная полоса (верхняя часть каждой страницы сайта) содержит ссылки:
 - `19 Kislev Archive`: на входную страницу сайта;
-- `Архив`, `Дубнов`: на оглавление коллекции документов;
+- `РГАДА`, `Дубнов`, `LVIA`: на "основные" оглавления коллекций документов;
 - `Имена`: на список имён людей, мест и организаций упомянутых в документах;
 
 Оглавление коллекции документов:

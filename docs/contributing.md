@@ -138,6 +138,11 @@ layout: page
   <note type="gloss">|: о коем выше :|</note>
 ```
 
+То, что имеется в виду, может быть добавлено элементом `supplied`:
+```xml
+  <supplied reason="implied">Магид</supplied>
+```
+
 Обращение:
 ```xml
   <salute>Милостивый государь мой Петръ Хрисанфовичь!</salute>
