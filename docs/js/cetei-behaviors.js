@@ -14,7 +14,7 @@ export default {
     "ref": [
       // LMD: in the original:  ["[target]", ["<a href=\"$rw@target\">","</a>"]]
       ["[role]", ["<a href=\"$rw@target\" target=\"$@role\">","</a>"]],
-      ["_", ["<a href=\"$rw@target\">","</a>"]]
+      ["_"     , ["<a href=\"$rw@target\">"                  ,"</a>"]]
     ],
     "graphic": function(elt) {
       let content = new Image();
