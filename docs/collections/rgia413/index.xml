@@ -106,7 +106,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заголовок раздела:&quot;Доказательства Авигдора&quot;</p>
+            <p>Заголовок раздела: &quot;Доказательства Авигдора&quot;</p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -147,7 +147,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заголовок раздела &quot;Ответы Алтер Ребе&quot;</p>
+            <p>Заголовок раздела: &quot;Ответы Алтер Ребе&quot;</p>
             <p>18-й и 19-й пункты ответов Алтер Ребе</p>
             <p>
               Документ
@@ -180,7 +180,9 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="#Авигдор"/>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">he</cell>
           <cell rendition="document">
@@ -220,7 +222,9 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Оленин">Оленину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/007.html" role="documentViewer">007</ref>
