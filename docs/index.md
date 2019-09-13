@@ -48,6 +48,8 @@ layout: page
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
 - <a href="/collections/lvia/index.html" target="collectionViewer">LVIA</a>:
 "О виленской общине каролинов".
+- <a href="/collections/lna208/index.html" target="collectionViewer">LNA 208</a>:
+"О виленской общине каролинов".
 - <a href="/collections/derzhavin/index.html" target="collectionViewer">РГАДА</a>:
 Некоторые документы на наши темы связаны с Державиным.
 <a name="collections-end">
