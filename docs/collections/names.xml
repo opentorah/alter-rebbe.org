@@ -44,6 +44,7 @@
           <p rendition="mentions">
             <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
             <ref target="/collections/rgia413/documents/002.html" role="documentViewer">002</ref>
+            <ref target="/collections/rgia413/documents/005.html" role="documentViewer">005</ref>
             <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
             <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
             <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
@@ -635,8 +636,10 @@
           <ref target="https://ru.wikipedia.org/wiki/Лопухин,_Пётр_Васильевич">[Википедия]</ref>
         </person>
         <person xml:id="Мириц">
-          <persName>Мириц</persName>
-          <p rendition="mentions"> </p>
+          <persName>Мириц, А.</persName>
+          <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+          </p>
         </person>
         <person xml:id="Обольяниновъ">
           <persName>Обольянинов</persName>
@@ -653,6 +656,12 @@
             <ref target="/collections/dubnov/documents/254.1.html" role="documentViewer">254.1</ref>
           </p>
           <ref target="https://ru.wikipedia.org/wiki/Обольянинов,_Пётр_Хрисанфович">[Википедия]</ref>
+        </person>
+        <person xml:id="Оленин">
+          <persName>Оленин</persName>
+          <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+          </p>
         </person>
         <person xml:id="Огинский">
           <persName>Огинский</persName>
@@ -676,13 +685,16 @@
         <person xml:id="Петров">
           <persName>Петров</persName>
           <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
             <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
           </p>
           <p>Сенатский курьер</p>
         </person>
         <person xml:id="Сафоновъ">
           <persName>Сафоновъ</persName>
-          <p rendition="mentions"> </p>
+          <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+          </p>
         </person>
         <person xml:id="Северинъ">
           <persName>Северинъ</persName>
@@ -695,6 +707,7 @@
         <person xml:id="Сукин">
           <persName>Сукин</persName>
           <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
             <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
           </p>
           <p>Сенатский курьер</p>
@@ -732,6 +745,7 @@
           <placeName>Белоруссия</placeName>
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
           </p>
           <p>Губерния</p>
         </place>
@@ -835,6 +849,7 @@
             <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
             <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
             <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
           </p>
         </place>
         <place xml:id="Ляховицы">
