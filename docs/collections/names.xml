@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -466,6 +466,10 @@
         <person xml:id="Авигдор">
           <persName>Авигдор</persName>
           <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
+            <ref target="/collections/rgia413/documents/002.html" role="documentViewer">002</ref>
+            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
             <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
             <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
             <ref target="/collections/dubnov/documents/271.html" role="documentViewer">271</ref>
@@ -487,7 +491,11 @@
             <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
             <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
             <ref target="/collections/rgia413/documents/000.html" role="documentViewer">000</ref>
+            <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
             <ref target="/collections/rgia413/documents/004.html" role="documentViewer">004</ref>
+            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
             <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
             <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
             <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
@@ -551,6 +559,7 @@
             <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
             <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
             <ref target="/collections/rgada/documents/089.html" role="documentViewer">089</ref>
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
           </p>
           <ref target="https://ru.wikipedia.org/wiki/Жегулин,_Семён_Семёнович">[Википедия]</ref>
           <p>белорусский губернатор</p>
@@ -627,6 +636,7 @@
             <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
             <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
             <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
             <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
             <ref target="/collections/dubnov/documents/253.2.html" role="documentViewer">253.2</ref>
             <ref target="/collections/dubnov/documents/254.1.html" role="documentViewer">254.1</ref>
@@ -645,12 +655,13 @@
           <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Бенкендорф,_Христофор_Иванович">[Википедия]</ref>
         </person>
-        <person xml:id="Беклешов">
-          <persName>Беклешов</persName>
+        <person xml:id="Беклешовъ">
+          <persName>Беклешов, Александр Андреевич</persName>
           <p rendition="mentions">
             <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
             <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </p>
+          <p>Генералъ-Прокурорь</p>
           <ref target="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
         </person>
         <person xml:id="Чечерский">
@@ -694,10 +705,6 @@
           <p rendition="mentions">
             <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
           </p>
-        </person>
-        <person xml:id="Беклешовъ">
-          <persName>Генералъ-Прокурорь А. А. Беклешовъ</persName>
-          <p rendition="mentions"> </p>
         </person>
         <person xml:id="фонДубнов">
           <persName>граф фон Дубнов</persName>
@@ -932,6 +939,7 @@
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
             <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
             <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </p>
         </org>
