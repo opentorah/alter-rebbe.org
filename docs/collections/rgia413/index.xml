@@ -87,7 +87,7 @@
               у Дубнова
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-11-27</cell>
           <cell rendition="author">
             <persName ref="#Обольяниновъ">Обольянинов</persName>
           </cell>
@@ -195,8 +195,15 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">Копия сопроводительного письма</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Копия сопроводительного письма</p>
+            <p>
+              Документ
+              <ref role="documentViewer" target="/collections/dubnov/documents/268.2.html">17</ref>
+              у Дубнова
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-28</cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -220,7 +227,7 @@
               у Дубнова
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-12-22</cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee">
             <persName ref="#Оленин">Оленину</persName>
@@ -246,9 +253,13 @@
               у Дубнова
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-11-13</cell>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Обольяниновъ">
+              Его высокопревосходительству ГнуГенералъ іинфантеріи, Генералъ прокурору и кавалеру Петру Хрисанфовичу Обольянинову
+            </persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/008.html" role="documentViewer">008</ref>
@@ -442,8 +453,10 @@
               у Дубнова
             </p>
           </cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="date">1800-12-??</cell>
+          <cell rendition="author">
+            <persName ref="#Авигдор">Авигдор</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -469,7 +482,9 @@
             </p>
           </cell>
           <cell rendition="date">1801-03-11</cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="#alter-rebbe">Алтер Ребе</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -597,8 +612,10 @@
           <cell rendition="description">
             <p>Просьба на имя императора от старшины виленского кагала</p>
           </cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="date">1799-03-21</cell>
+          <cell rendition="author">
+            <persName ref="#Моисей_Ошерович">Моеша Ошеровичъ</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -621,7 +638,7 @@
               у Дубнова
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1801-06-13</cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>

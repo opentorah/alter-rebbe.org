@@ -25,9 +25,11 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <abstract>Копия сопроводительного письма</abstract>
-            <p>Документ <ref target="/collections/dubnov/documents/268.2.html" role="documentViewer">17</ref> у Дубнова</p>
-            <date when="1800-11-28">28ноября 1800</date>
+            <creation><date when="1800-11-28">28ноября 1800</date></creation>
+            <abstract>
+                <p>Копия сопроводительного письма</p>
+                <p>Документ <ref target="/collections/dubnov/documents/268.2.html" role="documentViewer">17</ref> у Дубнова</p>
+            </abstract>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
@@ -55,8 +57,8 @@
                 <l>хоседовъ и кагаламъ. Приказали: оное</l>
                 <l>дѣло доложить къ слушанию вместѣ съ</l>
                 <l>протчими имѣющимися в 3<hi rend="superscript">м</hi> Сената де-</l>
-                <l>партаментѣ касательно Евреевъ дѣлами, </l>
-                <l>идля того дать въ Експедицiю съ сего пун-</l>
+                <l>партаментѣ касательно Евреевъ дѣлами,</l>
+                <l>идля того дать въ <orgName ref="#Тайная_экспедиция">Експедицiю</orgName> съ сего пун-</l>
                 <l>кта копiю подлинной заподписанiемъ</l>
                 <l>Правительствующаго Сената. _____________</l>
                 <l><unclear><signed><persName ref="#Мириц">А. Мириц</persName></signed></unclear></l>

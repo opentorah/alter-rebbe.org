@@ -47,6 +47,7 @@
             <ref target="/collections/rgia413/documents/005.html" role="documentViewer">005</ref>
             <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
             <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+            <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref>
             <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
             <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
             <ref target="/collections/dubnov/documents/271.html" role="documentViewer">271</ref>
@@ -73,6 +74,12 @@
             <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
             <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
             <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            <ref target="/collections/rgia413/documents/010.html" role="documentViewer">010</ref>
+            <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
+            <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
+            <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
+            <ref target="/collections/rgia413/documents/019.html" role="documentViewer">019</ref>
+            <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref>
             <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
             <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
             <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
@@ -701,6 +708,7 @@
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
             <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
+            <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
             <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
           </p>
         </person>
@@ -973,7 +981,9 @@
         </org>
         <org xml:id="Тайная_экспедиция">
           <orgName>Тайная экспедиция</orgName>
-          <p rendition="mentions"> </p>
+          <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+          </p>
           <ref target="https://ru.wikipedia.org/wiki/Тайная_канцелярия">[Википедия]</ref>
         </org>
       </listOrg>

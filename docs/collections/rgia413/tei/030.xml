@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>?</author>
+                <author><persName ref="#Моисей_Ошерович">Моеша Ошеровичъ</persName></author>
                 <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -25,6 +25,7 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1799-03-21">21 марта 1799 года</date></creation>
             <abstract>
                 <p>Просьба на имя императора от старшины виленского кагала</p>
             </abstract>
@@ -116,7 +117,6 @@
                 <l>надлежитъвъ Литовское Губернское Правлѣніе.</l>
                 <fw type="note">???<note place="end">строка на иврите</note></fw>
             </p>
-
         </body>
     </text>
 </TEI>
