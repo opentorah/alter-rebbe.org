@@ -226,6 +226,10 @@
           </p>
           <p>сын Зелмана Янкелевича</p>
         </person>
+        <person xml:id="Елиашевич_Федор_Петрович">
+          <persName>Елиашевич_Федор_Петрович</persName>
+          <p rendition="mentions"> </p>
+        </person>
         <person xml:id="Ицко_Саіович">
           <persName>Ицко Саіович</persName>
           <p rendition="mentions">
@@ -237,6 +241,12 @@
           <persName>Ицка</persName>
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+          </p>
+        </person>
+        <person xml:id="Ицка_Мелентович">
+          <persName>Ицка Мелентович</persName>
+          <p rendition="mentions">
+            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </p>
         </person>
         <person xml:id="Јосель_Мовшович">
@@ -422,6 +432,7 @@
             <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
             <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
             <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
+            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
           </p>
           <p>Состоит в родстве с Рафаловичем.</p>
         </person>
@@ -966,6 +977,7 @@
             <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
             <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
             <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
             <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </p>
         </org>
@@ -985,6 +997,7 @@
           <orgName>Литовское губернское правление</orgName>
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
           </p>
         </org>
         <org xml:id="Тайная_экспедиция">
@@ -1197,18 +1210,6 @@
             <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </p>
         </person>
-        <person xml:id="Ицка_Мелентович">
-          <persName>Ицка Мелентович</persName>
-          <p rendition="mentions">
-          <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-          </p>
-        </person>
-        <person xml:id="Елиашевич_Федор_Петрович">
-        <persName> Елиашевич_Федор_Петрович </persName>
-        <p rendition="mentions">
-        <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
-        </p>
-  </person>
       </listPerson>
     </body>
   </text>
