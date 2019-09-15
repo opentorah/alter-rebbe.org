@@ -8,7 +8,7 @@ layout: page
 ## Подача материала ##
 
 Содержимое сайта находится в GitHub repository
-[https://github.com/digitaljudaica/www.alter-rebbe.org](https://github.com/digitaljudaica/www.alter-rebbe.org).
+[https://github.com/digitaljudaica/alter-rebbe.org](https://github.com/digitaljudaica/alter-rebbe.org).
 
 Рекомендуемый способ участия в расшифровке, исправлении ошибок и т.д. - открыть GitHub pull request.
 Если прогресс (пока) не пришёл в Ваш дом, и термины GitHub, repository и pull request Вам ничего не
