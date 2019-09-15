@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>?</author>
+                <author><persName ref="#Авигдор">Авигдор</persName></author>
                 <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -25,6 +25,7 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1800-12-??">декабря „ „ дня 1800 года</date></creation>
             <abstract>
                 <p>Дополнительное прошенiе Авигдора на имя генералъ-прокурора съ доносомъ на Хасидов</p>
                 <p>Документ <ref target="/collections/dubnov/documents/271.html" role="documentViewer">20</ref> у Дубнова</p>
@@ -112,8 +113,8 @@
                 <l>Милостивейшаго Государя!</l>
             </p>
             <p>
-                <date when="1800-12-??"><l> декабря „ „ дня<lb/>
-                    1800 года</l></date>
+                <l><date when="1800-12-??">декабря „ „ дня<lb/>
+                    1800 года</date></l>
                 <signed>
                     <l>всепокорнѣйшій и нижайшій</l>
                     <l><unclear><note place="end">подпись на иврите</note>...</unclear></l>

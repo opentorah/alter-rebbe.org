@@ -25,6 +25,7 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1800-11-13">ноября 13го дня 1800го года</date></creation>
             <abstract>
                 <p>Сообщение об отправке Алтер Ребе в Петербург</p>
                 <p>Документ <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">14</ref> у Дубнова</p>
@@ -130,7 +131,7 @@
             <l><date when="1800-11-13">ноября 13. <hi rend="superscript">го</hi>дня
                 1800<hi rend="superscript">го</hi> года</date></l>
 
-            <fw type="note" place="left"> <persName ref="#Обольяниновъ">Его высокопревосходительству
+            <fw type="note" place="left"> <persName ref="#Обольяниновъ" role="addressee">Его высокопревосходительству
                 Г<hi rend="superscript">ну</hi> Генералъ іинфантеріи, Генералъ
                 прокурору и кавалеру Петру
                 Хрисанфовичу Обольянинову</persName>.</fw>

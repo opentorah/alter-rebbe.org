@@ -4,8 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>?
-                </author>
+                <author>?</author>
                 <editor role="transcriber"><persName ref="#VK">Василий Когаловский</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -26,6 +25,7 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1801-06-13">июня 13го дня 1801го года</date></creation>
             <abstract>
                 <p>Открытое свидетельство об освобожении Алтер Ребе</p>
                 <p>Документ <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">23</ref> у Дубнова</p>
@@ -52,7 +52,7 @@
                 <l>ему по прежнему въ его жительствѣ и обращеніи</l>
                 <l>свободы по исполненію сего изволить сообщать</l>
                 <l>мнѣ почему исполняя я вышеописанное  снаб-</l>
-                <l>дилъ его господина рабина Боруховича симъ отъ-</l>
+                <l>дилъ его господина рабина <persName ref="#alter-rebbe">Боруховича</persName> симъ отъ-</l>
                 <l>крытымъ свидетельствомъ чтобы онъ по</l>
                 <l>жительству его вбелорусской губерніи ползовался</l>
                 <l>повсеместно въ оной по-прежнему въ его жительствѣ</l>
