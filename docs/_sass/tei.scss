@@ -1,11 +1,3 @@
-@import "minima";
-@import "cetei";
-
-//@import "thumbnail";
-@import "names";
-@import "collection";
-@import "per-document";
-
 /* editorial */
 
 tei-add {
@@ -20,24 +12,19 @@ tei-emph[rend='underline'] {
   font-style: normal;
   text-decoration: underline;
 }
-
 tei-emph[rend='big'] {
   font-style: normal;
   font-size: large;
 }
-
 tei-emph[rend='superscript'] {
   vertical-align: super;
 }
-
 tei-hi[rend='underline'] {
   text-decoration: underline;
 }
-
 tei-hi[rend='big'] {
   font-size: large;
 }
-
 tei-hi[rend='superscript'] {
   vertical-align: super;
 }
@@ -53,7 +40,6 @@ tei-supplied {
 tei-note[place='end'] a {
   color: red;
 }
-
 tei-note[type='gloss'] {
   background-color: gainsboro;
 }
@@ -65,8 +51,4 @@ tei-fw[type='pageNum'] {
 
 ol.notes {
   padding-top: 2em;
-}
-
-.mentions {
-  font-size: smaller;
 }

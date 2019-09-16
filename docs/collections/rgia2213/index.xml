@@ -64,7 +64,9 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Обольяниновъ">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/001.html" role="documentViewer">001</ref>
@@ -73,7 +75,9 @@
             <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
             <ref target="documents/001.html#p001-2" role="documentViewer" rendition="missing-page">001об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="#VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">

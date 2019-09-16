@@ -44,3 +44,7 @@ tei-place > tei-placeName {
 tei-org > tei-orgName {
   font-size: $tei-named-name-font-size;
 }
+
+.mentions {
+  font-size: smaller;
+}
