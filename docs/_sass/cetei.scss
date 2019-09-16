@@ -1,5 +1,7 @@
 /* language support */
 /* render Arabic, Persian, Ottoman, Hebrew  as rtl */
+/* LMD and yiddish :) */
+[lang = "yi"],
 [lang = "ar"],
 [lang = "ota"],
 [lang = "fa"],
@@ -9,6 +11,9 @@
   text-align:right;
 }
 /* display latin scripts as ltr  */
+/* LMD and russian and polish :) */
+[lang = "ru"],
+[lang = "pl"],
 [lang = "en"],
 [lang = "fr"],
 [lang = "de"],
