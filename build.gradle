@@ -1,38 +1,22 @@
 plugins {
   id 'idea'
-  id 'com.github.ben-manes.versions' version '0.21.0'
-  id 'scala'
-  id "com.github.maiflai.scalatest" version '0.25'
+  id 'com.github.ben-manes.versions'
 }
 
-repositories {
-  jcenter()
+allprojects {
+  repositories {
+    jcenter()
+  }
+
+  group = 'org.digitaljudaica.archive'
+  version = projectVersion
 }
-
-group = 'org.podval.19-kislev-archive'
-version = '0.3.0'
-description = '19 Kislev Archive'
-
-dependencies {
-  compile "org.scala-lang:scala-library:$scalaVersion"
-  compile "org.scala-lang.modules:scala-xml_$scalaVersionMajor:1.2.0"
-
-  testCompile "org.scalatest:scalatest_$scalaVersionMajor:3.0.8"
-  testRuntime "org.pegdown:pegdown:1.6.0" // for scalatest reports
-}
-
-task postprocess(type: JavaExec) {
-  classpath = sourceSets.main.runtimeClasspath
-  main = 'org.podval.archive19kislev.collector.Main'
-}
-postprocess.dependsOn(classes)
-check.dependsOn(postprocess)
 
 idea {
   module {
     excludeDirs += [
-//      file('.idea'),
-//      file('gradle')
+      file('.idea'),
+      file('gradle')
     ]
   }
 }

@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+description = '19 Kislev Archive'
+
+dependencies {
+    runtime project(':collector')
+}
+
+task postprocess(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+    main = 'org.digitaljudaica.archive.collector.Main'
+    args = [project.projectDir]
+}
+postprocess.dependsOn(classes)
+build.dependsOn(postprocess)
