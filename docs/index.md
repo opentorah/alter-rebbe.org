@@ -38,11 +38,11 @@ layout: page
 "О Еврейской сектѣ Каролиновъ и объ учителѣ ихъ Раввинѣ Зальманѣ Боруховичѣ, и о доносахъ Еврея Гирша Давидовича".
 - <a href="/collections/rgia413/index.html" target="collectionViewer">РГИА 413</a>:
 "О каролинской секте".
-- <a href="/collections/rgia2213/index.html" target="collectionViewer">"2213"</a>:
+- <a href="/collections/rgia2213/index.html" target="collectionViewer">РГИА 2213</a>:
 "?".
 - <a href="/collections/rgia119/index.html" target="collectionViewer">РГИА 119</a>:
 "О каролинской секте".
-- <a href="/collections/rgia328/index.html" target="collectionViewer">"328"</a>:
+- <a href="/collections/rgia328/index.html" target="collectionViewer">РГИА 328</a>:
 "?".
 - <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
@@ -50,7 +50,13 @@ layout: page
 "О виленской общине каролинов".
 - <a href="/collections/lna208/index.html" target="collectionViewer">LNA 208</a>:
 "О виленской общине каролинов".
-- <a href="/collections/derzhavin/index.html" target="collectionViewer">РГАДА</a>:
+- <a href="/collections/niarb19/index.html" target="collectionViewer">НИАРБ 19</a>:
+"?".
+- <a href="/collections/niarb25207/index.html" target="collectionViewer">НИАРБ 25207</a>:
+"?".
+- <a href="/collections/niarb611/index.html" target="collectionViewer">НИАРБ 611</a>:
+"?".
+- <a href="/collections/derzhavin/index.html" target="collectionViewer">Державин</a>:
 Некоторые документы на наши темы связаны с Державиным.
 <a name="collections-end">
 
