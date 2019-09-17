@@ -60,7 +60,7 @@ layout: page
 "?".
 - <a href="/collections/niab5/index.html" target="collectionViewer">НИАБ 5</a>:
 "?".
-- <a href="/collections/niab271/index.html" target="collectionViewer">НИАБ 24</a>:
+- <a href="/collections/niab271/index.html" target="collectionViewer">НИАБ 271</a>:
 "?".
 - <a href="/collections/rnb203/index.html" target="collectionViewer">РНБ 203</a>:
 "?".
