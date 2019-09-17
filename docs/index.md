@@ -50,11 +50,21 @@ layout: page
 "О виленской общине каролинов".
 - <a href="/collections/lna208/index.html" target="collectionViewer">LNA 208</a>:
 "О виленской общине каролинов".
-- <a href="/collections/niarb19/index.html" target="collectionViewer">НИАРБ 19</a>:
+- <a href="/collections/niab19/index.html" target="collectionViewer">НИАБ 19</a>:
 "?".
-- <a href="/collections/niarb25207/index.html" target="collectionViewer">НИАРБ 25207</a>:
+- <a href="/collections/niab25207/index.html" target="collectionViewer">НИАБ 25207</a>:
 "?".
-- <a href="/collections/niarb611/index.html" target="collectionViewer">НИАРБ 611</a>:
+- <a href="/collections/niab611/index.html" target="collectionViewer">НИАБ 611</a>:
+"?".
+- <a href="/collections/niab24/index.html" target="collectionViewer">НИАБ 24</a>:
+"?".
+- <a href="/collections/niab5/index.html" target="collectionViewer">НИАБ 5</a>:
+"?".
+- <a href="/collections/niab271/index.html" target="collectionViewer">НИАБ 24</a>:
+"?".
+- <a href="/collections/rnb203/index.html" target="collectionViewer">РНБ 203</a>:
+"?".
+- <a href="/collections/rnb211/index.html" target="collectionViewer">РНБ 211</a>:
 "?".
 - <a href="/collections/derzhavin/index.html" target="collectionViewer">Державин</a>:
 Некоторые документы на наши темы связаны с Державиным.
