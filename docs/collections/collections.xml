@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collections>
-    <collection>rgada</collection>
-    <collection>rgia413</collection>
-    <collection>rgia2213</collection>
-    <collection>rgia119</collection>
-    <collection>rgia328</collection>
-    <collection>dubnov</collection>
-    <collection>lvia</collection>
-    <collection>lna208</collection>
-    <collection>niab19</collection>
-    <collection>niab25207</collection>
-    <collection>niab611</collection>
-    <collection>niab24</collection>
-    <collection>niab5</collection>
-    <collection>niab271</collection>
-    <collection>rnb203</collection>
-    <collection>rnb211</collection>
-    <collection>derzhavin</collection>
+    <collection includeInNavigation="true" >rgada</collection>
+    <collection includeInNavigation="true" >rgia413</collection>
+    <collection includeInNavigation="true" >rgia2213</collection>
+    <collection includeInNavigation="false">rgia119</collection>
+    <collection includeInNavigation="false">rgia328</collection>
+    <collection includeInNavigation="true" >dubnov</collection>
+    <collection includeInNavigation="true" >lvia1</collection>
+    <collection includeInNavigation="false">lvia2</collection>
+    <collection includeInNavigation="false">lvia3</collection>
+    <collection includeInNavigation="false">lvia4</collection>
+    <collection includeInNavigation="false">lvia5</collection>
+    <collection includeInNavigation="true" >lvia6</collection>
+    <collection includeInNavigation="false">lvia7</collection>
+    <collection includeInNavigation="false">lvia8</collection>
+    <collection includeInNavigation="false">lvia9</collection>
+    <collection includeInNavigation="false">lna208</collection>
+    <collection includeInNavigation="false">niab19</collection>
+    <collection includeInNavigation="false">niab25207</collection>
+    <collection includeInNavigation="false">niab611</collection>
+    <collection includeInNavigation="false">niab24</collection>
+    <collection includeInNavigation="false">niab5</collection>
+    <collection includeInNavigation="false">niab271</collection>
+    <collection includeInNavigation="false">rnb203</collection>
+    <collection includeInNavigation="false">rnb211</collection>
+    <collection includeInNavigation="false">derzhavin</collection>
 </collections>
