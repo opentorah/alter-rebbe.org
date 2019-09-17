@@ -22,4 +22,3 @@ jobs:
         uses: github-actions-x/commit@v1.0
         with:
           github_token: ${{github.token}}
-          commit_message: "Commit and push generated changes"
