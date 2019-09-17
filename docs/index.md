@@ -49,7 +49,7 @@ layout: page
 - <a href="/collections/lvia/index.html" target="collectionViewer">LVIA</a>:
 "О виленской общине каролинов".
 - <a href="/collections/lna208/index.html" target="collectionViewer">LNA 208</a>:
-"О виленской общине каролинов".
+"Об отправке арестованных хасидов в Вильно".
 - <a href="/collections/niab19/index.html" target="collectionViewer">НИАБ 19</a>:
 "?".
 - <a href="/collections/niab25207/index.html" target="collectionViewer">НИАБ 25207</a>:
