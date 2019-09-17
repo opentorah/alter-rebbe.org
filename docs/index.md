@@ -46,8 +46,24 @@ layout: page
 "?".
 - <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
-- <a href="/collections/lvia/index.html" target="collectionViewer">LVIA</a>:
+- <a href="/collections/lvia1/index.html" target="collectionViewer">LVIA =1</a>:
 "О виленской общине каролинов".
+- <a href="/collections/lvia2/index.html" target="collectionViewer">LVIA =2</a>:
+"?".
+- <a href="/collections/lvia3/index.html" target="collectionViewer">LVIA =3</a>:
+"?".
+- <a href="/collections/lvia4/index.html" target="collectionViewer">LVIA =4</a>:
+"?".
+- <a href="/collections/lvia5/index.html" target="collectionViewer">LVIA =5</a>:
+"?".
+- <a href="/collections/lvia6/index.html" target="collectionViewer">LVIA =6</a>:
+"?".
+- <a href="/collections/lvia7/index.html" target="collectionViewer">LVIA =7</a>:
+"?".
+- <a href="/collections/lvia8/index.html" target="collectionViewer">LVIA =8</a>:
+"?".
+- <a href="/collections/lvia9/index.html" target="collectionViewer">LVIA =9</a>:
+"?".
 - <a href="/collections/lna208/index.html" target="collectionViewer">LNA 208</a>:
 "Об отправке арестованных хасидов в Вильно".
 - <a href="/collections/niab19/index.html" target="collectionViewer">НИАБ 19</a>:

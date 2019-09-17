@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Facsimile</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="julian">
+          <p>Julian calendar</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <!-- <title>{title}</title> -->
+      <p>
+        Литовский Исторический Архив -
+        <ref tarte="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>
+        .
+      </p>
+      <p>
+        378 B/S 1800 2 (ч. IV-в). =6 Описание в
+        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
+        : Материалы, связанные со вторым арестом р. Шнеур Залмана: сведения о &quot;еврейской секте Шабзус-цвинус&quot; (&quot;секта каролинов&quot;) в г. Вильно и их раввине Зельмане Боруховиче; список арестованных хасидов, отправленных из Вильно в С.-Петербург; упомянания о лицах, причастных к конфликту между хасидами и митнагедами: раввин Хаим (Авигдор Хаймович), раввин Элиаш (Виленский Гаон), Мойжеш Ошерович (председатель духовного суда Вильно).
+      </p>
+      <table rendition="collection-index">
+        <row>
+          <cell rendition="description">Описание</cell>
+          <cell rendition="date">Дата</cell>
+          <cell rendition="author">Кто</cell>
+          <cell rendition="addressee">Кому</cell>
+          <cell rendition="language">Язык</cell>
+          <cell rendition="document">Документ</cell>
+          <cell rendition="pages">Страницы</cell>
+          <cell rendition="transcriber">Расшифровка</cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/013.html" role="documentViewer">013</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/013.html#p013-1" role="documentViewer" rendition="page">013</ref>
+            <ref target="documents/013.html#p013-2" role="documentViewer" rendition="page">013об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+      </table>
+    </body>
+  </text>
+</TEI>
