@@ -41,7 +41,7 @@ layout: page
 - <a href="/collections/rgia2213/index.html" target="collectionViewer">РГИА 2213</a>:
 "?".
 - <a href="/collections/rgia119/index.html" target="collectionViewer">РГИА 119</a>:
-"О каролинской секте".
+"Прошение Штерны Лейбовны".
 - <a href="/collections/rgia328/index.html" target="collectionViewer">РГИА 328</a>:
 "?".
 - <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
