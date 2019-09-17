@@ -187,7 +187,8 @@ layout: page
 - вставляет в файл с именами обратные ссылки на документы где каждое из имён присутствует.
 
 Результаты этих проверок для Вашего pull requestа можно посмотреть на странице непрерывной
-интеграции [https://travis-ci.com/alter-rebbe/site/pull_requests](https://travis-ci.com/alter-rebbe/site/pull_requests). 
+интеграции
+[![](https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg)](https://github.com/digitaljudaica/alter-rebbe.org/actions). 
 
 Элемент `persname` кодирующий имя человека, которому документ адресован, снабжается атрибутом `role`
 со значением `addressee`:
