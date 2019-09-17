@@ -17,8 +17,3 @@ jobs:
 
       - name: "Build with Gradle"
         run: ./gradlew build
-
-      - name: "Commit and push generated changes"
-        uses: github-actions-x/commit@v1.0
-        with:
-          github_token: ${{github.token}}
