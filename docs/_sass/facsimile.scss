@@ -8,16 +8,16 @@ div.facsimileViewer {
   resize: both;
 }
 
-.facsimileViewer > div {
+div.scroller {
   width: 100%;
   height: 98%;
   overflow-y: scroll;
   border: 1px solid black;
 }
 
-.facsimile img {
+.scroller img {
   margin-top: .5em;
 }
-.facsimile img:first-child {
-  margin-top: 0;
+.scroller img:first-child {
+  margin-top: 0em;
 }

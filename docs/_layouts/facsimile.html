@@ -2,11 +2,11 @@
 layout: default
 ---
 <div class="facsimileViewer">
-    <div>
+    <div class="scroller">
         {%- for image in page.images -%}
-        <a class='facsimile' target='documentViewer' href='../documents/{{ page.self }}.html#p{{ image }}'>
+        <a target="documentViewer" href='../documents/{{ page.self }}.html#p{{ image }}'>
             <figure>
-                <img id="p{{ image }}" src="../facsimiles/{{ image }}.jpg" alt="facsimile for page {{ image }}">
+                <img id="p{{ image }}" src="../facsimiles/{{ image }}.jpg" alt="facsimile for page {{ image }}"/>
                 <figcaption>{{ image }}</figcaption>
             </figure>
         </a>
