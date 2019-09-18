@@ -5,7 +5,7 @@
     <collection includeInNavigation="true" >rgia2213</collection>
     <collection includeInNavigation="false">rgia119</collection>
     <collection includeInNavigation="false">rgia328</collection>
-    <collection includeInNavigation="true" >dubnov</collection>
+    <collection includeInNavigation="true" isBook="true">dubnov</collection>
     <collection includeInNavigation="true" >lvia1</collection>
     <collection includeInNavigation="false">lvia2</collection>
     <collection includeInNavigation="false">lvia3</collection>
@@ -24,5 +24,5 @@
     <collection includeInNavigation="false">niab271</collection>
     <collection includeInNavigation="false">rnb203</collection>
     <collection includeInNavigation="false">rnb211</collection>
-    <collection includeInNavigation="false">derzhavin</collection>
+    <collection includeInNavigation="false" isBook="true">derzhavin</collection>
 </collections>
