@@ -188,9 +188,8 @@ layout: page
 - проверяет, что в файле с именами (`names.xml`) наличествует элемент, на который атрибут `ref` ссылается.
 - вставляет в файл с именами обратные ссылки на документы где каждое из имён присутствует.
 
-Результаты этих проверок для Вашего pull requestа можно посмотреть на странице непрерывной
-интеграции
-[![](https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg)](https://github.com/digitaljudaica/alter-rebbe.org/actions). 
+Результаты этих проверок для Вашего pull requestа можно посмотреть в нём самом или на
+[странице непрерывной интеграции](https://github.com/digitaljudaica/alter-rebbe.org/actions). 
 
 Элемент `persname` кодирующий имя человека, которому документ адресован, снабжается атрибутом `role`
 со значением `addressee`:
