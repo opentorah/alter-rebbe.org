@@ -1,3 +1,13 @@
+/* Style top-level TEI <head> same way Minima styles .post-title */
+tei-body > tei-head {
+  font-size: 36px;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-indent: 0em;
+  margin-block-end: 15px;
+  margin-bottom: 15px;
+}
+
 /* editorial */
 
 tei-add {

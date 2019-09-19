@@ -10,7 +10,7 @@
         <availability status="free">
           <licence>
             <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+              <ref target="http://creativecommons.org/licenses/by/4.0/" n="license">
                 Creative Commons Attribution 4.0 International License
               </ref>
             </ab>
@@ -31,6 +31,7 @@
   </teiHeader>
   <text xml:lang="ru">
     <body>
+      <head>Имена</head>
       <listPerson>
         <head>Жиды (они же Евреи)</head>
         <person xml:id="Абрамович">
