@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collections>
-    <collection includeInNavigation="true" >rgada</collection>
-    <collection includeInNavigation="true" >rgia413</collection>
-    <collection includeInNavigation="true" >rgia2213</collection>
-    <collection includeInNavigation="false">rgia119</collection>
-    <collection includeInNavigation="false">rgia328</collection>
-    <collection includeInNavigation="true" isBook="true">dubnov</collection>
-    <collection includeInNavigation="true" >lvia1</collection>
-    <collection includeInNavigation="false">lvia2</collection>
-    <collection includeInNavigation="false">lvia3</collection>
-    <collection includeInNavigation="false">lvia4</collection>
-    <collection includeInNavigation="false">lvia5</collection>
-    <collection includeInNavigation="true" >lvia6</collection>
-    <collection includeInNavigation="false">lvia7</collection>
-    <collection includeInNavigation="false">lvia8</collection>
-    <collection includeInNavigation="false">lvia9</collection>
-    <collection includeInNavigation="false">lna208</collection>
-    <collection includeInNavigation="false">niab19</collection>
-    <collection includeInNavigation="false">niab25207</collection>
-    <collection includeInNavigation="false">niab611</collection>
-    <collection includeInNavigation="false">niab24</collection>
-    <collection includeInNavigation="false">niab5</collection>
-    <collection includeInNavigation="false">niab271</collection>
-    <collection includeInNavigation="false">rnb203</collection>
-    <collection includeInNavigation="false">rnb211</collection>
-    <collection includeInNavigation="false" isBook="true">derzhavin</collection>
+    <collection name="rgada"     includeInNavigation="true" />
+    <collection name="rgia413"   includeInNavigation="true" />
+    <collection name="rgia2213"  includeInNavigation="true" />
+    <collection name="rgia119"   includeInNavigation="false"/>
+    <collection name="rgia328"   includeInNavigation="false"/>
+    <collection name="dubnov"    includeInNavigation="true" isBook="true"/>
+    <collection name="lvia1"     includeInNavigation="true" />
+    <collection name="lvia2"     includeInNavigation="false"/>
+    <collection name="lvia3"     includeInNavigation="false"/>
+    <collection name="lvia4"     includeInNavigation="false"/>
+    <collection name="lvia5"     includeInNavigation="false"/>
+    <collection name="lvia6"     includeInNavigation="true" />
+    <collection name="lvia7"     includeInNavigation="false"/>
+    <collection name="lvia8"     includeInNavigation="false"/>
+    <collection name="lvia9"     includeInNavigation="false"/>
+    <collection name="lna208"    includeInNavigation="false"/>
+    <collection name="niab19"    includeInNavigation="false"/>
+    <collection name="niab25207" includeInNavigation="false"/>
+    <collection name="niab611"   includeInNavigation="false"/>
+    <collection name="niab24"    includeInNavigation="false"/>
+    <collection name="niab5"     includeInNavigation="false"/>
+    <collection name="niab271"   includeInNavigation="false"/>
+    <collection name="rnb203"    includeInNavigation="false"/>
+    <collection name="rnb211"    includeInNavigation="false"/>
+    <collection name="derzhavin" includeInNavigation="false" isBook="true"/>
 </collections>
