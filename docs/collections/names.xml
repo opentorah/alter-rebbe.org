@@ -56,6 +56,20 @@
             <ref target="/collections/dubnov/documents/275.2.html" role="documentViewer">275.2</ref>
           </p>
         </person>
+        <person xml:id="Баал_Шем_Тов">
+          <persName>Баал Шем Тов</persName>
+          <p rendition="mentions">
+            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+          </p>
+          <ref target="https://ru.wikipedia.org/wiki/Баал-Шем-Тов">[Википедия]</ref>
+        </person>
+        <person xml:id="рав_Яаков_Йосеф">
+          <persName>рав Яаков Йосеф из Полонного</persName>
+          <p rendition="mentions">
+            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+          </p>
+          <ref target="https://ru.wikipedia.org/wiki/Яков_Йосеф_из_Полонного">[Википедия]</ref>
+        </person>
         <person xml:id="alter-rebbe">
           <persName>Зелман Борухович</persName>
           <persName>(Алтер Ребе)</persName>
@@ -338,6 +352,7 @@
           <persName>Магид</persName>
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
           </p>
           <ref target="https://ru.wikipedia.org/wiki/Дов-Бер_из_Межерича">[Википедия]</ref>
         </person>
@@ -616,9 +631,10 @@
           <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Державин,_Гавриил_Романович">[Википедия]</ref>
         </person>
-        <person xml:id="фонДубнов">
-          <persName>граф фон Дубнов</persName>
+        <person xml:id="фонъ_Дер_Пален">
+          <persName>граф фон Пален</persName>
           <p rendition="mentions">
+            <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
             <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
           </p>
         </person>
@@ -722,6 +738,12 @@
           <persName>фонъ Дер Пален</persName>
           <p rendition="mentions">
             <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
+            <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
+          </p>
+        </person>
+        <person xml:id="фонДубнов">
+          <p rendition="mentions">
+            <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
           </p>
         </person>
         <person xml:id="Петров">
