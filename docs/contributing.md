@@ -106,7 +106,7 @@ layout: page
 В тех (и только в тех!) случаях, когда новая строчка начинается внутри тага, начавшегося на
 предыдущей строчке, её начало кодируется тагом `lb`:
 ```xml
-  <l>кавалеромъ <persName ref="#Обольяниновъ">Петромъ Хрисанфови-<lb/>
+  <l>кавалеромъ <persName ref="Обольяниновъ">Петромъ Хрисанфови-<lb/>
      чемъ Обольяниновымъ</persName> въ <date when="1800-11-27">27<hi rend="superscript">й</hi> день<lb/>
      сего ноября</date>, о разсмотренiи Сенату</l>
 ```
@@ -163,7 +163,7 @@ layout: page
 
 Дата вместе с местом написания:
 ```xml
-  <dateline>В <placeName ref="#Петербург">С.-П-Бургѣ</placeName>,
+  <dateline>В <placeName ref="Петербург">С.-П-Бургѣ</placeName>,
     <date when="1800-04-23">апрѣля 23-го 1800-го</date>.</dateline>
 ```
 
@@ -178,9 +178,9 @@ layout: page
 соответственно; атрибут `ref` отсылает к соответствующему элементу
 (`person`, `place`, `org`) в файле с именами (`names.xml`):
 ```xml
-  <persName ref="#alter-rebbe">Алтер Ребе</persName>
-  в <placeName ref="#Вильно">Вильне</placeName>
-  <orgName ref="#виленский_кагал">виленский кагал</orgName>
+  <persName ref="alter-rebbe">Алтер Ребе</persName>
+  в <placeName ref="Вильно">Вильне</placeName>
+  <orgName ref="виленский_кагал">виленский кагал</orgName>
 ```
 
 Имена описываются в файлах в соответствующей директории внутри директории `names`:
@@ -207,7 +207,7 @@ layout: page
     <ref target="https://ru.wikipedia.org/wiki/Баал-Шем-Тов">[Википедия]</ref>
   </person>
 ``` 
-Имена этих файлов - это те идентификаторы, которые используются для ссылок: `ref="#Баал_Шем_Тов"`
+Имена этих файлов - это те идентификаторы, которые используются для ссылок: `ref="Баал_Шем_Тов"`
 
 Код который порождает сайт:
 - проверяет, что элемент кодирующий имя снабжён атрибутом `ref`;
@@ -221,7 +221,7 @@ layout: page
 Элемент `persname` кодирующий имя человека, которому документ адресован, снабжается атрибутом `role`
 со значением `addressee`:
 ```xml
-  <persName ref="#Булгаков" role="addressee">Булгакову</persName>
+  <persName ref="Булгаков" role="addressee">Булгакову</persName>
 ```
 Делается это в самом тексте документа (а не в его заголовке) и - не более одного раза на документ.
 
@@ -241,10 +241,10 @@ layout: page
       <titleStmt>
         <title type="main">Къ пророчеству о Бонапарте</title>
         <author>
-          <persName ref="#Гирша_Давыдовичъ">Гирш Давыдович</persName>
+          <persName ref="Гирша_Давыдовичъ">Гирш Давыдович</persName>
         </author>
         <editor role="transcriber">
-          <persName ref="#IA">Ифрах Абрамов</persName></editor>
+          <persName ref="IA">Ифрах Абрамов</persName></editor>
       </titleStmt>
       ...
     </fileDesc>
