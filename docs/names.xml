@@ -24,759 +24,1087 @@
   <text>
     <body>
       <head>Имена</head>
+      <p>
+        <l>
+          <ref target="/names.html#jews" role="namesViewer">Жиды (они же Евреи)</ref>
+        </l>
+        <l>
+          <ref target="/names.html#officials" role="namesViewer">Начальство</ref>
+        </l>
+        <l>
+          <ref target="/names.html#places" role="namesViewer">Места</ref>
+        </l>
+        <l>
+          <ref target="/names.html#organizations" role="namesViewer">Организации</ref>
+        </l>
+        <l>
+          <ref target="/names.html#transcribers" role="namesViewer">Расшифровщики</ref>
+        </l>
+      </p>
       <listPerson xml:id="jews">
         <head>Жиды (они же Евреи)</head>
         <person xml:id="alter-rebbe">
           <persName>Зелман Борухович</persName>
           <persName>(Алтер Ребе)</persName>
           <persName>(Соломон Борух?)</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
-            <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
-            <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgia413/documents/000.html" role="documentViewer">000</ref>
-            <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgia413/documents/004.html" role="documentViewer">004</ref>
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
-            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia413/documents/010.html" role="documentViewer">010</ref>
-            <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
-            <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
-            <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
-            <ref target="/collections/rgia413/documents/019.html" role="documentViewer">019</ref>
-            <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref>
-            <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
-            <ref target="/collections/rgia413/documents/026.html" role="documentViewer">026</ref>
-            <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
-            <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
-            <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
-            <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">272.2</ref>
-            <ref target="/collections/dubnov/documents/273.html" role="documentViewer">273</ref>
-            <ref target="/collections/dubnov/documents/277.html" role="documentViewer">277</ref>
-            <ref target="/collections/dubnov/documents/279.html" role="documentViewer">279</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Алтер_Ребе">[Википедия]</ref>
           <p>Лозенский раввин?</p>
           <p>see 093...</p>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+              <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
+              <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">272.2</ref>
+              <ref target="/collections/dubnov/documents/273.html" role="documentViewer">273</ref>
+              <ref target="/collections/dubnov/documents/277.html" role="documentViewer">277</ref>
+              <ref target="/collections/dubnov/documents/279.html" role="documentViewer">279</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
+              <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+              <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/000.html" role="documentViewer">000</ref>
+              <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgia413/documents/004.html" role="documentViewer">004</ref>
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+              <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgia413/documents/010.html" role="documentViewer">010</ref>
+              <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
+              <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
+              <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
+              <ref target="/collections/rgia413/documents/019.html" role="documentViewer">019</ref>
+              <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref>
+              <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
+              <ref target="/collections/rgia413/documents/026.html" role="documentViewer">026</ref>
+              <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="maggid">
           <persName>Магид</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Дов-Бер_из_Межерича">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+            </l>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Јосель_Мовшович">
           <persName>Јосель Мовшович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
-            <ref target="/collections/rgada/documents/126.html" role="documentViewer">126</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
+              <ref target="/collections/rgada/documents/126.html" role="documentViewer">126</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Абрамович">
           <persName>Абрамович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Авигдор">
           <persName>Авигдор</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgia413/documents/002.html" role="documentViewer">002</ref>
-            <ref target="/collections/rgia413/documents/005.html" role="documentViewer">005</ref>
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
-            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
-            <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-            <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-            <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
-            <ref target="/collections/dubnov/documents/271.html" role="documentViewer">271</ref>
-            <ref target="/collections/dubnov/documents/275.2.html" role="documentViewer">275.2</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+              <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
+              <ref target="/collections/dubnov/documents/271.html" role="documentViewer">271</ref>
+              <ref target="/collections/dubnov/documents/275.2.html" role="documentViewer">275.2</ref>
+            </l>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgia413/documents/002.html" role="documentViewer">002</ref>
+              <ref target="/collections/rgia413/documents/005.html" role="documentViewer">005</ref>
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+              <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+              <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Арон">
           <persName>Арон</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-          </p>
           <p>упомянут в допросе Меера Рафаловича</p>
           <p>Арон упомянут дважды, предположительно - один и тот же.</p>
           <p>Карлинский?</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Арон_Беркович">
           <persName>Арон Беркович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/100.html" role="documentViewer">100</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/100.html" role="documentViewer">100</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Арон_Беркович-Гирша">
           <persName>Гирша</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-          </p>
           <p>сын Арона Берковича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Арон_Беркович-Мойжес">
           <persName>Мойжес</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-          </p>
           <p>сын Арона Берковича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Арон_Беркович-Шифра">
           <persName>Шифра</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-          </p>
           <p>дочь Арона Берковича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Баал_Шем_Тов">
           <persName>Баал Шем Тов</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Баал-Шем-Тов">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Борух_Мордухович">
           <persName>Борух Мордухович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/123.html" role="documentViewer">123</ref>
-            <ref target="/collections/rgada/documents/124.html" role="documentViewer">124</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/123.html" role="documentViewer">123</ref>
+              <ref target="/collections/rgada/documents/124.html" role="documentViewer">124</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Вулф_Шимеліович">
           <persName>Вулф Шимеліович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgada/documents/106.html" role="documentViewer">106</ref>
-            <ref target="/collections/rgada/documents/150a.html" role="documentViewer">150a</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+              <ref target="/collections/rgada/documents/106.html" role="documentViewer">106</ref>
+              <ref target="/collections/rgada/documents/150a.html" role="documentViewer">150a</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Вулф_Шимеліович-Зисля">
           <persName>Зисля</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-          </p>
           <p>дочь Вулфа Шимеліовича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Вульф">
           <persName>Вульф</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Гирша_Јосіеліович">
           <persName>Гирша Јосіеліович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
-            <ref target="/collections/rgada/documents/134.html" role="documentViewer">134</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
+              <ref target="/collections/rgada/documents/134.html" role="documentViewer">134</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Гирша_Давыдовичъ">
           <persName>Гирша Давыдовичъ</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgada/documents/002.html" role="documentViewer">002</ref>
-            <ref target="/collections/rgada/documents/020.html" role="documentViewer">020</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgada/documents/002.html" role="documentViewer">002</ref>
+              <ref target="/collections/rgada/documents/020.html" role="documentViewer">020</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Елиашевич_Федор_Петрович">
           <persName>Елиашевич_Федор_Петрович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Зелман">
           <persName>Зелман</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Зелман_Леизерович">
           <persName>Зелман Леизерович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
-            <ref target="/collections/rgada/documents/114.html" role="documentViewer">114</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
+              <ref target="/collections/rgada/documents/114.html" role="documentViewer">114</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Зелман_Лейбович">
           <persName>Зелман Лейбович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/131.html" role="documentViewer">131</ref>
-            <ref target="/collections/rgada/documents/132.html" role="documentViewer">132</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/131.html" role="documentViewer">131</ref>
+              <ref target="/collections/rgada/documents/132.html" role="documentViewer">132</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Зелман_Янкелевич">
           <persName>Зелман Янкелевич</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-            <ref target="/collections/rgada/documents/104.html" role="documentViewer">104</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+              <ref target="/collections/rgada/documents/104.html" role="documentViewer">104</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Зелман_Янкелевич-Гирша">
           <persName>Гирша</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-          </p>
           <p>сын Зелмана Янкелевича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Зелман_Янкелевич-Хайка">
           <persName>Хайка</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-          </p>
           <p>сын Зелмана Янкелевича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Зельман">
           <persName>Зельман</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Ицка">
           <persName>Ицка</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Ицка_Меленrович">
           <persName>Ицка Меленrович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Ицко_Саіович">
           <persName>Ицко Саіович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
-            <ref target="/collections/rgada/documents/118.html" role="documentViewer">118</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
+              <ref target="/collections/rgada/documents/118.html" role="documentViewer">118</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Каган">
           <persName>Каган</persName>
           <p rendition="mentions">
-            <ref target="/collections/dubnov/documents/427.html" role="documentViewer">427</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/427.html" role="documentViewer">427</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Лезер_Хаймович">
           <persName>Лезер Хаймович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Леизер_Нотолевич">
           <persName>Леизер Нотолевич</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/121.html" role="documentViewer">121</ref>
-            <ref target="/collections/rgada/documents/122.html" role="documentViewer">122</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/121.html" role="documentViewer">121</ref>
+              <ref target="/collections/rgada/documents/122.html" role="documentViewer">122</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Лейба_Зеликович">
           <persName>Лейба Зеликович</persName>
           <persName>(Лейб Зеликович)</persName>
           <p rendition="mentions">
-            <ref target="/names.html" role="documentViewer">names</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/098.html" role="documentViewer">098</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              Имена:
+              <ref target="/names.html#Лейба_Зеликович-Дина" role="namesViewer">Дина</ref>
+              <ref target="/names.html#Лейба_Зеликович-Хая" role="namesViewer">Хая</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/098.html" role="documentViewer">098</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Лейба_Зеликович-Дина">
           <persName>Дина</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-          </p>
           <p>
             дочь
             <persName ref="Лейба_Зеликович">Лейбы Зеликовича</persName>
+          </p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Лейба_Зеликович-Хая">
           <persName>Хая</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-          </p>
           <p>
             дочь
             <persName ref="Лейба_Зеликович">Лейбы Зеликовича</persName>
+          </p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Лейба_Меіерович">
           <persName>Лейба Меіерович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/102.html" role="documentViewer">102</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/102.html" role="documentViewer">102</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Лейба_Меіерович-Сора">
           <persName>Сора</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-          </p>
           <p>дочь Лейбы Меіеровича</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Лейба_Юделевич">
           <persName>Лейба Юделевич</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Меіер_Рафалович">
           <persName>Меіер Рафалович</persName>
           <persName>(Меер Рафалович)</persName>
-          <p rendition="mentions">
-            <ref target="/names.html" role="documentViewer">names</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/092.html" role="documentViewer">092</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/143a.html" role="documentViewer">143a</ref>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-          </p>
           <p>раввин и начальник Каролинской секты из Вильно</p>
+          <p rendition="mentions">
+            <l>
+              Имена:
+              <ref target="/names.html#Меіер_Рафалович-Шломо" role="namesViewer">Шломо</ref>
+              <ref target="/names.html#Меіер_Рафалович-Янкель" role="namesViewer">Янкель</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/092.html" role="documentViewer">092</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/143a.html" role="documentViewer">143a</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Меіер_Рафалович-Шломо">
           <persName>Шломо</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-          </p>
           <p>
             сын
             <persName ref="Меіер_Рафалович">Меера Рафаловича</persName>
+          </p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Меіер_Рафалович-Янкель">
           <persName>Янкель</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-          </p>
           <p>
             сын
             <persName ref="Меіер_Рафалович">Меера Рафаловича</persName>
+          </p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Михель_Файбишович">
           <persName>Михель Файбишович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
-            <ref target="/collections/rgada/documents/112.html" role="documentViewer">112</ref>
-            <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
+              <ref target="/collections/rgada/documents/112.html" role="documentViewer">112</ref>
+              <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Мовша_Јосіеліович">
           <persName>Мовша Јосіеліович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/127.html" role="documentViewer">127</ref>
-            <ref target="/collections/rgada/documents/128.html" role="documentViewer">128</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/127.html" role="documentViewer">127</ref>
+              <ref target="/collections/rgada/documents/128.html" role="documentViewer">128</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Мовша_Ицкович">
           <persName>Мовша Ицкович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Мовша_Мордохович">
           <persName>Мовша Мордохович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Моисей_Ошерович">
           <persName>Моисей Ошерович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
-            <ref target="/collections/rgia413/documents/029.html" role="documentViewer">029</ref>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
+              <ref target="/collections/rgia413/documents/029.html" role="documentViewer">029</ref>
+              <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Мордух">
           <persName>Мордух</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-          </p>
           <p>Ляховицкий раввин.</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Невахович">
           <persName>Невахович, Лев Николаевич</persName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Невахович,_Лев_Николаевич">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Нота_Ноткин">
           <persName>Ноткин, Нота Хаимович</persName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Ноткин,_Нота_Хаимович">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Нохим_Ицкович">
           <persName>Нохим Ицкович</persName>
-          <p rendition="mentions">
-            <ref target="/names.html" role="documentViewer">names</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/095.html" role="documentViewer">095</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
-          </p>
           <p>Состоит в родстве с Рафаловичем.</p>
+          <p rendition="mentions">
+            <l>
+              Имена:
+              <ref target="/names.html#Нохим_Ицкович-Рыбка" role="namesViewer">Рыбка</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/095.html" role="documentViewer">095</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Нохим_Ицкович-Рыбка">
           <persName>Рыбка</persName>
           <persName>(видимо, Ривка)</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-          </p>
           <p>
             дочь
             <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>
+          </p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Орлин">
           <persName>Орлин</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
-            <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+              <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
+              <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Перец_Хаймович">
           <persName>Перец Хаймович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/115.html" role="documentViewer">115</ref>
-            <ref target="/collections/rgada/documents/116.html" role="documentViewer">116</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/115.html" role="documentViewer">115</ref>
+              <ref target="/collections/rgada/documents/116.html" role="documentViewer">116</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Рафаил_Шлїомович">
           <persName>Рафаил Шлїомович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
-            <ref target="/collections/rgada/documents/108.html" role="documentViewer">108</ref>
-            <ref target="/collections/rgada/documents/234.html" role="documentViewer">234</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
+              <ref target="/collections/rgada/documents/108.html" role="documentViewer">108</ref>
+              <ref target="/collections/rgada/documents/234.html" role="documentViewer">234</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Рафал">
           <persName>Рафал</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Саломон">
           <persName>Саломон</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Соломон">
           <persName>Соломон</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-          </p>
           <p>упомянут в допросе Меера Рафаловича</p>
           <p>Карлинский?</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Хлїовна_Зорухович">
           <persName>Хлїовна Зорухович</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/129.html" role="documentViewer">129</ref>
-            <ref target="/collections/rgada/documents/130.html" role="documentViewer">130</ref>
-          </p>
           <p>
             Подпись:
             <span xml:lang="he">נאום צפורית במה״ר זרח זקס</span>
             . Возможно, 'Хлёвна' - прозвище по названию географического пункта?
           </p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/129.html" role="documentViewer">129</ref>
+              <ref target="/collections/rgada/documents/130.html" role="documentViewer">130</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Шая_Ицкович">
           <persName>Шая Ицкович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/119.html" role="documentViewer">119</ref>
-            <ref target="/collections/rgada/documents/120.html" role="documentViewer">120</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/119.html" role="documentViewer">119</ref>
+              <ref target="/collections/rgada/documents/120.html" role="documentViewer">120</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Шломо_Меиерович">
           <persName>Шломо Меиерович</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Шмуил_Хаимович">
           <persName>Шмуил Хаимович</persName>
           <persName>(Шмуйл Хайкa)</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
-            <ref target="/collections/rgada/documents/136.html" role="documentViewer">136</ref>
-          </p>
           <p>Индурский раввин</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+              <ref target="/collections/rgada/documents/136.html" role="documentViewer">136</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Шмуйло">
           <persName>Шмуйло</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Юдель_Еліашевич">
           <persName>Юдель Еліашевич</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-            <ref target="/collections/rgada/documents/110.html" role="documentViewer">110</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+              <ref target="/collections/rgada/documents/110.html" role="documentViewer">110</ref>
+            </l>
           </p>
         </person>
         <person xml:id="рав_Яаков_Йосеф">
           <persName>рав Яаков Йосеф из Полонного</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Яков_Йосеф_из_Полонного">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            </l>
+          </p>
         </person>
       </listPerson>
       <listPerson xml:id="officials">
         <head>Начальство</head>
         <person xml:id="Александр_I">
           <persName>Александр I</persName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Александр_I">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Беклешовъ">
           <persName>Беклешов, Александр Андреевич</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-          </p>
-          <p>Генералъ-Прокурорь</p>
           <ref target="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
+          <p>Генералъ-Прокурорь</p>
+          <p rendition="mentions">
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Бенкендорф">
           <persName>Бенкендорф</persName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Бенкендорф,_Христофор_Иванович">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Брискорнъ">
           <persName>Брискорнъ</persName>
           <p rendition="mentions">
-            <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Булгаков">
           <persName>Булгаков</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgada/documents/013.html" role="documentViewer">013</ref>
-            <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
-            <ref target="/collections/rgada/documents/036.html" role="documentViewer">036</ref>
-            <ref target="/collections/rgada/documents/041.html" role="documentViewer">041</ref>
-            <ref target="/collections/rgada/documents/043.html" role="documentViewer">043</ref>
-            <ref target="/collections/rgada/documents/044.html" role="documentViewer">044</ref>
-            <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
-            <ref target="/collections/rgada/documents/047.html" role="documentViewer">047</ref>
-            <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
-            <ref target="/collections/rgada/documents/055.html" role="documentViewer">055</ref>
-            <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
-            <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
-            <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
-            <ref target="/collections/rgada/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/rgada/documents/088a.html" role="documentViewer">088a</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Булгаков,_Яков_Иванович">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgada/documents/013.html" role="documentViewer">013</ref>
+              <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
+              <ref target="/collections/rgada/documents/036.html" role="documentViewer">036</ref>
+              <ref target="/collections/rgada/documents/041.html" role="documentViewer">041</ref>
+              <ref target="/collections/rgada/documents/043.html" role="documentViewer">043</ref>
+              <ref target="/collections/rgada/documents/044.html" role="documentViewer">044</ref>
+              <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
+              <ref target="/collections/rgada/documents/047.html" role="documentViewer">047</ref>
+              <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+              <ref target="/collections/rgada/documents/055.html" role="documentViewer">055</ref>
+              <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
+              <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
+              <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
+              <ref target="/collections/rgada/documents/088.html" role="documentViewer">088</ref>
+              <ref target="/collections/rgada/documents/088a.html" role="documentViewer">088a</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Державин">
           <persName>Державин</persName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Державин,_Гавриил_Романович">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Жегулин">
           <persName>Жегулин</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/028.html" role="documentViewer">028</ref>
-            <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
-            <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
-            <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
-            <ref target="/collections/rgada/documents/089.html" role="documentViewer">089</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Жегулин,_Семён_Семёнович">[Википедия]</ref>
           <p>белорусский губернатор</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/028.html" role="documentViewer">028</ref>
+              <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
+              <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
+              <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
+              <ref target="/collections/rgada/documents/089.html" role="documentViewer">089</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Карнеевъ">
           <persName>Корнеевъ</persName>
-          <p rendition="mentions">
-            <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">263.1</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Корнеев,_Захарий_Яковлевич">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">263.1</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Козминский">
           <persName>Козминский</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/158.html" role="documentViewer">158</ref>
-          </p>
           <p>секретарь</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/158.html" role="documentViewer">158</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Кутузов">
           <persName>Кутузов</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/272.html" role="documentViewer">272</ref>
-            <ref target="/collections/dubnov/documents/256.html" role="documentViewer">256</ref>
-            <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
-            <ref target="/collections/dubnov/documents/262.2.html" role="documentViewer">262.2</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Кутузов,_Михаил_Илларионович">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/256.html" role="documentViewer">256</ref>
+              <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
+              <ref target="/collections/dubnov/documents/262.2.html" role="documentViewer">262.2</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/272.html" role="documentViewer">272</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Лопухин">
           <persName>Лопухин</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
-            <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
-            <ref target="/collections/rgada/documents/044.html" role="documentViewer">044</ref>
-            <ref target="/collections/rgada/documents/055.html" role="documentViewer">055</ref>
-            <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
-            <ref target="/collections/rgada/documents/086.html" role="documentViewer">086</ref>
-            <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
-            <ref target="/collections/rgada/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Лопухин,_Пётр_Васильевич">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
+              <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
+              <ref target="/collections/rgada/documents/044.html" role="documentViewer">044</ref>
+              <ref target="/collections/rgada/documents/055.html" role="documentViewer">055</ref>
+              <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
+              <ref target="/collections/rgada/documents/086.html" role="documentViewer">086</ref>
+              <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
+              <ref target="/collections/rgada/documents/088.html" role="documentViewer">088</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Мириц">
           <persName>Мириц, А.</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Обольяниновъ">
           <persName>Обольянинов</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/263.html" role="documentViewer">263</ref>
-            <ref target="/collections/rgada/documents/264.html" role="documentViewer">264</ref>
-            <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
-            <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
-            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
-            <ref target="/collections/dubnov/documents/253.2.html" role="documentViewer">253.2</ref>
-            <ref target="/collections/dubnov/documents/254.1.html" role="documentViewer">254.1</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Обольянинов,_Пётр_Хрисанфович">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+              <ref target="/collections/dubnov/documents/253.2.html" role="documentViewer">253.2</ref>
+              <ref target="/collections/dubnov/documents/254.1.html" role="documentViewer">254.1</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/263.html" role="documentViewer">263</ref>
+              <ref target="/collections/rgada/documents/264.html" role="documentViewer">264</ref>
+              <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
+            </l>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+              <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Огинский">
           <persName>Огинский</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Оленин">
           <persName>Оленин</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Павел_I">
           <persName>Павел I</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Павел_I">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Петров">
           <persName>Петров</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
-          </p>
           <p>Сенатский курьер</p>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Сафоновъ">
           <persName>Сафоновъ</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Северинъ">
           <persName>Северинъ</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
-            <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
-            <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
-            <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
+              <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Сукин">
           <persName>Сукин</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
-          </p>
           <p>Сенатский курьер</p>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Тарабеев">
           <persName>Петръ Тарабеевъ</persName>
-          <p rendition="mentions">
-            <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
-          </p>
           <p>Тарбеев, Петр Матфеевич, тайный советник, белорусско-витебский гражданский губернатор с 1801 г.</p>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Хрущов">
           <persName>Хрущов</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/261.html" role="documentViewer">261</ref>
-            <ref target="/collections/rgada/documents/263.html" role="documentViewer">263</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/261.html" role="documentViewer">261</ref>
+              <ref target="/collections/rgada/documents/263.html" role="documentViewer">263</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Чечерский">
           <persName>Чечерский</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/003.html" role="documentViewer">003</ref>
-            <ref target="/collections/rgada/documents/015.html" role="documentViewer">015</ref>
-          </p>
           <p>Ксёндз</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/003.html" role="documentViewer">003</ref>
+              <ref target="/collections/rgada/documents/015.html" role="documentViewer">015</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="фонъ_Дер_Пален">
           <persName>граф фон Пален</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
-            <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
+              <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
+            </l>
           </p>
         </person>
       </listPerson>
@@ -784,208 +1112,304 @@
         <head>Места</head>
         <place xml:id="Алексеевский_равелин">
           <placeName>Алексеевский равелин</placeName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Алексеевский_равелин">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </place>
         <place xml:id="Белоруссия">
           <placeName>Белоруссия</placeName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-          </p>
           <p>Губерния</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            </l>
+          </p>
         </place>
         <place xml:id="Вильно">
           <placeName>Вильно</placeName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
-            <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-            <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Вильнюс">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
+              <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
+          </p>
         </place>
         <place xml:id="Витепск">
           <placeName>Витепск</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Владимир">
           <placeName>Владимир</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Волынская_губерния">
           <placeName>Волынская губерния</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Гамбург">
           <placeName>Гамбург</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Гродзен">
           <placeName>Гродзен</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Гродно">
           <placeName>Гродно</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Дзиенциола">
           <placeName>Дзиенциола</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Иерусалим">
           <placeName>Иерусалим</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Индура">
           <placeName>Индура</placeName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Индура">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
+          </p>
         </place>
         <place xml:id="Каролины">
           <placeName>Каролины</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Литва">
           <placeName>Литва</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Лозна">
           <placeName>Лозна</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Ляховицы">
           <placeName>Ляховицы</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Мезеричи">
           <placeName>Мезеричи</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Минская_губерния">
           <placeName>Минская губерния</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Минскъ">
           <placeName>Минскъ</placeName>
           <p rendition="mentions">
-            <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">263.1</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">263.1</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Могилевская_губерния">
           <placeName>Могилевская губерния</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Нескиза">
           <placeName>Нескиза</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Оникшты">
           <placeName>Оникшты</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Островна">
           <placeName>Островна</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Петербург">
           <placeName>Петербург</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/041.html" role="documentViewer">041</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
-            <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+              <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/041.html" role="documentViewer">041</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Петропавловская_крепость">
           <placeName>Петропавловская крепость</placeName>
-          <p rendition="mentions"> </p>
           <ref target="https://ru.wikipedia.org/wiki/Петропавловская_крепость">[Википедия]</ref>
+          <p rendition="mentions"></p>
         </place>
         <place xml:id="Пруссия">
           <placeName>Пруссия</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Словита">
           <placeName>Словита</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Украйна">
           <placeName>Украйна</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Чаусы">
           <placeName>Чаусы</placeName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </place>
       </listPlace>
@@ -994,38 +1418,59 @@
         <org xml:id="Губернатор">
           <orgName>Губернатор</orgName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            </l>
           </p>
         </org>
         <org xml:id="Литовское_губернское_правление">
           <orgName>Литовское губернское правление</orgName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+            </l>
           </p>
         </org>
         <org xml:id="Тайная_экспедиция">
           <orgName>Тайная экспедиция</orgName>
-          <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Тайная_канцелярия">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+            </l>
+          </p>
         </org>
         <org xml:id="виленский_кагал">
           <orgName>Виленский кагал</orgName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
           </p>
         </org>
         <org xml:id="губернское_правление">
           <orgName>губернское правление</orgName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            </l>
           </p>
         </org>
       </listOrg>
@@ -1034,204 +1479,237 @@
         <person xml:id="ALD">
           <persName>Арье-Лейб Дубинский</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/000.html" role="documentViewer">000</ref>
-            <ref target="/collections/rgada/documents/012.html" role="documentViewer">012</ref>
-            <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
-            <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
-            <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
-            <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
-            <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
-            <ref target="/collections/rgada/documents/088a.html" role="documentViewer">088a</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-            <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
-            <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
-            <ref target="/collections/rgada/documents/115.html" role="documentViewer">115</ref>
-            <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
-            <ref target="/collections/rgada/documents/120.html" role="documentViewer">120</ref>
-            <ref target="/collections/rgada/documents/121.html" role="documentViewer">121</ref>
-            <ref target="/collections/rgada/documents/123.html" role="documentViewer">123</ref>
-            <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
-            <ref target="/collections/rgada/documents/127.html" role="documentViewer">127</ref>
-            <ref target="/collections/rgada/documents/129.html" role="documentViewer">129</ref>
-            <ref target="/collections/rgada/documents/131.html" role="documentViewer">131</ref>
-            <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
-            <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
-            <ref target="/collections/rgada/documents/143a.html" role="documentViewer">143a</ref>
-            <ref target="/collections/rgada/documents/150a.html" role="documentViewer">150a</ref>
-            <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
-            <ref target="/collections/rgada/documents/158.html" role="documentViewer">158</ref>
-            <ref target="/collections/rgada/documents/160.html" role="documentViewer">160</ref>
-            <ref target="/collections/rgada/documents/234.html" role="documentViewer">234</ref>
-            <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
-            <ref target="/collections/rgada/documents/253.html" role="documentViewer">253</ref>
-            <ref target="/collections/rgada/documents/255.html" role="documentViewer">255</ref>
-            <ref target="/collections/rgada/documents/257.html" role="documentViewer">257</ref>
-            <ref target="/collections/rgada/documents/336.html" role="documentViewer">336</ref>
-            <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
-            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+              <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+            </l>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/000.html" role="documentViewer">000</ref>
+              <ref target="/collections/rgada/documents/012.html" role="documentViewer">012</ref>
+              <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+              <ref target="/collections/rgada/documents/058.html" role="documentViewer">058</ref>
+              <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
+              <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
+              <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
+              <ref target="/collections/rgada/documents/088a.html" role="documentViewer">088a</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+              <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
+              <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+              <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
+              <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
+              <ref target="/collections/rgada/documents/115.html" role="documentViewer">115</ref>
+              <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
+              <ref target="/collections/rgada/documents/120.html" role="documentViewer">120</ref>
+              <ref target="/collections/rgada/documents/121.html" role="documentViewer">121</ref>
+              <ref target="/collections/rgada/documents/123.html" role="documentViewer">123</ref>
+              <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
+              <ref target="/collections/rgada/documents/127.html" role="documentViewer">127</ref>
+              <ref target="/collections/rgada/documents/129.html" role="documentViewer">129</ref>
+              <ref target="/collections/rgada/documents/131.html" role="documentViewer">131</ref>
+              <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
+              <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+              <ref target="/collections/rgada/documents/143a.html" role="documentViewer">143a</ref>
+              <ref target="/collections/rgada/documents/150a.html" role="documentViewer">150a</ref>
+              <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
+              <ref target="/collections/rgada/documents/158.html" role="documentViewer">158</ref>
+              <ref target="/collections/rgada/documents/160.html" role="documentViewer">160</ref>
+              <ref target="/collections/rgada/documents/234.html" role="documentViewer">234</ref>
+              <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
+              <ref target="/collections/rgada/documents/253.html" role="documentViewer">253</ref>
+              <ref target="/collections/rgada/documents/255.html" role="documentViewer">255</ref>
+              <ref target="/collections/rgada/documents/257.html" role="documentViewer">257</ref>
+              <ref target="/collections/rgada/documents/336.html" role="documentViewer">336</ref>
+              <ref target="/collections/rgada/documents/348.html" role="documentViewer">348</ref>
+            </l>
           </p>
         </person>
         <person xml:id="BG">
           <persName>Борух Горкин</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+            </l>
           </p>
         </person>
         <person xml:id="IA">
           <persName>Ифрах Абрамов</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgada/documents/002.html" role="documentViewer">002</ref>
-            <ref target="/collections/rgada/documents/003.html" role="documentViewer">003</ref>
-            <ref target="/collections/rgada/documents/004.html" role="documentViewer">004</ref>
-            <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
-            <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
-            <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
-            <ref target="/collections/rgada/documents/028.html" role="documentViewer">028</ref>
-            <ref target="/collections/rgada/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgada/documents/032.html" role="documentViewer">032</ref>
-            <ref target="/collections/rgada/documents/034.html" role="documentViewer">034</ref>
-            <ref target="/collections/rgada/documents/040.html" role="documentViewer">040</ref>
-            <ref target="/collections/rgada/documents/041.html" role="documentViewer">041</ref>
-            <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
-            <ref target="/collections/rgada/documents/044.html" role="documentViewer">044</ref>
-            <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
-            <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
-            <ref target="/collections/rgada/documents/079.html" role="documentViewer">079</ref>
-            <ref target="/collections/rgada/documents/081.html" role="documentViewer">081</ref>
-            <ref target="/collections/rgada/documents/086.html" role="documentViewer">086</ref>
-            <ref target="/collections/rgada/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/rgada/documents/089.html" role="documentViewer">089</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgada/documents/002.html" role="documentViewer">002</ref>
+              <ref target="/collections/rgada/documents/003.html" role="documentViewer">003</ref>
+              <ref target="/collections/rgada/documents/004.html" role="documentViewer">004</ref>
+              <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
+              <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
+              <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
+              <ref target="/collections/rgada/documents/028.html" role="documentViewer">028</ref>
+              <ref target="/collections/rgada/documents/030.html" role="documentViewer">030</ref>
+              <ref target="/collections/rgada/documents/032.html" role="documentViewer">032</ref>
+              <ref target="/collections/rgada/documents/034.html" role="documentViewer">034</ref>
+              <ref target="/collections/rgada/documents/040.html" role="documentViewer">040</ref>
+              <ref target="/collections/rgada/documents/041.html" role="documentViewer">041</ref>
+              <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
+              <ref target="/collections/rgada/documents/044.html" role="documentViewer">044</ref>
+              <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
+              <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+              <ref target="/collections/rgada/documents/079.html" role="documentViewer">079</ref>
+              <ref target="/collections/rgada/documents/081.html" role="documentViewer">081</ref>
+              <ref target="/collections/rgada/documents/086.html" role="documentViewer">086</ref>
+              <ref target="/collections/rgada/documents/088.html" role="documentViewer">088</ref>
+              <ref target="/collections/rgada/documents/089.html" role="documentViewer">089</ref>
+            </l>
           </p>
         </person>
         <person xml:id="IL">
           <persName>Илья Лурье</persName>
-          <p rendition="mentions">
-            <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
-            <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
-            <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
-            <ref target="/collections/rgada/documents/088a.html" role="documentViewer">088a</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
-            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
-            <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-            <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
-            <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
-            <ref target="/collections/rgada/documents/115.html" role="documentViewer">115</ref>
-            <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
-            <ref target="/collections/rgada/documents/120.html" role="documentViewer">120</ref>
-            <ref target="/collections/rgada/documents/121.html" role="documentViewer">121</ref>
-            <ref target="/collections/rgada/documents/123.html" role="documentViewer">123</ref>
-            <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
-            <ref target="/collections/rgada/documents/127.html" role="documentViewer">127</ref>
-            <ref target="/collections/rgada/documents/129.html" role="documentViewer">129</ref>
-            <ref target="/collections/rgada/documents/131.html" role="documentViewer">131</ref>
-            <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
-            <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
-            <ref target="/collections/rgada/documents/158.html" role="documentViewer">158</ref>
-            <ref target="/collections/rgada/documents/160.html" role="documentViewer">160</ref>
-            <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
-            <ref target="/collections/rgada/documents/253.html" role="documentViewer">253</ref>
-            <ref target="/collections/rgada/documents/255.html" role="documentViewer">255</ref>
-            <ref target="/collections/rgada/documents/257.html" role="documentViewer">257</ref>
-            <ref target="/collections/rgada/documents/259.html" role="documentViewer">259</ref>
-            <ref target="/collections/rgada/documents/260.html" role="documentViewer">260</ref>
-            <ref target="/collections/rgada/documents/261.html" role="documentViewer">261</ref>
-            <ref target="/collections/rgada/documents/263.html" role="documentViewer">263</ref>
-            <ref target="/collections/rgada/documents/264.html" role="documentViewer">264</ref>
-            <ref target="/collections/rgada/documents/265.html" role="documentViewer">265</ref>
-            <ref target="/collections/rgada/documents/266.html" role="documentViewer">266</ref>
-            <ref target="/collections/rgada/documents/267.html" role="documentViewer">267</ref>
-            <ref target="/collections/rgada/documents/268.html" role="documentViewer">268</ref>
-            <ref target="/collections/rgada/documents/269.html" role="documentViewer">269</ref>
-            <ref target="/collections/rgada/documents/272.html" role="documentViewer">272</ref>
-            <ref target="/collections/rgada/documents/274.html" role="documentViewer">274</ref>
-            <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
-            <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
-            <ref target="/collections/rgada/documents/277.html" role="documentViewer">277</ref>
-            <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
-            <ref target="/collections/rgada/documents/279.html" role="documentViewer">279</ref>
-            <ref target="/collections/rgada/documents/280.html" role="documentViewer">280</ref>
-            <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
-            <ref target="/collections/rgada/documents/289.html" role="documentViewer">289</ref>
-            <ref target="/collections/rgada/documents/322.html" role="documentViewer">322</ref>
-            <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
-            <ref target="/collections/rgada/documents/324.html" role="documentViewer">324</ref>
-            <ref target="/collections/rgada/documents/325.html" role="documentViewer">325</ref>
-          </p>
           <p>работал по заказу и под руководством Мондшайна</p>
+          <p rendition="mentions">
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/084.html" role="documentViewer">084</ref>
+              <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
+              <ref target="/collections/rgada/documents/087.html" role="documentViewer">087</ref>
+              <ref target="/collections/rgada/documents/088a.html" role="documentViewer">088a</ref>
+              <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+              <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+              <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+              <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+              <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+              <ref target="/collections/rgada/documents/103.html" role="documentViewer">103</ref>
+              <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+              <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
+              <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+              <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
+              <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
+              <ref target="/collections/rgada/documents/115.html" role="documentViewer">115</ref>
+              <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
+              <ref target="/collections/rgada/documents/120.html" role="documentViewer">120</ref>
+              <ref target="/collections/rgada/documents/121.html" role="documentViewer">121</ref>
+              <ref target="/collections/rgada/documents/123.html" role="documentViewer">123</ref>
+              <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
+              <ref target="/collections/rgada/documents/127.html" role="documentViewer">127</ref>
+              <ref target="/collections/rgada/documents/129.html" role="documentViewer">129</ref>
+              <ref target="/collections/rgada/documents/131.html" role="documentViewer">131</ref>
+              <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
+              <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+              <ref target="/collections/rgada/documents/158.html" role="documentViewer">158</ref>
+              <ref target="/collections/rgada/documents/160.html" role="documentViewer">160</ref>
+              <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
+              <ref target="/collections/rgada/documents/253.html" role="documentViewer">253</ref>
+              <ref target="/collections/rgada/documents/255.html" role="documentViewer">255</ref>
+              <ref target="/collections/rgada/documents/257.html" role="documentViewer">257</ref>
+              <ref target="/collections/rgada/documents/259.html" role="documentViewer">259</ref>
+              <ref target="/collections/rgada/documents/260.html" role="documentViewer">260</ref>
+              <ref target="/collections/rgada/documents/261.html" role="documentViewer">261</ref>
+              <ref target="/collections/rgada/documents/263.html" role="documentViewer">263</ref>
+              <ref target="/collections/rgada/documents/264.html" role="documentViewer">264</ref>
+              <ref target="/collections/rgada/documents/265.html" role="documentViewer">265</ref>
+              <ref target="/collections/rgada/documents/266.html" role="documentViewer">266</ref>
+              <ref target="/collections/rgada/documents/267.html" role="documentViewer">267</ref>
+              <ref target="/collections/rgada/documents/268.html" role="documentViewer">268</ref>
+              <ref target="/collections/rgada/documents/269.html" role="documentViewer">269</ref>
+              <ref target="/collections/rgada/documents/272.html" role="documentViewer">272</ref>
+              <ref target="/collections/rgada/documents/274.html" role="documentViewer">274</ref>
+              <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
+              <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
+              <ref target="/collections/rgada/documents/277.html" role="documentViewer">277</ref>
+              <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
+              <ref target="/collections/rgada/documents/279.html" role="documentViewer">279</ref>
+              <ref target="/collections/rgada/documents/280.html" role="documentViewer">280</ref>
+              <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
+              <ref target="/collections/rgada/documents/289.html" role="documentViewer">289</ref>
+              <ref target="/collections/rgada/documents/322.html" role="documentViewer">322</ref>
+              <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
+              <ref target="/collections/rgada/documents/324.html" role="documentViewer">324</ref>
+              <ref target="/collections/rgada/documents/325.html" role="documentViewer">325</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="MF">
           <persName>Мендел Феллер</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/130.html" role="documentViewer">130</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/130.html" role="documentViewer">130</ref>
+            </l>
           </p>
         </person>
         <person xml:id="MK">
           <persName>Михоэль Кориц</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/012.html" role="documentViewer">012</ref>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/012.html" role="documentViewer">012</ref>
+            </l>
           </p>
         </person>
         <person xml:id="SB">
           <persName>Сергей Броуде</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgada/documents/009.html" role="documentViewer">009</ref>
+            <l>
+              РГАДА:
+              <ref target="/collections/rgada/documents/009.html" role="documentViewer">009</ref>
+            </l>
           </p>
         </person>
         <person xml:id="VK">
           <persName>Василий Когаловский</persName>
           <p rendition="mentions">
-            <ref target="/collections/rgia413/documents/000.html" role="documentViewer">000</ref>
-            <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgia413/documents/002.html" role="documentViewer">002</ref>
-            <ref target="/collections/rgia413/documents/004.html" role="documentViewer">004</ref>
-            <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
-            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia413/documents/010.html" role="documentViewer">010</ref>
-            <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
-            <ref target="/collections/rgia413/documents/012.html" role="documentViewer">012</ref>
-            <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
-            <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
-            <ref target="/collections/rgia413/documents/019.html" role="documentViewer">019</ref>
-            <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref>
-            <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref>
-            <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/026.html" role="documentViewer">026</ref>
-            <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
-            <ref target="/collections/rgia413/documents/029.html" role="documentViewer">029</ref>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-            <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            </l>
+            <l>
+              РГИА 413:
+              <ref target="/collections/rgia413/documents/000.html" role="documentViewer">000</ref>
+              <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref>
+              <ref target="/collections/rgia413/documents/002.html" role="documentViewer">002</ref>
+              <ref target="/collections/rgia413/documents/004.html" role="documentViewer">004</ref>
+              <ref target="/collections/rgia413/documents/006.html" role="documentViewer">006</ref>
+              <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+              <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+              <ref target="/collections/rgia413/documents/010.html" role="documentViewer">010</ref>
+              <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
+              <ref target="/collections/rgia413/documents/012.html" role="documentViewer">012</ref>
+              <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
+              <ref target="/collections/rgia413/documents/014.html" role="documentViewer">014</ref>
+              <ref target="/collections/rgia413/documents/019.html" role="documentViewer">019</ref>
+              <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref>
+              <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref>
+              <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
+              <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+              <ref target="/collections/rgia413/documents/026.html" role="documentViewer">026</ref>
+              <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
+              <ref target="/collections/rgia413/documents/029.html" role="documentViewer">029</ref>
+              <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+              <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
+              <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+            </l>
           </p>
         </person>
         <person xml:id="Дубнов">
           <persName>Дубнов</persName>
-          <p rendition="mentions">
-            <ref target="/collections/dubnov/documents/084.html" role="documentViewer">084</ref>
-            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/dubnov/documents/281.html" role="documentViewer">281</ref>
-          </p>
           <ref target="https://ru.wikipedia.org/wiki/Дубнов,_Семён_Маркович">[Википедия]</ref>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/084.html" role="documentViewer">084</ref>
+              <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+              <ref target="/collections/dubnov/documents/281.html" role="documentViewer">281</ref>
+            </l>
+          </p>
         </person>
       </listPerson>
     </body>
