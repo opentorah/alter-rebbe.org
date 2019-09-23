@@ -7,8 +7,8 @@
         <author>
           <persName>?</persName>
         </author>
-        <editor role="transcriber"><persName ref="#IL">Илья Лурье</persName></editor>
-        <editor role="encoder"><persName ref="#ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -40,23 +40,23 @@
       <creation>
         <date when="1798-11-17">17 Ноябрь 1798</date>
       </creation>
-      <abstract><p>Письмо <persName ref="#Булгаков">Булгакову</persName></p></abstract>
+      <abstract><p>Письмо <persName ref="Булгаков">Булгакову</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p084-1" n="084-1" facs="../facsimiles/084-1.jpg"/>
       <fw type="pageNum" place="right">84.</fw>
-      <salute>Мил. г. мой <persName ref="#Булгаков" role="addressee">Яковъ Ивановичъ</persName>,</salute>
+      <salute>Мил. г. мой <persName ref="Булгаков" role="addressee">Яковъ Ивановичъ</persName>,</salute>
       <p>
       <l>При всеподданѣйшемъ отъ меня</l>
-      <l><persName ref="#Павел_I">Государю Императору</persName> докладѣ</l>
+      <l><persName ref="Павел_I">Государю Императору</persName> докладѣ</l>
        <l><add place="left">всѣх обстоятельствъ оказавшихся при изслѣдованіи</add> <del rend="overstrike">о произведеннымъ</del> вашимъ</l>
        <l>высокопрв-мъ произведеннымъ</l>
       <l>по случаю заведенной евреями</l>
       <l>секты называемой каролины</l>
-      <l>и объясненïя <persName ref="#alter-rebbe">рабина Зальмана Боруховича</persName>,</l>
-      <l><persName ref="#Павел_I">Его Импер. Величество </persName>не</l>
+      <l>и объясненïя <persName ref="alter-rebbe">рабина Зальмана Боруховича</persName>,</l>
+      <l><persName ref="Павел_I">Его Импер. Величество </persName>не</l>
         <l>усматривая въ поведеніи евреевъ</l>
       <l>кои щитаютъ въ секте той,</l>
       <l>ничего вреднаго для государства,</l>
@@ -88,11 +88,11 @@
       <l>вашега высокопрва</l>
       <fw type="docNum">№927й</fw>
         <fw><date when="1798-11-17">17 Ноябрь 1798</date></fw>
-      <fw><persName ref="#Булгаков">Булгакову</persName></fw>
+      <fw><persName ref="Булгаков">Булгакову</persName></fw>
       </p>
       
       <p>
-      <l><emph rend="underline">Къ <persName ref="#Жегулин">Жегулину</persName></emph>
+      <l><emph rend="underline">Къ <persName ref="Жегулин">Жегулину</persName></emph>
         <note type="gloss">|: прописать <unclear>...</unclear> сообщ<unclear>...</unclear> :|</note></l>
        <l><del rend="overstrike">В следствіе чѣго</del></l> 
       <l>О исполненïи таковой высокомо-</l>
@@ -100,7 +100,7 @@
       <l>2 литовскому гражданскому</l>
       <l>губернатору, а о томъ же и</l>
       <l>вашему прв. сообщаю съ</l>
-      <l>с темъ, что <persName ref="#alter-rebbe">Зальман Борухович</persName></l>
+      <l>с темъ, что <persName ref="alter-rebbe">Зальман Борухович</persName></l>
       <l>освобожденъ, и для <del rend="overstrike">прохода</del></l>
       <l>свободнаго <del rend="overstrike">ему</del> прохода житель</l>
       <l>ства данъ <del rend="overstrike">отъ</del> ему отъ меня</l>
@@ -111,7 +111,7 @@
        <l>почтеніемъ</l></p>
        <fw type="docNum">№928й</fw>        
         <fw place="left"><date when="1798-11-17">17 Ноябрь 1798</date></fw>
-        <fw place="left"><persName ref="#Жегулин">Жегулину</persName></fw>      
+        <fw place="left"><persName ref="Жегулин">Жегулину</persName></fw>
     </body>
   </text>
 </TEI>
