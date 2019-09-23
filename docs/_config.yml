@@ -33,12 +33,11 @@ exclude:
   - collections.xpr
 
 header_pages:
-# collections-start
   - collections/rgada/index.html
   - collections/rgia413/index.html
   - collections/rgia2213/index.html
   - collections/dubnov/index.html
   - collections/lvia1/index.html
   - collections/lvia6/index.html
-# collections-end
-  - collections/names.html
+  - names
+# header_pages end

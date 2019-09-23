@@ -87,8 +87,8 @@ layout: page
 <a name="collections-end">
 
 Имеются:
-- <a href="/collections/names.html" target="namesViewer">список людей и мест</a> упомянутых в документах;
-- <a href="/collections/names#transcribers" target="namesViewer">список людей</a> предоставивших расшифровки документов;
+- <a href="/names.html" target="namesViewer">список людей и мест</a> упомянутых в документах;
+- <a href="/names#transcribers" target="namesViewer">список людей</a> предоставивших расшифровки документов;
 
 [Фотографии документов](https://drive.google.com/drive/folders/1hCfbEyTlt4UqLjqWOOr0yr11vZw-4KwQ?usp=sharing)
  были (если надо):
