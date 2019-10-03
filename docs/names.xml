@@ -620,10 +620,6 @@
           <ref target="https://ru.wikipedia.org/wiki/Невахович,_Лев_Николаевич">[Википедия]</ref>
           <p rendition="mentions"></p>
         </person>
-        <person xml:id="Неплюев">
-          <persName>Неплюев</persName>
-          <p rendition="mentions"></p>
-        </person>
         <person xml:id="Нота_Ноткин">
           <persName>Ноткин, Нота Хаимович</persName>
           <ref target="https://ru.wikipedia.org/wiki/Ноткин,_Нота_Хаимович">[Википедия]</ref>
@@ -732,10 +728,6 @@
             </l>
           </p>
         </person>
-        <person xml:id="Тутолмин">
-          <persName>Тутолмин</persName>
-          <p rendition="mentions"></p>
-        </person>
         <person xml:id="Хлїовна_Зорухович">
           <persName>Хлїовна Зорухович</persName>
           <p>
@@ -793,6 +785,11 @@
               <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
             </l>
           </p>
+        </person>
+        <person xml:id="Эліас">
+          <persName>Эліас</persName>
+          <p>Элияху бен Шломо Залман, виленский гаон</p>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Юдель_Еліашевич">
           <persName>Юдель Еліашевич</persName>
@@ -966,6 +963,10 @@
             </l>
           </p>
         </person>
+        <person xml:id="Неплюев">
+          <persName>Неплюев</persName>
+          <p rendition="mentions"></p>
+        </person>
         <person xml:id="Обольяниновъ">
           <persName>Обольянинов</persName>
           <ref target="https://ru.wikipedia.org/wiki/Обольянинов,_Пётр_Хрисанфович">[Википедия]</ref>
@@ -1087,6 +1088,10 @@
               <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
             </l>
           </p>
+        </person>
+        <person xml:id="Тутолмин">
+          <persName>Тутолмин</persName>
+          <p rendition="mentions"></p>
         </person>
         <person xml:id="Хрущов">
           <persName>Хрущов</persName>
@@ -1235,6 +1240,14 @@
             </l>
           </p>
         </place>
+        <place xml:id="Добрович">
+          <placeName>Добрович</placeName>
+          <p rendition="mentions"></p>
+        </place>
+        <place xml:id="Злобин">
+          <placeName>Злобин</placeName>
+          <p rendition="mentions"></p>
+        </place>
         <place xml:id="Иерусалим">
           <placeName>Иерусалим</placeName>
           <p rendition="mentions">
@@ -1255,6 +1268,10 @@
               <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
             </l>
           </p>
+        </place>
+        <place xml:id="Калич">
+          <placeName>Калич</placeName>
+          <p rendition="mentions"></p>
         </place>
         <place xml:id="Каролины">
           <placeName>Каролины</placeName>
@@ -1389,6 +1406,10 @@
           <ref target="https://ru.wikipedia.org/wiki/Петропавловская_крепость">[Википедия]</ref>
           <p rendition="mentions"></p>
         </place>
+        <place xml:id="Пинск">
+          <placeName>Пинск</placeName>
+          <p rendition="mentions"></p>
+        </place>
         <place xml:id="Пруссия">
           <placeName>Пруссия</placeName>
           <p rendition="mentions">
@@ -1406,6 +1427,10 @@
               <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
             </l>
           </p>
+        </place>
+        <place xml:id="Столин">
+          <placeName>Столин</placeName>
+          <p rendition="mentions"></p>
         </place>
         <place xml:id="Украйна">
           <placeName>Украйна</placeName>
