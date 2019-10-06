@@ -1408,7 +1408,12 @@
         </place>
         <place xml:id="Пинск">
           <placeName>Пинск</placeName>
-          <p rendition="mentions"></p>
+          <p rendition="mentions">
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+            </l>
+          </p>
         </place>
         <place xml:id="Пруссия">
           <placeName>Пруссия</placeName>
