@@ -747,7 +747,12 @@
         </person>
         <person xml:id="Хаим_Рабин">
           <persName>Хаим Рабин</persName>
-          <p rendition="mentions"></p>
+          <p rendition="mentions">
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/023.html" role="documentViewer">023</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Хлїовна_Зорухович">
           <persName>Хлїовна Зорухович</persName>
@@ -956,6 +961,10 @@
             <l>
               РГАДА:
               <ref target="/collections/rgada/documents/272.html" role="documentViewer">272</ref>
+            </l>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/023.html" role="documentViewer">023</ref>
             </l>
           </p>
         </person>
