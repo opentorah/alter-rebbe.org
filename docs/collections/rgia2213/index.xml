@@ -311,7 +311,9 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Обольяниновъ">Петръ Хрисанфовичь</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/031.html" role="documentViewer">031</ref>
@@ -326,7 +328,9 @@
             <ref target="documents/031.html#p034-1" role="documentViewer" rendition="page">034</ref>
             <ref target="documents/031.html#p034-2" role="documentViewer" rendition="missing-page">034об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
