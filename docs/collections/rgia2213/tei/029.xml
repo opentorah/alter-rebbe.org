@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>?
-                </author>
+				<author>?</author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
@@ -20,8 +18,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -40,7 +38,7 @@
 				</calendar>
 			</calendarDesc>
 			<abstract>
-				<p>Документ 
+				<p>Документ
 					<ref target="/collections/dubnov/documents/256.html" role="documentViewer">9</ref> у Дубнова
 				</p>
 			</abstract>
@@ -54,10 +52,10 @@
 			<fw type="pageNum" place="right">29</fw>
 			<fw type="note" place="left margin">ожидать на послѣднее отношеніе отвѣтствія.</fw>
 			<salute>
-				<l>Милостивый Государь мой 
+				<l>Милостивый Государь мой
 					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисан-
 						<lb/>
-фовичь!
+						фовичь!
 					</persName>
 				</l>
 			</salute>
@@ -69,7 +67,7 @@
 				<l>Іюня съ изображеніемъ въ ономъ высочайшаго</l>
 				<l>Его императорскаго величества повелѣнія</l>
 				<l>о приведеніи въ ясность всѣхъ обстоятельствъ</l>
-				<l>жалобы бывшаго въ 
+				<l>жалобы бывшаго въ
 					<placeName ref="Пинск">Пинскѣ</placeName> оберъ рабина
 				</l>
 				<l>
@@ -77,7 +75,7 @@
 				</l>
 				<l>по изысканіямъ моимъ въ литовской губер-</l>
 				<l>ніи послѣдователей секты Шабзусъ Цвинкусъ</l>
-				<l>не находится, а потому какъ 
+				<l>не находится, а потому какъ
 					<placeName ref="Пинск">Пинскъ состоитъ</placeName>
 				</l>
 				<l>въ Минской губерніи, гдѣ и послѣдователи помя-</l>
@@ -101,7 +99,7 @@
 				<l>а древніе евреи со страхомъ и трепетомъ,</l>
 				<l>противу чего въ прежнее польское правленіе</l>
 				<l>отъ оберъ рабина сего многія были доносы</l>
-				<l>въ 
+				<l>въ
 					<placeName ref="Вильно">Вильну</placeName> и книги китаевцовъ тамъ сожи-
 				</l>
 				<l>гаемы. Хотя въ прочемъ секта сія равно древ-</l>
@@ -167,7 +165,7 @@
 				<l>
 					<date when="1800-07-12">июля 12 дня
 						<lb/>
-1800 года
+						1800 года
 					</date>
 				</l>
 				<l>Его Высокопр
