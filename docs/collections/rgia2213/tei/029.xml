@@ -1,40 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <author>?</author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <date>?</date>
-                <availability status="free">
-                    <licence>
-                        <ab>
-                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<author>?
+                </author>
+				<editor role="transcriber">
+					<persName ref="VK">Василий Когаловский</persName>
+				</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<ptr target="www.alter-rebbe.org"/>
+				</publisher>
+				<date>?</date>
+				<availability status="free">
+					<licence>
+						<ab>
+							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                                 Creative Commons Attribution 4.0 International License
                             </ref>
-                        </ab>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc><p>Facsimile</p></sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage><language ident="ru"/></langUsage>
-            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <abstract>
-                <p>Документ <ref target="/collections/dubnov/documents/256.html" role="documentViewer">9</ref> у Дубнова</p>
-            </abstract>
-        </profileDesc>
-    </teiHeader>
-    <text xml:lang="ru">
-        <body>
-            <pb xml:id="p029-1" n="029-1" facs="../facsimiles/029-1.jpg"/>
-            <pb xml:id="p029-2" n="029-2" facs="../facsimiles/029-2.jpg"/>
-            <pb xml:id="p030-1" n="030-1" facs="../facsimiles/030-1.jpg"/>
-            <pb xml:id="p030-2" n="030-2"/>
-        </body>
-    </text>
+						</ab>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Facsimile</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="ru"/>
+			</langUsage>
+			<calendarDesc>
+				<calendar xml:id="julian">
+					<p>Julian calendar</p>
+				</calendar>
+			</calendarDesc>
+			<abstract>
+				<p>Документ 
+					<ref target="/collections/dubnov/documents/256.html" role="documentViewer">9</ref> у Дубнова
+				</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="ru">
+		<body>
+			<pb xml:id="p029-1" n="029-1" facs="../facsimiles/029-1.jpg"/>
+			<fw type="docNum" place="left">№ 1279/1562</fw>
+			<date when="1800-07-22">22 Іюля 1800.</date>
+			<fw type="pageNum" place="right">29</fw>
+			<fw type="note" place="left margin">ожидать на послѣднее отношеніе отвѣтствія.</fw>
+			<salute>
+				<l>Милостивый Государь мой 
+					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисан-
+						<lb/>
+фовичь!
+					</persName>
+				</l>
+			</salute>
+			<p>
+				<l>Въ слѣдствіе почтеннѣйшаго отношенія</l>
+				<l>ко мнѣ вашего высокопревосходительства отъ 1
+					<hi rend="superscript">го</hi>
+				</l>
+				<l>Іюня съ изображеніемъ въ ономъ высочайшаго</l>
+				<l>Его императорскаго величества повелѣнія</l>
+				<l>о приведеніи въ ясность всѣхъ обстоятельствъ</l>
+				<l>жалобы бывшаго въ 
+					<placeName ref="Пинск">Пинскѣ</placeName> оберъ рабина
+				</l>
+				<l>
+					<persName ref="Авигдор">Хаима</persName>, увѣдомить вас честь имѣю, что
+				</l>
+				<l>по изысканіямъ моимъ въ литовской губер-</l>
+				<l>ніи послѣдователей секты Шабзусъ Цвинкусъ</l>
+				<l>не находится, а потому какъ 
+					<placeName ref="Пинск">Пинскъ состоитъ</placeName>
+				</l>
+				<l>въ Минской губерніи, гдѣ и послѣдователи помя-</l>
+				<l>нутой секты должны быть, сообщилъ я къ</l>
+				<l>минскому гражданскому </l>
+				<l>губернатору съ требованіемъ на жалобу</l>
+				<l>
+					<persName ref="Авигдор">Хаима</persName> объясненія, которой увѣдомляетъ
+				</l>
+				<l>меня изъ числа претензій его на 1
+					<hi rend="superscript">ю</hi> заключаю-
+				</l>
+				<l>щуюся въ томъ, чтобы секта по ученому</l>
+				<l>Шабзусъ Цвинкусъ, а попросту называвшаяся</l>
+				<l>китаевою истреблена была, по причинѣ что</l>
+				<l>имѣетъ правила въ молитвахъ и жизни</l>
+				<l>несходныя съ древними иудеями, поелику</l>
+				<l>они удаляя всякую боязнь и печаль хотятъ</l>
+				<pb xml:id="p029-2" n="029-2" facs="../facsimiles/029-2.jpg"/>
+				<l>все творить съ веселіемъ и спокойствіемъ духа,</l>
+				<l>а древніе евреи со страхомъ и трепетомъ,</l>
+				<l>противу чего въ прежнее польское правленіе</l>
+				<l>отъ оберъ рабина сего многія были доносы</l>
+				<l>въ 
+					<placeName ref="Вильно">Вильну</placeName> и книги китаевцовъ тамъ сожи-
+				</l>
+				<l>гаемы. Хотя въ прочемъ секта сія равно древ-</l>
+				<l>ней ихъ, существуя по городамъ минской</l>
+				<l>губерніи вѣдетъ себя покойно и всѣ государст-</l>
+				<l>венныя подати платитъ равно съ другими,</l>
+				<l>отправляя молитвы свои и прочее безъ всякаго</l>
+				<l>препятствія от древней. _ на 2
+					<hi rend="superscript">ю</hi> что онъ за
+				</l>
+				<l>отрѣшеніе его отъ оберъ рабинства бывшего</l>
+				<l>надъ 30
+					<hi rend="superscript">ю</hi> городами неизвѣстно когда, но поза-
+				</l>
+				<l>мечанію въ польское правленіе, считаетъ</l>
+				<l>убытку себѣ до десяти тысячъ червонныхъ,</l>
+				<l>но доказывать никакими свидѣтелями</l>
+				<l>не можетъ, а только  утверждаетъ присягою</l>
+				<l>и желаетъ, чтобы ни кто другой, а самъ</l>
+				<l>Государь императоръ рѣшилъ его дѣло:</l>
+				<l>поелику убытокъ сей не въ разграбленіи чего-либо,</l>
+				<l>но въ потеряніи предполагаемыхъ отъ оберъ</l>
+				<l>рабинства доходовъ заключается, то и остает-</l>
+				<l>ся сомнительнымъ. _ и на 3
+					<hi rend="superscript">ю</hi> чтобы одни
+				</l>
+				<l>ученѣйшія евреи судили во всѣхъ дѣлахъ</l>
+				<pb xml:id="p030-1" n="030-1" facs="../facsimiles/030-1.jpg"/>
+				<fw type="pageNum" place="right">30</fw>
+				<l>евреевъ, а не иной кто изъ другаго закона,</l>
+				<l>таковое желаніе противно устроенному</l>
+				<l>порядку правленія съ симъ мнѣніемъ</l>
+				<l>минскаго гражданскаго губернатора бывъ</l>
+				<l>совершенно согласенъ, съ своей стороны</l>
+				<l>дополню то только что и всѣ три пункта</l>
+				<l>желаній просителя не основаны ни на какихъ</l>
+				<l>правилахъ, соотвѣтствующихъ общимъ</l>
+				<l>положеніямъ, и совершенно кажется невоз-</l>
+				<l>можныя къ исполненію. _ въ прочемъ</l>
+				<l>препровождая при семъ всѣ присланные</l>
+				<l>ко мнѣ бумаги обратно, и предоставляя</l>
+				<l>оныя равно какъ и все вышеописанное собствен-</l>
+				<l>ному разсмотрѣнію вашему, съ совершен-</l>
+				<l>нымъ почтеніемъ имѣю честь быть.</l>
+			</p>
+			<p>
+				<l>Милостивый государь мой!</l>
+				<l>вашего высокопревосходительства</l>
+				<l>всепокорнейшій слуга</l>
+				<l>
+					<signed>
+						<persName ref="Кутузов">Михайла Голенищевъ Кутузовъ</persName>
+					</signed>
+				</l>
+			</p>
+			<closer place="left">
+				<l>
+					<fw type="docNum">№ 1419</fw>
+				</l>
+				<l>
+					<placeName ref="Вильно">Вильна</placeName>
+				</l>
+				<l>
+					<date when="1800-07-12">июля 12 дня
+						<lb/>
+1800 года
+					</date>
+				</l>
+				<l>Его Высокопр
+					<hi rend="superscript">у</hi> Обольянинову
+				</l>
+			</closer>
+			<pb xml:id="p030-2" n="030-2"/>
+		</body>
+	</text>
 </TEI>
