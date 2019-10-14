@@ -443,7 +443,9 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Обольяниновъ">Петръ Хрисанфовичъ!</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/050.html" role="documentViewer">050</ref>
@@ -452,7 +454,9 @@
             <ref target="documents/050.html#p050-1" role="documentViewer" rendition="page">050</ref>
             <ref target="documents/050.html#p050-2" role="documentViewer" rendition="missing-page">050об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
