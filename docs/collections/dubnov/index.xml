@@ -357,7 +357,11 @@
         <row>
           <cell rendition="description">
             <p>
-              No 10. Донесенiе Литовского губернатора Кутузова генералъ-прокурору Обольянинову о существованiи секты „Каролиновъ&quot; (Хасидовъ), которая подвергалась гоненiямъ но признана правительствомъ безвредною
+              No 10. Донесенiе Литовского губернатора
+              <persName ref="Кутузов">Кутузова</persName>
+              генералъ-прокурору
+              <persName ref="Обольяниновъ">Обольянинову</persName>
+              о существованiи секты „Каролиновъ&quot; (Хасидовъ), которая подвергалась гоненiямъ но признана правительствомъ безвредною
             </p>
             <p>
               Документ
@@ -369,7 +373,9 @@
           <cell rendition="author">
             <persName ref="Кутузов">Голенищевъ-Кутузовъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Обольяниновъ">Петръ Хрисанфовичъ</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/257.html" role="documentViewer">257</ref>
