@@ -436,7 +436,10 @@
           <cell rendition="description">
             <p>
               <num>No 12.</num>
-              Отзывъ Литовскаго губернатора о претензiи Авигдора
+              Отзывъ
+              <persName ref="Кутузов">Литовскаго губернатора</persName>
+              о претензiи
+              <persName ref="Авигдор">Авигдора</persName>
             </p>
             <p>
               Документ
@@ -448,7 +451,9 @@
           <cell rendition="author">
             <persName ref="Кутузов">Голенищевъ-Кутузовъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="#Обольяниновъ">Петръ Хрисанфовичъ</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/262.2.html" role="documentViewer">262.2</ref>
