@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+		xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>?
-                </author>
+				<author>?</author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
@@ -20,8 +19,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -40,7 +39,7 @@
 				</calendar>
 			</calendarDesc>
 			<abstract>
-				<p>Документ 
+				<p>Документ
 					<ref target="/collections/dubnov/documents/262.1.html" role="documentViewer">12</ref> у Дубнова
 				</p>
 			</abstract>
@@ -51,43 +50,26 @@
 			<pb xml:id="p050-1" n="050-1" facs="../facsimiles/050-1.jpg"/>
 			<fw type="docNum" place="left">№ 22720</fw>
 			<fw type="note" place="left">Къ дѣлу</fw>
-			<l>
-				<date when="1800-11-18">18 ноября 1800</date>
-			</l>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">53</del>
-			</fw>
+			<l><date when="1800-11-18">18 ноября 1800</date></l>
+			<fw type="pageNum" place="right"><del rend="overstrike">53</del></fw>
 			<fw type="pageNum" place="right">50</fw>
 			<l>
-				<salute>Милостивый Грь мой 
-					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисан
-						<lb/>
-фовичъ!
-					</persName>
+				<salute>Милостивый Грь мой <persName ref="Обольяниновъ" role="addressee">Петръ Хрисан<lb/>
+						фовичъ!</persName>
 				</salute>
 			</l>
 			<p>
 				<l>Въ слѣдствіе почтеннѣйшаго отноше</l>
 				<l>нія вашего высокопревосходительства съ изо</l>
-				<l>браженіемъ во ономъ 
-					<emph rend="big">высочайшаго государя</emph>
-				</l>
-				<l>
-					<emph rend="big">императора</emph> повѣленія, о возвратѣ оберъ
-				</l>
-				<l>рабину 
-					<persName ref="Авигдор">Хаиму</persName>
-					<note place="end">вместо имени просителя ошибочно указано имя его отца</note> о внесенныхъ будто имъ въ
-				</l>
-				<l>кагалъ 400
-					<hi rend="superscript">х</hi> червонныхъ, и о удовлетвореніи за
-				</l>
+				<l>браженіемъ во ономъ <emph rend="big">высочайшаго государя</emph></l>
+				<l><emph rend="big">императора</emph> повѣленія, о возвратѣ оберъ</l>
+				<l>рабину <persName ref="Авигдор">Хаиму</persName>
+					<note place="end">вместо имени просителя ошибочно указано имя его отца</note> о внесенныхъ будто имъ въ</l>
+				<l>кагалъ 400 <hi rend="superscript">х</hi> червонныхъ, и о удовлетвореніи за</l>
 				<l>понесенныя симъ при лишеніи того мѣста</l>
 				<l>убытки, предписано от меня было литовскому</l>
 				<l>гражданскому губернатору здѣлать строгое</l>
-				<l>изысканіе по 
-					<orgName ref="виленский_кагал">виленскому кагалу</orgName>. участвовали
-				</l>
+				<l>изысканіе по	<orgName ref="виленский_кагал">виленскому кагалу</orgName>. участвовали</l>
 				<l>они въ помянутомъ лишѣніи мѣста оберъ</l>
 				<l>рабина Хаима, и были ли възнесены во оной</l>
 				<l>от него 400 червонныхъ, и въ случаѣ прикос</l>
@@ -95,14 +77,10 @@
 				<l>или мало, удовлетворить по мерѣ того Хаима,</l>
 				<l>на что получилъ вчерашняго числа отъ</l>
 				<l>прописаннаго господина губернатора доне</l>
-				<l>сеніе, что бывшій оберъ рабинъ 
-					<persName ref="Авигдор">Хаимъ</persName>
-				</l>
+				<l>сеніе, что бывшій оберъ рабинъ <persName ref="Авигдор">Хаимъ</persName></l>
 				<l>избранъ былъ въ сіе званіе минской губер</l>
 				<l>ніи пинскимъ и карлинскимъ кагалами,</l>
-				<l>и 
-					<orgName ref="виленский_кагал">кагалъ виленской</orgName> не имѣетъ стѣми ни
-				</l>
+				<l>и <orgName ref="виленский_кагал">кагалъ виленской</orgName> не имѣетъ стѣми ни</l>
 				<l>какой связи, то то не участвовавши въ</l>
 				<l>выборѣ хаима, не имелъ онъ и никакова</l>
 				<l>участія ни въ взнесенье имъ 400 червонныхъ</l>
@@ -120,17 +98,12 @@
 			</p>
 			<closer place="left">
 				<date when="1800-11-12">
-					<l>Ноября 12
-						<hi rend="superscript">го</hi> дня
-						<lb/>
-1800 года
-					</l>
+					<l>Ноября 12 <hi rend="superscript">го</hi> дня<lb/>
+						1800 года</l>
 				</date>
 				<l>Его высокопревосходительству</l>
 				<l>Г-ну Генералу отъ инфантеріи</l>
-				<l>
-					<persName ref="Обольяниновъ">обольянинову</persName>
-				</l>
+				<l><persName ref="Обольяниновъ">обольянинову</persName></l>
 			</closer>
 			<pb xml:id="p050-2" n="050-2"/>
 		</body>
