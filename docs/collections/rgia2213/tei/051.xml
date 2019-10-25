@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+		xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>?
-                </author>
+				<author>?</author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
@@ -20,8 +19,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -40,7 +39,7 @@
 				</calendar>
 			</calendarDesc>
 			<abstract>
-				<p>Документ 
+				<p>Документ
 					<ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">13</ref> у Дубнова
 				</p>
 			</abstract>
@@ -51,34 +50,22 @@
 			<pb xml:id="p051-1" n="051-1" facs="../facsimiles/051-1.jpg"/>
 			<fw type="docNum" place="left">№ 21096/2681</fw>
 			<date when="1800-10-31">31 Октября 1800</date>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">54</del>
-			</fw>
+			<fw type="pageNum" place="right"><del rend="overstrike">54</del></fw>
 			<fw type="pageNum" place="right">51</fw>
 			<fw type="note" place="left margin">Къ дѣлу</fw>
 			<salute>
-				<l>Милостивый Государь
-					<lb/>
-					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ!</persName>
-				</l>
+				<l>Милостивый Государь<lb/>	<persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ!</persName></l>
 			</salute>
 			<p>
 				<l>Предписаніе вашего высокопревосходительства</l>
-				<l>съ изъясненіемъ высочайшаго 
-					<emph rend="big">ЕГО ИМППЕРАТОР-
-						<lb/>
-СКАГО ВЕЛИЧЕСТВА
-					</emph> повелѣнія о взысканіи съ
-				</l>
+				<l>съ изъясненіемъ высочайшаго
+					<emph rend="big">ЕГО ИМППЕРАТОР-<lb/>
+						СКАГО ВЕЛИЧЕСТВА</emph> повелѣнія о взысканіи съ</l>
 				<l>еврейскаго кагала 400 червонныхъ внесенныхъ быв</l>
-				<l>шимъ еврейскимъ оберъ рабиномъ 
-					<persName ref="Авигдор">Хаймою</persName>
-					<note place="end">вместо имени просителя ошибочно указано имя его отца</note> за полу-
-				</l>
+				<l>шимъ еврейскимъ оберъ рабиномъ <persName ref="Авигдор">Хаймою</persName>
+					<note place="end">вместо имени просителя ошибочно указано имя его отца</note> за полу-</l>
 				<l>ченіе мѣста, и о удовлетвореніи его въ понесенныхъ</l>
-				<l>отъ лишенія онаго убыткахъ, от 3
-					<hi rend="superscript">го</hi> сего мѣсяца
-				</l>
+				<l>отъ лишенія онаго убыткахъ, от 3	<hi rend="superscript">го</hi> сего мѣсяца</l>
 				<l>имѣлъ честь получить, и какъ не извѣстно мнѣ</l>
 				<l>въ которой кагалъ имъ тѣ деньги внесены, и са</l>
 				<l>маго рабина налицо нетъ, а извѣстно только</l>
@@ -93,12 +80,8 @@
 				<l>скоро и справедливо дѣло сіе решить,</l>
 				<fw type="pageNum" place="right">4</fw>
 				<pb xml:id="p051-2" n="051-2" facs="../facsimiles/051-2.jpg"/>
-				<l>яко производимое по высочайшему 
-					<emph rend="big">ЕГО ИМПЕ
-						<lb/>
-РАТОРСКАГО ВЕЛИЧЕСТВА
-					</emph> повелѣнію рапор-
-				</l>
+				<l>яко производимое по высочайшему <emph rend="big">ЕГО ИМПЕ<lb/>
+					РАТОРСКАГО ВЕЛИЧЕСТВА</emph> повелѣнію рапор-</l>
 				<l>туя губернскому правленію о успѣхѣ ежемѣ-</l>
 				<l>сячно, за чемъ о наблюденіи и губернскому прав-</l>
 				<l>ленію подтвердилъ.</l>
@@ -107,17 +90,13 @@
 				<l>Милостивый Государь</l>
 				<l>вашего высокопревосходительства</l>
 				<l>всепокорнейший слуга </l>
-				<l>
-					<persName ref="Карнеевъ">Захаръ Карнеевъ</persName>
-				</l>
+				<l><persName ref="Карнеевъ">Захаръ Карнеевъ</persName></l>
 			</p>
 			<closer place="left">
 				<fw type="docNum">№ 2922</fw>
 				<date when="1800-10-15">
-					<l>Октября 15. дня
-						<lb/>
-1800 года
-					</l>
+					<l>Октября 15. дня<lb/>
+						1800 года</l>
 				</date>
 				<placeName ref="Минскъ">Минскъ.</placeName>
 			</closer>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+		xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>?
-                </author>
+				<author>?</author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
@@ -20,8 +19,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -47,34 +46,17 @@
 			<fw type="docNum" place="left">№ 22513</fw>
 			<fw type="note" place="left">Къ дѣлу</fw>
 			<date when="1800-11-15">15 ноября 1800</date>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">52</del>
-			</fw>
+			<fw type="pageNum" place="right"><del rend="overstrike">52</del></fw>
 			<fw type="pageNum" place="right">49</fw>
 			<l>
-				<salute>Милоствый Государь мой!
-					
-					
-					<lb/>
+				<salute>Милоствый Государь мой!<lb/>
 					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ</persName>!
 				</salute>
 			</l>
 			<p>
 				<l>Получа почтенѣйшее сообщеніе ко мнѣ вашего высо-</l>
-				<l>копревосходительства съ объявленіемъ 
-					
-					
-					<emph rend="big">высочайшаго
-						
-						
-						<lb/>
-Его императорскаго величества
-					
-					
-					</emph> повеленія
-				
-				
-				</l>
+				<l>копревосходительства съ объявленіемъ <emph rend="big">высочайшаго<lb/>
+						Его императорскаго величества</emph> повеленія</l>
 				<l>послѣдовавшаго по принесенной жалобѣ отъ бывшаго</l>
 				<l>еврейскаго оберъ рабина хаима, учинил я сообразно</l>
 				<l>оному высочайшему поеленію надлежащіе господамъ</l>
@@ -87,23 +69,13 @@
 				<l>Милостивый Государь мой</l>
 				<l>вашего высокопревосходительства</l>
 				<l>Всепокорнейший слуга</l>
-				<l>
-					<signed>
-						<unclear>???</unclear>
-					</signed>
-				</l>
+				<l><signed><unclear>???</unclear></signed></l>
 			</p>
 			<closer place="left">
 				<fw type="docNum">№911</fw>
 				<date when="1800-11-20">
-					<l>Октября 20 дня
-						
-						
-						<lb/>
-1800 Года
-					
-					
-					</l>
+					<l>Октября 20 дня<lb/>
+					1800 Года</l>
 				</date>
 				<l>К: подольскій</l>
 				<l>Его высокопревосходи-</l>
