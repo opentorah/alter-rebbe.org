@@ -39,8 +39,8 @@
       <creation>
         <date when="1800-04-23">1800-04-23</date>
       </creation>
-      <abstract><p>No 1. Препроводительное письмо къ прошенiю раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
-      <p>Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213</p>
+      <abstract><p>No 1. Препроводительное письмо къ прошенію раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
+        <p>Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213</p>
       </abstract>
     </profileDesc>
   </teiHeader>
@@ -50,18 +50,22 @@
 
       <salute>Милостивый Государь, <persName ref="Обольяниновъ">Петръ Хрисанфовичъ</persName>!</salute>
 
-      <p>По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошенiе бывшаго
-        въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ-рабина <persName ref="Авигдор">Хаима</persName>, описывающаго притѣсненiя и гоненiя, претерпѣваемыя имъ отъ какой то новой секты, о
-        которой въ приложенной запискѣ подробныя дѣлаетъ замѣчанiя. Пребывая и проч....</p>
+      <p>По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошеніе бывшаго
+        въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ-рабина <persName ref="Авигдор">Хаима</persName>,
+        описывающаго притѣсненія и гоненія, претерпѣваемыя имъ отъ какой то новой секты, о которой въ приложенной
+        запискѣ подробныя дѣлаетъ замѣчанія. Пребывая и проч....
+      </p>
 
       <closer>
-        <signed><persName ref="Брискорнъ">θедоръ Брискорнъ</persName>.</signed>
-        <dateline> В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го
-            1800-го</date>. </dateline>
+        <signed><persName ref="Брискорнъ">Ѳедоръ Брискорнъ</persName>.
+        </signed>
+        <dateline>В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го
+          1800-го</date>.
+        </dateline>
       </closer>
 
-      <note xml:id="p090n1" place="end"><hi rend="superscript">1</hi>) Документы отъ No 1 до No 13 включительно находятся въ
-        Сенатскомъ Архивѣ, дѣло М-ва Юстицiи 1800 гг. No 85.</note>
+      <note xml:id="p090n1" place="end">Документы отъ No 1 до No 13 включительно находятся въ
+        Сенатскомъ Архивѣ, дѣло М-ва Юстиціи 1800 гг. No 85.</note>
     </body>
   </text>
 </TEI>
