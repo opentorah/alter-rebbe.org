@@ -4,7 +4,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>?</author>
+				<author><persName ref="Кутузов">Михайла Голенищевъ Кутузовъ</persName></author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
@@ -55,7 +55,7 @@
 				<l>Милостивый Государь мой
 					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисан-
 						<lb/>
-						фовичь!
+						фовичъ!
 					</persName>
 				</l>
 			</salute>
@@ -169,7 +169,7 @@
 					</date>
 				</l>
 				<l>Его Высокопр
-					<hi rend="superscript">у</hi> Обольянинову
+					<hi rend="superscript">у</hi> <persName ref="Обольяниновъ">Обольянинову</persName>
 				</l>
 			</closer>
 			<pb xml:id="p030-2" n="030-2"/>
