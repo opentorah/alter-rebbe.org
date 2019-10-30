@@ -14,7 +14,7 @@ layout: page
 Если прогресс (пока) не пришёл в Ваш дом, и термины GitHub, repository и pull request Вам ничего не
 говорят - можно воспользоваться электронной почтой по адресу [dub@podval.org](mailto:dub@podval.org).
 
-[![Gitter](https://badges.gitter.im/alter-rebbe-org.png)](https://gitter.im/alter-rebbe-org/community "Gitter chat")
+[![Gitter](https://badges.gitter.im/alter-rebbe-org/community.svg)](https://gitter.im/alter-rebbe-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Формат ##
 
