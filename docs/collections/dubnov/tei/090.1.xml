@@ -47,6 +47,8 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p090" n="090" facs="../facsimiles/090.jpg"/>
+      <note place="end">Документы отъ № 1 до № 13 включительно находятся въ Сенатскомъ Архивѣ, дѣло М-ва Юстиціи
+        1800 гг. № 85.</note>
 
       <salute>Милостивый Государь, <persName ref="Обольяниновъ">Петръ Хрисанфовичъ</persName>!</salute>
 
@@ -57,15 +59,9 @@
       </p>
 
       <closer>
-        <signed><persName ref="Брискорнъ">Ѳедоръ Брискорнъ</persName>.
-        </signed>
-        <dateline>В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го
-          1800-го</date>.
-        </dateline>
+        <signed><persName ref="Брискорнъ">Ѳедоръ Брискорнъ</persName>.</signed>
+        <dateline>В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го 1800-го</date>.</dateline>
       </closer>
-
-      <note xml:id="p090n1" place="end">Документы отъ № 1 до № 13 включительно находятся въ
-        Сенатскомъ Архивѣ, дѣло М-ва Юстиціи 1800 гг. № 85.</note>
     </body>
   </text>
 </TEI>
