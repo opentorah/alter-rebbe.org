@@ -39,7 +39,7 @@ layout: page
 - <a href="/collections/rgia413/index.html" target="collectionViewer">РГИА 413</a>:
 "О каролинской секте".
 - <a href="/collections/rgia2213/index.html" target="collectionViewer">РГИА 2213</a>:
-"?".
+"Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус.".
 - <a href="/collections/rgia119/index.html" target="collectionViewer">РГИА 119</a>:
 "Прошение Штерны Лейбовны".
 - <a href="/collections/rgia328/index.html" target="collectionViewer">РГИА 328</a>:
