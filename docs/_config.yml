@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.alter-rebbe.org"
+timezone: America/New_York
 
 github_username:  dubinsky
 
@@ -26,11 +27,10 @@ theme: minima
 markdown: kramdown
 
 exclude:
+  - buld.gradle
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - buld.gradle
-  - collections.xpr
 
 header_pages:
   - collections/rgada/index.html
@@ -41,3 +41,4 @@ header_pages:
   - collections/lvia6/index.html
   - names.html
 # header_pages end
+  - blog.md
