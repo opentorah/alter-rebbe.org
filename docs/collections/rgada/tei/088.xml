@@ -43,6 +43,9 @@
       <abstract>
         <p>Лопухину об освобождении всех арестованных</p>
       </abstract>
+      <correspAction>
+        <persName ref="Лопухин" role="addressee">Лопухину</persName>
+      </correspAction>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -65,7 +68,7 @@
         Высокопревосходительства Всепокорнейший слуга <signed>Яков Булгаков.</signed>
         <fw>№ 210</fw>
         <fw><data when="1798-11-25">25 ноября 1798</data></fw> Вильна Его Высокопревосходительству Г Генералу Прокурору
-          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+          <persName ref="Лопухин">Лопухину</persName>
       </closer>
     </body>
   </text>

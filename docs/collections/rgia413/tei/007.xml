@@ -31,6 +31,11 @@
                 <p>Письмо Оленину</p>
                 <p>Документ <ref target="/collections/dubnov/documents/268.3.html" role="documentViewer">18</ref> у Дубнова</p>
             </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Оленин" role="addressee">Оленину</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
@@ -43,7 +48,7 @@
             <p>
                 <l>Высокородному и Превосходительному Правитель-</l>
                 <l>ствущаго Сената 3<hi rend="superscript">го</hi> департамента Г. <hi rend="superscript">ну</hi> оберъ</l>
-                <l>Прокурору <persName ref="Оленин" role="addressee">Оленину</persName></l>
+                <l>Прокурору <persName ref="Оленин">Оленину</persName></l>
             </p>
             <p>
                 <l>Препроводивъ воисполненiе высочайшаго ЕГО</l>

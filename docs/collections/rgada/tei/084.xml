@@ -40,14 +40,21 @@
       <creation>
         <date when="1798-11-17">17 Ноябрь 1798</date>
       </creation>
-      <abstract><p>Письмо <persName ref="Булгаков">Булгакову</persName></p></abstract>
+      <abstract>
+        <p>Письмо <persName ref="Булгаков">Булгакову</persName></p>
+      </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Булгаков" role="addressee">Булгакову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p084-1" n="084-1" facs="../facsimiles/084-1.jpg"/>
       <fw type="pageNum" place="right">84.</fw>
-      <salute>Мил. г. мой <persName ref="Булгаков" role="addressee">Яковъ Ивановичъ</persName>,</salute>
+      <salute>Мил. г. мой <persName ref="Булгаков">Яковъ Ивановичъ</persName>,</salute>
       <p>
       <l>При всеподданѣйшемъ отъ меня</l>
       <l><persName ref="Павел_I">Государю Императору</persName> докладѣ</l>

@@ -41,6 +41,9 @@
       <creation>
         <date when="1798-10-25">25 октября 1798</date>
       </creation>
+      <correspAction>
+        <persName ref="Лопухин" role="addressee">Лопухину</persName>
+      </correspAction>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -86,7 +89,7 @@
           Булгаков</persName></signed>
         <fw>№ 192</fw>
         <date>28 октября 1798</date> Вильна Его Высокопревосходительству Г-ну Генералу Прокурору <persName
-          ref="Лопухин" role="addressee">Лопухину</persName>. </closer>
+          ref="Лопухин">Лопухину</persName>. </closer>
     </body>
   </text>
 </TEI>

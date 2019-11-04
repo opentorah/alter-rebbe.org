@@ -28,6 +28,11 @@
             <abstract>
                 <p>Документ <ref target="/collections/dubnov/documents/257.html" role="documentViewer">10</ref> у Дубнова</p>
             </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
@@ -36,7 +41,7 @@
             <fw type="docNum"  place="left">№ 14560/1809</fw><l><note place="end">первая и вторая часть номера дела обозначены разными чернилами</note></l>
             <date when="1800-08-13">13 августа 1800</date>
             <fw type="pageNum" place="right">31</fw>
-            <signed>Милостивый Государь мой <persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичь</persName>!</signed>
+            <signed>Милостивый Государь мой <persName ref="Обольяниновъ">Петръ Хрисанфовичь</persName>!</signed>
             <p>
                 <l>Хотя и сообщено отъ меня вашему высоко-</l>
                 <l>превосходительству отъ 12<hi rend="superscript">го</hi> сего месяца изъясне</l>

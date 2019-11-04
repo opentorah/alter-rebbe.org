@@ -5,7 +5,7 @@
 		<fileDesc>
 			<titleStmt>
 				<author>
-					<persName ref="Кутузов">Голенищевъ-Кутузовъ</persName>
+					<persName ref="Кутузов">Кутузовъ</persName>
 				</author>
 				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
@@ -51,13 +51,18 @@
 					<ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref> в РГИА 2213
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">
 		<body>
 			<pb xml:id="p257" n="257" facs="../facsimiles/257.jpg"/>
 			<salute>Милостивый Государь мой
-				<persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ</persName>:
+				<persName ref="Обольяниновъ">Петръ Хрисанфовичъ</persName>:
 			</salute>
 			<p>Хотя и сообщено отъ меня вашему высокопр-ву отъ
 				<date when="1800-07-12">12 сего мѣсяца</date> изъясненіе жалобы бывшаго въ

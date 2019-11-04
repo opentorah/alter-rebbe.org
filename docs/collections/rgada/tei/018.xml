@@ -41,6 +41,11 @@
       <creation>
         <date when="1798-08-30">30 августа 1798</date>
       </creation>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -91,7 +96,7 @@
         <dateline>
         <date when="1798-08-30">30 Августа 1798</date>
         <placeName ref="Вильно">Вильна</placeName>
-        Его Превосходительству Г-ну Генералу Прокурору <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        Его Превосходительству Г-ну Генералу Прокурору <persName ref="Лопухин">Лопухину</persName>
         </dateline>
       </closer>
     </body>
