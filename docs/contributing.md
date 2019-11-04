@@ -220,12 +220,15 @@ layout: page
 Результаты этих проверок для Вашего pull requestа можно посмотреть в нём самом или на
 [странице непрерывной интеграции](https://github.com/digitaljudaica/alter-rebbe.org/actions). 
 
-Элемент `persname` кодирующий имя человека, которому документ адресован, снабжается атрибутом `role`
-со значением `addressee`:
+Имя человека, которому документ адресован, кодируется в заголовке документа,
+внутри элемента `profileDesc` элементом `correspDesc` следующего вида: 
 ```xml
-  <persName ref="Булгаков" role="addressee">Булгакову</persName>
+  <correspDesc>
+    <correspAction>
+      <persName ref="Булгаков" role="addressee">Булгакову</persName>
+    </correspAction>
+  </correspDesc>
 ```
-Делается это в самом тексте документа (а не в его заголовке) и - не более одного раза на документ.
 
 ## teiHeader ##
 

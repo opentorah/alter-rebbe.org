@@ -41,6 +41,11 @@
       <creation>
         <date when="1798-09-15">15го сентября 1798</date>
       </creation>
+      <correspDesc>
+        <correspAction>
+          <persName role="addressee" ref="Жегулин">Жегулину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -59,7 +64,7 @@
       <fw>№813й</fw>
       <closer>
         <date when="1798-09-15">15го сентября 1798</date>
-        <persName role="addressee" ref="Жегулин">Жегулину</persName>
+        <persName ref="Жегулин">Жегулину</persName>
       </closer>
       <pb xml:id="p028-2" n="028-2" facs="../facsimiles/028-2.jpg"/>
       <fw type="pageNum">28об.</fw>

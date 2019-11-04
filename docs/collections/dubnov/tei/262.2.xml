@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName ref="Кутузов">Голенищевъ-Кутузовъ</persName>
+          <persName ref="Кутузов">Кутузовъ</persName>
         </author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
@@ -40,15 +40,21 @@
       <creation>
         <date when="1800-11-12">1800-11-12</date>
       </creation>
-        <abstract><p><num>№ 12.</num> Отзывъ <persName ref="Кутузов">Литовскаго губернатора</persName> о претензіи <persName ref="Авигдор">Авигдора</persName></p>
-      <p>Документ <ref target="/collections/rgia2213/documents/050.html" role="documentViewer">050</ref> в РГИА 2213</p>
+      <abstract><p><num>№ 12.</num> Отзывъ <persName ref="Кутузов">Литовскаго губернатора</persName> о претензіи
+        <persName ref="Авигдор">Авигдора</persName></p>
+        <p>Документ <ref target="/collections/rgia2213/documents/050.html" role="documentViewer">050</ref> в РГИА 2213</p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p262" n="262" facs="../facsimiles/262.jpg"/>
-        <salute>Милостивый государь мой <persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ</persName>!</salute>
+        <salute>Милостивый государь мой <persName ref="Обольяниновъ">Петръ Хрисанфовичъ</persName>!</salute>
 
       <p> Вслѣдствии почтенѣйшаго отношенія вашего высокопр-ва, съ изображеніемъ въ ономъ высочайшаго Государя Имп. повелѣнія о
         возврате оберъ рабину <persName ref="Авигдор">Хаиму</persName> внесенныхъ будто имъ въ кагалъ 400-хъ червонныхъ и о удовлетвореніи за понесенные

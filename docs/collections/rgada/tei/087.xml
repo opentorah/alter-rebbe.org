@@ -44,6 +44,9 @@
       <abstract>
         <p>Письмо Лопухину об арестованных</p>
       </abstract>
+      <correspAction>
+        <persName ref="Лопухин" role="addressee">Лопухину</persName>
+      </correspAction>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -54,7 +57,7 @@
       <fw place="right">Секретно</fw>
       <fw type="pageNum" place="right">87.</fw>
 
-      <salute>Милостивой Государь <persName ref="Лопухин" role="addressee">Петръ Васильевичъ</persName>!</salute>
+      <salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute>
       <l>На послѣдней почтѣ имѣлъ я честь получить</l>
       <l>всепочтеннѣйшее вашего высокопревосходительства</l>
       <l>секретное письмо отъ 10. сего мѣсяца, а вчерась</l>

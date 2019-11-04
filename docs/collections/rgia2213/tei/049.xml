@@ -38,6 +38,11 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">
@@ -50,7 +55,7 @@
 			<fw type="pageNum" place="right">49</fw>
 			<l>
 				<salute>Милоствый Государь мой!<lb/>
-					<persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ</persName>!
+					<persName ref="Обольяниновъ">Петръ Хрисанфовичъ</persName>!
 				</salute>
 			</l>
 			<p>

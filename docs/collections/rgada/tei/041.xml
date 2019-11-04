@@ -41,6 +41,11 @@
       <creation>
         <date when="1798-10-18">18 октября 1798</date>
       </creation>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Булгаков" role="addressee">Булгакову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -64,8 +69,8 @@
       <fw>№ 870й</fw>
       <dateline>
         <placeName ref="Петербург">в С.-Петербург</placeName>
-        <date when="1798-10-18">октября 18-го дня 1798 года</date> Его превосходительству <persName ref="Булгаков"
-          role="addressee">Булгакову</persName>. </dateline>
+        <date when="1798-10-18">октября 18-го дня 1798 года</date>
+        Его превосходительству <persName ref="Булгаков">Булгакову</persName>. </dateline>
     </body>
   </text>
 </TEI>

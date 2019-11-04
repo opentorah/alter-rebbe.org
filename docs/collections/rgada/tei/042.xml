@@ -43,6 +43,11 @@
       <abstract>
         <p>Донесение</p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -53,8 +58,7 @@
       <fw><date when="1798-10-29">29. окт. 1798.</date></fw>
       <fw type="pageNum" place="right">42</fw>
       <salute>Высокородному и высокопревосходительному господину действительному Тайному советнику Генералу Прокурору И
-        разных орденов кавалеру Петру Васильевичу <persName ref="Лопухин" role="addressee"
-        >Лопухину</persName>.</salute>
+        разных орденов кавалеру <persName ref="Лопухин">Петру Васильевичу Лопухину</persName>.</salute>
       <head>Тайного советника и Белорусского Губернатора Донесение</head>
       <p><note place="end">на полях что-то написано...</note>Господин действительный тайный советник, Литовский
         Губернатор Булгаков отношением его ко мне, от 6-го сего октября, уведомляя, что из тамошних каролинов Еврей по

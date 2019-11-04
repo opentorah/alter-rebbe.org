@@ -42,6 +42,11 @@
       <abstract><p>№ 1. Препроводительное письмо къ прошенію раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
         <p>Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213</p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -50,7 +55,7 @@
       <note place="end">Документы отъ № 1 до № 13 включительно находятся въ Сенатскомъ Архивѣ, дѣло М-ва Юстиціи
         1800 гг. № 85.</note>
 
-      <salute>Милостивый Государь, <persName ref="Обольяниновъ" role="addressee">Петръ Хрисанфовичъ</persName>!</salute>
+      <salute>Милостивый Государь, <persName ref="Обольяниновъ">Петръ Хрисанфовичъ</persName>!</salute>
 
       <p>По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошеніе бывшаго
         въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ-рабина <persName ref="Авигдор">Хаима</persName>,

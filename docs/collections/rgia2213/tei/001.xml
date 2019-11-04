@@ -42,6 +42,11 @@
 					<ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">1</ref> у Дубнова
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">
@@ -86,7 +91,7 @@
 					<placeName ref="Вильно">вильнѣ</placeName> по
 				</l>
 				<l>прежнимъ дѣламъ</l>
-				<l>Его Высокопр. <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName></l>
+				<l>Его Высокопр. <persName ref="Обольяниновъ">Обольянинову</persName></l>
 			</p>
 			<pb xml:id="p001-2" n="001-2"/>
 		</body>
