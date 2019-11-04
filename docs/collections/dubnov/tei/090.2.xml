@@ -13,9 +13,6 @@
                 <publisher>
                     <ptr target="www.alter-rebbe.org"/>
                 </publisher>
-                <date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date> 
-                <note place="end">судя по препроводительной записке <persName ref="Брискорнъ">Брискорна</persName> к <persName ref="Обольяниновъ">Обольянинову</persName>
-                    при прошении Авигдора, отправленного в указанную дату. В комментарии Дубнова вместо апреля ошибочно указан февраль. Само прошение не датировано.</note>
                 <availability status="free">
                     <licence>
                         <ab>
@@ -39,6 +36,9 @@
                     <p>Julian calendar</p>
                 </calendar>
             </calendarDesc>
+            <creation>
+                <date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date>
+            </creation>
             <abstract>
                 <p>№ 2. Прошеніе <persName ref="Авигдор">р. Авигдора Хаимовича</persName> на Высочайшее имя</p>
                 <p>Документ
@@ -46,15 +46,19 @@
                 </p>
             </abstract>
             <correspDesc>
-    <correspAction>
-      <persName ref="Павел_I" role="addressee">Государь</persName>
-    </correspAction>
-  </correspDesc>
+                <correspAction>
+                    <persName ref="Павел_I" role="addressee">Павлу I</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
         <body>
             <pb xml:id="p090" n="090" facs="../facsimiles/090.jpg"/>
+            <note place="end">судя по препроводительной записке <persName ref="Брискорнъ">Брискорна</persName> к
+                <persName ref="Обольяниновъ">Обольянинову</persName>
+                при прошении Авигдора, отправленного в указанную дату. В комментарии Дубнова вместо апреля ошибочно
+                указан февраль. Само прошение не датировано. - ред</note>
             <salute>Всемилостивѣйшій, Великомощный Государь!</salute>
             <p>Съ подданствомъ и покорностью повергаюсь къ подножію твоего великаго престола, Великомощный Государь, и прошу
                 съ милостивымъ взоромъ простить мнѣ великую смѣлость, которую принимаю я въ обезпокоиваніи Вашего Императорскаго
@@ -676,7 +680,7 @@
                     первый арестъ р.
                     <persName ref="alter-rebbe">Залмана</persName> изъ
                     <placeName ref="Лозна">Ліозна</placeName> въ 1798 г. и допросъ его въ
-                    <placeName ref="Петербург">Петербургѣ</placeName> по доносу о деньгахъ, отсылаемыхъ имъ въ 
+                    <placeName ref="Петербург">Петербургѣ</placeName> по доносу о деньгахъ, отсылаемыхъ имъ въ
                     Палестину. См. дальше, докум. № 10.
                 </note>.
                 Какъ его между
