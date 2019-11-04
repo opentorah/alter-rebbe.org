@@ -13,7 +13,9 @@
                 <publisher>
                     <ptr target="www.alter-rebbe.org"/>
                 </publisher>
-                <date>?</date>
+                <date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date> 
+                <note place="end">судя по препроводительной записке <persName ref="Брискорнъ">Брискорна</persName> к <persName ref="Обольяниновъ">Обольянинову</persName>
+                    при прошении Авигдора, отправленного в указанную дату. В комментарии Дубнова вместо апреля ошибочно указан февраль. Само прошение не датировано.</note>
                 <availability status="free">
                     <licence>
                         <ab>
@@ -43,6 +45,11 @@
                     <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref> в РГИА 2213
                 </p>
             </abstract>
+            <correspDesc>
+    <correspAction>
+      <persName ref="Павел_I" role="addressee">Государь</persName>
+    </correspAction>
+  </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
