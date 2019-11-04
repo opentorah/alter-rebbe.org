@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">?</title>
-        <author>
-           <persName  ref="Северинъ">Петръ Северинъ</persName>
-        </author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <date>?</date>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-11-09">1800 года Ноября 9 дня</date>
-      </creation>
-      <abstract>
-        <p>Донесение об отправке Боруховича</p>
-      </abstract>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p276-1" n="276-1" facs="../facsimiles/276-1.jpg"/>
-  <l>Получено 15. Ноября 1800 Секретно</l>
- <l>1610</l>
- <l>Ваше высокопревосходительство</l>
- <l>Милостивый Государь!</l>
- <l>Во исполненiе Секретнаго отношенiя вашего</l>
- <l>высокопревосходительства ко мнѢ от 30-го </l>
- <l>прошедшаго октября, требуемый по высочай-</l>
- <l>шему повелѢнiю начальникъ Каролинской</l>
- <l>Секты или хосодовъ, жительствующiй въ</l>
- <l>мѢстечкѢ ЛiознѢ Еврей Залманъ Боруховичь, при семъ съ нарочно присланными за</l>
- <l>нимъ Сенатскими курьерами Петровымъ</l>
- <l>и Сукинымъ отправляется</l>   
-  <l> причемъ почтен-</l>   
-  <l>нѢйше доношу, что опротчемъ евтомъ отно-</l>
- <l>шенiи вашего высокопревосходительства изо-</l>
- <l>браженномъ учинено будетъ точное и непре-</l>
- <l>мѢнное исполненiе.</l>
- <l>Съ истиннымъ высокопочитанiемъ и со-</l>
- <l>вершенною преданностiю имѢю честь быть</l>
- <l>Милостивый Государь</l>
- <l>вашего высокопревосходительства</l>
- <l>всепокорнейший слуга</l>
- <l>Петръ <unclear>Северинъ</unclear></l>
- <l>ноября 9 дня</l>
- <l>1800-го года</l>
- <l>Витебскъ</l>
-   </body>
-  </text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">?</title>
+                <author>
+                    <persName  ref="Северинъ">Петръ Северинъ</persName>
+                </author>
+                <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ptr target="www.alter-rebbe.org"/>
+                </publisher>
+                <date>?</date>
+                <availability status="free">
+                    <licence>
+                        <ab>
+                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                                Creative Commons Attribution 4.0 International License
+                            </ref>
+                        </ab>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Facsimile</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="ru"/>
+            </langUsage>
+            <calendarDesc>
+                <calendar xml:id="julian">
+                    <p>Julian calendar</p>
+                </calendar>
+            </calendarDesc>
+            <creation>
+                <date when="1800-11-09">1800 года Ноября 9 дня</date>
+            </creation>
+            <abstract>
+                <p>Донесение об отправке Боруховича</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="p276-1" n="276-1" facs="../facsimiles/276-1.jpg"/>
+            <l>Получено 15. Ноября 1800 Секретно</l>
+            <l>1610</l>
+            <l>Ваше высокопревосходительство</l>
+            <l>Милостивый Государь!</l>
+            <l>Во исполненiе Секретнаго отношенiя вашего</l>
+            <l>высокопревосходительства ко мнѢ от 30-го </l>
+            <l>прошедшаго октября, требуемый по высочай-</l>
+            <l>шему повелѢнiю начальникъ Каролинской</l>
+            <l>Секты или хосодовъ, жительствующiй въ</l>
+            <l>мѢстечкѢ ЛiознѢ Еврей Залманъ Боруховичь, при семъ съ нарочно присланными за</l>
+            <l>нимъ <orgName ref="Сенатъ">Сенатскими</orgName> курьерами Петровымъ</l>
+            <l>и Сукинымъ отправляется</l>
+            <l> причемъ почтен-</l>
+            <l>нѢйше доношу, что опротчемъ евтомъ отно-</l>
+            <l>шенiи вашего высокопревосходительства изо-</l>
+            <l>браженномъ учинено будетъ точное и непре-</l>
+            <l>мѢнное исполненiе.</l>
+            <l>Съ истиннымъ высокопочитанiемъ и со-</l>
+            <l>вершенною преданностiю имѢю честь быть</l>
+            <l>Милостивый Государь</l>
+            <l>вашего высокопревосходительства</l>
+            <l>всепокорнейший слуга</l>
+            <l>Петръ <unclear>Северинъ</unclear></l>
+            <l>ноября 9 дня</l>
+            <l>1800-го года</l>
+            <l>Витебскъ</l>
+        </body>
+    </text>
 </TEI>
