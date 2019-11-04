@@ -5,7 +5,7 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName>?</persName>
+          <persName ref="Тормасовъ">Тормасовъ</persName>
         </author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
@@ -44,6 +44,11 @@
         <p>№ 6. Отвѣтъ Литовскаго прокурора, что въ <placeName ref="Литва">Литовской губерніи</placeName> о сектѣ неизвѣстно</p>
         <p>Документ <ref target="/collections/rgia2213/documents/026.html" role="documentViewer">026</ref> в РГИА 2213</p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -59,7 +64,7 @@
         правительства не доходили, а уповаю я, что сіе должно относитьси къ <placeName ref="Минская_губерния">Минской губерніи</placeName>, въ которой и <placeName ref="Пинск">Пинскъ</placeName>
         состоитъ уѣзднымъ городомъ,</p>
       <closer>
-        <dateline> — Литовскій губернсcrq прокуроръ Тормасовъ.
+        <dateline> — Литовскій губернсcrq прокуроръ <persName ref="Тормасовъ">Тормасовъ</persName>.
           № 99. <date when="1800-06-21">Іюня 21-го дня, 1800 года</date>..
         </dateline>
       </closer>
