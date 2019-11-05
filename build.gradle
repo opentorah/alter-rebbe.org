@@ -1,6 +1,7 @@
 plugins {
   id 'idea'
   id 'com.github.ben-manes.versions'
+//  id 'com.diffplug.gradle.spotless'
 }
 
 allprojects {
@@ -20,3 +21,13 @@ idea {
     ]
   }
 }
+
+//spotless {
+//  format 'xml', {
+//    target fileTree('./docs/collections') {
+//      include '**/*.xml'
+//    }
+//    eclipseWtp('xml').configFile './spotless.xml.prefs'
+//    paddedCell()
+//  }
+//}
