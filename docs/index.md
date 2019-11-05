@@ -35,7 +35,7 @@ layout: page
 Некоторые из этих документов были опубликованы. Нас интересуют:
 <a name="collections-start">
 - <a href="/collections/rgada/index.html" target="collectionViewer">РГАДА</a>:
-"О Еврейской сектѣ Каролиновъ и объ учителѣ ихъРаввинѣ Зальманѣ Боруховичѣ, и о доносахъ Еврея Гирша Давидовича".
+"О Еврейской сектѣ Каролиновъ и объ учителѣ ихъРаввинѣ Зальманѣ Боруховичѣ, и о доносахъЕврея Гирша Давидовича".
 - <a href="/collections/rgia413/index.html" target="collectionViewer">РГИА 413</a>:
 "О каролинской секте".
 - <a href="/collections/rgia2213/index.html" target="collectionViewer">РГИА 2213</a>:
