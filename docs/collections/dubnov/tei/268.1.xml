@@ -4,7 +4,6 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">№ 16. Высоч. повелѣнiе о передачѣ дѣла Авигдора-Залмана въ Сенатъ</title>
         <author>
           <persName>?</persName>
         </author>
@@ -39,17 +38,23 @@
         </calendar>
       </calendarDesc>
       <abstract>
-        <p><fw type="docNum">№ 16</fw>. Высоч. повелѣніе о передачѣ дѣла Авигдора-Залмана въ Сенатъ</p>
+        <p>№ 16. Высоч. повелѣніе о передачѣ дѣла <persName ref="Авигдор">Авигдора</persName>-<persName ref="alter-rebbe">Залмана</persName>
+          въ <orgName ref="Сенатъ">Сенатъ</orgName></p>
         <p>Документ <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref> в РГИА 413</p>
       </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
-      <pb xml:id="p268" n="268" facs="../facsimiles/268.jpg"/>
+      <head>
+        <pb xml:id="p268" n="268" facs="../facsimiles/268.jpg"/>
+        № 16. Высоч. повелѣніе о передачѣ дѣла <persName ref="Авигдор">Авигдора</persName>-<persName ref="alter-rebbe">Залмана</persName>
+        въ <orgName ref="Сенатъ">Сенатъ</orgName>.
+      </head>
       <p>Его Императорское Величество высочайше повелѣть соизволили: дело между евреям и
         <persName ref="Авигдор">Абикдоромъ Хаймовичемъ</persName> и
-        <persName ref="alter-rebbe">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи и прочаго, въ Сенатѣ
+        <persName ref="alter-rebbe">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи и прочаго, въ
+        <orgName ref="Сенатъ">Сенатѣ</orgName>
         разсмотрѣть и учинить положеніе, на какомъ впредь основаній быть сектѣ хоседовъ и кагаламъ. На каковой конецъ и
         препроводить учиненные допросы на еврейскомъ языкѣ съ переводомъ.
         На подлиномъ подписалъ <persName ref="Обольяниновъ">Генералъ-Прокурорь Обольяниновъ</persName>. Слушанъ въ Общемъ

@@ -35,15 +35,17 @@
                     <p>Julian calendar</p>
                 </calendar>
             </calendarDesc>
-            <abstract><p>Приложение к документу № 20.</p>
+            <abstract><p>Приложение к документу № 20</p>
             </abstract>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
         <body>
-            <pb xml:id="p272" n="272" facs="../facsimiles/272.jpg"/>
-            <p>Приложеніе. (Среди дѣлъ Рижской цензуры найденъ следующій переводъ выписокъ изъ книги <persName ref="alter-rebbe">Залмана</persName>
-                <note type="gloss" place="end">???</note>: </p>
+            <head>
+              <pb xml:id="p272" n="272" facs="../facsimiles/272.jpg"/>
+                Приложеніе. (Среди дѣлъ Рижской цензуры найденъ следующій переводъ выписокъ изъ книги <persName ref="alter-rebbe">Залмана</persName>
+                <note type="gloss" place="end">???</note>:
+            </head>
             <p>„Выписка изъ книги сочиненной евреемъ <persName ref="alter-rebbe">Соломономъ Боруховичемъ</persName> въ
                 Лохнѣ (?) и изданной отъ него въ печать. Въ концѣ I главы изображено
                 слѣдующее: „Что касается до тѣла еврея, то въ ономъ заключается нѣкоторымъ образомъ двѣ души. Первая производитъ

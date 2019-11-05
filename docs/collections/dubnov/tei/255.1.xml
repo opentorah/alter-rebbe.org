@@ -40,8 +40,8 @@
       <creation>
         <date when="1800-06-19">1800-06-19</date>
       </creation>
-      <abstract><p>№ 7. Извѣщеніе Литовскаго губернатора о пересылкѣ жалобы <persName ref="Авигдор">Авигдора</persName>
-        въ <placeName ref="Минскъ">Минскъ</placeName></p>
+      <abstract><p>№ 7. Извѣщеніе <persName ref="Кутузов">Литовскаго губернатора</persName> о пересылкѣ жалобы
+        <persName ref="Авигдор">Авигдора</persName> въ <placeName ref="Минскъ">Минскъ</placeName></p>
         <p>Документ <ref target="/collections/rgia2213/documents/027.html" role="documentViewer">027</ref> в РГИА 2213</p>
       </abstract>
       <correspDesc>
@@ -53,7 +53,12 @@
   </teiHeader>
   <text xml:lang="ru">
     <body>
-      <pb xml:id="p255" n="255" facs="../facsimiles/255.jpg"/>
+      <head>
+        <pb xml:id="p255" n="255" facs="../facsimiles/255.jpg"/>
+        № 7. Извѣщеніе <persName ref="Кутузов">Литовскаго губернатора</persName> о пересылкѣ жалобы
+        <persName ref="Авигдор">Авигдора</persName> въ <placeName ref="Минскъ">Минскъ</placeName>.
+      </head>
+
       <salute>Милостивый государь мой Петръ Хрисанфовичъ!</salute>
       <p>Получа почтеннѣйшее отношеніе вашего высокопревосходительства за № <fw type="docNum">4722</fw>-мъ, съ изображеніемъ въ ономъ высочайшаго Е. И. В. повелѣнія о разсмотрѣніи
         приложенной при ономъ жалобы бывшаго въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ-раббина <persName ref="Авигдор">Хаима</persName> на притѣсненія, чинимыя ему послѣдователямя
