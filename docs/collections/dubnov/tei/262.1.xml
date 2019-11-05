@@ -40,15 +40,18 @@
       <creation>
         <date calendar="#julian" when="1800-10-07">1800-10-07</date>
       </creation>
-      <abstract><p><num>№ 11-а.</num> Извещеніе о томъ же и справка Подольскаго губернатора</p>
-      <p>Документ <ref target="/collections/rgia2213/documents/048.html" role="documentViewer">048</ref> в РГИА 2213</p>
+      <abstract><p>№ 11-а. Извещеніе о томъ же и справка Подольскаго губернатора</p>
+        <p>Документ <ref target="/collections/rgia2213/documents/048.html" role="documentViewer">048</ref> в РГИА 2213</p>
       </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
-      <pb xml:id="p262" n="262" facs="../facsimiles/262.jpg"/>
-    <p>Въ Акад. <fw type="docNum">№ 9315</fw>. Универ <fw type="docNum">9316</fw>.</p>
+      <head>
+        <pb xml:id="p262" n="262" facs="../facsimiles/262.jpg"/>
+        № 11-а. Извещеніе о томъ же и справка Подольскаго губернатора.
+      </head>
+      <p>Въ Акад. <fw type="docNum">№ 9315</fw>. Универ <fw type="docNum">9316</fw>.</p>
       <p> Отъ <persName ref="Обольяниновъ">Генерала-Прокурора</persName> бывшему еврейскому оберъ рабину
         <persName ref="Авигдор">Хаиму</persName>, утрудившему Е. И. В. всеподданнѣйшею жалобою,
         что онъ внесъ въ еврейский кагалъ 400 червонныхъ за полученіе того места, но онаго лишился происками каролиновъ

@@ -192,7 +192,7 @@
               в РГИА 2213
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800</cell>
           <cell rendition="author">
             <persName ref="Обольяниновъ">Обольяниновъ</persName>
           </cell>
@@ -307,7 +307,9 @@
         <row>
           <cell rendition="description">
             <p>
-              № 7. Извѣщеніе Литовскаго губернатора о пересылкѣ жалобы
+              № 7. Извѣщеніе
+              <persName ref="Кутузов">Литовскаго губернатора</persName>
+              о пересылкѣ жалобы
               <persName ref="Авигдор">Авигдора</persName>
               въ
               <placeName ref="Минскъ">Минскъ</placeName>
@@ -340,8 +342,10 @@
           <cell rendition="description">
             <p>
               № 8. Отношеніе
-              <persName ref="Обольяниновъ">06ольянинова</persName>
-              къ Литовскому губернатору о необходимости отыскать старое дѣло о сектантахъ въ
+              <persName ref="Обольяниновъ">О6ольянинова</persName>
+              къ
+              <persName ref="Кутузов">Литовскому губернатору</persName>
+              о необходимости отыскать старое дѣло о сектантахъ въ
               <placeName ref="Вильно">Вильнѣ</placeName>
             </p>
             <p>
@@ -375,7 +379,7 @@
               № 9. Сообщеніе
               <persName ref="Кутузов">Литовскаго губернатора</persName>
               <persName ref="Обольяниновъ">Обольянинову</persName>
-              о свѣдѣніяхъ отъ Минскаго губернатора, что секта „Шабсусъ-Цвинкусъ&quot; или Китаевая ведетъ себя въ губерніи спокойно.
+              о свѣдѣніяхъ отъ Минскаго губернатора, что секта „Шабсусъ-Цвинкусъ&quot; или Китаевая ведетъ себя въ губерніи спокойно
             </p>
             <p>
               Документ
@@ -470,10 +474,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>
-              <num>№ 11-а.</num>
-              Извещеніе о томъ же и справка Подольскаго губернатора
-            </p>
+            <p>№ 11-а. Извещеніе о томъ же и справка Подольскаго губернатора</p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/rgia2213/documents/048.html">048</ref>
@@ -499,8 +500,7 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>№ 12.</num>
-              Отзывъ
+              № 12. Отзывъ
               <persName ref="Кутузов">Литовскаго губернатора</persName>
               о претензіи
               <persName ref="Авигдор">Авигдора</persName>
@@ -533,8 +533,7 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>№ 13.</num>
-              Отзывъ
+              № 13. Отзывъ
               <persName ref="Карнеевъ">Минскаго губернатора</persName>
               о претензіяхъ
               <persName ref="Авигдор">Авигдора</persName>
@@ -566,8 +565,7 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>№ 14.</num>
-              Сообщеніе
+              № 14. Сообщеніе
               <persName ref="Северинъ">Бѣлорусскаго губернатора</persName>
               <persName ref="Обольяниновъ">генералъ-прокурору</persName>
               объ отправкѣ хасидскаго „начальника”
@@ -644,8 +642,12 @@
         <row>
           <cell rendition="description">
             <p>
-              <fw type="docNum">№ 16</fw>
-              . Высоч. повелѣніе о передачѣ дѣла Авигдора-Залмана въ Сенатъ
+              № 16. Высоч. повелѣніе о передачѣ дѣла
+              <persName ref="Авигдор">Авигдора</persName>
+              -
+              <persName ref="alter-rebbe">Залмана</persName>
+              въ
+              <orgName ref="Сенатъ">Сенатъ</orgName>
             </p>
             <p>
               Документ
@@ -674,7 +676,6 @@
             <p>
               № 17. Назначеніе дѣла къ слушанію въ 3 департаментѣ
               <orgName ref="Сенатъ">Сената</orgName>
-              .
             </p>
             <p>
               Документ
@@ -701,8 +702,7 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>№ 18.</num>
-              Препровожденіe въ 3-й департаментъ
+              № 18. Препровожденіe въ 3-й департаментъ
               <orgName ref="Сенатъ">Сената</orgName>
               книгъ и бумагъ, отобранныхъ при арестѣ
               <persName ref="alter-rebbe">Залмана</persName>
@@ -734,8 +734,7 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>№ 19.</num>
-              Реестръ бумагъ и книгъ
+              № 19. Реестръ бумагъ и книгъ
               <persName ref="alter-rebbe">Залмана Боруховича</persName>
             </p>
             <p>
@@ -795,7 +794,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Приложение к документу № 20.</p>
+            <p>Приложение к документу № 20</p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -816,7 +815,7 @@
             <p>
               № 21. Прошеніе
               <persName ref="alter-rebbe">Залмана</persName>
-              на высоч. имя объ ускореніи его дѣла, съ приложеніемъ документовъ доказывающихъ безвредность хасидской секты.
+              на высоч. имя объ ускореніи его дѣла, съ приложеніемъ документовъ доказывающихъ безвредность хасидской секты
             </p>
             <p>
               Документ
@@ -848,7 +847,7 @@
               <persName ref="Жегулин">губернатора</persName>
               об освобожденіи
               <persName ref="alter-rebbe">Залмана</persName>
-              (1798 г.).
+              (1798 г.)
             </p>
             <p>
               Документ
@@ -866,6 +865,7 @@
             <ref target="documents/273.html" role="documentViewer">273</ref>
           </cell>
           <cell rendition="pages">
+            <ref target="documents/273.html#p273" role="documentViewer" rendition="page">273</ref>
             <ref target="documents/273.html#p274" role="documentViewer" rendition="page">274</ref>
           </cell>
           <cell rendition="transcriber">
@@ -874,7 +874,9 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Приложение Б к документу № 21. Объявление литовского губернатора о даровании терпимости каролинам</p>
+            <p>
+              Приложение Б к документу № 21. Объявленіе Литовскаго губернатора о высочайше дорованной терпимости къ сентѣ Каролиновъ
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/rgia413/documents/032.html">032</ref>
@@ -960,8 +962,7 @@
         <row>
           <cell rendition="description">
             <p>
-              <num>№ 24.</num>
-              Прошеніе
+              № 24. Прошеніе
               <persName ref="Авигдор">Авигдора</persName>
               на имя
               <orgName ref="Сенатъ">Сената</orgName>
@@ -999,7 +1000,7 @@
               <persName ref="alter-rebbe">Залмана</persName>
               на ложные доносы
               <persName ref="Авигдор">Авигдора</persName>
-              , разорительные для жалобщика и хасидовъ, и просьба о наказаніи клеветниковъ.
+              , разорительные для жалобщика и хасидовъ, и просьба о наказаніи клеветниковъ
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -1022,7 +1023,9 @@
         <row>
           <cell rendition="description">
             <p>
-              № 26. Новое прошеніе Залмана (августъ 1801 г.) объ обузданіи клеветниковъ и объ обезпеченіи ему и хасидамъ спокойнаго существованія
+              № 26. Новое прошеніе
+              <persName ref="alter-rebbe">Залмана</persName>
+              (августъ 1801 г.) объ обузданіи клеветниковъ и объ обезпеченіи ему и хасидамъ спокойнаго существованія
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -1077,7 +1080,9 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">Послесловие</cell>
+          <cell rendition="description">
+            <p>Послесловие</p>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName ref="Дубнов">Дубнов</persName>

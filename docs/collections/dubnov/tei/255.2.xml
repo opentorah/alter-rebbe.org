@@ -40,8 +40,9 @@
       <creation>
         <date when="1800-07-09">1800-07-09</date>
       </creation>
-      <abstract><p>№ 8. Отношеніе <persName ref="Обольяниновъ">06ольянинова</persName> къ Литовскому губернатору о
-        необходимости отыскать старое дѣло о сектантахъ въ <placeName ref="Вильно">Вильнѣ</placeName></p>
+      <abstract><p>№ 8. Отношеніе <persName ref="Обольяниновъ">О6ольянинова</persName> къ
+        <persName ref="Кутузов">Литовскому губернатору</persName> о необходимости отыскать старое дѣло о сектантахъ въ
+        <placeName ref="Вильно">Вильнѣ</placeName></p>
         <p>Документ <ref target="/collections/rgia2213/documents/028.html" role="documentViewer">028</ref> в РГИА 2213</p>
       </abstract>
       <correspDesc>
@@ -53,7 +54,13 @@
   </teiHeader>
   <text xml:lang="ru">
     <body>
+      <head>
       <pb xml:id="p255" n="255" facs="../facsimiles/255.jpg"/>
+        № 8. Отношеніе <persName ref="Обольяниновъ">О6ольянинова</persName> къ
+        <persName ref="Кутузов">Литовскому губернатору</persName> о необходимости отыскать старое дѣло о сектантахъ въ
+        <placeName ref="Вильно">Вильнѣ</placeName>.
+      </head>
+
       <salute>Милостивый государь мой <persName ref="Кутузов">Михайло Иларіоновичъ</persName>!</salute>
       <p>Получивъ почтеннѣйшее отношеніе вашего высокопревосходительства съ извѣщеніемъ, что вы доставленную отъ меня
         жалобу оберть-раббина <persName ref="Авигдор">Хаима</persName>, по упоминаемому въ ней городу
