@@ -4,9 +4,6 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName>?</persName>
-        </author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
@@ -37,6 +34,9 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+        <date when="1800-12">Декабрь 1800</date>
+      </creation>
       <abstract>
        <p>№ 19. Реестръ бумагъ и книгъ <persName ref="alter-rebbe">Залмана Боруховича</persName></p>
         <p>Документ <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref> в РГИА 413</p>

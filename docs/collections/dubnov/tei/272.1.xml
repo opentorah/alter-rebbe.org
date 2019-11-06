@@ -4,7 +4,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>?</author>
+                <author>
+                    <persName ref="Авигдор">Авигдор</persName>
+                </author>
                 <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -35,8 +37,14 @@
                     <p>Julian calendar</p>
                 </calendar>
             </calendarDesc>
-            <abstract><p>Приложение к документу № 20</p>
+            <abstract>
+                <p>Приложение к документу № 20</p>
             </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">

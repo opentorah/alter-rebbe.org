@@ -37,12 +37,20 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
+			<creation>
+				<date when="1801-05">Май 1801</date>
+			</creation>
 			<abstract>
 				<p>№ 25. Жалоба	<persName ref="alter-rebbe">Залмана</persName> на ложные доносы
 					<persName ref="Авигдор">Авигдора</persName>, разорительные для жалобщика и хасидовъ, и просьба о
 					наказаніи клеветниковъ
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Александр_I" role="addressee">Александру I</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">
@@ -65,7 +73,7 @@
 			<p>Получено	<date when="1801-05-21">21 мая 1801</date> г.</p>
 			<p>Всепресвѣтлѣйшій Державнѣшій Великій Государь Императоръ
 				<persName ref="Александр_I">Александръ Павловичъ</persName>, Самодержецъ Всероссійскій
-				Государь Всемилоотивѣйшій<note place="end">так в оригинале</note>.
+				Государь Всемилоотивѣйшій<note place="end">так в оригинале - alter-rebbe.org</note>.
 			</p>
 			<p>Проситъ <placeName ref="Белоруссия">Бѣлорусской губерніи</placeName> местечка
 				<placeName ref="Лозна">Ліозны</placeName> еврей
@@ -73,7 +81,7 @@
 			</p>
 			<p>1-е) Если Правительствующему <orgName ref="Сенатъ">Сенату</orgName> благоугодно будетъ обратить вниманіе,
 				несомненно увидитъ невинность
-				мою въ дѣле имѣющемся подъ расморѣніемъ<note place="end">так в оригинале</note> Его, по поводу доносовъ
+				мою въ дѣле имѣющемся подъ расморѣніемъ<note place="end">так в оригинале - alter-rebbe.org</note> Его, по поводу доносовъ
 				именующагося Оберъ Раввиномъ еврея
 				<persName ref="Авигдор">Абикдора Хаймовича</persName> на меня и на великое множество евреевъ,
 				называемыхъ имъ Каролиновъ, – поелику всѣ его <persName ref="Авигдор">Хаймовича</persName> противу меня
