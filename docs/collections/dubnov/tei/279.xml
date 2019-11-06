@@ -37,11 +37,19 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
+			<creation>
+				<date when="1801-08">Августъ 1801</date>
+			</creation>
 			<abstract>
-				<p>№ 26. Новое прошеніе <persName ref="alter-rebbe">Залмана</persName> (августъ 1801 г.) объ обузданіи
+				<p>№ 26. Новое прошеніе <persName ref="alter-rebbe">Залмана</persName> объ обузданіи
 					клеветниковъ и объ обезпеченіи ему и хасидамъ спокойнаго существованія
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Александр_I" role="addressee">Александру I</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">

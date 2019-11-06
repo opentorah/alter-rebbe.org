@@ -37,10 +37,19 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
-      <abstract><p>№ 20. Дополнительное прошеніе <persName ref="Авигдор">Авигдора</persName> на имя
-        <persName ref="Обольяниновъ">генералъ-прокурора</persName> съ доносомъ на Хасидов</p>
+      <creation>
+        <date when="1800-12">Декабрь 1800</date>
+      </creation>
+      <abstract>
+        <p>№ 20. Дополнительное прошеніе <persName ref="Авигдор">Авигдора</persName> на имя
+          <persName ref="Обольяниновъ">генералъ-прокурора</persName> съ доносомъ на Хасидов</p>
         <p>Документ <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref> в РГИА 413</p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

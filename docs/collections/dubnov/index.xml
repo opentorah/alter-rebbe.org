@@ -469,11 +469,13 @@
               в РГИА 2213
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-10-03</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольяниновъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Авигдор">Авигдору</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/261.html" role="documentViewer">261</ref>
@@ -496,9 +498,11 @@
           </cell>
           <cell rendition="date">1800-10-07</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольяниновъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Авигдор">Авигдору</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/262.1.html" role="documentViewer">262.1</ref>
@@ -670,9 +674,9 @@
               в РГИА 413
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-11-27</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольяниновъ</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -698,7 +702,7 @@
               в РГИА 413
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-11-27</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -730,9 +734,11 @@
           </cell>
           <cell rendition="date">1800-12-22</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольяниновъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Оленин">Оленину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/268.3.html" role="documentViewer">268.3</ref>
@@ -758,10 +764,8 @@
               в РГИА 413
             </p>
           </cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="date">1800-12</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -790,11 +794,13 @@
               в РГИА 413
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-12</cell>
           <cell rendition="author">
             <persName ref="Авигдор">Авигдор</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольяниновъ">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/271.html" role="documentViewer">271</ref>
@@ -812,8 +818,12 @@
             <p>Приложение к документу № 20</p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author">
+            <persName ref="Авигдор">Авигдор</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольяниновъ">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/272.1.html" role="documentViewer">272.1</ref>
@@ -838,7 +848,7 @@
               в РГИА 413
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1801-03-??</cell>
           <cell rendition="author">
             <persName ref="alter-rebbe">Алтер Ребе</persName>
           </cell>
@@ -874,9 +884,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="alter-rebbe">Алтер Ребе</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -930,10 +938,8 @@
               в РГИА 413
             </p>
           </cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="date">1801-04-11</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -1023,11 +1029,13 @@
               , разорительные для жалобщика и хасидовъ, и просьба о наказаніи клеветниковъ
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1801-05</cell>
           <cell rendition="author">
             <persName ref="alter-rebbe">Алтер Ребе</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Александр_I">Александру I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/277.html" role="documentViewer">277</ref>
@@ -1045,14 +1053,16 @@
             <p>
               № 26. Новое прошеніе
               <persName ref="alter-rebbe">Залмана</persName>
-              (августъ 1801 г.) объ обузданіи клеветниковъ и объ обезпеченіи ему и хасидамъ спокойнаго существованія
+              объ обузданіи клеветниковъ и объ обезпеченіи ему и хасидамъ спокойнаго существованія
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1801-08</cell>
           <cell rendition="author">
             <persName ref="alter-rebbe">Алтер Ребе</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Александр_I">Александру I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/279.html" role="documentViewer">279</ref>
@@ -1070,7 +1080,6 @@
             <p>
               № 27. Пророчество о гибели французскихъ &quot;мятежниковъ&quot; и о побѣдѣ импер.
               <persName ref="Павел_I">Павла I</persName>
-              (безъ даты)
             </p>
             <p>
               Документ
