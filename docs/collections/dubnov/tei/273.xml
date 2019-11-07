@@ -3,6 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <author>
+          <persName ref="Жегулин">Семенъ Жегулинъ</persName>
+        </author>
         <editor role="transcriber">
           <persName ref="VK">Василий Когаловский</persName>
         </editor>
@@ -34,6 +37,9 @@
         <calendar xml:id="julian">
           <p>Julian calendar</p>
         </calendar>
+        <creation>
+          <date when="1798-12-15">Декабря 15 дня 1798 года</date>
+        </creation>
       </calendarDesc>
       <abstract>
         <p>Приложение А к документу №
@@ -42,8 +48,12 @@
           <persName ref="Жегулин">губернатора</persName>
           об освобожденіи <persName ref="alter-rebbe">Залмана</persName> (1798 г.)
         </p>
-        <p>Документ <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref> в РГИА 413
-        </p>
+        <p>Документ <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref> в РГИА 413</p>
+        <correspDesc>
+          <correspAction>
+            <persName ref="Добрынин" role="addressee">Добрынину</persName>
+          </correspAction>
+        </correspDesc>
       </abstract>
     </profileDesc>
   </teiHeader>

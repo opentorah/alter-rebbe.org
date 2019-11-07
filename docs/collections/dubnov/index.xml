@@ -32,11 +32,11 @@
         <ref role="collectionViewer" target="/collections/rgia2213">№ 85</ref>
         (см. сноску в
         <ref role="documentViewer" target="/collections/dubnov/documents/091.1.html">090.1</ref>
-        .) Документы с № 14 и до конца скопированы изъ дела 3-го департамента Сената, I отд. за 1800-1801 гг. (№№ 328 и
+        ). Документы с № 14 и до конца скопированы изъ дела 3-го департамента Сената, I отд. за 1800-1801 гг. (№№ 328 и
         <ref role="collectionViewer" target="/collections/rgia413">413</ref>
         ) (см. сноску в
         <ref role="documentViewer" target="/collections/dubnov/documents/263.2.html">263.2</ref>
-        .)
+        ).
       </p>
       <table rendition="collection-index">
         <row>
@@ -353,7 +353,7 @@
           <cell rendition="description">
             <p>
               № 8. Отношеніе
-              <persName ref="Обольяниновъ">О6ольянинова</persName>
+              <persName ref="Обольяниновъ">Обольянинова</persName>
               къ
               <placeName ref="Литва">Литовскому</placeName>
               <persName ref="Кутузов">губернатору</persName>
@@ -748,7 +748,6 @@
           <cell rendition="pages">
             <ref target="documents/268.3.html#p268" role="documentViewer" rendition="page">268</ref>
             <ref target="documents/268.3.html#p269" role="documentViewer" rendition="page">269</ref>
-            <ref target="documents/268.3.html#p270" role="documentViewer" rendition="page">270</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -889,10 +888,19 @@
               <ref role="documentViewer" target="/collections/rgia413/documents/024.html">024</ref>
               в РГИА 413
             </p>
+            <correspDesc>
+              <correspAction>
+                <persName role="addressee" ref="Добрынин">Добрынину</persName>
+              </correspAction>
+            </correspDesc>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author">
+            <persName ref="Жегулин">Семенъ Жегулинъ</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Добрынин">Добрынину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/273.html" role="documentViewer">273</ref>
