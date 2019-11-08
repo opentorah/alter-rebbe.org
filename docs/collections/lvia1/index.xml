@@ -49,7 +49,9 @@
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/250.html" role="documentViewer">250</ref>
