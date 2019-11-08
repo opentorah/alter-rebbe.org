@@ -47,12 +47,12 @@
         </row>
         <row>
           <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1799-02-09</cell>
           <cell rendition="author">
             <persName ref="Капцевич">Капцевичъ</persName>
           </cell>
           <cell rendition="addressee">
-            <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
+            <persName ref="Де-Ласси">Де-Ласси</persName>
           </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -61,26 +61,7 @@
           <cell rendition="pages">
             <ref target="documents/250.html#p250-1" role="documentViewer" rendition="page">250</ref>
             <ref target="documents/250.html#p250-2" role="documentViewer" rendition="page">250об</ref>
-          </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
-        </row>
-        <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Капцевич">Капцевичъ</persName>
-          </cell>
-          <cell rendition="addressee">
-            <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
-          </cell>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/265.html" role="documentViewer">265</ref>
-          </cell>
-          <cell rendition="pages">
-            <ref target="documents/265.html#p265-1" role="documentViewer" rendition="page">265</ref>
+            <ref target="documents/250.html#p265-1" role="documentViewer" rendition="page">265</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
