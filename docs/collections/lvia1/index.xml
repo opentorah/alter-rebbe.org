@@ -68,7 +68,9 @@
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/265.html" role="documentViewer">265</ref>
@@ -76,7 +78,9 @@
           <cell rendition="pages">
             <ref target="documents/265.html#p265-1" role="documentViewer" rendition="page">265</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
