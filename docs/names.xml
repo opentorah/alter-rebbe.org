@@ -590,7 +590,12 @@
         </person>
         <person xml:id="Лейба_Беркович">
           <persName>Лейба Беркович</persName>
-          <p rendition="mentions"></p>
+          <p rendition="mentions">
+            <l>
+              LVIA =1:
+              <ref target="/collections/lvia1/documents/250.html" role="documentViewer">250</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Лейба_Зеликович">
           <persName>Лейба Зеликович</persName>
@@ -995,7 +1000,13 @@
         </person>
         <person xml:id="Шимель_Вульфович">
           <persName>Шимель Вульфович</persName>
-          <p rendition="mentions"></p>
+          <p rendition="mentions">
+            <l>
+              LVIA =1:
+              <ref target="/collections/lvia1/documents/250.html" role="documentViewer">250</ref>
+              <ref target="/collections/lvia1/documents/265.html" role="documentViewer">265</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Шломо_Меиерович">
           <persName>Шломо Меиерович</persName>
@@ -1140,6 +1151,10 @@
           <ref target="https://ru.wikipedia.org/wiki/Булгаков,_Яков_Иванович">[Википедия]</ref>
           <p rendition="mentions">
             <l>
+              LVIA =1:
+              <ref target="/collections/lvia1/documents/276.html" role="documentViewer">276</ref>
+            </l>
+            <l>
               Дубнов:
               <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
             </l>
@@ -1177,6 +1192,7 @@
               LVIA =1:
               <ref target="/collections/lvia1/documents/250.html" role="documentViewer">250</ref>
               <ref target="/collections/lvia1/documents/265.html" role="documentViewer">265</ref>
+              <ref target="/collections/lvia1/documents/276.html" role="documentViewer">276</ref>
             </l>
           </p>
         </person>
@@ -1229,7 +1245,14 @@
           <persName>Капцевич</persName>
           <ref target="https://ru.wikipedia.org/wiki/Капцевич,_Пётр_Михайлович">[Википедия]</ref>
           <ref target="http://encyclopedia.mil.ru/encyclopedia/heroes/USSR/more.htm?id=11900777@morfHeroes"/>
-          <p rendition="mentions"></p>
+          <p rendition="mentions">
+            <l>
+              LVIA =1:
+              <ref target="/collections/lvia1/documents/250.html" role="documentViewer">250</ref>
+              <ref target="/collections/lvia1/documents/265.html" role="documentViewer">265</ref>
+              <ref target="/collections/lvia1/documents/276.html" role="documentViewer">276</ref>
+            </l>
+          </p>
         </person>
         <person xml:id="Карнеевъ">
           <persName>Корнеевъ</persName>
@@ -2515,6 +2538,8 @@
             <l>
               LVIA =1:
               <ref target="/collections/lvia1/documents/250.html" role="documentViewer">250</ref>
+              <ref target="/collections/lvia1/documents/265.html" role="documentViewer">265</ref>
+              <ref target="/collections/lvia1/documents/276.html" role="documentViewer">276</ref>
             </l>
             <l>
               Дубнов:
@@ -2751,6 +2776,7 @@
               LVIA =1:
               <ref target="/collections/lvia1/documents/250.html" role="documentViewer">250</ref>
               <ref target="/collections/lvia1/documents/265.html" role="documentViewer">265</ref>
+              <ref target="/collections/lvia1/documents/276.html" role="documentViewer">276</ref>
             </l>
             <l>
               Дубнов:

@@ -48,7 +48,9 @@
         <row>
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
+          <cell rendition="author">
+            <persName ref="Капцевич">Капцевичъ</persName>
+          </cell>
           <cell rendition="addressee">
             <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
           </cell>
@@ -67,7 +69,9 @@
         <row>
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="Капцевич">Капцевичъ</persName>
+          </cell>
           <cell rendition="addressee">
             <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
           </cell>
@@ -85,8 +89,10 @@
         <row>
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author"></cell>
+          <cell rendition="addressee">
+            <persName ref="Де-Ласси">литовскому генералъ губернатору Де-Ласси</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/276.html" role="documentViewer">276</ref>
@@ -95,7 +101,9 @@
             <ref target="documents/276.html#p276-1" role="documentViewer" rendition="page">276</ref>
             <ref target="documents/276.html#p276-2" role="documentViewer" rendition="page">276об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
