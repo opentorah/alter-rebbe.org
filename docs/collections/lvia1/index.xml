@@ -133,9 +133,16 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="description">
+            Письмо (фрагмент) литовского губернатора
+            <persName ref="Фризель">Фризеля</persName>
+            о подготовке акта, пересматривающего полномочия
+            <orgName ref="виленский_кагал">виленского кагала</orgName>
+          </cell>
+          <cell rendition="date">1799-02-09</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Фризель</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -145,7 +152,9 @@
             <ref target="documents/287.html#p287-1" role="documentViewer" rendition="page">287</ref>
             <ref target="documents/287.html#p287-2" role="documentViewer" rendition="page">287об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
