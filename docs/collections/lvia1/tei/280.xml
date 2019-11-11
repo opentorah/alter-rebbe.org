@@ -4,13 +4,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-               <author><persName ref="Фризель">Фризель</persName>
-                </author>
-                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
-
+               <author><persName ref="Фризель">Фризель</persName></author>
+                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+            </titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <date when="1799-02-12">12 февраля 1799</date>
                 <availability status="free">
                     <licence>
                         <ab>
@@ -26,6 +24,9 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation>
+              <date when="1799-02-12">12 февраля 1799</date>
+            </creation>
             <correspDesc>
     <correspAction>
       <persName ref="Де-Ласси" role="addressee"> Литовскому генерал-губернатору </persName>
