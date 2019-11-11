@@ -108,9 +108,13 @@
         </row>
         <row>
           <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1799-02-12</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Фризель</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Де-Ласси">Литовскому генерал-губернатору</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/280.html" role="documentViewer">280</ref>
@@ -124,7 +128,9 @@
             <ref target="documents/280.html#p282-2" role="documentViewer" rendition="page">282об</ref>
             <ref target="documents/280.html#p283-1" role="documentViewer" rendition="page">283</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
