@@ -178,10 +178,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="description">
+            Рапорт литовского гражданского губернатора
+            <persName ref="Фризель">Фризеля</persName>
+            генерал-губернатору
+            <persName ref="Де-Ласси">Де-Ласси</persName>
+            об отправке копии предложений Губернскому правлению о действиях в отношении
+            <orgName ref="виленский_кагал">виленского кагала</orgName>
+            ,а также копия самх предложений
+          </cell>
+          <cell rendition="date">1799-02-16</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Фризель</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Де-Ласси">литовскому генерал-губернатору Де-Ласси</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/344.html" role="documentViewer">344</ref>
@@ -194,7 +206,9 @@
             <ref target="documents/344.html#p346-1" role="documentViewer" rendition="page">346</ref>
             <ref target="documents/344.html#p346-2" role="documentViewer" rendition="page">346об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
       </table>
       <p>Отсутствуют фотографии 2 страниц: 277 277об</p>
