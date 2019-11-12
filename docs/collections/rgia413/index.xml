@@ -45,7 +45,9 @@
         <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
         : Материалы следствия, произведённого в
         <orgName ref="Сенатъ">Сенате</orgName>
-        по доносам пинского раввина
+        по доносам
+        <placeName ref="Пинск">пинского</placeName>
+        раввина
         <persName ref="Авигдор">Авигдора Хаймовича</persName>
         на общину хасидов (Хабад) и
         <persName ref="alter-rebbe">раввина Шнеера Залмана</persName>
@@ -74,6 +76,7 @@
             <ref target="documents/000.html" role="documentViewer">000</ref>
           </cell>
           <cell rendition="pages">
+            <ref target="documents/000.html#p000-1" role="documentViewer" rendition="missing-page">000</ref>
             <ref target="documents/000.html#p000-2" role="documentViewer" rendition="page">000об</ref>
           </cell>
           <cell rendition="transcriber">
@@ -156,8 +159,15 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заголовок раздела: &quot;Ответы Алтер Ребе&quot;</p>
-            <p>18-й и 19-й пункты ответов Алтер Ребе</p>
+            <p>
+              Заголовок раздела: &quot;Ответы
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+              &quot;
+            </p>
+            <p>
+              18-й и 19-й пункты ответов
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/264.html">15</ref>
@@ -234,7 +244,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Письмо Оленину</p>
+            <p>
+              Письмо
+              <persName ref="Оленин">Оленину</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/268.3.html">18</ref>
@@ -261,7 +274,9 @@
         <row>
           <cell rendition="description">
             <p>
-              Сообщение об отправке Алтер Ребе в
+              Сообщение об отправке
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+              в
               <placeName ref="Петербург">Петербург</placeName>
             </p>
             <p>
@@ -291,7 +306,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заявление переводчиков с еврейского о документах и книгах Алтер Ребе</p>
+            <p>
+              Заявление переводчиков с еврейского о документах и книгах
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/269.html">19</ref>
@@ -315,7 +333,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Список документов, найденных при обыске у Алтер Ребе</p>
+            <p>
+              Список документов, найденных при обыске у
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/269.html">19</ref>
@@ -339,7 +360,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Молитва за императора Павла</p>
+            <p>
+              Молитва за императора
+              <persName ref="Павел_I">Павла</persName>
+            </p>
             <p>
               Упомянута в документе
               <ref role="documentViewer" target="/collections/dubnov/documents/269.html">19</ref>
@@ -387,7 +411,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Список книг, найденных при обыске у Алтер Ребе</p>
+            <p>
+              Список книг, найденных при обыске у
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Упомянута в документе
               <ref role="documentViewer" target="/collections/dubnov/documents/269.html">19</ref>
@@ -419,7 +446,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заголовок раздела &quot;Регистръ О забранныхъ книгахъ у боруховича&quot;</p>
+            <p>Заголовок раздела: &quot;Регистръ О забранныхъ книгахъ у боруховича&quot;</p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -439,7 +466,10 @@
         <row>
           <cell rendition="description">
             <p>Заявление о составлении списка книг при обыске</p>
-            <p>Список книг Алтер Ребе</p>
+            <p>
+              Список книг
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/269.html">19</ref>
@@ -493,7 +523,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Прошение императору от Алтер Ребе</p>
+            <p>
+              Прошение императору от
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html">21</ref>
@@ -542,7 +575,11 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Предложение виленской полиции о терпимости к каролонской секте</p>
+            <p>
+              Предложение
+              <placeName ref="Вильно">виленской</placeName>
+              полиции о терпимости к каролонской секте
+            </p>
             <p>
               <ref role="documentViewer" target="/collections/dubnov/documents/272.html">Приложение Б к документу 21</ref>
               у Дубнова
@@ -568,7 +605,8 @@
             <p>
               Копия записи в журнале
               <orgName ref="Сенатъ">Сената</orgName>
-              решения о прошении Алтер Ребе
+              решения о прошении
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
             </p>
             <p>
               Документ
@@ -593,7 +631,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Прошение на имя императора по поводу поклепа Мойше Ашеровича</p>
+            <p>
+              Прошение на имя императора по поводу поклепа
+              <persName ref="Моисей_Ошерович">Мойше Ашеровича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -614,7 +655,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Копия решения о прошения Ашеровича</p>
+            <p>
+              Копия решения о прошения
+              <persName ref="Моисей_Ошерович">Ашеровича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -633,7 +677,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Просьба на имя императора от старшины виленского кагала</p>
+            <p>
+              Просьба на имя императора от старшины
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+            </p>
           </cell>
           <cell rendition="date">1799-03-21</cell>
           <cell rendition="author">
@@ -654,7 +701,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Открытое свидетельство об освобожении Алтер Ребе</p>
+            <p>
+              Открытое свидетельство об освобожении
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/275.1.html">23</ref>
@@ -678,7 +728,11 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Предложение виленской полиции терпимости к каролинской секте</p>
+            <p>
+              Предложение
+              <placeName ref="Вильно">виленской</placeName>
+              полиции терпимости к каролинской секте
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/274.1.html">21</ref>
@@ -706,7 +760,7 @@
           </cell>
         </row>
       </table>
-      <p>Отсутствуют фотографии 1 страниц: 032об</p>
+      <p>Отсутствуют фотографии 2 страниц: 000 032об</p>
     </body>
   </text>
 </TEI>
