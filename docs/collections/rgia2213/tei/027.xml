@@ -37,8 +37,10 @@
     </teiHeader>
     <text xml:lang="ru">
         <body>
-            <pb xml:id="p027-1" n="027-1" facs="../facsimiles/027-1.jpg"/>
-            <salute>Милостивый Государь мой <persName ref="Обольяниновъ">Петръ хрисанфовичъ</persName>!</salute>
+            <salute>
+                <pb xml:id="p027-1" n="027-1" facs="../facsimiles/027-1.jpg"/>
+                Милостивый Государь мой <persName ref="Обольяниновъ">Петръ хрисанфовичъ</persName>!
+            </salute>
             <p>
                 <l>Получа почтеннѣйшее отношеніе вашего</l>
                 <l>высокопревосходительства за № 4722<hi rend="superscript">м</hi> съ изображе-</l>
