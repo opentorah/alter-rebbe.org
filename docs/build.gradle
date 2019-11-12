@@ -5,7 +5,7 @@ plugins {
 description = '19 Kislev Archive'
 
 dependencies {
-    runtime project(':collector')
+    runtimeOnly project(':collector')
 }
 
 task postprocess(type: JavaExec) {
