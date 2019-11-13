@@ -103,6 +103,8 @@ final class Collection(
   }
 
   def process(): Unit = {
+    def quote(what: String): String = s"'$what'"
+
     // Index
     Tei.tei(title, content =
       description ++
@@ -114,10 +116,10 @@ final class Collection(
     ).write(directory, "index")
 
     // Index wrapper
-    Util.writeTeiYaml(directory, "index",
+    Util.writeTeiYaml(Util.htmlFile(directory, "index"),
       layout = "collection",
       tei = "index.xml",
-      title = reference,
+      title = quote(reference),
       target = "collectionViewer"
     )
 

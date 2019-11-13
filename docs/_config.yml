@@ -33,12 +33,9 @@ exclude:
   - Gemfile.lock
 
 header_pages:
+  - collections.md
+# header_pages start
   - collections/rgada/index.html
-  - collections/rgia413/index.html
-  - collections/rgia2213/index.html
-  - collections/dubnov/index.html
-  - collections/lvia1/index.html
-  - collections/lvia6/index.html
   - names.html
 # header_pages end
   - blog.md

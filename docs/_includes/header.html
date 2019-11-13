@@ -25,24 +25,28 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}" target="collectionViewer">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-          {%- if page.layout == 'document' -%}
-            {%- if page.prev or page.next -%}
-            <a class="page-link" href="../index.html" target="collectionViewer">[...]</a>
-            {%- elsif page.list -%}
-            <a class="page-link" href="{{ page.list }}.html">[{{ page.list }}]</a>
-            {%- endif -%}
+
+          {%- if page.layout == 'document' or page.layout == 'facsimile'-%}
+            <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.collection }}]</a>
+
             {%- if page.prev -%}
             <a class="page-link" href="{{ page.prev }}.html">{{ page.prev }}</a>
             {%- endif -%}
+
             {%- if page.self -%}
             <a class="page-link" href="{{ page.self }}.html"><{{ page.self }}></a>
             {%- endif -%}
+
             {%- if page.next -%}
             <a class="page-link" href="{{ page.next }}.html">{{ page.next }}</a>
             {%- endif -%}
+          {%- endif -%}
+
+          {%- if page.layout == 'document' -%}
             {%- if page.facs -%}
             <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⏿</a>
             {%- endif -%}
+
             {%- for lang in page.translations -%}
             <a class="page-link" href='{{ page.self }}-{{ lang }}.html'>{{ lang }}</a>
             {%- endfor -%}
