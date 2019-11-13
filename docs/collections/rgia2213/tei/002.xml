@@ -5,7 +5,9 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author><persName ref="Авигдор">Абигдоръ</persName></author>
+				<author>
+					<persName ref="Авигдор">Авигдор</persName>
+				</author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
@@ -43,6 +45,11 @@
 					<ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">2</ref> у Дубнова
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Павел_I" role="addressee">Павлу I</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">
