@@ -83,7 +83,7 @@ layout: page
 - <a href="/collections/rnb211/index.html" target="collectionViewer">РНБ 211</a>:
 "?".
 - <a href="/collections/derzhavin/index.html" target="collectionViewer">Державин</a>:
-Некоторые документы на наши темы связаны с Державиным.
+Некоторые документы на наши темы связаны сДержавиным.
 <a name="collections-end">
 
 Имеются также:
