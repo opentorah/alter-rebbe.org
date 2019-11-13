@@ -475,9 +475,17 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            Сообщение губернатора
+            <persName ref="Розенберг">Розенберга</persName>
+            <persName ref="Обольяниновъ">Обольянинову</persName>
+            о получении высочайшего повеления по жалобе
+            <persName ref="Авигдор">Авигдора</persName>
+          </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="Розенберг">Розенбергу</persName>
+          </cell>
           <cell rendition="addressee">
             <persName ref="Обольяниновъ">Обольянинову</persName>
           </cell>
@@ -497,7 +505,7 @@
           <cell rendition="description">
             <p>
               Документ
-              <ref role="documentViewer" target="/collections/dubnov/documents/262.1.html">12</ref>
+              <ref role="documentViewer" target="/collections/dubnov/documents/262.2.html">12</ref>
               у Дубнова
             </p>
           </cell>
@@ -549,6 +557,10 @@
         </row>
         <row>
           <cell rendition="description">
+            <p>
+              Объявление высочайшего повеления по жалобе
+              <persName ref="Авигдор">Авигдора</persName>
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/dubnov/documents/261.html">11</ref>
