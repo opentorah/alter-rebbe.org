@@ -4,7 +4,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>?</author>
+                <author>
+                    <persName ref="Тормасовъ">Тормасовъ</persName>
+                </author>
                 <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -28,6 +30,11 @@
             <abstract>
                 <p>Документ <ref target="/collections/dubnov/documents/254.2.html" role="documentViewer">6</ref> у Дубнова</p>
             </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
