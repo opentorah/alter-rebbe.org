@@ -87,20 +87,22 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>
-              Рапорт
-              <placeName ref="Литва">литовскаго</placeName>
-              гражданского губернатора
-              <persName ref="Фризель">Фризеля</persName>
-              генерал-губернатору
-              <persName ref="Де-Ласси">Де-Ласси</persName>
-              о запросе документов у
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
-            </p>
+            Рапорт
+            <placeName ref="Литва">литовскаго</placeName>
+            гражданского губернатора
+            <persName ref="Фризель">Фризеля</persName>
+            генерал-губернатору
+            <persName ref="Де-Ласси">Де-Ласси</persName>
+            о запросе документов у
+            <orgName ref="виленский_кагал">виленского кагала</orgName>
+            и о подготовке акта, пересматривающего полномочия
+            <orgName ref="виленский_кагал">виленского кагала</orgName>
           </cell>
-          <cell rendition="date">1799-02-11</cell>
+          <cell rendition="date">1799-02-09</cell>
           <cell rendition="author">
-            <persName ref="Булгаков">Булгаков</persName>
+            <author>
+              <persName ref="Фризель">Фризель</persName>
+            </author>
           </cell>
           <cell rendition="addressee">
             <persName ref="Де-Ласси">Де-Ласси</persName>
@@ -112,8 +114,8 @@
           <cell rendition="pages">
             <ref target="documents/276.html#p276-1" role="documentViewer" rendition="page">276</ref>
             <ref target="documents/276.html#p276-2" role="documentViewer" rendition="page">276об</ref>
-            <ref target="documents/276.html#p277-1" role="documentViewer" rendition="missing-page">277</ref>
-            <ref target="documents/276.html#p277-2" role="documentViewer" rendition="missing-page">277об</ref>
+            <ref target="documents/276.html#p287-1" role="documentViewer" rendition="page">287</ref>
+            <ref target="documents/276.html#p287-2" role="documentViewer" rendition="page">287об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -146,32 +148,6 @@
             <ref target="documents/280.html#p282-1" role="documentViewer" rendition="page">282</ref>
             <ref target="documents/280.html#p282-2" role="documentViewer" rendition="page">282об</ref>
             <ref target="documents/280.html#p283-1" role="documentViewer" rendition="page">283</ref>
-          </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
-        </row>
-        <row>
-          <cell rendition="description">
-            Письмо (фрагмент)
-            <placeName ref="Литва">литовского</placeName>
-            губернатора
-            <persName ref="Фризель">Фризеля</persName>
-            о подготовке акта, пересматривающего полномочия
-            <orgName ref="виленский_кагал">виленского кагала</orgName>
-          </cell>
-          <cell rendition="date">1799-02-09</cell>
-          <cell rendition="author">
-            <persName ref="Фризель">Фризель</persName>
-          </cell>
-          <cell rendition="addressee"></cell>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/287.html" role="documentViewer">287</ref>
-          </cell>
-          <cell rendition="pages">
-            <ref target="documents/287.html#p287-1" role="documentViewer" rendition="page">287</ref>
-            <ref target="documents/287.html#p287-2" role="documentViewer" rendition="page">287об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -215,7 +191,6 @@
           </cell>
         </row>
       </table>
-      <p>Отсутствуют фотографии 2 страниц: 277 277об</p>
     </body>
   </text>
 </TEI>
