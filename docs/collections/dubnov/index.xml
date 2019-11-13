@@ -493,7 +493,11 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>№ 11-а. Извещеніе о томъ же и справка Подольскаго губернатора</p>
+            <p>
+              № 11-а. Извещеніе о томъ же и справка
+              <placeName ref="Подольская_губерния">Подольскаго</placeName>
+              губернатора
+            </p>
             <p>
               Документ
               <ref role="documentViewer" target="/collections/rgia2213/documents/048.html">048</ref>
@@ -556,7 +560,8 @@
           <cell rendition="description">
             <p>
               № 13. Отзывъ
-              <persName ref="Карнеевъ">Минскаго губернатора</persName>
+              <placeName ref="Минская_губерния">Минскаго</placeName>
+              <persName ref="Карнеевъ">губернатора</persName>
               о претензіяхъ
               <persName ref="Авигдор">Авигдора</persName>
             </p>

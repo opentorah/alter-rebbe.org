@@ -47,7 +47,7 @@ layout: page
 - <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
 - <a href="/collections/lvia1/index.html" target="collectionViewer">LVIA =1</a>:
-"О виленской общине каролинов".
+"Овиленскойобщине каролинов".
 - <a href="/collections/lvia2/index.html" target="collectionViewer">LVIA =2</a>:
 "?".
 - <a href="/collections/lvia3/index.html" target="collectionViewer">LVIA =3</a>:
