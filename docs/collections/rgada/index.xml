@@ -901,11 +901,14 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Собственноручные письменные показания Альтер Ребе</p>
+            <p>
+              Собственноручные письменные показания
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName ref="alter-rebbe">Альтер Ребе</persName>
+            <persName ref="alter-rebbe">Алтер Ребе</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">
@@ -1818,7 +1821,7 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName ref="Шая_Ицкович">Шая_Ицкович</persName>
+            <persName ref="Шая_Ицкович">Шая Ицкович</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -2521,7 +2524,6 @@
           <cell rendition="description">?</cell>
           <cell rendition="date">1798-10-16</cell>
           <cell rendition="author">
-            губернский секретарь
             <persName ref="Козминский">Козминский</persName>
           </cell>
           <cell rendition="addressee"></cell>
@@ -4160,7 +4162,7 @@
           </cell>
           <cell rendition="date">1800-08-30</cell>
           <cell rendition="author">
-            <persName ref="Хрущов">Петръ Хрущов</persName>
+            <persName ref="Хрущов">Хрущов</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4208,7 +4210,7 @@
           </cell>
           <cell rendition="date">1800-10-15</cell>
           <cell rendition="author">
-            <persName ref="Обольяниновъ">Петръ Обольянинов</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4383,7 +4385,7 @@
           </cell>
           <cell rendition="date">1800-11-09</cell>
           <cell rendition="author">
-            <persName ref="Северинъ">Петръ Северинъ</persName>
+            <persName ref="Северинъ">Северин</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4406,7 +4408,7 @@
           </cell>
           <cell rendition="date">1800-11-09</cell>
           <cell rendition="author">
-            <persName ref="Северинъ">Петръ Северинъ</persName>
+            <persName ref="Северинъ">Северин</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4453,7 +4455,7 @@
           </cell>
           <cell rendition="date">1800-11-14</cell>
           <cell rendition="author">
-            <persName ref="Михель_Файбишович">Файбишовичь</persName>
+            <persName ref="Михель_Файбишович">Файбишович</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4668,7 +4670,7 @@
           </cell>
           <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
-            <persName ref="фонъ_Дер_Пален">фонъ Дер Пален</persName>
+            <persName ref="фонъ_Дер_Пален">фон Пален</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4987,7 +4989,7 @@
           <cell rendition="description">?</cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName ref="фонъ_Дер_Пален">граф фон Пален</persName>
+            <persName ref="фонъ_Дер_Пален">фон Пален</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4998,7 +5000,7 @@
             <ref target="documents/348.html#p348-1" role="documentViewer" rendition="page">348</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="ALD">Zaslavsky, Rina</persName>
+            <persName ref="ALD">Рина Заславская</persName>
           </cell>
         </row>
         <row>
@@ -5162,7 +5164,11 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Расписка Альтер Ребе за реестр</p>
+            <p>
+              Расписка
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+              за реестр
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -5180,7 +5186,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Реестр писем и документов, изъятых у Альтер Ребе</p>
+            <p>
+              Реестр писем и документов, изъятых у
+              <persName ref="alter-rebbe">Алтер Ребе</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
