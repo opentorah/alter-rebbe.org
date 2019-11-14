@@ -69,7 +69,7 @@
         <row>
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -125,7 +125,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -218,7 +218,7 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName ref="Авигдор"/>
+            <persName ref="Авигдор">Авигдор</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">he</cell>
@@ -244,7 +244,7 @@
             </p>
           </cell>
           <cell rendition="date">1800-11-28</cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -342,7 +342,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -369,7 +369,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -451,7 +451,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -478,7 +478,7 @@
             <p>Заголовок раздела: &quot;Регистр о забранных книгах у Боруховича&quot;</p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -506,7 +506,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">he</cell>
           <cell rendition="document">
@@ -596,8 +596,12 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author">
+            <persName ref="Жегулин">Жегулин</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Добрынин">Добрынину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/024.html" role="documentViewer">024</ref>
@@ -623,7 +627,9 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Фризель</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -652,7 +658,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -723,7 +729,9 @@
           <cell rendition="author">
             <persName ref="Моисей_Ошерович">Моеша Ошеровичъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Павел_I">Павлу I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/030.html" role="documentViewer">030</ref>
@@ -753,7 +761,9 @@
             </p>
           </cell>
           <cell rendition="date">1801-06-13</cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="Тарабеев">Тарабеев</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -785,7 +795,9 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Фризель</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
