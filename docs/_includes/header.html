@@ -26,7 +26,11 @@
             {%- endif -%}
           {%- endfor -%}
 
-          {%- if page.layout == 'document' or page.layout == 'facsimile'-%}
+          {%- if page.layout == 'collection' -%}
+            <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.title }}]</a>
+          {%- endif -%}
+
+          {%- if page.layout == 'document' or page.layout == 'facsimile' -%}
             <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.collection }}]</a>
 
             {%- if page.prev -%}
