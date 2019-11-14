@@ -5,11 +5,11 @@ target: collectionViewer
 ---
 
 - <a href="/collections/rgada/index.html" target="collectionViewer">РГАДА</a>:
-"О Еврейской сектѣ Каролиновъ и объ учителѣ ихъРаввинѣ Зальманѣ Боруховичѣ, и о доносахъЕврея Гирша Давидовича".
+"О Еврейской сектѣ Каролиновъ и объ учителѣ ихъ Раввинѣ Зальманѣ Боруховичѣ , и о доносахъ Еврея Гирша Давидовича ".
 - <a href="/collections/rgia413/index.html" target="collectionViewer">РГИА 413</a>:
 "О каролинской секте".
 - <a href="/collections/rgia2213/index.html" target="collectionViewer">РГИА 2213</a>:
-"Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина изПинскаХаимао преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус.".
+"Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус.".
 - <a href="/collections/rgia119/index.html" target="collectionViewer">РГИА 119</a>:
 "Прошение Штерны Лейбовны".
 - <a href="/collections/rgia328/index.html" target="collectionViewer">РГИА 328</a>:
@@ -17,7 +17,7 @@ target: collectionViewer
 - <a href="/collections/dubnov/index.html" target="collectionViewer">Дубнов</a>:
 "Вмешательство русскаго правительства въ антихасидскую борьбу".
 - <a href="/collections/lvia1/index.html" target="collectionViewer">LVIA =1</a>:
-"Овиленскойобщине каролинов".
+"О виленской общине каролинов".
 - <a href="/collections/lvia2/index.html" target="collectionViewer">LVIA =2</a>:
 "?".
 - <a href="/collections/lvia3/index.html" target="collectionViewer">LVIA =3</a>:
@@ -35,7 +35,7 @@ target: collectionViewer
 - <a href="/collections/lvia9/index.html" target="collectionViewer">LVIA =9</a>:
 "?".
 - <a href="/collections/lna208/index.html" target="collectionViewer">LNA 208</a>:
-"Об отправке арестованных хасидов вВильно".
+"Об отправке арестованных хасидов в Вильно ".
 - <a href="/collections/niab19/index.html" target="collectionViewer">НИАБ 19</a>:
 "?".
 - <a href="/collections/niab25207/index.html" target="collectionViewer">НИАБ 25207</a>:
@@ -53,4 +53,4 @@ target: collectionViewer
 - <a href="/collections/rnb211/index.html" target="collectionViewer">РНБ 211</a>:
 "?".
 - <a href="/collections/derzhavin/index.html" target="collectionViewer">Державин</a>:
-Некоторые документы на наши темы связаны сДержавиным.
+Некоторые документы на наши темы связаны с Державиным.
