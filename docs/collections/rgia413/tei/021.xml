@@ -31,6 +31,11 @@
                     <persName ref="Обольяниновъ">Обольянинову</persName> с доносом на Хасидов</p>
                 <p>Документ <ref target="/collections/dubnov/documents/271.html" role="documentViewer">№ 20</ref> у Дубнова</p>
             </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text xml:lang="ru">
@@ -70,9 +75,10 @@
                 <l>дозволить съ моей стороны быть моему повѣ-</l>
                 <l>ренному, котораго я и имею представить; </l>
                 <l>изъ чего ясно окажется: сколь не токмо</l>
-
-                <pb xml:id="p021-2" n="021-2" facs="../facsimiles/022-2.jpg"/>
-                <l>противна оная секта нашему еврейскому зако-</l>
+                <l>
+                    <pb xml:id="p021-2" n="021-2" facs="../facsimiles/022-2.jpg"/>
+                    противна оная секта нашему еврейскому зако-
+                </l>
                 <l>ну, но и зловредна благосостоянію Государства</l>
                 <l>а какія противъ моихъ  вопросныхъ пунктовъ</l>
                 <l>онъ <persName ref="alter-rebbe">Боруховичъ</persName> объясненіи далъ, то всепокор-</l>
@@ -94,12 +100,12 @@
                 <l>Имперіи внѣ государства вывозится денегъ. </l>
                 <l>Сверхъ того имѣю. <emph rend="big">ВАШЕМУ ВЫСОКОПРЕВО-<lb/>
                     СХОДИТЕЛЬСТВУ</emph> донести и то, что оныя</l>
-
-                <pb xml:id="p022-1" n="022-1" facs="../facsimiles/022-1.jpg"/>
-                <fw type="pageNum" place="right"><del rend="overstrike">58</del></fw>
-                <fw type="pageNum" place="right">22</fw>
-
-                <l>начальники малосвѣдущихъ въ законѣ евреевъ</l>
+                <l>
+                    <pb xml:id="p022-1" n="022-1" facs="../facsimiles/022-1.jpg"/>
+                    <fw type="pageNum" place="right"><del rend="overstrike">58</del></fw>
+                    <fw type="pageNum" place="right">22</fw>
+                    начальники малосвѣдущихъ въ законѣ евреевъ
+                </l>
                 <l>привлекаютъ въ свою секту развратительную</l>
                 <l>от настоящаго нашего закона; а болѣе всего</l>
                 <l>тѣмъ соблазнивъ малолѣтнихъ дѣтей, при-</l>

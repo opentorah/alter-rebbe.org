@@ -43,10 +43,12 @@
     </teiHeader>
     <text xml:lang="ru">
         <body>
-            <pb xml:id="p024-1" n="024-1" facs="../facsimiles/024-1.jpg"/>
-            <fw type="pageNum" place="right"><del rend="overstrike">61</del></fw>
-            <fw type="pageNum" place="right">24</fw>
-            <head>Копія</head>
+            <head>
+                <pb xml:id="p024-1" n="024-1" facs="../facsimiles/024-1.jpg"/>
+                <fw type="pageNum" place="right"><del rend="overstrike">61</del></fw>
+                <fw type="pageNum" place="right">24</fw>
+                Копія
+            </head>
             <p>
                 <l><date when="1800-07-01">1800<hi rend="superscript">го</hi> года июля 1<hi rend="superscript">го</hi> дня</date> по подан-</l>
                 <l>ному прошенію на имя витебскаго зем-</l>
@@ -85,7 +87,7 @@
                 <l>Съ представленной выписи читалъ надворный</l>
                 <l>совѣтникъ  <unclear><signed>??</signed></unclear></l>
                 <l><unclear>??</unclear></l>
-                <l><note place="end"> две строки на иврите</note></l>
+                <l>...<note place="end"> две строки на иврите</note></l>
             </p>
 
             <pb xml:id="p024-2" n="024-2" facs="../facsimiles/024-2.jpg"/>
