@@ -32,10 +32,12 @@
     </teiHeader>
     <text xml:lang="ru">
         <body>
-            <pb xml:id="p010-1" n="010-1" facs="../facsimiles/010-1.jpg"/>
-            <fw type="pageNum" place="right"><del rend="overstrike">46</del></fw>
-            <fw type="pageNum" place="right">10</fw>
-            <l><date when="1800-12-01">1800 Года декабря, дня</date>. Мы нижеподписавшіеся</l>
+            <l>
+                <pb xml:id="p010-1" n="010-1" facs="../facsimiles/010-1.jpg"/>
+                <fw type="pageNum" place="right"><del rend="overstrike">46</del></fw>
+                <fw type="pageNum" place="right">10</fw>
+                <date when="1800-12-01">1800 Года декабря, дня</date>. Мы нижеподписавшіеся
+            </l>
             <l>разсматривали бумаги принадлежавшія еврею <persName ref="alter-rebbe">Борухо<lb/>
             вичу</persName> и симъ показываемъ, что въ запечатанномъ</l>
             <l>мешкѣ находятся бумаги, которыя суть разных</l>
