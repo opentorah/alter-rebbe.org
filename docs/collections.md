@@ -45,7 +45,7 @@ target: collectionViewer
   - <a href="/collections/niab611/index.html" target="collectionViewer">611</a>:
   "?"
 - [РГАДА]
-  - <a href="/collections/rgada/index.html" target="collectionViewer"></a>:
+  - <a href="/collections/rgada/index.html" target="collectionViewer">3140</a>:
   "О Еврейской секте Каролинов и об учителе их Раввине Зальмане Боруховиче , и о доносах Еврея Гирша Давидовича "
 - [РГИА]
   - <a href="/collections/rgia119/index.html" target="collectionViewer">119</a>:

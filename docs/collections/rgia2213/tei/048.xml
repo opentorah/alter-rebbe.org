@@ -24,6 +24,9 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation>
+                <date calendar="#julian" when="1800-10-07">1800-10-07</date>
+            </creation>
             <abstract>
                 <p>Извещение <persName ref="Обольяниновъ">Обольянинова</persName>
                     <persName ref="Авигдор">Авигдору</persName> о справках по его денежным претензиям
