@@ -4121,12 +4121,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
+          <cell rendition="description">
+            <p>
+              Приказ
+              <persName ref="Обольяниновъ">Обольянинова</persName>
+              <persName ref="Хрущов">Петру Хрущову</persName>
+              о возвращении в
+              <placeName ref="Петербург">Петербург</placeName>
+            </p>
+          </cell>
           <cell rendition="date">1800-09-19</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Хрущов">Хрущову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/255.html" role="documentViewer">255</ref>
