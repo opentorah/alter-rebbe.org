@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">?</title>
 				<author>
 					<persName ref="Хрущов">Хрущовъ</persName>
 				</author>
@@ -22,8 +20,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -45,11 +43,11 @@
 				<date when="1800-09-17">1800-09-17</date>
 			</creation>
 			<abstract>
-                Отчет Хрущова о попытках найти информацию о хасидах у представителей митнагедов
-            </abstract>
+				Отчет Хрущова о попытках найти информацию о хасидах у представителей митнагедов
+			</abstract>
 			<correspDesc>
 				<correspAction>
-					<persName ref=" Обольяниновъ " role="addressee">Обольянинову</persName>
+					<persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
 				</correspAction>
 			</correspDesc>
 		</profileDesc>
@@ -68,11 +66,9 @@
 			</fw>
 			<date when="1800-09-25">25 сентября 1800.</date>
 			<fw type="note" place="left">
-				<l>докладовано 
-					<date when="1800-09-26">сентября 26.
-						<lb/>
-      дня 1800 года
-					</date> Гатчина
+				<l>докладовано
+					<date when="1800-09-26">сентября 26.<lb/>
+						дня 1800 года</date> Гатчина
 				</l>
 			</fw>
 			<salute>Милостивый Государь</salute>
@@ -82,9 +78,7 @@
 				<l>сяца отъ 10 числа я нарочное еста</l>
 				<l>фетою для разведыванія препоруче-</l>
 				<l>нной мне комисии отъправился </l>
-				<l>изъ 
-					<placeName ref="Витепск">Витебска</placeName> въ полоцкъ изъ коего
-				</l>
+				<l>изъ <placeName ref="Витепск">Витебска</placeName> въ полоцкъ изъ коего</l>
 				<l>симъ донесть честь имѣю проезъ-</l>
 				<l>жая черезъ разныя местѣчки до полоцка</l>
 				<l>новова ничего открыть про секту хосо-</l>
@@ -102,19 +96,11 @@
 				<l>вашего высокопревосходительства</l>
 				<l>милостиваго государя</l>
 				<l>всепокорнейший слуга</l>
-				<l>
-					<signed>Петръ 
-						<persName ref="Хрущов">Хрущовъ</persName>
-					</signed>
-				</l>
+				<l><signed><persName ref="Хрущов">Петръ Хрущовъ</persName></signed></l>
 			</p>
 			<closer>
-				<l>
-					<date when="1800-09-17">1800 года
-						<lb/>
-сентября 17 дня
-					</date>
-				</l>
+				<l><date when="1800-09-17">1800 года<lb/>
+						сентября 17 дня</date></l>
 				<l>Полоцкъ</l>
 			</closer>
 		</body>

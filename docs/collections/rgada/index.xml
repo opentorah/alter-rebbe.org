@@ -4149,12 +4149,14 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
+          <cell rendition="description">Отчет Хрущова о попытках найти информацию о хасидах у представителей митнагедов</cell>
           <cell rendition="date">1800-09-17</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Хрущов">Хрущовъ</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольяниновъ">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/256.html" role="documentViewer">256</ref>
@@ -4162,7 +4164,9 @@
           <cell rendition="pages">
             <ref target="documents/256.html#p256-1" role="documentViewer" rendition="page">256</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
