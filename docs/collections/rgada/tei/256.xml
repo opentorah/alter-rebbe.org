@@ -1,50 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">?</title>
-        <author>
-          <persName>?</persName>
-        </author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <date>?</date>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">?</title>
+				<author>
+					<persName ref="Хрущов">Хрущовъ</persName>
+				</author>
+				<editor role="transcriber">
+					<persName ref="VK">Василий Когаловский</persName>
+				</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<ptr target="www.alter-rebbe.org"/>
+				</publisher>
+				<date>?</date>
+				<availability status="free">
+					<licence>
+						<ab>
+							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-09-17">1800-09-17</date>
-      </creation>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p256-1" n="256-1" facs="../facsimiles/256-1.jpg"/>
-    </body>
-  </text>
+						</ab>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Facsimile</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="ru"/>
+			</langUsage>
+			<calendarDesc>
+				<calendar xml:id="julian">
+					<p>Julian calendar</p>
+				</calendar>
+			</calendarDesc>
+			<creation>
+				<date when="1800-09-17">1800-09-17</date>
+			</creation>
+			<abstract>
+                Отчет Хрущова о попытках найти информацию о хасидах у представителей митнагедов
+            </abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref=" Обольяниновъ " role="addressee">Обольянинову</persName>
+				</correspAction>
+			</correspDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id="p256-1" n="256-1" facs="../facsimiles/256-1.jpg"/>
+			<fw type="docNum" place="left">№ 1342</fw>
+			<fw type="note" place="right">таиное</fw>
+			<fw type="pageNum" place="right">
+				<del rend="overstrike">442</del>
+			</fw>
+			<fw type="pageNum" place="right">256</fw>
+			<fw type="pageNum" place="right">
+				<del rend="overstrike">261</del>
+			</fw>
+			<date when="1800-09-25">25 сентября 1800.</date>
+			<fw type="note" place="left">
+				<l>докладовано 
+					<date when="1800-09-26">сентября 26.
+						<lb/>
+      дня 1800 года
+					</date> Гатчина
+				</l>
+			</fw>
+			<salute>Милостивый Государь</salute>
+			<p>
+				<l>Послѣ донесенія моего вашѣму высо-</l>
+				<l>копревосходительству настоящаго ме-</l>
+				<l>сяца отъ 10 числа я нарочное еста</l>
+				<l>фетою для разведыванія препоруче-</l>
+				<l>нной мне комисии отъправился </l>
+				<l>изъ 
+					<placeName ref="Витепск">Витебска</placeName> въ полоцкъ изъ коего
+				</l>
+				<l>симъ донесть честь имѣю проезъ-</l>
+				<l>жая черезъ разныя местѣчки до полоцка</l>
+				<l>новова ничего открыть про секту хосо-</l>
+				<l>довъ не могъ потому что везде адинъ</l>
+				<l>обрядъ и адно положение о которомъ</l>
+				<l>имѣлъ счастие предъставить. а  въ да</l>
+				<l>бавокъ толко то что евреи стараго</l>
+				<l>ихъ закону во всехъ местахъ желали бы</l>
+				<l>чтобъ сия секта была уничтожена</l>
+				<l>и запрещено бы было ездить къ рабину</l>
+				<l>дабы сохранить свое имѣние которое</l>
+				<l>расточаютъ молодыя люди. съ соверше-</l>
+				<l>ннымъ высокопочитаниемъ и таковою же</l>
+				<l>преданностию имѣю честь быть</l>
+				<l>вашего высокопревосходительства</l>
+				<l>милостиваго государя</l>
+				<l>всепокорнейший слуга</l>
+				<l>
+					<signed>Петръ 
+						<persName ref="Хрущов">Хрущовъ</persName>
+					</signed>
+				</l>
+			</p>
+			<closer>
+				<l>
+					<date when="1800-09-17">1800 года
+						<lb/>
+сентября 17 дня
+					</date>
+				</l>
+				<l>Полоцкъ</l>
+			</closer>
+		</body>
+	</text>
 </TEI>
