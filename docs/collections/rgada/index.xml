@@ -4060,12 +4060,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Рапорт
+              <persName ref="Хрущов">Петра Хрущова</persName>
+              <persName ref="Обольяниновъ">Обольянинову</persName>
+              со сведениями о хасидах, полученными в ходе поездки по
+              <placeName ref="Белоруссия">Белоруссии</placeName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-09-18</cell>
+          <cell rendition="author">
+            <persName ref="Хрущов">Петр Хрущов</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольяниновъ">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/251.html" role="documentViewer">251</ref>
