@@ -7,7 +7,7 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="Обольяниновъ">Обольянинов</persName>
         </author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
@@ -39,6 +39,18 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <creation>
+                <date when="1800-08-26">26 августа 1800</date>
+            </creation>
+            <abstract>
+                <p>Поручение <persName ref="Обольяниновъ">Обольянинова</persName><persName ref="Хрущов">Петру Хрущову</persName> 
+                     получить сведения о хасидах в ходе поездки по <placeName ref="Белоруссия">Белоруссии</placeName> </p>
+            </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Хрущов" role="addressee">Петру Хрущову</persName>
+                </correspAction>
+            </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
