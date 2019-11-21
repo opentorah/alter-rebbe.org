@@ -14,7 +14,7 @@ target: collectionViewer
   "Об отправке арестованных хасидов в Вильно "
 - [LVIA]
   - <a href="/collections/lvia1/index.html" target="collectionViewer">=1</a>:
-  "О виленской общине каролинов"
+  "О виленской общине каролинов "
   - <a href="/collections/lvia2/index.html" target="collectionViewer">=2</a>:
   "?"
   - <a href="/collections/lvia3/index.html" target="collectionViewer">=3</a>:
@@ -55,7 +55,7 @@ target: collectionViewer
   - <a href="/collections/rgia328/index.html" target="collectionViewer">328</a>:
   "О виленских кагальных старшинах"
   - <a href="/collections/rgia413/index.html" target="collectionViewer">413</a>:
-  "О каролинской секте"
+  "О каролинской секте "
 - [РНБ]
   - <a href="/collections/rnb203/index.html" target="collectionViewer">203</a>:
   "?"
