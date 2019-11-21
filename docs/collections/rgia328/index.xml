@@ -41,7 +41,10 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
-          <cell rendition="description">Сенатское дело о виленских кагальных старшинах</cell>
+          <cell rendition="description">
+            Сенатское дело о
+            <orgName ref="виленский_кагал">виленских кагальных старшинах</orgName>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
@@ -58,10 +61,20 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="description">
+            Сообщение
+            <persName ref="Обольяниновъ">Обольянинова</persName>
+            <persName ref="Оленин">Оленину</persName>
+            о предложениях по делу
+            <orgName ref="виленский_кагал">виленского кагала</orgName>
+          </cell>
+          <cell rendition="date">1800-06-21</cell>
+          <cell rendition="author">
+            <persName ref="Обольяниновъ">Обольяниновъ</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Оленин">Оленину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/001.html" role="documentViewer">001</ref>
@@ -70,7 +83,9 @@
             <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
             <ref target="documents/001.html#p001-2" role="documentViewer" rendition="page">001об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
