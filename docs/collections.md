@@ -53,7 +53,7 @@ target: collectionViewer
   - <a href="/collections/rgia2213/index.html" target="collectionViewer">2213</a>:
   "Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус"
   - <a href="/collections/rgia328/index.html" target="collectionViewer">328</a>:
-  "?"
+  "О виленских кагальных старшинах"
   - <a href="/collections/rgia413/index.html" target="collectionViewer">413</a>:
   "О каролинской секте"
 - [РНБ]
