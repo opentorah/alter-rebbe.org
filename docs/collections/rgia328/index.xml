@@ -41,9 +41,9 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">Сенатское дело о виленских кагальных старшинах</cell>
           <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
+          <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -53,7 +53,9 @@
             <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
             <ref target="documents/000.html#p000-2" role="documentViewer" rendition="page">000об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
