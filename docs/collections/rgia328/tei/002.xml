@@ -39,17 +39,17 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
+			<creation>
+				<date when="1800-07-11">июля 11 1800</date>
+			</creation>
+			<abstract>
+				<p>Голос (особое мнение)
+					<persName ref="Елиашевич">Елиашевича</persName>, предназначенное для рассмотрения
+					<persName ref="Кутузов">Кутузовым</persName> по делу о расходовании средств старшинами
+					<orgName ref="виленский_кагал">виленского кагала</orgName>
+				</p>
+			</abstract>
 		</profileDesc>
-		<creation>
-			<date when="1800-07-11">июля 11 1800</date>
-		</creation>
-		<abstract>
-			<p>Голос (особое мнение) 
-				<persName ref="Елиашевич">Елиашевича</persName>, предназначенное для рассмотрения
-				<persName ref="Кутузов">Кутузовым</persName> по делу о расходовании средств старшинами 
-				<orgName ref="виленский_кагал">виленского кагала</orgName>
-			</p>
-		</abstract>
 	</teiHeader>
 	<text xml:lang="ru">
 		<body>

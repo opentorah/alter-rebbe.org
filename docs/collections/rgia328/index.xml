@@ -88,8 +88,17 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Голос (особое мнение)
+              <persName ref="Елиашевич">Елиашевича</persName>
+              , предназначенное для рассмотрения
+              <persName ref="Кутузов">Кутузовым</persName>
+              по делу о расходовании средств старшинами
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+            </p>
+          </cell>
+          <cell rendition="date">1800-07-11</cell>
           <cell rendition="author">
             <persName ref="Елиашевич">Федоръ Еліашевичъ</persName>
           </cell>
@@ -111,8 +120,14 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт литовской казенной палаты в связи с получением сенатского указа о взимании денег со старшин
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              , виновных в недоимке
+            </p>
+          </cell>
+          <cell rendition="date">1800-09-10</cell>
           <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
