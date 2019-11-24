@@ -91,7 +91,7 @@
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName ref="Елиашевич_Федор_Петрович">Федоръ Еліашевичъ</persName>
+            <persName ref="Елиашевич">Федоръ Еліашевичъ</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -130,7 +130,11 @@
         <row>
           <cell rendition="description">
             <p>
-              Рапорт Литовского губернского правления в связи с получением сенатского указа и намерением взыскать недоимку со старшин
+              Рапорт
+              <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName>
+              в связи с получением
+              <orgName ref="Сенатъ">сенатского</orgName>
+              указа и намерением взыскать недоимку со старшин
               <orgName ref="виленский_кагал">виленского кагала</orgName>
             </p>
           </cell>
@@ -144,12 +148,25 @@
           <cell rendition="pages">
             <ref target="documents/006.html#p006-1" role="documentViewer" rendition="page">006</ref>
             <ref target="documents/006.html#p006-2" role="documentViewer" rendition="page">006об</ref>
-            <ref target="documents/006.html#p007-1" role="documentViewer" rendition="page">007</ref>
-            <ref target="documents/006.html#p007-2" role="documentViewer" rendition="page">007об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author"></cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/007.html" role="documentViewer">007</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/007.html#p007-1" role="documentViewer" rendition="page">007</ref>
+            <ref target="documents/007.html#p007-2" role="documentViewer" rendition="page">007об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
         </row>
         <row>
           <cell rendition="description"></cell>
