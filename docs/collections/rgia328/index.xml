@@ -188,9 +188,20 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
+          <cell rendition="description">
+            <p>
+              Письмо
+              <persName ref="Фризель">Фризеля</persName>
+              <persName ref="Обольяниновъ">Обольянинову</persName>
+              о передаче дела старшин
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              в надворный суд
+            </p>
+          </cell>
+          <cell rendition="date">1800-08-20</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Иван Фризель</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -202,7 +213,9 @@
             <ref target="documents/008.html#p009-1" role="documentViewer" rendition="page">009</ref>
             <ref target="documents/008.html#p009-2" role="documentViewer" rendition="page">009об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
