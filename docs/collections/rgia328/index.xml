@@ -169,8 +169,10 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>Решение императора о порядке рассмотрения дела старшин виленского кагала</p>
+          </cell>
+          <cell rendition="date">1800-11-28</cell>
           <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -181,7 +183,9 @@
             <ref target="documents/007.html#p007-1" role="documentViewer" rendition="page">007</ref>
             <ref target="documents/007.html#p007-2" role="documentViewer" rendition="page">007об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
