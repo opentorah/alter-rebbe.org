@@ -245,10 +245,24 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="description">
+            <p>
+              Письмо
+              <persName ref="Моисей_Ошерович">Моисея Ошеровича</persName>
+              – представителя распущенного состава
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              литовскому генерал-губернатору
+              <persName ref="Кутузов">Кутузову</persName>
+              о восстановлении прежнего состава кагала и его полномочий
+            </p>
+          </cell>
+          <cell rendition="date">1799-02-11</cell>
+          <cell rendition="author">
+            <persName ref="Моисей_Ошерович">моижешъ ошеровичъ</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Кутузов">Кутузову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/012.html" role="documentViewer">012</ref>
@@ -260,7 +274,9 @@
             <ref target="documents/012.html#p013-1" role="documentViewer" rendition="page">013</ref>
             <ref target="documents/012.html#p013-2" role="documentViewer" rendition="missing-page">013об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
       </table>
       <p>Отсутствуют фотографии 3 страниц: 004об 005 013об</p>
