@@ -1,37 +1,243 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author>
-        </author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Прошение бывших старшин 
+					<orgName ref="виленский_кагал">виленского кагала</orgName> к 
+					<persName ref="Павел_I">Павлу I</persName>
+				</title>
+				<author></author>
+				<editor role="transcriber">
+					<persName ref="VK">Василий Когаловский</persName>
+				</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<ptr target="www.alter-rebbe.org"/>
+				</publisher>
+				<availability status="free">
+					<licence>
+						<ab>
+							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-    </profileDesc>
-  </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p010-1" n="010-1" facs="../facsimiles/010-1.jpg"/>
-      <pb xml:id="p010-2" n="010-2" facs="../facsimiles/010-2.jpg"/>
-      <pb xml:id="p011-1" n="011-1" facs="../facsimiles/011-1.jpg"/>
-      <pb xml:id="p011-2" n="011-2" facs="../facsimiles/011-2.jpg"/>
-    </body>
-  </text>
+						</ab>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Facsimile</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="ru"/>
+			</langUsage>
+			<calendarDesc>
+				<calendar xml:id="julian">
+					<p>Julian calendar</p>
+				</calendar>
+			</calendarDesc>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Павел_I" role="addressee">Императору Павлу I</persName>
+				</correspAction>
+			</correspDesc>
+			<creation>
+				<date when="1799-02-20">февраля 20 дня 1799 года</date>
+			</creation>
+			<abstract>
+				<p>Прошение старшин распущенного состава 
+					<orgName ref="виленский_кагал">виленского кагала</orgName> о восстановлении прежнего состава кагала и его полномочий
+				</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="ru">
+		<body>
+			<pb xml:id="p010-1" n="010-1" facs="../facsimiles/010-1.jpg"/>
+			<fw type="note">в г С.П. бургѣ Марта 3.дня 1799.
+				<hi rend="superscript">го</hi>
+			</fw>
+			<fw type="docNum" place="left">4347</fw>
+			<fw type="docNum" place="left">501</fw>
+			<fw type="pageNum" place="right">
+				<del rend="overstrike">57</del>
+			</fw>
+			<fw type="pageNum" place="right">10</fw>
+			<salute>Всеавгустѣйшій монархъ._
+				<lb/>
+      всемилостивѣйшій Государь!
+			</salute>
+			<p>
+				<l>высочайшими 
+					<emph rend="big">вашего императорскаго вели-
+						<lb/>
+чества
+					</emph> указами изданными на литовскую губернію, оби-
+				</l>
+				<l>тающіе въ оной губерніи народы, въ томъ числѣ и об-</l>
+				<l>щество евреевъ отъ давныхъ временъ въ литвѣ посе-</l>
+				<l>лившееся, всемилостивѣйше оставлены при древнихъ</l>
+				<l>своихъ правахъ и привилегіяхъ. Каковою высокомонар-</l>
+				<l>шею милостію всѣ безъ изъятія и понынѣ пользуются,</l>
+				<l>кромѣ общества евреевъ, которое было также спокойно</l>
+				<l>до тn[] поръ, покамѣстъотступившіе отъ онаго</l>
+				<l>и основавшіе новую секту каролины, сыскавъ протекцію</l>
+				<l>и покровительство литовскаго губернскаго правленія</l>
+				<l>совѣтника 
+					<persName ref="Елиашевич">Еліашевича</persName>, на начали насъ, составляющихъ
+				</l>
+				<l>
+					<orgName ref="виленский_кагал">виленскій кагалъ</orgName> евреевъ всячески обеспокоивать сво-
+				</l>
+				<l>ими нововыдуманными обрядами въ Богомоленіи и</l>
+				<l>прочемъ. Стараясь они каролины подкрѣпить то свое</l>
+				<l>отступленіе отъ насъ, взнесли жалобу въ литовское губерн-</l>
+				<l>ское правленіе, о причиняемыхъ якобы нами для нихъ</l>
+				<l>притесненіяхъ, которое удовлѣтворяя оную ихъ жа-</l>
+				<l>лобу во всемъ, въ противность нашихъ привиле-</l>
+				<l>гій и рѣшеній бывшвго литовскаго королевскаго</l>
+				<l>задворнаго и литовскаго надворнаго судовъ 
+					<note type="gloss">|: кото-
+						<lb/>
+рых совсѣмъ отмѣнило :|
+					</note> въ 26
+					<hi rend="superscript">и</hi> день Апрѣля
+					<lb/>
+1798
+					<hi rend="superscript">го</hi> года запретило намъ по нашимъ духовнымъ
+				</l>
+				<pb xml:id="p010-2" n="010-2" facs="../facsimiles/010-2.jpg"/>
+				<l>законамъ наказывать евреевъ нарушающихъ обряды</l>
+				<l>религіи, позволило каролинамъ отправлять Богомо-</l>
+				<l>леніе не по правамъ праотцевъ нашихъ и не вѣлено</l>
+				<l>
+					<orgName ref="виленский_кагал">кагалу</orgName> и духовному суду принимать и судить между
+				</l>
+				<l>евреями дѣлъ.</l>
+			</p>
+			<p>
+				<l>О прописанномъ положеніи губернскаго правленія</l>
+				<l>жаловался 
+					<orgName ref="виленский_кагал">кагалъ</orgName>бывшему литовскому Губернатору
+				</l>
+				<l>дѣйствительному тайному совѣтнику и кавалеру 
+					<persName ref="Булгаков">Бул-
+						<lb/>
+гакову
+					</persName> и нынѣшнему Губернатору 
+					<persName ref="Фризель">Фризелю</persName>, предста-
+				</l>
+				<l>вя при томъ и свои привилегіи съ другими дока-</l>
+				<l>зательствами, которыя всѣ нынѣ находятся у</l>
+				<l>господина литовскаго Губернатора, однако за всѣмъ</l>
+				<l>тѣмъ гоненіе наше не прекратилось, а вящше время</l>
+				<l>отъ времени усиливается тѣмъ, что 4
+					<hi rend="superscript">го</hi> числа сего
+				</l>
+				<l>мѣсяца кагальные члены содержаны были чрезъ весь</l>
+				<l>день въ полиціи подъ стражею, опечатаны всѣ ихъ</l>
+				<l>и партикулярныхъ евреевъ даже и неслужащіе къ сему</l>
+				<l>дѣлу бумаги, а въ вечеру того жъ числа Господинъ Ко-</l>
+				<l>мендантъ 
+					<persName ref="Капцевич">капцевичъ</persName>, совѣтникъ 
+					<persName ref="Елиашевич">Еліашевичъ</persName>, губерн-
+				</l>
+				<l>скій казначей Сербиновичъ, плацъ майоръ Палкинъ,</l>
+				<l>квартальный надзиратель 
+					<unclear>Гестико съ десятцскими</unclear>
+				</l>
+				<l>и каролинами, невзирая на высокоторжественный</l>
+				<l>праздникъ, прибыли въ храмъ нашего Богомоленія</l>
+				<l>гдѣ совѣтникъ 
+					<persName ref="Елиашевич">Еліашевичъ</persName> остановя наше Бого-
+				</l>
+				<l>моленіе объявилъ громогласно, что нѣтъ 
+					<orgName ref="виленский_кагал">кагала</orgName>
+				</l>
+				<l>и духовнаго суда, потомъ простирая далѣе свое</l>
+				<l>неудовольствіе, и прикрывъ однихъ собственноручными</l>
+				<pb xml:id="p011-1" n="011-1" facs="../facsimiles/011-1.jpg"/>
+				<fw type="pageNum" place="right">11</fw>
+				<fw type="pageNum" place="right">
+					<del rend="overstrike">58</del>
+				</fw>
+				<fw type="pageNum" place="right">
+					<del rend="overstrike">80</del>
+				</fw>
+				<l>ударами, а другихъ палкою, отозвался, что насъ</l>
+				<l>проучить.</l>
+			</p>
+			<p>
+				<l>Не кончилось на томъ наше притѣсненіе ибо 6
+					<hi rend="superscript">го</hi>
+				</l>
+				<l>числа пришедъ въ 
+					<orgName ref="виленский_кагал">кагальный домъ</orgName> плацъ маіоръ
+				</l>
+				<l>Палкинъ съ квартальными надзирателями и ка-</l>
+				<l>ролинами, сдѣлалъ новый выборъ кагальнымъ членамъ</l>
+				<l>со всѣмъ обрядомъ религіи нашей и желанію общества</l>
+				<l>противный, подъ надзираніемъ однихъ каролиновъ.</l>
+			</p>
+			<p>
+				<l>Описавъ все прописанное въ подробности, подали</l>
+				<l>мы жалобу въ губернское правленіе, къ Господину Гене-</l>
+				<l>ралъ Губернатору 
+					<persName ref="Де-Ласси">лассію</persName>и также послали про-
+				</l>
+				<l>шеніе къ господину генералъ прокурору</l>
+			</p>
+			<p>
+				<l>
+					<emph rend="big">ваше императорское величество</emph>! по-
+				</l>
+				<l>велите всемилостивѣйше разсмотрѣть жалобу нашу</l>
+				<l>посланную къ Господину Генералу-Прокурору, и высо-</l>
+				<l>чайше удостоя насъ увѣржденіемъ древнихъ наших</l>
+				<l>правъ и привилегій, учинить по ней монаршую за-</l>
+				<l>щиту, и приказать кому слѣдуетъ доставить</l>
+				<l>правосудіе; для удостовѣренія же истинны нашей</l>
+				<l>прозьбы, всемилостивѣйше дозволить намъ пред-</l>
+				<l>ставить лично престолу вашего император-</l>
+				<l>ского величества прописанныя привилегіи.</l>
+			</p>
+			<p>
+				<l>вашего императорскаго величества</l>
+				<l>всемилостивѣйшаго государя</l>
+				<l>всеподданнѣйшій виленскаго 
+					<orgName ref="виленский_кагал">еврей-
+						<lb/>
+скаго кагала
+					</orgName> старшина 
+					<persName ref="Моисей_Ошерович">мовша
+						<lb/>
+ошеровичъ
+					</persName> по еврейски подписался
+				</l>
+				<l>
+					<signed>???</signed>
+					<note place="end">подпись - на иврите</note>
+				</l>
+			</p>
+			<closer place="left">
+				<l>
+					<date when="1799-02-20">февраля 20
+						<hi rend="superscript">го</hi> дня
+						<lb/>
+1799
+						<hi rend="superscript">го</hi> года
+					</date>
+				</l>
+				<l>
+					<placeName ref="Вильно">вильна</placeName>
+				</l>
+			</closer>
+			<pb xml:id="p011-2" n="011-2" facs="../facsimiles/011-2.jpg"/>
+		</body>
+	</text>
 </TEI>
