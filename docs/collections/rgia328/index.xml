@@ -218,10 +218,18 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Прошение старшин распущенного состава
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              о восстановлении прежнего состава кагала и его полномочий
+            </p>
+          </cell>
+          <cell rendition="date">1799-02-20</cell>
           <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Павел_I">Императору Павлу I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/010.html" role="documentViewer">010</ref>
@@ -232,7 +240,9 @@
             <ref target="documents/010.html#p011-1" role="documentViewer" rendition="page">011</ref>
             <ref target="documents/010.html#p011-2" role="documentViewer" rendition="page">011об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
