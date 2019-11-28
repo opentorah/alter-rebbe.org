@@ -4273,15 +4273,22 @@
         <row>
           <cell rendition="description">
             <p>
-              письмо
+              Донесение
+              <persName ref="Хрущов">Хрущова</persName>
               <persName ref="Обольяниновъ">Обольянинову</persName>
+              о пребывании
+              <persName ref="alter-rebbe">руководителя хасидского движения</persName>
+              в
+              <placeName ref="Лозна">Лиозно</placeName>
             </p>
           </cell>
           <cell rendition="date">1800-08-30</cell>
           <cell rendition="author">
             <persName ref="Хрущов">Хрущов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/261.html" role="documentViewer">261</ref>
