@@ -4252,13 +4252,21 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>письмо Кутузову</p>
+            <p>
+              письмо
+              <persName ref="Обольяниновъ">Обольянинова</persName>
+              <persName ref="Кутузов">Кутузову</persName>
+              об удовлетворении жалобы
+              <persName ref="Авигдор">Авигдора</persName>
+            </p>
           </cell>
           <cell rendition="date">1800-10-03</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Кутузов">Кутузову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/260.html" role="documentViewer">260</ref>
