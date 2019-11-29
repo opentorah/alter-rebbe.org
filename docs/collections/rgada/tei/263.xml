@@ -9,6 +9,7 @@
           <persName ref="Хрущов">Хрущов</persName>
         </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+                        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -42,36 +43,51 @@
         <date when="1800-10-10">10 октября 1800 года</date>
       </creation>
       <abstract>
-        <p>Рапорт <persName ref="Обольяниновъ">Обольянинову</persName></p>
+        <p>Рапорт <persName ref="Хрущов">Хрущоа</persName> <persName ref="Обольяниновъ">Обольянинову</persName> об отстутсвии антиправительственных намерений у <orgName ref="Хасиды">хасидов</orgName></p>
       </abstract>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+    </correspAction>
+  </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p263-1" n="263-1" facs="../facsimiles/263-1.jpg"/>
-      <l>10 октября 1800 къ дѣлу</l>
-      <l>Его высокопревосходителству</l>
-      <l>господину генералу отъ инфантерии</l>
-      <l>генералъ прокурору, управляющему провианскимъ департаментом и разныхъ</l>
-      <l>орденовъ кавалеру <persName ref="Обольяниновъ">Обольянинову</persName></l>
-      <l>Комисионера 8 класа <persName ref="Хрущов">Хрущова</persName></l>
-      <l>Рапортъ</l>
-      <l>Вследствие повелѣния вашего высоко-</l>
+      <fw type="docNum" place="left">№ 1403</fw>
+      <date when="1800-10-10"><l>10 октября 1800 къ дѣлу</l></date>
+      <fw type="pageNum" place="right">263</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">267</del></fw>
+     <p>
+     <l>Его высокопревосходителству</l>
+      <l>господину генералъ отъ инфантерии</l>
+      <l>генералъ прокурору, управляющему про</l>
+      <l>вианскимъ департаментом и разныхъ</l>
+      <l>орденовъ кавалѣру <persName ref="Обольяниновъ">Обольянинову</persName></l>
+      </p>
+      <head><l>Комисионера 8 класа <persName ref="Хрущов">Хрущова</persName><lb/>
+      Рапортъ</l></head>
+      <p>
+      <l>Всходствие повелѣния вашего высоко-</l>
       <l>превосходительства сего числа  прибывъ</l>
       <l>въ <placeName ref="Петербург">Санктъ Петербургъ</placeName>  имѣю честь яви-</l>
       <l>тся и донести, что какъ уже я докла-</l>
-      <l>дывалъ про секту хосодовъ что сторо-</l>
+      <l>дывалъ про секту <orgName ref="Хасиды">хосодовъ</orgName> что сторо-</l>
       <l>ны возмущения покоя обществе-</l>
-      <l>ннаго и волнодумства и неповинове-</l>
-      <l>ния къ начальству, онаго ничего нетъ</l>
+      <l>ннаго и волнодумства! и неповинове-</l>
+      <l>ния къ началству, онаго ничего нетъ</l>
       <l>а всио находится въ тишине и въ</l>
       <l>совершенномъ покое. Какъ я ихъ въ</l>
-      <l>семъ и оставил. О чем имѣю счастие</l>
+      <l>семъ и оставил! О чем имѣю счастие</l>
       <l>представить. Комисионер 8 класа</l>
-      <l><persName ref="Хрущов">Хрущовъ</persName></l>
-      <l>10 октября</l>
-      <l>1800 года</l>
+      <l><signed><persName ref="Хрущов">Хрущовъ</persName></signed></l>
+      </p>
+      <closer place="left">
+      <l><date when="1800-10-10">10 октября<lb/>
+      1800 года</date></l>
       <l><placeName ref="Петербург">С. Петербургъ</placeName></l>
+      </closer>
     </body>
   </text>
 </TEI>
