@@ -10,13 +10,13 @@
 					<persName ref="Обольяниновъ">Обольяниновъ</persName>
 				</author>
 				<editor role="transcriber">
+					<persName ref="VK">Василий Когаловский</persName>
+				</editor>
+				<editor role="transcriber">
 					<persName ref="IL">Илья Лурье</persName>
 				</editor>
 				<editor role="encoder">
 					<persName ref="ALD">Арье-Лейб Дубинский</persName>
-				</editor>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
 				</editor>
 			</titleStmt>
 			<publicationStmt>
@@ -28,8 +28,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -51,14 +51,14 @@
 		<creation>
 			<date when="1800-10-12">12 октября 1800</date>
 		</creation>
-		<abstract>Сообщение 
+		<abstract>Сообщение
 			<persName ref="Обольяниновъ">Обольянинова</persName>
-			<persName ref="Павел_I">Павлу I</persName> об особенностях хасидских общин и отсутствии угрозы для государства с их стороны
+			<persName ref="Павел_I">Павлу I</persName> об особенностях <orgName ref="Хасиды">хасидских общин</orgName> и
+			отсутствии угрозы для государства с их стороны
 		</abstract>
 		<correspDesc>
 			<correspAction>
-				<persName ref="Павел_I" role="addressee"></persName>Павлу I 
-                
+				<persName ref="Павел_I" role="addressee">Павлу I</persName>
 			</correspAction>
 		</correspDesc>
 	</teiHeader>
@@ -78,91 +78,55 @@
 					<l>высочайше</l>
 					<l>повелено</l>
 					<l>военому губерна-</l>
-					<l>тору 
-						<placeName ref="Литва">литовскому</placeName>
-					</l>
+					<l>тору <placeName ref="Литва">литовскому</placeName></l>
 					<l>естли въ вереной</l>
 					<l>губернiи ево кагалъ</l>
-					<l>отъ оберъ рабина 
-						<persName ref="Авигдор">Хай-
-							<lb/>
-      ма
-						</persName> взялъ денги
-					</l>
+					<l>отъ оберъ рабина <persName ref="Авигдор">Хай-<lb/>
+							ма</persName> взялъ денги</l>
 					<l>и  лиша места</l>
 					<l>чрезъ что понесъ</l>
 					<l>убытки удовлетвор-</l>
 					<l>рить просителя</l>
-					<l>равно и 
-						<unclear>...</unclear> граждан-
-					</l>
+					<l>равно и <unclear>...</unclear> граждан-</l>
 					<l>скому губернатору</l>
-					<l>
-						<placeName ref="Минская_губерния">минскому</placeName> и вое-
-					</l>
+					<l><placeName ref="Минская_губерния">минскому</placeName> и вое-</l>
 					<l>ному губернатору </l>
-					<l>
-						<persName ref="Розенберг">Розенбергу</persName>
-					</l>
+					<l><persName ref="Розенберг">Розенбергу</persName></l>
 					<l>ответить</l>
 					<l>Октября 12-го</l>
 					<l>1800 года</l>
 					<l>Гатчина</l>
 				</fw>
 			</p>
-			<l>Бывший в 
-				<placeName ref="Пинск">Пинскѣ</placeName> Оберъ рабинъ
-			</l>
-			<l>
-				<persName ref="Авигдор">Хаимъ</persName> приносил вашему 
-				<emph rend="big">ИМПЕРА-
-					<lb/>
-      ТОРСКОМУ ВЕЛИЧЕСТВУ
-				</emph> жалобу
+			<l>Бывший в <placeName ref="Пинск">Пинскѣ</placeName> Оберъ рабинъ</l>
+			<l><persName ref="Авигдор">Хаимъ</persName> приносил вашему <emph rend="big">ИМПЕРА-<lb/>
+					ТОРСКОМУ ВЕЛИЧЕСТВУ</emph> жалобу
 			</l>
 			<l>на разныя притѣсненiя и гоненiя</l>
 			<l>претерпѣваемыя имъ отъ какойто</l>
-			<l>новой секты Шабзусъ Цвинкусъ.</l>
+			<l>новой <orgName ref="Хасиды">секты</orgName> Шабзусъ Цвинкусъ.</l>
 			<l>По поводу сего отправленъ былъ</l>
 			<l>от генералъ прокурора Штата</l>
-			<l>провiантскаго коммисiонеръ .8.
-				<hi rend="superscript">го</hi>
-			</l>
-			<l>класса 
-				<persName ref="Хрущов">Хрущовъ</persName> въ 
-				<placeName ref="Белоруссия">Бѣлорусiю</placeName> для
-			</l>
+			<l>провiантскаго коммисiонеръ .8.<hi rend="superscript">го</hi></l>
+			<l>класса <persName ref="Хрущов">Хрущовъ</persName> въ <placeName ref="Белоруссия">Бѣлорусiю</placeName> для</l>
 			<l>узнанiя секретнымъ образомъ о</l>
-			<l>существѣ сей секты, которой</l>
+			<l>существѣ сей <orgName ref="Хасиды">секты</orgName>, которой</l>
 			<l>и донесъ, что оная под названiем</l>
 			<l><orgName ref="Хасиды">каролины или хосоды</orgName> состоитъ</l>
-			<l>въ 
-				<placeName ref="Белоруссия">бѣлоруской</placeName> и 
-				<placeName ref="Литва">Литовской</placeName> губер-
-			</l>
+			<l>въ <placeName ref="Белоруссия">бѣлоруской</placeName> и <placeName ref="Литва">Литовской</placeName> губер-</l>
 			<l>нiяхъ из евреевъ подъ начальст-</l>
-			<l>вомъ рабина 
-				<persName ref="alter-rebbe">Боруховича</persName>. Таин-
-			</l>
+			<l>вомъ рабина <persName ref="alter-rebbe">Боруховича</persName>. Таин-</l>
 			<l>ство оной есть при отправленiи</l>
 			<l>богослуженія кричать во всю силу</l>
 			<l>и лѣзть на стѣну. По справкѣ</l>
 			<l>здѣлами тайной експедицiи ока-</l>
-			<l>залось, что о сей самой сектѣ про-</l>
-			<l>изведено было въ 
-				<placeName ref="Литва">литовской</placeName> и 
-				<placeName ref="Белоруссия">бѣло-
-					<lb/>
-        руской
-				</placeName> губернiяхъ в 1798
-				<hi rend="superscript">м</hi> году слѣд-
-			</l>
-			<l>ствiе и начальникъ ея 
-				<persName ref="alter-rebbe">боруховичъ</persName>
-			</l>
+			<l>залось, что о сей самой <orgName ref="Хасиды">сектѣ</orgName> про-</l>
+			<l>изведено было въ <placeName ref="Литва">литовской</placeName> и <placeName ref="Белоруссия">бѣло-<lb/>
+					руской</placeName> губернiяхъ в 1798<hi rend="superscript">м</hi> году слѣд-</l>
+			<l>ствiе и начальникъ ея <persName ref="alter-rebbe">боруховичъ</persName></l>
 			<l>привезенъ былъ сюда. По допро-</l>
 			<l>самъ его и по слѣдствiю найдено,</l>
-			<l>что секта сiя нечто иное есть</l>
+			<l>что <orgName ref="Хасиды">секта</orgName> сiя нечто иное есть</l>
 			<l>какъ старинный обрядъ Шадимского</l>
 			<pb xml:id="p257-2" n="257-2"/>
 			<pb xml:id="p258-1" n="258-1" facs="../facsimiles/258-1.jpg"/>
@@ -170,12 +134,10 @@
 			<fw type="pageNum" place="right">
 				<del rend="overstrike">265</del>
 			</fw>
-			<l>ченное до существа той секты ка-</l>
+			<l>ченное до существа той <orgName ref="Хасиды">секты</orgName> ка-</l>
 			<l>сающееся, присовокупляя, что пре-</l>
-			<l>тензiи 
-				<persName ref="Авигдор">Хаима</persName> суть слѣдующiе:
-			</l>
-			<l>1-е. что бы секту Шабзусъ Цвинкусъ</l>
+			<l>тензiи <persName ref="Авигдор">Хаима</persName> суть слѣдующiе:</l>
+			<l>1-е. что бы <orgName ref="Хасиды">секту</orgName> Шабзусъ Цвинкусъ</l>
 			<l>истребить по тому, что она и-</l>
 			<l>мѣетъ правила в молитвахъ</l>
 			<l>и образѣ жизни несходныя с древ-</l>
@@ -186,30 +148,21 @@
 			<l>страхомъ и трепетомъ. Злоба</l>
 			<l>прочихъ евреевъ къ <orgName ref="Хасиды">каролинамъ</orgName> про-</l>
 			<l>исходитъ и отъ того, что нѣкто</l>
-			<l>святоша 
-				<persName ref="Эліас">Елiашъ</persName> умирая в 1797
-				<hi rend="superscript">м</hi>
-			</l>
+			<l>святоша <persName ref="Эліас">Елiашъ</persName> умирая в 1797<hi rend="superscript">м</hi></l>
 			<l>году здѣлалъ завѣщанiе, что бы</l>
-			<l>всѣхъ королинской секты истребит</l>
+			<l>всѣхъ <orgName ref="Хасиды">королинской секты</orgName> истребит</l>
 			<l>и всѣ евреи клялись надъ его гробомъ</l>
 			<l>сiе исполнить. Сверхъ сего</l>
 			<l>въ прежнее польское правленiе были</l>
-			<l>от сего 
-				<persName ref="Авигдор">оберъ рабина</persName> дѣланы мно-
-			</l>
-			<l>гiе доносы, и книги китаевцовъ</l>
-			<l>или <orgName ref="Хасиды">каролиновъ</orgName> тамъ сжигае-</l>
-			<l>мы; в прочемъ евреи сей секты</l>
+			<l>от сего <persName ref="Авигдор">оберъ рабина</persName> дѣланы мно-</l>
+			<l>гiе доносы, и книги <orgName ref="Хасиды">китаевцовъ<lb/>
+			или каролиновъ</orgName> тамъ сжигае-</l>
+			<l>мы; в прочемъ евреи сей <orgName ref="Хасиды">секты</orgName></l>
 			<l>равно древней существующей въ</l>
-			<l>городахъ 
-				<placeName ref="Минская_губерния">минской губернiи</placeName>, ведутъ
-			</l>
+			<l>городахъ <placeName ref="Минская_губерния">минской губернiи</placeName>, ведутъ</l>
 			<l>себя спокойно, и всѣ Государст-</l>
 			<l>венныя подати платятъ равно</l>
-			<l>съ другими. 2.
-				<hi rend="superscript">е</hi> что по отрѣшенiи
-			</l>
+			<l>съ другими. 2.<hi rend="superscript">е</hi> что по отрѣшенiи</l>
 			<pb xml:id="p258-2" n="258-2"/>
 		</body>
 	</text>
