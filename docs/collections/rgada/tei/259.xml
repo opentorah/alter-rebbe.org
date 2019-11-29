@@ -8,8 +8,8 @@
         <author>
           <persName ref="Хрущов">Хрущов</persName>
         </author>
-              <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-              <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -38,16 +38,17 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
-       <creation>
+      <creation>
         <date when="1800-10-02">2 октября 1800</date>
-       </creation>
-       <correspDesc>
-    <correspAction>
-      <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
-    </correspAction>
-  </correspDesc>
+      </creation>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
       <abstract>
-        <p>Сообщение <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольяниновъ" role="addressee">Обольянинову</persName> об отсутствии антиправителльственной деятельности у <orgName ref="Хасиды">хасидов</orgName></p>
+        <p>Сообщение <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольяниновъ" role="addressee">
+          Обольянинову</persName> об отсутствии антиправителльственной деятельности у <orgName ref="Хасиды">хасидов</orgName></p>
       </abstract>
     </profileDesc>
   </teiHeader>
@@ -55,30 +56,31 @@
     <body>
       <pb xml:id="p259-1" n="259-1" facs="../facsimiles/259-1.jpg"/>
       <fw type="docNum" place="left">№ 1374.</fw>
-       <fw type="pageNum" place="right">259</fw>
-       <fw type="pageNum" place="right"><del rend="overstrike">264</del></fw>
-       <l><date when="1800-10-02">2 октября 1800</date> къ дѣлу</l>
+      <fw type="pageNum" place="right">259</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">264</del></fw>
+      <l><date when="1800-10-02">2 октября 1800</date> къ дѣлу</l>
       <salute><l>Ваше высокопревосходительство.<lb/>
-   Милостивой государь</l></salute>
-   <p>
-   <l><date when="1800-09-20">20 числа</date> приехалъ я изъ Полоцка въ</l>
-      <l><placeName ref="Витепск">Витебскъ</placeName> проезжая совсемъ другою </l>
-   <l>дорогою, и неусыпно старался разъ-</l>
-   <l>ведать о здѣланномъ мне препоручѣнии</l>
-   <l>Но открыть нечѣто больше не могъ</l>
-   <l>про секту <orgName ref="Хасиды">хосодовъ</orgName>. о чѣмъ имѣлъ честь</l>
-   <l>донѣсть вашему высокопревосходите-</l>
-   <l>льству. Испытывая разными способа-</l>
-   <l>ми не кроится ли какое нибудь зло-</l>
-   <l>вредное положение противъ государя</l>
-   <l>или же нарушение покоя обществе-</l>
-   <l>ннаго, но словомъ ничѣго нетъ и въ</l>
-   <l>мыслях. разъведывая подъ рукой</l>
-   <l>отъ земскихъ полицыевъ нетъ ли</l>
-   <l>какихъ ослушностѣй въ повинове-</l></p>
-   <l>нии все говорятъ и утверждаютъ</l>
-   <l>что они еще скорее исполняютъ</l>
-   <l>свою обязанность чемъ другие</l>
+        Милостивой государь</l></salute>
+      <p>
+        <l><date when="1800-09-20">20 числа</date> приехалъ я изъ Полоцка въ</l>
+        <l><placeName ref="Витепск">Витебскъ</placeName> проезжая совсемъ другою </l>
+        <l>дорогою, и неусыпно старался разъ-</l>
+        <l>ведать о здѣланномъ мне препоручѣнии</l>
+        <l>Но открыть нечѣто больше не могъ</l>
+        <l>про секту <orgName ref="Хасиды">хосодовъ</orgName>. о чѣмъ имѣлъ честь</l>
+        <l>донѣсть вашему высокопревосходите-</l>
+        <l>льству. Испытывая разными способа-</l>
+        <l>ми не кроится ли какое нибудь зло-</l>
+        <l>вредное положение противъ государя</l>
+        <l>или же нарушение покоя обществе-</l>
+        <l>ннаго, но словомъ ничѣго нетъ и въ</l>
+        <l>мыслях. разъведывая подъ рукой</l>
+        <l>отъ земскихъ полицыевъ нетъ ли</l>
+        <l>какихъ ослушностѣй въ повинове-</l>
+      </p>
+      <l>нии все говорятъ и утверждаютъ</l>
+      <l>что они еще скорее исполняютъ</l>
+      <l>свою обязанность чемъ другие</l>
       <pb xml:id="p259-2" n="259-2"/>
     </body>
   </text>
