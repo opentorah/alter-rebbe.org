@@ -4425,13 +4425,18 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Поручение об аресте</p>
+            <p>
+              Ордер на арест
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+            </p>
           </cell>
           <cell rendition="date">1800-10-30</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Петров">Петрову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/267.html" role="documentViewer">267</ref>
@@ -4440,7 +4445,7 @@
             <ref target="documents/267.html#p267-1" role="documentViewer" rendition="page">267</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
