@@ -1,69 +1,200 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">?</title>
-        <author>
-          <persName>?</persName>
-        </author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <date>?</date>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">?</title>
+				<author>
+					<persName>?</persName>
+				</author>
+				<editor role="transcriber">
+					<persName ref="IL">Илья Лурье</persName>
+				</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<ptr target="www.alter-rebbe.org"/>
+				</publisher>
+				<date>?</date>
+				<availability status="free">
+					<licence>
+						<ab>
+							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-    </profileDesc>
-  </teiHeader>
-  <text>
-      <body>
-          <pb xml:id="p269-1" n="269-1" facs="../facsimiles/269-1.jpg"/>
-          <fw type="pageNum" place="right"><del rend="overstrike">273</del></fw>
-          <fw type="pageNum" place="right">269</fw>
-          <pb xml:id="p269-2" n="269-2"/>
-          <pb xml:id="p270-1" n="270-1" facs="../facsimiles/270-1.jpg"/>
-          <pb xml:id="p270-2" n="270-2"/>
-          <pb xml:id="p271-1" n="271-1" facs="../facsimiles/271-1.jpg"/>
-          <l>P.S. на оборотѢ послѢ приписано</l>
-          <l>По случаю состоявшагося сего числа</l>
-          <l>всемилостивѢйшаго указа о позволенiи</l>
-          <l>изключеннымъ и отставнымъ</l>
-          <l>изъ службы воинской и штатской  вступать паки</l>
-          <l>въ службу за нужно почитаю предосте-</l>
-          <l>речь ваше превосходитѢльство,</l>
-          <l>чтоб сïе всемилостивѢйшее</l>
-          <l>дозволенïе не относится до тѢхъ,</l>
-          <l>кои находятся въ деревняхъ и городахъ</l>
-          <l>на житьѢ по особымъ высочайшимъ повелѢ-</l>
-          <l>нiямъ, и по стольку ни представленiя</l>
-          <l>о таковыхъ, ни отпуска имъ не дѢлать.</l>
-          <l></l>
-          <pb xml:id="p271-2" n="271-2"/>
-      </body>
-  </text>
+						</ab>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Facsimile</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="ru"/>
+			</langUsage>
+			<calendarDesc>
+				<calendar xml:id="julian">
+					<p>Julian calendar</p>
+				</calendar>
+			</calendarDesc>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id="p269-1" n="269-1" facs="../facsimiles/269-1.jpg"/>
+			<fw type="pageNum" place="right">
+				<del rend="overstrike">273</del>
+			</fw>
+			<fw type="pageNum" place="right">269</fw>
+			<salute>
+				<l>Милостивый государь мой!</l>
+			</salute>
+			<p>
+				<l>По высочайшему его император-</l>
+				<l>скаго величества повелѣнію сообщаю</l>
+				<l>къ Вашему Превосходительству, дабы вы</l>
+				<l>во вверенной вамъ губерніи имѣли са-</l>
+				<l>мымъ тайнымъ образомъ неослабное</l>
+				<l>за повѣденіемъ и поступками Старо</l>
+				<l>обрядцевъ*
+					<fw type="note" place="left margin">*
+						<orgName ref="Хасиды">Каролинской Секты Евреевъ</orgName>
+					</fw> наблюденіе, и въ случаѣ
+				</l>
+				<l>малѣйше замѣченнаго какого-либо</l>
+				<l>поводу къ соблазну или неповиновенію</l>
+				<l>власти меня неукоснительно о томъ</l>
+				<l>увѣдомлять для донесенія 
+					<emph rend="big">его вели
+						<lb/>
+честву
+					</emph>. Сообщая о семъ высочайшемъ
+				</l>
+				<l>соизволеніи для собственнаго особеннаго</l>
+				<l>вашего свѣденія и надлежащаго ис-</l>
+				<l>полненія, пребываю.</l>
+			</p>
+			<closer place="left">
+				<l>
+					<fw type="docNum">№ 826
+						<hi rend="underline">й</hi>
+					</fw>
+				</l>
+				<l>
+					<date when="1800-11-01">Ноября 1 дня
+						<lb/>
+1800
+					</date>
+				</l>
+				<l>
+					<persName ref="Фризель">Фризелю</persName>
+					<lb/>
+					<placeName ref="Литва">Литовскому</placeName>.
+				</l>
+			</closer>
+			<p>
+				<l>Еще таковые же о 
+					<orgName ref="Хасиды">
+						<emph rend="underline">Каролинахъ</emph>
+					</orgName>. Граждан-
+					<lb/>
+скимъ Губернаторамъ
+				</l>
+				<l>
+					<placeName ref="Минская_губерния">Минскому</placeName>
+					<persName ref="Карнеевъ">Карнѣеву</persName> подъ № 827
+					<hi rend="superscript">м</hi>
+				</l>
+				<l>
+					<placeName ref="Волынская_губерния">Волынскому</placeName> Курису__________828
+				</l>
+				<l>Кіевскому Коробьину________824</l>
+				<l>
+					<placeName ref="Подольская_губерния">Подольскому</placeName> Тензену________830
+				</l>
+				<l>Новороссійскому Nиколеву___831 P.S.</l>
+				<l>Малороссійскому Френздорфу__832</l>
+				<pb xml:id="p269-2" n="269-2"/>
+				<pb xml:id="p270-1" n="270-1" facs="../facsimiles/270-1.jpg"/>
+				<fw type="pageNum" place="right">270</fw>
+				<fw type="pageNum" place="right">
+					<del rend="overstrike">274</del>
+				</fw>
+				<fw type="pageNum" place="right">
+					<del rend="overstrike">275</del>
+				</fw>
+				<l>
+					<del rend="overstrike">Малороссійскому Френздорфу</del>
+				</l>
+				<l>Новгородскому Обольянинову
+					<note place="end">вероятно, родственник 
+						<persName ref="Обольяниновъ">генерал-прокурора</persName>
+					</note>. подъ № 849
+					<hi rend="superscript">м</hi>
+				</l>
+				<l>Нижегородскому Кудрявцеву_________________850</l>
+				<l>ОренбургскомуГлазенапу____________________851</l>
+				<l>Орловскому Вульфу_________________________852</l>
+				<l>Псковскому Беклешову______________________853
+					<note place="end">однофамилец или родственник отправленного в 1800 г. в отставку 
+						<persName ref="Беклешовъ">генерал-прокурора</persName>
+					</note>
+				</l>
+				<l>Пермскому Модераху________________________854</l>
+				<l>Рязанскому Сонину_________________________855</l>
+				<l>С.п. бургскому Хотяинцову_________________856</l>
+				<l>Смоленскому Федорову______________________857</l>
+				<l>Слободскому-Украинскому Невѣрову__________858</l>
+				<l>Симбирскому Сушкову_______________________859</l>
+				<l>Саратовскому Ланскому_____________________860</l>
+				<l>Тверскому Мертенсу________________________861</l>
+				<l>Тульскому Томилову________________________862</l>
+				<l>Тамбовскому Бахметеву_____________________863</l>
+				<l>Тамбовскому Кошелеву______________________864</l>
+				<l>Ярославскому Аксакову_____________________865
+					<hi rend="superscript">м</hi>
+				</l>
+			</p>
+			<pb xml:id="p270-2" n="270-2"/>
+			<pb xml:id="p271-1" n="271-1" facs="../facsimiles/271-1.jpg"/>
+			<fw type="pageNum" place="right">271</fw>
+			<fw type="pageNum" place="right">
+				<del rend="overstrike">275</del>
+			</fw>
+			<fw type="pageNum" place="right">
+				<del rend="overstrike">274</del>
+			</fw>
+			<p>
+				<l>P.S. на оборотѢ послѢ приписано:</l>
+				<del rend="overstrike">
+					<l>При семъ случае имею честь увѣдо-
+						<lb/>
+          мить в предостеречь ваше превосхо-
+						<lb/>
+          дительство
+					</l>
+				</del>
+				<l>По случаю состоявшагося сего числа</l>
+				<l>всемилостивѢйшаго указа о позволенiи</l>
+				<l>изключеннымъ и отставнымъ 
+					<del rend="overstrike">вступать</del>
+				</l>
+				<l>изъ службы воинской и штатской  вступать паки</l>
+				<l>въ службу за нужно почитаю предосте-</l>
+				<l>речь ваше превосходитѢльство,</l>
+				<l>чтоб сïе всемилостивѢйшее</l>
+				<l>дозволенïе не относится до тѢхъ,</l>
+				<l>кои находятся въ деревняхъ и городахъ</l>
+				<l>на житьѢ по особымъ высочайшимъ повелѢ-</l>
+				<l>нiямъ, и по оному ни представленiя</l>
+				<l>о таковыхъ, ни отпуска имъ не</l>
+				<l>дѢлать.</l>
+			</p>
+			<pb xml:id="p271-2" n="271-2"/>
+		</body>
+	</text>
 </TEI>
