@@ -6,9 +6,10 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName ref="Михель_Файбишович">Михель Файбишович</persName>
+          <persName ref="Файбишевич">Юда Файбишович</persName>
                  </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -42,31 +43,32 @@
         <date when="1800-11-14">ноября 14 дня 1800 года</date>
       </creation>
       <abstract>
-          <p>Показания <persName ref="Михель_Файбишович">Файбишовича</persName></p>
+          <p>Показания <persName ref="Файбишевич">Файбишовича</persName></p>
       </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <pb xml:id="p278-1" n="278-1" facs="../facsimiles/278-1.jpg"/>
-    </body>
-     <l>докладовано ноября 14 дня 1800 года СПбургъ</l>
-      <l>Я <persName ref="Михель_Файбишович"><unclear>...</unclear> Файбишовичь</persName> бѢлорусской губернiи</l>
+         <pb xml:id="p278-1" n="278-1" facs="../facsimiles/278-1.jpg"/>
+         <fw type="pageNum" place="right">278</fw>
+         <fw type="pageNum" place="right"><del rend="overstrike">282</del></fw>
+     <fw type="note"><l>докладовано <date when="1800-11-14">ноября 14 дня 1800 года</date> <placeName ref="Петербург">С:П:бургъ</placeName></l></fw>
+      <l>Я <persName ref="Файбишевич">Юда Файбишовичь</persName> <placeName ref="Белоруссия">бѢлоруской губернiи</placeName></l>
  <l>города Копыси мѢщанинъ приехалъ въ</l>
     <l><placeName ref="Петербург">Санктъ Петербургъ</placeName> сего 15 ноября. Для</l>
  <l>продажи кожи и юфту находящегося здесь,</l>
  <l>витебскаго купца Давида Шлiомовича, которыя</l>
- <l> посланы были около двухъ месяцовъ, адресован-</l>
+ <l> посланы были около двухъ мѣсяцовъ, адресован-</l>
  <l>ны были на мое имя, но между тѢмъ</l>
-    <l>отъехалъ в <placeName ref="Витепск">Витебскъ</placeName></l>
-    <l> тѢ товары </l>	
+    <l>отъехалъ в <placeName ref="Витепск">Витебскъ</placeName>; тѢ товары</l>	
     <l>еще непроданы и лежатъ въ домѢ док-</l>
  <l>тора Шуберта, въ то время булъ я здесь</l>
  <l>съ отцомъ моимъ у госпожи Аграфены</l>
  <l>Александровны Рыбоперовой, от которой </l>
  <l>мой отецъ аренду содерживаетъ i для ра-</l>
- <l>щоту</l>   
-    <l> Копыской мещанинъ <unclear>...</unclear> Файби-</l>
-    <l>шович</l>
+ <l>щоту;</l>   
+    <l> Копыской мѣщанинъ <persName ref="Файбишевич">Юда Файби<lb/>
+    шович</persName></l>
+   </body>
    </text>
-</TEI>
+ </TEI>
