@@ -4504,13 +4504,17 @@
         <row>
           <cell rendition="description">
             <p>
-              Письмо
-              <persName ref="Кутузов">Кутузову</persName>
+              Предписание
+              <persName ref="Обольяниновъ">Обольянинова</persName>
+              <persName ref="Кутузов">
+                Кутузову о наблюдении за старообрядцами и
+                <orgName ref="Хасиды">хасидами</orgName>
+              </persName>
             </p>
           </cell>
           <cell rendition="date">1800-11-02</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Кутузов">Кутузову</persName>
