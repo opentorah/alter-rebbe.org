@@ -5,9 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">?</title>
-        <author>
-          <persName ref="Обольяниновъ">Обольянинов</persName>
-        </author>
+        <author><persName ref="Обольяниновъ">Обольянинов</persName></author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
       </titleStmt>
@@ -41,34 +39,37 @@
       </calendarDesc>
     </profileDesc>
   </teiHeader>
-    <text>
-        <body>
-            <pb xml:id="p266-1" n="266-1" facs="../facsimiles/266-1.jpg"/>
-            <l>
-                <fw type="pageNum" place="right">266</fw>
-                <fw type="pageNum" place="right"><del rend="overstrike">270</del></fw>
-               <fw type="note">секретно</fw>
-                <fw type="pageNum" place="right"><del rend="overstrike">815</del></fw>
-            </l>
-           <salute> <l>Милостиый Государь мой Петръ Ивановичъ!</l></salute><note place="end">Письмо, вероятно, аддресовано П.И. Аверину - секретарю Обольянинова, что предполагает датировку между февралем 1800 и мартом 1801 г.</note>
-           <p>
-            <l>Имѣя высочайшее повеленiе, чтобъ</l>
-            <l>начальника <orgName ref="Хасиды">Королинской Секты или хо-<lb/>
-            сидовъ</orgName> еврея <persName ref="alter-rebbe">Боруховича</persName> взять сюда,</l>
-            <l>прошу ваше превосходительство при-</l>
-            <l>казать онаго <persName ref="alter-rebbe">Боруховича</persName> въ мѣстечкѣ</l>
-            <l><placeName ref="Лозна">Хозагъ</placeName><note place="end">вероятно, название было записано со слуха и не понято</note>, немедленно отыскать и</l>
-            <l>отдать вручителямъ сего сенат-</l>
-          <l>скимъ курiерамъ <persName ref="Петров">Петрову</persName> и <persName ref="Сукин">Сукину</persName></l>
-            <l>для доставленiя ко мнѣ. между тѣмъ</l>
-          <l><fw type="note">о наблюденiи за <orgName ref="Хасиды">каролинской сектой</orgName> и российскими католиками</fw><note place="end">пояснительное замечание, вписанное мелким почерком между строк</note></l>
-            <l><del rend="overstrike"><unclear>??? ???</unclear></del>дабы не было соблазну</l>
-            <l>или неповиновенiя власти имѣть наблюде-</l>
-            <l>нiе и естьлибы что посему открываться</l>
-            <l>стало увѣдомить меня неукоснительно</l>
-            <l><emph rend="underline">и дать знать прочимъ гражданским</emph></l>
-            </p>
-            <pb xml:id="p266-2" n="266-2"/>
-        </body>
-    </text>
+  <text>
+    <body>
+      <pb xml:id="p266-1" n="266-1" facs="../facsimiles/266-1.jpg"/>
+      <l>
+        <fw type="pageNum" place="right">266</fw>
+        <fw type="pageNum" place="right"><del rend="overstrike">270</del></fw>
+        <fw type="note">секретно</fw>
+        <fw type="pageNum" place="right"><del rend="overstrike">815</del></fw>
+      </l>
+      <salute> <l>Милостиый Государь мой Петръ Ивановичъ!</l></salute><note place="end">Письмо, вероятно,
+      аддресовано П.И. Аверину - секретарю Обольянинова, что предполагает датировку между февралем 1800 и мартом 1801 г.</note>
+      <p>
+        <l>Имѣя высочайшее повеленiе, чтобъ</l>
+        <l>начальника <orgName ref="Хасиды">Королинской Секты или хо-<lb/>
+          сидовъ</orgName> еврея <persName ref="alter-rebbe">Боруховича</persName> взять сюда,</l>
+        <l>прошу ваше превосходительство при-</l>
+        <l>казать онаго <persName ref="alter-rebbe">Боруховича</persName> въ мѣстечкѣ</l>
+        <l><placeName ref="Лозна">Хозагъ</placeName><note place="end">вероятно, название было записано со слуха и не
+          понято</note>, немедленно отыскать и</l>
+        <l>отдать вручителямъ сего <orgName ref="Сенатъ">сенат-<lb/>
+          скимъ</orgName> курiерамъ <persName ref="Петров">Петрову</persName> и <persName ref="Сукин">Сукину</persName></l>
+        <l>для доставленiя ко мнѣ. между тѣмъ</l>
+        <l><fw type="note">о наблюденiи за <orgName ref="Хасиды">каролинской сектой</orgName> и российскими
+          католиками</fw><note place="end">пояснительное замечание, вписанное мелким почерком между строк</note></l>
+        <l><del rend="overstrike"><unclear>??? ???</unclear></del>дабы не было соблазну</l>
+        <l>или неповиновенiя власти имѣть наблюде-</l>
+        <l>нiе и естьлибы что посему открываться</l>
+        <l>стало увѣдомить меня неукоснительно</l>
+        <l><emph rend="underline">и дать знать прочимъ гражданским</emph></l>
+      </p>
+      <pb xml:id="p266-2" n="266-2"/>
+    </body>
+  </text>
 </TEI>
