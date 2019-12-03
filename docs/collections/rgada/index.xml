@@ -4450,13 +4450,22 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Письмо императору</p>
+            <p>
+              Письмо
+              <persName ref="Обольяниновъ">Обольянинова</persName>
+              <persName ref="Павел_I">Павлу I</persName>
+              о действиях в отношении
+              <orgName ref="Хасиды">хасидов</orgName>
+              и старообрядцев
+            </p>
           </cell>
           <cell rendition="date">1800-10-30</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Павел_I">Павлу I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/268.html" role="documentViewer">268</ref>
@@ -4466,7 +4475,7 @@
             <ref target="documents/268.html#p268-2" role="documentViewer" rendition="missing-page">268об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
