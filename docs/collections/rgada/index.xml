@@ -4605,15 +4605,22 @@
         <row>
           <cell rendition="description">
             <p>
-              Донесение об отправке
-              <persName ref="alter-rebbe">Боруховича</persName>
+              Донесение
+              <persName ref="Северинъ">Северина</persName>
+              <persName ref="Обольяниновъ">Обольянинову</persName>
+              об отправке
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              в
+              <placeName ref="Петербург">Петербург</placeName>
             </p>
           </cell>
           <cell rendition="date">1800-11-09</cell>
           <cell rendition="author">
             <persName ref="Северинъ">Северин</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/276.html" role="documentViewer">276</ref>
