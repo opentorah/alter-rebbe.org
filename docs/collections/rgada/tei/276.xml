@@ -4,10 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">?</title>
-                <author>
-                    <persName  ref="Северинъ">Северин</persName>
-                </author>
+                <author><persName  ref="Северинъ">Северин</persName></author>
+                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
                 <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -42,48 +40,51 @@
                 <date when="1800-11-09">1800 года Ноября 9 дня</date>
             </creation>
             <correspDesc>
-    <correspAction>
-      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-    </correspAction>
-  </correspDesc>
+                <correspAction>
+                    <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+                </correspAction>
+            </correspDesc>
             <abstract>
-                <p>Донесение <persName  ref="Северинъ">Северина</persName> <persName ref="Обольяниновъ">Обольянинову</persName> об отправке <persName ref="alter-rebbe">Шнеура Залмана</persName> в <placeName ref="Петербург">Петербург</placeName></p>
+                <p>Донесение <persName  ref="Северинъ">Северина</persName> <persName ref="Обольяниновъ">Обольянинову
+                </persName> об отправке <persName ref="alter-rebbe">Шнеура Залмана</persName> в <placeName
+                  ref="Петербург">Петербург</placeName></p>
             </abstract>
         </profileDesc>
     </teiHeader>
     <text>
         <body>
             <pb xml:id="p276-1" n="276-1" facs="../facsimiles/276-1.jpg"/>
-            <l><fw type="note" place="left">Получено <date when="1800-11-15">15. Ноября 1800</date></fw> <fw type="note" place="right">Секретно</fw></l>
+            <l><fw type="note" place="left">Получено <date when="1800-11-15">15. Ноября 1800</date></fw>
+                <fw type="note" place="right">Секретно</fw></l>
             <l><fw type="docNum"># 1610</fw></l>
             <fw type="pageNum" place="right">276</fw>
             <fw type="pageNum" place="right"><del rend="overstrike">290</del></fw>
-                        <salute><l>Ваше высокопревосходительство<lb/>
-                        Милостивый Государь!</l></salute>
-             <p>           
-            <l>Во исполненiе Секретнаго отношенiя вашего</l>
-            <l>высокопревосходительства ко мнѢ от <date when="1800-30-10">30-го<lb/>
-            прошедшаго октября</date>, требуемый по высочай-</l>
-            <l>шему повелѢнiю начальникъ <orgName ref="Хасиды">Каролинской<lb/>
-                Секты или хосодовъ</orgName>, жительствующiй въ</l>
-            <l>мѢстечкѢ <placeName ref="Лозна">ЛiознѢ</placeName> <persName ref="alter-rebbe">Еврей Залманъ Боруховичь</persName>,
-                при семъ съ нарочно присланными за</l>
-            <l>нимъ <orgName ref="Сенатъ">Сенатскими</orgName> курьерами <persName ref="Петров">Петровымъ</persName></l>
-            <l>и <persName ref="Сукин">Сукинымъ</persName> отправляется; причемъ почтен-</l>
-            <l>нѢйше доношу, что о протчемъ втомъ отно-</l>
-            <l>шенiи вашего высокопревосходительства изо-</l>
-            <l>браженномъ учинено будетъ точное и непре-</l>
-            <l>мѢнное исполненiе.</l>
-            <l>Съ истиннымъ высокопочитанiемъ и со-</l>
-            <l>вершенною преданностiю имѢю честь быть.</l>
-            <l>Милостивый Государь</l>
-            <l>вашего высокопревосходительства</l>
-            <l>всепокорнѣйший слуга</l>
-            <l><signed>Петръ <persName ref="Северинъ">Северинъ</persName></signed></l></p>
-                        <closer place="left">
-            <l><date when="1800-11-09">ноября 9 дня<lb/>
-            1800-го года</date></l>
-            <l><placeName ref="Витепск">Витебскъ</placeName></l>
+            <salute><l>Ваше высокопревосходительство<lb/>
+                Милостивый Государь!</l></salute>
+            <p>
+                <l>Во исполненiе Секретнаго отношенiя вашего</l>
+                <l>высокопревосходительства ко мнѢ от <date when="1800-30-10">30-го<lb/>
+                    прошедшаго октября</date>, требуемый по высочай-</l>
+                <l>шему повелѢнiю начальникъ <orgName ref="Хасиды">Каролинской<lb/>
+                    Секты или хосодовъ</orgName>, жительствующiй въ</l>
+                <l>мѢстечкѢ <placeName ref="Лозна">ЛiознѢ</placeName> <persName ref="alter-rebbe">Еврей Залманъ Боруховичь</persName>,
+                    при семъ съ нарочно присланными за</l>
+                <l>нимъ <orgName ref="Сенатъ">Сенатскими</orgName> курьерами <persName ref="Петров">Петровымъ</persName></l>
+                <l>и <persName ref="Сукин">Сукинымъ</persName> отправляется; причемъ почтен-</l>
+                <l>нѢйше доношу, что о протчемъ втомъ отно-</l>
+                <l>шенiи вашего высокопревосходительства изо-</l>
+                <l>браженномъ учинено будетъ точное и непре-</l>
+                <l>мѢнное исполненiе.</l>
+                <l>Съ истиннымъ высокопочитанiемъ и со-</l>
+                <l>вершенною преданностiю имѢю честь быть.</l>
+                <l>Милостивый Государь</l>
+                <l>вашего высокопревосходительства</l>
+                <l>всепокорнѣйший слуга</l>
+                <l><signed>Петръ <persName ref="Северинъ">Северинъ</persName></signed></l></p>
+            <closer place="left">
+                <l><date when="1800-11-09">ноября 9 дня<lb/>
+                    1800-го года</date></l>
+                <l><placeName ref="Витепск">Витебскъ</placeName></l>
             </closer>
         </body>
     </text>
