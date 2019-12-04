@@ -43,13 +43,13 @@
         <date when="1800-11-15">1800 года ноября 15 дня</date>
       </creation>
       <correspDesc>
-    <correspAction>
-      <persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName>
-    </correspAction>
-  </correspDesc>
-
+        <correspAction>
+          <persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName>
+        </correspAction>
+      </correspDesc>
       <abstract>
-        <p>Распоряжение <persName ref="Обольяниновъ">Обольянинова</persName> о доставке <persName ref="Авигдор">Авигдора</persName> для следственных действий</p>
+        <p>Распоряжение <persName ref="Обольяниновъ">Обольянинова</persName> о доставке <persName
+          ref="Авигдор">Авигдора</persName> для следственных действий</p>
       </abstract>
     </profileDesc>
   </teiHeader>
@@ -67,10 +67,10 @@
       <l><persName ref="Файбишевич">Фавичовича</persName>. Пребываю въ проч.</l>
       <l>съ истиннымъ почтенiемъ</l>
       <closer>
-      <l><fw type="docNum">№ 929.<hi rend="superscript">й</hi></fw></l>
-      <l><date when="1800-11-15">ноября 15 дня<lb/>
-      1800</date></l>
-      <l>Графу <persName ref="фонъ_Дер_Пален">Фонъ Деръ Палену</persName></l>
+        <l><fw type="docNum">№ 929.<hi rend="superscript">й</hi></fw></l>
+        <l><date when="1800-11-15">ноября 15 дня<lb/>
+          1800</date></l>
+        <l>Графу <persName ref="фонъ_Дер_Пален">Фонъ Деръ Палену</persName></l>
       </closer>
     </body>
   </text>
