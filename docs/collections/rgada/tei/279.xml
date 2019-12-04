@@ -6,9 +6,10 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="Обольяниновъ">Обольянинов</persName>
         </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -41,26 +42,36 @@
       <creation>
         <date when="1800-11-15">1800 года ноября 15 дня</date>
       </creation>
+      <correspDesc>
+    <correspAction>
+      <persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName>
+    </correspAction>
+  </correspDesc>
+
       <abstract>
-        <p>Вызов Хаима с переводчиком</p>
+        <p>Распоряжение <persName ref="Обольяниновъ">Обольянинова</persName> о доставке <persName ref="Авигдор">Авигдора</persName> для следственных действий</p>
       </abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p279-1" n="279-1" facs="../facsimiles/279-1.jpg"/>
-      <l>Г.мой г. Петръ Алексеевич</l>
+      <fw type="pageNum" place="right"><del rend="overstrike">289</del></fw>
+      <fw type="pageNum" place="right">279</fw>
+      <l>М. Г.мой г. Петръ Алексѣевич</l>
       <l>Покорно прошу приказать В. С. </l>
       <l>прислать ко мнѢ сего же дня</l>
-      <l>бывшего оберъ рабина <persName ref="Авигдор">Хайму</persName></l>
+      <l>бывшего оберъ рабина <persName ref="Авигдор">Хайма</persName></l>
       <l>съ переводчикомъ и живущаго </l>
       <l>у доктора Шуберта еврея</l>
-      <l>Фавишовича. Пребываю въ проч.</l>
+      <l><persName ref="Файбишевич">Фавичовича</persName>. Пребываю въ проч.</l>
       <l>съ истиннымъ почтенiемъ</l>
-      <l>№ 929-й</l>
-      <l>ноября 15 дня</l>
-      <l>1800</l>
+      <closer>
+      <l><fw type="docNum">№ 929.<hi rend="superscript">й</hi></fw></l>
+      <l><date when="1800-11-15">ноября 15 дня<lb/>
+      1800</date></l>
       <l>Графу <persName ref="фонъ_Дер_Пален">Фонъ Деръ Палену</persName></l>
+      </closer>
     </body>
   </text>
 </TEI>
