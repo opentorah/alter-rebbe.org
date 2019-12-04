@@ -4738,7 +4738,14 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
+          <cell rendition="description">
+            <p>
+              Показания
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              в
+              <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>
+            </p>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
@@ -4752,7 +4759,9 @@
             <ref target="documents/282.html#p282-1" role="documentViewer" rendition="page">282</ref>
             <ref target="documents/282.html#p282-2" role="documentViewer" rendition="page">282об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
