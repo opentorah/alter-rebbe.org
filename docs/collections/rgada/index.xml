@@ -4683,13 +4683,21 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Вызов Хаима с переводчиком</p>
+            <p>
+              Распоряжение
+              <persName ref="Обольяниновъ">Обольянинова</persName>
+              о доставке
+              <persName ref="Авигдор">Авигдора</persName>
+              для следственных действий
+            </p>
           </cell>
           <cell rendition="date">1800-11-15</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольяниновъ">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="фонъ_Дер_Пален">Палену</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/279.html" role="documentViewer">279</ref>
@@ -4698,7 +4706,7 @@
             <ref target="documents/279.html#p279-1" role="documentViewer" rendition="page">279</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
