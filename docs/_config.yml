@@ -34,11 +34,10 @@ exclude:
 
 header_pages:
   - collections.md
-# header_pages start
   - names.html
-# header_pages end
   - blog.md
 
+# TODO remove as a part of #778:
 # For facsimiles that are hosted externally; see facsimile.html:
 # <img id='p{{ image }}'
 #  src='{{ site.facsimile_prefix }}/{{ page.collectionDirectory }}/{{ image }}.jpg'

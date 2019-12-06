@@ -30,17 +30,17 @@ target: collectionViewer
   - <a href="/collections/lvia8/index.html" target="collectionViewer">=8</a>:
   "?"
 - [НИАБ]
+  - <a href="/collections/niab5/index.html" target="collectionViewer">5</a>:
+  "?"
   - <a href="/collections/niab19/index.html" target="collectionViewer">19</a>:
   "?"
   - <a href="/collections/niab24/index.html" target="collectionViewer">24</a>:
   "?"
-  - <a href="/collections/niab25207/index.html" target="collectionViewer">25207</a>:
-  "?"
   - <a href="/collections/niab271/index.html" target="collectionViewer">271</a>:
   "?"
-  - <a href="/collections/niab5/index.html" target="collectionViewer">5</a>:
-  "?"
   - <a href="/collections/niab611/index.html" target="collectionViewer">611</a>:
+  "?"
+  - <a href="/collections/niab25207/index.html" target="collectionViewer">25207</a>:
   "?"
 - [РГАДА]
   - <a href="/collections/rgada/index.html" target="collectionViewer">3140</a>:
@@ -48,12 +48,12 @@ target: collectionViewer
 - [РГИА]
   - <a href="/collections/rgia119/index.html" target="collectionViewer">119</a>:
   "Прошение Штерны Лейбовны"
-  - <a href="/collections/rgia2213/index.html" target="collectionViewer">2213</a>:
-  "Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус"
   - <a href="/collections/rgia328/index.html" target="collectionViewer">328</a>:
   "О виленских кагальных старшинах"
   - <a href="/collections/rgia413/index.html" target="collectionViewer">413</a>:
   "О каролинской секте "
+  - <a href="/collections/rgia2213/index.html" target="collectionViewer">2213</a>:
+  "Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус"
 - [РНБ]
   - <a href="/collections/rnb203/index.html" target="collectionViewer">203</a>:
   "?"
