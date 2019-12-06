@@ -4764,10 +4764,17 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Обвинения
+              <persName ref="Авигдор">Авигдора</persName>
+              против
+              <orgName ref="Хасиды">хасидов</orgName>
+            </p>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Авигдор">Авигдор Хаймович</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
