@@ -38,3 +38,17 @@ header_pages:
   - names.html
 # header_pages end
   - blog.md
+
+# See facsimile.html:
+# <img id='p{{ image }}'
+#  src='{{ site.facsimile_prefix }}/{{ page.collectionDirectory }}/{{ site.facsimile_suffix }}{{ image }}.jpg'
+#  alt='facsimile for page {{ image }}'/>
+# TODO once images are gone from the repository, remove the suffix support!
+
+# For facsimiles that are in the repository:
+#facsimile_prefix: "/collections"
+#facsimile_suffix: "facsimiles/"
+
+# For facsimiles that are hosted externally:
+facsimile_prefix: "http://facsimiles.alter-rebbe.org/facsimiles"
+facsimile_suffix: ""

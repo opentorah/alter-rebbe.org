@@ -12,6 +12,8 @@ layout: default
 
     CETEIcean.addBehaviors({"tei": {
             {%- comment -%}
+            // Thumbnails - that we decided not to do;
+            // as a result, value of the 'facs' attribute is no longer used...
             "pb": [["[facs][n]", [
                 "<a class='facsimileThumbnail' target='facsimileViewer' href='../facs/{{ page.self }}.html#p$@n'>" +
                 "  <figure>" +
