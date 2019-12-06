@@ -29,8 +29,6 @@ target: collectionViewer
   "?"
   - <a href="/collections/lvia8/index.html" target="collectionViewer">=8</a>:
   "?"
-  - <a href="/collections/lvia9/index.html" target="collectionViewer">=9</a>:
-  "?"
 - [НИАБ]
   - <a href="/collections/niab19/index.html" target="collectionViewer">19</a>:
   "?"

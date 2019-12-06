@@ -26,7 +26,7 @@
       <head>&quot;?&quot;</head>
       <p>
         Литовский Исторический Архив -
-        <ref tarte="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>
+        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>
         .
       </p>
       <p>
@@ -34,7 +34,9 @@
         <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
         : Канцелярия
         <placeName ref="Вильно">виленского</placeName>
-        генерал-губернатора Об устройстве в Польше порядка, претензии
+        генерал-губернатора Об устройстве в
+        <placeName ref="Польша">Польше</placeName>
+        порядка, претензии
         <orgName ref="виленский_кагал">Виленского кагала</orgName>
         и карлинского еврейского общества
       </p>
