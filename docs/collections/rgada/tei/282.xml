@@ -5,13 +5,8 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">?</title>
-				<author>
-					<persName>?</persName>
-				</author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
+				<author><persName>?</persName></author>
+				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>
@@ -22,8 +17,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -42,8 +37,8 @@
 				</calendar>
 			</calendarDesc>
 			<abstract>
-				<p>Показания 
-					<persName ref="alter-rebbe">Шнеура Залмана</persName> в 
+				<p>Показания
+					<persName ref="alter-rebbe">Шнеура Залмана</persName> в
 					<orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>
 				</p>
 			</abstract>
@@ -52,47 +47,29 @@
 	<text>
 		<body>
 			<pb xml:id="p282-1" n="282-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/282-1.jpg"/>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">286</del>
-			</fw>
-			<note place="end">номер обозначен чернилами и вычеркнут карандашом</note>
-			<fw type="pageNum" place="right">282</fw>
-			<note place="end">новый номер листа вписан карандашом</note>
+			<fw type="pageNum" place="right"><del rend="overstrike">286</del></fw><note place="end">номер обозначен
+			чернилами и вычеркнут карандашом</note>
+			<fw type="pageNum" place="right">282</fw><note place="end">новый номер листа вписан карандашом</note>
 			<p>
-				<l>На вопросы въ тайной Експедиціи еврей 
-					<persName ref="alter-rebbe">Борухо-
-						<lb/>
-      вичъ
-					</persName> симъ ответствуетъ.
-				</l>
+				<l>На вопросы въ тайной Експедиціи еврей <persName ref="alter-rebbe">Борухо-<lb/>
+						вичъ</persName> симъ ответствуетъ.</l>
 			</p>
 			<table>
 				<row>
 					<cell>
 						<p>
-							<l>на 1
-								<hi rend="superscript">е</hi>
-							</l>
+							<l>на 1<hi rend="superscript">е</hi></l>
 							<l>гдѣ родился? И сколько</l>
-							<l>отъ роду летъ?
-								<note place="end">вторая фраза вписана другими чернилами"</note>
-							</l>
+							<l>отъ роду летъ?<note place="end">вторая фраза вписана другими чернилами"</note></l>
 						</p>
 					</cell>
 					<cell>
 						<p>
-							<l>на 1
-								<hi rend="superscript">е</hi>
-							</l>
-							<l>родился въ 
-								<placeName ref="Лозна">ложнѣ</placeName> местечкѣ 
-								<placeName ref="Белоруссия">Бе-
-									<lb/>
-лоруской губерніи
-								</placeName>. - отъ роду
-							</l>
-							<l>имеетъ 52 года
-								<note place="end">вторая фраза вписана другими чернилами</note>
+							<l>на 1<hi rend="superscript">е</hi></l>
+							<l>родился въ <placeName ref="Лозна">ложнѣ</placeName> местечкѣ <placeName
+								ref="Белоруссия">Бе-<lb/>
+									лоруской губерніи </placeName>. - отъ роду</l>
+							<l>имеетъ 52 года<note place="end">вторая фраза вписана другими	чернилами</note>
 							</l>
 						</p>
 					</cell>
@@ -100,46 +77,29 @@
 				<row>
 					<cell>
 						<p>
-							<l>2
-								<hi rend="superscript">е</hi>
-							</l>
+							<l>2<hi rend="superscript">е</hi></l>
 							<l>по какому случаю и дав</l>
-							<l>но ли 
-								<del rend="overstrike">отецъ</del> пріехалъ въ 
-								<placeName ref="Белоруссия">бело
-									<lb/>
-русію
-								</placeName>? и гдѣ учился за
-							</l>
-							<l>кону?
-								<note place="end">вторая фраза вписана другими чернилами</note>
-							</l>
+							<l>но ли <del rend="overstrike">отецъ</del> пріехалъ въ <placeName ref="Белоруссия">бело<lb/>
+									русію</placeName>? и гдѣ учился за</l>
+							<l>кону?<note place="end">вторая фраза вписана другими чернилами</note></l>
 							<l></l>
 						</p>
 					</cell>
 					<cell>
 						<p>
-							<l>на 2
-								<hi rend="superscript">е</hi>
-							</l>
+							<l>на 2<hi rend="superscript">е</hi></l>
 							<l>дѣдъ и отецъ его жили въ томже</l>
 							<l>местѣ; но они только знали про</l>
 							<l>себя свой законъ, а другихъ не учили;</l>
-							<l>а самъ онъ жъ учился изъ Библіи, 
-								<del rend="overstrike">о чемъ</del>
-							</l>
-							<l>
-								<del rend="overstrike">и напишетъ онъ особое объясненіе.</del>
-							</l>
+							<l>а самъ онъ жъ учился изъ Библіи, <del rend="overstrike">о чемъ</del></l>
+							<l><del rend="overstrike">и напишетъ онъ особое объясненіе.</del></l>
 						</p>
 					</cell>
 				</row>
 				<row>
 					<cell>
 						<p>
-							<l>3
-								<hi rend="superscript">е</hi>
-							</l>
+							<l>3<hi rend="superscript">е</hi></l>
 							<l>Когда онъ и откого при</l>
 							<l>нялъ нынешнее уче</l>
 							<l>ніе?</l>
@@ -148,13 +108,9 @@
 					<cell>
 						<p>
 							<l>на 3.</l>
-							<l>Ученіе принялъ 
-								<placeName ref="Волынская_губерния">волынской губерніи</placeName> въ
-							</l>
-							<l>местечкѣ 
-								<placeName ref="Мезеричи">мезерицѣ</placeName>, отъ бывшаго
-							</l>
-							<l>тамъ рабина берки которой уже</l>
+							<l>Ученіе принялъ <placeName ref="Волынская_губерния">волынской губерніи</placeName> въ</l>
+							<l>местечкѣ <placeName ref="Мезеричи">мезерицѣ</placeName>, отъ бывшаго</l>
+							<l>тамъ рабина <persName ref="maggid">берки</persName> которой уже</l>
 							<l>умѣръ</l>
 						</p>
 					</cell>
@@ -162,9 +118,7 @@
 				<row>
 					<cell>
 						<p>
-							<l>4
-								<hi rend="superscript">е</hi>
-							</l>
+							<l>4<hi rend="superscript">е</hi></l>
 							<l>Кемъ онъ у евреевъ именуе</l>
 							<l>тся, учителем про</l>
 							<l>повѣдникомъ или имеетъ</l>
@@ -173,49 +127,25 @@
 					</cell>
 					<cell>
 						<p>
-							<l>на 4
-								<hi rend="superscript">е</hi>
-							</l>
-							<l>
-								<del rend="overstrike">некот</del> онъ въ местечкѣ 
-								<placeName ref="Лозна">Ліознѣ</placeName> раби-
-							</l>
+							<l>на 4<hi rend="superscript">е</hi></l>
+							<l><del rend="overstrike">некот</del> онъ въ местечкѣ <placeName ref="Лозна">Ліознѣ</placeName> раби-</l>
 							<l>номъ и толкуетъ священноѣ писа</l>
 							<l>ніе и нраво-ученіе девять разъ.</l>
 							<l>въ году. Зимою три раза а летомъ 6 разъ</l>
 							<l>и для слушанія сего пріезжаютъ къ нему</l>
-							<l>и изъ другихъ губерній. 
-								<del rend="overstrike">а</del> духовнаго
-							</l>
+							<l>и изъ другихъ губерній. <del rend="overstrike">а</del> духовнаго</l>
 							<l>сану имеетъ приходящимъ къ нему</l>
 							<l>разрешаетъ сомненія по закону –</l>
-							<l>еврѣйскому. 
-								<del rend="overstrike">и исправляетъ</del> учитъ богослуженію
-							</l>
-							<l>
-								<unclear>публичному</unclear>, и 
-								<hi rend="superscript">въ проповѣдяхъ</hi>
-								<note place="end">эти слова вписаны другими чернилами</note> объясняетъ 
-								<hi rend="superscript">древнюю</hi> кабали
-							</l>
-							<l>стику. 
-								<del rend="overstrike">по которой</del> когда приходитъ
-							</l>
-							<l>къ нему для моленія 
-								<hi rend="superscript">и даютъ денги, чтобы раздать нищимъ, то</hi> беретъ онъ. 
-								<del rend="overstrike">За то</del>
-							</l>
-							<l><del rend="overstrike">по числу литеръ составлялъ</del> 
-								<unclear>???</unclear> 
-								<hi rend="superscript">по кабалистикѣ изъ цифръ
-									<del rend="overstrike">литерами</del>
-								</hi>
-							</l>
-							<l>
-								<del rend="overstrike">2 
-									<unclear>???</unclear> или по 160
-								</del> число 160 в 8 литерахъ
-							</l>
+							<l>еврѣйскому. <del rend="overstrike">и исправляетъ</del> учитъ богослуженію</l>
+							<l><unclear>публичному</unclear>, и <hi rend="superscript">въ проповѣдяхъ</hi><note
+								place="end">эти слова вписаны другими чернилами</note> объясняетъ <hi
+								rend="superscript">древнюю</hi> кабали</l>
+							<l>стику. <del rend="overstrike">по которой</del> когда приходитъ</l>
+							<l>къ нему для моленія <hi rend="superscript">и даютъ денги, чтобы раздать нищимъ, то</hi>
+								беретъ онъ. <del rend="overstrike">За то</del></l>
+							<l><del rend="overstrike">по числу литеръ составлялъ</del> <unclear>???</unclear>
+								<hi rend="superscript">по кабалистикѣ изъ цифръ <del rend="overstrike">литерами</del></hi></l>
+							<l><del rend="overstrike">2 <unclear>???</unclear> или по 160</del> число 160 в 8 литерахъ</l>
 							<l>душу составляющихъ, как другіе, но какъ</l>
 							<l>случается.</l>
 						</p>
@@ -224,9 +154,7 @@
 				<row>
 					<cell>
 						<p>
-							<l>5
-								<hi rend="superscript">е</hi>
-							</l>
+							<l>5<hi rend="superscript">е</hi></l>
 							<l>въ чемъ состоитъ его уче</l>
 							<l>ніе, и чемъ различается</l>
 							<l>отъ прежняго?</l>
@@ -234,9 +162,7 @@
 					</cell>
 					<cell>
 						<p>
-							<l>На 
-								<del rend="overstrike">7</del> 5
-							</l>
+							<l>На <del rend="overstrike">7</del> 5</l>
 							<l>разница въ ученіи въ томъ состоитъ, что</l>
 							<l>иные рабины учутъ, что кабалистику</l>
 							<l>учить людямъ не моложе 40 лѣтъ</l>
@@ -254,61 +180,33 @@
 						<p>
 							<l>а онъ кабалистики не учитъ, въ</l>
 							<l>толкованіяхъ же своихъ о Законѣ вмѣщаетъ</l>
-							<l>
-								<del rend="overstrike">туда</del> объясненіи 
-								<hi rend="superscript">не вспоминая</hi>
-							</l>
+							<l><del rend="overstrike">туда</del> объясненіи <hi rend="superscript">не вспоминая</hi></l>
 							<l>точныхъ словъ кабалистики, сверхъ того знаетъ онъ</l>
-							<l>
-								<del rend="overstrike">прежд</del> на напечатанную давно уже
-							</l>
+							<l><del rend="overstrike">прежд</del> на напечатанную давно уже</l>
 							<l>одного большаго кабалиста книгу,</l>
 							<l>въ которой дозволяется начать учить</l>
-							<l>кабалистику и съ 20 леть. – 
-								<del rend="overstrike">оберъ</del>
-							</l>
-							<l>
-								<del rend="overstrike">рабинъ говоритъ</del>
-							</l>
+							<l>кабалистику и съ 20 леть. – <del rend="overstrike">оберъ</del></l>
+							<l><del rend="overstrike">рабинъ говоритъ</del></l>
 						</p>
 					</cell>
 				</row>
 			</table>
 			<p>
-				<l>По окончаніи сего оберъ раввина 
-					<persName ref="Авигдор">Абигдоръ Хаймовичъ</persName>
-				</l>
+				<l>По окончаніи сего оберъ раввина <persName ref="Авигдор">Абигдоръ Хаймовичъ</persName></l>
 				<l>здѣлалъ показанія слѣдующія</l>
 			</p>
 			<p>
-				<l>О книгѣ секты 
-					<emph rend="underline">
-						<unclear>???</unclear>
-						<lb/>
-а половину страницъ
-					</emph> пока
-				</l>
-				<l>заніи 
-					<persName ref="Авигдор">Хаймовича</persName>.
-				</l>
+				<l>О книгѣ секты <emph rend="underline"><unclear>???</unclear><lb/>
+						а половину страницъ</emph> пока</l>
+				<l>заніи <persName ref="Авигдор">Хаймовича</persName>.</l>
 			</p>
 			<del rend="overstrike">
-				<l>Боруховичъ напротивъ</l>
-				<l>сего объясняетъ 
-					<hi rend="superscript">рабинъ 
-						<unclear>??? ??? ???</unclear>
-					</hi>
-					<unclear>???</unclear>
-				</l>
-				<l>
-					<unclear>??? ???</unclear>
-				</l>
-				<l>на 1
-					<hi rend="superscript">е</hi> напишетъ его объя
-				</l>
+				<l><persName ref="alter-rebbe">Боруховичъ</persName> напротивъ</l>
+				<l>сего объясняетъ <hi rend="superscript">рабинъ <unclear>??? ??? ???</unclear></hi> <unclear>???</unclear></l>
+				<l><unclear>??? ???</unclear></l>
+				<l>на 1<hi rend="superscript">е</hi> напишетъ его объя</l>
 				<l>сненіи</l>
-			</del>
-			<note place="end">абзац зачеркнут крест накрест, отдельные слова дополнительно вычеркнуты</note>
+			</del><note place="end">абзац зачеркнут крест накрест, отдельные слова дополнительно вычеркнуты</note>
 		</body>
 	</text>
 </TEI>
