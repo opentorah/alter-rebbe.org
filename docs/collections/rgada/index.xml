@@ -16,32 +16,29 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
       <head>
-        &quot;О Еврейской секте Каролинов и об учителе их Раввине Зальмане Боруховиче , и о доносах Еврея Гирша Давидовича &quot;
+        <title>"О
+          <orgName ref="Хасиды">Еврейской секте Каролинов</orgName>
+          и об учителе их
+          <persName ref="alter-rebbe">Раввине Зальмане Боруховиче</persName>, и о доносах
+          <persName ref="Гирша_Давыдович">Еврея Гирша Давидовича</persName>"
+        </title>
       </head>
       <p>
         Российский государственный архив древних актов -
-        <ref target="http://rgada.info/poisk/index.php">РГАДА</ref>
-        , Разряд VII. Преображенский приказ, Тайная канцелярия и
-        <orgName ref="Тайная_экспедиция">Тайная экспедиция</orgName>
-        ; коллекция Государственного архива Российской империи; Опись 2. Дела
-        <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>
-        ,
+        <ref target="http://rgada.info/poisk/index.php">РГАДА</ref>, Разряд VII. Преображенский приказ, Тайная канцелярия и
+        <orgName ref="Тайная_экспедиция">Тайная экспедиция</orgName>; коллекция Государственного архива Российской империи; Опись 2. Дела
+        <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>,
         <ref target="http://rgada.info/opisi/7-opis_2/0218.jpg">дело</ref>
-        <ref target="http://rgada.info/opisi/7-opis_2m/0089.jpg">3140</ref>
-        . В этом деле - документы обоих арестов. 1798й и 1800й годы. 376 листов.
+        <ref target="http://rgada.info/opisi/7-opis_2m/0089.jpg">3140</ref>. В этом деле - документы обоих арестов. 1798й и 1800й годы. 376 листов.
       </p>
       <p>
         Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
-        : Материалы следствия, произведённого
+        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Материалы следствия, произведённого
         <orgName ref="Тайная_экспедиция">Тайной Экспедицией</orgName>
         по доносам
         <placeName ref="Вильно">виленского</placeName>
@@ -54,8 +51,7 @@
         на хасидов (Хабад) и
         <persName ref="alter-rebbe">раввина Шнеера Залмана</persName>
         из
-        <placeName ref="Лозна">Лиозно</placeName>
-        .
+        <placeName ref="Лозна">Лиозно</placeName>.
       </p>
       <table rendition="collection-index">
         <row>
@@ -777,8 +773,7 @@
         <row>
           <cell rendition="description">
             Реестр Евреев, следующих новой
-            <orgName ref="Хасиды">секте каролинскою называемой</orgName>
-            ... с новыми примечаниями
+            <orgName ref="Хасиды">секте каролинскою называемой</orgName>... с новыми примечаниями
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -1087,8 +1082,7 @@
           <cell rendition="description">
             <p>
               Объявитель сего
-              <persName ref="alter-rebbe">еврей рабин Залман Борухович</persName>
-              ...
+              <persName ref="alter-rebbe">еврей рабин Залман Борухович</persName>...
             </p>
           </cell>
           <cell rendition="date">1798-11-17</cell>
@@ -1236,8 +1230,7 @@
         <row>
           <cell rendition="description">
             Допрос Жида
-            <persName ref="Меіер_Рафалович">Меера Рафаловича</persName>
-            , раввина и начальника
+            <persName ref="Меіер_Рафалович">Меера Рафаловича</persName>, раввина и начальника
             <orgName ref="Хасиды">Каролинской секты</orgName>
             из
             <placeName ref="Вильно">Вильно</placeName>
@@ -1286,8 +1279,7 @@
         <row>
           <cell rendition="description">
             Допрос жида
-            <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>
-            , повереннаго по делам
+            <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, повереннаго по делам
             <orgName ref="Хасиды">Каролинов</orgName>
             (перевод)
           </cell>
@@ -2162,8 +2154,7 @@
         <row>
           <cell rendition="description">
             Допрос жида
-            <persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName>
-            , Индурскаго рабина (перевод)
+            <persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName>, Индурскаго рабина (перевод)
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -3771,8 +3762,7 @@
             <placeName ref="Видзы">Видзенских</placeName>
             <orgName ref="Хасиды">Каролинов</orgName>
             денег в святейшую землю или
-            <placeName ref="Палестина">Палестину</placeName>
-            , в город Тверь и Цфас, и именно кому
+            <placeName ref="Палестина">Палестину</placeName>, в город Тверь и Цфас, и именно кому
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -4041,8 +4031,7 @@
           <cell rendition="description">
             <p>
               Сведения о
-              <orgName ref="Хасиды">хасидах</orgName>
-              , полученные в ходе негласного правительственного расследования
+              <orgName ref="Хасиды">хасидах</orgName>, полученные в ходе негласного правительственного расследования
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -4102,8 +4091,7 @@
               <persName ref="Хрущов">Хрущова</persName>
               <persName ref="Обольянинов">Обольянинову</persName>
               со сведениями о
-              <orgName ref="Хасиды">хасидах</orgName>
-              , полученными в ходе поездки по
+              <orgName ref="Хасиды">хасидах</orgName>, полученными в ходе поездки по
               <placeName ref="Белоруссия">Белоруссии</placeName>
             </p>
           </cell>

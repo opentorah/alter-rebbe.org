@@ -16,23 +16,24 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>&quot;О виленской общине каролинов &quot;</head>
+      <head>
+        <title>"О
+          <placeName ref="Вильно">виленской</placeName>
+          общине
+          <orgName ref="Хасиды">каролинов</orgName>"
+        </title>
+      </head>
       <p>
         Литовский Исторический Архив -
-        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>
-        .
+        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>.
       </p>
       <p>
         378 1799 2. (B/S) фонда №378 "Канцелярия Виленского военного генерал-губернатора" =1 Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
-        : Документы, относящиеся к административной переписке о расследовании злоупотреблений
+        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Документы, относящиеся к административной переписке о расследовании злоупотреблений
         <orgName ref="виленский_кагал">виленского кагала</orgName>
         и его конфликта с
         <placeName ref="Вильно">виленскими</placeName>
@@ -164,8 +165,7 @@
             об отправке копии предложений
             <orgName ref="Литовское_губернское_правление">Губернскому правлению</orgName>
             о действиях в отношении
-            <orgName ref="виленский_кагал">виленского кагала</orgName>
-            , а также копия самх предложений
+            <orgName ref="виленский_кагал">виленского кагала</orgName>, а также копия самх предложений
           </cell>
           <cell rendition="date">1799-02-16</cell>
           <cell rendition="author">
