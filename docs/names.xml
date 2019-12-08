@@ -387,7 +387,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Бернгардъ">
+        <person xml:id="Бернгард">
           <persName>Петръ Бернгардъ</persName>
           <p>переводчик</p>
           <p rendition="mentions">
@@ -461,7 +461,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Гирша_Давыдовичъ">
+        <person xml:id="Гирша_Давыдович">
           <persName>Гирша Давыдовичъ</persName>
           <p>
             <ref target="/research/Гирша_Давыдовичъ.html">К вопросу идентификации Гирша Давыдовича</ref>
@@ -1185,7 +1185,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Беклешовъ">
+        <person xml:id="Беклешов">
           <persName>Беклешов, Александр Андреевич</persName>
           <ref target="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
           <p>Генералъ-Прокурорь</p>
@@ -1223,7 +1223,7 @@
           <ref target="https://ru.wikipedia.org/wiki/Бенкендорф,_Христофор_Иванович">[Википедия]</ref>
           <p rendition="mentions"></p>
         </person>
-        <person xml:id="Брискорнъ">
+        <person xml:id="Брискорн">
           <persName>Брискорнъ</persName>
           <p>Литовский прокурор</p>
           <p rendition="mentions">
@@ -1573,7 +1573,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Обольяниновъ">
+        <person xml:id="Обольянинов">
           <persName>Обольянинов</persName>
           <p>генерал-прокурор</p>
           <ref target="https://ru.wikipedia.org/wiki/Обольянинов,_Пётр_Хрисанфович">[Википедия]</ref>
@@ -1622,6 +1622,7 @@
               <ref target="/collections/rgada/documents/269.html" role="documentViewer">269</ref>
               <ref target="/collections/rgada/documents/272.html" role="documentViewer">272</ref>
               <ref target="/collections/rgada/documents/274.html" role="documentViewer">274</ref>
+              <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
               <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
               <ref target="/collections/rgada/documents/279.html" role="documentViewer">279</ref>
               <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
@@ -1774,7 +1775,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Сафоновъ">
+        <person xml:id="Сафонов">
           <persName>Сафоновъ</persName>
           <p rendition="mentions">
             <l>
@@ -1788,7 +1789,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Северинъ">
+        <person xml:id="Северин">
           <persName>Северинъ</persName>
           <p>Белорусский губернатор</p>
           <p rendition="mentions">
@@ -1849,7 +1850,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Тормасовъ">
+        <person xml:id="Тормасов">
           <persName>Тормасовъ</persName>
           <p>Литовский губернский прокурор</p>
           <p rendition="mentions">
@@ -2141,6 +2142,7 @@
               <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
               <ref target="/collections/rgada/documents/268.html" role="documentViewer">268</ref>
               <ref target="/collections/rgada/documents/274.html" role="documentViewer">274</ref>
+              <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
               <ref target="/collections/rgada/documents/325.html" role="documentViewer">325</ref>
             </l>
             <l>
@@ -2169,17 +2171,8 @@
             </l>
           </p>
         </place>
-        <place xml:id="Витебская_губерния">
-          <placeName>Витебская губерния</placeName>
-          <p rendition="mentions">
-            <l>
-              РГАДА 3140:
-              <ref target="/collections/rgada/documents/268.html" role="documentViewer">268</ref>
-            </l>
-          </p>
-        </place>
-        <place xml:id="Витепск">
-          <placeName>Витепск</placeName>
+        <place xml:id="Витебск">
+          <placeName>Витебск</placeName>
           <p rendition="mentions">
             <l>
               Дубнов:
@@ -2213,6 +2206,15 @@
             <l>
               РГИА 413:
               <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
+            </l>
+          </p>
+        </place>
+        <place xml:id="Витебская_губерния">
+          <placeName>Витебская губерния</placeName>
+          <p rendition="mentions">
+            <l>
+              РГАДА 3140:
+              <ref target="/collections/rgada/documents/268.html" role="documentViewer">268</ref>
             </l>
           </p>
         </place>
@@ -2560,6 +2562,7 @@
               <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
               <ref target="/collections/rgada/documents/277.html" role="documentViewer">277</ref>
               <ref target="/collections/rgada/documents/282.html" role="documentViewer">282</ref>
+              <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
             </l>
             <l>
               РГИА 2213:
@@ -2578,6 +2581,8 @@
         </place>
         <place xml:id="Ляховицы">
           <placeName>Ляховицы</placeName>
+          <p>Ля́ховичи</p>
+          <ref target="https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D1%85%D0%BE%D0%B2%D0%B8%D1%87%D0%B8">[Википедия]</ref>
           <p rendition="mentions">
             <l>
               РГАДА 3140:
@@ -2630,6 +2635,30 @@
             </l>
           </p>
         </place>
+        <place xml:id="Минск">
+          <placeName>Минскъ</placeName>
+          <placeName>Минск</placeName>
+          <p rendition="mentions">
+            <l>
+              Дубнов:
+              <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+              <ref target="/collections/dubnov/documents/255.1.html" role="documentViewer">255.1</ref>
+              <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">263.1</ref>
+            </l>
+            <l>
+              РГАДА 3140:
+              <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
+              <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
+            </l>
+            <l>
+              РГИА 2213:
+              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+              <ref target="/collections/rgia2213/documents/027.html" role="documentViewer">027</ref>
+              <ref target="/collections/rgia2213/documents/051.html" role="documentViewer">051</ref>
+              <ref target="/collections/rgia2213/documents/052.html" role="documentViewer">052</ref>
+            </l>
+          </p>
+        </place>
         <place xml:id="Минская_губерния">
           <placeName>Минская губерния</placeName>
           <p rendition="mentions">
@@ -2667,23 +2696,6 @@
               <ref target="/collections/rgia2213/documents/048.html" role="documentViewer">048</ref>
               <ref target="/collections/rgia2213/documents/050.html" role="documentViewer">050</ref>
               <ref target="/collections/rgia2213/documents/052.html" role="documentViewer">052</ref>
-            </l>
-          </p>
-        </place>
-        <place xml:id="Минскъ">
-          <placeName>Минскъ</placeName>
-          <p rendition="mentions">
-            <l>
-              Дубнов:
-              <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-              <ref target="/collections/dubnov/documents/255.1.html" role="documentViewer">255.1</ref>
-              <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">263.1</ref>
-            </l>
-            <l>
-              РГИА 2213:
-              <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-              <ref target="/collections/rgia2213/documents/027.html" role="documentViewer">027</ref>
-              <ref target="/collections/rgia2213/documents/051.html" role="documentViewer">051</ref>
             </l>
           </p>
         </place>
@@ -2963,6 +2975,10 @@
               Дубнов:
               <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
             </l>
+            <l>
+              РГАДА 3140:
+              <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
+            </l>
           </p>
         </place>
         <place xml:id="Столин">
@@ -3088,8 +3104,9 @@
             </l>
           </p>
         </org>
-        <org xml:id="Сенатъ">
+        <org xml:id="Сенат">
           <orgName>Сенатъ</orgName>
+          <orgName>Сенат</orgName>
           <ref target="https://ru.wikipedia.org/wiki/Правительствующий_сенат">[Википедия]</ref>
           <p rendition="mentions">
             <l>

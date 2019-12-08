@@ -26,11 +26,11 @@
             {%- endif -%}
           {%- endfor -%}
 
-          {%- if page.layout == 'collection' -%}
+          {%- if page.style == 'collection' -%}
             <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.title }}]</a>
           {%- endif -%}
 
-          {%- if page.layout == 'document' or page.layout == 'facsimile' -%}
+          {%- if page.style == 'document' or page.style == 'facsimile' -%}
             <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.collection }}]</a>
 
             {%- if page.prev -%}
@@ -46,7 +46,7 @@
             {%- endif -%}
           {%- endif -%}
 
-          {%- if page.layout == 'document' -%}
+          {%- if page.style == 'document' -%}
             {%- if page.facs -%}
             <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⏿</a>
             {%- endif -%}

@@ -10,16 +10,10 @@ final class Layout(docs: File) {
 
   val indexMd: File = docs("index.md")
 
-  val configYml: File = docs("_config.yml")
-
-  // Note: also hard-coded in _layouts/tei.html (for 'names') and in 'index.md'!
+  // TODO Note: also hard-coded in _layouts/tei.html (for 'names') and in 'index.md'!
   private val collectionsDirectoryName: String = "collections"
 
   val collections: File = docs(collectionsDirectoryName)
-
-  def collections(name: String): File = new File(collections, name)
-
-  val collectionsFileName: String = "collections"
 
   private def url(ref: String): String = s"/$collectionsDirectoryName/$ref"
 
@@ -39,14 +33,7 @@ final class Layout(docs: File) {
 
   def collectionUrl(name: String): String = url(s"$name/index.html")
 
-  // TODO with images on a separate website (facsimiles.alter-rebbe.org), this has to be re-worked...
-
-//  // Note: also hard-coded in _config.yml:facsimile_suffix!
-//  private val facsimilesDirectoryName: String = "facsimiles"
-//
-//  def facsimiles(collectionDirectory: File): File = new File(collectionDirectory, facsimilesDirectoryName)
-
-  // Note: also hard-coded in _layouts/tei.html!
+  // TODO Note: also hard-coded in _layouts/tei.html!
   val facsDirectoryName: String = "facs" // facsimile viewers
 
   def facs(collectionDirectory: File): File = new File(collectionDirectory, facsDirectoryName)
@@ -55,7 +42,7 @@ final class Layout(docs: File) {
 
   def tei(collectionDirectory: File): File = new File(collectionDirectory, teiDirectoryName)
 
-  // Note: also hard-coded in _layouts/facsimile.html!
+  // TODO Note: also hard-coded in _layouts/facsimile.html!
   val docsDirectoryName: String = "documents" // wrappers for TEI XML
 
   def docs(collectionDirectory: File): File = new File(collectionDirectory, docsDirectoryName)
@@ -64,4 +51,6 @@ final class Layout(docs: File) {
     url(s"$collectionDirectoryName/${documentUrlRelativeToIndex(name)}")
 
   def documentUrlRelativeToIndex(name: String): String =  s"$docsDirectoryName/$name.html"
+
+  def facsimilesUrlPrefix: String = "http://facsimiles.alter-rebbe.org/facsimiles"
 }
