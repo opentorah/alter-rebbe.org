@@ -16,34 +16,30 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>&quot;О каролинской секте &quot;</head>
+      <head>
+        <title>"О
+          <orgName ref="Хасиды">каролинской секте</orgName>"
+        </title>
+      </head>
       <p>
         Российский государственный исторический архив -
-        <ref target="http://www.fgurgia.ru/#!">РГИА</ref>
-        , Третий (аппелиционный) департамент
-        <orgName ref="Сенат">Сената</orgName>
-        ,
+        <ref target="http://www.fgurgia.ru/#!">РГИА</ref>, Третий (аппелиционный) департамент
+        <orgName ref="Сенат">Сената</orgName>,
         <ref target="http://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw==">
           фонд 1347
-        </ref>
-        , опись 64 ч I, 1797-1825,
+        </ref>, опись 64 ч I, 1797-1825,
         <ref 
         target="http://rgia.su/imageViewer/image?url=i5CLnpOvnpiajMLIyNmcio2NmpGLr56YmsLMxtmah4vCj5uZ2ZCdlZqci8LNyMjHyM7Lz9mei4uNws7PycrO2YyajZaek8LO2ZiNkIqPws/ZjIuQjZ6YmsLOzMrNxs/KzMzP">
           дело 413
-</ref>
-        . Копии избранных документов второго ареста.
+</ref>. Копии избранных документов второго ареста.
       </p>
       <p>
         Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
-        : Материалы следствия, произведённого в
+        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Материалы следствия, произведённого в
         <orgName ref="Сенат">Сенате</orgName>
         по доносам
         <placeName ref="Пинск">Пинского</placeName>
@@ -52,8 +48,7 @@
         на общину хасидов (Хабад) и
         <persName ref="alter-rebbe">раввина Шнеера Залмана</persName>
         из
-        <placeName ref="Лозна">Лиозно</placeName>
-        .
+        <placeName ref="Лозна">Лиозно</placeName>.
       </p>
       <table rendition="collection-index">
         <row>
@@ -120,8 +115,7 @@
           <cell rendition="description">
             <p>
               Заголовок раздела: "Доказательства
-              <persName ref="Авигдор">Авигдора</persName>
-              "
+              <persName ref="Авигдор">Авигдора</persName>"
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -170,8 +164,7 @@
           <cell rendition="description">
             <p>
               Заголовок раздела: "Ответы
-              <persName ref="alter-rebbe">Алтер Ребе</persName>
-              "
+              <persName ref="alter-rebbe">Алтер Ребе</persName>"
             </p>
             <p>
               18-й и 19-й пункты ответов
@@ -755,8 +748,7 @@
           <cell rendition="description">
             <p>
               Извещение
-              <persName ref="Тарбеев">Тарбеева</persName>
-              , что
+              <persName ref="Тарбеев">Тарбеева</persName>, что
               <persName ref="alter-rebbe">Залман</persName>
               по выс. повелению освобожден и отпущен из
               <placeName ref="Петербург">Петербурга</placeName>

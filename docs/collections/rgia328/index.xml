@@ -16,18 +16,16 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>&quot;О виленских кагальных старшинах&quot;</head>
+      <head>
+        <title>"О виленских кагальных старшинах"</title>
+      </head>
       <p>
         Российский государственный исторический архив -
-        <ref target="http://www.fgurgia.ru/#!">РГИА</ref>
-        , дело 328.
+        <ref target="http://www.fgurgia.ru/#!">РГИА</ref>, дело 328.
       </p>
       <table rendition="collection-index">
         <row>
@@ -92,8 +90,7 @@
           <cell rendition="description">
             <p>
               Голос (особое мнение)
-              <persName ref="Елиашевич">Елиашевича</persName>
-              , предназначенное для рассмотрения
+              <persName ref="Елиашевич">Елиашевича</persName>, предназначенное для рассмотрения
               <persName ref="Кутузов">Кутузовым</persName>
               по делу о расходовании средств старшинами
               <orgName ref="виленский_кагал">виленского кагала</orgName>
@@ -128,8 +125,7 @@
               казенной палаты в связи с получением
               <orgName ref="Сенат">сенатского</orgName>
               указа о взимании денег со старшин
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
-              , виновных в недоимке
+              <orgName ref="виленский_кагал">виленского кагала</orgName>, виновных в недоимке
             </p>
           </cell>
           <cell rendition="date">1800-09-10</cell>

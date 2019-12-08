@@ -16,14 +16,13 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
     <body>
-      <head>&quot;Вмешательство русского правительства в антихасидскую борьбу&quot;</head>
+      <head>
+        <title>"Вмешательство русского правительства в антихасидскую борьбу"</title>
+      </head>
       <p>
         Анализ материалов второго ареста опубликован в книге "Еврейская старина", том 3, Еврейское И.-Э. общество, С. М. Дубнов, ISBN-10(13), С.-Петербург, 1910.
       </p>
@@ -284,8 +283,7 @@
             <p>
               № 6. Ответ
               <persName ref="Тормасов">Тормасова</persName>
-              <persName ref="Обольянинов">Обольянинову</persName>
-              , что в
+              <persName ref="Обольянинов">Обольянинову</persName>, что в
               <placeName ref="Литва">Литовской губернии</placeName>
               о секте неизвестно
             </p>
@@ -390,8 +388,7 @@
               <persName ref="Кутузов">Кутузова</persName>
               <persName ref="Обольянинов">Обольянинову</persName>
               о сведениях от
-              <persName ref="Карнеевъ">Карнеева</persName>
-              , что секта „Шабсус-Цвинкус" или Китаевая ведет себя в
+              <persName ref="Карнеевъ">Карнеева</persName>, что секта „Шабсус-Цвинкус" или Китаевая ведет себя в
               <placeName ref="Минская_губерния">Минской губернии</placeName>
               спокойно
             </p>
@@ -427,8 +424,7 @@
               <persName ref="Кутузов">Кутузова</persName>
               <persName ref="Обольянинов">Обольянинову</persName>
               о существовании
-              <orgName ref="Хасиды">секты „Каролинов" (Хасидов)</orgName>
-              , которая подвергалась гонениям но признана правительством безвредной
+              <orgName ref="Хасиды">секты „Каролинов" (Хасидов)</orgName>, которая подвергалась гонениям но признана правительством безвредной
             </p>
             <p>
               Документ
@@ -888,8 +884,7 @@
           <cell rendition="description">
             <p>
               Приложение А к документу №
-              <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>
-              . Ордер
+              <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>. Ордер
               <persName ref="Жегулин">Жегулина</persName>
               <persName ref="Добрынин">Добрынину</persName>
               об освобождении
@@ -924,8 +919,7 @@
           <cell rendition="description">
             <p>
               Приложение Б к документу №
-              <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>
-              . Объявление
+              <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>. Объявление
               <persName ref="Фризель">Фризеля</persName>
               о высочайше дорованной терпимости к
               <orgName ref="Хасиды">секте Каролинов</orgName>
@@ -983,8 +977,7 @@
           <cell rendition="description">
             <p>
               № 23. Извещение
-              <persName ref="Тарбеев">Тарбеева</persName>
-              , что
+              <persName ref="Тарбеев">Тарбеева</persName>, что
               <persName ref="alter-rebbe">Залман</persName>
               по выс. повелению освобожден и отпущен из
               <placeName ref="Петербург">Петербурга</placeName>
@@ -1051,8 +1044,7 @@
               № 25. Жалоба
               <persName ref="alter-rebbe">Залмана</persName>
               на ложные доносы
-              <persName ref="Авигдор">Авигдора</persName>
-              , разорительные для жалобщика и хасидов, и просьба о наказании клеветников
+              <persName ref="Авигдор">Авигдора</persName>, разорительные для жалобщика и хасидов, и просьба о наказании клеветников
             </p>
           </cell>
           <cell rendition="date">1801-05</cell>
