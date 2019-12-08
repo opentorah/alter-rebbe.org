@@ -26,35 +26,29 @@
             {%- endif -%}
           {%- endfor -%}
 
-          {%- if page.style == 'collection' -%}
-            <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.title }}]</a>
+          {%- if page.collection -%}
+          <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.collection }}]</a>
           {%- endif -%}
 
-          {%- if page.style == 'document' or page.style == 'facsimile' -%}
-            <a class="page-link" href="../index.html" target="collectionViewer">[{{ page.collection }}]</a>
-
-            {%- if page.prev -%}
-            <a class="page-link" href="{{ page.prev }}.html">{{ page.prev }}</a>
-            {%- endif -%}
-
-            {%- if page.self -%}
-            <a class="page-link" href="{{ page.self }}.html"><{{ page.self }}></a>
-            {%- endif -%}
-
-            {%- if page.next -%}
-            <a class="page-link" href="{{ page.next }}.html">{{ page.next }}</a>
-            {%- endif -%}
+          {%- if page.prevDocument -%}
+          <a class="page-link" href="{{ page.prevDocument }}.html">{{ page.prevDocument }}</a>
           {%- endif -%}
 
-          {%- if page.style == 'document' -%}
-            {%- if page.facs -%}
-            <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⏿</a>
-            {%- endif -%}
-
-            {%- for lang in page.translations -%}
-            <a class="page-link" href='{{ page.self }}-{{ lang }}.html'>{{ lang }}</a>
-            {%- endfor -%}
+          {%- if page.thisDocument -%}
+          <a class="page-link" href="{{ page.thisDocument }}.html"><{{ page.thisDocument }}></a>
           {%- endif -%}
+
+          {%- if page.nextDocument -%}
+          <a class="page-link" href="{{ page.nextDocument }}.html">{{ page.nextDocument }}</a>
+          {%- endif -%}
+
+          {%- if page.facs -%}
+          <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⏿</a>
+          {%- endif -%}
+
+          {%- for lang in page.translations -%}
+          <a class="page-link" href='{{ page.thisDocument }}-{{ lang }}.html'>{{ lang }}</a>
+          {%- endfor -%}
         </div>
       </nav>
     {%- endif -%}

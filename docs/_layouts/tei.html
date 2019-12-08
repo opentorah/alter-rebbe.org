@@ -11,25 +11,10 @@ layout: default
     let CETEIcean = new CETEI();
 
     CETEIcean.addBehaviors({"tei": {
-            {%- comment -%}
-            // Thumbnails - that we decided not to do;
-            // as a result, value of the 'facs' attribute is no longer used...
-            "pb": [["[facs][n]", [
-                "<a class='facsimileThumbnail' target='facsimileViewer' href='../facs/{{ page.self }}.html#p$@n'>" +
-                "  <figure>" +
-                "    <img src='$@facs' alt='facsimile for page $@n'/>" +
-                "    <figcaption>$@n</figcaption>" +
-                "  </figure>" +
-                "</a>"
-            ]]],
-            {%- endcomment -%}
-
-            "pb": [["[facs][n]", ["<a class='facsimileLink' target='facsimileViewer' href='../facs/{{ page.self }}.html#p$@n'>⏿</a>"]]],
-
+            "pb": [["[facs][n]", ["<a class='facsimileLink' target='facsimileViewer' href='../facs/{{ page.thisDocument }}.html#p$@n'>⏿</a>"]]],
             "persName" : refBehavior,
             "placeName": refBehavior,
             "orgName"  : refBehavior,
-
             "supplied": ["[","]"]
         }
     });
