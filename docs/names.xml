@@ -40,7 +40,7 @@
       </p>
       <listPerson xml:id="jews">
         <head>Жиды (они же Евреи)</head>
-        <person xml:id="alter-rebbe">
+        <person xml:id="alter-rebbe" role="jew">
           <persName>Зелман Борухович</persName>
           <persName>(Алтер Ребе)</persName>
           <persName>(Соломон Борух?)</persName>
@@ -156,7 +156,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="maggid">
+        <person xml:id="maggid" role="jew">
           <persName>Магид</persName>
           <ref target="https://ru.wikipedia.org/wiki/Дов-Бер_из_Межерича">[Википедия]</ref>
           <p rendition="mentions">
@@ -179,7 +179,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Јосель_Мовшович">
+        <person xml:id="Јосель_Мовшович" role="jew">
           <persName>Јосель Мовшович</persName>
           <p rendition="mentions">
             <l>
@@ -190,7 +190,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Абрамович">
+        <person xml:id="Абрамович" role="jew">
           <persName>Абрамович</persName>
           <p rendition="mentions">
             <l>
@@ -203,7 +203,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Авигдор">
+        <person xml:id="Авигдор" role="jew">
           <persName>Авигдор</persName>
           <p rendition="mentions">
             <l>
@@ -279,7 +279,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Арон">
+        <person xml:id="Арон" role="jew">
           <persName>Арон</persName>
           <p>Карлинский</p>
           <ref target="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB%D0%BE%D0%B2,_%D0%90%D0%B0%D1%80%D0%BE%D0%BD">
@@ -300,7 +300,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Арон_Беркович">
+        <person xml:id="Арон_Беркович" role="jew">
           <persName>Арон Беркович</persName>
           <p rendition="mentions">
             <l>
@@ -311,7 +311,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Арон_Беркович-Гирша">
+        <person xml:id="Арон_Беркович-Гирша" role="jew">
           <persName>Гирша</persName>
           <p>сын Арона Берковича</p>
           <p rendition="mentions">
@@ -321,7 +321,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Арон_Беркович-Мойжес">
+        <person xml:id="Арон_Беркович-Мойжес" role="jew">
           <persName>Мойжес</persName>
           <p>сын Арона Берковича</p>
           <p rendition="mentions">
@@ -331,7 +331,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Арон_Беркович-Шифра">
+        <person xml:id="Арон_Беркович-Шифра" role="jew">
           <persName>Шифра</persName>
           <p>дочь Арона Берковича</p>
           <p rendition="mentions">
@@ -341,7 +341,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Арон_Витебск">
+        <person xml:id="Арон_Витебск" role="jew">
           <persName>Арон_Витебск</persName>
           <p rendition="mentions">
             <l>
@@ -350,7 +350,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Баал_Шем_Тов">
+        <person xml:id="Баал_Шем_Тов" role="jew">
           <persName>Баал Шем Тов</persName>
           <ref target="https://ru.wikipedia.org/wiki/Баал-Шем-Тов">[Википедия]</ref>
           <p rendition="mentions">
@@ -372,7 +372,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Бениш_Янкелевич">
+        <person xml:id="Бениш_Янкелевич" role="jew">
           <persName>Бениш Янкелевич</persName>
           <p>
             Из кн. О. Минкиной "«Сыны Рахили»: Еврейские депутаты в Российской империи. 1772—1825": "Бейнуш Лапковский (в документации, связанной с выборами 1818 г., «Бейнуш Янкелевич Лапковский (или Лабковский)»; в делопроизводственных документах конца XVIII в. «Бениш Янкелевич»), третьей гильдии купец из Витебска, происходил из состоятельного и родовитого семейства. Дед его, Лейба Лапковский, упоминается в документах, относящихся к 1764 г., в числе глав витебского кагала, наряду с будущим «поверенным белорусских евреев» Цалкой Файбишовичем. Таким образом, Бейнуш Лапковский по происхождению принадлежал к верхушке еврейской общины Витебска, занимавшей в конце XVIII в. враждебную позицию по отношению к хасидам. Тем примечательнее его переход в число последователей цадика Шнеура Залмана, очевидно сопровождавшийся семейным конфликтом. В 1800 г. «витебский купец» Лапковский, наряду с другими богатыми хасидами, пытался добиться облегчения участи арестованного Шнеура Залмана. Особенно полезны хасидам оказались его тесные связи с местной администрацией"
@@ -384,7 +384,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Бернгард">
+        <person xml:id="Бернгард" role="jew">
           <persName>Петръ Бернгардъ</persName>
           <p>переводчик</p>
           <p rendition="mentions">
@@ -399,7 +399,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Борух_Мордухович">
+        <person xml:id="Борух_Мордухович" role="jew">
           <persName>Борух Мордухович</persName>
           <p rendition="mentions">
             <l>
@@ -409,7 +409,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Вулф_Шимеліович">
+        <person xml:id="Вулф_Шимеліович" role="jew">
           <persName>Вулф Шимеліович</persName>
           <p rendition="mentions">
             <l>
@@ -420,7 +420,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Вулф_Шимеліович-Зисля">
+        <person xml:id="Вулф_Шимеліович-Зисля" role="jew">
           <persName>Зисля</persName>
           <p>дочь Вулфа Шимеліовича</p>
           <p rendition="mentions">
@@ -430,7 +430,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Вульф">
+        <person xml:id="Вульф" role="jew">
           <persName>Вульф</persName>
           <p rendition="mentions">
             <l>
@@ -439,7 +439,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Гершель_Колоднер">
+        <person xml:id="Гершель_Колоднер" role="jew">
           <persName>Гершель Колоднер</persName>
           <p rendition="mentions">
             <l>
@@ -448,7 +448,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Гирша_Јосіеліович">
+        <person xml:id="Гирша_Јосіеліович" role="jew">
           <persName>Гирша Јосіеліович</persName>
           <p rendition="mentions">
             <l>
@@ -458,7 +458,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Гирша_Давыдович">
+        <person xml:id="Гирша_Давыдович" role="jew">
           <persName>Гирша Давыдовичъ</persName>
           <p>
             <ref target="/research/Гирша_Давыдовичъ.html">К вопросу идентификации Гирша Давыдовича</ref>
@@ -492,7 +492,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зелман">
+        <person xml:id="Зелман" role="jew">
           <persName>Зелман</persName>
           <p rendition="mentions">
             <l>
@@ -501,7 +501,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зелман_Леизерович">
+        <person xml:id="Зелман_Леизерович" role="jew">
           <persName>Зелман Леизерович</persName>
           <p rendition="mentions">
             <l>
@@ -511,7 +511,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зелман_Лейбович">
+        <person xml:id="Зелман_Лейбович" role="jew">
           <persName>Зелман Лейбович</persName>
           <p rendition="mentions">
             <l>
@@ -522,7 +522,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зелман_Янкелевич">
+        <person xml:id="Зелман_Янкелевич" role="jew">
           <persName>Зелман Янкелевич</persName>
           <p rendition="mentions">
             <l>
@@ -532,7 +532,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зелман_Янкелевич-Гирша">
+        <person xml:id="Зелман_Янкелевич-Гирша" role="jew">
           <persName>Гирша</persName>
           <p>сын Зелмана Янкелевича</p>
           <p rendition="mentions">
@@ -542,7 +542,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зелман_Янкелевич-Хайка">
+        <person xml:id="Зелман_Янкелевич-Хайка" role="jew">
           <persName>Хайка</persName>
           <p>сын Зелмана Янкелевича</p>
           <p rendition="mentions">
@@ -552,7 +552,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Зельман">
+        <person xml:id="Зельман" role="jew">
           <persName>Зельман</persName>
           <p rendition="mentions">
             <l>
@@ -561,7 +561,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Ицка">
+        <person xml:id="Ицка" role="jew">
           <persName>Ицка</persName>
           <p rendition="mentions">
             <l>
@@ -574,7 +574,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Ицка_Меленrович">
+        <person xml:id="Ицка_Меленrович" role="jew">
           <persName>Ицка Меленrович</persName>
           <p rendition="mentions">
             <l>
@@ -588,7 +588,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Ицко_Саіович">
+        <person xml:id="Ицко_Саіович" role="jew">
           <persName>Ицко Саіович</persName>
           <p rendition="mentions">
             <l>
@@ -598,7 +598,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Каган">
+        <person xml:id="Каган" role="jew">
           <persName>М. Каган</persName>
           <p rendition="mentions">
             <l>
@@ -607,7 +607,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лезер_Хаймович">
+        <person xml:id="Лезер_Хаймович" role="jew">
           <persName>Лезер Хаймович</persName>
           <p rendition="mentions">
             <l>
@@ -616,7 +616,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Леизер_Нотолевич">
+        <person xml:id="Леизер_Нотолевич" role="jew">
           <persName>Леизер Нотолевич</persName>
           <p rendition="mentions">
             <l>
@@ -626,7 +626,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Беркович">
+        <person xml:id="Лейба_Беркович" role="jew">
           <persName>Лейба Беркович</persName>
           <p rendition="mentions">
             <l>
@@ -635,7 +635,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Зеликович">
+        <person xml:id="Лейба_Зеликович" role="jew">
           <persName>Лейба Зеликович</persName>
           <persName>(Лейб Зеликович)</persName>
           <p rendition="mentions">
@@ -654,7 +654,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Зеликович-Дина">
+        <person xml:id="Лейба_Зеликович-Дина" role="jew">
           <persName>Дина</persName>
           <p>
             дочь
@@ -667,7 +667,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Зеликович-Хая">
+        <person xml:id="Лейба_Зеликович-Хая" role="jew">
           <persName>Хая</persName>
           <p>
             дочь
@@ -680,7 +680,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Меіерович">
+        <person xml:id="Лейба_Меіерович" role="jew">
           <persName>Лейба Меіерович</persName>
           <p rendition="mentions">
             <l>
@@ -691,7 +691,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Меіерович-Сора">
+        <person xml:id="Лейба_Меіерович-Сора" role="jew">
           <persName>Сора</persName>
           <p>дочь Лейбы Меіеровича</p>
           <p rendition="mentions">
@@ -701,7 +701,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лейба_Юделевич">
+        <person xml:id="Лейба_Юделевич" role="jew">
           <persName>Лейба Юделевич</persName>
           <p rendition="mentions">
             <l>
@@ -710,7 +710,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Меіер_Рафалович">
+        <person xml:id="Меіер_Рафалович" role="jew">
           <persName>Меіер Рафалович</persName>
           <persName>(Меер Рафалович)</persName>
           <p>раввин и начальник Каролинской секты из Вильно</p>
@@ -755,7 +755,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Меіер_Рафалович-Шломо">
+        <person xml:id="Меіер_Рафалович-Шломо" role="jew">
           <persName>Шломо</persName>
           <p>
             сын
@@ -768,7 +768,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Меіер_Рафалович-Янкель">
+        <person xml:id="Меіер_Рафалович-Янкель" role="jew">
           <persName>Янкель</persName>
           <p>
             сын
@@ -781,7 +781,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Михель_Файбишович">
+        <person xml:id="Михель_Файбишович" role="jew">
           <persName>Михель Файбишович</persName>
           <p rendition="mentions">
             <l>
@@ -791,7 +791,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Мовша_Јосіеліович">
+        <person xml:id="Мовша_Јосіеліович" role="jew">
           <persName>Мовша Јосіеліович</persName>
           <p rendition="mentions">
             <l>
@@ -802,7 +802,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Мовша_Ицкович">
+        <person xml:id="Мовша_Ицкович" role="jew">
           <persName>Мовша Ицкович</persName>
           <p rendition="mentions">
             <l>
@@ -811,7 +811,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Мовша_Мордохович">
+        <person xml:id="Мовша_Мордохович" role="jew">
           <persName>Мовша Мордохович</persName>
           <p rendition="mentions">
             <l>
@@ -824,7 +824,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Моисей_Ошерович">
+        <person xml:id="Моисей_Ошерович" role="jew">
           <persName>Моисей Ошерович</persName>
           <p rendition="mentions">
             <l>
@@ -862,7 +862,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Мордух">
+        <person xml:id="Мордух" role="jew">
           <persName>Мордух</persName>
           <p>Ляховицкий раввин.</p>
           <p>Позднее адмор ляховицкого хасидизма, от кототорого произошли ковринский, слонимский, кайдановский и новоминский.</p>
@@ -880,7 +880,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Невахович">
+        <person xml:id="Невахович" role="jew">
           <persName>Невахович, Лев Николаевич</persName>
           <ref target="https://ru.wikipedia.org/wiki/Невахович,_Лев_Николаевич">[Википедия]</ref>
           <p rendition="mentions">
@@ -896,12 +896,12 @@
             </l>
           </p>
         </person>
-        <person xml:id="Нота_Ноткин">
+        <person xml:id="Нота_Ноткин" role="jew">
           <persName>Ноткин, Нота Хаимович</persName>
           <ref target="https://ru.wikipedia.org/wiki/Ноткин,_Нота_Хаимович">[Википедия]</ref>
           <p rendition="mentions"></p>
         </person>
-        <person xml:id="Нохим_Ицкович">
+        <person xml:id="Нохим_Ицкович" role="jew">
           <persName>Нохим Ицкович</persName>
           <p>Состоит в родстве с Рафаловичем.</p>
           <p rendition="mentions">
@@ -936,7 +936,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Нохим_Ицкович-Рыбка">
+        <person xml:id="Нохим_Ицкович-Рыбка" role="jew">
           <persName>Рыбка</persName>
           <persName>(видимо, Ривка)</persName>
           <p>
@@ -950,7 +950,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Орлин">
+        <person xml:id="Орлин" role="jew">
           <persName>Орлин Мовшович</persName>
           <p rendition="mentions">
             <l>
@@ -967,7 +967,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Перец_Хаймович">
+        <person xml:id="Перец_Хаймович" role="jew">
           <persName>Перец Хаймович</persName>
           <p rendition="mentions">
             <l>
@@ -977,7 +977,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Рафаил_Шлїомович">
+        <person xml:id="Рафаил_Шлїомович" role="jew">
           <persName>Рафаил Шлїомович</persName>
           <p rendition="mentions">
             <l>
@@ -990,7 +990,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Рафал">
+        <person xml:id="Рафал" role="jew">
           <persName>Рафал</persName>
           <p rendition="mentions">
             <l>
@@ -999,7 +999,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Саломон">
+        <person xml:id="Саломон" role="jew">
           <persName>Саломон</persName>
           <p rendition="mentions">
             <l>
@@ -1009,7 +1009,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Соломон">
+        <person xml:id="Соломон" role="jew">
           <persName>Соломон</persName>
           <p>упомянут в допросе Меера Рафаловича</p>
           <p>Карлинский, сын Аарона</p>
@@ -1023,7 +1023,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Файбишевич">
+        <person xml:id="Файбишевич" role="jew">
           <persName>Файбишевич, Юда</persName>
           <p rendition="mentions">
             <l>
@@ -1039,7 +1039,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Хаим_Рабин">
+        <person xml:id="Хаим_Рабин" role="jew">
           <persName>Хаим Рабин</persName>
           <p rendition="mentions">
             <l>
@@ -1052,7 +1052,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Хлїовна_Зорухович">
+        <person xml:id="Хлїовна_Зорухович" role="jew">
           <persName>Хлїовна Зорухович</persName>
           <p>
             Подпись:
@@ -1067,7 +1067,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Шая_Ицкович">
+        <person xml:id="Шая_Ицкович" role="jew">
           <persName>Шая Ицкович</persName>
           <p rendition="mentions">
             <l>
@@ -1077,7 +1077,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Шимель_Вульфович">
+        <person xml:id="Шимель_Вульфович" role="jew">
           <persName>Шимель Вульфович</persName>
           <p rendition="mentions">
             <l>
@@ -1086,7 +1086,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Шломо_Меиерович">
+        <person xml:id="Шломо_Меиерович" role="jew">
           <persName>Шломо Меиерович</persName>
           <p rendition="mentions">
             <l>
@@ -1095,7 +1095,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Шмуил_Хаимович">
+        <person xml:id="Шмуил_Хаимович" role="jew">
           <persName>Шмуил Хаимович</persName>
           <persName>(Шмуйл Хайкa)</persName>
           <p>Индурский раввин</p>
@@ -1111,7 +1111,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Шмуйло">
+        <person xml:id="Шмуйло" role="jew">
           <persName>Шмуйло</persName>
           <p rendition="mentions">
             <l>
@@ -1120,7 +1120,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Эліас">
+        <person xml:id="Эліас" role="jew">
           <persName>Эліас</persName>
           <p>Элияху бен Шломо Залман, виленский гаон</p>
           <p rendition="mentions">
@@ -1143,7 +1143,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Юдель_Еліашевич">
+        <person xml:id="Юдель_Еліашевич" role="jew">
           <persName>Юдель Еліашевич</persName>
           <p rendition="mentions">
             <l>
@@ -1157,7 +1157,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="рав_Яаков_Йосеф">
+        <person xml:id="рав_Яаков_Йосеф" role="jew">
           <persName>рав Яаков Йосеф из Полонного</persName>
           <ref target="https://ru.wikipedia.org/wiki/Яков_Йосеф_из_Полонного">[Википедия]</ref>
           <p rendition="mentions">
@@ -1174,7 +1174,7 @@
       </listPerson>
       <listPerson xml:id="officials">
         <head>Начальство</head>
-        <person xml:id="Александр_I">
+        <person xml:id="Александр_I" role="official">
           <persName>Александр I</persName>
           <ref target="https://ru.wikipedia.org/wiki/Александр_I">[Википедия]</ref>
           <p rendition="mentions">
@@ -1187,7 +1187,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Беклешов">
+        <person xml:id="Беклешов" role="official">
           <persName>Беклешов, Александр Андреевич</persName>
           <ref target="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
           <p>Генералъ-Прокурорь</p>
@@ -1220,12 +1220,12 @@
             </l>
           </p>
         </person>
-        <person xml:id="Бенкендорф">
+        <person xml:id="Бенкендорф" role="official">
           <persName>Бенкендорф</persName>
           <ref target="https://ru.wikipedia.org/wiki/Бенкендорф,_Христофор_Иванович">[Википедия]</ref>
           <p rendition="mentions"></p>
         </person>
-        <person xml:id="Брискорн">
+        <person xml:id="Брискорн" role="official">
           <persName>Брискорнъ</persName>
           <p>Литовский прокурор</p>
           <p rendition="mentions">
@@ -1245,7 +1245,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Булгаков">
+        <person xml:id="Булгаков" role="official">
           <persName>Булгаков</persName>
           <ref target="https://ru.wikipedia.org/wiki/Булгаков,_Яков_Иванович">[Википедия]</ref>
           <p rendition="mentions">
@@ -1295,7 +1295,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Волков">
+        <person xml:id="Волков" role="official">
           <persName>Николай Волков</persName>
           <p rendition="mentions">
             <l>
@@ -1304,7 +1304,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Де-Ласси">
+        <person xml:id="Де-Ласси" role="official">
           <persName>Де-Ласси Борис Петрович</persName>
           <ref target="https://ru.wikipedia.org/wiki/Ласси,_Борис_Петрович">[Википедия]</ref>
           <p>Генералъ Губернаторъ</p>
@@ -1326,7 +1326,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Державин">
+        <person xml:id="Державин" role="official">
           <persName>Державин</persName>
           <ref target="https://ru.wikipedia.org/wiki/Державин,_Гавриил_Романович">[Википедия]</ref>
           <p rendition="mentions">
@@ -1336,7 +1336,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Добрынин">
+        <person xml:id="Добрынин" role="official">
           <persName>Добрынин</persName>
           <p rendition="mentions">
             <l>
@@ -1349,7 +1349,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Елиашевич">
+        <person xml:id="Елиашевич" role="official">
           <persName>Елиашевич Федор Петрович</persName>
           <p rendition="mentions">
             <l>
@@ -1371,7 +1371,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Жегулин">
+        <person xml:id="Жегулин" role="official">
           <persName>Жегулин</persName>
           <p>Белорусский губернатор</p>
           <ref target="https://ru.wikipedia.org/wiki/Жегулин,_Семён_Семёнович">[Википедия]</ref>
@@ -1400,7 +1400,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Капцевич">
+        <person xml:id="Капцевич" role="official">
           <persName>Капцевич</persName>
           <ref target="https://ru.wikipedia.org/wiki/Капцевич,_Пётр_Михайлович">[Википедия]</ref>
           <ref target="http://encyclopedia.mil.ru/encyclopedia/heroes/USSR/more.htm?id=11900777@morfHeroes"/>
@@ -1422,7 +1422,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Карнеевъ">
+        <person xml:id="Карнеевъ" role="official">
           <persName>Корнеевъ</persName>
           <p>Минский губернатор</p>
           <ref target="https://ru.wikipedia.org/wiki/Корнеев,_Захарий_Яковлевич">[Википедия]</ref>
@@ -1453,7 +1453,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Козминский">
+        <person xml:id="Козминский" role="official">
           <persName>Козминский</persName>
           <p>секретарь</p>
           <p rendition="mentions">
@@ -1464,7 +1464,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Кутузов">
+        <person xml:id="Кутузов" role="official">
           <persName>Кутузов</persName>
           <p>Литовский военный губернатор</p>
           <ref target="https://ru.wikipedia.org/wiki/Кутузов,_Михаил_Илларионович">[Википедия]</ref>
@@ -1513,7 +1513,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Лопухин">
+        <person xml:id="Лопухин" role="official">
           <persName>Лопухин</persName>
           <ref target="https://ru.wikipedia.org/wiki/Лопухин,_Пётр_Васильевич">[Википедия]</ref>
           <p rendition="mentions">
@@ -1553,7 +1553,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Мириц">
+        <person xml:id="Мириц" role="official">
           <persName>Мириц, А.</persName>
           <p rendition="mentions">
             <l>
@@ -1562,7 +1562,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Неплюев">
+        <person xml:id="Неплюев" role="official">
           <persName>Неплюев</persName>
           <p rendition="mentions">
             <l>
@@ -1575,7 +1575,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Обольянинов">
+        <person xml:id="Обольянинов" role="official">
           <persName>Обольянинов</persName>
           <p>генерал-прокурор</p>
           <ref target="https://ru.wikipedia.org/wiki/Обольянинов,_Пётр_Хрисанфович">[Википедия]</ref>
@@ -1663,7 +1663,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Огинский">
+        <person xml:id="Огинский" role="official">
           <persName>Огинский</persName>
           <p rendition="mentions">
             <l>
@@ -1672,7 +1672,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Оленин">
+        <person xml:id="Оленин" role="official">
           <persName>Оленин</persName>
           <p rendition="mentions">
             <l>
@@ -1692,7 +1692,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Павел_I">
+        <person xml:id="Павел_I" role="official">
           <persName>Павел I</persName>
           <ref target="https://ru.wikipedia.org/wiki/Павел_I">[Википедия]</ref>
           <p rendition="mentions">
@@ -1735,7 +1735,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Петров">
+        <person xml:id="Петров" role="official">
           <persName>Петров</persName>
           <p>Сенатский курьер</p>
           <p rendition="mentions">
@@ -1756,7 +1756,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Розенберг">
+        <person xml:id="Розенберг" role="official">
           <persName>Розенберг</persName>
           <p rendition="mentions">
             <l>
@@ -1777,7 +1777,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Сафонов">
+        <person xml:id="Сафонов" role="official">
           <persName>Сафоновъ</persName>
           <p rendition="mentions">
             <l>
@@ -1791,7 +1791,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Северин">
+        <person xml:id="Северин" role="official">
           <persName>Северинъ</persName>
           <p>Белорусский губернатор</p>
           <p rendition="mentions">
@@ -1816,7 +1816,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Сукин">
+        <person xml:id="Сукин" role="official">
           <persName>Сукин</persName>
           <p>Сенатский курьер</p>
           <p rendition="mentions">
@@ -1837,7 +1837,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Тарбеев">
+        <person xml:id="Тарбеев" role="official">
           <persName>Петръ Тарабеевъ</persName>
           <p>Тарбеев, Петр Матфеевич, тайный советник, белорусско-витебский гражданский губернатор с 1801 г.</p>
           <p rendition="mentions">
@@ -1852,7 +1852,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Тормасов">
+        <person xml:id="Тормасов" role="official">
           <persName>Тормасовъ</persName>
           <p>Литовский губернский прокурор</p>
           <p rendition="mentions">
@@ -1867,7 +1867,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Тутолмин">
+        <person xml:id="Тутолмин" role="official">
           <persName>Тутолмин</persName>
           <p rendition="mentions">
             <l>
@@ -1880,7 +1880,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Фризель">
+        <person xml:id="Фризель" role="official">
           <persName>Фризель</persName>
           <p>Иван Григорьевич Фризель</p>
           <p>Литовский гражданский губернатор в 1799-1801 гг.</p>
@@ -1918,7 +1918,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Хрущов">
+        <person xml:id="Хрущов" role="official">
           <persName>Хрущов</persName>
           <p rendition="mentions">
             <l>
@@ -1938,7 +1938,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Чечерский">
+        <person xml:id="Чечерский" role="official">
           <persName>Чечерский</persName>
           <p>Ксёндз</p>
           <p rendition="mentions">
@@ -1953,7 +1953,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="фонъ_Дер_Пален">
+        <person xml:id="фонъ_Дер_Пален" role="official">
           <persName>граф фон Пален</persName>
           <p rendition="mentions">
             <l>
@@ -3370,7 +3370,7 @@
       </listOrg>
       <listPerson xml:id="transcribers">
         <head>Расшифровщики</head>
-        <person xml:id="ALD">
+        <person xml:id="ALD" role="transcriber">
           <persName>Арье-Лейб Дубинский</persName>
           <p rendition="mentions">
             <l>
@@ -3425,7 +3425,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="BG">
+        <person xml:id="BG" role="transcriber">
           <persName>Борух Горкин</persName>
           <p rendition="mentions">
             <l>
@@ -3434,7 +3434,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="IA">
+        <person xml:id="IA" role="transcriber">
           <persName>Ифрах Абрамов</persName>
           <p rendition="mentions">
             <l>
@@ -3465,7 +3465,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="IL">
+        <person xml:id="IL" role="transcriber">
           <persName>Илья Лурье</persName>
           <p>работал по заказу и под руководством Мондшайна</p>
           <p rendition="mentions">
@@ -3531,7 +3531,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="MF">
+        <person xml:id="MF" role="transcriber">
           <persName>Мендел Феллер</persName>
           <p rendition="mentions">
             <l>
@@ -3540,7 +3540,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="MK">
+        <person xml:id="MK" role="transcriber">
           <persName>Михоэль Кориц</persName>
           <p rendition="mentions">
             <l>
@@ -3549,7 +3549,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="SB">
+        <person xml:id="SB" role="transcriber">
           <persName>Сергей Броуде</persName>
           <p rendition="mentions">
             <l>
@@ -3558,7 +3558,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="VK">
+        <person xml:id="VK" role="transcriber">
           <persName>Василий Когаловский</persName>
           <p rendition="mentions">
             <l>
@@ -3695,7 +3695,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Гессенъ">
+        <person xml:id="Гессенъ" role="transcriber">
           <persName>Гессенъ, Юлий Исидорович</persName>
           <ref target="https://ru.wikipedia.org/wiki/Гессен,_Юлий_Исидорович">[Википедия]</ref>
           <p rendition="mentions">
@@ -3705,7 +3705,7 @@
             </l>
           </p>
         </person>
-        <person xml:id="Дубнов">
+        <person xml:id="Дубнов" role="transcriber">
           <persName>Дубнов</persName>
           <ref target="https://ru.wikipedia.org/wiki/Дубнов,_Семён_Маркович">[Википедия]</ref>
           <p rendition="mentions">
