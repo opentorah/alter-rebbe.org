@@ -3,9 +3,6 @@ title: Hosting
 layout: page
 ---
 
-Static site is hosted on GitHub pages.
-Facsimiles are in a Google Cloud Storage bucket `facsimiles.alter-rebbe.org`.
-
 This is what I did:
 - bucket `facsimiles.alter-rebbe.org` created;
 - CNAME for it pointing to `c.storage.googleapis.com` added;
@@ -17,7 +14,5 @@ This is what I did:
 Remains to be done:
 - fix the code that looks for facsimiles in the repository
   (use Google API to get (and cache?) bucket structure?);
-
-Maybe:
-- add link to the full-size facsimiles;
-- upload them into the bucket.
+- add CDN?
+  

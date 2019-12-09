@@ -159,6 +159,35 @@ layout: page
 для работы образом.
 
 
+## Colophon ##
+
+Documents and code for the website are in a GitHub repository:
+
+<ul class="social-media-list">
+  <li>
+    <a href="https://github.com/digitaljudaica/alter-rebbe.org">
+      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
+      <span class="username">repository</span>
+    </a>
+  </li>
+</ul>
+
+<a href="https://github.com/digitaljudaica/alter-rebbe.org/actions">
+  <img src="https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg"/>
+</a>
+
+Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
+
+TEI documents are displayed with [CETEIcean](https://github.com/TEIC/CETEIcean).
+
+Static site generated with [Jekyll](https://jekyllrb.com/) using customized
+[Minima](https://github.com/jekyll/minima) theme.
+
+Static site is hosted on [GitHub Pages](https://pages.github.com/).
+
+Facsimiles are hosted in a Google Cloud Storage bucket `facsimiles.alter-rebbe.org`
+and are retrievable only using exact URLs. 
+
 <script type="module">
   window.name = "collectionViewer"
 </script>

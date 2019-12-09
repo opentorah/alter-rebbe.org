@@ -3,8 +3,6 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -18,37 +16,18 @@
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
-          <li>encoded using <a href="https://tei-c.org/guidelines/p5/" target="collectionViewer">TEI Guidelines</a></li>
-          <li>published on <a href="https://pages.github.com/" target="collectionViewer">GitHub Pages</a></li>
-          <li>with <a href="https://jekyllrb.com/" target="collectionViewer"
-          >Jekyll</a>/<a href="https://github.com/jekyll/minima" target="collectionViewer">Minima</a> and
-            <a href="https://github.com/TEIC/CETEIcean" target="collectionViewer">CETEIcean</a></li>
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          <li>
-            <a href="https://github.com/digitaljudaica/alter-rebbe.org">
-              <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
-              <span class="username">repository</span>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/digitaljudaica/alter-rebbe.org/actions">
-              <img src="https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg"/>
-            </a>
-          </li>
-        </ul>
-
         {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
         <p>
-          Documents and facsimiles license: <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>.<br/>
-          A <a href="http://www.digitaljudaica.org/" target="collectionViewer">Digital Judaica</a> project.
+          documents related to early Chabad history<br/>
+          licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a> by
+          <a href="http://www.digitaljudaica.org/" target="collectionViewer">Digital Judaica</a>
         </p>
       </div>
     </div>
