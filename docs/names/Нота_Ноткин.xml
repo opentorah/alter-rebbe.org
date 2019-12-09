@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person role="jew">
-  <persName>Ноткин, Нота Хаимович</persName>
-  <ref target="https://ru.wikipedia.org/wiki/Ноткин,_Нота_Хаимович">[Википедия]</ref>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="Нота_Ноткин" role="jew">
+        <persName>Ноткин, Нота Хаимович</persName>
+        <ref target="https://ru.wikipedia.org/wiki/Ноткин,_Нота_Хаимович">[Википедия]</ref>
+        <p rendition="mentions">
+          <ref target="/names.html#Нота_Ноткин" role="namesViewer">[...]</ref>
+        </p>
+      </person>
+    </body>
+  </text>
+</TEI>

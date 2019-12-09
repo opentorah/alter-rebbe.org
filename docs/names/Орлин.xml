@@ -1,4 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person role="jew">
-  <persName>Орлин Мовшович</persName>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="Орлин" role="jew">
+        <persName>Орлин Мовшович</persName>
+        <p rendition="mentions">
+          <ref target="/names.html#Орлин" role="namesViewer">[...]</ref>
+          <l>
+            Дубнов:
+            <ref target="/collections/dubnov/documents/273.html" role="documentViewer">273</ref>
+          </l>
+          <l>
+            РГАДА 3140:
+            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <ref target="/collections/rgada/documents/105.html" role="documentViewer">105</ref>
+            <ref target="/collections/rgada/documents/117.html" role="documentViewer">117</ref>
+            <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+          </l>
+        </p>
+      </person>
+    </body>
+  </text>
+</TEI>

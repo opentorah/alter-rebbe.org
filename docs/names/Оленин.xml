@@ -1,4 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person role="official">
-  <persName>Оленин</persName>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="Оленин" role="official">
+        <persName>Оленин</persName>
+        <p rendition="mentions">
+          <ref target="/names.html#Оленин" role="namesViewer">[...]</ref>
+          <l>
+            Дубнов:
+            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+            <ref target="/collections/dubnov/documents/268.3.html" role="documentViewer">268.3</ref>
+            <ref target="/collections/dubnov/documents/271.html" role="documentViewer">271</ref>
+          </l>
+          <l>
+            РГИА 328:
+            <ref target="/collections/rgia328/documents/001.html" role="documentViewer">001</ref>
+          </l>
+          <l>
+            РГИА 413:
+            <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref>
+            <ref target="/collections/rgia413/documents/021.html" role="documentViewer">021</ref>
+          </l>
+        </p>
+      </person>
+    </body>
+  </text>
+</TEI>

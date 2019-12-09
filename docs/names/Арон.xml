@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person role="jew">
-  <persName>Арон</persName>
-  <p>Карлинский</p>
-  <ref target="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB%D0%BE%D0%B2,_%D0%90%D0%B0%D1%80%D0%BE%D0%BD">[Википедия]</ref>
-</person>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="Арон" role="jew">
+        <persName>Арон</persName>
+        <p>Карлинский</p>
+        <ref target="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB%D0%BE%D0%B2,_%D0%90%D0%B0%D1%80%D0%BE%D0%BD">
+          [Википедия]
+        </ref>
+        <p rendition="mentions">
+          <ref target="/names.html#Арон" role="namesViewer">[...]</ref>
+          <l>
+            Дубнов:
+            <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
+          </l>
+          <l>
+            РГАДА 3140:
+            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+            <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
+          </l>
+        </p>
+      </person>
+    </body>
+  </text>
+</TEI>
