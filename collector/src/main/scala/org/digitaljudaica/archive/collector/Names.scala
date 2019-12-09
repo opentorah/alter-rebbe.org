@@ -4,27 +4,28 @@ import scala.xml.{Elem, Text}
 import Xml.Ops
 
 final class Names(layout: Layout, errors: Errors) {
-  val nameds: Seq[Named] = Named.parse(layout, namesContainer = this, layout.namesDirectory, errors)
-
   val xml: Elem = Xml.load(layout.docs, layout.namesListsFileName).check("names")
   val elements: Seq[Elem] = xml.elements
   val head: String = elements.head.check("head").text
+  val nameds: Seq[Named] = Named.parse(layout, namesContainer = this, layout.namesDirectory, errors)
+  val lists: Seq[NamesList] = elements.tail.map(element => NamesList(element, nameds))
 
-  val lists: Seq[NamesList] = elements.tail.map(element => NamesList.parse(element, nameds))
-
-  for ((id, nameds) <- lists.groupBy(_.name).filter(_._2.length != 1)) {
-    errors.error(s"Duplicate list ids: $id - $nameds")
-  }
-
-  for ((id, nameds) <- nameds.groupBy(_.id).filter(_._2.length != 1)) {
-    errors.error(s"Duplicate named ids: $id - $nameds")
-  }
+  val duplicateIds: Map[String, Seq[String]] = (lists.map(_.id) ++ nameds.map(_.id)).groupBy(id => id).filter(_._2.length != 1)
+  if (duplicateIds.nonEmpty)
+    errors.error(s"Duplicate ids: $duplicateIds")
 
   errors.check()
 
   val references: Seq[Reference] = nameds.flatMap(_.references)
 
-  def isResolvable(name: Reference): Boolean = nameds.exists(_.id.contains(name.ref.get))
+  private def isResolvable(name: Reference): Boolean = {
+    val result = nameds.find(_.id == name.ref.get)
+    result.isDefined && {
+      val entity = result.get.entity
+      if (result.get.entity != name.entity) errors.error(s"${name.entity} reference to $entity ${result.get.name}: $name [${name.ref.get}]")
+      true
+    }
+  }
 
   def processReferences(documentReferences: Seq[Reference]): Unit = {
     val references: Seq[Reference] = (this.references ++ documentReferences).filterNot(_.name == "?")
@@ -41,18 +42,31 @@ final class Names(layout: Layout, errors: Errors) {
 
     errors.check()
 
-    val nonEmptyLists = lists.filterNot(_.nameds.isEmpty)
+    // Individual names
+    for (named <- nameds) Util.writeTei(
+      directory = layout.namesDirectory,
+      fileName = named.id,
+      head = None,
+      content = named.toXml(references),
+      target = "namesViewer"
+    )
+
+    // List of all names
+    val nonEmptyLists = lists.filterNot(_.isEmpty)
     val content: Seq[Elem] =
-      <p>{
-        for (list <- nonEmptyLists)
-          yield <l><ref target={layout.namedUrl(list.name)} role="namesViewer">{list.head}</ref></l>}
-      </p> +:
-         (for (list <- nonEmptyLists) yield list.addMentions(references).toXml)
+      <p>{for (list <- nonEmptyLists)
+        yield <l><ref target={layout.namedInTheListUrl(list.id)} role="namesViewer">{list.head}</ref></l>}</p> +:
+        (for (list <- nonEmptyLists) yield
+          <list xml:id={list.id} role={list.role.orNull}>
+            <head>{list.head}</head>
+            {for (named <- list.nameds) yield named.toListXml}
+          </list>
+            .copy(label = list.entity.listElement))
 
     Util.writeTei(
       directory = layout.namesFileDirectory,
       fileName = layout.namesFileName,
-      head = Text(head),
+      head = Some(Text(head)),
       content,
       target = "namesViewer"
     )
