@@ -7,14 +7,28 @@ layout: page
 {:toc}
 ## Подача материала ##
 
-Содержимое сайта находится в GitHub repository
-[https://github.com/digitaljudaica/alter-rebbe.org](https://github.com/digitaljudaica/alter-rebbe.org).
+Содержимое сайта находится в GitHub repository https://github.com/digitaljudaica/alter-rebbe.org
+
+<ul class="social-media-list">
+  <li>
+    <a href="https://github.com/digitaljudaica/alter-rebbe.org">
+      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
+      <span class="username">repository</span>
+    </a>
+  </li>
+</ul>
+
+<a href="https://github.com/digitaljudaica/alter-rebbe.org/actions">
+  <img src="https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg"/>
+</a>
 
 Рекомендуемый способ участия в расшифровке, исправлении ошибок и т.д. - открыть GitHub pull request.
 Если прогресс (пока) не пришёл в Ваш дом, и термины GitHub, repository и pull request Вам ничего не
 говорят - можно воспользоваться электронной почтой по адресу [dub@podval.org](mailto:dub@podval.org).
 
 [![Gitter](https://badges.gitter.im/alter-rebbe-org/community.svg)](https://gitter.im/alter-rebbe-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+Рассылка: alter-rebbe@podval.org.
 
 ## Формат ##
 
@@ -68,7 +82,7 @@ layout: page
 
 Во всех файлах уже проставлены начала страниц (`pb`, "page beginning"):
 ```xml
-  <pb xml:id="p002-1" n="002-1" facs="../facsimiles/002-1.jpg"/>
+  <pb xml:id="p002-1" n="002-1" facs="https://facsimiles.alter-rebbe.org/facsimiles/rgada/facsimiles/002-1.jpg"/>
 ```
 Расшифровка текста страницы должна следовать за её началом :)
 
