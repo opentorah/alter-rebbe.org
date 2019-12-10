@@ -1024,16 +1024,21 @@
         <row>
           <cell rendition="description">
             <p>
-              О заведенной Евреями
-              <orgName ref="Хасиды">Секте Каролинов</orgName>
-              – доклад
+              Доклад
               <persName ref="Лопухин">Лопухина</persName>
-              императору о всей истории ареста. На первой странице резолюция императора от 16 ноября 1798 года (19 кислева)
+              императору о хасидах
+              <orgName ref="Хасиды">Секте Каролинов</orgName>
+              и резолюция
+              <persName ref="Павел_I">Павла I</persName>
+              об осовобождении
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и других взятых под стражу хасидов
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1798-11-16</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
+            <persName ref="Павел_I">Павел I</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -1049,7 +1054,7 @@
             <ref target="documents/081.html#p083-2" role="documentViewer" rendition="page">083об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
