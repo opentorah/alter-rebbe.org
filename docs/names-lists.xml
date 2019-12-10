@@ -16,6 +16,9 @@
     <listOrg xml:id="organizations">
         <head>Организации</head>
     </listOrg>
+    <listOrg xml:id="organizations" role="archive">
+        <head>Архивы</head>
+    </listOrg>
     <listPerson xml:id="transcribers" role="transcriber">
         <head>Расшифровщики</head>
     </listPerson>

@@ -7,7 +7,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 19 Kislev Archive
+# I already do not show it in the footer, so the on;y thing this controls is the "Home" link - and I want it to be...:
+#title: 19 Kislev Archive
+title: 'Документы'
+
 author: "www.alter-rebbe.org"
 email: dub@podval.org
 
@@ -31,6 +34,9 @@ exclude:
   - Gemfile.lock
 
 header_pages:
-  - collections.html
   - names.html
+  - collections.html
   - blog.md
+  - help.md
+  - about.md
+
