@@ -17,4 +17,9 @@
 
   </body>
 
+  {%- if page.windowName -%}
+  <script type="module">
+    window.name = "{{ page.windowName }}"
+  </script>
+  {%- endif -%}
 </html>
