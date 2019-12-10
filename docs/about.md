@@ -1,5 +1,5 @@
 ---
-title: Архив 19 Кислева
+title: 'О сайте'
 layout: page
 ---
 

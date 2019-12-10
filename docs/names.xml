@@ -35,6 +35,9 @@
           <ref target="/names.html#organizations" role="namesViewer">Организации</ref>
         </l>
         <l>
+          <ref target="/names.html#organizations" role="namesViewer">Архивы</ref>
+        </l>
+        <l>
           <ref target="/names.html#transcribers" role="namesViewer">Расшифровщики</ref>
         </l>
       </p>
@@ -847,6 +850,44 @@
         <l>
           <ref target="/names/губернское_правление.html" role="namesViewer">
             <orgName>губернское правление</orgName>
+          </ref>
+        </l>
+      </listOrg>
+      <listOrg xml:id="organizations" role="archive">
+        <head>Архивы</head>
+        <l>
+          <ref target="/names/CAHJP.html" role="namesViewer">
+            <orgName>CAHJP</orgName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/LNA.html" role="namesViewer">
+            <orgName>LNA Riga</orgName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/LVIA.html" role="namesViewer">
+            <orgName>LVIA Vilniua</orgName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/НИАБ.html" role="namesViewer">
+            <orgName>НИАБ Минск</orgName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/РГАДА.html" role="namesViewer">
+            <orgName>РГАДА Москва</orgName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/РГИА.html" role="namesViewer">
+            <orgName>РГИА</orgName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/РНБ.html" role="namesViewer">
+            <orgName>РНБ</orgName>
           </ref>
         </l>
       </listOrg>

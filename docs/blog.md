@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Blog
+title: Блог
 ---
 
 [Tags](/tags.html)
