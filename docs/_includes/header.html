@@ -46,6 +46,10 @@
           <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⎙</a>
           {%- endif -%}
 
+          {%- if page.transcript -%}
+          <a class="page-link" href="{{ page.transcript }}" target='documentViewer'>A</a>
+          {%- endif -%}
+
           {%- for lang in page.translations -%}
           <a class="page-link" href='{{ page.thisDocument }}-{{ lang }}.html'>{{ lang }}</a>
           {%- endfor -%}
