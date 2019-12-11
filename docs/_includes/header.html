@@ -31,19 +31,19 @@
           {%- endif -%}
 
           {%- if page.prevDocument -%}
-          <a class="page-link" href="{{ page.prevDocument }}.html">{{ page.prevDocument }}</a>
+          <a class="page-link" href="{{ page.prevDocument }}.html">⇦</a>
           {%- endif -%}
 
           {%- if page.thisDocument -%}
-          <a class="page-link" href="{{ page.thisDocument }}.html"><{{ page.thisDocument }}></a>
+          <a class="page-link" href="{{ page.thisDocument }}.html">{{ page.thisDocument }}</a>
           {%- endif -%}
 
           {%- if page.nextDocument -%}
-          <a class="page-link" href="{{ page.nextDocument }}.html">{{ page.nextDocument }}</a>
+          <a class="page-link" href="{{ page.nextDocument }}.html">⇨</a>
           {%- endif -%}
 
           {%- if page.facs -%}
-          <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⏿</a>
+          <a class="page-link" href="{{ page.facs }}" target='facsimileViewer'>⎙</a>
           {%- endif -%}
 
           {%- for lang in page.translations -%}
