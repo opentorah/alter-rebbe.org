@@ -551,9 +551,11 @@
           <cell rendition="description">?</cell>
           <cell rendition="date">1798-10-07</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Гавриил_Новгородский">митрополит Гаврила Новгородский</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Жегулин">Жегулину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/035.html" role="documentViewer">035</ref>
