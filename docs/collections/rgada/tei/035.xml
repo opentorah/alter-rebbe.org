@@ -5,8 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title type="main">?</title>
+                 <persName ref="Жегулин">Жегулин</persName>
         <author>
-          <persName>?</persName>
+          <persName ref=Гавриил_Новгородский>митрополит Гаврила Новгородский</persName>
         </author>
       </titleStmt>
       <publicationStmt>
@@ -40,6 +41,11 @@
       <creation>
         <date when="1798-10-07">7 октября 1798</date>
       </creation>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Жегулин" role="addressee">Жегулину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
