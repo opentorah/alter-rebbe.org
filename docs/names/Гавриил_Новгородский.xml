@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="Гавриил_Новгородский" role="jew">
+        <persName>Гавриил Новгородский</persName>
+        <p> <ref target="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%B8%D0%BB_(%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2)">[Википедия]</ref>  </p>
+        <p rendition="mentions">
+          <ref target="/names.html#Гавриил_Новгородский" role="namesViewer">[...]</ref>
+                 </p>
+      </person>
+    </body>
+  </text>
+</TEI>
