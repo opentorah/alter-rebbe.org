@@ -45,6 +45,12 @@
       <abstract>
         <p>Распоряжение <persName ref="Обольянинов">Обольянинова</persName>, направленное <persName ref="Северин">Северину</persName> о доставке <persName ref="alter-rebbe">Боруховича</persName> в <placeName ref="Петербург">Петербург</placeName></p>
       </abstract>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Северин" role="addressee">Северину</persName>
+    </correspAction>
+  </correspDesc>
+
     </profileDesc>
   </teiHeader>
   <text>
@@ -74,11 +80,12 @@
       <l>Его п-ву <persName ref="Северин">Северину</persName></l>
       </closer>
  <p>     
- <l>Рукой Г-на Генералъ Прокурора^</l>
- <l>P.S. Или не хранzтся ли его книги и перепи-</l>
- <l>ска у кого инова къ закрытiю, то </l>
+ <l>Рукой Г-на Генералъ Прокурора:</l>
+ <l>P.S. Или не хранятся ли его книги и перепи-</l>
+ <l>ска у кого инова къ закрытiю, то</l>
  <l>постарайтесь отыскать и доставить</l>
- <l>ко мнѢ.</l></p>
+ <l>ко мнѢ.</l>
+      </p>
      </body>
   </text>
 </TEI>
