@@ -4988,8 +4988,18 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Официальное сообщение о резолюции
+              <persName ref="Павел_I">императора</persName>
+              о прекращении дела по обвинениям со стороны
+              <persName ref="Авигдор">Авигдора Хаймовича</persName>
+              в адрес
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и передаче дела о хасидах и кагалах литовского толка в сента
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-27</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -5001,7 +5011,9 @@
           <cell rendition="pages">
             <ref target="documents/327.html#p327-1" role="documentViewer" rendition="page">327</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
