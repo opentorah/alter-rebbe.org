@@ -4952,27 +4952,26 @@
         <row>
           <cell rendition="description">
             <p>
-              О
-              <persName ref="alter-rebbe">евреѢ БоруховичѢ</persName>
-              (
+              Доклад
+              <persName ref="Обольянинов">Обольянинова</persName>
+              <persName ref="Павел_I">императору</persName>
+              о рассмотрении дела
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
             </p>
             <p>
-              Императорское решение о рассмотрении дела
+              Резолюция императора об освобождении
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и о рассмотрении дела
               <orgName ref="Сенат">Сенатом</orgName>
-              <date when="1801-03-21">Марта 21-го 1801 года</date>
-            </p>
-            <p>
-              Императорское решение
-              <persName ref="alter-rebbe">Еврея Боруховича</persName>
-              освободя отпустить въ домъ Его.
-              <date when="1800-11-26">1800 года ноября 26 дня</date>
             </p>
           </cell>
           <cell rendition="date">1800-11-21</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольянинов">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Павел_I">Павлу I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/325.html" role="documentViewer">325</ref>
