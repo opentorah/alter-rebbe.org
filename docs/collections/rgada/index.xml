@@ -5020,8 +5020,14 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Подписи
+              <persName ref="alter-rebbe">Залмана Боруховича</persName>
+              и его поручителей в связи с переводом из-под стражи под домашний арест
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-28</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -5033,7 +5039,9 @@
           <cell rendition="pages">
             <ref target="documents/329.html#p329-1" role="documentViewer" rendition="page">329</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
