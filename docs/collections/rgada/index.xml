@@ -5084,12 +5084,26 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Беклешов">Беклешова</persName>
+              <persName ref="фонъ_Дер_Пален">Палену</persName>
+              о решении императора освободить
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и отпустить из
+              <placeName ref="Петербург">Петербурга</placeName>
+              в
+              <placeName ref="Лозна">Лиозно</placeName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1801-03-27</cell>
+          <cell rendition="author">
+            <persName ref="Беклешов">Александр Андреевич Беклешов</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="фонъ_Дер_Пален">Палену</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/333.html" role="documentViewer">333</ref>
@@ -5097,7 +5111,9 @@
           <cell rendition="pages">
             <ref target="documents/333.html#p333-1" role="documentViewer" rendition="page">333</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
