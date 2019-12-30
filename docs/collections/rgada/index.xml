@@ -4882,7 +4882,10 @@
         <row>
           <cell rendition="description">
             <p>
-              О доставке
+              Распоряжение
+              <persName ref="Обольянинов">Обольянинова</persName>, направленное
+              <persName ref="Северин">Северину</persName>
+              о доставке
               <persName ref="alter-rebbe">Боруховича</persName>
               в
               <placeName ref="Петербург">Петербург</placeName>
@@ -4890,9 +4893,11 @@
           </cell>
           <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольянинов">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Северин">Северину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/322.html" role="documentViewer">322</ref>
