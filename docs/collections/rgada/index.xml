@@ -5148,7 +5148,9 @@
           <cell rendition="pages">
             <ref target="documents/332.html#p332-1" role="documentViewer" rendition="page">332</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -5188,7 +5190,9 @@
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Тарбеев">Тарбееву</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/334.html" role="documentViewer">334</ref>
@@ -5196,7 +5200,9 @@
           <cell rendition="pages">
             <ref target="documents/334.html#p334-1" role="documentViewer" rendition="page">334</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
@@ -5220,7 +5226,7 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Заставка: Очные Ставки.</p>
+            <p>Заголовок раздела: Очные Ставки.</p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
