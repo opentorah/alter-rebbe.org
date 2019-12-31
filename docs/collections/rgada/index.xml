@@ -4797,10 +4797,17 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Черновик перевода письменных показаний
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              в виде ответов по пунктам на жалобу, поданную
+              <persName ref="Авигдор">Авигдором Хаймовичем</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-??</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="alter-rebbe">Шнеур Залман</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -4882,7 +4889,10 @@
         <row>
           <cell rendition="description">
             <p>
-              О доставке
+              Распоряжение
+              <persName ref="Обольянинов">Обольянинова</persName>, направленное
+              <persName ref="Северин">Северину</persName>
+              о доставке
               <persName ref="alter-rebbe">Боруховича</persName>
               в
               <placeName ref="Петербург">Петербург</placeName>
@@ -4890,9 +4900,11 @@
           </cell>
           <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольянинов">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Северин">Северину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/322.html" role="documentViewer">322</ref>
@@ -4906,13 +4918,22 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>О поручении оберъ-полицiймейстеру Зильбергарнишу</p>
+            <p>
+              Сообщение
+              <persName ref="фонъ_Дер_Пален">Палена</persName>, направленное
+              <persName ref="Обольянинов">Обольянинову</persName>
+              о поручении оберъ-полицiймейстеру Зильбергарнишу доставить
+              <persName ref="Авигдор">Авигдора Хаймовича</persName>
+              на допрос
+            </p>
           </cell>
           <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
             <persName ref="фонъ_Дер_Пален">фон Пален</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/323.html" role="documentViewer">323</ref>
