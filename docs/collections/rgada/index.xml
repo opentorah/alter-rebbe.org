@@ -5083,9 +5083,11 @@
           <cell rendition="description">?</cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Обольянинов">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="фонъ_Дер_Пален">Палену</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/330.html" role="documentViewer">330</ref>
@@ -5093,7 +5095,9 @@
           <cell rendition="pages">
             <ref target="documents/330.html#p330-1" role="documentViewer" rendition="page">330</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
