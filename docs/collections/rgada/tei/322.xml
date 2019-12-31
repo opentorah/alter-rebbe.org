@@ -6,9 +6,10 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="Обольянинов">Обольянинов</persName>
         </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -42,35 +43,49 @@
         <date when="1800-11-16">16 Ноября 1800</date>
       </creation>
       <abstract>
-        <p>О доставке <persName ref="alter-rebbe">Боруховича</persName> в <placeName ref="Петербург">Петербург</placeName></p>
+        <p>Распоряжение <persName ref="Обольянинов">Обольянинова</persName>, направленное <persName ref="Северин">Северину</persName> о доставке <persName ref="alter-rebbe">Боруховича</persName> в <placeName ref="Петербург">Петербург</placeName></p>
       </abstract>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Северин" role="addressee">Северину</persName>
+    </correspAction>
+  </correspDesc>
+
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p322-1" n="322-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/322-1.jpg"/>
-    <fw type="pageNum" place="right">322</fw>
+    <fw type="pageNum" place="right">322</fw><fw type="pageNum" place="right"><del rend="overstrike">325</del></fw>
  <l>16 Ноября 1800 </l>
- <l>М Г мой Петръ Ивановичъ</l>
-      <l>Начальникъ <orgName ref="Хасиды">Каролинской секты</orgName> <persName ref="alter-rebbe">Еврей<lb/>
+<p>
+<l>М Г мой Петръ Ивановичъ</l>
+      <l>Началникъ <orgName ref="Хасиды">Каролинской секты</orgName> <persName ref="alter-rebbe">Еврей<lb/>
      Боруховичъ</persName> отправленной отъ вашего</l>
- <l>превосход-ва при сообщенiи отъ 9-го сего ноября</l>
+ <l>превосход-ва при сообщенiи отъ 9<hi rend="superscript">о</hi> сего ноября</l>
+ <l><del rend="overstrike">съ нарочно посланными за нимъ двумя</del></l>
  <l>сенатскими курiерами доставленъ сюда</l>
- <l>исправно. А какъ никакихъ бумагъ и книгъ по</l>
- <l>коимъ производилъ онъ свой учетъ и какую велъ переписку</l>
- <l>не доставлено то прошу васъ м.г. мой</l>
- <l>приказать въ жилище его обыскать и что у него изъ сихъ документов найдено будетъ, прислать ко мне.</l>
- <l>пребываю впрочем съ истиннымъ почтениемъ</l>
- <l>мгмой</l>
+ <l>исправно. А какъ никакихъ бумагъ и книгъ <del rend="overstrike">его</del> по</l>
+ <l>коимъ производилъ <del rend="overstrike">велъ</del> онъ свой учетъ, <del rend="overstrike">и ничего другаго</del> <hi rend="superscript">и какую велъ <del rend="overstrike">онъ</del> переписку</hi></l>
+ <l><del rend="overstrike">съ нимъ не привезено</del> <hi rend="superscript">не доставлено</hi>: то <del rend="overstrike"><unclear>??? ???</unclear></del>прошу васъ м.г. мой</l>
+ <del rend="overstrike">онаго и о присылкѣ <unclear>??? ???</unclear></del>
+ <l>приказать <hi rend="superscript">въ жилище его обыскать</hi> и что у него изъ сихъ документов найдено будетъ, прислать ко мнѣ.</l>
+ <l><del rend="overstrike"><unclear>??? ???</unclear></del> пребываю впрочем съ истиннымъ почтениемъ</l>
+ <l>м:г:<note place="end">милостивый государь</note> мой</l>
+ </p>
+  <closer place="left">
  <l><fw type="docNum">№ 934-й</fw></l>
- <l>Ноября 16-го дня</l>
- <l>1800 года</l>
+ <l><date when="1800-11-16">Ноября 16-го дня<lb/>
+ 1800 года</date></l>
       <l>Его п-ву <persName ref="Северин">Северину</persName></l>
- <l>Рукой Г-на Генералъ Прокурора</l>
- <l>P.S. Или не хранится ли его книги и перепи-</l>
- <l>ска у кого инова къ закрытiю, то </l>
+      </closer>
+ <p>     
+ <l>Рукой Г-на Генералъ Прокурора:</l>
+ <l>P.S. Или не хранятся ли его книги и перепи-</l>
+ <l>ска у кого инова къ закрытiю, то</l>
  <l>постарайтесь отыскать и доставить</l>
  <l>ко мнѢ.</l>
+      </p>
      </body>
   </text>
 </TEI>
