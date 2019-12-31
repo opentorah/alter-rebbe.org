@@ -6,8 +6,9 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
-        </author>
+          <persName ref="фонъ_Дер_Пален">Пален</persName>
+                  </author>
+                  <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -37,11 +38,46 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+     <correspDesc>
+    <correspAction>
+      <persName ref="Беклешов" role="addressee">Беклешову</persName>
+<creation><date when="1801-03-22">Марта 22 дня 1801 год</date></creation>
+      <abstract><p>Сообщение <persName ref="фонъ_Дер_Пален">Палена</persName> <persName ref="Беклешов">Беклешову</persName> об освобождении <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract>
+      
+    </correspAction>
+  </correspDesc>
+ 
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p335-1" n="335-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/335-1.jpg"/>
+      <fw type="docNum">№ 42</fw>
+      <date when="1801-03-23">23 марта 1801<hi rend="superscript">го</hi></date>
+      <fw type="pageNum" place="right"><del rend="overstrike">338</del></fw>
+      <fw type="pageNum" place="right">335</fw>
+      <fw type="note" place="right">r] lѣke</fw>
+    <p>  
+<l><salute>Милостивый государь мой<lb/>
+<persName ref="Беклешов">Александръ Андреевичъ</persName>!</salute></l>
+<l>Получа почтеннѣйшее отношеніе вашего</l>
+<l>высокопревосходительства о евреѣ <persName ref="alter-rebbe">боруховичѣ</persName>,</l>
+<l>котораго всемилостивѣйше повелѣно освободить</l>
+<l>и отпустить въ домъ его: предписалъ я для</l>
+<l>надлѣжащаго исполненія оберъ полицмейстеру.</l>
+<l>О чемъ увѣдомляю, имѣю честь быть съ истин-</l>
+<l>нымъ и совершеннымъ почтеніемъ.</l>
+<l>Милостивый Государь мой!</l>
+<l>вашего высокопревосходительства</l>
+<l>покорнейшій слуга</l>
+<l>Графъ <persName ref="фонъ_Дер_Пален">фонъ Дер Паленъ</persName></l>
+</p>
+<closer place="left">
+<l><fw type="docNum">№ 1451<hi rend="underline">и</hi>.</fw></l>
+<l><date when="1801-03-22">Марта 22. дня<lb/>
+1801. годъ</date></l>
+<l>Его высок: Пр<hi rend="superscript">ву</hi> <persName ref="Беклешов">Беклешову</persName>.</l>
+</closer>      
     </body>
   </text>
 </TEI>
