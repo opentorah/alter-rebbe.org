@@ -5100,12 +5100,23 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="фонъ_Дер_Пален">Палена</persName>
+              <persName ref="Обольянинов">Обольянинову</persName>
+              об осовбождении
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и переводе его под подписку о невыезде
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-11-29</cell>
+          <cell rendition="author">
+            <persName ref="фонъ_Дер_Пален">Пален</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/331.html" role="documentViewer">331</ref>
@@ -5113,7 +5124,9 @@
           <cell rendition="pages">
             <ref target="documents/331.html#p331-1" role="documentViewer" rendition="page">331</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
