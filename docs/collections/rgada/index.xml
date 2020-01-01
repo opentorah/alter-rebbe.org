@@ -5370,12 +5370,21 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт киевского губернатора Коробьина
+              <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+              о введении надзора за
+              <orgName ref="Хасиды">хасидами</orgName>
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-19</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/351.html" role="documentViewer">351</ref>
@@ -5383,7 +5392,9 @@
           <cell rendition="pages">
             <ref target="documents/351.html#p351-1" role="documentViewer" rendition="page">351</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
