@@ -5390,12 +5390,25 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Рапорт
+              <persName ref="Карнеевъ">Карнеева</persName>
+              <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+              о введении надзора за
+              <orgName ref="Хасиды">хасидами</orgName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-11-16</cell>
+          <cell rendition="author">
+            <persName ref="Карнеевъ">Захаръ Карнеевъ</persName>
+            <editor role="transcriber">
+              <persName ref="VK">Василий Когаловский</persName>
+            </editor>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/350.html" role="documentViewer">350</ref>
@@ -5434,12 +5447,21 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт Малороссийского губернатора
+              <persName ref="Обольянинов">Обольянинову</persName>
+              о получении предписания ввести надзор за
+              <orgName ref="Хасиды">хасидами и отсутствии таковых в губернии</orgName>
+            </p>
+          </cell>
+          <cell rendition="date">1800-12-01</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/352.html" role="documentViewer">352</ref>
@@ -5447,7 +5469,9 @@
           <cell rendition="pages">
             <ref target="documents/352.html#p352-1" role="documentViewer" rendition="page">352</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
