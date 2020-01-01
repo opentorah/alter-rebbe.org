@@ -8,6 +8,7 @@
         <author>
           <persName>?</persName>
         </author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -37,11 +38,53 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+    </correspAction>
+  </correspDesc>
+<creation><date when="1800-12-01">1 Декабря 1800</date></creation>
+      <abstract><p>Рапорт Малороссийского губернатора <persName ref="Обольянинов">Обольянинову</persName> о получении предписания ввести надзор за <orgName ref="Хасиды">хасидами и отсутствии таковых в губернии</orgName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p352-1" n="352-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/352-1.jpg"/>
+    <fw type="docNum" place="left">№ 1744.</fw>
+    <date when="1800-12-15">15 декабря 1800<hi rend="superscript">го</hi></date>
+    <fw type="note" place="right">секретно</fw>
+    <fw type="pageNum" place="right">352</fw>
+    <fw type="note" place="right">Къ отпуску</fw>
+    <p>
+    <l></l>
+<l><salute>Милостивой государь<lb/>
+<persName ref="Обольянинов">Петръ Хрисанфовичъ</persName></salute></l>
+<l>Вашего высокопревосходительства предписаніе</l>
+<l>отъ 1<hi rend="superscript">го</hi> ноября о именіи мнѣ самомъ тайнымъ</l>
+<l>образомъ неослабнаго за поведеніемъ и поступ</l>
+<l>ками <orgName ref="Хасиды">каролинской секты евреевъ</orgName> наблюденія,</l>
+<l>я имелъ честь получить. При семъ вашему высоко</l>
+<l>превосходительству долгомъ поставляю донесть</l>
+<l>что въ малороссійской губерніи вообще евреевъ весма</l>
+<l>не много и не более какъ тысячъ до трехъ.</l>
+<l>упомянутой же въ письмѣ вашего высокопрево-</l>
+<l>сходительства секты сколько мнѣ известно вовсе</l>
+<l>не имеется. развѣ забредшие изъ <placeName ref="Белоруссия">белоруской губерніи</placeName></l>
+<l>где ихъ довольное число; Главной ихъ учитель <persName ref="alter-rebbe">со-<lb/>
+ломонъ, или по ихъ произношенію Зельман</persName>–</l>
+<l>естли я не ошибаюсь жилъ между <placeName ref="Витебск">витебскомъ</placeName> и по-</l>
+<l>лоцкомъ въ мѣстечке <placeName ref="Лозна">Ліожномъ</placeName>, а также въ месте</l>
+<l>чке Дубровне<note place="end">ныне город Дубровно в Витебской области Белоруссии</note>принадлежащей князю Любомирскому.</l>
+<l>За евреями жъ въ здешней губерніи живущими по сіе</l>
+<l>время ничево подозрительнаго не замечено. –</l>
+<l>Съ совершеннѣйшимъ всокопочитаніемъ имею</l>
+<l>честь быть. вашего высокопревосходительства</l>
+<l>всепокорнѣйшій слуга</l>
+<l><signed>Френсдорф</signed></l>
+<l><date when="1800-12-01">1 Декабря 1800.</date></l>
+<l>Черниговъ</l>
+
+    </p> 
     </body>
   </text>
 </TEI>
