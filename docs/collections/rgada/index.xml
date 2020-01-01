@@ -5362,12 +5362,24 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Фризель">Фризеля</persName>
+              <persName ref="Обольянинов">Обольянинову</persName>, подтверждающая получение секретного отношения о наблюдении за
+              <orgName ref="Хасиды">хасидами</orgName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-11-15</cell>
+          <cell rendition="author">
+            <persName ref="Фризель">Иванъ Фризель</persName>
+            <editor role="transcriber">
+              <persName ref="VK">Василий Когаловский</persName>
+            </editor>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/349.html" role="documentViewer">349</ref>
