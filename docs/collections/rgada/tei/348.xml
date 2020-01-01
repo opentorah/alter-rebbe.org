@@ -6,10 +6,11 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName ref="фонъ_Дер_Пален">фон Пален</persName>
+          <persName ref="фонъ_Дер_Пален">Пален</persName>
         </author>
         <editor role="transcriber"><persName ref="ALD">Рина Заславская</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -39,31 +40,50 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+    </correspAction>
+  </correspDesc>
+<creation><date when="1800-11-03">3 ноября 1800</date></creation>
+      <abstract><p>Сообщение <persName ref="фонъ_Дер_Пален">Палена</persName> <persName ref="Обольянинов">Обольянинову</persName> о принятии мер в связи с располряжением о <orgName ref="Хасиды">хасидах</orgName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p348-1" n="348-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/348-1.jpg"/>
       <fw type="docNum">1535.</fw>
-      <fw><unclear>XXXXXXXXXXXXXXXX</unclear></fw>
-      <fw>Секретно</fw>
+      <fw><unclear><date when="1800-11-03">3 ноября 1800</date> къ дѣлу</unclear></fw>
+      <fw type="note" place="right">Секретно</fw>
 
       <salute>Милостивый государь мой Петр Хрисaнфович!</salute>
 
       <fw type="pageNum" place="right"><del rend="overstrike">348</del></fw>
       <fw type="pageNum" place="right">348</fw>
 
-      <p>в Следствие отношения вашего высоко превосходительства от 2-го сего Ноября Касательно
-      старообрядцев и Королинской Секты Евреев, а равно и вразсуждении не чинения представления
-      и отпуска отставным и изключенным из служб воинской и штатской, кой по особым высочайшим
-        повелениям в деревнях и городах на житье находятся, не преминул я в тоже время кому
-      следовало предписать точнейшее исполнение вышеписанного, очем извещая ваше
-        высокопревосходительство имею честь пребывать с совершеннейшим моем почтением.</p>
-      <closer>
-        <salute>Вашего высокопревосходительства Милостивого Государя моего Покорнейший <unclear>слуга</unclear></salute>
-        <signed><unclear><persName ref="фонъ_Дер_Пален">Граф фонъ дер Пален</persName></unclear></signed>
-        <date when="1800-11-05">Ноября 5го дня 1800 года</date>
-        <salute>Его высоко-пре-ву <persName ref="Обольянинов">Обольянинову</persName></salute>
+      <p>
+      <l>въ слѣдствіе отношенія вашего высокопревосхо-</l>
+      <l>дительства отъ <date when="1800-11-02">2<hi rend="superscript">го</hi> сего ноября</date> касательно</l>
+      <l>старообрядцовъ и <orgName ref="Хасиды">Королинской секты евреевъ</orgName>,</l>
+       <l>а равно и вразсужденіи нечиненія предста</l>
+       <l>вленія и отпуска отставным и изклю</l>
+       <l>ченнымъ изъ службъ воинской и штатской</l>
+        <l>кои по особым <emph rend="big">высочайшимъ</emph> повеленіямъ</l>
+         <l>въ деревняхъ и городахъ на житьѣ находятся,</l>
+          <l>не преминулъ я въ тоже время кому слѣдо</l>
+          <l>вало предписать точнѣйшее исполнеіие</l>
+           <l>вышеписаннаого, о чемъ извѣщая ваше высо-</l>
+           <l>копревосходительство имѣю честь пребыть</l>
+           <l> съ совершеннымъ моимъ почтеніемъ.</l>
+                         <l>Вашего высокопревосходительства</l>
+        <l>Милостиваго Государя моего</l>
+         <l>Покорнейшій слуга</l>
+        <l><signed><persName ref="фонъ_Дер_Пален">Граф фонъ деръ Пален</persName></signed></l>
+        </p>
+        <closer  place="left">
+        <l><date when="1800-11-05">Ноября. 5<hi rend="superscript">го</hi>. дня<lb/>
+         1800 года</date></l>
+        <l>Его высокопре<hi rend="superscript">ву</hi> <persName ref="Обольянинов">Обольянинову</persName>.</l>
       </closer>
     </body>
   </text>
