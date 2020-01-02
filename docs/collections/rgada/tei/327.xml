@@ -4,17 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
-        <author>
-          <persName>?</persName>
-        </author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <date>?</date>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -25,21 +18,18 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <creation><date when="1800-11-27">ноября 27 1800 года</date></creation>
-      <abstract><p>Официальное сообщение о резолюции <persName ref="Павел_I">императора</persName> о прекращении дела по обвинениям со стороны <persName ref="Авигдор">Авигдора Хаймовича</persName> в адрес <persName ref="alter-rebbe">Шнеура Залмана</persName> и передаче дела о хасидах и кагалах литовского толка в сента</p></abstract>
+      <abstract><p>Официальное сообщение о резолюции <persName ref="Павел_I">императора</persName> о прекращении дела
+        по обвинениям со стороны <persName ref="Авигдор">Авигдора Хаймовича</persName> в адрес <persName
+          ref="alter-rebbe">Шнеура Залмана</persName> и передаче дела о <orgName ref="Хасиды">хасидах</orgName> и кагалах
+        литовского толка в <orgName ref="Сенат">сенат</orgName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text>
@@ -51,21 +41,21 @@
       <fw type="pageNum" place="right"><del rend="overstrike">321</del></fw>
       <fw type="pageNum" place="right">330</fw>
       <p>
-<l>Его императорское величество высочайше</l>
-<l>повелеть соизволилъ, дѣло мѣжду евреями</l>
-<l><persName ref="Авигдор">Абикдаромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Залманом<lb/>
-боруховичемъ</persName> касающееся до ихъ религіи и про</l>
-<l>чаго, въ <orgName ref="Сенат">сенате</orgName> разсмотреть; и учинить</l>
-<l>положеніе на какомъ впредь основаніи быть</l>
-<l>сектеѣ <orgName ref="Хасиды">хоседовъ</orgName> и кагаламъ. Накаковой</l>
-<l>конецъ и препроводить учиненные допросы</l>
-<l>на еврейскомъ языкѣ съ переводами. _</l>
-</p>
-<closer place="left">
-<l>№ 952<hi rend="superscript">й</hi>.</l>
-<l><date when="1800-11-27">ноября 27 дня<lb/>
-1800<hi rend="superscript">г.</hi></date></l>
-</closer>
+        <l>Его императорское величество высочайше</l>
+        <l>повелеть соизволилъ, дѣло мѣжду евреями</l>
+        <l><persName ref="Авигдор">Абикдаромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Залманом<lb/>
+          боруховичемъ</persName> касающееся до ихъ религіи и про</l>
+        <l>чаго, въ <orgName ref="Сенат">сенате</orgName> разсмотреть; и учинить</l>
+        <l>положеніе на какомъ впредь основаніи быть</l>
+        <l>сектеѣ <orgName ref="Хасиды">хоседовъ</orgName> и кагаламъ. Накаковой</l>
+        <l>конецъ и препроводить учиненные допросы</l>
+        <l>на еврейскомъ языкѣ съ переводами. _</l>
+      </p>
+      <closer place="left">
+        <l>№ 952<hi rend="superscript">й</hi>.</l>
+        <l><date when="1800-11-27">ноября 27 дня<lb/>
+          1800<hi rend="superscript">г.</hi></date></l>
+      </closer>
     </body>
   </text>
 </TEI>
