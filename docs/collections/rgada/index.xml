@@ -5556,12 +5556,26 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Обольянинов">Обольянинова</persName>
+              <persName ref="Оленин">Оленину</persName>
+              об отправке в
+              <orgName ref="Сенат">Сенат</orgName>
+              книг и бумаг, изъятых у
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>, для рассмотрения вопроса о дальнейшем положении
+              <orgName ref="Хасиды">хасидского движения</orgName>
+              и кагалов
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-12-22</cell>
+          <cell rendition="author">
+            <persName ref="Обольянинов">Обольянинов</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Оленин">Оленину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/356.html" role="documentViewer">356</ref>
@@ -5569,7 +5583,9 @@
           <cell rendition="pages">
             <ref target="documents/356.html#p356-1" role="documentViewer" rendition="page">356</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">

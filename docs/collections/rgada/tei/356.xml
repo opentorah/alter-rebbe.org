@@ -6,8 +6,9 @@
       <titleStmt>
         <title type="main">?</title>
         <author>
-          <persName>?</persName>
+          <persName ref="Обольянинов">Обольянинов</persName>
         </author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -37,11 +38,51 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Оленин" role="addressee">Оленину</persName>
+    </correspAction>
+  </correspDesc>
+<creation><date when="1800-12-22">Декабря 22 дня 1800</date></creation>
+      <abstract><p>Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Оленин">Оленину</persName> об отправке в <orgName ref="Сенат">Сенат</orgName> книг и бумаг, изъятых у <persName ref="alter-rebbe">Шнеура Залмана</persName>, для рассмотрения вопроса о дальнейшем положении <orgName ref="Хасиды">хасидского движения</orgName> и кагалов</p></abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p356-1" n="356-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/356-1.jpg"/>
-    </body>
+      <fw type="pageNum" place="right">356</fw>
+      <p>
+      <l><head>Ордеръ</head></l>
+<l>Г<hi rend="superscript">ну</hi> оберъ прокурору<note place="end">здесь - обер-прокурору III департамента <orgName ref="Сенат">Сената</orgName></note> <del rend="overstrike">духовницкому</del> <persName ref="Оленин">Оленину</persName><note place="end">фамилия вписана другим почерком</note></l>
+<l>Препроводивъ во исполненіе Его Іва<note place="end">его имераторского величества</note></l>
+<l>повелѣнія, объявленаго мною въ <date when="1800-11-27">27. день ноября</date></l>
+<l>производившшееся въ <orgName ref="Тайная_экспедиция">тайной експедиціи</orgName> дѣло, меж </l>
+<l>ду евреями <persName ref="Авигдор">Абикдоромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Зель-<lb/>
+маномъ Боруховичемъ</persName> касающееся до ихъ</l>
+<l>религіи и прочаго, для надлежащаго въ</l>
+<l><orgName ref="Сенат">Сенате</orgName> разсмотренія и положенія на какомъ</l>
+<l>основаніи впредь быть <orgName ref="Хасиды">секте хоседовъ</orgName> и</l>
+<l>кагаламъ; препровождаю при семъ доставленные</l>
+<l>послѣ того ко мнѣ отъ <placeName ref="Белоруссия">белорускаго</placeName> гражданскаго</l>
+<l><persName ref="Северин">губернатора</persName> книги и разные бумаги, взятые</l>
+<l>имъ въ домѣ <persName ref="alter-rebbe">Боруховича</persName> съ краткимъ</l>
+<l>о содержаніи ихъ чрезъ еврейскихъ переводчиковъ</l>
+<l>здесь учиненнымъ переводомъ; а также и</l>
+<l>отношеніе губернатора въ разсужденіи зделан-</l>
+<l>наго имъ замѣчанія о поведѣніи всехъ во</l>
+<l>обще <orgName ref="Хасиды">каролиновъ</orgName>; рекомендуя Вашему</l>
+<l>Пр<hi rend="superscript">ву</hi><note place="end">превосходительству</note> присоединить все оное кътому же</l>
+<l>въ <orgName ref="Сенат">Сенатѣ</orgName> имѣющемуся дѣлу.</l>
+</p>
+<p>
+<l>Препровождаемое <persName ref="Северин">Северина</persName> отношеніе по входящей</l>
+<l>книгѣ <orgName ref="Тайная_экспедиция">т.експед</orgName>: 1800<hi rend="superscript">го</hi> <fw type="docNum">№ <emph rend="underline">1665</emph><hi rend="superscript">й</hi></fw></l>
+</p>
+<closer place="left">
+<l><fw type="docNum">№ 1053<hi rend="superscript">й</hi></fw></l>
+<l><date when="1800-12-22">Декабря 22 дня<lb/>
+1800<hi rend="superscript">го</hi></date></l>
+</closer>
+</body>
   </text>
 </TEI>
