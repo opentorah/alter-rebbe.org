@@ -4,17 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
-        <author>
-          <persName>?</persName>
-        </author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <date>?</date>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -39,12 +32,12 @@
         </calendar>
       </calendarDesc>
       <correspDesc>
-    <correspAction>
-      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-    </correspAction>
-  </correspDesc>
-<creation><date when="1800-11-19">ноября 19 дня 1800 года<lb/>
-1800 года</date></creation>
+        <correspAction>
+          <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
+      <creation><date when="1800-11-19">ноября 19 дня 1800 года<lb/>
+        1800 года</date></creation>
       <abstract><p>Рапорт киевского губернатора Коробьина <persName ref="Обольянинов" role="addressee">Обольянинову</persName> о введении надзора за <orgName ref="Хасиды">хасидами</orgName></p></abstract>
     </profileDesc>
   </teiHeader>
@@ -55,36 +48,34 @@
       <date when="1800-12-05">5<hi rend="superscript">го</hi> декабря 1800<hi rend="superscript">го</hi></date>
       <fw type="note" place="right">секретно</fw>
       <fw type="pageNum" place="right">351</fw>
-<p>
-<l><salute>Милостивый Государь!<lb/>
-<persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
-<l>Отношеніе вашего высокопревосходи-</l>
-<l>тельства отъ 1<hi rend="superscript">го</hi> ноября, о имѣніи въ</l>
-<l>губерніи мнѣ въверенной самимъ тайнымъ</l>
-<l>образомъ наблюденія за поведеніемъ и</l>
-<l>поступками <orgName ref="Хасиды">Каролинской секты евреевъ</orgName></l>
-<l>я имелъ честь получить <date when="1800-11-17">сего ноября 17<hi rend="superscript">го</hi><lb/>
-числа</date>. По которому всѣ нужные</l>
-<l>къ тому предосторожности и распоря-0</l>
-<l>женіе съ моей стороны учинены. и коль</l>
-<l>скоро что замечено будетъ, вашему</l>
-<l>высокопревосходительству донесть</l>
-<l>не упущу. Пребывая всегда съ совер</l>
-<l>шеннымъ высокопочитаніемъ и тако</l>
-<l>вою жъ преданностію.</l>
-<l>Милостивый государь!</l>
-<l>вашего высокопревосходительства</l>
-<l>всепокорнейшій слуга</l>
-<l>Михайла Коробьин<note place="end">Киевский губернатор</note></l>
-</p> 
-<closer place="left">
-<l><date when="1800-11-19">ноября 19<hi rend="superscript">го</hi> дня<lb/>
-1800 года</date></l>
-<l>Его высокопревосходитель</l>
-<l>ству <persName ref="Обольянинов">обольянинову</persName>.</l>
-</closer>
-
-     
+      <p>
+        <l><salute>Милостивый Государь!<lb/>
+          <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
+        <l>Отношеніе вашего высокопревосходи-</l>
+        <l>тельства отъ 1<hi rend="superscript">го</hi> ноября, о имѣніи въ</l>
+        <l>губерніи мнѣ въверенной самимъ тайнымъ</l>
+        <l>образомъ наблюденія за поведеніемъ и</l>
+        <l>поступками <orgName ref="Хасиды">Каролинской секты евреевъ</orgName></l>
+        <l>я имелъ честь получить <date when="1800-11-17">сего ноября 17<hi rend="superscript">го</hi><lb/>
+          числа</date>. По которому всѣ нужные</l>
+        <l>къ тому предосторожности и распоря-0</l>
+        <l>женіе съ моей стороны учинены. и коль</l>
+        <l>скоро что замечено будетъ, вашему</l>
+        <l>высокопревосходительству донесть</l>
+        <l>не упущу. Пребывая всегда съ совер</l>
+        <l>шеннымъ высокопочитаніемъ и тако</l>
+        <l>вою жъ преданностію.</l>
+        <l>Милостивый государь!</l>
+        <l>вашего высокопревосходительства</l>
+        <l>всепокорнейшій слуга</l>
+        <l>Михайла Коробьин<note place="end">Киевский губернатор</note></l>
+      </p>
+      <closer place="left">
+        <l><date when="1800-11-19">ноября 19<hi rend="superscript">го</hi> дня<lb/>
+          1800 года</date></l>
+        <l>Его высокопревосходитель</l>
+        <l>ству <persName ref="Обольянинов">обольянинову</persName>.</l>
+      </closer>
     </body>
   </text>
 </TEI>

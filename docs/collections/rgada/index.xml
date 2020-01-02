@@ -4185,7 +4185,9 @@
         </row>
         <row>
           <cell rendition="description">
-            Отчет Хрущова о попытках найти информацию о
+            Отчет
+            <persName ref="Хрущов">Хрущова</persName>
+            о попытках найти информацию о
             <orgName ref="Хасиды">хасидах</orgName>
             у представителей митнагедов
           </cell>
@@ -4580,7 +4582,9 @@
               <persName ref="alter-rebbe">Шнеура Залмана</persName>
               в
               <placeName ref="Петербург">Петербург</placeName>
-              с сенатскими курьерами
+              с
+              <orgName ref="Сенат">сенатскими</orgName>
+              курьерами
             </p>
           </cell>
           <cell rendition="date">1800-11-09</cell>
@@ -4922,14 +4926,14 @@
               Сообщение
               <persName ref="фонъ_Дер_Пален">Палена</persName>, направленное
               <persName ref="Обольянинов">Обольянинову</persName>
-              о поручении оберъ-полицiймейстеру Зильбергарнишу доставить
+              о поручении обер-полицеймейстеру Зильбергарнишу доставить
               <persName ref="Авигдор">Авигдора Хаймовича</persName>
               на допрос
             </p>
           </cell>
           <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
-            <persName ref="фонъ_Дер_Пален">фон Пален</persName>
+            <persName ref="фонъ_Дер_Пален">Пален</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
@@ -4948,7 +4952,9 @@
         <row>
           <cell rendition="description">
             <p>
-              Об изъятии из следственного дела и отсылке в Сенат отношения
+              Об изъятии из следственного дела и отсылке в
+              <orgName ref="Сенат">Сенат</orgName>
+              отношения
               <placeName ref="Белоруссия">Белорусскаго</placeName>
               губернатора
               <persName ref="Северин">Северина</persName>
@@ -5018,13 +5024,14 @@
               <persName ref="Авигдор">Авигдора Хаймовича</persName>
               в адрес
               <persName ref="alter-rebbe">Шнеура Залмана</persName>
-              и передаче дела о хасидах и кагалах литовского толка в сента
+              и передаче дела о
+              <orgName ref="Хасиды">хасидах</orgName>
+              и кагалах литовского толка в
+              <orgName ref="Сенат">сенат</orgName>
             </p>
           </cell>
           <cell rendition="date">1800-11-27</cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -5133,13 +5140,15 @@
             <p>
               Сопроводительный документ ("вид"), выданный
               <persName ref="alter-rebbe">Шнеуру Залману</persName>
-              при выезде из Петербурга для передачи в канцелярию Белорусского гражданского губернатора
+              при выезде из
+              <placeName ref="Петербург">Петербурга</placeName>
+              для передачи в канцелярию
+              <placeName ref="Белоруссия">Белорусского</placeName>
+              гражданского губернатора
             </p>
           </cell>
           <cell rendition="date">1801-03-28</cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -5168,7 +5177,7 @@
           </cell>
           <cell rendition="date">1801-03-27</cell>
           <cell rendition="author">
-            <persName ref="Беклешов">Александр Андреевич Беклешов</persName>
+            <persName ref="Беклешов">Беклешов</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="фонъ_Дер_Пален">Палену</persName>
@@ -5247,16 +5256,15 @@
         <row>
           <cell rendition="description">
             <p>
-              Перевод писем хасидов, изъятыхъ у
+              Перевод писем
+              <orgName ref="Хасиды">хасидов</orgName>, изъятыхъ у
               <persName ref="alter-rebbe">Шнеура Залмана</persName>
               в связи со следственнвыми действиями, и касающихся новостей о действиях
               <persName ref="Авигдор">Авигдора Хаймовича</persName>
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -5274,7 +5282,10 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Конверт от письма, адресованного Юделю Файбишовичу, с фрагментом сургучной печати</p>
+            <p>
+              Конверт от письма, адресованного
+              <persName ref="Файбишевич">Юделю Файбишовичу</persName>, с фрагментом сургучной печати
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -5372,10 +5383,7 @@
           </cell>
           <cell rendition="date">1800-11-15</cell>
           <cell rendition="author">
-            <persName ref="Фризель">Иванъ Фризель</persName>
-            <editor role="transcriber">
-              <persName ref="VK">Василий Когаловский</persName>
-            </editor>
+            <persName ref="Фризель">Фризель</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
@@ -5387,7 +5395,9 @@
           <cell rendition="pages">
             <ref target="documents/349.html#p349-1" role="documentViewer" rendition="page">349</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -5401,10 +5411,7 @@
           </cell>
           <cell rendition="date">1800-11-16</cell>
           <cell rendition="author">
-            <persName ref="Карнеевъ">Захаръ Карнеевъ</persName>
-            <editor role="transcriber">
-              <persName ref="VK">Василий Когаловский</persName>
-            </editor>
+            <persName ref="Карнеевъ">Карнеев</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
@@ -5417,7 +5424,9 @@
             <ref target="documents/350.html#p350-1" role="documentViewer" rendition="page">350</ref>
             <ref target="documents/350.html#p350-2" role="documentViewer" rendition="page">350об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -5429,9 +5438,7 @@
             </p>
           </cell>
           <cell rendition="date">1800-11-19</cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
           </cell>
@@ -5452,7 +5459,8 @@
               Рапорт Малороссийского губернатора
               <persName ref="Обольянинов">Обольянинову</persName>
               о получении предписания ввести надзор за
-              <orgName ref="Хасиды">хасидами и отсутствии таковых в губернии</orgName>
+              <orgName ref="Хасиды">хасидами</orgName>
+              и отсутствии таковых в губернии
             </p>
           </cell>
           <cell rendition="date">1800-12-01</cell>
@@ -5485,7 +5493,7 @@
           </cell>
           <cell rendition="date">1800-11-24</cell>
           <cell rendition="author">
-            <persName ref="Розенберг">Андрей Розенберг</persName>
+            <persName ref="Розенберг">Розенберг</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
@@ -5509,12 +5517,16 @@
               <persName ref="Обольянинов">Обольянинову</persName>
               об изъятии книг и бумаг в доме
               <persName ref="alter-rebbe">Шнеура Залмана</persName>
-              и отправке их в Петербург для рассмотрения; резолюция Обольянинова о
+              и отправке их в
+              <placeName ref="Петербург">Петербург</placeName>
+              для рассмотрения; резолюция
+              <persName ref="Обольянинов">Обольянинова</persName>
+              о XXXX?
             </p>
           </cell>
           <cell rendition="date">1800-12-02</cell>
           <cell rendition="author">
-            <persName ref="Северин">Петръ Северин</persName>
+            <persName ref="Северин">Северин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
@@ -5533,7 +5545,9 @@
         <row>
           <cell rendition="description">
             <p>
-              Рапорт неизвестного чиновника Северину об отправке книг и бумаг, изъятых в доме
+              Рапорт неизвестного чиновника
+              <persName ref="Северин">Северину</persName>
+              об отправке книг и бумаг, изъятых в доме
               <persName ref="alter-rebbe">Шнеура Залмана</persName>
             </p>
           </cell>
