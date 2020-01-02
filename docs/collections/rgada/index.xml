@@ -5474,12 +5474,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Рапорт
+              <persName ref="Розенберг">Розенберга</persName>
+              <persName ref="Обольянинов">Обольянинову</persName>
+              о мерах по негласному наблюдению за
+              <orgName ref="Хасиды">хасидами</orgName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-11-24</cell>
+          <cell rendition="author">
+            <persName ref="Розенберг">Андрей Розенберг</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/353.html" role="documentViewer">353</ref>
@@ -5487,7 +5497,9 @@
           <cell rendition="pages">
             <ref target="documents/353.html#p353-1" role="documentViewer" rendition="page">353</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
