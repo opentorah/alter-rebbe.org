@@ -5531,12 +5531,19 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт неизвестного чиновника Северину об отправке книг и бумаг, изъятых в доме
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1800-12-11</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Северин">Северину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/355.html" role="documentViewer">355</ref>
@@ -5544,7 +5551,9 @@
           <cell rendition="pages">
             <ref target="documents/355.html#p355-1" role="documentViewer" rendition="page">355</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
