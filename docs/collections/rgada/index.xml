@@ -5639,12 +5639,13 @@
             <p>
               Расписка
               <persName ref="alter-rebbe">Алтер Ребе</persName>
-              за реестр
+              за прием своих книг, вывезенных властями из
+              <placeName ref="Лозна">Лиозно</placeName>, на хранение - по реестру этих изданий
             </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1800-12-29</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="alter-rebbe">Шнеур Залман</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -5654,7 +5655,9 @@
           <cell rendition="pages">
             <ref target="documents/362.html#p362-1" role="documentViewer" rendition="page">362</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
