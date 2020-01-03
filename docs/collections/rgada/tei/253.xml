@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">О <orgName ref="Хасиды">секте каролинов</orgName></title>
-				<author>
-					<persName ref="Обольянинов">Обольянинов</persName>
-				</author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
-				<editor role="transcriber">
-					<persName ref="IL">Илья Лурье</persName>
-				</editor>
-				<editor role="encoder">
-					<persName ref="ALD">Арье-Лейб Дубинский</persName>
-				</editor>
+				<author><persName ref="Обольянинов">Обольянинов</persName></author>
+				<editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+				<editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>

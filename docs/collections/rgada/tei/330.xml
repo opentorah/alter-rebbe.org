@@ -4,7 +4,6 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">?</title>
         <author>
           <persName ref="Обольянинов">Обольянинов</persName>
         </author>
@@ -14,7 +13,6 @@
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
         </publisher>
-        <date>?</date>
         <availability status="free">
           <licence>
             <ab>
@@ -40,10 +38,10 @@
       </calendarDesc>
     </profileDesc>
     <correspDesc>
-    <correspAction>
-      <persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName>
-    </correspAction>
-  </correspDesc>
+      <correspAction>
+        <persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName>
+      </correspAction>
+    </correspDesc>
     <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
     <abstract><p>Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="фонъ_Дер_Пален">Палену</persName> о переводе <persName ref="alter-rebbe">Шнеура Залмана</persName> из-под ареста на квартиру</p></abstract>
   </teiHeader>
@@ -54,27 +52,27 @@
       <fw type="pageNum" place="right"><del rend="overstrike">333</del></fw>
       <fw type="pageNum" place="right">330</fw>
       <p>
-<l><salute>М. Г. мой Графъ <persName ref="фонъ_Дер_Пален">Петръ Алексеевичъ</persName>!</salute></l>
-<l><note place="государь император">Г:И</note> высочайше повелѣть соизволилъ</l>
-<l>еврея <persName ref="alter-rebbe">Боуховича</persName> выпустить въ квартиру,</l>
-<l>но чтобъ изъ города не выѣзжалъ доколѣ</l>
-<l>не будетъ позволено, въ чемъ обязать</l>
-<l>его съ поручительствомъ подпискою,</l>
-<l>и наблюдать за его повѣденіемъ._</l>
-<l>Извѣщая о сей высочайшей волѣ</l>
-<l>ваше с<hi rend="superscript">во</hi> для надлежащаго испол-</l>
-<l>ненія имѣю честь увѣдомить, что</l>
-<l>пребываніе еврей Боруховичъ долженъ</l>
-<l>будетъ имѣть въ домѣ Цуберта,</l>
-<l>гдѣ и прочіе евреи жительствуютъ.</l>
-<l>Пребываю<note place="end">далее значок, свидетельствующий о стандартной форме - "пребываю с совершенным почтением"</note></l>
-</p>
-<closer place="left">
-<l><fw type="docNum">№962<hi rend="superscript">й</hi>.</fw> </l>
-<l><date when="1800-11-28">Ноября 28 дня<lb/>
-1800 года</date></l>
-<l>Графу <persName ref="фонъ_Дер_Пален">Палену</persName></l>
-</closer>
+        <l><salute>М. Г. мой Графъ <persName ref="фонъ_Дер_Пален">Петръ Алексеевичъ</persName>!</salute></l>
+        <l><note place="государь император">Г:И</note> высочайше повелѣть соизволилъ</l>
+        <l>еврея <persName ref="alter-rebbe">Боуховича</persName> выпустить въ квартиру,</l>
+        <l>но чтобъ изъ города не выѣзжалъ доколѣ</l>
+        <l>не будетъ позволено, въ чемъ обязать</l>
+        <l>его съ поручительствомъ подпискою,</l>
+        <l>и наблюдать за его повѣденіемъ._</l>
+        <l>Извѣщая о сей высочайшей волѣ</l>
+        <l>ваше с<hi rend="superscript">во</hi> для надлежащаго испол-</l>
+        <l>ненія имѣю честь увѣдомить, что</l>
+        <l>пребываніе еврей Боруховичъ долженъ</l>
+        <l>будетъ имѣть въ домѣ Цуберта,</l>
+        <l>гдѣ и прочіе евреи жительствуютъ.</l>
+        <l>Пребываю<note place="end">далее значок, свидетельствующий о стандартной форме - "пребываю с совершенным почтением"</note></l>
+      </p>
+      <closer place="left">
+        <l><fw type="docNum">№962<hi rend="superscript">й</hi>.</fw> </l>
+        <l><date when="1800-11-28">Ноября 28 дня<lb/>
+          1800 года</date></l>
+        <l>Графу <persName ref="фонъ_Дер_Пален">Палену</persName></l>
+      </closer>
     </body>
   </text>
 </TEI>
