@@ -9,18 +9,3 @@ To rebuild collection indices and verify name references:
 ```
   $ ./gradlew clean build
 ```
-
-To extract images from PDF files:
-```
-  $ pdfimages ...
-```
-
-To cut facsimiles:
-```
-  $ convert xxx.tif -crop 2x1+120@ x-%d.tif
-```
-
-To compress facsimiles:
-```
-  $ mogrify -path out -quality 80% -format jpg *.tif
-```
