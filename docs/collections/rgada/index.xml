@@ -5688,12 +5688,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Северин">Северина</persName>
+              <persName ref="Обольянинов">Обольянинову</persName>
+              о получении письма, касающегося изътия книг и бумаг
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1800-12-16</cell>
+          <cell rendition="author">
+            <persName ref="Северин">Петръ Северин</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/364.html" role="documentViewer">364</ref>
@@ -5701,7 +5711,9 @@
           <cell rendition="pages">
             <ref target="documents/364.html#p364-1" role="documentViewer" rendition="page">364</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
