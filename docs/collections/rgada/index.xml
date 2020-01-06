@@ -5716,12 +5716,19 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт Новороссийского губернатора Обольянинову об исполнении повеления ввести надзор за
+              <orgName ref="Хасиды">хасидами</orgName>, несмотря на их отстутствие в губернии
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-30</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Обольянинов">Обольянинову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/365.html" role="documentViewer">365</ref>
@@ -5730,7 +5737,9 @@
             <ref target="documents/365.html#p365-1" role="documentViewer" rendition="page">365</ref>
             <ref target="documents/365.html#p365-2" role="documentViewer" rendition="page">365об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
