@@ -5666,6 +5666,8 @@
             <p>
               Реестр писем и документов, изъятых у
               <persName ref="alter-rebbe">Алтер Ребе</persName>
+              из дома и переданных ему "до востребования" следствием на квартире в
+              <placeName ref="Петербург">Санкт-Петербурге</placeName>
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -5681,7 +5683,9 @@
             <ref target="documents/363.html#p363-1" role="documentViewer" rendition="page">363</ref>
             <ref target="documents/363.html#p363-2" role="documentViewer" rendition="page">363об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">?</cell>
