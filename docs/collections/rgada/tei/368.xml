@@ -8,6 +8,7 @@
         <author>
           <persName>?</persName>
         </author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -38,10 +39,19 @@
         </calendar>
       </calendarDesc>
     </profileDesc>
+    <creation><date when="1800-12-??">1800 года декабря  дня</date></creation>
+      <abstract><p>Начало документа о рассмотрении следствием бумаг, изъятых у <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract>
+
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p368-1" n="368-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/368-1.jpg"/>
+      <fw type="pageNum" place="left">368</fw>
+      <p>
+<l><date when="1800-12-??">1800 года декабря  дня</date> мы нижеподписав</l>
+<l>шіся разсмотрели бумаги принадле</l>
+<l>жащія еврею <persName ref="alter-rebbe">боруховичу</persName>, и сѣй показываетъ, что</l>
+      </p>
     </body>
   </text>
 </TEI>
