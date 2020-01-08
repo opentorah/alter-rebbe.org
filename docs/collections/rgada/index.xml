@@ -5279,8 +5279,16 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="фонъ_Дер_Пален">Палена</persName>
+              <persName ref="Беклешов">Беклешову</persName>
+              об освобождении
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1801-03-22</cell>
           <cell rendition="author">
             <persName ref="фонъ_Дер_Пален">Пален</persName>
           </cell>

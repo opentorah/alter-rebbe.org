@@ -29,11 +29,6 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Тарбеев" role="addressee">Тарбееву</persName>
-				</correspAction>
-			</correspDesc>
 			<creation><date when="1801-01-29">Марта 29 дня 1801</date></creation>
 			<abstract>
 				<p>Сообщение губернатору
@@ -43,6 +38,11 @@
 					<persName ref="alter-rebbe">Шнеура Залмана</persName> и не применять к нему ограничений
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Тарбеев" role="addressee">Тарбееву</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text>
