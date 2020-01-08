@@ -20,20 +20,6 @@
 			</publicationStmt>
 			<sourceDesc><p>Facsimile</p></sourceDesc>
 		</fileDesc>
-		<correspDesc>
-			<correspAction>
-				<persName ref="Тарбеев" role="addressee">Тарбееву</persName>
-			</correspAction>
-		</correspDesc>
-		<creation><date when="1801-01-29">Марта 29 дня 1801</date></creation>
-		<abstract>
-			<p>Сообщение губернатору
-				<persName ref="Тарбеев">Тарбееву</persName>, вероятно, от
-				<persName ref="Беклешов">Беклешова</persName>, о решении
-				<persName ref="Павел_I">императора</persName> освободить
-				<persName ref="alter-rebbe">Шнеура Залмана</persName> и не применять к нему ограничений
-			</p>
-		</abstract>
 		<profileDesc>
 			<langUsage>
 				<language ident="ru"/>
@@ -43,6 +29,20 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Тарбеев" role="addressee">Тарбееву</persName>
+				</correspAction>
+			</correspDesc>
+			<creation><date when="1801-01-29">Марта 29 дня 1801</date></creation>
+			<abstract>
+				<p>Сообщение губернатору
+					<persName ref="Тарбеев">Тарбееву</persName>, вероятно, от
+					<persName ref="Беклешов">Беклешова</persName>, о решении
+					<persName ref="Павел_I">императора</persName> освободить
+					<persName ref="alter-rebbe">Шнеура Залмана</persName> и не применять к нему ограничений
+				</p>
+			</abstract>
 		</profileDesc>
 	</teiHeader>
 	<text>
