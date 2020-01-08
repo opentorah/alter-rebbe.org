@@ -36,5 +36,5 @@ To compress facsimiles:
 
 To sync with the bucket:
 ```
-  $ sutil -m rsync -r -c -d <path-to-local-copy-of-the-bucket> gs://facsimiles.alter-rebbe.org
+  $ gsutil -m rsync -r -c -d <path-to-local-copy-of-the-bucket> gs://facsimiles.alter-rebbe.org
 ```
