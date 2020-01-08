@@ -5328,7 +5328,7 @@
           <cell rendition="description">
             <p>
               Перевод писем
-              <orgName ref="Хасиды">хасидов</orgName>, изъятыхъ у
+              <orgName ref="Хасиды">хасидов</orgName>, изъятых у
               <persName ref="alter-rebbe">Шнеура Залмана</persName>
               в связи со следственнвыми действиями, и касающихся новостей о действиях
               <persName ref="Авигдор">Авигдора Хаймовича</persName>
@@ -5618,7 +5618,9 @@
             </p>
           </cell>
           <cell rendition="date">1800-12-11</cell>
-          <cell rendition="author"></cell>
+          <cell rendition="author">
+            <persName>?</persName>
+          </cell>
           <cell rendition="addressee">
             <persName ref="Северин">Северину</persName>
           </cell>
@@ -5730,9 +5732,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -5800,7 +5800,12 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Черновой перевод молитвы "О благоденствии и спасении Государя"</p>
+            <p>
+              Черновой перевод молитвы "О благоденствии и спасении Государя"
+              <note place="end">
+                Незначительно отредактированный текст в окончательном виде также имеется в следственном деле. См. http://www.alter-rebbe.org/collections/rgia413/documents/013.html
+              </note>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
