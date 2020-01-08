@@ -11,7 +11,6 @@
         <publisher>
           <ptr target="www.alter-rebbe.org"/>
         </publisher>
-        <date>?</date>
         <availability status="free">
           <licence>
             <ab>
@@ -30,16 +29,12 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1801-03-22">Марта 22 дня 1801 год</date></creation>
+      <abstract><p>Сообщение <persName ref="фонъ_Дер_Пален">Палена</persName> <persName ref="Беклешов">Беклешову</persName> об освобождении <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract>
       <correspDesc>
         <correspAction>
           <persName ref="Беклешов" role="addressee">Беклешову</persName>
-          <creation><date when="1801-03-22">Марта 22 дня 1801 год</date></creation>
-          <abstract><p>Сообщение <persName ref="фонъ_Дер_Пален">Палена</persName> <persName ref="Беклешов">Беклешову</persName> об освобождении <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract>
         </correspAction>
       </correspDesc>
     </profileDesc>
