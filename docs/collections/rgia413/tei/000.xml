@@ -28,14 +28,15 @@
     </teiHeader>
     <text xml:lang="ru">
         <body>
-<!-- TODO THE VERY FRONT PAGE
-           <pb xml:id="p000-0" n="000-0" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000-0.jpg"/>-->
             <pb xml:id="p000-1" n="000-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000-1.jpg"/>
+            <pb xml:id="p000-2" n="000-2"/>
+            <pb xml:id="p000a-1" n="000a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000a-1.jpg"/>
             <table>
                 <row>
                     <cell>
                         <l>
-                            <pb xml:id="p000-2" n="000-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000-2.jpg"/>
+                            <pb xml:id="p000a-2" n="000a-2"
+                                facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000a-2.jpg"/>
                             Число
                         </l>
                         <l>бумагъ</l>
