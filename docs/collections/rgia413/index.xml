@@ -72,7 +72,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
-            <ref target="documents/000.html#p000-2" role="documentViewer" rendition="page">000об</ref>
+            <ref target="documents/000.html#p000-2" role="documentViewer" rendition="missing-page">000об</ref>
+            <ref target="documents/000.html#p000a-1" role="documentViewer" rendition="page">000a</ref>
+            <ref target="documents/000.html#p000a-2" role="documentViewer" rendition="page">000aоб</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -813,7 +815,7 @@
           </cell>
         </row>
       </table>
-      <p>Отсутствуют фотографии 1 страниц: 032об</p>
+      <p>Отсутствуют фотографии 2 страниц: 000об 032об</p>
     </body>
   </text>
 </TEI>
