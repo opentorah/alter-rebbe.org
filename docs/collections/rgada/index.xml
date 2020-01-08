@@ -4507,10 +4507,21 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Распоряжение
+              <persName ref="Обольянинов">Обольянинова</persName>
+              <persName ref="Фризель">Фризелю</persName>
+              о введении тайного наблюдения за
+              <orgName ref="Хасиды">хасидами</orgName>
+              и старообрядцами; указание на копию этого письма для отправки другим губернаторам
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-01</cell>
           <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Фризель">Фризелю</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/269.html" role="documentViewer">269</ref>
