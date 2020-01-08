@@ -5,6 +5,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
+				<author><persName ref="Обольянинов">Обольянинов</persName></author>
 				<editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
 				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
@@ -35,13 +36,13 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
-         <correspDesc>
-    <correspAction>
-      <persName ref="Фризель" role="addressee">Фризелю</persName>
-    </correspAction>
-  </correspDesc>
-<creation><date when="1800-11-01">Ноября 1 дня 1800</date></creation>
-      <abstract><p>Распоряжение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Фризель">Фризелю</persName> о введении тайного наблюдения за <orgName ref="Хасиды">хасидами</orgName> и старообрядцами; указание на копию этого письма для отправки другим губернаторам</p></abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Фризель" role="addressee">Фризелю</persName>
+				</correspAction>
+			</correspDesc>
+			<creation><date when="1800-11-01">Ноября 1 дня 1800</date></creation>
+			<abstract><p>Распоряжение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Фризель">Фризелю</persName> о введении тайного наблюдения за <orgName ref="Хасиды">хасидами</orgName> и старообрядцами; указание на копию этого письма для отправки другим губернаторам</p></abstract>
 		</profileDesc>
 	</teiHeader>
 	<text>
@@ -68,7 +69,7 @@
 				<l>поводу къ соблазну или неповиновенію</l>
 				<l>власти меня неукоснительно о томъ</l>
 				<l>увѣдомлять для донесенія <emph rend="big">его вели<lb/>
-						честву</emph>. Сообщая о семъ высочайшемъ</l>
+					честву</emph>. Сообщая о семъ высочайшемъ</l>
 				<l>соизволеніи для собственнаго особеннаго</l>
 				<l>вашего свѣденія и надлежащаго ис-</l>
 				<l>полненія, пребываю.</l>
@@ -127,7 +128,7 @@
 				</l>
 			</p>
 			<pb xml:id="p270-2" n="270-2"/>
-                        <fw type="pageNum" place="right">271</fw>
+			<fw type="pageNum" place="right">271</fw>
 			<pb xml:id="p271-1" n="271-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/271-1.jpg"/>
 			<p>
 				<l>P.S. на оборотѢ послѢ приписано:</l>
@@ -150,9 +151,9 @@
 				<l>о таковыхъ, ни отпуска имъ не</l>
 				<l>дѢлать.</l>
 			</p>
-         <pb xml:id="p271-2" n="271-2"/>
+			<pb xml:id="p271-2" n="271-2"/>
 			<fw type="pageNum" place="right"><del rend="overstrike">274</del></fw>
 			<fw type="pageNum" place="right"><del rend="overstrike">275</del></fw>
-					</body>
+		</body>
 	</text>
 </TEI>
