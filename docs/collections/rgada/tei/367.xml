@@ -5,13 +5,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">?</title>
-				<author>
-					<persName>?</persName>
-				</author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
+				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>
@@ -22,8 +16,8 @@
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
@@ -42,11 +36,11 @@
 				</calendar>
 			</calendarDesc>
 			<abstract>
-				<p>Черновой вариант перевода первой части молитвы "О благоденствии и спасении Государя" с оригинала, записанного 
+				<p>Черновой вариант перевода первой части молитвы "О благоденствии и спасении Государя" с оригинала, записанного
 					<persName ref="alter-rebbe">Шнеуром Залманом</persName>
+					<note place="end">Отредактированный и исправленный текст также имеется в следственном деле - см. http://www.alter-rebbe.org/collections/rgia413/documents/013.html</note>
 				</p>
 			</abstract>
-			<note place="end">Отредактированный и исправленный текст также имеется в следственном деле - см. http://www.alter-rebbe.org/collections/rgia413/documents/013.html</note>
 		</profileDesc>
 	</teiHeader>
 	<text>
@@ -57,9 +51,9 @@
 				<l>
 					<head>Переводъ молитвы
 						<lb/>
-о
+						о
 						<lb/>
-благоденнствіи и спасеніи государя.
+						благоденнствіи и спасеніи государя.
 					</head>
 				</l>
 				<l>
@@ -74,7 +68,7 @@
 				<l>и на водахъ быстрые стѣзи
 					<del rend="overstrike">,</del>: благословилъ бы
 				</l>
-				<l>онъ оберегъ защитилъ помогалъ, 
+				<l>онъ оберегъ защитилъ помогалъ,
 					<del rend="overstrike">и</del> возвы
 				</l>
 				<l>силъ увеличилъ и подносилъ до всенаи</l>
@@ -83,7 +77,7 @@
 					<hi rend="superscript">степени</hi>
 					<emph rend="big">всемилостивѣйшаго Государя</emph>
 				</l>
-				<l>нашего 
+				<l>нашего
 					<del rend="overstrike">с фами</del>
 					<emph rend="big">императора</emph>
 				</l>
@@ -104,7 +98,7 @@
 				<l>печали и  убытка, предай народы подъ</l>
 				<l>ноги его, пусть падаютъ враги его</l>
 				<l>предъ нимъ, и куда онъ обратится да пощаст</l>
-				<l>ливствуетъ. _ 
+				<l>ливствуетъ. _
 					<emph rend="big">царь царей</emph>! _ милос
 				</l>
 				<l>тію своею да далъ бы въ сердце ево</l>
@@ -112,7 +106,7 @@
 				<fw type="pageNum">367 об.</fw>
 				<l>Ево совѣтниковъ и чиновниковъ милосердіе</l>
 				<l>о благоденствіи нашемъ и всего</l>
-				<l>израиля. _ 
+				<l>израиля. _
 					<del rend="overstrike">вовѣки</del>
 					<hi rend="superscript">
 						<del rend="overstrike">
