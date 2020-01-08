@@ -33,25 +33,19 @@
 			<langUsage>
 				<language ident="ru"/>
 			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1800-10-12">12 октября 1800</date></creation>
+			<abstract>Сообщение
+				<persName ref="Обольянинов">Обольянинова</persName>
+				<persName ref="Павел_I">Павлу I</persName> об особенностях <orgName ref="Хасиды">хасидских общин</orgName> и
+				отсутствии угрозы для государства с их стороны
+			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Павел_I" role="addressee">Павлу I</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
-		<creation>
-			<date when="1800-10-12">12 октября 1800</date>
-		</creation>
-		<abstract>Сообщение
-			<persName ref="Обольянинов">Обольянинова</persName>
-			<persName ref="Павел_I">Павлу I</persName> об особенностях <orgName ref="Хасиды">хасидских общин</orgName> и
-			отсутствии угрозы для государства с их стороны
-		</abstract>
-		<correspDesc>
-			<correspAction>
-				<persName ref="Павел_I" role="addressee">Павлу I</persName>
-			</correspAction>
-		</correspDesc>
 	</teiHeader>
 	<text>
 		<body>

@@ -4231,8 +4231,15 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            Сообщение
+            <persName ref="Обольянинов">Обольянинова</persName>
+            <persName ref="Павел_I">Павлу I</persName>
+            об особенностях
+            <orgName ref="Хасиды">хасидских общин</orgName>
+            и отсутствии угрозы для государства с их стороны
+          </cell>
+          <cell rendition="date">1800-10-12</cell>
           <cell rendition="author">
             <persName ref="Обольянинов">Обольяниновъ</persName>
           </cell>
@@ -4260,7 +4267,7 @@
               Сообщение
               <persName ref="Хрущов">Хрущова</persName>
               <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-              об отсутствии антиправителльственной деятельности у
+              об отсутствии антиправительственной деятельности у
               <orgName ref="Хасиды">хасидов</orgName>
             </p>
           </cell>
@@ -4354,7 +4361,7 @@
           <cell rendition="description">
             <p>
               Рапорт
-              <persName ref="Хрущов">Хрущоа</persName>
+              <persName ref="Хрущов">Хрущова</persName>
               <persName ref="Обольянинов">Обольянинову</persName>
               об отстутсвии антиправительственных намерений у
               <orgName ref="Хасиды">хасидов</orgName>
@@ -4415,7 +4422,7 @@
             </p>
           </cell>
           <cell rendition="date">1800-10-17</cell>
-          <cell rendition="author"></cell>
+          <cell rendition="author">Бельков</cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -4518,7 +4525,9 @@
             </p>
           </cell>
           <cell rendition="date">1800-11-01</cell>
-          <cell rendition="author"></cell>
+          <cell rendition="author">
+            <persName ref="Обольянинов">Обольянинов</persName>
+          </cell>
           <cell rendition="addressee">
             <persName ref="Фризель">Фризелю</persName>
           </cell>
@@ -5277,9 +5286,7 @@
             <p>Заголовок раздела: Очные Ставки.</p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -5328,7 +5335,9 @@
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Файбишевич">Юделю Файбишовичу</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/339.html" role="documentViewer">339</ref>
@@ -5341,11 +5350,9 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
+          <cell rendition="description"></cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">he</cell>
           <cell rendition="document">
@@ -5474,7 +5481,7 @@
             </p>
           </cell>
           <cell rendition="date">1800-11-19</cell>
-          <cell rendition="author"></cell>
+          <cell rendition="author">Коробьин</cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
           </cell>
@@ -5728,7 +5735,7 @@
           </cell>
           <cell rendition="date">1800-12-16</cell>
           <cell rendition="author">
-            <persName ref="Северин">Петръ Северин</persName>
+            <persName ref="Северин">Северин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Обольянинов">Обольянинову</persName>
@@ -5816,11 +5823,9 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">?</cell>
+          <cell rendition="description"></cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
