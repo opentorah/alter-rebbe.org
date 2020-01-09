@@ -177,10 +177,23 @@
             <ref target="documents/008.html#p010-2" role="documentViewer" rendition="page">010об</ref>
             <ref target="documents/008.html#p011-1" role="documentViewer" rendition="page">011</ref>
             <ref target="documents/008.html#p011-2" role="documentViewer" rendition="page">011об</ref>
-            <ref target="documents/008.html#p012-1" role="documentViewer" rendition="page">012</ref>
-            <ref target="documents/008.html#p012-2" role="documentViewer" rendition="page">012об</ref>
-            <ref target="documents/008.html#p013-1" role="documentViewer" rendition="page">013</ref>
-            <ref target="documents/008.html#p013-2" role="documentViewer" rendition="missing-page">013об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/012.html" role="documentViewer">012</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/012.html#p012-1" role="documentViewer" rendition="page">012</ref>
+            <ref target="documents/012.html#p012-2" role="documentViewer" rendition="page">012об</ref>
+            <ref target="documents/012.html#p013-1" role="documentViewer" rendition="page">013</ref>
+            <ref target="documents/012.html#p013-2" role="documentViewer" rendition="missing-page">013об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
