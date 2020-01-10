@@ -5097,10 +5097,23 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Доклад
+              <persName ref="Павел_I">императору</persName>, возможно, составленный
+              <persName ref="Обольянинов">Обольяниновым</persName>, с сообщением, что разработка положения о правилах для
+              <orgName ref="Хасиды">хасидов</orgName>
+              и кагалов передана
+              <orgName ref="Сенат">Сенату</orgName>, а также с предложением выпустить
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              из-под караула под домашний арест в связи с невиновностью и болезнью
+            </p>
+          </cell>
+          <cell rendition="date">1800-11-24</cell>
           <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Павел_I">Павлу I</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/328.html" role="documentViewer">328</ref>
