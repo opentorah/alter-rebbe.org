@@ -35,6 +35,13 @@
           <p>Julian calendar</p>
         </calendar>
       </calendarDesc>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Северин" role="addressee">Северину</persName>
+    </correspAction>
+  </correspDesc>
+      <abstract><p>Распоряжение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Северин">Северину</persName> о задержании <persName ref="alter-rebbe">Шнеура Залмана</persName> и доставлении его в <placeName ref="Петербург">Санкт-Петербург</placeName></p></abstract>
+
     </profileDesc>
   </teiHeader>
   <text>
@@ -46,8 +53,7 @@
         <fw type="note">секретно</fw>
         <fw type="pageNum" place="right"><del rend="overstrike">815</del></fw>
       </l>
-      <salute> <l>Милостиый Государь мой Петръ Ивановичъ!<note place="end">Письмо, вероятно,
-      аддресовано П.И. Аверину - секретарю Обольянинова, что предполагает датировку между февралем 1800 и мартом 1801 г.</note></l></salute>
+      <salute> <l>Милостивый Государь мой <persName ref="Северин">Петръ Ивановичъ</persName>!</l></salute>
       <p>
         <l>Имѣя высочайшее повеленiе, чтобъ</l>
         <l>начальника <orgName ref="Хасиды">Королинской Секты или хо-<lb/>

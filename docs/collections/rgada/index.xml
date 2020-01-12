@@ -4437,12 +4437,24 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Распоряжение
+              <persName ref="Обольянинов">Обольянинова</persName>
+              <persName ref="Северин">Северину</persName>
+              о задержании
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и доставлении его в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+            </p>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName ref="Обольянинов">Обольянинов</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Северин">Северину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/266.html" role="documentViewer">266</ref>
