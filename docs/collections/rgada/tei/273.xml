@@ -26,14 +26,9 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="?">?</date></creation>
       <abstract><p>Часть списка губернаторов, которым было разослано секретное поручение</p></abstract>
     </profileDesc>
   </teiHeader>

@@ -27,21 +27,15 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-10">октябрь 1800</date></creation>
       <correspDesc>
-    <correspAction>
-      <persName ref="Северин" role="addressee">Северину</persName>
-    </correspAction>
-  </correspDesc>
+        <correspAction>
+          <persName ref="Северин" role="addressee">Северину</persName>
+        </correspAction>
+      </correspDesc>
       <abstract><p>Распоряжение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Северин">Северину</persName> о задержании <persName ref="alter-rebbe">Шнеура Залмана</persName> и доставлении его в <placeName ref="Петербург">Санкт-Петербург</placeName></p></abstract>
-
     </profileDesc>
   </teiHeader>
   <text>
