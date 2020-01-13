@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-  xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -36,18 +35,18 @@
         </calendar>
       </calendarDesc>
       <creation>
-                <date when="1800-08-26">26 августа 1800</date>
-            </creation>
-            <abstract>
-                <p>Поручение <persName ref="Обольянинов">Обольянинова</persName><persName ref="Хрущов">Хрущову</persName>
-                  получить сведения о <orgName ref="Хасиды">хасидах</orgName> в ходе поездки по <placeName
-                    ref="Белоруссия">Белоруссии</placeName> </p>
-            </abstract>
-            <correspDesc>
-                <correspAction>
-                    <persName ref="Хрущов" role="addressee">Хрущову</persName>
-                </correspAction>
-            </correspDesc>
+        <date when="1800-08-26">26 августа 1800</date>
+      </creation>
+      <abstract>
+        <p>Поручение <persName ref="Обольянинов">Обольянинова</persName><persName ref="Хрущов">Хрущову</persName>
+          получить сведения о <orgName ref="Хасиды">хасидах</orgName> в ходе поездки по <placeName
+            ref="Белоруссия">Белоруссии</placeName> </p>
+      </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Хрущов" role="addressee">Хрущову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
