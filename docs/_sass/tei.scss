@@ -15,7 +15,7 @@ tei-add {
 }
 
 tei-del[rend='overstrike'] {
-  text-decoration: line-through;
+  text-decoration: red line-through;
 }
 
 tei-emph[rend='underline'] {
