@@ -4,9 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>
-                    <persName ref="Фризель">Фризель</persName>
-                </author>
+                <author><persName ref="Фризель">Фризель</persName></author>
                 <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
             </titleStmt>
             <publicationStmt>
@@ -27,9 +25,7 @@
         <profileDesc>
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <creation>
-                <date when="1800-01-23">Генваря 23-го дня, 1800</date>
-            </creation>
+            <creation><date when="1800-01-23">Генваря 23-го дня, 1800</date></creation>
             <abstract>
                 <p>Объявление <persName ref="Фризель">Фризеля</persName> о высочайше дорованной терпимости к
                     <orgName ref="Хасиды">секте Каролинов</orgName></p>
