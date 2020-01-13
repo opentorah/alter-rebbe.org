@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -11,7 +10,6 @@
 				<publisher>
 					<ptr target="www.alter-rebbe.org"/>
 				</publisher>
-				<date>?</date>
 				<availability status="free">
 					<licence>
 						<ab>
@@ -35,11 +33,15 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
+			<creation><date when="1800-12">декабрь 1800</date></creation>
 			<abstract>
 				<p>Черновой вариант перевода первой части молитвы "О благоденствии и спасении Государя" с оригинала, записанного
-					<persName ref="alter-rebbe">Шнеуром Залманом</persName>
-					<note place="end">Отредактированный и исправленный текст также имеется в следственном деле - см. http://www.alter-rebbe.org/collections/rgia413/documents/013.html</note>
+					<persName ref="alter-rebbe">Шнеуром Залманом</persName></p>
+				<p>Отредактированный и исправленный текст - документ
+					<ref target="http://www.alter-rebbe.org/collections/rgia413/documents/013.html" role="documentViewer">013
+					</ref> в РГИА 413
 				</p>
+				<p>Упомянут в документе <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у Дубнова</p>
 			</abstract>
 		</profileDesc>
 	</teiHeader>
@@ -48,13 +50,9 @@
 			<pb xml:id="p367-1" n="367-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/367-1.jpg"/>
 			<fw type="pageNum" place="right">367</fw>
 			<p>
-				<l>
-					<head>Переводъ молитвы
-						<lb/>
-						о
-						<lb/>
-						благоденнствіи и спасеніи государя.
-					</head>
+				<l><head>Переводъ молитвы<lb/>
+						о<lb/>
+						благоденнствіи и спасеніи государя.</head>
 				</l>
 				<l>
 					<del rend="overstrike">Спаситель Госу</del>
@@ -65,29 +63,17 @@
 				<l>вѣчное, онъ же тотъ которой спасъ</l>
 				<l>даввыда раба своего отъ злобнаго меча,</l>
 				<l>Онъ же показываетъ на морѣ путь</l>
-				<l>и на водахъ быстрые стѣзи: благословилъ бы
-				</l>
-				<l>онъ оберегъ защитилъ помогалъ,
-					<del rend="overstrike">и</del> возвы
-				</l>
+				<l>и на водахъ быстрые стѣзи: благословилъ бы</l>
+				<l>онъ оберегъ защитилъ помогалъ, <del rend="overstrike">и</del> возвы</l>
 				<l>силъ увеличилъ и подносилъ до всенаи</l>
 				<l>
 					<emph rend="big">высочайшей</emph>
 					<hi rend="superscript">степени</hi>
 					<emph rend="big">всемилостивѣйшаго Государя</emph>
 				</l>
-				<l>нашего
-					<del rend="overstrike">с фами</del>
-					<emph rend="big">императора</emph>
-				</l>
-				<l>
-					<emph rend="big">
-						<persName ref="Павел_I">Павла петровича</persName> съ высочайшей
-					</emph>
-				</l>
-				<l>
-					<emph rend="big">фамиліею</emph>, да возвысилось бы сіяніе ихъ.
-				</l>
+				<l>нашего <del rend="overstrike">с фами</del> <emph rend="big">императора</emph></l>
+				<l><emph rend="big"><persName ref="Павел_I">Павла петровича</persName> съ высочайшей</emph></l>
+				<l><emph rend="big">фамиліею</emph>, да возвысилось бы сіяніе ихъ.</l>
 			</p>
 			<p>
 				<l>
@@ -107,16 +93,10 @@
 				<l>о благоденствіи нашемъ и всего</l>
 				<l>израиля. _
 					<del rend="overstrike">вовѣки</del>
-					<hi rend="superscript">
-						<del rend="overstrike">
-							<unclear>???</unclear>
-						</del> во днѣхъ его
-					</hi> да спасенъ
+					<hi rend="superscript"><del rend="overstrike"><unclear>???</unclear></del> во днѣхъ его</hi> да спасенъ
 				</l>
 				<l>будетъ израиль, пребывалъ въ спокойствіи,</l>
-				<l>
-					<del rend="overstrike">ихъ</del> и въ сіонъ пришелъ бы
-				</l>
+				<l><del rend="overstrike">ихъ</del> и въ сіонъ пришелъ бы</l>
 				<l>Спаситель. Аминъ.</l>
 			</p>
 		</body>
