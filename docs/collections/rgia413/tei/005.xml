@@ -4,13 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <author>
-                    <persName ref="Авигдор">Авигдор</persName>
-                </author>
+                <author><persName ref="Авигдор">Авигдор</persName></author>
             </titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <date>?</date>
                 <availability status="free">
                     <licence>
                         <ab>
@@ -26,9 +23,7 @@
         <profileDesc>
             <langUsage><language ident="he"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <creation>
-                <date when="1801-04">апрель 1801 (по версии Дубнова в комментарии)</date>
-            </creation>
+            <creation><date when="1801-04">апрель 1801 (по версии Дубнова в комментарии)</date></creation>
             <abstract>
                 <p>Прошение <persName ref="Авигдор">Авигдора</persName> на имя <orgName ref="Сенат">Сената
                 </orgName> с жалобами на хасидов и освобожденного их начальника <persName ref="alter-rebbe">Залмана
