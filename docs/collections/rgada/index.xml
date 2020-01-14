@@ -204,12 +204,24 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              ообщение
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Булгаков">Булгакову</persName>
+              о высочайшем распоряжении провести расследование обстоятельств, изложенных в анонимных письмах с доносами в том числе на
+              <orgName ref="Хасиды">хасидов</orgName>
+              и
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>.
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1798-08-16</cell>
+          <cell rendition="author">
+            <persName ref="Лопухин">Лопухин</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Булгаков">Булгакову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/006.html" role="documentViewer">006</ref>
@@ -219,7 +231,9 @@
             <ref target="documents/006.html#p006-2" role="documentViewer" rendition="page">006об</ref>
             <ref target="documents/006.html#p007-1" role="documentViewer" rendition="page">007</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
