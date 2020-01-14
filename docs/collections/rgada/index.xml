@@ -269,10 +269,16 @@
         </row>
         <row>
           <cell rendition="description">
-            Объяснение по доносу учиненному в письме жида
-            <persName ref="Гирша_Давыдович">Гирша Давыдовича</persName>
+            <p>
+              Подробные пояснения к письму
+              <persName ref="Булгаков">Булгакова</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+              по доносу, подписанному именем
+              <persName ref="Гирша_Давыдович">Гирша Давыдовича</persName>
+              на виленские городские службы
+            </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1798-05-11</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -288,7 +294,8 @@
             <ref target="documents/009.html#p010-2" role="documentViewer" rendition="page">010об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="SB">Сергей Броуде</persName>
+            <persName ref="SB">Сергей Броуде</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
