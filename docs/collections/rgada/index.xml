@@ -299,10 +299,19 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Копия письма с подписью
+              <persName ref="Гирша_Давыдович">Гирша Давыдовича</persName>
+              о злоупотреблениях виленской городской власти
+            </p>
+          </cell>
+          <cell rendition="date">1798-05-11</cell>
           <cell rendition="author">
             <persName>?</persName>
+            <editor role="transcriber">
+              <persName ref="VK">Василий Когаловский</persName>
+            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
