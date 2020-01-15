@@ -354,12 +354,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Булгаков">Булгакова</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+              о признании ложным доноса, подписанного именем ксендза
+              <persName ref="Чечерский">Чечерского</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1798-09-06</cell>
           <cell rendition="author">
             <persName ref="Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Булгаков">Булгакову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/013.html" role="documentViewer">013</ref>
@@ -369,7 +379,9 @@
             <ref target="documents/013.html#p013-2" role="documentViewer" rendition="page">013об</ref>
             <ref target="documents/013.html#p014-1" role="documentViewer" rendition="page">014</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
