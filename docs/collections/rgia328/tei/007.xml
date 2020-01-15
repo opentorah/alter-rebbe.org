@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">Решение о рассмотрении дела старшин виленского кагала </title>
 				<author><persName ref="Павел_I">Павел I</persName></author>
 				<editor role="transcriber">
 					<persName ref="VK">Василий Когаловский</persName>
@@ -62,7 +60,7 @@
 				<l>кавалеромъ <persName ref="Обольянинов">обольяниновымъ</persName>
 					<date when="1800-11-24">сего ноября 24<hi rend="superscript">го</hi> числа</date> въ</l>
 				<l>которомъ написано. <emph rend="big">Его императорское величес-<lb/>
-						тво</emph> высочайше повелѣть соизволилъ отношеніи</l>
+					тво</emph> высочайше повелѣть соизволилъ отношеніи</l>
 				<l><placeName ref="Литва">Литовскихъ</placeName> губернаторовъ: военнаго <persName ref="Кутузов">голенищева
 					Ку<lb/>
 					тузова</persName> и гражданскаго <persName ref="Фризель">фризеля</persName>, копію съ
@@ -79,7 +77,7 @@
 				<l>жалобу еврея <persName ref="Моисей_Ошерович">можейша ошеровича</persName>, въ нарушеніи якобы</l>
 				<l><orgName ref="Литовское_губернское_правление">литовскимъ губернскимъ правленіемъ</orgName> правъ и при-</l>
 				<l>виллегій, во отнятіи нѣкоторой власти у <orgName ref="виленский_кагал">еврейскаго<lb/>
-						кагала</orgName> и въ выбраніи въ тотъ <orgName ref="виленский_кагал">кагалъ</orgName> новыхъ кагаль-</l>
+					кагала</orgName> и въ выбраніи въ тотъ <orgName ref="виленский_кагал">кагалъ</orgName> новыхъ кагаль-</l>
 				<l>ныхъ члѣновъ, изъ составленной якобы у нихъ новой </l>
 				<l><orgName ref="Хасиды">секты названной каролинами</orgName> противной ихъ</l>
 				<l>религіи, а какъ о <orgName ref="виленский_кагал">виленскомъ же кагалѣ</orgName> имѣет-</l>
