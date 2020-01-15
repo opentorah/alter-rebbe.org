@@ -317,12 +317,18 @@
         </row>
         <row>
           <cell rendition="description">
-            О пасквильномъ доносѣ
-            <persName ref="Гирша_Давыдович">Еврея Давыдовича</persName>
+            <p>
+              Рапорт
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Павел_I">Павлу I</persName>
+              о расследовании по ложному доносу о злоупотреблениях
+              <placeName ref="Вильно">виленской</placeName>
+              городской власти
+            </p>
           </cell>
           <cell rendition="date">1798-09-18</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -334,7 +340,8 @@
             <ref target="documents/012.html#p012-2" role="documentViewer" rendition="page">012об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="ALD">Арье-Лейб Дубинский</persName>
+            <persName ref="ALD">Арье-Лейб Дубинский</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
