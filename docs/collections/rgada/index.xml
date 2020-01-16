@@ -409,12 +409,17 @@
         </row>
         <row>
           <cell rendition="description">
-            О пасквильном доносе ксендза
-            <persName ref="Чечерский">Чечерскаго</persName>
+            <p>
+              Доклад Лопухина
+              <persName ref="Павел_I">императору</persName>, основанный на сообщении
+              <persName ref="Булгаков">Булгакова</persName>
+              (http://www.alter-rebbe.org/collections/rgada/documents/013.html) о подложном доносе, подписанном именем ксендза
+              <persName ref="Чечерский">Чечерского</persName>
+            </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1798-09-27</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -426,7 +431,9 @@
             <ref target="documents/016.html#p016-2" role="documentViewer" rendition="page">016об</ref>
             <ref target="documents/016.html#p017-1" role="documentViewer" rendition="page">017</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
