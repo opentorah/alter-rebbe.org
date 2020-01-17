@@ -459,8 +459,14 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date">1798-05-10</cell>
+          <cell rendition="description">
+            <p>
+              Оригинал подложного доноса на
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>, подписанный именем
+              <persName ref="Гирша_Давыдович">Гирша Давыдовича</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1798-05-08</cell>
           <cell rendition="author">
             <persName ref="Гирша_Давыдович">Гирш Давыдович</persName>
           </cell>
@@ -472,7 +478,9 @@
           <cell rendition="pages">
             <ref target="documents/020.html#p020-1" role="documentViewer" rendition="page">020</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
