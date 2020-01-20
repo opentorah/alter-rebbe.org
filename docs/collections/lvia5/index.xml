@@ -27,15 +27,6 @@
         Литовский Исторический Архив -
         <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>.
       </p>
-      <p>
-        378 B/S 1800 2 (ч. III б; extract) =5 Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Канцелярия
-        <placeName ref="Вильно">виленского</placeName>
-        генерал-губернатора, общий отдел Материалы следствия по делу о финансовой деятельности бывших
-        <placeName ref="Вильно">виленских</placeName>
-        кагальных, уволенных за злостные финансовые нарушения по жалобам местных хасидов (лл. 357-403)
-      </p>
-      <p>Документов этого дела у нас пока нет.</p>
       <table rendition="collection-index">
         <row>
           <cell rendition="description">Описание</cell>
@@ -47,7 +38,40 @@
           <cell rendition="pages">Страницы</cell>
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/002.html" role="documentViewer">002</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
+            <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
+            <ref target="documents/002.html#p003-1" role="documentViewer" rendition="page">003</ref>
+            <ref target="documents/002.html#p003-2" role="documentViewer" rendition="missing-page">003об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/006.html" role="documentViewer">006</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/006.html#p006-1" role="documentViewer" rendition="page">006</ref>
+            <ref target="documents/006.html#p006-2" role="documentViewer" rendition="missing-page">006об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
       </table>
+      <p>Отсутствуют фотографии 2 страниц: 003об 006об</p>
     </body>
   </text>
 </TEI>

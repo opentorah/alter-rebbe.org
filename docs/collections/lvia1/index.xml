@@ -29,17 +29,9 @@
       </head>
       <p>
         Литовский Исторический Архив -
-        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>.
-      </p>
-      <p>
-        378 1799 2. (B/S) фонда №378 "Канцелярия Виленского военного генерал-губернатора" =1 Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Документы, относящиеся к административной переписке о расследовании злоупотреблений
-        <orgName ref="виленский_кагал">виленского кагала</orgName>
-        и его конфликта с
-        <placeName ref="Вильно">виленскими</placeName>
-        хасидами. В деле упомянуты некоторые материалы следствия в связи с первым арестом
-        <persName ref="alter-rebbe">р. Шнеур Залмана</persName>
-        (без упомянания о нём) и других хасидов Хабада.
+        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>. Фонд 378. Канцелярия
+        <placeName ref="Вильно">виленского</placeName>
+        генерал-губернатора. Общий отдел.
       </p>
       <table rendition="collection-index">
         <row>
@@ -51,6 +43,85 @@
           <cell rendition="document">Документ</cell>
           <cell rendition="pages">Страницы</cell>
           <cell rendition="transcriber">Расшифровка</cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/073.html" role="documentViewer">073</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/073.html#p073-1" role="documentViewer" rendition="page">073</ref>
+            <ref target="documents/073.html#p073-2" role="documentViewer" rendition="missing-page">073об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/074.html" role="documentViewer">074</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/074.html#p074-1" role="documentViewer" rendition="page">074</ref>
+            <ref target="documents/074.html#p074-2" role="documentViewer" rendition="missing-page">074об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/075.html" role="documentViewer">075</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/075.html#p075-1" role="documentViewer" rendition="missing-page">075</ref>
+            <ref target="documents/075.html#p075-2" role="documentViewer" rendition="page">075об</ref>
+            <ref target="documents/075.html#p076-1" role="documentViewer" rendition="page">076</ref>
+            <ref target="documents/075.html#p076-2" role="documentViewer" rendition="page">076об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/077.html" role="documentViewer">077</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/077.html#p077-1" role="documentViewer" rendition="page">077</ref>
+            <ref target="documents/077.html#p077-2" role="documentViewer" rendition="page">077об</ref>
+            <ref target="documents/077.html#p078-1" role="documentViewer" rendition="page">078</ref>
+            <ref target="documents/077.html#p078-2" role="documentViewer" rendition="page">078об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/079.html" role="documentViewer">079</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/079.html#p079-1" role="documentViewer" rendition="page">079</ref>
+            <ref target="documents/079.html#p079-2" role="documentViewer" rendition="missing-page">079об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
         </row>
         <row>
           <cell rendition="description">
@@ -85,6 +156,21 @@
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/265.html" role="documentViewer">265</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/265.html#p265-1" role="documentViewer" rendition="page">265</ref>
+            <ref target="documents/265.html#p265-2" role="documentViewer" rendition="missing-page">265об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
         </row>
         <row>
           <cell rendition="description">
@@ -155,6 +241,51 @@
           </cell>
         </row>
         <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/287.html" role="documentViewer">287</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/287.html#p287-1" role="documentViewer" rendition="page">287</ref>
+            <ref target="documents/287.html#p287-2" role="documentViewer" rendition="page">287об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/290.html" role="documentViewer">290</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/290.html#p290-1" role="documentViewer" rendition="page">290</ref>
+            <ref target="documents/290.html#p290-2" role="documentViewer" rendition="page">290об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/307.html" role="documentViewer">307</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/307.html#p307-1" role="documentViewer" rendition="page">307</ref>
+            <ref target="documents/307.html#p307-2" role="documentViewer" rendition="page">307об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
           <cell rendition="description">
             Рапорт
             <placeName ref="Литва">литовского</placeName>
@@ -190,7 +321,175 @@
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/357.html" role="documentViewer">357</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/357.html#p357-1" role="documentViewer" rendition="page">357</ref>
+            <ref target="documents/357.html#p357-2" role="documentViewer" rendition="page">357об</ref>
+            <ref target="documents/357.html#p358-1" role="documentViewer" rendition="page">358</ref>
+            <ref target="documents/357.html#p358-2" role="documentViewer" rendition="missing-page">358об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/359.html" role="documentViewer">359</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/359.html#p359-1" role="documentViewer" rendition="page">359</ref>
+            <ref target="documents/359.html#p359-2" role="documentViewer" rendition="page">359об</ref>
+            <ref target="documents/359.html#p360-1" role="documentViewer" rendition="page">360</ref>
+            <ref target="documents/359.html#p360-2" role="documentViewer" rendition="page">360об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/361.html" role="documentViewer">361</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/361.html#p361-1" role="documentViewer" rendition="page">361</ref>
+            <ref target="documents/361.html#p361-2" role="documentViewer" rendition="page">361об</ref>
+            <ref target="documents/361.html#p362-1" role="documentViewer" rendition="page">362</ref>
+            <ref target="documents/361.html#p362-2" role="documentViewer" rendition="page">362об</ref>
+            <ref target="documents/361.html#p363-1" role="documentViewer" rendition="page">363</ref>
+            <ref target="documents/361.html#p363-2" role="documentViewer" rendition="page">363об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/364.html" role="documentViewer">364</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/364.html#p364-1" role="documentViewer" rendition="page">364</ref>
+            <ref target="documents/364.html#p364-2" role="documentViewer" rendition="page">364об</ref>
+            <ref target="documents/364.html#p365-1" role="documentViewer" rendition="page">365</ref>
+            <ref target="documents/364.html#p365-2" role="documentViewer" rendition="page">365об</ref>
+            <ref target="documents/364.html#p366-1" role="documentViewer" rendition="page">366</ref>
+            <ref target="documents/364.html#p366-2" role="documentViewer" rendition="page">366об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/367.html" role="documentViewer">367</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/367.html#p367-1" role="documentViewer" rendition="page">367</ref>
+            <ref target="documents/367.html#p367-2" role="documentViewer" rendition="page">367об</ref>
+            <ref target="documents/367.html#p368-1" role="documentViewer" rendition="page">368</ref>
+            <ref target="documents/367.html#p368-2" role="documentViewer" rendition="missing-page">368об</ref>
+            <ref target="documents/367.html#p369-1" role="documentViewer" rendition="missing-page">369</ref>
+            <ref target="documents/367.html#p369-2" role="documentViewer" rendition="page">369об</ref>
+            <ref target="documents/367.html#p370-1" role="documentViewer" rendition="page">370</ref>
+            <ref target="documents/367.html#p370-2" role="documentViewer" rendition="page">370об</ref>
+            <ref target="documents/367.html#p371-1" role="documentViewer" rendition="page">371</ref>
+            <ref target="documents/367.html#p371-2" role="documentViewer" rendition="page">371об</ref>
+            <ref target="documents/367.html#p372-1" role="documentViewer" rendition="page">372</ref>
+            <ref target="documents/367.html#p372-2" role="documentViewer" rendition="page">372об</ref>
+            <ref target="documents/367.html#p373-1" role="documentViewer" rendition="page">373</ref>
+            <ref target="documents/367.html#p373-2" role="documentViewer" rendition="page">373об</ref>
+            <ref target="documents/367.html#p374-1" role="documentViewer" rendition="page">374</ref>
+            <ref target="documents/367.html#p374-2" role="documentViewer" rendition="page">374об</ref>
+            <ref target="documents/367.html#p375-1" role="documentViewer" rendition="page">375</ref>
+            <ref target="documents/367.html#p375-2" role="documentViewer" rendition="missing-page">375об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/512.html" role="documentViewer">512</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/512.html#p512-1" role="documentViewer" rendition="page">512</ref>
+            <ref target="documents/512.html#p512-2" role="documentViewer" rendition="missing-page">512об</ref>
+            <ref target="documents/512.html#p513-1" role="documentViewer" rendition="missing-page">513</ref>
+            <ref target="documents/512.html#p513-2" role="documentViewer" rendition="page">513об</ref>
+            <ref target="documents/512.html#p514-1" role="documentViewer" rendition="page">514</ref>
+            <ref target="documents/512.html#p514-2" role="documentViewer" rendition="missing-page">514об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/537.html" role="documentViewer">537</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/537.html#p537-1" role="documentViewer" rendition="page">537</ref>
+            <ref target="documents/537.html#p537-2" role="documentViewer" rendition="page">537об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/538.html" role="documentViewer">538</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/538.html#p538-1" role="documentViewer" rendition="page">538</ref>
+            <ref target="documents/538.html#p538-2" role="documentViewer" rendition="missing-page">538об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/539.html" role="documentViewer">539</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/539.html#p539-1" role="documentViewer" rendition="page">539</ref>
+            <ref target="documents/539.html#p539-2" role="documentViewer" rendition="missing-page">539об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
       </table>
+      <p>Отсутствуют фотографии 14 страниц: 073об 074об 075 079об 265об 358об 368об 369 375об 512об 513 514об 538об 539об</p>
     </body>
   </text>
 </TEI>
