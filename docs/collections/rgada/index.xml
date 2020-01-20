@@ -540,10 +540,25 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Распоряжение
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Жегулин">Жегулину</persName>
+              о присылке в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и его ближайших сторонников и о проведении следствия по делу
+              <orgName ref="Хасиды">хасидов</orgName>; перечеркнутое письмо
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Булгаков">Булгакову</persName>
+              проведении следствия также в
+              <placeName ref="Литва">Литовской губернии</placeName>
+            </p>
+          </cell>
           <cell rendition="date">1798-09-15</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Жегулин">Жегулину</persName>
@@ -558,7 +573,8 @@
             <ref target="documents/028.html#p028a-1" role="documentViewer" rendition="page">028a</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
