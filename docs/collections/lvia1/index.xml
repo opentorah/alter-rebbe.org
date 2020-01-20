@@ -152,25 +152,11 @@
             <ref target="documents/250.html#p250-1" role="documentViewer" rendition="page">250</ref>
             <ref target="documents/250.html#p250-2" role="documentViewer" rendition="page">250об</ref>
             <ref target="documents/250.html#p265-1" role="documentViewer" rendition="page">265</ref>
+            <ref target="documents/250.html#p265-2" role="documentViewer" rendition="missing-page">265об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
-        </row>
-        <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/265.html" role="documentViewer">265</ref>
-          </cell>
-          <cell rendition="pages">
-            <ref target="documents/265.html#p265-1" role="documentViewer" rendition="page">265</ref>
-            <ref target="documents/265.html#p265-2" role="documentViewer" rendition="missing-page">265об</ref>
-          </cell>
-          <cell rendition="transcriber"></cell>
         </row>
         <row>
           <cell rendition="description">
@@ -235,25 +221,11 @@
             <ref target="documents/280.html#p282-1" role="documentViewer" rendition="page">282</ref>
             <ref target="documents/280.html#p282-2" role="documentViewer" rendition="page">282об</ref>
             <ref target="documents/280.html#p283-1" role="documentViewer" rendition="page">283</ref>
+            <ref target="documents/280.html#p283-2" role="documentViewer" rendition="missing-page">283об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
-        </row>
-        <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/287.html" role="documentViewer">287</ref>
-          </cell>
-          <cell rendition="pages">
-            <ref target="documents/287.html#p287-1" role="documentViewer" rendition="page">287</ref>
-            <ref target="documents/287.html#p287-2" role="documentViewer" rendition="page">287об</ref>
-          </cell>
-          <cell rendition="transcriber"></cell>
         </row>
         <row>
           <cell rendition="description"></cell>
@@ -489,7 +461,12 @@
           <cell rendition="transcriber"></cell>
         </row>
       </table>
-      <p>Отсутствуют фотографии 14 страниц: 073об 074об 075 079об 265об 358об 368об 369 375об 512об 513 514об 538об 539об</p>
+      <p>
+        Отсутствуют фотографии
+        15
+        страниц:
+        073об 074об 075 079об 265об 283об 358об 368об 369 375об 512об 513 514об 538об 539об
+      </p>
     </body>
   </text>
 </TEI>
