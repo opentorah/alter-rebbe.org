@@ -45,6 +45,21 @@
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
+            <ref target="documents/013.html" role="documentViewer">013</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/013.html#p013-1" role="documentViewer" rendition="page">013</ref>
+            <ref target="documents/013.html#p013-2" role="documentViewer" rendition="page">013об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
             <ref target="documents/126.html" role="documentViewer">126</ref>
           </cell>
           <cell rendition="pages">
