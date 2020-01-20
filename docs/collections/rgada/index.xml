@@ -486,7 +486,7 @@
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Булгаков">Булгаков</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -506,7 +506,8 @@
             <ref target="documents/021.html#p025-2" role="documentViewer" rendition="page">025об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
