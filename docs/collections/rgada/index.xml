@@ -578,12 +578,25 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Черновой вариант распоряжения
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Булгаков">Булгакову</persName>
+              о доставке в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+              <orgName ref="Хасиды">хасидов</orgName>, связанных со
+              <persName ref="alter-rebbe">Шнеуром Залманом</persName>
+              для следственных действий и о прислыке сведений об этих людях; текст соотносится с вариантом в документе 028 РГАДА
+            </p>
+          </cell>
           <cell rendition="date">1798-09-15</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Булгаков">Булгакову</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/029.html" role="documentViewer">029</ref>
@@ -592,7 +605,9 @@
             <ref target="documents/029.html#p029-1" role="documentViewer" rendition="page">029</ref>
             <ref target="documents/029.html#p029-2" role="documentViewer" rendition="page">029об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
