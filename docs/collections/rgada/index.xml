@@ -614,9 +614,11 @@
           <cell rendition="description"></cell>
           <cell rendition="date">1798-09-29</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Жегулин">Семен Жегулин</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/030.html" role="documentViewer">030</ref>
@@ -627,7 +629,8 @@
             <ref target="documents/030.html#p031-1" role="documentViewer" rendition="page">031</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
