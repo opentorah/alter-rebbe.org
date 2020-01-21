@@ -693,10 +693,19 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Жегулин">Жегулину</persName>, подверждающее доставку
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+            </p>
+          </cell>
           <cell rendition="date">1798-10-07</cell>
           <cell rendition="author">
-            <persName ref="Гавриил_Новгородский">митрополит Гаврила Новгородский</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Жегулин">Жегулину</persName>
@@ -708,7 +717,9 @@
           <cell rendition="pages">
             <ref target="documents/035.html#p035-1" role="documentViewer" rendition="page">035</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
