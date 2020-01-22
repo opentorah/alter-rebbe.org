@@ -28,17 +28,9 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1798-10-18">18 октября 1798</date>
-      </creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-10-18">18 октября 1798</date></creation>
       <abstract>
         <p>Донесение</p>
       </abstract>
