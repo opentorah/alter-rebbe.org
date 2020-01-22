@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>
-					<persName ref="Фризель">Фризель</persName>
-				</author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
+				<author><persName ref="Фризель">Фризель</persName></author>
+				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>
-					<ptr target="www.alter-rebbe.org"/>
-				</publisher>
+				<publisher><ptr target="www.alter-rebbe.org"/></publisher>
 				<availability status="free">
 					<licence>
 						<ab>
@@ -26,22 +19,12 @@
 					</licence>
 				</availability>
 			</publicationStmt>
-			<sourceDesc>
-				<p>Facsimile</p>
-			</sourceDesc>
+			<sourceDesc><p>Facsimile</p></sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<langUsage>
-				<language ident="ru"/>
-			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1799-02-16">16 февраля 1799</date>
-			</creation>
+			<langUsage><language ident="ru"/></langUsage>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1799-02-16">16 февраля 1799</date></creation>
 			<correspDesc>
 				<correspAction>
 					<persName ref="Де-Ласси" role="addressee">Де-Ласси</persName>
@@ -58,8 +41,8 @@
 	<text xml:lang="ru">
 		<body>
 			<pb xml:id="p344-1" n="344-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/344-1.jpg"/>
-			<date when="1799-02-18">Получено 18<hi rend="superscript">го</hi> февраля 99.
-			</date><note place="end">пометка, сделанная при получении рапорта канцелярией генерал-губернатора</note>
+			<date when="1799-02-18">Получено 18<hi rend="superscript">го</hi> февраля 99.</date><note place="end">пометка,
+			сделанная при получении рапорта канцелярией генерал-губернатора</note>
 			<fw type="pageNum" place="right">344</fw><note place="end">номер записан карандашом</note>
 			<fw type="pageNum" place="right">344</fw><note place="end">номер записан чернилами</note>
 			<salute>
@@ -132,8 +115,8 @@
 				<l>называемаго изготовленная, но безъ подписанія остав-</l>
 				<l>шаяся, входилъ я въ прилѣжное и подробное разсма-</l>
 				<l>триваніе всѣхъ статей, какъ сей резолюціи, такъ и</l>
-				<l>другой въ ономъ же <orgName ref="Литовское_губернское_правление">правленіи</orgName> апрѣля въ 26
-					<hi rend="superscript">й</hi> день то-</l>
+				<l>другой въ ономъ же <orgName ref="Литовское_губернское_правление">правленіи</orgName> апрѣля въ
+					26<hi rend="superscript">й</hi> день то-</l>
 				<l>го жъ года послѣдовавшей, а равно и  въ уваженіе пред-</l>
 				<l>ставленныхъ отъ <orgName ref="виленский_кагал">виленскаго Еврейскаго Кагала</orgName> во</l>
 				<l>многихъ начальству поданныхъ прошеніяхъ объясне-</l>

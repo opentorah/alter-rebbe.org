@@ -5,9 +5,7 @@
 		<fileDesc>
 			<titleStmt>
 				<author><persName ref="Кутузов">Кутузов</persName></author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
+				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>
@@ -23,22 +21,12 @@
 					</licence>
 				</availability>
 			</publicationStmt>
-			<sourceDesc>
-				<p>Facsimile</p>
-			</sourceDesc>
+			<sourceDesc><p>Facsimile</p></sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<langUsage>
-				<language ident="ru"/>
-			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1800-07-12">1800-07-12</date>
-			</creation>
+			<langUsage><language ident="ru"/></langUsage>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1800-07-12">1800-07-12</date></creation>
 			<abstract>
 				<p>Сообщение <persName ref="Кутузов">Кутузова</persName>
 					<persName ref="Обольянинов">Обольянинову</persName> о сведениях от
@@ -64,24 +52,16 @@
 			<fw type="pageNum" place="right">29</fw>
 			<fw type="note" place="left margin">ожидать на послѣднее отношеніе отвѣтствія.</fw>
 			<salute>
-				<l>Милостивый Государь мой
-					<persName ref="Обольянинов">Петръ Хрисан-<lb/>фовичъ!</persName>
-				</l>
+				<l>Милостивый Государь мой <persName ref="Обольянинов">Петръ Хрисан-<lb/>фовичъ!</persName></l>
 			</salute>
 			<p>
 				<l>Въ слѣдствіе почтеннѣйшаго отношенія</l>
-				<l>ко мнѣ вашего высокопревосходительства отъ 1
-					<hi rend="superscript">го</hi>
-				</l>
+				<l>ко мнѣ вашего высокопревосходительства отъ 1<hi rend="superscript">го</hi></l>
 				<l>Іюня съ изображеніемъ въ ономъ высочайшаго</l>
 				<l>Его императорскаго величества повелѣнія</l>
 				<l>о приведеніи въ ясность всѣхъ обстоятельствъ</l>
-				<l>жалобы бывшаго въ
-					<placeName ref="Пинск">Пинскѣ</placeName> оберъ рабина
-				</l>
-				<l>
-					<persName ref="Авигдор">Хаима</persName>, увѣдомить вас честь имѣю, что
-				</l>
+				<l>жалобы бывшаго въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ рабина</l>
+				<l><persName ref="Авигдор">Хаима</persName>, увѣдомить вас честь имѣю, что</l>
 				<l>по изысканіямъ моимъ въ <placeName ref="Литва">литовской губер-<lb/>
 					ніи</placeName> послѣдователей секты Шабзусъ Цвинкусъ</l>
 				<l>не находится, а потому какъ	<placeName ref="Пинск">Пинскъ</placeName> состоитъ</l>
@@ -89,12 +69,8 @@
 				<l>нутой секты должны быть, сообщилъ я къ</l>
 				<l><placeName ref="Минская_губерния">минскому</placeName> гражданскому </l>
 				<l>губернатору съ требованіемъ на жалобу</l>
-				<l>
-					<persName ref="Авигдор">Хаима</persName> объясненія, которой увѣдомляетъ
-				</l>
-				<l>меня изъ числа претензій его на 1
-					<hi rend="superscript">ю</hi> заключаю-
-				</l>
+				<l><persName ref="Авигдор">Хаима</persName> объясненія, которой увѣдомляетъ</l>
+				<l>меня изъ числа претензій его на 1<hi rend="superscript">ю</hi> заключаю-</l>
 				<l>щуюся въ томъ, чтобы секта по ученому</l>
 				<l>Шабзусъ Цвинкусъ, а попросту называвшаяся</l>
 				<l>китаевою истреблена была, по причинѣ что</l>
@@ -152,28 +128,14 @@
 				<l>Милостивый государь мой!</l>
 				<l>вашего высокопревосходительства</l>
 				<l>всепокорнейшій слуга</l>
-				<l>
-					<signed>
-						<persName ref="Кутузов">Михайла Голенищевъ Кутузовъ</persName>
-					</signed>
-				</l>
+				<l><signed><persName ref="Кутузов">Михайла Голенищевъ Кутузовъ</persName></signed></l>
 			</p>
 			<closer place="left">
-				<l>
-					<fw type="docNum">№ 1419</fw>
-				</l>
-				<l>
-					<placeName ref="Вильно">Вильна</placeName>
-				</l>
-				<l>
-					<date when="1800-07-12">июля 12 дня
-						<lb/>
-						1800 года
-					</date>
-				</l>
-				<l>Его Высокопр
-					<hi rend="superscript">у</hi> <persName ref="Обольянинов">Обольянинову</persName>
-				</l>
+				<l><fw type="docNum">№ 1419</fw></l>
+				<l><placeName ref="Вильно">Вильна</placeName></l>
+				<l><date when="1800-07-12">июля 12 дня<lb/>
+						1800 года</date></l>
+				<l>Его Высокопр<hi rend="superscript">у</hi> <persName ref="Обольянинов">Обольянинову</persName></l>
 			</closer>
 			<pb xml:id="p030-2" n="030-2"/>
 		</body>
