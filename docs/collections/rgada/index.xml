@@ -724,12 +724,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date">1798-10-11</cell>
+          <cell rendition="description">
+            <p>
+              Рапорт
+              <persName ref="Булгаков">Булгакова</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+              о начале расследования деятельности
+              <orgName ref="Хасиды">хасидов</orgName>, ответ на распаоряжение о таких действиях, см. http://www.alter-rebbe.org/collections/rgada/documents/029.html
+            </p>
+          </cell>
+          <cell rendition="date">1798-09-30</cell>
           <cell rendition="author">
             <persName ref="Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/036.html" role="documentViewer">036</ref>
