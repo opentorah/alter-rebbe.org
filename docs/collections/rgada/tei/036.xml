@@ -4,15 +4,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Булгаков">Булгаков</persName>
-        </author>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -23,28 +19,18 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1798-09-30">30 сентября 1798</date>
-      </creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-09-30">30 сентября 1798</date></creation>
       <correspDesc>
-    <correspAction>
-      <persName ref="Лопухин" role="addressee">Лопухину</persName>
-    </correspAction>
-  </correspDesc>
-<abstract><p>Рапорт <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о начале расследования деятельности <orgName ref="Хасиды">хасидов</orgName>, ответ на распаоряжение о таких действиях, см. http://www.alter-rebbe.org/collections/rgada/documents/029.html</p></abstract>
+        <correspAction>
+          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        </correspAction>
+      </correspDesc>
+      <abstract><p>Рапорт <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о начале расследования деятельности <orgName ref="Хасиды">хасидов</orgName>, ответ на распаоряжение о таких действиях, см. http://www.alter-rebbe.org/collections/rgada/documents/029.html</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -56,26 +42,26 @@
       <fw type="pageNum" place="right">36.</fw>
       <fw type="note" place="left margin">Къ отпуску</fw>
       <p>
-<l><salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute></l>
-<l>Высочайшее повелѣніе содержащееся въ секретномъ</l>
-<l>вашего Высокопревосходительства отношеніи отъ</l>
-<l><date when="1798-09-15">15. сентября</date> удостоился я получить, и приступая</l>
-<l>ко исполненію онаго, надѣюсь что на первой</l>
-<l>почтѣ буду уже въ состояніи что либо обсто-</l>
-<l>ятельнаго о семъ дѣле донести.</l>
-<l>Съ совершеннѣйшимъ почтеніемъ и истинною</l>
-<l>преданностію имѣю честь быть.</l>
-<l>Милостивой государь!</l>
-<l>Вашего высокопревосходительства</l>
-<l>всепокорнейший слуга</l>
-<l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
-<closer place="left">
-<l><fw type="docNum">№ 148</fw></l>
-<l><date when="1798-09-30">30 сентября 1798</date></l>
-<l><placeName ref="Вильно">вилна</placeName></l>
-<l>Его высокопревосходительству Г<hi rend="superscript">ну</hi> Генералу Прокурору Лопухину</l>
-<l></l>
-</closer>
+        <l><salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute></l>
+        <l>Высочайшее повелѣніе содержащееся въ секретномъ</l>
+        <l>вашего Высокопревосходительства отношеніи отъ</l>
+        <l><date when="1798-09-15">15. сентября</date> удостоился я получить, и приступая</l>
+        <l>ко исполненію онаго, надѣюсь что на первой</l>
+        <l>почтѣ буду уже въ состояніи что либо обсто-</l>
+        <l>ятельнаго о семъ дѣле донести.</l>
+        <l>Съ совершеннѣйшимъ почтеніемъ и истинною</l>
+        <l>преданностію имѣю честь быть.</l>
+        <l>Милостивой государь!</l>
+        <l>Вашего высокопревосходительства</l>
+        <l>всепокорнейший слуга</l>
+        <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
+        <closer place="left">
+          <l><fw type="docNum">№ 148</fw></l>
+          <l><date when="1798-09-30">30 сентября 1798</date></l>
+          <l><placeName ref="Вильно">вилна</placeName></l>
+          <l>Его высокопревосходительству Г<hi rend="superscript">ну</hi> Генералу Прокурору Лопухину</l>
+          <l></l>
+        </closer>
       </p>
     </body>
   </text>
