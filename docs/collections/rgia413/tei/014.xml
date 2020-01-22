@@ -37,13 +37,11 @@
     </teiHeader>
     <text xml:lang="ru">
         <body>
+            <pb xml:id="p014-1" n="014-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/014-1.jpg"/>
+            <fw type="pageNum" place="right"><del rend="overstrike">50</del></fw>
+            <fw type="pageNum" place="right">14</fw>
             <head>
-                <l>
-                    <pb xml:id="p014-1" n="014-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/014-1.jpg"/>
-                    <fw type="pageNum" place="right"><del rend="overstrike">50</del></fw>
-                    <fw type="pageNum" place="right">14</fw>
-                    <emph rend="big">Регистр</emph>.
-                </l>
+                <l><emph rend="big">Регистр</emph>.</l>
                 <l>Книгамъ еврея <persName ref="alter-rebbe">боруховича</persName> присланнымъ изъ</l>
                 <l>дому его превосходительства <placeName ref="Белоруссия">белорускаго</placeName></l>
                 <l>гражданскаго губернатора <persName ref="Северин">северина</persName> въ которыхъ</l>
