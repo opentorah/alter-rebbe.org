@@ -747,7 +747,9 @@
           <cell rendition="pages">
             <ref target="documents/036.html#p036-1" role="documentViewer" rendition="page">036</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -779,12 +781,21 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date">1798-10-14</cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Письмо
+              <persName ref="Гавриил_Новгородский">санкт-петербургского митрополита</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+              об отсутствии в Александро-Невской академии переводчиков с иврита, способных перевести материалы из следственного дела на русский язык
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1798-10-13</cell>
+          <cell rendition="author">
+            <persName ref="Гавриил_Новгородский">митрополит Гавриил</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/038.html" role="documentViewer">038</ref>
@@ -792,7 +803,9 @@
           <cell rendition="pages">
             <ref target="documents/038.html#p038-1" role="documentViewer" rendition="page">038</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
