@@ -838,10 +838,24 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Доклад
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Павел_I">императору</persName>
+              об отстутствии в
+              <placeName ref="Петербург">Санкт-Петербурге</placeName>
+              переводчика с иврита и отсылке показаний
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              в
+              <placeName ref="Вильно">Вильно</placeName>
+              для перевода там, а также о невозможности в связи с этим отправить в столицу для дальнейших следственных действий групу виленских
+              <orgName ref="Хасиды">хасидов</orgName>
+            </p>
+          </cell>
+          <cell rendition="date">1798-10-17</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -853,7 +867,8 @@
             <ref target="documents/040.html#p040-2" role="documentViewer" rendition="page">040об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
