@@ -750,12 +750,23 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Письмо
+              <persName ref="Лопухин">Лопухина</persName>
+              санкт-петербургскому
+              <persName ref="Гавриил_Новгородский">митрополиту</persName>
+              с указанием перевести с иврита на русский язык документы следственного дела
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+            </p>
+          </cell>
           <cell rendition="date">1798-10-11</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Гавриил_Новгородский">митрополиту Гавриилу</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/037.html" role="documentViewer">037</ref>
@@ -763,7 +774,9 @@
           <cell rendition="pages">
             <ref target="documents/037.html#p037-1" role="documentViewer" rendition="page">037</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
