@@ -808,12 +808,24 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date">1798-10-16</cell>
-          <cell rendition="author">
-            <persName>?</persName>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Булгаков">Булгакова</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+              о ходе следствия по делу
+              <orgName ref="Хасиды">хасидов</orgName>
+              и отправке всех виленских хасидов в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+            </p>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date">1798-10-04</cell>
+          <cell rendition="author">
+            <persName ref="Булгаков">Яков Булгаков</persName>
+          </cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/039.html" role="documentViewer">039</ref>
@@ -821,7 +833,9 @@
           <cell rendition="pages">
             <ref target="documents/039.html#p039-1" role="documentViewer" rendition="page">039</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
