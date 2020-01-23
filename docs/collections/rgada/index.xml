@@ -931,12 +931,23 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Рапорт
+              <persName ref="Булгаков">Булгакова</persName>
+              об окончании допросов
+              <placeName ref="Вильно">виленских</placeName>
+              <orgName ref="Хасиды">хасидов</orgName>
+              и об их непризнании в зарубежных связях
+            </p>
+          </cell>
           <cell rendition="date">1798-10-18</cell>
           <cell rendition="author">
             <persName ref="Булгаков">Булгаков</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/043.html" role="documentViewer">043</ref>
@@ -944,7 +955,9 @@
           <cell rendition="pages">
             <ref target="documents/043.html#p043-1" role="documentViewer" rendition="page">043</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
