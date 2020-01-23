@@ -5,9 +5,10 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName>?</persName>
+          <persName ref="Лопухин">Лопухин</persName>
         </author>
         <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -38,33 +39,59 @@
           <persName ref="Булгаков" role="addressee">Булгакову</persName>
         </correspAction>
       </correspDesc>
+      <abstract><p>Распоряжение <persName ref="Лопухин">Лопухина</persName> о выполнении перевода показаний <persName ref="alter-rebbe">Шнеура Залмана</persName> в <placeName ref="Литва">Литовской губернии</placeName> и удержании задержанных <orgName ref="Хасиды">хасидов</orgName> под стражей в <placeName ref="Вильно">Вильне</placeName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p041-1" n="041-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/041-1.jpg"/>
-      <fw>Секретно</fw>
+      <fw type="note" place="left">Секретно</fw>
       <fw type="pageNum" place="right">41.</fw>
-      <salute>Милостивый Государь мой Яков Иванович!</salute>
-      <p> По сообщению вашего превосходительства4-го сего октября о производстве следствия о новой секте евреев, и что
-        по окончании онаго доставить ко мне все бумаги и причастных в том евреев, а также и сделанном от находящегося
-        здесь объявленного той секты начальником евреев <persName ref="alter-rebbe">Боруховича</persName> показании,
-        которое по не отысканию переводчика
-        остаётся без перевода, имел я счастье, всеподданнейше докладывать Его Величеству, и Государь Император,
-        высочайше повелеть соизволил, означенное показание для перевода отослать к вам, милостивый государь мой, с тем,
-        чтобы оной сделан был без всякой огласки, и прислан обратно по скорее, а при том предписать, дабы по окончании
-        следствия доставили одни следственные бумаги, евреев же в том причастных, оставили в
-        <placeName ref="Вильно">Вильне</placeName> под стражею. Сообщая сим, высоко монаршую волю для надлежащего,
+      <salute><l>Милостивый Государь мой <persName ref="Булгаков">Яков Иванович</persName>!</l></salute>
+      <p>
+       <l>По сообщенію Вашего прв<hi rend="superscript">а</hi></l>
+       <l>отъ <date when="1798-10-04">4<hi rend="superscript">го</hi> сего октября</date> о производствѣ</l>
+        <l>слѣдствія о новой <orgName ref="Хасиды">сектѣ евреевъ</orgName>,</l>
+         <l>и что по окончаніи онаго доста-</l>
+         <l>вить <hi rend="superscript">ко мнѣ</hi> всѣ бумаги и причастныхъ</l>
+          <l>въ томъ евреевъ; а такъже и</l>
+           <l>о здѣланномъ отъ находящагося</l>
+        <l>здѣсь объявленнаго той секты</l>
+         <l>начальником еврея <persName ref="alter-rebbe">Боруховича</persName></l>
+          <l>показаніи, которое по неотыска-</l>
+          <l>нію переводчика остается безъ</l>
+           <l>перевода, имѣлъ я щастие все-</l>
+           <l>подданнѣйше докладывать</l>
+            Его ІВ<hi rend="superscript">у</hi> и Государь Импера-
+            <l>торъ Высочайше повелѣть</l>
+             <l>соизволилъ, означенное показа-</l>
+             <l>ніе для перевода отослать къ</l>
+              <l>вамъ Милос. Госуд. мой съ тѣмъ</l>
+        <l>чтобъ оной здѣланъ былъ <del rend="overstrike">токмо</del> <hi rend="superscript">безъ всякой</hi></l>
+         <l><hi rend="superscript">огласки,</hi> и присланъ обратно поскорѣе,</l>
+          <l>а при томъ предписать, дабы</l>
+           <l>по окончаніи слѣдствія доста-</l>
+           <l>вили одни слѣдственныя бумаги,</l>
+            <l>евреев <hi rend="superscript">же</hi> въ томъ причастныхъ</l>
+             <l>оставили въ <placeName ref="Вильно">вильнѣ</placeName> подъ стра-</l>
+             <l>жею; Сообщая симъ высоко-</l>
+              <l>монаршую волю для надлежащего</l>
         <pb xml:id="p041-2" n="041-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/041-2.jpg"/>
-        <fw type="pageNum">41об.</fw> со стороны вашего превосходительства стеснения, оное показание еврея
-        <persName ref="alter-rebbe">Боруховича</persName>,
-        при сём препровождаю. И имею честь быть с совершенным почтением. Милостивый Государь мой Вашего
-        превосходительства</p>
-      <fw>№ 870й</fw>
-      <dateline>
-        <placeName ref="Петербург">в С.-Петербург</placeName>
-        <date when="1798-10-18">октября 18-го дня 1798 года</date>
-        Его превосходительству <persName ref="Булгаков">Булгакову</persName>. </dateline>
+        <fw type="pageNum">41об.</fw>
+         <l>со стороны вашего прв<hi rend="superscript">а</hi> испол-</l>
+         <l>ненія оное показаніе еврея</l>
+        <l><persName ref="alter-rebbe">Боруховича</persName> при семъ препровождаю</l>
+         <l>И имѣю честь быть съ совер-</l>
+         <l>шеннымъ почтеніемъ</l>
+          <l>Милос. Госуд. мой</l>
+           вашего прв<hi rend="superscript">а</hi></p>
+           <closer place="left">
+     <l><fw type="docNum">№ 870.<hi rend="superscript">й</hi></fw></l>
+              <l><placeName ref="Петербург">въ С. п. бургѣ</placeName></l>
+        <l><date when="1798-10-18">октября 18 дня<lb/>
+         1798. года</date></l>
+        Его пр<hi rend="superscript">ву</hi> <persName ref="Булгаков">Булгакову</persName>.
+        </closer>
     </body>
   </text>
 </TEI>
