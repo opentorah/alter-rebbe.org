@@ -4,11 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Реестр Евреев, следующих новой <orgName ref="Хасиды">секте каролинскою называемой</orgName>
-          ... с новыми примечаниями</title>
-        <author>
-          <persName>?</persName>
-        </author>
+        <author><persName>?</persName></author>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -31,6 +27,8 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>Реестр Евреев, следующих новой <orgName ref="Хасиды">секте каролинскою называемой</orgName>
+        ... с новыми примечаниями</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
