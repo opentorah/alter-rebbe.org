@@ -872,10 +872,23 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Распоряжение
+              <persName ref="Лопухин">Лопухина</persName>
+              о выполнении перевода показаний
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              в
+              <placeName ref="Литва">Литовской губернии</placeName>
+              и удержании задержанных
+              <orgName ref="Хасиды">хасидов</orgName>
+              под стражей в
+              <placeName ref="Вильно">Вильне</placeName>
+            </p>
+          </cell>
           <cell rendition="date">1798-10-18</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Булгаков">Булгакову</persName>
@@ -889,7 +902,8 @@
             <ref target="documents/041.html#p041-2" role="documentViewer" rendition="page">041об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
