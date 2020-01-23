@@ -10,6 +10,7 @@
           <persName ref="Булгаков">Булгаков</persName>
         </author>
         <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -32,24 +33,27 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    <creation><date when="1798-10-25">25 октября 1798 года</date></creation>
+    <abstract><p>Список <orgName ref="Хасиды">хасидов</orgName>, связанных со <persName ref="alter-rebbe">Шнеуром Залманом</persName> и отправленных из <placeName ref="Вильно">Вильно</placeName> в <placeName ref="Петербург">Санкт-Петербург</placeName> для продолжения следственных действий – приложение к сообщению <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName>, см.: http://www.alter-rebbe.org/collections/rgada/documents/044.html</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p046-1" n="046-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/046-1.jpg"/>
-      <fw>къ № 192.</fw>
-      <fw>A</fw>
+      <fw type="docNum">къ № 192.</fw>
+      <fw type="note" place="left">A</fw>
       <fw type="pageNum" place="right">46.</fw>
-      <head>Реестръ <orgName ref="Хасиды">каролиновъ</orgName> отправленныхъ в <placeName ref="Петербург">
-        Санктпетербургъ</placeName></head>
+      <head><l>Реестръ</l>
+       <l><orgName ref="Хасиды">каролиновъ</orgName> отправленныхъ въ <placeName ref="Петербург">
+        Санктпетербургъ</placeName></l></head>
       <list>
-        <item>1. <persName ref="Меіер_Рафалович">Меер Рафаилович</persName></item>
-        <item>2. Сельмон Лейзерович</item>
-        <item>3. Лейба Зеликович</item>
-        <item>4. Нохим Ицкович</item>
-        <item>5. Гирш Иосиелиович</item>
-        <item>6. Рафал Шломович</item>
-        <item>7. Шмуило Хаимович</item>
+        <item>1. <persName ref="Меіер_Рафалович">Меіеръ Рафаловичъ</persName></item>
+        <item>2. Сельмонъ Леизеровичъ</item>
+        <item>3. Лейба Зеликовичъ</item>
+        <item>4. <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName></item>
+        <item>5. <persName ref="Гирша_Јосіеліович">Гиршъ Іосиеліовичъ</persName></item>
+        <item>6. <persName ref="Рафаил_Шлїомович">Рафалъ Шломовичъ</persName></item>
+        <item>7. <persName ref="Шмуил_Хаимович">Шмуило Хаимовичъ</persName>.</item>
       </list>
       <signed>
         <persName ref="Булгаков">Яков Булгаков</persName>
