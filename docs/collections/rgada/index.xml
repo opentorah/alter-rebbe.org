@@ -316,9 +316,6 @@
           <cell rendition="date">1798-05-11</cell>
           <cell rendition="author">
             <persName>?</persName>
-            <editor role="transcriber">
-              <persName ref="VK">Василий Когаловский</persName>
-            </editor>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -329,7 +326,9 @@
             <ref target="documents/011.html#p011-1" role="documentViewer" rendition="page">011</ref>
             <ref target="documents/011.html#p011-2" role="documentViewer" rendition="page">011об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
@@ -615,10 +614,19 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Донесение
+              <persName ref="Жегулин">Жегулина</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+              с описанием движения
+              <orgName ref="Хасиды">хасидов</orgName>
+              и предложением запретить его
+            </p>
+          </cell>
           <cell rendition="date">1798-09-29</cell>
           <cell rendition="author">
-            <persName ref="Жегулин">Семен Жегулин</persName>
+            <persName ref="Жегулин">Жегулин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Лопухин">Лопухину</persName>
@@ -661,7 +669,8 @@
             <ref target="documents/032.html#p033-2" role="documentViewer" rendition="page">033об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>

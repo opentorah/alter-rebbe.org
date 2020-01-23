@@ -4,9 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Булгаков">Булгаков</persName>
-        </author>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
@@ -34,11 +32,11 @@
         <date when="1798-10-18">18 октября 1798</date>
       </creation>
       <correspDesc>
-    <correspAction>
-      <persName ref="Лопухин" role="addressee">Лопухину</persName>
-    </correspAction>
-  </correspDesc>
-<abstract><p>Рапорт <persName ref="Булгаков">Булгакова</persName> об окончании допросов <placeName ref="Вильно">виленских</placeName> <orgName ref="Хасиды">хасидов</orgName> и  об их непризнании в зарубежных  связях</p></abstract>
+        <correspAction>
+          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        </correspAction>
+      </correspDesc>
+      <abstract><p>Рапорт <persName ref="Булгаков">Булгакова</persName> об окончании допросов <placeName ref="Вильно">виленских</placeName> <orgName ref="Хасиды">хасидов</orgName> и  об их непризнании в зарубежных  связях</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -51,29 +49,29 @@
       <salute><l>Милостивой государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
       <fw type="note" place="left margin">къ дѣлу</fw>
       <p>
-<l>Въ продолженіе донесеній моихъ о жидахъ <orgName ref="Хасиды">каролинахъ</orgName>,</l>
-<l>имѣю честь севодни всепокорнѣйше сказать, что</l>
-<l>допросы перехватанныхъ мною здѣсь въ <placeName ref="Вильно">Вилнѣ</placeName> уже</l>
-<l>кончены, а продолжаются привозимыхъ изъ разныхъ</l>
-<l>повѣтовъ: но какъ есть здѣсь извѣстіе, что и глав-</l>
-<l>ной ихъ начальникъ рабинъ <persName ref="alter-rebbe">Боруховичъ</persName> изъ <placeName ref="Белоруссия">Бѣлоруской<lb/>
-губерніи</placeName> отправленъ уже въ <placeName ref="Петербург">Санктпетербургъ</placeName>, то</l>
-<l>я на сей недѣлѣ отправлю такожъ къ вашему</l>
-<l>высокопревосодительству для сличенія и здѣшнихъ</l>
-<l>нѣкоторыхъ, кои съ нимъ были въ большей связи,</l>
-<l>но добровольно не хотятъ признаться въ загра</l>
-<l>ничныхъ сношеніяхъ, или можетъ быть и въ</l>
-<l>самомъ дѣлѣ о томъ мало сами знаютъ.</l>
-<l>Милостивой Государь!</l>
-<l>вашего высокопревосходительства</l>
-<l>всепокорнеишій слуга</l>
-<l><persName ref="Булгаков">Яковъ булгаковъ</persName></l>
-<closer place="left">
-<l><fw type="docNum">№ 169</fw></l>
-<l><date when="1798-10-18">18 октября 1798</date></l>
-<l><placeName ref="Вильно">вилна</placeName></l>
-<l>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
-</closer>
+        <l>Въ продолженіе донесеній моихъ о жидахъ <orgName ref="Хасиды">каролинахъ</orgName>,</l>
+        <l>имѣю честь севодни всепокорнѣйше сказать, что</l>
+        <l>допросы перехватанныхъ мною здѣсь въ <placeName ref="Вильно">Вилнѣ</placeName> уже</l>
+        <l>кончены, а продолжаются привозимыхъ изъ разныхъ</l>
+        <l>повѣтовъ: но какъ есть здѣсь извѣстіе, что и глав-</l>
+        <l>ной ихъ начальникъ рабинъ <persName ref="alter-rebbe">Боруховичъ</persName> изъ <placeName ref="Белоруссия">Бѣлоруской<lb/>
+          губерніи</placeName> отправленъ уже въ <placeName ref="Петербург">Санктпетербургъ</placeName>, то</l>
+        <l>я на сей недѣлѣ отправлю такожъ къ вашему</l>
+        <l>высокопревосодительству для сличенія и здѣшнихъ</l>
+        <l>нѣкоторыхъ, кои съ нимъ были въ большей связи,</l>
+        <l>но добровольно не хотятъ признаться въ загра</l>
+        <l>ничныхъ сношеніяхъ, или можетъ быть и въ</l>
+        <l>самомъ дѣлѣ о томъ мало сами знаютъ.</l>
+        <l>Милостивой Государь!</l>
+        <l>вашего высокопревосходительства</l>
+        <l>всепокорнеишій слуга</l>
+        <l><persName ref="Булгаков">Яковъ булгаковъ</persName></l>
+        <closer place="left">
+          <l><fw type="docNum">№ 169</fw></l>
+          <l><date when="1798-10-18">18 октября 1798</date></l>
+          <l><placeName ref="Вильно">вилна</placeName></l>
+          <l>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+        </closer>
       </p>
     </body>
   </text>
