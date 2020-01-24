@@ -1097,15 +1097,10 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">
-            <p>
-              Реестр Евреев, следующих новой
-              <orgName ref="Хасиды">секте каролинскою называемой</orgName>... с новыми примечаниями
-            </p>
-          </cell>
+          <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Булгаков">Булгаков</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -1121,7 +1116,9 @@
             <ref target="documents/048.html#p050-2" role="documentViewer" rendition="page">050об</ref>
             <ref target="documents/048.html#p051-1" role="documentViewer" rendition="page">051</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
