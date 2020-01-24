@@ -1072,12 +1072,15 @@
         </row>
         <row>
           <cell rendition="description">
-            Реестр
-            <orgName ref="Хасиды">каролинов</orgName>
-            оставленных в
-            <placeName ref="Вильно">Вильне</placeName>
+            <p>
+              Список
+              <orgName ref="Хасиды">хасидов</orgName>, оставленных на время следственных действий в заключении в
+              <placeName ref="Вильно">Вильно</placeName>
+              до особого распоряжения - приложение к донесению
+              <persName ref="Булгаков">Булгакова</persName>
+            </p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date">1798-10-25</cell>
           <cell rendition="author">
             <persName ref="Булгаков">Булгаков</persName>
           </cell>
@@ -1089,7 +1092,9 @@
           <cell rendition="pages">
             <ref target="documents/047.html#p047-1" role="documentViewer" rendition="page">047</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
