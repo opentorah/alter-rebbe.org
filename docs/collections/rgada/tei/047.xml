@@ -9,6 +9,7 @@
         <author>
           <persName ref="Булгаков">Булгаков</persName>
         </author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -31,14 +32,37 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    <creation><date when="1798-10-25">25 октября 1798</date></creation>
+      <abstract><p>Список <orgName ref="Хасиды">хасидов</orgName>, оставленных на время следственных действий в заключении в <placeName ref="Вильно">Вильно</placeName> до особого распоряжения - приложение к донесению <persName ref="Булгаков">Булгакова</persName></p></abstract>
+
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p047-1" n="047-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/047-1.jpg"/>
-      <fw>къ № 192.</fw>
-      <fw>B</fw>
+      <fw type="docNum" place="left">къ № 192.</fw>
+      <fw type="note" place="left">B/</fw>
       <fw type="pageNum" place="right">47.</fw>
+      <head><l>Реестръ</l>
+      <l><orgName ref="Хасиды">каролиновъ</orgName> оставленныхъ въ <placeName ref="Вильно">Вилнѣ</placeName></l></head>
+      <p>
+<l>1.  <persName ref="Борух_Мордухович">Борухъ Мордуховичъ</persName></l>
+<l>2   <persName ref="Арон_Беркович">Аронъ Берковичъ</persName></l>
+<l>3.  <persName ref="Зелман_Янкелевич">Зелманъ Янкіелевичъ</persName></l>
+<l>4.  <persName ref="Юдель_Еліашевич">Юдель Еліашевичъ</persName></l>
+<l>5.  <persName ref="Лейба_Меіерович">Леиба Меіеровичъ</persName> </l>
+<l>6   <persName ref="Перец_Хаймович">Перецъ Хаимовичъ</persName></l>
+<l>7.  <persName ref="Михель_Файбишович">Михель Фаибишовичъ</persName></l>
+<l>8.  <persName ref="Вулф_Шимеліович">Волфъ Шимеловичъ</persName></l>
+<l>9.  <persName ref="Шая_Ицкович">Шаія Ицковичъ</persName></l>
+<l>10. <persName ref="Леизер_Нотолевич">Леизеръ Нотолевичъ</persName></l>
+<l>11. <persName ref="Ицко_Саіович">Ицко Саіовичъ</persName></l>
+<l>12  <persName ref="Зелман_Лейбович">Зелманъ Леибовичъ</persName></l>
+<l>13. <persName ref="Мовша_Јосіеліович">Мовша Іоселіовичъ</persName></l>
+<l>14. Іосіель Мовшовичъ</l>
+<l>15  <persName ref="Хлїовна_Зорухович">Хловна Боруховичъ</persName></l>
+<l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
+      </p>
     </body>
   </text>
 </TEI>
