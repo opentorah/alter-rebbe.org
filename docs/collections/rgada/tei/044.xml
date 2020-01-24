@@ -4,9 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Булгаков">Булгаков</persName>
-        </author>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
         <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
@@ -24,9 +22,7 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
@@ -37,7 +33,8 @@
         <persName ref="Лопухин" role="addressee">Лопухину</persName>
       </correspAction>
       </correspDesc>
-      <abstract><p>Донесение Булгакова о том, что допросы хасидов не дали значимой информации</p></abstract>
+      <abstract><p>Донесение <persName ref="Булгаков">Булгакова</persName> о том, что допросы <orgName
+        ref="Хасиды">хасидов</orgName> не дали значимой информации</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
