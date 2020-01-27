@@ -1,38 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><persName>?</persName></author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<author>
+					<persName>?</persName>
+				</author>
+				<editor role="transcriber">
+					<persName ref="VK">Василий Когаловский</persName>
+				</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<ptr target="www.alter-rebbe.org"/>
+				</publisher>
+				<availability status="free">
+					<licence>
+						<ab>
+							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1798-11-09">9 ноября 1798</date></creation>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p053-1" n="053-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/053-1.jpg"/>
-        <fw>№ 2728</fw>
-        <dateline><date when="1798-11-09">9 ноября 1798</date></dateline>
-        <fw type="pageNum" place="right">53.</fw>
-      <pb xml:id="p053-2" n="053-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/053-2.jpg"/>
-    </body>
-  </text>
+						</ab>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Facsimile</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="ru"/>
+			</langUsage>
+			<calendarDesc>
+				<calendar xml:id="julian">
+					<p>Julian calendar</p>
+				</calendar>
+			</calendarDesc>
+			<creation>
+				<date when="1798-10-28">октября 28 дня 1798 года</date>
+			</creation>
+			<abstract>
+				<p>Прошение жен задержанных и отправленных в 
+					<placeName ref="Петербург">Санкт-Петербург</placeName>
+					<orgName ref="Хасиды">хасидов</orgName> об их освобождении
+				</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb xml:id="p053-1" n="053-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/053-1.jpg"/>
+			<fw type="docNum">№ 2728</fw>
+			<dateline>
+				<date when="1798-11-09">9 ноября 1798</date>
+			</dateline>
+			<fw type="pageNum" place="right">53.</fw>
+			<fw type="note" place="left margin">
+				<l>По сему прошенію доложить 
+					<unclear>общо</unclear> съ дѣломъ Тайной
+				</l>
+				<l>Экспедиціи.</l>
+			</fw>
+			<salute>
+				<l>ваше высокопревосходительство</l>
+				<l></l>Милостивый Государь.
+				<note place="end">Судя по титулу, прошение вероятнее всего адресовано 
+					<persName ref="Лопухин"> генерал-прокурору П.В. Лопухину</persName> или канцлеру А.А. Безбородко
+				</note>
+			</salute>
+			<p>
+				<l>За несколько предъ симъ днѣй въ облехченіе горестнѣй</l>
+				<l>шаго положенія решилась я принять дерзновеніе</l>
+				<l>отъправить въ высочайшіе Монаршіе Руки про-</l>
+				<l>шеніе съ приложеніями, объясняя участь бѣдныхъ</l>
+				<l>мужей и сродниковъ нашихъ томящихся невинно</l>
+				<l>въ темницахъ по коварному оговору 
+					<orgName ref="виленский_кагал">виленскаго
+						<lb/>
+кагала
+					</orgName>, и по краинему доброжелательству къ ка
+				</l>
+				<l>гальнымъ старшинамъ здешняго городничаго._</l>
+				<l>А какъ сей ночи мужья наши увезены неизвестно</l>
+				<l>куда, то: отъ сего Горесть наша превратилась</l>
+				<l>въ совершенное отчаяніе._ Естли онѣ повѣзены въ</l>
+				<l>С. Петербургъ и будутъ представлены вашему</l>
+				<l>
+					<emph rend="big">высокопревосходительству</emph> то конечно какъ не
+				</l>
+				<l>винность ихъ сама по сѣбе откроется такъ и </l>
+				<l>тѣ обстоятельствы по коимъ 
+					<orgName ref="виленский_кагал">кагалъ</orgName> закривая
+				</l>
+				<l>свои безъзаконіи истребить ихъ старается._</l>
+				<l>Но ежели не позволено будетъ имъ оправдаться то</l>
+				<l>онѣ погибнутъ напрасно, погибнемъ иы жены ихъ,</l>
+				<l>и погибнутъ целые наши семѣйствы._ всего стра</l>
+				<l>шиться намъ должно отъ злобныхъ происковъ 
+					<orgName ref="виленский_кагал">ка
+						<lb/>
+гала
+					</orgName> и отъ пособствующаго 
+					<orgName ref="виленский_кагал">кагалу</orgName> городничаго, ко-
+				</l>
+				<l>торой самъ одинъ съ прибраннымъ сѣбѣ евреемъ</l>
+				<l>дѣлалъ симъ бѣднымъ допросы, и при отправленіи</l>
+				<pb xml:id="p053-2" n="053-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/053-2.jpg"/>
+				<fw type="pageNum">53 об.</fw>
+				<l>ихъ изъ 
+					<placeName ref="Вильно">вильна</placeName> послалъ городничій сверхъ офицера
+				</l>
+				<l>и караульныхъ еще и фактора своего еврея фиви-</l>
+				<l>ша съ тѣмъ: дабы сихъ нещастныхъ и въ пути</l>
+				<l>мучить, и увѣдомлять о всемъ его городничаго и</l>
+				<l>Кагалъ. А поелику опасаться намъ должно чтобъ</l>
+				<l>и прошеніе наше 
+					<date when="1798-10-18">18
+						<hi rend="superscript">го</hi> октября
+					</date> отъправленное
+				</l>
+				<l>къ 
+					<emph rend="big">Его Императорскому величеству</emph> не было
+				</l>
+				<l>происками 
+					<orgName ref="виленский_кагал">кагала</orgName> перехвачено то прибегая подъ
+				</l>
+				<l>покровительство 
+					<emph rend="big">вашего высокопревосодитель
+						<lb/>
+ства
+					</emph> и яко защитника Справѣдливости про
+				</l>
+				<l>симъ со слезами внять стенанію бѣдныхъ въ</l>
+				<l>конецъ разоренныхъ, и доложить о семъ 
+					<emph rend="big">Его</emph>
+				</l>
+				<l>
+					<emph rend="big">Императорскому Величеству</emph>; не оставя безъ
+				</l>
+				<l>замѣчанія и прилагаемой бумаги по которой</l>
+				<l>взятыя допросы и последовавшую затѣмъ резо</l>
+				<l>люцію благоволитѣ милостивый Государь истре</l>
+				<l>бовать отъ Губернскаго Правленія и тѣмъ</l>
+				<l>спасти жизнь невинно страждущихъ, и непо</l>
+				<l>милованія по справедливости просящихъ._</l>
+				<l>Повергая сѣбя въ лицѣ всехъ страждущихъ къ сто</l>
+				<l>памъ 
+					<emph rend="big">вашего высокопревосходительства</emph> со
+				</l>
+				<l>всеглубочаишею преданностію приемлю смѣлость</l>
+				<l>назваться</l>
+				<l>
+					<emph rend="big">вашего высокопревосходительства</emph>
+				</l>
+				<l>
+					<emph rend="big">Милостиваго Государя</emph>
+				</l>
+				<l>всенижашею слугою</l>
+				<l>
+					<signed>
+						<unclear>??? ??? ??? ???</unclear>
+					</signed>
+					<note place="end">подпись на иврите</note>
+				</l>
+			</p>
+			<closer place="left">
+				<l>
+					<date when="1798-10-28">октября 28
+						<hi rend="superscript">го</hi> дня
+						<lb/>
+1798
+						<hi rend="superscript">го</hi> года
+					</date>
+				</l>
+				<l>
+					<placeName ref="Вильно">вильно</placeName>
+				</l>
+			</closer>
+		</body>
+	</text>
 </TEI>
