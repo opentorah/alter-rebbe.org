@@ -1151,8 +1151,15 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date">1798-11-09</cell>
+          <cell rendition="description">
+            <p>
+              Прошение жен задержанных и отправленных в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+              <orgName ref="Хасиды">хасидов</orgName>
+              об их освобождении
+            </p>
+          </cell>
+          <cell rendition="date">1798-10-28</cell>
           <cell rendition="author">
             <persName>?</persName>
           </cell>
@@ -1165,7 +1172,9 @@
             <ref target="documents/053.html#p053-1" role="documentViewer" rendition="page">053</ref>
             <ref target="documents/053.html#p053-2" role="documentViewer" rendition="page">053об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
