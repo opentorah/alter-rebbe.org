@@ -4,15 +4,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName>?</persName>
-        </author>
         <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -23,19 +18,11 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <abstract>Страница из описи дел</abstract>
     </profileDesc>
   </teiHeader>

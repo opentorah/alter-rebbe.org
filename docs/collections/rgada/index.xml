@@ -75,9 +75,7 @@
         <row>
           <cell rendition="description">Страница из описи дел</cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName>?</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -864,7 +862,7 @@
           </cell>
           <cell rendition="date">1798-10-04</cell>
           <cell rendition="author">
-            <persName ref="Булгаков">Яков Булгаков</persName>
+            <persName ref="Булгаков">Булгаков</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Лопухин">Лопухину</persName>
