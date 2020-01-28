@@ -5,8 +5,9 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName>?</persName>
+          <persName ref="Лопухин">Лопухин</persName>
         </author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -38,13 +39,70 @@
       <creation>
         <date when="1798-11-10">10 ноября 1798</date>
       </creation>
+      <abstract><p>Черновики писем <persName ref="Лопухин">Лопухина</persName> <persName ref="Бенкендорф">Бенкендорфу</persName> и <persName ref="Булгаков">Булгакову</persName> о возвращении в <placeName ref="Вильно">Вильно</placeName> <orgName ref="Хасиды">хасидов</orgName>, ранее отправленных в <placeName ref="Петербург">Санкт-Петербург</placeName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="p056-1" n="056-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/056-1.jpg"/>
       <fw type="pageNum" place="right">56.</fw>
+      <salute><l>Мил. Г. мой <persName ref="Бенкендорф">Христофоръ Ивановичъ</persName>!</l></salute>
+      <p>
+      <l>Получивъ увѣдомленіе отъ</l>
+<l>литовскаго гражданскаго губер</l>
+<l>натора господина дѣйстви</l>
+<l>тельнаго тайнаго совѣтника</l>
+<l><persName ref="Булгаков">булгакова</persName>, о требованіи его</l>
+<l>къ вашему высокопр<hi rend="superscript">ву</hi> отправлен-</l>
+<l>номъ, чтобы слѣдующія</l>
+<l>отъ него сюда арестанты</l>
+<l>евреи остановлены были</l>
+<l>въ <placeName ref="Рига">ригѣ</placeName>, нужнымъ</l>
+<l>нахожу сообщить вамъ</l>
+<l>мил. Г. мой чтобъ благо</l>
+<l>волили приказать отослать</l>
+<l>ихъ обратно въ <placeName ref="Вильно">вильну</placeName></l>
+<l>къ г<hi rend="superscript">ну</hi> булгакову <hi rend="superscript">и меня увѣдомить.</hi> Въ</l>
+<l>прочемъ съ</l>
+<l>совершенным почтеніемъ</l>
+<l>имѣю честь быть.</l>
+<l>Мил. Г. мои</l>
+<l>вашего высокопрва</l>
+</p>
+<closer place="left">
+<l><fw type="docNum">№ 916<hi rend="superscript">й</hi></fw></l>
+<l><date when="1798-11-10">10. ноября 1798</date></l>
+<l><persName ref="Бенкендорф">бенкиндорфу</persName></l>
+</closer>
+
+<salute><l>Мил. Г. мой Яковъ Ивановичъ</l></salute>
+<p>
+<l>Получивъ увѣдомленіе вашего</l>
+<l>высокопрв<hi rend="superscript">а</hi> отъ <date when="1798-10-28">28 прошлаго<lb/>
+октября</date> о сообщеніи вашемъ</l>
+<l>къ рижскому военному губерна</l>
+<l>тору господину генералу отъ</l>
       <pb xml:id="p056-2" n="056-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/056-2.jpg"/>
+      <fw type="pageNum">56 об.</fw>
+    <l>инфантеріи <persName ref="Бенкендорф">бенкендорфу</persName></l>
+<l>чтобы слѣдующія сюда изъ</l>
+<l><placeName ref="Вильно">вильны</placeName> арестанты евреи</l>
+<l>остановлены были <unclear>???</unclear></l>
+<l>отнесся я къ нему, чтобы</l>
+<l>приказалъ возвратить</l>
+<l>ихъ в <placeName ref="Вильно">вильну</placeName>, о чемъ васъ</l>
+<l>мил. Г. мой увѣдомить</l>
+<l>имѣю честь быть съ</l>
+<l>совершеннымъ почтеніемъ</l>
+<l>Мил. Г. мой</l>
+<l>вашего высокопр<hi rend="superscript">ва</hi></l>
+</p> 
+<closer place="left">
+<l><fw type="docNum">№ 917.<hi rend="superscript">й</hi></fw></l>
+<l><date when="1798-11-10">10 ноября<lb/>
+1798.</date></l>
+<l><persName ref="Булгаков">булгакову</persName></l>
+</closer>
     </body>
   </text>
 </TEI>
