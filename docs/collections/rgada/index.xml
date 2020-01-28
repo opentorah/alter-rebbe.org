@@ -1262,12 +1262,25 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Сообщение
+              <persName ref="Бенкендорф">Бенкендорфа</persName>
+              о прибытии арестованных
+              <orgName ref="Хасиды">хасидов</orgName>
+              в
+              <placeName ref="Рига">Ригу</placeName>
+              и оставлении их под стражей до распоряжения
+              <persName ref="Лопухин">Лопухина</persName>
+            </p>
+          </cell>
           <cell rendition="date">1798-11-11</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Бенкендорф">Бенкендорф</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/057.html" role="documentViewer">057</ref>
@@ -1275,7 +1288,9 @@
           <cell rendition="pages">
             <ref target="documents/057.html#p057-1" role="documentViewer" rendition="page">057</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
