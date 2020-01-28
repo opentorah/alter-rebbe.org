@@ -1231,10 +1231,22 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Черновики писем
+              <persName ref="Лопухин">Лопухина</persName>
+              <persName ref="Бенкендорф">Бенкендорфу</persName>
+              и
+              <persName ref="Булгаков">Булгакову</persName>
+              о возвращении в
+              <placeName ref="Вильно">Вильно</placeName>
+              <orgName ref="Хасиды">хасидов</orgName>, ранее отправленных в
+              <placeName ref="Петербург">Санкт-Петербург</placeName>
+            </p>
+          </cell>
           <cell rendition="date">1798-11-10</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -1245,7 +1257,9 @@
             <ref target="documents/056.html#p056-1" role="documentViewer" rendition="page">056</ref>
             <ref target="documents/056.html#p056-2" role="documentViewer" rendition="page">056об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
