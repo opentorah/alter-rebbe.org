@@ -41,7 +41,7 @@
         <date when="1798-11-17">17 ноября 1798</date>
       </creation>
       <abstract>
-        <p>Объявитель сего <persName ref="alter-rebbe">еврей рабин Залман Борухович</persName>...</p>
+        <p>черновик пропуска, выданного <persName ref="alter-rebbe">Шнеуру Залману</persName> для его возвращения в <placeName ref="Лозна">Лиозно</placeName></p>
       </abstract>
     </profileDesc>
   </teiHeader>
@@ -49,21 +49,22 @@
     <body>
       <pb xml:id="p085-1" n="085-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/085-1.jpg"/>
       <fw type="pageNum" place="right">85.</fw>
+      <fw type="docNum" place="left margin">№ 929<hi rend="superscript">й</hi>.</fw>
       <p>
-      <l>Объявит<supplied reason="implied">ель</supplied> сего <persName ref="alter-rebbe">еврей рабинъ Залманъ<lb/>
-      Боруховичъ</persName> находившийся здесь <unclear>по нѢкоторому дѢлу</unclear></l>
-      <l>по</l>  
-      <l>надобности в немъ, отпущен в домъ</l>
-        <l>его состоящiй въ <placeName ref="Белоруссия">белорусской</placeName></l>
-        <l>губерніи, съ</l>
+      <l>Объявитель<supplied reason="implied">ель</supplied> сего еврей рабинъ <persName ref="alter-rebbe">Залманъ<lb/>
+      Боруховичъ</persName> находившійся здѣсь <hi rend="superscript">по нѢкоторому дѢлу</hi> нынѣ</l>
+      <l>по <del rend="overstrike"><unclear>???</unclear> болѣе нетъ</del></l>  
+      <l>надобности <hi rend="superscript">въ немъ</hi>, отпущенъ въ домъ</l>
+        <l>его состоящiй въ <placeName ref="Белоруссия">белорусской<lb/>
+        губерніи</placeName>, <del rend="overstrike">куда для свободн</del> съ</l>
         <l>темъ чтобы онъ по прибытіи</l>
         <l>в <placeName ref="Витебск">Витебскъ</placeName> явился съ нимъ</l>
         <l>у <placeName ref="Белоруссия">белорускаго</placeName> гражданскаго</l>
-      <l>Губернатора господина тай-</l>
-      <l>нага совѣтника</l>
-        <l><persName ref="Жегулин">Жегулина</persName>. <date when="1798-11-17">Ноябрь.17.дня 1798</date>.</l>
+      <l>губернатора господина тай</l>
+      <l>наго совѣтника <del rend="overstrike">боруховича</del></l>
+        <l><persName ref="Жегулин">Жегулина</persName>. <date when="1798-11-17">Ноября.17.дня 1798</date>.</l>
       </p>
-      <fw type="docNum">№929й.</fw>
+     
     </body>
   </text>
 </TEI>
