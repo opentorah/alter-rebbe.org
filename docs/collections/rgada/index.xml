@@ -1527,15 +1527,20 @@
         <row>
           <cell rendition="description">
             <p>
-              Письмо
+              Сообщение
+              <persName ref="Бенкендорф">Бенкендорфа</persName>
               <persName ref="Лопухин">Лопухину</persName>
-              о семи арестованных евреях, отправленных в
-              <placeName ref="Вильно">Вильну</placeName>
+              о возвращении семи арестованных
+              <orgName ref="Хасиды">хасидов</orgName>
+              из
+              <placeName ref="Рига">Риги</placeName>
+              в
+              <placeName ref="Вильно">Вильно</placeName>
             </p>
           </cell>
-          <cell rendition="date">1798-11-26</cell>
+          <cell rendition="date">1798-11-20</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Бенкендорф">Бенкендорф</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Лопухин">Лопухину</persName>
@@ -1548,7 +1553,8 @@
             <ref target="documents/086.html#p086-1" role="documentViewer" rendition="page">086</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
