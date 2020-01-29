@@ -1470,13 +1470,20 @@
         <row>
           <cell rendition="description">
             <p>
-              Письмо
+              Черновик сообщений
+              <persName ref="Лопухин">Лопухина</persName>
               <persName ref="Булгаков">Булгакову</persName>
+              и
+              <persName ref="Жегулин">Жегулину</persName>
+              об освобождении
+              <persName ref="alter-rebbe">Шнеура Залмана</persName>
+              и арестованных
+              <orgName ref="Хасиды">хасидов</orgName>
             </p>
           </cell>
           <cell rendition="date">1798-11-17</cell>
           <cell rendition="author">
-            <persName>?</persName>
+            <persName ref="Лопухин">Лопухин</persName>
           </cell>
           <cell rendition="addressee">
             <persName ref="Булгаков">Булгакову</persName>
@@ -1490,7 +1497,8 @@
             <ref target="documents/084.html#p084-2" role="documentViewer" rendition="page">084об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
