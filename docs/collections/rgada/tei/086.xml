@@ -5,9 +5,10 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName>?</persName>
+          <persName ref="Бенкендорф">Бенкендорфъ</persName>
         </author>
         <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -37,11 +38,10 @@
         </calendar>
       </calendarDesc>
       <creation>
-        <date when="1798-11-26">26е ноября</date>
+        <date when="1798-11-20">ноября 20 дня 1798</date>
       </creation>
       <abstract>
-        <p>Письмо <persName ref="Лопухин">Лопухину</persName> о семи арестованных евреях, отправленных в <placeName
-          ref="Вильно">Вильну</placeName></p>
+        <p>Сообщение <persName ref="Бенкендорфа">Бенкендорфа</persName> <persName ref="Лопухин">Лопухину</persName> о возвращении семи арестованных <orgName ref="Хасиды">хасидов</orgName> из <placeName ref="Рига">Риги</placeName> в <placeName ref="Вильно">Вильно</placeName></p>
       </abstract>
       <correspAction>
         <persName ref="Лопухин" role="addressee">Лопухину</persName>
@@ -51,22 +51,32 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p086-1" n="086-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/086-1.jpg"/>
-      <fw>Секретно.</fw>
-      <fw><date when="1798-11-26">26е ноября 1798го</date></fw>
-      <fw>№ 2948й.</fw>
+      <fw type="note" place="left">Секретно.</fw>
+      <fw><date when="1798-11-26">26<hi rend="superscript">го</hi> ноября 1798<hi rend="superscript">го</hi>.</date></fw>
+      <fw type="docNum" place="left">№ 2948<hi rend="superscript">й</hi>.</fw>
       <fw type="pageNum" place="right">86.</fw>
-      <salute>Милостивый Государь Пётр Васильевич!</salute>
-      <p> По почтенному отношению Вашего Высокопревосходительства, арестанты Евреи, семи человек, за смотром
-        <placeName ref="Вильно">Виленской</placeName>
-        полиции, надзирателя Греча, в <placeName ref="Вильно">Вильну</placeName> к Господину Действительному Тайному
-        Советнику Булгакову, 18-го числа сего течения отправлены, о сём уведомя, пребыть честь имею, с моим истинным
-        почтением и таковою же преданностью навсегда.</p>
-      <closer>Милостивый Государь Вашего Высокопревосходительства <signed>Покорнейший слуга <persName
-        ref="Булгаков">Булгаков Яков</persName></signed>
-        <fw>№ 635%</fw>
-        <date when="1798-11-20">ноября 20го дню 1798го года</date> <placeName ref="Рига">Рига</placeName> Его
-                                                                                               Высокопревосходительству <persName
-          ref="Лопухин">Лопухину</persName>
+      <salute><l>Милостивый Государь<lb/>
+      <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
+      <p>
+       <l>По почтенному отношенію Вашего Высокопре-</l>
+       <l>восходительства арестанты евреи, семь человѣкъ за</l>
+        <l>смотромъ <placeName ref="Вильно">виленской</placeName> полиціи надзирателя Грѣча въ</l>
+         <l><placeName ref="Вильно">Вильну</placeName> къ Господину Дѣйствительному Тайному
+        Совѣтни</l>
+        <l>ку <persName ref="Булгаков">Булгакову</persName>, <date when="1798-11-18">18<hi rend="superscript">го</hi> числа сего теченія</date> отправлены о семъ</l>
+         <l>увѣдомя пребыть честь имѣю, с моимъ истиннымъ къ <note place="end">вероятно, "Вамъ" - край листа оборван</note></l>
+        <l>почтеніемъ и таковою же преданностію навсегда.</l>
+      <l>Милостивый Государь</l>
+       <l>Вашего Высокопревосходительства</l>
+        <l><signed>Покорнейший слуга<lb/>
+         <persName ref="Бенкендорф">Бенкендорфъ</persName></signed></l>
+        </p>
+        <closer place="left">
+        <l><fw type="docNum">№ 835.<hi rend="superscript">и</hi></fw></l>
+        <l><date when="1798-11-20">ноября 20<hi rend="superscript">го</hi> дня
+         1798<hi rend="superscript">го</hi> года</date></l>
+          <l><placeName ref="Рига">Рига</placeName></l>
+           <l>Его высокопревосходительству <persName ref="Лопухин">Лопухину</persName>.</l>
       </closer>
     </body>
   </text>
