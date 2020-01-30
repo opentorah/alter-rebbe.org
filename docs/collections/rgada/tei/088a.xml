@@ -9,6 +9,7 @@
         </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher>
@@ -41,22 +42,21 @@
         <date when="1798-10-25">25 октября 1798</date>
       </creation>
       <abstract>
-        <p>Заставка: Следствие, произведенное в <placeName ref="Вильно">Вильне</placeName> по случаю заведения евреями
-          <orgName ref="Хасиды">Каролинской секты</orgName></p>
+        <p>Титульный лист: Следствие, произведенное в <placeName ref="Вильно">Вильне</placeName> по случаю заведения евреями <orgName ref="Хасиды">Каролинской секты</orgName></p>
       </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p088a-1" n="088a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/088a-1.jpg"/>
-      <fw type="pageNum">88а.</fw>
+      <fw type="pageNum">88а</fw>
       <l>Слѣдствiе произведенное</l>
       <l>въ <placeName ref="Вильно">Вильнѣ</placeName> по случаю</l>
-      <l>заведения евреями каро-</l>
-      <l>линской секты. При</l>
-      <l>сланной при письмѣ губер-</l>
+      <l>заведенія евреями <orgName ref="Хасиды">каро-<lb/>
+      линской секты</orgName>. При</l>
+      <l>сланное при письмѣ губер-</l>
       <l>натора <persName ref="Булгаков">Булгакова</persName> отъ</l>
-      <l><date when="1798-10-25">25 октября 1798го</date></l>
+      <l><date when="1798-10-25">25 октября 1798<hi rend="superscript">го</hi></date></l>
     </body>
   </text>
 </TEI>
