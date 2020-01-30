@@ -4,16 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Булгаков">Булгаков</persName>
-        </author>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -24,24 +20,16 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1798-11-25">25 Ноября 1798</date>
-      </creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-11-25">25 Ноября 1798</date></creation>
       <abstract>
-        <p>Запрос <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о дальнейших действиях с арестованными <orgName ref="Хасиды">хасидами</orgName>, в.т.ч. ранее оотправленными в <placeName ref="Петербург">Санкт-Петербург</placeName> и возвращенными из <placeName ref="Рига">Риги</placeName></p>
+        <p>Запрос <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о дальнейших
+          действиях с арестованными <orgName ref="Хасиды">хасидами</orgName>, в.т.ч. ранее оотправленными в <placeName
+            ref="Петербург">Санкт-Петербург</placeName> и возвращенными из <placeName ref="Рига">Риги</placeName></p>
       </abstract>
       <correspAction>
         <persName ref="Лопухин" role="addressee">Лопухину</persName>
@@ -58,26 +46,26 @@
 
       <salute><l>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
       <p>
-      <l>На послѣдней почтѣ имѣлъ я честь получить</l>
-      <l>всепочтеннѣйшее вашего высокопревосходительства</l>
-      <l>секретное письмо отъ 10. сего мѣсяца, а вчерась</l>
-      <l>прибыли сюда уже и евреи остановленные до пове-</l>
-      <l>лѣниiя в <placeName ref="Рига">Ригѣ</placeName>. Ожидаю теперь объ них рѣшенiя,</l>
-      <l>равно какъ и о тѣхъ, кои не были отправлены,</l>
-      <l>а содержатся здѣсь подъ арестомъ, и прошу всепо-</l>
-      <l>корнѣйше онымъ меня не оставить, имѣя честь</l>
-      <l>быть съ совершеннѣйшимъ почтенiемъ и истинною</l>
-      <l>преданностiю</l>
-      <l>Милостивой Государь!</l>      
-      <l>вашего высокопревосходительства</l>
-      <l>всепокорнейшïй слуга</l>
-      <l><persName ref="Булгаков">Яковъ Булгаковъ</persName></l>
+        <l>На послѣдней почтѣ имѣлъ я честь получить</l>
+        <l>всепочтеннѣйшее вашего высокопревосходительства</l>
+        <l>секретное письмо отъ 10. сего мѣсяца, а вчерась</l>
+        <l>прибыли сюда уже и евреи остановленные до пове-</l>
+        <l>лѣниiя в <placeName ref="Рига">Ригѣ</placeName>. Ожидаю теперь объ них рѣшенiя,</l>
+        <l>равно какъ и о тѣхъ, кои не были отправлены,</l>
+        <l>а содержатся здѣсь подъ арестомъ, и прошу всепо-</l>
+        <l>корнѣйше онымъ меня не оставить, имѣя честь</l>
+        <l>быть съ совершеннѣйшимъ почтенiемъ и истинною</l>
+        <l>преданностiю</l>
+        <l>Милостивой Государь!</l>
+        <l>вашего высокопревосходительства</l>
+        <l>всепокорнейшïй слуга</l>
+        <l><persName ref="Булгаков">Яковъ Булгаковъ</persName></l>
       </p>
       <closer place="left">
-      <l><fw type="docNum">№ 209</fw></l>
-      <l><fw><date when="1798-11-25">25 Ноября 1798</date></fw></l>
-      <l><fw><placeName ref="Вильно">Вилна</placeName></fw></l>
-      <l><fw>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></fw></l>
+        <l><fw type="docNum">№ 209</fw></l>
+        <l><fw><date when="1798-11-25">25 Ноября 1798</date></fw></l>
+        <l><fw><placeName ref="Вильно">Вилна</placeName></fw></l>
+        <l><fw>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></fw></l>
       </closer>
     </body>
   </text>
