@@ -1,105 +1,293 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">Допрос жида <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, повереннаго по делам
-          <orgName ref="Хасиды">Каролинов</orgName> (перевод)</title>
-        <author>
-          <persName ref="Нохим_Ицкович">Нохим Ицкович</persName>
-        </author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
-      </titleStmt>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI
+	xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">Допрос жида 
+					<persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, повереннаго по делам
+          
+					<orgName ref="Хасиды">Каролинов</orgName> (перевод)
+				</title>
+				<author>
+					<persName ref="Нохим_Ицкович">Нохим Ицкович</persName>
+				</author>
+				<editor role="transcriber">
+					<persName ref="IL">Илья Лурье</persName>
+				</editor>
+				<editor role="encoder">
+					<persName ref="ALD">Арье-Лейб Дубинский</persName>
+				</editor>
+				<editor role="transcriber">
+					<persName ref="VK">Василий Когаловский</persName>
+				</editor>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>
+					<ptr target="www.alter-rebbe.org"/>
+				</publisher>
+				<availability status="free">
+					<licence>
+						<ab>
+							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
-            </ab>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-    </profileDesc>
-  </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p093-1" n="093-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/093-1.jpg"/>
-        <fw>№2</fw>
-        <fw><ref target="../documents/095.html">перевод</ref></fw>
-        <fw type="pageNum" place="right">93</fw>
-
-        <head>Допрос жида <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, повереннаго по делам
-          <orgName ref="Хасиды">Каролинов</orgName></head>
-
-        <p>Я <persName ref="Нохим_Ицкович">Нохим Ицкович</persName>, от рождения имею 36 лет, упражняюсь в разных
-          купеческих промыслах, из которых имею пропитание; родился в бывшей <placeName ref="Могилевская_губерния"
-            >Могилевской губернии</placeName>, в местечке <placeName ref="Чаусы">Чаусах</placeName>; В <placeName
-            ref="Литва">Литве</placeName> нахожусь шестой год; женат, имею дочь <persName
-            ref="Нохим_Ицкович-Рыбка">Рыбку</persName>. В <orgName ref="Хасиды">Каролинскую секту</orgName> не вступал, но
-          будучи в <placeName ref="Вильно">Вильне</placeName>, по поводу моего родства с <persName ref="Меіер_Рафалович"
-          >Рафаловичем</persName>, был я употребляем к делам <orgName ref="Хасиды">Каролинской секты</orgName>, и где мог,
-          то оным ходатайствовал.
-          Оная же секта, как мне кажется, основана на еврейских правах, но только в отправления моления и некоторых
-          обрядах различается от древних Евреев; а сия отмена или <orgName ref="Хасиды">Каролинская секта</orgName>
-            восприяла свое начало от <placeName
-            ref="Каролины">Каролинских</placeName> рабинов. Оной секты правитель или начальник есть <placeName
-            ref="Лозна">Лозенский</placeName> рабин <persName ref="alter-rebbe">Соломон Борух</persName>. В реестре мне читанном
-            <note type="gloss">|: которой послан был под № 130 :|</note> всех признаю <orgName ref="Хасиды">
-            Каролинами</orgName> кроме <persName
-            ref="Мовша_Јосіеліович">Мовши Езелевича</persName> и <persName ref="Јосель_Мовшович">Йозеля
-            Мовшовича</persName>. В прочих губерниях, как то в <placeName ref="Минская_губерния"
-            >Минской</placeName>
-          <pb xml:id="p093-2" n="093-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/093-2.jpg"/>
-          <fw type="pageNum">93 об</fw>
-          <placeName ref="Белоруссия">Белорусской</placeName>, <placeName ref="Волынская_губерния">Волынской</placeName>,
-          а также в <placeName ref="Пруссия">Пруссии</placeName> находятся <orgName ref="Хасиды">Каролины</orgName>, а наш
-          <placeName ref="Лозна">Лозенский</placeName> <persName ref="alter-rebbe">рабин</persName> с ними воспитывался
-          в местечке <placeName ref="Мезеричи">Мезеричах</placeName>, то вероятно, что имеет с ними разные переписки. При том знаю я и то, что на внучке
-            <placeName ref="Гамбург">Гамбургского</placeName> рабина <persName ref="Рафал">Рафала</persName> женился сын
-          здешнего Еврея <persName ref="Зелман">Зелмана</persName>. Живущего в <placeName ref="Белоруссия"
-            >Белоруссии</placeName> <persName ref="alter-rebbe">рабина Зелмана</persName> знаю, и лет семь тому назад
-          я был у него. Будучи
-          здесь в <placeName ref="Вильно">Вильне</placeName>, получил от него два письма, из которых в первом просил
-          меня о помощи здешним <orgName ref="Хасиды">Каролинам</orgName>, а в другом благодарил за хорошее старание о
-          <orgName ref="Хасиды">Каролинском</orgName> деле. При сих обоих
-          письмах получил я от него <measure type="currency">800 рублей ассигнациями</measure>. Рабина
-            <persName ref="Арон">Арона</persName> не знаю, о <persName ref="Саломон">Саломоне</persName> же слышал, что убит в <placeName
-            ref="Владимир">Владимире</placeName>. <placeName ref="Индура">Индурского</placeName> рабина знаю;
-          зовут его <persName ref="Шмуйло">Шмуйлою</persName>. <placeName ref="Волынская_губерния">Волынских</placeName> рабинов не знаю, но
-          слышал, что есть рабин в местечке <placeName ref="Нескиза">Нескизе</placeName> по имени
-          <persName ref="Мордух">Мордух</persName>. <orgName ref="Хасиды">Секта Каролинов</orgName> началась в <placeName
-            ref="Вильно">Вильно</placeName> от
-          нескольких жидов в <date when="1772">1772</date>, и от того времени <persName ref="Меіер_Рафалович">Мейер
-            Рафалович</persName> сделался с другими <orgName ref="Хасиды">Каролином</orgName>.</p>
-        <p>Деньги, присланные от рабина <placeName ref="Лозна">Лозны</placeName>, я получил и издержал на
-          <pb xml:id="p094-1" n="094-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/094-1.jpg"/>
-          <fw type="pageNum">94</fw>
-          <fw type="pageNum"><del rend="overstrike">96</del></fw>
-          разные нужды в тяжбе <orgName ref="Хасиды">Каролинов</orgName>, а именно на канцелярии, на писание просьб, за
-          вынятие копий
-          с резолюций, а досталные употребил для себя. Копия, которую зачал писать своей рукою <persName
-            ref="Козминский">Секретарь Кузминский</persName>, и которая у меня найдена, есть копия письма
-          представленного <orgName ref="Хасиды">Каролинами</orgName> в <orgName ref="губернское_правление">губернское
-            правление</orgName>, а писаннаго от <placeName ref="Вильно"
-          >виленскаго</placeName> к другим кагалам. – Не быв сам <orgName ref="Хасиды">Каролином</orgName>, за делами их
-          ходил я, потому что жил в
-          дружбе с <persName ref="Меіер_Рафалович">Меиером Рафаловичем</persName>, и потому еще, что все называющие
-          себя <orgName ref="Хасиды">Каролинами</orgName>, обещались возвратить мне все издержки, какия бы ни были, и
-          наградить меня за труды. - Письмы,
-          писанные от рабина находятся в <placeName ref="Вильно">Вильне</placeName> между моими бумагами. </p>
-      <closer>
-        <signed>Подписал <persName ref="Нохим_Ицкович">Нохим Ицкович</persName>.</signed>
-      </closer>
-    </body>
-  </text>
+						</ab>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Facsimile</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="ru"/>
+			</langUsage>
+			<calendarDesc>
+				<calendar xml:id="julian">
+					<p>Julian calendar</p>
+				</calendar>
+			</calendarDesc>
+			<abstract>
+				<p>Перевод с польского показаний 
+					<persName ref="Нохим_Ицкович">Нохима Ицковича</persName>
+				</p>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="ru">
+		<body>
+			<pb xml:id="p093-1" n="093-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/093-1.jpg"/>
+			<fw type="docNum">№2</fw>
+			<fw type="note" place="right">
+				<ref target="../documents/095.html">Переводъ</ref>
+			</fw>
+			<fw type="pageNum" place="right">93.</fw>
+			<head>
+				<l>Допросъ</l>
+				<l>жида 
+					<persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, повѣреннаго по дѣламъ
+				</l>
+				<l>
+					<orgName ref="Хасиды">каролиновъ</orgName>
+				</l>
+			</head>
+			<p>
+				<l>Я 
+					<persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName>, отъ рожденія
+				</l>
+				<l>имѣю 36 лѣтъ, упражняюсь въ раз-</l>
+				<l>ныхъ купеческихъ промыслахъ, отъ</l>
+				<l>которыхъ имѣю пропитаніе; родился</l>
+				<l>въ бывшей 
+					<placeName ref="Могилевская_губерния">Могилевской губерніи</placeName>, въ
+				</l>
+				<l>мѣстечкѣ 
+					<placeName ref="Чаусы">Чаусахъ</placeName>; въ 
+					<placeName ref="Литва">Литвѣ</placeName> нахо-
+				</l>
+				<l>жусь шестой годъ; женатъ, имѣю дочь</l>
+				<l>
+					<persName ref="Нохим_Ицкович-Рыбка">Рыбку</persName>. Въ 
+					<orgName ref="Хасиды">каролинскую секту</orgName> не всту-
+				</l>
+				<l>палъ, но будучи въ 
+					<placeName ref="Вильно">Вилнѣ</placeName>, по поводу
+				</l>
+				<l>моего родства съ 
+					<persName ref="Меіер_Рафалович">Рафаловичемъ</persName>, былъ
+				</l>
+				<l>я употребляемъ къ дѣламъ 
+					<orgName ref="Хасиды">каролин
+						<lb/>
+         ской секты
+					</orgName>, и гдѣ могъ, по онымъ
+				</l>
+				<l>ходатайствовалъ. Оная же секта,</l>
+				<l>как мне кажется, основана на</l>
+				<l>еврейскихъ правахъ, но только въ</l>
+				<l>отправленіи моленія и въ ѣекото-</l>
+				<l>рыхъ обрядах различается отъ древ-</l>
+				<l>нихъ евреевъ; а сія отмѣна или 
+					<orgName ref="Хасиды">ка
+						<lb/>
+             ролинская секта
+					</orgName> воспріяла свое на-
+				</l>
+				<l>чало отъ 
+					<placeName ref="Каролины">каролинскихъ</placeName> рабиновъ.
+				</l>
+				<l>Оной секты правитель или началь-</l>
+				<l>никъ есть 
+					<placeName ref="Лозна">лозенской</placeName> рабинъ 
+					<persName ref="alter-rebbe">Соло-
+						<lb/>
+              монъ Борухъ
+					</persName>. Въ реестрѣ мнѣ чи
+				</l>
+				<l>танномъ 
+					<note type="gloss">|: которой посланъ былъ
+						<lb/>
+               подъ № 130 :|
+					</note> всѣхъ признаю 
+					<orgName ref="Хасиды">кароли
+						<lb/>
+  нами
+					</orgName> кромѣ 
+					<persName ref="Мовша_Јосіеліович">Мовши Езелевича</persName> и
+				</l>
+				<l>
+					<persName ref="Јосель_Мовшович">Іозеля Мовшовича</persName>. Въ прочихъ же
+				</l>
+				<l>губерніяхъ, какъ то въ 
+					<placeName ref="Минская_губерния">Минской</placeName>
+				</l>
+				<pb xml:id="p093-2" n="093-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/093-2.jpg"/>
+				<fw type="pageNum">93 об</fw>
+				<l>
+					<placeName ref="Белоруссия">Белоруской</placeName>, 
+					<placeName ref="Волынская_губерния">Волынской</placeName>, а также и
+				</l>
+				<l>въ 
+					<placeName ref="Пруссия">Прусіи</placeName> находятся 
+					<orgName ref="Хасиды">каролины</orgName>; а какъ
+				</l>
+				<l>
+					<placeName ref="Лозна">Лозенской</placeName>
+					<persName ref="alter-rebbe">рабинъ</persName> съ ними воспиты-
+				</l>
+				<l>вался въ мѣстечке 
+					<placeName ref="Мезеричи">Мезеричахъ</placeName>, то
+				</l>
+				<l>вероятно что имѣетъ съ ними раз-</l>
+				<l>ныя переписки. Притомъ знаю я и</l>
+				<l>то, что на внучкѣ 
+					<placeName ref="Гамбург">гамбургскаго</placeName> ра
+				</l>
+				<l>бина 
+					<persName ref="Рафал">Рафала</persName> женился сынъ здѣшняго
+				</l>
+				<l>еврея 
+					<persName ref="Зелман">Зельмана</persName>. Живущаго въ 
+					<placeName ref="Белоруссия">Бѣло-
+						<lb/>
+            русіи
+					</placeName>
+					<persName ref="alter-rebbe">рабина Зелмана</persName> знаю, и лѣтъ
+				</l>
+				<l>семь тому назадъ я былъ у него.</l>
+				<l>Будучи здѣсь въ 
+					<placeName ref="Вильно">Вилнѣ</placeName>, получилъ отъ
+				</l>
+				<l>него два писма, изъ которыхъ въ</l>
+				<l>первомъ просилъ меня о помощи</l>
+				<l>здѣшнимъ 
+					<orgName ref="Хасиды">каролинамъ</orgName>, а въ дру
+				</l>
+				<l>гомъ благодарилъ за хорошее ста-</l>
+				<l>раніе о 
+					<orgName ref="Хасиды">каролинскомъ</orgName> дѣлѣ. При сихъ
+				</l>
+				<l>обоихъ писмахъ получилъ я отъ него</l>
+				<l>
+					<measure type="currency">800 рубл. ассигнациями</measure>. Рабина
+            
+					<persName ref="Арон">Арона</persName>
+				</l>
+				<l> не знаю, о 
+					<persName ref="Саломон">Саломонѣ</persName> же слышалъ, что
+				</l>
+				<l>убитъ въ 
+					<placeName ref="Владимир">Владимирѣ</placeName>. 
+					<placeName ref="Индура">Индурскаго</placeName> ра
+				</l>
+				<l>бина знаю; зовутъ его 
+					<persName ref="Шмуйло">Шмуйлою</persName>.
+				</l>
+				<l>
+					<placeName ref="Волынская_губерния">волынскихъ</placeName> рабиновъ не знаю, но слы
+				</l>
+				<l>шалъ, что есть рабинъ в мѣстечкѣ</l>
+				<l>
+					<placeName ref="Нескиза">Нескизѣ</placeName>, по имени 
+					<persName ref="Мордух">Мордух</persName>. 
+					<orgName ref="Хасиды">Секта
+						<lb/>
+            каролиновъ
+					</orgName> началась въ 
+					<placeName ref="Вильно">Вилнѣ</placeName> отъ
+				</l>
+				<l>нѣсколькихъ жидовъ въ 1772, и отъ</l>
+				<l>того времени 
+					<persName ref="Меіер_Рафалович">Меіеръ Рафаловичъ</persName>
+				</l>
+            здѣлался съ другими 
+				<orgName ref="Хасиды">каролиномъ</orgName>.
+            
+			</p>
+			<p>
+				<l>Денги присланные отъ 
+					<persName ref="alter-rebbe">рабина</persName> изъ
+				</l>
+				<l>
+					<placeName ref="Лозна">Лозны</placeName> я получилъ и издержалъ на
+				</l>
+				<pb xml:id="p094-1" n="094-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/094-1.jpg"/>
+				<fw type="pageNum">94</fw>
+				<fw type="pageNum">
+					<del rend="overstrike">96</del>
+				</fw>
+				<l>разныя нужды въ тяжбѣ 
+					<orgName ref="Хасиды">каролиновъ</orgName>,
+				</l>
+				<l>а имянно на канцеляріи, на писаніе</l>
+				<l>прозбъ, за вынятіе копій съ резолю-</l>
+				<l>цій, а досталные употребилъ для се</l>
+				<l>бя. Копія, которую зачалъ писать</l>
+				<l>своей рукою секретарь 
+					<persName ref="Козминский">Кузминскій</persName>,
+				</l>
+				<l>и которая у меня найдена, есть</l>
+				<l>копія писма представленнаго 
+					<orgName ref="Хасиды">каро-
+						<lb/>
+               линами
+					</orgName> въ 
+					<orgName ref="губернское_правление">губернское
+            правленіе</orgName>,
+				</l>
+				<l>а писаннаго отъ 
+					<orgName ref="виленский_кагал">виленскаго</orgName> къ дру-
+				</l>
+				<l>гимъ кагаламъ._ Не бывъ самъ 
+					<orgName ref="Хасиды">ка
+						<lb/>
+             ролиномъ
+					</orgName>, за дѣлами ихъ ходилъ я
+				</l>
+				<l>потому что жилъ въ дружествѣ съ</l>
+				<l>
+					<persName ref="Меіер_Рафалович">Меіеромъ Рафаловичемъ</persName>, и потому
+				</l>
+				<l>еще, что всѣ называющіе себя 
+					<orgName ref="Хасиды">кароли
+						<lb/>
+                нами
+					</orgName>, обѣщались возвратить мнѣ
+				</l>
+				<l>всѣ издержки, какия бы ни были, и на-</l>
+          градить меня за труды._ Писмы,
+          писанные отъ рабина находятся
+           
+				<l>въ 
+					<placeName ref="Вильно">вилнѣ</placeName> между моими бумагами.
+				</l>
+				<signed>Подписалъ 
+					<persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName>.
+				</signed>
+			</p>
+		</body>
+	</text>
 </TEI>

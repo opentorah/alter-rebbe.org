@@ -1725,10 +1725,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, повереннаго по делам
-            <orgName ref="Хасиды">Каролинов</orgName>
-            (перевод)
+            <p>
+              Перевод с польского показаний
+              <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -1745,7 +1745,8 @@
             <ref target="documents/093.html#p094-1" role="documentViewer" rendition="page">094</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
