@@ -10,6 +10,10 @@ tei-body > tei-head {
 
 /* editorial */
 
+tei-sic {
+  text-decoration: green underline;
+}
+
 tei-add {
   background-color: #ffcdcd;
 }
