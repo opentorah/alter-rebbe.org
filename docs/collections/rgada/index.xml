@@ -1648,14 +1648,18 @@
         <row>
           <cell rendition="description">
             <p>
-              <persName ref="Лопухин">Лопухину</persName>
+              Письмо
+              <persName ref="Жегулин">Жегулина</persName>, подтверждающее, что он получил предписание отпустить арестованных
+              <orgName ref="Хасиды">хасидов</orgName>, но установить наблюдение за ними
             </p>
           </cell>
           <cell rendition="date">1798-12-04</cell>
           <cell rendition="author">
             <persName ref="Жегулин">Жегулин</persName>
           </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee">
+            <persName ref="Лопухин">Лопухину</persName>
+          </cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
             <ref target="documents/089.html" role="documentViewer">089</ref>
@@ -1665,7 +1669,8 @@
             <ref target="documents/089.html#p089-2" role="documentViewer" rendition="page">089об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IA">Ифрах Абрамов</persName>
+            <persName ref="IA">Ифрах Абрамов</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
