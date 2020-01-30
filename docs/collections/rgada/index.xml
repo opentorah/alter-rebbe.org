@@ -1677,12 +1677,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос Жида
-            <persName ref="Меіер_Рафалович">Меера Рафаловича</persName>, раввина и начальника
-            <orgName ref="Хасиды">Каролинской секты</orgName>
-            из
-            <placeName ref="Вильно">Вильно</placeName>
-            (перевод)
+            <p>
+              Перевод протокла допроса
+              <persName ref="Меіер_Рафалович">Меера Рафаловича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -1699,7 +1697,8 @@
             <ref target="documents/090.html#p091-1" role="documentViewer" rendition="page">091</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
