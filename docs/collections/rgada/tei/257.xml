@@ -11,9 +11,7 @@
 				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>
-					<ptr target="www.alter-rebbe.org"/>
-				</publisher>
+				<publisher><ptr target="www.alter-rebbe.org"/></publisher>
 				<availability status="free">
 					<licence>
 						<ab>
@@ -24,14 +22,10 @@
 					</licence>
 				</availability>
 			</publicationStmt>
-			<sourceDesc>
-				<p>Facsimile</p>
-			</sourceDesc>
+			<sourceDesc><p>Facsimile</p></sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<langUsage>
-				<language ident="ru"/>
-			</langUsage>
+			<langUsage><language ident="ru"/></langUsage>
 			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
 			<creation><date when="1800-10-12">12 октября 1800</date></creation>
 			<abstract>Сообщение

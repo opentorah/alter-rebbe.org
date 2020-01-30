@@ -4,16 +4,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Булгаков">Булгаков</persName>
-        </author>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
         <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -24,24 +20,15 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1798-11-25">25 ноября</date>
-      </creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-11-25">25 ноября</date></creation>
       <abstract>
-        <p>Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> об освобождении всех арестованных <orgName ref="Хасиды">хасидов</orgName></p>
+        <p>Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> об
+          освобождении всех арестованных <orgName ref="Хасиды">хасидов</orgName></p>
       </abstract>
       <correspAction>
         <persName ref="Лопухин" role="addressee">Лопухину</persName>
@@ -57,38 +44,37 @@
       <fw type="pageNum" place="right">88.</fw>
       <salute><l>Милостивой Государь Петръ Васильевичъ!</l></salute>
       <p>
-       <l>По написаніи Всепокорнѣйшаго моего сегоднишнаго</l>
-        <l>донесенія подъ <fw type="docNum">№ 209</fw>, пришла
-        <placeName ref="Петербург">Санктпетербургская</placeName> почта,</l>
-         <l>съ которою имѣлъ я честь получить секретное вашего</l>
-          <l>высокопревосходительства отношеніе отъ <date when="1798-11-17">17. ноября</date>,</l>
-           <l>со изъявлениемъ всемилостивѣйшаго повелѣнія, объ осво-</l>
-           <l>божденіи всѣхъ евреевъ, арестованныхъ здѣсь по поводу</l>
-            <l>заведенной ими <orgName ref="Хасиды">секты, называемой Каролинскою</orgName>; и</l>
-             <l>уже далъ, кому слѣдовало, приказаніе всѣхъ ихъ осво-</l>
-             <l>бодить и отпустить въ ихъ домы, такъ что сіе дѣло</l>
-              <l>кончено.</l>
-              </p>
+        <l>По написаніи Всепокорнѣйшаго моего сегоднишнаго</l>
+        <l>донесенія подъ <fw type="docNum">№ 209</fw>, пришла <placeName ref="Петербург">Санктпетербургская</placeName> почта,</l>
+        <l>съ которою имѣлъ я честь получить секретное вашего</l>
+        <l>высокопревосходительства отношеніе отъ <date when="1798-11-17">17. ноября</date>,</l>
+        <l>со изъявлениемъ всемилостивѣйшаго повелѣнія, объ осво-</l>
+        <l>божденіи всѣхъ евреевъ, арестованныхъ здѣсь по поводу</l>
+        <l>заведенной ими <orgName ref="Хасиды">секты, называемой Каролинскою</orgName>; и</l>
+        <l>уже далъ, кому слѣдовало, приказаніе всѣхъ ихъ осво-</l>
+        <l>бодить и отпустить въ ихъ домы, такъ что сіе дѣло</l>
+        <l>кончено.</l>
+      </p>
       <p>
-      <l>Не оставлю впредь употреблять всѣхъ силъ для</l>
-       <l>строгаго наблюденія за ними, и вообще за всѣми</l>
+        <l>Не оставлю впредь употреблять всѣхъ силъ для</l>
+        <l>строгаго наблюденія за ними, и вообще за всѣми</l>
         <l>имъ подобными, как то чинилъ и донынѣ, и ежели</l>
-         <l>открою какіе потаенные сношеніи, не премину при</l>
-         <l>нять нужныя мѣры, и обо всемъ обстоятельно</l>
-          <l>доносить.</l>
-      <l>Имѣю честь быть с совершеннѣйшимъ почтеніемъ</l>
-       <l>и истинною преданностію</l>
+        <l>открою какіе потаенные сношеніи, не премину при</l>
+        <l>нять нужныя мѣры, и обо всемъ обстоятельно</l>
+        <l>доносить.</l>
+        <l>Имѣю честь быть с совершеннѣйшимъ почтеніемъ</l>
+        <l>и истинною преданностію</l>
         <l>Милостивый Государь!</l>
-         <l>вашего высокопревосходительства</l>
-          <l>всепокорнейшій слуга</l>
-           <l><signed><persName ref="Булгаков">Яковъ Булгаковъ.</persName>.</signed></l>
-           </p>
-           <closer place="left">
+        <l>вашего высокопревосходительства</l>
+        <l>всепокорнейшій слуга</l>
+        <l><signed><persName ref="Булгаков">Яковъ Булгаковъ.</persName>.</signed></l>
+      </p>
+      <closer place="left">
         <l><fw type="docNum">№ 210</fw></l>
         <l><data when="1798-11-25">25 ноября 1798</data></l>
         <l><placeName ref="Вильно">вилна</placeName></l>
-         <l>Его высокопревосходительству Г Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
-                </closer>
+        <l>Его высокопревосходительству Г Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+      </closer>
     </body>
   </text>
 </TEI>

@@ -10,9 +10,7 @@
         <editor role="fragment-transcriber"><persName ref="MF">Mendel Feller</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free">
           <licence>
             <ab>
@@ -23,19 +21,13 @@
           </licence>
         </availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
       <langUsage>
         <language ident="pl"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <abstract><p>Допрос жида <persName ref="Хлїовна_Зорухович">Хлиовна Зоруховича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
