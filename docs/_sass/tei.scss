@@ -10,14 +10,6 @@ tei-body > tei-head {
 
 /* editorial */
 
-tei-sic {
-  text-decoration: green underline;
-}
-
-tei-add {
-  background-color: #ffcdcd;
-}
-
 tei-del[rend='overstrike'] {
   text-decoration: red line-through;
 }
@@ -43,12 +35,20 @@ tei-hi[rend='superscript'] {
   vertical-align: super;
 }
 
-tei-unclear {
-  background-color: #aaffaa;
+tei-add {
+  background-color: #ffcdcd;
 }
 
 tei-supplied {
-//  background-color: teal;
+  background-color: #aaffaa;
+}
+
+tei-corr {
+  background-color: #aaffaa;
+}
+
+tei-unclear {
+  background-color: #aaffaa;
 }
 
 tei-note[place='end'] a {
