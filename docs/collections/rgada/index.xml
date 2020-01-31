@@ -1869,14 +1869,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Лейба_Меіерович">Лейбы Мейеровича</persName>
-            (перевод)
+            <p>Перевод с польского протокола допроса Лейба Мееровича</p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Лейба_Меіерович">Лейба Мейерович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -1887,7 +1883,8 @@
             <ref target="documents/101.html#p101-2" role="documentViewer" rendition="page">101об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
