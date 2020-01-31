@@ -1774,9 +1774,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Лейба_Зеликович">Лейбы Зеликовича</persName>
-            (перевод)
+            <p>
+              Перевод с полльского языка допроса
+              <persName ref="Лейба_Зеликович">Лейба Зеликовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -1792,7 +1793,8 @@
             <ref target="documents/097.html#p097-2" role="documentViewer" rendition="page">097об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
