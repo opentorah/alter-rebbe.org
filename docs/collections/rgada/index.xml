@@ -1821,9 +1821,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Арон_Беркович">Арона Берковича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Арон_Беркович">Арона Берковича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
@@ -1839,7 +1840,8 @@
             <ref target="documents/099.html#p099-2" role="documentViewer" rendition="page">099об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>

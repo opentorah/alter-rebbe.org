@@ -10,6 +10,7 @@
         </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -28,53 +29,82 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    <abstract><p>Перевод с польского языка протокола допроса <persName ref="Арон_Беркович">Арона Берковича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p099-1" n="099-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/099-1.jpg"/>
-        <fw place="right"><ref target="../documents/100.html">перевод</ref></fw>
+        <fw type="note" place="right"><ref target="../documents/100.html">перевод</ref></fw>
         <!-- <fw>№4</fw> -->
         <fw type="pageNum" place="right">99.</fw>
-        <head>Допрос жида <persName ref="Арон_Беркович">Арона Берковича</persName></head>
-        <p>Зовут меня <persName ref="Арон_Беркович">Ароном Берковичем</persName> от роду имею 35 лет. Женат, детей
-          имею, сыновей <persName ref="Арон_Беркович-Мойжес">Мойжеса</persName> и <persName ref="Арон_Беркович-Гирша">Гиршу</persName>,
-          дочь <persName ref="Арон_Беркович-Шифра">Шифру</persName>;
-          родился в <placeName ref="Вильно">Вильне</placeName>; пришел сам добровольно, узнав о взятии под караул
-          <orgName ref="Хасиды">Каролинов</orgName>. Около года, как я оставил их секту; когда я вступил в оную, то в
-          течение двух лет молился по их
-          обыкновению. Вступил же в <orgName ref="Хасиды">Каролинскую секту</orgName> по следующему случаю: торгуя стеклом,
-          когда ездил я для покупки
-          онаго, когда настал праздник Трубнов не имея где оный провести, и отправлять молений, поехал я в местечко
-            <placeName ref="Ляховицы">Ляховичи</placeName>
-          <note type="gloss">|: в <placeName ref="Минская_губерния">Минской губернии</placeName> |</note> яко в ближайшее от
-          того, где покупал стекло. Будучи у рабина <persName ref="Мордух">Мордуха</persName>, получил от него поучение, чтобы во
-          время молитвы всем сердцем заниматься Богом и ни о чем другом не думать; тогда-то родилось во мне желание быть
-          <orgName ref="Хасиды">Каролином</orgName>. <orgName ref="Хасиды">Каролины</orgName> ничем другим не отличаются
-          от старых Евреев, как только тем, что отправляют моление свое
+        <head><l>Допросъ</l>
+         <l>жида <persName ref="Арон_Беркович">Арона Берковича</persName>.</l></head>
+        <p>
+        <l>Зовутъ меня <persName ref="Арон_Беркович">Арономъ Берковичемъ</persName></l>
+         <l>отъ роду имѣю 35 лѣтъ, женатъ, дѣ-</l>
+         <l>тей имѣю, сыновей <persName ref="Арон_Беркович-Мойжес">Моижеса</persName> и <persName ref="Арон_Беркович-Гирша">Гиршу</persName>,</l>
+          <l>дочь <persName ref="Арон_Беркович-Шифра">Шифру</persName>; родился въ <placeName ref="Вильно">Вилнѣ</placeName>; при</l>
+          <l>шелъ самъ добровольно, узнавъ о взя-</l>
+          <l>тіи подъ караулъ <orgName ref="Хасиды">каролиновъ</orgName>. Около</l>
+           <l>году какъ я оставилъ ихъ секту; ко-</l>
+           <l>гда я вступилъ въ оную, то въ те-</l>
+           <l>ченіе двухъ лѣтъ молился по ихъ обы-</l>
+          <l>кновенію. Вступилъ же в <orgName ref="Хасиды">каролин-<lb/>
+          скую секту</orgName> по слѣдующему случаю:</l>
+           <l>торгуя стеклом, когда ездилъ я</l>
+            <l>для покупки онаго, когда насту-</l>
+            <l>палъ праздникъ Трубковъ<note place="end">вероятно, трубления, т.е. Рош-Ашана</note>; не имѣя</l>
+             <l>гдѣ оной провести, и отправлять</l>
+              <l>моленія, поехалъ я в мѣстечко</l>
+            <l><placeName ref="Ляховицы">Ляховичи</placeName> <note type="gloss">|: въ <placeName ref="Минская_губерния">Минской губерніи</placeName> |</note> яко</l>
+             <l>въ ближайшее отъ того, гдѣ покупалъ</l>
+              <l>стекло. Будучи у рабина <persName ref="Мордух">Мордуха</persName>,</l>
+               <l>получилъ отъ него поученіе, чтобы</l>
+                <l>во время молитвы всѣмъ сердцемъ</l>
+                 <l>заниматься Богомъ, и ни о чемъ</l>
+                  <l>другомъ не думать; тогда-то</l>
+                   <l>родилось во мнѣ желаніе быть <orgName ref="Хасиды">ка-<lb/>
+                   ролиномъ</orgName>. <orgName ref="Хасиды">Каролины</orgName> ничѣмъ</l>
+                    <l>другимъ не отличаются отъ ста-</l>
+                    <l>рыхъ евреевъ, как только тѣмъ,</l>
+                     <l>что отправляютъ моленіе свое</l>
           <pb xml:id="p099-2" n="099-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/099-2.jpg"/>
-          <fw type="pageNum">99об .</fw> гласно, и отменным образом; после, когда таковое желание во мне усилилось
-          остаться в той секте, ездил я в <placeName ref="Лозна">Лозну</placeName> к рабину <persName
-            ref="alter-rebbe">Зельману Боруховичу</persName>, у которого живучи 8 дней, видел <placeName
-            ref="Вильно">виленских</placeName> Евреев <persName ref="Лейба_Зеликович">Лейбу
-            Зеликовича</persName>, <persName ref="Лейба_Меіерович">Лейбу Меиеровича</persName>, портнаго
-            <persName ref="Абрамович">Абрамовича</persName>, зятя его <persName ref="Ицка">Ицку</persName>,
-          <persName ref="Шломо_Меиерович">Шломо Меиеровича</persName>,
-            <persName ref="Вульф">Вульфа</persName>, зятя <persName ref="Зельман">Зельманова</persName>, где также видел из разных мест прибывших
-          Евреев, более 2000. Молитвенная книга, изданная <placeName ref="Лозна">Лозинским</placeName>
-          <persName ref="alter-rebbe">рабином</persName>,
-          в которой предписывается порядок моления, называется Тания. В прошлом году, когда <orgName ref="виленский_кагал">виленский кагал
-          </orgName> поссорился с <orgName ref="Хасиды">Каролинскою сектою</orgName>, отнял у них книги <unclear>Лекуда
-            ???</unclear> и Лекуда – Морам,
-          сии книги изданы были прежними сектами, называемыми Ксыдим, или нынешними <orgName ref="Хасиды">
-            Каролинами</orgName>. <orgName ref="Хасиды">Каролинскую секту</orgName>
-          возобновил в <placeName ref="Вильно">Вильне</placeName> прибывший из <placeName ref="Островна">Островны</placeName>
-          <persName ref="Орлин">Орлин</persName>,
-          которому последовали во-первых, <persName ref="Лейба_Зеликович">Лейба Зеликович</persName> и <persName
-            ref="Меіер_Рафалович">Меиер Рафалович</persName>.</p>
-      <closer>
-        <signed>Подписал <persName ref="Арон_Беркович">Арон Беркович</persName>.</signed>
-      </closer>
+          <fw type="pageNum">99об .</fw>
+           <l>гласно, и отмѣннымъ образомъ;</l>
+            <l>послѣ, когда таковое желаніе во мнѣ</l>
+             <l>усилилось остаться в той сектѣ,</l>
+              <l>ездилъ я въ <placeName ref="Лозна">Лозну</placeName> къ рабину <persName
+            ref="alter-rebbe">Зель-<lb/>
+            ману Боруховичу</persName>, у котораго живу-</l>
+            <l>чи 8 дней, видѣлъ <placeName ref="Вильно">виленскихъ</placeName> евреевъ</l>
+             <l><persName ref="Лейба_Зеликович">Лейбу Зеликовича</persName>, <persName ref="Лейба_Меіерович">Лейбу Меіеровича</persName>,</l>
+              <l>портнаго <persName ref="Абрамович">абрамовича</persName>, зятя его <persName ref="Ицка">Иц-<lb/>
+              ку</persName>, <persName ref="Шломо_Меиерович">Шлома Меіеровича</persName>,
+            <persName ref="Вульф">Вулфа</persName>, зя</l>
+            <l>тя <persName ref="Зельман">Зельманова</persName>, гдѣ также видѣлъ</l>
+             <l>изъ разныхъ мѣстъ прибывшихъ</l>
+          <l>евреевъ болѣе 2000. Молитвенная</l>
+           <l>книга, изданная <placeName ref="Лозна">лозинскимъ</placeName>
+          <persName ref="alter-rebbe">раби<lb/>
+          номъ</persName>, въ которой предписывается</l>
+           <l>порядокъ моленія, называется <emph rend="underline">Та-<lb/>
+           нія</emph>. Въ прошломъ году, когда <orgName ref="виленский_кагал">ви<lb/>
+           ленскій кагалъ</orgName> поссорился съ <orgName ref="Хасиды">каро-<lb/>
+           линскою сектою</orgName>, отнялъ у нихъ</l>
+            <l>книги Лекуда корамъ<note place="end">вероятно, "Ликутей Амарим"</note>
+             и Лекуда – Морамъ<note place="end">"Ликутей Моhаран"</note>,</l>
+          <l>сіи книги изданы были прежними</l>
+           <l>сектами, называемыми <emph rend="underline">Ксыдимъ</emph><note place="end">вероятно, "хасидим"</note>,</l>
+            <l>или нынѣшними <orgName ref="Хасиды"> каролинами</orgName>.</l>
+             <l><orgName ref="Хасиды">Каролинскую секту</orgName> возобновилъ въ</l>
+              <l><placeName ref="Вильно">вилнѣ</placeName> прибывшій изъ <placeName ref="Островна">Островны</placeName></l>
+                    <l><persName ref="Орлин">Орликъ</persName>, которому послѣдовали во-</l>
+          <l>первыхъ, <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName> и <persName
+            ref="Меіер_Рафалович">Меіеръ<lb/>
+             Рафаловичъ</persName></l>
+              <l><signed>Подписал <persName ref="Арон_Беркович">Арон Беркович</persName>.</signed></l>
+      </p>
     </body>
   </text>
 </TEI>
