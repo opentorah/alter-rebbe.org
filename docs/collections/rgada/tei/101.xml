@@ -6,10 +6,10 @@
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Лейба_Меіерович">Лейбы Мейеровича</persName> (перевод)</title>
         <author>
-          <persName ref="Лейба_Меіерович">Лейба Мейерович</persName>
-        </author>
+                  </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -28,45 +28,66 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-    </profileDesc>
+        <abstract><p>Перевод с польского протокола допроса Лейба Мееровича</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p101-1" n="101-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/101-1.jpg"/>
-        <fw>№5</fw>
-        <fw place="right"><ref target="../documents/102.html">перевод</ref></fw>
+        <fw type="docNum">№5</fw>
+        <fw type="note" place="right"><ref target="../documents/102.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">101.</fw>
-        <head>Допрос жида <persName ref="Лейба_Меіерович">Лейбы Мейеровича</persName></head>
-        <p>Я <persName ref="Лейба_Меіерович">Лейба Меирович</persName>, от роду имею 30 лет, родился в местечке
-            <placeName ref="Гродзен">Гродзен</placeName>, имею пропитание от давания денег в рост; в городе <placeName
-            ref="Вильно">Вильне</placeName> живу с 17-ти лет, женат, имею дочь <persName ref="Лейба_Меіерович-Сора">Сору</persName>; третий год
-          тому как вступил в <orgName ref="Хасиды">Каролинскую секту</orgName>, и на сие решился в <placeName ref="Вильно">
-            Вильне</placeName>, от
-          чтения книги Тании, изданной <persName ref="alter-rebbe">лозинским рабином</persName> и печатной в
-            <placeName ref="Словита">Словите</placeName>, на <placeName ref="Украйна">Украйне</placeName>; уже три года тому как я был у него в
-          первый раз; во второй же раз был с здешними Евреями, означенными в допросе <persName ref="Арон_Беркович"
-            >Арона Берковича</persName>; я ездил к нему единственно для того, чтобы узнать о его мудрости. <orgName ref="Хасиды">Секта
-            Каролинская</orgName> от древних евреев ни в чем другом не разнетвует, как только в том, что они другим образом обряды
-          отправляют, и молятся гласно, дабы в час молитвы никакими другими мыслями не разсееваться. Начальник сей секты
-          <placeName ref="Лозна">Лозенский</placeName> <persName ref="alter-rebbe">рабин Соломон Борух</persName>
-          <note type="gloss">|: или <persName ref="alter-rebbe">Зелман Борухович</persName> :|</note>, потому что он имеет
-          великия познания
+        <head><l>Допросъ</l>
+        <l>жида <persName ref="Лейба_Меіерович">Лейбы Меіеровича</persName></l></head>
+        <p><l>Я <persName ref="Лейба_Меіерович">Лейба Меіровичъ</persName>, отъ роду имѣю</l>
+         <l>30 лѣтъ, родился в мѣстечкѣ <placeName ref="Гродзен">Гродзень</placeName>,</l>
+             <l>имѣю пропитаніе отъ даванія денегъ</l>
+              <l>въ ростъ; в городѣ <placeName ref="Вильно">Вилнѣ</placeName> живу съ</l>
+               <l>17<hi rend="superscript">ти</hi> лѣтъ, женатъ, имѣю дочь <persName ref="Лейба_Меіерович-Сора">Сору</persName>;</l>
+                <l>третей годъ тому какъ вступилъ въ</l>
+                 <l><orgName ref="Хасиды">Каролинскую секту</orgName>, и на сіе рѣшился</l>
+                  <l>въ <placeName ref="Вильно">Вильне</placeName>, отъ чтенія книги <emph rend="underline">Таніи</emph>
+         </l> <l>изданной <persName ref="alter-rebbe">лозинскимъ рабиномъ</persName> и</l> печатанной въ
+            <l><placeName ref="Словита">Словитѣ</placeName>, на <placeName ref="Украйна">Украйнѣ</placeName>;</l>
+             <l>уже три года тому какъ я былъ</l>
+              <l>у него въ первой разъ; во второй же</l>
+               <l>разъ былъ съ здѣшними евреями,</l>
+                <l>означенными въ допросѣ <persName ref="Арон_Беркович"
+            >Арона Бер-<lb/>
+            ковича</persName>; я ѣздилъ къ нему един-</l>
+            <l>ственно для того, чтобы узнать</l>
+             <l>о его мудрости. <orgName ref="Хасиды">Секта каролин<lb/>
+             ская</orgName> отъ древнихъ евреевъ ни въ чемъ</l>
+              <l>другом не разнествуетъ, какъ толь-</l>
+              <l>ко въ томъ, что они другимъ обра-</l>
+              <l>зомъ обряды отправляютъ, и мо-</l>
+              <l>лятся гласно, дабы въ часъ молитвы</l>
+               <l>никакими другими мыслями не</l>
+                <l>разсѣваться. Начальникъ сей секты</l>
+          <l><placeName ref="Лозна">Лозинской</placeName> <persName ref="alter-rebbe">рабинъ Саломонъ Борухъ</persName><lb/>
+                    <note type="gloss">|: или <persName ref="alter-rebbe">Зелманъ Боруховичъ</persName> :|</note>, потому</l>
+                     <l>что онъ имѣетъ великія познанія</l>
           <pb xml:id="p101-2" n="101-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/101-2.jpg"/>
-          <fw type="pageNum">101об.</fw> и есть учителем <orgName ref="Хасиды">секты</orgName>. К <orgName
-            ref="Хасиды">Каролинской секте</orgName>
-          принадлежат все те, кои помещены в
-          реестре, мне читанном, а прочих же не знаю; о <persName ref="Арон">Ароне</persName> и <persName ref="Саломон">Саломоне</persName>
-          слышал, что они также <orgName ref="Хасиды">Каролины</orgName>, но я и их не знаю. <orgName
-            ref="Хасиды">Каролинская секта</orgName> возобновлена
-          в <placeName
-            ref="Вильно">Вильне</placeName> прибывшим <persName ref="Орлин">Орлином</persName>, котораго науки последовали
-            <persName ref="Меіер_Рафалович">Мейер Рафалович</persName> и <persName ref="Лейба_Зеликович">Лейба
-            Зеликович</persName>; я же вступил в эту секту потому, что <persName ref="Нохим_Ицкович">Нохим
-            Ицкович</persName> объявил покровитьельство и помочь в размножении секты, когда же я узнал, что
-            Господин Губернатор недоволен ею, то я ее и оставил. </p>
-      <closer>
-        <signed>Подписал <persName ref="Лейба_Меіерович">Лейба Мейерович</persName>.</signed>
-      </closer>
+          <fw type="pageNum">101об.</fw>
+           <l>и есть учителемъ <orgName ref="Хасиды">секты</orgName>. Къ <orgName
+            ref="Хасиды">каро-<lb/>
+            линской сектѣ</orgName> принадлежатъ всѣ</l>
+             <l>тѣ, кои помѣщены въ реестрѣ мнѣ</l>
+              <l>читанномъ, а прочихъ же не знаю; о</l>
+               <l><persName ref="Арон">Аронѣ</persName> и <persName ref="Саломон">Саломонѣ</persName> слышалъ, что они</l>
+                <l>также <orgName ref="Хасиды">каролины</orgName>, но я и ихъ не знаю.</l>
+                 <l><orgName ref="Хасиды">Каролинская секта</orgName> возобновлена</l>
+          <l>въ <placeName ref="Вильно">Вилнѣ</placeName> прибывшимъ <persName ref="Орлин">Орликомъ</persName>,</l>
+           <l>котораго наукѣ последовали <persName ref="Меіер_Рафалович">Меіеръ<lb/>
+      Рафаловичъ</persName> и <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName>;</l>
+       <l>я же вступилъ в эту секту по-</l>
+       <l>тому что <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName> объ-</l>
+       <l>явилъ покровитьельство и помочь</l>
+        <l>въ размноженіи секты, когда же</l>
+         <l>я узналъ, что Господинъ губерна-</l>
+         <l>торъ недоволенъ ею, то я ее и оста</l>
+         <l>вилъ</l>. 
+     <l><signed>Подписалъ <persName ref="Лейба_Меіерович">Лейба Мейеровичъ</persName>.</signed></l>
+    </p>  
     </body>
   </text>
 </TEI>
