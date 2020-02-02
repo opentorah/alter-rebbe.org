@@ -1954,14 +1954,13 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Вулф_Шимеліович">Вулфа Шимелиовича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка показаний
+              <persName ref="Вулф_Шимеліович">Вулфа Шимелиовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Вулф_Шимеліович">Вулф Шимелиович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -1971,7 +1970,8 @@
             <ref target="documents/105.html#p105-1" role="documentViewer" rendition="page">105</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
