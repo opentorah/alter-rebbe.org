@@ -5,8 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Допрос Браславского жида <persName ref="Рафаил_Шлїомович">Рафаила Шлиемовича</persName> (перевод)</title>
-        <author><persName ref="Рафаил_Шлїомович">Рафаил Шлиомович</persName></author>
+        <author></author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -25,39 +26,58 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-    </profileDesc>
+        <abstract><p>Перевод с польского языка протокола допроса <persName ref="Рафаил_Шлїомович">Рафаила Шлиомовича</persName></p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p107-1" n="107-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/107-1.jpg"/>
-        <fw>№8</fw>
-        <fw><ref target="../documents/108.html">перевод</ref></fw>
+               <fw type="note" place="right"><ref target="../documents/108.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">107.</fw>
-      <head>Допрос Браславского жида <persName ref="Рафаил_Шлїомович">Рафаила Шлиемовича</persName></head>
-      <p>Я <persName ref="Рафаил_Шлїомович">Рафаил Шлиомович</persName> от роду имею 36 лет, женат, дети мои суть сыновья Иуда
-        Лейбович, Бенимамин и Леви, дочери
-        две, родился в местечке <placeName ref="Видзы">Видзах</placeName>, упражняюсь продажею напитков; в <orgName
-          ref="Хасиды">Каролинскую секту</orgName> вступил в <placeName ref="Видзы">Видзах</placeName> тому 20 лет;
-        девять лет назад был я у <placeName ref="Лозна">Лозенскаго</placeName> <persName ref="alter-rebbe">рабина
-          Зелмана Боруховича</persName>, куда ездил единственно за тем дабы воспользоваться его учением. Нынешняго лета
-        прислан был какой-то неизвестный мне жид от <placeName ref="Лозна">Лозенскаго</placeName> рабина для
-        собрания денег на бедных у него находящихся. <orgName ref="Хасиды">Каролинская секта</orgName> основана на Еврейских
-        обычаях, и различается
-        только обрядами, также переменены некоторыя молитвы. Начальником <placeName ref="Литва">Литовских</placeName>
-        <orgName ref="Хасиды">Каролинов</orgName> есть <placeName ref="Лозна">Лозенский</placeName>
-        <persName ref="alter-rebbe">рабин Зелман Борухович</persName>, прочие же суть <placeName ref="Ляховицы">
-          Ляховицкий</placeName> рабин Мордух,
-        Бердичесвсикй Лейба, Ковенчкой рабин Сроль, и местечка
-        Нихехиза рабин Мортхель. Доверенность Гиршу Йоселиовичу к поданию прошения в Губернское правление дали мы по
-        поводу спора между Евреями и <orgName ref="Хасиды">Каролинам</orgName>, в разсуждении высылки двух депутатов в
-        <placeName ref="Вильно">Вильну</placeName>, требуемых <orgName ref="виленский_кагал">Виленским Кагалом</orgName>.
-        Письма мои надписанные Нохиму
+      <head><l>Допросъ</l>
+      <l>Браславского жида <persName ref="Рафаил_Шлїомович">Рафаила Шліомовича</persName></l></head>
+      <p>
+      <l>Я <persName ref="Рафаил_Шлїомович">Рафаилъ Шліомовичъ</persName> отъ роду имѣю</l>
+       <l>36. лѣтъ; женатъ, дѣти мои суть сыновья</l>
+        <l>Іуда Лейбовичъ, Беніяминъ и Леви; дочери</l>
+        двѣ; родился въ мѣстечѣе <placeName ref="Видзы">Видзахъ</placeName>, упра
+        <l>жняюсь продажею напитковъ; въ <orgName ref="Хасиды">каро-<lb/>
+        линскую секту</orgName> вступилъ въ <placeName ref="Видзы">Видзахъ</placeName>,</l>
+         <l>тому 20 лѣтъ; девять лѣтъ назадъ былъ</l>
+          <l>я у <placeName ref="Лозна">Лозенскаго</placeName> <persName ref="alter-rebbe">рабина
+          Зелмана Борухо-<lb/>
+          вича</persName>, куда ѣздилъ единственно за тѣмъ</l>
+           <l>дабы воспользоваться его ученіемъ. Нынѣ-</l>
+           <l>шняго лѣта присланъ былъ какой-то</l>
+            <l>неизвѣстной мнѣ жидъ от ъ<placeName ref="Лозна">Лозенскаго</placeName></l>
+             <l><persName ref="alter-rebbe">рабина</persName>, для собранія денегъ на бѣдныхъ</l>
+              <l>у него находящихся. <orgName ref="Хасиды">Каролинская сек-<lb/>
+              та</orgName> основана на еврейскихъ обычаях,</l>
+               <l>и различается только обрядами, также</l>
+                <l>перемѣнены нѣкоторыя молитвы.</l>
+                 <l>Начальникомъ <placeName ref="Литва">литовскихъ</placeName>
+        <orgName ref="Хасиды">каролиновъ</orgName></l>
+         <l>есть <placeName ref="Лозна">Лозенскій</placeName> рабинъ
+        <persName ref="alter-rebbe">Зелманъ Бо-<lb/>
+        руховичъ</persName>, прочіе же суть <placeName ref="Ляховицы">Ляховицкій</placeName></l>
+           <l>рабинъ <persName ref="Мордух">Мордухъ</persName>, Бердичевскій Леиба<note place="end">вероятно, Леви Ицхак из Бердичева</note>,</l>
+            <l>Ковенской рабинъ Сроль, и мѣстечка</l>
+        <l>Нихехиза<note place="end">вероятно, <placeName ref="Нескиза">Нескиза</placeName></note> рабин Мортхель<note place="end">возможно, <persName ref="Мордух">Мордух</persName></note>. Довѣрен</l>
+        <l>ность <persName ref="Гирша_Јосіеліович">Гиршѣ Іоселіовичу</persName> къ поданію</l><l>прошенія въ Губернское правленіе</l>
+         <l>дали мы по поводу спора между еврея-</l>
+         <l>ми и <orgName ref="Хасиды">каролинами</orgName>, въ разсужденіи вы</l>
+         <l>сылки двухъ депутатовъ въ <placeName ref="Вильно">Вилну</placeName></l>
+          <l>требуемыхъ <orgName ref="виленский_кагал">Виленскимъ Кагаломъ</orgName>.</l>
+        <l>Письма мои надписанные <persName ref="Нохим_Ицкович">Нохиму<lb/>
         <pb xml:id="p107-2" n="107-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/107-2.jpg"/>
         <fw type="pageNum">107.</fw>
-         Ицковичу и Боруху Мордуховичу писаны были Мовшею Ицковичем, а я их подписывал. Письмо же писанное
-        <orgName ref="виленский_кагал">виленским Кагалом</orgName>, мне не показывается злобным, но только противным
-        <orgName ref="Хасиды">Каролинам</orgName>. </p>
-      <closer><signed>Подписал <persName ref="Рафаил_Шлїомович">Рафаил Шлиомович</persName></signed></closer>
-    </body>
+         Ицковичу</persName> и <persName ref="Борух_Мордухович">Боруху Мордуховичу</persName> писа</l>
+         <l>ны были <persName ref="Мовша_Ицкович">Мовшею Ицковичемъ</persName>, а я ихъ</l>
+          <l>подписывалъ. Писмо же писанное <orgName ref="виленский_кагал">ви-<lb/>
+          ленскимъ Кагаломъ</orgName>, мнѣ не показы</l>
+          <l>вается злобнымъ, но только против-</l>
+          <l>нымъ <orgName ref="Хасиды">каролинамъ</orgName>.</l>
+          <l><signed>Подписалъ <persName ref="Рафаил_Шлїомович">Рафаилъ Шліомовичъ</persName></signed>.</l>
+          </p>
+          </body>
   </text>
 </TEI>
