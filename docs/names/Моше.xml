@@ -22,7 +22,10 @@
     <body>
       <person xml:id="Моше" role="jew">
         <persName>Моше</persName>
-       </person>
+        <p rendition="mentions">
+          <ref target="/names.html#Моше" role="namesViewer">[...]</ref>
+        </p>
+      </person>
     </body>
   </text>
 </TEI>
