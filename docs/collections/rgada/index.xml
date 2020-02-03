@@ -2172,14 +2172,13 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Перец_Хаймович">Переца Хаймовича</persName>
-            (перевод)
+            <p>
+              Перервод с польского языка протокола допроса
+              <persName ref="Перец_Хаймович">Переца Хаймовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Перец_Хаймович">Перец Хаймович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -2189,7 +2188,8 @@
             <ref target="documents/115.html#p115-1" role="documentViewer" rendition="page">115</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
