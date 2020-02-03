@@ -2092,9 +2092,7 @@
             (перевод)
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Михель_Файбишович">Михель Файбишович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -2104,7 +2102,8 @@
             <ref target="documents/111.html#p111-1" role="documentViewer" rendition="page">111</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
