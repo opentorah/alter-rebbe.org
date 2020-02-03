@@ -6,10 +6,10 @@
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Перец_Хаймович">Переца Хаймовича</persName> (перевод)</title>
         <author>
-          <persName ref="Перец_Хаймович">Перец Хаймович</persName>
-        </author>
+                 </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor> 
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -28,26 +28,31 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+   <abstract><p>Перервод с польского языка протокола допроса <persName ref="Перец_Хаймович">Переца Хаймовича</persName></p></abstract> 
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p115-1" n="115-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/115-1.jpg"/>
-        <fw>№12</fw>
-        <fw place="right"><ref target="../documents/116.html">перевод</ref></fw>
+                <fw type="note" place="right"><ref target="../documents/116.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">115</fw>
-      <head>Допрос жида <persName ref="Перец_Хаймович">Переца Хаймовича</persName></head>
-      <p>Я <persName ref="Перец_Хаймович">Перец Хаймович</persName> от роду имею 50 лет, упражняюсь в скорняшном мастерстве,
-          родился в
-          <placeName ref="Вильно">Вильне</placeName>, женат, имею детей
-        сына Зелна и одну дочь; четвертый год как вступил в <orgName ref="Хасиды">Каролинскую секту</orgName>; она ничуть
-        не разнетвует от Еврейской
-          веры: начальником ея есть <placeName ref="Лозна">Лозенской</placeName> рабин; в разсуждении <orgName
-          ref="Хасиды">Каролинской секты</orgName>
-          показал согласно с Ароном Берковичем; о прочем ничего не знаю.</p>
-      <closer>
-        <signed>Подписал <persName ref="Перец_Хаймович">Перец Хаймович</persName>.</signed>
-      </closer>
-    </body>
+      <head><l>Допросъ</l>
+       <l>жида <persName ref="Перец_Хаймович">Переца Хаймовича</persName></l></head>
+      <p>
+      <l>Я <persName ref="Перец_Хаймович">Перецъ Хаймовичъ</persName> отъ роду</l>
+       <l>имѣю 50 лѣтъ, упражняюсь въ скор-</l>
+       <l>няшномъ мастерствѣ, родился въ</l>
+          <l><placeName ref="Вильно">вилнѣ</placeName>, женатъ, имѣю дѣтей сына</l>
+      <l>Зелка<note place="end">возможно, Зеева - Зевка</note> и одну дочь; четвертой годъ</l>
+        <l>какъ вступилъ въ <orgName ref="Хасиды">каролинскую сек-<lb/>
+        ту</orgName>; она ничѣмъ не разнествуетъ</l>
+         <l>отъ Еврейской вѣры; начальникомъ</l>
+          <l>ея есть <placeName ref="Лозна">Лозинской</placeName> <persName ref="alter-rebbe">рабинъ</persName>; въ раз-</l>
+          <l>сужденіи <orgName ref="Хасиды">каролинской секты</orgName> пока</l>
+          залъ согласно съ <persName ref="Арон_Беркович">Ароном Берко-<lb/>
+         <l>вичемъ</persName><note place="end">см. документ 099</note>; о прочемъ ничего не знаю</l>
+      <l><signed>Подписалъ <persName ref="Перец_Хаймович">Перецъ Хаймовичъ</persName>.</signed></l>
+         </p>
+          </body>
   </text>
 </TEI>
