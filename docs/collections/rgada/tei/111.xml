@@ -6,10 +6,11 @@
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Михель_Файбишович">Михеля Файбишовича</persName> (перевод)</title>
         <author>
-          <persName ref="Михель_Файбишович">Михель Файбишович</persName>
-        </author>
+                  </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      <abstract><p>Перевод с польского языка протокола допроса <persName ref="Михель_Файбишович">Михеля Файбишовича</persName></p></abstract>  
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -33,18 +34,24 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p111-1" n="111-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/111-1.jpg"/>
-        <fw>№10</fw>
-        <fw place="right"><ref target="../documents/112.html">перевод</ref></fw>
+        <fw type="docNum">№10</fw>
+        <fw type="note" place="right"><ref target="../documents/112.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">111.</fw>
-      <head>Допрос жида <persName ref="Михель_Файбишович">Михеля Файбишовича</persName></head>
-      <p>Я <persName ref="Михель_Файбишович">Михель Файбишович</persName> от роду имею 20 лет, работаю на мельнице,
-        родился в <placeName ref="Вильно">Вильне</placeName>, женат, имею сына Елиаша и
-        Роху; живучи в доме <persName ref="Меіер_Рафалович">Мейера Рафаловича</persName>, вступил в <orgName
-          ref="Хасиды">Каролинскую секту</orgName> два года тому назад; у <placeName ref="Ляховицы">Ляховицкаго
-        </placeName> рабина был потому, что слышал о его знаемости, впросем, ничего не знаю.</p>
-      <closer>
-        <signed>Подписал <persName ref="Михель_Файбишович">Михель Файбишович</persName>.</signed>
-      </closer>
-    </body>
+      <head><l>Допросъ</l>
+       <l>жида <persName ref="Михель_Файбишович">Михеля Файбишовича</persName></l></head>
+      <p>
+      <l>Я <persName ref="Михель_Файбишович">Михель Файбишовичъ</persName> отъ роду</l>
+       <l>имѣю 20 лѣтъ, работаю на мѣль-</l>
+       <l>ницѣ, родился въ <placeName ref="Вильно">вилнѣ</placeName>, женатъ, имѣю</l>
+        <l>сына Еліаша и Роху; живучи въ домѣ</l>
+         <l><persName ref="Меіер_Рафалович">Меіера Рафаловича</persName>, вступилъ въ <orgName
+          ref="Хасиды">ка<lb/>
+          ролинскую секту</orgName>, два года тому</l>
+           <l>назадъ; у <placeName ref="Ляховицы">Ляховицкаго</placeName> рабина былъ по-</l>
+           <l>тому, что слышалъ о его знаемости.</l>
+            <l>впрочемъ ничего не знаю.</l>
+       <l><signed>Подписал <persName ref="Михель_Файбишович">Михель Файбишовичъ</persName>.</signed></l>     
+            </p>
+         </body>
   </text>
 </TEI>
