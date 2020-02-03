@@ -5,9 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName> (перевод)</title>
-        <author><persName ref="Зелман_Леизерович">Зелман Лейзерович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+                <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -26,27 +26,35 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    <abstract><p>Перевод с польского языка протокола допроса <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p113-1" n="113-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/113-1.jpg"/>
-        <fw>№11</fw>
-        <fw place="right"><ref target="../documents/114.html">перевод</ref></fw>
+                <fw type="note" place="right"><ref target="../documents/114.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">113.</fw>
-        <head>Допрос жида Зелмана Лейзеровича</head>
-      <p>Я <persName ref="Зелман_Леизерович">Зелман Лейзерович</persName> от роду имею 43 года, торгую напитками, от чего
-        имею пропитание, родился за <placeName ref="Минск">Минском</placeName> в
-        местечке Тунары, женат на дочери <persName ref="Меіер_Рафалович">Рафаловича</persName>, имею четырех сыновей, Хаима,
-        Рафала, Юделя и Берку, дочери две
-          Шейну и Эстербелу, в <placeName ref="Вильно">Вильне</placeName> живу 29 год; в <orgName
-          ref="Хасиды">секту Каролинскую</orgName> не вступал,
-          и хотя ездил в <placeName ref="Лозна">Лозну</placeName>, однако сие было единственно для отыскания денег
-          отданных на сохранение рабину чрез его и Полоцкаго меновщика еврея Неаха, назначенных в приданое дочери и сыну
-          оного Неаха. Ездил я туда в октябре 1797 года.</p>
-      <closer>
-        <signed>Подписал <persName ref="Зелман_Леизерович">Зелман Лейзерович</persName>.</signed>
-      </closer>
+        <head><l>Допросъ</l>
+         <l>жида Зелмана Лейзеровича</l></head>
+      <p>Я <persName ref="Зелман_Леизерович">Зелманъ Лейзеровичъ</persName>, отъ роду
+       <l>имѣю 43 года, торгую напитка-</l>
+       <l>ми, отъ чего имѣю пропитаніе, ро-</l>
+       <l>дился за <placeName ref="Минск">Минскомъ</placeName>, въ мѣстечкѣ Ту-</l>
+       <l>кары<note place="end">вероятно, Такары, ныне в Брестской обл. Белоруссии</note>, женатъ на дочери <persName ref="Меіер_Рафалович">Рафаловича</persName>,</l>
+        <l>имѣю четырехъ сыновей, Хайма, Ра</l>
+        <l>фала, Юделя и Берку, дочери двѣ,</l>
+          <l>Шейну и Естербелу, въ <placeName ref="Вильно">вилнѣ</placeName> живу</l>
+           <l>29 годъ; въ <orgName ref="Хасиды">секту каролинскую</orgName> не</l>
+            <l>вступалъ, и хотя ѣздилъ въ <placeName ref="Лозна">Лозну</placeName>,</l>
+             <l>однако сіе было единственно для</l>
+              <l>отысканія денегъ отданныхъ на</l>
+               <l>сохраненіе рабину чрезъ его и полоц-</l>
+               <l>каго мѣновщика еврея Неаха, на</l>
+               <l>значенныхъ въ приданое дочери и сы</l>
+               <l>ну онаго Неаха. Ѣздилъ я туда въ</l>
+                <date when="1797-10-??">октябрѣ 1797 года</date>.
+              <l><signed>подписалъ <persName ref="Зелман_Леизерович">Зелманъ Лейзеровичъ</persName>.</signed></l>
+      </p>
     </body>
   </text>
 </TEI>

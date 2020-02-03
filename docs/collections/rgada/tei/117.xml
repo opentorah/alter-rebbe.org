@@ -6,10 +6,10 @@
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Ицко_Саіович">Ицка Сайовича</persName> (перевод)</title>
         <author>
-          <persName ref="Ицко_Саіович">Ицко Сайович</persName>
-        </author>
+                  </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -27,24 +27,31 @@
     </fileDesc>
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
+      <abstract><p>Перевод с польском языка протокола допроса <persName ref="Ицко_Саіович">Ицка Сайовича</persName></p></abstract>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p117-1" n="117-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/117-1.jpg"/>
-        <fw>№13</fw>
-        <fw place="right"><ref target="../documents/118.html">перевод</ref></fw>
-        <fw type="pageNum" place="right">117</fw>
-        <head>Допрос жида Ицка Сайовича</head>
-      <p>Я Ицко Сайович от роду имею 19 лет, торгую напитками, родился в местечке <placeName ref="Оникшты">Оникштах</placeName>, в
-        <placeName ref="Вильно">Вильне</placeName> живу шестой год,
-        женат, имею сына Сайя; третий год, как вступил в <orgName ref="Хасиды">Каролинскую секту</orgName> и сие учинил
-        потому, что понравился мне образ
-        моления; касательно евреия <persName ref="Орлин">Орлина</persName>, согласен во всем с Вулфом Шемелиовичем; о прочем же ничего не знаю.</p>
-      <closer>
-      <signed>Подписал Ицко Сайович.</signed>
-      </closer>
-    </body>
+        <fw type="docNum">№13</fw>
+        <fw type="note" place="right"><ref target="../documents/118.html">переводъ</ref></fw>
+        <fw type="pageNum" place="right">117.</fw>
+        <head><l>Допросъ</l>
+         <l>жида Ицка Саіовича</l></head>
+      <p>
+      <l>Я Ицко Саіовичъ отъ роду имѣю</l>
+       <l>19 лѣтъ, торгую напитками, ро-</l>
+       <l>дился в мѣстечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>,</l>
+        <l>въ <placeName ref="Вильно">вилнѣ</placeName> живу шестой годъ, женатъ,</l>
+         <l>имѣю сына Саія; третей годъ, какъ</l>
+          <l>вступилъ въ <orgName ref="Хасиды">каролинскую секту</orgName>,</l>
+           <l>и сіе учинилъ потому, что понра-</l>
+           <l>вился мнѣ образъ моленія; касатель-</l>
+           <l>но еврея <persName ref="Орлин">Орлика</persName>, согласенъ во всемъ</l>
+            <l>съ <persName ref="Вулф_Шимеліович">Вулфом Шемеліовичемъ</persName><note place="end">см. http://www.alter-rebbe.org/collections/rgada/documents/106.html</note>; о про-</l>
+            <l>чемъ же ничего не знаю.</l></p>
+            <l><signed>подписал Ицко Саіович</signed></l>
+          </body>
   </text>
 </TEI>
