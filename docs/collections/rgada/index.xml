@@ -2279,14 +2279,13 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Шая_Ицкович">Шая Ицковича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Шая_Ицкович">Шая Ицковича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Шая_Ицкович">Шая Ицкович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -2296,7 +2295,8 @@
             <ref target="documents/120.html#p120-1" role="documentViewer" rendition="page">120</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
