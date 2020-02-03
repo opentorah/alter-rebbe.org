@@ -29,9 +29,6 @@
           <ref target="/names.html#officials" role="namesViewer">Начальство</ref>
         </l>
         <l>
-          <ref target="/names.html#unknown" role="namesViewer">Неизвестно кто</ref>
-        </l>
-        <l>
           <ref target="/names.html#places" role="namesViewer">Места</ref>
         </l>
         <l>
@@ -214,6 +211,11 @@
         <l>
           <ref target="/names/Каган.html" role="namesViewer">
             <persName>М. Каган</persName>
+          </ref>
+        </l>
+        <l>
+          <ref target="/names/Леви_Ицхак_из_Бердичева.html" role="namesViewer">
+            <persName>Леви Ицхак из Бердичева</persName>
           </ref>
         </l>
         <l>
@@ -612,14 +614,6 @@
         <l>
           <ref target="/names/фонъ_Дер_Пален.html" role="namesViewer">
             <persName>граф фон Пален</persName>
-          </ref>
-        </l>
-      </listPerson>
-      <listPerson xml:id="unknown">
-        <head>Неизвестно кто</head>
-        <l>
-          <ref target="/names/Леви_Ицхак_из_Бердичева.html" role="namesViewer">
-            <persName>Леви_Ицхак_из_Бердичева</persName>
           </ref>
         </l>
       </listPerson>
