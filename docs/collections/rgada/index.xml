@@ -2042,14 +2042,13 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Юдель_Еліашевич">Юделя Елиашевича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Юдель_Еліашевич">Юделя Елиашевича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Юдель_Еліашевич">Юдель Елиашевич</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -2060,7 +2059,8 @@
             <ref target="documents/109.html#p109-2" role="documentViewer" rendition="page">109об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
