@@ -199,7 +199,12 @@
             <item>
               <ref target="/collections/rgia328/index.html" role="collectionViewer">РГИА 328: О виленских кагальных старшинах</ref>
               <lb/>
-              <abstract>1799 год. Жалоба Моше Ошеровича императору Павлу I и реакция на нее.</abstract>
+              <abstract>
+                1799 год. Жалоба
+                <persName ref="Моисей_Ошерович">Моше Ошеровича</persName>
+                <persName ref="Павел_I">императору Павлу I</persName>
+                и реакция на нее.
+              </abstract>
             </item>
             <item>
               <ref target="/collections/rgia413/index.html" role="collectionViewer">РГИА 413: О каролинской секте</ref>
@@ -226,7 +231,9 @@
               </ref>
               <lb/>
               <abstract>
-                1800 год. Жалоба Авигдора и переписка по ее поводу генерал-прокурора
+                1800 год. Жалоба
+                <persName ref="Авигдор">Авигдора</persName>
+                и переписка по ее поводу генерал-прокурора
                 <orgName ref="Сенат">Сената</orgName>
                 с
                 <placeName ref="Литва">литовским</placeName>
