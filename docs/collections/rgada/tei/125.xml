@@ -6,10 +6,10 @@
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Јосель_Мовшович">Иоселя Мовшовича</persName> (перевод)</title>
         <author>
-          <persName ref="Јосель_Мовшович">Иосель Мовшович</persName>
-        </author>
+                  </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor> 
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -28,21 +28,29 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    <abstract><p>Перевод с польского языка протокола допроса <persName ref="Јосель_Мовшович">Иоселя Мовшовича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p125-1" n="125-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/125-1.jpg"/>
-        <fw>№17</fw>
-        <fw place="right"><ref target="../documents/126.html">перевод</ref></fw>
+        <fw type="docNum" place="left">№17/</fw>
+        <fw type="note" place="right"><ref target="../documents/126.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">125.</fw>
-        <head>Допрос жида Иоселя Мовшовича</head>
-        <p>Я Иосель Мовшович, от роду имею 22 года, женат, детей не имею, упражняюсь мещанским промыслом, родился на
-          форштате Антоколе, в <orgName ref="Хасиды">Каролинскую секту</orgName> не вступал, и в чем она состоит, не знаю. У
-          Нохима Ицковича бывал, не по предмету веры, но для советов в делах.</p>
-      <closer>
-        <signed>Подписал Иосель Мовшович.</signed>
-      </closer>
-    </body>
+        <head><l>Допросъ</l>
+         <l>жида <persName ref="Јосель_Мовшович">Іоселя Мовшовича</persName>.</l></head>
+        <p>
+        <l>Я <persName ref="Јосель_Мовшович">Іосель Мовшовичъ</persName>, отъ роду имѣю</l>
+         <l>22 года, женатъ, дѣтей не имѣю, упра</l>
+         <l>жняюсь мещанскимъ промысломъ,</l>
+          <l>родился на форштатѣ Антополѣ,</l>
+           <l>въ <orgName ref="Хасиды">каролинскую секту</orgName> не вступалъ,</l>
+            <l>и въ чемъ она состоитъ, не знаю.</l>
+             <l>У <persName ref="Нохим_Ицкович">Нохима Ицковича</persName> бывалъ, не по</l>
+              <l>предмету вѣры, но для совѣта въ</l>
+               <l>дѣлахъ.</l>
+               <l><signed>подписалъ <persName ref="Јосель_Мовшович">Іосель Мовшовичъ</persName>.</signed></l>
+                              </p>
+         </body>
   </text>
 </TEI>
