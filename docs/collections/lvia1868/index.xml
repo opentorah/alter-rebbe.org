@@ -52,6 +52,40 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
+          <cell rendition="description">
+            <p>обложка с названием дела</p>
+          </cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/000.html" role="documentViewer">000</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/000.html#p001-1" role="documentViewer" rendition="page">001</ref>
+            <ref target="documents/000.html#p001-2" role="documentViewer" rendition="missing-page">001об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description">
+            <p>сопроводительное письмо</p>
+          </cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/001.html" role="documentViewer">001</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/001.html#p000-1" role="documentViewer" rendition="page">000</ref>
+            <ref target="documents/001.html#p000-2" role="documentViewer" rendition="missing-page">000об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
           <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -84,7 +118,7 @@
           <cell rendition="transcriber"></cell>
         </row>
       </table>
-      <p>Отсутствуют фотографии 2 страниц: 003об 006об</p>
+      <p>Отсутствуют фотографии 4 страниц: 001об 000об 003об 006об</p>
     </body>
   </text>
 </TEI>
