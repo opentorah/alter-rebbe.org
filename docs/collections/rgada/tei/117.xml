@@ -4,11 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Допрос жида <persName ref="Ицко_Саіович">Ицка Сайовича</persName> (перевод)</title>
-        <author>
-                  </author>
+        <author></author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
@@ -34,24 +31,26 @@
   <text xml:lang="ru">
     <body>
       <pb xml:id="p117-1" n="117-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/117-1.jpg"/>
-        <fw type="docNum">№13</fw>
-        <fw type="note" place="right"><ref target="../documents/118.html">переводъ</ref></fw>
-        <fw type="pageNum" place="right">117.</fw>
-        <head><l>Допросъ</l>
-         <l>жида Ицка Саіовича</l></head>
+      <fw type="docNum">№13</fw>
+      <fw type="note" place="right"><ref target="../documents/118.html">переводъ</ref></fw>
+      <fw type="pageNum" place="right">117.</fw>
+      <head>
+        <l>Допросъ</l>
+        <l>жида Ицка Саіовича</l>
+      </head>
       <p>
-      <l>Я Ицко Саіовичъ отъ роду имѣю</l>
-       <l>19 лѣтъ, торгую напитками, ро-</l>
-       <l>дился в мѣстечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>,</l>
+        <l>Я Ицко Саіовичъ отъ роду имѣю</l>
+        <l>19 лѣтъ, торгую напитками, ро-</l>
+        <l>дился в мѣстечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>,</l>
         <l>въ <placeName ref="Вильно">вилнѣ</placeName> живу шестой годъ, женатъ,</l>
-         <l>имѣю сына Саія; третей годъ, какъ</l>
-          <l>вступилъ въ <orgName ref="Хасиды">каролинскую секту</orgName>,</l>
-           <l>и сіе учинилъ потому, что понра-</l>
-           <l>вился мнѣ образъ моленія; касатель-</l>
-           <l>но еврея <persName ref="Орлин">Орлика</persName>, согласенъ во всемъ</l>
-            <l>съ <persName ref="Вулф_Шимеліович">Вулфом Шемеліовичемъ</persName><note place="end">см. http://www.alter-rebbe.org/collections/rgada/documents/106.html</note>; о про-</l>
-            <l>чемъ же ничего не знаю.</l></p>
-            <l><signed>подписал Ицко Саіович</signed></l>
-          </body>
+        <l>имѣю сына Саія; третей годъ, какъ</l>
+        <l>вступилъ въ <orgName ref="Хасиды">каролинскую секту</orgName>,</l>
+        <l>и сіе учинилъ потому, что понра-</l>
+        <l>вился мнѣ образъ моленія; касатель-</l>
+        <l>но еврея <persName ref="Орлин">Орлика</persName>, согласенъ во всемъ</l>
+        <l>съ <persName ref="Вулф_Шимеліович">Вулфом Шемеліовичемъ</persName><note place="end">см. http://www.alter-rebbe.org/collections/rgada/documents/106.html</note>; о про-</l>
+        <l>чемъ же ничего не знаю.</l></p>
+      <l><signed>подписал Ицко Саіович</signed></l>
+    </body>
   </text>
 </TEI>
