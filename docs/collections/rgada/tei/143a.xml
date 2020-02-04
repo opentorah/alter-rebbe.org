@@ -4,10 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Титульный лист: Бумаги, найденные у <persName ref="Меіер_Рафалович">Меера Рафаиловича</persName></title>
-        <author>
-          <persName>?</persName>
-        </author>
+        <author><persName>?</persName></author>
         <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
@@ -27,6 +24,7 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>Титульный лист: Бумаги, найденные у <persName ref="Меіер_Рафалович">Меера Рафаиловича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
