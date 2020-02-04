@@ -2597,13 +2597,13 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName>, Индурскаго рабина (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Шмуил_Хаимович">Шмуйло Хаймович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -2614,7 +2614,8 @@
             <ref target="documents/135.html#p135-2" role="documentViewer" rendition="page">135об</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
