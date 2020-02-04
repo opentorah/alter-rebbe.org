@@ -108,9 +108,7 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description">
-            <p>ответ на "записку" М.Л. Кутузова по делу отрешенного в Вильне кагала ???</p>
-          </cell>
+          <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
@@ -184,6 +182,23 @@
             <ref target="documents/254.html#p254-2" role="documentViewer" rendition="page">254об</ref>
             <ref target="documents/254.html#p255-1" role="documentViewer" rendition="page">255</ref>
             <ref target="documents/254.html#p255-2" role="documentViewer" rendition="page">255об</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description">
+            <p>ответ на "записку" М.Л. Кутузова по делу отрешенного в Вильне кагала ???</p>
+          </cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author">?</cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/678.html" role="documentViewer">678</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/678.html#p678-1" role="documentViewer" rendition="page">678</ref>
+            <ref target="documents/678.html#p678-2" role="documentViewer" rendition="missing-page">678об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -291,7 +306,7 @@
           <cell rendition="transcriber"></cell>
         </row>
       </table>
-      <p>Отсутствуют фотографии 7 страниц: 041об 129об 810об 811 815об 818об 882об</p>
+      <p>Отсутствуют фотографии 8 страниц: 041об 129об 678об 810об 811 815об 818об 882об</p>
     </body>
   </text>
 </TEI>
