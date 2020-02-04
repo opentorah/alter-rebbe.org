@@ -6,7 +6,6 @@
       <titleStmt>
         <author><persName ref="фонъ_Дер_Пален">Пален</persName></author>
         <editor role="transcriber"><persName ref="ALD">Рина Заславская</persName></editor>
-        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
@@ -28,11 +27,11 @@
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <correspDesc>
-    <correspAction>
-      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-    </correspAction>
-  </correspDesc>
-<creation><date when="1800-11-03">3 ноября 1800</date></creation>
+        <correspAction>
+          <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
+      <creation><date when="1800-11-03">3 ноября 1800</date></creation>
       <abstract><p>Сообщение <persName ref="фонъ_Дер_Пален">Палена</persName> <persName ref="Обольянинов">Обольянинову</persName>
         о принятии мер в связи с распоряжением о <orgName ref="Хасиды">хасидах</orgName></p></abstract>
     </profileDesc>
@@ -43,34 +42,32 @@
       <fw type="docNum">1535.</fw>
       <fw><unclear><date when="1800-11-03">3 ноября 1800</date> къ дѣлу</unclear></fw>
       <fw type="note" place="right">Секретно</fw>
-
       <salute>Милостивый государь мой Петр Хрисaнфович!</salute>
-
       <fw type="pageNum" place="right"><del rend="overstrike">348</del></fw>
       <fw type="pageNum" place="right">348</fw>
 
       <p>
-      <l>въ слѣдствіе отношенія вашего высокопревосхо-</l>
-      <l>дительства отъ <date when="1800-11-02">2<hi rend="superscript">го</hi> сего ноября</date> касательно</l>
-      <l>старообрядцовъ и <orgName ref="Хасиды">Королинской секты евреевъ</orgName>,</l>
-       <l>а равно и вразсужденіи нечиненія предста</l>
-       <l>вленія и отпуска отставным и изклю</l>
-       <l>ченнымъ изъ службъ воинской и штатской</l>
+        <l>въ слѣдствіе отношенія вашего высокопревосхо-</l>
+        <l>дительства отъ <date when="1800-11-02">2<hi rend="superscript">го</hi> сего ноября</date> касательно</l>
+        <l>старообрядцовъ и <orgName ref="Хасиды">Королинской секты евреевъ</orgName>,</l>
+        <l>а равно и вразсужденіи нечиненія предста</l>
+        <l>вленія и отпуска отставным и изклю</l>
+        <l>ченнымъ изъ службъ воинской и штатской</l>
         <l>кои по особым <emph rend="big">высочайшимъ</emph> повеленіямъ</l>
-         <l>въ деревняхъ и городахъ на житьѣ находятся,</l>
-          <l>не преминулъ я въ тоже время кому слѣдо</l>
-          <l>вало предписать точнѣйшее исполненіе</l>
-           <l>вышеписаннаго, о чемъ извѣщая ваше высо-</l>
-           <l>копревосходительство имѣю честь пребыть</l>
-           <l> съ совершеннымъ моимъ почтеніемъ.</l>
-                         <l>Вашего высокопревосходительства</l>
+        <l>въ деревняхъ и городахъ на житьѣ находятся,</l>
+        <l>не преминулъ я въ тоже время кому слѣдо</l>
+        <l>вало предписать точнѣйшее исполненіе</l>
+        <l>вышеписаннаго, о чемъ извѣщая ваше высо-</l>
+        <l>копревосходительство имѣю честь пребыть</l>
+        <l> съ совершеннымъ моимъ почтеніемъ.</l>
+        <l>Вашего высокопревосходительства</l>
         <l>Милостиваго Государя моего</l>
-         <l>Покорнейшій слуга</l>
+        <l>Покорнейшій слуга</l>
         <l><signed><persName ref="фонъ_Дер_Пален">Граф фонъ деръ Пален</persName></signed></l>
-        </p>
-        <closer  place="left">
+      </p>
+      <closer  place="left">
         <l><date when="1800-11-05">Ноября. 5<hi rend="superscript">го</hi>. дня<lb/>
-         1800 года.</date></l>
+          1800 года.</date></l>
         <l>Его высокопре<hi rend="superscript">ву</hi> <persName ref="Обольянинов">Обольянинову</persName>.</l>
       </closer>
     </body>

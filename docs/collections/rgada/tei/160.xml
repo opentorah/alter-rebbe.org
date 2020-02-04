@@ -4,12 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Заставка: Росписки въ денгахъ пересланных въ <placeName ref="Иерусалим">Јерусалимъ</placeName></title>
-        <author>
-          <persName>?</persName>
-        </author>
+        <author><persName>?</persName></author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -27,6 +23,7 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>Заставка: Росписки въ денгахъ пересланных въ <placeName ref="Иерусалим">Јерусалимъ</placeName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

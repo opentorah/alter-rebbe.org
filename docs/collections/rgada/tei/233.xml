@@ -4,15 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">
-          Щет отправленных от <placeName ref="Видзы">Видзенских</placeName> <orgName ref="Хасиды">Каролинов</orgName> денег в
-          святейшую землю или <placeName
-          ref="Палестина">Палестину</placeName>,
-          в город Тверь и Цфас, и именно кому
-        </title>
-        <author>
-          <persName>?</persName>
-        </author>
+        <author><persName>?</persName></author>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -31,6 +23,10 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract>
+        <p>Щет отправленных от <placeName ref="Видзы">Видзенских</placeName> <orgName ref="Хасиды">Каролинов</orgName>
+        денег в святейшую землю или <placeName ref="Палестина">Палестину</placeName>, в город Тверь и Цфас, и именно кому</p>
+      </abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
