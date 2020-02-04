@@ -6,10 +6,10 @@
       <titleStmt>
         <title type="main">Допрос жида <persName ref="Мовша_Јосіеліович">Мовши Иосиеловича</persName> (перевод)</title>
         <author>
-          <persName ref="Мовша_Јосіеліович">Мовша Иосилович</persName>
-        </author>
+                  </author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -28,27 +28,35 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+        <abstract><p>Перевод с польского язывка протокола допроса <persName ref="Мовша_Јосіеліович">Мовши Иосиеловича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
     <body>
       <pb xml:id="p127-1" n="127-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/127-1.jpg"/>
-        <fw>№18</fw>
-        <fw place="right"><ref target="../documents/128.html">перевод</ref></fw>
+    <fw type="note" place="right"><ref target="../documents/128.html">переводъ</ref></fw>
         <fw type="pageNum" place="right">127</fw>
-        <head>Допрос жида Мовши Иосиеловича</head>
-        <p>Я Мовша Иосиелович от роду имею 45 лет, родился на предместье Антоколе, женат, детей имею сыновей Иоселя и
-          Боруха, и дочерей три; упражняюсь мещанским промыслом; в <orgName ref="Хасиды">секту Каролинскую</orgName> никогда
-          не вступал; <orgName ref="Хасиды">Каролины</orgName> же называли меня потому, что <orgName
-            ref="виленский_кагал">виленской кагал</orgName>
-          оштрафовал меня 300 рубл. и удалил от верниковства антокольскаго
-          Кагала, на который поступок я не жаловался, но сами <orgName ref="Хасиды">Каролины</orgName>, без моего ведома сие
-          вместили в прошение
-          поданное в <orgName ref="Литовское_губернское_правление">Литовское губернское правление</orgName>, в чем состоит
-          <orgName ref="Хасиды">Каролинская</orgName> вера я не знаю.</p>
-      <closer>
-        <signed>Подписал Мовша Иосилович</signed>
-      </closer>
-    </body>
+        <head><l>Допросъ</l>
+         <l>жида <persName ref="Мовша_Јосіеліович">Мовши Іосіеловича</persName></l></head>
+        <p>
+        <l>Я <persName ref="person">Мовша Іосіеловичъ</persName> отъ роду</l>
+         <l>имѣю 45 лѣтъ, родился на предмѣстьѣ</l>
+          <l>Антополѣ, женатъ, дѣтей имѣю,</l>
+          <l>сыновей <persName ref="Јосель_Мовшович">Іоселя</persName> и Боруха, и дочерей</l>
+            <l>три; упражняюсь мещанскимъ про-</l>
+            <l>мысломъ; въ <orgName ref="Хасиды">секту каролинскую</orgName></l>
+             <l>никогда не вступалъ; <orgName ref="Хасиды">Каролины</orgName> же</l>
+              <l>называли меня потому, что <orgName ref="виленский_кагал">вилен<lb/>
+            ской кагалъ</orgName> оштрафовалъ меня</l>
+             <l>300. рубл., и удалилъ отъ вѣрников-</l>
+             <l>ства антакольскаго<note place="end">возможно, антопольского; Антополь - пригород <placeName ref="Вильно">Вильно</placeName> и место рождения М.И.</note> кагала, на</l>
+              <l>которой поступокъ я не жаловался</l>
+               <l>но сами <orgName ref="Хасиды">каролины</orgName>, безъ моего вѣ-</l>
+               <l>дома сіе вмѣстили въ прошеніе</l>
+          <l>поданное въ <orgName ref="Литовское_губернское_правление">Литовское губернское<lb/> правление</orgName>; въ чемъ состоитъ <orgName ref="Хасиды">каро-<lb/>
+          линская</orgName> вѣра я не знаю.</l>
+             <l><signed>подписалъ <persName ref="person">Мовша Іосіеловичъ</persName></signed></l>
+             </p>
+          </body>
   </text>
 </TEI>
