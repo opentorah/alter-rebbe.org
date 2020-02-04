@@ -3021,7 +3021,14 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Перевод с польского на русский язык фрагмента письма
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              <placeName ref="Видзы">видзенскому</placeName>
+              кагалу - см. http://www.alter-rebbe.org/collections/rgada/documents/158.html, а также http://www.alter-rebbe.org/collections/rgada/documents/054.html и http://www.alter-rebbe.org/collections/rgada/documents/054.html
+            </p>
+          </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">
             <persName>?</persName>
@@ -3034,7 +3041,9 @@
           <cell rendition="pages">
             <ref target="documents/159.html#p159-1" role="documentViewer" rendition="page">159</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
