@@ -4,14 +4,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Содержание бумаг привезенных из <placeName ref="Видзы">Видзы</placeName> с Жидом <persName
-          ref="Рафаил_Шлїомович">Рафаилом
-          Шломовичем</persName></title>
-        <author>
-          <persName>?</persName>
-        </author>
+        <author><persName>?</persName></author>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -30,6 +24,9 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>Содержание бумаг привезенных из <placeName ref="Видзы">Видзы</placeName> с Жидом <persName
+        ref="Рафаил_Шлїомович">Рафаилом
+        Шломовичем</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
