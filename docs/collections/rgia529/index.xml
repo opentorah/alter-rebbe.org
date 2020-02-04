@@ -21,9 +21,12 @@
   <text>
     <body>
       <head>
-        <title>Прошения на высочайшее имя и дела докладчиков. Имеется внутренняя опись N 1743 ч. I , кол.листов 121</title>
+        <title>Прошения на высочайшее имя и дела докладчиков</title>
       </head>
-      Письмо Эстер, жены Меира Рафаловича, с жалобой на виленскую общину, оклеветавшую ее мужа и других хасидов. Документы общины, связанные с жалобой.
+      Письмо
+      <persName ref="Эстер_Рафалович">Эстер</persName>, жены
+      <persName ref="Меіер_Рафалович">Меира Рафаловича</persName>, с жалобой на виленскую общину, оклеветавшую ее мужа и других хасидов. Документы общины, связанные с жалобой.
+      <p>В описании дела написано: имеется внутренняя опись N 1743 ч. I , кол.листов 121</p>
       <p>
         Российский государственный исторический архив -
         <ref target="http://www.fgurgia.ru/#!">РГИА</ref>,
@@ -55,7 +58,12 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Письмо Эстер, жены реб Меира императору</p>
+            <p>
+              Письмо
+              <persName ref="Эстер_Рафалович">Эстер</persName>, жены
+              <persName ref="Меіер_Рафалович">реб Меира Рафаловича</persName>
+              <persName ref="Павел_I">императору Павлу I</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
@@ -78,12 +86,12 @@
         </row>
         <row>
           <cell rendition="description">
-            <p>Письмо виленского кагала</p>
+            <p>Журнал виленского кагала</p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author">?</cell>
           <cell rendition="addressee"></cell>
-          <cell rendition="language">ru</cell>
+          <cell rendition="language">pl</cell>
           <cell rendition="document">
             <ref target="documents/074.html" role="documentViewer">074</ref>
           </cell>
