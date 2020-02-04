@@ -7,6 +7,7 @@
         <author>
           <persName>?</persName>
         </author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -27,11 +28,43 @@
         <language ident="pl"/>
       </langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+        <abstract><p>Перевод с польского на русский язык фрагмента письма <orgName ref="виленский_кагал">виленского кагала</orgName> <placeName ref="Видзы">видзенскому</placeName> кагалу - см. http://www.alter-rebbe.org/collections/rgada/documents/158.html, а также http://www.alter-rebbe.org/collections/rgada/documents/054.html и http://www.alter-rebbe.org/collections/rgada/documents/054.html</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl">
     <body>
       <pb xml:id="p159-1" n="159-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/159-1.jpg"/>
+      <fw type="docNum">№ 27.</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">160</del></fw>
+      <fw type="pageNum" place="right">159</fw>
+      <fw type="note" place="right">переводъ</fw>
+      <row>
+   <cell>
+<p><note place="end">текст по-польски</note>
+ </p>
+</cell>
+<cell>
+<p>
+<l>владѣющій цѣлымъ свѣтомъ</l>
+<l>да возвыситъ славу и число</l>
+<l>Израильскаго народа! Кагальнымъ</l>
+<l>старшинамъ мѣстечка <placeName ref="Видзы">Видзы</placeName></l>
+<l>съ цѣлымъ поветомъ</l>
+ </p>
+</cell>
+</row>
+<row>
+  <cell>
+<p><note place="end">текст по-польски</note>
+ </p>
+</cell>
+<cell>
+<p>
+<l>Севодни пишемъ мы въ краткихъ</l>
+<l>и въ пространныхъ изреченіяхъ</l>
+ </p>
+</cell>
+</row>
     </body>
   </text>
 </TEI>
