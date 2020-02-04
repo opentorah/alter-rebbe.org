@@ -22,7 +22,14 @@
     <body>
       <person xml:id="Эстер_Рафалович" role="jew">
         <persName>ЈЭстер, жена Меира Рафаловича</persName>
-       </person>
+        <p rendition="mentions">
+          <ref target="/names.html#Эстер_Рафалович" role="namesViewer">[...]</ref>
+          <l>
+            РГИА 529:
+            <ref target="/collections/rgia529/documents/071.html" role="documentViewer">071</ref>
+          </l>
+        </p>
+      </person>
     </body>
   </text>
 </TEI>
