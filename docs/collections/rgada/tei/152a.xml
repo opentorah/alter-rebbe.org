@@ -4,10 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Бумаги <persName ref="Нохим_Ицкович">Нохума Ицковича</persName></title>
-        <author>
-          <persName>?</persName>
-        </author>
+        <author><persName>?</persName></author>
         <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
@@ -27,7 +24,7 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Заставка: Бумаги Нохума Ицковича</p></abstract>
+      <abstract><p>Заставка: Бумаги <persName ref="Нохим_Ицкович">Нохума Ицковича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
