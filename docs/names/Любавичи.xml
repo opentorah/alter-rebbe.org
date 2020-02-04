@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <place xml:id="Любавичи">
+        <placeName>Любавичи</placeName>
+        <ref target="https://ru.wikipedia.org/wiki/Любавичи_(Руднянский_район)">[Википедия]</ref>
+        <p rendition="mentions">
+          <ref target="/names.html#Любавичи" role="namesViewer">[...]</ref>
+        </p>
+      </place>
+    </body>
+  </text>
+</TEI>
