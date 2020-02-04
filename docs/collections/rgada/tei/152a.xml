@@ -27,7 +27,7 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Заставка: Бумаги Нохума Ицковича</p></abstract>
+      <abstract><p>Титульный лист раздела: Бумаги Нохума Ицковича</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -35,7 +35,7 @@
       <pb xml:id="p152a-1" n="152a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/152a-1.jpg"/>
       <fw type="pageNum">152а</fw>
       <fw type="docNum">№ 25.</fw>
-      <p>бумаги <persName ref="Нохим_Ицкович">Нохима ицковича</persName>.</p>
+      <p><l>бумаги</l> <l><persName ref="Нохим_Ицкович">Нохима ицковича</persName>.</l></p>
     </body>
   </text>
 </TEI>
