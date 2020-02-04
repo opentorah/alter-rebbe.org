@@ -1732,9 +1732,7 @@
             </p>
           </cell>
           <cell rendition="date"></cell>
-          <cell rendition="author">
-            <persName ref="Нохим_Ицкович">Нохим Ицкович</persName>
-          </cell>
+          <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -2087,9 +2085,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Михель_Файбишович">Михеля Файбишовича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Михель_Файбишович">Михеля Файбишовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
@@ -2145,7 +2144,6 @@
             <ref target="documents/113.html#p113-1" role="documentViewer" rendition="page">113</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>,
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
@@ -2301,9 +2299,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Леизер_Нотолевич">Лейзера Нотолевича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Леизер_Нотолевич">Лейзера Нотолевича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
@@ -2343,9 +2342,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Борух_Мордухович">Боруха Мордуховича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Борух_Мордухович">Боруха Мордуховича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
@@ -2444,7 +2444,8 @@
             <ref target="documents/127.html#p127-1" role="documentViewer" rendition="page">127</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
@@ -2470,9 +2471,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Хлїовна_Зорухович">Хлиовна Боруховича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Хлїовна_Зорухович">Хлиовна Боруховича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
@@ -2512,9 +2514,10 @@
         </row>
         <row>
           <cell rendition="description">
-            Допрос жида
-            <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName>
-            (перевод)
+            <p>
+              Перевод с польского языка протокола допроса
+              <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName>
+            </p>
           </cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
