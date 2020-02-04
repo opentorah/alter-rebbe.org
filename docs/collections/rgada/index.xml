@@ -2992,7 +2992,17 @@
           <cell rendition="transcriber"></cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
+          <cell rendition="description">
+            <p>
+              Показания губернского секретаря
+              <persName ref="Козминский">Козминского</persName>
+              о частично выполненном им переводе письма
+              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              к
+              <placeName ref="Видзы">видзенскому</placeName>
+              кагалу
+            </p>
+          </cell>
           <cell rendition="date">1798-10-16</cell>
           <cell rendition="author">
             <persName ref="Козминский">Козминский</persName>
@@ -3006,7 +3016,8 @@
             <ref target="documents/158.html#p158-1" role="documentViewer" rendition="page">158</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
