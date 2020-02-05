@@ -4239,11 +4239,12 @@
         <row>
           <cell rendition="description">
             <p>
-              Щет отправленных от
-              <placeName ref="Видзы">Видзенских</placeName>
-              <orgName ref="Хасиды">Каролинов</orgName>
-              денег в святейшую землю или
-              <placeName ref="Палестина">Палестину</placeName>, в город Тверь и Цфас, и именно кому
+              Реестр денежных средств, отправленных
+              <orgName ref="Хасиды">хасидами</orgName>
+              <placeName ref="Видзы">Видз</placeName>
+              в
+              <placeName ref="Палестина">Палестину</placeName>
+              с указанием получателей
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -4259,7 +4260,9 @@
             <ref target="documents/233.html#p233-1" role="documentViewer" rendition="page">233</ref>
             <ref target="documents/233.html#p233-2" role="documentViewer" rendition="missing-page">233об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description">
