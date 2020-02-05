@@ -3049,8 +3049,10 @@
         <row>
           <cell rendition="description">
             <p>
-              Заставка: Росписки въ денгахъ пересланных въ
-              <placeName ref="Иерусалим">Јерусалимъ</placeName>
+              Титульный лист раздела: Расписки о деньгах, пересланных
+              <orgName ref="Хасиды">хасидами</orgName>
+              в
+              <placeName ref="Иерусалим">Иерусалим</placeName>
             </p>
           </cell>
           <cell rendition="date"></cell>
@@ -3066,7 +3068,8 @@
             <ref target="documents/160.html#p160-1" role="documentViewer" rendition="page">160</ref>
           </cell>
           <cell rendition="transcriber">
-            <persName ref="IL">Илья Лурье</persName>
+            <persName ref="IL">Илья Лурье</persName>,
+            <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
         <row>
