@@ -1,0 +1,33 @@
+plugins {
+    id 'scala'
+    id 'application'
+}
+
+description = 'Archive Collector'
+
+dependencies {
+    implementation "org.scala-lang:scala-library:$scalaVersion"
+    implementation "org.scala-lang.modules:scala-xml_$scalaVersionMajor:$scalaXmlVersion"
+
+    implementation "org.http4s:http4s-dsl_$scalaVersionMajor:$http4sVersion"
+    implementation "org.http4s:http4s-blaze-server_$scalaVersionMajor:$http4sVersion"
+    implementation "org.http4s:http4s-blaze-client_$scalaVersionMajor:$http4sVersion"
+
+    runtimeOnly "org.slf4j:slf4j-jdk14:$slf4jVersion"
+}
+
+mainClassName = 'org.digitaljudaica.collector.Service'
+
+//final File dockerDir = file("$buildDir/docker/")
+//
+//task prepareDockerContext {
+//    group = "docker"
+//    dependsOn installDist
+//
+//    doLast {
+//        copy { from "$installDist.destinationDir/lib" into "$dockerDir/project-libs" include "**/org.podval.*" }
+//        copy { from "$installDist.destinationDir/lib" into "$dockerDir/dependencies" exclude "**/org.podval.*" }
+//        copy { from "$installDist.destinationDir/bin" into "$dockerDir/bin" }
+//        copy { from "$projectDir/Dockerfile" into dockerDir }
+//    }
+//}
