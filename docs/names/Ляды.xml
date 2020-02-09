@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <place xml:id="Ляды">
+        <placeName>Ляды</placeName>
+        <p rendition="mentions">
+          <ref target="/names.html#Ляды" role="namesViewer">[...]</ref>
+          <l>
+            РГИА 119:
+            <ref target="/collections/rgia119/documents/244.html" role="documentViewer">244</ref>
+            <ref target="/collections/rgia119/documents/246.html" role="documentViewer">246</ref>
+          </l>
+        </p>
+      </place>
+    </body>
+  </text>
+</TEI>
