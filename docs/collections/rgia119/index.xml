@@ -115,8 +115,10 @@
         </row>
         <row>
           <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
+          <cell rendition="date">1814-06-??</cell>
+          <cell rendition="author">
+            <persName ref="ребицен_Штерна">Штерна Лейбовна</persName>
+          </cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
           <cell rendition="document">
@@ -128,7 +130,9 @@
             <ref target="documents/246.html#p247-1" role="documentViewer" rendition="page">247</ref>
             <ref target="documents/246.html#p247-2" role="documentViewer" rendition="missing-page">247об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
         <row>
           <cell rendition="description"></cell>
