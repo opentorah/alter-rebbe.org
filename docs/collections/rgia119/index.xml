@@ -144,8 +144,14 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Открытый лист, выданный
+              <persName ref="alter-rebbe">Шнеуру Залману</persName>
+              и членам его семьи для проезда по внутренним губерниям России с отметками местных органов власти по пути следования
+            </p>
+          </cell>
+          <cell rendition="date">1812-08-12</cell>
           <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
           <cell rendition="language">ru</cell>
@@ -158,7 +164,9 @@
             <ref target="documents/248.html#p249-1" role="documentViewer" rendition="page">249</ref>
             <ref target="documents/248.html#p249-2" role="documentViewer" rendition="page">249об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber">
+            <persName ref="VK">Василий Когаловский</persName>
+          </cell>
         </row>
       </table>
       <p>Отсутствуют фотографии 3 страниц: 245об 247об 248</p>
