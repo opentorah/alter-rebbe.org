@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <person>
-    <persName>Александр Вюртембергский</persName>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+                Creative Commons Attribution 4.0 International License
+              </ref>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="Александр_Вюртембергский">
+        <persName>Александр Вюртембергский</persName>
+        <p rendition="mentions">
+          <ref target="/names.html#Александр_Вюртембергский" role="namesViewer">[...]</ref>
+        </p>
       </person>
+    </body>
+  </text>
+</TEI>
