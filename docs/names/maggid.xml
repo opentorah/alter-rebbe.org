@@ -1,63 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<publicationStmt>
-				<publisher>
-					<ptr target="www.alter-rebbe.org"/>
-				</publisher>
-				<availability status="free">
-					<licence>
-						<ab>
-							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <publicationStmt>
+        <publisher>
+          <ptr target="www.alter-rebbe.org"/>
+        </publisher>
+        <availability status="free">
+          <licence>
+            <ab>
+              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
                 Creative Commons Attribution 4.0 International License
               </ref>
-						</ab>
-					</licence>
-				</availability>
-			</publicationStmt>
-		</fileDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<person xml:id="maggid" role="jew">
-				<persName>Дов-Бер из Межерича</persName>
-				<persName>Берел из Межерича</persName>
-				<persName>Бер из Межерича</persName>
-				<persName>рабин межирицкий Берк</persName>
-				<persName>Берк мезерицкий</persName>
-				<persName>рабин Берка</persName>
-				<persName>Магид</persName>
-				<ref target="https://ru.wikipedia.org/wiki/Дов-Бер_из_Межерича">[Википедия]</ref>
-				<ref target="https://eleven.co.il/judaism-trends/hasidism/11450">[Электронная_еврейская_энциклопедия]</ref>
-				<ref target="http://www.ejwiki.org/wiki/Дов-Бер_из_Межерича">[ЕжеВиКа_Еврейская_Вики-энциклопедия]</ref>
-				<p>известен также как Магид из Межерича, 1704—1772 — второй лидер хасидского движения, преемник основателя хасидизма Ба‘ал-Шем-Това (Бешта)</p>
-				<p rendition="mentions">
-					<ref target="/names.html#maggid" role="namesViewer">[...]</ref>
-					<l>
+            </ab>
+          </licence>
+        </availability>
+      </publicationStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <person xml:id="maggid" role="jew">
+        <persName>Дов-Бер из Межерича</persName>
+        <persName>Берел из Межерича</persName>
+        <persName>Бер из Межерича</persName>
+        <persName>рабин межирицкий Берк</persName>
+        <persName>Берк мезерицкий</persName>
+        <persName>рабин Берка</persName>
+        <persName>Магид</persName>
+        <ref target="https://ru.wikipedia.org/wiki/Дов-Бер_из_Межерича">[Википедия]</ref>
+        <ref target="https://eleven.co.il/judaism-trends/hasidism/11450">[Электронная_еврейская_энциклопедия]</ref>
+        <ref target="http://www.ejwiki.org/wiki/Дов-Бер_из_Межерича">[ЕжеВиКа_Еврейская_Вики-энциклопедия]</ref>
+        <p>
+          известен также как Магид из Межерича, 1704—1772 — второй лидер хасидского движения, преемник основателя хасидизма Ба‘ал-Шем-Това (Бешта)
+        </p>
+        <p rendition="mentions">
+          <ref target="/names.html#maggid" role="namesViewer">[...]</ref>
+          <l>
             Дубнов:
-            
-						<ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-						<ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
-						<ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
-					</l>
-					<l>
+            <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+            <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
+            <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
+          </l>
+          <l>
             РГАДА 3140:
-            
-						<ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
-						<ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
-						<ref target="/collections/rgada/documents/282.html" role="documentViewer">282</ref>
-						<ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
-						<ref target="/collections/rgada/documents/289.html" role="documentViewer">289</ref>
-					</l>
-					<l>
+            <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
+            <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
+            <ref target="/collections/rgada/documents/282.html" role="documentViewer">282</ref>
+            <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
+            <ref target="/collections/rgada/documents/289.html" role="documentViewer">289</ref>
+          </l>
+          <l>
             РГИА 2213:
-            
-						<ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-					</l>
-				</p>
-			</person>
-		</body>
-	</text>
+            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+          </l>
+        </p>
+      </person>
+    </body>
+  </text>
 </TEI>
