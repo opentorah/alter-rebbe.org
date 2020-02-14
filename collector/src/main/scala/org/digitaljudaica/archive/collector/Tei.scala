@@ -1,9 +1,9 @@
 package org.digitaljudaica.archive.collector
 
 import java.io.File
-
+import org.digitaljudaica.xml.Ops._
+import org.digitaljudaica.xml.From
 import scala.xml.{Elem, Node}
-import Xml.Ops
 
 class Tei(val tei: Elem) {
   tei.check(Tei.topElement)
@@ -34,7 +34,7 @@ object Tei {
   val topElement: String = "TEI"
 
   def load(directory: File, fileName: String): Tei =
-    new Tei(Xml.load(directory, fileName).check(topElement))
+    new Tei(From.file(directory, fileName).loadDo.check(topElement))
 
   def tei(head: Option[Node], content: Seq[Node]): Elem =
     <TEI xmlns="http://www.tei-c.org/ns/1.0">

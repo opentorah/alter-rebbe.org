@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+  <name lang="en" n="RGIA"/>
+  <name lang="ru" n="РГИА"/>
+  <by n="фонд">
+    <store n="1309">
+      <by selector="опись">
+        <store n="1">
+          <by n="дело">
+            <store n="119">
+              <by n="документ">
+                <texts url="collections/rgia119/tei"/>
+              </by>
+            </store>
+          </by>
+        </store>
+      </by>
+    </store>
+    <store n="1347">
+      <by n="опись">
+        <store>
+          <name lang="ru" n="64 ч I"/>
+          <by n="дело">
+            <store name="413">
+              <by n="документ">
+                <texts url="collections/rgia413/tei"/>
+              </by>
+            </store>
+          </by>
+        </store>
+      </by>
+    </store>
+  </by>
+</store>

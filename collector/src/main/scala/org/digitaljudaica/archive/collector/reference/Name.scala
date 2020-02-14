@@ -1,7 +1,7 @@
-package org.digitaljudaica.archive.collector
+package org.digitaljudaica.archive.collector.reference
 
+import org.digitaljudaica.xml.Ops._
 import scala.xml.Elem
-import Xml.Ops
 
 final class Name(
   entity: Entity,

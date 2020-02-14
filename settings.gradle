@@ -9,3 +9,10 @@ rootProject.name = 'archive'
 
 include 'collector'
 include 'docs'
+include 'service'
+
+//includeBuild ('../../digitaljudaica.org') {
+//    dependencySubstitution {
+//        substitute module('org.digitaljudaica:org.digitaljudaica-store') with project(':store')
+//    }
+//}
