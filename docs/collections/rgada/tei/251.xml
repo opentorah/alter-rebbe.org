@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-  xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,18 +25,18 @@
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <creation>
-                <date when="1800-09-18">18 сентября 1800</date>
-            </creation>
-            <abstract>
-                <p>Рапорт <persName ref="Хрущов">Хрущова</persName>
-                    <persName ref="Обольянинов">Обольянинову</persName> со сведениями о <orgName ref="Хасиды">
-                    хасидах</orgName>, полученными в ходе поездки по <placeName ref="Белоруссия">Белоруссии</placeName> </p>
-            </abstract>
-            <correspDesc>
-                <correspAction>
-                    <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-                </correspAction>
-            </correspDesc>
+        <date when="1800-09-18">18 сентября 1800</date>
+      </creation>
+      <abstract>
+        <p>Рапорт <persName ref="Хрущов">Хрущова</persName>
+          <persName ref="Обольянинов">Обольянинову</persName> со сведениями о <orgName ref="Хасиды">
+            хасидах</orgName>, полученными в ходе поездки по <placeName ref="Белоруссия">Белоруссии</placeName> </p>
+      </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>
@@ -87,9 +86,9 @@
         <l>оныхъ хоседовъ полагаютъ третья или четвертая</l>
         <l>часть изъ жителствующихъ въ <placeName ref="Белоруссия">белоруссии</placeName> или техъ</l>
       </p>
-      <pb xml:id="p251-2" n="251-2"/>
-      <pb xml:id="p252-1" n="252-1"/>
-      <pb xml:id="p252-2" n="252-2"/>
+      <pb xml:id="p251-2" n="251-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/251-2.jpg"/>
+      <pb xml:id="p252-1" n="252-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/252-1.jpg"/>
+      <pb xml:id="p252-2" n="252-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/252-2.jpg"/>
     </body>
   </text>
 </TEI>

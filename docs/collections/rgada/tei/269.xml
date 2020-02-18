@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -40,9 +39,7 @@
 			<pb xml:id="p269-1" n="269-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/269-1.jpg"/>
 			<fw type="pageNum" place="right"><del rend="overstrike">273</del></fw>
 			<fw type="pageNum" place="right">269</fw>
-			<salute>
-				<l>Милостивый государь мой!</l>
-			</salute>
+			<salute><l>Милостивый государь мой!</l></salute>
 			<p>
 				<l>По высочайшему его император-</l>
 				<l>скаго величества повелѣнію сообщаю</l>
@@ -50,11 +47,8 @@
 				<l>во вверенной вамъ губерніи имѣли са-</l>
 				<l>мымъ тайнымъ образомъ неослабное</l>
 				<l>за повѣденіемъ и поступками Старо</l>
-				<l>обрядцевъ*
-					<fw type="note" place="left margin">*
-						<orgName ref="Хасиды">Каролинской Секты Евреевъ</orgName>
-					</fw> наблюденіе, и въ случаѣ
-				</l>
+				<l>обрядцевъ* <fw type="note" place="left margin">*
+						<orgName ref="Хасиды">Каролинской Секты Евреевъ</orgName></fw> наблюденіе, и въ случаѣ</l>
 				<l>малѣйше замѣченнаго какого-либо</l>
 				<l>поводу къ соблазну или неповиновенію</l>
 				<l>власти меня неукоснительно о томъ</l>
@@ -66,28 +60,22 @@
 			</p>
 			<closer place="left">
 				<l><fw type="docNum">№ 826<hi rend="superscript">й</hi></fw></l>
-				<l>
-					<date when="1800-11-01">Ноября 1 дня<lb/>
-						1800</date>
-				</l>
-				<l>
-					<persName ref="Фризель">Фризелю</persName><lb/>
-					<placeName ref="Литва">Литовскому</placeName>.
-				</l>
+				<l><date when="1800-11-01">Ноября 1 дня<lb/>
+						1800</date></l>
+				<l><persName ref="Фризель">Фризелю</persName><lb/>
+					<placeName ref="Литва">Литовскому</placeName>.</l>
 			</closer>
 			<p>
 				<l>Еще таковые же о <orgName ref="Хасиды"><emph rend="underline">Каролинахъ</emph></orgName>. Граждан-<lb/>
 					скимъ Губернаторамъ</l>
-				<l>
-					<placeName ref="Минская_губерния">Минскому</placeName>
-					<persName ref="Карнеевъ">Карнѣеву</persName> подъ № 827<hi rend="superscript">м</hi>
-				</l>
+				<l><placeName ref="Минская_губерния">Минскому</placeName>
+					<persName ref="Карнеевъ">Карнѣеву</persName> подъ № 827<hi rend="superscript">м</hi></l>
 				<l><placeName ref="Волынская_губерния">Волынскому</placeName> Курису__________828</l>
 				<l>Кіевскому Коробьину________824</l>
 				<l><placeName ref="Подольская_губерния">Подольскому</placeName> Тензену________830</l>
 				<l>Новороссійскому <sic>Nиколеву</sic>___831 P.S.</l>
 				<l>Малороссійскому Френздорфу__832</l>
-				<pb xml:id="p269-2" n="269-2"/>
+				<pb xml:id="p269-2" n="269-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/269-2.jpg"/>
 				<pb xml:id="p270-1" n="270-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/270-1.jpg"/>
 				<fw type="pageNum" place="right">270</fw>
 				<fw type="pageNum" place="right"><del rend="overstrike">274</del></fw>
@@ -99,9 +87,7 @@
 				<l>Оренбургскому Глазенапу____________________851</l>
 				<l>Орловскому Вульфу_________________________852</l>
 				<l>Псковскому Беклешову<note place="end">однофамилец или родственник отправленного в 1800 г. в отставку
-						<persName ref="Беклешов">генерал-прокурора</persName>
-					</note>______________________853
-				</l>
+					<persName ref="Беклешов">генерал-прокурора</persName></note>______________________853</l>
 				<l>Пермскому Модераху________________________854</l>
 				<l>Рязанскому Сонину_________________________855</l>
 				<l>С.п. бургскому Хотяинцову_________________856</l>
@@ -113,10 +99,9 @@
 				<l>Тульскому Томилову________________________862</l>
 				<l>Тамбовскому Бахметеву_____________________863</l>
 				<l>Тамбовскому Кошелеву______________________864</l>
-				<l>Ярославскому Аксакову_____________________865<hi rend="superscript">м</hi>
-				</l>
+				<l>Ярославскому Аксакову_____________________865<hi rend="superscript">м</hi></l>
 			</p>
-			<pb xml:id="p270-2" n="270-2"/>
+			<pb xml:id="p270-2" n="270-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/270-2.jpg"/>
 			<fw type="pageNum" place="right">271</fw>
 			<pb xml:id="p271-1" n="271-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/271-1.jpg"/>
 			<p>
@@ -140,9 +125,9 @@
 				<l>о таковыхъ, ни отпуска имъ не</l>
 				<l>дѢлать.</l>
 			</p>
-			<pb xml:id="p271-2" n="271-2"/>
 			<fw type="pageNum" place="right"><del rend="overstrike">274</del></fw>
 			<fw type="pageNum" place="right"><del rend="overstrike">275</del></fw>
+			<pb xml:id="p271-2" n="271-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/271-2.jpg"/>
 		</body>
 	</text>
 </TEI>

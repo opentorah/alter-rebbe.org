@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -105,7 +104,7 @@
 			<l>самъ его и по слѣдствiю найдено,</l>
 			<l>что <orgName ref="Хасиды">секта</orgName> сiя нечто иное есть</l>
 			<l>какъ старинный обрядъ Шадимского</l>
-			<pb xml:id="p257-2" n="257-2"/>
+			<pb xml:id="p257-2" n="257-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/257-2.jpg"/>
 			<pb xml:id="p258-1" n="258-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/258-1.jpg"/>
 			<fw type="pageNum" place="right">258</fw>
 			<fw type="pageNum" place="right">
@@ -140,7 +139,7 @@
 			<l>себя спокойно, и всѣ Государст-</l>
 			<l>венныя подати платятъ равно</l>
 			<l>съ другими. 2.<hi rend="superscript">е</hi> что по отрѣшенiи</l>
-			<pb xml:id="p258-2" n="258-2"/>
+			<pb xml:id="p258-2" n="258-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/258-2.jpg"/>
 		</body>
 	</text>
 </TEI>
