@@ -23,9 +23,16 @@
       <person xml:id="Мовша_Јосіеліович" role="jew">
         <persName>Мовша Иосиелиович</persName>
         <persName>Мовша Јосіеліович</persName>
-        <p>Отец Иоселя Мовшовича http://www.alter-rebbe.org/names/Иосель_Мовшович.html</p>
+        <p>
+          Отец
+          <persName ref="Иосель_Мовшович">Иоселя Мовшовича</persName>
+        </p>
         <p rendition="mentions">
           <ref target="/names.html#Мовша_Јосіеліович" role="namesViewer">[...]</ref>
+          <l>
+            Имена:
+            <ref target="/names/Иосель_Мовшович.html" role="namesViewer">Иосель Мовшович</ref>
+          </l>
           <l>
             РГАДА 3140:
             <ref target="/collections/rgada/documents/047.html" role="documentViewer">047</ref>
