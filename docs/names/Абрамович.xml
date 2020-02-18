@@ -22,9 +22,16 @@
     <body>
       <person xml:id="Абрамович" role="jew">
         <persName>Абрамович</persName>
-        <p>Имя неизвестно. Виленский хасид. Тесть Ицки Абрамовича http://www.alter-rebbe.org/names/Ицка.html</p>
+        <p>
+          Имя неизвестно. Виленский хасид. Тесть
+          <persName ref="Ицка">Ицки Абрамовича</persName>
+        </p>
         <p rendition="mentions">
           <ref target="/names.html#Абрамович" role="namesViewer">[...]</ref>
+          <l>
+            Имена:
+            <ref target="/names/Ицка.html" role="namesViewer">Ицка Абрамович</ref>
+          </l>
           <l>
             РГАДА 3140:
             <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>

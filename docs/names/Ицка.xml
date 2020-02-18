@@ -24,10 +24,18 @@
         <persName>Ицка Абрамович</persName>
         <persName>Ицка</persName>
         <p>
-          житель Вильно, хасид, зять портного Абрамовича http://www.alter-rebbe.org/names/Абрамович.html, дом И. А. в 1797 г. был молитвенным домом хасидской общины города
+          житель
+          <placeName ref="Вильно">Вильно</placeName>, хасид, зять портного
+          <persName ref="Абрамович">Абрамовича</persName>, дом И. А. в 1797 г. был молитвенным домом
+          <orgName ref="Хасиды">хасидской общины</orgName>
+          города
         </p>
         <p rendition="mentions">
           <ref target="/names.html#Ицка" role="namesViewer">[...]</ref>
+          <l>
+            Имена:
+            <ref target="/names/Абрамович.html" role="namesViewer">Абрамович</ref>
+          </l>
           <l>
             РГАДА 3140:
             <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>

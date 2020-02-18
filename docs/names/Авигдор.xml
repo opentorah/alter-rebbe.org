@@ -28,10 +28,22 @@
         <persName>Абикдор</persName>
         <persName>Абикдар Хаймович</persName>
         <p>
-          обер-рабин Пинска и ряда других городов Белоруссии, отстраненный от исполнения обязанностей хасидами Пинска; автор поданной на высочайшее имя жалобы на хасидов и Шнеура Залмана http://www.alter-rebbe.org/names/alter-rebbe.html, послужившей причиной следственного дела, сын Хаима http://www.alter-rebbe.org/names/Хаим_Рабин.html - рабина г. Калиша
+          обер-рабин
+          <placeName ref="Пинск">Пинска</placeName>
+          и ряда других городов
+          <placeName ref="Белоруссия">Белоруссии</placeName>, отстраненный от исполнения обязанностей
+          <orgName ref="Хасиды">хасидами</orgName>
+          <placeName ref="Пинск">Пинска</placeName>; автор поданной на высочайшее имя жалобы на хасидов и
+          <persName ref="alter-rebbe">Шнеура Залмана</persName>, послужившей причиной следственного дела, сын
+          <persName ref="Хаим_Рабин">Хаима</persName>
+          - рабина г. Калиша
         </p>
         <p rendition="mentions">
           <ref target="/names.html#Авигдор" role="namesViewer">[...]</ref>
+          <l>
+            Имена:
+            <ref target="/names/Хаим_Рабин.html" role="namesViewer">Хаим</ref>
+          </l>
           <l>
             Дубнов:
             <ref target="/collections/dubnov/documents/084.html" role="documentViewer">084</ref>
