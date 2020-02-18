@@ -21,7 +21,12 @@
   <text>
     <body>
       <person xml:id="Вульф" role="jew">
+        <persName>Вулф</persName>
         <persName>Вульф</persName>
+        <p>
+          в 1798 г. упомянут как виленский хасид, зять
+          <persName ref="Зельман">Зельмана</persName>
+        </p>
         <p rendition="mentions">
           <ref target="/names.html#Вульф" role="namesViewer">[...]</ref>
           <l>
