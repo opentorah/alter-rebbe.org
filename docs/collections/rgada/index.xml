@@ -74,7 +74,7 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description">Страница из описи дел</cell>
+          <cell rendition="description"></cell>
           <cell rendition="date"></cell>
           <cell rendition="author"></cell>
           <cell rendition="addressee"></cell>
@@ -84,10 +84,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
+            <ref target="documents/000.html#p000a-1" role="documentViewer" rendition="page">000a</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="ALD">Арье-Лейб Дубинский</persName>
-          </cell>
+          <cell rendition="transcriber"></cell>
         </row>
         <row>
           <cell cols="8">
@@ -1938,6 +1937,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/103.html#p103-1" role="documentViewer" rendition="page">103</ref>
+            <ref target="documents/103.html#p103-2" role="documentViewer" rendition="page">103об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -1962,6 +1962,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/104.html#p104-1" role="documentViewer" rendition="page">104</ref>
+            <ref target="documents/104.html#p104-2" role="documentViewer" rendition="page">104об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -1981,6 +1982,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/105.html#p105-1" role="documentViewer" rendition="page">105</ref>
+            <ref target="documents/105.html#p105-2" role="documentViewer" rendition="page">105об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2005,6 +2007,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/106.html#p106-1" role="documentViewer" rendition="page">106</ref>
+            <ref target="documents/106.html#p106-2" role="documentViewer" rendition="page">106об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2024,6 +2027,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/107.html#p107-1" role="documentViewer" rendition="page">107</ref>
+            <ref target="documents/107.html#p107-2" role="documentViewer" rendition="page">107об</ref>
             <ref target="documents/107.html#p107-2" role="documentViewer" rendition="page">107об</ref>
           </cell>
           <cell rendition="transcriber">
@@ -2114,6 +2118,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/111.html#p111-1" role="documentViewer" rendition="page">111</ref>
+            <ref target="documents/111.html#p111-2" role="documentViewer" rendition="page">111об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2138,6 +2143,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/112.html#p112-1" role="documentViewer" rendition="page">112</ref>
+            <ref target="documents/112.html#p112-2" role="documentViewer" rendition="page">112об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2157,6 +2163,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/113.html#p113-1" role="documentViewer" rendition="page">113</ref>
+            <ref target="documents/113.html#p113-2" role="documentViewer" rendition="page">113об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2181,6 +2188,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/114.html#p114-1" role="documentViewer" rendition="page">114</ref>
+            <ref target="documents/114.html#p114-2" role="documentViewer" rendition="page">114об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2200,6 +2208,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/115.html#p115-1" role="documentViewer" rendition="page">115</ref>
+            <ref target="documents/115.html#p115-2" role="documentViewer" rendition="page">115об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2224,6 +2233,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/116.html#p116-1" role="documentViewer" rendition="page">116</ref>
+            <ref target="documents/116.html#p116-2" role="documentViewer" rendition="page">116об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2243,6 +2253,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/117.html#p117-1" role="documentViewer" rendition="page">117</ref>
+            <ref target="documents/117.html#p117-2" role="documentViewer" rendition="page">117об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2267,6 +2278,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/118.html#p118-1" role="documentViewer" rendition="page">118</ref>
+            <ref target="documents/118.html#p118-2" role="documentViewer" rendition="page">118об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2288,6 +2300,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/119.html#p119-1" role="documentViewer" rendition="page">119</ref>
+            <ref target="documents/119.html#p119-2" role="documentViewer" rendition="page">119об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2307,6 +2320,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/120.html#p120-1" role="documentViewer" rendition="page">120</ref>
+            <ref target="documents/120.html#p120-2" role="documentViewer" rendition="page">120об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2329,6 +2343,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/121.html#p121-1" role="documentViewer" rendition="page">121</ref>
+            <ref target="documents/121.html#p121-2" role="documentViewer" rendition="page">121об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2353,6 +2368,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/122.html#p122-1" role="documentViewer" rendition="page">122</ref>
+            <ref target="documents/122.html#p122-2" role="documentViewer" rendition="page">122об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2372,6 +2388,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/123.html#p123-1" role="documentViewer" rendition="page">123</ref>
+            <ref target="documents/123.html#p123-2" role="documentViewer" rendition="page">123об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2396,6 +2413,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/124.html#p124-1" role="documentViewer" rendition="page">124</ref>
+            <ref target="documents/124.html#p124-2" role="documentViewer" rendition="page">124об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2415,6 +2433,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/125.html#p125-1" role="documentViewer" rendition="page">125</ref>
+            <ref target="documents/125.html#p125-2" role="documentViewer" rendition="page">125об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2439,6 +2458,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/126.html#p126-1" role="documentViewer" rendition="page">126</ref>
+            <ref target="documents/126.html#p126-2" role="documentViewer" rendition="page">126об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2458,6 +2478,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/127.html#p127-1" role="documentViewer" rendition="page">127</ref>
+            <ref target="documents/127.html#p127-2" role="documentViewer" rendition="page">127об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2482,6 +2503,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/128.html#p128-1" role="documentViewer" rendition="page">128</ref>
+            <ref target="documents/128.html#p128-2" role="documentViewer" rendition="page">128об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2501,6 +2523,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/129.html#p129-1" role="documentViewer" rendition="page">129</ref>
+            <ref target="documents/129.html#p129-2" role="documentViewer" rendition="page">129об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2525,6 +2548,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/130.html#p130-1" role="documentViewer" rendition="page">130</ref>
+            <ref target="documents/130.html#p130-2" role="documentViewer" rendition="page">130об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2587,6 +2611,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/133.html#p133-1" role="documentViewer" rendition="page">133</ref>
+            <ref target="documents/133.html#p133-2" role="documentViewer" rendition="page">133об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -2611,6 +2636,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/134.html#p134-1" role="documentViewer" rendition="page">134</ref>
+            <ref target="documents/134.html#p134-2" role="documentViewer" rendition="page">134об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2672,12 +2698,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/137.html#p137-1" role="documentViewer" rendition="page">137</ref>
+            <ref target="documents/137.html#p137-2" role="documentViewer" rendition="page">137об</ref>
             <ref target="documents/137.html#p138-1" role="documentViewer" rendition="page">138</ref>
-            <ref target="documents/137.html#p139-1" role="documentViewer" rendition="page">139</ref>
-            <ref target="documents/137.html#p140-1" role="documentViewer" rendition="page">140</ref>
-            <ref target="documents/137.html#p141-1" role="documentViewer" rendition="page">141</ref>
-            <ref target="documents/137.html#p142-1" role="documentViewer" rendition="page">142</ref>
-            <ref target="documents/137.html#p143-1" role="documentViewer" rendition="page">143</ref>
+            <ref target="documents/137.html#p143-2" role="documentViewer" rendition="page">143об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2731,6 +2754,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/145.html#p145-1" role="documentViewer" rendition="page">145</ref>
+            <ref target="documents/145.html#p145-2" role="documentViewer" rendition="page">145об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2747,6 +2771,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/146.html#p146-1" role="documentViewer" rendition="page">146</ref>
+            <ref target="documents/146.html#p146-2" role="documentViewer" rendition="page">146об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2761,6 +2786,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/147.html#p147-1" role="documentViewer" rendition="page">147</ref>
+            <ref target="documents/147.html#p147-2" role="documentViewer" rendition="page">147об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2775,6 +2801,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/148.html#p148-1" role="documentViewer" rendition="page">148</ref>
+            <ref target="documents/148.html#p148-2" role="documentViewer" rendition="page">148об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2789,6 +2816,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/148a.html#p148a-1" role="documentViewer" rendition="page">148a</ref>
+            <ref target="documents/148a.html#p148a-2" role="documentViewer" rendition="page">148aоб</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2803,7 +2831,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/149.html#p149-1" role="documentViewer" rendition="page">149</ref>
-            <ref target="documents/149.html#p149-2" role="documentViewer" rendition="missing-page">149об</ref>
+            <ref target="documents/149.html#p149-2" role="documentViewer" rendition="page">149об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2818,6 +2846,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/150.html#p150-1" role="documentViewer" rendition="page">150</ref>
+            <ref target="documents/150.html#p150-2" role="documentViewer" rendition="page">150об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2837,6 +2866,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/150a.html#p150a-1" role="documentViewer" rendition="page">150a</ref>
+            <ref target="documents/150a.html#p150a-2" role="documentViewer" rendition="page">150aоб</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="ALD">Арье-Лейб Дубинский</persName>,
@@ -2854,7 +2884,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/151.html#p151-1" role="documentViewer" rendition="page">151</ref>
-            <ref target="documents/151.html#p151-2" role="documentViewer" rendition="missing-page">151об</ref>
+            <ref target="documents/151.html#p151-2" role="documentViewer" rendition="page">151об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2889,6 +2919,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/152a.html#p152a-1" role="documentViewer" rendition="page">152a</ref>
+            <ref target="documents/152a.html#p152a-2" role="documentViewer" rendition="page">152aоб</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="ALD">Арье-Лейб Дубинский</persName>,
@@ -2906,7 +2937,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/153.html#p153-1" role="documentViewer" rendition="page">153</ref>
-            <ref target="documents/153.html#p153-2" role="documentViewer" rendition="missing-page">153об</ref>
+            <ref target="documents/153.html#p153-2" role="documentViewer" rendition="page">153об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2951,6 +2982,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/156.html#p156-1" role="documentViewer" rendition="page">156</ref>
+            <ref target="documents/156.html#p156-2" role="documentViewer" rendition="page">156об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2965,6 +2997,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/157.html#p157-1" role="documentViewer" rendition="page">157</ref>
+            <ref target="documents/157.html#p157-2" role="documentViewer" rendition="page">157об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -2991,6 +3024,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/158.html#p158-1" role="documentViewer" rendition="page">158</ref>
+            <ref target="documents/158.html#p158-2" role="documentViewer" rendition="page">158об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -3015,6 +3049,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/159.html#p159-1" role="documentViewer" rendition="page">159</ref>
+            <ref target="documents/159.html#p159-2" role="documentViewer" rendition="page">159об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -3038,6 +3073,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/160.html#p160-1" role="documentViewer" rendition="page">160</ref>
+            <ref target="documents/160.html#p160-2" role="documentViewer" rendition="page">160об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -3070,6 +3106,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/162.html#p162-1" role="documentViewer" rendition="page">162</ref>
+            <ref target="documents/162.html#p162-2" role="documentViewer" rendition="page">162об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3084,6 +3121,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/163.html#p163-1" role="documentViewer" rendition="page">163</ref>
+            <ref target="documents/163.html#p163-2" role="documentViewer" rendition="page">163об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3098,6 +3136,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/164.html#p164-1" role="documentViewer" rendition="page">164</ref>
+            <ref target="documents/164.html#p164-2" role="documentViewer" rendition="page">164об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3112,6 +3151,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/165.html#p165-1" role="documentViewer" rendition="page">165</ref>
+            <ref target="documents/165.html#p165-2" role="documentViewer" rendition="page">165об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3126,6 +3166,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/166.html#p166-1" role="documentViewer" rendition="page">166</ref>
+            <ref target="documents/166.html#p166-2" role="documentViewer" rendition="page">166об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3140,6 +3181,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/167.html#p167-1" role="documentViewer" rendition="page">167</ref>
+            <ref target="documents/167.html#p167-2" role="documentViewer" rendition="page">167об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3154,6 +3196,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/168.html#p168-1" role="documentViewer" rendition="page">168</ref>
+            <ref target="documents/168.html#p168-2" role="documentViewer" rendition="page">168об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3168,6 +3211,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/169.html#p169-1" role="documentViewer" rendition="page">169</ref>
+            <ref target="documents/169.html#p169-2" role="documentViewer" rendition="page">169об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3182,6 +3226,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/170.html#p170-1" role="documentViewer" rendition="page">170</ref>
+            <ref target="documents/170.html#p170-2" role="documentViewer" rendition="page">170об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3211,6 +3256,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/172.html#p172-1" role="documentViewer" rendition="page">172</ref>
+            <ref target="documents/172.html#p172-2" role="documentViewer" rendition="page">172об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3225,6 +3271,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/173.html#p173-1" role="documentViewer" rendition="page">173</ref>
+            <ref target="documents/173.html#p173-2" role="documentViewer" rendition="page">173об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3269,6 +3316,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/176.html#p176-1" role="documentViewer" rendition="page">176</ref>
+            <ref target="documents/176.html#p176-2" role="documentViewer" rendition="page">176об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3283,6 +3331,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/177.html#p177-1" role="documentViewer" rendition="page">177</ref>
+            <ref target="documents/177.html#p177-2" role="documentViewer" rendition="page">177об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3297,6 +3346,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/178.html#p178-1" role="documentViewer" rendition="page">178</ref>
+            <ref target="documents/178.html#p178-2" role="documentViewer" rendition="page">178об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3311,7 +3361,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/179.html#p179-1" role="documentViewer" rendition="page">179</ref>
+            <ref target="documents/179.html#p179-2" role="documentViewer" rendition="page">179об</ref>
             <ref target="documents/179.html#p179a-1" role="documentViewer" rendition="page">179a</ref>
+            <ref target="documents/179.html#p179a-2" role="documentViewer" rendition="page">179aоб</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3341,6 +3393,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/181.html#p181-1" role="documentViewer" rendition="page">181</ref>
+            <ref target="documents/181.html#p181-2" role="documentViewer" rendition="page">181об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3355,6 +3408,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/182.html#p182-1" role="documentViewer" rendition="page">182</ref>
+            <ref target="documents/182.html#p182-2" role="documentViewer" rendition="page">182об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3369,6 +3423,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/183.html#p183-1" role="documentViewer" rendition="page">183</ref>
+            <ref target="documents/183.html#p183-2" role="documentViewer" rendition="page">183об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3383,6 +3438,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/184.html#p184-1" role="documentViewer" rendition="page">184</ref>
+            <ref target="documents/184.html#p184-2" role="documentViewer" rendition="page">184об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3397,6 +3453,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/185.html#p185-1" role="documentViewer" rendition="page">185</ref>
+            <ref target="documents/185.html#p185-2" role="documentViewer" rendition="page">185об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3411,6 +3468,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/186.html#p186-1" role="documentViewer" rendition="page">186</ref>
+            <ref target="documents/186.html#p186-2" role="documentViewer" rendition="page">186об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3425,6 +3483,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/187.html#p187-1" role="documentViewer" rendition="page">187</ref>
+            <ref target="documents/187.html#p187-2" role="documentViewer" rendition="page">187об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3439,6 +3498,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/188.html#p188-1" role="documentViewer" rendition="page">188</ref>
+            <ref target="documents/188.html#p188-2" role="documentViewer" rendition="page">188об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3453,6 +3513,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/189.html#p189-1" role="documentViewer" rendition="page">189</ref>
+            <ref target="documents/189.html#p189-2" role="documentViewer" rendition="page">189об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3467,6 +3528,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/190.html#p190-1" role="documentViewer" rendition="page">190</ref>
+            <ref target="documents/190.html#p190-2" role="documentViewer" rendition="page">190об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3481,6 +3543,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/191.html#p191-1" role="documentViewer" rendition="page">191</ref>
+            <ref target="documents/191.html#p191-2" role="documentViewer" rendition="page">191об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3495,6 +3558,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/192.html#p192-1" role="documentViewer" rendition="page">192</ref>
+            <ref target="documents/192.html#p192-2" role="documentViewer" rendition="page">192об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3509,6 +3573,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/193.html#p193-1" role="documentViewer" rendition="page">193</ref>
+            <ref target="documents/193.html#p193-2" role="documentViewer" rendition="page">193об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3523,6 +3588,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/194.html#p194-1" role="documentViewer" rendition="page">194</ref>
+            <ref target="documents/194.html#p194-2" role="documentViewer" rendition="page">194об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3537,6 +3603,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/195.html#p195-1" role="documentViewer" rendition="page">195</ref>
+            <ref target="documents/195.html#p195-2" role="documentViewer" rendition="page">195об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3551,6 +3618,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/196.html#p196-1" role="documentViewer" rendition="page">196</ref>
+            <ref target="documents/196.html#p196-2" role="documentViewer" rendition="page">196об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3565,7 +3633,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/197.html#p197-1" role="documentViewer" rendition="page">197</ref>
-            <ref target="documents/197.html#p197-2" role="documentViewer" rendition="missing-page">197об</ref>
+            <ref target="documents/197.html#p197-2" role="documentViewer" rendition="page">197об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3580,6 +3648,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/198.html#p198-1" role="documentViewer" rendition="page">198</ref>
+            <ref target="documents/198.html#p198-2" role="documentViewer" rendition="page">198об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3594,6 +3663,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/199.html#p199-1" role="documentViewer" rendition="page">199</ref>
+            <ref target="documents/199.html#p199-2" role="documentViewer" rendition="page">199об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3609,6 +3679,7 @@
           <cell rendition="pages">
             <ref target="documents/200.html#p200-1" role="documentViewer" rendition="page">200</ref>
             <ref target="documents/200.html#p200-2" role="documentViewer" rendition="page">200об</ref>
+            <ref target="documents/200.html#p200a-2" role="documentViewer" rendition="page">200aоб</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3623,6 +3694,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/201.html#p201-1" role="documentViewer" rendition="page">201</ref>
+            <ref target="documents/201.html#p201-2" role="documentViewer" rendition="page">201об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3637,6 +3709,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/202.html#p202-1" role="documentViewer" rendition="page">202</ref>
+            <ref target="documents/202.html#p202-2" role="documentViewer" rendition="page">202об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3651,6 +3724,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/203.html#p203-1" role="documentViewer" rendition="page">203</ref>
+            <ref target="documents/203.html#p203-2" role="documentViewer" rendition="page">203об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3665,6 +3739,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/204.html#p204-1" role="documentViewer" rendition="page">204</ref>
+            <ref target="documents/204.html#p204-2" role="documentViewer" rendition="page">204об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3679,6 +3754,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/205.html#p205-1" role="documentViewer" rendition="page">205</ref>
+            <ref target="documents/205.html#p205-2" role="documentViewer" rendition="page">205об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3693,6 +3769,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/206.html#p206-1" role="documentViewer" rendition="page">206</ref>
+            <ref target="documents/206.html#p206-2" role="documentViewer" rendition="page">206об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3707,6 +3784,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/207.html#p207-1" role="documentViewer" rendition="page">207</ref>
+            <ref target="documents/207.html#p207-2" role="documentViewer" rendition="page">207об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3721,6 +3799,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/208.html#p208-1" role="documentViewer" rendition="page">208</ref>
+            <ref target="documents/208.html#p208-2" role="documentViewer" rendition="page">208об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3750,6 +3829,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/210.html#p210-1" role="documentViewer" rendition="page">210</ref>
+            <ref target="documents/210.html#p210-2" role="documentViewer" rendition="page">210об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3764,6 +3844,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/211.html#p211-1" role="documentViewer" rendition="page">211</ref>
+            <ref target="documents/211.html#p211-2" role="documentViewer" rendition="page">211об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3778,6 +3859,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/212.html#p212-1" role="documentViewer" rendition="page">212</ref>
+            <ref target="documents/212.html#p212-2" role="documentViewer" rendition="page">212об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3837,6 +3919,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/216.html#p216-1" role="documentViewer" rendition="page">216</ref>
+            <ref target="documents/216.html#p216-2" role="documentViewer" rendition="page">216об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3896,6 +3979,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/220.html#p220-1" role="documentViewer" rendition="page">220</ref>
+            <ref target="documents/220.html#p220-2" role="documentViewer" rendition="page">220об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3910,6 +3994,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/221.html#p221-1" role="documentViewer" rendition="page">221</ref>
+            <ref target="documents/221.html#p221-2" role="documentViewer" rendition="page">221об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3924,6 +4009,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/222.html#p222-1" role="documentViewer" rendition="page">222</ref>
+            <ref target="documents/222.html#p222-2" role="documentViewer" rendition="page">222об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3938,6 +4024,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/223.html#p223-1" role="documentViewer" rendition="page">223</ref>
+            <ref target="documents/223.html#p223-2" role="documentViewer" rendition="page">223об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3952,6 +4039,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/224.html#p224-1" role="documentViewer" rendition="page">224</ref>
+            <ref target="documents/224.html#p224-2" role="documentViewer" rendition="page">224об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3966,6 +4054,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/225.html#p225-1" role="documentViewer" rendition="page">225</ref>
+            <ref target="documents/225.html#p225-2" role="documentViewer" rendition="page">225об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3980,6 +4069,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/226.html#p226-1" role="documentViewer" rendition="page">226</ref>
+            <ref target="documents/226.html#p226-2" role="documentViewer" rendition="page">226об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -3994,6 +4084,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/227.html#p227-1" role="documentViewer" rendition="page">227</ref>
+            <ref target="documents/227.html#p227-2" role="documentViewer" rendition="page">227об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4008,6 +4099,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/228.html#p228-1" role="documentViewer" rendition="page">228</ref>
+            <ref target="documents/228.html#p228-2" role="documentViewer" rendition="page">228об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4022,6 +4114,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/229.html#p229-1" role="documentViewer" rendition="page">229</ref>
+            <ref target="documents/229.html#p229-2" role="documentViewer" rendition="page">229об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4036,6 +4129,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/230.html#p230-1" role="documentViewer" rendition="page">230</ref>
+            <ref target="documents/230.html#p230-2" role="documentViewer" rendition="page">230об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4050,6 +4144,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/231.html#p231-1" role="documentViewer" rendition="page">231</ref>
+            <ref target="documents/231.html#p231-2" role="documentViewer" rendition="page">231об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4064,6 +4159,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/232.html#p232-1" role="documentViewer" rendition="page">232</ref>
+            <ref target="documents/232.html#p232-2" role="documentViewer" rendition="page">232об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4109,6 +4205,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/234.html#p234-1" role="documentViewer" rendition="page">234</ref>
+            <ref target="documents/234.html#p234-2" role="documentViewer" rendition="page">234об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="ALD">Арье-Лейб Дубинский</persName>,
@@ -4152,6 +4249,7 @@
           <cell rendition="pages">
             <ref target="documents/236.html#p236-1" role="documentViewer" rendition="page">236</ref>
             <ref target="documents/236.html#p236-2" role="documentViewer" rendition="page">236об</ref>
+            <ref target="documents/236.html#p236a-2" role="documentViewer" rendition="page">236aоб</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4166,6 +4264,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/237.html#p237-1" role="documentViewer" rendition="page">237</ref>
+            <ref target="documents/237.html#p237-2" role="documentViewer" rendition="page">237об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4194,6 +4293,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/239.html#p239-1" role="documentViewer" rendition="page">239</ref>
+            <ref target="documents/239.html#p239-2" role="documentViewer" rendition="page">239об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4208,6 +4308,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/240.html#p240-1" role="documentViewer" rendition="page">240</ref>
+            <ref target="documents/240.html#p240-2" role="documentViewer" rendition="page">240об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4222,6 +4323,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/241.html#p241-1" role="documentViewer" rendition="page">241</ref>
+            <ref target="documents/241.html#p241-2" role="documentViewer" rendition="page">241об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4281,6 +4383,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/245.html#p245-1" role="documentViewer" rendition="page">245</ref>
+            <ref target="documents/245.html#p245-2" role="documentViewer" rendition="page">245об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4295,6 +4398,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/246.html#p246-1" role="documentViewer" rendition="page">246</ref>
+            <ref target="documents/246.html#p246-2" role="documentViewer" rendition="page">246об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4309,6 +4413,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/247.html#p247-1" role="documentViewer" rendition="page">247</ref>
+            <ref target="documents/247.html#p247-2" role="documentViewer" rendition="page">247об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -4333,7 +4438,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/248.html#p248-1" role="documentViewer" rendition="page">248</ref>
-            <ref target="documents/248.html#p248-2" role="documentViewer" rendition="missing-page">248об</ref>
+            <ref target="documents/248.html#p248-2" role="documentViewer" rendition="page">248об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -4396,9 +4501,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/251.html#p251-1" role="documentViewer" rendition="page">251</ref>
-            <ref target="documents/251.html#p251-2" role="documentViewer" rendition="missing-page">251об</ref>
-            <ref target="documents/251.html#p252-1" role="documentViewer" rendition="missing-page">252</ref>
-            <ref target="documents/251.html#p252-2" role="documentViewer" rendition="missing-page">252об</ref>
+            <ref target="documents/251.html#p251-2" role="documentViewer" rendition="page">251об</ref>
+            <ref target="documents/251.html#p252-1" role="documentViewer" rendition="page">252</ref>
+            <ref target="documents/251.html#p252-2" role="documentViewer" rendition="page">252об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -4429,6 +4534,7 @@
             <ref target="documents/253.html#p253-1" role="documentViewer" rendition="page">253</ref>
             <ref target="documents/253.html#p253-2" role="documentViewer" rendition="page">253об</ref>
             <ref target="documents/253.html#p254-1" role="documentViewer" rendition="page">254</ref>
+            <ref target="documents/253.html#p254-2" role="documentViewer" rendition="page">254об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4458,6 +4564,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/255.html#p255-1" role="documentViewer" rendition="page">255</ref>
+            <ref target="documents/255.html#p255-2" role="documentViewer" rendition="page">255об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4485,6 +4592,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/256.html#p256-1" role="documentViewer" rendition="page">256</ref>
+            <ref target="documents/256.html#p256-2" role="documentViewer" rendition="page">256об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -4512,9 +4620,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/257.html#p257-1" role="documentViewer" rendition="page">257</ref>
-            <ref target="documents/257.html#p257-2" role="documentViewer" rendition="missing-page">257об</ref>
+            <ref target="documents/257.html#p257-2" role="documentViewer" rendition="page">257об</ref>
             <ref target="documents/257.html#p258-1" role="documentViewer" rendition="page">258</ref>
-            <ref target="documents/257.html#p258-2" role="documentViewer" rendition="missing-page">258об</ref>
+            <ref target="documents/257.html#p258-2" role="documentViewer" rendition="page">258об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4544,7 +4652,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/259.html#p259-1" role="documentViewer" rendition="page">259</ref>
-            <ref target="documents/259.html#p259-2" role="documentViewer" rendition="missing-page">259об</ref>
+            <ref target="documents/259.html#p259-2" role="documentViewer" rendition="page">259об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4574,6 +4682,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/260.html#p260-1" role="documentViewer" rendition="page">260</ref>
+            <ref target="documents/260.html#p260-2" role="documentViewer" rendition="page">260об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4609,8 +4718,9 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/261.html#p261-1" role="documentViewer" rendition="page">261</ref>
-            <ref target="documents/261.html#p261-2" role="documentViewer" rendition="missing-page">261об</ref>
+            <ref target="documents/261.html#p261-2" role="documentViewer" rendition="page">261об</ref>
             <ref target="documents/261.html#p262-1" role="documentViewer" rendition="page">262</ref>
+            <ref target="documents/261.html#p262-2" role="documentViewer" rendition="page">262об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4640,6 +4750,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/263.html#p263-1" role="documentViewer" rendition="page">263</ref>
+            <ref target="documents/263.html#p263-2" role="documentViewer" rendition="page">263об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4666,6 +4777,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/264.html#p264-1" role="documentViewer" rendition="page">264</ref>
+            <ref target="documents/264.html#p264-2" role="documentViewer" rendition="page">264об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4690,6 +4802,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/265.html#p265-1" role="documentViewer" rendition="page">265</ref>
+            <ref target="documents/265.html#p265-2" role="documentViewer" rendition="page">265об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4721,7 +4834,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/266.html#p266-1" role="documentViewer" rendition="page">266</ref>
-            <ref target="documents/266.html#p266-2" role="documentViewer" rendition="missing-page">266об</ref>
+            <ref target="documents/266.html#p266-2" role="documentViewer" rendition="page">266об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4748,6 +4861,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/267.html#p267-1" role="documentViewer" rendition="page">267</ref>
+            <ref target="documents/267.html#p267-2" role="documentViewer" rendition="page">267об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4778,7 +4892,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/268.html#p268-1" role="documentViewer" rendition="page">268</ref>
-            <ref target="documents/268.html#p268-2" role="documentViewer" rendition="missing-page">268об</ref>
+            <ref target="documents/268.html#p268-2" role="documentViewer" rendition="page">268об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4809,11 +4923,11 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/269.html#p269-1" role="documentViewer" rendition="page">269</ref>
-            <ref target="documents/269.html#p269-2" role="documentViewer" rendition="missing-page">269об</ref>
+            <ref target="documents/269.html#p269-2" role="documentViewer" rendition="page">269об</ref>
             <ref target="documents/269.html#p270-1" role="documentViewer" rendition="page">270</ref>
-            <ref target="documents/269.html#p270-2" role="documentViewer" rendition="missing-page">270об</ref>
+            <ref target="documents/269.html#p270-2" role="documentViewer" rendition="page">270об</ref>
             <ref target="documents/269.html#p271-1" role="documentViewer" rendition="page">271</ref>
-            <ref target="documents/269.html#p271-2" role="documentViewer" rendition="missing-page">271об</ref>
+            <ref target="documents/269.html#p271-2" role="documentViewer" rendition="page">271об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4843,7 +4957,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/272.html#p272-1" role="documentViewer" rendition="page">272</ref>
-            <ref target="documents/272.html#p272-2" role="documentViewer" rendition="missing-page">272об</ref>
+            <ref target="documents/272.html#p272-2" role="documentViewer" rendition="page">272об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4863,7 +4977,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/273.html#p273-1" role="documentViewer" rendition="page">273</ref>
-            <ref target="documents/273.html#p273-2" role="documentViewer" rendition="missing-page">273об</ref>
+            <ref target="documents/273.html#p273-2" role="documentViewer" rendition="page">273об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4920,6 +5034,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/275.html#p275-1" role="documentViewer" rendition="page">275</ref>
+            <ref target="documents/275.html#p275-2" role="documentViewer" rendition="page">275об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -4962,6 +5077,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/276.html#p276-1" role="documentViewer" rendition="page">276</ref>
+            <ref target="documents/276.html#p276-2" role="documentViewer" rendition="page">276об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5009,6 +5125,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/278.html#p278-1" role="documentViewer" rendition="page">278</ref>
+            <ref target="documents/278.html#p278-2" role="documentViewer" rendition="page">278об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5038,6 +5155,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/279.html#p279-1" role="documentViewer" rendition="page">279</ref>
+            <ref target="documents/279.html#p279-2" role="documentViewer" rendition="page">279об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5119,13 +5237,13 @@
             <ref target="documents/283.html#p284-1" role="documentViewer" rendition="page">284</ref>
             <ref target="documents/283.html#p284-2" role="documentViewer" rendition="page">284об</ref>
             <ref target="documents/283.html#p285-1" role="documentViewer" rendition="page">285</ref>
-            <ref target="documents/283.html#p285-2" role="documentViewer" rendition="missing-page">285об</ref>
+            <ref target="documents/283.html#p285-2" role="documentViewer" rendition="page">285об</ref>
             <ref target="documents/283.html#p286-1" role="documentViewer" rendition="page">286</ref>
             <ref target="documents/283.html#p286-2" role="documentViewer" rendition="page">286об</ref>
             <ref target="documents/283.html#p287-1" role="documentViewer" rendition="page">287</ref>
             <ref target="documents/283.html#p287-2" role="documentViewer" rendition="page">287об</ref>
             <ref target="documents/283.html#p288-1" role="documentViewer" rendition="page">288</ref>
-            <ref target="documents/283.html#p288-2" role="documentViewer" rendition="missing-page">288об</ref>
+            <ref target="documents/283.html#p288-2" role="documentViewer" rendition="page">288об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5207,7 +5325,7 @@
             <ref target="documents/289.html#p314-1" role="documentViewer" rendition="page">314</ref>
             <ref target="documents/289.html#p314-2" role="documentViewer" rendition="page">314об</ref>
             <ref target="documents/289.html#p315-1" role="documentViewer" rendition="page">315</ref>
-            <ref target="documents/289.html#p315-2" role="documentViewer" rendition="missing-page">315об</ref>
+            <ref target="documents/289.html#p315-2" role="documentViewer" rendition="page">315об</ref>
             <ref target="documents/289.html#p316-1" role="documentViewer" rendition="page">316</ref>
             <ref target="documents/289.html#p316-2" role="documentViewer" rendition="page">316об</ref>
             <ref target="documents/289.html#p317-1" role="documentViewer" rendition="page">317</ref>
@@ -5219,7 +5337,7 @@
             <ref target="documents/289.html#p320-1" role="documentViewer" rendition="page">320</ref>
             <ref target="documents/289.html#p320-2" role="documentViewer" rendition="page">320об</ref>
             <ref target="documents/289.html#p321-1" role="documentViewer" rendition="page">321</ref>
-            <ref target="documents/289.html#p321-2" role="documentViewer" rendition="missing-page">321об</ref>
+            <ref target="documents/289.html#p321-2" role="documentViewer" rendition="page">321об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5251,6 +5369,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/322.html#p322-1" role="documentViewer" rendition="page">322</ref>
+            <ref target="documents/322.html#p322-2" role="documentViewer" rendition="page">322об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5281,6 +5400,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/323.html#p323-1" role="documentViewer" rendition="page">323</ref>
+            <ref target="documents/323.html#p323-2" role="documentViewer" rendition="page">323об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5309,6 +5429,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/324.html#p324-1" role="documentViewer" rendition="page">324</ref>
+            <ref target="documents/324.html#p324-2" role="documentViewer" rendition="page">324об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="IL">Илья Лурье</persName>,
@@ -5377,6 +5498,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/327.html#p327-1" role="documentViewer" rendition="page">327</ref>
+            <ref target="documents/327.html#p327-2" role="documentViewer" rendition="page">327об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5406,6 +5528,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/328.html#p328-1" role="documentViewer" rendition="page">328</ref>
+            <ref target="documents/328.html#p328-2" role="documentViewer" rendition="page">328об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5428,6 +5551,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/329.html#p329-1" role="documentViewer" rendition="page">329</ref>
+            <ref target="documents/329.html#p329-2" role="documentViewer" rendition="page">329об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5457,6 +5581,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/330.html#p330-1" role="documentViewer" rendition="page">330</ref>
+            <ref target="documents/330.html#p330-2" role="documentViewer" rendition="page">330об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5512,6 +5637,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/332.html#p332-1" role="documentViewer" rendition="page">332</ref>
+            <ref target="documents/332.html#p332-2" role="documentViewer" rendition="page">332об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5544,6 +5670,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/333.html#p333-1" role="documentViewer" rendition="page">333</ref>
+            <ref target="documents/333.html#p333-2" role="documentViewer" rendition="page">333об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5572,6 +5699,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/334.html#p334-1" role="documentViewer" rendition="page">334</ref>
+            <ref target="documents/334.html#p334-2" role="documentViewer" rendition="page">334об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5600,6 +5728,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/335.html#p335-1" role="documentViewer" rendition="page">335</ref>
+            <ref target="documents/335.html#p335-2" role="documentViewer" rendition="page">335об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5668,6 +5797,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/339.html#p339-1" role="documentViewer" rendition="page">339</ref>
+            <ref target="documents/339.html#p339-2" role="documentViewer" rendition="page">339об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5684,8 +5814,11 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/340.html#p340-1" role="documentViewer" rendition="page">340</ref>
+            <ref target="documents/340.html#p340-2" role="documentViewer" rendition="page">340об</ref>
             <ref target="documents/340.html#p341-1" role="documentViewer" rendition="page">341</ref>
+            <ref target="documents/340.html#p341-2" role="documentViewer" rendition="page">341об</ref>
             <ref target="documents/340.html#p342-1" role="documentViewer" rendition="page">342</ref>
+            <ref target="documents/340.html#p342-2" role="documentViewer" rendition="page">342об</ref>
           </cell>
           <cell rendition="transcriber"></cell>
         </row>
@@ -5700,11 +5833,15 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/343.html#p343-1" role="documentViewer" rendition="page">343</ref>
+            <ref target="documents/343.html#p343-2" role="documentViewer" rendition="page">343об</ref>
             <ref target="documents/343.html#p344-1" role="documentViewer" rendition="page">344</ref>
             <ref target="documents/343.html#p344-2" role="documentViewer" rendition="page">344об</ref>
             <ref target="documents/343.html#p345-1" role="documentViewer" rendition="page">345</ref>
+            <ref target="documents/343.html#p345-2" role="documentViewer" rendition="page">345об</ref>
             <ref target="documents/343.html#p346-1" role="documentViewer" rendition="page">346</ref>
+            <ref target="documents/343.html#p346-2" role="documentViewer" rendition="page">346об</ref>
             <ref target="documents/343.html#p347-1" role="documentViewer" rendition="page">347</ref>
+            <ref target="documents/343.html#p347-2" role="documentViewer" rendition="page">347об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5733,6 +5870,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/348.html#p348-1" role="documentViewer" rendition="page">348</ref>
+            <ref target="documents/348.html#p348-2" role="documentViewer" rendition="page">348об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="ALD">Рина Заславская</persName>,
@@ -5761,6 +5899,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/349.html#p349-1" role="documentViewer" rendition="page">349</ref>
+            <ref target="documents/349.html#p349-2" role="documentViewer" rendition="page">349об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5815,6 +5954,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/351.html#p351-1" role="documentViewer" rendition="page">351</ref>
+            <ref target="documents/351.html#p351-2" role="documentViewer" rendition="page">351об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5841,6 +5981,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/352.html#p352-1" role="documentViewer" rendition="page">352</ref>
+            <ref target="documents/352.html#p352-2" role="documentViewer" rendition="page">352об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5869,6 +6010,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/353.html#p353-1" role="documentViewer" rendition="page">353</ref>
+            <ref target="documents/353.html#p353-2" role="documentViewer" rendition="page">353об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5901,6 +6043,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/354.html#p354-1" role="documentViewer" rendition="page">354</ref>
+            <ref target="documents/354.html#p354-2" role="documentViewer" rendition="page">354об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -5926,6 +6069,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/355.html#p355-1" role="documentViewer" rendition="page">355</ref>
+            <ref target="documents/355.html#p355-2" role="documentViewer" rendition="page">355об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -6033,6 +6177,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/362.html#p362-1" role="documentViewer" rendition="page">362</ref>
+            <ref target="documents/362.html#p362-2" role="documentViewer" rendition="page">362об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -6095,6 +6240,7 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/364.html#p364-1" role="documentViewer" rendition="page">364</ref>
+            <ref target="documents/364.html#p364-2" role="documentViewer" rendition="page">364об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
@@ -6211,18 +6357,49 @@
           </cell>
           <cell rendition="pages">
             <ref target="documents/368.html#p368-1" role="documentViewer" rendition="page">368</ref>
+            <ref target="documents/368.html#p368-2" role="documentViewer" rendition="page">368об</ref>
           </cell>
           <cell rendition="transcriber">
             <persName ref="VK">Василий Когаловский</persName>
           </cell>
         </row>
+        <row>
+          <cell rendition="description"></cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author"></cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/900.html" role="documentViewer">900</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/900.html#p900-1" role="documentViewer" rendition="page">900</ref>
+            <ref target="documents/900.html#p900-2" role="documentViewer" rendition="page">900об</ref>
+            <ref target="documents/900.html#p901-1" role="documentViewer" rendition="page">901</ref>
+            <ref target="documents/900.html#p901-2" role="documentViewer" rendition="page">901об</ref>
+            <ref target="documents/900.html#p902-1" role="documentViewer" rendition="page">902</ref>
+            <ref target="documents/900.html#p903-1" role="documentViewer" rendition="page">903</ref>
+            <ref target="documents/900.html#p904-1" role="documentViewer" rendition="page">904</ref>
+          </cell>
+          <cell rendition="transcriber"></cell>
+        </row>
+        <row>
+          <cell rendition="description">Страница из описи дел</cell>
+          <cell rendition="date"></cell>
+          <cell rendition="author"></cell>
+          <cell rendition="addressee"></cell>
+          <cell rendition="language">ru</cell>
+          <cell rendition="document">
+            <ref target="documents/905.html" role="documentViewer">905</ref>
+          </cell>
+          <cell rendition="pages">
+            <ref target="documents/905.html#p905-1" role="documentViewer" rendition="page">905</ref>
+          </cell>
+          <cell rendition="transcriber">
+            <persName ref="ALD">Арье-Лейб Дубинский</persName>
+          </cell>
+        </row>
       </table>
-      <p>
-        Отсутствуют фотографии
-        23
-        страниц:
-        149об 151об 153об 197об 248об 251об 252 252об 257об 258об 259об 261об 266об 268об 269об 270об 271об 272об 273об 285об 288об 315об 321об
-      </p>
     </body>
   </text>
 </TEI>
