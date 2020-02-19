@@ -38,11 +38,6 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Кутузов" role="addressee">Кутузову</persName>
-				</correspAction>
-			</correspDesc>
 			<creation>
 				<date when="1799-02-11">февраля 11 1799 года</date>
 			</creation>
@@ -54,6 +49,11 @@
 					<orgName ref="виленский_кагал">кагала</orgName> и его полномочий
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Кутузов" role="addressee">Кутузову</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">

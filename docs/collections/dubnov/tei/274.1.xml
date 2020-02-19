@@ -31,14 +31,8 @@
             <langUsage>
                 <language ident="ru"/>
             </langUsage>
-            <calendarDesc>
-                <calendar xml:id="julian">
-                    <p>Julian calendar</p>
-                </calendar>
-            </calendarDesc>
-            <creation>
-                <date when="1800-01-23">Генваря 23-го дня, 1800</date>
-            </creation>
+            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1800-01-23">Генваря 23-го дня, 1800</date></creation>
             <abstract>
                 <p>Приложение Б к документу № <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>.
                     Объявление <persName ref="Фризель">Фризеля</persName> о высочайше дорованной терпимости к <orgName ref="Хасиды">секте

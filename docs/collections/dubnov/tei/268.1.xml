@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-11-27">27 Ноября 1800</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-11-27">27 Ноября 1800</date></creation>
       <abstract>
         <p>№ 16. Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>-<persName
           ref="alter-rebbe">Залмана</persName>

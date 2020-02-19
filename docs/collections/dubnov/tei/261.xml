@@ -32,14 +32,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-10-03">3 октября 1800 (не ранее даты, указанной в документе)</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-10-03">3 октября 1800 (не ранее даты, указанной в документе)</date></creation>
       <abstract>
         <p>№ 11. Объявление <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору
         </persName> о справках по его денежным претензиям</p>

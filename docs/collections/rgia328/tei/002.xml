@@ -1,47 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<author>
-					<persName ref="Елиашевич">Елиашевич</persName>
-				</author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
+				<author><persName ref="Елиашевич">Елиашевич</persName></author>
+				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>
-					<ptr target="www.alter-rebbe.org"/>
-				</publisher>
+				<publisher><ptr target="www.alter-rebbe.org"/></publisher>
 				<availability status="free">
 					<licence>
 						<ab>
 							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
+								Creative Commons Attribution 4.0 International License
+							</ref>
 						</ab>
 					</licence>
 				</availability>
 			</publicationStmt>
-			<sourceDesc>
-				<p>Facsimile</p>
-			</sourceDesc>
+			<sourceDesc><p>Facsimile</p></sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<langUsage>
-				<language ident="ru"/>
-			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1800-07-11">июля 11 1800</date>
-			</creation>
+			<langUsage><language ident="ru"/></langUsage>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1800-07-11">июля 11 1800</date></creation>
 			<abstract>
 				<p>Голос (особое мнение)
 					<persName ref="Елиашевич">Елиашевича</persName>, предназначенное для рассмотрения
@@ -80,7 +63,7 @@
 				<l>даюсь, а въ разсужденіи помѣщенныхъ въ препровожден-</l>
 				<l>ной при предложеніи  его Превосходительства Господи-</l>
 				<l>на <persName ref="Фризель">губернатора</persName> отъ прежде бывшихъ <orgName
-				ref="виленский_кагал">кагальныхъ стар-<lb/>
+					ref="виленский_кагал">кагальныхъ стар-<lb/>
 					шинъ</orgName> новой прозьбѣ новых по дѣлу объясненій, въ по</l>
 				<l>полненіе подкрепляю мое мнѣніе нижеслѣдующимъ, –</l>
 				<l>поелику изъ сего дѣла ясно открылось, что за мар-</l>
@@ -222,7 +205,7 @@
 				<l>и прошу сіе мое мнѣніе представить его высокопре-</l>
 				<l>восходительству при донесеніи, которое положено у</l>
 				<l>чинить въ опредѣленіи. – совѣтникъ <signed>
-						<persName ref="Елиашевич">Федоръ Еліашевичъ</persName></signed></l>
+					<persName ref="Елиашевич">Федоръ Еліашевичъ</persName></signed></l>
 			</p>
 			<pb xml:id="p004-2" n="004-2"/>
 		</body>

@@ -39,11 +39,6 @@
 					<p>Julian calendar</p>
 				</calendar>
 			</calendarDesc>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Оленин" role="addressee">Оленину</persName>
-				</correspAction>
-			</correspDesc>
 			<creation>
 				<date when="1800-06-21">21 июня 1800 года</date>
 			</creation>
@@ -52,6 +47,11 @@
 				<persName ref="Оленин">Оленину</persName> о предложениях по делу
 				<orgName ref="виленский_кагал">виленского кагала</orgName>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Оленин" role="addressee">Оленину</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">

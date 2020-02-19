@@ -26,11 +26,6 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Оленин" role="addressee">Оленину</persName>
-        </correspAction>
-      </correspDesc>
       <creation><date when="1800-12-22">Декабря 22 дня 1800</date></creation>
       <abstract>
         <p>Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Оленин">Оленину</persName> об
@@ -40,6 +35,11 @@
         <p>Документ <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref> в РГИА 413</p>
         <p>Документ <ref target="/collections/dubnov/documents/268.3.html" role="documentViewer">№ 18</ref> у Дубнова</p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Оленин" role="addressee">Оленину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>

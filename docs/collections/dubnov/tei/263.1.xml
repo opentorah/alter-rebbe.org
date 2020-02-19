@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-10-15">1800-10-15</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-10-15">1800-10-15</date></creation>
       <abstract>
         <p>№ 13. Отзыв <persName ref="Карнеевъ">Карнеева</persName>
           <persName ref="Обольянинов">Обольянинову</persName> о претензиях

@@ -24,16 +24,16 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Булгаков" role="addressee">Булгакову</persName>
-        </correspAction>
-      </correspDesc>
       <creation><date when="1798-08-16">августа 16 дня 1798 года</date></creation>
       <abstract><p>Сообщение <persName ref="Лопухин">Лопухина</persName> <persName ref="Булгаков">Булгакову</persName> о
         высочайшем распоряжении провести расследование обстоятельств, изложенных в анонимных письмах с доносами в том
         числе на <orgName ref="Хасиды">хасидов</orgName> и <persName ref="alter-rebbe">Шнеура Залмана</persName></p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Булгаков" role="addressee">Булгакову</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -50,10 +50,10 @@
         <l>надписанныхъ по секрету, два изъ</l>
         <l><placeName ref="Вильно">вильны</placeName> отъ <date when="1800-05-08">8</date>. и <date
           when="1800-05-10">10. маія</date> подъпи</l>
-        <l>санные <persName ref="Гирша_Давыдович">Гиршемъ давидовичемъ</persName>;</l>
+        <l>санные <persName ref="Гирш_Давидович">Гиршемъ давидовичемъ</persName>;</l>
         <l>а третье безъ числа и означеннаго</l>
         <l>мѣста подписанное ксендзомъ <persName ref="Чечерский"><unclear>Чечер</unclear><lb/>
-          скимъ</persName>. <persName ref="Гирша_Давыдович">Давидовичъ</persName> пишетъ въ</l>
+          скимъ</persName>. <persName ref="Гирш_Давидович">Давидовичъ</persName> пишетъ въ</l>
         <l>1<hi rend="superscript">м</hi>. <del rend="overstrike">Якобы</del><placeName ref="Белоруссия">бѣлоруской
           губерніи</placeName> въ</l>
         <l>мѣстечкѣ Ліознѣ Рабинѣ <persName ref="alter-rebbe">Зальмон<lb/>

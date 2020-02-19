@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-06-07">Іюня 7 дня 1800 года.</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-06-07">Іюня 7 дня 1800 года.</date></creation>
       <abstract>
         <p>№ 3. Запрос <persName ref="Обольянинов">Обольянинова</persName>
           <persName ref="Кутузов">Кутузову</persName> о секте „Шабзус-Цвинкус"</p>

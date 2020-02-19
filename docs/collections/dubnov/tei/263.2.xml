@@ -30,14 +30,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-11-13">1800-11-13</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-11-13">1800-11-13</date></creation>
       <abstract>
         <p>№ 14. Сообщение <persName ref="Северин">Северина</persName>
           <persName ref="Обольянинов">Обольянинову</persName> об отправке хасидского „начальника”

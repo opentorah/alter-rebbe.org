@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-12-22">1800-12-22</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-12-22">1800-12-22</date></creation>
       <abstract>
         <p>№ 18. Препровождениe в 3-й департамент <orgName ref="Сенат">Сената</orgName> книг и
         бумаг, отобранных при арест <persName ref="alter-rebbe">Залмана</persName></p>

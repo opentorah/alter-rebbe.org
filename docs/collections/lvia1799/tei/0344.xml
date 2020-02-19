@@ -25,17 +25,17 @@
 			<langUsage><language ident="ru"/></langUsage>
 			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
 			<creation><date when="1799-02-16">16 февраля 1799</date></creation>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Де-Ласси" role="addressee">Де-Ласси</persName>
-				</correspAction>
-			</correspDesc>
 			<abstract>Рапорт <placeName ref="Литва">литовского</placeName> гражданского губернатора
 				<persName ref="Фризель">Фризеля</persName> генерал-губернатору
 				<persName ref="Де-Ласси">Де-Ласси</persName> об отправке копии предложений
 				<orgName ref="Литовское_губернское_правление">Губернскому правлению</orgName> о действиях в отношении
 				<orgName ref="виленский_кагал">виленского кагала</orgName>, а также копия самх предложений
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Де-Ласси" role="addressee">Де-Ласси</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">

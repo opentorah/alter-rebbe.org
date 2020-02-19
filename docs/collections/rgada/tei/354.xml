@@ -29,11 +29,6 @@
 		<profileDesc>
 			<langUsage><language ident="ru"/></langUsage>
 			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-				</correspAction>
-			</correspDesc>
 			<creation>
 				<date when="1800-12-02">Декабря 2 дня 1800 года</date>
 			</creation>
@@ -48,6 +43,11 @@
 					</persName> о рассмотрении изъятого
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text>

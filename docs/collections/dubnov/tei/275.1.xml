@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1801-06-13">13 июля 1801 года</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1801-06-13">13 июля 1801 года</date></creation>
       <abstract>
           <p>№ 23. Извещение <persName ref="Тарбеев">Тарбеева</persName>, что <persName ref="alter-rebbe">Залман
           </persName> по выс. повелению освобожден и отпущен из <placeName ref="Петербург">Петербурга</placeName></p>

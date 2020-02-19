@@ -25,16 +25,16 @@
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <creation><date when="1799-02-09"></date></creation>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Де-Ласси" role="addressee">Де-Ласси</persName>
-        </correspAction>
-      </correspDesc>
       <abstract>
         <p>Сообщение <placeName ref="Вильно">виленского</placeName> коменданта <persName ref="Капцевич">Капцевича</persName>
           <placeName ref="Литва">литовскому</placeName> генерал-губернатору <persName ref="Де-Ласси">Де-Ласси</persName> о
           выявлении незаконного оборота денег в <orgName ref="виленский_кагал">Виленском кагале</orgName></p>
       </abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Де-Ласси" role="addressee">Де-Ласси</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

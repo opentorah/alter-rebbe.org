@@ -30,14 +30,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-04-23">1800-04-23</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-04-23">1800-04-23</date></creation>
       <abstract>
         <p>№ 1. Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
         <p>Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213</p>

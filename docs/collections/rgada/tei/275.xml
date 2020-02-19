@@ -26,17 +26,17 @@
 			<langUsage><language ident="ru"/></langUsage>
 			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
 			<creation><date when="1800-11-09">1800 года Ноября 9 дня</date></creation>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-				</correspAction>
-			</correspDesc>
 			<abstract>
 				<p>Донесение
 					<persName ref="Северин">Северина</persName> об отправке
 					<persName ref="alter-rebbe">Шнеура Залмана</persName> в
 					<placeName ref="Петербург">Петербург</placeName> с <orgName ref="Сенат">сенатскими</orgName> курьерами
 				</p>
+				<correspDesc>
+					<correspAction>
+						<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+					</correspAction>
+				</correspDesc>
 			</abstract>
 		</profileDesc>
 	</teiHeader>

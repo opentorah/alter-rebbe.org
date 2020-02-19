@@ -24,14 +24,14 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-09-06">6 сентября 1798</date></creation>
+      <abstract><p>Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о
+        признании ложным доноса, подписанного именем ксендза <persName ref="Чечерский">Чечерского</persName></p></abstract>
       <correspDesc>
         <correspAction>
           <persName ref="Булгаков" role="addressee">Булгакову</persName>
         </correspAction>
       </correspDesc>
-      <creation><date when="1798-09-06">6 сентября 1798</date></creation>
-      <abstract><p>Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о
-        признании ложным доноса, подписанного именем ксендза <persName ref="Чечерский">Чечерского</persName></p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">
@@ -44,7 +44,7 @@
       <salute><l>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
       <p>
         <l>Препроводивъ къ вашему Превосходительству</l>
-        <l>объясненіи на два доноса жида <persName ref="Гирша_Давыдович">Гирши Давыдовича</persName>,</l>
+        <l>объясненіи на два доноса жида <persName ref="Гирш_Давидович">Гирши Давыдовича</persName>,</l>
         <l>присланные ко мнѣ при почтеннѣйшемъ вашемъ</l>
         <l>отношеніи отъ <date when="1798-08-16">16. августа</date>, остается мнѣ здѣлать</l>
         <l>объясненіе и о третьемъ таковомъ же, подписанномъ</l>
