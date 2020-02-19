@@ -1,7 +1,7 @@
 pluginManagement {
     plugins {
         id 'com.github.ben-manes.versions' version '0.27.0'
-        id 'com.diffplug.gradle.spotless' version '3.25.0'
+        id 'com.github.maiflai.scalatest' version '0.26'
     }
 }
 

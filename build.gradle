@@ -1,12 +1,13 @@
 plugins {
-  id 'idea'
   id 'com.github.ben-manes.versions'
-//  id 'com.diffplug.gradle.spotless'
+  id 'idea'
 }
 
 allprojects {
   repositories {
     jcenter()
+    mavenCentral()
+    mavenLocal()
   }
 
   group = 'org.digitaljudaica.archive'
@@ -22,12 +23,12 @@ idea {
   }
 }
 
-//spotless {
-//  format 'xml', {
-//    target fileTree('./docs/collections') {
-//      include '**/*.xml'
-//    }
-//    eclipseWtp('xml').configFile './spotless.xml.prefs'
-//    paddedCell()
-//  }
-//}
+subprojects {
+  configurations.all {
+    resolutionStrategy {
+      force("org.scala-lang:scala-library:$scalaVersion")
+      force("org.typelevel:cats-core_$scalaVersionMajor:$catsVersion")
+    }
+  }
+}
+
