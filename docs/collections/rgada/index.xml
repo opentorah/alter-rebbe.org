@@ -1101,8 +1101,17 @@
           </cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description">
+            <p>
+              Перечень
+              <placeName ref="Литва">литовских</placeName>
+              <orgName ref="Хасиды">хасидов</orgName>
+              с указанием сведений о них и номеров их допросов – приложение к донесению
+              <persName ref="Булгаков">Булгакова</persName>
+              <persName ref="Лопухин">Лопухину</persName>
+            </p>
+          </cell>
+          <cell rendition="date">1798-10-25</cell>
           <cell rendition="author">
             <persName ref="Булгаков">Булгаков</persName>
           </cell>
@@ -5018,6 +5027,11 @@
               <orgName ref="Сенат">сенатскими</orgName>
               курьерами
             </p>
+            <correspDesc>
+              <correspAction>
+                <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+              </correspAction>
+            </correspDesc>
           </cell>
           <cell rendition="date">1800-11-09</cell>
           <cell rendition="author">

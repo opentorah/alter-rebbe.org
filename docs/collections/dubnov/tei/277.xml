@@ -31,14 +31,8 @@
 			<langUsage>
 				<language ident="ru"/>
 			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1801-05">май 1801 (не позднее 21го - даты получения)</date>
-			</creation>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1801-05">май 1801 (не позднее 21го - даты получения)</date></creation>
 			<abstract>
 				<p>№ 25. Жалоба	<persName ref="alter-rebbe">Залмана</persName> на ложные доносы
 					<persName ref="Авигдор">Авигдора</persName>, разорительные для жалобщика и хасидов, и просьба о

@@ -23,17 +23,17 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Павел_I" role="addressee">Павлу I</persName>
-        </correspAction>
-      </correspDesc>
       <creation><date when="1800-11-24">ноября 24 дня 1800 года</date></creation>
       <abstract><p>Доклад <persName ref="Павел_I">императору</persName>, возможно, составленный
         <persName ref="Обольянинов">Обольяниновым</persName>, с сообщением, что разработка положения о правилах
         для <orgName ref="Хасиды">хасидов</orgName> и кагалов передана <orgName ref="Сенат">Сенату</orgName>, а также
         с предложением выпустить <persName ref="alter-rebbe">Шнеура Залмана</persName> из-под караула под домашний арест
         в связи с невиновностью и болезнью</p></abstract>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Павел_I" role="addressee">Павлу I</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text>

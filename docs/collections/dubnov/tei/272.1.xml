@@ -31,14 +31,8 @@
             <langUsage>
                 <language ident="ru"/>
             </langUsage>
-            <calendarDesc>
-                <calendar xml:id="julian">
-                    <p>Julian calendar</p>
-                </calendar>
-            </calendarDesc>
-            <creation>
-                <date when="1800-12">декабрь 1800, не позднее 28го</date>
-            </creation>
+            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1800-12">декабрь 1800, не позднее 28го</date></creation>
             <abstract>
                 <p>Приложение к документу № <ref target="/collections/dubnov/documents/271.html"
                                                  role="documentViewer">20</ref></p>

@@ -31,14 +31,8 @@
 			<langUsage>
 				<language ident="ru"/>
 			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1801-08">Августъ 1801</date>
-			</creation>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1801-08">Августъ 1801</date></creation>
 			<abstract>
 				<p>№ 26. Новое прошение <persName ref="alter-rebbe">Залмана</persName> об обуздании
 					клеветников и об обеспечении ему и хасидам спокойного существования

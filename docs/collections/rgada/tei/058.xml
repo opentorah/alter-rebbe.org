@@ -25,14 +25,16 @@
     <profileDesc>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-11-01">1 Ноября 1798</date></creation>
       <abstract>
         <p>Сообщение Булгакова Лопухину об отправке выполненного перевода показаний <persName ref="alter-rebbe">Шнеура
           Залмана</persName> с иврита на французский язык</p>
       </abstract>
-      <correspAction>
-        <persName ref="Лопухин" role="addressee">Лопухину</persName>
-      </correspAction>
-      <creation><date when="1798-11-01">1 Ноября 1798</date></creation>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

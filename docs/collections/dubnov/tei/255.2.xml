@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-07-09">1800-07-09</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-07-09">1800-07-09</date></creation>
       <abstract>
         <p>№ 8. Отношение <persName ref="Обольянинов">Обольянинова</persName> к
         <persName ref="Кутузов">Кутузову</persName> о необходимости

@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-06-21">1800-06-21</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-06-21">1800-06-21</date></creation>
       <abstract>
         <p>№ 6. Ответ <persName ref="Тормасов">Тормасова</persName> <persName ref="Обольянинов">Обольянинову
         </persName>, что в <placeName ref="Литва">Литовской губернии</placeName> о секте неизвестно</p>

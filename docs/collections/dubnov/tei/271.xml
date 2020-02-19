@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-12">декабрь 1800, не позднее 28го</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-12">декабрь 1800, не позднее 28го</date></creation>
       <abstract>
         <p>№ 20. Дополнительное прошение <persName ref="Авигдор">Авигдора</persName>
           <persName ref="Обольянинов">Обольянинову</persName> с доносом на Хасидов</p>

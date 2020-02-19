@@ -28,11 +28,6 @@
             <creation>
                 <date when="1800-11-09">1800 года Ноября 9 дня</date>
             </creation>
-            <correspDesc>
-                <correspAction>
-                    <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-                </correspAction>
-            </correspDesc>
             <abstract>
                 <p>Сообщение <persName ref="Северин">Северина</persName>
                     <persName ref="Обольянинов">Обольянинову</persName> об отправке хасидского „начальника”
@@ -42,6 +37,11 @@
                 <p>Документ <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">№ 14</ref> у Дубнова</p>
                 <p>Составлен в момент отправки, документ у Дубнова значительно шире, содержит подробности</p>
             </abstract>
+            <correspDesc>
+                <correspAction>
+                    <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+                </correspAction>
+            </correspDesc>
         </profileDesc>
     </teiHeader>
     <text>

@@ -32,14 +32,8 @@
       <langUsage>
         <language ident="he"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-11">ноябрь 1800 по версии Дубнова в комментарии</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-11">ноябрь 1800 по версии Дубнова в комментарии</date></creation>
       <abstract>
         <p>№ 15. Вопросные пункты <persName ref="Авигдор">Авигдора Хаимовича</persName> и ответы
         <persName ref="alter-rebbe">Залмана Боруховича</persName></p>

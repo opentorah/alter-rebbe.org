@@ -31,14 +31,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1800-06-07">1800-06-07</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1800-06-07">1800-06-07</date></creation>
       <abstract>
         <p>№ 4. Ордер <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Брискорн">Брискорну
         </persName> о расследовании дела</p>

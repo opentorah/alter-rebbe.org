@@ -31,9 +31,11 @@
           возвращении семи арестованных <orgName ref="Хасиды">хасидов</orgName> из <placeName ref="Рига">Риги</placeName>
           в <placeName ref="Вильно">Вильно</placeName></p>
       </abstract>
-      <correspAction>
-        <persName ref="Лопухин" role="addressee">Лопухину</persName>
-      </correspAction>
+      <correspDesc>
+        <correspAction>
+          <persName ref="Лопухин" role="addressee">Лопухину</persName>
+        </correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru">

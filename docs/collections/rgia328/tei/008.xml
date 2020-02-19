@@ -25,11 +25,6 @@
 			<langUsage><language ident="ru"/></langUsage>
 			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
 			<creation><date when="1800-08-20">20 Августа 1800 года</date></creation>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-				</correspAction>
-			</correspDesc>
 			<abstract>
 				<p>Письмо
 					<persName ref="Фризель">Фризеля</persName>
@@ -37,6 +32,11 @@
 					<orgName ref="виленский_кагал">виленского кагала</orgName> в надворный суд
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">

@@ -31,14 +31,8 @@
 			<langUsage>
 				<language ident="he"/>
 			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-			  <date when="1801-04">апрель 1801 (по версии Дубнова в комментарии)</date>
-			</creation>
+			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+			<creation><date when="1801-04">апрель 1801 (по версии Дубнова в комментарии)</date></creation>
 			<abstract>
 				<p>
 					№ 24. Прошение <persName ref="Авигдор">Авигдора</persName> на имя <orgName ref="Сенат">Сената

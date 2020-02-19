@@ -32,14 +32,8 @@
       <langUsage>
         <language ident="ru"/>
       </langUsage>
-      <calendarDesc>
-        <calendar xml:id="julian">
-          <p>Julian calendar</p>
-        </calendar>
-      </calendarDesc>
-      <creation>
-        <date when="1798-12-15">Декабря 15 дня 1798 года</date>
-      </creation>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <creation><date when="1798-12-15">Декабря 15 дня 1798 года</date></creation>
       <abstract>
         <p>Приложение А к документу № <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>.
           Ордер <persName ref="Жегулин">Жегулина</persName>

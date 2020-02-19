@@ -26,17 +26,17 @@
 			<langUsage><language ident="ru"/></langUsage>
 			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
 			<creation><date when="1799-02-20">февраля 20 дня 1799 года</date></creation>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Павел_I" role="addressee">Павлу I</persName>
-				</correspAction>
-			</correspDesc>
 			<abstract>
 				<p>Прошение старшин распущенного состава
 					<orgName ref="виленский_кагал">виленского кагала</orgName> о восстановлении прежнего состава
 					<orgName ref="виленский_кагал">кагала</orgName> и его полномочий
 				</p>
 			</abstract>
+			<correspDesc>
+				<correspAction>
+					<persName ref="Павел_I" role="addressee">Павлу I</persName>
+				</correspAction>
+			</correspDesc>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ru">

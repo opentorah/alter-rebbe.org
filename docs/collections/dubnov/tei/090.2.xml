@@ -31,14 +31,8 @@
             <langUsage>
                 <language ident="ru"/>
             </langUsage>
-            <calendarDesc>
-                <calendar xml:id="julian">
-                    <p>Julian calendar</p>
-                </calendar>
-            </calendarDesc>
-            <creation>
-                <date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date>
-            </creation>
+            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+            <creation><date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date></creation>
             <abstract>
                 <p>№ 2. Прошение <persName ref="Авигдор">р. Авигдора Хаимовича</persName> на Высочайшее имя</p>
                 <p>Документ
