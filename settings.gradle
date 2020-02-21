@@ -11,7 +11,7 @@ include 'collector'
 include 'docs'
 include 'service'
 
-//includeBuild ('../../digitaljudaica.org') {
+//includeBuild ('../../store/zio') {
 //    dependencySubstitution {
 //        substitute module('org.digitaljudaica:org.digitaljudaica-store') with project(':store')
 //    }
