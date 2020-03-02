@@ -5,7 +5,8 @@
         <fileDesc>
             <titleStmt>
                 <author><persName ref="Обольянинов">Обольянинов</persName></author>
-                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+            </titleStmt>
             <publicationStmt>
                 <publisher><ptr target="www.alter-rebbe.org"/></publisher>
                 <availability status="free">
@@ -24,8 +25,8 @@
             <langUsage><language ident="ru"/></langUsage>
             <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
             <creation>
-                <date when="1800-10-03">3 октября 1800</date><note place="end">не ранее даты, указанной в
-                документе</note>
+                <date when="1800-10-03">3 октября 1800<note place="end">не ранее даты, указанной в
+                    документе</note></date>
             </creation>
             <abstract>
                 <p>Объявление <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору
