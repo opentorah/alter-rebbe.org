@@ -1,49 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
-      <head>
-        <title>О виленских кагальных старшинах</title>
-      </head>
-      1799 год. Жалоба
-      <persName ref="Моисей_Ошерович">Моше Ошеровича</persName>
-      <persName ref="Павел_I">императору Павлу I</persName>
-      и реакция на нее.
-      <p>
-        Российский государственный исторический архив -
-        <ref target="http://www.fgurgia.ru/#!">РГИА</ref>,
-        <ref target="https://rgia.su/object/27604124#!page:1/o:27604124/p:1">фонд 1347</ref>,
-        <ref target=" https://rgia.su/object/27604124#!page:1/o:27604124/p:1/o:27604124_H_10610/p:4/o:27787140/p:1">
+      <head><title>О виленских кагальных старшинах</title></head> 1799 год. Жалоба <persName ref="Моисей_Ошерович">
+        Моше Ошеровича
+      </persName> <persName ref="Павел_I">императору Павлу I</persName> и реакция на нее. <p>
+        Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>, <ref
+        target="https://rgia.su/object/27604124#!page:1/o:27604124/p:1">фонд 1347</ref>, <ref
+        target=" https://rgia.su/object/27604124#!page:1/o:27604124/p:1/o:27604124_H_10610/p:4/o:27787140/p:1">
           опись 64
-        </ref>,
-        <ref target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw==">
+        </ref>, <ref
+        target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw==">
           дело 328
         </ref>.
-      </p>
-      <p>Фотографии предоставил Константин Пименов.</p>
-      <table rendition="collection-index">
+      </p> <p>Фотографии предоставил Константин Пименов.</p> <table rendition="collection-index">
         <row>
           <cell rendition="description">Описание</cell>
           <cell rendition="date">Дата</cell>
@@ -56,71 +34,50 @@
         </row>
         <row>
           <cell rendition="description">
-            <orgName ref="Сенат">Сенатское</orgName>
-            дело о
-            <orgName ref="виленский_кагал">виленских кагальных старшинах</orgName>
+            <orgName ref="Сенат">Сенатское</orgName> дело о <orgName ref="виленский_кагал">
+              виленских кагальных старшинах
+            </orgName>
           </cell>
-          <cell rendition="date"></cell>
-          <cell rendition="author"></cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="date"/>
+          <cell rendition="author"/>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/000.html" role="documentViewer">000</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/000.html" role="documentViewer">000</ref></cell>
           <cell rendition="pages">
             <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
             <ref target="documents/000.html#p000-2" role="documentViewer" rendition="page">000об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
-            Сообщение
-            <persName ref="Обольянинов">Обольянинова</persName>
-            <persName ref="Оленин">Оленину</persName>
-            о предложениях по делу
-            <orgName ref="виленский_кагал">виленского кагала</orgName>
+            Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Оленин">Оленину</persName> о
+            предложениях по делу <orgName ref="виленский_кагал">виленского кагала</orgName>
           </cell>
           <cell rendition="date">1800-06-21</cell>
-          <cell rendition="author">
-            <persName ref="Обольянинов">Обольянинов</persName>
-          </cell>
-          <cell rendition="addressee">
-            <persName ref="Оленин">Оленину</persName>
-          </cell>
+          <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName>,</cell>
+          <cell rendition="addressee"><persName ref="Оленин">Оленину</persName></cell>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/001.html" role="documentViewer">001</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/001.html" role="documentViewer">001</ref></cell>
           <cell rendition="pages">
             <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
             <ref target="documents/001.html#p001-2" role="documentViewer" rendition="page">001об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Голос (особое мнение)
-              <persName ref="Елиашевич">Елиашевича</persName>, предназначенное для рассмотрения
-              <persName ref="Кутузов">Кутузовым</persName>
-              по делу о расходовании средств старшинами
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              Голос (особое мнение) <persName ref="Елиашевич">Елиашевича</persName>, предназначенное для рассмотрения
+              <persName ref="Кутузов">Кутузовым</persName> по делу о расходовании средств старшинами <orgName
+              ref="виленский_кагал">виленского кагала</orgName>
             </p>
           </cell>
           <cell rendition="date">1800-07-11</cell>
-          <cell rendition="author">
-            <persName ref="Елиашевич">Елиашевич</persName>
-          </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author"><persName ref="Елиашевич">Елиашевич</persName></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/002.html" role="documentViewer">002</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/002.html" role="documentViewer">002</ref></cell>
           <cell rendition="pages">
             <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
             <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
@@ -129,191 +86,129 @@
             <ref target="documents/002.html#p004-1" role="documentViewer" rendition="page">004</ref>
             <ref target="documents/002.html#p004-2" role="documentViewer" rendition="missing-page">004об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Рапорт
-              <placeName ref="Литва">литовской</placeName>
-              казенной палаты в связи с получением
-              <orgName ref="Сенат">сенатского</orgName>
-              указа о взимании денег со старшин
-              <orgName ref="виленский_кагал">виленского кагала</orgName>, виновных в недоимке
+              Рапорт <placeName ref="Литва">литовской</placeName> казенной палаты в связи с получением <orgName
+              ref="Сенат">сенатского</orgName> указа о взимании денег со старшин <orgName ref="виленский_кагал">
+                виленского кагала
+              </orgName>, виновных в недоимке
             </p>
           </cell>
           <cell rendition="date">1800-09-10</cell>
-          <cell rendition="author">
-            <persName ref="Волков">Волков</persName>
-          </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author"><persName ref="Волков">Волков</persName></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/005.html" role="documentViewer">005</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/005.html" role="documentViewer">005</ref></cell>
           <cell rendition="pages">
             <ref target="documents/005.html#p005-1" role="documentViewer" rendition="missing-page">005</ref>
             <ref target="documents/005.html#p005-2" role="documentViewer" rendition="page">005об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Рапорт
-              <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName>
-              в связи с получением
-              <orgName ref="Сенат">сенатского</orgName>
-              указа и намерением взыскать недоимку со старшин
+              Рапорт <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> в связи с
+              получением <orgName ref="Сенат">сенатского</orgName> указа и намерением взыскать недоимку со старшин
               <orgName ref="виленский_кагал">виленского кагала</orgName>
             </p>
           </cell>
           <cell rendition="date">1800-09-10</cell>
-          <cell rendition="author">
-            <persName ref="Фризель">Фризель</persName>
-          </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/006.html" role="documentViewer">006</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/006.html" role="documentViewer">006</ref></cell>
           <cell rendition="pages">
             <ref target="documents/006.html#p006-1" role="documentViewer" rendition="page">006</ref>
             <ref target="documents/006.html#p006-2" role="documentViewer" rendition="page">006об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Решение императора о порядке рассмотрения дела старшин
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
+              Решение императора о порядке рассмотрения дела старшин <orgName ref="виленский_кагал">
+                виленского кагала
+              </orgName>
             </p>
           </cell>
           <cell rendition="date">1800-11-28</cell>
-          <cell rendition="author">
-            <persName ref="Павел_I">Павел I</persName>
-          </cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="author"><persName ref="Павел_I">Павел I</persName></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/007.html" role="documentViewer">007</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/007.html" role="documentViewer">007</ref></cell>
           <cell rendition="pages">
             <ref target="documents/007.html#p007-1" role="documentViewer" rendition="page">007</ref>
             <ref target="documents/007.html#p007-2" role="documentViewer" rendition="page">007об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Письмо
-              <persName ref="Фризель">Фризеля</persName>
-              <persName ref="Обольянинов">Обольянинову</persName>
-              о передаче дела старшин
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
-              в надворный суд
+              Письмо <persName ref="Фризель">Фризеля</persName> <persName ref="Обольянинов">Обольянинову</persName> о
+              передаче дела старшин <orgName ref="виленский_кагал">виленского кагала</orgName> в надворный суд
             </p>
           </cell>
           <cell rendition="date">1800-08-20</cell>
-          <cell rendition="author">
-            <persName ref="Фризель">Фризель</persName>
-          </cell>
-          <cell rendition="addressee">
-            <persName ref="Обольянинов">Обольянинову</persName>
-          </cell>
+          <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
+          <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/008.html" role="documentViewer">008</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/008.html" role="documentViewer">008</ref></cell>
           <cell rendition="pages">
             <ref target="documents/008.html#p008-1" role="documentViewer" rendition="page">008</ref>
             <ref target="documents/008.html#p008-2" role="documentViewer" rendition="page">008об</ref>
             <ref target="documents/008.html#p009-1" role="documentViewer" rendition="page">009</ref>
             <ref target="documents/008.html#p009-2" role="documentViewer" rendition="page">009об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Прошение старшин распущенного состава
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
-              о восстановлении прежнего состава
-              <orgName ref="виленский_кагал">кагала</orgName>
-              и его полномочий
+              Прошение старшин распущенного состава <orgName ref="виленский_кагал">виленского кагала</orgName> о
+              восстановлении прежнего состава <orgName ref="виленский_кагал">кагала</orgName> и его полномочий
             </p>
           </cell>
           <cell rendition="date">1799-02-20</cell>
-          <cell rendition="author">
-            <persName ref="Моисей_Ошерович">Ошерович</persName>
-          </cell>
-          <cell rendition="addressee">
-            <persName ref="Павел_I">Павлу I</persName>
-          </cell>
+          <cell rendition="author"><persName ref="Моисей_Ошерович">Ошерович</persName></cell>
+          <cell rendition="addressee"><persName ref="Павел_I">Павлу I</persName></cell>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/010.html" role="documentViewer">010</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/010.html" role="documentViewer">010</ref></cell>
           <cell rendition="pages">
             <ref target="documents/010.html#p010-1" role="documentViewer" rendition="page">010</ref>
             <ref target="documents/010.html#p010-2" role="documentViewer" rendition="page">010об</ref>
             <ref target="documents/010.html#p011-1" role="documentViewer" rendition="page">011</ref>
             <ref target="documents/010.html#p011-2" role="documentViewer" rendition="page">011об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
         <row>
           <cell rendition="description">
             <p>
-              Письмо
-              <persName ref="Моисей_Ошерович">Моисея Ошеровича</persName>
-              – представителя распущенного состава
-              <orgName ref="виленский_кагал">виленского кагала</orgName>
-              <placeName ref="Литва">литовскому</placeName>
-              генерал-губернатору
-              <persName ref="Кутузов">Кутузову</persName>
-              о восстановлении прежнего состава
-              <orgName ref="виленский_кагал">кагала</orgName>
-              и его полномочий
+              Письмо <persName ref="Моисей_Ошерович">Моисея Ошеровича</persName> – представителя распущенного состава
+              <orgName ref="виленский_кагал">виленского кагала</orgName> <placeName ref="Литва">литовскому</placeName>
+              генерал-губернатору <persName ref="Кутузов">Кутузову</persName> о восстановлении прежнего состава <orgName
+              ref="виленский_кагал">кагала</orgName> и его полномочий
             </p>
           </cell>
           <cell rendition="date">1799-02-11</cell>
-          <cell rendition="author">
-            <persName ref="Моисей_Ошерович">Ошерович</persName>
-          </cell>
-          <cell rendition="addressee">
-            <persName ref="Кутузов">Кутузову</persName>
-          </cell>
+          <cell rendition="author"><persName ref="Моисей_Ошерович">Ошерович</persName>,</cell>
+          <cell rendition="addressee"><persName ref="Кутузов">Кутузову</persName></cell>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/012.html" role="documentViewer">012</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/012.html" role="documentViewer">012</ref></cell>
           <cell rendition="pages">
             <ref target="documents/012.html#p012-1" role="documentViewer" rendition="page">012</ref>
             <ref target="documents/012.html#p012-2" role="documentViewer" rendition="page">012об</ref>
             <ref target="documents/012.html#p013-1" role="documentViewer" rendition="page">013</ref>
             <ref target="documents/012.html#p013-2" role="documentViewer" rendition="missing-page">013об</ref>
           </cell>
-          <cell rendition="transcriber">
-            <persName ref="VK">Василий Когаловский</persName>
-          </cell>
+          <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
         </row>
-      </table>
-      <p>Отсутствуют фотографии 3 страниц: 004об 005 013об</p>
+      </table> <p>Отсутствуют фотографии 3 страниц: 004об 005 013об</p>
     </body>
   </text>
 </TEI>

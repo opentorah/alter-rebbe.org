@@ -1,45 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
-      <head>
-        <title>"?"</title>
-      </head>
-      Документов этого дела у нас пока нет.
-      <p>Российская национальная библиотека</p>
-      <p>РО, ф. 152, оп. 1, д. 211</p>
-      <p>
-        Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Военский К.Е. Перевод на русской послания
-        <persName ref="alter-rebbe">Шнеур Залмана</persName>
-        из
-        <placeName ref="Ляды">Ляд</placeName>
-        к российским евреям. Рукописная копия из Военно-ученого архива.
-      </p>
-      <table rendition="collection-index">
-        <row>
+      <head><title>"?"</title></head> Документов этого дела у нас пока нет. <p>Российская национальная библиотека</p> <p
+      >РО, ф. 152, оп. 1, д. 211</p> <p>
+        Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Военский К.Е. Перевод на русской послания
+        <persName ref="alter-rebbe">Шнеур Залмана</persName> из <placeName ref="Ляды">Ляд</placeName> к российским
+        евреям. Рукописная копия из Военно-ученого архива.
+      </p> <table rendition="collection-index"><row>
           <cell rendition="description">Описание</cell>
           <cell rendition="date">Дата</cell>
           <cell rendition="author">Кто</cell>
@@ -48,8 +24,7 @@
           <cell rendition="document">Документ</cell>
           <cell rendition="pages">Страницы</cell>
           <cell rendition="transcriber">Расшифровка</cell>
-        </row>
-      </table>
+        </row></table>
     </body>
   </text>
 </TEI>

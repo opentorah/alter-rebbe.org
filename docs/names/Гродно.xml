@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <place xml:id="Гродно">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
+  <text><body><place xml:id="Гродно">
         <placeName>Гродно</placeName>
         <p rendition="mentions">
           <ref target="/names.html#Гродно" role="namesViewer">[...]</ref>
           <l>
-            РГАДА 3140:
+            <emph>РГАДА 3140:</emph>
             <ref target="/collections/rgada/documents/013.html" role="documentViewer">013</ref>
             <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
             <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
@@ -38,7 +22,5 @@
             <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
           </l>
         </p>
-      </place>
-    </body>
-  </text>
+      </place></body></text>
 </TEI>

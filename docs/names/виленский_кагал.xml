@@ -1,35 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <org xml:id="виленский_кагал">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
+  <text><body><org xml:id="виленский_кагал">
         <orgName>Виленский кагал</orgName>
         <p rendition="mentions">
           <ref target="/names.html#виленский_кагал" role="namesViewer">[...]</ref>
           <l>
-            Имена:
+            <emph>Имена:</emph>
             <ref target="/names/Елиашевич.html" role="namesViewer">Елиашевич</ref>
             <ref target="/names/Меіер_Рафалович.html" role="namesViewer">Меер Рафалович</ref>
             <ref target="/names/Мовша_Мордохович.html" role="namesViewer">Мовша Мордохович</ref>
@@ -37,21 +21,21 @@
             <ref target="/names/Шимель_Вульфович.html" role="namesViewer">Шимель Вульфович</ref>
           </l>
           <l>
-            LVIA 1799:
+            <emph>LVIA 1799:</emph>
             <ref target="/collections/lvia1799/documents/0250.html" role="documentViewer">0250</ref>
             <ref target="/collections/lvia1799/documents/0276.html" role="documentViewer">0276</ref>
             <ref target="/collections/lvia1799/documents/0280.html" role="documentViewer">0280</ref>
             <ref target="/collections/lvia1799/documents/0344.html" role="documentViewer">0344</ref>
           </l>
           <l>
-            Дубнов:
+            <emph>Дубнов:</emph>
             <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
             <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
             <ref target="/collections/dubnov/documents/262.2.html" role="documentViewer">262.2</ref>
             <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
           </l>
           <l>
-            РГАДА 3140:
+            <emph>РГАДА 3140:</emph>
             <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
             <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
             <ref target="/collections/rgada/documents/053.html" role="documentViewer">053</ref>
@@ -69,12 +53,12 @@
             <ref target="/collections/rgada/documents/337.html" role="documentViewer">337</ref>
           </l>
           <l>
-            РГИА 2213:
+            <emph>РГИА 2213:</emph>
             <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
             <ref target="/collections/rgia2213/documents/050.html" role="documentViewer">050</ref>
           </l>
           <l>
-            РГИА 328:
+            <emph>РГИА 328:</emph>
             <ref target="/collections/rgia328/documents/000.html" role="documentViewer">000</ref>
             <ref target="/collections/rgia328/documents/001.html" role="documentViewer">001</ref>
             <ref target="/collections/rgia328/documents/002.html" role="documentViewer">002</ref>
@@ -86,14 +70,12 @@
             <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
           </l>
           <l>
-            РГИА 413:
+            <emph>РГИА 413:</emph>
             <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
             <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
             <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
             <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </l>
         </p>
-      </org>
-    </body>
-  </text>
+      </org></body></text>
 </TEI>

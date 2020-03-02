@@ -1,75 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
-      <head>
-        <title>Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1800 год</title>
-      </head>
-      Документы, связанные с выборамы в
-      <orgName ref="виленский_кагал">"кагале"</orgName>
-      и вторым арестом
-      <persName ref="alter-rebbe">Алтер Ребе</persName>.
-      <p>
-        Литовский Исторический Архив -
-        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>.
-      </p>
-      <p>Получено из архива в такой форме:</p>
-      <p>
-        378-1800-2-2d 810-821v 2 мая 1800 года запись журнала литовского губернского правления. 800-801v Кутузову от литовского губернского правления. 254-255v Кутузову от литовского губернского правления. 126-130v Кутузову от литовского губернского правления.
-      </p>
-      <p>
-        Описания в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>
-        дел из этой коллекции:
-      </p>
-      <p>
-        378 B/S 1800 2 (ч. III б; extract). Материалы следствия по делу о финансовой деятельности бывших
-        <placeName ref="Вильно">виленских</placeName>
-        кагальных, уволенных за злостные финансовые нарушения по жалобам местных хасидов (лл. 357-403).
-      </p>
-      <p>
-        378 B/S 1800 2 (ч. IV-в). Материалы, связанные со вторым арестом
-        <persName ref="alter-rebbe">р. Шнеур Залмана</persName>: сведения о "еврейской секте Шабзус-цвинус" (
-        <orgName ref="Хасиды">"секта каролинов"</orgName>) в г.
-        <placeName ref="Вильно">Вильно</placeName>
-        и их
-        <persName ref="alter-rebbe">раввине Зельмане Боруховиче</persName>; список арестованных хасидов, отправленных из
-        <placeName ref="Вильно">Вильно</placeName>
-        в
-        <placeName ref="Петербург">С.-Петербург</placeName>; упомянания о лицах, причастных к конфликту между хасидами и митнагедами: раввин
-        <persName ref="Авигдор">Хаим (Авигдор Хаймович)</persName>,
-        <persName ref="Эліас">раввин Элиаш</persName>
-        (
-        <placeName ref="Вильно">Виленский</placeName>
-        Гаон),
-        <persName ref="Моисей_Ошерович">Мойжеш Ошерович</persName>
-        (председатель духовного суда
-        <placeName ref="Вильно">Вильно</placeName>).
-      </p>
-      <p>378 B/S 1800 2-2. О выборах кагала.</p>
-      <p>Фотографии предоставили Елена Волк (013) и Галина Баранова.</p>
+      <head><title>Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1800 год</title></head> Документы,
+      связанные с выборамы в <orgName ref="виленский_кагал">"кагале"</orgName> и вторым арестом <persName
+      ref="alter-rebbe">Алтер Ребе</persName>. <p>
+        Литовский Исторический Архив - <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">
+          LVIA Vilniua
+        </ref>.
+      </p> <p>Получено из архива в такой форме:</p> <p>
+        378-1800-2-2d 810-821v 2 мая 1800 года запись журнала литовского губернского правления. 800-801v Кутузову от
+        литовского губернского правления. 254-255v Кутузову от литовского губернского правления. 126-130v Кутузову от
+        литовского губернского правления.
+      </p> <p>Описания в <ref target="http://cahjp.nli.org.il/">CAHJP</ref> дел из этой коллекции:</p> <p>
+        378 B/S 1800 2 (ч. III б; extract). Материалы следствия по делу о финансовой деятельности бывших <placeName
+        ref="Вильно">виленских</placeName> кагальных, уволенных за злостные финансовые нарушения по жалобам местных
+        хасидов (лл. 357-403).
+      </p> <p>
+        378 B/S 1800 2 (ч. IV-в). Материалы, связанные со вторым арестом <persName ref="alter-rebbe">
+          р. Шнеур Залмана
+        </persName>: сведения о "еврейской секте Шабзус-цвинус" (<orgName ref="Хасиды">"секта каролинов"</orgName>) в г.
+        <placeName ref="Вильно">Вильно</placeName> и их <persName ref="alter-rebbe">
+          раввине Зельмане Боруховиче
+        </persName>; список арестованных хасидов, отправленных из <placeName ref="Вильно">Вильно</placeName> в
+        <placeName ref="Петербург">С.-Петербург</placeName>; упомянания о лицах, причастных к конфликту между хасидами и
+        митнагедами: раввин <persName ref="Авигдор">Хаим (Авигдор Хаймович)</persName>, <persName ref="Эліас">
+          раввин Элиаш
+        </persName> ( <placeName ref="Вильно">Виленский</placeName> Гаон), <persName ref="Моисей_Ошерович">
+          Мойжеш Ошерович
+        </persName> (председатель духовного суда <placeName ref="Вильно">Вильно</placeName>).
+      </p> <p>378 B/S 1800 2-2. О выборах кагала.</p> <p>Фотографии предоставили Елена Волк (013) и Галина Баранова.</p>
       <table rendition="collection-index">
         <row>
           <cell rendition="description">Описание</cell>
@@ -82,44 +50,38 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/013.html" role="documentViewer">013</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/013.html" role="documentViewer">013</ref></cell>
           <cell rendition="pages">
             <ref target="documents/013.html#p013-1" role="documentViewer" rendition="page">013</ref>
             <ref target="documents/013.html#p013-2" role="documentViewer" rendition="page">013об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/041.html" role="documentViewer">041</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/041.html" role="documentViewer">041</ref></cell>
           <cell rendition="pages">
             <ref target="documents/041.html#p041-1" role="documentViewer" rendition="page">041</ref>
             <ref target="documents/041.html#p041-2" role="documentViewer" rendition="missing-page">041об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/043.html" role="documentViewer">043</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/043.html" role="documentViewer">043</ref></cell>
           <cell rendition="pages">
             <ref target="documents/043.html#p043-1" role="documentViewer" rendition="page">043</ref>
             <ref target="documents/043.html#p043-2" role="documentViewer" rendition="page">043об</ref>
@@ -134,17 +96,15 @@
             <ref target="documents/043.html#p048-1" role="documentViewer" rendition="page">048</ref>
             <ref target="documents/043.html#p048-2" role="documentViewer" rendition="page">048об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/126.html" role="documentViewer">126</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/126.html" role="documentViewer">126</ref></cell>
           <cell rendition="pages">
             <ref target="documents/126.html#p126-1" role="documentViewer" rendition="page">126</ref>
             <ref target="documents/126.html#p126-2" role="documentViewer" rendition="page">126об</ref>
@@ -155,83 +115,73 @@
             <ref target="documents/126.html#p129-1" role="documentViewer" rendition="page">129</ref>
             <ref target="documents/126.html#p129-2" role="documentViewer" rendition="missing-page">129об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/130.html" role="documentViewer">130</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/130.html" role="documentViewer">130</ref></cell>
           <cell rendition="pages">
             <ref target="documents/130.html#p130-1" role="documentViewer" rendition="page">130</ref>
             <ref target="documents/130.html#p130-2" role="documentViewer" rendition="page">130об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/254.html" role="documentViewer">254</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/254.html" role="documentViewer">254</ref></cell>
           <cell rendition="pages">
             <ref target="documents/254.html#p254-1" role="documentViewer" rendition="page">254</ref>
             <ref target="documents/254.html#p254-2" role="documentViewer" rendition="page">254об</ref>
             <ref target="documents/254.html#p255-1" role="documentViewer" rendition="page">255</ref>
             <ref target="documents/254.html#p255-2" role="documentViewer" rendition="page">255об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
           <cell rendition="description">
             <p>ответ на "записку" М.Л. Кутузова по делу отрешенного в Вильне кагала ???</p>
           </cell>
-          <cell rendition="date"></cell>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/678.html" role="documentViewer">678</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/678.html" role="documentViewer">678</ref></cell>
           <cell rendition="pages">
             <ref target="documents/678.html#p678-1" role="documentViewer" rendition="page">678</ref>
             <ref target="documents/678.html#p678-2" role="documentViewer" rendition="missing-page">678об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/800.html" role="documentViewer">800</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/800.html" role="documentViewer">800</ref></cell>
           <cell rendition="pages">
             <ref target="documents/800.html#p800-1" role="documentViewer" rendition="page">800</ref>
             <ref target="documents/800.html#p800-2" role="documentViewer" rendition="page">800об</ref>
             <ref target="documents/800.html#p801-1" role="documentViewer" rendition="page">801</ref>
             <ref target="documents/800.html#p801-2" role="documentViewer" rendition="page">801об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/810.html" role="documentViewer">810</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/810.html" role="documentViewer">810</ref></cell>
           <cell rendition="pages">
             <ref target="documents/810.html#p810-1" role="documentViewer" rendition="page">810</ref>
             <ref target="documents/810.html#p810-2" role="documentViewer" rendition="missing-page">810об</ref>
@@ -246,17 +196,15 @@
             <ref target="documents/810.html#p815-1" role="documentViewer" rendition="page">815</ref>
             <ref target="documents/810.html#p815-2" role="documentViewer" rendition="missing-page">815об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/816.html" role="documentViewer">816</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/816.html" role="documentViewer">816</ref></cell>
           <cell rendition="pages">
             <ref target="documents/816.html#p816-1" role="documentViewer" rendition="page">816</ref>
             <ref target="documents/816.html#p816-2" role="documentViewer" rendition="page">816об</ref>
@@ -265,17 +213,15 @@
             <ref target="documents/816.html#p818-1" role="documentViewer" rendition="page">818</ref>
             <ref target="documents/816.html#p818-2" role="documentViewer" rendition="missing-page">818об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/819.html" role="documentViewer">819</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/819.html" role="documentViewer">819</ref></cell>
           <cell rendition="pages">
             <ref target="documents/819.html#p819-1" role="documentViewer" rendition="page">819</ref>
             <ref target="documents/819.html#p819-2" role="documentViewer" rendition="page">819об</ref>
@@ -284,17 +230,15 @@
             <ref target="documents/819.html#p821-1" role="documentViewer" rendition="page">821</ref>
             <ref target="documents/819.html#p821-2" role="documentViewer" rendition="page">821об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/878.html" role="documentViewer">878</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/878.html" role="documentViewer">878</ref></cell>
           <cell rendition="pages">
             <ref target="documents/878.html#p878-1" role="documentViewer" rendition="page">878</ref>
             <ref target="documents/878.html#p878-2" role="documentViewer" rendition="page">878об</ref>
@@ -307,10 +251,9 @@
             <ref target="documents/878.html#p882-1" role="documentViewer" rendition="page">882</ref>
             <ref target="documents/878.html#p882-2" role="documentViewer" rendition="missing-page">882об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
-      </table>
-      <p>Отсутствуют фотографии 8 страниц: 041об 129об 678об 810об 811 815об 818об 882об</p>
+      </table> <p>Отсутствуют фотографии 8 страниц: 041об 129об 678об 810об 811 815об 818об 882об</p>
     </body>
   </text>
 </TEI>

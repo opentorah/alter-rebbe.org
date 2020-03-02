@@ -1,76 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
       <head>
         <title>
-          Сочиненія
-          <persName ref="Державин">Державина</persName>
-          съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ
+          Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание
+          Императорской академіи наукъ
         </title>
-      </head>
-      Из записок
-      <persName ref="Державин">Державина</persName>.
-      <p>
-        Сочиненія
-        <persName ref="Державин">Державина</persName>
-        съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ.
-        <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot6.pdf">Томъ 6.</ref>
-        Переписка (1794-1816) и "Записки". Апрель 1871 года.
-      </p>
-      <p>стр. 385: Рескрипт Императора Павла</p>
-      <p>
-        стр. 390-394: Доклад
-        <persName ref="Обольянинов">Обольянинова</persName>
-        Государю (о поездке
-        <persName ref="Державин">Державина</persName>)
-      </p>
-      <p>
-        стр. 721-725: Записки
-        <persName ref="Державин">Державина</persName>. Вторая (?) поездка в
-        <placeName ref="Белоруссия">Белорусию</placeName>. Закрытие винодельни в
-        <placeName ref="Лозна">Лиозно</placeName>.
-      </p>
-      <p>
-        стр. 749-751: Жалоба еврейки из
-        <placeName ref="Лозна">Лиозно</placeName>
-      </p>
-      <p>
-        Сочиненія
-        <persName ref="Державин">Державина</persName>
-        съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ.
-        <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot7.pdf">Томъ 7.</ref>
-        Сочиненія въ прозѣ. Май 1872 года.
-      </p>
-      <p>
-        стр. 244-332 и далее: Мнение об отвращении в
-        <placeName ref="Белоруссия">Белорусии</placeName>
-        голода и устройстве быта евреев. 1800, часть II. О евреях.
-      </p>
-      <table rendition="collection-index">
-        <row>
+      </head> Из записок <persName ref="Державин">Державина</persName>. <p>
+        Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание
+        Императорской академіи наукъ. <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot6.pdf">
+          Томъ 6.
+        </ref> Переписка (1794-1816) и "Записки". Апрель 1871 года.
+      </p> <p>стр. 385: Рескрипт Императора Павла</p> <p>
+        стр. 390-394: Доклад <persName ref="Обольянинов">Обольянинова</persName> Государю (о поездке <persName
+        ref="Державин">Державина</persName>)
+      </p> <p>
+        стр. 721-725: Записки <persName ref="Державин">Державина</persName>. Вторая (?) поездка в <placeName
+        ref="Белоруссия">Белорусию</placeName>. Закрытие винодельни в <placeName ref="Лозна">Лиозно</placeName>.
+      </p> <p>стр. 749-751: Жалоба еврейки из <placeName ref="Лозна">Лиозно</placeName></p> <p>
+        Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание
+        Императорской академіи наукъ. <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot7.pdf">
+          Томъ 7.
+        </ref> Сочиненія въ прозѣ. Май 1872 года.
+      </p> <p>
+        стр. 244-332 и далее: Мнение об отвращении в <placeName ref="Белоруссия">Белорусии</placeName> голода и
+        устройстве быта евреев. 1800, часть II. О евреях.
+      </p> <table rendition="collection-index"><row>
           <cell rendition="description">Описание</cell>
           <cell rendition="date">Дата</cell>
           <cell rendition="author">Кто</cell>
@@ -79,8 +43,7 @@
           <cell rendition="document">Документ</cell>
           <cell rendition="pages">Страницы</cell>
           <cell rendition="transcriber">Расшифровка</cell>
-        </row>
-      </table>
+        </row></table>
     </body>
   </text>
 </TEI>

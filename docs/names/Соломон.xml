@@ -1,42 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <person xml:id="Соломон" role="jew">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
+  <text><body><person xml:id="Соломон" role="jew">
         <persName>Соломон</persName>
         <persName>Саломон</persName>
         <persName>Саломон из Каролина</persName>
         <p>Соломон Карлинский – деятель хасидского движения в Белоруссии и Литве в последней четверти XVIII века</p>
-        <ref target="https://ru.wikisource.org/wiki/ЕЭБЕ/Карлинский,_Соломон">[Еврейская_энциклопедия_Брокгауза_и_Ефрона]</ref>
+        <ref target="https://ru.wikisource.org/wiki/ЕЭБЕ/Карлинский,_Соломон">[Еврейская энциклопедия Брокгауза и Ефрона]</ref>
         <ref target="https://en.wikipedia.org/wiki/Karlin-Stolin_(Hasidic_dynasty)">[Википедия]</ref>
         <ref target="http://dailyzohar.com/tzadikim/441-Rabbi-Shlomo-HaLevi-of-Karlin"/>
         <ref target="https://www.geni.com/people/Shlomo-Gottleib-Segal-of-Karlin/6000000070595516924"/>
         <p rendition="mentions">
           <ref target="/names.html#Соломон" role="namesViewer">[...]</ref>
           <l>
-            РГАДА 3140:
+            <emph>РГАДА 3140:</emph>
             <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
             <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
             <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
@@ -48,7 +32,5 @@
             <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
           </l>
         </p>
-      </person>
-    </body>
-  </text>
+      </person></body></text>
 </TEI>
