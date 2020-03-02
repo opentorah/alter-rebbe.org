@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><place xml:id="Индура">
-        <placeName>Индура</placeName>
-        <ref target="https://ru.wikipedia.org/wiki/Индура">[Википедия]</ref>
-        <p rendition="mentions">
-          <ref target="/names.html#Индура" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
-            <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-            <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
-            <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
-            <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
-          </l>
-        </p>
-      </place></body></text>
+    <placeName>Индура</placeName>
+    <ref target="https://ru.wikipedia.org/wiki/Индура">[Википедия]</ref>
+    <p rendition="mentions">
+      <ref target="/names.html#Индура" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
+        <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+        <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+        <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+        <ref target="/collections/rgada/documents/133.html" role="documentViewer">133</ref>
+        <ref target="/collections/rgada/documents/135.html" role="documentViewer">135</ref>
+        <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
+      </l>
+    </p>
+  </place></body></text>
 </TEI>

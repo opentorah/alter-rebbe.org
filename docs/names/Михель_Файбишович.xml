@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Михель_Файбишович" role="jew">
-        <persName>Михель Файбишович</persName>
-        <persName>Михель Фаибишович</persName>
-        <p>виленский хасид, один из арестованнных во время следствия 1798 г.</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Михель_Файбишович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/047.html" role="documentViewer">047</ref>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
-            <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
-            <ref target="/collections/rgada/documents/112.html" role="documentViewer">112</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Михель Файбишович</persName>
+    <persName>Михель Фаибишович</persName>
+    <p>виленский хасид, один из арестованнных во время следствия 1798 г.</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Михель_Файбишович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/047.html" role="documentViewer">047</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+        <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
+        <ref target="/collections/rgada/documents/112.html" role="documentViewer">112</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

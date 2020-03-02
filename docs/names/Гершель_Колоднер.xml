@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Гершель_Колоднер" role="jew">
-        <persName>Гершель Колоднер</persName>
-        <p>Пинский хасид, старшина еврейской общины города, представитель пинской хасидской династии, занимавшейся торговлей</p>
-        <ref target="http://www.jewage.org/wiki/ru/Article:Происхождение_фамилии_Колоднер"/>
-        <p rendition="mentions">
-          <ref target="/names.html#Гершель_Колоднер" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Гершель Колоднер</persName>
+    <p>Пинский хасид, старшина еврейской общины города, представитель пинской хасидской династии, занимавшейся торговлей
+    </p>
+    <ref target="http://www.jewage.org/wiki/ru/Article:Происхождение_фамилии_Колоднер"/>
+    <p rendition="mentions">
+      <ref target="/names.html#Гершель_Колоднер" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

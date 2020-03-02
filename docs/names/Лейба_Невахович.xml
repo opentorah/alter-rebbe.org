@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Лейба_Невахович" role="jew">
-        <persName>Лейба Невахович</persName>
-        <persName>Невахович, Лев Николаевич</persName>
-        <ref target="https://ru.wikipedia.org/wiki/Невахович,_Лев_Николаевич">[Википедия]</ref>
-        <ref target="http://ejwiki.org/wiki/Невахович,_Иехуда_Лейб_Бен_Hoax">[ЕжеВиКа, Еврейская Вики-энциклопедия]</ref>
-        <ref target="https://eleven.co.il/jewish-literature/in-russian/12937/">[Электронная еврейская энциклопедия]</ref>
-        <ref target="http://ju.org.ua/ru/publicism/608.html">publicism</ref>
-        <ref target="http://www.jewhistory.ort.spb.ru/rus/main/s.php?id=810">[Евреи Петербурга. Три века истории]</ref>
-        <p>Переводчик с иврита на русский язык показаний участников следствия в 1800 г.</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Лейба_Невахович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Имена:</emph>
-            <ref target="/names/Файбишевич.html" role="namesViewer">Юда Файбишевич</ref>
-          </l>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/dubnov/documents/269.html" role="documentViewer">269</ref>
-          </l>
-          <l>
-            <emph>РГИА 413:</emph>
-            <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
-            <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Лейба Невахович</persName>
+    <persName>Невахович, Лев Николаевич</persName>
+    <ref target="https://ru.wikipedia.org/wiki/Невахович,_Лев_Николаевич">[Википедия]</ref>
+    <ref target="http://ejwiki.org/wiki/Невахович,_Иехуда_Лейб_Бен_Hoax">[ЕжеВиКа, Еврейская Вики-энциклопедия]</ref>
+    <ref target="https://eleven.co.il/jewish-literature/in-russian/12937/">[Электронная еврейская энциклопедия]</ref>
+    <ref target="http://ju.org.ua/ru/publicism/608.html">publicism</ref>
+    <ref target="http://www.jewhistory.ort.spb.ru/rus/main/s.php?id=810">[Евреи Петербурга. Три века истории]</ref>
+    <p>Переводчик с иврита на русский язык показаний участников следствия в 1800 г.</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Лейба_Невахович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Файбишевич.html" role="namesViewer">Юда Файбишевич</ref>
+      </l>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+        <ref target="/collections/dubnov/documents/269.html" role="documentViewer">269</ref>
+      </l>
+      <l>
+        <emph>РГИА 413:</emph>
+        <ref target="/collections/rgia413/documents/011.html" role="documentViewer">011</ref>
+        <ref target="/collections/rgia413/documents/013.html" role="documentViewer">013</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

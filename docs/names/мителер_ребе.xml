@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="мителер_ребе" role="jew">
-        <persName>Дов-Бер Шнеерсон</persName>
-        <persName>рабин Любавицкий</persName>
-        <persName>Берка Шнеер</persName>
-        <persName>раввин Шнеерсон</persName>
-        <ref target="https://ru.wikipedia.org/wiki/Мителер_Ребе">[Википедия]</ref>
-        <p>сын <persName ref="alter-rebbe">Шнеура Залмана</persName>, второй руководитель Хабада</p>
-        <p rendition="mentions">
-          <ref target="/names.html#мителер_ребе" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Имена:</emph>
-            <ref target="/names/Рафал.html" role="namesViewer">Рафал</ref>
-          </l>
-          <l>
-            <emph>РГИА 119:</emph>
-            <ref target="/collections/rgia119/documents/244.html" role="documentViewer">244</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Дов-Бер Шнеерсон</persName>
+    <persName>рабин Любавицкий</persName>
+    <persName>Берка Шнеер</persName>
+    <persName>раввин Шнеерсон</persName>
+    <ref target="https://ru.wikipedia.org/wiki/Мителер_Ребе">[Википедия]</ref>
+    <p>сын <persName ref="alter-rebbe">Шнеура Залмана</persName>, второй руководитель Хабада</p>
+    <p rendition="mentions">
+      <ref target="/names.html#мителер_ребе" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Рафал.html" role="namesViewer">Рафал</ref>
+      </l>
+      <l>
+        <emph>РГИА 119:</emph>
+        <ref target="/collections/rgia119/documents/244.html" role="documentViewer">244</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

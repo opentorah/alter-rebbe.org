@@ -1,57 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Нохим_Ицкович" role="jew">
-        <persName>Нохим Ицкович</persName>
-        <persName>Нухим Ицкович</persName>
-        <persName>Нахум</persName>
-        <p>виленский купец, хасид или доверенное лицо виленских хасидов, их поверенный по ряду дел. По версии <persName ref="Авигдор">Авигдора Хаймовича</persName> и <persName ref="Моисей_Ошерович">Мовши Ошеровича</persName>, один из авторов жалоб на руководителей <orgName ref="виленский_кагал">виленского кагала</orgName>, получатель денег, доставленных хасидам города от <persName ref="alter-rebbe">Шнеура Залмана</persName></p>
-        <p>Состоит в родстве с <persName ref="Меіер_Рафалович">Меером Рафаловичем</persName>.</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Нохим_Ицкович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Имена:</emph>
-            <ref target="/names/Меіер_Рафалович.html" role="namesViewer">Меер Рафалович</ref>
-          </l>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-          </l>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/095.html" role="documentViewer">095</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-            <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
-            <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
-            <ref target="/collections/rgada/documents/337.html" role="documentViewer">337</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </l>
-          <l>
-            <emph>РГИА 328:</emph>
-            <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
-          </l>
-          <l>
-            <emph>РГИА 413:</emph>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Нохим Ицкович</persName>
+    <persName>Нухим Ицкович</persName>
+    <persName>Нахум</persName>
+    <p>виленский купец, хасид или доверенное лицо виленских хасидов, их поверенный по ряду дел. По версии <persName
+    ref="Авигдор">Авигдора Хаймовича</persName> и <persName ref="Моисей_Ошерович">Мовши Ошеровича</persName>, один из
+    авторов жалоб на руководителей <orgName ref="виленский_кагал">виленского кагала</orgName>, получатель денег,
+    доставленных хасидам города от <persName ref="alter-rebbe">Шнеура Залмана</persName></p>
+    <p>Состоит в родстве с <persName ref="Меіер_Рафалович">Меером Рафаловичем</persName>.</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Нохим_Ицкович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Меіер_Рафалович.html" role="namesViewer">Меер Рафалович</ref>
+      </l>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+        <ref target="/collections/rgada/documents/095.html" role="documentViewer">095</ref>
+        <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+        <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+        <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
+        <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+        <ref target="/collections/rgada/documents/125.html" role="documentViewer">125</ref>
+        <ref target="/collections/rgada/documents/152a.html" role="documentViewer">152a</ref>
+        <ref target="/collections/rgada/documents/337.html" role="documentViewer">337</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+      </l>
+      <l>
+        <emph>РГИА 328:</emph>
+        <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
+      </l>
+      <l>
+        <emph>РГИА 413:</emph>
+        <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

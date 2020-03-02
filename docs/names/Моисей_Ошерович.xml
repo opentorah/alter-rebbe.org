@@ -1,60 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Моисей_Ошерович" role="jew">
-        <persName>Мовша Ошерович</persName>
-        <persName>Моисей Ошерович</persName>
-        <persName>Мойжеш Ошерович</persName>
-        <persName>Мойжеш Ашерович</persName>
-        <persName>Майжеш Ошерович</persName>
-        <p>Старшина виленского кагала в 1790-х гг., отстраненный вместе со всем руководством кагала в феврале 1799 г. после обвинений в злоупотреблениях и фальсификации финансовой отчетности, ученик и последователь виленского <persName ref="Эліас">Гаона</persName>, купец, автор прошений о запрете хасидизма, поданных <persName ref="Павел_I">императору</persName>, генерал-прокурору <persName ref="Лопухин">Лопухину</persName> и в <orgName ref="Литовское_губернское_правление">Литовское Губернское правление</orgName>; сторонник восстановления судебных полномочий кагалов в решении гражданских дел</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Моисей_Ошерович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Имена:</emph>
-            <ref target="/names/Нохим_Ицкович.html" role="namesViewer">Нохим Ицкович</ref>
-          </l>
-          <l>
-            <emph>LVIA 1799:</emph>
-            <ref target="/collections/lvia1799/documents/0250.html" role="documentViewer">0250</ref>
-          </l>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
-            <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
-          </l>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
-          </l>
-          <l>
-            <emph>РГИА 328:</emph>
-            <ref target="/collections/rgia328/documents/007.html" role="documentViewer">007</ref>
-            <ref target="/collections/rgia328/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia328/documents/010.html" role="documentViewer">010</ref>
-            <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
-          </l>
-          <l>
-            <emph>РГИА 413:</emph>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
-            <ref target="/collections/rgia413/documents/029.html" role="documentViewer">029</ref>
-            <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Мовша Ошерович</persName>
+    <persName>Моисей Ошерович</persName>
+    <persName>Мойжеш Ошерович</persName>
+    <persName>Мойжеш Ашерович</persName>
+    <persName>Майжеш Ошерович</persName>
+    <p>Старшина виленского кагала в 1790-х гг., отстраненный вместе со всем руководством кагала в феврале 1799 г. после
+    обвинений в злоупотреблениях и фальсификации финансовой отчетности, ученик и последователь виленского <persName
+    ref="Эліас">Гаона</persName>, купец, автор прошений о запрете хасидизма, поданных <persName ref="Павел_I">
+    императору</persName>, генерал-прокурору <persName ref="Лопухин">Лопухину</persName> и в <orgName
+    ref="Литовское_губернское_правление">Литовское Губернское правление</orgName>; сторонник восстановления судебных
+    полномочий кагалов в решении гражданских дел</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Моисей_Ошерович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Нохим_Ицкович.html" role="namesViewer">Нохим Ицкович</ref>
+      </l>
+      <l>
+        <emph>LVIA 1799:</emph>
+        <ref target="/collections/lvia1799/documents/0250.html" role="documentViewer">0250</ref>
+      </l>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
+        <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
+      </l>
+      <l>
+        <emph>РГИА 328:</emph>
+        <ref target="/collections/rgia328/documents/007.html" role="documentViewer">007</ref>
+        <ref target="/collections/rgia328/documents/008.html" role="documentViewer">008</ref>
+        <ref target="/collections/rgia328/documents/010.html" role="documentViewer">010</ref>
+        <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
+      </l>
+      <l>
+        <emph>РГИА 413:</emph>
+        <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+        <ref target="/collections/rgia413/documents/027.html" role="documentViewer">027</ref>
+        <ref target="/collections/rgia413/documents/029.html" role="documentViewer">029</ref>
+        <ref target="/collections/rgia413/documents/030.html" role="documentViewer">030</ref>
+        <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

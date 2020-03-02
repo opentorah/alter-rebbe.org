@@ -1,67 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Меіер_Рафалович" role="jew">
-        <persName>Меер Рафалович</persName>
-        <persName>Мейер Рафалович</persName>
-        <persName>Меіер Рафалович</persName>
-        <persName>Мейер Рафалс</persName>
-        <persName>Меер Рафаилович</persName>
-        <persName>Рафаелович</persName>
-        <p>раввин, руководитель хасидской общины Вильно; один из первых хасидов города (по версии <persName ref="Нохим_Ицкович">Нохима Ицковича</persName> с 1772 г.; по версии самого Рафаловича – с 1788 г., по данным <persName ref="Булгаков">Булгакова</persName> с 1799 г.), в доме М.Р. до октября 1797 г. проводились общинные молитвы хасидов; со времени полной смены состава <orgName ref="виленский_кагал">виленского кагала</orgName>; в 1798 г. – старший кагальный; торговец алкогольными напитками; родственник <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>, тесть <persName ref="Зелман_Леизерович">Зелмана Леизеровича</persName>; по словам <persName ref="Авигдор">Авигдора Хаймовича</persName> – податель ложных жалоб на городских старшин</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Меіер_Рафалович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Имена:</emph>
-            <ref target="/names/Нохим_Ицкович.html" role="namesViewer">Нохим Ицкович</ref>
-          </l>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-            <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
-          </l>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
-            <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
-            <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/092.html" role="documentViewer">092</ref>
-            <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
-            <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
-            <ref target="/collections/rgada/documents/143a.html" role="documentViewer">143a</ref>
-            <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </l>
-          <l>
-            <emph>РГИА 328:</emph>
-            <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
-          </l>
-          <l>
-            <emph>РГИА 413:</emph>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-          </l>
-          <l>
-            <emph>РГИА 529:</emph>
-            <ref target="/collections/rgia529/documents/071.html" role="documentViewer">071</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Меер Рафалович</persName>
+    <persName>Мейер Рафалович</persName>
+    <persName>Меіер Рафалович</persName>
+    <persName>Мейер Рафалс</persName>
+    <persName>Меер Рафаилович</persName>
+    <persName>Рафаелович</persName>
+    <p>раввин, руководитель хасидской общины Вильно; один из первых хасидов города (по версии <persName
+    ref="Нохим_Ицкович">Нохима Ицковича</persName> с 1772 г.; по версии самого Рафаловича – с 1788 г., по данным
+    <persName ref="Булгаков">Булгакова</persName> с 1799 г.), в доме М.Р. до октября 1797 г. проводились общинные
+    молитвы хасидов; со времени полной смены состава <orgName ref="виленский_кагал">виленского кагала</orgName>; в 1798
+    г. – старший кагальный; торговец алкогольными напитками; родственник <persName ref="Нохим_Ицкович">Нохима
+    Ицковича</persName>, тесть <persName ref="Зелман_Леизерович">Зелмана Леизеровича</persName>; по словам <persName
+    ref="Авигдор">Авигдора Хаймовича</persName> – податель ложных жалоб на городских старшин</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Меіер_Рафалович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Нохим_Ицкович.html" role="namesViewer">Нохим Ицкович</ref>
+      </l>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+        <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/021.html" role="documentViewer">021</ref>
+        <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
+        <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/092.html" role="documentViewer">092</ref>
+        <ref target="/collections/rgada/documents/093.html" role="documentViewer">093</ref>
+        <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+        <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+        <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+        <ref target="/collections/rgada/documents/111.html" role="documentViewer">111</ref>
+        <ref target="/collections/rgada/documents/113.html" role="documentViewer">113</ref>
+        <ref target="/collections/rgada/documents/143a.html" role="documentViewer">143a</ref>
+        <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+      </l>
+      <l>
+        <emph>РГИА 328:</emph>
+        <ref target="/collections/rgia328/documents/012.html" role="documentViewer">012</ref>
+      </l>
+      <l>
+        <emph>РГИА 413:</emph>
+        <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+        <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+      </l>
+      <l>
+        <emph>РГИА 529:</emph>
+        <ref target="/collections/rgia529/documents/071.html" role="documentViewer">071</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

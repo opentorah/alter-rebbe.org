@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Лезер_Хаймович" role="jew">
-        <persName>Лезер Хаймович</persName>
-        <p>виленский хасид, в доме которого до 1788 г. проходили хасидские общинные молитвы</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Лезер_Хаймович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Лезер Хаймович</persName>
+    <p>виленский хасид, в доме которого до 1788 г. проходили хасидские общинные молитвы</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Лезер_Хаймович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

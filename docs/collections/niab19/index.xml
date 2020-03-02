@@ -1,86 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
-  <text>
-    <body>
-      <head>
-        <title>
-          Переписка и списки купцов; местечка <placeName ref="Любавичи">Любавичи</placeName> получивших ссуду на
-          постройку домов, вместо сгоревших от пожара
-        </title>
-      </head> 1851-1861 Списки купцов местечка <placeName ref="Любавичи">Любавичи</placeName>. <p>МИНСК - НИАБ</p> <p>
-        ф. 2096 оп. 1, д. 19
-      </p> <p>
-        Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: HMF-859 Переписка и списки купцов местечка
-        <placeName ref="Любавичи">Любавичи</placeName>, получивших ссуду на постройку домов вместо сгоревших от пожара
-        1858 г. (дата сомнительная: дело начато в 1851м...)
-      </p> <p>Фотографии (из CAHJP) предоставил Перец Мочкин.</p> <table rendition="collection-index">
-        <row>
-          <cell rendition="description">Описание</cell>
-          <cell rendition="date">Дата</cell>
-          <cell rendition="author">Кто</cell>
-          <cell rendition="addressee">Кому</cell>
-          <cell rendition="language">Язык</cell>
-          <cell rendition="document">Документ</cell>
-          <cell rendition="pages">Страницы</cell>
-          <cell rendition="transcriber">Расшифровка</cell>
-        </row>
-        <row>
-          <cell rendition="description"/>
-          <cell rendition="date"/>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"/>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document"><ref target="documents/033.html" role="documentViewer">033</ref></cell>
-          <cell rendition="pages">
-            <ref target="documents/033.html#p033-1" role="documentViewer" rendition="page">033</ref>
-            <ref target="documents/033.html#p034-1" role="documentViewer" rendition="page">034</ref>
-            <ref target="documents/033.html#p035-1" role="documentViewer" rendition="page">035</ref>
-            <ref target="documents/033.html#p036-1" role="documentViewer" rendition="page">036</ref>
-            <ref target="documents/033.html#p037-1" role="documentViewer" rendition="page">037</ref>
-            <ref target="documents/033.html#p038-1" role="documentViewer" rendition="page">038</ref>
-            <ref target="documents/033.html#p039-1" role="documentViewer" rendition="page">039</ref>
-            <ref target="documents/033.html#p040-1" role="documentViewer" rendition="page">040</ref>
-            <ref target="documents/033.html#p041-1" role="documentViewer" rendition="page">041</ref>
-            <ref target="documents/033.html#p042-1" role="documentViewer" rendition="page">042</ref>
-            <ref target="documents/033.html#p043-1" role="documentViewer" rendition="page">043</ref>
-            <ref target="documents/033.html#p044-1" role="documentViewer" rendition="page">044</ref>
-            <ref target="documents/033.html#p045-1" role="documentViewer" rendition="page">045</ref>
-            <ref target="documents/033.html#p046-1" role="documentViewer" rendition="page">046</ref>
-            <ref target="documents/033.html#p047-1" role="documentViewer" rendition="page">047</ref>
-            <ref target="documents/033.html#p048-1" role="documentViewer" rendition="page">048</ref>
-            <ref target="documents/033.html#p049-1" role="documentViewer" rendition="page">049</ref>
-            <ref target="documents/033.html#p050-1" role="documentViewer" rendition="page">050</ref>
-            <ref target="documents/033.html#p051-1" role="documentViewer" rendition="page">051</ref>
-            <ref target="documents/033.html#p052-1" role="documentViewer" rendition="page">052</ref>
-          </cell>
-          <cell rendition="transcriber"/>
-        </row>
-        <row>
-          <cell rendition="description"/>
-          <cell rendition="date"/>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"/>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document"><ref target="documents/053.html" role="documentViewer">053</ref></cell>
-          <cell rendition="pages">
-            <ref target="documents/053.html#p053-1" role="documentViewer" rendition="page">053</ref>
-            <ref target="documents/053.html#p054-1" role="documentViewer" rendition="page">054</ref>
-            <ref target="documents/053.html#p055-1" role="documentViewer" rendition="page">055</ref>
-            <ref target="documents/053.html#p056-1" role="documentViewer" rendition="page">056</ref>
-            <ref target="documents/053.html#p057-1" role="documentViewer" rendition="page">057</ref>
-            <ref target="documents/053.html#p058-1" role="documentViewer" rendition="page">058</ref>
-          </cell>
-          <cell rendition="transcriber"/>
-        </row>
-      </table>
-    </body>
-  </text>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body>
+    <head><title>Переписка и списки купцов; местечка <placeName ref="Любавичи">Любавичи</placeName> получивших ссуду на
+    постройку домов, вместо сгоревших от пожара</title></head>
+    <span>1851-1861 Списки купцов местечка <placeName ref="Любавичи">Любавичи</placeName>.</span>
+    <p>МИНСК - НИАБ</p>
+    <p>ф. 2096 оп. 1, д. 19</p>
+    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: HMF-859 Переписка и списки купцов местечка
+    <placeName ref="Любавичи">Любавичи</placeName>, получивших ссуду на постройку домов вместо сгоревших от пожара 1858
+    г. (дата сомнительная: дело начато в 1851м...)</p>
+    <p>Фотографии (из CAHJP) предоставил Перец Мочкин.</p>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref target="documents/033.html" role="documentViewer">033</ref></cell>
+        <cell rendition="pages">
+          <ref target="documents/033.html#p033-1" role="documentViewer" rendition="page">033</ref>
+          <ref target="documents/033.html#p034-1" role="documentViewer" rendition="page">034</ref>
+          <ref target="documents/033.html#p035-1" role="documentViewer" rendition="page">035</ref>
+          <ref target="documents/033.html#p036-1" role="documentViewer" rendition="page">036</ref>
+          <ref target="documents/033.html#p037-1" role="documentViewer" rendition="page">037</ref>
+          <ref target="documents/033.html#p038-1" role="documentViewer" rendition="page">038</ref>
+          <ref target="documents/033.html#p039-1" role="documentViewer" rendition="page">039</ref>
+          <ref target="documents/033.html#p040-1" role="documentViewer" rendition="page">040</ref>
+          <ref target="documents/033.html#p041-1" role="documentViewer" rendition="page">041</ref>
+          <ref target="documents/033.html#p042-1" role="documentViewer" rendition="page">042</ref>
+          <ref target="documents/033.html#p043-1" role="documentViewer" rendition="page">043</ref>
+          <ref target="documents/033.html#p044-1" role="documentViewer" rendition="page">044</ref>
+          <ref target="documents/033.html#p045-1" role="documentViewer" rendition="page">045</ref>
+          <ref target="documents/033.html#p046-1" role="documentViewer" rendition="page">046</ref>
+          <ref target="documents/033.html#p047-1" role="documentViewer" rendition="page">047</ref>
+          <ref target="documents/033.html#p048-1" role="documentViewer" rendition="page">048</ref>
+          <ref target="documents/033.html#p049-1" role="documentViewer" rendition="page">049</ref>
+          <ref target="documents/033.html#p050-1" role="documentViewer" rendition="page">050</ref>
+          <ref target="documents/033.html#p051-1" role="documentViewer" rendition="page">051</ref>
+          <ref target="documents/033.html#p052-1" role="documentViewer" rendition="page">052</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref target="documents/053.html" role="documentViewer">053</ref></cell>
+        <cell rendition="pages">
+          <ref target="documents/053.html#p053-1" role="documentViewer" rendition="page">053</ref>
+          <ref target="documents/053.html#p054-1" role="documentViewer" rendition="page">054</ref>
+          <ref target="documents/053.html#p055-1" role="documentViewer" rendition="page">055</ref>
+          <ref target="documents/053.html#p056-1" role="documentViewer" rendition="page">056</ref>
+          <ref target="documents/053.html#p057-1" role="documentViewer" rendition="page">057</ref>
+          <ref target="documents/053.html#p058-1" role="documentViewer" rendition="page">058</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+    </table>
+  </body></text>
 </TEI>

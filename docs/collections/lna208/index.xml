@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
-  <text>
-    <body>
-      <head>
-        <title>Об отправке арестованных хасидов в <placeName ref="Вильно">Вильно</placeName></title>
-      </head>Документов этого дела у нас пока нет. <p>LNA Riga, I-2-208</p> <p>
-        Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Канцелярия Лифлянд.,Курлянд. и Эстлянд.
-        губернатора. О сопровождении пяти арестованных евреев с конвоем в <placeName ref="Вильно">Вильно</placeName>.
-      </p> <p>Похоже это не то, что цитирует Дубнов. Его цитата где-то в другом месте, хоть и о рижской цензуре.</p>
-      <table rendition="collection-index"><row>
-          <cell rendition="description">Описание</cell>
-          <cell rendition="date">Дата</cell>
-          <cell rendition="author">Кто</cell>
-          <cell rendition="addressee">Кому</cell>
-          <cell rendition="language">Язык</cell>
-          <cell rendition="document">Документ</cell>
-          <cell rendition="pages">Страницы</cell>
-          <cell rendition="transcriber">Расшифровка</cell>
-        </row></table>
-    </body>
-  </text>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body>
+    <head><title>Об отправке арестованных хасидов в <placeName ref="Вильно">Вильно</placeName></title></head>
+    <span>Документов этого дела у нас пока нет.</span>
+    <p>LNA Riga, I-2-208</p>
+    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Канцелярия Лифлянд.,Курлянд. и Эстлянд.
+    губернатора. О сопровождении пяти арестованных евреев с конвоем в <placeName ref="Вильно">Вильно</placeName>.</p>
+    <p>Похоже это не то, что цитирует Дубнов. Его цитата где-то в другом месте, хоть и о рижской цензуре.</p>
+    <table rendition="collection-index"><row>
+      <cell rendition="description">Описание</cell>
+      <cell rendition="date">Дата</cell>
+      <cell rendition="author">Кто</cell>
+      <cell rendition="addressee">Кому</cell>
+      <cell rendition="language">Язык</cell>
+      <cell rendition="document">Документ</cell>
+      <cell rendition="pages">Страницы</cell>
+      <cell rendition="transcriber">Расшифровка</cell>
+    </row></table>
+  </body></text>
 </TEI>

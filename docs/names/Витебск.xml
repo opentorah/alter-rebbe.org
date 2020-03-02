@@ -1,62 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><place xml:id="Витебск">
-        <placeName>Витебск</placeName>
-        <p rendition="mentions">
-          <ref target="/names.html#Витебск" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
-            <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
-            <ref target="/collections/dubnov/documents/273.html" role="documentViewer">273</ref>
-            <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
-          </l>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgada/documents/032.html" role="documentViewer">032</ref>
-            <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/079.html" role="documentViewer">079</ref>
-            <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/248.html" role="documentViewer">248</ref>
-            <ref target="/collections/rgada/documents/249.html" role="documentViewer">249</ref>
-            <ref target="/collections/rgada/documents/251.html" role="documentViewer">251</ref>
-            <ref target="/collections/rgada/documents/256.html" role="documentViewer">256</ref>
-            <ref target="/collections/rgada/documents/259.html" role="documentViewer">259</ref>
-            <ref target="/collections/rgada/documents/261.html" role="documentViewer">261</ref>
-            <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
-            <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
-            <ref target="/collections/rgada/documents/277.html" role="documentViewer">277</ref>
-            <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
-            <ref target="/collections/rgada/documents/280.html" role="documentViewer">280</ref>
-            <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
-            <ref target="/collections/rgada/documents/325.html" role="documentViewer">325</ref>
-            <ref target="/collections/rgada/documents/332.html" role="documentViewer">332</ref>
-            <ref target="/collections/rgada/documents/352.html" role="documentViewer">352</ref>
-            <ref target="/collections/rgada/documents/354.html" role="documentViewer">354</ref>
-            <ref target="/collections/rgada/documents/364.html" role="documentViewer">364</ref>
-          </l>
-          <l>
-            <emph>РГИА 119:</emph>
-            <ref target="/collections/rgia119/documents/243.html" role="documentViewer">243</ref>
-          </l>
-          <l>
-            <emph>РГИА 413:</emph>
-            <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
-            <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
-          </l>
-        </p>
-      </place></body></text>
+    <placeName>Витебск</placeName>
+    <p rendition="mentions">
+      <ref target="/names.html#Витебск" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+        <ref target="/collections/dubnov/documents/263.2.html" role="documentViewer">263.2</ref>
+        <ref target="/collections/dubnov/documents/264.html" role="documentViewer">264</ref>
+        <ref target="/collections/dubnov/documents/273.html" role="documentViewer">273</ref>
+        <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/030.html" role="documentViewer">030</ref>
+        <ref target="/collections/rgada/documents/032.html" role="documentViewer">032</ref>
+        <ref target="/collections/rgada/documents/042.html" role="documentViewer">042</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/079.html" role="documentViewer">079</ref>
+        <ref target="/collections/rgada/documents/085.html" role="documentViewer">085</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/248.html" role="documentViewer">248</ref>
+        <ref target="/collections/rgada/documents/249.html" role="documentViewer">249</ref>
+        <ref target="/collections/rgada/documents/251.html" role="documentViewer">251</ref>
+        <ref target="/collections/rgada/documents/256.html" role="documentViewer">256</ref>
+        <ref target="/collections/rgada/documents/259.html" role="documentViewer">259</ref>
+        <ref target="/collections/rgada/documents/261.html" role="documentViewer">261</ref>
+        <ref target="/collections/rgada/documents/275.html" role="documentViewer">275</ref>
+        <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref>
+        <ref target="/collections/rgada/documents/277.html" role="documentViewer">277</ref>
+        <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
+        <ref target="/collections/rgada/documents/280.html" role="documentViewer">280</ref>
+        <ref target="/collections/rgada/documents/283.html" role="documentViewer">283</ref>
+        <ref target="/collections/rgada/documents/325.html" role="documentViewer">325</ref>
+        <ref target="/collections/rgada/documents/332.html" role="documentViewer">332</ref>
+        <ref target="/collections/rgada/documents/352.html" role="documentViewer">352</ref>
+        <ref target="/collections/rgada/documents/354.html" role="documentViewer">354</ref>
+        <ref target="/collections/rgada/documents/364.html" role="documentViewer">364</ref>
+      </l>
+      <l>
+        <emph>РГИА 119:</emph>
+        <ref target="/collections/rgia119/documents/243.html" role="documentViewer">243</ref>
+      </l>
+      <l>
+        <emph>РГИА 413:</emph>
+        <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref>
+        <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref>
+        <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
+      </l>
+    </p>
+  </place></body></text>
 </TEI>
