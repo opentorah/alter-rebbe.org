@@ -1,48 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <person xml:id="Ицка_Мелентович" role="jew">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
+  <text><body><person xml:id="Ицка_Мелентович" role="jew">
         <persName>Ицка Мелентович</persName>
         <persName>Ицка Меленкович</persName>
-        <p>
-          старшина виленского кагала, один из авторов прошения о запрещении хасидизма и востановлении судебных полномочий кагалов в решении гражданских дел евреев
-        </p>
+        <p>старшина виленского кагала, один из авторов прошения о запрещении хасидизма и востановлении судебных полномочий кагалов в решении гражданских дел евреев</p>
         <p rendition="mentions">
           <ref target="/names.html#Ицка_Мелентович" role="namesViewer">[...]</ref>
           <l>
-            Дубнов:
+            <emph>Дубнов:</emph>
             <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
           </l>
           <l>
-            РГИА 413:
+            <emph>РГИА 413:</emph>
             <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
             <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
           </l>
         </p>
-      </person>
-    </body>
-  </text>
+      </person></body></text>
 </TEI>

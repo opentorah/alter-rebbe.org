@@ -1,52 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
       <head>
         <title>
-          Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1824 год. По повелению его высочества цесаревича о узнании по литовским губерниям без огласки о сведениях нищет еврейского народа.
+          Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1824 год. По повелению его высочества
+          цесаревича о узнании по литовским губерниям без огласки о сведениях нищет еврейского народа.
         </title>
-      </head>
-      Переписка чиновников о положение евреев в
-      <placeName ref="Литва">Литве</placeName>
-      и
-      <placeName ref="Белоруссия">Белоруссии</placeName>. Упомянут
-      <persName ref="мителер_ребе">Мителер Ребе</persName>.
-      <p>
-        Литовский Исторический Архив -
-        <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA Vilniua</ref>.
-      </p>
-      <p>
-        Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:
-      </p>
-      <p>CAHJP HM2-9771.1</p>
-      <p>Государственный исторический архив Литвы, Ф.378 B/S,1824 г., д.29</p>
-      <p>Фотографии (из CAHJP) предоставил Перец Мочкин.</p>
-      <p>Фотографии предоставила Галина Баранова.</p>
-      <table rendition="collection-index">
+      </head> Переписка чиновников о положение евреев в <placeName ref="Литва">Литве</placeName> и <placeName
+      ref="Белоруссия">Белоруссии</placeName>. Упомянут <persName ref="мителер_ребе">Мителер Ребе</persName>. <p>
+        Литовский Исторический Архив - <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">
+          LVIA Vilniua
+        </ref>.
+      </p> <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:</p> <p>CAHJP HM2-9771.1</p> <p>
+        Государственный исторический архив Литвы, Ф.378 B/S,1824 г., д.29
+      </p> <p>Фотографии (из CAHJP) предоставил Перец Мочкин.</p> <p>Фотографии предоставила Галина Баранова.</p> <table
+      rendition="collection-index">
         <row>
           <cell rendition="description">Описание</cell>
           <cell rendition="date">Дата</cell>
@@ -58,74 +35,64 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/000.html" role="documentViewer">000</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/000.html" role="documentViewer">000</ref></cell>
           <cell rendition="pages">
             <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
             <ref target="documents/000.html#p000-2" role="documentViewer" rendition="page">000об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/001.html" role="documentViewer">001</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/001.html" role="documentViewer">001</ref></cell>
           <cell rendition="pages">
             <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
             <ref target="documents/001.html#p001-2" role="documentViewer" rendition="page">001об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/002.html" role="documentViewer">002</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/002.html" role="documentViewer">002</ref></cell>
           <cell rendition="pages">
             <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
             <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/003.html" role="documentViewer">003</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/003.html" role="documentViewer">003</ref></cell>
           <cell rendition="pages">
             <ref target="documents/003.html#p003-1" role="documentViewer" rendition="page">003</ref>
             <ref target="documents/003.html#p003-2" role="documentViewer" rendition="page">003об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/004.html" role="documentViewer">004</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/004.html" role="documentViewer">004</ref></cell>
           <cell rendition="pages">
             <ref target="documents/004.html#p004-1" role="documentViewer" rendition="page">004</ref>
             <ref target="documents/004.html#p004-2" role="documentViewer" rendition="page">004об</ref>
@@ -134,40 +101,35 @@
             <ref target="documents/004.html#p006-1" role="documentViewer" rendition="page">006</ref>
             <ref target="documents/004.html#p006-2" role="documentViewer" rendition="page">006об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/007.html" role="documentViewer">007</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/007.html" role="documentViewer">007</ref></cell>
           <cell rendition="pages">
             <ref target="documents/007.html#p007-1" role="documentViewer" rendition="page">007</ref>
             <ref target="documents/007.html#p007-2" role="documentViewer" rendition="page">007об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/008.html" role="documentViewer">008</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/008.html" role="documentViewer">008</ref></cell>
           <cell rendition="pages">
             <ref target="documents/008.html#p008-1" role="documentViewer" rendition="page">008</ref>
             <ref target="documents/008.html#p008-2" role="documentViewer" rendition="missing-page">008об</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
-      </table>
-      <p>Отсутствуют фотографии 1 страниц: 008об</p>
+      </table> <p>Отсутствуют фотографии 1 страниц: 008об</p>
     </body>
   </text>
 </TEI>

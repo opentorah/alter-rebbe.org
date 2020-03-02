@@ -1,30 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <person xml:id="рав_Яаков_Йосеф" role="jew">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
+  <text><body><person xml:id="рав_Яаков_Йосеф" role="jew">
         <persName>Яаков Йосеф из Полонного</persName>
         <persName>Яаков из Полена</persName>
         <persName>рав Яаков Йосеф из Полонного</persName>
@@ -35,15 +19,13 @@
         <p rendition="mentions">
           <ref target="/names.html#рав_Яаков_Йосеф" role="namesViewer">[...]</ref>
           <l>
-            Дубнов:
+            <emph>Дубнов:</emph>
             <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
           </l>
           <l>
-            РГИА 2213:
+            <emph>РГИА 2213:</emph>
             <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
           </l>
         </p>
-      </person>
-    </body>
-  </text>
+      </person></body></text>
 </TEI>

@@ -1,43 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
-      <head>
-        <title>Без названия</title>
-      </head>
-      1867. Список записей.
-      <p>МИНСК - НИАБ</p>
-      <p>ф. 2096, оп. 1, д. 24</p>
-      <p>
-        Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Указы из
-        <placeName ref="Могилевская_губерния">Могилёвской</placeName>
-        казённой палаты и заявления разных лиц об установлении в разряд 3-й гильдии купцов. 1860-1869 гг. На 256 лл. два листа с семьей Цемаха-Цедека. Есть лишь отдельные листы
-      </p>
-      <p>Фотографии предоставил Константин Пименов.</p>
-      <table rendition="collection-index">
+      <head><title>Без названия</title></head> 1867. Список записей. <p>МИНСК - НИАБ</p> <p>ф. 2096, оп. 1, д. 24</p> <p
+      >
+        Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Указы из <placeName ref="Могилевская_губерния">
+          Могилёвской
+        </placeName> казённой палаты и заявления разных лиц об установлении в разряд 3-й гильдии купцов. 1860-1869 гг.
+        На 256 лл. два листа с семьей Цемаха-Цедека. Есть лишь отдельные листы
+      </p> <p>Фотографии предоставил Константин Пименов.</p> <table rendition="collection-index">
         <row>
           <cell rendition="description">Описание</cell>
           <cell rendition="date">Дата</cell>
@@ -49,21 +28,19 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/145.html" role="documentViewer">145</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/145.html" role="documentViewer">145</ref></cell>
           <cell rendition="pages">
             <ref target="documents/145.html#p145-1" role="documentViewer" rendition="page">145</ref>
             <ref target="documents/145.html#p179-2" role="documentViewer" rendition="page">179об</ref>
             <ref target="documents/145.html#p180-2" role="documentViewer" rendition="page">180об</ref>
             <ref target="documents/145.html#p181-1" role="documentViewer" rendition="page">181</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
       </table>
     </body>

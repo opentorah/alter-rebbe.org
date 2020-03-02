@@ -1,39 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <org xml:id="РНБ" role="archive">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
+  <text><body><org xml:id="РНБ" role="archive">
         <orgName>РНБ</orgName>
         <orgName>Российская национальная библиотека</orgName>
-        <p>
-          <ref target="http://nlr.ru/">Вебсайт</ref>
-        </p>
-        <p rendition="mentions">
-          <ref target="/names.html#РНБ" role="namesViewer">[...]</ref>
-        </p>
-      </org>
-    </body>
-  </text>
+        <p><ref target="http://nlr.ru/">Вебсайт</ref></p>
+        <p rendition="mentions"><ref target="/names.html#РНБ" role="namesViewer">[...]</ref></p>
+      </org></body></text>
 </TEI>

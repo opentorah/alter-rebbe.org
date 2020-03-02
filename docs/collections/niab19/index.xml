@@ -1,47 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
+  <teiHeader><fileDesc>
       <titleStmt/>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc></teiHeader>
   <text>
     <body>
       <head>
         <title>
-          Переписка и списки купцов; местечка
-          <placeName ref="Любавичи">Любавичи</placeName>
-          получивших ссуду на постройку домов, вместо сгоревших от пожара
+          Переписка и списки купцов; местечка <placeName ref="Любавичи">Любавичи</placeName> получивших ссуду на
+          постройку домов, вместо сгоревших от пожара
         </title>
-      </head>
-      1851-1861 Списки купцов местечка
-      <placeName ref="Любавичи">Любавичи</placeName>.
-      <p>МИНСК - НИАБ</p>
-      <p>ф. 2096 оп. 1, д. 19</p>
-      <p>
-        Описание в
-        <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: HMF-859 Переписка и списки купцов местечка
-        <placeName ref="Любавичи">Любавичи</placeName>, получивших ссуду на постройку домов вместо сгоревших от пожара 1858 г. (дата сомнительная: дело начато в 1851м...)
-      </p>
-      <p>Фотографии (из CAHJP) предоставил Перец Мочкин.</p>
-      <table rendition="collection-index">
+      </head> 1851-1861 Списки купцов местечка <placeName ref="Любавичи">Любавичи</placeName>. <p>МИНСК - НИАБ</p> <p>
+        ф. 2096 оп. 1, д. 19
+      </p> <p>
+        Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: HMF-859 Переписка и списки купцов местечка
+        <placeName ref="Любавичи">Любавичи</placeName>, получивших ссуду на постройку домов вместо сгоревших от пожара
+        1858 г. (дата сомнительная: дело начато в 1851м...)
+      </p> <p>Фотографии (из CAHJP) предоставил Перец Мочкин.</p> <table rendition="collection-index">
         <row>
           <cell rendition="description">Описание</cell>
           <cell rendition="date">Дата</cell>
@@ -53,14 +33,12 @@
           <cell rendition="transcriber">Расшифровка</cell>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/033.html" role="documentViewer">033</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/033.html" role="documentViewer">033</ref></cell>
           <cell rendition="pages">
             <ref target="documents/033.html#p033-1" role="documentViewer" rendition="page">033</ref>
             <ref target="documents/033.html#p034-1" role="documentViewer" rendition="page">034</ref>
@@ -83,17 +61,15 @@
             <ref target="documents/033.html#p051-1" role="documentViewer" rendition="page">051</ref>
             <ref target="documents/033.html#p052-1" role="documentViewer" rendition="page">052</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
         <row>
-          <cell rendition="description"></cell>
-          <cell rendition="date"></cell>
+          <cell rendition="description"/>
+          <cell rendition="date"/>
           <cell rendition="author">?</cell>
-          <cell rendition="addressee"></cell>
+          <cell rendition="addressee"/>
           <cell rendition="language">ru</cell>
-          <cell rendition="document">
-            <ref target="documents/053.html" role="documentViewer">053</ref>
-          </cell>
+          <cell rendition="document"><ref target="documents/053.html" role="documentViewer">053</ref></cell>
           <cell rendition="pages">
             <ref target="documents/053.html#p053-1" role="documentViewer" rendition="page">053</ref>
             <ref target="documents/053.html#p054-1" role="documentViewer" rendition="page">054</ref>
@@ -102,7 +78,7 @@
             <ref target="documents/053.html#p057-1" role="documentViewer" rendition="page">057</ref>
             <ref target="documents/053.html#p058-1" role="documentViewer" rendition="page">058</ref>
           </cell>
-          <cell rendition="transcriber"></cell>
+          <cell rendition="transcriber"/>
         </row>
       </table>
     </body>
