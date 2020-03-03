@@ -210,7 +210,7 @@ layout: page
 ```xml
   <persName ref="alter-rebbe">Алтер Ребе</persName>
   в <placeName ref="Вильно">Вильне</placeName>
-  <orgName ref="виленский_кагал">виленский кагал</orgName>
+  <orgName ref="Виленский_кагал">виленский кагал</orgName>
 ```
 
 Имена описываются в файлах в соответствующей директории внутри директории `names`:

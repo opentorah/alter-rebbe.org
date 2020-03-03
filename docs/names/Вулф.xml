@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body><person xml:id="Вулф" role="jew">
+    <persName>Вулф</persName>
+    <persName>Вульф</persName>
+    <p>в 1798 г. упомянут как виленский хасид, зять <persName ref="Зельман">Зельмана</persName></p>
+    <p rendition="mentions">
+      <ref target="/names.html#Вулф" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Зельман.html" role="namesViewer">Зельман</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+      </l>
+    </p>
+  </person></body></text>
+</TEI>
