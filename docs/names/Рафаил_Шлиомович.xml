@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body><person xml:id="Рафаил_Шлиомович" role="jew">
+    <persName>Рафаил Шлиомович</persName>
+    <persName>Рафаил Шлїомович</persName>
+    <persName>Рафал Шломович</persName>
+    <persName>Рафаель Шмойлович</persName>
+    <p>виленский хасид, уроженец Видз; один из ранних приверженцев хасидизма - со второй половины 1770-х гг.); находился
+    в переписке с другими хасидскими деятелями; в следственном деле 1798 г. охарактеризован как "один из главнейших и
+    ревностнейших сообщников" <persName ref="alter-rebbe">Шнеура Залмана</persName>; торговец алкогольными напитками</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Рафаил_Шлиомович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/026.html" role="documentViewer">026</ref>
+        <ref target="/collections/rgada/documents/046.html" role="documentViewer">046</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/107.html" role="documentViewer">107</ref>
+        <ref target="/collections/rgada/documents/108.html" role="documentViewer">108</ref>
+        <ref target="/collections/rgada/documents/234.html" role="documentViewer">234</ref>
+        <ref target="/collections/rgada/documents/235.html" role="documentViewer">235</ref>
+      </l>
+    </p>
+  </person></body></text>
+</TEI>
