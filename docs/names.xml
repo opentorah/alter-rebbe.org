@@ -1,216 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body>
-      <head>Имена</head>
-      <p>
-        <l><ref target="/names.html#jews" role="namesViewer">Жиды (они же Евреи)</ref></l>
-        <l><ref target="/names.html#officials" role="namesViewer">Начальство</ref></l>
-        <l><ref target="/names.html#places" role="namesViewer">Места</ref></l>
-        <l><ref target="/names.html#organizations" role="namesViewer">Организации</ref></l>
-        <l><ref target="/names.html#organizations" role="namesViewer">Архивы</ref></l>
-        <l><ref target="/names.html#transcribers" role="namesViewer">Расшифровщики</ref></l>
-      </p>
-      <listPerson xml:id="jews" role="jew">
-        <head>Жиды (они же Евреи)</head>
-        <l><ref target="/names/alter-rebbe.html" role="namesViewer"><persName>Залман Борухович</persName></ref></l>
-        <l><ref target="/names/maggid.html" role="namesViewer"><persName>Дов-Бер из Межерича</persName></ref></l>
-        <l><ref target="/names/Абрамович.html" role="namesViewer"><persName>Абрамович</persName></ref></l>
-        <l><ref target="/names/Авигдор.html" role="namesViewer"><persName>Авигдор</persName></ref></l>
-        <l><ref target="/names/Арон.html" role="namesViewer"><persName>Арон</persName></ref></l>
-        <l><ref target="/names/Арон_Беркович.html" role="namesViewer"><persName>Арон Беркович</persName></ref></l>
-        <l><ref target="/names/Баал_Шем_Тов.html" role="namesViewer"><persName>Израиль из Мезбича</persName></ref></l>
-        <l><ref target="/names/Бениш_Янкелевич.html" role="namesViewer"><persName>Бениш Янкелевич</persName></ref></l>
-        <l><ref target="/names/Бернгард.html" role="namesViewer"><persName>Петр Бернгард</persName></ref></l>
-        <l><ref target="/names/Борух_Мордухович.html" role="namesViewer"><persName>Борух Мордухович</persName></ref></l>
-        <l><ref target="/names/Вулф_Шимеліович.html" role="namesViewer"><persName>Вулф Шимелиович</persName></ref></l>
-        <l><ref target="/names/Вульф.html" role="namesViewer"><persName>Вулф</persName></ref></l>
-        <l><ref target="/names/Гершель_Колоднер.html" role="namesViewer"><persName>Гершель Колоднер</persName></ref></l>
-        <l><ref target="/names/Гирш_Давидович.html" role="namesViewer"><persName>Гирш Давидович</persName></ref></l>
-        <l><ref target="/names/Гирш_Давыдович_magnus.html" role="namesViewer"><persName>Гиршъ Давыдович Magnus</persName></ref></l>
-        <l><ref target="/names/Гирш_Иоселиович.html" role="namesViewer"><persName>Гирш Иоселиович</persName></ref></l>
-        <l><ref target="/names/Гирша_Давыдович.html" role="namesViewer"><persName>Гирша Давыдович</persName></ref></l>
-        <l><ref target="/names/Зелман_Леизерович.html" role="namesViewer"><persName>Зелман Леизерович</persName></ref></l>
-        <l><ref target="/names/Зелман_Лейбович.html" role="namesViewer"><persName>Зелман Лейбович</persName></ref></l>
-        <l><ref target="/names/Зелман_Янкелевич.html" role="namesViewer"><persName>Зелман Янкелевич</persName></ref></l>
-        <l><ref target="/names/Зельман.html" role="namesViewer"><persName>Зельман</persName></ref></l>
-        <l><ref target="/names/Иосель_Мовшович.html" role="namesViewer"><persName>Иосель Мовшович</persName></ref></l>
-        <l><ref target="/names/Ицка_Абрамович.html" role="namesViewer"><persName>Ицка Абрамович</persName></ref></l>
-        <l><ref target="/names/Ицка_Мелентович.html" role="namesViewer"><persName>Ицка Мелентович</persName></ref></l>
-        <l><ref target="/names/Ицко_Сайович.html" role="namesViewer"><persName>Ицко Сайович</persName></ref></l>
-        <l><ref target="/names/Леви_Ицхак_из_Бердичева.html" role="namesViewer"><persName>Леви Ицхак из Бердичева</persName></ref></l>
-        <l><ref target="/names/Лезер_Хаймович.html" role="namesViewer"><persName>Лезер Хаймович</persName></ref></l>
-        <l><ref target="/names/Леизер_Нотолевич.html" role="namesViewer"><persName>Леизер Нотолевич</persName></ref></l>
-        <l><ref target="/names/Лейба_Беркович.html" role="namesViewer"><persName>Лейба Беркович</persName></ref></l>
-        <l><ref target="/names/Лейба_Зеликович.html" role="namesViewer"><persName>Лейба Зеликович</persName></ref></l>
-        <l><ref target="/names/Лейба_Меіерович.html" role="namesViewer"><persName>Лейба Меіерович</persName></ref></l>
-        <l><ref target="/names/Лейба_Невахович.html" role="namesViewer"><persName>Лейба Невахович</persName></ref></l>
-        <l><ref target="/names/Лейба_Юделевич.html" role="namesViewer"><persName>Лейба Юделевич</persName></ref></l>
-        <l><ref target="/names/Меіер_Рафалович.html" role="namesViewer"><persName>Меер Рафалович</persName></ref></l>
-        <l><ref target="/names/Михель_Файбишович.html" role="namesViewer"><persName>Михель Файбишович</persName></ref></l>
-        <l><ref target="/names/Мовша_Јосіеліович.html" role="namesViewer"><persName>Мовша Иосиелиович</persName></ref></l>
-        <l><ref target="/names/Мовша_Ицкович.html" role="namesViewer"><persName>Мовша Ицкович</persName></ref></l>
-        <l><ref target="/names/Мовша_Мордохович.html" role="namesViewer"><persName>Мовша Мордохович</persName></ref></l>
-        <l><ref target="/names/Моисей_Ошерович.html" role="namesViewer"><persName>Мовша Ошерович</persName></ref></l>
-        <l><ref target="/names/Мордух.html" role="namesViewer"><persName>Мордух</persName></ref></l>
-        <l><ref target="/names/Моше.html" role="namesViewer"><persName>Моше</persName></ref></l>
-        <l><ref target="/names/Нота_Ноткин.html" role="namesViewer"><persName>Ноткин, Нота Хаимович</persName></ref></l>
-        <l><ref target="/names/Нохим_Ицкович.html" role="namesViewer"><persName>Нохим Ицкович</persName></ref></l>
-        <l><ref target="/names/Орлик.html" role="namesViewer"><persName>Орлик Мовшович</persName></ref></l>
-        <l><ref target="/names/Перец_Хаймович.html" role="namesViewer"><persName>Перец Хаймович</persName></ref></l>
-        <l><ref target="/names/Рафаил_Шлїомович.html" role="namesViewer"><persName>Рафаил Шлиомович</persName></ref></l>
-        <l><ref target="/names/Рафал.html" role="namesViewer"><persName>Рафал</persName></ref></l>
-        <l><ref target="/names/Соломон.html" role="namesViewer"><persName>Соломон</persName></ref></l>
-        <l><ref target="/names/Файбишевич.html" role="namesViewer"><persName>Юда Файбишевич</persName></ref></l>
-        <l><ref target="/names/Хаим.html" role="namesViewer"><persName>Хаим</persName></ref></l>
-        <l><ref target="/names/Хлїовна_Зорухович.html" role="namesViewer"><persName>Хлиовна Зорухович</persName></ref></l>
-        <l><ref target="/names/Цемах_Цедек.html" role="namesViewer"><persName>Мендель Любавицер</persName></ref></l>
-        <l><ref target="/names/Шая_Ицкович.html" role="namesViewer"><persName>Шая Ицкович</persName></ref></l>
-        <l><ref target="/names/Шимель_Вульфович.html" role="namesViewer"><persName>Шимель Вульфович</persName></ref></l>
-        <l><ref target="/names/Шломо_Меиерович.html" role="namesViewer"><persName>Шломо Меиерович</persName></ref></l>
-        <l><ref target="/names/Шмуил_Хаимович.html" role="namesViewer"><persName>Шмуил Хаимович</persName></ref></l>
-        <l><ref target="/names/Эліас.html" role="namesViewer"><persName>Элиас</persName></ref></l>
-        <l><ref target="/names/Эстер_Рафалович.html" role="namesViewer"><persName>Эстер, жена Меира Рафаловича</persName></ref></l>
-        <l><ref target="/names/Юдель_Еліашевич.html" role="namesViewer"><persName>Юдель Елиашевич</persName></ref></l>
-        <l><ref target="/names/Янкель_Лейбович.html" role="namesViewer"><persName>Янкель Лейбович</persName></ref></l>
-        <l><ref target="/names/мителер_ребе.html" role="namesViewer"><persName>Дов-Бер Шнеерсон</persName></ref></l>
-        <l><ref target="/names/рав_Яаков_Йосеф.html" role="namesViewer"><persName>Яаков Йосеф из Полонного</persName></ref></l>
-        <l><ref target="/names/ребицен_Штерна.html" role="namesViewer"><persName>Штерна Лейбовна</persName></ref></l>
-      </listPerson>
-      <listPerson xml:id="officials" role="official">
-        <head>Начальство</head>
-        <l><ref target="/names/Александр_I.html" role="namesViewer"><persName>Александр I</persName></ref></l>
-        <l><ref target="/names/Александр_Вюртембергский.html" role="namesViewer"><persName>Александр Вюртембергский</persName></ref></l>
-        <l><ref target="/names/Беклешов.html" role="namesViewer"><persName>Беклешов</persName></ref></l>
-        <l><ref target="/names/Бенкендорф.html" role="namesViewer"><persName>Бенкендорф</persName></ref></l>
-        <l><ref target="/names/Брискорн.html" role="namesViewer"><persName>Брискорнъ</persName></ref></l>
-        <l><ref target="/names/Булгаков.html" role="namesViewer"><persName>Булгаков</persName></ref></l>
-        <l><ref target="/names/Волков.html" role="namesViewer"><persName>Волков</persName></ref></l>
-        <l><ref target="/names/Гавриил_Новгородский.html" role="namesViewer"><persName>Гавриил Новгородский</persName></ref></l>
-        <l><ref target="/names/Де-Ласси.html" role="namesViewer"><persName>Лассій</persName></ref></l>
-        <l><ref target="/names/Державин.html" role="namesViewer"><persName>Державин</persName></ref></l>
-        <l><ref target="/names/Добрынин.html" role="namesViewer"><persName>Добрынин</persName></ref></l>
-        <l><ref target="/names/Елиашевич.html" role="namesViewer"><persName>Елиашевич</persName></ref></l>
-        <l><ref target="/names/Жегулин.html" role="namesViewer"><persName>Жегулин</persName></ref></l>
-        <l><ref target="/names/Капцевич.html" role="namesViewer"><persName>Капцевич</persName></ref></l>
-        <l><ref target="/names/Карнеевъ.html" role="namesViewer"><persName>Корнеевъ</persName></ref></l>
-        <l><ref target="/names/Козминский.html" role="namesViewer"><persName>Козминский</persName></ref></l>
-        <l><ref target="/names/Кутузов.html" role="namesViewer"><persName>Кутузов</persName></ref></l>
-        <l><ref target="/names/Левицкий_Михаил.html" role="namesViewer"><persName>Левицкий Михаил</persName></ref></l>
-        <l><ref target="/names/Лопухин.html" role="namesViewer"><persName>Лопухин</persName></ref></l>
-        <l><ref target="/names/Мириц.html" role="namesViewer"><persName>Мириц, А.</persName></ref></l>
-        <l><ref target="/names/Неверовский.html" role="namesViewer"><persName>Неверовский</persName></ref></l>
-        <l><ref target="/names/Неплюев.html" role="namesViewer"><persName>Неплюев</persName></ref></l>
-        <l><ref target="/names/Обольянинов.html" role="namesViewer"><persName>Обольянинов</persName></ref></l>
-        <l><ref target="/names/Огинский.html" role="namesViewer"><persName>Огинский</persName></ref></l>
-        <l><ref target="/names/Оленин.html" role="namesViewer"><persName>Оленин</persName></ref></l>
-        <l><ref target="/names/Павел_I.html" role="namesViewer"><persName>Павел I</persName></ref></l>
-        <l><ref target="/names/Петров.html" role="namesViewer"><persName>Петров</persName></ref></l>
-        <l><ref target="/names/Розенберг.html" role="namesViewer"><persName>Розенберг</persName></ref></l>
-        <l><ref target="/names/Сафонов.html" role="namesViewer"><persName>Сафоновъ</persName></ref></l>
-        <l><ref target="/names/Северин.html" role="namesViewer"><persName>Северинъ</persName></ref></l>
-        <l><ref target="/names/Сукин.html" role="namesViewer"><persName>Сукин</persName></ref></l>
-        <l><ref target="/names/Тарбеев.html" role="namesViewer"><persName>Петръ Тарабеевъ</persName></ref></l>
-        <l><ref target="/names/Тормасов.html" role="namesViewer"><persName>Тормасовъ</persName></ref></l>
-        <l><ref target="/names/Тутолмин.html" role="namesViewer"><persName>Тутолмин</persName></ref></l>
-        <l><ref target="/names/Фризель.html" role="namesViewer"><persName>Фризель</persName></ref></l>
-        <l><ref target="/names/Хрущов.html" role="namesViewer"><persName>Хрущов</persName></ref></l>
-        <l><ref target="/names/Цуберт.html" role="namesViewer"><persName>Христиан Цуберт</persName></ref></l>
-        <l><ref target="/names/Чечерский.html" role="namesViewer"><persName>Чечерский</persName></ref></l>
-        <l><ref target="/names/фонъ_Дер_Пален.html" role="namesViewer"><persName>граф фон Пален</persName></ref></l>
-      </listPerson>
-      <listPlace xml:id="places">
-        <head>Места</head>
-        <l><ref target="/names/Алексеевский_равелин.html" role="namesViewer"><placeName>Алексеевский равелин</placeName></ref></l>
-        <l><ref target="/names/Белоруссия.html" role="namesViewer"><placeName>Белоруссия</placeName></ref></l>
-        <l><ref target="/names/Варшава.html" role="namesViewer"><placeName>Варшава</placeName></ref></l>
-        <l><ref target="/names/Видзы.html" role="namesViewer"><placeName>Видзы</placeName></ref></l>
-        <l><ref target="/names/Вильно.html" role="namesViewer"><placeName>Вильно</placeName></ref></l>
-        <l><ref target="/names/Витебск.html" role="namesViewer"><placeName>Витебск</placeName></ref></l>
-        <l><ref target="/names/Витебская_губерния.html" role="namesViewer"><placeName>Витебская губерния</placeName></ref></l>
-        <l><ref target="/names/Владимир.html" role="namesViewer"><placeName>Владимир</placeName></ref></l>
-        <l><ref target="/names/Волынская_губерния.html" role="namesViewer"><placeName>Волынская губерния</placeName></ref></l>
-        <l><ref target="/names/Гамбург.html" role="namesViewer"><placeName>Гамбург</placeName></ref></l>
-        <l><ref target="/names/Гродзен.html" role="namesViewer"><placeName>Гродзен</placeName></ref></l>
-        <l><ref target="/names/Гродно.html" role="namesViewer"><placeName>Гродно</placeName></ref></l>
-        <l><ref target="/names/Дзиенциола.html" role="namesViewer"><placeName>Дзиенциола</placeName></ref></l>
-        <l><ref target="/names/Добрович.html" role="namesViewer"><placeName>Добрович</placeName></ref></l>
-        <l><ref target="/names/Злобин.html" role="namesViewer"><placeName>Злобин</placeName></ref></l>
-        <l><ref target="/names/Иерусалим.html" role="namesViewer"><placeName>Иерусалим</placeName></ref></l>
-        <l><ref target="/names/Индура.html" role="namesViewer"><placeName>Индура</placeName></ref></l>
-        <l><ref target="/names/Калич.html" role="namesViewer"><placeName>Калич</placeName></ref></l>
-        <l><ref target="/names/Каменец_Подольский.html" role="namesViewer"><placeName>Каменец_Подольский</placeName></ref></l>
-        <l><ref target="/names/Каролины.html" role="namesViewer"><placeName>Каролины</placeName></ref></l>
-        <l><ref target="/names/Копыси.html" role="namesViewer"><placeName>Копыси</placeName></ref></l>
-        <l><ref target="/names/Литва.html" role="namesViewer"><placeName>Литва</placeName></ref></l>
-        <l><ref target="/names/Лозна.html" role="namesViewer"><placeName>Лозна</placeName></ref></l>
-        <l><ref target="/names/Любавичи.html" role="namesViewer"><placeName>Любавичи</placeName></ref></l>
-        <l><ref target="/names/Ляды.html" role="namesViewer"><placeName>Ляды</placeName></ref></l>
-        <l><ref target="/names/Ляховицы.html" role="namesViewer"><placeName>Ляховицы</placeName></ref></l>
-        <l><ref target="/names/Меджибож.html" role="namesViewer"><placeName>Меджибож</placeName></ref></l>
-        <l><ref target="/names/Мезеричи.html" role="namesViewer"><placeName>Мезеричи</placeName></ref></l>
-        <l><ref target="/names/Минск.html" role="namesViewer"><placeName>Минскъ</placeName></ref></l>
-        <l><ref target="/names/Минская_губерния.html" role="namesViewer"><placeName>Минская губерния</placeName></ref></l>
-        <l><ref target="/names/Могилевская_губерния.html" role="namesViewer"><placeName>Могилевская губерния</placeName></ref></l>
-        <l><ref target="/names/Нескиза.html" role="namesViewer"><placeName>Нескиза</placeName></ref></l>
-        <l><ref target="/names/Оникшты.html" role="namesViewer"><placeName>Оникшты</placeName></ref></l>
-        <l><ref target="/names/Островна.html" role="namesViewer"><placeName>Островна</placeName></ref></l>
-        <l><ref target="/names/Палестина.html" role="namesViewer"><placeName>Палестина</placeName></ref></l>
-        <l><ref target="/names/Петербург.html" role="namesViewer"><placeName>Петербург</placeName></ref></l>
-        <l><ref target="/names/Петропавловская_крепость.html" role="namesViewer"><placeName>Петропавловская крепость</placeName></ref></l>
-        <l><ref target="/names/Пинск.html" role="namesViewer"><placeName>Пинск</placeName></ref></l>
-        <l><ref target="/names/Подольская_губерния.html" role="namesViewer"><placeName>Подольская губерния</placeName></ref></l>
-        <l><ref target="/names/Полонное.html" role="namesViewer"><placeName>Полонное</placeName></ref></l>
-        <l><ref target="/names/Польша.html" role="namesViewer"><placeName>Польша</placeName></ref></l>
-        <l><ref target="/names/Пруссия.html" role="namesViewer"><placeName>Пруссия</placeName></ref></l>
-        <l><ref target="/names/Рига.html" role="namesViewer"><placeName>Рига</placeName></ref></l>
-        <l><ref target="/names/Словита.html" role="namesViewer"><placeName>Словита</placeName></ref></l>
-        <l><ref target="/names/Слуцк.html" role="namesViewer"><placeName>Слуцк</placeName></ref></l>
-        <l><ref target="/names/Столин.html" role="namesViewer"><placeName>Столин</placeName></ref></l>
-        <l><ref target="/names/Турция.html" role="namesViewer"><placeName>Турция</placeName></ref></l>
-        <l><ref target="/names/Украйна.html" role="namesViewer"><placeName>Украйна</placeName></ref></l>
-        <l><ref target="/names/Чаусы.html" role="namesViewer"><placeName>Чаусы</placeName></ref></l>
-      </listPlace>
-      <listOrg xml:id="organizations">
-        <head>Организации</head>
-        <l><ref target="/names/Каролинский_кагал.html" role="namesViewer"><orgName>Каролинский кагал</orgName></ref></l>
-        <l><ref target="/names/Литовское_губернское_правление.html" role="namesViewer"><orgName>Литовское губернское правление</orgName></ref></l>
-        <l><ref target="/names/Пинский_кагал.html" role="namesViewer"><orgName>Пинский кагал</orgName></ref></l>
-        <l><ref target="/names/Сенат.html" role="namesViewer"><orgName>Сенатъ</orgName></ref></l>
-        <l><ref target="/names/Тайная_экспедиция.html" role="namesViewer"><orgName>Тайная экспедиция</orgName></ref></l>
-        <l><ref target="/names/Хасиды.html" role="namesViewer"><orgName>Хасиды</orgName></ref></l>
-        <l><ref target="/names/виленский_кагал.html" role="namesViewer"><orgName>Виленский кагал</orgName></ref></l>
-        <l><ref target="/names/губернское_правление.html" role="namesViewer"><orgName>губернское правление</orgName></ref></l>
-      </listOrg>
-      <listOrg xml:id="organizations" role="archive">
-        <head>Архивы</head>
-        <l><ref target="/names/CAHJP.html" role="namesViewer"><orgName>CAHJP</orgName></ref></l>
-        <l><ref target="/names/LNA.html" role="namesViewer"><orgName>LNA Riga</orgName></ref></l>
-        <l><ref target="/names/LVIA.html" role="namesViewer"><orgName>LVIA Vilnius</orgName></ref></l>
-        <l><ref target="/names/НИАБ.html" role="namesViewer"><orgName>НИАБ Минск</orgName></ref></l>
-        <l><ref target="/names/РГАДА.html" role="namesViewer"><orgName>РГАДА Москва</orgName></ref></l>
-        <l><ref target="/names/РГИА.html" role="namesViewer"><orgName>РГИА</orgName></ref></l>
-        <l><ref target="/names/РНБ.html" role="namesViewer"><orgName>РНБ</orgName></ref></l>
-      </listOrg>
-      <listPerson xml:id="transcribers" role="transcriber">
-        <head>Расшифровщики</head>
-        <l><ref target="/names/ALD.html" role="namesViewer"><persName>Арье-Лейб Дубинский</persName></ref></l>
-        <l><ref target="/names/BG.html" role="namesViewer"><persName>Борух Горкин</persName></ref></l>
-        <l><ref target="/names/IA.html" role="namesViewer"><persName>Ифрах Абрамов</persName></ref></l>
-        <l><ref target="/names/IL.html" role="namesViewer"><persName>Илья Лурье</persName></ref></l>
-        <l><ref target="/names/MF.html" role="namesViewer"><persName>Мендел Феллер</persName></ref></l>
-        <l><ref target="/names/MK.html" role="namesViewer"><persName>Михоэль Кориц</persName></ref></l>
-        <l><ref target="/names/SB.html" role="namesViewer"><persName>Сергей Броуде</persName></ref></l>
-        <l><ref target="/names/VK.html" role="namesViewer"><persName>Василий Когаловский</persName></ref></l>
-        <l><ref target="/names/Гессенъ.html" role="namesViewer"><persName>Гессенъ, Юлий Исидорович</persName></ref></l>
-        <l><ref target="/names/Дубнов.html" role="namesViewer"><persName>Дубнов</persName></ref></l>
-      </listPerson>
-    </body></text>
+    <head>Имена</head>
+    <p>
+      <l><ref target="/names.html#jews" role="namesViewer">Жиды (они же Евреи)</ref></l>
+      <l><ref target="/names.html#officials" role="namesViewer">Начальство</ref></l>
+      <l><ref target="/names.html#places" role="namesViewer">Места</ref></l>
+      <l><ref target="/names.html#organizations" role="namesViewer">Организации</ref></l>
+      <l><ref target="/names.html#organizations" role="namesViewer">Архивы</ref></l>
+      <l><ref target="/names.html#transcribers" role="namesViewer">Расшифровщики</ref></l>
+    </p>
+    <listPerson xml:id="jews" role="jew">
+      <head>Жиды (они же Евреи)</head>
+      <l><ref target="/names/alter-rebbe.html" role="namesViewer"><persName>Залман Борухович</persName></ref></l>
+      <l><ref target="/names/maggid.html" role="namesViewer"><persName>Дов-Бер из Межерича</persName></ref></l>
+      <l><ref target="/names/Абрамович.html" role="namesViewer"><persName>Абрамович</persName></ref></l>
+      <l><ref target="/names/Авигдор.html" role="namesViewer"><persName>Авигдор</persName></ref></l>
+      <l><ref target="/names/Арон.html" role="namesViewer"><persName>Арон</persName></ref></l>
+      <l><ref target="/names/Арон_Беркович.html" role="namesViewer"><persName>Арон Беркович</persName></ref></l>
+      <l><ref target="/names/Баал_Шем_Тов.html" role="namesViewer"><persName>Израиль из Мезбича</persName></ref></l>
+      <l><ref target="/names/Бениш_Янкелевич.html" role="namesViewer"><persName>Бениш Янкелевич</persName></ref></l>
+      <l><ref target="/names/Бернгард.html" role="namesViewer"><persName>Петр Бернгард</persName></ref></l>
+      <l><ref target="/names/Борух_Мордухович.html" role="namesViewer"><persName>Борух Мордухович</persName></ref></l>
+      <l><ref target="/names/Вулф_Шимеліович.html" role="namesViewer"><persName>Вулф Шимелиович</persName></ref></l>
+      <l><ref target="/names/Вульф.html" role="namesViewer"><persName>Вулф</persName></ref></l>
+      <l><ref target="/names/Гершель_Колоднер.html" role="namesViewer"><persName>Гершель Колоднер</persName></ref></l>
+      <l><ref target="/names/Гирш_Давидович.html" role="namesViewer"><persName>Гирш Давидович</persName></ref></l>
+      <l><ref target="/names/Гирш_Давыдович_magnus.html" role="namesViewer"><persName>Гиршъ Давыдович Magnus</persName>
+      </ref></l>
+      <l><ref target="/names/Гирш_Иоселиович.html" role="namesViewer"><persName>Гирш Иоселиович</persName></ref></l>
+      <l><ref target="/names/Гирша_Давыдович.html" role="namesViewer"><persName>Гирша Давыдович</persName></ref></l>
+      <l><ref target="/names/Зелман_Леизерович.html" role="namesViewer"><persName>Зелман Леизерович</persName></ref></l>
+      <l><ref target="/names/Зелман_Лейбович.html" role="namesViewer"><persName>Зелман Лейбович</persName></ref></l>
+      <l><ref target="/names/Зелман_Янкелевич.html" role="namesViewer"><persName>Зелман Янкелевич</persName></ref></l>
+      <l><ref target="/names/Зельман.html" role="namesViewer"><persName>Зельман</persName></ref></l>
+      <l><ref target="/names/Иосель_Мовшович.html" role="namesViewer"><persName>Иосель Мовшович</persName></ref></l>
+      <l><ref target="/names/Ицка_Абрамович.html" role="namesViewer"><persName>Ицка Абрамович</persName></ref></l>
+      <l><ref target="/names/Ицка_Мелентович.html" role="namesViewer"><persName>Ицка Мелентович</persName></ref></l>
+      <l><ref target="/names/Ицко_Сайович.html" role="namesViewer"><persName>Ицко Сайович</persName></ref></l>
+      <l><ref target="/names/Леви_Ицхак_из_Бердичева.html" role="namesViewer"><persName>Леви Ицхак из Бердичева
+      </persName></ref></l>
+      <l><ref target="/names/Лезер_Хаймович.html" role="namesViewer"><persName>Лезер Хаймович</persName></ref></l>
+      <l><ref target="/names/Леизер_Нотолевич.html" role="namesViewer"><persName>Леизер Нотолевич</persName></ref></l>
+      <l><ref target="/names/Лейба_Беркович.html" role="namesViewer"><persName>Лейба Беркович</persName></ref></l>
+      <l><ref target="/names/Лейба_Зеликович.html" role="namesViewer"><persName>Лейба Зеликович</persName></ref></l>
+      <l><ref target="/names/Лейба_Меіерович.html" role="namesViewer"><persName>Лейба Меіерович</persName></ref></l>
+      <l><ref target="/names/Лейба_Невахович.html" role="namesViewer"><persName>Лейба Невахович</persName></ref></l>
+      <l><ref target="/names/Лейба_Юделевич.html" role="namesViewer"><persName>Лейба Юделевич</persName></ref></l>
+      <l><ref target="/names/Меіер_Рафалович.html" role="namesViewer"><persName>Меер Рафалович</persName></ref></l>
+      <l><ref target="/names/Михель_Файбишович.html" role="namesViewer"><persName>Михель Файбишович</persName></ref></l>
+      <l><ref target="/names/Мовша_Јосіеліович.html" role="namesViewer"><persName>Мовша Иосиелиович</persName></ref></l>
+      <l><ref target="/names/Мовша_Ицкович.html" role="namesViewer"><persName>Мовша Ицкович</persName></ref></l>
+      <l><ref target="/names/Мовша_Мордохович.html" role="namesViewer"><persName>Мовша Мордохович</persName></ref></l>
+      <l><ref target="/names/Моисей_Ошерович.html" role="namesViewer"><persName>Мовша Ошерович</persName></ref></l>
+      <l><ref target="/names/Мордух.html" role="namesViewer"><persName>Мордух</persName></ref></l>
+      <l><ref target="/names/Моше.html" role="namesViewer"><persName>Моше</persName></ref></l>
+      <l><ref target="/names/Нота_Ноткин.html" role="namesViewer"><persName>Ноткин, Нота Хаимович</persName></ref></l>
+      <l><ref target="/names/Нохим_Ицкович.html" role="namesViewer"><persName>Нохим Ицкович</persName></ref></l>
+      <l><ref target="/names/Орлик.html" role="namesViewer"><persName>Орлик Мовшович</persName></ref></l>
+      <l><ref target="/names/Перец_Хаймович.html" role="namesViewer"><persName>Перец Хаймович</persName></ref></l>
+      <l><ref target="/names/Рафаил_Шлїомович.html" role="namesViewer"><persName>Рафаил Шлиомович</persName></ref></l>
+      <l><ref target="/names/Рафал.html" role="namesViewer"><persName>Рафал</persName></ref></l>
+      <l><ref target="/names/Соломон.html" role="namesViewer"><persName>Соломон</persName></ref></l>
+      <l><ref target="/names/Файбишевич.html" role="namesViewer"><persName>Юда Файбишевич</persName></ref></l>
+      <l><ref target="/names/Хаим.html" role="namesViewer"><persName>Хаим</persName></ref></l>
+      <l><ref target="/names/Хлїовна_Зорухович.html" role="namesViewer"><persName>Хлиовна Зорухович</persName></ref></l>
+      <l><ref target="/names/Цемах_Цедек.html" role="namesViewer"><persName>Мендель Любавицер</persName></ref></l>
+      <l><ref target="/names/Шая_Ицкович.html" role="namesViewer"><persName>Шая Ицкович</persName></ref></l>
+      <l><ref target="/names/Шимель_Вульфович.html" role="namesViewer"><persName>Шимель Вульфович</persName></ref></l>
+      <l><ref target="/names/Шломо_Меиерович.html" role="namesViewer"><persName>Шломо Меиерович</persName></ref></l>
+      <l><ref target="/names/Шмуил_Хаимович.html" role="namesViewer"><persName>Шмуил Хаимович</persName></ref></l>
+      <l><ref target="/names/Эліас.html" role="namesViewer"><persName>Элиас</persName></ref></l>
+      <l><ref target="/names/Эстер_Рафалович.html" role="namesViewer"><persName>Эстер, жена Меира Рафаловича</persName>
+      </ref></l>
+      <l><ref target="/names/Юдель_Еліашевич.html" role="namesViewer"><persName>Юдель Елиашевич</persName></ref></l>
+      <l><ref target="/names/Янкель_Лейбович.html" role="namesViewer"><persName>Янкель Лейбович</persName></ref></l>
+      <l><ref target="/names/мителер_ребе.html" role="namesViewer"><persName>Дов-Бер Шнеерсон</persName></ref></l>
+      <l><ref target="/names/рав_Яаков_Йосеф.html" role="namesViewer"><persName>Яаков Йосеф из Полонного</persName>
+      </ref></l>
+      <l><ref target="/names/ребицен_Штерна.html" role="namesViewer"><persName>Штерна Лейбовна</persName></ref></l>
+    </listPerson>
+    <listPerson xml:id="officials" role="official">
+      <head>Начальство</head>
+      <l><ref target="/names/Александр_I.html" role="namesViewer"><persName>Александр I</persName></ref></l>
+      <l><ref target="/names/Александр_Вюртембергский.html" role="namesViewer"><persName>Александр Вюртембергский
+      </persName></ref></l>
+      <l><ref target="/names/Беклешов.html" role="namesViewer"><persName>Беклешов</persName></ref></l>
+      <l><ref target="/names/Бенкендорф.html" role="namesViewer"><persName>Бенкендорф</persName></ref></l>
+      <l><ref target="/names/Брискорн.html" role="namesViewer"><persName>Брискорнъ</persName></ref></l>
+      <l><ref target="/names/Булгаков.html" role="namesViewer"><persName>Булгаков</persName></ref></l>
+      <l><ref target="/names/Волков.html" role="namesViewer"><persName>Волков</persName></ref></l>
+      <l><ref target="/names/Гавриил_Новгородский.html" role="namesViewer"><persName>Гавриил Новгородский</persName>
+      </ref></l>
+      <l><ref target="/names/Де-Ласси.html" role="namesViewer"><persName>Лассій</persName></ref></l>
+      <l><ref target="/names/Державин.html" role="namesViewer"><persName>Державин</persName></ref></l>
+      <l><ref target="/names/Добрынин.html" role="namesViewer"><persName>Добрынин</persName></ref></l>
+      <l><ref target="/names/Елиашевич.html" role="namesViewer"><persName>Елиашевич</persName></ref></l>
+      <l><ref target="/names/Жегулин.html" role="namesViewer"><persName>Жегулин</persName></ref></l>
+      <l><ref target="/names/Капцевич.html" role="namesViewer"><persName>Капцевич</persName></ref></l>
+      <l><ref target="/names/Карнеевъ.html" role="namesViewer"><persName>Корнеевъ</persName></ref></l>
+      <l><ref target="/names/Козминский.html" role="namesViewer"><persName>Козминский</persName></ref></l>
+      <l><ref target="/names/Кутузов.html" role="namesViewer"><persName>Кутузов</persName></ref></l>
+      <l><ref target="/names/Левицкий_Михаил.html" role="namesViewer"><persName>Левицкий Михаил</persName></ref></l>
+      <l><ref target="/names/Лопухин.html" role="namesViewer"><persName>Лопухин</persName></ref></l>
+      <l><ref target="/names/Мириц.html" role="namesViewer"><persName>Мириц, А.</persName></ref></l>
+      <l><ref target="/names/Неверовский.html" role="namesViewer"><persName>Неверовский</persName></ref></l>
+      <l><ref target="/names/Неплюев.html" role="namesViewer"><persName>Неплюев</persName></ref></l>
+      <l><ref target="/names/Обольянинов.html" role="namesViewer"><persName>Обольянинов</persName></ref></l>
+      <l><ref target="/names/Огинский.html" role="namesViewer"><persName>Огинский</persName></ref></l>
+      <l><ref target="/names/Оленин.html" role="namesViewer"><persName>Оленин</persName></ref></l>
+      <l><ref target="/names/Павел_I.html" role="namesViewer"><persName>Павел I</persName></ref></l>
+      <l><ref target="/names/Петров.html" role="namesViewer"><persName>Петров</persName></ref></l>
+      <l><ref target="/names/Розенберг.html" role="namesViewer"><persName>Розенберг</persName></ref></l>
+      <l><ref target="/names/Сафонов.html" role="namesViewer"><persName>Сафоновъ</persName></ref></l>
+      <l><ref target="/names/Северин.html" role="namesViewer"><persName>Северинъ</persName></ref></l>
+      <l><ref target="/names/Сукин.html" role="namesViewer"><persName>Сукин</persName></ref></l>
+      <l><ref target="/names/Тарбеев.html" role="namesViewer"><persName>Петръ Тарабеевъ</persName></ref></l>
+      <l><ref target="/names/Тормасов.html" role="namesViewer"><persName>Тормасовъ</persName></ref></l>
+      <l><ref target="/names/Тутолмин.html" role="namesViewer"><persName>Тутолмин</persName></ref></l>
+      <l><ref target="/names/Фризель.html" role="namesViewer"><persName>Фризель</persName></ref></l>
+      <l><ref target="/names/Хрущов.html" role="namesViewer"><persName>Хрущов</persName></ref></l>
+      <l><ref target="/names/Цуберт.html" role="namesViewer"><persName>Христиан Цуберт</persName></ref></l>
+      <l><ref target="/names/Чечерский.html" role="namesViewer"><persName>Чечерский</persName></ref></l>
+      <l><ref target="/names/фонъ_Дер_Пален.html" role="namesViewer"><persName>граф фон Пален</persName></ref></l>
+    </listPerson>
+    <listPlace xml:id="places">
+      <head>Места</head>
+      <l><ref target="/names/Алексеевский_равелин.html" role="namesViewer"><placeName>Алексеевский равелин</placeName>
+      </ref></l>
+      <l><ref target="/names/Белоруссия.html" role="namesViewer"><placeName>Белоруссия</placeName></ref></l>
+      <l><ref target="/names/Варшава.html" role="namesViewer"><placeName>Варшава</placeName></ref></l>
+      <l><ref target="/names/Видзы.html" role="namesViewer"><placeName>Видзы</placeName></ref></l>
+      <l><ref target="/names/Вильно.html" role="namesViewer"><placeName>Вильно</placeName></ref></l>
+      <l><ref target="/names/Витебск.html" role="namesViewer"><placeName>Витебск</placeName></ref></l>
+      <l><ref target="/names/Витебская_губерния.html" role="namesViewer"><placeName>Витебская губерния</placeName></ref>
+      </l>
+      <l><ref target="/names/Владимир.html" role="namesViewer"><placeName>Владимир</placeName></ref></l>
+      <l><ref target="/names/Волынская_губерния.html" role="namesViewer"><placeName>Волынская губерния</placeName></ref>
+      </l>
+      <l><ref target="/names/Гамбург.html" role="namesViewer"><placeName>Гамбург</placeName></ref></l>
+      <l><ref target="/names/Гродзен.html" role="namesViewer"><placeName>Гродзен</placeName></ref></l>
+      <l><ref target="/names/Гродно.html" role="namesViewer"><placeName>Гродно</placeName></ref></l>
+      <l><ref target="/names/Дзиенциола.html" role="namesViewer"><placeName>Дзиенциола</placeName></ref></l>
+      <l><ref target="/names/Добрович.html" role="namesViewer"><placeName>Добрович</placeName></ref></l>
+      <l><ref target="/names/Злобин.html" role="namesViewer"><placeName>Злобин</placeName></ref></l>
+      <l><ref target="/names/Иерусалим.html" role="namesViewer"><placeName>Иерусалим</placeName></ref></l>
+      <l><ref target="/names/Индура.html" role="namesViewer"><placeName>Индура</placeName></ref></l>
+      <l><ref target="/names/Калич.html" role="namesViewer"><placeName>Калич</placeName></ref></l>
+      <l><ref target="/names/Каменец_Подольский.html" role="namesViewer"><placeName>Каменец_Подольский</placeName></ref>
+      </l>
+      <l><ref target="/names/Каролины.html" role="namesViewer"><placeName>Каролины</placeName></ref></l>
+      <l><ref target="/names/Копыси.html" role="namesViewer"><placeName>Копыси</placeName></ref></l>
+      <l><ref target="/names/Литва.html" role="namesViewer"><placeName>Литва</placeName></ref></l>
+      <l><ref target="/names/Лозна.html" role="namesViewer"><placeName>Лозна</placeName></ref></l>
+      <l><ref target="/names/Любавичи.html" role="namesViewer"><placeName>Любавичи</placeName></ref></l>
+      <l><ref target="/names/Ляды.html" role="namesViewer"><placeName>Ляды</placeName></ref></l>
+      <l><ref target="/names/Ляховицы.html" role="namesViewer"><placeName>Ляховицы</placeName></ref></l>
+      <l><ref target="/names/Меджибож.html" role="namesViewer"><placeName>Меджибож</placeName></ref></l>
+      <l><ref target="/names/Мезеричи.html" role="namesViewer"><placeName>Мезеричи</placeName></ref></l>
+      <l><ref target="/names/Минск.html" role="namesViewer"><placeName>Минскъ</placeName></ref></l>
+      <l><ref target="/names/Минская_губерния.html" role="namesViewer"><placeName>Минская губерния</placeName></ref></l>
+      <l><ref target="/names/Могилевская_губерния.html" role="namesViewer"><placeName>Могилевская губерния</placeName>
+      </ref></l>
+      <l><ref target="/names/Нескиза.html" role="namesViewer"><placeName>Нескиза</placeName></ref></l>
+      <l><ref target="/names/Оникшты.html" role="namesViewer"><placeName>Оникшты</placeName></ref></l>
+      <l><ref target="/names/Островна.html" role="namesViewer"><placeName>Островна</placeName></ref></l>
+      <l><ref target="/names/Палестина.html" role="namesViewer"><placeName>Палестина</placeName></ref></l>
+      <l><ref target="/names/Петербург.html" role="namesViewer"><placeName>Петербург</placeName></ref></l>
+      <l><ref target="/names/Петропавловская_крепость.html" role="namesViewer"><placeName>Петропавловская крепость
+      </placeName></ref></l>
+      <l><ref target="/names/Пинск.html" role="namesViewer"><placeName>Пинск</placeName></ref></l>
+      <l><ref target="/names/Подольская_губерния.html" role="namesViewer"><placeName>Подольская губерния</placeName>
+      </ref></l>
+      <l><ref target="/names/Полонное.html" role="namesViewer"><placeName>Полонное</placeName></ref></l>
+      <l><ref target="/names/Польша.html" role="namesViewer"><placeName>Польша</placeName></ref></l>
+      <l><ref target="/names/Пруссия.html" role="namesViewer"><placeName>Пруссия</placeName></ref></l>
+      <l><ref target="/names/Рига.html" role="namesViewer"><placeName>Рига</placeName></ref></l>
+      <l><ref target="/names/Словита.html" role="namesViewer"><placeName>Словита</placeName></ref></l>
+      <l><ref target="/names/Слуцк.html" role="namesViewer"><placeName>Слуцк</placeName></ref></l>
+      <l><ref target="/names/Столин.html" role="namesViewer"><placeName>Столин</placeName></ref></l>
+      <l><ref target="/names/Турция.html" role="namesViewer"><placeName>Турция</placeName></ref></l>
+      <l><ref target="/names/Украйна.html" role="namesViewer"><placeName>Украйна</placeName></ref></l>
+      <l><ref target="/names/Чаусы.html" role="namesViewer"><placeName>Чаусы</placeName></ref></l>
+    </listPlace>
+    <listOrg xml:id="organizations">
+      <head>Организации</head>
+      <l><ref target="/names/Каролинский_кагал.html" role="namesViewer"><orgName>Каролинский кагал</orgName></ref></l>
+      <l><ref target="/names/Литовское_губернское_правление.html" role="namesViewer"><orgName>Литовское губернское
+      правление</orgName></ref></l>
+      <l><ref target="/names/Пинский_кагал.html" role="namesViewer"><orgName>Пинский кагал</orgName></ref></l>
+      <l><ref target="/names/Сенат.html" role="namesViewer"><orgName>Сенатъ</orgName></ref></l>
+      <l><ref target="/names/Тайная_экспедиция.html" role="namesViewer"><orgName>Тайная экспедиция</orgName></ref></l>
+      <l><ref target="/names/Хасиды.html" role="namesViewer"><orgName>Хасиды</orgName></ref></l>
+      <l><ref target="/names/виленский_кагал.html" role="namesViewer"><orgName>Виленский кагал</orgName></ref></l>
+      <l><ref target="/names/губернское_правление.html" role="namesViewer"><orgName>губернское правление</orgName></ref>
+      </l>
+    </listOrg>
+    <listOrg xml:id="organizations" role="archive">
+      <head>Архивы</head>
+      <l><ref target="/names/CAHJP.html" role="namesViewer"><orgName>CAHJP</orgName></ref></l>
+      <l><ref target="/names/LNA.html" role="namesViewer"><orgName>LNA Riga</orgName></ref></l>
+      <l><ref target="/names/LVIA.html" role="namesViewer"><orgName>LVIA Vilnius</orgName></ref></l>
+      <l><ref target="/names/НИАБ.html" role="namesViewer"><orgName>НИАБ Минск</orgName></ref></l>
+      <l><ref target="/names/РГАДА.html" role="namesViewer"><orgName>РГАДА Москва</orgName></ref></l>
+      <l><ref target="/names/РГИА.html" role="namesViewer"><orgName>РГИА</orgName></ref></l>
+      <l><ref target="/names/РНБ.html" role="namesViewer"><orgName>РНБ</orgName></ref></l>
+    </listOrg>
+    <listPerson xml:id="transcribers" role="transcriber">
+      <head>Расшифровщики</head>
+      <l><ref target="/names/ALD.html" role="namesViewer"><persName>Арье-Лейб Дубинский</persName></ref></l>
+      <l><ref target="/names/BG.html" role="namesViewer"><persName>Борух Горкин</persName></ref></l>
+      <l><ref target="/names/IA.html" role="namesViewer"><persName>Ифрах Абрамов</persName></ref></l>
+      <l><ref target="/names/IL.html" role="namesViewer"><persName>Илья Лурье</persName></ref></l>
+      <l><ref target="/names/MF.html" role="namesViewer"><persName>Мендел Феллер</persName></ref></l>
+      <l><ref target="/names/MK.html" role="namesViewer"><persName>Михоэль Кориц</persName></ref></l>
+      <l><ref target="/names/SB.html" role="namesViewer"><persName>Сергей Броуде</persName></ref></l>
+      <l><ref target="/names/VK.html" role="namesViewer"><persName>Василий Когаловский</persName></ref></l>
+      <l><ref target="/names/Гессенъ.html" role="namesViewer"><persName>Гессенъ, Юлий Исидорович</persName></ref></l>
+      <l><ref target="/names/Дубнов.html" role="namesViewer"><persName>Дубнов</persName></ref></l>
+    </listPerson>
+  </body></text>
 </TEI>

@@ -1,109 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
-  <text>
-    <body>
-      <head><title>Прошения на высочайшее имя и дела докладчиков</title></head>Письмо <persName ref="Эстер_Рафалович">
-        Эстер
-      </persName>, жены <persName ref="Меіер_Рафалович">Меира Рафаловича</persName>, с жалобой на <placeName
-      ref="Вильно">виленскую</placeName> общину, оклеветавшую ее мужа и других хасидов. Документы общины, связанные с
-      жалобой. <p>В описании дела написано: имеется внутренняя опись N 1743 ч. I , кол. листов 121</p> <p>
-        Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>, <l>
-          <ref target="https://rgia.su/object/27609433#!page:1/o:27609433/p:1">
-            фонд 468 (КАБИНЕТ ЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА МИДв)
-          </ref>, <ref target="http://rgia.su/object/1076401184">опись 43</ref> (1713-1918 гг., Исполнительное,
-          Камеральное, Хозяйстенное, Горное, Административное и Счетное отделения - материалы из россыпи - см.описи
-          соответствующих структурных частей.)
-        </l> <ref
-        target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIxsbMz8vZmI2Qio/Czw==">
-          дело 529
-        </ref> <l>стр. 74: Письмо <orgname ref="виленский_кагал">виленского кагала</orgname> - ???</l>
-      </p> <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: ???</p> <p>
-        Фотографии предоставил Константин Пименов.
-      </p> <table rendition="collection-index">
-        <row>
-          <cell rendition="description">Описание</cell>
-          <cell rendition="date">Дата</cell>
-          <cell rendition="author">Кто</cell>
-          <cell rendition="addressee">Кому</cell>
-          <cell rendition="language">Язык</cell>
-          <cell rendition="document">Документ</cell>
-          <cell rendition="pages">Страницы</cell>
-          <cell rendition="transcriber">Расшифровка</cell>
-        </row>
-        <row>
-          <cell rendition="description">
-            <p>
-              Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меіер_Рафалович">
-                реб Меира Рафаловича
-              </persName> <persName ref="Павел_I">императору Павлу I</persName>
-            </p>
-          </cell>
-          <cell rendition="date"/>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"/>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document"><ref target="documents/071.html" role="documentViewer">071</ref></cell>
-          <cell rendition="pages">
-            <ref target="documents/071.html#p071-1" role="documentViewer" rendition="page">071</ref>
-            <ref target="documents/071.html#p071-2" role="documentViewer" rendition="page">071об</ref>
-            <ref target="documents/071.html#p072-1" role="documentViewer" rendition="page">072</ref>
-            <ref target="documents/071.html#p072-2" role="documentViewer" rendition="page">072об</ref>
-            <ref target="documents/071.html#p073-1" role="documentViewer" rendition="page">073</ref>
-            <ref target="documents/071.html#p073-2" role="documentViewer" rendition="page">073об</ref>
-            <ref target="documents/071.html#p083-1" role="documentViewer" rendition="page">083</ref>
-            <ref target="documents/071.html#p083-2" role="documentViewer" rendition="missing-page">083об</ref>
-          </cell>
-          <cell rendition="transcriber"/>
-        </row>
-        <row>
-          <cell rendition="description"><p>Журнал виленского кагала</p></cell>
-          <cell rendition="date"/>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"/>
-          <cell rendition="language">pl</cell>
-          <cell rendition="document"><ref target="documents/074.html" role="documentViewer">074</ref></cell>
-          <cell rendition="pages">
-            <ref target="documents/074.html#p074-1" role="documentViewer" rendition="page">074</ref>
-            <ref target="documents/074.html#p074-2" role="documentViewer" rendition="page">074об</ref>
-            <ref target="documents/074.html#p075-1" role="documentViewer" rendition="page">075</ref>
-            <ref target="documents/074.html#p075-2" role="documentViewer" rendition="page">075об</ref>
-            <ref target="documents/074.html#p076-1" role="documentViewer" rendition="page">076</ref>
-            <ref target="documents/074.html#p076-2" role="documentViewer" rendition="page">076об</ref>
-          </cell>
-          <cell rendition="transcriber"/>
-        </row>
-        <row>
-          <cell rendition="description"><p>Дневник правления Литвы</p></cell>
-          <cell rendition="date"/>
-          <cell rendition="author">?</cell>
-          <cell rendition="addressee"/>
-          <cell rendition="language">ru</cell>
-          <cell rendition="document"><ref target="documents/077.html" role="documentViewer">077</ref></cell>
-          <cell rendition="pages">
-            <ref target="documents/077.html#p077-1" role="documentViewer" rendition="page">077</ref>
-            <ref target="documents/077.html#p077-2" role="documentViewer" rendition="page">077об</ref>
-            <ref target="documents/077.html#p078-1" role="documentViewer" rendition="page">078</ref>
-            <ref target="documents/077.html#p078-2" role="documentViewer" rendition="page">078об</ref>
-            <ref target="documents/077.html#p079-1" role="documentViewer" rendition="page">079</ref>
-            <ref target="documents/077.html#p079-2" role="documentViewer" rendition="page">079об</ref>
-            <ref target="documents/077.html#p080-1" role="documentViewer" rendition="page">080</ref>
-            <ref target="documents/077.html#p080-2" role="documentViewer" rendition="page">080об</ref>
-            <ref target="documents/077.html#p081-1" role="documentViewer" rendition="page">081</ref>
-            <ref target="documents/077.html#p081-2" role="documentViewer" rendition="page">081об</ref>
-            <ref target="documents/077.html#p082-1" role="documentViewer" rendition="page">082</ref>
-            <ref target="documents/077.html#p082-2" role="documentViewer" rendition="page">082об</ref>
-          </cell>
-          <cell rendition="transcriber"/>
-        </row>
-      </table> <p>Отсутствуют фотографии 1 страниц: 083об</p>
-    </body>
-  </text>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body>
+    <head><title>Прошения на высочайшее имя и дела докладчиков</title></head>
+    <span>Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меіер_Рафалович">Меира
+    Рафаловича</persName>, с жалобой на <placeName ref="Вильно">виленскую</placeName> общину, оклеветавшую ее мужа и
+    других хасидов. Документы общины, связанные с жалобой.</span>
+    <p>В описании дела написано: имеется внутренняя опись N 1743 ч. I , кол. листов 121</p>
+    <p>Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>, <l><ref
+    target="https://rgia.su/object/27609433#!page:1/o:27609433/p:1">фонд 468 (КАБИНЕТ ЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА
+    МИДв)</ref>, <ref target="http://rgia.su/object/1076401184">опись 43</ref> (1713-1918 гг., Исполнительное,
+    Камеральное, Хозяйстенное, Горное, Административное и Счетное отделения - материалы из россыпи - см.описи
+    соответствующих структурных частей.)</l> <ref
+    target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIxsbMz8vZmI2Qio/Czw==">дело 529
+    </ref> <l>стр. 74: Письмо <orgname ref="виленский_кагал">виленского кагала</orgname> - ???</l></p>
+    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: ???</p>
+    <p>Фотографии предоставил Константин Пименов.</p>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"><p>Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName
+        ref="Меіер_Рафалович">реб Меира Рафаловича</persName> <persName ref="Павел_I">императору Павлу I</persName></p>
+        </cell>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref target="documents/071.html" role="documentViewer">071</ref></cell>
+        <cell rendition="pages">
+          <ref target="documents/071.html#p071-1" role="documentViewer" rendition="page">071</ref>
+          <ref target="documents/071.html#p071-2" role="documentViewer" rendition="page">071об</ref>
+          <ref target="documents/071.html#p072-1" role="documentViewer" rendition="page">072</ref>
+          <ref target="documents/071.html#p072-2" role="documentViewer" rendition="page">072об</ref>
+          <ref target="documents/071.html#p073-1" role="documentViewer" rendition="page">073</ref>
+          <ref target="documents/071.html#p073-2" role="documentViewer" rendition="page">073об</ref>
+          <ref target="documents/071.html#p083-1" role="documentViewer" rendition="page">083</ref>
+          <ref target="documents/071.html#p083-2" role="documentViewer" rendition="missing-page">083об</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"><p>Журнал виленского кагала</p></cell>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">pl</cell>
+        <cell rendition="document"><ref target="documents/074.html" role="documentViewer">074</ref></cell>
+        <cell rendition="pages">
+          <ref target="documents/074.html#p074-1" role="documentViewer" rendition="page">074</ref>
+          <ref target="documents/074.html#p074-2" role="documentViewer" rendition="page">074об</ref>
+          <ref target="documents/074.html#p075-1" role="documentViewer" rendition="page">075</ref>
+          <ref target="documents/074.html#p075-2" role="documentViewer" rendition="page">075об</ref>
+          <ref target="documents/074.html#p076-1" role="documentViewer" rendition="page">076</ref>
+          <ref target="documents/074.html#p076-2" role="documentViewer" rendition="page">076об</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"><p>Дневник правления Литвы</p></cell>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref target="documents/077.html" role="documentViewer">077</ref></cell>
+        <cell rendition="pages">
+          <ref target="documents/077.html#p077-1" role="documentViewer" rendition="page">077</ref>
+          <ref target="documents/077.html#p077-2" role="documentViewer" rendition="page">077об</ref>
+          <ref target="documents/077.html#p078-1" role="documentViewer" rendition="page">078</ref>
+          <ref target="documents/077.html#p078-2" role="documentViewer" rendition="page">078об</ref>
+          <ref target="documents/077.html#p079-1" role="documentViewer" rendition="page">079</ref>
+          <ref target="documents/077.html#p079-2" role="documentViewer" rendition="page">079об</ref>
+          <ref target="documents/077.html#p080-1" role="documentViewer" rendition="page">080</ref>
+          <ref target="documents/077.html#p080-2" role="documentViewer" rendition="page">080об</ref>
+          <ref target="documents/077.html#p081-1" role="documentViewer" rendition="page">081</ref>
+          <ref target="documents/077.html#p081-2" role="documentViewer" rendition="page">081об</ref>
+          <ref target="documents/077.html#p082-1" role="documentViewer" rendition="page">082</ref>
+          <ref target="documents/077.html#p082-2" role="documentViewer" rendition="page">082об</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+    </table>
+    <p>Отсутствуют фотографии 1 страниц: 083об</p>
+  </body></text>
 </TEI>

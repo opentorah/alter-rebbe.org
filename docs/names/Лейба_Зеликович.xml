@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Лейба_Зеликович" role="jew">
-        <persName>Лейба Зеликович</persName>
-        <persName>Лейб Зеликович</persName>
-        <p>виленский хасид, не менее двух раз бывший нарочным для передачи сообщений <persName ref="alter-rebbe">Шнеуру Залману</persName> и доставлении денег от него в хасидскую виленскую общину</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Лейба_Зеликович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
-            <ref target="/collections/rgada/documents/098.html" role="documentViewer">098</ref>
-            <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
-            <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Лейба Зеликович</persName>
+    <persName>Лейб Зеликович</persName>
+    <p>виленский хасид, не менее двух раз бывший нарочным для передачи сообщений <persName ref="alter-rebbe">Шнеуру
+    Залману</persName> и доставлении денег от него в хасидскую виленскую общину</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Лейба_Зеликович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/052.html" role="documentViewer">052</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/097.html" role="documentViewer">097</ref>
+        <ref target="/collections/rgada/documents/098.html" role="documentViewer">098</ref>
+        <ref target="/collections/rgada/documents/099.html" role="documentViewer">099</ref>
+        <ref target="/collections/rgada/documents/101.html" role="documentViewer">101</ref>
+        <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

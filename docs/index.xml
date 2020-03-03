@@ -1,106 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body>
-      <head>Дела</head>
-      <list type="bulleted">
-        <item>
-          <ref target="/collections/dubnov/index.html" role="collectionViewer">Дубнов: &quot;Вмешательство русского правительства в антихасидскую борьбу&quot;</ref>
-          <lb/>
-          
-          <abstract>Анализ материалов второго ареста опубликован в книге "Еврейская старина", том 3, Еврейское И.-Э. общество, <persName ref="Дубнов">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург, 1910.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/lvia1799/index.html" role="collectionViewer">LVIA 1799: Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1799 год</ref>
-          <lb/>
-          
-          <abstract>Документы, связанные с конфликтом <orgName ref="виленский_кагал">"кагала"</orgName> и <orgName ref="Хасиды">"каролинов"</orgName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/lvia1800/index.html" role="collectionViewer">LVIA 1800: Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1800 год</ref>
-          <lb/>
-          
-          <abstract>Документы, связанные с выборамы в <orgName ref="виленский_кагал">"кагале"</orgName> и вторым арестом <persName ref="alter-rebbe">Алтер Ребе</persName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/lvia1824/index.html" role="collectionViewer">LVIA 1824: Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1824 год. По повелению его высочества цесаревича о узнании по литовским губерниям без огласки о сведениях нищет еврейского народа.</ref>
-          <lb/>
-          
-          <abstract>Переписка чиновников о положение евреев в <placeName ref="Литва">Литве</placeName> и <placeName ref="Белоруссия">Белоруссии</placeName>. Упомянут <persName ref="мителер_ребе">Мителер Ребе</persName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/lvia1868/index.html" role="collectionViewer">LVIA 1868: Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1868 год. Попечение правительства об улучшении гражданского быта евреев.</ref>
-          <lb/>
-          
-          <abstract>Проведение в жизнь рекомендаций <persName ref="Державин">Державина</persName> от 1798 года.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/niab14/index.html" role="collectionViewer">НИАБ 14: О преобразовании евреев. Тут же о еврееях Рудзинском, Соколе и Менделе Любавицере (он же Шнеерсон) , покушавшихся противодействовать мерам правительства</ref>
-          <lb/>
-          
-          <abstract>1841 год, дело III отделения на <persName ref="Цемах_Цедек">Цемах Цедека</persName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/niab271/index.html" role="collectionViewer">НИАБ 271: Дело о рабине Леоне Шнеере</ref>
-          <lb/>
-          
-          <abstract>1820 год. История <persName ref="Моше">Моше</persName>, сына <persName ref="alter-rebbe">Алтер Ребе</persName>. Переписка чиновников, пересказ жалобы сыновей <persName ref="alter-rebbe">Алтер Ребе</persName> на насильственное крещение <persName ref="Моше">Моше</persName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/niab611/index.html" role="collectionViewer">НИАБ 611: О следствии, произведенном гг. Логиновым и Марковым над витебским раввином Шнейером о непозволительных поборах денег с целью увеличения доходов</ref>
-          <lb/>
-          
-          <abstract>2 октября 1825 - 25 августа 1826 . Первое следственное дело по обвинению <persName ref="мителер_ребе">р. Дов-Бера Шнеерсона</persName> в незаконных поборах денег.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/niab25207/index.html" role="collectionViewer">НИАБ 25207: Дело по представленному Могилевского главного суда 1-го департамента решению о незаконных денежных сборах Любавицким раввином Беркою Шнеером со своей (собратии) отечественников</ref>
-          <lb/>
-          
-          <abstract>1827 год. Переписка и др. материалы по доносу <placeName ref="Витебск">витебского</placeName> еврея Кисина на <persName ref="мителер_ребе">любавического раввина Берка Шнеера</persName> о незаконных денежных поборах с евреев <placeName ref="Любавичи">Любавичей</placeName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/rgada/index.html" role="collectionViewer">РГАДА 3140: О Еврейской секте Каролинов и об учителе их Раввине Зальмане Боруховиче , и о доносах Еврея Гирша Давидовича</ref>
-          <lb/>
-          
-          <abstract>Дело <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>, документы обоих арестов. 1798й и 1800й годы.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/rgia119/index.html" role="collectionViewer">РГИА 119: Прошение Штерны Лейбовны</ref>
-          <lb/>
-          
-          <abstract>1813 год. Прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName>, вдовы <persName ref="alter-rebbe">Алтер Ребе</persName>, подписанное <persName ref="мителер_ребе">Мителер Ребе</persName>. Открытый лист для проезда <persName ref="alter-rebbe">Алтер Ребе</persName> с семейством во внутрение губернии России.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/rgia328/index.html" role="collectionViewer">РГИА 328: О виленских кагальных старшинах</ref>
-          <lb/>
-          
-          <abstract>1799 год. Жалоба <persName ref="Моисей_Ошерович">Моше Ошеровича</persName> <persName ref="Павел_I">императору Павлу I</persName> и реакция на нее.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/rgia413/index.html" role="collectionViewer">РГИА 413: О каролинской секте</ref>
-          <lb/>
-          
-          <abstract>1800 год. Копии избранных документов второго ареста. Материалы следствия, произведённого в <orgName ref="Сенат">Сенате</orgName> по доносам <placeName ref="Пинск">пинского</placeName> раввина <persName ref="Авигдор">Авигдора Хаймовича</persName>.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/rgia529/index.html" role="collectionViewer">РГИА 529: Прошения на высочайшее имя и дела докладчиков</ref>
-          <lb/>
-          
-          <abstract>Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меіер_Рафалович">Меира Рафаловича</persName>, с жалобой на <placeName ref="Вильно">виленскую</placeName> общину, оклеветавшую ее мужа и других хасидов. Документы общины, связанные с жалобой.</abstract>
-        </item>
-        <item>
-          <ref target="/collections/rgia2213/index.html" role="collectionViewer">РГИА 2213: Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус</ref>
-          <lb/>
-          
-          <abstract>1800 год. Жалоба <persName ref="Авигдор">Авигдора</persName> и переписка по ее поводу генерал-прокурора <orgName ref="Сенат">Сената</orgName> с <placeName ref="Литва">литовским</placeName> военным губернатором.</abstract>
-        </item>
-      </list>
-    </body></text>
+    <head>Дела</head>
+    <list type="bulleted">
+      <item>
+        <ref target="/collections/dubnov/index.html" role="collectionViewer">Дубнов: &quot;Вмешательство русского
+        правительства в антихасидскую борьбу&quot;</ref>
+        <lb/>
+        
+        <abstract>Анализ материалов второго ареста опубликован в книге "Еврейская старина", том 3, Еврейское И.-Э.
+        общество, <persName ref="Дубнов">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург, 1910.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/lvia1799/index.html" role="collectionViewer">LVIA 1799: Фонд 378: Канцелярия
+        Виленского военного генерал-губернатора - 1799 год</ref>
+        <lb/>
+        
+        <abstract>Документы, связанные с конфликтом <orgName ref="виленский_кагал">"кагала"</orgName> и <orgName
+        ref="Хасиды">"каролинов"</orgName>.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/lvia1800/index.html" role="collectionViewer">LVIA 1800: Фонд 378: Канцелярия
+        Виленского военного генерал-губернатора - 1800 год</ref>
+        <lb/>
+        
+        <abstract>Документы, связанные с выборамы в <orgName ref="виленский_кагал">"кагале"</orgName> и вторым арестом
+        <persName ref="alter-rebbe">Алтер Ребе</persName>.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/lvia1824/index.html" role="collectionViewer">LVIA 1824: Фонд 378: Канцелярия
+        Виленского военного генерал-губернатора - 1824 год. По повелению его высочества цесаревича о узнании по
+        литовским губерниям без огласки о сведениях нищет еврейского народа.</ref>
+        <lb/>
+        
+        <abstract>Переписка чиновников о положение евреев в <placeName ref="Литва">Литве</placeName> и <placeName
+        ref="Белоруссия">Белоруссии</placeName>. Упомянут <persName ref="мителер_ребе">Мителер Ребе</persName>.
+        </abstract>
+      </item>
+      <item>
+        <ref target="/collections/lvia1868/index.html" role="collectionViewer">LVIA 1868: Фонд 378: Канцелярия
+        Виленского военного генерал-губернатора - 1868 год. Попечение правительства об улучшении гражданского быта
+        евреев.</ref>
+        <lb/>
+        
+        <abstract>Проведение в жизнь рекомендаций <persName ref="Державин">Державина</persName> от 1798 года.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/niab14/index.html" role="collectionViewer">НИАБ 14: О преобразовании евреев. Тут же о
+        еврееях Рудзинском, Соколе и Менделе Любавицере (он же Шнеерсон) , покушавшихся противодействовать мерам
+        правительства</ref>
+        <lb/>
+        
+        <abstract>1841 год, дело III отделения на <persName ref="Цемах_Цедек">Цемах Цедека</persName>.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/niab271/index.html" role="collectionViewer">НИАБ 271: Дело о рабине Леоне Шнеере</ref>
+        <lb/>
+        
+        <abstract>1820 год. История <persName ref="Моше">Моше</persName>, сына <persName ref="alter-rebbe">Алтер
+        Ребе</persName>. Переписка чиновников, пересказ жалобы сыновей <persName ref="alter-rebbe">Алтер Ребе</persName>
+        на насильственное крещение <persName ref="Моше">Моше</persName>.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/niab611/index.html" role="collectionViewer">НИАБ 611: О следствии, произведенном гг.
+        Логиновым и Марковым над витебским раввином Шнейером о непозволительных поборах денег с целью увеличения доходов
+        </ref>
+        <lb/>
+        
+        <abstract>2 октября 1825 - 25 августа 1826 . Первое следственное дело по обвинению <persName ref="мителер_ребе">
+        р. Дов-Бера Шнеерсона</persName> в незаконных поборах денег.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/niab25207/index.html" role="collectionViewer">НИАБ 25207: Дело по представленному
+        Могилевского главного суда 1-го департамента решению о незаконных денежных сборах Любавицким раввином Беркою
+        Шнеером со своей (собратии) отечественников</ref>
+        <lb/>
+        
+        <abstract>1827 год. Переписка и др. материалы по доносу <placeName ref="Витебск">витебского</placeName> еврея
+        Кисина на <persName ref="мителер_ребе">любавического раввина Берка Шнеера</persName> о незаконных денежных
+        поборах с евреев <placeName ref="Любавичи">Любавичей</placeName>.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/rgada/index.html" role="collectionViewer">РГАДА 3140: О Еврейской секте Каролинов и об
+        учителе их Раввине Зальмане Боруховиче , и о доносах Еврея Гирша Давидовича</ref>
+        <lb/>
+        
+        <abstract>Дело <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>, документы обоих арестов. 1798й и
+        1800й годы.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/rgia119/index.html" role="collectionViewer">РГИА 119: Прошение Штерны Лейбовны</ref>
+        <lb/>
+        
+        <abstract>1813 год. Прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName>, вдовы <persName
+        ref="alter-rebbe">Алтер Ребе</persName>, подписанное <persName ref="мителер_ребе">Мителер Ребе</persName>.
+        Открытый лист для проезда <persName ref="alter-rebbe">Алтер Ребе</persName> с семейством во внутрение губернии
+        России.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/rgia328/index.html" role="collectionViewer">РГИА 328: О виленских кагальных старшинах
+        </ref>
+        <lb/>
+        
+        <abstract>1799 год. Жалоба <persName ref="Моисей_Ошерович">Моше Ошеровича</persName> <persName ref="Павел_I">
+        императору Павлу I</persName> и реакция на нее.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/rgia413/index.html" role="collectionViewer">РГИА 413: О каролинской секте</ref>
+        <lb/>
+        
+        <abstract>1800 год. Копии избранных документов второго ареста. Материалы следствия, произведённого в <orgName
+        ref="Сенат">Сенате</orgName> по доносам <placeName ref="Пинск">пинского</placeName> раввина <persName
+        ref="Авигдор">Авигдора Хаймовича</persName>.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/rgia529/index.html" role="collectionViewer">РГИА 529: Прошения на высочайшее имя и
+        дела докладчиков</ref>
+        <lb/>
+        
+        <abstract>Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меіер_Рафалович">Меира
+        Рафаловича</persName>, с жалобой на <placeName ref="Вильно">виленскую</placeName> общину, оклеветавшую ее мужа и
+        других хасидов. Документы общины, связанные с жалобой.</abstract>
+      </item>
+      <item>
+        <ref target="/collections/rgia2213/index.html" role="collectionViewer">РГИА 2213: Переписка по поводу всепод.
+        жалобы (на нем. яз. с переводом) быв. обер раввина из Пинска Хаима о преследовании, смещении в места раввина и
+        разорении его последователями секты шабзус-цвинкус</ref>
+        <lb/>
+        
+        <abstract>1800 год. Жалоба <persName ref="Авигдор">Авигдора</persName> и переписка по ее поводу
+        генерал-прокурора <orgName ref="Сенат">Сената</orgName> с <placeName ref="Литва">литовским</placeName> военным
+        губернатором.</abstract>
+      </item>
+    </list>
+  </body></text>
 </TEI>

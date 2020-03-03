@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Цуберт" role="official">
-        <persName>Христиан Цуберт</persName>
-        <p>с декабря 1801 г. по август 1803 г. был главным доктором флота</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Цуберт" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
-            <ref target="/collections/rgada/documents/279.html" role="documentViewer">279</ref>
-            <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
-            <ref target="/collections/rgada/documents/329.html" role="documentViewer">329</ref>
-            <ref target="/collections/rgada/documents/330.html" role="documentViewer">330</ref>
-            <ref target="/collections/rgada/documents/333.html" role="documentViewer">333</ref>
-            <ref target="/collections/rgada/documents/343.html" role="documentViewer">343</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Христиан Цуберт</persName>
+    <p>с декабря 1801 г. по август 1803 г. был главным доктором флота</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Цуберт" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
+        <ref target="/collections/rgada/documents/279.html" role="documentViewer">279</ref>
+        <ref target="/collections/rgada/documents/323.html" role="documentViewer">323</ref>
+        <ref target="/collections/rgada/documents/329.html" role="documentViewer">329</ref>
+        <ref target="/collections/rgada/documents/330.html" role="documentViewer">330</ref>
+        <ref target="/collections/rgada/documents/333.html" role="documentViewer">333</ref>
+        <ref target="/collections/rgada/documents/343.html" role="documentViewer">343</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

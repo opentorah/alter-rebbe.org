@@ -1,52 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Гирш_Давидович" role="jew">
-        <persName>Гирш Давидович</persName>
-        <persName>Гирша Давидович</persName>
-        <persName>Гирша Давыдович</persName>
-        <persName>Гирш Давыдович</persName>
-        <p><ref target="/research/Гирша_Давыдовичъ.html">К вопросу идентификации Гирша Давыдовича</ref></p>
-        <p>Имя, указанное в подписи под тремя жалобами на имя генерал-прокурора А.Б. Куракина; при розыске найден среди жителей Вильно. Судя по всему, вымышленное имя; реальный автор писем не выявлен</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Гирш_Давидович" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
-          </l>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgada/documents/002.html" role="documentViewer">002</ref>
-            <ref target="/collections/rgada/documents/004.html" role="documentViewer">004</ref>
-            <ref target="/collections/rgada/documents/006.html" role="documentViewer">006</ref>
-            <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
-            <ref target="/collections/rgada/documents/009.html" role="documentViewer">009</ref>
-            <ref target="/collections/rgada/documents/011.html" role="documentViewer">011</ref>
-            <ref target="/collections/rgada/documents/012.html" role="documentViewer">012</ref>
-            <ref target="/collections/rgada/documents/013.html" role="documentViewer">013</ref>
-            <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
-            <ref target="/collections/rgada/documents/020.html" role="documentViewer">020</ref>
-            <ref target="/collections/rgada/documents/028.html" role="documentViewer">028</ref>
-            <ref target="/collections/rgada/documents/030.html" role="documentViewer">030</ref>
-            <ref target="/collections/rgada/documents/032.html" role="documentViewer">032</ref>
-            <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
-            <ref target="/collections/rgada/documents/081.html" role="documentViewer">081</ref>
-            <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
-            <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
-            <ref target="/collections/rgada/documents/905.html" role="documentViewer">905</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Гирш Давидович</persName>
+    <persName>Гирша Давидович</persName>
+    <persName>Гирша Давыдович</persName>
+    <persName>Гирш Давыдович</persName>
+    <p><ref target="/research/Гирша_Давыдовичъ.html">К вопросу идентификации Гирша Давыдовича</ref></p>
+    <p>Имя, указанное в подписи под тремя жалобами на имя генерал-прокурора А.Б. Куракина; при розыске найден среди
+    жителей Вильно. Судя по всему, вымышленное имя; реальный автор писем не выявлен</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Гирш_Давидович" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/001.html" role="documentViewer">001</ref>
+        <ref target="/collections/rgada/documents/002.html" role="documentViewer">002</ref>
+        <ref target="/collections/rgada/documents/004.html" role="documentViewer">004</ref>
+        <ref target="/collections/rgada/documents/006.html" role="documentViewer">006</ref>
+        <ref target="/collections/rgada/documents/008.html" role="documentViewer">008</ref>
+        <ref target="/collections/rgada/documents/009.html" role="documentViewer">009</ref>
+        <ref target="/collections/rgada/documents/011.html" role="documentViewer">011</ref>
+        <ref target="/collections/rgada/documents/012.html" role="documentViewer">012</ref>
+        <ref target="/collections/rgada/documents/013.html" role="documentViewer">013</ref>
+        <ref target="/collections/rgada/documents/018.html" role="documentViewer">018</ref>
+        <ref target="/collections/rgada/documents/020.html" role="documentViewer">020</ref>
+        <ref target="/collections/rgada/documents/028.html" role="documentViewer">028</ref>
+        <ref target="/collections/rgada/documents/030.html" role="documentViewer">030</ref>
+        <ref target="/collections/rgada/documents/032.html" role="documentViewer">032</ref>
+        <ref target="/collections/rgada/documents/048.html" role="documentViewer">048</ref>
+        <ref target="/collections/rgada/documents/081.html" role="documentViewer">081</ref>
+        <ref target="/collections/rgada/documents/090.html" role="documentViewer">090</ref>
+        <ref target="/collections/rgada/documents/109.html" role="documentViewer">109</ref>
+        <ref target="/collections/rgada/documents/905.html" role="documentViewer">905</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

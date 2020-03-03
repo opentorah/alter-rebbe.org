@@ -36,12 +36,15 @@ tei-org {
 }
 
 tei-person > tei-persName {
+  display: block;
   font-size: $tei-named-name-font-size;
 }
 tei-place > tei-placeName {
+  display: block;
   font-size: $tei-named-name-font-size;
 }
 tei-org > tei-orgName {
+  display: block;
   font-size: $tei-named-name-font-size;
 }
 

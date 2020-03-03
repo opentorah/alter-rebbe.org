@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Александр_Вюртембергский" role="official">
-        <persName>Александр Вюртембергский</persName>
-        <persName>Александр Виртембергский</persName>
-        <p>военный губернатор Белоруссии в 1811-1812 и 1814–1818 гг., дядя императора <persName ref="Александр_I">Александра I</persName>, граф, генерал от кавалерии, участник войны 1812 г.</p>
-        <ref target="https://ru.wikipedia.org/wiki/Александр_Вюртембергский_(1771—1833)">[Википедия]</ref>
-        <p rendition="mentions">
-          <ref target="/names.html#Александр_Вюртембергский" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГИА 119:</emph>
-            <ref target="/collections/rgia119/documents/243.html" role="documentViewer">243</ref>
-            <ref target="/collections/rgia119/documents/244.html" role="documentViewer">244</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Александр Вюртембергский</persName>
+    <persName>Александр Виртембергский</persName>
+    <p>военный губернатор Белоруссии в 1811-1812 и 1814–1818 гг., дядя императора <persName ref="Александр_I">Александра
+    I</persName>, граф, генерал от кавалерии, участник войны 1812 г.</p>
+    <ref target="https://ru.wikipedia.org/wiki/Александр_Вюртембергский_(1771—1833)">[Википедия]</ref>
+    <p rendition="mentions">
+      <ref target="/names.html#Александр_Вюртембергский" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГИА 119:</emph>
+        <ref target="/collections/rgia119/documents/243.html" role="documentViewer">243</ref>
+        <ref target="/collections/rgia119/documents/244.html" role="documentViewer">244</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

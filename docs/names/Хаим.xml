@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Хаим" role="jew">
-        <persName>Хаим</persName>
-        <persName>Хаим рабин</persName>
-        <p>отец <placeName ref="Пинск">пинского</placeName> раввина <persName ref="Авигдор">Авигдора Хаймовича</persName>, подавшего на высочайшее имя жалобу на <orgName ref="Хасиды">хасидов</orgName> и <persName ref="alter-rebbe">Шнеура Залмана</persName>; раввин <placeName ref="Калич">г. Калиша</placeName>, в бытность которого численность общины города заметно сократилась (см. <ref target="https://eleven.co.il/diaspora/communities/11934/">https://eleven.co.il/diaspora/communities/11934/</ref>)</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Хаим" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Имена:</emph>
-            <ref target="/names/Авигдор.html" role="namesViewer">Авигдор</ref>
-          </l>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Хаим</persName>
+    <persName>Хаим рабин</persName>
+    <p>отец <placeName ref="Пинск">пинского</placeName> раввина <persName ref="Авигдор">Авигдора Хаймовича</persName>,
+    подавшего на высочайшее имя жалобу на <orgName ref="Хасиды">хасидов</orgName> и <persName ref="alter-rebbe">Шнеура
+    Залмана</persName>; раввин <placeName ref="Калич">г. Калиша</placeName>, в бытность которого численность общины
+    города заметно сократилась (см. <ref target="https://eleven.co.il/diaspora/communities/11934/">
+    https://eleven.co.il/diaspora/communities/11934/</ref>)</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Хаим" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Имена:</emph>
+        <ref target="/names/Авигдор.html" role="namesViewer">Авигдор</ref>
+      </l>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/002.html" role="documentViewer">002</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

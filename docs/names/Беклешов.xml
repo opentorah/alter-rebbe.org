@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Беклешов" role="official">
-        <persName>Беклешов</persName>
-        <persName>Беклешев</persName>
-        <persName>Беклѣшев</persName>
-        <persName>Александр Андреевич Беклешов</persName>
-        <persName>А. А. Беклешов</persName>
-        <ref target="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
-        <p>Генерал-прокурор в 1799–1800 и 1801–1802 гг.</p>
-        <p rendition="mentions">
-          <ref target="/names.html#Беклешов" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
-            <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
-            <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
-            <ref target="/collections/dubnov/documents/279.html" role="documentViewer">279</ref>
-          </l>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/269.html" role="documentViewer">269</ref>
-            <ref target="/collections/rgada/documents/289.html" role="documentViewer">289</ref>
-            <ref target="/collections/rgada/documents/333.html" role="documentViewer">333</ref>
-            <ref target="/collections/rgada/documents/334.html" role="documentViewer">334</ref>
-            <ref target="/collections/rgada/documents/335.html" role="documentViewer">335</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
-          </l>
-          <l>
-            <emph>РГИА 328:</emph>
-            <ref target="/collections/rgia328/documents/008.html" role="documentViewer">008</ref>
-          </l>
-          <l>
-            <emph>РГИА 413:</emph>
-            <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
-            <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
-            <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Беклешов</persName>
+    <persName>Беклешев</persName>
+    <persName>Беклѣшев</persName>
+    <persName>Александр Андреевич Беклешов</persName>
+    <persName>А. А. Беклешов</persName>
+    <ref target="https://ru.wikipedia.org/wiki/Беклешов,_Александр_Андреевич">[Википедия]</ref>
+    <p>Генерал-прокурор в 1799–1800 и 1801–1802 гг.</p>
+    <p rendition="mentions">
+      <ref target="/names.html#Беклешов" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+        <ref target="/collections/dubnov/documents/257.html" role="documentViewer">257</ref>
+        <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">274.1</ref>
+        <ref target="/collections/dubnov/documents/275.1.html" role="documentViewer">275.1</ref>
+        <ref target="/collections/dubnov/documents/279.html" role="documentViewer">279</ref>
+      </l>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/269.html" role="documentViewer">269</ref>
+        <ref target="/collections/rgada/documents/289.html" role="documentViewer">289</ref>
+        <ref target="/collections/rgada/documents/333.html" role="documentViewer">333</ref>
+        <ref target="/collections/rgada/documents/334.html" role="documentViewer">334</ref>
+        <ref target="/collections/rgada/documents/335.html" role="documentViewer">335</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/031.html" role="documentViewer">031</ref>
+      </l>
+      <l>
+        <emph>РГИА 328:</emph>
+        <ref target="/collections/rgia328/documents/008.html" role="documentViewer">008</ref>
+      </l>
+      <l>
+        <emph>РГИА 413:</emph>
+        <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref>
+        <ref target="/collections/rgia413/documents/031.html" role="documentViewer">031</ref>
+        <ref target="/collections/rgia413/documents/032.html" role="documentViewer">032</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

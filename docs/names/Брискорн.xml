@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><person xml:id="Брискорн" role="official">
-        <persName>Брискорнъ</persName>
-        <persName>Өедор Максимович</persName>
-        <p>В следственном деле 1800 г. – литовский прокурор. В 1796 г. – статс-секретарь <persName ref="Павел_I">Павла I</persName>, тайный советник, брат вице-губернатора Курляндии</p>
-        <ref target="https://ru.wikipedia.org/wiki/Брискорны">[Википедия]</ref>
-        <ref target="http://allpetrischule-spb.org/index.php?title=Брискорн,_Федор_Максимович"/>
-        <p rendition="mentions">
-          <ref target="/names.html#Брискорн" role="namesViewer">[...]</ref>
-          <l>
-            <emph>Дубнов:</emph>
-            <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
-            <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
-            <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
-            <ref target="/collections/dubnov/documents/253.2.html" role="documentViewer">253.2</ref>
-            <ref target="/collections/dubnov/documents/254.1.html" role="documentViewer">254.1</ref>
-          </l>
-          <l>
-            <emph>РГИА 2213:</emph>
-            <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
-            <ref target="/collections/rgia2213/documents/024.html" role="documentViewer">024</ref>
-            <ref target="/collections/rgia2213/documents/025.html" role="documentViewer">025</ref>
-          </l>
-        </p>
-      </person></body></text>
+    <persName>Брискорнъ</persName>
+    <persName>Өедор Максимович</persName>
+    <p>В следственном деле 1800 г. – литовский прокурор. В 1796 г. – статс-секретарь <persName ref="Павел_I">Павла
+    I</persName>, тайный советник, брат вице-губернатора Курляндии</p>
+    <ref target="https://ru.wikipedia.org/wiki/Брискорны">[Википедия]</ref>
+    <ref target="http://allpetrischule-spb.org/index.php?title=Брискорн,_Федор_Максимович"/>
+    <p rendition="mentions">
+      <ref target="/names.html#Брискорн" role="namesViewer">[...]</ref>
+      <l>
+        <emph>Дубнов:</emph>
+        <ref target="/collections/dubnov/documents/088.html" role="documentViewer">088</ref>
+        <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">090.1</ref>
+        <ref target="/collections/dubnov/documents/090.2.html" role="documentViewer">090.2</ref>
+        <ref target="/collections/dubnov/documents/253.2.html" role="documentViewer">253.2</ref>
+        <ref target="/collections/dubnov/documents/254.1.html" role="documentViewer">254.1</ref>
+      </l>
+      <l>
+        <emph>РГИА 2213:</emph>
+        <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref>
+        <ref target="/collections/rgia2213/documents/024.html" role="documentViewer">024</ref>
+        <ref target="/collections/rgia2213/documents/025.html" role="documentViewer">025</ref>
+      </l>
+    </p>
+  </person></body></text>
 </TEI>

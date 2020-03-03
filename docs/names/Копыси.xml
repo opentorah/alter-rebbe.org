@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader><fileDesc>
-      <titleStmt/>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc></teiHeader>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
   <text><body><place xml:id="Копыси">
-        <placeName>Копыси</placeName>
-        <ref target="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D1%8B%D1%81%D1%8C">[Википедия]</ref>
-        <p rendition="mentions">
-          <ref target="/names.html#Копыси" role="namesViewer">[...]</ref>
-          <l>
-            <emph>РГАДА 3140:</emph>
-            <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
-            <ref target="/collections/rgada/documents/280.html" role="documentViewer">280</ref>
-          </l>
-        </p>
-      </place></body></text>
+    <placeName>Копыси</placeName>
+    <ref target="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D1%8B%D1%81%D1%8C">[Википедия]</ref>
+    <p rendition="mentions">
+      <ref target="/names.html#Копыси" role="namesViewer">[...]</ref>
+      <l>
+        <emph>РГАДА 3140:</emph>
+        <ref target="/collections/rgada/documents/278.html" role="documentViewer">278</ref>
+        <ref target="/collections/rgada/documents/280.html" role="documentViewer">280</ref>
+      </l>
+    </p>
+  </place></body></text>
 </TEI>
