@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Назначение дела к слушанию в 3 департаменте <orgName ref="Сенат">Сената</orgName></p>
+        <p>
+          Документ <ref target="/collections/dubnov/documents/268.2.html" role="documentViewer">№ 17</ref> у Дубнова
+        </p>
+      </abstract>
+      <creation><date when="1800-11-27">27 (22?) Ноября 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p006-1" n="006-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/006-1.jpg"/>
+    <fw type="pageNum">6</fw>
+    <fw>копiя</fw>
+    <p>
+      <l><date when="1800-11-28">1800 года ноября 28 дня</date> въ журналѣ пра-</l>
+      <l>вительствующаго <orgName ref="Сенат">Сената</orgName> Записано:</l>
+    </p>
+    <p>
+      <l>№2 Имянной высочайший Его импе-</l>
+      <l>раторскаго величества Указъ объяв-</l>
+      <l>ленный <orgName ref="Сенат">Сенату</orgName> Господиномъ Генераломъ</l>
+      <l>отъ инфантерiи Генералъ Прокуроромъ</l>
+      <l>кавалеромъ <persName ref="Обольянинов">Петромъ Хрисанфови-<lb/>
+       чемъ Обольяниновымъ</persName> въ <date when="1800-11-27">27 <hi rend="superscript">й</hi> день<lb/>
+       сего ноября</date>, о разсмотрѣнiи <orgName ref="Сенат">Сенату</orgName></l>
+      <l>дѣла между евреями <persName ref="Авигдор">Абигдаром<lb/>
+       Хаймовичемъ</persName> и <persName ref="alter-rebbe">Залманомъ борухови-<lb/>
+       чемъ</persName>, касающемся до ихъ религiи</l>
+      <l>о учиненiи Положенiй на какомъ</l>
+      <l>впредь основанiи быть Сектѣ</l>
+      <l>хоседовъ и кагаламъ. Приказали: оное</l>
+      <l>дѣло доложить къ слушанию вместѣ съ</l>
+      <l>протчими имѣющимися в 3 <hi rend="superscript">м</hi> <orgName ref="Сенат">Сената</orgName> де-</l>
+      <l>партаментѣ касательно Евреевъ дѣлами,</l>
+      <l>и для того дать въ <orgName ref="Тайная_экспедиция">Експедицiю</orgName> съ сего пун-</l>
+      <l>кта копiю подлинной за подписанiемъ</l>
+      <l>Правительствующаго <orgName ref="Сенат">Сената</orgName>. _____________</l>
+      <l>Протоколистъ <signed>А. Мириц</signed></l>
+    </p>
+    <p><l>Съ подлiннымъ читалъ регистраторъ <signed><persName ref="Сафонов">Сафоновъ</persName></signed></l></p>
+    <pb xml:id="p006-2" n="006-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/006-2.jpg"/>
+  </body></text>
+</TEI>

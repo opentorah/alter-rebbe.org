@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Сообщение губернатору <persName ref="Тарабеев">Тарбееву</persName>, вероятно, от <persName ref="Беклешов">
+          Беклешова</persName>, о решении <persName ref="Павел_I">императора</persName> освободить <persName
+          ref="alter-rebbe">Шнеура Залмана</persName> и не применять к нему ограничений
+        </p>
+      </abstract>
+      <creation><date when="1801-01-29">Марта 29 дня 1801</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Тарабеев" role="addressee">Тарбееву</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p334-1" n="334-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/334-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">337</del></fw>
+    <fw type="pageNum" place="right">334</fw>
+    <p>
+      <l><salute>М:Г: мой <persName ref="Тарабеев">Петръ Матфѣевичъ</persName>.</salute></l>
+      <l>Еврей <persName ref="alter-rebbe"><sic>Зальбанъ</sic> боруховичъ</persName> бывшій здѣсь</l>
+      <l>по некоторымъ <del rend="overstrike">до него касательствамъ</del> надобностямъ</l>
+      <l>нынѣ по высочайшему Государя импе</l>
+      <l>ратора повеленію осовбожденъ и отпущенъ <del rend="overstrike">на житель-<lb/>
+       ство</del> въ его домъ<note place="end">над "его" поставлена цифра "1", над "дом" – "2", т.е. следует читать "дом
+      его"</note> – о чемъ для надлежа-</l>
+      <l>щаго сведенія=<note place="end">этим значком помечена ссылка на примечания на правом поле страницы</note>
+      вашему прев<hi rend="superscript">у</hi>.<note place="end">превосходительству</note></l>
+      <l>сообщаю, пребывая впрочемъ съ истиннымъ</l>
+      <l>почтеніемъ.</l>
+      <fw type="note" place="left margin">
+        <l>и о доставле</l>
+        <l>ніи полной ему</l>
+        <l>по прежнему въ его</l>
+        <l>жительствѣ и обра</l>
+        <l>щеніи свободы –</l>
+        <l>симъ</l>
+      </fw>
+      <l>Мил: Г: мой –</l>
+      <l>вашего прв.–<note place="end">сокращенная запись формальной части письма - "вашего превосходительства покорный
+      слуга"</note></l>
+      <closer place="left">
+        <l><fw type="docNum">№ 37</fw></l>
+        <l><fw type="docNum"><del rend="overstrike">№89</del></fw></l>
+        <l><placeName ref="Петербург">С. П.бургъ.</placeName></l>
+        <l><date when="1801-01-29">Марта 29 дня<lb/>
+         1801</date></l>
+        <l>Его пр <persName ref="Тарабеев">тарбееву</persName></l>
+      </closer>
+    </p>
+    <pb xml:id="p334-2" n="334-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/334-2.jpg"/>
+  </body></text>
+</TEI>

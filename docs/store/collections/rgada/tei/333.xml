@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Беклешов">Беклешов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Сообщение <persName ref="Беклешов">Беклешова</persName> <persName ref="фонъ_Дер_Пален">Палену</persName> о
+          решении императора освободить <persName ref="alter-rebbe">Шнеура Залмана</persName> и отпустить из <placeName
+          ref="Петербург">Петербурга</placeName> в <placeName ref="Лозна">Лиозно</placeName>
+        </p>
+      </abstract>
+      <creation><date when="1801-03-27">марта 27 дня 1801</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p333-1" n="333-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/333-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">336</del></fw>
+    <fw type="pageNum" place="right">333</fw>
+    <p>
+      <l><salute>
+        М:Г:<note place="end">милостивый государь</note> Графъ <persName ref="фонъ_Дер_Пален">Петръ Алексеевичъ
+        </persName>
+      </salute></l>
+      <l>Его императорское величество</l>
+      <l>высочайше <del rend="overstrike">указать</del> повелѣть соизволилъ еврея</l>
+      <l><persName ref="alter-rebbe">Залмана боруховича</persName> (о коемъ писано</l>
+      <l>было квашему сиятельству <unclear>отъ</unclear><note place="end">вероятно, "о том"</note></l>
+      <l>чтобъ онъ никуда изъ города не отлучался</l>
+      <l>и жилъ въ домѣ <persName ref="Цуберт">цуберта</persName> <del rend="overstrike">гдѣ и прочіе</del></l>
+      <l><del rend="overstrike">евреи пребываніе имѣютъ</del>,) освобо</l>
+      <l>дить и отпустить въ домъ его. вслѣдствіе чего имею честь</l>
+      <l>известить ваше сіятельство для</l>
+      <l>надлежащаго <del rend="overstrike">высочайше</del></l>
+      <l>исполненія, пребывая впрочемъ</l>
+      <l>с совершеннымъ почтеніемъ и преданностію</l>
+      <l>М Г –</l>
+      <l>За подписаніемъ <persName ref="Беклешов">Александра<lb/>
+       Андреевича Беклешова</persName>.</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 29</fw></l>
+      <l><date when="1801-03-27">марта 27 дня<lb/>
+       1801</date>.</l>
+      <l>Графу <persName ref="фонъ_Дер_Пален">Палену</persName></l>
+    </closer>
+    <pb xml:id="p333-2" n="333-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/333-2.jpg"/>
+  </body></text>
+</TEI>

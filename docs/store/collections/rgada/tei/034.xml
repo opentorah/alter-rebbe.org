@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Лопухин">Лопухин</persName></author>
+        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Доклад <persName ref="Лопухин">Лопухина</persName> императору о первом допросе <persName ref="alter-rebbe">
+          Шнеура Залмана</persName> с резолюцией <persName ref="Павел_I">Павла I</persName> о ведении следствия на
+          еврейском языке
+        </p>
+      </abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p034-1" n="034-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/034-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">441</del></fw>
+    <fw type="pageNum" place="right">34.</fw>
+    <head>О еврее <persName ref="alter-rebbe">Боруховиче</persName></head>
+    <fw type="note" place="left margin">
+      <l>О сіемъ Боруховичу о произхождѣніи секты и о протчемъ, написать</l>
+      <l>на еврейскомъ языкѣ, здѣлавъ ему обстоятельныя допросы <unclear>???</unclear><note place="end">вероятно, "все"
+      </note> пункты.</l>
+      <l>докладывано 7 октября</l>
+    </fw>
+    <p>
+      <l><placeName ref="Белоруссия">белоруской</placeName> гражданской губер-</l>
+      <l>наторъ <persName ref="Жегулин">Жегулинъ</persName> по высочай</l>
+      <l>шему Вашего Императорскаго</l>
+      <l>величества повелѣнію прислалъ</l>
+      <l>ко мнѣ <emph rend="underline">еврея <persName ref="alter-rebbe">боруховича</persName></emph>, на ко-</l>
+      <l>тораго доносятъ якобы онъ</l>
+      <l>завел новую еврейскую секту</l>
+      <l>и збирал съ другихъ евреевъ</l>
+      <l>деньги для отсылки за гра-</l>
+      <l>ницу. Здѣсь по привозѣ его</l>
+      <l>здѣланы ему о семъ вопросы,</l>
+      <l>на которые въ ответахъ пока</l>
+      <l>залъ, что онъ новой секты</l>
+      <l>не заводилъ и денегъ за границу</l>
+      <l>не посылалъ, а упражняется</l>
+      <l>в разборѣ духовныхъ дѣлъ</l>
+      <l>еврейскихъ, которыя ево дарятъ</l>
+      <l>по произволенію послѣ сужденія.</l>
+      <l>пріезжаютъ же евреи изъ <placeName ref="Иерусалим">Иеруса<lb/>
+       лима</placeName> и по древнему ихъ обыкно-</l>
+      <l>венію збираютъ съ евреевъ добро-</l>
+      <l>вольныя подачи, не только въ</l>
+      <l>здѣшнихъ мѣстахъ, но и в заг-</l>
+      <l>раничныхъ иностранныхъ обла-</l>
+      <l>стяхъ. Въ прочемъ, по весьма</l>
+      <l>худому ево разуменію россійскаго</l>
+      <l><pb xml:id="p034-2" n="034-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/034-2.jpg"/> <fw
+      type="pageNum">34об.</fw> и немецкаго языка, безъ пе</l>
+      <l>реводчика невозможно было</l>
+      <l>отобрать отъ него порядочнаго</l>
+      <l>объясненія.</l>
+    </p>
+    <p>
+      <l>Гражданския же губернаторы</l>
+      <l><placeName ref="Литва">литовской</placeName> <persName ref="Булгаков">булгаковъ</persName> и <placeName
+      ref="Белоруссия">белору<lb/>
+       ской</placeName> <persName ref="Жегулин">Жегулинъ</persName> описываютъ его</l>
+      <l>весьма вреднымъ человѣкомъ</l>
+      <l>и дабы въ томъ совершенно</l>
+      <l>удостовериться, то нужно сыс-</l>
+      <l>кать человѣка знающаго еврей</l>
+      <l>ской и россійской языки, по</l>
+      <l>объяснениямъ въ которыхъ и</l>
+      <l>судить можно будетъ с надеж</l>
+      <l>ностью.</l>
+    </p>
+    <p>
+      <l>О чемъ вашему Император-</l>
+      <l>скому величеству всеподданнѣйше</l>
+      <l>доношу</l>
+    </p>
+  </body></text>
+</TEI>

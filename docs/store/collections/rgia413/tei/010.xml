@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Заявление переводчиков с еврейского о документах и книгах <persName ref="alter-rebbe">Алтер Ребе</persName>
+        </p>
+        <p>Документ <ref target="/collections/rgada/documents/368.html" role="documentViewer">368</ref> в РГАДА</p>
+        <p>Документ <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у Дубнова</p>
+      </abstract>
+      <creation><date when="1800-12">декабрь 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <l><pb xml:id="p010-1" n="010-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/010-1.jpg"/> <fw
+    type="pageNum" place="right"><del rend="overstrike">46</del></fw> <fw type="pageNum" place="right">10</fw> <date
+    when="1800-12-01">1800 Года декабря, дня</date>. Мы нижеподписавшіеся</l>
+    <l>разсматривали бумаги принадлѣжавшія еврею <persName ref="alter-rebbe">Борухо<lb/>
+     вичу</persName> и симъ показываемъ, что въ запечатанномъ</l>
+    <l>мѣшку находятся бумаги, которыя суть разныхъ</l>
+    <l>евреевъ миролюбныя здѣлки, и обязательства,</l>
+    <l>кои даны ему боруховичу подъ сохраненіе, дабы въ испол</l>
+    <l>неніи оныхъ не послѣдовало распровъ, ибо они стыдясь</l>
+    <l>почитанія его боруховича не будутъ нарушать оныя,</l>
+    <l>которымъ бумагамъ и алфабетный регистръ прило</l>
+    <l>женъ тамъ же. А кромѣ сихъ и краткаго сочине</l>
+    <l>нія обрядахъ еврейской религіи выбраннаго изъ</l>
+    <l>древныхъ еврейскихъ книгъ никакихъ другихъ а па</l>
+    <l>че противныхъ еврейскому Закону или благу народ</l>
+    <l>ному нетъ. въ чемъ подписуемся. ___</l>
+    <l>Переводчикъ съ еврейскаго <signed>еврей Лейба невиховичъ</signed></l>
+    <l>Переводчикъ съ еврейскаго <signed>еврей Юда Файбишовичъ</signed></l>
+    <pb xml:id="p010-2" n="010-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/010-2.jpg"/>
+  </body></text>
+</TEI>

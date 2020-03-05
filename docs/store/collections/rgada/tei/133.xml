@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Перевод с польского языка протокола допроса <persName ref="Гирш_Иоселиович">Гирши Іоселіовича</persName></p>
+      </abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p133-1" n="133-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/133-1.jpg"/>
+    <fw type="docNum" place="left">№21</fw>
+    <fw type="note" place="right"><ref target="../documents/134.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">133.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Гирш_Иоселиович">Гирши Іоселіовича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Гирш_Иоселиович">Гирша Іоселіовичъ</persName>, отъ роду имѣю</l>
+      <l>19 лѣтъ, упражняюсь въ купечествѣ,</l>
+      <l>женатъ, имѣю две дочери, родился</l>
+      <l>въ мѣстечкѣ <placeName ref="Видзы">Видзахъ</placeName>, вступилъ</l>
+      <l>въ <orgName ref="Хасиды">каролинскую секту</orgName> въ <placeName ref="Видзы">Видзахъ</placeName></l>
+      <l>же тому шесть лѣтъ, и сіе учинилъ</l>
+      <l>потому, что и дядя мой Моизесъ Абра</l>
+      <l>мовичъ <orgName ref="Хасиды">каролинъ</orgName> же, а не менѣе и</l>
+      <l>потому, что евреи называемые</l>
+      <l><orgName ref="Хасиды">каролины</orgName> живутъ весело. <orgName ref="Хасиды">Каролины</orgName></l>
+      <l>не различаются ни въ чемъ отъ про-</l>
+      <l>чихъ евреевъ, какъ только въ томъ</l>
+      <l>что гласно отправляютъ моленія.</l>
+      <l>Для записанія себя въ <orgName ref="Хасиды">каролинскую</orgName></l>
+      <l>секту никуда не ѣздилъ, а слы-</l>
+      <l>халъ, что къ <placeName ref="Лозна">лозенскому</placeName> <persName ref="alter-rebbe">рабину</persName></l>
+      <l>ѣздилъ <persName ref="Мовша_Иосиелиович">Мовша Иоселиович</persName>. Началь-</l>
+      <l>никомъ <orgName ref="Хасиды">каролиновъ</orgName> есть <placeName ref="Лозна">Лозен-<lb/>
+       ской</placeName> рабинъ <persName ref="alter-rebbe">Зелманъ</persName>. <placeName ref="Индура">Индурской
+      </placeName></l>
+      <l>рабинъ <persName ref="Шмуил_Хаимович">Шмуйло Хайко</persName> былъ въ</l>
+      <l><placeName ref="Видзы">видзахъ</placeName> прошлаго года, и проживая</l>
+      <l>полторы или две недѣли наиболѣе</l>
+      <l>разговаривалъ съ <persName ref="Мовша_Ицкович">Мовшею Ицко-<lb/>
+       вичемъ</persName>. Лѣтнимъ же временемъ</l>
+      <l><persName ref="Мовша_Ицкович">Мовша Ицкович</persName> давъ мнѣ довѣ-</l>
+      <l>ренность, послалъ въ <placeName ref="Вильно">Вилну</placeName> по-</l>
+      <l>дать прошеніе въ Губернское прав-</l>
+      <l>леніе, и прилагалъ писмо <orgName ref="Виленский_кагал">виленскаго<lb/>
+       кагала</orgName>; подлинно ли подписались тѣ, кои по-</l>
+      <l>казаны были на довѣренности, не знаю.</l>
+      <l><signed>Подписалъ <persName ref="Гирш_Иоселиович">Гирша Іозелевичъ</persName>.</signed></l>
+    </p>
+    <pb xml:id="p133-2" n="133-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/133-2.jpg"/>
+  </body></text>
+</TEI>

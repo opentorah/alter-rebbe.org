@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Фризель">Фризель</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Письмо <persName ref="Фризель">Фризеля</persName> <persName ref="Обольянинов">Обольянинову</persName> о
+          передаче дела старшин <orgName ref="Виленский_кагал">виленского кагала</orgName> в надворный суд
+        </p>
+      </abstract>
+      <creation><date when="1800-08-20">20 Августа 1800 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p008-1" n="008-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/008-1.jpg"/>
+    <fw type="docNum" place="left">№ 15990./2028</fw>
+    <fw type="pageNum" place="right">8</fw>
+    <date when="1800-09-03" place="right">3. сентября 1800.</date><note place="end">Дата вписана другим почерком и
+    другими чернилами</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">36</del></fw>
+    <salute><l>Милостивый Государь<lb/>
+       <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</l></salute>
+    <p>
+      <l>По жалобамъ отъ одного изъ отрѣшен-</l>
+      <l>ныхъ старшинъ <orgName ref="Виленский_кагал">виленскаго еврейскаго ка-<lb/>
+       гала</orgName>, нѣкоего <persName ref="Мовша_Ошерович">Мойжеша <emph rend="underline">ошеровича</emph></persName>
+      пред-</l>
+      <l>мѣстнику вашего высокопревосходительства</l>
+      <l>Князю <persName ref="Лопухин">Петру васильеевичу Лопухину</persName> въ про-</l>
+      <l>шедшемъ 1799 <hi rend="superscript">м</hi> году принесеннымъ, на <orgName ref="Литовское_губернское_правление">
+      ли-<lb/>
+       товское Губернское правленіе</orgName>, въ разныхъ</l>
+      <l>притесненіяхъ оному <orgName ref="Виленский_кагал">кагалу</orgName> якобы отъ</l>
+      <l>него нанесенныхъ, и на Совѣтника <orgName ref="Литовское_губернское_правление">правле</orgName></l>
+      <l>нія Г <hi rend="superscript">на</hi> <persName ref="Елиашевич">Еліашевича</persName>, въ причиненіи имъ</l>
+      <l>будто бы <orgName ref="Виленский_кагал">кагальнымъ</orgName> старшинамъ побоя</l>
+      <l>въ еврѣйской школѣ во время ихъ богослуже-</l>
+      <l>нія, – въ слѣдствіе предписанія Его свѣтло-</l>
+      <l>сти, поручено отъ меня было произвести</l>
+      <l>точнѣйшее изслѣдованіе <placeName ref="Литва">Литовскому</placeName></l>
+      <l>надворному суду. Судъ кончивъ нынѣ слѣд-</l>
+      <l>ствіе сіе, и представя на утвержденіе свое</l>
+      <l>опредѣленіе Господину Генералу отъ инфан</l>
+      <l>теріи, <placeName ref="Литва">Литовскому</placeName> военному Губернатору</l>
+      <l>начальствующему по гражданской части</l>
+      <l><fw type="note">краткую выписку сделалъ</fw><note place="end">строка вписана другим почерком</note></l>
+      <l><pb xml:id="p008-2" n="008-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/008-2.jpg"/> и
+      кавалеру <persName ref="Кутузов">Михайлѣ Ларіоновичу Голенищеву<lb/>
+       Кутузову</persName>, препроводилъ ихъ для свѣденія и ко мнѣ</l>
+      <l>съ онаго копію. Хотя его высокопревосходитель</l>
+      <l>ство при отъездѣ въ <placeName ref="Петербург">Ст Петербургъ</placeName> изволили</l>
+      <l>предложить <placeName ref="Литва">Литовскому</placeName> надворному Суду</l>
+      <l>дѣла до чиновниковъ касающіяся, препровож-</l>
+      <l>дать на утвержденіе къ нему одному, и слѣд-</l>
+      <l>ственно положенія <placeName ref="Литва">литовскимъ</placeName> надворнымъ</l>
+      <l>судомъ по жалобамъ <persName ref="Мовша_Ошерович">Ошаровича</persName> учинен-</l>
+      <l>ныя подлѣжатъ разсмотрѣнію Его же</l>
+      <l>высокопревосходительства; но я, во исполне</l>
+      <l>ніе воли предмѣстниковъ вашего высоко-</l>
+      <l>првосходительства <persName ref="Лопухин">Князя Петра Василь-<lb/>
+       евича Лопухина</persName>, и Господина генерала отъ</l>
+      <l>инфантеріи <persName ref="Беклешов">Александръ- Андрѣевича бек-<lb/>
+       лешова</persName>, въ несколькихъ отношеніяхъ ко мнѣ</l>
+      <l>изъясненной, и всепочтеннѣйшаго вашего</l>
+      <l>высокопревосходительства предписанія отъ</l>
+      <l>30 <hi rend="superscript">го</hi> Апрѣля сего года за № 3498<hi rend="superscript">м</hi>. по разсмо</l>
+      <l>трѣніи съ моей стороны, сообщенной мнѣ</l>
+      <l>отъ <placeName ref="Литва">Литовскаго</placeName> Nадворнаго суда копіи съ</l>
+      <l>его опредѣленія, поднося ея у сего вашему</l>
+      <l>высокопревосходительству на благоуваженіе</l>
+      <l>обязанностію своею поставляю представить</l>
+      <l>вашему высокопревосходительству слѣдую-</l>
+      <l>щее мое замѣчаніе:</l>
+      <l><pb xml:id="p009-1" n="009-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/009-1.jpg"/> <fw
+      type="pageNum" place="right">9</fw> <fw type="pageNum" place="right"><del rend="overstrike">41</del></fw> <fw
+      type="pageNum" place="right"><del rend="overstrike">102</del></fw> Къ тому присовокупить еще должно, что</l>
+      <l>для разбора до религіи касающихся дѣлъ</l>
+      <l>совсѣмъ не нуженъ духовной судъ, поелику</l>
+      <l>по правиламъ и обрядамъ еврѣйскаго за-</l>
+      <l>кона, одинъ рабинъ или подрабинокъ мо-</l>
+      <l>жетъ всякое до религіи касающееся дѣло</l>
+      <l>рѣшить, сдѣлавъ свое заключеніе на осно-</l>
+      <l>ваніи правилъ закона. Нетъ потому</l>
+      <l>ни малѣйшей надобности въ духовномъ</l>
+      <l>судѣ.</l>
+    </p>
+    <p>
+      <l>Изслѣдованіе о утайкѣ отрѣ-</l>
+      <l>шеннымъ <orgName ref="Виленский_кагал">кагаломъ</orgName> отъ ревизіи нема-</l>
+      <l>лаго числа душъ, о сборѣ съ народа из-</l>
+      <l>лишнихъ податей, и повѣрка щетовъ</l>
+      <l>ихъ, по предписанію Господина Генера</l>
+      <l>ла отъ инфантеріи, <placeName ref="Литва">Литовскаго</placeName> во-</l>
+      <l>еннаго Губернатора, начальствующа</l>
+      <l>го по гражданской части и кавалера</l>
+      <l><persName ref="Кутузов">Голенищева Кутузова</persName>, препровождены</l>
+      <l>изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго правленія</orgName></l>
+      <l>въ <placeName ref="Литва">Литовскій</placeName> Nадворный Судъ; тутъ</l>
+      <l>безсомненно обнаружаться всѣ злоупо-</l>
+      <l>требленія отрѣшенныхъ старшинъ</l>
+      <l>кагала и духовнаго суда.</l>
+    </p>
+    <p>
+      <l>Предая благоуваженію вашего высоко</l>
+      <l>превосходительства сдѣланныя мною</l>
+      <l><pb xml:id="p009-2" n="009-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/009-2.jpg"/> замѣчанія
+      о положеніяхъ Литовскаго</l>
+      <l>надворнаго Суда по жалобамъ отрѣ-</l>
+      <l>шеннаго кагальнаго <persName ref="Мовша_Ошерович">Ошеровича</persName>, имѣю</l>
+      <l>честь быть съ совершеннѣйшимъ выс<note place="end">лист загнут, последние буквы не читаются</note></l>
+      <l>почитаніемъ и таковою же предан<note place="end">лист загнут, последние буквы не читаются</note></l>
+      <l>стію</l>
+    </p>
+    <l>Милостивый Государь</l>
+    <l>вашего высокопревосходительства</l>
+    <l><signed>всепокорнѣйшій слуга<lb/>
+     <persName ref="Фризель">Иванъ Фризель</persName></signed></l>
+    <closer place="left">
+      <l><fw type="docNum">№ 4079</fw></l>
+      <l><date when="1800-08-20">20 <hi rend="superscript">го</hi> Августа<lb/>
+       1800 <hi rend="superscript">го</hi> года</date></l>
+      <l><placeName ref="Вильно">вильна</placeName>.</l>
+    </closer>
+  </body></text>
+</TEI>

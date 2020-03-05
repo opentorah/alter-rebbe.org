@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Перервод с польского языка протокола допроса <persName ref="Перец_Хаймович">Переца Хаймовича</persName></p>
+      </abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p115-1" n="115-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/115-1.jpg"/>
+    <fw type="note" place="right"><ref target="../documents/116.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">115</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Перец_Хаймович">Переца Хаймовича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Перец_Хаймович">Перецъ Хаймовичъ</persName> отъ роду</l>
+      <l>имѣю 50 лѣтъ, упражняюсь въ скор-</l>
+      <l>няшномъ мастерствѣ, родился въ</l>
+      <l><placeName ref="Вильно">вилнѣ</placeName>, женатъ, имѣю дѣтей сына</l>
+      <l>Зелка<note place="end">возможно, Зеева - Зевка</note> и одну дочь; четвертой годъ</l>
+      <l>какъ вступилъ въ <orgName ref="Хасиды">каролинскую сек-<lb/>
+       ту</orgName>; она ничѣмъ не разнествуетъ</l>
+      <l>отъ Еврейской вѣры; начальникомъ</l>
+      <l>ея есть <placeName ref="Лозна">Лозинской</placeName> <persName ref="alter-rebbe">рабинъ</persName>; въ раз-</l>
+      <l>сужденіи <orgName ref="Хасиды">каролинской секты</orgName> пока</l>
+      <l>залъ согласно съ <persName ref="Арон_Беркович">Ароном Берко-<lb/>
+       вичемъ</persName><note place="end">см. документ 099</note>; о прочемъ ничего не знаю</l>
+      <l><signed>Подписалъ <persName ref="Перец_Хаймович">Перецъ Хаймовичъ</persName>.</signed></l>
+    </p>
+    <pb xml:id="p115-2" n="115-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/115-2.jpg"/>
+  </body></text>
+</TEI>

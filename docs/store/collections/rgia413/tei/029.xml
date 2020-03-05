@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>Копия решения о прошения <persName ref="Мовша_Ошерович">Ашеровича</persName></p></abstract>
+      <creation><date when="1799-06-16"/></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p029-1" n="029-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/029-1.jpg"/>
+    <fw type="note">Копія 5 <hi rend="superscript">м</hi></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">219</del></fw>
+    <fw type="pageNum" place="right">29</fw>
+    <l><date when="1799-06-16">1799 <hi rend="superscript">го</hi> июня 16 <hi rend="superscript">го</hi> дня</date> въ
+    журналѣ <orgName ref="Литовское_губернское_правление">Ли<lb/>
+     товскаго Губернскаго Правленія</orgName> подъ</l>
+    <l>№ 28. <hi rend="superscript">м</hi> записано:</l>
+    <l>По прошенію <placeName ref="Вильно">виленскаго</placeName> купца <persName ref="Мовша_Ошерович">Май<lb/>
+     жеша Ошеровича</persName> <emph rend="big">ПРИКАЗАЛИ</emph> проси</l>
+    <l>телю <persName ref="Мовша_Ошерович">Ошеровичу</persName> объявить, что <orgName
+    ref="Литовское_губернское_правление">Ли-<lb/>
+     товское Губернское Правленіе</orgName> изъ</l>
+    <l>прошеній имъ подаваемыхъ усматри</l>
+    <l>ваетъ одни только затѣи и при</l>
+    <l>хотливыя требованія правитель</l>
+    <l>ство излишно затрудняющія,</l>
+    <l>и клонящіеся единственно къ про</l>
+    <l>волочкѣ производящегося въ <placeName ref="Литва">литов<lb/>
+     скомъ</placeName> Губернскомъ Надворномъ Судѣ,</l>
+    <l>по жалобѣ его Дела, ибо въ <orgName ref="Литовское_губернское_правление">литов-<lb/>
+     скомъ Губернскомъ Правленіи</orgName> ни <date when="1799-02-18">18 <hi rend="superscript">го</hi><lb/>
+     февраля</date>, ни же когда либо не состо-</l>
+    <l>ялась резолюція назначающая Господина</l>
+    <l>Коменданта къ Следствію; что же</l>
+    <l>принадлежитъ до резолюціи после</l>
+    <l>довавшей <date when="1799-02-15">15 <hi rend="superscript">го</hi> числа того жѣ месяца</date>,</l>
+    <l>то оная давно отослана въ губернскій</l>
+    <pb xml:id="p029-2" n="029-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/029-2.jpg"/>
+    <note type="gloss">литовской казенной пал…</note>
+    <l>Надворный Судъ, да и въ кагалѣ еврей<note place="end">скомъ</note></l>
+    <l>объявлена, а потому и воздержалс(я)</l>
+    <l>онъ <persName ref="Мовша_Ошерович">Ошеровичъ</persName> впредь входить с</l>
+    <l>подобными прошеніями и тре<note place="end">бо-</note></l>
+    <l>вать того чего вовсѣ нетъ и</l>
+    <l>къ дѣлу его отнюдь не принадл<note place="end">ежитъ</note></l>
+    <l>подопасеніемъ неупустительна<note place="end">го</note></l>
+    <l>по Законамъ взысканія. _ Подли</l>
+    <l>ной за подписаніемъ Господъ присут</l>
+    <l>ствующихъ и за скрепою секретаря</l>
+    <l>Кирилы Серебренникова. –– сверял</l>
+    <l>= подпись <signed>Кирилл Серебренников</signed></l>
+    <fw type="note">
+      <l>указные пош</l>
+      <l>лины и за воскъ</l>
+      <l>52 <hi rend="superscript">ко</hi> взяты</l>
+    </fw>
+    <fw type="note">
+      <l>Съ подлиннымъ свѣрялъ повытчикъ</l>
+      <l>Василій Гутовичъ</l>
+    </fw>
+  </body></text>
+</TEI>

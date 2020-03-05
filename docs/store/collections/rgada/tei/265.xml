@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>Бельков</author>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Письмо Белькова в <orgName ref="Тайная_экспедиция">Тайную экспедицию</orgName> об оплате счетов <persName
+          ref="Хрущов">Хрущова</persName>
+        </p>
+      </abstract>
+      <creation><date when="1800-10-17">17 октября 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p265-1" n="265-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/265-1.jpg"/>
+    <fw type="docNum" place="left">№1482.</fw>
+    <date when="1800-10-25">25 октября 1800</date>
+    <fw type="pageNum" place="right"><del rend="overstrike">269</del></fw>
+    <fw type="pageNum" place="right">265</fw>
+    <salute><l>Милостивый Государь<lb/>
+       Александр Семеновичъ!<note place="end">А.С. Макаров был руководителем <orgName ref="Тайная_экспедиция">Тайной Экспедиции</orgName> при <orgName ref="Сенат">Правительствующем Сенате</orgName> с 1794 по 1801 г.</note></l></salute>
+    <p>
+      <l>По отношениiю вышего превосхо-</l>
+      <l>дительства слѣдующiя по щетамъ</l>
+      <l>Комисiонера <persName ref="Хрущов">Хрущова</persName> въ возвратъ</l>
+      <l>477. рублей 24. копѣйки приказано</l>
+      <l>казначѣю Рындину принять и предста-</l>
+      <l>вить въ коммисiю <placeName ref="Петербург">СанктПетербургскаго</placeName></l>
+      <l>провiантскаго депо.</l>
+      <l>Съ совершеннымъ почтенiемъ и пре-</l>
+      <l>данностiю имѣю честь быть</l>
+      <l>Милостивый Государь!</l>
+      <l>вашего Превосходительства</l>
+      <l>Покорнѣйший Слуга</l>
+      <l><signed>Бельков</signed></l>
+    </p>
+    <l>Октября 17. дня</l>
+    <l>1800. года</l>
+    <pb xml:id="p265-2" n="265-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/265-2.jpg"/>
+  </body></text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="фонъ_Дер_Пален">Палену</persName>
+          о переводе <persName ref="alter-rebbe">Шнеура Залмана</persName> из-под ареста на квартиру
+        </p>
+      </abstract>
+      <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p330-1" n="330-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/330-1.jpg"/>
+    <fw type="note" place="left">Секретно.</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">333</del></fw>
+    <fw type="pageNum" place="right">330</fw>
+    <p>
+      <l><salute>М. Г. мой Графъ <persName ref="фонъ_Дер_Пален">Петръ Алексеевичъ</persName>!</salute></l>
+      <l>Г:И<note place="end">Государь Император</note> высочайше повелѣть соизволилъ</l>
+      <l>еврея <persName ref="alter-rebbe">Боруховича</persName> выпустить въ квартиру,</l>
+      <l>но чтобъ изъ города не выѣзжалъ доколѣ</l>
+      <l>не будетъ позволено, въ чемъ обязать</l>
+      <l>его съ поручительствомъ подпискою,</l>
+      <l>и наблюдать за его повѣденіемъ._</l>
+      <l>Извѣщая о сей высочайшей волѣ</l>
+      <l>ваше с <hi rend="superscript">во</hi> для надлежащаго испол-</l>
+      <l>ненія имѣю честь увѣдомить, что</l>
+      <l>пребываніе еврей <persName ref="alter-rebbe">Боруховичъ</persName> долженъ</l>
+      <l>будетъ имѣть въ домѣ <persName ref="Цуберт">Цуберта</persName>,</l>
+      <l>гдѣ и прочіе евреи жительствуютъ.</l>
+      <l>Пребываю<note place="end">далее значок, свидетельствующий о стандартной форме - "пребываю с совершенным
+      почтением"</note></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 962<hi rend="superscript">й</hi>.</fw></l>
+      <l><date when="1800-11-28">Ноября 28 дня<lb/>
+       1800 года</date></l>
+      <l>Графу <persName ref="фонъ_Дер_Пален">Палену</persName></l>
+    </closer>
+    <pb xml:id="p330-2" n="330-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/330-2.jpg"/>
+  </body></text>
+</TEI>

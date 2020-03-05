@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Авигдор">Авигдор</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Приложение к документу № <ref target="/collections/dubnov/documents/271.html" role="documentViewer">20</ref>
+        </p>
+      </abstract>
+      <creation><date when="1800-12">декабрь 1800, не позднее 28го</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p272" n="272" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/272.jpg"/> Приложение к
+      документу № <ref target="/collections/dubnov/documents/271.html" role="documentViewer">20</ref>. (Среди дѣлъ
+      <placeName ref="Рига">Рижской</placeName> цензуры найденъ следующій переводъ выписокъ изъ книги <persName
+      ref="alter-rebbe">Залмана</persName> <note type="gloss" place="end">Этотъ отрывокъ, стоящій особнякомъ въ
+      сенатскомъ „Дѣлѣ", присоединенъ мною къ предшествующему прошенію <persName ref="Авигдор">Авигдора</persName>, въ
+      предположеніи, что это и есть та „выписка", о которой въ прошеніи говорится. Она содержитъ цитаты изъ книги
+      „Tanio" <persName ref="alter-rebbe">Залмана</persName>, изданной въ 1796 г. Возбуждаетъ однако сомнѣніе то, что
+      эти же цитаты (о томъ, что христіане имѣютъ второстепенную душу, состоящую „изъ всякихъ худыхъ качествъ" и т.п.)
+      служили, по преданію, уликами противъ <persName ref="alter-rebbe">Залмана</persName> и при допросѣ 1798 г. и тоже
+      прошли черезъ рижскую цензуру (см. „Религіозная борьба" Восх. 1893, кн. І, стр. 46–481).</note>:
+    </head>
+    <p>
+      „Выписка изъ книги сочиненной евреемъ <persName ref="alter-rebbe">Соломономъ Боруховичемъ</persName> въ <placeName
+      ref="Лозна">Лохнѣ</placeName> (?) и изданной отъ него въ печать. Въ концѣ I главы изображено слѣдующее: „Что
+      касается до тѣла еврея, то въ ономъ заключается нѣкоторымъ образомъ двѣ души. Первая производитъ свое начало отъ
+      всякаго блага, такъ что она имѣетъ подобіе съ ангеломъ, а вторая составлена изъ всякихъ худыхъ качествъ. Сіе
+      происходитъ отъ древа райскаго, посредствомъ котораго можно было различить добро отъ зла. Относительно же народовъ
+      христіанскихъ, то тѣло ихъ составлено единственно изъ всякихъ нечистыхъ и злыхъ существъ, не вмѣщающихъ въ себѣ ни
+      малѣйшаго добраго качества. И все, что они добраго ни позорятъ (?), дѣлаютъ они единственно для себя самихъ или
+      изъ тщеславія".
+    </p>
+    <p>
+      Въ 6-й главѣ между прочимъ прописываетъ онъ слѣдующее: „Есть двоякаго рода злыхъ духовъ, которые раздѣляются въ
+      два разряда, одинъ другого ниже. Нижній разрядъ состоитъ изъ трехъ особливо злыхъ духовъ, самаго злѣйшаго
+      свойства, такъ что въ нихъ ни малѣйшаго добра не вмѣщается. Отъ сихъ то духовъ производитъ начало и основаніе свое
+      духъ всѣхъ христіанскихъ народовъ на свѣтѣ. Сей духъ рождается отъ такихъ скверно созданныхъ (?), что жидамъ не
+      позволено употреблять въ пищу. Но тѣло евреевъ происходитъ единственно отъ весьма добраго начала".
+    </p>
+    <p>
+      Въ 8-й главѣ приводитъ онъ между прочимъ: „Мудрость другихъ народовъ еще больше содержитъ въ себѣ нечистаго,
+      нежели сквернословіе. Ибо сіе послѣднее оскверняетъ только нравы, а мудрость христіанскихъ народовъ оскверняетъ
+      даже основаніе и корень истинной мудрости и божескихъ наукъ”.
+    </p>
+  </body></text>
+</TEI>

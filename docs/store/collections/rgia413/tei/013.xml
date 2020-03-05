@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Перевод молитвы о благоденствии и спасении Государя</p>
+        <p>
+          Документы <ref target="/collections/rgada/documents/366.html" role="documentViewer">366</ref> и <ref
+          target="/collections/rgada/documents/367.html" role="documentViewer">367</ref> в РГАДА
+        </p>
+        <p>
+          Упомянут в документе <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у
+          Дубнова
+        </p>
+      </abstract>
+      <creation><date when="1800-12">декабрь 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p013-1" n="013-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/013-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">45</del></fw>
+    <fw type="pageNum" place="right">13</fw>
+    <head>
+      <l>Переводъ Молитвы</l>
+      <l>о благоденствіи и спасеніи Государя</l>
+    </head>
+    <p>
+      <l>Предоставляющіи спасеніе царямъ, и владеніе помазани-</l>
+      <l>камъ, царство ево есть царство вѣчное; онъ же тотъ, кото-</l>
+      <l>рой спасъ Давыда раба своего отъ злобнаго меча; онъ же</l>
+      <l>показываетъ на морѣ путь и на водахъ быстрыхъ стѣзи:</l>
+      <l>благословил бы онъ, оберегъ, защитилъ, помогалъ, возвысилъ</l>
+      <l>увеличивалъ и возносилъ, до всенаивысочайшей степени</l>
+      <l><emph rend="big">ВСЕМИЛОСТИВѢЙШАГО ГОСУДАРЯ ИМПЕРАТОРА</emph></l>
+      <l><emph rend="big"><persName ref="Павел_I">ПАВЛА ПЕТРОВИЧА</persName> СЪ ВЫСОЧАЙШЕЮ ФАМИЛIЕЮ</emph>,</l>
+      <l>да возвысилось бы сіяніе ихъ.– О царь царей царствъ! –</l>
+      <l>милостію твоею оживляй, береги спаси его отъ всякой</l>
+      <l>печали и убытка, предай народы подъ ноги его; пусть па-</l>
+      <l>даютъ враги его передъ нимъ, и куда онъ обратится да пощастли</l>
+      <l>вствуетъ. – Царь царей царствъ, мілостію своею да далъ бы</l>
+      <l>въ сердцъ его, совѣтниковъ и чиновниковъ его, Милосердіе о благо</l>
+      <l>денствіи нашемъ, и всего израиля, во дняхъ его да спасенъ</l>
+      <l>будетъ израиль, пребывалъ въ спокойствіи, и въ сіонъ пришелъ</l>
+      <l>бы спаситель. Аминь! –</l>
+    </p>
+    <p>*</p>
+    <p>
+      <l>Такова Молитва</l>
+      <l>Между книгами <persName ref="alter-rebbe">боруховича</persName> на талмудѣ брохитъ</l>
+      <l>написана собственною его рукою:</l>
+    </p>
+    <p>
+      <l>Тотъ, которой даетъ спасеніе царямъ, и владеніе помазани</l>
+      <l>камъ, тотъ, котораго царство есть царство всѣхъ вѣковъ: тотъ</l>
+      <l>бы благословилъ, берегалъ, поддержалъ, защищалъ, заступалъ</l>
+      <l>спасалъ и возвысилъ до наивысочайшей степени <emph rend="big">ВСЕМИЛОСТИ-<lb/>
+       ВѢЙШАГО ПРАВОСУДНАГО И ПРЕПОДОБНАГО –<lb/>
+       ГОСУДАРЯ НАШЕГО ИМПЕРАТОРА <persName ref="Павел_I">ПАВЛА<lb/>
+       ПЕТРОВИЧА</persName> и супругу его ВСЕМИЛОСТИВѢЙШУЮ</emph></l>
+      <pb xml:id="p013-2" n="013-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/013-2.jpg"/>
+      <l><emph rend="big">ГОСУДАРЫНЮ ИМПЕРАТРИЦУ СО всеми ВЕЛИКИМИ<lb/>
+       КНЯЗЯМИ И ВЕЛИКИМИ КНЯГИНЯМИ</emph> и чадами ихъ</l>
+      <l>да возвысилась бы слава ихъ! – всѣ бы они были благосло-</l>
+      <l>вены миромъ вѣчнымъ; а всѣ не пріятели ихъ падали</l>
+      <l>подъ ноги ихъ, и были бъ за ничто и суету почитаны</l>
+      <l>всѣ войны враговъ: которые же захотять противъ ихъ вое</l>
+      <l>вать или помышлять злобу, о Господи! Сокруши совѣтъ</l>
+      <l>ихъ, и разруши мысли ихъ: а на рамена ихъ беззаконіе</l>
+      <l>ихъ же да низсходитъ, чемъ и исполнится священное писаніе</l>
+      <l>и да отринутся всѣ враги твои предъ тобою, ибо они враги</l>
+      <l>ГОСУДАРЯ нашего суть враги господнія и закона его. Ажѣ</l>
+      <l>они то становятся противъ бога и его пророковъ такъ какъ</l>
+      <l>и написано: Царь правосудіемъ возстановляетъ землю,</l>
+      <l>праведность же оцарствуетъ царя. – Заступленіе закона</l>
+      <l>и пророковъ заступила бы ВСЕМИЛОСТИВѢЙШАГО –</l>
+      <l>ГОСУДАРЯ НАШЕГО, и да возвысилась бы слава его!!! –</l>
+      <l>Переводилъ съ еврейскаго переводчикъ <persName ref="Лейба_Невахович">Лейба Неваховичъ</persName></l>
+    </p>
+  </body></text>
+</TEI>

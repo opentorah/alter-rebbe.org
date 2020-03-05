@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Перевод с польском языка протокола допроса <persName ref="Ицко_Сайович">Ицка Сайовича</persName></p>
+      </abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p117-1" n="117-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/117-1.jpg"/>
+    <fw type="docNum">№13</fw>
+    <fw type="note" place="right"><ref target="../documents/118.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">117.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида Ицка Саіовича</l>
+    </head>
+    <p>
+      <l>Я Ицко Саіовичъ отъ роду имѣю</l>
+      <l>19 лѣтъ, торгую напитками, ро-</l>
+      <l>дился в мѣстечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>,</l>
+      <l>въ <placeName ref="Вильно">вилнѣ</placeName> живу шестой годъ, женатъ,</l>
+      <l>имѣю сына Саія; третей годъ, какъ</l>
+      <l>вступилъ въ <orgName ref="Хасиды">каролинскую секту</orgName>,</l>
+      <l>и сіе учинилъ потому, что понра-</l>
+      <l>вился мнѣ образъ моленія; касатель-</l>
+      <l>но еврея <persName ref="Орлик_Мовшович">Орлика</persName>, согласенъ во всемъ</l>
+      <l>съ <persName ref="Вулф_Шимелиович">Вулфом Шемеліовичемъ</persName><note place="end">см.
+      http://www.alter-rebbe.org/collections/rgada/documents/106.html</note>; о про-</l>
+      <l>чемъ же ничего не знаю.</l>
+    </p>
+    <l><signed>подписал Ицко Саіович</signed></l>
+    <pb xml:id="p117-2" n="117-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/117-2.jpg"/>
+  </body></text>
+</TEI>

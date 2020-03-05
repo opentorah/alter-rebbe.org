@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Жегулин">Жегулин</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Ордер <persName ref="Жегулин">Жегулина</persName> <persName ref="Добрынин">Добрынину</persName> об
+          освобождении <persName ref="alter-rebbe">Залмана</persName>
+        </p>
+        <p>
+          <ref target="/collections/dubnov/documents/273.html" role="documentViewer">Приложение А к документу № 21</ref>
+          у Дубнова
+        </p>
+      </abstract>
+      <creation><date when="1798-12-15">Декабря 15 дня 1798 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Добрынин" role="addressee">Добрынину</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p024-1" n="024-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/024-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">61</del></fw>
+    <fw type="pageNum" place="right">24</fw>
+    <head>Копія</head>
+    <p>
+      <l><date when="1800-07-01">1800 <hi rend="superscript">го</hi> года июля 1 <hi rend="superscript">го</hi> дня
+      </date> по подан-</l>
+      <l>ному прошенію на имя <placeName ref="Витебск">витебскаго</placeName> зем-</l>
+      <l>скаго комиссара отъ <placeName ref="Витебск">витебскаго</placeName> купца</l>
+      <l>Бениша Янкелевича нижеслѣдующей ор-</l>
+      <l>деръ выданъ за скрѣпою.</l>
+    </p>
+    <l><fw type="note "><emph rend="underline">Копія</emph></fw></l>
+    <l><fw type="note ">полученъ<date when="1798-12-18">декабря 18 <hi rend="superscript">го</hi> дня 798 года</date>.
+    </fw></l>
+    <p>
+      <l>Ордеръ <placeName ref="Витебск">витебскому</placeName> земскому камисару госпо-</l>
+      <l>дину коллежскому ассессору <persName ref="Добрынин">добрынину</persName> по высочай-</l>
+      <l>шему его ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА повеле-</l>
+      <l>нію объявленному мнѣ въ отношеніи его высоко-</l>
+      <l>превосходительства господина дѣйствительнаго</l>
+      <l>тайного совѣтника генералъ прокурора и кавалера</l>
+      <l><persName ref="Лопухин">петра васильевича Лопухина</persName> взятой предъ симъ</l>
+      <l>изъ мѣстечка <placeName ref="Лозна">Ліозни</placeName> проживающій тамъ рав-</l>
+      <l>винъ <persName ref="alter-rebbe">залманъ Боруховичъ</persName> по разсмотреніи обс-</l>
+      <l>тоятельствъ учиненъ свободнымъ и <orgName ref="Хасиды">секта евре-<lb/>
+       евъ каролины именуемая</orgName> остается при преж-</l>
+      <l>немъ ея существованіи, для того предписываю</l>
+      <l>вашему высокоблагородію отысканіе средь пуб-</l>
+      <l>лики проживающаго въ <placeName ref="Островна">Островнѣ</placeName> еврея Орли <unclear>ка</unclear></l>
+      <l>мовшовича уничтожить, и въ высылку его ко</l>
+      <l>мнѣ уже не требовать. на подлинномъ под-</l>
+      <l>писано тако: <persName ref="Жегулин">Семенъ Жегулинъ</persName>. <date when="1798-12-15">декабря 15 <hi
+      rend="superscript">го</hi></date></l>
+      <l>дня 1798 <hi rend="superscript">го</hi> года съ подлиннымъ свѣрилъ</l>
+      <l>земский камисаръ <unclear>Бюссовъ</unclear>. Съ подлиннымъ</l>
+      <l>читалъ губернскій регистраторъ мацишевъ.</l>
+    </p>
+    <p>
+      <l>Съ представленной выписи читалъ надворный</l>
+      <l>совѣтникъ <unclear><signed>??</signed></unclear></l>
+      <l><unclear>??</unclear></l>
+      <l>...<note place="end">две строки на иврите</note></l>
+    </p>
+    <pb xml:id="p024-2" n="024-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/024-2.jpg"/>
+  </body></text>
+</TEI>

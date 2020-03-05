@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Рапорт Новороссийского губернатора Обольянинову об исполнении повеления ввести надзор за <orgName ref="Хасиды"
+          >хасидами</orgName>, несмотря на их отстутствие в губернии
+        </p>
+      </abstract>
+      <creation><date when="1800-11-30">ноября 30 дня 1800 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p365-1" n="365-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/365-1.jpg"/>
+    <fw type="docNum" place="left">№ 1837</fw>
+    <date when="1800-12-24">24 декабря 1800</date>
+    <fw type="note" place="right">Секретно</fw>
+    <fw type="pageNum" place="right">365</fw>
+    <p>
+      <l><salute>Милостивый Государь<lb/>
+         Петръ Хрисанфовичъ!</salute></l>
+      <l>Отъ <date when="1800-11-01">1. числа сего ноября</date> ваше</l>
+      <l>ваше высокопревосходительство объявить</l>
+      <l>мнѣ изволили <emph rend="big">высочайшее его</emph></l>
+      <l><emph rend="big">императорского величества пове</emph></l>
+      <l>лѣніе касательно евреевъ <orgName ref="Хасиды">Кароглын<lb/>
+       ской секты</orgName>. въслѣдствіе чего</l>
+      <l>имѣю честь донести: въ здѣшнеи</l>
+      <l>губерніи чтобы находились евреи</l>
+      <l>таковой секты не замѣченно,</l>
+      <l>а хотя и находяться Крымскаго</l>
+      <l>полуострова въ городахъ Козловѣ</l>
+      <l>и Балчисарае подъ именемъ</l>
+      <l>караимовъ, но образъ жизни ихъ</l>
+      <l>и поведеніе до сего подозрительны</l>
+      <l>не были; однакожъ я за всѣмъ</l>
+      <pb xml:id="p365-2" n="365-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/365-2.jpg"/>
+      <fw type="pageNum">365 об.</fw>
+      <l>тѣмъ къ исполненію высокомо</l>
+      <l>наршей воли точнаго и неослаб</l>
+      <l>наго наблюденія имѣть не упущу.</l>
+      <l>Пребывая <sic>зъ</sic> совершеннымъ высоко</l>
+      <l>почитаніемъ и преданностію.</l>
+      <l>Милостивый Государь</l>
+      <l>вашего высокопревосходительства</l>
+      <l>покорный слуга</l>
+      <l>Юрій Николев<note place="end">Новороссийский губернатор в 1800-1801 гг.</note></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 117</fw></l>
+      <l><date when="1800-11-30">ноября 30 дня<lb/>
+       1800 года</date></l>
+      <l>Новороссійскъ<note place="end">ныне Краснодар</note></l>
+    </closer>
+  </body></text>
+</TEI>

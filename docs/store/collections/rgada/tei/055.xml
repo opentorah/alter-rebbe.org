@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Письмо <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> с просьбой
+          распорядиться о дальнейшем следовании или возвращении в <placeName ref="Вильно">Вильно</placeName>
+          отправленных в <placeName ref="Петербург">Санкт-Петербург</placeName> <orgName ref="Хасиды">хасидов</orgName>
+        </p> и сообщением о получении для перевода показаний <persName ref="alter-rebbe">Шнеура Залмана</persName>, а
+        также резолюция <persName ref="Лопухин">Лопухина</persName>
+      </abstract>
+      <creation><date when="1798-11-09">9 ноября 1798</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p055-1" n="055-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/055-1.jpg"/>
+    <fw type="docNum">№ 2784.</fw>
+    <dateline><date when="1798-11-09">9 ноября 1798</date></dateline>
+    <fw type="note" place="right">Секретно</fw>
+    <fw type="pageNum" place="right">55.</fw>
+    <fw type="note" place="left margin"><l>Написать къ господину <persName ref="Бенкендорф">бекендорфу</persName> чтобы
+    <unclear>???</unclear> еврѣевъ отъ Г-на <persName ref="Булгаков">булгакова</persName></l> <l>прѣпроводить къ нему
+    обратно, о чемъ его <persName ref="Булгаков">булгакова</persName> извѣстить, и сію бумагу <sic>отдалъ</sic> въ
+    Тайную</l> <l>Экспедицію</l>.</fw>
+    <salute><l>Милостивый Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
+    <p>
+      <l>Полученно мною, при всепочтенннѣйшемъ вашего высоко-</l>
+      <l>превосходительства писмѣ, показаніе еврея <persName ref="alter-rebbe">Боруховича</persName>, будетъ</l>
+      <l>въ-самой-скорости переведено, и я не замедлю оное</l>
+      <l>къ вамъ представить.Что касается до сообщниковъ его,</l>
+      <l>то я всѣ бумаги до слѣдствія ихъ принадлежащія послалъ</l>
+      <l>къ вашему высокопревосходительству на послѣдней почтѣ</l>
+      <l>отъ <date when="1798-10-25">25. сего месяца</date>; а въ тотъ же самой день и главныхъ</l>
+      <l>изъ нихъ семь человѣкъ, отправилъ, въ силу прежняго</l>
+      <l>повелѣнія, подъ конвоемъ въ <placeName ref="Петербург">Санктпетербургъ</placeName>, такъ что</l>
+      <l>севодни может быть они уже находятся около <placeName ref="Рига">Риги</placeName>.</l>
+      <l>Итакъ теперьже увѣдомляю о томъ Рижскаго военнаго</l>
+      <l>губернатора Господина генерала отъ инфантеріи <persName ref="Бенкендорф">Бекендор-<lb/>
+       фа</persName> о <emph rend="big">высочайшей</emph> волѣ, и прошу его, ежели писмо мое</l>
+      <l>застанетъ помянутыхъ арестантовъ въ <placeName ref="Рига">Ригѣ</placeName>, оставить</l>
+      <l>ихъ тамъ впредь до повеленія, а ежели миновали они и <placeName ref="Рига">Ригу</placeName></l>
+      <l>то чрезъ нарочнаго приказать ихъ остановить въ томъ мѣстѣ,</l>
+      <l>гдѣ ихъ догонятъ, и обо всемъ вашему высокопревосходительству</l>
+      <l>донести. Въ слѣдствіе чего всепокорнѣйше прошу пожаловать</l>
+      <l>предписать прямо отъ себя Господину <persName ref="Бенкендорф">Бекендорфу</persName>, какъ ему</l>
+      <l>съ ними поступить, содержать ли ихъ тамъ, или сюда воз-</l>
+      <l>вратить.</l>
+      <l>Имѣю честь быть съ совершеннѣйшимъ почтеніемъ и истин-</l>
+      <l>ною преданностію</l>
+      <l>Милостивой Государь!</l>
+      <l>вашего высокопревосходительства</l>
+      <l>всепокорнейшей слуга</l>
+      <l><persName ref="Булгаков">Яковъ булгаковъ</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 197</fw></l>
+      <l><date when="1798-10-28">28 Октября 1798</date></l>
+      <l><placeName ref="Вильно">вилна</placeName></l>
+      <l>Его высокопревосходительству</l>
+      <l>Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+    </closer>
+    <pb xml:id="p055-2" n="055-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/055-2.jpg"/>
+  </body></text>
+</TEI>
