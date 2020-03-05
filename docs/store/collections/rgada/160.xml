@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>?</author>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Титульный лист раздела: Расписки о деньгах, пересланных <orgName ref="Хасиды">хасидами</orgName> в <placeName
+        ref="Иерусалим">Иерусалим</placeName>
+      </p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p160-1" n="160-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/160-1.jpg"/>
+    <fw type="pageNum"><del rend="overstrike">160а</del></fw>
+    <fw type="pageNum">160</fw>
+    <fw type="docNum">№28</fw>
+    <p>
+      <l>Росписки въ денгахъ</l>
+      <l>пересланныхъ въ <placeName ref="Иерусалим">Іерусалимъ</placeName></l>
+    </p>
+    <pb xml:id="p160-2" n="160-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/160-2.jpg"/>
+  </body></text>
+</TEI>

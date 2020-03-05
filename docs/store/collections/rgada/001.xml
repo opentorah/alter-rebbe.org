@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Гирш_Давидович">Гирш Давидович</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Копия жалобы на злоупотребления виленского городничего, подписанная именем <persName ref="Гирш_Давидович">Гирша
+        Давыдовича</persName>
+      </p></abstract>
+      <creation><date when="1798-05-10">Маія 10 дня 1798 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/001-1.jpg"/>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="docNum" place="left">№ 1761.</fw>
+    <date when="1798-08-11">11 <hi rend="superscript">го</hi> августа 1798 года</date>
+    <fw type="note" place="right">По секрету.</fw>
+    <fw type="pageNum" place="right">1.</fw>
+    <p>
+      <l><salute>Сиятельнѣйшій князь <lb/>
+         Милостивый Государь!<note place="end">Исходя из титулатуры, адресатом мог быть только канцлер А.А. Безбородко, получивший титулы "князь" и "светлость" в 1797 г., однако это и два других письма были доставлены генерал-прокурору кн. А.Б. Куракину накануне его отставки: отправитель, видимо, не знал норм официального обращения</note></salute>
+      </l>
+      <l>Литовской губерніи виленской городничей</l>
+      <l>нѣмѣцъ Менше имѣя при себѣ секретаря</l>
+      <l>Ивана Матвѣева, бѣглаго унтеръ-офицера или</l>
+      <l>писаря изъ <placeName ref="Петербург">Санктпетербургскаго</placeName> пѣхотнаго полку</l>
+      <l>укрываемаго безъ всякаго спросу, отвѣту суда</l>
+      <l>и депутата пристрастно поступая содержа въ</l>
+      <l>колодкахъ и бивъ батожьемъ принудили дать</l>
+      <l>имъ по 100 рублей яко и частные приставы</l>
+      <l>ихъ Эрдманъ, Кулеша и протчіе берутъ, дерутъ</l>
+      <l>со всякаго прибывшаго за нерепортицію по рублю</l>
+      <l>и болѣе за билѣты имъ даваемые и прописку<note place="end">нижние армейские и флотские чины, т.е. солдаты и
+      матросы, ранее призванные как рекруты и отслужившие положенный срок, а затем, отправленные в бессрочный отпуск по
+      месту жительства, должны были предъявить местным городничим или полицмейстерам свои отпускные билеты и на этом
+      основании получить прописку в городе; автор жалобы под нерепортицей имеет в виду скорее всего несвоевременное
+      сообщение такого отставника городничему о своем прибытии</note>,</l>
+      <l>а всѣ обыватели и евреи, кромѣ градскихъ</l>
+      <l>тягостей и государевыхъ податей болѣе имъ</l>
+      <l>платятъ напрасно сторожевое кутовое и</l>
+      <l>квартеръ гелтъ, о чемъ прошено и извѣстно</l>
+      <l>литовскому начальству, но чрезъ покровъ</l>
+      <l>городничаго и понаровку<note place="end">потворство</note> соучастіемъ губерна-</l>
+      <l>тора никакого удовольствія не учинено; –</l>
+      <l>Того ради для изслѣдованія чрезъ</l>
+      <l><pb xml:id="p001-2" n="001-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/001-2.jpg"/> <fw
+      type="pageNum">1 об.</fw> прокурора виленскаго или надворной судъ о</l>
+      <l>сихъ ихъ взяткахъ съ присягою обывателей</l>
+      <l>и евреевъ порознь спросить во изобличеніе</l>
+      <l>ихъ и отрѣшеніемъ дабы и впредь имъ и</l>
+      <l>никому такъ чинить повадно не было, на что</l>
+      <l>справѣдливой съ награжденіемъ моимъ ожидаю</l>
+      <l>резолюціи</l>
+      <l>вашего Сіятельства</l>
+      <l>Милостивѣйшаго Государя</l>
+      <l>всенижайшій слуга</l>
+      <l><persName ref="Гирш_Давидович">Гиршъ Давыдовичъ</persName>.</l>
+    </p>
+    <closer place="left">
+      <l><date when="1798-05-10">Маія 10 <hi rend="superscript">го</hi> дня <lb/>
+       1798 года</date>.</l>
+      <l><placeName ref="Вильно">вильна</placeName></l>
+    </closer>
+  </body></text>
+</TEI>

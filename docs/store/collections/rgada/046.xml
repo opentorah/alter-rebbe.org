@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Булгаков">Булгаков</persName></author>
+        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Список <orgName ref="Хасиды">хасидов</orgName>, связанных со <persName ref="alter-rebbe">Шнеуром Залманом
+        </persName> и отправленных из <placeName ref="Вильно">Вильно</placeName> в <placeName ref="Петербург">
+        Санкт-Петербург</placeName> для продолжения следственных действий – приложение к сообщению <persName
+        ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName>, см.: <ref
+        target="http://www.alter-rebbe.org/collections/rgada/documents/044.html">044</ref>
+      </p></abstract>
+      <creation><date when="1798-10-25">25 октября 1798 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p046-1" n="046-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/046-1.jpg"/>
+    <fw type="docNum">къ № 192.</fw>
+    <fw type="note" place="left">A</fw>
+    <fw type="pageNum" place="right">46.</fw>
+    <head>
+      <l>Реестръ</l>
+      <l><orgName ref="Хасиды">каролиновъ</orgName> отправленныхъ въ <placeName ref="Петербург">Санктпетербургъ
+      </placeName></l>
+    </head>
+    <list>
+      <item>1. <persName ref="Меер_Рафалович">Меіеръ Рафаловичъ</persName></item>
+      <item>2. Сельмонъ Леизеровичъ</item>
+      <item>3. Лейба Зеликовичъ</item>
+      <item>4. <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName></item>
+      <item>5. <persName ref="Гирш_Иоселиович">Гиршъ Іосиеліовичъ</persName></item>
+      <item>6. <persName ref="Рафаил_Шлиомович">Рафалъ Шломовичъ</persName></item>
+      <item>7. <persName ref="Шмуил_Хаимович">Шмуило Хаимовичъ</persName>.</item>
+    </list>
+    <signed><persName ref="Булгаков">Яков Булгаков</persName></signed>
+    <pb xml:id="p046-2" n="046-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/046-2.jpg"/>
+  </body></text>
+</TEI>

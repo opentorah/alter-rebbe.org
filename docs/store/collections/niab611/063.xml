@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author>?</author></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p063-1" n="063-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/063-1.jpg"/>
+    <pb xml:id="p063a-1" n="063a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/063a-1.jpg"/>
+    <pb xml:id="p063-2" n="063-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/063-2.jpg"/>
+    <pb xml:id="p064-1" n="064-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/064-1.jpg"/>
+    <pb xml:id="p064-2" n="064-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/064-2.jpg"/>
+    <pb xml:id="p064a-2" n="064a-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/064a-2.jpg"/>
+    <pb xml:id="p065-1" n="065-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/065-1.jpg"/>
+    <pb xml:id="p065-2" n="065-2"/>
+  </body></text>
+</TEI>

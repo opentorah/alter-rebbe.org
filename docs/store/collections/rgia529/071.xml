@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author>?</author></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меер_Рафалович">реб Меира
+        Рафаловича</persName> <persName ref="Павел_I">императору Павлу I</persName>
+      </p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p071-1" n="071-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/071-1.jpg"/>
+    <pb xml:id="p071-2" n="071-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/071-2.jpg"/>
+    <pb xml:id="p072-1" n="072-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/072-1.jpg"/>
+    <pb xml:id="p072-2" n="072-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/072-2.jpg"/>
+    <pb xml:id="p073-1" n="073-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/073-1.jpg"/>
+    <pb xml:id="p073-2" n="073-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/073-2.jpg"/>
+    <pb xml:id="p083-1" n="083-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/083-1.jpg"/>
+    <pb xml:id="p083-2" n="083-2"/>
+  </body></text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Жегулин">Жегулин</persName></author>
+        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Письмо <persName ref="Жегулин">Жегулина</persName>, подтверждающее, что он получил предписание отпустить
+        арестованных <orgName ref="Хасиды">хасидов</orgName>, но установить наблюдение за ними
+      </p></abstract>
+      <creation><date when="1798-12-04">4 декабря 1798</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p089-1" n="089-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/089-1.jpg"/>
+    <fw type="docNum">№ 3133.</fw>
+    <fw><date when="1798-12-17">17 <hi rend="superscript">го</hi> Декабря 1798.</date></fw>
+    <fw type="note" place="right">Секретно.</fw>
+    <fw type="pageNum" place="right">84.</fw>
+    <salute>
+      <l>Высокородному и Выскопревосходи-</l>
+      <l>тельному господину дѣйствительному</l>
+      <l>Тайному совѣтнику генералу проку-</l>
+      <l>рору и Кавалеру <persName ref="Лопухин">Петру Василіевичу <lb/>
+       Лопухину</persName></l>
+    </salute>
+    <head>
+      <l>Тайнаго совѣтника и <placeName ref="Белоруссия">Бѣло- <lb/>
+       рускаго</placeName> губернатора</l>
+      <l><emph rend="big">Донесение</emph>!</l>
+    </head>
+    <p>
+      <l>Вашего Высокопревосходительства предпи</l>
+      <l>саніе отъ 17 <hi rend="superscript">го</hi> прошедшаго ноября съ изо-</l>
+      <l>браженіемъ въ немъ высочайшаго <emph rend="big">Его импе- <lb/>
+       раторскаго Величества</emph> повелѣнія чтобы</l>
+      <l>евреевъ <orgName ref="Хасиды">секты называемой королины</orgName> по-</l>
+      <l>причинѣ, что неусмотрено въ поведеніи ихъ</l>
+      <l>ничего вреднаго для государства, ниже раз-</l>
+      <l>вратнаго въ нравахъ, ниже нарушающаго общее</l>
+      <l>спокойствіе; всѣхъ освободить ежели не</l>
+      <l>откроется что подозрительнаго въ деяніяхъ</l>
+      <l>ихъ, или въ злонамѣреніи противу пользы</l>
+      <l>государства, имѣя, однако же какъ за ними</l>
+      <l>такъ и имъ подобными строгое наблюденіе</l>
+      <pb xml:id="p089-2" n="089-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/089-2.jpg"/>
+      <fw type="pageNum">89об.</fw>
+      <l>нетъ ли и не будетъ ли отъ нихъ какихъ</l>
+      <l>потаенныхъ сношеній или переписокъ,</l>
+      <l>съ развратно толкующими о правитель</l>
+      <l>ствѣ и образѣ правленія. я во <date when="1798-12-02">2 <hi rend="superscript">и</hi> день <lb/>
+       сего декабря</date> къ точнѣйшему и непремен-</l>
+      <l>ному исполненію получить честь имѣлъ.</l>
+      <l><signed>тайной совѣтникъ <persName ref="Жегулин">Семенъ Жегулинъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 5355</fw></l>
+      <l><date when="1798-12-04">Декабря 4 <hi rend="superscript">го</hi> дня <lb/>
+       1798 года</date></l>
+      <l><placeName ref="Чаусы">Чаусы</placeName>.</l>
+    </closer>
+  </body></text>
+</TEI>

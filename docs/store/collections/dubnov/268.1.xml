@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          № 16. Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>- <persName
+          ref="alter-rebbe">Залмана</persName> в <orgName ref="Сенат">Сенат</orgName>
+        </p>
+        <p>Документ <ref target="/collections/rgia413/documents/001.html" role="documentViewer">001</ref> в РГИА 413</p>
+      </abstract>
+      <creation><date when="1800-11-27">27 Ноября 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p268" n="268" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/268.jpg"/> № 16. Высоч.
+      повелѣніе о передачѣ дѣла <persName ref="Авигдор">Авигдора</persName>- <persName ref="alter-rebbe">Залмана
+      </persName> въ <orgName ref="Сенат">Сенатъ</orgName>.
+    </head>
+    <p>
+      Его Императорское Величество высочайше повелѣть соизволили: дѣло между евреями <persName ref="Авигдор">Абикдоромъ
+      Хаймовичемъ</persName> и <persName ref="alter-rebbe">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи
+      и прочаго, въ <orgName ref="Сенат">Сенатѣ</orgName> разсмотрѣть и учинить положеніе, на какомъ впредь <sic>
+      основаній</sic> быть сектѣ хоседовъ и кагаламъ. На каковой конецъ и препроводить учиненные допросы на еврейскомъ
+      языкѣ съ переводомъ. На подлиномъ подписалъ <persName ref="Обольянинов">Генералъ-Прокурорь
+      Обольяниновъ</persName>. Слушанъ въ Общемъ Собраніи <date when="1800-11-27">27 ноября 1800</date> г.
+    </p>
+  </body></text>
+</TEI>

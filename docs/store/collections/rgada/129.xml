@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод с польского языка протокола допроса <persName ref="Хлиовна_Зорухович">Хлиовна Боруховича</persName>
+      </p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p129-1" n="129-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/129-1.jpg"/>
+    <fw type="note" place="right"><ref target="../documents/130.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">129.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Хлиовна_Зорухович">Хліовна Зоруховича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Хлиовна_Зорухович">Хліовна Боруховичъ</persName> отъ роду имѣю</l> <l>55 лѣтъ; упражняюсь
+      купечествомъ,</l> <l>родился на Жмундѣ, въ <placeName ref="Видзы">Видзяхъ</placeName> про-</l> <l>живаю болѣе 30
+      лѣтъ, женатъ, дѣтей</l> <l>имѣю сына Янкеля и дочь Рифку,</l> <l>въ <orgName ref="Хасиды">секту каролинскую
+      </orgName> не всту-</l> <l>палъ; возвращаясь изъ <placeName ref="Рига">Риги</placeName> былъ</l> <l>въ <placeName
+      ref="Вильно">Вилнѣ</placeName>, гдѣ извѣстился я, будто</l> <l>я подписался къ прошенію подан-</l> <l>ному
+      <placeName ref="Видзы">видзкими</placeName> евреями въ <orgName ref="Литовское_губернское_правление">Литов- <lb/>
+       ское губернское правленіе</orgName>, чего одна</l> кожъ я нечинилъ. <l><signed>Подписалъ <persName
+      ref="Хлиовна_Зорухович">Хлиовна Заруховичъ</persName></signed></l>
+    </p>
+    <pb xml:id="p129-2" n="129-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/129-2.jpg"/>
+  </body></text>
+</TEI>

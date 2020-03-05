@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="alter-rebbe">Шнеур Залман</persName></author>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Черновик перевода письменных показаний <persName ref="alter-rebbe">Шнеура Залмана</persName> в виде ответов по
+          пунктам на жалобу, поданную <persName ref="Авигдор">Авигдором Хаймовичем</persName>
+        </p>
+        <p>
+          черновик с отдельными страницами, переписанными набело, представляет собой перевода показаний с многчисленными
+          перчеркиваниями, заменами, подстановкой слов и фраз на место вычеркнутых; вследствие чернового характера
+          текста, перевод во многих местах выглядит отрывочным, несвязным и не учитывающим сочетаемости и значения слов;
+          вместе с тем (наряду с историческим значением документа) данный черновик является одним из первых памятников
+          перевода обширных судебно-следственных материалов с иврита на русский язык
+        </p>
+      </abstract>
+      <creation><date when="1800-11-??">ноябрь<note place="end">вероятно, 15 или 16 ноября 1800 г.</note> 1800</date>
+      </creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p289-1" n="289-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/289-1.jpg"/>
+    <fw type="pageNum" place="right">289</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">293</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <head>
+      <l><persName ref="alter-rebbe">Салманъ Борухович</persName> почитаемый начальникомъ</l>
+      <l>Каролинской секты или Хоседовъ отвѣчаетъ</l>
+      <l>на <del rend="overstrike">извѣстіѣ</del> показанія Оберъ Рабина <persName ref="Авигдор">Абикдора Хаймовича
+      </persName></l>
+    </head>
+    <p>
+      <l>на 1 <hi rend="superscript">ое</hi></l>
+      <l>Что въ Книгѣ той о сей веселости совсемъ не</l>
+      <l>такъ написано, и что <persName ref="Авигдор">Хаймовичъ</persName> того не по-</l>
+      <l>нялъ. Въ оной означается для занимающагося</l>
+      <l>единственно божіею службою, чтобъ онъ съ веселымъ</l>
+      <l>и добрымъ сердцемъ славилъ бога, что доказывается</l>
+      <l>въ священномъ писаніи во многихъ мѣстахъ</l>
+      <l>а наипаче въ 5 <hi rend="superscript">ой</hi> Моисѣевой книгѣ, <hi rend="superscript">гдѣ сказано: понеже не
+      послужилъ еси господу богу твоему съ веселостію и <unclear>благимъ</unclear> сердцемъ</hi><note place="end">"гдѣ
+      сказано... – сердцемъ" – вставка, вписанная над строкой</note>, а есть мо-</l>
+      <l>литвы для сего, при чтеніи которыхъ долженъ</l>
+      <l>онъ иметь сокрушенное сердце, какъ то вечерняя.</l>
+      <l>Что же касается до простаго человѣка, то объ</l>
+      <l>немъ ничего не сказано; а молится онъ по об-</l>
+      <l>стоятельствамъ своихъ интересовъ.<note place="end">далее следует приписка на левом поле (см. ниже) "Со всем
+      тем... - ...веселым духом"</note> Въ Сало-</l>
+      <fw type="note" place="left margin">
+        <l>Со всемъ тѣмъ</l>
+        <l>если бы ему встрѣ-</l>
+        <l>тилось нещастѣе,</l>
+        <l>то онъ долженъ</l>
+        <l>оное переносить</l>
+        <l>съ твердостію</l>
+        <l>и съ веселымъ</l>
+        <l>духомъ</l>
+      </fw>
+      <l>моновыхъ Еклезіастахъ сказано, что есть</l>
+      <l>время веселости и печали. Упоминаемый</l>
+      <l>израильтянинъ <persName ref="Баал_Шем_Тов">Балшентовъ</persName> никакихъ книгъ</l>
+      <l>не сочинилъ, и послѣ себя не оставилъ, а потому</l>
+      <l>и дѣйствіе ангеловъ и дьволовъ мнѣ неиз-</l>
+      <l>вѣстно. Есть малая книжка подъ названіемъ</l>
+      <l>Завѣщаніе <persName ref="Баал_Шем_Тов">Большента</persName>, которую сочинилъ быв-</l>
+      <l>шій нѣкто при смерти его; но на ней не</l>
+      <l>можно основываться, потому что она сочи-</l>
+      <l>нена на еврейскомъ языкѣ, а <persName ref="Баал_Шем_Тов">большентовъ</persName> го-</l>
+      <l>ворилъ еврейско- нѣмецкимъ языкомъ.</l>
+      <l>Если оберъ Рабинъ представитъ въ етой книжкѣ</l>
+      <l>нѣкоторыя сомнѣнія, то <persName ref="alter-rebbe">Боруховичъ</persName> обя-</l>
+      <l>зуется оныя объяснить, въ какомъ смыслѣ</l>
+      <l>говорилъ <persName ref="Баал_Шем_Тов">Бальшентъ</persName>, и въ чемъ сочинитель</l>
+      <l>могъ ошибиться, хотя онъ ее читалъ</l>
+      <l>однажды. О <persName ref="maggid">беркѣ мезерицком</persName> сказать</l>
+      <pb xml:id="p289-2" n="289-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/289-2.jpg"/>
+      <l><fw type="pageNum" place="left">289 об</fw><note place="end">номер вписан карандашом</note></l>
+      <l>долженъ, что и онъ самъ ничего не сочиняетъ,</l>
+      <l>а есть книга подъ его названiемъ имя-</l>
+      <l>нуемая собранïе рѣчей нравоучительныхъ</l>
+    </p>
+    <p>
+      <l>на 2<hi rend="superscript">ое</hi>.</l>
+      <l>Молитвы къ Богу суть двухъ родовъ, однѢ</l>
+      <l>для прославленiя величества божïя, а другiя</l>
+      <l>просьбы о нуждахъ человѣческихъ, къ коимъ</l>
+      <l>присоединить можно и покаянïя. Въ первомъ</l>
+      <l>случаѣ моленïе происходитъ съ веселымъ</l>
+      <l>духомъ; а въ послѣднихъ съ сокрушен-</l>
+      <l>нымъ сердцемъ и плачемъ. Въ книгѣ же</l>
+      <l>представленной <persName ref="Авигдор">Хаймовичемъ</persName> на первый</l>
+      <l>случай написаны слѣдующiя слова „Плачъ</l>
+      <l>есть вредъ великой, когда человѣку нужно</l>
+      <l>служить Богу съ веселостію; но ежели</l>
+      <l>плачъ тотъ происходитъ отъ веселости,</l>
+      <l>то онъ весьма блаженъ.„</l>
+    </p>
+    <p><l>на 3 <hi rend="superscript">iе</hi></l></p>
+    <pb xml:id="p290-1" n="290-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/290-1.jpg"/>
+    <l><fw type="note" place="left"><emph rend="underline">Переводъ съ еврейскаго.</emph></fw></l>
+    <fw type="note" place="right"><l>Листы <lb/>
+     1<hi rend="superscript">й</hi>.</l></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">294</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">290</fw><note place="end">номер вписан карандашом</note>
+    <p>
+      <l>На 3 и 4 пункты</l>
+      <l>Хотя вящше сего написано въ книгѣ</l>
+      <l>еврейской называемой „ <emph rend="big">ХЕВАСЪ</emph></l>
+      <l><emph rend="big">Галвовесъ</emph>„ что по руски долгъ сердецъ</l>
+      <l>которая книга распространилась по</l>
+      <l>всему израильскому народу назадъ</l>
+      <l>тому болѣе уже шестисотъ лѣтъ,</l>
+      <l>а именно – что когда спрашивано было отъ одного изъ пустын</l>
+      <l>никовъ: какъ онъ в пустинѣ не</l>
+      <l>боится льва? отвѣтствовалъ онъ:</l>
+      <l>„Стыжусь отъ создателя моего, чтобы я</l>
+      <l>имѣль боязнь за что нибудь кромѣ Его„:</l>
+      <l>слѣдственно и нѣтъ ему <persName ref="Авигдор">хаимовичу</persName> ро</l>
+      <l>птать на ту только книгу: однако для лучшаго</l>
+      <l>изъясненія и разърѣшенія его запросовъ долженъ</l>
+      <l>я продолжить слѣдующее:</l>
+    </p>
+    <p>
+      <l>По справедливости, <del rend="overstrike">онаго</del> бывшій <placeName ref="Пинск">пинской</placeName>
+      <persName ref="Авигдор">раввинъ</persName></l>
+      <l>переменилъ смыслъ той книги въ другое толкованіе по ево</l>
+      <l>только хотѣнію ради ненавистнаго гоненія. Къ объясненію же</l>
+      <l>истиннаго смысла той книги необходимо нужно</l>
+      <l>по частям продолжать, объяснивъ нѣкоторые</l>
+      <l>предисловія изъ древныхъ книгъ, и тѣмъ</l>
+      <l>разрѣшится оной запросъ, которой тож</l>
+      <l>упомянутъ въ древныхъ книгахъ. И для того</l>
+      <l><del rend="overstrike">притомъ. прошу всеподданѣйше</del></l>
+      <l>отъ всевысочайшаго <del rend="overstrike">же</del></l>
+      <l>Его имва<note place="end">императорского величества</note> престола</l>
+    </p>
+    <pb xml:id="p290-2" n="290-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/290-2.jpg"/>
+    <fw type="pageNum">290 об.</fw><note place="end">номер вписан карандашом</note>
+    <p>
+      <l>
+        <note type="gloss">|: о да возвысилось бы сіяніе Его до <lb/>
+         всенаивысшней степени! :|</note>
+        <del rend="overstrike">прошу</del>
+      </l>
+      <l>всеподданѣйше прошу <emph rend="big">всемилостивѣйшаго</emph></l>
+      <l>прощенія за то, что <del rend="overstrike">сіе будетъ</del></l>
+      <l>я дерзаю трудить толико обширнымъ</l>
+      <l>выраженіемъ речей выписанныхъ изъ</l>
+      <l>древныхъ книгъ кабалистическихъ</l>
+      <l>и истинныхъ философическихъ, хотя</l>
+      <l>Ему и все извѣстно, будучи увѣренъ</l>
+      <l>и утѣшенъ <del rend="overstrike">нисход</del> благоснисходи</l>
+      <l>тельствомъ существующимъ въмѣстѣ съ</l>
+      <l><emph rend="big">Его Величествомъ</emph>. раз</l>
+      <l>дѣляя на 5 <hi rend="superscript">ть</hi> отдѣленіи:</l>
+    </p>
+    <p>
+      <l>1 <hi rend="superscript">е</hi> <del rend="overstrike">есть некоторыя люди</del> <del rend="overstrike">мнѣніе
+      </del> <del rend="overstrike"><unclear>???</unclear> сочинителей</del></l>
+      <l>1 <hi rend="underline">е</hi> Нѣкоторое <del rend="overstrike">мнѣніе <unclear>???</unclear></del></l>
+      <l><del rend="overstrike"><unclear>???</unclear> есть то <unclear>???</unclear> древней</del></l>
+      <l>ложное мнѣніе есть древней философіи, <del rend="overstrike">утверждаюся</del></l>
+      <l><del rend="overstrike">Есть какъ <unclear>???</unclear> по слуху нѣкоторыя</del> утверждаютъ</l>
+      <l><del rend="overstrike"><unclear>???</unclear>, что и нынѣшнѣй ? <unclear>???</unclear></del></l>
+      <l><del rend="overstrike">которыя ин да</del></l>
+      <l>
+        <del rend="overstrike">тожд</del>
+        <del rend="overstrike">недостойныхъ даже и вспо</del>
+      </l>
+      <l>которое утверждаетъ</l>
+      <l><del rend="overstrike">минаніе ихъ есть, веруя</del></l>
+      <l><unclear>???</unclear>, такъ какъ и <del rend="overstrike">во время</del> и тѣ которыя упомянуты</l>
+      <l>пророка Езекилія главы 3. <hi rend="superscript">и</hi> въ стихѣ 12<hi rend="superscript">м</hi>, что и
+      оставилъ Господь</l>
+      <l><del rend="overstrike">Саваофъ</del> Землю, разумѣя тѣмъ, будто</l>
+      <l><del rend="overstrike">что обращеніе</del> <hi rend="superscript">управленіе</hi> сего свѣта не зависитъ</l>
+      <l>отъ частнаго призренія создателя</l>
+      <l>всѣхъ <note type="gloss">|: да было имя Его прославлено :|</note></l>
+      <l>Потому что онъ якобы будучи</l>
+      <l>всевышнимъ, не пристойно ему призи</l>
+      <l>рать частныя дѣла сего низ</l>
+      <l>каго свѣта. <del rend="overstrike">Почему и затвердилъ</del> <del rend="overstrike">утвердив</del> и какъ</l>
+      <l>
+        <del rend="overstrike">у такихъ в нихъ то, что</del>
+        <hi rend="superscript">уже то подтверждено что</hi>
+      </l>
+      <l><del rend="overstrike">предъ водительство</del> не можетъ якобы частное</l>
+      <l>управленіе симъ свѣтомъ про</l>
+      <l>исходить отъ бесконечнаго</l>
+      <pb xml:id="p291-1" n="291-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/291-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">2</del></fw><note place="end">номер записан и вычеркнут
+      чернилами</note>
+      <fw type="pageNum" place="right">291</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">295</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>то зависитъ оное отъ</l>
+      <l>звѣздъ или планетъ,</l>
+      <l>или же что ни сдѣлаетъ, все</l>
+      <l>то есть случайное, или отъ</l>
+      <l>самой натуры <del rend="overstrike">происходитъ</del> происходящее <del rend="overstrike">въ</del> что</l>
+      <l>сіе мнѣніе <del rend="overstrike">суть</del> есть суетное</l>
+      <l><del rend="overstrike"><unclear>???</unclear> имѣть такіе</del> и неправилное мечтаніе</l>
+      <l><del rend="overstrike">неправелныя</del>, не <del rend="overstrike">надобно</del> нужно</l>
+      <l><del rend="overstrike">и умножать опроверженіе</del> употребить многихъ доказательствъ</l>
+      <l>Ибо по истиннѣ <del rend="overstrike">не можетъ</del> само по себѣ разумѣется, что</l>
+      <l>сей светъ ниже на одной минуты не можетъ</l>
+      <l><del rend="overstrike">ниже одной минуты</del> безъ</l>
+      <l><del rend="overstrike">божьего</del> призрѣнія</l>
+      <l><del rend="overstrike">и отъ него</del> бога <del rend="overstrike"><unclear>??? ??? ???</unclear></del>
+      вліяющаго</l>
+      <l><del rend="overstrike">вліяетъ</del> ежеминутно живость и содержаніе во все твары</l>
+      <l><del rend="overstrike">всемъ тварямъ</del>, находящіяся</l>
+      <l>на семъ свѣтѣ, <del rend="overstrike">чемъ</del> вообще</l>
+      <l><del rend="overstrike">и частно</del> а особливо въ чело</l>
+      <l>вѣки; а естли бы безъконечный <note type="gloss">|: Боже Сохрани :|</note></l>
+      <l>отвратилъ свое призрѣніе и вліяніе</l>
+      <l>и на <del rend="overstrike">одну минуту</del> одинъ мигъ <del rend="overstrike"><note type="gloss">|: сохрани
+      Господи :|</note></del></l>
+      <l>то весь свѣтъ обращненъ былъ въ ничто, какое</l>
+      <l><del rend="overstrike">такъ какъ</del> было предъ сотвореніемъ</l>
+      <l>онаго. <del rend="overstrike">Что</del> Сіе объяснено во многихъ еврейскихъ</l>
+      <l>книгахъ. Думаю что и въ</l>
+      <l><del rend="overstrike">И во прочихъ</del> книгахъ другихъ</l>
+      <l>народовъ</l>
+    </p>
+    <p>
+      <l>2 <hi rend="superscript">е</hi> № <del rend="overstrike">по сему должно разуму</del> <hi rend="superscript">
+      чемъ опровергнуть</hi></l>
+      <l>представляемую заблужденными</l>
+      <l><del rend="overstrike">отвратить ихъ причину</del></l>
+      <l>въ такомъ мнѣніи <del rend="overstrike"><unclear>???</unclear></del> задачу:</l>
+      <l><del rend="overstrike">состоящую въ томъ, что</del> какъ де</l>
+      <l>можетъ <del rend="overstrike">стать</del> быть, чтобъ безъ</l>
+      <l>конечный и безъпредѣльно вознесенный призралъ толь низкихъ</l>
+      <pb xml:id="p291-2" n="291-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/291-2.jpg"/>
+      <fw type="pageNum">291 об.</fw>
+      <fw type="note" place="right">ст 21</fw>
+      <l>тварей сего свѣта? <del rend="overstrike">нетъ</del> объясня</l>
+      <l>ющее: поелику корень кабалистиче</l>
+      <l>ской науки состоитъ въ томъ,</l>
+      <l>чтобы объяснить <del rend="overstrike">прич</del> существа</l>
+      <l>влиіяніи и взаимности святыхъ</l>
+      <l>сефиротъ такъ называемыхъ</l>
+      <l>по еврейски; <del rend="overstrike">то есть</del> а по рускіи должно ихъ</l>
+      <l>назвать сиятелями и светилниками въ</l>
+      <l>томъ смыслѣ <del rend="overstrike">что</del> как напримѣръ солнце есть</l>
+      <l>на небесѣ <del rend="overstrike"><unclear>??? ??? ???</unclear></del> а свѣтлость ея распространяется</l>
+      <l>и сіяетъ во всю землю</l>
+      <l><del rend="overstrike">распространяетъ и пользуется</del></l>
+      <l><del rend="overstrike">вся земля</del> и въ прочія нижныя</l>
+      <l>обиталища. такъ и первая или вышняя</l>
+      <l>сефиротъ называемая по еврейски хохма</l>
+      <l>то есть разумъ безконечнаго. Которая сефиротъ</l>
+      <l>
+        <note type="gloss">|: хотя разумъ Его не можетъ <lb/>
+         быть такимъ какъ нашъ, и нѣтъ <lb/>
+         между ими никакого сравненія <lb/>
+         или подобія одного ко другому, <lb/>
+         и даже разумъ ангеловъ наивышнихъ <lb/>
+         <del rend="overstrike">не уподобляется нимало <unclear>???</unclear></del> <lb/>
+         не можетъ быть ни малѣйше подо <lb/>
+         бнымъ <del rend="overstrike">къ</del> разуму безконечнаго, <lb/>
+         которой называется скрытымъ надъ всѣми таинствами <lb/>
+         <del rend="overstrike">отъ всѣхъ сокровенныхъ <unclear>???</unclear></del>, и нѣтъ <lb/>
+         въ нем никакого нами или вышними поня <lb/>
+         тнаго смысла однако же:|</note>
+        <del rend="overstrike">разумъ</del>
+      </l>
+      <l><del rend="overstrike">безконечнаго</del> свѣтитъ и сіяетъ</l>
+      <l>вънизъ на обиталище ангеловъ, въ каж</l>
+      <l>дой по мѣрѣ <del rend="overstrike">его</del> и по состоянію его, больше ли меньше ли,</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> всіо по волѣ</l>
+      <l>всевышняго; <del rend="overstrike">Итакъ</del> а самое сіяниіе и вліяніе</l>
+      <pb xml:id="p292-1" n="292-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/292-1.jpg"/>
+      <fw type="pageNum" place="right">292</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">296</del></fw><note place="end">номер записан и вычеркнут
+      чернилами</note>
+      <l><del rend="overstrike">такое влиятельное</del></l>
+      <l><del rend="overstrike">сіяніе существующее на</del></l>
+      <l><del rend="overstrike"><unclear>???</unclear>существующая</del></l>
+      <l><del rend="overstrike">свѣтлость въ</del> на обиталище</l>
+      <l>ангеловъ <del rend="overstrike"><unclear>???</unclear></del> бываютъ немного откровеннѣе. а начало имѣетъ</l>
+      <l><del rend="overstrike">нѣкоторого откровенностію, начинаются начало свое имѣетъ</del></l>
+      <l><del rend="overstrike">начало ее</del> на обиталище</l>
+      <l><del rend="overstrike">сефиротъ</del> называемомъ</l>
+      <l>по еврейски <emph rend="big">ацилосъ</emph></l>
+      <l>въ великомъ закрытіи. и на</l>
+      <l>зывается <del rend="overstrike">она такъ.</del> тамо</l>
+      <l><emph rend="big">сефиратъ хохма</emph></l>
+      <l><emph rend="big">даацилосъ</emph>. <del rend="overstrike">Сіе же, се же самое</del> <hi rend="superscript">и по
+      порядку</hi></l>
+      <l><del rend="overstrike">сіе же <unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike">самая свѣтлость</del> низсходя отъ толь</l>
+      <l>на обиталище <sic>ангиловъ</sic> вышныхъ</l>
+      <l><del rend="overstrike"><unclear>с нижня</unclear></del> свѣтитъ и вліяетъ</l>
+      <l>въ нихъ разумъ. которое</l>
+      <l>обиталище называется</l>
+      <l>кабалистиками <emph rend="big">сефиротъ <lb/>
+       хохма де брія</emph> гдѣ</l>
+      <l>святая та снискиваемая</l>
+      <l>съ безконечнаго свѣтлость</l>
+      <l>существуетъ <del rend="overstrike"><unclear>скрытное</unclear></del> болѣе открыто</l>
+      <l>нежели ни обиталищѣ на</l>
+      <l>зываемомъ <emph rend="big">АЦИЛОСЪ</emph>,</l>
+      <l><del rend="overstrike">которое получаетъ</del> гдѣ она</l>
+      <l>почти такъ скрыта какъ и въ</l>
+      <l>безконечномъ; есть же еще</l>
+      <l>обиталища ангеловъ нижней</l>
+      <l>степени и состоянія, <del rend="overstrike">назы</del> обытанія кои</l>
+      <l>называются обитаніе</l>
+      <l><del rend="overstrike"><unclear>???</unclear> обиталище</del> <emph rend="big">ЕЦИРО</emph>,</l>
+      <pb xml:id="p292-2" n="292-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/292-2.jpg"/>
+      <fw type="pageNum">292 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>Гдѣ снискиваютъ <unclear>???</unclear> или свѣтлость</l>
+      <l>отъ <hi rend="superscript">упомянутой</hi> <del rend="overstrike">сефиротъ</del> <emph rend="big">
+      сефироты</emph>,</l>
+      <l><emph rend="big">хохмы де брія</emph>, и насъ</l>
+      <l>тоящее <del rend="overstrike">обиталище</del> свѣтилище назы</l>
+      <l>вается <emph rend="big">ХОХМА ДЕ ЕЦИРЕ</emph>. Все же то</l>
+      <l>есть <del rend="overstrike">сіяніе</del> свѣтилище</l>
+      <l>разума безъконечнаго <del rend="overstrike">свещаемаго</del></l>
+      <l>освѣщающаго <del rend="overstrike">въ</del> тутъ откро</l>
+      <l>веннѣе нежели на обиталище</l>
+      <l>называемомъ <emph rend="big">БРІЕ</emph>,</l>
+      <l>итакъ отъсель <del rend="overstrike">вліяетъся</del></l>
+      <l><del rend="overstrike">освещается</del> свѣтѣтся</l>
+      <l>въ обиталище <hi rend="superscript">ангиловъ нижшаго еще степени</hi> называемои</l>
+      <l><emph rend="big">ЕСІЯ</emph> <del rend="overstrike">для ангеловъ</del> гдѣ свителище называется <emph
+      rend="big">ХОХМЕ ДЕ ЕСІЯ</emph> отъ <del rend="overstrike">коль</del> коеи</l>
+      <l><del rend="overstrike">еще нижшаго состоянія <unclear>???</unclear></del> <hi rend="superscript">получаютъ
+      разумъ</hi>,</l>
+      <l><del rend="overstrike">равно въ</del> планѣты Солнце луна</l>
+      <l>и звѣзды <del rend="overstrike">въ</del> которыя тоже</l>
+      <l>въ себѣ заключаютъ <del rend="overstrike">души</del></l>
+      <l><del rend="overstrike">умствующія</del> умствованія души и разума, такоже</l>
+      <l>всѣ человѣки живущія</l>
+      <l>на землѣ снискиваютъ</l>
+      <l>разумъ <del rend="overstrike">свой</del> отъ влиянія недавно упомянутой</l>
+      <l><emph rend="big">Сефироты ХОХМЫ ДЕ ЕСІЯ</emph> <del rend="overstrike">называемой</del> которая получая</l>
+      <l><del rend="overstrike">разумъ сіяніе</del> вліяніе</l>
+      <l>и тако разумъ <unclear>???</unclear> отъ</l>
+      <l>разума <del rend="overstrike">сосредоточитъ</del> чрезъ</l>
+      <l><del rend="overstrike">сеи сефироты истекаемое</del></l>
+      <l>прочия вещи сказанныя</l>
+      <l><del rend="overstrike">суть с <unclear>??? ???</unclear></del></l>
+      <l>сефироты, <del rend="overstrike"><unclear>???</unclear></del></l>
+      <pb xml:id="p293-1" n="293-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/293-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">4</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">293</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">297</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l><del rend="overstrike">другихъ <unclear>???</unclear> сефиротъ</del> отъ вышеприведенной первѣйшей</l>
+      <l>сефироты <emph rend="big">хохмы децире</emph>,</l>
+      <l>получающей оной отъ безъконеч</l>
+      <l>наго <del rend="overstrike">вліяетъ вліяетъ</del> сіяетъ</l>
+      <l>такъ откровенно, что уже</l>
+      <l>человѣкъ можетъ <emph rend="big">вліянія</emph></l>
+      <l>ея получить.</l>
+    </p>
+    <p>
+      <l>3<hi rend="superscript">е</hi>. <del rend="overstrike"><unclear>???</unclear></del> Мысли человѣче</l>
+      <l>скія которыя онъ изображаетъ</l>
+      <l>всякую минуту суть рожденныя</l>
+      <l>отъ желаніи и разума, находя</l>
+      <l>щихся въ душѣ его. и потому</l>
+      <l>ежели онъ желаетъ итти въ блаженныя</l>
+      <l>пути Господни, тогда мысли</l>
+      <l>онъ добрыя выражаетъ; напротивъ же</l>
+      <l>естли пожелаетъ <del rend="overstrike">въ</del> беззаконія</l>
+      <l>боже сохрани и онъ есть человѣкъ</l>
+      <l>разумный, рождаетъ отъ разума</l>
+      <l>его <del rend="overstrike">вреденъ</del> беззаконныя мысли</l>
+      <l>по ево желанію; ибо такъ то сотво</l>
+      <l>рилъ богъ человѣка на семъ</l>
+      <l>свѣтѣ, чтобы онъ имѣлъ <del rend="overstrike">волю не</del> <hi rend="superscript">свободную волю</hi></l>
+      <l>склонить разумъ, отъ бога</l>
+      <l>ему <del rend="overstrike">данный</del> низпосылаемый куда пожелаетъ,</l>
+      <l>къ добру или къ злому, поелику</l>
+      <l>естли бы сего не было, не</l>
+      <l>слѣдовало бы человѣка ни <del rend="overstrike"><unclear>???</unclear></del></l>
+      <l>наградить ниже наказать.</l>
+      <pb xml:id="p293-2" n="293-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/293-2.jpg"/>
+      <fw type="pageNum">293 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>изъ чего и явствуетъ: что <del rend="overstrike">хотя</del> тогда</l>
+      <l>когда человѣкъ <del rend="overstrike">мыслитъ дѣлаетъ вредную</del></l>
+      <l>предпринимаетъ своимъ разумомъ дѣлать какую либо</l>
+      <l>злобу <del rend="overstrike">своимъ разумомъ</del></l>
+      <l>не отвращается отъ души</l>
+      <l>его вліяніе <emph rend="big">сефироты <lb/>
+       хохмы деисіе</emph>, <del rend="overstrike">которго бы</del> <del rend="overstrike">не имѣлъ бы <unclear>???
+      </unclear></del> <hi rend="superscript">вліяній коей – естли не имѣлъ</hi></l>
+      <l><del rend="overstrike">того</del> не нашелъ бы въ себѣ ни малѣше разума.</l>
+      <l><del rend="overstrike">Естли не было не могъ</del></l>
+      <l>Но человѣкъ можетъ склонить ра</l>
+      <l>зумъ свой ко злому, и ро</l>
+      <l>дить мысли и дѣйствія</l>
+      <l>беззаконныя; <del rend="overstrike">слѣдовательно</del> <del rend="overstrike">поелику</del></l>
+      <l><del rend="overstrike">но безъконечный <lb/>
+       пожелавъ чтобы человѣкъ <lb/>
+       былъ въ желаніяхъ <lb/>
+       своихъ свободенъ и воленъ <lb/>
+       хотя</del> а безконечной хотя совѣршенно</l>
+      <l>ненавидитъ беззаконіе</l>
+      <l>однако желаетъ чтобы человѣкъ былъ воленъ и свободенъ въ желаніяхъ вліяетъ въ <del rend="overstrike">человѣка
+      </del> нево</l>
+      <l>разумъ тогда когда онъ имѣетъ худыя предпріятія съ тѣмъ дабы</l>
+      <l>человѣкъ принудивъ свои злыя</l>
+      <l>мысли отвратилъ ихъ,</l>
+      <l>и получилъ за то награжденіе;</l>
+      <l>а въ противномъ случаѣ</l>
+      <l>наказаніе по мѣрѣ</l>
+      <l>разума его.</l>
+    </p>
+    <p>
+      <l>4. нынѣ же приступая <del rend="overstrike">къ <unclear>???</unclear></del></l>
+      <l>къ <del rend="overstrike">обьазанію</del> объясненію <del rend="overstrike">словъ книжки</del></l>
+      <pb xml:id="p294-1" n="294-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/294-1.jpg"/>
+      <fw type="pageNum" place="right">294</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">4</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">298</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>речей той книжки и мыслей оныхъ</l>
+      <l>представляющихся всякому безъпристрастному читателю и симъ самымъ разрѣшить вопросъ <persName ref="Авигдор">
+      хаимовича</persName>:</l>
+      <l><del rend="overstrike">упомянутыя въ 4 пунктѣ</del>, что</l>
+      <l>та книжка показываетъ бла</l>
+      <l>женный путь тѣмъ кои</l>
+      <l>отдѣлившись отъ суеты сего</l>
+      <l>свѣта посвящаютъ мысль свою</l>
+      <l>чрезъ всю жизнь къ богу, <del rend="overstrike"><unclear>???</unclear></del> к нему же</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> присоединяютъ <del rend="overstrike">богу</del> дѣй</l>
+      <l>ствія души, <del rend="overstrike">яко тѣ</del> какъ напримѣръ:</l>
+      <l>чтобъ не наслаждаться прихо</l>
+      <l>тьми сего свѣта, и даже</l>
+      <l>во время необходимаго кушанія</l>
+      <l>и питія, дабы отвратилъ сердце</l>
+      <l>и мысль свою отъ <del rend="overstrike">изображенія</del></l>
+      <l>ощущенія плотскаго наслаж</l>
+      <l>денія; но чтобъ исполнить ска</l>
+      <l>занное царемъ давыдемъ Псалма</l>
+      <l>37. въ стихѣ 3. „насладися</l>
+      <l>Господеви„ <del rend="overstrike">и пророкомъ</del> что всѣмъ</l>
+      <l>любви свѣтской <del rend="overstrike">долженъ</del> предпочесть</l>
+      <l>любовь к богу, такъ какъ <del rend="overstrike">слу</del></l>
+      <l>праотецъ аврагамъ единороднаго</l>
+      <l>своего сына <sic>асаака</sic> хотѣлъ пожертвовать</l>
+      <l>Господу, <del rend="overstrike">и такимъ же образомъ</del> <hi rend="superscript">и тако</hi></l>
+      <l>къ такимъ <del rend="overstrike">то</del> <hi rend="superscript">святымъ</hi> отдѣленнымъ</l>
+      <l>отъ свѣтскихъ прихотей говоритъ</l>
+      <l>сія книжка, что имъ въ плотской</l>
+      <l>жизни пристойно <del rend="overstrike">имѣ</del> соединиться</l>
+      <pb xml:id="p294-2" n="294-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/294-2.jpg"/>
+      <fw type="pageNum">294 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>съ богом напримѣръ: ежели</l>
+      <l>видеть нечаянно</l>
+      <l>лютой звѣрь или сему</l>
+      <l>подобнаго человѣка такъ</l>
+      <l>какъ я <del rend="overstrike">впредь</del> вперіодъ изъяснялъ</l>
+      <l>въ 5 отдѣленіи<note place="end">т.е. ранее, выше по тексту, в ответах по 5-му пункту обвинений</note>, и
+      испугавшись</l>
+      <l>тогда не долженъ онъ</l>
+      <l>оставаться при той же плотской</l>
+      <l><del rend="overstrike">лично <unclear>??? ???</unclear> за</del></l>
+      <l><del rend="overstrike">плотной</del> боязни, но</l>
+      <l>тотъчасъ вспомнить себѣ</l>
+      <l>бога яко отъ него <del rend="overstrike">снискивается</del></l>
+      <l><del rend="overstrike">ж</del> низсылается жизненость</l>
+      <l>въ лютыя звѣры или въ человѣки лютымъ же</l>
+      <l>звѣрямъ подобныя, и слѣдо</l>
+      <l>вательно Его бога только и боятся</l>
+      <l>долженъ, такъ какъ премудрый</l>
+      <l>Саламонъ сказалъ эклезіаста</l>
+      <l>главы.3. въ стихѣ 14,</l>
+      <l>что <del rend="overstrike">богъ все здѣлалъ чтобъ</del> <hi rend="superscript">и богъ сотвори да убоятся отъ
+      лица Его</hi></l>
+      <l><del rend="overstrike">Ево боятся</del>, и пророкъ ісаія</l>
+      <l>главы 45 въ стихѣ 7. глаголитъ</l>
+      <l>„и зиждяй злая,</l>
+      <l><del rend="overstrike">есть что</del> только бога сотворившаго</l>
+      <l>все<note place="end">переводчик, начиная со старославянского варианта "и зиждяй злая", переходит на современный
+      ему язык, а также забывает закрыть кавычку в цитате после слова "все"</note>, чтобъ боялись его.__</l>
+    </p>
+    <p>
+      <l>И можетъ быть что на привязаннаго</l>
+      <l>къ богу и не нападетъ</l>
+      <l>страхъ отъ лютаго звѣря</l>
+      <pb xml:id="p295-1" n="295-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/295-1.jpg"/>
+      <fw type="pageNum" place="right">295</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">6</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">299</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>и такъ какъ въ вышеупом</l>
+      <l>янутой книгѣ называемой</l>
+      <l>Хевосъалвовесъ сказано; но <del rend="overstrike">цѣль</del> смыслъ</l>
+      <l><del rend="overstrike">въ</del> книги состоитъ въ томъ</l>
+      <l>только, чтобы не оставался <del rend="overstrike">человѣкъ</del> <del rend="overstrike">мысляхъ человѣкъ</del>
+      </l>
+      <l><del rend="overstrike">въ</del> человѣкъ в случаѣ нападенія</l>
+      <l>при страхѣ плотскомъ но</l>
+      <l>вспомнилъ же тогда <del rend="overstrike">себе что</del> <del rend="overstrike">боязнь быть</del> <del
+      rend="overstrike">страхъ сей</del></l>
+      <l>страхъ божій</l>
+      <l><del rend="overstrike">отъ бога происходитъ;</del></l>
+      <l>поелику <del rend="overstrike">над</del> нужно бѣжать</l>
+      <l>и защищатся отъ лютаго звѣра</l>
+      <l>или ему подобнаго человѣка,</l>
+      <l>по <del rend="overstrike">наука еврейской</del> талъ</l>
+      <l>муду еврейскому по коему запрещается <del rend="overstrike">что нужно</del></l>
+      <l>уповать на чудо;</l>
+      <l><del rend="overstrike">а то</del> а должны человѣки</l>
+      <l>беречь себя отъ всякихъ</l>
+      <l>опасностей, и не должно</l>
+      <l>такоже неосновательно</l>
+      <l>мнить, <del rend="overstrike">будьто</del> что ежели</l>
+      <l>де богъ не пожелаетъ не</l>
+      <l>похититъ тотъ звѣрь его</l>
+      <l>то конечно было бы безумство,</l>
+      <l>ибо <del rend="overstrike">справедливо <unclear>???</unclear></del> хотя</l>
+      <l>богъ вліяетъ силу въ звѣря,</l>
+      <l>которой можетъ</l>
+      <l>вредить, но <del rend="overstrike">напротивъ того</del></l>
+      <pb xml:id="p295-2" n="295-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/295-2.jpg"/>
+      <fw type="pageNum">295 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>напротивъ того богъ</l>
+      <l>богъ вліяетъ въ человѣка</l>
+      <l>разумъ, что можетъ</l>
+      <l>отъ того защищатся.</l>
+      <l>и се желаніе всевышняго</l>
+      <l>къ коему <sic>повсящаетъ</sic> онъ –</l>
+      <l>существующую въ немъ боязнь.</l>
+    </p>
+    <p>
+      <l>5<hi rend="superscript">е</hi>. Чрезъ что удобно понять</l>
+      <l>мысль той же книжки</l>
+      <l><del rend="overstrike">И въ томъ, что</del> гдѣ на листѣ 12</l>
+      <l><del rend="overstrike">страницѣ 12</del></l>
+      <l><del rend="overstrike">уподобилъ</del> совкуплены <del rend="overstrike">боязнь</del></l>
+      <l>страхъ за лютаго звѣря съ стра</l>
+      <l>хомъ за идолопоклонниковъ; – наставляя <del rend="overstrike"/></l>
+      <l><del rend="overstrike"><unclear>???</unclear> при томъ не боятся <unclear>???</unclear></del></l>
+      <l><del rend="overstrike">такого какъ</del> притомъ думать,</l>
+      <l>что „онъ въ плотѣ</l>
+      <l>есть человѣкъ тотъ же такой</l>
+      <l>какъ и я. разумѣя <del rend="overstrike">точно</del> сіе въ такомъ случаѣ</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del></l>
+      <l><del rend="overstrike">то есть</del> ежели встречаетъ</l>
+      <l><del rend="overstrike">человѣкъ</del> разбойника вооруженнаго,</l>
+      <l><del rend="overstrike">что хочетъ онъ</del> или сему</l>
+      <l>подобнаго вреднаго <del rend="overstrike">что <unclear>???</unclear></del> сіе то <del rend="overstrike">разумъ
+      все</del> говорено</l>
+      <l>о боязне злобы что касается</l>
+      <l>до того чтобъ боятся Государя</l>
+      <l>то сія боязнь не такова, она</l>
+      <l>не подобна вовсе прописанной, боже сохрани!</l>
+      <l>Она блаженная, она <del rend="overstrike">исполняетъ</del></l>
+      <l>состоитъ въ томъ чтобъ исполнить</l>
+      <pb xml:id="p296-1" n="296-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/296-1.jpg"/>
+      <fw type="pageNum" place="right">296</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">300</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">7</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>Заповѣди Господнія, и волю</l>
+      <l>Безконечнаго, яко въ талъмутѣ</l>
+      <l>сказано, что ежели Государь и оставляетъ</l>
+      <l>честь свою, однако она остается</l>
+      <l>во всей силѣ, ибо написано</l>
+      <l>въ моисеевой книгѣ, „чинить</l>
+      <l>да учинишь над собой царя<note place="end">конец цитаты</note></l>
+      <l>разумѣется чтобъ боязнь</l>
+      <l>Его была на тебе, и написано</l>
+      <l>такоже <del rend="overstrike">царь правед</del> притчей</l>
+      <l>саломановыхъ главы 29</l>
+      <l>въ стихѣ 4<hi rend="superscript">м</hi>. „царя <del rend="overstrike">правед</del>правосудіемъ</l>
+      <l><del rend="overstrike">ность</del> возвышаетъ землю<note place="end">конец цитаты</note>,</l>
+      <l>а въ моисеевой пятой книгѣ</l>
+      <l>Главы 1. въ стихѣ 17.</l>
+      <l>Но „яко судъ божіи„ слѣдственно</l>
+      <l>боятся государя есть то самое</l>
+      <l>что и боятся Бога и такъ</l>
+      <l>какъ премудрый Саламонъ</l>
+      <l>сказалъ притчей главы</l>
+      <l>24 въ стихѣ 21 „бойся</l>
+      <l>Бога сынѣ и царя, и съ отмѣ</l>
+      <l>няющимъ не мѣшайся„<note place="end">начало цитаты на церковнославянском языке – до запятой – передано верно,
+      дальнейшее - толкование <persName ref="alter-rebbe">Шнеура Залмана</persName> или переводчика</note> разу</l>
+      <l>мѣется: къ отмѣняющимъ или различающимъ</l>
+      <l>боязнь бога и боязни государя</l>
+      <l>не мѣшайся, и не имѣй съ ними</l>
+      <l>никакого участія, ибо они</l>
+      <l>мнятъ что Государь будьто самъ</l>
+      <pb xml:id="p296-2" n="296-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/296-2.jpg"/>
+      <fw type="pageNum">296 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>учинился царемъ и не</l>
+      <l>разумѣетъ что отъ</l>
+      <l>Бога онъ получилъ царство,</l>
+      <l>съ такими не имѣй</l>
+      <l>участія и отъ стезей</l>
+      <l>ихъ отмѣняй ноги твои,</l>
+      <l>ибо по сущей справедливости, всіо одно</l>
+      <l>боязнь бога и боязнь Государя,</l>
+      <l>и вѣрящіе въ томъ имѣютъ</l>
+      <l>совѣршенную вѣру. Примѣрь сему видимъ мы</l>
+      <l>тако жъ въ кабалистикѣ, <del rend="overstrike">значится</del></l>
+      <l><del rend="overstrike">что гдѣ</del> что страхъ божій</l>
+      <l>или боязнь Его, имѣетъ свой</l>
+      <l>источникъ въ <emph rend="big">сефиротѣ</emph> на-</l>
+      <l>зываемой <emph rend="big">МАЛХОТЪ</emph>, <note type="gloss">|: что по еврейски значится царство :|</note></l>
+      <l>отъ коей такое же снисходитъ</l>
+      <l>свѣтилище сіяющее на <del rend="overstrike">Государя</del></l>
+      <l>Царя.</l>
+    </p>
+    <p>
+      <l>на 5 пунктъ</l>
+      <l>туть тоже <persName ref="Авигдор">хаимовичъ</persName> отмѣнилъ</l>
+      <l>рѣчей той книги и значенія оныхъ, –</l>
+      <l>поелику самой тотъ слогъ <del rend="overstrike">не доказыва</del></l>
+      <l>вовсе не <del rend="overstrike">показываетъ</del> относится</l>
+      <l>къ тѣмъ желаніямъ которыя</l>
+      <l>нечаянно случаются. Конечно</l>
+      <pb xml:id="p297-1" n="297-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/297-1.jpg"/>
+      <fw type="pageNum" place="right">297</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">8</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">301</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>Иногда бы случилось что <del rend="overstrike">еврей</del></l>
+      <l>человѣкъ пожелалъ грѣшнаго,</l>
+      <l>отъ чего боже сохрани,</l>
+      <l>но въ той книгѣ ясно изобра</l>
+      <l>жаема <hi rend="superscript">кабалистическая</hi> причина <del rend="overstrike">что почему</del></l>
+      <l>тому <del rend="overstrike">что иногда</del> что видимъ случается, что</l>
+      <l>однаго роду <del rend="overstrike"><unclear>???</unclear></del></l>
+      <l>кушанія <del rend="overstrike"><unclear>??? ???</unclear></del> иной человѣкъ всегда</l>
+      <l><del rend="overstrike">весьма</del> любитъ а иной и вовсе</l>
+      <l>нетъ. и конечно то говорится</l>
+      <l>о <del rend="overstrike">позволенномъ</del> не запрещенномъ законами</l>
+      <l>кушаніи, а только о такомъ, <del rend="overstrike">что</del></l>
+      <l><del rend="overstrike">некоторому</del> котораго</l>
+      <l>человѣкъ по натурѣ своей или</l>
+      <l>любитъ или нетъ, равно</l>
+      <l><del rend="overstrike">съроду</del> сію разницу видимъ</l>
+      <l>въ одеждахъ, что иной такого цвѣту</l>
+      <l><del rend="overstrike">также</del> а иной другаго цвѣту любитъ.</l>
+      <l>хотя и оба позволительны законами. __</l>
+      <l>распростронять же мне изъ</l>
+      <l>ясненія мыслей, той книжки</l>
+      <l>мѣсто и время не позволяютъ,</l>
+      <l>но въкратце скажу: извѣстно</l>
+      <l>есть всемъ умнымъ</l>
+      <l>человѣкамъ, <del rend="overstrike">что причинъ</del> <hi rend="superscript">что миръ</hi> <del
+      rend="overstrike">что причинъ</del></l>
+      <l><del rend="overstrike">сотворенія миръ состоитъ</del></l>
+      <l><del rend="overstrike">есть для тѣхъ дѣлъ</del> сот</l>
+      <l>воренъ <hi rend="superscript">единственно</hi> для службъ и славы</l>
+      <l>божіей. Какой прославляющій</l>
+      <l>имя божіе рабъ есть человѣкъ,</l>
+      <pb xml:id="p297-2" n="297-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/297-2.jpg"/>
+      <fw type="pageNum" place="right">297 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>прочія же сотворенныя</l>
+      <l>вещества сего свѣта, изданы</l>
+      <l>къ потребамъ и службамъ</l>
+      <l>человѣковъ, с тѣмъ что ежели человѣкъ</l>
+      <l>служить приближается</l>
+      <l>къ богу какъ должно, бываютъ</l>
+      <l>всѣ вещества жертвами его</l>
+      <l>къ богу, напримѣръ тѣмъ что онъ ѣстъ, пьетъ</l>
+      <l>и одѣвается, равно</l>
+      <l>и прочими ево услужувающими</l>
+      <l>существами, у коихъ всѣхъ</l>
+      <l>есть <sic>жижненность</sic> снискиваимая</l>
+      <l>ими отъ создателя. <del rend="overstrike">,</del> <del rend="overstrike">поелику</del> то есть</l>
+      <l>сіяніе <emph rend="big">сефиротъ</emph> нисходило</l>
+      <l><del rend="overstrike">и учинивши</del> учинившись плотною, въ <del rend="overstrike">чувствующія</del>
+      животныя</l>
+      <l><del rend="overstrike">твари</del>, въ <del rend="overstrike">травы, или</del> <del rend="overstrike">расту
+      </del> растенія</l>
+      <l><del rend="overstrike">ющія</del> и въ молчающія вещества.</l>
+      <l>человѣкъ <del rend="overstrike">сотворить</del> <del rend="overstrike">сотворивши богъ</del> <hi
+      rend="superscript">отправляющій службу божію</hi> въ камен</l>
+      <l>номъ домѣ, насыщается</l>
+      <l>растеніями и животными</l>
+      <l>и живетъ, приноситъ всѣхъ <del rend="overstrike">тѣхъ</del> ихъ <note type="gloss">|: то есть <unclear>домъ
+      </unclear> растенія и животныя :|</note></l>
+      <l>жертвою ко всевышнему;</l>
+      <l><del rend="overstrike">а въ противномъ случаѣ, противно</del></l>
+      <l><del rend="overstrike">противно</del> такоже <hi rend="superscript">что причиняется</hi> естли</l>
+      <l>они противно дѣлаютъ</l>
+      <l>боже сохрани, извѣстно</l>
+      <l>изъ греха адамова.</l>
+      <pb xml:id="p298-1" n="298-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/298-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">9</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">298</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">302</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>Почему и называется человѣкъ</l>
+      <l>Царемъ нижнихъ то есть</l>
+      <l>всѣхъ твореній сего свѣта.</l>
+      <l>И поелику каждой человѣкъ</l>
+      <l>служа богу имѣетъ свою часть</l>
+      <l>веществъ на содержаніе его нуж-</l>
+      <l>ныхъ, то по сему, что иной</l>
+      <l>человѣкъ любитъ какое кушаніе</l>
+      <l>или какую одежду и прочія къ</l>
+      <l>содержанію человѣковъ нужныя</l>
+      <l>и позволенныя вещества видно,</l>
+      <l>что сіи составляютъ часть ему</l>
+      <l>опредѣленную тоже что онъ изъ</l>
+      <l>тѣхъ веществъ не любитъ не суть</l>
+      <l>части его. Болѣе жъ не дерзаю</l>
+      <l>разпространить обьясненія мои</l>
+      <l>на сей пунктъ предъ всевысо-</l>
+      <l>чайшимъ разумомъ Его Ива <del rend="overstrike"/><note place="end">аббревиатура "Ива", т.е. "Его императорского
+      величества" помечена титлом сверху, как кириллические буквы, обозначающие числа</note>, даже</l>
+      <l>и сіе маленкое мое продолженіе</l>
+      <l>происходитъ по необходимости при-</l>
+      <l>чиненной моимъ соперникомъ.</l>
+    </p>
+    <pb xml:id="p298-2" n="298-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/298-2.jpg"/>
+    <fw type="pageNum">298 об.</fw><note place="end">номер вписан карандашом</note>
+    <p>
+      <l>На 6 <hi rend="superscript">й</hi> пунктъ</l>
+      <l>Разумъ той книжки состоитъ въ томъ</l>
+      <l>что мысль и глаголъ человѣческія</l>
+      <l>снискиваются и даруются отъ создателя</l>
+      <l>прославляемаго, паче же во время бого-</l>
+      <l>молѣнія, когда человѣкъ приобщаетъ</l>
+      <l>душу и мысль свою къ Господу,</l>
+      <l>глаголя буквы святыя выбранныя</l>
+      <l>изъ священнаго писанія и пророчествъ,</l>
+      <l>въ словѣ коихъ яко совешенно боже-</l>
+      <l>ственныхъ составлено большия часть</l>
+      <l>молитвы, но чтобы сказать, боже</l>
+      <l>сохрани, будто разумъ той книжки</l>
+      <l>есть тотъ, что создатель самъ</l>
+      <l>говоритъ въ человѣке во время</l>
+      <l>Богомолѣнія, есть ничто иное</l>
+      <l>какъ насмѣхательство и лѣгко-</l>
+      <l>мысліе, ибо кому жъ говоритъ</l>
+      <l>человѣкъ въ молитвѣ,</l>
+      <pb xml:id="p299-1" n="299-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/299-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">10.</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">299</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">303</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>Прославленъ ты богъ! Естьли самъ</l>
+      <l>Богъ то говоритъ.__ Что же онъ</l>
+      <l>пишетъ именемъ той книжки,</l>
+      <l>что иногда человѣкъ можетъ быть</l>
+      <l>однимъ съ создателемъ. То опровер-</l>
+      <l>женіе на то на томъ мѣстѣ</l>
+      <l>въ той же книжкѣ на листѣ</l>
+      <l>15 <hi rend="superscript">м</hi> страницѣ 2 <hi rend="superscript">й</hi> написано, поелику</l>
+      <l>сіе есть содержаніе оной книжки</l>
+      <l>„Человѣку пристойно мыс-</l>
+      <l>лить во время молитвы, что</l>
+      <l>что буквами одѣвается имя Божіе.</l>
+      <l>Разумею симъ: когда мы не</l>
+      <l>можемъ знать мысли чело-</l>
+      <l>вѣческой покудова онъ не гово-</l>
+      <l>ритъ, то глаголъ есть одѣжда</l>
+      <l>мысли. И тако да возрѣчемъ</l>
+      <l>въ сердце своемъ: Ахъ колико</l>
+      <l>великому Царю дѣлаю я одѣжду!</l>
+      <l>Должно сіе чинить съ радостію.</l>
+      <pb xml:id="p299-2" n="299-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/299-2.jpg"/>
+      <fw type="pageNum">299 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>Да возглаголитъ всею силою, ибо</l>
+      <l>ибо симъ онъ дѣлается соединеннымъ</l>
+      <l>съ богомъ, поелику какъ вся сила</l>
+      <l>человѣческая состоитъ тогда въ</l>
+      <l>выражаемыхъ буквахъ, въ буквахъ</l>
+      <l>же находится Богъ, то и бы-</l>
+      <l>ваетъ онъ соединеннымъ съ</l>
+      <l>Богомъ.„ Изъ сего содержанія</l>
+      <l>можно узнать истинну, что не рѣче-</l>
+      <l>тся въ той книжкѣ, будто чело-</l>
+      <l>вѣкъ бываетъ однимъ съ богомъ,</l>
+      <l>сохрани Господи! Но слово по</l>
+      <l>еврейски называемое Ахдисъ,</l>
+      <l>которое тутъ употребляется, отно-</l>
+      <l>сится къ тому, что глаголъ</l>
+      <l>дѣлается одѣждою богу, и слово</l>
+      <l>то имѣетъ значеніе, присоедине-</l>
+      <l>ніе и приближеніе и не означаетъ</l>
+      <l>того, что будто совершенно бываетъ</l>
+      <pb xml:id="p300-1" n="300-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/300-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">11.</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">300</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">304</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>однимъ съ богомъ, впрочемъ кто по-</l>
+      <l>смотритъ въ ту книжку увидитъ,</l>
+      <l>что вовсе несовмѣстно во ономъ</l>
+      <l>ошибатся на другое толкованіе, отъ</l>
+      <l>чего боже сохрани! А что онъ</l>
+      <l><persName ref="Авигдор">Хаймовичъ</persName> пишетъ, будто раввины</l>
+      <l>называются богами, никакъ ни-</l>
+      <l>когда сего не бывало, и никогда</l>
+      <l>не увидится и нигдѣ не найдется</l>
+      <l>сего, но можетъ быть, что онъ</l>
+      <l>виделъ въ некоторыхъ письмахъ</l>
+      <l>слово еврейское <emph rend="big">Илекіи</emph>, которое</l>
+      <l>означаетъ <emph rend="big">человѣкъ божій</emph>, каковыя</l>
+      <l>похвалы весьма обыкновенны</l>
+      <l>между евреями, на преподобныхъ</l>
+      <l>и кабалистиковъ послѣднихъ, какъ</l>
+      <l>мы видимъ во многихъ еврей-</l>
+      <l>скихъ печатныхъ книгахъ.</l>
+    </p>
+    <pb xml:id="p300-2" n="300-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/300-2.jpg"/>
+    <fw type="pageNum">300 об.</fw><note place="end">номер вписан карандашом</note>
+    <p>
+      <l>На 7 <hi rend="superscript">й</hi> пунктъ.</l>
+      <l>О деньгах, что онъ <persName ref="Авигдор">Хаймовичъ</persName> пи-</l>
+      <l>шетъ, будто что посылается въ <placeName ref="Палестина">Израиль- <lb/>
+       скій край</placeName> на содержаніе только находя-</l>
+      <l>щихся богослужителей, въ нынѣшнія вре-</l>
+      <l>мена во сто кратъ болѣе древнихъ:</l>
+      <l>есть вымышленное умноженіе для важ-</l>
+      <l>ности, а оно есть вовсе удалено отъ</l>
+      <l>справѣдливости; аккуратнаго же ращета,</l>
+      <l>сколько давно посылывалось и сколько</l>
+      <l>въ нынѣшнія времена, не знаю,</l>
+      <l>а вѣдаю только, что посылается туда</l>
+      <l>денегъ гораздо болѣе нежели въ древ-</l>
+      <l>нія времена, потому, что тогда въ</l>
+      <l><placeName ref="Палестина">израильскомъ краѣ</placeName> очень мало находи-</l>
+      <l>лось евреевъ <placeName ref="Польша">польскихъ</placeName>; тамошнія</l>
+      <l>жители пропитаніе получая отъ <placeName ref="Турция">турец- <lb/>
+       кихъ</placeName> евреевъ и окресностей оныхъ;</l>
+      <l>а польскія называемыя тамо по ихъ</l>
+      <l>обыкновенію нѣмецкими, даже и десяти</l>
+      <pb xml:id="p301-1" n="301-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/301-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">12</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">301</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">305</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>человѣкъ тогда не составлявшія, имѣли</l>
+      <l>помощь и достаточное содержаніе отъ</l>
+      <l>своихъ сродниковъ, изъ того мѣста</l>
+      <l>откуда они были, но съ недавнихъ</l>
+      <l>лѣтъ, извѣстно всѣмъ, какъ я</l>
+      <l>слыхалъ, что поѣхали изъ <placeName ref="Белоруссия">бѣло- <lb/>
+       руссіи</placeName> когда еще была <placeName ref="Польша">польшею</placeName></l>
+      <l>сълишкомъ до тридцати чело-</l>
+      <l>вѣкъ со всѣми своими семей-</l>
+      <l>ствами имѣя въ <placeName ref="Белоруссия">бѣлоруссіи</placeName> и въ</l>
+      <l>окольныхъ мѣстахъ сродственниковъ</l>
+      <l>и приятелей, которыя во жалѣе</l>
+      <l>объ нихъ, дѣлаютъ обѣты <sic>[даютъ]</sic></l>
+      <l>даютъ милостыню на ихъ содер-</l>
+      <l>жаніе болѣе обыкновенной въ</l>
+      <l>давнія времена. Можетъ</l>
+      <l>статься то же самое происхо-</l>
+      <l>дитъ по <placeName ref="Волынская_губерния">волынской</placeName>, <placeName ref="Подольская_губерния">
+      Подольской</placeName></l>
+      <l>и прочимъ губерніямъ, откуда</l>
+      <pb xml:id="p301-2" n="301-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/301-2.jpg"/>
+      <fw type="pageNum">301 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>тоже какъ я слыхалъ поѣхало</l>
+      <l>туда немало человѣкъ, и слѣд-</l>
+      <l>ственно они тоже имѣютъ</l>
+      <l>тамо сродственниковъ и прия-</l>
+      <l>телей. За всѣмъ же тѣмъ</l>
+      <l>дѣло сіе ко мнѣ вовсе</l>
+      <l>не касается, ибо я никому</l>
+      <l>не говорю и не пишу сколько бы</l>
+      <l>денегъ давалъ на то, но всякъ</l>
+      <l>даетъ по своему желанію, и изъ</l>
+      <l>то, что даютъ деньги на со-</l>
+      <l>держаніе <placeName ref="Иерусалим">іерусалимскихъ</placeName> бого-</l>
+      <l>мольниковъ мнѣ никакой пользы</l>
+      <l>нѣтъ, а особливо когда я</l>
+      <l>самъ можетъ быть имѣю</l>
+      <l>нужду въ милостыни. Сверхъ</l>
+      <l>того заведеніе таковаго въ</l>
+      <l>нашемъ краю и въ близостяхъ</l>
+      <l>онаго обыкновенія чтобъ посылать</l>
+      <pb xml:id="p302-1" n="302-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/302-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">13.</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">14.</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">302</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">305</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">07</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>деньги на содержаніе богомольниковъ</l>
+      <l><placeName ref="Палестина">израильскаго края</placeName> вовсе не проис-</l>
+      <l>ходитъ отъ меня, но отъ послан-</l>
+      <l>никовъ жителей <placeName ref="Палестина">израильскаго края</placeName>,</l>
+      <l>бывшихъ прежде здѣшнихъ, кои</l>
+      <l>посланники прибывъ сюда, объѣзжали</l>
+      <l>всѣ мѣста. Просили милостыни</l>
+      <l>отъ всякаго еврея, какъ отъ ев-</l>
+      <l>реевъ называемыхъ хоседами, такъ</l>
+      <l>и отъ прочихъ; оныя посланники</l>
+      <l>избрали себѣ вѣрнаго человѣка,</l>
+      <l>дабы онъ собиралъ ту мило-</l>
+      <l>стыню до прибытія изъ <placeName ref="Иерусалим">Іеру- <lb/>
+       салима</placeName> посланника, дабы онъ</l>
+      <l>здѣсь не замѣдлился, и не опоз-</l>
+      <l>далъ бы чрезъ то отшествіе</l>
+      <l>кораблей. Именуютъ же того</l>
+      <l>вѣрнымъ отъ нихъ избраннаго</l>
+      <l>человѣка <persName ref="Янкель_Лейбович">Янкелемъ Лейбовичемъ</persName></l>
+      <pb xml:id="p302-2" n="302-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/302-2.jpg"/>
+      <fw type="pageNum">302 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>изъ Смоляна<note place="end">Смоляны - ныне деревня в 30 км к западу от Орши</note>.Но какъ такое обык-</l>
+      <l>новеніе водворилось, чрезъ выше-</l>
+      <l>упомянутыя посланники, то слу-</l>
+      <l>чалось многія разы что хотя</l>
+      <l>и не прибылъ изъ <placeName ref="Иерусалим">Іерусалима</placeName> сюда</l>
+      <l>посланникъ, то оной <persName ref="Янкель_Лейбович">Янкель</persName> поѣхалъ</l>
+      <l>на <placeName ref="Украйна">Украіну</placeName>, и тамо посылалъ</l>
+      <l>имѣющіяся деньги чрезъ прибываю-</l>
+      <l>щихъ туда изъ <placeName ref="Иерусалим">Іерусалима</placeName> послан-</l>
+      <l>никовъ, или чрезъ отправившихся</l>
+      <l>оттуда въ <placeName ref="Палестина">Израильской край</placeName>, какъ</l>
+      <l>для жительства, такъ и въ намѣ-</l>
+      <l>реніи возвратиться сюда. И</l>
+      <l>какимъ точно образомъ посылаетъ</l>
+      <l>мнѣ неизвѣстно, но только то вѣ-</l>
+      <l>домо есть, что всѣ обѣты доста-</l>
+      <l>вляются въ <placeName ref="Палестина">Израильской край</placeName></l>
+      <l>отъ рѣченнаго <persName ref="Янкель_Лейбович">Янкеля</persName>, потому,</l>
+      <l>что къ нему присылаются отъ</l>
+      <l>туда</l>
+      <l>квитанціи за подписамі</l>
+      <pb xml:id="p303-1" n="303-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/303-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">14.</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">303</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">307</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>тамо жительствующихъ евреевъ, съ тѣмъ,</l>
+      <l>дабы онъ могъ оныя показать каж-</l>
+      <l>дому обѣты такія чинившему, что</l>
+      <l>ими опредѣленная милостыня въ</l>
+      <l>цѣлости туда прибыла и каждому</l>
+      <l>богомольнику, для котораго кто</l>
+      <l>сколько опредѣлилъ, досталась въ</l>
+      <l>руки сполна. Каждой же изъ здѣш-</l>
+      <l>нихъ евреевъ знаетъ подписи всѣхъ</l>
+      <l>іерусалимскихъ. Что же равинъ <persName ref="Авигдор">Хай- <lb/>
+       мовичъ</persName> пишетъ, будто по установ-</l>
+      <l>лениямъ еврейскимъ должно девять</l>
+      <l>частей оставить для убогихъ домаш-</l>
+      <l>нихъ, а десятую для іерусалим-</l>
+      <l>скихъ, изъ числа тѣхъ, которыя</l>
+      <l>наставляютъ евреевъ ихъ обрядъ,</l>
+      <l>и по коимъ поступаютъ законо-</l>
+      <l>учители, ниже слышалъ отъ та-</l>
+      <l>ковыхъ, чтобы иногда сказалъ:</l>
+      <pb xml:id="p303-2" n="303-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/303-2.jpg"/>
+      <fw type="pageNum">303 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>якобы то постановленіе написано, въ</l>
+      <l>какой либо публичной или непублич-</l>
+      <l>ной книгѣ. По истиннѣ всякой даетъ,</l>
+      <l>яко каждой человѣкъ воленъ въ</l>
+      <l>своей собственности, съ оной дѣлать</l>
+      <l>обѣтъ и дать милостыню тому,</l>
+      <l>кому сердце ево пожелаетъ.</l>
+    </p>
+    <p>
+      <l>На 8<hi rend="superscript">й</hi>. пунктъ.</l>
+      <l>Не нужно кажется, тутъ ему отвѣчать,</l>
+      <l>когда онъ не можеть доказывать.</l>
+      <l>И какъ онъ затеваетъ такое безпокой-</l>
+      <l>ствіе, дерзая просить, чтобы слушаясь</l>
+      <l>ево представить всѣхъ раввиновъ</l>
+      <l>то видно, что онъ только жѣлаетъ</l>
+      <l>знать и отягощать насъ, по тому что</l>
+      <l>онъ насъ ненавидитъ, или можетъ</l>
+      <l>статься онъ нанятъ на то отъ виленскихъ</l>
+      <pb xml:id="p304-1" n="304-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/304-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">15.</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">304</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">308</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>евреевъ, намъ враждующихъ.</l>
+    </p>
+    <p>
+      <l>Притчи Саломоновы Главы 25<hi rend="superscript">й</hi>.</l>
+      <l>въ стихѣ 3<hi rend="superscript">м</hi>. сказано: „Небо высоко,</l>
+      <l>земля же глубока, сердце царево</l>
+      <l>не обличительно„ разумѣется, что</l>
+      <l>нетъ разуму въ сердцахъ царевыхъ</l>
+      <l>обитающему никакого предѣла, ибо</l>
+      <l>какъ Богъ управляетъ свѣтомъ сво-</l>
+      <l>имъ разумомъ не имѣющимъ ни</l>
+      <l>начала ни конца, то несомнѣнно,</l>
+      <l>когда Богъ своимъ разумомъ из-</l>
+      <l>бираетъ одного человѣка поста-</l>
+      <l>новляя его и дѣлаетъ его Ца-</l>
+      <l>ремъ, препоручаетъ ему управ-</l>
+      <l>леніе свѣтомъ, конечно освѣ-</l>
+      <l>щаетъ его и вліяетъ въ</l>
+      <l>него чистоту своего разума</l>
+      <l>не имѣющаго предѣла, и какъ</l>
+      <l>за два года назадъ тому душа</l>
+      <l>моя получила благодать въ очахъ</l>
+      <pb xml:id="p304-2" n="304-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/304-2.jpg"/>
+      <fw type="pageNum" place="right">304 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>всемилостивѣйшаго Государя импе-</l>
+      <l>ратора нашего, что божественной</l>
+      <l>разумъ и всемилоствѣйшимъ</l>
+      <l>окомъ воззрѣлъ на душу мою и</l>
+      <l>спас ее отъ льстивыхъ устъ окле-</l>
+      <l>ветавшихъ меня, такъ и нынѣ</l>
+      <l>да возвеличилась бы милость его</l>
+      <l>на меня, и да найду я благодать</l>
+      <l>въ очахъ и сердцѣ чистыя его</l>
+      <l>величества, дабы я не былъ</l>
+      <l>бременемъ отъ продолжитель-</l>
+      <l>ныхъ рѣчей, которыя я на-</l>
+      <l>пишу въ 9 <hi rend="superscript">м</hi> пунктѣ.</l>
+    </p>
+    <pb xml:id="p305-1" n="305-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/305-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">13</del></fw><note place="end">номер записан и вычеркнут
+    чернилами</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">17</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">305</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">309</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <p>
+      <l>На 9 Пунктъ.</l>
+      <l>1<hi rend="superscript">е</hi>. Прежде начатія объясненія моего</l>
+      <l>на сей пунктъ долженъ я объяснить,</l>
+      <l>какая разница есть между <del rend="overstrike">преж <lb/>
+       ными нашими равинами и какъ <unclear>???</unclear></del></l>
+      <l><del rend="overstrike">прежныя раввины бывало избираются</del></l>
+      <l><del rend="overstrike">за подписом евреевъ какого мѣстечка</del></l>
+      <l><del rend="overstrike">но не всѣхъ. Учрежденія прежныя</del></l>
+      <l>раввинами подобными ему <persName ref="Авигдор">хаимовичу</persName></l>
+      <l>и тѣми которыхъ онъ же <persName ref="Авигдор">хаимовичъ</persName> и сообщники его</l>
+      <l>называютъ каролинскими; первыя суть такія которыя</l>
+      <l><del rend="overstrike">бывало учреждаются</del> <hi rend="superscript">продолжались <placeName ref="Польша">
+      польшею</placeName></hi> такимъ образомъ:</l>
+      <l>кто будучи богатъ и хорошо обученъ талъмуду,</l>
+      <l>желалъ пропитать себя <del rend="overstrike"><unclear>въ какомъ либо</unclear></del> съ</l>
+      <l><del rend="overstrike">честію</del> славою, пришедъ къ <del rend="overstrike">на</del> <del rend="overstrike">
+      кому либо</del></l>
+      <l><del rend="overstrike">помѣщику</del> владѣлцу какого либо мѣстечка, или къ воеводѣ или старостѣ какого либо
+      города</l>
+      <l>объявляетъ ему, что такую то сумму</l>
+      <l>даетъ онъ за то, чтобъ былъ раввиномъ надъ евреями</l>
+      <l>въ томъ же мѣстечке или городѣ и въ селеніяхъ къ</l>
+      <l>тому жъ владѣлцу принадлѣжащихъ</l>
+      <l>жительствующими. Было таковыхъ</l>
+      <l>которыя сулили презнатную сумму</l>
+      <l>нанимая раввинство <del rend="overstrike">на всю</del></l>
+      <l><del rend="overstrike">жизнь</del> кое бы продолжалось чрезъ всю</l>
+      <l>жизнь, и таковыя которыя <del rend="overstrike"><unclear>?*??</unclear></del> погодно</l>
+      <l>нанимались. владѣлецъ собравъ пред</l>
+      <l>водителей того мѣстечка евреевъ, говоритъ</l>
+      <l>имъ - „вотъ такой то раввинъ</l>
+      <l>сулитъ мнѣ такую то сумму за</l>
+      <l>раввинство. Если вы примитѣ его</l>
+      <l>съ волею <hi rend="superscript">и дадитѣ ему на то объязательство,</hi> то хорошо, а естли нетъ должны</l>
+      <l>вы мнѣ пополнить ту же сумму.<note place="end">конец цитаты, не обозначенный закрывающей кавычкой</note></l>
+    </p>
+    <p>
+      <l>Случилось въ тѣхъ мѣстечкахъ</l>
+      <l>гдѣ находилось много богатыхъ</l>
+      <l>евреевъ, не возжелавшихъ принять</l>
+      <l>на себя ига такаго имъ предлагаемаго</l>
+      <l>раввина, что дали владѣлцу</l>
+      <pb xml:id="p305-2" n="305-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/305-2.jpg"/>
+      <fw type="pageNum" place="left">2</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
+      </note>
+      <fw type="pageNum">305 об.</fw><note place="end">номер вписан карандашом</note>
+      <l>требуемыя деньги; поелику по</l>
+      <l>истиннѣ евреямъ вовсѣ нужды</l>
+      <l>нѣтъ въ такомъ раввинѣ,</l>
+      <l>ибо онъ самъ собою по правиламъ</l>
+      <l>еврейскимъ судить не можетъ, но</l>
+      <l>должны присудствовать съ нимъ</l>
+      <l>еще судьи, для разбирательства</l>
+      <l>споровъ исковыхъ для нас-</l>
+      <l>тавленія жъ въ случаѣ сомнѣнія, позволительныя</l>
+      <l>и непозволительныя кушанья</l>
+      <l>и прочихъ порядковъ по еврейскому</l>
+      <l>обряду, есть такъже опредѣленный</l>
+      <l>человѣкъ называемый по еврейски</l>
+      <l><emph rend="big">мерогерос</emph><note place="end">море хораа - см. ст. "Община еврейская" в Электронной
+      еврейской энциклопедии https://eleven.co.il/judaism/community-synagogue/13037</note>, то есть по руски наставникъ;
+      </l>
+      <l><del rend="overstrike">также</del> есть и проповедникъ, чтобъ</l>
+      <l>онъ еже-суботно сказывалъ проповеди</l>
+      <l>нравоучительныя; и для отправленія богомоленія есть канторъ, – но судьамъ</l>
+      <l>вышеизъясненнымъ нѣтъ никакой</l>
+      <l>власти безъ раввиновъ, которой полу-</l>
+      <l>чая оную отъ владѣлца. Въ</l>
+      <l>иныхъ же мѣстечкахъ евреи не плативша</l>
+      <l>владѣлцу напрасно денегъ</l>
+      <l>принимали <del rend="overstrike">чрезъ</del> в противность согласія ихъ иго</l>
+      <l>того раввина, а иногда <del rend="overstrike">такой</del></l>
+      <l>раввинъ такой <del rend="overstrike"><unclear>???</unclear> мѣстечке</del> <hi rend="superscript">оласкивалъ
+      </hi></l>
+      <l>техъ же евреевъ, <del rend="overstrike"><unclear>???</unclear></del> даритъ или даетъ</l>
+      <l>взаемъ на ихъ нужныя расходы</l>
+      <l>деньги, и хотя такъ, однако <del rend="overstrike">чрезъ</del> надъ</l>
+      <l>волею своею и по принужденію владелца</l>
+      <l>даютъ такому то раввину</l>
+      <l>раввинское обязательство, состоящее въ томъ</l>
+      <l>чтобъ его называли ребе,</l>
+      <l>чтобъ ему великую дѣлали</l>
+      <l>честь. Приходы, которыя</l>
+      <pb xml:id="p306-1" n="306-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/306-1.jpg"/>
+      <fw type="pageNum" place="left">3</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
+      </note>
+      <fw type="pageNum" place="right"><del rend="overstrike">18</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">306</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">310</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>были такового рода раввину</l>
+      <l>опредѣлены суть такія. Извѣстное</l>
+      <l>число съ кагальской или тамошняго</l>
+      <l>собранія евреевъ суммы, еженедѣлно</l>
+      <l>пришлосъ ему въ малыхъ мѣстечкахъ</l>
+      <l>по половинѣ рубля а въ большихъ</l>
+      <l>простиралось до нѣсколько рублей, поборъ</l>
+      <l>съ браковъ и прочихъ симъ подобныхъ.</l>
+      <l>Сей поборъ не достатчилъ</l>
+      <l>бы <del rend="overstrike">ему</del> и на четвертую часть нужной ему суммы</l>
+      <l>на великолѣпное свое содержаніе,</l>
+      <l>естли бы не имѣлъ дохода съ</l>
+      <l>
+        <del rend="overstrike">суда и расправы, этой онъ</del>
+        <hi rend="superscript">разбирательства споровъ</hi>
+      </l>
+      <l>за которое онъ получалъ</l>
+      <l>за каждое разбирательство, и симъ бы</l>
+      <l>естли онъ справедливо поступалъ</l>
+      <l>не могъ бы быть достаточнымъ,</l>
+      <l>но дѣлали <del rend="overstrike">къ положетъ разно</del> <hi rend="superscript">приискивалъ разныя средства
+      </hi></l>
+      <l>чтобы много за то получать, <del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike">раввинъ, которой не дѣлалъ того сего <lb/>
+       дѣлать, или не хотѣлъ, бываетъ <lb/>
+       бѣденъ; богатыя же раввины можно <lb/>
+       сказать не приобрѣли своего богат <lb/>
+       ства позволеннымъ образомъ, но разными <lb/>
+       способами и лихоимствомъ,</del></l>
+      <l>такожъ и тѣмъ, что всѣ боясь</l>
+      <l>его имѣющаго власть отъ владельца</l>
+      <l>давали ему подарки во время</l>
+      <l>праздниковъ свадьбы и обрезанія</l>
+      <l>еврейскихъ и прочая <unclear>обычае</unclear> селѣній ему принадлѣжащія, въ коихъ <del rend="overstrike">дарятъ
+      </del></l>
+      <l>страшась ево власти дарятъ ему деньги</l>
+      <l>и хлебъ всякой по состоянію</l>
+      <l>своему.</l>
+    </p>
+    <p>
+      <l>2. раввины же, которыхъ <persName ref="Авигдор">хаймовичъ</persName></l>
+      <l>называетъ <orgName ref="Хасиды">каролинскими</orgName>, не имѣютъ</l>
+      <pb xml:id="p306-2" n="306-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/306-2.jpg"/>
+      <fw type="pageNum" place="left">4</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
+      </note>
+      <fw type="pageNum">306 об.</fw><note place="end">номер вписан карандашом</note>
+      <l><del rend="overstrike">не имѣетъ</del> никакой власти</l>
+      <l>надъ кѣмъ либо, и никто не</l>
+      <l>обьязанъ долгомъ отдать ему</l>
+      <l>честь, нѣтъ <del rend="overstrike">ему</del> имъ никакого</l>
+      <l>опредѣленнаго отъ кого либо дохода;</l>
+      <l>но кто <del rend="overstrike">желаетъ</del> <hi rend="superscript">хочетъ</hi> тотъ</l>
+      <l>едитъ к какому раввину по</l>
+      <l>желаетъ, а обыкновенно <del rend="overstrike">бываетъ</del> ездятъ</l>
+      <l><del rend="overstrike">что ездятъ</del> къ тѣмъ кои</l>
+      <l>поблизости живутъ для слушанія проповедей <del rend="overstrike">и нравоу</del>. Тѣ</l>
+      <l>которыя пріезжаютъ <del rend="overstrike">къ раввинамъ</del></l>
+      <l>не суть: обязаны давать</l>
+      <l>раввинамъ денегъ, но кто</l>
+      <l>желаетъ тот даетъ, сколько</l>
+      <l>захочетъ сердце ево; суть многія</l>
+      <l>которыя ничего не даютъ</l>
+      <l>и нѣтъ за то никакого негодованія.</l>
+      <fw type="note" place="right margin">
+        <l>Тѣ же которыя ко</l>
+        <l>мнѣ пріезжаютъ</l>
+        <l>ничего не даютъ</l>
+        <l>лично по той при</l>
+        <l>чинѣ что есть <unclear>???</unclear></l>
+        <l>лично принимать</l>
+        <l>милостина, а при</l>
+        <l>сылаютъ ко мнѣ изъ</l>
+        <l>домовъ своихъ, такъ</l>
+        <l>я имѣю чемъ питаться</l>
+        <l><del rend="overstrike">имѣю <unclear>??? ???</unclear> лично <unclear>???</unclear></del></l>
+        <l><del rend="overstrike">потому что я никогда ни отъ кого <unclear>???</unclear> не принимаю</del></l>
+      </fw>
+      <del rend="overstrike">
+        <l>Многіе</l>
+        <l>половинная часть тѣхъ кои</l>
+        <l>ко мнѣ прибываютъ суть</l>
+        <l>бѣдучи не богаты ни</l>
+        <l>чего не даютъ; да некоторыя</l>
+        <l>даютъ, то не тогда когда они</l>
+        <l>ко мнѣ пріезжаютъ, но посы</l>
+        <l>лаютъ ко мнѣ изъ домовъ</l>
+        <l>безъ малѣйшаго принужденія.</l>
+      </del>
+    </p>
+    <p>
+      <l><del rend="overstrike">В</del> разбирательство <del rend="overstrike">же</del> споровъ</l>
+      <l>никакого участія не имѣю я,</l>
+      <l>но иногда случается что для</l>
+      <l>прекращенія тяжбъ приходятъ</l>
+      <l>спорящіеся ко мнѣ и соглашаются</l>
+      <l>чтобъ я разрѣшилъ ихъ, по большой</l>
+      <l>части слушаясь они прекращаютъ</l>
+      <l>споръ, и много разъ случается</l>
+      <l>что не слушаются, но мнѣ</l>
+      <pb xml:id="p307-1" n="307-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/307-1.jpg"/>
+      <fw type="pageNum" place="left"><del rend="overstrike">5</del></fw><note place="end">номер страницы в ответах на 9
+      пункт, записан чернилами</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">19</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">307</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">311</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>въ томъ никакой нужды нѣтъ</l>
+      <l>да и власть моя въ томъ не</l>
+      <l>состоитъ. такъ какъ и по</l>
+      <l>прочимъ дѣламъ многия</l>
+      <l>есть что мнѣ не слушаются,</l>
+      <l><del rend="overstrike">но ѣто касается</del> а особливо</l>
+      <l>по дѣламъ денежнымъ;</l>
+      <del rend="overstrike"><l>развѣ въ не</l> <l>малой суммѣ <unclear>??? ???</unclear></l> что же относится до того
+      что ездютъ ко мнѣ <lb/>
+       <l>и слышутъ мои проповѣды,</l> <l>есть дѣло другое; сія проповѣдь</l> <l>помогаетъ многимъ производитъ</l> <l>во
+      многихъ <unclear>???</unclear> себя</l> <l>что къ богу и къ людямъ по крайнѣй</l> <l>мѣрѣ на нѣсколько недѣль
+      послѣ слу-</l> <l>шанія ихъ, хотя многія которыя</l> <l>совсемъ проповеди не внимаютъ</l> <l>однако для вниманія
+      ихъ есть</l> <l>проповедь весьма <unclear>???</unclear> бла</l> <l>женая, прповедь <unclear>???</unclear> страхъ
+      </l> <l>божіи и тѣмъ самымъ и страхъ</l> <l>государевъ отъ одного источника</l> <l>съ страхомъ божіемъ
+      происхожденіе</l> <l>и хотя я не удостовѣренъ</l> <l>что точно всѣ приіехавшіе слышавшіе мою проповедь</l> <l>
+      бываютъ безпорочны и добродѣтельны, а паче</l> <l>чтобы никакого греха въ себѣ</l> <l>не имѣли, чего быть не
+      можетъ – поелику</l> <l>такъ какъ премудрый саламонъ</l> <l>Главы 7 въ стихѣ 21 глаголитъ:</l> <l>„нѣсть человѣкъ
+      праведенъ на земли</l> <l>иже сотворитъ благое а не</l> <l>согрѣшитъ„, однако надеюсь многія</l> <l>части
+      получаютъ слушатели проповеди</l></del>
+    </p>
+    <p><fw type="note" place="right margin">
+      <l>Не говорю я, что все пріезжающія</l>
+      <l>ко мнѣ суть безпорочны пра</l>
+      <l>ведны и и безъ всякаго грѣха;</l>
+      <l>да и премудрый саломонъ</l>
+      <l>сказалъ притчей главы 7</l>
+      <l>въ стихѣ 21 <hi rend="superscript">м</hi> „честь челов</l>
+      <l>ѣкъ праведенъ на земли и де</l>
+      <l>ло творитъ благое и не сог</l>
+      <l>рѣшитъ„ и хотя слышитъ</l>
+      <l>нравоученіе, однако</l>
+      <l><del rend="overstrike">противостоитъ своеволію</del></l>
+      <l>человѣкъ имѣетъ</l>
+      <l>свободную волю;</l>
+      <l>когда же надобно употребить какую</l>
+      <l>власть по дѣламъ религіи еврей</l>
+      <l>ской, то дѣло такое отно</l>
+      <l>сится къ уѣзднымъ члѣнамъ</l>
+      <l>коимъ предоставлена отъ</l>
+      <l>правительства власть</l>
+      <l>надъ всеми евреями</l>
+      <l>жительствующими въ уѣздѣ</l>
+      <l>наравнѣ какъ надъ тѣми</l>
+      <l>которыхъ <persName ref="Авигдор">хаймовичъ</persName> име</l>
+      <l>нуетъ <orgName ref="Хасиды">королинами</orgName> такъ</l>
+      <l>надъ прочими</l>
+      <l>ибо мы <del rend="overstrike">всѣ одно</del> всѣ одинаковы</l>
+      <l>безъ <del rend="overstrike"><unclear>??? ???</unclear></del> само</l>
+      <l><del rend="overstrike"><unclear>??? между нами</unclear></del></l>
+      <l>малѣйшаго различія</l>
+      <l>ни въ разсужденіи закона</l>
+      <l>ниже впрочихъ дѣлахъ;</l>
+      <l>также и тѣ члены имѣютъ</l>
+      <l>и надо мнои ту предостав</l>
+      <l>ленную имъ от прави</l>
+      <l>тельства власть,</l>
+      <l>естли жъ кто на</l>
+      <l>меня да</l>
+      <l>несъ жалобу</l>
+      <l>въ разсужденіи</l>
+      <l>нашего закона</l>
+      <l>но сего никогда не бывало, да</l>
+      <l>да и не будетъ, боже сохрани!</l>
+    </fw></p>
+    <pb xml:id="p307-2" n="307-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/307-2.jpg"/>
+    <fw type="pageNum">307 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="left">6</fw><note place="end">номер страницы записан чернилами</note>
+    <del rend="overstrike">
+      <l>большую на долгое время поправку и возчувствовал я</l>
+      <l>великую <unclear>???</unclear> которымъ</l>
+      <l>помогаетъ <unclear>???</unclear> хотя</l>
+    </del>
+    <fw type="note" place="right margin"><p>
+      <l>За два года назадъ тому по случаю таковыхъ пріездовъ</l>
+      <l>былъ я привезенъ сюда, и по</l>
+      <l>слѣдовало <emph rend="big">высочайшее</emph></l>
+      <l><emph rend="big">его имва</emph><note place="end">его императорского величества</note> соизволѣніе что нѣтъ</l>
+      <l>отъ того никакого вреда</l>
+      <l>ни государству ни <unclear>???</unclear></l>
+      <l>народу – но</l>
+      <l><del rend="overstrike">по всевысочайшему</del></l>
+      <l>кого человѣкъ <unclear>???</unclear></l>
+      <l><del rend="overstrike">его разумъ</del></l>
+      <l><del rend="overstrike">сердце свое к богу, то</del></l>
+      <l>сіе блажено также <del rend="overstrike">???</del></l>
+      <l><unclear>и для чего</unclear></l>
+      <l>и когда человѣкъ возбуждаетъ</l>
+      <l>и укрепляетъ сердце свое</l>
+      <l>въ страхѣ божіемъ</l>
+      <l>тогда укрепленъ онъ</l>
+      <l>и въ страхѣ государствен</l>
+      <l>номъ, ибо одно отъ</l>
+      <l>другаго зависитъ</l>
+      <l>ибо сіи боязни суть</l>
+      <l>одна вещь такъ</l>
+      <l>какъ я выше</l>
+      <l>изобразилъ</l>
+    </p></fw>
+    <p><del rend="overstrike">
+      <l>естли <unclear>???</unclear> послѣдуетъ <emph rend="big">всевысочай <lb/>
+       шая Его императорскаго <lb/>
+       величества</emph> воля по какому</l>
+      <l>либо неизвѣстному обстоя</l>
+      <l>тельству, чтобы уничтожить</l>
+      <l>пріездъ оныхъ ко мнѣ несомнѣно</l>
+      <l>что Государю <unclear>наблюдая</unclear></l>
+      <l>и исполнить желание его <unclear>???</unclear> ва<note place="end">величества</note></l>
+      <l>желаю, хотя только запрещеніе</l>
+      <l>но по открытіи <unclear>??? ???</unclear></l>
+      <l><emph rend="big">всевысочайшей</emph> мысли</l>
+      <l>и воли чрезъ <unclear>???</unclear> своего посланника</l>
+      <l>Его высокопревосходительства</l>
+      <l>господина генералъ прокурора, естли тутъ</l>
+      <l>я не буду счастливъ видѣть</l>
+      <l>красоту прекраснаго его</l>
+      <l>великолѣпнаго <emph rend="big">Его имва</emph><note place="end">его императорского величества</note>
+      высочайшаго престола</l>
+      <l>котораго я желаю.</l>
+    </del></p>
+    <p><del rend="overstrike">
+      <l>3<hi rend="superscript">е</hi>. Тутъ долженъ я объяснить предъ</l>
+      <l><emph rend="big">высочайшимъ Его ИМВА</emph><note place="end">его императорского величества</note> Престоломъ
+      </l>
+      <l>что несправедливо умножаютъ</l>
+      <l>наши враги ненавыдящія,</l>
+      <l>то огласили предъ господами</l>
+      <l>касательно числа пріезжающихъ</l>
+      <l>ко мнѣ, что будто состоитъ</l>
+      <l>въ 20 или 10 тысящахъ человѣкъ</l>
+      <pb xml:id="p308-1" n="308-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/308-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">20</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">308</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">312</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>но по справедливости совсѣмъ болѣе</l>
+      <l>не будетъ <del rend="overstrike">какъ только</del> уже съ дѣтьми</l>
+      <l>и учителями какъ только 3000</l>
+      <l>то есть больше или меньше,</l>
+      <l>но какъ проповѣдаю девять разъ</l>
+      <l>въ годъ, а многія пріезжаютъ разовъ</l>
+      <l>нѣсколько чрезъ годъ, то мечтается</l>
+      <l>нашимъ врагамъ что будто во всякой</l>
+      <l>разъ ездятъ по тысячѣ и болѣе человѣкъ и все</l>
+      <l>новыя, по самой же точности по большей</l>
+      <l>части приѣзжаютъ по нѣсколько сотъ</l>
+      <l>и иногда и менѣе ста человѣкъ, ибо</l>
+      <l>много такихъ есть, которыя разъ</l>
+      <l>одинъ чрезъ два или три года приѣз</l>
+      <l>жаютъ. Случилось, что одинъ</l>
+      <l>или два раза пріезжало ко мнѣ</l>
+      <l>около 800 и боліе человѣкъ, то я</l>
+      <l>ихъ увѣщевалъ</l>
+      <l>чтобъ они такъ часто не пріезжали.</l>
+    </del></p>
+    <p>
+      <l>3 <hi rend="superscript">е</hi> То что ездятъ къ раввинамъ</l>
+      <l>евреи <del rend="overstrike">состоятъ</del> происходитъ отъ того что въ сихъ временахъ</l>
+      <l>умножилось тѣхъ которыя</l>
+      <l>стараются богу молится со вни</l>
+      <l>маніемъ <del rend="overstrike"><unclear>???</unclear></del>; Болшая часть молитвы</l>
+      <l>еврейской состоитъ въ <del rend="overstrike">произношеніи</del> продолжительномъ возвѣщаніи</l>
+      <l>
+        <del rend="overstrike">власти Господней</del>
+        <emph rend="big">величества</emph>
+      </l>
+      <l><emph rend="big">Божія</emph>, выбранномъ изъ псалмовъ</l>
+      <l>давыдовыхъ и прочихъ пророковъ,</l>
+      <l>и какъ <sic>ангили</sic> стоятъ и освящаютъ</l>
+      <l>имя Божіе весьма продолжительно</l>
+      <l><del rend="overstrike">Изъ продолженія молитвы которая</del></l>
+    </p>
+    <pb xml:id="p308-2" n="308-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/308-2.jpg"/>
+    <fw type="pageNum">308 об.</fw>
+    <fw type="pageNum" place="left">8</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
+    </note>
+    <p>
+      <l>Намѣреваемый продолженіемъ</l>
+      <l>молитвы конецъ есть тотъ,</l>
+      <l>чтобы вселить въ сердце чело</l>
+      <l>вѣческое любовь къ богу</l>
+      <l>страхъ Его, и сохраненіе</l>
+      <l>заповѣди Его<note place="end">после этого слова сделана пометка, схожая с вопросительным знаком или точкой и
+      кружком над ней</note> Къ</l>
+      <l>сему предмѣту нужно долгое</l>
+      <l>толкованіе, ибо многія</l>
+      <l>не разумѣютъ <del rend="overstrike">толкованія</del> смыслу</l>
+      <l>стихій <del rend="overstrike">взятыхъ изъ пророчествъ</del> <hi rend="superscript">пророковъ въ коихъ</hi></l>
+      <l>духъ божіи говорилъ,</l>
+      <l>не для того ездятъ къ раввинамъ чтобъ</l>
+      <l><del rend="overstrike">слыхать</del> слышить оныя толкованія також</l>
+      <l>
+        <del rend="overstrike">и нравоученія, для большой</del>
+        <hi rend="superscript">и нравоучительныя рѣчи</hi>
+      </l>
+      <l>о страхѣ божіемъ и любви</l>
+      <l>его. <del rend="overstrike">равно <unclear>???</unclear></del> <hi rend="superscript">что же</hi> <del
+      rend="overstrike">на семъ созданъ</del></l>
+      <l><del rend="overstrike">сотвореніе человѣка на семъ</del></l>
+      <l><del rend="overstrike">свѣте</del> <sic>Бітіе</sic> человѣка</l>
+      <l>на семъ свѣте есть для того</l>
+      <l>чтобъ имѣть страхъ божіи,</l>
+      <l>видѣть можно въ концѣ книги Эклесіаста</l>
+      <l>гдѣ премудрый Саламонъ говоритъ</l>
+      <l><del rend="overstrike"><unclear>???</unclear> притчей саломановыхъ</del></l>
+      <l><del rend="overstrike">гдѣ начертано</del> „конецъ слова,</l>
+      <l>все слушали, бога бойся, и за</l>
+      <l>повѣди его храни, яко сіе</l>
+      <l>всякъ человѣкъ. разумѣется</l>
+      <l>намерѣваемой созданіемъ</l>
+      <l><del rend="overstrike"><unclear>???</unclear> бытія <unclear>???</unclear> намѣреніе</del></l>
+      <l>человѣка предмѣтъ.</l>
+    </p>
+    <pb xml:id="p309-1" n="309-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/309-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">9</del></fw><note place="end">номер страницы записан
+    чернилами</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">21</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">309</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">313</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <p>
+      <l><del rend="overstrike">продолжитель</del></l>
+      <l>Чтобъ продолжительно богу молиться</l>
+      <l>съ сердечнымъ вниманіемъ, не есть</l>
+      <l>дѣло новое, которое бы возоб</l>
+      <l>новилось между называемыми только</l>
+      <l><orgName ref="Хасиды">хоседами</orgName>; но и въ <del rend="overstrike">наро</del> родахъ</l>
+      <l>древнихъ какъ за двести лѣтъ</l>
+      <l>бывало очень долго продолжаютъ</l>
+      <l>молитвы съ сердечнымъ вни</l>
+      <l>маніемъ болѣе теперешнихъ <orgName ref="Хасиды">хоседовъ</orgName>,</l>
+      <l>такъ какъ разумѣть можно изъ древныхъ</l>
+      <l>еврейскихъ книгъ, что то</l>
+      <l>обыкновеніе было продолжаемо;</l>
+      <l>но увы! доколѣ <sic>востали</sic> выше</l>
+      <l>обьясненные мною, бывшія</l>
+      <l>раввины въ <placeName ref="Польша">польшѣ</placeName>, которыя</l>
+      <l><del rend="overstrike">наняли</del> купили или наняли</l>
+      <l>раввинство отъ владѣльца</l>
+      <l>о они! они то начали уничижать</l>
+      <l>достоинство <del rend="overstrike">продолжаемыхъ молитвъ</del> <hi rend="superscript">продолженія</hi></l>
+      <l>молитвы и укоротить ея</l>
+      <l>колико возмогли, ибо не</l>
+      <l>имѣли желанія въ страхѣ божіемъ</l>
+      <l>снискиваемой отъ продолженія</l>
+      <l>молитвы, имъ же всѣ слѣдовали</l>
+      <l>принуждено, поелику таковыя</l>
+      <l>раввины имѣли всю надъ религіею</l>
+      <l>еврейскою власть, предоставленную имъ</l>
+      <l><del rend="overstrike">ему</del> отъ владѣльца, <del rend="overstrike">даже безъ <hi rend="superscript">по</hi>
+      <lb/>
+       изволенія же не имѣли конторы <lb/>
+       <note type="gloss">|: то есть тѣ которыя отправляютъ <lb/>
+       по еврейскіи богомоленіе :|</note></del></l>
+      <pb xml:id="p309-2" n="309-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/309-2.jpg"/>
+      <fw type="pageNum">309 об.</fw>
+      <fw type="pageNum" place="left">10</fw><note place="end">номер страницы записан чернилами</note>
+      <l><del rend="overstrike">если начать отправленіе</del> Страхъ</l>
+      <l>и ужасъ такого раввина обладалъ</l>
+      <l>всеми евреями въ томъ же</l>
+      <l>мѣстечкѣ живущими; однако</l>
+      <l>какъ находились и тогда нѣко</l>
+      <l>торыя богобоящіеся люди, кото</l>
+      <l>рыя не взирая на все то</l>
+      <l>бывало продолжаютъ молитвы</l>
+      <l>свои съ сердечнымъ вниманіемъ</l>
+      <l>коихъ называли тогда <orgName ref="Хасиды">хосидами</orgName></l>
+      <l><note type="gloss">|: то есть благодѣтельными :|</note> <del rend="overstrike">почему</del> то</l>
+      <l><unclear>и до дня</unclear> всѣхъ которыя</l>
+      <l>молитвы свои отправляютъ</l>
+      <l>продолжительно и внимательно</l>
+      <l>называаются <orgName ref="Хасиды">хоседами</orgName>:</l>
+    </p>
+    <p>
+      <l>Тутъ нужно мнѣ продолжать немного</l>
+      <l>о самомъ существѣ того пункта раздѣляя</l>
+      <l>на три отдѣленія:</l>
+    </p>
+    <p>
+      <l>1 <hi rend="superscript">е</hi> весьма я удивляюсь, какъ онъ</l>
+      <l><persName ref="Авигдор">Хаймовичъ</persName> дерзнулъ навлѣчь такую</l>
+      <l>ложь на меня, и на всѣхъ назы-</l>
+      <l>ваемыхъ <orgName ref="Хасиды">хоседами</orgName>, живущихъ въ</l>
+      <l>губерніяхъ <placeName ref="Белоруссия">бѣлорусской</placeName>, <placeName ref="Подольская_губерния">
+      Подольской</placeName>,</l>
+      <l><placeName ref="Минская_губерния">Минской</placeName>, <placeName ref="Волынская_губерния">
+      волынской</placeName>, Новороссійской</l>
+      <pb xml:id="p310-1" n="310-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/310-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">22</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">310</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">314</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>Малоросійской и Кіевской, гдѣ они никогда</l>
+      <l>никѣмъ не назывались <orgName ref="Хасиды">каролинами</orgName>, но</l>
+      <l><orgName ref="Хасиды">хоседами</orgName>, которое наименованіе происхо-</l>
+      <l>дитъ отъ слова хоседъ благодѣянія,</l>
+      <l>и добраго сердца къ Богу и къ чело-</l>
+      <l>вѣкамъ, а въ нѣкоторыхъ мѣстахъ</l>
+      <l>называются отъ польскихъ господъ <orgName ref="Хасиды">ки- <lb/>
+       таевыми</orgName>, но только въ городѣ <placeName ref="Вильно">вильнѣ</placeName></l>
+      <l>и его окружностяхъ главныя евреи,</l>
+      <l>отъ вражды назвавъ именемъ <orgName ref="Хасиды">каро- <lb/>
+       линскимъ</orgName>, отъ того вошло сіе въ</l>
+      <l>обыкновеніе и у простыхъ людей,представляя, будто есть между</l>
+      <l>нами какая секта. Въ Рос-</l>
+      <l>сіи господа отъ того думаютъ,</l>
+      <l>что будто между нами есть какая-</l>
+      <l>то часть отдѣлившаяся отъ прочихъ</l>
+      <l>евреевъ обрядомъ, напримѣръ: какъ</l>
+      <l>въ россіи раскольники. Но что</l>
+      <l>по справѣдливости дѣло не такъ,</l>
+      <l>и вовсе странно отъ таковаго мнѣнія,</l>
+      <pb xml:id="p310-2" n="310-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/310-2.jpg"/>
+      <fw type="pageNum">310 об.</fw><note place="end">номер записан карандашом</note>
+      <l>можно видѣть изъ того, что раскольники</l>
+      <l>никакого сообщенія съ русскими или другими</l>
+      <l>не имѣютъ, не ѣдятъ и не пьютъ съ ними,</l>
+      <l>не мѣшаются и браками. Мы же мѣшаемся</l>
+      <l>браками, ѣдимъ и пьемъ вмѣстѣ со</l>
+      <l>всѣми евреями, <del rend="overstrike">и въ наблюденіи еврейскаго</del></l>
+      <l><del rend="overstrike">закона</del>вмѣсте отправляемъ молитвы</l>
+      <l>наши, естьлти намъ недосужно или по дру-</l>
+      <l>гимъ какимъ нибудь причинамъ; многія суть,</l>
+      <l>что два братья один <orgName ref="Хасиды">хоседъ</orgName> а другой нетъ.</l>
+      <l>Есть же и такія, что были хоседами, а послѣ</l>
+      <l>по недосугамъ не бываютъ болѣе, и въ наблюденіи</l>
+      <l>еврейскаго закона во всѣмъ только, что написано</l>
+      <l>въ еврейскихъ книгахъ въ Талмудѣ и въ прочихъ,</l>
+      <l>нѣтъ никакого различія, так какъ и въ молит-</l>
+      <l>вахъ, кои отправляются такою же формою</l>
+      <l>какъ и прочіе евреи по религіи нашей, но мы</l>
+      <l>наблюдаемъ прибавленныя въ молитвѣ по каба-</l>
+      <l>листической наукѣ буквы, рѣчи и перемѣнен-</l>
+      <l>ныя слова. Таковыя молитвы въ древ-</l>
+      <l>нія времена не были въ печать изданы,</l>
+      <l>но имѣлись рукописные у знамѣнитыхъ</l>
+      <l>нынѣ же уже около сорока лѣтъ, какъ</l>
+      <pb xml:id="p311-1" n="311-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/311-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">23</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">311</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">315</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <l>они напечатаны въ Амстердамѣ,</l>
+      <l>съ позволенія тамошнихъ раввиновъ,</l>
+      <l>хотя и не назывались <orgName ref="Хасиды">хосседами</orgName><note place="end">так в оригинале</note>.</l>
+    </p>
+    <p>
+      <l>Послѣ того Римско-Император-</l>
+      <l>скаго владѣнія въ городаъ жолквѣ<note place="end">Жолква - ныне город во Львовской области Украины</note></l>
+      <l>и во львовѣ съ дозволенія тамош-</l>
+      <l>нихъ же раввиновъ.</l>
+    </p>
+    <pb xml:id="p311-2" n="311-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/311-2.jpg"/>
+    <pb xml:id="p312-1" n="312-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/312-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">6</del><note place="end">номер записан чернилами и вычеркнут
+    карандашом</note></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">25</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">312</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">316</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <p>
+      <l><del rend="overstrike">то же извѣстно ибо <unclear>???</unclear></del></l>
+      <l>ибо такая съ прибавленіями</l>
+      <l>еврейская молитва, основанная</l>
+      <l>на кабалистикѣ, весьма душѣ</l>
+      <l><del rend="overstrike">способствуетъ</del> полѣзна <del rend="overstrike">хотя</del></l>
+      <l>хотя и для такаго которой кабалы</l>
+      <l>не разумѣетъ. Какъ о томъ</l>
+      <l>же <hi rend="superscript">по книгамъ</hi> извѣстно: – <del rend="overstrike">таковъ потому тоже</del> и ихъ
+      сообщники</l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear> отмщенія что <unclear>???</unclear></del></l>
+      <l>2 <hi rend="superscript">е</hi> ищутъ они <hi rend="superscript">виленскіе же евреи</hi> отмщенія намъ <hi
+      rend="superscript">и посему</hi> завидуя, что мы</l>
+      <l>тщимся Богу молится съ</l>
+      <l>сердечнымъ вниманіемъ, безъ</l>
+      <l>странныхъ мыслей. Каковое</l>
+      <l><del rend="overstrike">тщаніе</del> стараніе есть великій трудъ, ибо</l>
+      <l>молитвы еврейскія <del rend="overstrike">не писаны</del> не суть</l>
+      <l><del rend="overstrike">какъ</del> таковы, какъ прочіхъ</l>
+      <l>народовъ, кои хвалятъ Бога</l>
+      <l>на природномъ языкѣ,</l>
+      <l>но сочинены на самоточнѣйшемъ и высокомъ</l>
+      <l>еврейскомъ <del rend="overstrike">языкѣ</del>, а природной</l>
+      <l>еврейской есть другой <del rend="overstrike">языкъ</del>,</l>
+      <l>затруднительнѣе жъ потому, что</l>
+      <l>молитвы будучи каждого дня</l>
+      <l>одинаковы, приходятъ въ такое</l>
+      <l>обыкновеніе, что и вспомнить</l>
+      <l>себѣ мысли произносимыхъ словъ</l>
+      <l>есть затруднительно; <del rend="overstrike">и некоторая часть</del> евреи же</l>
+      <l>не занимающіяся богомоленіемъ</l>
+      <l><del rend="overstrike">съ такимъ</del> съ такою</l>
+      <l>прилежностію <del rend="overstrike">богу молиться</del></l>
+      <l>называютъ насъ <orgName ref="Хасиды">хосидами</orgName>;</l>
+      <l><note type="gloss">|: то есть благодѣтелями :|</note></l>
+      <pb xml:id="p312-2" n="312-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/312-2.jpg"/>
+      <fw type="pageNum">312 об.</fw><note place="end">номер записан карандашом</note>
+      <l>а никакой зависти и вражды не имѣютъ; но <placeName ref="Вильно">виленскія</placeName> богатыя</l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike">богатыя евреи будучи само</del></l>
+      <l><del rend="overstrike">любивы не находящіяся</del></l>
+      <l><del rend="overstrike">насъ дать въ городе <placeName ref="Вильно">вильнѣ</placeName></del></l>
+      <l><del rend="overstrike">суть, тамошныя бога</del></l>
+      <l>и ученныя евреи, и послѣдователи ихъ</l>
+      <l>будучи самолюбивы и често</l>
+      <l>любивы, имъ кажется за</l>
+      <l>противность, чтобы думать</l>
+      <l>объ нихъ яко они лѣнивы въ</l>
+      <l>службѣ божей. Сіи то</l>
+      <l>клевещутъ</l>
+      <l>насъ, поносятъ насъ и сколько</l>
+      <l><del rend="overstrike">только</del> могутъ враждуютъ</l>
+      <l>намъ. Сія вражда же</l>
+      <l>изъдавна есть, но сверхъ того</l>
+    </p>
+    <p>
+      <l>3 <hi rend="superscript">е</hi> нынѣ недавно усугубилась</l>
+      <l>та распря и вражда въ городѣ</l>
+      <l><placeName ref="Вильно">вильнѣ</placeName>, назадъ тому три года</l>
+      <l>послѣ смерти раввина ихъ покойнаго</l>
+      <l><persName ref="Элиас">Эліяша</persName>, которой хотя тоже</l>
+      <l>не любилъ насъ по ложнымъ наговорамъ</l>
+      <l>тамошныхъ евреевъ, которыя</l>
+      <l>обыкновенно суть вздорники</l>
+      <l>или безпокойныя, <del rend="overstrike">и даже <lb/>
+       онаго раввина своего <lb/>
+       столь гнали, что онъ</del></l>
+      <pb xml:id="p313-1" n="313-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/313-1.jpg"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">7</del><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">18</del></fw><note place="end">номер записан и вычеркнут
+      чернилами</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">26</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right">313</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right"><del rend="overstrike">317</del></fw><note place="end">номер записан чернилами и
+      вычеркнут карандашом</note>
+      <p>
+        <l><del rend="overstrike">однажды былъ <lb/>
+         принужденъ искать прибѣжище <lb/>
+         у пруской2 границы,</del>однако</l>
+        <l>при жизни своей не пустилъ</l>
+        <l>войти въ великія распори</l>
+        <l>нападать <del rend="overstrike">на нихъ <unclear>???</unclear></del> <hi rend="superscript">на <placeName
+        ref="Вильно">виленскихъ</placeName> евреевъ</hi></l>
+        <l>
+          <del rend="overstrike">евреевъ которыя боголюбиывыя</del>
+          <hi rend="superscript">молящихся</hi>
+        </l>
+        <l>съ прибавленіями!</l>
+        <l>а послѣ смѣрти его начали</l>
+        <l>на нихъ нападать, на</l>
+        <l>лагать на нихъ <hi rend="superscript">проклятія</hi></l>
+      </p>
+      <fw type="note" place="right margin">
+        <l>какъ тамошнему</l>
+        <l>правительству</l>
+        <l>и небезизвѣстно</l>
+        <l>изъ жалобъ</l>
+        <l>тамошныхъ</l>
+        <l><orgName ref="Хасиды">хоседовъ</orgName></l>
+        <l>на обыкновен</l>
+        <l>ную у <placeName ref="Вильно">виленскихъ</placeName></l>
+        <l>евреевъ, за быт</l>
+        <l>ностію города</l>
+        <l><placeName ref="Вильно">вилны</placeName> во вла</l>
+        <l>деніи <placeName ref="Польша">польскомъ</placeName></l>
+        <l>черную книгу</l>
+        <l>по которои</l>
+        <l>сіи <orgName ref="Хасиды">хосѣди</orgName></l>
+        <l>были гонимы</l>
+      </fw>
+    </p>
+    <p>
+      <del rend="overstrike">
+        <l>расточать имущество</l>
+        <l>даже до того, что потребованы началствомъ</l>
+        <l>книги бывшаго тамошняго кагала о</l>
+        <l>о приходѣ и рсходѣ или</l>
+        <l><unclear>???</unclear> оныхъ.</l>
+        <l>По ихъ обыкновенѣю извѣстному</l>
+        <l>тамо; <unclear>???</unclear> въ черной книгѣ,</l>
+        <l>что <unclear>???</unclear> сіхъ какіе</l>
+        <l>о ихъ черной книгѣ, что</l>
+        <l>кто вписанъ во оную, увы! ахъ!</l>
+        <l>Уши заглушены бываютъ слыша</l>
+        <l>какія гонѣнія причиняются</l>
+        <l>такому! – онъ и все имущество</l>
+        <l>его чинимія не безпечными и принуждены</l>
+        <l>и принуждены были тѣ гонимыя евреи</l>
+        <l>и правительству</l>
+        <l>изъ обыкновенія черной ихъ</l>
+        <l>книги, продолжавшейся</l>
+        <l><placeName ref="Польша">польшею</placeName> – <orgName ref="Хасиды">хоседы</orgName> называемыя евреи</l>
+        <l>будучи гонимыми жаловались</l>
+      </del>
+      <pb xml:id="p313-2" n="313-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/313-2.jpg"/>
+      <fw type="pageNum">313 об.</fw><note place="end">номер записан карандашом</note>
+      <del rend="overstrike">
+        <l>тамошнему губернскому правленію</l>
+        <l>чрезъ которое уничтожились тѣ</l>
+        <l>проклинанія съ черною книгою,</l>
+      </del>
+      <l><del rend="overstrike">посредствомъ коей</del> тамошныя</l>
+      <l>главныя евреи могли народу</l>
+      <l>чинить все что только пожелали,</l>
+      <l>проклиная подъ секретомъ, чрезъ</l>
+      <l>называемаго ими по еврейскіи</l>
+      <l><emph rend="big">редефъ Ганеломъ</emph> и по русскіи</l>
+      <l>разумѣемаго тайнаго гони</l>
+      <l>теля</l>
+      <l><del rend="overstrike">и что такъ чинилъ</del></l>
+      <l><del rend="overstrike"><unclear>???</unclear></del></l>
+      <l><del rend="overstrike"><unclear>???</unclear></del></l>
+      <l><del rend="overstrike"><unclear>???</unclear> владѣніемъ извѣстно</del></l>
+      <l><del rend="overstrike">посему даже изъ <placeName ref="Вильно">вильны</placeName></del></l>
+      <l><del rend="overstrike"><placeName ref="Польша">польскимъ</placeName> правительствомъ по</del></l>
+      <l><del rend="overstrike">всему <placeName ref="Польша">польскому краю</placeName></del></l>
+    </p>
+    <p>
+      <l>По всему <hi rend="superscript">распространеніе</hi> израиля не слышно</l>
+      <l>и не нашлась <del rend="overstrike"><unclear>???</unclear></del></l>
+      <l>таковая книга ниже таковой</l>
+      <l>тайный гонитель, кромѣ только</l>
+      <l>въ городѣ <placeName ref="Вильно">вильнѣ</placeName>, когда <del rend="overstrike"><unclear>???</unclear></del>
+      </l>
+      <l>тотъ городъ состоялъ</l>
+      <l>подъ польскимъ правленіемъ.</l>
+      <l>По уничтоженіи таковаго обыкновенія тамошнимъ губернскимъ правленіемъ</l>
+      <l>чрезъ прошеніи <placeName ref="Вильно">виленскихъ</placeName> евреевъ</l>
+      <l><del rend="overstrike">каролинскимъ таковая</del> <hi rend="superscript">называемыхъ <orgName ref="Хасиды">
+      хоседами</orgName></hi>, учинились</l>
+      <l>и <unclear>???</unclear> прочія виленскія</l>
+      <l><del rend="overstrike">обыкновеніе <unclear>???</unclear> виленское</del></l>
+      <l>евреи великими</l>
+      <l><del rend="overstrike">имъ всемъ великими</del></l>
+      <l>врагами, такъ какъ и про</l>
+      <l>чимъ <orgName ref="Хасиды">хоседамъ</orgName>, <hi rend="superscript">идутъ</hi> почти</l>
+      <l>и на животъ ихъ; также</l>
+      <l>какъ послѣ послѣдовало то,</l>
+      <l>что взяты <hi rend="superscript">въ губернское правленіе</hi> всѣ книги</l>
+    </p>
+    <pb xml:id="p314-1" n="314-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/314-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">7</del><note place="end">номер записан чернилами и вычеркнут
+    карандашом</note></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">19</del></fw><note place="end">номер записан и вычеркнут
+    чернилами</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">27</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">314</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">318</del></fw><note place="end">номер записан чернилами и
+    вычеркнут карандашом</note>
+    <p>
+      <l>О приходахъ тамошняго еврей-</l>
+      <l>скаго кагала или собранія</l>
+      <l>учиненныя бывшими та</l>
+      <l>мошными кагальными</l>
+      <l>расходахъ, разсматриваются</l>
+      <l>оныѣ <del rend="overstrike">предстоитъ</del></l>
+      <l><unclear>???</unclear> предвидится, что</l>
+      <l>бывшія кагалныя при</l>
+      <l>чиняли <del rend="overstrike">многія <unclear>???</unclear></del> евреямъ великіе поборы и расточенія</l>
+      <l>и уже чрезъ то немалое число денегъ</l>
+      <l>принуждены были заплатить</l>
+      <l>по опредѣленію правительству</l>
+      <l>ющаго Сената. но суть онѣ <del rend="overstrike"><unclear>???</unclear></del> что</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del></l>
+      <l>сіе разсмотрѣніе происходитъ</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> отъ</l>
+      <l><sic>старательста</sic> тамошныхъ <orgName ref="Хасиды">хоседовъ</orgName></l>
+      <l>вящше <hi rend="superscript">тѣ виленскіе евреи</hi> учинились</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> имъ врагами._</l>
+      <l>И тако естли мы гдѣ и въ</l>
+      <l>другомъ мѣстѣ живемъ</l>
+      <l>каковаго либо врага, то сомнѣваться нечего,</l>
+      <l>что вражда его происходитъ</l>
+      <l>отъ <del rend="overstrike">какой либо причины</del> какого нибудь собственнаго интереса</l>
+      <l>или недобраго нрава,</l>
+      <l>и такъ какъ извѣстно</l>
+      <l>что злое блаженнаго</l>
+      <l><del rend="overstrike">навидить не можетъ</del> любить не можетъ,</l>
+      <l>а не на справедливости</l>
+    </p>
+    <p>
+      <l>4</l>
+      <l>что же онъ <persName ref="Авигдор">хаимовичъ</persName> пишетъ</l>
+      <pb xml:id="p314-2" n="314-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/314-2.jpg"/>
+      <fw type="pageNum">314 об.</fw>
+      <l>будьто <orgName ref="Хасиды">хоседы</orgName> переменили обряды</l>
+      <l>еврейскія въ молитвахъ и даже</l>
+      <l>одежды, что не <del rend="overstrike">одеваются</del> носятъ</l>
+      <l>шерстяннаго: то что въ моли</l>
+      <l>твахъ нѣтъ никакой перемены</l>
+      <l>только въ <unclear>???</unclear> по кабалистикѣ</l>
+      <l>и что же таковыя молитвы</l>
+      <l>давно напечатаны я уже</l>
+      <l>выше изъяснилъ: въ <placeName ref="Палестина">израил <lb/>
+       ском краю</placeName> молятся такимъ</l>
+      <l>образомъ съ самого начала</l>
+      <l>еврейской молитвы. – А ка</l>
+      <l>сательно шерстяннаго, то всякій</l>
+      <l>видѣть можетъ, что онъ</l>
+      <l>нападаетъ на насъ только</l>
+      <l>несправедливостію: поелику</l>
+      <l>то что многія не надѣваютъ шерстян</l>
+      <l>наго есть для вящей осторожности, сомнѣваясь</l>
+      <l>нетъ ли въ томъ замѣшенной</l>
+      <l>нитки льнянной <note type="gloss">|: которая <lb/>
+       по еврейскому закону не должна <lb/>
+       быть купно <del rend="overstrike"><unclear>??? ???</unclear></del> <lb/>
+       съ волною<note place="end">со льняной</note> по 5 моисеевой книгѣ <lb/>
+       главы 22 стиха 11 :|</note>. Сію</l>
+      <l>осторожность наблюдаютъ съ</l>
+      <l>наивящею точностію многія бого</l>
+      <l>боящіеся люди хоть они и не</l>
+      <l><orgName ref="Хасиды">хоседы</orgName>; а особливо изъ</l>
+      <l>учѣниковъ <placeName ref="Вильно">вилинскаго</placeName> покойнаго раввина</l>
+      <pb xml:id="p315-1" n="315-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/315-1.jpg"/>
+      <fw type="pageNum" place="right">315</fw>
+      <fw type="pageNum" place="right">5</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">18</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">28</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">318 <hi rend="superscript">а</hi></del></fw>
+      <l><persName ref="Элиас">Еліаша</persName>, а напротивъ того</l>
+      <l>въ бѣлорусіи есть многія</l>
+      <l>изъ <orgName ref="Хасиды">хоседовъ</orgName>, которыя</l>
+      <l>вовсе его не наблюдая</l>
+      <l>надѣваютъ шерстянное.</l>
+    </p>
+    <pb xml:id="p315-2" n="315-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/315-2.jpg"/>
+    <pb xml:id="p316-1" n="316-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/316-1.jpg"/>
+    <fw type="pageNum" place="right">316</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">29</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">319</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike"><unclear>20</unclear></del></fw>
+    <p>
+      <l>на 10.</l>
+      <l>Сіе достойно удивленія<note place="end">над "достойно" поставлена цифра "1", над "удивления" – "2", вероятно,
+      предполагалась перестановка слов</note>, – кто же туда</l>
+      <l>отправилъ кого либо! – извѣстно всѣмъ</l>
+      <l>почти, что таковое обыкновеніе</l>
+      <l>мѣжду <del rend="overstrike"><unclear>???</unclear></del> евреями есть, что</l>
+      <l>пожелавшія быть отдѣленными</l>
+      <l>отъ сего свѣта, ездятъ</l>
+      <l>въ Іерусалимъ и тамо препровождаютъ</l>
+      <l><del rend="overstrike">богомоленія</del> <hi rend="superscript">дни свои въ богомоленіи въ числѣ коихъ
+      суть</hi>; многія даже</l>
+      <l>и изъ <hi rend="superscript">тѣхъ евреевъ</hi> которыхъ и называютъ</l>
+      <l>хоседами <del rend="overstrike">– наподобіе тамо</del> такъ, какъ <del rend="overstrike">напримѣръ</del></l>
+      <l>и изъ бывшей <placeName ref="Польша">польши</placeName> и <del rend="overstrike">изъ</del> прочихъ</l>
+      <l>земель <del rend="overstrike">и какъ слышно что и тѣ</del></l>
+      <l><del rend="overstrike">евреи</del> Что же онъ пишетъ будьто</l>
+      <l>употребляются <hi rend="superscript">на содержаніе оныхъ</hi> подушныя деньги, и все</l>
+      <l>что ни пространяетъ до конца, подходитъ все то подъ 11 <hi rend="superscript">и</hi> псаломъ царя давида,
+      которой</l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike">случай царь давидъ</del></l>
+      <l><del rend="overstrike">сказалъ псаломъ 19 11 гдѣ</del></l>
+      <l>въ стихѣ 5 <hi rend="superscript">м</hi> сказалъ „рекшыя</l>
+      <l>языкъ нашъ возвеличимъ, устны</l>
+      <l>наша при насъ суть, кто намъ</l>
+      <l>Господь есть?„<note place="end">на церковнославянском языке</note> мнѣ и болѣе не нужно</l>
+      <l>на такіе его льсти отвѣчать какъ что того</l>
+      <l>никогда не бывало въ <placeName ref="Белоруссия">бѣлорусіи</placeName>;</l>
+      <l>а что же касается прочихъ губерніи</l>
+      <l>то <del rend="overstrike">пусть самъ <unclear>???</unclear></del> конечно тамошныя евреи</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> сами отъ себя могутъ дать объясненіе</l>
+      <l>и конечно какъ мнѣ кажется и тамо</l>
+      <l>такъ никогда не бывало, да и быть</l>
+      <l>не можетъ.</l>
+    </p>
+    <pb xml:id="p316-2" n="316-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/316-2.jpg"/>
+    <fw type="pageNum">316 об.</fw>
+    <p>
+      <l>на 11 <hi rend="superscript">и</hi></l>
+      <l>О <unclear>??? ???</unclear> что то несправедливо</l>
+      <l>а что <persName ref="Авигдор">Хаимович</persName> пишетъ,</l>
+      <l>будто онъ все то докажетъ</l>
+      <l>въ городѣ <placeName ref="Вильно">вилнѣ</placeName>, то сіе</l>
+      <l>удивительно, какое <del rend="overstrike">можетъ</del></l>
+      <l>можетъ быть отътоль <del rend="overstrike"><unclear>???</unclear></del></l>
+      <l>доказателство? отъ города</l>
+      <l>гдѣ евреи <hi rend="superscript">враждующія тѣмъ евреямъ которыхъ называютъ <orgName ref="Хасиды">хоседами
+      </orgName></hi> учнили на насъ въ школахъ</l>
+      <l>публикаціи и проклятья, такъ</l>
+      <l>какъ о томъ небезизвѣстно</l>
+      <l>есть; да и по уничтоженіи</l>
+      <l>чрезъ губернское правленіе</l>
+      <l>те проклятія оклеветали</l>
+      <l>насъ <del rend="overstrike">не токмо</del> въ прошломъ 1799 году <unclear>прошеніемъ</unclear></l>
+      <l><del rend="overstrike">суда предъ</del> посланнымъ</l>
+      <l>къ <del rend="overstrike">бывшему Его</del></l>
+      <l><del rend="overstrike">Свѣтлости</del> <del rend="overstrike">Гну</del> бывшему</l>
+      <l>Г <hi rend="superscript">ну</hi> генералу прокурору и кавалѣру</l>
+      <l>князю <del rend="overstrike">петру васильевичу</del></l>
+      <l><persName ref="Лопухин">лопухину</persName>, прося чтобы</l>
+      <l><del rend="overstrike">уничтожить всѣхъ</del> истре</l>
+      <l>бить всѣхъ <orgName ref="Хасиды">хоседовъ</orgName> изъ</l>
+      <l><hi rend="big">Государства Его имва<note place="end">аббревиатура – "Его Императорского Величества"</note></hi>
+      </l>
+      <l><note type="gloss">|: до возвысится слава Его <lb/>
+       до наивысочаишей степени! :|</note> о семъ</l>
+      <l>извѣстны мы <del rend="overstrike">потому, что</del> изъ копіи повеленія Литовскаго Гна<note place="end"
+      >господина</note> гражданскаго губернатора даннаго виленской полиціи</l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike">но тамошній Господинъ</del></l>
+      <pb xml:id="p317-1" n="317-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/317-1.jpg"/>
+      <fw type="pageNum" place="right">317</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">320</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike"><unclear>27</unclear></del></fw>
+      <fw type="pageNum" place="right">30</fw>
+      <l><del rend="overstrike">Гражданскій губернаторъ чрезъ полицію</del></l>
+      <l><del rend="overstrike">объявилъ</del> о присланномъ</l>
+      <l><del rend="overstrike">къ нему</del> отъ Г <hi rend="superscript">на</hi> бывшаго</l>
+      <l>Генералъ прокурора</l>
+      <l>и кавалѣра <del rend="overstrike">александра</del></l>
+      <l><del rend="overstrike">андрѣевича</del> <persName ref="Беклешов">беклешева</persName> къ нему отношенія</l>
+      <l>что по всевысочайшему</l>
+      <l>Соизволенію, нужно уничтожить называемую</l>
+      <l>ими <orgName ref="Хасиды">секту королинскую</orgName>,</l>
+      <l>но <hi rend="big">всемилоствѣйше</hi></l>
+      <l>предоставлена ей</l>
+      <l>свобода: вотъ изъ сихъ</l>
+      <l>обстоятельствъ доволно</l>
+      <l>видить можно <del rend="overstrike">вложенномъ</del> коль</l>
+      <l>велика есть вражда въ нихъ</l>
+      <l>вкроненная<note place="end">видимо, "укорененная"</note>; и какъ</l>
+      <l>ярость ихъ неутушимо</l>
+      <l>пребываетъ!</l>
+    </p>
+    <p>
+      <l>На 12</l>
+      <l>что онъ <hi rend="superscript">тутъ и въ прежнемъ пунктѣ</hi> пишетъ есть не</l>
+      <l><del rend="overstrike">сего никогда не бывало, не <unclear>???</unclear></del></l>
+      <l>справедливо. Не найдетъ онъ на то</l>
+      <l>подтвержденіе какъ в <del rend="overstrike">городѣ <placeName ref="Вильно">вилнѣ</placeName></del></l>
+      <l><del rend="overstrike">и для <unclear>???</unclear></del> только <hi rend="superscript">можетъ быть</hi> отъ
+      виленскихъ</l>
+      <l>евреевъ и имъ подобныхъ враговъ нашихъ</l>
+      <l>ибо можно ли трудящемуся богу</l>
+      <l>молиться съ вниманіемъ и снискать</l>
+      <l>страхъ божіи, не наблюдать</l>
+      <l>почтенія отца и матери</l>
+      <l>такъ какъ и прочия?</l>
+      <pb xml:id="p317-2" n="317-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/317-2.jpg"/>
+      <fw type="pageNum">317 об.</fw>
+      <l>а кольми паче присяги? <del rend="overstrike">важнѣе</del></l>
+      <l>приважнѣишаго таковаго предмѣта?</l>
+      <l>Да и естли бы случилось въ</l>
+      <l>самомъ дѣлѣ, что нѣкоторымъ</l>
+      <l>называющимся</l>
+      <l><orgName ref="Хасиды">хосидемъ</orgName> не наблюдалъ <del rend="overstrike">бы</del></l>
+      <l>почтенія къ отцу и матерѣ</l>
+      <l>своимъ или сохрани Господи</l>
+      <l>не сохранили присяги:</l>
+      <l>то таковый не достоинъ не только чтобы</l>
+      <l>его вовсе именовать хосидамъ, <hi rend="superscript">но и человѣкомъ</hi>, и хотя</l>
+      <l><del rend="overstrike">и которому конечно хотя</del></l>
+      <l>онъ и ездитъ для слышанія</l>
+      <l>проповеди, однако исполненіе оной состоитъ</l>
+      <l>въ ево волѣ; <unclear>и какъ выше прояснено</unclear> но не можно</l>
+      <l>отъ таковаго взять примѣръ</l>
+      <l>на всѣхъ генерально, <del rend="overstrike">чтобы не</del></l>
+      <l><del rend="overstrike">всѣхъ</del></l>
+      <l><hi rend="superscript">и имѣть подозреніе на всѣхъ</hi> называемыхъ</l>
+      <l><orgName ref="Хасиды">хоседами</orgName>,</l>
+      <l>будьто презирая ихъ сохрани Господи!</l>
+      <l>Честию своихъ родителей</l>
+      <l>а кольми паче присягою,</l>
+      <l>Увы! преважнѣйшим –дѣломъ – <del rend="overstrike">боже сохрани</del>!!</l>
+      <l><del rend="overstrike"><unclear>??? ??? ???</unclear></del></l>
+      <l><del rend="overstrike">Сохрани Господи!</del></l>
+    </p>
+    <p>
+      <l>Не нужно болѣе продолжать о дѣлѣ</l>
+      <l>извѣстномъ всѣмъ, что мы</l>
+      <l>весьма рачительно исполняемъ</l>
+      <l><del rend="overstrike">всѣ господа</del> всѣ приказанія</l>
+      <l>божія, съ лучшею гораздо</l>
+      <l>ревностію отъ простыхъ</l>
+      <l>евреевъ, и отчасти даже и ученныхъ.</l>
+    </p>
+    <pb xml:id="p318-1" n="318-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/318-1.jpg"/>
+    <fw type="pageNum" place="right">318</fw>
+    <fw type="pageNum" place="right">3</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">321</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">31</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike"><unclear>22</unclear></del></fw>
+    <fw type="note" place="right margin"><p>
+      <l>на 13. то есть несправедливо</l>
+      <l>и никогда не бывало и не</l>
+      <l>есть, и не будетъ. но все</l>
+      <l>то подходитъ по выше приведеннымъ въ 10 пунктѣ</l>
+      <l>11 псалма давыдова</l>
+      <l>стихѣ 5.</l>
+    </p></fw>
+    <p>
+      <l>Нѣтъ человѣка такого которой бы</l>
+      <l>не имѣлъ враговъ, <del rend="overstrike">которые</del> <hi rend="superscript">поносящихъ его</hi> льстивно и
+      </l>
+      <l><del rend="overstrike">поносятъ его</del> ложно. Каковое</l>
+      <l>бывало <del rend="overstrike">и давно еще</del> <hi rend="superscript">и въ древныя времена</hi>, какъ царь</l>
+      <l><sic>адавыдъ</sic> сказалъ псалма</l>
+      <l>26. въ стихѣ 12 „не предаждъ</l>
+      <l>мене въ души стужающихъ ми:</l>
+      <l>яко восташа на мя свидѣ</l>
+      <l>телѣ неправедніи, и солга</l>
+      <l>неправда себе„; но</l>
+      <l>утешеніѣ высочайшимъ</l>
+      <l>разумомъ <del rend="overstrike">в</del> низпослан</l>
+      <l>нымъ отъ Бога въ сердце</l>
+      <l><emph rend="big">всемилостивейшаго государя</emph></l>
+      <l>нашего. что узнаютъ</l>
+      <l><del rend="overstrike">справедливость</del> справедливыя слова</l>
+      <l>произносимыя предъ <emph rend="big">все <lb/>
+       высочайшимъ престоломъ</emph></l>
+      <l><del rend="overstrike">его</del>, такъ какъ премудрый</l>
+      <l>Саламонъ сказалъ притчей</l>
+      <l>главы 16. въ стихѣ 10</l>
+      <l>„пророчество въ устнѣхъ царевыхъ</l>
+      <l>въ судищи же не погрѣшатъ</l>
+      <l>уста его„ въ стихѣ 13 <hi rend="superscript">м</hi></l>
+      <l>„пріятны царю устнѣ праведны,</l>
+      <l>словеса же правия любитъ„.<note place="end">как и в предыдущей цитате приведен - с ошибками - перевод на
+      церковнославянский язык</note></l>
+    </p>
+    <fw type="note" place="right margin">
+      <l>Главы 20 <hi rend="superscript">и – въ</hi></l>
+      <l>стихѣ 28 „мило <lb/>
+       стиня и истинна сохраненіе <lb/>
+       царю, и обидутъ престолъ <lb/>
+       его въ правдѣ„.<note place="end">как и в предыдущей цитате приведен - с ошибками - перевод на церковнославянский
+      язык</note></l>
+    </fw>
+    <p>
+      <l>на 14</l>
+      <l>Удивительно мнѣ, какъ онъ</l>
+    </p>
+    <pb xml:id="p318-2" n="318-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/318-2.jpg"/>
+    <fw type="pageNum">318 об.</fw>
+    <p>
+      <l><persName ref="Авигдор">хаимовичъ</persName> не стыдился</l>
+      <l>говорить, такую</l>
+      <l>развратность. Секта</l>
+      <l>сабсецвинческая говорила,</l>
+      <l>что ихъ учитель <note type="gloss">|: то есть <lb/>
+       тотъ которой назъвался <lb/>
+       сабсанцви :|</note> былъ настоящій месія,</l>
+      <l>онъ имъ позволилъ всѣ грѣхи</l>
+      <l>дѣлать; а мы бѣрежемся</l>
+      <l>отъ грѣховъ, и ревнуемъ</l>
+      <l>о соблюденіи <del rend="overstrike">приказ</del> повеленій</l>
+      <l>Господніхъ болѣе его <persName ref="Авигдор">хаимовича</persName></l>
+      <l>и ему подобныхъ, равно и простыхъ</l>
+      <l>евреевъ. ...но лучше я не буду</l>
+      <l>разхваливать самого себя</l>
+      <l>Какъ премудрый Саламонъ</l>
+      <l>сказалъ притчеи главы</l>
+      <l>27. въ стихѣ 2<hi rend="superscript">м</hi>. „да хвалитъ</l>
+      <l>тя искренніи а не твоя уста.<note place="end">так в тексте - формально закрывающая кавычка не поставлена;
+      однако это делалось не всегда, т.к. все строки с цитатой обозначались, независимо от открывающих и закрывающих
+      кавычек дополнительными кавычками по левому полю; к этой норме рубежа XVIII-XIX вв. прибегали в документах как обе
+      стороны процесса, так и официальные лица, и делопроизводители</note></l>
+    </p>
+    <p>
+      <l>на 15</l>
+      <l>Когда проповедники съ <unclear>???</unclear> говорятъ свои</l>
+      <l>проповеди въ большихъ городахъ напримѣръ какъ</l>
+      <l>въ <placeName ref="Вильно">вилнѣ</placeName>, въ бродахъ</l>
+      <l>и во львовѣ, тогда нахо-</l>
+      <l>дилось тамо болѣе тысящи</l>
+      <l>человѣкъ, и не было отъ</l>
+      <l>того никакого сомнѣнія</l>
+      <l>во вредѣ; а когда бываетъ</l>
+      <pb xml:id="p319-1" n="319-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/319-1.jpg"/>
+      <fw type="pageNum" place="right">319</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">4</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">32</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">322</del></fw>
+      <l>ярманка въ такомъ</l>
+      <l>маломъ мѣстѣ, какъ</l>
+      <l>напримѣръ <unclear>???</unclear>, слу</l>
+      <l>чается тоже тѣперь</l>
+      <l>въ домахъ чрезъ нѣкоторое</l>
+      <l>время; по справедли</l>
+      <l>вости <del rend="overstrike">было</del> случилось одинъ или</l>
+      <l>два раза, что пріезжало</l>
+      <l>въ <placeName ref="Лозна">ліозне</placeName> около тысящи</l>
+      <l>человѣкъ на праздникъ</l>
+      <l>еврейскіи называемый <emph rend="big">шевуотъ</emph>;</l>
+      <l>почему какъ я пересталъ <del rend="overstrike">на тотъ</del></l>
+      <l>на сей праздникъ проповеди говорить,</l>
+      <l>то уже назадъ тому нѣсколько</l>
+      <l>лѣтъ какъ они не ездятъ</l>
+      <l>ко мнѣ на тотъ праздникъ;</l>
+      <l>а я <del rend="overstrike">говорю</del> проповѣдаю чрезъ</l>
+      <l>годъ разовъ с девять,</l>
+      <l>по одному разу въ</l>
+      <l>мѣсяцъ, съ тѣмъ чтобы всякій</l>
+      <l>могъ одинъ разъ черезъ годъ</l>
+      <l>прибыть; но не много</l>
+      <l>въ одинъ разъ, сіи въ</l>
+      <l>тотъ а другія в другой</l>
+      <l>мцъ<note place="end">месяц</note>, <del rend="overstrike">а на болѣе въ</del> естли пріезжаютъ</l>
+      <pb xml:id="p319-2" n="319-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/319-2.jpg"/>
+      <fw type="pageNum">319 об.</fw>
+      <l>нѣсколько сотъ человѣкъ, <hi rend="superscript">то уже весьма много</hi> а иногда</l>
+      <l>по сто пятидѣсяти и ме</l>
+      <l>нѣе. – онъ <persName ref="Авигдор">хаимовичъ</persName> самъ</l>
+      <l>того не видѣлъ и тотъ ко</l>
+      <l>торой ему рассказывалъ,</l>
+      <l>не разчитывалъ, но только</l>
+      <l>размножили сказку</l>
+      <l>свою? – что же онъ говоритъ</l>
+      <l>почему я проповѣди мои</l>
+      <l>не пишу, то во первыхъ стоитъ</l>
+      <l>то превеликихъ трудовъ да и тщетныхъ</l>
+      <l>ибо многія есть такія которыя</l>
+      <l>не понимаютъ изъ письма,</l>
+      <l>да и нельзя просто сіи такъ выразумитѣльно</l>
+      <l>написать какъ словесно. Сверхъ же</l>
+      <l>того во время собранія приезжа</l>
+      <l>ющихъ къ слышанію пропо</l>
+      <l>веди, не запрещено евреямъ и не <unclear>???</unclear></l>
+      <l><orgName ref="Хасиды">хоседскимъ</orgName> туда притти и слышать</l>
+      <l>проповедь. впрочемъ какой бы могла<note place="end">далее текст продолжается на правом поле</note> произойти
+      вредъ отъ множества людѣй слушающихъ проповеди и нравоучительныя наставленіи, <del rend="overstrike">знать</del>
+      понять не могу.</l>
+    </p>
+    <p>
+      <l>16</l>
+      <l>Если я еду по дорогѣ то болѣе</l>
+      <l>не емъ и не пью какъ <del rend="overstrike">только</del>, сколько въ домѣ моемъ</l>
+      <l>и не принимаю по дорогѣ</l>
+      <l>подарковъ, да естли бъ принималъ,</l>
+      <l>то что ему <persName ref="Авигдор">хаимовичу</persName> завидно? онъ</l>
+      <l>самъ тоже когда <del rend="overstrike">нанималъ</del></l>
+      <pb xml:id="p320-1" n="320-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/320-1.jpg"/>
+      <fw type="pageNum" place="right">320</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">5</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">33</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">323</del></fw>
+      <l>былъ раввиномъ</l>
+      <l>принималъ подарки</l>
+      <l><del rend="overstrike">когда</del> естли ему давали,</l>
+      <l>а особливо онъ ради сего</l>
+      <l>единственно <del rend="overstrike">для того и на</del></l>
+      <l>и нанималъ<note place="end">вероятно, "нанимал"</note> раввинство.</l>
+    </p>
+    <p>
+      <l>17.</l>
+      <l>Потому что онъ вѣдаетъ,</l>
+      <l>что не докажетъ</l>
+      <l>то онъ и предостерегся, говоря</l>
+      <l>что онъ <del rend="overstrike">только</del> объ всемъ томъ только слышалъ.</l>
+    </p>
+    <p>
+      <l>18</l>
+      <l>Евреи жители города Луцка,</l>
+      <l>суть также врагами нашими,</l>
+      <l>которыя чинили великія</l>
+      <l>гонѣнія <orgName ref="Хасиды">хоседамъ</orgName> живущимъ</l>
+      <l>въ мѣстечке ляховцы, такъ какъ</l>
+      <l>небезизвѣстно о чемъ изъ</l>
+      <l>опредѣленія <del rend="overstrike">заключеннаго</del></l>
+      <l>
+        <del rend="overstrike">въ <unclear>???</unclear></del>
+        <hi rend="superscript">въ минскомъ</hi>
+      </l>
+      <l>губернскомъ правленіи</l>
+      <l>по сему предмету</l>
+      <l>заключеннаго.</l>
+    </p>
+    <pb xml:id="p320-2" n="320-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/320-2.jpg"/>
+    <fw type="pageNum">320 об.</fw>
+    <p>
+      <l>19</l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
+      <l>великое бремя чувствую снося</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> толикія его клеветы</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> и лъжи,</l>
+      <l>изобрѣтая на насъ разныя <del rend="overstrike">неслыханныя</del> <del rend="overstrike">преданія</del></l>
+      <l>несправедливыя преданія<note place="end">здесь переводчик не справился с записью слова, разнес его на две
+      строки, но все равно ошибся</note> подобныхъ которымъ никогда не слышно было<note place="end">далее текст
+      продолжается вставкой на правом поле страницы</note></l>
+      <fw type="note" place="right margin">
+        <l>какъ только въ давныя</l>
+        <l>времена въ <placeName ref="Польша">польшѣ,</placeName></l>
+        <l>гдѣ <del rend="overstrike">было</del> католи-</l>
+        <l>ческія духовники бывало нападаютъ</l>
+        <l>на евреевъ, напримѣръ, предна</l>
+        <l>чиная будьто евреи</l>
+        <l>имѣютъ нужду въ</l>
+        <l>христіанской крови</l>
+        <l>на праздникъ назы</l>
+        <l>ваемой пеисахъ</l>
+        <l>и про</l>
+        <l>чія</l>
+        <l>сему подобныя</l>
+        <l>и много без-</l>
+        <l>винной крови</l>
+        <l>евреев тогда проли</l>
+        <l>валось въ <placeName ref="Польша">польшѣ</placeName></l>
+      </fw>
+      <l>Онъ <persName ref="Авигдор">хаимовичъ</persName> хотя самъ того</l>
+      <l>не слыхалъ и не видалъ; но</l>
+      <l>что ему воспрѣщаетъ? будучи</l>
+      <l>свободнымъ распространяетъ</l>
+      <l>усты и языкъ свой по своему</l>
+      <l>хотѣнію. Самъ онъ признается</l>
+      <l>что только всѣ якобы слышалъ. <del rend="overstrike">и естли</del></l>
+      <l>и естли бы въ самом дѣлѣ было такъ.</l>
+      <l>о можно ли. <del rend="overstrike">о!</del> увы!</l>
+      <l>и совѣстно ли ему услышавши что ни</l>
+      <l>будь и не удостовѣрясь еще и самъ</l>
+      <l>о справедливости онаго, не</l>
+      <l>старался изслѣдовать оное</l>
+      <l>но еще учрежденнья <del rend="overstrike">началь</del></l>
+      <l>правительства, затрудняетъ</l>
+      <l>
+        <del rend="overstrike"><unclear>???</unclear></del>
+        <emph rend="big">особу его имва</emph><note place="end">общепринятая аббревиатура - Его Императорского
+        Величества</note>
+      </l>
+      <l>которыя <del rend="overstrike">обременяетъ безъдостовѣрно</del> инако какъ объ извѣ</l>
+      <l>стномъ и единственно отъ</l>
+      <l>защиты ея зависящимъ</l>
+      <l>дѣлѣ, затруднять вѣрно</l>
+      <l>подданный и любезный сынъ</l>
+      <pb xml:id="p321-1" n="321-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/321-1.jpg"/>
+      <fw type="pageNum" place="right">321</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">34</del></fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">324</del></fw>
+      <l>отечества <del rend="overstrike">затруднять не</del> долженствуетъ?</l>
+      <l><del rend="overstrike">въпрочемъ я <unclear>???</unclear></del></l>
+      <l><del rend="overstrike">всемилостиѣйшій Государ</del></l>
+      <l>въпрочемъ я обнадеженъ <del rend="overstrike">и я <unclear>???</unclear></del></l>
+      <l>на высочайшую милость</l>
+      <l><emph rend="big">Его имва</emph><note place="end">Его ИМператорского Величества</note> и снисхожденіе</l>
+      <l>что <del rend="overstrike">проницательные</del> <hi rend="superscript"><emph rend="big">око всемилостивѣйшаго
+      </emph></hi></l>
+      <l><emph rend="big">Государя нашего</emph></l>
+      <l>призритъ нищаго <del rend="overstrike">изъ</del> съ <emph rend="big">высо <lb/>
+       чайшаго Престола</emph>, и про</l>
+      <l>никнѣтъ истину и меня невино</l>
+      <l>страждущаго избавитъ.</l>
+    </p>
+    <pb xml:id="p321-2" n="321-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/321-2.jpg"/>
+  </body></text>
+</TEI>

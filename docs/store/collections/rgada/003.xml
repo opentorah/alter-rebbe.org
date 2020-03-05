@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Чечерский">Чечерский</persName></author>
+        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Копия жалобы <persName ref="Чечерский">Чечерского</persName> на взяточничество секретарей <orgName
+          ref="Литовское_губернское_правление">Литовского губернского правления</orgName>, датировка, адресат и
+          отдельные фрагменты текста которой совпадают с аналогичными элементами доноса на <persName ref="alter-rebbe">
+          Шнеура Залмана</persName>
+        </p>
+        <p>
+          Оригинал см. здесь: <ref target="http://www.alter-rebbe.org/collections/rgada/documents/015.html">015</ref>
+        </p>
+      </abstract>
+      <creation><date when="1798-08-11">11 августа 1798</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p003-1" n="003-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/003-1.jpg"/>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="docNum" place="left">№ 1763 <hi rend="superscript">й</hi></fw>
+    <fw><date when="1798-08-11">11 <hi rend="superscript">го</hi> Августа 1798<hi rend="superscript">го</hi>.</date>
+    </fw>
+    <fw type="note" place="`right">По секрету.</fw>
+    <fw type="pageNum" place="`right">3.</fw>
+    <p>
+      <l><salute>Сиятельнейший Князь <lb/>
+         Милостивѣйший Государь!<note place="end">Адресатом являлся канцлер А.А. Безбородко, получивший титуля "князь" и "светлость" в 1797 г.</note></salute>
+      </l>
+      <l>Будучи я повѣреннымъ ходателемъ</l>
+      <l>отъ <placeName ref="Вильно">виленскихъ</placeName> Ксензовъ доминикановъ</l>
+      <l>по дѣлу съ шляхтичемъ Рымшею, въ бывшемъ</l>
+      <l>верховномъ <orgName ref="Литовское_губернское_правление">Литовскомъ правленіи</orgName> подъ пред-</l>
+      <l>сѣдательствомъ Князя Репнина присудство-</l>
+      <l>вавшіе <persName ref="Фризель">Фризель</persName> <persName ref="Волков">Волковъ</persName> напослѣдокъ</l>
+      <l>Багмевской секретари Тарковски и Мань-</l>
+      <l>ковски взявъ болѣе 12000 рублей за рѣше-</l>
+      <l>ніе на возвратъ имѣнія ксензамъ, но какъ</l>
+      <l>въ <orgName ref="Сенат">Сенатѣ</orgName> оное их рѣшеніе опровергнуто</l>
+      <l>и велѣно возвратить имѣніе шляхтичу</l>
+      <l>Рымше, слѣдовательно, оные деньги 12.000</l>
+      <l>рублей, взятые ими должны быть возвра-</l>
+      <l>щены. Того ради вашему Сіятельству</l>
+      <l>симъ донеся, всепокорнѣйше прошу предло-</l>
+      <l>жить <orgName ref="Сенат">Сенату</orgName> или СанктПетербургской</l>
+      <l>Уголовной Палатѣ о изслѣдованіи и по-</l>
+      <l>ступленіи съ виновными по законамъ,</l>
+      <l><pb xml:id="p003-2" n="003-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/003-2.jpg"/> <fw
+      type="pageNum">3об.</fw> а о взысканіи оныхъ денегъ хотя пополамъ</l>
+      <l>въ казну чрезъ докладъ и донесеніе вашего</l>
+      <l>Сіятельства <emph rend="big">Его Императорскому Величе- <lb/>
+       ству</emph>, на что и ожидать имѣю повелитель-</l>
+      <l>ной резолюціи.</l>
+      <l>Вашего Сіятельства</l>
+      <l>Милостивѣйшаго Государя</l>
+      <l>всепокорнѣйшій и нижайшій слуга</l>
+      <l>Ксензъ <persName ref="Чечерский">Чечерскій</persName><note place="end">В кн. В. Масяжа "История костела и
+      польской диаспоры в Тобольске 1838-1922 гг."
+      (https://m.fictionbook.ru/author/vladislav_masyaj/istoriya_kostela_i_polskoyi_diasporyi_v_/read_online.html?page=2)
+      сообщается, что ксендз Ф. Чечерский с 1797 по 1801 г. находился с сибирской ссылке: "Среди ссыльных конца XVIII
+      века, во времена царя Павла I, времени первых подпольных организаций и поддержки легионов, образованных в Италии,
+      наиболее выдающимся был ксендз Фаустын Чечерский, приор доминиканцев виленских (1760-1832 гг.). Он был связан с
+      Львовским подпольем, арестован и осужден в 1797 г. на Нерчинскую каторгу вместе с 12 соотечественниками...
+      Поляков, сосланных при Павле I, освободил указ Александра I от 15(27) марта 1801 г.". Не исключено, что автор трех
+      писем на имя Безбородко лишь воспользовался для подписи именами Гирша Давыдовича и Ф. Чечерского, но на деле был
+      сторонней фигурой и даже не виленским жителем</note>.</l>
+    </p>
+  </body></text>
+</TEI>

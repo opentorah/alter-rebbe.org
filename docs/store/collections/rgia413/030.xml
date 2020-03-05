@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Мовша_Ошерович">Моеша Ошеровичъ</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>Просьба на имя императора от старшины <orgName ref="Виленский_кагал">виленского кагала</orgName></p>
+      </abstract>
+      <creation><date when="1799-03-21">21 марта 1799 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p030-1" n="030-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/030-1.jpg"/>
+    <fw type="docNum" place="left">№497</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">40</del></fw>
+    <fw type="pageNum" place="right">30</fw>
+    <fw type="note">Подана <date when="1799-03-21">21 марта 1799 года</date></fw>
+    <p><emph rend="big"><l>Всепресвѣтлейшій державнѣйшій великій</l> <l>Государь Императоръ <persName ref="Павел_I">
+    Павелъ Петровичъ</persName> само</l> <l>держецъ всероссийскій Государь всемилости</l> <l>вѣйшій</l></emph>.</p>
+    <p>
+      <l>Проситъ <placeName ref="Вильно">виленскій</placeName> купецъ отрѣшенный от старшинства кагальнаго</l>
+      <l><persName ref="Мовша_Ошерович">Мовша Ошеровичъ</persName>, а о чемъ тому слѣдуютъ пункты.</l>
+    </p>
+    <p>
+      <fw type="paragraph" place="center">1 <hi rend="superscript">е</hi></fw>
+      <l>По поданному отъ меня прошлаго <date when="1799-02-09">февраля 9 <hi rend="superscript">го</hi> числа</date> въ
+      <orgName ref="Литовское_губернское_правление">Литовское Губернское <lb/>
+       правлѣніе</orgName> прошенію, коимъ просилъ я о пришествіи въ школу Г <hi rend="superscript">на</hi> Совѣтника
+      <persName ref="Елиашевич">Еліа <lb/>
+       шевича</persName> съ Господиномъ Комендантомъ генераломъ-майоромъ <persName ref="Капцевич">
+      Капцевичемъ</persName>,</l>
+      <l>Казначеемъ Сербикаличемъ и плацъ-майоромъ Палкинымъ, равно и о произше</l>
+      <l>ствіи во время богомоленія послѣдовавшемъ и о разныхъ обидахъ <orgName ref="Виленский_кагал">кагалу</orgName> и
+      духов</l>
+      <l>ному суду причиненныхъ, учинить нам законами постановленное удовольствіѣ.</l>
+      <l>На таковое мое прошеніе <orgName ref="Литовское_губернское_правление">Литовское Губернское Правлѣніе</orgName>
+      никакой не дало</l>
+      <l>резолюціи; но <placeName ref="Вильно">виленской</placeName> комендантъ и кавалеръ <persName ref="Капцевич">
+      Капцевичъ</persName>, созвалъ сего</l>
+      <l><date when="1799-03-15">15 <hi rend="superscript">го</hi> марта</date> <orgName ref="Виленский_кагал">
+      виленскаго кагала</orgName> и доходнаго сада членовъ и учинилъ неко</l>
+      <l>торымъ же допросы, которые показали разнообразно.</l>
+    </p>
+    <p>
+      <fw type="paragraph" place="center">2 <hi rend="superscript">е</hi></fw>
+      <fw type="note">???<note place="end">слово на иврите</note></fw>
+      <l>Я яко Старшій и повѣренный уничтоженнаго <orgName ref="Виленский_кагал">кагала виленскаго</orgName> и духовнаго
+      </l>
+      <l>суда отъ некоторыхъ членовъ и будучи самъ во время бывшаго въ школе</l>
+      <l>проізшествія обиженъ не могу на тѣ допросы согласится во первых потому,</l>
+      <l>что Господинъ Комендантъ <persName ref="Капцевич">Капцевичъ</persName> во время перваго произшествія въ</l>
+      <l>нашей школе и самъ с Г <hi rend="superscript">мъ</hi> Совѣтникомъ <persName ref="Елиашевич">Еліашевичемъ
+      </persName> находился, и также</l>
+      <l>не допущалъ окончить нашего Богомоленія также есть въ дружбѣ съ</l>
+      <l>Г <hi rend="superscript">мъ</hi> <persName ref="Елиашевич">Еліашевичемъ</persName> и <orgName ref="Хасиды">
+      Каролинамъ</orgName> дѣлаетъ всякую помощь, какъ видно изъ</l>
+      <l>прилагаемого свидѣтельства о другомъ произшествіи въ школѣ по</l>
+      <l>слѣдовавшемъ <date when="1799-03-10">10 марта</date>, во вторыхъ ето тѣ допросы, кои отоб-</l>
+      <l>раны комендантомъ отъ кагальныхъ членовъ были въ бытность изъ</l>
+      <l><orgName ref="Хасиды">каролиновъ</orgName> полицейскіхъ факторовъ<note place="end">т.е. агентов</note> и
+      <persName ref="Нохим_Ицкович">Нохима Ицковича</persName> людей,</l>
+      <l>которыя своими угрозами и по недоброжелательству къ <orgName ref="Виленский_кагал">кагалу</orgName> же</l>
+      <l>донощали и препятствовали надлежаще показать; въ третьихъ</l>
+      <l>таковыхъ некоторыхъ особо допрашивалъ онъ господинъ-Комендантъ</l>
+      <pb xml:id="p030-2" n="030-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/030-2.jpg"/>
+      <note type="gloss"><placeName ref="Литва">Литовской</placeName> казенной палаты</note>
+      <l>кои есть со мною въ ссорѣ и похваляются къ наступленію</l>
+      <l>и лишению меня жизни, что я доказать могу чрезъ все ви-</l>
+      <l>ленское общество; въ четвертыхъ Г <hi rend="superscript">нъ</hi> Комендантъ допрашивалъ</l>
+      <l>только однихъ кагальныхъ и духовныхъ членовъ, въ то же время</l>
+      <l>какъ послѣдовало въ школѣ оное произшествіе множество людей</l>
+      <l>находилось, которыя могутъ доказать и оправдать всѣ пункты</l>
+      <l>изъясненныя въ первоподанной отъ меня прозьбѣ; Для того всепод-</l>
+      <l>даннѣйше прошу.</l>
+      <fw type="note">???<note place="end">слово на иврите</note></fw>
+    </p>
+    <p>
+      <l>Дабы <emph rend="big">высочайшимъ вашего императорскаго величества</emph></l>
+      <l>указомъ повѣлено было сіе мое прошеніе въ <orgName ref="Литовское_губернское_правление">Литовскомъ Губернскомъ
+      <lb/>
+       правлѣніи</orgName> принято и слѣдствіе которое учинено Г <hi rend="superscript">м</hi> Комендантомъ</l>
+      <l>яко незаконное оставить безъ дѣйствія; какъ же родъ таковыхъ</l>
+      <l>дѣлъ каково есть наше должно разбиратся и быть оконченнымъ</l>
+      <l>въ формальномъ судѣ, то и отослать все производство дѣла</l>
+      <l>для учиненія законнаго изслѣдованія и решенія въ надлежащій</l>
+      <l>судъ; съ поданныхъ же мною въ <orgName ref="Литовское_губернское_правление">Литовское Губернское прав <lb/>
+       леніе</orgName> <date when="1799-02-09">9 <hi rend="superscript">го</hi> февраля</date> и нынѣшней прозьбъ, равно
+      и послѣдовав</l>
+      <l>шихъ на оное резолюціи выдать мнѣ надлежащія</l>
+      <l>копіи.</l>
+      <fw type="note">???<note place="end">слово на иврите</note></fw>
+    </p>
+    <p>
+      <l><emph rend="big">всемилостивѣйший государь</emph>. Прошу вашего <emph rend="big">импе- <lb/>
+       раторскаго величества</emph> о семъ моемъ прошеніи</l>
+      <l>рѣшеніе учинить <date when="1799-03-21">марта 21 <hi rend="superscript">го</hi> дня 1799 <hi rend="superscript"
+      >го</hi> года</date> къ подачѣ</l>
+      <l>надлежитъ въ <orgName ref="Литовское_губернское_правление">Литовское Губернское Правлѣніе</orgName>.</l>
+      <fw type="note">???<note place="end">строка на иврите</note></fw>
+    </p>
+  </body></text>
+</TEI>

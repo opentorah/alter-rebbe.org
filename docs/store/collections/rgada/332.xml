@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сопроводительный документ ("вид"), выданный <persName ref="alter-rebbe">Шнеуру Залману</persName> при выезде из
+        <placeName ref="Петербург">Петербурга</placeName> для передачи в канцелярию <placeName ref="Белоруссия">
+        Белорусского</placeName> гражданского губернатора
+      </p></abstract>
+      <creation><date when="1801-03-28">марта 28 дня 1801 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p332-1" n="332-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/332-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">335</del></fw>
+    <fw type="pageNum" place="right">332</fw>
+    <fw type="docNum" place="left margin">№ 36</fw>
+    <p>
+      <l>Объявитель сего еврей <persName ref="alter-rebbe">Зальманъ Бору- <lb/>
+       ховичъ</persName> находившись здѣсь по некоторымъ</l>
+      <l>
+        <del rend="overstrike">дѣлу нынѣ по ненадобности въ немъ.</del>
+        <hi rend="superscript">надобностямъ нынѣ по высочайшему Государя импе</hi>
+      </l>
+      <l><hi rend="superscript">ратора повеленію</hi> живущему въ домѣ его состоящей въ</l>
+      <l><placeName ref="Белоруссия">Белоруской губерніи</placeName> <hi rend="superscript">въ местечѣ <placeName
+      ref="Лозна">ліознѣ</placeName></hi> съ тѣмъ, чтобы</l>
+      <l>онъ по прибытіи въ <placeName ref="Витебск">витебскъ</placeName></l>
+      <l>явился съ симъ <hi rend="superscript">видомъ</hi> у Белорускаго Г <hi rend="superscript">на</hi></l>
+      <l>Гражданскаго Губернатора <del rend="overstrike">Госпо</del></l>
+      <l><del rend="overstrike">дина</del> Къ которому будетъ писано. Тайнаго Совѣтника <persName ref="Тарабеев">Тар-
+      <lb/>
+       бѣева</persName> <placeName ref="Петербург">С.п.бургъ</placeName> <date when="1801-03-28">марта 28 дня <lb/>
+       1801. года</date></l>
+    </p>
+    <pb xml:id="p332-2" n="332-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/332-2.jpg"/>
+  </body></text>
+</TEI>

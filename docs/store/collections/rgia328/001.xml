@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Оленин">Оленину</persName> о
+        предложениях по делу <orgName ref="Виленский_кагал">виленского кагала</orgName>
+      </abstract>
+      <creation><date when="1800-06-21">21 июня 1800 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Оленин" role="addressee">Оленину</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/001-1.jpg"/>
+    <fw type="note">къ исполненію</fw>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="note" place="right">получено <date when="1800-06-21">21 июня 1800. года.</date></fw>
+    <fw type="note">Его высокородію Репьеву</fw><note place="end">вероятно, имеется в виду Иван Николаевич Репьев, с
+    июня 1800 г. – председатель 1-го Департамента <placeName ref="Петербург">Санкт-Петербургской</placeName> Палаты суда
+    и расправы</note><note place="end">вписано другим почерком и другим пером</note>
+    <l><salute>высокородному и превосходительному <orgName ref="Сенат">правитель- <lb/>
+       ствующаго Сената</orgName> 3 <hi rend="superscript">го</hi> Департамента Г <hi rend="superscript">ну</hi> Оберъ <lb/>
+       Прокурору и Кавалеру <persName ref="Оленин">Оленину.</persName></salute></l>
+    <p>
+      <l>Господинъ Генералъ отъ инфантеріи управляющій</l>
+      <l>по гражданской части въ <placeName ref="Литва">Литовской Губерніи</placeName> и</l>
+      <l>Кавалеръ <persName ref="Кутузов">Голенищевъ Кутузовъ</persName> въ отношеніи ко</l>
+      <l>мнѣ описывая обстоятельствы, слѣдствія объ</l>
+      <l>открывшихся со стороны отрешенныхъ <orgName ref="Виленский_кагал">виленскаго <lb/>
+       Кагала</orgName> старшинъ, въ самовольномъ зборѣ съ евреевъ</l>
+      <l>денегъ и въ таковомъ же ихъ употребленіи, въ утай-</l>
+      <l>кѣ при ревизіи немалаго числа душъ, и другихъ</l>
+      <l>злоупотребленіяхъ, по которому между членами</l>
+      <l><orgName ref="Литовское_губернское_правление">Губернскаго правленія</orgName> вышло несогласіе, препро-</l>
+      <l>водилъ ко мнѣ представленіе того правленія,</l>
+      <l>съ прежде бывшими резолюціями по части злоупот-</l>
+      <l>ребленій, своевольства и беспорядковъ отрешен-</l>
+      <l>ныхъ <orgName ref="Виленский_кагал">кагальныхъ старшинъ</orgName> требуетъ разрѣше-</l>
+      <l>нія, для взысканія слѣдующей въ казну недоимки</l>
+      <l><note place="end">левый край листа оборван</note>ловныхъ съ евревъ податей. Означенное</l>
+      <l><note place="end">левый край листа оборван</note>ина <persName ref="Кутузов">Голенищева Кутузова</persName>
+      отношеніе</l>
+      <l><note place="end">левый край листа оборван</note>ложеніями, препровождая къ вашему пре-</l>
+      <l><note place="end">левый край листа оборван</note>ельству орегиналомъ<note place="end">так в оригинале</note>,
+      рекомендуя пред</l>
+      <l><note place="end">левый край листа оборван</note>ныя на благоразсмотреніе правитель-</l>
+      <l>
+        <note place="end">левый край листа оборван</note>
+        <orgName ref="Сенат">Сенату</orgName>
+      </l>
+      <l><note place="end">левый край листа оборван</note>полѣ подписалъ: Генералъ Прокуроръ <signed><persName
+      ref="Обольянинов">Обольяниновъ</persName></signed></l>
+      <note place="end">две нижних строки, вписанных другим почерком, затерты и нечитабельны</note>
+    </p>
+    <pb xml:id="p001-2" n="001-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/001-2.jpg"/>
+  </body></text>
+</TEI>

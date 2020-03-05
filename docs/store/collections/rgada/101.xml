@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>Перевод с польского протокола допроса Лейба Мееровича</p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p101-1" n="101-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/101-1.jpg"/>
+    <fw type="docNum">№5</fw>
+    <fw type="note" place="right"><ref target="../documents/102.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">101.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Лейба_Меіерович">Лейбы Меіеровича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Лейба_Меіерович">Лейба Меіровичъ</persName>, отъ роду имѣю</l> <l>30 лѣтъ, родился в мѣстечкѣ
+      <placeName ref="Гродзен">Гродзень</placeName>,</l> <l>имѣю пропитаніе отъ даванія денегъ</l> <l>въ ростъ; в городѣ
+      <placeName ref="Вильно">Вилнѣ</placeName> живу съ</l> <l>17 <hi rend="superscript">ти</hi> лѣтъ, женатъ, имѣю дочь
+      Сору;</l> <l>третей годъ тому какъ вступилъ въ</l> <l><orgName ref="Хасиды">Каролинскую секту</orgName>, и на сіе
+      рѣшился</l> <l>въ <placeName ref="Вильно">Вильне</placeName>, отъ чтенія книги <emph rend="underline">Таніи</emph>
+      </l> <l>изданной <persName ref="alter-rebbe">лозинскимъ рабиномъ</persName> и</l> печатанной въ <l><placeName
+      ref="Словита">Словитѣ</placeName>, на <placeName ref="Украйна">Украйнѣ</placeName>;</l> <l>уже три года тому какъ
+      я былъ</l> <l>у него въ первой разъ; во второй же</l> <l>разъ былъ съ здѣшними евреями,</l> <l>означенными въ
+      допросѣ <persName ref="Арон_Беркович">Арона Бер- <lb/>
+       ковича</persName>; я ѣздилъ къ нему един-</l> <l>ственно для того, чтобы узнать</l> <l>о его мудрости. <orgName
+      ref="Хасиды">Секта каролин <lb/>
+       ская</orgName> отъ древнихъ евреевъ ни въ чемъ</l> <l>другом не разнествуетъ, какъ толь-</l> <l>ко въ томъ, что
+      они другимъ обра-</l> <l>зомъ обряды отправляютъ, и мо-</l> <l>лятся гласно, дабы въ часъ молитвы</l> <l>никакими
+      другими мыслями не</l> <l>разсѣваться. Начальникъ сей секты</l> <l><placeName ref="Лозна">Лозинской</placeName>
+      <persName ref="alter-rebbe">рабинъ Саломонъ Борухъ</persName> <lb/>
+       <note type="gloss">|: или <persName ref="alter-rebbe">Зелманъ Боруховичъ</persName> :|</note>, потому</l> <l>что
+      онъ имѣетъ великія познанія</l> <pb xml:id="p101-2" n="101-2"
+      facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/101-2.jpg"/> <fw type="pageNum">101об.</fw> <l>и есть
+      учителемъ <orgName ref="Хасиды">секты</orgName>. Къ <orgName ref="Хасиды">каро- <lb/>
+       линской сектѣ</orgName> принадлежатъ всѣ</l> <l>тѣ, кои помѣщены въ реестрѣ мнѣ</l> <l>читанномъ, а прочихъ же не
+      знаю; о</l> <l><persName ref="Арон">Аронѣ</persName> и <persName ref="Соломон">Саломонѣ</persName> слышалъ, что
+      они</l> <l>также <orgName ref="Хасиды">каролины</orgName>, но я и ихъ не знаю.</l> <l><orgName ref="Хасиды">
+      Каролинская секта</orgName> возобновлена</l> <l>въ <placeName ref="Вильно">Вилнѣ</placeName> прибывшимъ <persName
+      ref="Орлик_Мовшович">Орликомъ</persName>,</l> <l>котораго наукѣ последовали <persName ref="Меер_Рафалович">Меіеръ
+      <lb/>
+       Рафаловичъ</persName> и <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName>;</l> <l>я же вступилъ в эту
+      секту по-</l> <l>тому что <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName> объ-</l> <l>явилъ
+      покровитьельство и помочь</l> <l>въ размноженіи секты, когда же</l> <l>я узналъ, что Господинъ губерна-</l> <l>
+      торъ недоволенъ ею, то я ее и оста</l> <l>вилъ</l>. <l><signed>Подписалъ <persName ref="Лейба_Меіерович">Лейба
+      Мейеровичъ</persName>.</signed></l>
+    </p>
+  </body></text>
+</TEI>
