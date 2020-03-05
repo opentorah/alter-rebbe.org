@@ -15,12 +15,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>
-        <p>
-          Рапорт <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольянинов">Обольянинову</persName> об
-          отсутсвии антиправительственных намерений у <orgName ref="Хасиды">хасидов</orgName>
-        </p>
-      </abstract>
+      <abstract><p>
+        Рапорт <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольянинов">Обольянинову</persName> об
+        отсутсвии антиправительственных намерений у <orgName ref="Хасиды">хасидов</orgName>
+      </p></abstract>
       <creation><date when="1800-10-10">10 октября 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
@@ -59,7 +57,7 @@
       <l><signed><persName ref="Хрущов">Хрущовъ</persName></signed></l>
     </p>
     <closer place="left">
-      <l><date when="1800-10-10">10 октября<lb/>
+      <l><date when="1800-10-10">10 октября <lb/>
        1800 года</date></l>
       <l><placeName ref="Петербург">С. Петербургъ</placeName></l>
     </closer>

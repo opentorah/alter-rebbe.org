@@ -15,12 +15,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>
-        <p>
-          Письмо <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName> об
-          удовлетворении жалобы <persName ref="Авигдор">Авигдора</persName>
-        </p>
-      </abstract>
+      <abstract><p>
+        Письмо <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName> об
+        удовлетворении жалобы <persName ref="Авигдор">Авигдора</persName>
+      </p></abstract>
       <creation><date when="1800-10-03">октября 3 дня 1800 года.</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
@@ -32,8 +30,8 @@
     <pb xml:id="p260-1" n="260-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/260-1.jpg"/>
     <fw type="pageNum" place="right"><del rend="overstrike">265</del></fw>
     <fw type="pageNum" place="right">260</fw>
-    <salute><l>Милостивой государь мой <persName ref="Кутузов">Михайло<lb/>
-       Ларiоновичъ</persName>!</l></salute>
+    <salute><l>Милостивой государь мой <persName ref="Кутузов">Михайло <lb/>
+     Ларiоновичъ</persName>!</l></salute>
     <p>
       <l>По принесенной отъ бывшаго Еврейскаго оберъ</l>
       <l>рабина <persName ref="Авигдор">Хайма</persName> жалобѣ, что онъ</l>
@@ -64,7 +62,7 @@
     </p>
     <closer place="left">
       <l><fw type="docNum">№766 <hi rend="superscript">й</hi></fw></l>
-      <l><date when="1800=10-03">октября 3 дня<lb/>
+      <l><date when="1800=10-03">октября 3 дня <lb/>
        1800</date></l>
       <l><fw>Его высокопр <hi rend="superscript">ву</hi> <persname ref="Кутузов">Голенищеву Кутузову</persname></fw></l>
     </closer>

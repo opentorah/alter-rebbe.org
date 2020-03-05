@@ -14,14 +14,11 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>
-        <p>
-          Доклад Лопухина <persName ref="Павел_I">императору</persName>, основанный на сообщении <persName
-          ref="Булгаков">Булгакова</persName> (<ref
-          target="http://www.alter-rebbe.org/collections/rgada/documents/013.html">013</ref>) о подложном доносе,
-          подписанном именем ксендза <persName ref="Чечерский">Чечерского</persName>
-        </p>
-      </abstract>
+      <abstract><p>
+        Доклад Лопухина <persName ref="Павел_I">императору</persName>, основанный на сообщении <persName ref="Булгаков">
+        Булгакова</persName> (<ref target="http://www.alter-rebbe.org/collections/rgada/documents/013.html">013</ref>) о
+        подложном доносе, подписанном именем ксендза <persName ref="Чечерский">Чечерского</persName>
+      </p></abstract>
       <creation><date when="1798-09-27">27 сентября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,8 +26,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p016-1" n="016-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/016-1.jpg"/>
-    <head><l>О пасквильномъ доносѣ<lb/>
-       Ксенза Чечерскаго.</l></head>
+    <head><l>О пасквильномъ доносѣ <lb/>
+     Ксенза Чечерскаго.</l></head>
     <fw type="pageNum" place="right"><del rend="overstrike">431</del></fw>
     <fw type="pageNum" place="right">16.</fw>
     <fw type="note" place="left margin">донѣсено. <date when="1798-09-27">27. сентября 1798.</date></fw>
@@ -60,7 +57,7 @@
       <l><pb xml:id="p016-2" n="016-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/016-2.jpg"/> <fw
       type="pageNum">16 об.</fw> окажутся виновные, то для поступ-</l>
       <l>ленія по законмъ отослать къ суду.</l>
-      <l>Въ слѣдствіе чего Губернаторъ Булга-<lb/>
+      <l>Въ слѣдствіе чего Губернаторъ Булга- <lb/>
        ковъ увѣдомляетъ, что сіе письмо</l>
       <l>по строгомъ изслѣдованіи нашолъ онъ</l>
       <l>подложнымъ, ибо ходатаемъ по означен-</l>

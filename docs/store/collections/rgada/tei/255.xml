@@ -15,12 +15,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>
-        <p>
-          Приказ <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Хрущов">Хрущову</persName> о
-          возвращении в <placeName ref="Петербург">Петербург</placeName>
-        </p>
-      </abstract>
+      <abstract><p>
+        Приказ <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Хрущов">Хрущову</persName> о
+        возвращении в <placeName ref="Петербург">Петербург</placeName>
+      </p></abstract>
       <creation><date when="1800-09-19">1800-09-19</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <correspDesc><correspAction><persName ref="Хрущов" role="addressee">Хрущову</persName></correspAction>
@@ -33,9 +31,9 @@
       <l><pb xml:id="p255-1" n="255-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/255-1.jpg"/> <fw
       type="pageNum" place="right">255</fw> <fw type="pageNum" place="right"><del rend="overstrike">260</del></fw>
       Государь мой <persName ref="Хрущов">Петръ Николаевичъ</persName>!</l>
-      <l>По донесенiю вашему от <date when="1800-09-10">10 <hi rend="superscript">го</hi> сего<lb/>
+      <l>По донесенiю вашему от <date when="1800-09-10">10 <hi rend="superscript">го</hi> сего <lb/>
        Сентября</date> о <orgName ref="Хасиды">Сектѣ Каролиновъ</orgName> всепод-</l>
-      <l>даннѣйше докладывалъ я <persName ref="Павел_I">Государю<lb/>
+      <l>даннѣйше докладывалъ я <persName ref="Павел_I">Государю <lb/>
        Императору</persName> и в слѣдствiе высо-</l>
       <l>чайшаго <emph rend="big">Его в <hi rend="superscript">а</hi></emph> повелѣнiя рекомен-</l>
       <l>дую вамъ, по полученiи сего возвра-</l>
@@ -47,7 +45,7 @@
     <closer place="left">
       <fw type="docNum">№737й</fw>
       <fw>Гатчино</fw>
-      <date when="1800-09-19"><l>Сентября 19 <hi rend="superscript">го</hi> дня<lb/>
+      <date when="1800-09-19"><l>Сентября 19 <hi rend="superscript">го</hi> дня <lb/>
        1800 года</l></date>
       <fw>Его высокобл. <persName ref="Хрущов">Хрущову</persName>.</fw>
     </closer>
