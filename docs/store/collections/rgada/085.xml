@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>?</author>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        черновик пропуска, выданного <persName ref="alter-rebbe">Шнеуру Залману</persName> для его возвращения в
+        <placeName ref="Лозна">Лиозно</placeName>
+      </p></abstract>
+      <creation><date when="1798-11-17">17 ноября 1798</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p085-1" n="085-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/085-1.jpg"/>
+    <fw type="pageNum" place="right">85.</fw>
+    <fw type="docNum" place="left margin">№ 929<hi rend="superscript">й</hi>.</fw>
+    <p>
+      <l>Объявит <supplied reason="implied">ель</supplied> сего еврей рабинъ <persName ref="alter-rebbe">Залманъ <lb/>
+       Боруховичъ</persName> находившійся здѣсь <hi rend="superscript">по нѢкоторому дѢлу</hi> нынѣ</l>
+      <l>по <del rend="overstrike"><unclear>???</unclear> болѣе нетъ</del></l>
+      <l>надобности <hi rend="superscript">въ немъ</hi>, отпущенъ въ домъ</l>
+      <l>его состоящiй въ <placeName ref="Белоруссия">белорусской <lb/>
+       губерніи</placeName>, <del rend="overstrike">куда для свободн</del> съ</l>
+      <l>темъ чтобы онъ по прибытіи</l>
+      <l>в <placeName ref="Витебск">Витебскъ</placeName> явился съ нимъ</l>
+      <l>у <placeName ref="Белоруссия">белорускаго</placeName> гражданскаго</l>
+      <l>губернатора господина тай</l>
+      <l>наго совѣтника <del rend="overstrike">боруховича</del></l>
+      <l><persName ref="Жегулин">Жегулина</persName>. <date when="1798-11-17">Ноября.17.дня 1798</date>.</l>
+    </p>
+    <pb xml:id="p085-2" n="085-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/085-2.jpg"/>
+  </body></text>
+</TEI>

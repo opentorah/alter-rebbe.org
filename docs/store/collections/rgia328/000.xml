@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <orgName ref="Сенат">Сенатское</orgName> дело о <orgName ref="Виленский_кагал">виленских кагальных старшинах
+        </orgName>
+      </abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <head>
+      <l/>
+      <l>
+        <pb xml:id="p000-1" n="000-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/000-1.jpg"/>
+        <fw type="note" place="right">ІІ</fw>
+        <emph rend="big"><orgName ref="Сенат">Правительствующаго сената</orgName></emph>
+      </l>
+      <l>отдѣленія 3 департамента</l>
+      <l><emph rend="big">дѣло</emph></l>
+      <l>О <orgName ref="Виленский_кагал">виленскихъ Кагальныхъ</orgName> стар-</l>
+      <l>шинахъ</l>
+      <l>1800 года</l>
+      <l>№ 328</l>
+    </head>
+    <pb xml:id="p000-2" n="000-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/000-2.jpg"/>
+  </body></text>
+</TEI>

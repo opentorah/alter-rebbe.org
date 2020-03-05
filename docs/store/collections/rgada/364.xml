@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Северин">Северин</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение <persName ref="Северин">Северина</persName> <persName ref="Обольянинов">Обольянинову</persName> о
+        получении письма, касающегося изътия книг и бумаг <persName ref="alter-rebbe">Шнеура Залмана</persName>
+      </p></abstract>
+      <creation><date when="1800-12-16">Декабря. 16 дня 1800 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p364-1" n="364-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/364-1.jpg"/>
+    <fw type="note" place="left">Секретно</fw>
+    <fw type="docNum" place="left">№ 1856.</fw>
+    <date when="1800-12-23">23 декабря 1800 <hi rend="superscript">го</hi></date>
+    <fw type="pageNum" place="right">364</fw>
+    <p>
+      <l><salute>ваше высокопревосходительство <lb/>
+         Милостивый Государь!</salute></l>
+      <l>вашего высокопревосходительства секретное от-</l>
+      <l>ношеніе отъ<date when="1800-12-11">11 <hi rend="superscript">го</hi> сего декабря</date>, коимъ изволите
+      извѣщать</l>
+      <l>меня о полученіи отправленныхъ мною отъ „2<hi rend="superscript">го</hi>„ числа те-</l>
+      <l>кущаго мѣсяца съ нарочнымъ унтеръ офицеромъ Матвѣ-</l>
+      <l>евымъ, забранныхъ чрезъ посыланнаго от меня Казенной</l>
+      <l>палаты совѣтника Троцкаго, въ домѣ начальника коро-</l>
+      <l>линской секты еврея <persName ref="alter-rebbe">Боруховича</persName> еврейскихъ книгъ и руко-</l>
+      <l>писныхъ бумагъ, сего жъ теченія въ 17 <hi rend="superscript">й</hi> день, яко знакъ</l>
+      <l>милостиваго вашего <sic>высокопревосходительста</sic> ко мнѣ</l>
+      <l>отзыва, съ особливѣйшимъ уваженіемъ имѣлъ я честь</l>
+      <l>получить.</l>
+    </p>
+    <p>
+      <l>Съ истиннымъ высокопочитаніемъ и глубочайшею</l>
+      <l>преданностію имѣю честь быть</l>
+      <l>Милостивый государь</l>
+      <l>вашего высокопревосходительства</l>
+      <l>всепокорнѣйшій слуга</l>
+      <l><signed><persName ref="Северин">Петръ Северинъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 15787</fw></l>
+      <l>Его высокопревосходительству</l>
+      <l>Господину Генералъ отъ инфантеріи</l>
+      <l>генералъ прокурору и кавалеру</l>
+      <l><persName ref="Обольянинов">Петру Хрисанфовичу Обольянинову</persName></l>
+      <l><date when="1800-12-16">Декабря. 16 <hi rend="superscript">го</hi> дня <lb/>
+       1800 года</date></l>
+      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+    </closer>
+    <pb xml:id="p364-2" n="364-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/364-2.jpg"/>
+  </body></text>
+</TEI>

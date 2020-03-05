@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="фонъ_Дер_Пален">Пален</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение <persName ref="фонъ_Дер_Пален">Палена</persName> <persName ref="Обольянинов">Обольянинову</persName>
+        об осовбождении <persName ref="alter-rebbe">Шнеура Залмана</persName> и переводе его под подписку о невыезде
+      </p></abstract>
+      <creation><date when="1800-11-29">1800 года ноября 29 дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p331-1" n="331-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/331-1.jpg"/>
+    <date when="1800-11-29">29 ноября 1800 <hi rend="superscript">го</hi></date>
+    <fw type="docNum" place="left">№ 1645</fw>
+    <fw type="pageNum" place="right">331</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">334</del></fw>
+    <fw type="note" place="right">секретно</fw>
+    <p>
+      <l><salute>Милостивый Государь мой <persName ref="Обольянинов">петръ хрисанфовичъ</persName></salute></l>
+      <l>въслѣдствіе почтеннѣйшаго отношенія вашего</l>
+      <l>высокопревосходительства съ прописаніемъ<note place="end">вероятно, "предписанием"</note> <emph rend="big">
+      высо- <lb/>
+       чайшаго</emph> повеленія о еврее <persName ref="alter-rebbe">Боруховиче</persName> предпи-</l>
+      <l>салъ я оберъ полиціимеистеру его выпустить</l>
+      <l>въ квартиру и чтобы обязанъ былъ о несьезде</l>
+      <l>изъ города съ поручительствомъ подпискою</l>
+      <l>также и имелбы наблюденіе за его поведе-</l>
+      <l>ніемъ. о чемъ извещая васъ милостиваго</l>
+      <l>государя моего имею впрочемъ честь быть</l>
+      <l>съ истиннымъ и совершеннымъ почтеніемъ.</l>
+      <l>Милостивый Государь Мой</l>
+      <l>вашего высокопревосходительства</l>
+      <l>Покорнѣйшій слуга</l>
+      <l>Графъ <persName ref="фонъ_Дер_Пален">фонъ Деръ Паленъ</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 142</fw></l>
+      <l><date when="1800-11-29">ноября.29.дня <lb/>
+       1800.года</date></l>
+      <l>Его высокопр <hi rend="superscript">ву</hi> <persName ref="Обольянинов">оболъянинову</persName></l>
+    </closer>
+    <pb xml:id="p331-2" n="331-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/331-2.jpg"/>
+  </body></text>
+</TEI>

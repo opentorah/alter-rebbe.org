@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author>?</author></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p077-1" n="077-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/077-1.jpg"/>
+    <pb xml:id="p077a-1" n="077a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/077a-1.jpg"/>
+    <pb xml:id="p077-2" n="077-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/077-2.jpg"/>
+    <pb xml:id="p078-1" n="078-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/078-1.jpg"/>
+    <pb xml:id="p078-2" n="078-2"/>
+  </body></text>
+</TEI>

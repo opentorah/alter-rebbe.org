@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Фризель">Фризель</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение <persName ref="Фризель">Фризеля</persName> <persName ref="Обольянинов">Обольянинову</persName>,
+        подтверждающая получение секретного отношения о наблюдении за <orgName ref="Хасиды">хасидами</orgName>
+      </p></abstract>
+      <creation><date when="1800-11-15">15 ноября 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p349-1" n="349-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/349-1.jpg"/>
+    <fw type="docNum">№ 1672</fw>
+    <date when="1800-11-26">26 <hi rend="superscript">го</hi> ноября 1800 <hi rend="superscript">го</hi></date>
+    <fw type="note" place="right">секретно</fw>
+    <fw type="note" place="right">къ отпуску</fw>
+    <fw type="pageNum" place="right">349</fw>
+    <p>
+      <l><salute>Милостивый ГОсударь! <lb/>
+         <persName ref="Обольянинов">Петръ Хрисанфовичь</persName>!</salute></l>
+      <l>Имѣлъ я честь къ непремѣнному исполненію</l>
+      <l>получить всепочтеннѣйшее вашего высокопрево-</l>
+      <l>сходительства секретное отношеніе отъ <date when="1800-11-01">1. сего <lb/>
+       ноября</date> съ изображеніемъ высочайшаго его импера-</l>
+      <l>торскаго величества повелѣнія, о наблюденіи за</l>
+      <l>поведеніемъ евреевъ <orgName ref="Хасиды">секты каролинской</orgName>. О чемъ до-</l>
+      <l>нося вашему высокопревосходительству, приношу</l>
+      <l>чувствительную благодарность за сдѣланное въ</l>
+      <l>постскриптѣ онаго, остереженіе, въ разсужденіи</l>
+      <l>представленія о исключенныхъ и отставныхъ</l>
+      <l>паки въ службу вступить желающихъ.</l>
+    </p>
+    <p>
+      <l>Съ совершеннѣйшимъ высокопочитаніемъ и</l>
+      <l>таковою же преданностію имѣю честь быть на</l>
+      <l>всегда</l>
+      <l>Милостивый Государь!</l>
+      <l>вашего высокопревосхлодительства</l>
+      <l>Всепокорнѣйшій слуга</l>
+      <l><persName ref="Фризель">Иванъ Фризель</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 251 <hi rend="superscript">й</hi></fw>.</l>
+      <l><date when="1800-11-15">15. ноября 1800.</date></l>
+      <l><placeName ref="Вильно">вильна</placeName></l>
+    </closer>
+    <pb xml:id="p349-2" n="349-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/349-2.jpg"/>
+  </body></text>
+</TEI>

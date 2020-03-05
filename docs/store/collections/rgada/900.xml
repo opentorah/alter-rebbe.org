@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt/>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p900-1" n="900-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/900-1.jpg"/>
+    <pb xml:id="p900-2" n="900-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/900-2.jpg"/>
+    <pb xml:id="p901-1" n="901-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/901-1.jpg"/>
+    <pb xml:id="p901-2" n="901-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/901-2.jpg"/>
+    <pb xml:id="p902-1" n="902-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/902-1.jpg"/>
+    <pb xml:id="p903-1" n="903-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/903-1.jpg"/>
+    <pb xml:id="p904-1" n="904-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/904-1.jpg"/>
+  </body></text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Подписи <persName ref="alter-rebbe">Залмана Боруховича</persName> и его поручителей в связи с переводом из-под
+        стражи под подписку о невыезде
+      </p></abstract>
+      <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p329-1" n="329-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/329-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">332</del></fw>
+    <fw type="pageNum" place="right">329</fw>
+    <p>
+      <l><date when="1800-11-28">1800 <hi rend="superscript">о</hi> года ноября 28 <hi rend="superscript">го</hi>
+      дня</date>, въ Тайной Экспедиціи еврей</l>
+      <l><persName ref="alter-rebbe">Залманъ Боруховичъ</persName> сею подписию за нижеподписавшийся</l>
+      <l>поручительствомъ обязанъ втомъ, что не долженъ онъ</l>
+      <l><persName ref="alter-rebbe">боруховичъ</persName> бывъ освобожденъ имѣть индѣ жительства</l>
+      <l>здѣсь въ <placeName ref="Петербург">петербургѣ</placeName> какъ въ домѣ <persName ref="Цуберт">Цуберта
+      </persName> гдѣ и прочіе</l>
+      <l>евреи жительствуютъ и съ города выѣзжать доколѣ не</l>
+      <l>будетъ позволено, въ чемъ и подписуется. <signed>???</signed><note place="end">подпись на иврите, вероятно,
+      принадлежащая Шнеуру Залману (??? Бен Борух)</note></l>
+      <l>еврей <signed><unclear>???</unclear></signed> ручаюсь</l>
+      <l><signed><unclear>???</unclear></signed> ручаюсь<note place="end">имена обоих поручителей неразборчиво записаны
+      кириллицей</note></l>
+    </p>
+    <pb xml:id="p329-2" n="329-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/329-2.jpg"/>
+  </body></text>
+</TEI>

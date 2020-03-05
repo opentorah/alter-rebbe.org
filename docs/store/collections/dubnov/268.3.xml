@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          № 18. Препровождениe в 3-й департамент <orgName ref="Сенат">Сената</orgName> книг и бумаг, отобранных при
+          арест <persName ref="alter-rebbe">Залмана</persName>
+        </p>
+        <p>Документ <ref target="/collections/rgada/documents/356.html" role="documentViewer">356</ref> в РГАДА</p>
+        <p>Документ <ref target="/collections/rgia413/documents/007.html" role="documentViewer">007</ref> в РГИА 413</p>
+      </abstract>
+      <creation><date when="1800-12-22">1800-12-22</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Оленин" role="addressee">Оленину</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p268" n="268" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/268.jpg"/> № 18.
+      Препровожденіe въ 3-й департаментъ <orgName ref="Сенат">Сената</orgName> книгъ и бумагъ, отобранныхъ при арестѣ
+      <persName ref="alter-rebbe">Залмана</persName>.
+    </head>
+    <p>
+      Г-ну Оберъ прокурору 3-го Департамента <orgName ref="Сенат">Сената</orgName> <persName ref="Оленин">
+      Оленину</persName>. Препроводивъ во исполненіе Высочайшаго Е. И. В. повелѣнія, объявленнаго мною въ <date
+      when="1800-11-27">27-й день Ноября</date>, производившееся въ <orgName ref="Тайная_экспедиция">Тайной Экспедиціи
+      </orgName> дѣло между евреями <persName ref="Авигдор">Абикдоромъ Хаймовичемъ</persName> и <persName
+      ref="alter-rebbe">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи и прочаго, для надлежащаго въ
+      <orgName ref="Сенат">Сенатѣ</orgName> разсмотренія и положенія, на какомъ основаніи впредь быть сектѣ Хоседовъ и
+      Кагаламъ – препровождаю при семъ доставленныя послѣ того ко мнѣ отъ <placeName ref="Белоруссия">Бѣлорусскаго
+      </placeName> Гражданскаго Губернатора книги и разныя бумаги, взятыя имъ въ домѣ <persName ref="alter-rebbe">
+      Боруховича</persName>, съ краткимъ о содержаніи ихъ, чрезъ еврейскихъ переводчиковъ здѣсь учиненнымъ, переводомъ,
+      а также и отношеніе Губернатора въ разсужденіи сдѣланнаго имъ замѣчанія о поведеніи всѣхъ <pb xml:id="p269"
+      n="269" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/269.jpg"/> вообще <orgName ref="Хасиды">
+      Каролиновъ</orgName><note type="gloss" place="end">Рѣчь идетъ, очевидно, о вышеприведенномъ документѣ № <ref
+      target="/collections/dubnov/documents/263.2.html" role="documentViewer">14</ref>.</note>, рекомендуя Вашему
+      Превосходительству присоединить все оное къ тому же въ Сенатѣ имѣющемуся дѣлу. <date when="1800-12-22">Декабря 22
+      дня 1800 года</date>
+    </p>
+  </body></text>
+</TEI>

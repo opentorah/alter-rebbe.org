@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Александр_Вюртембергский">Александр Вюртембергский</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Обращение <placeName ref="Белоруссия">белорусского</placeName> губернатора в благотворительное общество
+        «Сословие попечителей призрения разоренных от неприятеля в 1812 году» с предложением оказать содействие
+        <persName ref="ребицен_Штерна">вдове</persName> <persName ref="alter-rebbe">Шнеура Залмана</persName>
+      </p></abstract>
+      <creation><date when="1815-05-11">11 Мая 1815</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p243-1" n="243-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/243-1.jpg"/>
+    <fw type="docNum">№6594.</fw>
+    <date when="1815-05-11">11 Маія 1815.</date>
+    <fw type="pageNum" place="right">243</fw>
+    <head>
+      <l>№19.</l>
+      <l>Въ Сословіе Призрѣніе разоренныхъ отъ</l>
+      <l>непріятеля<note place="end">см. https://www.prlib.ru/1812_10a и
+      https://lechaim.ru/ARHIV/209/minkina.htm</note>.</l>
+    </head>
+    <opener place="left">
+      <l>Б. В. Г.</l>
+      <l><date when="1815-03-22">22 марта 1815.</date></l>
+      <l><fw type="docNum">№ <emph rend="underline">697</emph></fw></l>
+      <l><placeName ref="Витебск"><emph rend="underline">Витебскъ.</emph></placeName></l>
+      <l>Съ прошеніемъ</l>
+      <l><persName ref="ребицен_Штерна">вдовы Шнѣеровой</persName>.</l>
+    </opener>
+    <p>
+      <l><placeName ref="Могилевская_губерния"><emph rend="underline">Могилевской</emph> губерніи</placeName>
+      Бабиновецкаго<note place="end">ныне Бабиновичи – агрогородок в Лиозненском районе Витебской обл. Белоруссии</note>
+      </l>
+      <l>Повѣта вдова бывшаго оберъ равина</l>
+      <l><persName ref="alter-rebbe">Зельмана Шнѣера</persName> жена еврейка <persName ref="ребицен_Штерна">Штерна <lb/>
+       Шнѣерова</persName> проситъ моего предстатель-</l>
+      <l>ства въ здѣланіи ей вспоможенія</l>
+      <l>по претерпенному ею обще съ <persName ref="alter-rebbe">мужемъ</persName></l>
+      <l>отъ нашествія непріятельскаго раз-</l>
+      <l>зоренія въ имуществѣ болѣе нежели</l>
+      <l>на 60/т. рублей._</l>
+    </p>
+    <fw type="note" place="right margin"><unclear>кіи?</unclear></fw>
+    <p>
+      <l>1. Препровождая представленное <persName ref="ребицен_Штерна">еврей- <lb/>
+       кою Шнѣеровою</persName> ко мнѣ прошеніе</l>
+      <l>на имя Сословія учрежденнаго для при</l>
+      <l>зрѣнія раззоренныхъ отъ непріятеля</l>
+      <l>засвидѣтельствованное Нижнимъ Зем-</l>
+      <l>скимъ Судомъ съ копіями данныхъ</l>
+      <l>отъ начальства о пропускѣ въ Россіи</l>
+      <pb xml:id="p243-2" n="243-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/243-2.jpg"/>
+      <l>семейства ея видовъ прошу сего Сословія</l>
+      <l>обратить на расстроенное состояніе сей</l>
+      <l><persName ref="ребицен_Штерна">вдовы</persName> благотворное вниманіе и по примѣ</l>
+      <l>ру оказаннаго протчимъ вспоможенія</l>
+      <l>не оставить и ее онымъ._</l>
+      <l><placeName ref="Белоруссия">Бѣлорусскій</placeName> военный губернаторъ.</l>
+      <l><signed>Гер. <persName ref="Александр_Вюртембергский">А. <unclear>Вюртембер</unclear></persName></signed></l>
+    </p>
+  </body></text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          № 3. Запрос <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName> о
+          секте „Шабзус-Цвинкус"
+        </p>
+        <p>
+          Документ <ref target="/collections/rgia2213/documents/023.html" role="documentViewer">023</ref> в РГИА 2213
+        </p>
+      </abstract>
+      <creation><date when="1800-06-07">Іюня 7 дня 1800 года.</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p253" n="253" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/253.jpg"/>
+    <fw>(Окончание) <note type="gloss" place="end">стр. 84 сл.</note></fw>
+    <head>
+      № 3. Запросъ генералъ-прокурора <persName ref="Обольянинов">П. X. Обольянинова</persName> <placeName ref="Литва">
+      Литовскому</placeName> <persName ref="Кутузов">военному губернатору</persName> о сектѣ „Шабзусъ-Цвинкусъ".
+    </head>
+    <salute>Милостивый государь мой <persName ref="Кутузов">Михайло Иларіоновичъ</persName></salute>
+    <p>
+      Имѣя <sic>высочайшае</sic> Е. И. В. повелѣніе разсмотрѣть препровождаемую при семъ жалобу бывшаго въ <placeName
+      ref="Пинск">Пинскѣ</placeName> оберъ-раббина <persName ref="Авигдор">Хаима</persName> на притѣсненія, чинимыя ему
+      последователями секты Шабзусъ-Цвинкусъ, прошу ваше высокопревосходительство приказать всѣ обстоятельства оныя,
+      чрезъ кого слѣдуетъ, привести въ ясность, – в чемъ именно состоитъ сія секта и претензія на нее еврея <persName
+      ref="Авигдор">Хаима</persName> <note type="gloss" place="end"><persName ref="Авигдор">Авигдоръ Хаимовичъ
+      </persName> въ этихъ документахъ часто ошибочно именуется</note>, также — можетъ ли она быть удовлетворена и на
+      какомъ основаніи,— не оставить меня вашимъ увѣдомленіемъ.
+    </p>
+    <closer><signed>Съ совершеннымъ почтеніемъ есмь . . . (<persName ref="Обольянинов">Обольяниновъ</persName>?).
+    </signed> <dateline>
+      <date>Іюня 7 дня 1800 года.</date>
+      <fw type="docNum">№ 4722.</fw>
+    </dateline> <persName ref="Кутузов">Голенищеву-Кутузову</persName>.</closer>
+  </body></text>
+</TEI>

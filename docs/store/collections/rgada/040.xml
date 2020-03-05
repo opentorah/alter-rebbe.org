@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Лопухин">Лопухин</persName></author>
+        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Доклад <persName ref="Лопухин">Лопухина</persName> <persName ref="Павел_I">императору</persName> об отстутствии
+        в <placeName ref="Петербург">Санкт-Петербурге</placeName> переводчика с иврита и отсылке показаний <persName
+        ref="alter-rebbe">Шнеура Залмана</persName> в <placeName ref="Вильно">Вильно</placeName> для перевода там, а
+        также о невозможности в связи с этим отправить в столицу для дальнейших следственных действий групу <placeName
+        ref="Вильно">виленских</placeName> <orgName ref="Хасиды">хасидов</orgName>
+      </p></abstract>
+      <creation><date when="1798-10-17">17 октября 1798</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p040-1" n="040-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/040-1.jpg"/>
+    <head place="left"><l><emph rend="underline">О новой еврейской <lb/>
+     сектѣ</emph></l></head>
+    <fw type="pageNum" place="right"><del rend="overstrike">452</del></fw>
+    <fw type="pageNum" place="right">40</fw>
+    <fw type="note" place="left margin">
+      <l><persName ref="Павел_I">Государь императоръ</persName> высочайше повелѣть соизволилъ показаніе</l>
+      <l><persName ref="alter-rebbe">Боруховича</persName> для переводу отослать <persName ref="Булгаков">Я. Булгакову
+      </persName> съ тѣмъ, чтобъ</l>
+      <l>оной сдѣланъ былъ тайно, и присланъ обратно поскорѣе, а при томъ</l>
+      <l>предписать ему, чтобъ по окончаніи слѣдствія доставить одни слѣд-</l>
+      <l>ственныя бумаги, а евреевъ въ томъ причастныхъ оставить</l>
+      <l>въ <placeName ref="Вильно">вильнѣ</placeName> подъ стражею. <date when="1798-10-17">17. октября 1798.</date>
+      </l>
+    </fw>
+    <p>
+      <l><placeName ref="Литва">Литовской</placeName> гражданской губер-</l>
+      <l>наторъ <persName ref="Булгаков">Булгаковъ</persName> по случаю</l>
+      <l>открывающейся между евреями</l>
+      <l>новой секты, о чемъ онъ произво-</l>
+      <l>дитъ слѣдствіе, ко мнѣ пишетъ,</l>
+      <l>что окончаніи онаго доставитъ</l>
+      <l>ко мнѣ бумаги и всѣхъ въ томъ</l>
+      <l>причастныхъ евреевъ. А какъ</l>
+      <l>находящагося здѣсь объявленнаго</l>
+      <l>той секты начальникомъ еврея</l>
+      <l><persName ref="alter-rebbe">Боруховича</persName> показаніе остается</l>
+      <l>по сіе время безъ перевода, по не-</l>
+      <l>имѣнию ни в Александро-невской</l>
+      <l>симинаріи, ни въ коллегіи иностран-</l>
+      <l>ныхъ дѣлъ переводчика, и съ самимъ</l>
+      <l>имъ объясниться невозможно, то</l>
+      <l>присылка соучастников его сюда</l>
+      <l>послужитъ только къ излишней</l>
+      <l>заботѣ и издержкамъ безъ всякаго</l>
+      <l>въ дѣле дальнѣйшаго поясненія;</l>
+      <l>Почему и осмѣливаюсь вашему</l>
+      <l>Императорскому Величеству</l>
+      <l>всеподданнѣйше доложить, не благо-</l>
+      <l>угодно ли будетъ высочайше</l>
+      <l><pb xml:id="p040-2" n="040-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/040-2.jpg"/> <fw
+      type="pageNum">40об.</fw> повелѣть оную <persName ref="alter-rebbe">Боруховича</persName> бумагу</l>
+      <l>отослать въ <placeName ref="Вильно">Вильну</placeName> для нужнаго</l>
+      <l>иногда при слѣдствіи соображенія,</l>
+      <l>гдѣ уповательно удобнѣе отъи-</l>
+      <l>скаться можетъ переводчикъ,</l>
+      <l>съ предписаніемъ, чтобъ по оконча-</l>
+      <l>ніи онаго доставилъ губернаторъ</l>
+      <l>сюда одни слѣдственныя бумаги</l>
+      <l>для разсмотрѣнія, а евреевъ оста-</l>
+      <l>вилъ до востребованія, и высочай-</l>
+      <l>шаго <emph rend="big">вашего Величества</emph> рѣ-</l>
+      <l>шенія въ тамошнемъ мѣстѣ.</l>
+    </p>
+  </body></text>
+</TEI>

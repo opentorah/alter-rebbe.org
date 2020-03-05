@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author>Коробьин</author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт киевского губернатора Коробьина <persName ref="Обольянинов" role="addressee">Обольянинову</persName> о
+        введении надзора за <orgName ref="Хасиды">хасидами</orgName>
+      </p></abstract>
+      <creation><date when="1800-11-19">ноября 19 дня 1800 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p351-1" n="351-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/351-1.jpg"/>
+    <fw type="docNum">№ 1727 <hi rend="superscript">й</hi></fw>
+    <date when="1800-12-05">5 <hi rend="superscript">го</hi> декабря 1800 <hi rend="superscript">го</hi></date>
+    <fw type="note" place="right">секретно</fw>
+    <fw type="pageNum" place="right">351</fw>
+    <p>
+      <l><salute>Милостивый Государь! <lb/>
+         <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
+      <l>Отношеніе вашего высокопревосходи-</l>
+      <l>тельства отъ <date when="1800-11-01">1 <hi rend="superscript">го</hi> ноября</date>, о имѣніи въ</l>
+      <l>губерніи мнѣ въвѣренной самимъ тайнымъ</l>
+      <l>образомъ наблюденія за поведеніемъ и</l>
+      <l>поступками <orgName ref="Хасиды">Каролинской секты евреевъ</orgName></l>
+      <l>я имелъ честь получить <date when="1800-11-17">сего ноября 17 <hi rend="superscript">го</hi> <lb/>
+       числа</date>. По которому всѣ нужные</l>
+      <l>къ тому предосторожности и распоря-0</l>
+      <l>женіе съ моей стороны учинены. и коль</l>
+      <l>скоро что замѣчено будетъ, вашему</l>
+      <l>высокопревосходительству донесть</l>
+      <l>не упущу. Пребывая всегда съ совер</l>
+      <l>шеннымъ высокопочитаніемъ и тако</l>
+      <l>вою жъ преданностію.</l>
+      <l>Милостивый государь!</l>
+      <l>вашего высокопревосходительства</l>
+      <l>всепокорнейшій слуга</l>
+      <l>Михайла Коробьин<note place="end">Киевский губернатор</note></l>
+    </p>
+    <closer place="left">
+      <l><date when="1800-11-19">ноября 19 <hi rend="superscript">го</hi> дня <lb/>
+       1800 года</date></l>
+      <l>Его высокопревосходитель</l>
+      <l>ству <persName ref="Обольянинов">обольянинову</persName>.</l>
+    </closer>
+    <pb xml:id="p351-2" n="351-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/351-2.jpg"/>
+  </body></text>
+</TEI>

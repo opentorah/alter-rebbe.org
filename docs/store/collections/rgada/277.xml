@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Донесение о нахождении, задержании и болезни в пути <persName ref="alter-rebbe">Шнеура Залмана</persName>
+      </p></abstract>
+      <creation><date when="1800-11-14">1800 года ноября 14 дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p277-1" n="277-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/277-1.jpg"/>
+    <fw type="pageNum" place="right">277.</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">281</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">501</del></fw>
+    <head><l>о <persName ref="alter-rebbe">ЕвреѢ БоруховичѢ</persName></l></head>
+    <fw type="note" place="left margin">
+      <l>докладовано</l>
+      <l>повелено допросъ</l>
+      <l>и слетствiе</l>
+      <l>секты учинить</l>
+      <l><date when="1800-11-14">ноября 14 дня <lb/>
+       1800 года</date></l>
+      <l><placeName ref="Петербург">С:П:бургъ</placeName></l>
+    </fw>
+    <l>По высочайшему ВАШЕГО ИМПЕРАТОР-</l>
+    <l>СКАГО ВЕЛИЧЕСТВА повелѢнiю привезен-</l>
+    <l>ный сюда изъ <placeName ref="Витебск">Витебска</placeName> начальникъ Ев-</l>
+    <l>рейской <orgName ref="Хасиды">каролинской секты</orgName> <persName ref="alter-rebbe">Еврей Залманъ <lb/>
+     Боруховичь</persName>, по случаю ненахожденiя его</l>
+    <l>во время прiѢзда посланныхъ за нимъ</l>
+    <l>курiеровъ въ <placeName ref="Лозна">мѢстѢ его жительства</placeName>,</l>
+    <l>въ тайной експедицiи, гдѢ онъ в сiе</l>
+    <l>время находился, спрашиванъ и показалъ:</l>
+    <l>что, какъ онъ узналъ послѢ, за два</l>
+    <l>дни предъ прiездомъ присланныхъ отъ</l>
+    <l>сюда курiеровъ отправился онъ въ</l>
+    <l>Шкловъ для служенiя и проповѢди по</l>
+    <l>его закону, а также и для разбира-</l>
+    <l>тельства могущихъ быть тамо ме-</l>
+    <l>жду евреями дѢлъ спорныхъ и ссоръ;</l>
+    <l>но недоѢхавъ до Шклова, посланными</l>
+    <l>за нимъ достигнутъ былъ в деревнѢ</l>
+    <l>неподалеку онаго, имя которой онъ</l>
+    <l>не помнитъ, и взятъ подъ караулъ.</l>
+    <l>С посланными на возвратномъ пути</l>
+    <l>къ <placeName ref="Витебск">Витебску</placeName> онъ заболѢлъ, и пробылъ</l>
+    <l>въ другой деревнѢ, которой имя</l>
+    <l><pb xml:id="p277-2" n="277-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/277-2.jpg"/> <fw
+    type="pageNum" place="left">277об.</fw> также не помнитъ, три дни, что и со-</l>
+    <l>ставитъ около недѢли по прiѢздѢ</l>
+    <l>въ <placeName ref="Витебск">Витебскъ</placeName> курiеровъ, а оттуда</l>
+    <l>отправленъ сюда.</l>
+  </body></text>
+</TEI>

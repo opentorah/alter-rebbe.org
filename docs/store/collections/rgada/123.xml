@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод с польского языка протокола допроса <persName ref="Борух_Мордухович">Боруха Мордуховича</persName>
+      </p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p123-1" n="123-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/123-1.jpg"/>
+    <fw type="note" place="right"><ref target="../documents/124.html">перевод</ref></fw>
+    <fw type="pageNum" place="right">123.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида Боруха Мордуховича</l>
+    </head>
+    <p>
+      <l>Я Борухъ Мордуховичъ отъ роду</l>
+      <l>имѣю 26 лѣтъ,торгую напитками,</l>
+      <l>родился во Лвовѣ, живу въ <placeName ref="Вильно">Вилнѣ</placeName></l>
+      <l>четвертой годъ, былъ въ <placeName ref="Вильно">Вилнѣ</placeName> и</l>
+      <l>прежде, назадъ тому девять лѣтъ,</l>
+      <l>женатъ, имѣю сыновей двухъ, Са</l>
+      <l>мойла и Лейбу; хотя и въ согла</l>
+      <l>сіи былъ я съ <orgName ref="Хасиды">каролинскою сектой</orgName>,</l>
+      <l>однакожъ въ оную не вступалъ; въ</l>
+      <l><placeName ref="Лозна">Лозну</placeName> ѣздилъ не къ <persName ref="alter-rebbe">рабину</persName>, а къ</l>
+      <l>учителю Якубу Шимоновичу, гдѣ</l>
+      <l>и пробылъ цѣлой годъ; пріѣхалъ</l>
+      <l>оттуда, пятой мѣсяцъ; о прочемъ</l>
+      <l>же ничего не знаю.</l>
+    </p>
+    <signed>Подписал <persName ref="Борух_Мордухович">Борухъ Мордуховичъ</persName></signed>
+    <pb xml:id="p123-2" n="123-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/123-2.jpg"/>
+  </body></text>
+</TEI>
