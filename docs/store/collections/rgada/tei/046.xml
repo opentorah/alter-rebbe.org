@@ -38,13 +38,28 @@
       </placeName></l>
     </head>
     <list>
-      <item>1. <persName ref="Меер_Рафалович">Меіеръ Рафаловичъ</persName></item>
-      <item>2. Сельмонъ Леизеровичъ</item>
-      <item>3. Лейба Зеликовичъ</item>
-      <item>4. <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName></item>
-      <item>5. <persName ref="Гирш_Иоселиович">Гиршъ Іосиеліовичъ</persName></item>
-      <item>6. <persName ref="Рафаил_Шлиомович">Рафалъ Шломовичъ</persName></item>
-      <item>7. <persName ref="Шмуил_Хаимович">Шмуило Хаимовичъ</persName>.</item>
+      <item>
+        <label>1.</label>
+        <persName ref="Меер_Рафалович">Меіеръ Рафаловичъ</persName>
+      </item>
+      <item><label>2.</label> Сельмонъ Леизеровичъ</item>
+      <item>
+        <label>3.</label>
+        <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName>
+      </item>
+      <item>
+        <label>4.</label>
+        <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName>
+      </item>
+      <item>
+        <label>5.</label>
+        <persName ref="Гирш_Иоселиович">Гиршъ Іосиеліовичъ</persName>
+      </item>
+      <item>
+        <label>6.</label>
+        <persName ref="Рафаил_Шлиомович">Рафалъ Шломовичъ</persName>
+      </item>
+      <item><label>7.</label> <persName ref="Шмуил_Хаимович">Шмуило Хаимовичъ</persName>.</item>
     </list>
     <signed><persName ref="Булгаков">Яков Булгаков</persName></signed>
     <pb xml:id="p046-2" n="046-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/046-2.jpg"/>
