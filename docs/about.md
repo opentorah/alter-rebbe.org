@@ -140,15 +140,15 @@ Documents and code for the website are in a GitHub repository:
 
 <ul class="social-media-list">
   <li>
-    <a href="https://github.com/digitaljudaica/alter-rebbe.org">
+    <a href="https://github.com/opentorah/alter-rebbe.org">
       <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
       <span class="username">repository</span>
     </a>
   </li>
 </ul>
 
-<a href="https://github.com/digitaljudaica/alter-rebbe.org/actions">
-  <img src="https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg"/>
+<a href="https://github.com/opentorah/alter-rebbe.org/actions">
+  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg"/>
 </a>
 
 Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
