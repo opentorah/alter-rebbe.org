@@ -13,6 +13,6 @@ include 'service'
 
 //includeBuild ('../../store/master') {
 //    dependencySubstitution {
-//        substitute module('org.digitaljudaica:org.digitaljudaica-store') with project(':store')
+//        substitute module('org.opentorah:org.opentorah-store') with project(':store')
 //    }
 //}

@@ -7,19 +7,19 @@ layout: page
 {:toc}
 ## Подача материала ##
 
-Содержимое сайта находится в GitHub repository https://github.com/digitaljudaica/alter-rebbe.org
+Содержимое сайта находится в GitHub repository https://github.com/opentorah/alter-rebbe.org
 
 <ul class="social-media-list">
   <li>
-    <a href="https://github.com/digitaljudaica/alter-rebbe.org">
+    <a href="https://github.com/opentorah/alter-rebbe.org">
       <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
       <span class="username">repository</span>
     </a>
   </li>
 </ul>
 
-<a href="https://github.com/digitaljudaica/alter-rebbe.org/actions">
-  <img src="https://github.com/digitaljudaica/alter-rebbe.org/workflows/CI/badge.svg"/>
+<a href="https://github.com/opentorah/alter-rebbe.org/actions">
+  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg"/>
 </a>
 
 Рекомендуемый способ участия в расшифровке, исправлении ошибок и т.д. - открыть GitHub pull request.
@@ -246,7 +246,7 @@ layout: page
 - вставляет в файл с именами обратные ссылки на документы где каждое из имён присутствует.
 
 Результаты этих проверок для Вашего pull requestа можно посмотреть в нём самом или на
-[странице непрерывной интеграции](https://github.com/digitaljudaica/alter-rebbe.org/actions). 
+[странице непрерывной интеграции](https://github.com/opentorah/alter-rebbe.org/actions). 
 
 Имя человека, которому документ адресован, кодируется в заголовке документа,
 внутри элемента `profileDesc` элементом `correspDesc` следующего вида: 

@@ -9,11 +9,11 @@ allprojects {
     mavenCentral()
     mavenLocal()
 
-    // For some reason the 'store' package isn't visible on Bintray right now, at least from GitHub...
-    maven { url  "https://dl.bintray.com/dubinsky/org.digitaljudaica" }
+    // For some reason the 'store' package isn't included in JCenter...
+    maven { url  "https://dl.bintray.com/dubinsky/org.opentorah" }
   }
 
-  group = 'org.digitaljudaica.archive'
+  group = 'org.opentorah.archive'
   version = projectVersion
 }
 
