@@ -16,7 +16,7 @@ dependencies {
     runtimeOnly "org.slf4j:slf4j-jdk14:$slf4jVersion"
 }
 
-mainClassName = 'org.digitaljudaica.collector.Service'
+mainClassName = 'org.opentorah.collector.Service'
 
 //final File dockerDir = file("$buildDir/docker/")
 //

@@ -1,4 +1,4 @@
-package org.digitaljudaica.archive.collector
+package org.opentorah.archive.collector
 
 import cats.effect.{Blocker, ExitCode, IO, IOApp}
 import cats.implicits._
