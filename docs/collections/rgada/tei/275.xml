@@ -1,86 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<author><persName ref="Северин">Северин</persName></author>
-				<editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-			</titleStmt>
-			<publicationStmt>
-				<publisher><ptr target="www.alter-rebbe.org"/></publisher>
-				<availability status="free">
-					<licence>
-						<ab>
-							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-								Creative Commons Attribution 4.0 International License
-							</ref>
-						</ab>
-					</licence>
-				</availability>
-			</publicationStmt>
-			<sourceDesc><p>Facsimile</p></sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage><language ident="ru"/></langUsage>
-			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-			<creation><date when="1800-11-09">1800 года Ноября 9 дня</date></creation>
-			<abstract>
-				<p>Донесение
-					<persName ref="Северин">Северина</persName> об отправке
-					<persName ref="alter-rebbe">Шнеура Залмана</persName> в
-					<placeName ref="Петербург">Петербург</placeName> с <orgName ref="Сенат">сенатскими</orgName> курьерами
-				</p>
-				<correspDesc>
-					<correspAction>
-						<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-					</correspAction>
-				</correspDesc>
-			</abstract>
-		</profileDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<pb xml:id="p275-1" n="275-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/275-1.jpg"/>
-			<l>
-				<fw type="note" place="left">Получено <date when="1800-11-15">15. Ноября 1800.</date></fw>
-				<fw type="note" place="right">Секретно</fw>
-			</l>
-			<fw type="docNum"><l>№1609</l></fw>
-			<fw type="pageNum" place="right"><del rend="overstrike">279</del></fw>
-			<fw type="pageNum" place="right">275</fw>
-			<salute>
-				<l>Ваше высокопревосходительство<lb/>
-					Милостивый Государь!</l>
-			</salute>
-			<p>
-				<l>Испоняя повелѢнiе вашего высокопревосходитель-</l>
-				<l>ства, отправилъ я сего числа прi особомъ моемъ</l>
-				<l>отношенiи требуемаго начальника <orgName ref="Хасиды">каролинской Секты</orgName></l>
-				<l>или <orgName ref="Хасиды">хосодовъ</orgName> еврея <persName ref="alter-rebbe">Залмана
-					Боруховича</persName>, съ нарочно</l>
-				<l>присланными за нимъ двумя <orgName ref="Сенат">Сенатскими</orgName> курьерами</l>
-				<l><persName ref="Петров">Петровымъ</persName> и <persName ref="Сукин">Сукинымъ</persName>; но что нѢсколько за-</l>
-				<l>медлилъ я отправлениiемъ  его къ вашему высоко-</l>
-				<l>превосходительству, о причинѢ оного почтеннѢйше</l>
-				<l>доношу, что онъ <persName ref="alter-rebbe">Боруховичь</persName> находился въ отлучкѢ</l>
-				<l>изъ жилища своего, а потому и время на оты-</l>
-				<l>сканiе его подъ рукою и безъ огласки употреблено</l>
-				<l>излишнѢ, о чемъ донеся, съ истиннымъ высокопо-</l>
-				<l>читанiемъ и совершенною преданностiю имѢю честь</l>
-				<l>быть.</l>
-				<l>Милостивый Государь</l>
-				<l>Вашего высокопревосходительства</l>
-				<l>Всепокорнейшимъ слугою</l>
-				<l><signed>Петръ <persName ref="Северин">Северинъ</persName></signed></l>
-			</p>
-			<closer place="left">
-				<l><date when="1800-11-09">Ноября 9 дня<lb/>
-					1800 года</date></l>
-				<l><placeName ref="Витебск">Витебскъ</placeName></l>
-			</closer>
-			<pb xml:id="p275-2" n="275-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/275-2.jpg"/>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Северин">Северин</persName></author>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Донесение <persName ref="Северин">Северина</persName> об отправке <persName ref="alter-rebbe">Шнеура Залмана
+          </persName> в <placeName ref="Петербург">Петербург</placeName> с <orgName ref="Сенат">сенатскими</orgName>
+          курьерами
+        </p>
+        <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+        </correspDesc>
+      </abstract>
+      <creation><date when="1800-11-09">1800 года Ноября 9 дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text><body>
+    <pb xml:id="p275-1" n="275-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/275-1.jpg"/>
+    <l>
+      <fw type="note" place="left">Получено <date when="1800-11-15">15. Ноября 1800.</date></fw>
+      <fw type="note" place="right">Секретно</fw>
+    </l>
+    <fw type="docNum"><l>№1609</l></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">279</del></fw>
+    <fw type="pageNum" place="right">275</fw>
+    <salute><l>Ваше высокопревосходительство<lb/>
+       Милостивый Государь!</l></salute>
+    <p>
+      <l>Испоняя повелѢнiе вашего высокопревосходитель-</l>
+      <l>ства, отправилъ я сего числа прi особомъ моемъ</l>
+      <l>отношенiи требуемаго начальника <orgName ref="Хасиды">каролинской Секты</orgName></l>
+      <l>или <orgName ref="Хасиды">хосодовъ</orgName> еврея <persName ref="alter-rebbe">Залмана Боруховича</persName>,
+      съ нарочно</l>
+      <l>присланными за нимъ двумя <orgName ref="Сенат">Сенатскими</orgName> курьерами</l>
+      <l><persName ref="Петров">Петровымъ</persName> и <persName ref="Сукин">Сукинымъ</persName>; но что нѢсколько за-
+      </l>
+      <l>медлилъ я отправлениiемъ его къ вашему высоко-</l>
+      <l>превосходительству, о причинѢ оного почтеннѢйше</l>
+      <l>доношу, что онъ <persName ref="alter-rebbe">Боруховичь</persName> находился въ отлучкѢ</l>
+      <l>изъ жилища своего, а потому и время на оты-</l>
+      <l>сканiе его подъ рукою и безъ огласки употреблено</l>
+      <l>излишнѢ, о чемъ донеся, съ истиннымъ высокопо-</l>
+      <l>читанiемъ и совершенною преданностiю имѢю честь</l>
+      <l>быть.</l>
+      <l>Милостивый Государь</l>
+      <l>Вашего высокопревосходительства</l>
+      <l>Всепокорнейшимъ слугою</l>
+      <l><signed>Петръ <persName ref="Северин">Северинъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><date when="1800-11-09">Ноября 9 дня<lb/>
+       1800 года</date></l>
+      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+    </closer>
+    <pb xml:id="p275-2" n="275-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/275-2.jpg"/>
+  </body></text>
 </TEI>

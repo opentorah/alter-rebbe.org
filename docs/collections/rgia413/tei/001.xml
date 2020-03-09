@@ -1,81 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <author><persName ref="Обольянинов">Обольянинов</persName></author>
-                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <availability status="free">
-                    <licence>
-                        <ab>
-                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
-                        </ab>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc><p>Facsimile</p></sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage><language ident="ru"/></langUsage>
-            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <creation><date when="1800-11-27">27 ноября 1800</date></creation>
-            <abstract>
-                <p>Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>-<persName
-                  ref="alter-rebbe">Залмана</persName>
-                    в <orgName ref="Сенат">Сенат</orgName></p>
-                <p>Документ <ref target="/collections/dubnov/documents/268.1.html" role="documentViewer">№ 16</ref> у Дубнова</p>
-            </abstract>
-        </profileDesc>
-    </teiHeader>
-    <text xml:lang="ru">
-        <body>
-            <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/001-1.jpg"/>
-            <fw type="pageNum" place="right">1</fw>
-            <fw type="note" place="left">копия</fw>
-            <p>
-                <l>Его императорское величество высо-</l>
-                <l>чайше повелѣть соизволил, дѣло между</l>
-                <l>евреями <persName ref="Авигдор">Абикдаромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Зал-<lb/>
-                маномъ боруховичемъ</persName>, касающееся до ихъ</l>
-                <l>религiи и прочаго въ <orgName ref="Сенат">Сенатѣ</orgName> разсмот-</l>
-                <l>рѣть, и учинить положенiе на какомъ</l>
-                <l>впредь основанiи быть сектѣ хасе-</l>
-                <l>довъ и Кагаламъ. На каковой Конецъ и</l>
-                <l>препроводить Учиненные допросы на</l>
-                <l>еврейскомъ языкѣ съ переводами. </l>
-            </p>
-            <p>
-                <l>на подлинномъ подписалъ</l>
-                <l>Генералъ прокуроръ <persName ref="Обольянинов">обол-<lb/>
-                    няниновъ</persName></l>
-            </p>
-            <p>
-                <l>Съ подлинника читалъ Секретарь</l>
-                <signed><l>Иван<unclear>Д...</unclear></l></signed>
-            </p>
-            <p>
-                <l>Читанъ въ общемъ <orgName ref="Сенат">Сената</orgName> собранiи
-                    <date when="1800-11-27">27=ноября 1800=года</date></l>
-                <l>Слушанъ въ 3м <orgName ref="Сенат">Сената</orgName> департаментѣ
-                    <date when="1800-11-28">28=ноября 1800=года</date></l>
-            </p>
-            <p>
-                <date when="1800-11-27">
-                    <l>Ноября 27<hi rend="superscript">го</hi> дня.</l>
-                    <l>1800 года</l>
-                </date>
-            </p>
-            <p>
-                <l>Подлинной обратно въ Общее Собранiе взялъ Титулярный Совѣтникъ</l>
-                <l><signed>= Харламовъ.</signed></l>
-            </p>
-            <pb xml:id="p001-2" n="001-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/001-2.jpg"/>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>-<persName ref="alter-rebbe"
+          >Залмана</persName> в <orgName ref="Сенат">Сенат</orgName>
+        </p>
+        <p>
+          Документ <ref target="/collections/dubnov/documents/268.1.html" role="documentViewer">№ 16</ref> у Дубнова
+        </p>
+      </abstract>
+      <creation><date when="1800-11-27">27 ноября 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/001-1.jpg"/>
+    <fw type="pageNum" place="right">1</fw>
+    <fw type="note" place="left">копия</fw>
+    <p>
+      <l>Его императорское величество высо-</l>
+      <l>чайше повелѣть соизволил, дѣло между</l>
+      <l>евреями <persName ref="Авигдор">Абикдаромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Зал-<lb/>
+       маномъ боруховичемъ</persName>, касающееся до ихъ</l>
+      <l>религiи и прочаго въ <orgName ref="Сенат">Сенатѣ</orgName> разсмот-</l>
+      <l>рѣть, и учинить положенiе на какомъ</l>
+      <l>впредь основанiи быть сектѣ хасе-</l>
+      <l>довъ и Кагаламъ. На каковой Конецъ и</l>
+      <l>препроводить Учиненные допросы на</l>
+      <l>еврейскомъ языкѣ съ переводами.</l>
+    </p>
+    <p>
+      <l>на подлинномъ подписалъ</l>
+      <l>Генералъ прокуроръ <persName ref="Обольянинов">обол-<lb/>
+       няниновъ</persName></l>
+    </p>
+    <p>
+      <l>Съ подлинника читалъ Секретарь</l>
+      <signed><l>Иван<unclear>Д...</unclear></l></signed>
+    </p>
+    <p>
+      <l>Читанъ въ общемъ <orgName ref="Сенат">Сената</orgName> собранiи <date when="1800-11-27">27=ноября 1800=года
+      </date></l>
+      <l>Слушанъ въ 3м <orgName ref="Сенат">Сената</orgName> департаментѣ <date when="1800-11-28">28=ноября 1800=года
+      </date></l>
+    </p>
+    <p><date when="1800-11-27">
+        <l>Ноября 27<hi rend="superscript">го</hi> дня.</l>
+        <l>1800 года</l>
+      </date></p>
+    <p>
+      <l>Подлинной обратно въ Общее Собранiе взялъ Титулярный Совѣтникъ</l>
+      <l><signed>= Харламовъ.</signed></l>
+    </p>
+    <pb xml:id="p001-2" n="001-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/001-2.jpg"/>
+  </body></text>
 </TEI>

@@ -1,73 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <author><persName ref="Обольянинов">Обольянинов</persName></author>
-                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <availability status="free">
-                    <licence>
-                        <ab>
-                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
-                        </ab>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc><p>Facsimile</p></sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage><language ident="ru"/></langUsage>
-            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <creation>
-                <date when="1800-06-07">Іюня 7 дня 1800 года.</date>
-            </creation>
-            <abstract>
-                <p>Запрос <persName ref="Обольянинов">Обольянинова</persName>
-                    <persName ref="Кутузов">Кутузову</persName> о секте „Шабзус-Цвинкус"</p>
-                <p>Документ <ref target="/collections/dubnov/documents/253.1.html" role="documentViewer">№ 3</ref> у
-                    Дубнова</p>
-            </abstract>
-            <correspDesc>
-                <correspAction>
-                    <persName ref="Кутузов" role="addressee">Кутузову</persName>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
-    </teiHeader>
-    <text xml:lang="ru">
-        <body>
-            <pb xml:id="p023-1" n="023-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/023-1.jpg"/>
-            <fw type="pageNum" place="right">23</fw>
-            <fw type="docNum" place="right">№. 4722</fw>
-            <salute>Милостивый Государь <persName ref="Кутузов">Михайло Илларионовичъ!</persName></salute>
-
-            <p>
-                <l>Имѣя высочайшее Его Императорскаго</l>
-                <l>Величества Повеленіе разсмотреть</l>
-                <l>препровождаемую при сем жалобу бывшаго</l>
-                <l>въ <placeName ref="Пинск">пинскѣ</placeName> оберъ раббина <persName ref="Авигдор">Хайма</persName></l>
-                <l>на притесненія чинимыя ему</l>
-                <l>последователями секты Шабзусъ</l>
-                <l>Цвикусъ Прошу Ваше высокопревос-</l>
-                <l>ходительство приказать всеъ обсто-</l>
-                <l>ятельства видя чрезъ кого слѣ-</l>
-                <l>дуетъ привести въ ясность, <del rend="overstrike">и</del></l>
-                <l>въ чемъ именно состоит <hi rend="superscript">сія секта и претензія</hi></l>
-                <l>еврея Хаима, <del rend="overstrike">и</del> <hi rend="superscript">также</hi> можетъ ли она быть</l>
-                <l>удовлетворена и на какомъ основаніи</l>
-                <l><del rend="overstrike"><unclear>???</unclear></del> не оставить меня</l>
-                <l>вашимъ увѣдомленіемъ., Съ совр-</l>
-                <l>шенннейшимъ почтеніемъ есмь</l>
-            </p>
-            <l><date when="1800-06-07" place="left">июня 7 дня <lb/>1800 года</date></l>
-            <l><persName ref="Кутузов">Голенищеву Кутузову</persName></l>
-            <pb xml:id="p023-2" n="023-2"/>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Запрос <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName> о секте
+          „Шабзус-Цвинкус"
+        </p>
+        <p>Документ <ref target="/collections/dubnov/documents/253.1.html" role="documentViewer">№ 3</ref> у Дубнова</p>
+      </abstract>
+      <creation><date when="1800-06-07">Іюня 7 дня 1800 года.</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p023-1" n="023-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/023-1.jpg"/>
+    <fw type="pageNum" place="right">23</fw>
+    <fw type="docNum" place="right">№. 4722</fw>
+    <salute>Милостивый Государь <persName ref="Кутузов">Михайло Илларионовичъ!</persName></salute>
+    <p>
+      <l>Имѣя высочайшее Его Императорскаго</l>
+      <l>Величества Повеленіе разсмотреть</l>
+      <l>препровождаемую при сем жалобу бывшаго</l>
+      <l>въ <placeName ref="Пинск">пинскѣ</placeName> оберъ раббина <persName ref="Авигдор">Хайма</persName></l>
+      <l>на притесненія чинимыя ему</l>
+      <l>последователями секты Шабзусъ</l>
+      <l>Цвикусъ Прошу Ваше высокопревос-</l>
+      <l>ходительство приказать всеъ обсто-</l>
+      <l>ятельства видя чрезъ кого слѣ-</l>
+      <l>дуетъ привести въ ясность, <del rend="overstrike">и</del></l>
+      <l>въ чемъ именно состоит <hi rend="superscript">сія секта и претензія</hi></l>
+      <l>еврея Хаима, <del rend="overstrike">и</del> <hi rend="superscript">также</hi> можетъ ли она быть</l>
+      <l>удовлетворена и на какомъ основаніи</l>
+      <l><del rend="overstrike"><unclear>???</unclear></del> не оставить меня</l>
+      <l>вашимъ увѣдомленіемъ., Съ совр-</l>
+      <l>шенннейшимъ почтеніемъ есмь</l>
+    </p>
+    <l><date when="1800-06-07" place="left">июня 7 дня <lb/>1800 года</date></l>
+    <l><persName ref="Кутузов">Голенищеву Кутузову</persName></l>
+    <pb xml:id="p023-2" n="023-2"/>
+  </body></text>
 </TEI>

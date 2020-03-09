@@ -1,154 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<author><persName ref="Обольянинов">Обольянинов</persName></author>
-				<editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-				<editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-			</titleStmt>
-			<publicationStmt>
-				<publisher><ptr target="www.alter-rebbe.org"/></publisher>
-				<availability status="free">
-					<licence>
-						<ab>
-							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-								Creative Commons Attribution 4.0 International License
-							</ref>
-						</ab>
-					</licence>
-				</availability>
-			</publicationStmt>
-			<sourceDesc><p>Facsimile</p></sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage><language ident="ru"/></langUsage>
-			<calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-			<creation>
-				<date when="1800-09-17">Сентября 17 дня 1800 года</date>
-			</creation>
-			<abstract>
-				<p>О <orgName ref="Хасиды">секте каролинов</orgName> – доклад после инспекции
-					<persName ref="Хрущов">Хрущова</persName> («таинство оной есть при
-					отправлении Богомолья кричать во
-					всю силу и лезть на стену, а через то привести себя в безпамятство и не иметь других мыслей»)
-				</p>
-			</abstract>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Павел_I" role="addressee">Павлу І</persName>
-				</correspAction>
-			</correspDesc>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="ru">
-		<body>
-			<pb xml:id="p253-1" n="253-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/253-1.jpg"/>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">422</del>
-			</fw>
-			<fw type="pageNum" place="right">253</fw>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">258</del>
-			</fw>
-			<fw>О <orgName ref="Хасиды">сектѣ Каролиновъ</orgName></fw>
-			<fw type="note" place="left margin">
-				<p>
-					<l>докладовано</l>
-					<l>повелено оста</l>
-					<l>вить на прежнемъ</l>
-					<l>положенiи и <persName ref="Хрущов">Хру-<lb/>
-							щову</persName> писать</l>
-					<l>чтобы возвратился</l>
-					<l>сюда</l>
-					<l><date when="1800-09-17">Сентября 17 дня<lb/>
-							1800 года</date></l>
-					<l>Гатчина</l>
-				</p>
-			</fw>
-			<p>
-				<l>Откомандированной мною Штата</l>
-				<l>провiантскаго Комисiонеръ 8<hi rend="superscript">го</hi> класса</l>
-				<l><persName ref="Хрущов">Хрущовъ</persName> въ <placeName ref="Белоруссия">Бѣлоруссiю
-				</placeName>, для узнанiя</l>
-				<l>секретнымъ образомъ о находящейся</l>
-				<l>тамо <orgName ref="Хасиды">Сектѣ подъ названiемъ Каро-<lb/>
-					лины или Хосоды</orgName>, доноситъ, что оная</l>
-				<l>состоитъ въ <placeName ref="Белоруссия">Бѣлоруссiи</placeName> и
-					<placeName ref="Литва">Литовской</placeName></l>
-				<l>губернiяхъ изъ евреевъ имѣющихъ на-</l>
-				<l>чальникомъ <persName ref="alter-rebbe">Рабина Боруховича</persName>; таин-</l>
-				<l>ство оной есть при отправленiи бого-</l>
-				<l>молья кричать во всю силу и лезть</l>
-				<l>на стѣну, а чрезъ то привесть себя</l>
-				<l>въ безпамятство и не имѣть другихъ</l>
-				<l>мыслей, также в слѣпомъ повино-</l>
-				<l>венiи къ начальнику и по ево приказу</l>
-				<l>не щадить своего имѣнiя, по чему до-</l>
-				<l>ходъ с нихъ безъ всякаго однако же</l>
-				<l>принужденiя простирается до 10,000 руб-</l>
-				<l>лей въ годъ; изъ коихъ онъ употреб-</l>
-				<l>ляетъ на помощь бѣднымъ и до нѣ-</l>
-				<l>сколька тысячъ для таковыхъ посыла-</l>
-				<l>етъ во <placeName ref="Иерусалим">Iерусалимъ</placeName>. Корреспонденцiю</l>
-				<l>имѣетъ онъ по большей части</l>
-				<l>
-					<pb xml:id="p253-2" n="253-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/253-2.jpg"/>
-					<fw type="pageNum" place="left">253 об.</fw>
-					съ нарочными, впрочемъ чтобы могло
-				</l>
-				<l>способствовать къ разрушенію спокойствія,</l>
-				<l>къ неповиновенію законной власти и</l>
-				<l>вольнодумству, того и въ мысляхъ у</l>
-				<l>нихъ нетъ.</l>
-			</p>
-			<p>
-				<l>По справкѣ съ дѣлами тайной експе-</l>
-				<l>диціи оказалось: о сей самой <orgName ref="Хасиды">сектѣ</orgName></l>
-				<l>по безъ_имянному доносу произведено слѣд-</l>
-				<l>ствіе въ <placeName ref="Литва">Литовской</placeName> и <placeName ref="Белоруссия">Бѣлорусской
-				</placeName> губер-</l>
-				<l>ніяхъ въ 798 году, и начальникъ ея <persName ref="alter-rebbe">Бору-<lb/>
-						ховичъ</persName> привезенъ былъ сюда. По допро-</l>
-				<l>самъ его и по слѣдствію найдено, что</l>
-				<l><orgName ref="Хасиды">секта</orgName> сія ни что иное есть, какъ ста-</l>
-				<l>ринной обрядъ Шадимскаго молѣнія съ</l>
-				<l>величайшимъ изступленіемъ, основаннаго</l>
-				<l>на Библіи, Талмудѣ, Кабалистикѣ и</l>
-				<l>Нравственности. Приходящимъ изъ</l>
-				<l>Палестины по древнему обычаю евре-</l>
-				<l>ямъ, для содержанія тамошней ихъ</l>
-				<l>братіи дѣлаютъ они денежныя посо-</l>
-				<l>біи; но бывшій въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> губер-</l>
-				<l>наторъ <persName ref="Жегулин">Жегулинъ</persName> къ предосужденію</l>
-				<l>и обвиненію <persName ref="alter-rebbe">Боруховича</persName> ничего открыть</l>
-				<l>
-					<pb xml:id="p254-1" n="254-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/254-1.jpg"/>
-					<fw type="pageNum" place="right">254</fw><note place="end">номер вписан карандашом</note>
-					<fw type="pageNum" place="right"><del rend="overstrike">
-						259</del></fw><note place="end">номер проставлен чернилами, зачеркнут карандашом</note>
-					не могъ. При всеподданѣйшемъ о
-				</l>
-				<l>семъ <date when="1799-11-16">16 ноября</date><note place="end">не исключено, что 1798 г., когда
-					проводилось первое следствие по доносам на <orgName ref="Хасиды">хасидов</orgName></note> отъ
-					Князя <persName ref="Лопухин">Лопухина</persName></l>
-				<l>докладѣ <emph rend="big">вашему императорскому<lb/>
-						величеству</emph> благоугодно было высо-</l>
-				<l>чайше повелѣть, поелику въ поведе-</l>
-				<l>ніи евреевъ ничего вреднаго для</l>
-				<l>государства ниже развратнаго въ</l>
-				<l>нравахъ не усмотрѣно, то <persName ref="alter-rebbe">Боруховича</persName></l>
-				<l>освободить, имѣя за ними строгое</l>
-				<l>наблюденіе, не будетъ ли какихъ по-</l>
-				<l>таенныхъ сношеній съ развратно тол-</l>
-				<l>кующими о правительствѣ и образѣ</l>
-				<l>правленія; о чемъ тогда же и сооб-</l>
-				<l>щено <placeName ref="Белоруссия">Бѣлорусскому</placeName> и <placeName ref="Литва">
-					Литовскому</placeName></l>
-				<l>Гражданскимъ Губернаторамъ.</l>
-			</p>
-			<pb xml:id="p254-2" n="254-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/254-2.jpg"/>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Обольянинов">Обольянинов</persName></author>
+        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        О <orgName ref="Хасиды">секте каролинов</orgName> – доклад после инспекции <persName ref="Хрущов">Хрущова
+        </persName> («таинство оной есть при отправлении Богомолья кричать во всю силу и лезть на стену, а через то
+        привести себя в безпамятство и не иметь других мыслей»)
+      </p></abstract>
+      <creation><date when="1800-09-17">Сентября 17 дня 1800 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу І</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p253-1" n="253-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/253-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">422</del></fw>
+    <fw type="pageNum" place="right">253</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">258</del></fw>
+    <fw>О <orgName ref="Хасиды">сектѣ Каролиновъ</orgName></fw>
+    <fw type="note" place="left margin"><p>
+      <l>докладовано</l>
+      <l>повелено оста</l>
+      <l>вить на прежнемъ</l>
+      <l>положенiи и <persName ref="Хрущов">Хру-<lb/>
+       щову</persName> писать</l>
+      <l>чтобы возвратился</l>
+      <l>сюда</l>
+      <l><date when="1800-09-17">Сентября 17 дня<lb/>
+       1800 года</date></l>
+      <l>Гатчина</l>
+    </p></fw>
+    <p>
+      <l>Откомандированной мною Штата</l>
+      <l>провiантскаго Комисiонеръ 8<hi rend="superscript">го</hi> класса</l>
+      <l><persName ref="Хрущов">Хрущовъ</persName> въ <placeName ref="Белоруссия">Бѣлоруссiю</placeName>, для узнанiя
+      </l>
+      <l>секретнымъ образомъ о находящейся</l>
+      <l>тамо <orgName ref="Хасиды">Сектѣ подъ названiемъ Каро-<lb/>
+       лины или Хосоды</orgName>, доноситъ, что оная</l>
+      <l>состоитъ въ <placeName ref="Белоруссия">Бѣлоруссiи</placeName> и <placeName ref="Литва">Литовской</placeName>
+      </l>
+      <l>губернiяхъ изъ евреевъ имѣющихъ на-</l>
+      <l>чальникомъ <persName ref="alter-rebbe">Рабина Боруховича</persName>; таин-</l>
+      <l>ство оной есть при отправленiи бого-</l>
+      <l>молья кричать во всю силу и лезть</l>
+      <l>на стѣну, а чрезъ то привесть себя</l>
+      <l>въ безпамятство и не имѣть другихъ</l>
+      <l>мыслей, также в слѣпомъ повино-</l>
+      <l>венiи къ начальнику и по ево приказу</l>
+      <l>не щадить своего имѣнiя, по чему до-</l>
+      <l>ходъ с нихъ безъ всякаго однако же</l>
+      <l>принужденiя простирается до 10,000 руб-</l>
+      <l>лей въ годъ; изъ коихъ онъ употреб-</l>
+      <l>ляетъ на помощь бѣднымъ и до нѣ-</l>
+      <l>сколька тысячъ для таковыхъ посыла-</l>
+      <l>етъ во <placeName ref="Иерусалим">Iерусалимъ</placeName>. Корреспонденцiю</l>
+      <l>имѣетъ онъ по большей части</l>
+      <l><pb xml:id="p253-2" n="253-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/253-2.jpg"/> <fw
+      type="pageNum" place="left">253 об.</fw> съ нарочными, впрочемъ чтобы могло</l>
+      <l>способствовать къ разрушенію спокойствія,</l>
+      <l>къ неповиновенію законной власти и</l>
+      <l>вольнодумству, того и въ мысляхъ у</l>
+      <l>нихъ нетъ.</l>
+    </p>
+    <p>
+      <l>По справкѣ съ дѣлами тайной експе-</l>
+      <l>диціи оказалось: о сей самой <orgName ref="Хасиды">сектѣ</orgName></l>
+      <l>по безъ_имянному доносу произведено слѣд-</l>
+      <l>ствіе въ <placeName ref="Литва">Литовской</placeName> и <placeName ref="Белоруссия">Бѣлорусской</placeName>
+      губер-</l>
+      <l>ніяхъ въ 798 году, и начальникъ ея <persName ref="alter-rebbe">Бору-<lb/>
+       ховичъ</persName> привезенъ былъ сюда. По допро-</l>
+      <l>самъ его и по слѣдствію найдено, что</l>
+      <l><orgName ref="Хасиды">секта</orgName> сія ни что иное есть, какъ ста-</l>
+      <l>ринной обрядъ Шадимскаго молѣнія съ</l>
+      <l>величайшимъ изступленіемъ, основаннаго</l>
+      <l>на Библіи, Талмудѣ, Кабалистикѣ и</l>
+      <l>Нравственности. Приходящимъ изъ</l>
+      <l>Палестины по древнему обычаю евре-</l>
+      <l>ямъ, для содержанія тамошней ихъ</l>
+      <l>братіи дѣлаютъ они денежныя посо-</l>
+      <l>біи; но бывшій въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> губер-</l>
+      <l>наторъ <persName ref="Жегулин">Жегулинъ</persName> къ предосужденію</l>
+      <l>и обвиненію <persName ref="alter-rebbe">Боруховича</persName> ничего открыть</l>
+      <l><pb xml:id="p254-1" n="254-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/254-1.jpg"/> <fw
+      type="pageNum" place="right">254</fw><note place="end">номер вписан карандашом</note> <fw type="pageNum"
+      place="right"><del rend="overstrike">259</del></fw><note place="end">номер проставлен чернилами, зачеркнут
+      карандашом</note> не могъ. При всеподданѣйшемъ о</l>
+      <l>семъ <date when="1799-11-16">16 ноября</date><note place="end">не исключено, что 1798 г., когда проводилось
+      первое следствие по доносам на <orgName ref="Хасиды">хасидов</orgName></note> отъ Князя <persName ref="Лопухин">
+      Лопухина</persName></l>
+      <l>докладѣ <emph rend="big">вашему императорскому<lb/>
+       величеству</emph> благоугодно было высо-</l>
+      <l>чайше повелѣть, поелику въ поведе-</l>
+      <l>ніи евреевъ ничего вреднаго для</l>
+      <l>государства ниже развратнаго въ</l>
+      <l>нравахъ не усмотрѣно, то <persName ref="alter-rebbe">Боруховича</persName></l>
+      <l>освободить, имѣя за ними строгое</l>
+      <l>наблюденіе, не будетъ ли какихъ по-</l>
+      <l>таенныхъ сношеній съ развратно тол-</l>
+      <l>кующими о правительствѣ и образѣ</l>
+      <l>правленія; о чемъ тогда же и сооб-</l>
+      <l>щено <placeName ref="Белоруссия">Бѣлорусскому</placeName> и <placeName ref="Литва">Литовскому</placeName></l>
+      <l>Гражданскимъ Губернаторамъ.</l>
+    </p>
+    <pb xml:id="p254-2" n="254-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/254-2.jpg"/>
+  </body></text>
 </TEI>

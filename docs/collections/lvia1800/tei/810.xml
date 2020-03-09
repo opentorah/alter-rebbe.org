@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <author>?</author>
-      </titleStmt>
+      <titleStmt><author>?</author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
@@ -25,20 +15,18 @@
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p810-1" n="810-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/810-1.jpg"/>
-      <pb xml:id="p810-2" n="810-2"/>
-      <pb xml:id="p811-1" n="811-1"/>
-      <pb xml:id="p811-2" n="811-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/811-2.jpg"/>
-      <pb xml:id="p812-1" n="812-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/812-1.jpg"/>
-      <pb xml:id="p812-2" n="812-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/812-2.jpg"/>
-      <pb xml:id="p813-1" n="813-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/813-1.jpg"/>
-      <pb xml:id="p813-2" n="813-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/813-2.jpg"/>
-      <pb xml:id="p814-1" n="814-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/814-1.jpg"/>
-      <pb xml:id="p814-2" n="814-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/814-2.jpg"/>
-      <pb xml:id="p815-1" n="815-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/815-1.jpg"/>
-      <pb xml:id="p815-2" n="815-2"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p810-1" n="810-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/810-1.jpg"/>
+    <pb xml:id="p810-2" n="810-2"/>
+    <pb xml:id="p811-1" n="811-1"/>
+    <pb xml:id="p811-2" n="811-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/811-2.jpg"/>
+    <pb xml:id="p812-1" n="812-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/812-1.jpg"/>
+    <pb xml:id="p812-2" n="812-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/812-2.jpg"/>
+    <pb xml:id="p813-1" n="813-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/813-1.jpg"/>
+    <pb xml:id="p813-2" n="813-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/813-2.jpg"/>
+    <pb xml:id="p814-1" n="814-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/814-1.jpg"/>
+    <pb xml:id="p814-2" n="814-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/814-2.jpg"/>
+    <pb xml:id="p815-1" n="815-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/815-1.jpg"/>
+    <pb xml:id="p815-2" n="815-2"/>
+  </body></text>
 </TEI>

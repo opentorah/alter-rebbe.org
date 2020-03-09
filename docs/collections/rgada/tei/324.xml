@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,42 +8,31 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Об изъятии из следственного дела и отсылке в <orgName ref="Сенат">Сенат</orgName> отношения <placeName
+        ref="Белоруссия">Белорусскаго</placeName> губернатора <persName ref="Северин">Северина</persName> о <orgName
+        ref="Хасиды">хасидах</orgName>
+      </p></abstract>
+      <creation><date when="1800-12-22">22 декабря 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation>
-        <date when="1800-12-22">22 декабря 1800 года</date>
-      </creation>
-      <abstract>
-        <p>Об изъятии из следственного дела и отсылке в <orgName ref="Сенат">Сенат</orgName> отношения <placeName
-          ref="Белоруссия">Белорусскаго</placeName> губернатора <persName ref="Северин">Северина</persName> о <orgName
-          ref="Хасиды">хасидах</orgName></p>
-      </abstract>
     </profileDesc>
   </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p324-1" n="324-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/324-1.jpg"/>
-      <l>ЗдѢсь вынуто <sic>отнощенiе</sic> <placeName ref="Белоруссия">Белорускаго</placeName></l>
-      <l>губернатора <persName ref="Северин">Северина</persName> отъ <date when="1800-11-13">13 ноября<lb/>
-      1800 года</date> о преданiи и повиновенiи евреевъ</l>
-      <l>к его императорскому величеству</l>
-      <l>престолу, которое отослано в <orgName ref="Сенат">Сенатъ</orgName> </l>
-      <l>съ прочими бумагами <date when="1800-12-22">22 декабря<lb/>
-      1800 года</date></l>
-      <pb xml:id="p324-2" n="324-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/324-2.jpg"/>
-    </body>
-  </text>
+  <text><body>
+    <pb xml:id="p324-1" n="324-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/324-1.jpg"/>
+    <l>ЗдѢсь вынуто <sic>отнощенiе</sic> <placeName ref="Белоруссия">Белорускаго</placeName></l>
+    <l>губернатора <persName ref="Северин">Северина</persName> отъ <date when="1800-11-13">13 ноября<lb/>
+     1800 года</date> о преданiи и повиновенiи евреевъ</l>
+    <l>к его императорскому величеству</l>
+    <l>престолу, которое отослано в <orgName ref="Сенат">Сенатъ</orgName></l>
+    <l>съ прочими бумагами <date when="1800-12-22">22 декабря<lb/>
+     1800 года</date></l>
+    <pb xml:id="p324-2" n="324-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/324-2.jpg"/>
+  </body></text>
 </TEI>

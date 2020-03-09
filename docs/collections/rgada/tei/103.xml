@@ -1,58 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author></author>
+        <author/>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0
-                International License </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Перевод с польского языка протокола допроса <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Перевод с польского языка протокола допроса <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p103-1" n="103-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/103-1.jpg"/>
-      <fw type="docNum" place="left">№6</fw>
-      <fw type="note" place="right"><ref target="../documents/104.html">переводъ</ref></fw>
-      <fw type="pageNum" place="right">103</fw>
-      <head>
-        <l>Допросъ</l>
-        <l>жида <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></l>
-      </head>
-      <p>
-        <l>Я <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName> отъ роду</l>
-        <l>имѣю 30. лѣтъ, упражняюсь мещан-</l>
-        <l>скимъ промысломъ, родился въ мѣ-</l>
-        <l>стечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>, въ <placeName ref="Вильно">Вилнѣ</placeName> про-</l>
-        <l>живаю болѣе 20 лѣтъ, женатъ, имѣю</l>
-        <l>дѣтей, сыновей Гиршу и Хайку; тре-</l>
-        <l>тей годъ, какъ вступилъ въ <orgName ref="Хасиды">Каро-<lb/>
-          линскую секту</orgName>, и тогда былъ я</l>
-        <l>въ <placeName ref="Лозна">Лознѣ</placeName> у рабина, также и въ</l>
-        <l><placeName ref="Ляховицы">Ляховичѣ</placeName> у тамошняго рабина;</l>
-        <l>туда ѣздилъ я по комерціи; въ</l>
-        <l>прочемъ ничего не знаю.</l>
-      </p>
-      <l><signed>Подписалъ <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName>.</signed></l>
-      <pb xml:id="p103-2" n="103-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/103-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p103-1" n="103-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/103-1.jpg"/>
+    <fw type="docNum" place="left">№6</fw>
+    <fw type="note" place="right"><ref target="../documents/104.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">103</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName> отъ роду</l>
+      <l>имѣю 30. лѣтъ, упражняюсь мещан-</l>
+      <l>скимъ промысломъ, родился въ мѣ-</l>
+      <l>стечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>, въ <placeName ref="Вильно">Вилнѣ</placeName> про-</l>
+      <l>живаю болѣе 20 лѣтъ, женатъ, имѣю</l>
+      <l>дѣтей, сыновей Гиршу и Хайку; тре-</l>
+      <l>тей годъ, какъ вступилъ въ <orgName ref="Хасиды">Каро-<lb/>
+       линскую секту</orgName>, и тогда былъ я</l>
+      <l>въ <placeName ref="Лозна">Лознѣ</placeName> у рабина, также и въ</l>
+      <l><placeName ref="Ляховицы">Ляховичѣ</placeName> у тамошняго рабина;</l>
+      <l>туда ѣздилъ я по комерціи; въ</l>
+      <l>прочемъ ничего не знаю.</l>
+    </p>
+    <l><signed>Подписалъ <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName>.</signed></l>
+    <pb xml:id="p103-2" n="103-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/103-2.jpg"/>
+  </body></text>
 </TEI>

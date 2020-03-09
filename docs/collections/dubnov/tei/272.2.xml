@@ -1,91 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <author>
-                    <persName ref="alter-rebbe">Алтер Ребе</persName>
-                </author>
-                <editor role="transcriber">
-                    <persName ref="VK">Василий Когаловский</persName>
-                </editor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>
-                    <ptr target="www.alter-rebbe.org"/>
-                </publisher>
-                <availability status="free">
-                    <licence>
-                        <ab>
-                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
-                        </ab>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc>
-                <p>Facsimile</p>
-            </sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage>
-                <language ident="ru"/>
-            </langUsage>
-            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <creation><date when="1801-03">начало марта 1801 года</date></creation>
-            <abstract>
-                <p>№ 21. Прошение <persName ref="alter-rebbe">Залмана</persName> на высоч. имя об ускорении его дела,
-                    с приложением документов доказывающих безвредность хасидской секты</p>
-                <p>Документ <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref> в РГИА 413</p>
-            </abstract>
-            <correspDesc>
-                <correspAction>
-                    <persName ref="Павел_I" role="addressee">Павлу I</persName>
-                </correspAction>
-            </correspDesc>
-        </profileDesc>
-    </teiHeader>
-    <text xml:lang="ru">
-        <body>
-            <head>
-              <pb xml:id="p272" n="272" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/272.jpg"/>
-                № 21. Прошеніе <persName ref="alter-rebbe">Залмана</persName> на высоч. имя объ ускореніи его дѣла,
-                съ приложеніемъ документовъ доказывающихъ безвредность хасидской секты.
-            </head>
-            <p>Всепресвѣтлѣйшій, Державнѣйшій Великій Государь Императоръ <persName ref="Павел_I">Павелъ Петровичъ</persName>, Самодержецъ,
-                всероссійскій, Государь Всемилостивѣйшій!
-                Проситъ <placeName ref="Белоруссия">Бѣлорусской губерніи</placeName> местечка <placeName ref="Лозна">Ліозны
-                </placeName> еврей
-                <persName ref="alter-rebbe">Залманъ Боруховичъ</persName> о нижеслѣдующемъ:
-            </p>
-
-            <p>
-                <pb xml:id="p273" n="273" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/273.jpg"/>
-                1-е. Будучи извѣстенъ, что дѣло по несправедливому доносу еврея <persName ref="Авигдор">Абикдора
-                Хаймовича</persName> на меня и евреевъ хоседовъ, названныхъ имъ по ненависти <orgName ref="Хасиды">
-                каролинами</orgName>, производится
-                теперь Прав. <orgName ref="Сенат">Сената</orgName> въ 3-мъ Департаментѣ, – при семъ подношу
-                всеподданнѣйше 2 документа подъ литерами A и Б, изъясняющіе Высочайшую В. И. В-ва волю чтобъ оставить
-                насъ въ прежнемъ существованіи, и всеподданѣйше прошу:
-            </p>
-            <p>Дабы Высочайшимъ В. И. В. указомъ повелѣно было сіе мое прошеніе принявъ записать, и согласно прилагаемымъ
-                документамъ да ускорится разрѣшеніе судьбы нашей. Съ оныхъ же документовъ списавъ къ дѣлу копіи,
-                подлинныя мнѣ возвратить.
-            </p>
-            <p>Всемилостивѣйшій Государь! Прошу В. И. В. о семъ моемъ прошеніи рѣшеніе учинить.</p>
-            <p><date when="1801-03-??">Марта... дня, 1801 года</date>
-                <note type="gloss" place="end">Это прошеніе, поданное на имя <persName ref="Павел_I">Павла І</persName>,
-                    могло быть написано до 11 марта
-                    1801 г., дня смерти <persName ref="Павел_I">Павла</persName>; оно, слѣдовательно, относится къ
-                    первымъ числамъ марта, а заслушано въ сенатѣ уже при <persName ref="Александр_I">Александрѣ
-                        І</persName>.
-                </note>
-            </p>
-            <p>Къ поданію надлежитъ Прав. <orgName ref="Сенат">Сената</orgName> въ 3-ій департаменть. Прошеніе писалъ
-                канцеляристъ Рождественскій.</p>
-            <p>Слушано <date when="1801-04-12">12 апреля 1801</date> года.</p>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          № 21. Прошение <persName ref="alter-rebbe">Залмана</persName> на высоч. имя об ускорении его дела, с
+          приложением документов доказывающих безвредность хасидской секты
+        </p>
+        <p>Документ <ref target="/collections/rgia413/documents/023.html" role="documentViewer">023</ref> в РГИА 413</p>
+      </abstract>
+      <creation><date when="1801-03">начало марта 1801 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p272" n="272" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/272.jpg"/> № 21. Прошеніе
+      <persName ref="alter-rebbe">Залмана</persName> на высоч. имя объ ускореніи его дѣла, съ приложеніемъ документовъ
+      доказывающихъ безвредность хасидской секты.
+    </head>
+    <p>
+      Всепресвѣтлѣйшій, Державнѣйшій Великій Государь Императоръ <persName ref="Павел_I">Павелъ Петровичъ</persName>,
+      Самодержецъ, всероссійскій, Государь Всемилостивѣйшій! Проситъ <placeName ref="Белоруссия">Бѣлорусской губерніи
+      </placeName> местечка <placeName ref="Лозна">Ліозны</placeName> еврей <persName ref="alter-rebbe">Залманъ
+      Боруховичъ</persName> о нижеслѣдующемъ:
+    </p>
+    <p>
+      <pb xml:id="p273" n="273" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/273.jpg"/> 1-е. Будучи
+      извѣстенъ, что дѣло по несправедливому доносу еврея <persName ref="Авигдор">Абикдора Хаймовича</persName> на меня
+      и евреевъ хоседовъ, названныхъ имъ по ненависти <orgName ref="Хасиды">каролинами</orgName>, производится теперь
+      Прав. <orgName ref="Сенат">Сената</orgName> въ 3-мъ Департаментѣ, – при семъ подношу всеподданнѣйше 2 документа
+      подъ литерами A и Б, изъясняющіе Высочайшую В. И. В-ва волю чтобъ оставить насъ въ прежнемъ существованіи, и
+      всеподданѣйше прошу:
+    </p>
+    <p>
+      Дабы Высочайшимъ В. И. В. указомъ повелѣно было сіе мое прошеніе принявъ записать, и согласно прилагаемымъ
+      документамъ да ускорится разрѣшеніе судьбы нашей. Съ оныхъ же документовъ списавъ къ дѣлу копіи, подлинныя мнѣ
+      возвратить.
+    </p>
+    <p>Всемилостивѣйшій Государь! Прошу В. И. В. о семъ моемъ прошеніи рѣшеніе учинить.</p>
+    <p>
+      <date when="1801-03-??">Марта... дня, 1801 года</date>
+      <note type="gloss" place="end">Это прошеніе, поданное на имя <persName ref="Павел_I">Павла І</persName>, могло
+      быть написано до 11 марта 1801 г., дня смерти <persName ref="Павел_I">Павла</persName>; оно, слѣдовательно,
+      относится къ первымъ числамъ марта, а заслушано въ сенатѣ уже при <persName ref="Александр_I">Александрѣ
+      І</persName>.</note>
+    </p>
+    <p>
+      Къ поданію надлежитъ Прав. <orgName ref="Сенат">Сената</orgName> въ 3-ій департаменть. Прошеніе писалъ
+      канцеляристъ Рождественскій.
+    </p>
+    <p>Слушано <date when="1801-04-12">12 апреля 1801</date> года.</p>
+  </body></text>
 </TEI>

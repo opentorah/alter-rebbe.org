@@ -1,63 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-  xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Сведения о <orgName ref="Хасиды">хасидах</orgName>, полученные в ходе негласного правительственного
+        расследования
+      </p></abstract>
+      <creation><date when="1800-08">август 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1800-08">август 1800</date></creation>
-      <abstract>
-        <p>Сведения о <orgName ref="Хасиды">хасидах</orgName>, полученные в ходе негласного правительственного расследования</p>
-      </abstract>
     </profileDesc>
   </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p248-1" n="248-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/248-1.jpg"/>
-      <fw type="note" place="left">Копія</fw>
-      <fw type="pageNum" place="right">248</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">
-        253</del></fw><note place="end">номер записан чернилами, вычеркнут карандашом</note>
-      <p>
-        <l>Извѣстной еврейской <orgName ref="Хасиды">секты</orgName> въ <placeName ref="Белоруссия">Бѣло-<lb/>
-          русіи</placeName> находящійся  Патріархъ или началь-</l>
-        <l>никъ <persName ref="alter-rebbe">Саломонъ Борговичъ</persName> живетъ въ</l>
-        <l>
-          <placeName ref="Лозна">Лоснѣ</placeName> въ 8<hi rend="superscript">ми</hi> миляхъ отъ
-          <placeName ref="Витебск">Витебска</placeName>. _
-        </l>
-        <l>Число ихъ въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> и <placeName ref="Литва">Литвѣ</placeName></l>
-        <l>простирается до 40,000 человѣкъ. _ Увѣ-</l>
-        <l>ряютъ, что они весьма дерзко говорятъ</l>
-        <l>на щетъ закона и общественныхъ обя-</l>
-        <l>занностей._ Таинственное принятіе</l>
-        <l>въ ихъ <orgName ref="Хасиды">Секту</orgName> сопровождается клятвою,</l>
-        <l>и они предъ своимъ начальникомъ обя-</l>
-        <l>зуются слѣпымъ и неограниченнымъ по-</l>
-        <l>виновеніемъ. _ По многимъ призна-</l>
-        <l>камъ заключать вѣроподобно можно,</l>
-        <l>что сія <orgName ref="Хасиды">секта</orgName> есть иллюминатовъ.</l>
-      </p>
-      <pb xml:id="p248-2" n="248-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/248-2.jpg"/>
-    </body>
-  </text>
+  <text><body>
+    <pb xml:id="p248-1" n="248-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/248-1.jpg"/>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">248</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">253</del></fw><note place="end">номер записан чернилами,
+    вычеркнут карандашом</note>
+    <p>
+      <l>Извѣстной еврейской <orgName ref="Хасиды">секты</orgName> въ <placeName ref="Белоруссия">Бѣло-<lb/>
+       русіи</placeName> находящійся Патріархъ или началь-</l>
+      <l>никъ <persName ref="alter-rebbe">Саломонъ Борговичъ</persName> живетъ въ</l>
+      <l><placeName ref="Лозна">Лоснѣ</placeName> въ 8<hi rend="superscript">ми</hi> миляхъ отъ <placeName ref="Витебск"
+      >Витебска</placeName>. _</l>
+      <l>Число ихъ въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> и <placeName ref="Литва">Литвѣ</placeName></l>
+      <l>простирается до 40,000 человѣкъ. _ Увѣ-</l>
+      <l>ряютъ, что они весьма дерзко говорятъ</l>
+      <l>на щетъ закона и общественныхъ обя-</l>
+      <l>занностей._ Таинственное принятіе</l>
+      <l>въ ихъ <orgName ref="Хасиды">Секту</orgName> сопровождается клятвою,</l>
+      <l>и они предъ своимъ начальникомъ обя-</l>
+      <l>зуются слѣпымъ и неограниченнымъ по-</l>
+      <l>виновеніемъ. _ По многимъ призна-</l>
+      <l>камъ заключать вѣроподобно можно,</l>
+      <l>что сія <orgName ref="Хасиды">секта</orgName> есть иллюминатовъ.</l>
+    </p>
+    <pb xml:id="p248-2" n="248-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/248-2.jpg"/>
+  </body></text>
 </TEI>

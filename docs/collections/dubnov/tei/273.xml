@@ -1,88 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Жегулин">Жегулин</persName>
-        </author>
-        <editor role="transcriber">
-          <persName ref="VK">Василий Когаловский</persName>
-        </editor>
+        <author><persName ref="Жегулин">Жегулин</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1798-12-15">Декабря 15 дня 1798 года</date></creation>
       <abstract>
-        <p>Приложение А к документу № <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>.
-          Ордер <persName ref="Жегулин">Жегулина</persName>
-          <persName ref="Добрынин">Добрынину</persName>
-          об освобождении <persName ref="alter-rebbe">Залмана</persName>
+        <p>
+          Приложение А к документу № <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">
+          21</ref>. Ордер <persName ref="Жегулин">Жегулина</persName> <persName ref="Добрынин">Добрынину</persName> об
+          освобождении <persName ref="alter-rebbe">Залмана</persName>
         </p>
         <p>Документ <ref target="/collections/rgia413/documents/024.html" role="documentViewer">024</ref> в РГИА 413</p>
       </abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Добрынин" role="addressee">Добрынину</persName>
-        </correspAction>
+      <creation><date when="1798-12-15">Декабря 15 дня 1798 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Добрынин" role="addressee">Добрынину</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <head>
-        <pb xml:id="p273" n="273" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/273.jpg"/>
-        Приложение А к документу № <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>.
-        Ордеръ <placeName ref="Белоруссия">бѣлорусскаго</placeName>
-        <persName ref="Жегулин">губернатора</persName>
-        об освобожденіи <persName ref="alter-rebbe">Залмана</persName> (1798 г.).
-      </head>
-      <p><date when="1800-07-01">1800 года Іюля 1 дня</date>, по поданному прошенію на имя
-        <placeName ref="Витебск">Витебскаго</placeName> Коммиссара отъ
-        <placeName ref="Витебск">Витебскаго</placeName> купца <persName ref="Бениш_Янкелевич">Бениша
-          Янкелевича</persName>,
-        нижеслѣдующій ордеръ выданъ за скрѣпою.
-      </p>
-      <p>Копія. Полученъ <date when="1798-12-18">18 Декабря 798</date> года.
-      </p>
-      <p>Ордеръ <placeName ref="Витебск">Витебскому</placeName> Земскому Коммиссару Господину Коллежскому Ассесору
-        <persName ref="Добрынин">Добрынину</persName>. По Высочайшему Е. И. В-ва
-        повелѣнію, объявленному мнѣ въ отношеніи его Высокопр-ва Господина Д. Т. Сов. Ген.-прокурора и
-        кавалера <persName ref="Лопухин">Петра Васильевича Лопухина</persName>, взятый предъ симъ изъ мѣстечка <placeName
-          ref="Лозна">Лозны
-        </placeName> проживающій тамъ раввинъ <persName ref="alter-rebbe">Залманъ Боруховичъ</persName>, по разсмотрѣніи
-        обстоятельствъ, учиненъ свободнымъ, и секта евреевъ <orgName ref="Хасиды">Каролины</orgName> именуемая остается при
-        прежнемъ ея существованіи; для того предписываю Вашему Высокоблагородію отысканіе чрезъ <sic>публики</sic>
-        проживающаго въ <placeName ref="Островна">Островнѣ</placeName> еврея <persName ref="Орлик_Мовшович">Орлика Мовшовича</persName>
-        уничтожить и въ высылку его ко мнѣ уже не требовать. На подлинномъ подписано тако:
-        <persName ref="Жегулин">Семенъ Жегулинъ</persName>, <date when="1798-12-15">Декабря 15 дня 1798 года</date>. Съ
-        подлиннымъ свѣрялъ Земскій Коммиссаръ Бюсовъ. Съ-
-        <pb xml:id="p274" n="274" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/274.jpg"/>
-        подлиннымъ читалъ Губернскій Регистраторъ Мацишевъ. Съ представленной выписью читалъ Надворный Совѣтникъ
-        Ребишевъ
-      </p>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p273" n="273" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/273.jpg"/> Приложение А к
+      документу № <ref target="/collections/dubnov/documents/272.2.html" role="documentViewer">21</ref>. Ордеръ
+      <placeName ref="Белоруссия">бѣлорусскаго</placeName> <persName ref="Жегулин">губернатора</persName> об
+      освобожденіи <persName ref="alter-rebbe">Залмана</persName> (1798 г.).
+    </head>
+    <p>
+      <date when="1800-07-01">1800 года Іюля 1 дня</date>, по поданному прошенію на имя <placeName ref="Витебск">
+      Витебскаго</placeName> Коммиссара отъ <placeName ref="Витебск">Витебскаго</placeName> купца <persName
+      ref="Бениш_Янкелевич">Бениша Янкелевича</persName>, нижеслѣдующій ордеръ выданъ за скрѣпою.
+    </p>
+    <p>Копія. Полученъ <date when="1798-12-18">18 Декабря 798</date> года.</p>
+    <p>
+      Ордеръ <placeName ref="Витебск">Витебскому</placeName> Земскому Коммиссару Господину Коллежскому Ассесору
+      <persName ref="Добрынин">Добрынину</persName>. По Высочайшему Е. И. В-ва повелѣнію, объявленному мнѣ въ отношеніи
+      его Высокопр-ва Господина Д. Т. Сов. Ген.-прокурора и кавалера <persName ref="Лопухин">Петра Васильевича
+      Лопухина</persName>, взятый предъ симъ изъ мѣстечка <placeName ref="Лозна">Лозны</placeName> проживающій тамъ
+      раввинъ <persName ref="alter-rebbe">Залманъ Боруховичъ</persName>, по разсмотрѣніи обстоятельствъ, учиненъ
+      свободнымъ, и секта евреевъ <orgName ref="Хасиды">Каролины</orgName> именуемая остается при прежнемъ ея
+      существованіи; для того предписываю Вашему Высокоблагородію отысканіе чрезъ <sic>публики</sic> проживающаго въ
+      <placeName ref="Островна">Островнѣ</placeName> еврея <persName ref="Орлик_Мовшович">Орлика Мовшовича</persName>
+      уничтожить и въ высылку его ко мнѣ уже не требовать. На подлинномъ подписано тако: <persName ref="Жегулин">Семенъ
+      Жегулинъ</persName>, <date when="1798-12-15">Декабря 15 дня 1798 года</date>. Съ подлиннымъ свѣрялъ Земскій
+      Коммиссаръ Бюсовъ. Съ- <pb xml:id="p274" n="274"
+      facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/274.jpg"/> подлиннымъ читалъ Губернскій Регистраторъ
+      Мацишевъ. Съ представленной выписью читалъ Надворный Совѣтникъ Ребишевъ
+    </p>
+  </body></text>
 </TEI>
-              

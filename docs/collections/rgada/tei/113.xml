@@ -1,64 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author></author>
+        <author/>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Перевод с польского языка протокола допроса <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Перевод с польского языка протокола допроса <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p113-1" n="113-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/113-1.jpg"/>
-      <fw type="note" place="right"><ref target="../documents/114.html">переводъ</ref></fw>
-      <fw type="pageNum" place="right">113.</fw>
-      <head>
-        <l>Допросъ</l>
-        <l>жида <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName></l>
-      </head>
-      <p>
-        <l>Я <persName ref="Зелман_Леизерович">Зелманъ Лейзеровичъ</persName>, отъ роду</l>
-        <l>имѣю 43 года, торгую напитка-</l>
-        <l>ми, отъ чего имѣю пропитаніе, ро-</l>
-        <l>дился за <placeName ref="Минск">Минскомъ</placeName>, въ мѣстечкѣ Ту-</l>
-        <l>кары<note place="end">вероятно, Такары, ныне в Брестской обл. Белоруссии</note>, женатъ на дочери
-          <persName ref="Меер_Рафалович">Рафаловича</persName>,</l>
-        <l>имѣю четырехъ сыновей, Хайма, Ра</l>
-        <l>фала, Юделя и Берку, дочери двѣ,</l>
-        <l>Шейну и Естербелу, въ <placeName ref="Вильно">вилнѣ</placeName> живу</l>
-        <l>29 годъ; въ <orgName ref="Хасиды">секту каролинскую</orgName> не</l>
-        <l>вступалъ, и хотя ѣздилъ въ <placeName ref="Лозна">Лозну</placeName>,</l>
-        <l>однако сіе было единственно для</l>
-        <l>отысканія денегъ отданныхъ на</l>
-        <l>сохраненіе рабину чрезъ его и полоц-</l>
-        <l>каго мѣновщика еврея Неаха, на</l>
-        <l>значенныхъ въ приданое дочери и сы</l>
-        <l>ну онаго Неаха. Ѣздилъ я туда въ</l>
-        <l><date when="1797-10-??">октябрѣ 1797 года</date>.</l>
-        <l><signed>подписалъ <persName ref="Зелман_Леизерович">Зелманъ Лейзеровичъ</persName>.</signed></l>
-      </p>
-      <pb xml:id="p113-2" n="113-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/113-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p113-1" n="113-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/113-1.jpg"/>
+    <fw type="note" place="right"><ref target="../documents/114.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">113.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Зелман_Леизерович">Зелманъ Лейзеровичъ</persName>, отъ роду</l>
+      <l>имѣю 43 года, торгую напитка-</l>
+      <l>ми, отъ чего имѣю пропитаніе, ро-</l>
+      <l>дился за <placeName ref="Минск">Минскомъ</placeName>, въ мѣстечкѣ Ту-</l>
+      <l>кары<note place="end">вероятно, Такары, ныне в Брестской обл. Белоруссии</note>, женатъ на дочери <persName
+      ref="Меер_Рафалович">Рафаловича</persName>,</l>
+      <l>имѣю четырехъ сыновей, Хайма, Ра</l>
+      <l>фала, Юделя и Берку, дочери двѣ,</l>
+      <l>Шейну и Естербелу, въ <placeName ref="Вильно">вилнѣ</placeName> живу</l>
+      <l>29 годъ; въ <orgName ref="Хасиды">секту каролинскую</orgName> не</l>
+      <l>вступалъ, и хотя ѣздилъ въ <placeName ref="Лозна">Лозну</placeName>,</l>
+      <l>однако сіе было единственно для</l>
+      <l>отысканія денегъ отданныхъ на</l>
+      <l>сохраненіе рабину чрезъ его и полоц-</l>
+      <l>каго мѣновщика еврея Неаха, на</l>
+      <l>значенныхъ въ приданое дочери и сы</l>
+      <l>ну онаго Неаха. Ѣздилъ я туда въ</l>
+      <l><date when="1797-10-??">октябрѣ 1797 года</date>.</l>
+      <l><signed>подписалъ <persName ref="Зелман_Леизерович">Зелманъ Лейзеровичъ</persName>.</signed></l>
+    </p>
+    <pb xml:id="p113-2" n="113-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/113-2.jpg"/>
+  </body></text>
 </TEI>

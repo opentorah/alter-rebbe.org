@@ -1,104 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>
-          <persName ref="Северин">Северин</persName>
-        </author>
+        <author><persName ref="Северин">Северин</persName></author>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0
-                International License </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1800-11-13">1800-11-13</date></creation>
       <abstract>
-        <p>№ 14. Сообщение <persName ref="Северин">Северина</persName>
-          <persName ref="Обольянинов">Обольянинову</persName> об отправке хасидского „начальника”
-          <persName ref="alter-rebbe">Боруховича</persName> в <placeName ref="Петербург">Петербург</placeName></p>
+        <p>
+          № 14. Сообщение <persName ref="Северин">Северина</persName> <persName ref="Обольянинов">Обольянинову
+          </persName> об отправке хасидского „начальника” <persName ref="alter-rebbe">Боруховича</persName> в <placeName
+          ref="Петербург">Петербург</placeName>
+        </p>
         <p>Документ <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref> в РГАДА</p>
         <p>Документ <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref> в РГИА 413</p>
       </abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-        </correspAction>
+      <creation><date when="1800-11-13">1800-11-13</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <head>
-        <pb xml:id="p263" n="263" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/263.jpg"/>
-        № 14.
-        <note type="gloss" place="end">Документы съ № <ref target="/collections/dubnov/documents/263.2.html"
-                                                           role="documentViewer">14</ref> до конца скопированы из дел
-          3-го Депармента
-          <orgName ref="Сенат">Сената</orgName>, I отд. за 1800—1801 гг. (№№ 328 и 413).</note>
-        Сообщеніе <placeName ref="Белоруссия">Бѣлорусскаго</placeName> <persName ref="Северин">губернатора</persName>
-        <persName ref="Обольянинов">генералъ-прокурору</persName> объ отправкѣ хасидскаго „начальника”
-        <persName ref="alter-rebbe">Боруховича</persName> въ <placeName ref="Петербург">Петербургъ</placeName>
-      </head>
-
-      <fw>Секретно.</fw>
-      <salute>Ваше Превосходительство, Милостивый Государь!</salute>
-
-      <p>Вслѣдствіе почтеннѣйшаго Вашего отношенія отъ <date when="1800-10-30">30-го прошедшаго октября</date>,
-        отправилъ я <date when="1800-11-09">9 числа сего мѣсяца</date> къ Вашему Высокопревосходительству, съ двумя
-        сенатскими курьерами <persName ref="Петров">Петровымъ</persName> и <persName ref="Сукин">Сукинымъ</persName>,
-        требуемаго начальника <orgName ref="Хасиды">каролинской секты или хосадовъ</orgName>, ев-
-        <pb xml:id="p264" n="264" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/264.jpg"/>
-        рея <persName ref="alter-rebbe">Боруховича</persName>, имѣлъ честь донести, что о прочемъ въ томъ отношеніи
-        изображенномъ рѣшено будетъ точное и
-        непремѣнное исполненіе. Нынѣ же долгомъ поставляю почтеннѣйше В. В-ву донести, что секретно входилъ я въ
-        тончайшее испытаніе и изысканіе въ образѣ жизни и поведеніи <orgName ref="Хасиды">секты Каролинской</orgName> и
-        Россійскихъ раскольниковъ, но
-        ничего такого между ними соблазнительнаго, или неповиновенія къ власти не токмо не замѣчается, но и надѣяться
-        сего совершенно невозможно: ибо во всѣхъ мхъ существуетъ непоколебимое вѣрноподданичество къ Высочайшему
-        Е. И. В. престолу, истинное и безропотное повиновеніе къ власти, и по самой сектѣ ихъ ничего подобнаго къ
-        соблазнамъ, или противнаго общей тишинѣ и спокойствію не предусматривается. Да и самой начальникъ <orgName ref="Хасиды">Каролинской
-          секты</orgName> <persName ref="alter-rebbe">Боруховичъ</persName>, по засвидѣтельствованію
-        <placeName ref="Белоруссия">Бѣлорусскаго</placeName> Губернскаго
-        Еврейскаго Кагала, родившись въ мѣстечкѣ <placeName ref="Лозна">Лиошзнѣ</placeName>, ни въ чемъ другомъ
-        упражнялся, какъ въ единственномъ чтеніи духовныхъ книгъ и богомоленіи, входя прп<note place="end">так в
-          оригинале - alter-rebbe.org</note> томъ самымъ краткимъ образомъ,
-        безъ письменнаго какого либо производства, по общему ссорющихся сторонъ согласію, въ разборъ нѣкоторыхъ ихъ
-        претензій, которыя, какъ тотъ же Кагалъ удостовѣряетъ, рѣшалъ споры и удовлетворялъ такимъ образомъ, что обѣ
-        стороны оставались всегда довольны, и жалобъ на то нигдѣ не производили, что еще удостовѣряется и даннымъ ему
-        <persName ref="alter-rebbe">Боруховичу</persName> письменнымъ приказомъ, <date when="1798-02-08">8 числа февраля
-          1798 года</date> подъ <fw type="docNum">№ 624</fw>, отъ бывшаго
-        <placeName ref="Белоруссия">Бѣлорусскаго</placeName> Губернатора и Кавалера
-        <persName ref="Жегулин">Жегулина</persName>, по делу <placeName ref="Витебск">Витебскихъ</placeName> купцовъ
-        Гирши Нохимивича и Нохима Гиршановича.</p>
-
-      <p>За симъ остается мнѣ почтеннѣйше Ваше, Высокопр-ство удостовѣрить, что въ ввѣренной управленію моему
-        <placeName ref="Белоруссия">Бѣлорусской губерніи</placeName> нѣтъ и быть не можетъ никакихъ неблагонамѣренныхъ
-        къ Высочайшему Е. И. В-ва престолу людей, но всѣ суть вѣрноподанные, повинующіеся во всякихъ случаяхъ Высочайшей
-        Государя Императора волѣ и власти, всегда готовые пожертвовать собою въ <sic>испонелніи</sic> премудрыхъ Его
-        Величества учрежденій и сохраняющіе тишину и спокойствіе.</p>
-      <p>Съ истиннымъ высокопочитаніемъ Вашего Высокопр-ства всепокорнѣйшій слуга <persName ref="Северин">Петръ
-        (Северинъ)</persName>. <date calendar="#julian" when="1800-11-13">Ноября 13 дня 1800 года</date>.
-        Его Высокопр-ству Ген.-прокурору <persName ref="Обольянинов">Петру Хрисанфовичу Обольянинову</persName>.</p>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p263" n="263" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/263.jpg"/> № 14. <note
+      type="gloss" place="end">Документы съ № <ref target="/collections/dubnov/documents/263.2.html"
+      role="documentViewer">14</ref> до конца скопированы из дел 3-го Депармента <orgName ref="Сенат">Сената</orgName>,
+      I отд. за 1800—1801 гг. (№№ 328 и 413).</note> Сообщеніе <placeName ref="Белоруссия">Бѣлорусскаго</placeName>
+      <persName ref="Северин">губернатора</persName> <persName ref="Обольянинов">генералъ-прокурору</persName> объ
+      отправкѣ хасидскаго „начальника” <persName ref="alter-rebbe">Боруховича</persName> въ <placeName ref="Петербург">
+      Петербургъ</placeName>
+    </head>
+    <fw>Секретно.</fw>
+    <salute>Ваше Превосходительство, Милостивый Государь!</salute>
+    <p>
+      Вслѣдствіе почтеннѣйшаго Вашего отношенія отъ <date when="1800-10-30">30-го прошедшаго октября</date>, отправилъ я
+      <date when="1800-11-09">9 числа сего мѣсяца</date> къ Вашему Высокопревосходительству, съ двумя сенатскими
+      курьерами <persName ref="Петров">Петровымъ</persName> и <persName ref="Сукин">Сукинымъ</persName>, требуемаго
+      начальника <orgName ref="Хасиды">каролинской секты или хосадовъ</orgName>, ев- <pb xml:id="p264" n="264"
+      facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/264.jpg"/> рея <persName ref="alter-rebbe">
+      Боруховича</persName>, имѣлъ честь донести, что о прочемъ въ томъ отношеніи изображенномъ рѣшено будетъ точное и
+      непремѣнное исполненіе. Нынѣ же долгомъ поставляю почтеннѣйше В. В-ву донести, что секретно входилъ я въ тончайшее
+      испытаніе и изысканіе въ образѣ жизни и поведеніи <orgName ref="Хасиды">секты Каролинской</orgName> и Россійскихъ
+      раскольниковъ, но ничего такого между ними соблазнительнаго, или неповиновенія къ власти не токмо не замѣчается,
+      но и надѣяться сего совершенно невозможно: ибо во всѣхъ мхъ существуетъ непоколебимое вѣрноподданичество къ
+      Высочайшему Е. И. В. престолу, истинное и безропотное повиновеніе къ власти, и по самой сектѣ ихъ ничего подобнаго
+      къ соблазнамъ, или противнаго общей тишинѣ и спокойствію не предусматривается. Да и самой начальникъ <orgName
+      ref="Хасиды">Каролинской секты</orgName> <persName ref="alter-rebbe">Боруховичъ</persName>, по
+      засвидѣтельствованію <placeName ref="Белоруссия">Бѣлорусскаго</placeName> Губернскаго Еврейскаго Кагала, родившись
+      въ мѣстечкѣ <placeName ref="Лозна">Лиошзнѣ</placeName>, ни въ чемъ другомъ упражнялся, какъ въ единственномъ
+      чтеніи духовныхъ книгъ и богомоленіи, входя прп<note place="end">так в оригинале - alter-rebbe.org</note> томъ
+      самымъ краткимъ образомъ, безъ письменнаго какого либо производства, по общему ссорющихся сторонъ согласію, въ
+      разборъ нѣкоторыхъ ихъ претензій, которыя, какъ тотъ же Кагалъ удостовѣряетъ, рѣшалъ споры и удовлетворялъ такимъ
+      образомъ, что обѣ стороны оставались всегда довольны, и жалобъ на то нигдѣ не производили, что еще удостовѣряется
+      и даннымъ ему <persName ref="alter-rebbe">Боруховичу</persName> письменнымъ приказомъ, <date when="1798-02-08">8
+      числа февраля 1798 года</date> подъ <fw type="docNum">№ 624</fw>, отъ бывшаго <placeName ref="Белоруссия">
+      Бѣлорусскаго</placeName> Губернатора и Кавалера <persName ref="Жегулин">Жегулина</persName>, по делу <placeName
+      ref="Витебск">Витебскихъ</placeName> купцовъ Гирши Нохимивича и Нохима Гиршановича.
+    </p>
+    <p>
+      За симъ остается мнѣ почтеннѣйше Ваше, Высокопр-ство удостовѣрить, что въ ввѣренной управленію моему <placeName
+      ref="Белоруссия">Бѣлорусской губерніи</placeName> нѣтъ и быть не можетъ никакихъ неблагонамѣренныхъ къ Высочайшему
+      Е. И. В-ва престолу людей, но всѣ суть вѣрноподанные, повинующіеся во всякихъ случаяхъ Высочайшей Государя
+      Императора волѣ и власти, всегда готовые пожертвовать собою въ <sic>испонелніи</sic> премудрыхъ Его Величества
+      учрежденій и сохраняющіе тишину и спокойствіе.
+    </p>
+    <p>
+      Съ истиннымъ высокопочитаніемъ Вашего Высокопр-ства всепокорнѣйшій слуга <persName ref="Северин">Петръ
+      (Северинъ)</persName>. <date calendar="#julian" when="1800-11-13">Ноября 13 дня 1800 года</date>. Его
+      Высокопр-ству Ген.-прокурору <persName ref="Обольянинов">Петру Хрисанфовичу Обольянинову</persName>.
+    </p>
+  </body></text>
 </TEI>

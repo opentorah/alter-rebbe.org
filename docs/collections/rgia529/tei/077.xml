@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <author>?</author>
-            </titleStmt>
-            <publicationStmt>
-                <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <availability status="free">
-                    <licence>
-                        <ab>
-                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
-                        </ab>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc><p>Facsimile</p></sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage><language ident="ru"/></langUsage>
-            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <abstract><p>Дневник правления Литвы</p></abstract>
-        </profileDesc>
-    </teiHeader>
-    <text xml:lang="ru">
-        <body>
-            <pb xml:id="p077-1" n="077-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/077-1.jpg"/>
-            <pb xml:id="p077-2" n="077-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/077-2.jpg"/>
-            <pb xml:id="p078-1" n="078-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/078-1.jpg"/>
-            <pb xml:id="p078-2" n="078-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/078-2.jpg"/>
-            <pb xml:id="p079-1" n="079-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/079-1.jpg"/>
-            <pb xml:id="p079-2" n="079-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/079-2.jpg"/>
-            <pb xml:id="p080-1" n="080-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/080-1.jpg"/>
-            <pb xml:id="p080-2" n="080-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/080-2.jpg"/>
-            <pb xml:id="p081-1" n="081-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/081-1.jpg"/>
-            <pb xml:id="p081-2" n="081-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/081-2.jpg"/>
-            <pb xml:id="p082-1" n="082-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/082-1.jpg"/>
-            <pb xml:id="p082-2" n="082-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/082-2.jpg"/>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author>?</author></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>Дневник правления Литвы</p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p077-1" n="077-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/077-1.jpg"/>
+    <pb xml:id="p077-2" n="077-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/077-2.jpg"/>
+    <pb xml:id="p078-1" n="078-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/078-1.jpg"/>
+    <pb xml:id="p078-2" n="078-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/078-2.jpg"/>
+    <pb xml:id="p079-1" n="079-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/079-1.jpg"/>
+    <pb xml:id="p079-2" n="079-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/079-2.jpg"/>
+    <pb xml:id="p080-1" n="080-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/080-1.jpg"/>
+    <pb xml:id="p080-2" n="080-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/080-2.jpg"/>
+    <pb xml:id="p081-1" n="081-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/081-1.jpg"/>
+    <pb xml:id="p081-2" n="081-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/081-2.jpg"/>
+    <pb xml:id="p082-1" n="082-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/082-1.jpg"/>
+    <pb xml:id="p082-2" n="082-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/082-2.jpg"/>
+  </body></text>
 </TEI>

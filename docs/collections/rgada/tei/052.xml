@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -10,82 +9,165 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Список арестованных <orgName ref="Хасиды">хасидов</orgName> с номерами их допросов и перечнем реквизированных
+        бумаг – приложение к сообщению <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">
+        Лопухину</persName>, см.: <ref target="http://www.alter-rebbe.org/collections/rgada/documents/044.html">044
+        </ref>
+      </p></abstract>
+      <creation><date when="1798-10-25">25 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1798-10-25">25 октября 1798</date></creation>
-      <abstract>
-        <p>Список арестованных <orgName ref="Хасиды">хасидов</orgName> с номерами их допросов и перечнем реквизированных бумаг
-          – приложение к сообщению <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName>,
-          см.: <ref target="http://www.alter-rebbe.org/collections/rgada/documents/044.html">044</ref></p>
-      </abstract>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p052-1" n="052-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/052-1.jpg"/>
-      <fw type="note" place="left">къ №</fw>
-      <fw type="note" place="left">D</fw>
-      <fw type="pageNum" place="right">52.</fw>
-      <head><l>Реестръ</l>
-        <l>подлинныхъ допросовъ съ переводами, и разныхъ</l>
-        <l>бумагъ по дѣлу <orgName ref="Хасиды">каролинской секты</orgName> при семъ</l>
-        <l>подъ №<hi rend="superscript">ми</hi> представляемыхъ</l></head>
-      <list>
-        <head><emph rend="underline">Допросы Евреевъ</emph></head>
-        <fw>№</fw>
-        <item><label>1.</label> <ref
-          target="../documents/090.html"><persName ref="Меер_Рафалович">Меіера Рафаловича</persName></ref></item>
-        <item><label>2</label> <ref
-          target="../documents/093.html"><persName ref="Нохим_Ицкович">Нохима Ицковича</persName></ref></item>
-        <item><label>3</label> <ref target="../documents/097.html"><persName ref="Лейба_Зеликович">Лейбы Зеликовича</persName></ref></item>
-        <item><label>4</label> <ref target="../documents/099.html"><persName ref="Арон_Беркович">Арона Берковича</persName></ref></item>
-        <item><label>5</label> <ref target="../documents/101.html"><persName ref="Лейба_Меіерович">Лейбы Меіеровича</persName></ref></item>
-        <item><label>6</label> <ref target="../documents/103.html"><persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></ref></item>
-        <item><label>7</label> <ref target="../documents/105.html"><persName ref="Вулф_Шимелиович">Вулфа Шимеліовича</persName></ref></item>
-        <item><label>8</label> <ref target="../documents/107.html"><persName ref="Рафаил_Шлиомович">Рафаила Шломовича</persName></ref></item>
-        <item><label>9</label> <ref target="../documents/109.html"><persName ref="Юдель_Елиашевич">Юделя Еліашевича</persName></ref></item>
-        <item><label>10</label> <ref target="../documents/111.html"><persName ref="Михель_Файбишович">Михеля Файбишовича</persName></ref></item>
-        <item><label>11.</label> <ref target="../documents/113.html"><persName ref="Зелман_Леизерович">Зелмана Леизеровича</persName></ref></item>
-        <item><label>12</label> <ref target="../documents/115.html"><persName ref="Перец_Хаймович">Переца Хаймовича</persName></ref></item>
-        <item><label>13</label> <ref target="../documents/117.html"><persName ref="Ицко_Сайович">Ицка Саіовича</persName></ref></item>
-        <item><label>14</label> <ref target="../documents/120.html"><persName ref="Шая_Ицкович">Шая Ицковича</persName></ref></item>
-        <item><label>15</label> <ref target="../documents/121.html"><persName ref="Леизер_Нотолевич">Леизера Нотолевича</persName></ref></item>
-        <item><label>16</label> <ref target="../documents/123.html"><persName ref="Борух_Мордухович">Боруха Мордуховича</persName></ref></item>
-        <item><label>17</label>
-          <ref target="../documents/125.html"><persName ref="Иосель_Мовшович">Јоселя Мовшовича</persName></ref></item>
-        <item><label>18</label> <ref target="../documents/127.html"><persName ref="Мовша_Иосиелиович">Мовши Јосіеліовича</persName></ref></item>
-        <item><label>19</label> <ref target="../documents/129.html"><persName ref="Хлиовна_Зорухович">Хлїовны Зоруховича</persName></ref></item>
-        <pb xml:id="p052-2" n="052-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/052-2.jpg"/>
-        <fw type="pageNum">52об.</fw>
-        <item><label>20</label> <ref target="../documents/131.html"><persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></ref></item>
-        <item><label>21</label> <ref target="../documents/133.html"><persName ref="Гирш_Иоселиович">Гирши Јосіеліовича</persName></ref></item>
-        <item><label>22</label> <ref target="../documents/135.html"><persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName> съ билетами.</ref></item>
-        <item>-----</item>
-        <item><label>23</label> <ref target="../documents/143a.html">Бумаги найденныя у <persName ref="Меер_Рафалович">Меіера Рафаловича</persName>.</ref>.</item>
-        <item><label>24</label> <ref target="../documents/150a.html">Писмо найденное у <persName ref="Вулф_Шимелиович">Волфа Шимеловича</persName></ref></item>
-        <item><label>25</label> <ref target="../documents/152a.html">Бумаги <persName ref="Нохим_Ицкович">Нохима Ицковича</persName></ref></item>
-        <item><label>26</label> <ref target="../documents/158.html">Допрос секретаря Кузминскаго</ref></item>
-        <item><label>27</label> <ref target="../documents/159.html">Начало писма жидовскаго, руки онаго Кузминскаго</ref></item>
-        <item><label>28</label> <ref target="../documents/160.html">росписки денег пересланныхъ отсюда въ <placeName
-          ref="Иерусалим">Јерусалимъ</placeName></ref></item>
-        <item><label>29</label> <ref target="../documents/233.html">реестр денег пересланныхъ отсюда въ <placeName
-          ref="Иерусалим">Јерусалимъ</placeName></ref></item>
-        <item><label>30</label> <ref target="../documents/234.html">Бумаги <persName ref="Рафаил_Шлиомович">Рафала Шломовича</persName></ref></item>
-      </list>
-      <closer><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></closer>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p052-1" n="052-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/052-1.jpg"/>
+    <fw type="note" place="left">къ №</fw>
+    <fw type="note" place="left">D</fw>
+    <fw type="pageNum" place="right">52.</fw>
+    <head>
+      <l>Реестръ</l>
+      <l>подлинныхъ допросовъ съ переводами, и разныхъ</l>
+      <l>бумагъ по дѣлу <orgName ref="Хасиды">каролинской секты</orgName> при семъ</l>
+      <l>подъ №<hi rend="superscript">ми</hi> представляемыхъ</l>
+    </head>
+    <list>
+      <head><emph rend="underline">Допросы Евреевъ</emph></head>
+      <fw>№</fw>
+      <item>
+        <label>1.</label>
+        <ref target="../documents/090.html"><persName ref="Меер_Рафалович">Меіера Рафаловича</persName></ref>
+      </item>
+      <item>
+        <label>2</label>
+        <ref target="../documents/093.html"><persName ref="Нохим_Ицкович">Нохима Ицковича</persName></ref>
+      </item>
+      <item>
+        <label>3</label>
+        <ref target="../documents/097.html"><persName ref="Лейба_Зеликович">Лейбы Зеликовича</persName></ref>
+      </item>
+      <item>
+        <label>4</label>
+        <ref target="../documents/099.html"><persName ref="Арон_Беркович">Арона Берковича</persName></ref>
+      </item>
+      <item>
+        <label>5</label>
+        <ref target="../documents/101.html"><persName ref="Лейба_Меіерович">Лейбы Меіеровича</persName></ref>
+      </item>
+      <item>
+        <label>6</label>
+        <ref target="../documents/103.html"><persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></ref>
+      </item>
+      <item>
+        <label>7</label>
+        <ref target="../documents/105.html"><persName ref="Вулф_Шимелиович">Вулфа Шимеліовича</persName></ref>
+      </item>
+      <item>
+        <label>8</label>
+        <ref target="../documents/107.html"><persName ref="Рафаил_Шлиомович">Рафаила Шломовича</persName></ref>
+      </item>
+      <item>
+        <label>9</label>
+        <ref target="../documents/109.html"><persName ref="Юдель_Елиашевич">Юделя Еліашевича</persName></ref>
+      </item>
+      <item>
+        <label>10</label>
+        <ref target="../documents/111.html"><persName ref="Михель_Файбишович">Михеля Файбишовича</persName></ref>
+      </item>
+      <item>
+        <label>11.</label>
+        <ref target="../documents/113.html"><persName ref="Зелман_Леизерович">Зелмана Леизеровича</persName></ref>
+      </item>
+      <item>
+        <label>12</label>
+        <ref target="../documents/115.html"><persName ref="Перец_Хаймович">Переца Хаймовича</persName></ref>
+      </item>
+      <item>
+        <label>13</label>
+        <ref target="../documents/117.html"><persName ref="Ицко_Сайович">Ицка Саіовича</persName></ref>
+      </item>
+      <item>
+        <label>14</label>
+        <ref target="../documents/120.html"><persName ref="Шая_Ицкович">Шая Ицковича</persName></ref>
+      </item>
+      <item>
+        <label>15</label>
+        <ref target="../documents/121.html"><persName ref="Леизер_Нотолевич">Леизера Нотолевича</persName></ref>
+      </item>
+      <item>
+        <label>16</label>
+        <ref target="../documents/123.html"><persName ref="Борух_Мордухович">Боруха Мордуховича</persName></ref>
+      </item>
+      <item>
+        <label>17</label>
+        <ref target="../documents/125.html"><persName ref="Иосель_Мовшович">Јоселя Мовшовича</persName></ref>
+      </item>
+      <item>
+        <label>18</label>
+        <ref target="../documents/127.html"><persName ref="Мовша_Иосиелиович">Мовши Јосіеліовича</persName></ref>
+      </item>
+      <item>
+        <label>19</label>
+        <ref target="../documents/129.html"><persName ref="Хлиовна_Зорухович">Хлїовны Зоруховича</persName></ref>
+      </item>
+      <pb xml:id="p052-2" n="052-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/052-2.jpg"/>
+      <fw type="pageNum">52об.</fw>
+      <item>
+        <label>20</label>
+        <ref target="../documents/131.html"><persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></ref>
+      </item>
+      <item>
+        <label>21</label>
+        <ref target="../documents/133.html"><persName ref="Гирш_Иоселиович">Гирши Јосіеліовича</persName></ref>
+      </item>
+      <item>
+        <label>22</label>
+        <ref target="../documents/135.html"><persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName> съ билетами.
+        </ref>
+      </item>
+      <item>-----</item>
+      <item>
+        <label>23</label> <ref target="../documents/143a.html">Бумаги найденныя у <persName ref="Меер_Рафалович">Меіера
+        Рафаловича</persName>.</ref>.
+      </item>
+      <item>
+        <label>24</label>
+        <ref target="../documents/150a.html">Писмо найденное у <persName ref="Вулф_Шимелиович">Волфа Шимеловича
+        </persName></ref>
+      </item>
+      <item>
+        <label>25</label>
+        <ref target="../documents/152a.html">Бумаги <persName ref="Нохим_Ицкович">Нохима Ицковича</persName></ref>
+      </item>
+      <item>
+        <label>26</label>
+        <ref target="../documents/158.html">Допрос секретаря Кузминскаго</ref>
+      </item>
+      <item>
+        <label>27</label>
+        <ref target="../documents/159.html">Начало писма жидовскаго, руки онаго Кузминскаго</ref>
+      </item>
+      <item>
+        <label>28</label>
+        <ref target="../documents/160.html">росписки денег пересланныхъ отсюда въ <placeName ref="Иерусалим">Јерусалимъ
+        </placeName></ref>
+      </item>
+      <item>
+        <label>29</label>
+        <ref target="../documents/233.html">реестр денег пересланныхъ отсюда въ <placeName ref="Иерусалим">Јерусалимъ
+        </placeName></ref>
+      </item>
+      <item>
+        <label>30</label>
+        <ref target="../documents/234.html">Бумаги <persName ref="Рафаил_Шлиомович">Рафала Шломовича</persName></ref>
+      </item>
+    </list>
+    <closer><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></closer>
+  </body></text>
 </TEI>

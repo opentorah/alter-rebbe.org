@@ -1,77 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>
+        Рапорт Малороссийского губернатора <persName ref="Обольянинов">Обольянинову</persName> о получении предписания
+        ввести надзор за <orgName ref="Хасиды">хасидами</orgName> и отсутствии таковых в губернии
+      </p></abstract>
       <creation><date when="1800-12-01">1 Декабря 1800</date></creation>
-      <abstract><p>Рапорт Малороссийского губернатора <persName ref="Обольянинов">Обольянинову</persName> о получении
-        предписания ввести надзор за <orgName ref="Хасиды">хасидами</orgName> и отсутствии таковых в губернии</p></abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-        </correspAction>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p352-1" n="352-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/352-1.jpg"/>
-      <fw type="docNum" place="left">№ 1744.</fw>
-      <date when="1800-12-15">15 декабря 1800<hi rend="superscript">го</hi></date>
-      <fw type="note" place="right">секретно</fw>
-      <fw type="pageNum" place="right">352</fw>
-      <fw type="note" place="right">Къ отпуску</fw>
-      <p>
-        <l></l>
-        <l><salute>Милостивой государь<lb/>
-          <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName></salute></l>
-        <l>Вашего высокопревосходительства предписаніе</l>
-        <l>отъ <date when="1800-11-01">1<hi rend="superscript">го</hi> ноября</date> о именіи мнѣ самомъ тайнымъ</l>
-        <l>образомъ неослабнаго за поведеніемъ и поступ</l>
-        <l>ками <orgName ref="Хасиды">каролинской секты евреевъ</orgName> наблюденія,</l>
-        <l>я имелъ честь получить. При семъ вашему высоко</l>
-        <l>превосходительству долгомъ поставляю донесть</l>
-        <l>что въ малороссійской губерніи вообще евреевъ весма</l>
-        <l>не много и не более какъ тысячъ до трехъ.</l>
-        <l>упомянутой же въ письмѣ вашего высокопрево-</l>
-        <l>сходительства <orgName ref="Хасиды">секты</orgName> сколько мнѣ известно вовсе</l>
-        <l>не имеется. развѣ забредшие изъ <placeName ref="Белоруссия">белоруской губерніи</placeName></l>
-        <l>где ихъ довольное число; Главной ихъ учитель <persName ref="alter-rebbe">со-<lb/>
-          ломонъ, или по ихъ произношенію Зельман</persName>–</l>
-        <l>естли я не ошибаюсь жилъ между <placeName ref="Витебск">витебскомъ</placeName> и по-</l>
-        <l>лоцкомъ въ мѣстечке <placeName ref="Лозна">Ліожномъ</placeName>, а также въ месте</l>
-        <l>чке Дубровне<note place="end">ныне город Дубровно в <placeName ref="Витебск">Витебской
-        </placeName> области <placeName ref="Белоруссия">Белоруссии</placeName></note>принадлежащей князю Любомирскому.</l>
-        <l>За евреями жъ въ здешней губерніи живущими по сіе</l>
-        <l>время ничево подозрительнаго не замечено. –</l>
-        <l>Съ совершеннѣйшимъ всокопочитаніемъ имею</l>
-        <l>честь быть. вашего высокопревосходительства</l>
-        <l>всепокорнѣйшій слуга</l>
-        <l><signed>Френсдорф</signed></l>
-        <l><date when="1800-12-01">1 Декабря 1800.</date></l>
-        <l>Черниговъ</l>
-      </p>
-      <pb xml:id="p352-2" n="352-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/352-2.jpg"/>
-    </body>
-  </text>
+  <text><body>
+    <pb xml:id="p352-1" n="352-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/352-1.jpg"/>
+    <fw type="docNum" place="left">№ 1744.</fw>
+    <date when="1800-12-15">15 декабря 1800<hi rend="superscript">го</hi></date>
+    <fw type="note" place="right">секретно</fw>
+    <fw type="pageNum" place="right">352</fw>
+    <fw type="note" place="right">Къ отпуску</fw>
+    <p>
+      <l/>
+      <l><salute>Милостивой государь<lb/>
+         <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName></salute></l>
+      <l>Вашего высокопревосходительства предписаніе</l>
+      <l>отъ <date when="1800-11-01">1<hi rend="superscript">го</hi> ноября</date> о именіи мнѣ самомъ тайнымъ</l>
+      <l>образомъ неослабнаго за поведеніемъ и поступ</l>
+      <l>ками <orgName ref="Хасиды">каролинской секты евреевъ</orgName> наблюденія,</l>
+      <l>я имелъ честь получить. При семъ вашему высоко</l>
+      <l>превосходительству долгомъ поставляю донесть</l>
+      <l>что въ малороссійской губерніи вообще евреевъ весма</l>
+      <l>не много и не более какъ тысячъ до трехъ.</l>
+      <l>упомянутой же въ письмѣ вашего высокопрево-</l>
+      <l>сходительства <orgName ref="Хасиды">секты</orgName> сколько мнѣ известно вовсе</l>
+      <l>не имеется. развѣ забредшие изъ <placeName ref="Белоруссия">белоруской губерніи</placeName></l>
+      <l>где ихъ довольное число; Главной ихъ учитель <persName ref="alter-rebbe">со-<lb/>
+       ломонъ, или по ихъ произношенію Зельман</persName>–</l>
+      <l>естли я не ошибаюсь жилъ между <placeName ref="Витебск">витебскомъ</placeName> и по-</l>
+      <l>лоцкомъ въ мѣстечке <placeName ref="Лозна">Ліожномъ</placeName>, а также въ месте</l>
+      <l>чке Дубровне<note place="end">ныне город Дубровно в <placeName ref="Витебск">Витебской</placeName> области
+      <placeName ref="Белоруссия">Белоруссии</placeName></note>принадлежащей князю Любомирскому.</l>
+      <l>За евреями жъ въ здешней губерніи живущими по сіе</l>
+      <l>время ничево подозрительнаго не замечено. –</l>
+      <l>Съ совершеннѣйшимъ всокопочитаніемъ имею</l>
+      <l>честь быть. вашего высокопревосходительства</l>
+      <l>всепокорнѣйшій слуга</l>
+      <l><signed>Френсдорф</signed></l>
+      <l><date when="1800-12-01">1 Декабря 1800.</date></l>
+      <l>Черниговъ</l>
+    </p>
+    <pb xml:id="p352-2" n="352-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/352-2.jpg"/>
+  </body></text>
 </TEI>

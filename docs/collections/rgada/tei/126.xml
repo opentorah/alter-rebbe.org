@@ -1,39 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <author>
-          <persName ref="Иосель_Мовшович">Иосель Мовшович</persName>
-        </author>
-      </titleStmt>
+      <titleStmt><author><persName ref="Иосель_Мовшович">Иосель Мовшович</persName></author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="pl"/>
-      </langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
       <abstract><p>Допрос жида <persName ref="Иосель_Мовшович">Иоселя Мовшовича</persName></p></abstract>
+      <langUsage><language ident="pl"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="pl">
-    <body>
-      <pb xml:id="p126-1" n="126-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/126-1.jpg"/>
-      <pb xml:id="p126-2" n="126-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/126-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="pl"><body>
+    <pb xml:id="p126-1" n="126-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/126-1.jpg"/>
+    <pb xml:id="p126-2" n="126-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/126-2.jpg"/>
+  </body></text>
 </TEI>
