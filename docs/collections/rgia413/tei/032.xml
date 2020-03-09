@@ -1,97 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <author><persName ref="Фризель">Фризель</persName></author>
-                <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-            </titleStmt>
-            <publicationStmt>
-                <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-                <availability status="free">
-                    <licence>
-                        <ab>
-                            <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                                Creative Commons Attribution 4.0 International License
-                            </ref>
-                        </ab>
-                    </licence>
-                </availability>
-            </publicationStmt>
-            <sourceDesc><p>Facsimile</p></sourceDesc>
-        </fileDesc>
-        <profileDesc>
-            <langUsage><language ident="ru"/></langUsage>
-            <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-            <creation><date when="1800-01-23">Генваря 23-го дня, 1800</date></creation>
-            <abstract>
-                <p>Объявление <persName ref="Фризель">Фризеля</persName> о высочайше дорованной терпимости к
-                    <orgName ref="Хасиды">секте Каролинов</orgName></p>
-                <p><ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">Приложение Б к
-                    документу № 21</ref> у Дубнова</p>
-                <p>Копия документа <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref> выше</p>
-            </abstract>
-        </profileDesc>
-    </teiHeader>
-    <text xml:lang="ru">
-        <body>
-            <pb xml:id="p032-1" n="032-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/032-1.jpg"/>
-            <fw type="pageNum" place="right"><del rend="overstrike">69</del></fw>
-            <fw type="pageNum" place="right">32</fw>
-            <fw type="note">с копіи копія</fw>
-            <fw type="docNum" place="left">№ 57</fw>
-            <fw type="note"><l>Получено <date when="1800-01-25">генваря 25<hi rend="superscript">го</hi> дня<lb/>
-                1800 года</date></l></fw>
-
-            <head>
-                <l><emph rend="big">Предложеніе</emph></l>
-                <l>Действительнаго статскаго Совѣтника <placeName ref="Литва">Литовс-<lb/>
-                    каго</placeName> гражданскаго губернатора и кавалера</l>
-                <l><placeName ref="Вильно">вилѣнской</placeName> городовой полиціи</l>
-            </head>
-
-            <p>
-                <l>Предлагаю <placeName ref="Вильно">вилѣнской</placeName> полиціи призвать прежнихъ</l>
-                <l><orgName ref="Виленский_кагал">виленскаго еврейскаго кагала</orgName> старшинъ евреев <unclear>???</unclear></l>
-                <l><persName ref="Мовша_Ошерович">Мовшу ошеровича</persName>, <persName ref="Ицка_Мелентович">ицку Мелентовича</persName> утруждавшихъ</l>
-                <l><emph rend="big">государя императора</emph> прошеніями и посылавшихъ</l>
-                <l>таковыя же и господину Генералъ прокурору и кавалеру</l>
-                <l><persName ref="Беклешов">Беклѣшеву</persName> о уничтоженіи между протчимъ секты</l>
-                <l>королиновъ и о оставлѣніи <orgName ref="Виленский_кагал">кагалу</orgName> и синагоге права</l>
-                <l>заниматься разборомъ гражданскихъ дѣл между</l>
-                <l>евреями объявить что <emph rend="big">по высочайшему его<lb/>
-                    императорскаго величества</emph> соизволенію</l>
-                <l>секта королинская должна быть терпима</l>
-                <l>и что <orgName ref="Виленский_кагал">кагалу</orgName> долженствуетъ заниматься</l>
-                <l>единственно дѣлами обрядовъ закона и бого-</l>
-                <l>служенія не вмешиваясь отъ нюдь въ гражданскія</l>
-                <l>дѣла для коихъ установлѣны закономъ</l>
-                <l>особенныя места и что сіе имъ обяъявлено взять</l>
-                <l>отъ нихъ подписку и о томъ меня уведомить. </l>
-                <l>Подлинное подписалъ <persName ref="Фризель">Иванъ Фризель</persName>, подлинную</l>
-                <l>копію сверялъ регистраторъ кичковъ <date when="1800-01-23">генваря<lb/>
-                    23<hi rend="superscript">го</hi> дня 1800<hi rend="superscript">го</hi> года</date>.
-                    <placeName ref="Вильно"><emph rend="underline">Вильна</emph></placeName>.</l>
-            </p>
-            <p>
-                <l><date when="1800-04-11">1800го года апреля 11<hi rend="superscript">го</hi> дня</date>
-                    по указу его императорскаго</l>
-                <l>величества <placeName ref="Вильно">виленской</placeName> городовой полиціи по подан-</l>
-                <l>данному отъ <placeName ref="Вильно">виленскаго</placeName> купца <persName ref="Меер_Рафалович">Меера
-                    Рафаловича</persName>  прошенію</l>
-                <l>приказали оному <persName ref="Меер_Рафалович">Рафаловичу</persName> просимую имъ сію копію</l>
-                <l>выдать. Подписано тако: частной приставъ Тор-</l>
-                <l>новскій городовой секретарь Иван Тижицъ.</l>
-            </p>
-            <p>
-                <l>У подлинной копіи Его импе-</l>
-                <l>раторскаго величества <placeName ref="Вильно">вилен-<lb/>
-                    ской</placeName> городовой полиціи печать</l>
-                <l>пошлинъ 52<hi rend="superscript">ко</hi> взято.</l>
-            </p>
-
-            <pb xml:id="p032-1" n="032-2"/>
-        </body>
-    </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Фризель">Фризель</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Объявление <persName ref="Фризель">Фризеля</persName> о высочайше дорованной терпимости к <orgName
+          ref="Хасиды">секте Каролинов</orgName>
+        </p>
+        <p>
+          <ref target="/collections/dubnov/documents/274.1.html" role="documentViewer">Приложение Б к документу № 21
+          </ref> у Дубнова
+        </p>
+        <p>
+          Копия документа <ref target="/collections/rgia413/documents/025.html" role="documentViewer">025</ref> выше
+        </p>
+      </abstract>
+      <creation><date when="1800-01-23">Генваря 23-го дня, 1800</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p032-1" n="032-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/032-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">69</del></fw>
+    <fw type="pageNum" place="right">32</fw>
+    <fw type="note">с копіи копія</fw>
+    <fw type="docNum" place="left">№ 57</fw>
+    <fw type="note"><l>Получено <date when="1800-01-25">генваря 25<hi rend="superscript">го</hi> дня<lb/>
+     1800 года</date></l></fw>
+    <head>
+      <l><emph rend="big">Предложеніе</emph></l>
+      <l>Действительнаго статскаго Совѣтника <placeName ref="Литва">Литовс-<lb/>
+       каго</placeName> гражданскаго губернатора и кавалера</l>
+      <l><placeName ref="Вильно">вилѣнской</placeName> городовой полиціи</l>
+    </head>
+    <p>
+      <l>Предлагаю <placeName ref="Вильно">вилѣнской</placeName> полиціи призвать прежнихъ</l>
+      <l><orgName ref="Виленский_кагал">виленскаго еврейскаго кагала</orgName> старшинъ евреев <unclear>???</unclear>
+      </l>
+      <l><persName ref="Мовша_Ошерович">Мовшу ошеровича</persName>, <persName ref="Ицка_Мелентович">ицку Мелентовича
+      </persName> утруждавшихъ</l>
+      <l><emph rend="big">государя императора</emph> прошеніями и посылавшихъ</l>
+      <l>таковыя же и господину Генералъ прокурору и кавалеру</l>
+      <l><persName ref="Беклешов">Беклѣшеву</persName> о уничтоженіи между протчимъ секты</l>
+      <l>королиновъ и о оставлѣніи <orgName ref="Виленский_кагал">кагалу</orgName> и синагоге права</l>
+      <l>заниматься разборомъ гражданскихъ дѣл между</l>
+      <l>евреями объявить что <emph rend="big">по высочайшему его<lb/>
+       императорскаго величества</emph> соизволенію</l>
+      <l>секта королинская должна быть терпима</l>
+      <l>и что <orgName ref="Виленский_кагал">кагалу</orgName> долженствуетъ заниматься</l>
+      <l>единственно дѣлами обрядовъ закона и бого-</l>
+      <l>служенія не вмешиваясь отъ нюдь въ гражданскія</l>
+      <l>дѣла для коихъ установлѣны закономъ</l>
+      <l>особенныя места и что сіе имъ обяъявлено взять</l>
+      <l>отъ нихъ подписку и о томъ меня уведомить.</l>
+      <l>Подлинное подписалъ <persName ref="Фризель">Иванъ Фризель</persName>, подлинную</l>
+      <l>копію сверялъ регистраторъ кичковъ <date when="1800-01-23">генваря<lb/>
+       23<hi rend="superscript">го</hi> дня 1800<hi rend="superscript">го</hi> года</date>. <placeName ref="Вильно">
+      <emph rend="underline">Вильна</emph></placeName>.</l>
+    </p>
+    <p>
+      <l><date when="1800-04-11">1800го года апреля 11<hi rend="superscript">го</hi> дня</date> по указу его
+      императорскаго</l>
+      <l>величества <placeName ref="Вильно">виленской</placeName> городовой полиціи по подан-</l>
+      <l>данному отъ <placeName ref="Вильно">виленскаго</placeName> купца <persName ref="Меер_Рафалович">Меера
+      Рафаловича</persName> прошенію</l>
+      <l>приказали оному <persName ref="Меер_Рафалович">Рафаловичу</persName> просимую имъ сію копію</l>
+      <l>выдать. Подписано тако: частной приставъ Тор-</l>
+      <l>новскій городовой секретарь Иван Тижицъ.</l>
+    </p>
+    <p>
+      <l>У подлинной копіи Его импе-</l>
+      <l>раторскаго величества <placeName ref="Вильно">вилен-<lb/>
+       ской</placeName> городовой полиціи печать</l>
+      <l>пошлинъ 52<hi rend="superscript">ко</hi> взято.</l>
+    </p>
+    <pb xml:id="p032-1" n="032-2"/>
+  </body></text>
 </TEI>

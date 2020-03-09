@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <author>?</author>
-      </titleStmt>
+      <titleStmt><author>?</author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
@@ -25,56 +15,54 @@
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p380-1" n="380-1"/>
-      <pb xml:id="p380-2" n="380-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/380-2.jpg"/>
-      <pb xml:id="p381-1" n="381-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/381-1.jpg"/>
-      <pb xml:id="p381-2" n="381-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/381-2.jpg"/>
-      <pb xml:id="p382-1" n="382-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/382-1.jpg"/>
-      <pb xml:id="p382-2" n="382-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/382-2.jpg"/>
-      <pb xml:id="p383-1" n="383-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/383-1.jpg"/>
-      <pb xml:id="p383-2" n="383-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/383-2.jpg"/>
-      <pb xml:id="p384-1" n="384-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/384-1.jpg"/>
-      <pb xml:id="p384-2" n="384-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/384-2.jpg"/>
-      <pb xml:id="p385-1" n="385-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/385-1.jpg"/>
-      <pb xml:id="p385-2" n="385-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/385-2.jpg"/>
-      <pb xml:id="p386-1" n="386-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/386-1.jpg"/>
-      <pb xml:id="p386-2" n="386-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/386-2.jpg"/>
-      <pb xml:id="p387-1" n="387-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/387-1.jpg"/>
-      <pb xml:id="p387-2" n="387-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/387-2.jpg"/>
-      <pb xml:id="p388-1" n="388-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/388-1.jpg"/>
-      <pb xml:id="p388-2" n="388-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/388-2.jpg"/>
-      <pb xml:id="p389-1" n="389-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/389-1.jpg"/>
-      <pb xml:id="p389-2" n="389-2"/>
-      <pb xml:id="p390-1" n="390-1"/>
-      <pb xml:id="p390-2" n="390-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/390-2.jpg"/>
-      <pb xml:id="p391-1" n="391-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/391-1.jpg"/>
-      <pb xml:id="p391-2" n="391-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/391-2.jpg"/>
-      <pb xml:id="p392-1" n="392-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/392-1.jpg"/>
-      <pb xml:id="p392-2" n="392-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/392-2.jpg"/>
-      <pb xml:id="p393-1" n="393-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/393-1.jpg"/>
-      <pb xml:id="p393-2" n="393-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/393-2.jpg"/>
-      <pb xml:id="p394-1" n="394-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/394-1.jpg"/>
-      <pb xml:id="p394-2" n="394-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/394-2.jpg"/>
-      <pb xml:id="p395-1" n="395-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/395-1.jpg"/>
-      <pb xml:id="p395-2" n="395-2"/>
-      <pb xml:id="p396-1" n="396-1"/>
-      <pb xml:id="p396-2" n="396-2"/>
-      <pb xml:id="p397-1" n="397-1"/>
-      <pb xml:id="p397-2" n="397-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/397-2.jpg"/>
-      <pb xml:id="p398-1" n="398-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/398-1.jpg"/>
-      <pb xml:id="p398-2" n="398-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/398-2.jpg"/>
-      <pb xml:id="p399-1" n="399-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/399-1.jpg"/>
-      <pb xml:id="p399-2" n="399-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/399-2.jpg"/>
-      <pb xml:id="p400-1" n="400-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/400-1.jpg"/>
-      <pb xml:id="p400-2" n="400-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/400-2.jpg"/>
-      <pb xml:id="p401-1" n="401-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/401-1.jpg"/>
-      <pb xml:id="p401-2" n="401-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/401-2.jpg"/>
-      <pb xml:id="p402-1" n="402-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/402-1.jpg"/>
-      <pb xml:id="p402-2" n="402-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/402-2.jpg"/>
-      <pb xml:id="p403-1" n="403-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/403-1.jpg"/>
-      <pb xml:id="p403-2" n="403-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/403-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p380-1" n="380-1"/>
+    <pb xml:id="p380-2" n="380-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/380-2.jpg"/>
+    <pb xml:id="p381-1" n="381-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/381-1.jpg"/>
+    <pb xml:id="p381-2" n="381-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/381-2.jpg"/>
+    <pb xml:id="p382-1" n="382-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/382-1.jpg"/>
+    <pb xml:id="p382-2" n="382-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/382-2.jpg"/>
+    <pb xml:id="p383-1" n="383-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/383-1.jpg"/>
+    <pb xml:id="p383-2" n="383-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/383-2.jpg"/>
+    <pb xml:id="p384-1" n="384-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/384-1.jpg"/>
+    <pb xml:id="p384-2" n="384-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/384-2.jpg"/>
+    <pb xml:id="p385-1" n="385-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/385-1.jpg"/>
+    <pb xml:id="p385-2" n="385-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/385-2.jpg"/>
+    <pb xml:id="p386-1" n="386-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/386-1.jpg"/>
+    <pb xml:id="p386-2" n="386-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/386-2.jpg"/>
+    <pb xml:id="p387-1" n="387-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/387-1.jpg"/>
+    <pb xml:id="p387-2" n="387-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/387-2.jpg"/>
+    <pb xml:id="p388-1" n="388-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/388-1.jpg"/>
+    <pb xml:id="p388-2" n="388-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/388-2.jpg"/>
+    <pb xml:id="p389-1" n="389-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/389-1.jpg"/>
+    <pb xml:id="p389-2" n="389-2"/>
+    <pb xml:id="p390-1" n="390-1"/>
+    <pb xml:id="p390-2" n="390-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/390-2.jpg"/>
+    <pb xml:id="p391-1" n="391-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/391-1.jpg"/>
+    <pb xml:id="p391-2" n="391-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/391-2.jpg"/>
+    <pb xml:id="p392-1" n="392-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/392-1.jpg"/>
+    <pb xml:id="p392-2" n="392-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/392-2.jpg"/>
+    <pb xml:id="p393-1" n="393-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/393-1.jpg"/>
+    <pb xml:id="p393-2" n="393-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/393-2.jpg"/>
+    <pb xml:id="p394-1" n="394-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/394-1.jpg"/>
+    <pb xml:id="p394-2" n="394-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/394-2.jpg"/>
+    <pb xml:id="p395-1" n="395-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/395-1.jpg"/>
+    <pb xml:id="p395-2" n="395-2"/>
+    <pb xml:id="p396-1" n="396-1"/>
+    <pb xml:id="p396-2" n="396-2"/>
+    <pb xml:id="p397-1" n="397-1"/>
+    <pb xml:id="p397-2" n="397-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/397-2.jpg"/>
+    <pb xml:id="p398-1" n="398-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/398-1.jpg"/>
+    <pb xml:id="p398-2" n="398-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/398-2.jpg"/>
+    <pb xml:id="p399-1" n="399-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/399-1.jpg"/>
+    <pb xml:id="p399-2" n="399-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/399-2.jpg"/>
+    <pb xml:id="p400-1" n="400-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/400-1.jpg"/>
+    <pb xml:id="p400-2" n="400-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/400-2.jpg"/>
+    <pb xml:id="p401-1" n="401-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/401-1.jpg"/>
+    <pb xml:id="p401-2" n="401-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/401-2.jpg"/>
+    <pb xml:id="p402-1" n="402-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/402-1.jpg"/>
+    <pb xml:id="p402-2" n="402-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/402-2.jpg"/>
+    <pb xml:id="p403-1" n="403-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/403-1.jpg"/>
+    <pb xml:id="p403-2" n="403-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/403-2.jpg"/>
+  </body></text>
 </TEI>

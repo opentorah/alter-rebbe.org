@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -10,54 +9,48 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage><language ident="he"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1800-12">декабрь 1800</date></creation>
       <abstract>
         <p>Молитва за императора <persName ref="Павел_I">Павла</persName></p>
-        <p>Упомянута в документе <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у Дубнова</p>
+        <p>
+          Упомянута в документе <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у
+          Дубнова
+        </p>
       </abstract>
+      <creation><date when="1800-12">декабрь 1800</date></creation>
+      <langUsage><language ident="he"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="he">
-    <body>
-      <pb xml:id="p012-1" n="012-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/012-1.jpg"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">48</del></fw>
-      <fw type="pageNum" place="right">12</fw>
-      <p>
-        <l>הנותן תשועה לצלכים וממשלה לנסיכים מלכותו מלכות כל עולמים</l>
-        <l> הפוצה את דוד עבדו מחרב רעה. הנותן בים דרך ובמים</l>
-        <l>עבים נתיבה. הוא יברך וישמור וינצור ויעזור  וירוים ויגדל</l>
-        <l>וינשא למעלה אדונינ הקיסר פאוויל פיטראוויץ</l>
-        <l>ובניו יר"ה. מלך מלכי המלכים ברחמיו יחייהו וישמרהו</l>
-        <l>ויצילהו מכל צרה ויגון ונזק וידבר עמים תחת רגליו</l>
-        <l>ויפיל שונאיו לפניו. ובכל אשר יפנה יצליח. מלך </l>
-        <l>מלכי המחכים ברחמיו יתן בלבו ובלב כל יועציו ושריו</l>
-        <l>רחמנות לעשות טובות עמנו ועם כל ישראל ובימיו</l>
-        <l>ובימינו תושיע יהודה וישראל ישכון לבטח ובא לציון</l>
-        <l>" גואל וכן יהי רצון אמן </l>
-      </p>
-      <pb xml:id="p012-2" n="012-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/012-2.jpg"/>
-      <p xml:lang="ru">
-        <l>№=14 – Молитва по еврейски</l>
-        <l>сочиненная облагоденствіи все-</l>
-        <l>милостивѣйшаго Государя</l>
-        <l>Императора Павла петро=</l>
-        <l>вича съ фамилиею</l>
-      </p>
-    </body>
-  </text>
+  <text xml:lang="he"><body>
+    <pb xml:id="p012-1" n="012-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/012-1.jpg"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">48</del></fw>
+    <fw type="pageNum" place="right">12</fw>
+    <p>
+      <l>הנותן תשועה לצלכים וממשלה לנסיכים מלכותו מלכות כל עולמים</l>
+      <l>הפוצה את דוד עבדו מחרב רעה. הנותן בים דרך ובמים</l>
+      <l>עבים נתיבה. הוא יברך וישמור וינצור ויעזור וירוים ויגדל</l>
+      <l>וינשא למעלה אדונינ הקיסר פאוויל פיטראוויץ</l>
+      <l>ובניו יר"ה. מלך מלכי המלכים ברחמיו יחייהו וישמרהו</l>
+      <l>ויצילהו מכל צרה ויגון ונזק וידבר עמים תחת רגליו</l>
+      <l>ויפיל שונאיו לפניו. ובכל אשר יפנה יצליח. מלך</l>
+      <l>מלכי המחכים ברחמיו יתן בלבו ובלב כל יועציו ושריו</l>
+      <l>רחמנות לעשות טובות עמנו ועם כל ישראל ובימיו</l>
+      <l>ובימינו תושיע יהודה וישראל ישכון לבטח ובא לציון</l>
+      <l>" גואל וכן יהי רצון אמן</l>
+    </p>
+    <pb xml:id="p012-2" n="012-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/012-2.jpg"/>
+    <p xml:lang="ru">
+      <l>№=14 – Молитва по еврейски</l>
+      <l>сочиненная облагоденствіи все-</l>
+      <l>милостивѣйшаго Государя</l>
+      <l>Императора Павла петро=</l>
+      <l>вича съ фамилиею</l>
+    </p>
+  </body></text>
 </TEI>

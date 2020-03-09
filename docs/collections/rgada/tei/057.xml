@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,72 +8,69 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>
+        Сообщение <persName ref="Бенкендорф">Бенкендорфа</persName> о прибытии арестованных <orgName ref="Хасиды">
+        хасидов</orgName> в <placeName ref="Рига">Ригу</placeName> и оставлении их под стражей до распоряжения <persName
+        ref="Лопухин">Лопухина</persName>
+      </p></abstract>
       <creation><date when="1798-11-11">11. ноября 1798</date></creation>
-      <abstract><p>Сообщение <persName ref="Бенкендорф">Бенкендорфа</persName> о прибытии арестованных <orgName ref="Хасиды">хасидов</orgName> в <placeName ref="Рига">Ригу</placeName> и оставлении их под стражей до распоряжения <persName ref="Лопухин">Лопухина</persName></p></abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Лопухин" role="addressee">Лопухину</persName>
-        </correspAction>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p057-1" n="057-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/057-1.jpg"/>
-      <fw type="docNum">№ 2808.</fw>
-      <dateline><date when="1798-11-11">11. ноября 1798</date></dateline>
-      <fw type="note" place="right"><emp style="underline">Секретно</emp></fw>
-      <fw type="pageNum" place="right">57.</fw>
-      <salute><l>Милостивый Государь.</l>
-        <l><persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
-      <p>
-        <l>Господинъ дѣйствительный тайный со-</l>
-        <l>вѣтникъ Литовскій гражданскій губернаторъ</l>
-        <l>и кавалеръ <persName ref="Булгаков">булгаковъ</persName> сообщилъ ко мнѣ чтобъ</l>
-        <l>отправленныхъ отъ него по высочайшему <emph rend="big">Его</emph></l>
-        <l><emph rend="big">императорскаго величества</emph> повелѣ-</l>
-        <l>нію семерыхъ арестантовъ еврѣевъ подъ при-</l>
-        <l>смотромъ <placeName ref="Вильно">виленской</placeName> полиціи надзирателя Греча</l>
-        <l>въ <placeName ref="Петербург">Санктпетербургъ</placeName> не отправлять а остановить,</l>
-        <l>гдѣ онъ Гречъ съ ними прилучиться<note place="end">прилучится - окажется; хотя, по уверению Булгакова (см.: http://www.alter-rebbe.org/collections/rgada/documents/055.html), этапированные хасиды должны были добраться до окрестностей Риги около 28 октября, они оказались там лишь 5 ноября, т.е. были отправлены в Петербург пешком</note>, и для даль-</l>
-        <l>нѣйшаго о нихъ предписанія отнестись къ ва-</l>
-        <l>шему высокопревосходительству. Онъ же Гречъ</l>
-        <l>вчерашняго числа въ <placeName ref="Рига">Ригу</placeName> прибылъ, то оныя</l>
-        <l>семеро арестантовъ остановлены здѣсь подъ</l>
-        <l>стражею. вашего высокопревосходительства</l>
-        <l>о семъ извѣстя, покорнѣйше прошу меня</l>
-        <l>увѣдомить куда тѣхъ арестантовъ отпра-</l>
-        <l>вить? Чего ожидая съ истиннымъ моимъ</l>
-        <l>къ вамъ почтеніемъ и совершенною предан-</l>
-        <l>ностію имѣю честь быть.</l>
-        <l>Милостивый Государь!</l>
-        <l>вашего высокопревосходительства</l>
-        <l>покорнейшій слуга</l>
-        <l><signed><persName ref="Бенкендорф">бенкендорфъ</persName></signed></l>
-      </p>
-      <closer place="left">
-        <l><fw type="docNum">№ 787</fw></l>
-        <l><date when="1798-11-06">ноября 6 дня<lb/>
-          1798.<hi rend="superscript">го</hi> года</date></l>
-        <l><placeName ref="Рига">Рига</placeName></l>
-        <l>Его высокопревос/ву <persName ref="Лопухин">Лопухину</persName></l>
-      </closer>
-      <pb xml:id="p057-2" n="057-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/057-2.jpg"/>
-    </body>
-  </text>
+  <text><body>
+    <pb xml:id="p057-1" n="057-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/057-1.jpg"/>
+    <fw type="docNum">№ 2808.</fw>
+    <dateline><date when="1798-11-11">11. ноября 1798</date></dateline>
+    <fw type="note" place="right"><emp style="underline">Секретно</emp></fw>
+    <fw type="pageNum" place="right">57.</fw>
+    <salute>
+      <l>Милостивый Государь.</l>
+      <l><persName ref="Лопухин">Петръ Васильевичъ</persName>!</l>
+    </salute>
+    <p>
+      <l>Господинъ дѣйствительный тайный со-</l>
+      <l>вѣтникъ Литовскій гражданскій губернаторъ</l>
+      <l>и кавалеръ <persName ref="Булгаков">булгаковъ</persName> сообщилъ ко мнѣ чтобъ</l>
+      <l>отправленныхъ отъ него по высочайшему <emph rend="big">Его</emph></l>
+      <l><emph rend="big">императорскаго величества</emph> повелѣ-</l>
+      <l>нію семерыхъ арестантовъ еврѣевъ подъ при-</l>
+      <l>смотромъ <placeName ref="Вильно">виленской</placeName> полиціи надзирателя Греча</l>
+      <l>въ <placeName ref="Петербург">Санктпетербургъ</placeName> не отправлять а остановить,</l>
+      <l>гдѣ онъ Гречъ съ ними прилучиться<note place="end">прилучится - окажется; хотя, по уверению Булгакова (см.:
+      http://www.alter-rebbe.org/collections/rgada/documents/055.html), этапированные хасиды должны были добраться до
+      окрестностей Риги около 28 октября, они оказались там лишь 5 ноября, т.е. были отправлены в Петербург
+      пешком</note>, и для даль-</l>
+      <l>нѣйшаго о нихъ предписанія отнестись къ ва-</l>
+      <l>шему высокопревосходительству. Онъ же Гречъ</l>
+      <l>вчерашняго числа въ <placeName ref="Рига">Ригу</placeName> прибылъ, то оныя</l>
+      <l>семеро арестантовъ остановлены здѣсь подъ</l>
+      <l>стражею. вашего высокопревосходительства</l>
+      <l>о семъ извѣстя, покорнѣйше прошу меня</l>
+      <l>увѣдомить куда тѣхъ арестантовъ отпра-</l>
+      <l>вить? Чего ожидая съ истиннымъ моимъ</l>
+      <l>къ вамъ почтеніемъ и совершенною предан-</l>
+      <l>ностію имѣю честь быть.</l>
+      <l>Милостивый Государь!</l>
+      <l>вашего высокопревосходительства</l>
+      <l>покорнейшій слуга</l>
+      <l><signed><persName ref="Бенкендорф">бенкендорфъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 787</fw></l>
+      <l><date when="1798-11-06">ноября 6 дня<lb/>
+       1798.<hi rend="superscript">го</hi> года</date></l>
+      <l><placeName ref="Рига">Рига</placeName></l>
+      <l>Его высокопревос/ву <persName ref="Лопухин">Лопухину</persName></l>
+    </closer>
+    <pb xml:id="p057-2" n="057-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/057-2.jpg"/>
+  </body></text>
 </TEI>

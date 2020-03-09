@@ -1,64 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author></author>
+        <author/>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Перевод с польского язывка протокола допроса <persName ref="Мовша_Иосиелиович">Мовши Иосиеловича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Перевод с польского язывка протокола допроса <persName ref="Мовша_Иосиелиович">Мовши Иосиеловича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p127-1" n="127-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/127-1.jpg"/>
-      <fw type="note" place="right"><ref target="../documents/128.html">переводъ</ref></fw>
-      <fw type="pageNum" place="right">127</fw>
-      <head>
-        <l>Допросъ</l>
-        <l>жида <persName ref="Мовша_Иосиелиович">Мовши Іосіеловича</persName></l>
-      </head>
-      <p>
-        <l>Я <persName ref="Мовша_Иосиелиович">Мовша Іосіеловичъ</persName> отъ роду</l>
-        <l>имѣю 45 лѣтъ, родился на предмѣстьѣ</l>
-        <l>Антополѣ, женатъ, дѣтей имѣю,</l>
-        <l>сыновей <persName ref="Иосель_Мовшович">Іоселя</persName> и Боруха, и дочерей</l>
-        <l>три; упражняюсь мещанскимъ про-</l>
-        <l>мысломъ; въ <orgName ref="Хасиды">секту каролинскую</orgName></l>
-        <l>никогда не вступалъ; <orgName ref="Хасиды">Каролины</orgName> же</l>
-        <l>называли меня потому, что <orgName ref="Виленский_кагал">вилен<lb/>
-          ской кагалъ</orgName> оштрафовалъ меня</l>
-        <l>300. рубл., и удалилъ отъ вѣрников-</l>
-        <l>ства антакольскаго<note place="end">возможно, антопольского; Антополь - пригород <placeName
-          ref="Вильно">Вильно</placeName> и место рождения М.И.</note> кагала, на</l>
-        <l>которой поступокъ я не жаловался</l>
-        <l>но сами <orgName ref="Хасиды">каролины</orgName>, безъ моего вѣ-</l>
-        <l>дома сіе вмѣстили въ прошеніе</l>
-        <l>поданное въ <orgName ref="Литовское_губернское_правление">Литовское губернское<lb/> правление</orgName>;
-          въ чемъ состоитъ <orgName ref="Хасиды">каро-<lb/>
-          линская</orgName> вѣра я не знаю.</l>
-        <l><signed>подписалъ <persName ref="Мовша_Иосиелиович">Мовша Іосіеловичъ</persName></signed></l>
-      </p>
-      <pb xml:id="p127-2" n="127-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/127-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p127-1" n="127-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/127-1.jpg"/>
+    <fw type="note" place="right"><ref target="../documents/128.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">127</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Мовша_Иосиелиович">Мовши Іосіеловича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Мовша_Иосиелиович">Мовша Іосіеловичъ</persName> отъ роду</l>
+      <l>имѣю 45 лѣтъ, родился на предмѣстьѣ</l>
+      <l>Антополѣ, женатъ, дѣтей имѣю,</l>
+      <l>сыновей <persName ref="Иосель_Мовшович">Іоселя</persName> и Боруха, и дочерей</l>
+      <l>три; упражняюсь мещанскимъ про-</l>
+      <l>мысломъ; въ <orgName ref="Хасиды">секту каролинскую</orgName></l>
+      <l>никогда не вступалъ; <orgName ref="Хасиды">Каролины</orgName> же</l>
+      <l>называли меня потому, что <orgName ref="Виленский_кагал">вилен<lb/>
+       ской кагалъ</orgName> оштрафовалъ меня</l>
+      <l>300. рубл., и удалилъ отъ вѣрников-</l>
+      <l>ства антакольскаго<note place="end">возможно, антопольского; Антополь - пригород <placeName ref="Вильно">Вильно
+      </placeName> и место рождения М.И.</note> кагала, на</l>
+      <l>которой поступокъ я не жаловался</l>
+      <l>но сами <orgName ref="Хасиды">каролины</orgName>, безъ моего вѣ-</l>
+      <l>дома сіе вмѣстили въ прошеніе</l>
+      <l>поданное въ <orgName ref="Литовское_губернское_правление">Литовское губернское<lb/>
+       правление</orgName>; въ чемъ состоитъ <orgName ref="Хасиды">каро-<lb/>
+       линская</orgName> вѣра я не знаю.</l>
+      <l><signed>подписалъ <persName ref="Мовша_Иосиелиович">Мовша Іосіеловичъ</persName></signed></l>
+    </p>
+    <pb xml:id="p127-2" n="127-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/127-2.jpg"/>
+  </body></text>
 </TEI>

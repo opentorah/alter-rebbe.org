@@ -1,103 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-		xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<author>
-					<persName ref="Розенберг">Розенберг</persName>
-				</author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>
-					<ptr target="www.alter-rebbe.org"/>
-				</publisher>
-				<availability status="free">
-					<licence>
-						<ab>
-							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-								Creative Commons Attribution 4.0 International License
-							</ref>
-						</ab>
-					</licence>
-				</availability>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Facsimile</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="ru"/>
-			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1800-10-20"></date>
-			</creation>
-			<abstract>
-				<p>Сообщение <persName ref="Розенберг">Розенберга</persName> <persName
-				ref="Обольянинов">Обольянинову
-				</persName> о получении высочайшего	повеления по жалобе <persName ref="Авигдор">Авигдора</persName></p>
-				<p>Упомянут в документе <ref target="/collections/dubnov/documents/262.1.html" role="documentViewer">№
-					11-а</ref> у Дубнова</p>
-			</abstract>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-				</correspAction>
-			</correspDesc>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="ru">
-		<body>
-			<pb xml:id="p049-1" n="049-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/049-1.jpg"/>
-			<fw type="docNum" place="left">№ 22513</fw>
-			<fw type="note" place="left">Къ дѣлу</fw>
-			<date when="1800-11-15">15 ноября 1800</date>
-			<fw type="pageNum" place="right"><del rend="overstrike">52</del></fw>
-			<fw type="pageNum" place="right">49</fw>
-			<l>
-				<salute>Милоствый Государь мой!<lb/>
-					<persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!
-				</salute>
-			</l>
-			<p>
-				<l>Получа почтенѣйшее сообщеніе ко мнѣ вашего высо-</l>
-				<l>копревосходительства съ объявленіемъ <emph rend="big">высочайшаго<lb/>
-						Его императорскаго величества</emph> повеленія</l>
-				<l>послѣдовавшаго по принесенной жалобѣ отъ бывшаго</l>
-				<l>еврейскаго оберъ рабина <persName ref="Авигдор">хаима</persName>, учинил я сообразно</l>
-				<l>оному высочайшему поеленію надлежащіе господамъ</l>
-				<l>Гражданскимъ Губернаторамъ ввѣренныхъ мнѣ</l>
-				<l>Губерніи предписанія.</l>
-			</p>
-			<p>
-				<l>Имѣю честь быть съ истиннымъ почтеніемъ</l>
-				<l>и Совершенною Преданностію</l>
-				<l>Милостивый Государь мой</l>
-				<l>вашего высокопревосходительства</l>
-				<l>Всепокорнейший слуга</l>
-				<l><signed><persName ref="Розенберг">Андрей Розенберг</persName></signed></l>
-			</p>
-			<closer place="left">
-				<fw type="docNum">№911</fw>
-				<date when="1800-10-20">
-					<l>Октября 20 дня<lb/>
-					1800 Года</l>
-				</date>
-				<l><placeName ref="Каменец_Подольский">К: подольскій</placeName></l>
-				<l>Его высокопревосходи-</l>
-				<l>тельству <persName ref="Обольянинов">Обольянинову</persName>!</l>
-			</closer>
-			<pb xml:id="p049-2" n="049-2"/>
-		</body>
-	</text>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Розенберг">Розенберг</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>
+          Сообщение <persName ref="Розенберг">Розенберга</persName> <persName ref="Обольянинов">Обольянинову</persName>
+          о получении высочайшего повеления по жалобе <persName ref="Авигдор">Авигдора</persName>
+        </p>
+        <p>
+          Упомянут в документе <ref target="/collections/dubnov/documents/262.1.html" role="documentViewer">№ 11-а</ref>
+          у Дубнова
+        </p>
+      </abstract>
+      <creation><date when="1800-10-20"/></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p049-1" n="049-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/049-1.jpg"/>
+    <fw type="docNum" place="left">№ 22513</fw>
+    <fw type="note" place="left">Къ дѣлу</fw>
+    <date when="1800-11-15">15 ноября 1800</date>
+    <fw type="pageNum" place="right"><del rend="overstrike">52</del></fw>
+    <fw type="pageNum" place="right">49</fw>
+    <l><salute>Милоствый Государь мой!<lb/>
+       <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
+    <p>
+      <l>Получа почтенѣйшее сообщеніе ко мнѣ вашего высо-</l>
+      <l>копревосходительства съ объявленіемъ <emph rend="big">высочайшаго<lb/>
+       Его императорскаго величества</emph> повеленія</l>
+      <l>послѣдовавшаго по принесенной жалобѣ отъ бывшаго</l>
+      <l>еврейскаго оберъ рабина <persName ref="Авигдор">хаима</persName>, учинил я сообразно</l>
+      <l>оному высочайшему поеленію надлежащіе господамъ</l>
+      <l>Гражданскимъ Губернаторамъ ввѣренныхъ мнѣ</l>
+      <l>Губерніи предписанія.</l>
+    </p>
+    <p>
+      <l>Имѣю честь быть съ истиннымъ почтеніемъ</l>
+      <l>и Совершенною Преданностію</l>
+      <l>Милостивый Государь мой</l>
+      <l>вашего высокопревосходительства</l>
+      <l>Всепокорнейший слуга</l>
+      <l><signed><persName ref="Розенберг">Андрей Розенберг</persName></signed></l>
+    </p>
+    <closer place="left">
+      <fw type="docNum">№911</fw>
+      <date when="1800-10-20"><l>Октября 20 дня<lb/>
+       1800 Года</l></date>
+      <l><placeName ref="Каменец_Подольский">К: подольскій</placeName></l>
+      <l>Его высокопревосходи-</l>
+      <l>тельству <persName ref="Обольянинов">Обольянинову</persName>!</l>
+    </closer>
+    <pb xml:id="p049-2" n="049-2"/>
+  </body></text>
 </TEI>

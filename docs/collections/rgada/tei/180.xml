@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-         <author>?</author>
-      </titleStmt>
+      <titleStmt><author>?</author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="he"/>
-      </langUsage>
+      <langUsage><language ident="he"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="he">
-    <body>
-      <pb xml:id="p180-1" n="180-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/180-1.jpg"/>
-      <pb xml:id="p180-2" n="180-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/180-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="he"><body>
+    <pb xml:id="p180-1" n="180-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/180-1.jpg"/>
+    <pb xml:id="p180-2" n="180-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/180-2.jpg"/>
+  </body></text>
 </TEI>

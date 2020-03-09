@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -10,62 +9,45 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>Ордер на арест <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract>
+      <creation><date when="1800-10-30">30 октября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Петров" role="addressee">Петрову</persName>, <persName ref="Сукин"
+      role="addressee">Сукину</persName></correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation>
-        <date when="1800-10-30">30 октября 1800</date>
-      </creation>
-      <abstract>
-        <p>Ордер на арест <persName ref="alter-rebbe">Шнеура Залмана</persName></p>
-      </abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Петров" role="addressee">Петрову</persName>, <persName ref="Сукин" role="addressee">Сукину</persName>
-        </correspAction>
-      </correspDesc>
     </profileDesc>
   </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p267-1" n="267-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/267-1.jpg"/>
-      <l><head>Ордеръ</head></l>
-      <fw type="pageNum" place="right"><del rend="overstrike">271</del></fw>
-      <fw type="pageNum" place="right">267</fw>
-      <p>
-        <l>Сен. Кур.<note place="end"><orgName ref="Сенат">сенатским</orgName> курьерам</note> <persName ref="Петров">Петрову
-        </persName> и
-          <persName ref="Сукин">Сукину</persName></l>
-        <l>Пополучен. сего отправиться</l>
-        <l>велеть съ писмомъ моимъ къ</l>
-        <l>Бѣлору. губ. <persName ref="Северин">Северину</persName>, покоторому</l>
-        <l>даеться вамъ арестантъ для</l>
-        <l>привоза ко мнѣ. съ онымъ аре-</l>
-        <l>стантантомъ ѣхать сюда наипо-</l>
-        <l>спѣшнейше, недозволяя ему</l>
-        <l>нетолько ни съ кемъ говорить</l>
-        <l>или къ кому писать, но чтобъ</l>
-        <l>его никто и видѣть не могъ; для</l>
-        <l>чего на почтовыхъ станцияхъ</l>
-        <l>требовать вездѣ кибитку. По</l>
-        <l>привезенiи же его сюда явиться</l>
-        <l>съ нимъ у меня.</l>
-        <signed>???</signed>
-      </p>
-      <l><date when="1800-10-30">30 октября<lb/>1800<hi rend="superscript">го</hi>.</date></l>
-      <pb xml:id="p267-2" n="267-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/267-2.jpg"/>
-    </body>
-  </text>
+  <text><body>
+    <pb xml:id="p267-1" n="267-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/267-1.jpg"/>
+    <l><head>Ордеръ</head></l>
+    <fw type="pageNum" place="right"><del rend="overstrike">271</del></fw>
+    <fw type="pageNum" place="right">267</fw>
+    <p>
+      <l>Сен. Кур.<note place="end"><orgName ref="Сенат">сенатским</orgName> курьерам</note> <persName ref="Петров">
+      Петрову</persName> и <persName ref="Сукин">Сукину</persName></l>
+      <l>Пополучен. сего отправиться</l>
+      <l>велеть съ писмомъ моимъ къ</l>
+      <l>Бѣлору. губ. <persName ref="Северин">Северину</persName>, покоторому</l>
+      <l>даеться вамъ арестантъ для</l>
+      <l>привоза ко мнѣ. съ онымъ аре-</l>
+      <l>стантантомъ ѣхать сюда наипо-</l>
+      <l>спѣшнейше, недозволяя ему</l>
+      <l>нетолько ни съ кемъ говорить</l>
+      <l>или къ кому писать, но чтобъ</l>
+      <l>его никто и видѣть не могъ; для</l>
+      <l>чего на почтовыхъ станцияхъ</l>
+      <l>требовать вездѣ кибитку. По</l>
+      <l>привезенiи же его сюда явиться</l>
+      <l>съ нимъ у меня.</l>
+      <signed>???</signed>
+    </p>
+    <l><date when="1800-10-30">30 октября<lb/>1800<hi rend="superscript">го</hi>.</date></l>
+    <pb xml:id="p267-2" n="267-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/267-2.jpg"/>
+  </body></text>
 </TEI>

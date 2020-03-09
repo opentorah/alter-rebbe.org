@@ -1,59 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author></author>
+        <author/>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0
-                International License </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>Перевод с польского языка показаний <persName ref="Вулф_Шимелиович">Вулфа Шимелиовича</persName></p>
+      </abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Перевод с польского языка показаний <persName ref="Вулф_Шимелиович">Вулфа Шимелиовича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p105-1" n="105-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/105-1.jpg"/>
-      <fw type="docNum" place="left">№7</fw>
-      <fw type="note" place="right"><ref target="../documents/106.html">переводъ</ref></fw>
-      <fw type="pageNum" place="right">105</fw>
-      <head>
-        <l>Допросъ</l>
-        <l>жида <persName ref="Вулф_Шимелиович">Вулфа Шимеліовича</persName></l>
-      </head>
-      <p>
-        <l>Я <persName ref="Вулф_Шимелиович">Вулфъ Шимеліовичъ</persName> отъ роду имѣю</l>
-        <l>24 года, нахожусь въ мѣльницѣ <persName ref="Огинский">г. Огин<lb/>
-          скаго</persName>, родился въ мѣстечкѣ <placeName ref="Дзиенциола">Дзіен-<lb/>
-          ціолѣ</placeName>, живу въ <placeName ref="Вильно">Вилнѣ</placeName> 14 лѣтъ, же-</l>
-        <l>натъ, имѣю дочь Зислю. Третей</l>
-        <l>годъ тому, какъ вступилъ въ <orgName ref="Хасиды">Каро-<lb/>
-          линскую секту</orgName>; къ <placeName ref="Лозна">Лозинскому</placeName></l>
-        <l><persName ref="alter-rebbe">рабину</persName> ѣздилъ прошлаго году, и въ</l>
-        <l><placeName ref="Лозна">Лознѣ</placeName> жилъ пять недѣль. Еврея</l>
-        <l><persName ref="Орлик_Мовшович">Орлика</persName> возобновившаго въ <placeName ref="Вильно">Вилнѣ</placeName></l>
-        <l><orgName ref="Хасиды">секту каролиновъ</orgName> знаю; живетъ</l>
-        <l>онъ въ <placeName ref="Островна">Островнѣ</placeName>. впрочемъ ничего</l>
-        <l>не знаю</l>
-        <signed>Подписалъ <persName ref="Вулф_Шимелиович">Вулфъ Шимеліовичъ</persName>.</signed>
-      </p>
-      <pb xml:id="p105-2" n="105-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/105-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p105-1" n="105-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/105-1.jpg"/>
+    <fw type="docNum" place="left">№7</fw>
+    <fw type="note" place="right"><ref target="../documents/106.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">105</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Вулф_Шимелиович">Вулфа Шимеліовича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Вулф_Шимелиович">Вулфъ Шимеліовичъ</persName> отъ роду имѣю</l>
+      <l>24 года, нахожусь въ мѣльницѣ <persName ref="Огинский">г. Огин<lb/>
+       скаго</persName>, родился въ мѣстечкѣ <placeName ref="Дзиенциола">Дзіен-<lb/>
+       ціолѣ</placeName>, живу въ <placeName ref="Вильно">Вилнѣ</placeName> 14 лѣтъ, же-</l>
+      <l>натъ, имѣю дочь Зислю. Третей</l>
+      <l>годъ тому, какъ вступилъ въ <orgName ref="Хасиды">Каро-<lb/>
+       линскую секту</orgName>; къ <placeName ref="Лозна">Лозинскому</placeName></l>
+      <l><persName ref="alter-rebbe">рабину</persName> ѣздилъ прошлаго году, и въ</l>
+      <l><placeName ref="Лозна">Лознѣ</placeName> жилъ пять недѣль. Еврея</l>
+      <l><persName ref="Орлик_Мовшович">Орлика</persName> возобновившаго въ <placeName ref="Вильно">Вилнѣ</placeName>
+      </l>
+      <l><orgName ref="Хасиды">секту каролиновъ</orgName> знаю; живетъ</l>
+      <l>онъ въ <placeName ref="Островна">Островнѣ</placeName>. впрочемъ ничего</l>
+      <l>не знаю</l>
+      <signed>Подписалъ <persName ref="Вулф_Шимелиович">Вулфъ Шимеліовичъ</persName>.</signed>
+    </p>
+    <pb xml:id="p105-2" n="105-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/105-2.jpg"/>
+  </body></text>
 </TEI>

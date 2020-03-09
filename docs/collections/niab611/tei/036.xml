@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt>
-        <author>?</author>
-      </titleStmt>
+      <titleStmt><author>?</author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
@@ -25,29 +15,27 @@
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p036-1" n="036-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/036-1.jpg"/>
-      <pb xml:id="p036a-1" n="036a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/036a-1.jpg"/>
-      <pb xml:id="p036-2" n="036-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/036-2.jpg"/>
-      <pb xml:id="p037-1" n="037-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/037-1.jpg"/>
-      <pb xml:id="p037a-1" n="037a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/037a-1.jpg"/>
-      <pb xml:id="p037-2" n="037-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/037-2.jpg"/>
-      <pb xml:id="p038-1" n="038-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038-1.jpg"/>
-      <pb xml:id="p038a-1" n="038a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038a-1.jpg"/>
-      <pb xml:id="p038-2" n="038-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038-2.jpg"/>
-      <pb xml:id="p038a-2" n="038a-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038-2.jpg"/>
-      <pb xml:id="p039-1" n="039-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/039-1.jpg"/>
-      <pb xml:id="p039a-1" n="039a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/039a-1.jpg"/>
-      <pb xml:id="p039-2" n="039-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/039-2.jpg"/>
-      <pb xml:id="p040-1" n="040-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/040-1.jpg"/>
-      <pb xml:id="p040-2" n="040-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/040-2.jpg"/>
-      <pb xml:id="p041-1" n="041-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/041-1.jpg"/>
-      <pb xml:id="p041-2" n="041-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/041-2.jpg"/>
-      <pb xml:id="p042-1" n="042-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/042-1.jpg"/>
-      <pb xml:id="p042-2" n="042-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/042-1.jpg"/>
-      <pb xml:id="p043-1" n="043-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/043-1.jpg"/>
-      <pb xml:id="p043-2" n="043-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/043-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p036-1" n="036-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/036-1.jpg"/>
+    <pb xml:id="p036a-1" n="036a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/036a-1.jpg"/>
+    <pb xml:id="p036-2" n="036-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/036-2.jpg"/>
+    <pb xml:id="p037-1" n="037-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/037-1.jpg"/>
+    <pb xml:id="p037a-1" n="037a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/037a-1.jpg"/>
+    <pb xml:id="p037-2" n="037-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/037-2.jpg"/>
+    <pb xml:id="p038-1" n="038-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038-1.jpg"/>
+    <pb xml:id="p038a-1" n="038a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038a-1.jpg"/>
+    <pb xml:id="p038-2" n="038-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038-2.jpg"/>
+    <pb xml:id="p038a-2" n="038a-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/038-2.jpg"/>
+    <pb xml:id="p039-1" n="039-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/039-1.jpg"/>
+    <pb xml:id="p039a-1" n="039a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/039a-1.jpg"/>
+    <pb xml:id="p039-2" n="039-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/039-2.jpg"/>
+    <pb xml:id="p040-1" n="040-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/040-1.jpg"/>
+    <pb xml:id="p040-2" n="040-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/040-2.jpg"/>
+    <pb xml:id="p041-1" n="041-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/041-1.jpg"/>
+    <pb xml:id="p041-2" n="041-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/041-2.jpg"/>
+    <pb xml:id="p042-1" n="042-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/042-1.jpg"/>
+    <pb xml:id="p042-2" n="042-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/042-1.jpg"/>
+    <pb xml:id="p043-1" n="043-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/043-1.jpg"/>
+    <pb xml:id="p043-2" n="043-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/043-2.jpg"/>
+  </body></text>
 </TEI>

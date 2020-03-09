@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -10,68 +9,57 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0
-                International License </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <abstract><p>
+        Сообщение Булгакова Лопухину об отправке выполненного перевода показаний <persName ref="alter-rebbe">Шнеура
+        Залмана</persName> с иврита на французский язык
+      </p></abstract>
       <creation><date when="1798-11-01">1 Ноября 1798</date></creation>
-      <abstract>
-        <p>Сообщение Булгакова Лопухину об отправке выполненного перевода показаний <persName ref="alter-rebbe">Шнеура
-          Залмана</persName> с иврита на французский язык</p>
-      </abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Лопухин" role="addressee">Лопухину</persName>
-        </correspAction>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p058-1" n="058-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/058-1.jpg"/>
-      <fw type="docNum">№ 2821</fw>
-      <date when="1798-11-13">13<hi rend="superscript">го</hi> Ноября 1798<hi rend="superscript">го</hi>.</date>
-      <fw type="note" place="right"><emph rend="underline">секретно</emph></fw>
-      <fw type="pageNum" place="right">58.</fw>
-      <salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute>
-      <p>
-        <l>Присланное при всепочтеннѣйшимъ отношеніи отъ</l>
-        <l><date when="1798-10-18">18 Октября</date> показаніе <placeName
-          ref="Лозна">Лозенского</placeName> рабина <persName ref="alter-rebbe">Боруховича</persName> пе</l>
-        <l>реведено на французской языкъ. Съ нуждою я въ томъ</l>
-        <l>предуспеть могъ, тѣмъ паче, что писано оно не на про-</l>
-        <l>стомъ нынѣ жидами употребляемомъ, но на ученомъ</l>
-        <l>еврейскомъ языкѣ, котораго знающихъ и здѣсь очень</l>
-        <l>мало, а такихъ, кои бы могли переводить на россiйской,</l>
-        <l>и совсемъ нѣтъ. При семъ возвращая подлинное еврей-</l>
-        <l>ское показаніе, представляю и оной переводъ, и ожидая</l>
-        <l>дальнѣйшихъ повелѣній по поводу содержащихся здѣсь,</l>
-        <l>и къ вашему высокопревосходительству отправленных,</l>
-        <l>но теперъ уже надѣюсь на дорогѣ остановленныхъ</l>
-        <l>жидовъ, имѣю честь быть съ совершеннѣйшимъ поч-</l>
-        <l>тенiемъ, и истинною преданностiю</l>
-        <l>Милостивой Государь!</l>
-        <l>вашего высокопревосходительства</l>
-        <l>всепокорнейшій слуга</l>
-        <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
-      </p>
-      <closer place="left">
-        <l><fw type="docNum">№ 200</fw></l>
-        <l><date when="1798-11-01">1 Ноября 1798</date></l>
-        <l><placeName ref="Вильно">вилна</placeName></l>
-        <l>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
-      </closer>
-      <pb xml:id="p058-2" n="058-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/058-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p058-1" n="058-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/058-1.jpg"/>
+    <fw type="docNum">№ 2821</fw>
+    <date when="1798-11-13">13<hi rend="superscript">го</hi> Ноября 1798<hi rend="superscript">го</hi>.</date>
+    <fw type="note" place="right"><emph rend="underline">секретно</emph></fw>
+    <fw type="pageNum" place="right">58.</fw>
+    <salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute>
+    <p>
+      <l>Присланное при всепочтеннѣйшимъ отношеніи отъ</l>
+      <l><date when="1798-10-18">18 Октября</date> показаніе <placeName ref="Лозна">Лозенского</placeName> рабина
+      <persName ref="alter-rebbe">Боруховича</persName> пе</l>
+      <l>реведено на французской языкъ. Съ нуждою я въ томъ</l>
+      <l>предуспеть могъ, тѣмъ паче, что писано оно не на про-</l>
+      <l>стомъ нынѣ жидами употребляемомъ, но на ученомъ</l>
+      <l>еврейскомъ языкѣ, котораго знающихъ и здѣсь очень</l>
+      <l>мало, а такихъ, кои бы могли переводить на россiйской,</l>
+      <l>и совсемъ нѣтъ. При семъ возвращая подлинное еврей-</l>
+      <l>ское показаніе, представляю и оной переводъ, и ожидая</l>
+      <l>дальнѣйшихъ повелѣній по поводу содержащихся здѣсь,</l>
+      <l>и къ вашему высокопревосходительству отправленных,</l>
+      <l>но теперъ уже надѣюсь на дорогѣ остановленныхъ</l>
+      <l>жидовъ, имѣю честь быть съ совершеннѣйшимъ поч-</l>
+      <l>тенiемъ, и истинною преданностiю</l>
+      <l>Милостивой Государь!</l>
+      <l>вашего высокопревосходительства</l>
+      <l>всепокорнейшій слуга</l>
+      <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 200</fw></l>
+      <l><date when="1798-11-01">1 Ноября 1798</date></l>
+      <l><placeName ref="Вильно">вилна</placeName></l>
+      <l>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+    </closer>
+    <pb xml:id="p058-2" n="058-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/058-2.jpg"/>
+  </body></text>
 </TEI>

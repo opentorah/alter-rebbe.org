@@ -1,102 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<author><persName ref="Брискорн">Брискорн</persName></author>
-				<editor role="transcriber">
-					<persName ref="VK">Василий Когаловский</persName>
-				</editor>
-			</titleStmt>
-			<publicationStmt>
-				<publisher>
-					<ptr target="www.alter-rebbe.org"/>
-				</publisher>
-				<availability status="free">
-					<licence>
-						<ab>
-							<ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-								Creative Commons Attribution 4.0 International License
-							</ref>
-						</ab>
-					</licence>
-				</availability>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Facsimile</p>
-			</sourceDesc>
-		</fileDesc>
-		<profileDesc>
-			<langUsage>
-				<language ident="ru"/>
-			</langUsage>
-			<calendarDesc>
-				<calendar xml:id="julian">
-					<p>Julian calendar</p>
-				</calendar>
-			</calendarDesc>
-			<creation>
-				<date when="1800-04-23">1800-04-23</date>
-			</creation>
-			<abstract>
-				<p>Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
-				<p>Документ <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">№ 1</ref> у
-					Дубнова
-				</p>
-			</abstract>
-			<correspDesc>
-				<correspAction>
-					<persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-				</correspAction>
-			</correspDesc>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="ru">
-		<body>
-			<pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/001-1.jpg"/>
-			<fw type="docNum" place="left">№4488/447</fw>
-			<date when="1800-04-23">23. апреля 1800.</date>
-			<fw type="pageNum" place="right">1</fw>
-			<salute>
-				<l>Милостивый Государь,</l>
-				<l><persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>,</l>
-			</salute>
-
-			<p>
-				<l>По высочайшему <emph rend="big">Его императорскаго<lb/>
-					величества </emph> повѣленію имѣю честь препроводить</l>
-				<l>къ вашему высокопревосходительству прошеніе</l>
-				<l>бывшаго в <placeName ref="Пинск">Пинскѣ</placeName> Оберъ Рабина <persName ref="Авигдор">Хаима</persName></l>
-				<l>описывающаго притѣсненія и гоненія, претер-</l>
-				<l>пѣваемыя имъ отъ какой то новой Секты</l>
-				<l>о которой въ приложенной запискѣ,подроб-</l>
-				<l>ныя дѣлаетъ замѣчанія, пребывая впрочемъ</l>
-				<l>съ совершеннымъ высокопочитаніемъ и истин</l>
-				<l>ною преданностию.</l>
-			</p>
-			<p>
-				<l>Милостивый Государь,</l>
-				<l>Вашего высокопревосходительства,</l>
-				<l><unclear>всепокорнѣйшій слуга</unclear></l>
-				<l><signed>Федоръ <unclear>Григорьевъ</unclear></signed></l>
-			</p>
-			<p>
-				<l>Господину <unclear>???</unclear></l>
-				<l>содержаніе приложенной</l>
-				<l>просьбы и справиться о подобной</l>
-				<l>въ <placeName ref="Петербург">С.П.Бургѣ</placeName> жидовской <unclear>запискѣ</unclear></l>
-				<l>
-					<date when="1800-04-23">Апреля 23
-						<hi rend="superscript">го</hi> 1800
-						<hi rend="superscript">го</hi>
-					</date> въ
-					<placeName ref="Вильно">вильнѣ</placeName> по
-				</l>
-				<l>прежнимъ дѣламъ</l>
-				<l>Его Высокопр. <persName ref="Обольянинов">Обольянинову</persName></l>
-			</p>
-			<pb xml:id="p001-2" n="001-2"/>
-		</body>
-	</text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName ref="Брискорн">Брискорн</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
+        <p>Документ <ref target="/collections/dubnov/documents/090.1.html" role="documentViewer">№ 1</ref> у Дубнова</p>
+      </abstract>
+      <creation><date when="1800-04-23">1800-04-23</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/001-1.jpg"/>
+    <fw type="docNum" place="left">№4488/447</fw>
+    <date when="1800-04-23">23. апреля 1800.</date>
+    <fw type="pageNum" place="right">1</fw>
+    <salute>
+      <l>Милостивый Государь,</l>
+      <l><persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>,</l>
+    </salute>
+    <p>
+      <l>По высочайшему <emph rend="big">Его императорскаго<lb/>
+       величества</emph> повѣленію имѣю честь препроводить</l>
+      <l>къ вашему высокопревосходительству прошеніе</l>
+      <l>бывшаго в <placeName ref="Пинск">Пинскѣ</placeName> Оберъ Рабина <persName ref="Авигдор">Хаима</persName></l>
+      <l>описывающаго притѣсненія и гоненія, претер-</l>
+      <l>пѣваемыя имъ отъ какой то новой Секты</l>
+      <l>о которой въ приложенной запискѣ,подроб-</l>
+      <l>ныя дѣлаетъ замѣчанія, пребывая впрочемъ</l>
+      <l>съ совершеннымъ высокопочитаніемъ и истин</l>
+      <l>ною преданностию.</l>
+    </p>
+    <p>
+      <l>Милостивый Государь,</l>
+      <l>Вашего высокопревосходительства,</l>
+      <l><unclear>всепокорнѣйшій слуга</unclear></l>
+      <l><signed>Федоръ <unclear>Григорьевъ</unclear></signed></l>
+    </p>
+    <p>
+      <l>Господину <unclear>???</unclear></l>
+      <l>содержаніе приложенной</l>
+      <l>просьбы и справиться о подобной</l>
+      <l>въ <placeName ref="Петербург">С.П.Бургѣ</placeName> жидовской <unclear>запискѣ</unclear></l>
+      <l><date when="1800-04-23">Апреля 23 <hi rend="superscript">го</hi> 1800 <hi rend="superscript">го</hi></date> въ
+      <placeName ref="Вильно">вильнѣ</placeName> по</l>
+      <l>прежнимъ дѣламъ</l>
+      <l>Его Высокопр. <persName ref="Обольянинов">Обольянинову</persName></l>
+    </p>
+    <pb xml:id="p001-2" n="001-2"/>
+  </body></text>
 </TEI>

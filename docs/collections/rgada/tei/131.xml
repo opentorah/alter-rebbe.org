@@ -1,58 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author></author>
+        <author/>
         <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
         <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Перевод с польского языка протокола допроса <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <abstract><p>Перевод с польского языка протокола допроса <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></p></abstract>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p131-1" n="131-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/131-1.jpg"/>
-      <fw type="note" place="right"><ref target="../documents/132.html">переводъ</ref></fw>
-      <fw type="pageNum" place="right">131.</fw>
-      <head>
-        <l>Допросъ</l>
-        <l>жида <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></l>
-      </head>
-      <p>
-        <l>Я <persName ref="Зелман_Лейбович">Зелманъ Лейбовичъ</persName> отъ роду</l>
-        <l>имѣю 24 года, женатъ, имѣю одну</l>
-        <l>дочь, торгую ъ; родился</l>
-        <l>въ <placeName ref="Вильно">Вилнѣ</placeName>; въ <orgName ref="Хасиды">каролинскую секту</orgName></l>
-        <l>не вступалъ; шесть летъ тому,</l>
-        <l>какъ ѣздилъ я к <placeName ref="Лозна">Лозенскому</placeName> <persName ref="alter-rebbe">ра-<lb/>
-          бину</persName>, у котораго проведя одну</l>
-        <l>недѣлю, обучался библіи; уѣхавъ же</l>
-        <l>отъ него, былъ у <placeName ref="Ляховицы">Ляховицкаго</placeName> ра</l>
-        <l>бина <persName ref="Мордух">Мордуха</persName> два года; къ симъ</l>
-        <l>обоимъ множество людей собирает-</l>
-        <l>ся изъ разныхъ мѣстъ</l>
-        <signed>подписалъ <persName ref="Зелман_Лейбович">Зелманъ Лейбовичъ</persName></signed>
-      </p>
-      <pb xml:id="p131-2" n="131-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/131-2.jpg"/>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p131-1" n="131-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/131-1.jpg"/>
+    <fw type="note" place="right"><ref target="../documents/132.html">переводъ</ref></fw>
+    <fw type="pageNum" place="right">131.</fw>
+    <head>
+      <l>Допросъ</l>
+      <l>жида <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></l>
+    </head>
+    <p>
+      <l>Я <persName ref="Зелман_Лейбович">Зелманъ Лейбовичъ</persName> отъ роду</l>
+      <l>имѣю 24 года, женатъ, имѣю одну</l>
+      <l>дочь, торгую ъ; родился</l>
+      <l>въ <placeName ref="Вильно">Вилнѣ</placeName>; въ <orgName ref="Хасиды">каролинскую секту</orgName></l>
+      <l>не вступалъ; шесть летъ тому,</l>
+      <l>какъ ѣздилъ я к <placeName ref="Лозна">Лозенскому</placeName> <persName ref="alter-rebbe">ра-<lb/>
+       бину</persName>, у котораго проведя одну</l>
+      <l>недѣлю, обучался библіи; уѣхавъ же</l>
+      <l>отъ него, былъ у <placeName ref="Ляховицы">Ляховицкаго</placeName> ра</l>
+      <l>бина <persName ref="Мордух">Мордуха</persName> два года; къ симъ</l>
+      <l>обоимъ множество людей собирает-</l>
+      <l>ся изъ разныхъ мѣстъ</l>
+      <signed>подписалъ <persName ref="Зелман_Лейбович">Зелманъ Лейбовичъ</persName></signed>
+    </p>
+    <pb xml:id="p131-2" n="131-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/131-2.jpg"/>
+  </body></text>
 </TEI>

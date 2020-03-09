@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,64 +8,47 @@
         <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
       </titleStmt>
       <publicationStmt>
-        <publisher>
-          <ptr target="www.alter-rebbe.org"/>
-        </publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
-      <sourceDesc>
-        <p>Facsimile</p>
-      </sourceDesc>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage>
-        <language ident="ru"/>
-      </langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1800-04-23">1800-04-23</date></creation>
       <abstract>
         <p>№ 1. Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
-        <p>Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213</p>
+        <p>
+          Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213
+        </p>
       </abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
-        </correspAction>
+      <creation><date when="1800-04-23">1800-04-23</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <head>
-        <pb xml:id="p090" n="090" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/090.jpg"/>
-        № 1. Препроводительное письмо къ прошенію раввина <persName ref="Авигдор">Авигдора Хаимовича</persName>.
-        <note type="gloss" place="end">Документы отъ № <ref target="/collections/dubnov/documents/090.1.html"
-                                                            role="documentViewer">1</ref> до № <ref
-          target="/collections/dubnov/documents/263.1.html" role="documentViewer">13</ref> включительно находятся въ
-          <orgName ref="Сенат">Сенатскомъ</orgName>
-          Архивѣ, дѣло М-ва Юстиціи 1800 гг. № 85.</note>
-      </head>
-
-      <salute>Милостивый Государь, <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute>
-
-      <p>По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошеніе бывшаго
-        въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ-рабина <persName ref="Авигдор">Хаима</persName>,
-        описывающаго притѣсненія и гоненія, претерпѣваемыя имъ отъ какой то новой секты, о которой въ приложенной
-        запискѣ подробныя дѣлаетъ замѣчанія. Пребывая и проч....
-      </p>
-
-      <closer>
-        <signed><persName ref="Брискорн">Ѳедоръ Брискорнъ</persName>.</signed>
-        <dateline>В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го 1800-го</date>.</dateline>
-      </closer>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <head>
+      <pb xml:id="p090" n="090" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/090.jpg"/> № 1.
+      Препроводительное письмо къ прошенію раввина <persName ref="Авигдор">Авигдора Хаимовича</persName>. <note
+      type="gloss" place="end">Документы отъ № <ref target="/collections/dubnov/documents/090.1.html"
+      role="documentViewer">1</ref> до № <ref target="/collections/dubnov/documents/263.1.html" role="documentViewer">13
+      </ref> включительно находятся въ <orgName ref="Сенат">Сенатскомъ</orgName> Архивѣ, дѣло М-ва Юстиціи 1800 гг. №
+      85.</note>
+    </head>
+    <salute>Милостивый Государь, <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute>
+    <p>
+      По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошеніе бывшаго въ
+      <placeName ref="Пинск">Пинскѣ</placeName> оберъ-рабина <persName ref="Авигдор">Хаима</persName>, описывающаго
+      притѣсненія и гоненія, претерпѣваемыя имъ отъ какой то новой секты, о которой въ приложенной запискѣ подробныя
+      дѣлаетъ замѣчанія. Пребывая и проч....
+    </p>
+    <closer>
+      <signed><persName ref="Брискорн">Ѳедоръ Брискорнъ</persName>.</signed>
+      <dateline>
+        В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го 1800-го</date>.
+      </dateline>
+    </closer>
+  </body></text>
 </TEI>

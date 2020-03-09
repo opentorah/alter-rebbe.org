@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -10,81 +9,68 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <langUsage><language ident="ru"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1798-09-02">2 Сентября 1798</date></creation>
-      <abstract><p>Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о
+      <abstract><p>
+        Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о
         недостоверности содержания доносов и отсутствии в <placeName ref="Вильно">Вильне</placeName> их мнимого
-        отправителя <persName ref="Гирш_Давидович">Гирша Давыдовича</persName></p></abstract>
-      <correspDesc>
-        <correspAction>
-          <persName ref="Лопухин" role="addressee">Лопухину</persName>
-        </correspAction>
+        отправителя <persName ref="Гирш_Давидович">Гирша Давыдовича</persName>
+      </p></abstract>
+      <creation><date when="1798-09-02">2 Сентября 1798</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
       </correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru">
-    <body>
-      <pb xml:id="p008-1" n="008-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/008-1.jpg"/>
-      <fw type="docNum" place="left">№. 2180.</fw>
-      <fw><date when="1798-09-15">15. сентября 1798.</date></fw>
-      <fw type="note" place="right">Секретно</fw>
-      <fw type="pageNum" place="right">8.</fw>
-      <p><l><salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute></l></p>
-      <p>
-        <l>Изъ числа присланныхъ ко мнѣ отъ вашего Превос-</l>
-        <l>ходительства трехъ секретныхъ писемъ с доносами,</l>
-        <l>о полученіи коихъ имелъ я честь донести от <date when="1798-08-30">30.<lb/>
-          августа</date> под <fw type="docNum">№ 130</fw>, и на одно изъ оныхъ представилъ</l>
-        <l>отвѣтъ, второе содержитъ оклеветаніе здѣшней</l>
-        <l>полиіии и секретаря ея Матвѣева. Обо всемъ ономъ</l>
-        <l>покорнейше при семъ препровождаю подробное объ</l>
-        <l>ясненіе, изъ котораго ваше Превосходительство</l>
-        <l>изволите усмотреть, что весь доносъ учиненной</l>
-        <l>жидомъ <persName ref="Гирш_Давидович">Гиршемъ Давыдовичемъ</persName>,
-          никакого осно-</l>
-        <l>вания не имѣетъ. А уже въ помянутомъ моемъ</l>
-        <l>предыдущемъ под <fw type="docNum">№ 130</fw> доносилъ, что жида сего</l>
-        <l>имяни здѣсь нетъ, письмо о <persName ref="alter-rebbe">рабинѣ Боруховиче</persName></l>
-        <l>подложное, и подписано не жидовскою рукою; тоже</l>
-        <l>самое имѣю я сказать и о семъ письмѣ. Оставя</l>
-        <l>подписанное здѣсь, для познанѣя почерка и открытіе</l>
-        <l>чрезъ то, ежели удастся злостнаго клеветника,</l>
-        <l>которой осмѣлился утверждать подобными доносами</l>
-        <l>
-          <pb xml:id="p008-2" n="008-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/008-2.jpg"/>
-          <fw type="pageNum">8об.</fw>
-          покорнѣйше прилагаю здѣсь съ онаго, копію</l>
-        <l>для соображенія съ посылаемымъ от меня</l>
-        <l>объясненіемъ.</l>
-      </p>
-      <p>
-        <l>Имѣю честь быть с истиннымъ по-</l>
-        <l>чтениемъ и совершенною преданностію</l>
-        <l>Милостивый Государь</l>
-        <l>Вашего Превосходительства</l>
-        <l>всепокорнейшій слуга</l>
-        <l><persName ref="Булгаков">Яковъ Булгаковъ</persName></l>
-      </p>
-      <closer place="left">
-        <l><fw type="docNum">№ 132</fw></l>
-        <l><date when="1798-09-02">2 Сентября 1798</date></l>
-        <l><placeName ref="Вильно">Вилна</placeName></l>
-        <l>Его Превосходительству Гну Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
-      </closer>
-    </body>
-  </text>
+  <text xml:lang="ru"><body>
+    <pb xml:id="p008-1" n="008-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/008-1.jpg"/>
+    <fw type="docNum" place="left">№. 2180.</fw>
+    <fw><date when="1798-09-15">15. сентября 1798.</date></fw>
+    <fw type="note" place="right">Секретно</fw>
+    <fw type="pageNum" place="right">8.</fw>
+    <p><l><salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute></l></p>
+    <p>
+      <l>Изъ числа присланныхъ ко мнѣ отъ вашего Превос-</l>
+      <l>ходительства трехъ секретныхъ писемъ с доносами,</l>
+      <l>о полученіи коихъ имелъ я честь донести от <date when="1798-08-30">30.<lb/>
+       августа</date> под <fw type="docNum">№ 130</fw>, и на одно изъ оныхъ представилъ</l>
+      <l>отвѣтъ, второе содержитъ оклеветаніе здѣшней</l>
+      <l>полиіии и секретаря ея Матвѣева. Обо всемъ ономъ</l>
+      <l>покорнейше при семъ препровождаю подробное объ</l>
+      <l>ясненіе, изъ котораго ваше Превосходительство</l>
+      <l>изволите усмотреть, что весь доносъ учиненной</l>
+      <l>жидомъ <persName ref="Гирш_Давидович">Гиршемъ Давыдовичемъ</persName>, никакого осно-</l>
+      <l>вания не имѣетъ. А уже въ помянутомъ моемъ</l>
+      <l>предыдущемъ под <fw type="docNum">№ 130</fw> доносилъ, что жида сего</l>
+      <l>имяни здѣсь нетъ, письмо о <persName ref="alter-rebbe">рабинѣ Боруховиче</persName></l>
+      <l>подложное, и подписано не жидовскою рукою; тоже</l>
+      <l>самое имѣю я сказать и о семъ письмѣ. Оставя</l>
+      <l>подписанное здѣсь, для познанѣя почерка и открытіе</l>
+      <l>чрезъ то, ежели удастся злостнаго клеветника,</l>
+      <l>которой осмѣлился утверждать подобными доносами</l>
+      <l><pb xml:id="p008-2" n="008-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/008-2.jpg"/> <fw
+      type="pageNum">8об.</fw> покорнѣйше прилагаю здѣсь съ онаго, копію</l>
+      <l>для соображенія съ посылаемымъ от меня</l>
+      <l>объясненіемъ.</l>
+    </p>
+    <p>
+      <l>Имѣю честь быть с истиннымъ по-</l>
+      <l>чтениемъ и совершенною преданностію</l>
+      <l>Милостивый Государь</l>
+      <l>Вашего Превосходительства</l>
+      <l>всепокорнейшій слуга</l>
+      <l><persName ref="Булгаков">Яковъ Булгаковъ</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 132</fw></l>
+      <l><date when="1798-09-02">2 Сентября 1798</date></l>
+      <l><placeName ref="Вильно">Вилна</placeName></l>
+      <l>Его Превосходительству Гну Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+    </closer>
+  </body></text>
 </TEI>

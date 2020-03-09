@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,41 +8,35 @@
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free">
-          <licence>
-            <ab>
-              <ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-                Creative Commons Attribution 4.0 International License
-              </ref>
-            </ab>
-          </licence>
-        </availability>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Расписка <persName ref="alter-rebbe">Алтер Ребе</persName> за прием своих книг, вывезенных властями из
+        <placeName ref="Лозна">Лиозно</placeName>, на хранение - по реестру этих изданий
+      </p></abstract>
+      <creation><date when="1800-12-29">29 декабря 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-      <creation><date when="1800-12-29">29 декабря 1800</date></creation>
-      <abstract><p>Расписка <persName ref="alter-rebbe">Алтер Ребе</persName> за прием своих книг, вывезенных властями
-        из <placeName ref="Лозна">Лиозно</placeName>, на хранение - по реестру этих изданий</p></abstract>
     </profileDesc>
   </teiHeader>
-  <text>
-    <body>
-      <pb xml:id="p362-1" n="362-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/362-1.jpg"/>
-      <date when="1800-12-29">29 декабря 1800<hi rend="superscript">го</hi></date>
-      <fw type="note" place="left">Секретно</fw>
-      <p>
-        <l>по сему <sic>рестру</sic> сто три 103 книгѣ еврея <persName ref="alter-rebbe">брухович</persName></l>
-        <l>принял истем что если они <choice><sic>потрбууца</sic><corr>потребуются</corr></choice> то притс</l>
-        <l>тавить должин и <choice><sic>абвязуис</sic><corr>обязуюсь</corr></choice> писал виленск
-          <unclear>???</unclear><note place="end">возможно, подпись поручителя, написавшего расписку по-русски</note></l>
-        <l>Еври<note place="end">возможно, "писал за еврея..."</note><signed><unclear>шевглюдович</unclear></signed></l>
-        <l><signed>???</signed><note place="end">подпись на иврите, судя по всему, <persName ref="alter-rebbe">Шнеура Залмана</persName></note></l>
-      </p>
-      <fw type="pageNum" place="right">362</fw>
-      <pb xml:id="p362-2" n="362-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/362-2.jpg"/>
-    </body>
-  </text>
+  <text><body>
+    <pb xml:id="p362-1" n="362-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/362-1.jpg"/>
+    <date when="1800-12-29">29 декабря 1800<hi rend="superscript">го</hi></date>
+    <fw type="note" place="left">Секретно</fw>
+    <p>
+      <l>по сему <sic>рестру</sic> сто три 103 книгѣ еврея <persName ref="alter-rebbe">брухович</persName></l>
+      <l>принял истем что если они <choice><sic>потрбууца</sic><corr>потребуются</corr></choice> то притс</l>
+      <l>тавить должин и <choice><sic>абвязуис</sic><corr>обязуюсь</corr></choice> писал виленск <unclear>
+      ???</unclear><note place="end">возможно, подпись поручителя, написавшего расписку по-русски</note></l>
+      <l>Еври<note place="end">возможно, "писал за еврея..."</note> <signed><unclear>шевглюдович</unclear></signed></l>
+      <l><signed>???</signed><note place="end">подпись на иврите, судя по всему, <persName ref="alter-rebbe">Шнеура
+      Залмана</persName></note></l>
+    </p>
+    <fw type="pageNum" place="right">362</fw>
+    <pb xml:id="p362-2" n="362-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/362-2.jpg"/>
+  </body></text>
 </TEI>
