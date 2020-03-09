@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Имена без аттрибута 'ref'
+title: Имена без атрибута 'ref'
 ---
 
-- <persName>М. Каганъ</persName> [dubnov:427]
-- <placeName>Шкловѣ</placeName> [dubnov:427]
-- <placeName>Яффа</placeName> [dubnov:427]
+- <persName>М. Каганъ</persName> в dubnov:427
+- <placeName>Шкловѣ</placeName> в dubnov:427
+- <placeName>Яффа</placeName> в dubnov:427
 
