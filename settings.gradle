@@ -13,6 +13,6 @@ include 'service'
 
 //includeBuild ('../../store') {
 //    dependencySubstitution {
-//        substitute module('org.opentorah:org.opentorah-store') with project(':store')
+//        substitute module('org.opentorah:store') with project(':store')
 //    }
 //}
