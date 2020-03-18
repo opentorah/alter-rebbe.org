@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store n="Архив 19 кислева">
+  <selector type="nullary">
+    <name lang="en" n="names"/>
+    <name lang="ru" n="Имена"/>
+  </selector>
+  <selector>
+    <name lang="en" n="name"/>
+    <name lang="ru" n="имя"/>
+  </selector>
   <selector>
     <name lang="en" n="archive"/>
     <name lang="ru" n="архив"/>
@@ -35,15 +43,41 @@
     <name lang="ru" n="страница"/>
   </selector>
 
-  <by n="archive">
+  <by selector="case">
+    <store file="collections/derzhavin.xml"/>
+    <store file="collections/dubnov.xml"/>
+    <store file="collections/lna208.xml"/>
+    <store file="collections/lvia1799.xml"/>
+    <store file="collections/lvia1800.xml"/>
+    <store file="collections/lvia1824.xml"/>
+    <store file="collections/lvia1868.xml"/>
+    <store file="collections/niab5.xml"/>
+    <store file="collections/niab14.xml"/>
+    <store file="collections/niab19.xml"/>
+    <store file="collections/niab24.xml"/>
+    <store file="collections/niab271.xml"/>
+    <store file="collections/niab611.xml"/>
+    <store file="collections/niab25207.xml"/>
+    <store file="collections/rgada.xml"/>
+    <store file="collections/rgia119.xml"/>
+    <store file="collections/rgia328.xml"/>
+    <store file="collections/rgia413.xml"/>
+    <store file="collections/rgia529.xml"/>
+    <store file="collections/rgia2213.xml"/>
+    <store file="collections/rnb203.xml"/>
+    <store file="collections/rnb211.xml"/>
+  </by>
+
+  <!--
+  <by selector="archive">
     <store>
       <name lang="en" n="books"/>
       <name lang="ru" n="книги"/>
-      <by n="автор">
+      <by selector="автор">
         <store>
           <name lang="ru" n="Дубнов"/>
-          <by n="документ">
-            <texts url="collections/dubnov/tei"/>
+          <by selector="документ">
+            <texts url="collections/dubnov"/>
           </by>
         </store>
       </by>
@@ -52,14 +86,14 @@
     <store>
       <name lang="en" n="RGADA"/>
       <name lang="ru" n="РГАДА"/>
-      <by n="разряд">
+      <by selector="разряд">
         <store n="VII">
-          <by n="опись">
+          <by selector="опись">
             <store n="2">
-              <by n="дело">
+              <by selector="дело">
                 <store n="3140">
-                  <by n="документ">
-                    <texts url="collections/rgada/tei"/>
+                  <by selector="документ">
+                    <texts url="collections/rgada"/>
                   </by>
                 </store>
               </by>
@@ -69,10 +103,35 @@
       </by>
     </store>
 
-<!--    <store url="rgia.xml"/>-->
-    <!--    <store url="lvia.xml"/>-->
-    <!--    <store url="niab.xml"/>-->
-    <!--    <store url="lna.xml"/>-->
-    <!--    <store url="rnd.xml"/>-->
+    <store url="rgia.xml"/>
+    <store url="lvia.xml"/>
+    <store url="niab.xml"/>
+    <store url="lna.xml"/>
+    <store url="rnd.xml"/>
   </by>
+  -->
+
+  <nameds selector="names" by="name" directory="names" list="names-list-generated.xml">
+    <listPerson xml:id="jews" role="jew">
+      <head>Жиды (они же Евреи)</head>
+    </listPerson>
+    <listPerson xml:id="officials" role="official">
+      <head>Начальство</head>
+    </listPerson>
+    <listPerson xml:id="unknown">
+      <head>Неизвестно кто</head>
+    </listPerson>
+    <listPlace xml:id="places">
+      <head>Места</head>
+    </listPlace>
+    <listOrg xml:id="organizations">
+      <head>Организации</head>
+    </listOrg>
+    <listOrg xml:id="organizations" role="archive">
+      <head>Архивы</head>
+    </listOrg>
+    <listPerson xml:id="transcribers" role="transcriber">
+      <head>Расшифровщики</head>
+    </listPerson>
+  </nameds>
 </store>
