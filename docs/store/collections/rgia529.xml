@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection publish="true">
-  <archive>РГИА</archive>
-  <number>529</number>
+<store n="РГИА 529" type="org.opentorah.archive.collector.Collection">
+  <by selector="document" directory="rgia529"/>
+
   <title>Прошения на высочайшее имя и дела докладчиков</title>
   <abstract>Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены
     <persName ref="Меер_Рафалович">Меира Рафаловича</persName>, с жалобой на <placeName ref="Вильно">виленскую
     </placeName> общину, оклеветавшую ее мужа и других хасидов. Документы общины, связанные с жалобой.
   </abstract>
-  <notes>
-    <p>В описании дела написано: имеется внутренняя опись N 1743 ч. I , кол. листов 121  </p>
-    <p>Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>,
-      <l> <ref target="https://rgia.su/object/27609433#!page:1/o:27609433/p:1">фонд 468 (КАБИНЕТ ЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА МИДв)</ref>,
-        <ref target="http://rgia.su/object/1076401184">опись 43 </ref>
-        (1713-1918 гг., Исполнительное, Камеральное, Хозяйстенное,
-        Горное, Административное и Счетное отделения - материалы из россыпи - см.описи соответствующих структурных частей.)</l>
-      <ref target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIxsbMz8vZmI2Qio/Czw==">дело 529 </ref>
-      <l>стр. 74: Письмо <orgname ref="Виленский_кагал">виленского кагала</orgname> - ???</l>
-    </p>
-    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: ???</p>
-    <p>Фотографии предоставил Константин Пименов.</p>
-  </notes>
-</collection>
+
+  <p>В описании дела написано: имеется внутренняя опись N 1743 ч. I , кол. листов 121  </p>
+  <p>Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>,
+    <l> <ref target="https://rgia.su/object/27609433#!page:1/o:27609433/p:1">фонд 468 (КАБИНЕТ ЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА МИДв)</ref>,
+      <ref target="http://rgia.su/object/1076401184">опись 43 </ref>
+      (1713-1918 гг., Исполнительное, Камеральное, Хозяйстенное,
+      Горное, Административное и Счетное отделения - материалы из россыпи - см.описи соответствующих структурных частей.)</l>
+    <ref target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIxsbMz8vZmI2Qio/Czw==">дело 529 </ref>
+    <l>стр. 74: Письмо <orgname ref="Виленский_кагал">виленского кагала</orgname> - ???</l>
+  </p>
+  <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: ???</p>
+  <p>Фотографии предоставил Константин Пименов.</p>
+</store>

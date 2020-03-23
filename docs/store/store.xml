@@ -2,7 +2,7 @@
 <store n="Архив 19 кислева">
   <selector type="nullary">
     <name lang="en" n="names"/>
-    <name lang="ru" n="Имена"/>
+    <name lang="ru" n="имена"/>
   </selector>
   <selector>
     <name lang="en" n="name"/>
@@ -33,6 +33,10 @@
   <selector>
     <name lang="en" n="author"/>
     <name lang="ru" n="автор"/>
+  </selector>
+  <selector>
+    <name lang="en" n="part"/>
+    <name lang="ru" n="часть"/>
   </selector>
   <selector>
     <name lang="en" n="document"/>
@@ -68,7 +72,7 @@
     <store file="collections/rnb211.xml"/>
   </by>
 
-  <!--
+<!--
   <by selector="archive">
     <store>
       <name lang="en" n="books"/>
@@ -111,7 +115,9 @@
   </by>
   -->
 
-  <nameds selector="names" by="name" directory="names" list="names-list-generated.xml">
+  <entities selector="names">
+    <by selector="name" directory="names" list="names-list-generated.xml"/>
+
     <listPerson xml:id="jews" role="jew">
       <head>Жиды (они же Евреи)</head>
     </listPerson>
@@ -133,5 +139,5 @@
     <listPerson xml:id="transcribers" role="transcriber">
       <head>Расшифровщики</head>
     </listPerson>
-  </nameds>
+  </entities>
 </store>

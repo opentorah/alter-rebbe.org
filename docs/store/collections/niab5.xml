@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection>
-    <archive>НИАБ</archive>
-    <number>5</number>
+<store n="НИАБ 5" type="org.opentorah.archive.collector.Collection">
+    <by selector="document" directory="niab5"/>
+
     <title>"?"</title>
-    <abstract>        
+    <abstract>
         Документы связанные с историей Моше, сына Алтер Ребе.
     </abstract>
-    <notes> <p>МИНСК - НИАБ</p>
-        <p>ф.1718, опись 3, дело 5</p>
-        <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:
-            Дела о крещении евреев, 1820. лл.75-117.</p> </notes>
-</collection>
+    <p>МИНСК - НИАБ</p>
+    <p>ф.1718, опись 3, дело 5</p>
+    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:
+        Дела о крещении евреев, 1820. лл.75-117.</p>
+</store>

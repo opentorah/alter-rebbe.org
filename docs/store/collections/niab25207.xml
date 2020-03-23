@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection publish="true">
-  <archive>НИАБ</archive>
-  <number>25207</number>
+<store n="НИАБ 25207" type="org.opentorah.archive.collector.Collection">
+  <by selector="document" directory="niab25207"/>
+
   <title>Дело по представленному Могилевского главного суда 1-го департамента решению о незаконных денежных сборах
     <persName ref="мителер_ребе">Любавицким раввином Беркою Шнеером</persName> со своей (собратии) отечественников</title>
   <abstract>
@@ -9,17 +9,16 @@
     <persName ref="мителер_ребе">любавического раввина Берка Шнеера</persName> о незаконных денежных поборах с евреев
     <placeName ref="Любавичи">Любавичей</placeName>.
   </abstract>
-  <notes>
-    <p>МИНСК - НИАБ</p>
-    <p>ф. 1297, оп. 1, д. 25207</p>
-    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:
-      <placeName ref="Витебск">Витебский</placeName>, <placeName ref="Могилевская_губерния">Могилевский</placeName>,
-      смоленский генерал-губернатор, <placeName ref="Витебск">г. Витебск</placeName>.
-      Указ, рапорты, переписка и др. материалы по доносу <placeName ref="Витебск">витебского</placeName> еврея Кисина на
-      <persName ref="мителер_ребе">любавического раввина Берка (Дов-Бер) Шнеерсона</persName> о незаконных денежных
-      поборах с евреев <placeName ref="Любавичи">Любавичей</placeName>.
-      25 листов.
-    </p>
-    <p>Фотографии предоставила Елена Волк.</p>
-  </notes>
-</collection>
+
+  <p>МИНСК - НИАБ</p>
+  <p>ф. 1297, оп. 1, д. 25207</p>
+  <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:
+    <placeName ref="Витебск">Витебский</placeName>, <placeName ref="Могилевская_губерния">Могилевский</placeName>,
+    смоленский генерал-губернатор, <placeName ref="Витебск">г. Витебск</placeName>.
+    Указ, рапорты, переписка и др. материалы по доносу <placeName ref="Витебск">витебского</placeName> еврея Кисина на
+    <persName ref="мителер_ребе">любавического раввина Берка (Дов-Бер) Шнеерсона</persName> о незаконных денежных
+    поборах с евреев <placeName ref="Любавичи">Любавичей</placeName>.
+    25 листов.
+  </p>
+  <p>Фотографии предоставила Елена Волк.</p>
+</store>
