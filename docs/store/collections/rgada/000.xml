@@ -2,21 +2,64 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
+      <titleStmt><editor role="transcriber"><persName ref="VK">Когаловский Василий</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+          Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
       </publicationStmt>
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Обложка и титульный лист первого следственного дела <persName ref="alter-rebbe">Шнеура Залмана</persName>
+      </p></abstract>
+      <creation><date when="1798-08-11">11 августа 1798 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p000-1" n="000-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/000-1.jpg"/>
+    <l>
+      <fw type="docNum" place="left">VII</fw>
+      <date when="1798-??-??" place="right">1798 года</date>
+    </l>
+    <l><fw type="docNum" place="left">№ 3140</fw></l>
+    <head>
+      <l><emph rend="big">Дѣло</emph></l>
+      <l>О еврейской сектѣ <orgName ref="Хасиды">Каролиновъ</orgName></l>
+      <l>и объ учителѣ ихъ раввинѣ <persName ref="alter-rebbe">Зальманѣ<lb/>
+        Боруховичѣ</persName>, и о доносахъ еврея <persName ref="Гирш_Давидович">Гирши<lb/>
+        Давидовича</persName></l>
+    </head>
+    <l><placeName ref="Петербург">СПБ</placeName></l>
+    <l>Государственный Архивъ</l>
+    <l>М.И.Д.</l>
     <pb xml:id="p000a-1" n="000a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/000a-1.jpg"/>
+    <l><del rend="overstrike"><fw type="docNum">№ 12</fw></del></l>
+    <l><fw type="docNum">№ 211</fw></l>
+    <l><fw type="note" place="right">II</fw></l>
+    <l>По доносам: <emph rend="underline">еврея <persName ref="Гирш_Давидович">Гирша Давыдовича</persName></emph></l>
+    <l>1<hi rend="superscript">е</hi>, о виленскомъ городничемъ <emph rend="underline">Меншѣ</emph></l>
+    <l>имѣющемъ при себѣ секретаремъ</l>
+    <l>бѣглаго унтеръ офицера <emph rend="underline">Ивана Матвѣева</emph></l>
+    <l>и о взяткахъ; 2<hi rend="superscript">е</hi> о <emph rend="underline">рабинѣ <persName ref="alter-rebbe">
+      Зальманѣ<lb/>
+      Боруховичѣ</persName></emph>, которой собирая молодыхъ</l>
+    <l>евреевъ хочетъ способствовать фран-</l>
+    <l>цузской революціи; и ксенза <emph rend="underline"><persName ref="Чечерский">Чечер-<lb/>
+      скаго</persName></emph> о <emph rend="underline">взятіи</emph> якобы по дѣлу вилен-</l>
+    <l>скихъ доминикановъ съ шляхтичемъ</l>
+    <l>рымшею въ бывшемъ верховномъ</l>
+    <l>литовскомъ правленіи членами</l>
+    <l>и секретарями <emph rend="underline">12,000: рублей</emph></l>
+    <l><date when="1798-08-11">11 августа 1798 года</date></l>
+    <l>решено <date when="1798-11-16">16 ноября________</date></l>
+    <l><fw type="docNum" place="right">№ 368 <unclear>листъ</unclear></fw></l>
+    <l>Тутъ же и о сектѣ называемой</l>
+    <l><orgName ref="Хасиды">Каролины или хосады</orgName>, евреями</l>
+    <l>заведенной.</l>
+    <l>и о оберъ рабинѣ <persName ref="Авигдор">Хаимѣ</persName>.</l>
   </body></text>
 </TEI>

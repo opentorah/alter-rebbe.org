@@ -207,26 +207,33 @@
     </listOrg>
     <listOrg xml:id="organizations" role="archive">
       <head>Архивы</head>
-      <l><ref target="/names/CAHJP.html" role="namesViewer"><orgName>CAHJP</orgName></ref></l>
-      <l><ref target="/names/LNA.html" role="namesViewer"><orgName>LNA Riga</orgName></ref></l>
-      <l><ref target="/names/LVIA.html" role="namesViewer"><orgName>LVIA Vilnius</orgName></ref></l>
-      <l><ref target="/names/НИАБ.html" role="namesViewer"><orgName>НИАБ Минск</orgName></ref></l>
-      <l><ref target="/names/РГАДА.html" role="namesViewer"><orgName>РГАДА Москва</orgName></ref></l>
-      <l><ref target="/names/РГИА.html" role="namesViewer"><orgName>РГИА</orgName></ref></l>
-      <l><ref target="/names/РНБ.html" role="namesViewer"><orgName>РНБ</orgName></ref></l>
+      <l><ref target="/names/CAHJP.html" role="namesViewer"><orgName>CAHJP, Jerusalem (Центральный архив истории
+      еврейского народа)</orgName></ref></l>
+      <l><ref target="/names/LNA.html" role="namesViewer"><orgName>LNA, Riga (Национальный архив Латвии)</orgName></ref>
+      </l>
+      <l><ref target="/names/LVIA.html" role="namesViewer"><orgName>LVIA, Vilnius (Литовский государственный
+      исторический архив)</orgName></ref></l>
+      <l><ref target="/names/НИАБ.html" role="namesViewer"><orgName>НИАБ, Минск (Национальный исторический архив
+      Беларуси)</orgName></ref></l>
+      <l><ref target="/names/РГАДА.html" role="namesViewer"><orgName>РГАДА, Москва (Российский государственный архив
+      древних актов)</orgName></ref></l>
+      <l><ref target="/names/РГИА.html" role="namesViewer"><orgName>РГИА, Санкт-Петербург (Российский государственный
+      исторический архив)</orgName></ref></l>
+      <l><ref target="/names/РНБ.html" role="namesViewer"><orgName>РНБ, Санкт-Петербург (Российская национальная
+      библиотека)</orgName></ref></l>
     </listOrg>
     <listPerson xml:id="transcribers" role="transcriber">
       <head>Расшифровщики</head>
-      <l><ref target="/names/ALD.html" role="namesViewer"><persName>Арье-Лейб Дубинский</persName></ref></l>
-      <l><ref target="/names/BG.html" role="namesViewer"><persName>Борух Горкин</persName></ref></l>
-      <l><ref target="/names/IA.html" role="namesViewer"><persName>Ифрах Абрамов</persName></ref></l>
-      <l><ref target="/names/IL.html" role="namesViewer"><persName>Илья Лурье</persName></ref></l>
-      <l><ref target="/names/MF.html" role="namesViewer"><persName>Мендел Феллер</persName></ref></l>
-      <l><ref target="/names/MK.html" role="namesViewer"><persName>Михоэль Кориц</persName></ref></l>
-      <l><ref target="/names/SB.html" role="namesViewer"><persName>Сергей Броуде</persName></ref></l>
-      <l><ref target="/names/VK.html" role="namesViewer"><persName>Василий Когаловский</persName></ref></l>
-      <l><ref target="/names/Гессенъ.html" role="namesViewer"><persName>Гессенъ, Юлий Исидорович</persName></ref></l>
-      <l><ref target="/names/Дубнов.html" role="namesViewer"><persName>Дубнов</persName></ref></l>
+      <l><ref target="/names/ALD.html" role="namesViewer"><persName>Дубинский Арье-Лейб</persName></ref></l>
+      <l><ref target="/names/BG.html" role="namesViewer"><persName>Горкин Борух</persName></ref></l>
+      <l><ref target="/names/IA.html" role="namesViewer"><persName>Абрамов Ифрах</persName></ref></l>
+      <l><ref target="/names/IL.html" role="namesViewer"><persName>Лурье Илья</persName></ref></l>
+      <l><ref target="/names/MF.html" role="namesViewer"><persName>Феллер Мендел</persName></ref></l>
+      <l><ref target="/names/MK.html" role="namesViewer"><persName>Кориц Михоэль</persName></ref></l>
+      <l><ref target="/names/SB.html" role="namesViewer"><persName>Броуде Сергей</persName></ref></l>
+      <l><ref target="/names/VK.html" role="namesViewer"><persName>Когаловский Василий</persName></ref></l>
+      <l><ref target="/names/Гессенъ.html" role="namesViewer"><persName>Гессен Юлий</persName></ref></l>
+      <l><ref target="/names/Дубнов.html" role="namesViewer"><persName>Дубнов Семен</persName></ref></l>
     </listPerson>
   </body></text>
 </TEI>
