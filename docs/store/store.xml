@@ -9,6 +9,10 @@
     <name lang="ru" n="имя"/>
   </selector>
   <selector>
+    <name lang="en" n="book"/>
+    <name lang="ru" n="книга"/>
+  </selector>
+  <selector>
     <name lang="en" n="archive"/>
     <name lang="ru" n="архив"/>
   </selector>
@@ -47,76 +51,18 @@
     <name lang="ru" n="страница"/>
   </selector>
 
-  <by selector="case">
-    <store file="collections/derzhavin.xml"/>
-    <store file="collections/dubnov.xml"/>
-    <store file="collections/lna208.xml"/>
-    <store file="collections/lvia1799.xml"/>
-    <store file="collections/lvia1800.xml"/>
-    <store file="collections/lvia1824.xml"/>
-    <store file="collections/lvia1868.xml"/>
-    <store file="collections/niab5.xml"/>
-    <store file="collections/niab14.xml"/>
-    <store file="collections/niab19.xml"/>
-    <store file="collections/niab24.xml"/>
-    <store file="collections/niab271.xml"/>
-    <store file="collections/niab611.xml"/>
-    <store file="collections/niab25207.xml"/>
-    <store file="collections/rgada.xml"/>
-    <store file="collections/rgia119.xml"/>
-    <store file="collections/rgia328.xml"/>
-    <store file="collections/rgia413.xml"/>
-    <store file="collections/rgia529.xml"/>
-    <store file="collections/rgia2213.xml"/>
-    <store file="collections/rnb203.xml"/>
-    <store file="collections/rnb211.xml"/>
-  </by>
-
-<!--
   <by selector="archive">
-    <store>
-      <name lang="en" n="books"/>
-      <name lang="ru" n="книги"/>
-      <by selector="автор">
-        <store>
-          <name lang="ru" n="Дубнов"/>
-          <by selector="документ">
-            <texts url="collections/dubnov"/>
-          </by>
-        </store>
-      </by>
-    </store>
-
-    <store>
-      <name lang="en" n="RGADA"/>
-      <name lang="ru" n="РГАДА"/>
-      <by selector="разряд">
-        <store n="VII">
-          <by selector="опись">
-            <store n="2">
-              <by selector="дело">
-                <store n="3140">
-                  <by selector="документ">
-                    <texts url="collections/rgada"/>
-                  </by>
-                </store>
-              </by>
-            </store>
-          </by>
-        </store>
-      </by>
-    </store>
-
-    <store url="rgia.xml"/>
-    <store url="lvia.xml"/>
-    <store url="niab.xml"/>
-    <store url="lna.xml"/>
-    <store url="rnd.xml"/>
+    <store file="books.xml"/>
+    <store file="lna.xml"/>
+    <store file="lvia.xml"/>
+    <store file="niab.xml"/>
+    <store file="rgada.xml"/>
+    <store file="rgia.xml"/>
+    <store file="rnb.xml"/>
   </by>
-  -->
 
   <entities selector="names">
-    <by selector="name" directory="names" list="names-list-generated.xml"/>
+    <by selector="name" directory="names"/>
 
     <listPerson xml:id="jews" role="jew">
       <head>Жиды (они же Евреи)</head>

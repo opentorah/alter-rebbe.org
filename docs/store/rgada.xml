@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store n="РГАДА">
+  <by selector="case">
+    <store file="collections/rgada.xml"/>
+  </by>
+</store>
+
+<!--
+      <by selector="разряд">
+        <store n="VII">
+          <by selector="опись">
+            <store n="2">
+              <by selector="дело">
+                <store n="3140">
+                  <by selector="документ">
+                    <texts url="collections/rgada"/>
+                  </by>
+                </store>
+              </by>
+            </store>
+          </by>
+        </store>
+      </by>
+-->
