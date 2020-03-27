@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
-  <name lang="en" n="RGIA"/>
-  <name lang="ru" n="РГИА"/>
+<store n="RGIA">
+  <by selector="case">
+    <store file="collections/rgia119.xml"/>
+    <store file="collections/rgia328.xml"/>
+    <store file="collections/rgia413.xml"/>
+    <store file="collections/rgia529.xml"/>
+    <store file="collections/rgia2213.xml"/>
+  </by>
+</store>
+
+<!--
   <by selector="фонд">
     <store n="1309">
       <by selector="опись">
@@ -31,4 +39,4 @@
       </by>
     </store>
   </by>
-</store>
+-->
