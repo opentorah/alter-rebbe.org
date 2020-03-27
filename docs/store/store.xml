@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="Архив 19 кислева">
-  <selector type="nullary">
+  <selector>
     <name lang="en" n="names"/>
     <name lang="ru" n="имена"/>
   </selector>
@@ -51,16 +51,6 @@
     <name lang="ru" n="страница"/>
   </selector>
 
-  <by selector="archive">
-    <store file="books.xml"/>
-    <store file="lna.xml"/>
-    <store file="lvia.xml"/>
-    <store file="niab.xml"/>
-    <store file="rgada.xml"/>
-    <store file="rgia.xml"/>
-    <store file="rnb.xml"/>
-  </by>
-
   <entities selector="names">
     <by selector="name" directory="names"/>
 
@@ -86,4 +76,14 @@
       <head>Расшифровщики</head>
     </listPerson>
   </entities>
+
+  <by selector="archive">
+    <store file="books.xml"/>
+    <store file="lna.xml"/>
+    <store file="lvia.xml"/>
+    <store file="niab.xml"/>
+    <store file="rgada.xml"/>
+    <store file="rgia.xml"/>
+    <store file="rnb.xml"/>
+  </by>
 </store>

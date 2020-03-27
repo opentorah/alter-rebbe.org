@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="НИАБ 271" type="org.opentorah.archive.collector.Collection">
-    <by selector="document" directory="niab271"/>
-
     <title>Дело о <persName ref="Моше">рабине Леоне Шнеере</persName></title>
     <abstract>
         1820 год. История <persName ref="Моше">Моше</persName>, сына <persName ref="alter-rebbe">Алтер Ребе</persName>.
         Переписка чиновников, пересказ жалобы сыновей <persName ref="alter-rebbe">Алтер Ребе</persName> на насильственное
         крещение <persName ref="Моше">Моше</persName>.
     </abstract>
+
+    <by selector="document" directory="niab271"/>
 
     <p>МИНСК - НИАБ</p>
     <p>ф. 1781, опись 2, дело 271</p>

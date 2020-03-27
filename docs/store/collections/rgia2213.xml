@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="РГИА 2213" type="org.opentorah.archive.collector.Collection">
-    <by selector="document" directory="rgia2213"/>
-
     <title>Переписка по поводу всепод. жалобы (на нем. яз. с переводом) быв. обер раввина из <placeName ref="Пинск">
         Пинска</placeName> <persName ref="Авигдор">Хаима</persName> о
         преследовании, смещении в места раввина и разорении его последователями секты шабзус-цвинкус</title>
@@ -9,6 +7,8 @@
         1800 год. Жалоба <persName ref="Авигдор">Авигдора</persName> и переписка по ее поводу генерал-прокурора <orgName ref="Сенат">Сената</orgName> с <placeName ref="Литва">
         литовским</placeName> военным губернатором.
     </abstract>
+
+    <by selector="document" directory="rgia2213"/>
 
     <p>Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>,
         Канцелярия генерал-прокурора <orgName ref="Сенат">Сената</orgName>,
