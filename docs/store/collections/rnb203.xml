@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection>
-    <archive>РНБ</archive>
-    <number>203</number>
+<store n="РНБ 203" type="org.opentorah.archive.collector.Collection">
+    <by selector="document" directory="rnb203"/>
+
     <title>"?"</title>
     <abstract>
         Документов этого дела у нас пока нет.
     </abstract>
-    <notes>
-        <p>Российская национальная библиотека</p>
-        <p>РО, Евр IV, 203, 1852 - 1857 г.</p>
-        <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:</p>
-        <p>
-            דברי חסידות חבד
-            ילקוט דרשות "תורת אדמו"ר הזקן" , נכתב ע"י בנו
-        </p>
-    </notes>
-</collection>
+
+    <p>Российская национальная библиотека</p>
+    <p>РО, Евр IV, 203, 1852 - 1857 г.</p>
+    <p>Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:</p>
+    <p>
+        דברי חסידות חבד
+        ילקוט דרשות "תורת אדמו"ר הזקן" , נכתב ע"י בנו
+    </p>
+</store>
