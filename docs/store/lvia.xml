@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="LVIA">
-  <by selector="year">
-    <store file="collections/lvia1799.xml"/>
-    <store file="collections/lvia1800.xml"/>
-    <store file="collections/lvia1824.xml"/>
-    <store file="collections/lvia1868.xml"/>
-  </by>
-</store>
-
-<!--
-<store>
-  <by selector="фонд">
+  <by selector="fund">
     <store n="378">
-      title:  <name lang="ru" n="Канцелярия Виленского военного генерал-губернатора"/>
+      <by selector="year">
+        <store file="collections/lvia1799.xml"/>
+        <store file="collections/lvia1800.xml"/>
+        <store file="collections/lvia1824.xml"/>
+        <store file="collections/lvia1868.xml"/>
+      </by>
+
+      <title>Канцелярия Виленского военного генерал-губернатора</title>
     </store>
   </by>
 </store>
--->
