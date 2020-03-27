@@ -1,10 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="LNA">
-  <by selector="fund">
-    <store n="I-2-208">
-      <by selector="case">
-        <store file="collections/lna208.xml"/>
-      </by>
-    </store>
-  </by>
-</store>
+<store n="LNA"><by selector="fund"><store n="I-2-208"><by selector="case"><store file="collections/lna208.xml"/></by>
+</store></by></store>

@@ -20,12 +20,8 @@
     <name lang="en" n="fund"/>
     <name lang="ru" n="фонд"/>
   </selector>
-  <selector>
-    <name lang="ru">разряд</name>
-  </selector>
-  <selector>
-    <name lang="ru" n="опись"/>
-  </selector>
+  <selector><name lang="ru" n="разряд"/></selector>
+  <selector><name lang="ru" n="опись"/></selector>
   <selector>
     <name lang="en" n="year"/>
     <name lang="ru" n="год"/>
@@ -50,33 +46,16 @@
     <name lang="en" n="page"/>
     <name lang="ru" n="страница"/>
   </selector>
-
   <entities selector="names">
     <by selector="name" directory="names"/>
-
-    <listPerson xml:id="jews" role="jew">
-      <head>Жиды (они же Евреи)</head>
-    </listPerson>
-    <listPerson xml:id="officials" role="official">
-      <head>Начальство</head>
-    </listPerson>
-    <listPerson xml:id="unknown">
-      <head>Неизвестно кто</head>
-    </listPerson>
-    <listPlace xml:id="places">
-      <head>Места</head>
-    </listPlace>
-    <listOrg xml:id="organizations">
-      <head>Организации</head>
-    </listOrg>
-    <listOrg xml:id="organizations" role="archive">
-      <head>Архивы</head>
-    </listOrg>
-    <listPerson xml:id="transcribers" role="transcriber">
-      <head>Расшифровщики</head>
-    </listPerson>
+    <listPerson xml:id="jews" role="jew"><head>Жиды (они же Евреи)</head></listPerson>
+    <listPerson xml:id="officials" role="official"><head>Начальство</head></listPerson>
+    <listPerson xml:id="unknown"><head>Неизвестно кто</head></listPerson>
+    <listPlace xml:id="places"><head>Места</head></listPlace>
+    <listOrg xml:id="organizations"><head>Организации</head></listOrg>
+    <listOrg xml:id="organizations" role="archive"><head>Архивы</head></listOrg>
+    <listPerson xml:id="transcribers" role="transcriber"><head>Расшифровщики</head></listPerson>
   </entities>
-
   <by selector="archive">
     <store file="books.xml"/>
     <store file="lna.xml"/>
