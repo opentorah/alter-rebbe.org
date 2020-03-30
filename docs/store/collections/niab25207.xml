@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="НИАБ 25207" type="org.opentorah.archive.collector.Collection">
-  <by selector="document" directory="niab25207"/>
-
   <title>Дело по представленному Могилевского главного суда 1-го департамента решению о незаконных денежных сборах
     <persName ref="мителер_ребе">Любавицким раввином Беркою Шнеером</persName> со своей (собратии) отечественников</title>
   <abstract>
@@ -9,6 +7,8 @@
     <persName ref="мителер_ребе">любавического раввина Берка Шнеера</persName> о незаконных денежных поборах с евреев
     <placeName ref="Любавичи">Любавичей</placeName>.
   </abstract>
+
+  <by selector="document" directory="niab25207"/>
 
   <p>МИНСК - НИАБ</p>
   <p>ф. 1297, оп. 1, д. 25207</p>

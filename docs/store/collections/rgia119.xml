@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="РГИА 119" type="org.opentorah.archive.collector.Collection">
-  <by selector="document" directory="rgia119"/>
-
   <title>Прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName></title>
   <abstract>1813 год.
     Прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName>, вдовы  <persName ref="alter-rebbe">Алтер Ребе</persName>,
@@ -9,6 +7,8 @@
     Открытый лист для проезда <persName ref="alter-rebbe">Алтер Ребе</persName> с
     семейством во внутрение губернии России.
   </abstract>
+
+  <by selector="document" directory="rgia119"/>
 
   <p>Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>,
     <ref target="https://rgia.su/object/27603831#!page:1/o:27603831/p:1">

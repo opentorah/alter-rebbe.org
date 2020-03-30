@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="НИАБ 611" type="org.opentorah.archive.collector.Collection">
-    <by selector="document" directory="niab611"/>
-
     <title>О следствии, произведенном гг. Логиновым и Марковым
         над <placeName ref="Витебск">витебским</placeName> <persName ref="мителер_ребе">раввином Шнейером</persName> о
         непозволительных поборах денег с целью увеличения доходов</title>
@@ -9,6 +7,8 @@
         2 октября 1825 - 25 августа 1826. Первое следственное дело по обвинению <persName ref="мителер_ребе">р. Дов-Бера
         Шнеерсона</persName> в незаконных поборах денег.
     </abstract>
+
+    <by selector="document" directory="niab611"/>
 
     <p>МИНСК - НИАБ</p>
     <p>ф. 1297, оп. 1, д. 611</p>

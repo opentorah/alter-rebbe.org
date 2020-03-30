@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="РГАДА 3140" type="org.opentorah.archive.collector.Collection">
+    <title>О <orgName ref="Хасиды">Еврейской секте Каролинов</orgName> и об учителе их <persName ref="alter-rebbe">Раввине
+        Зальмане Боруховиче</persName>, и о доносах <persName ref="Гирш_Давидович">Еврея Гирша Давидовича</persName></title>
+    <abstract>
+        Дело <orgName ref="Тайная_экспедиция">Тайной
+        экспедиции</orgName>, документы обоих арестов. 1798й и 1800й годы. </abstract>
+
     <by selector="document" directory="rgada">
         <store n="1" from="000">
             <title>Первый арест, 1798й год</title>
@@ -11,12 +17,6 @@
             <title>Сопроводительная информация</title>
         </store>
     </by>
-
-    <title>О <orgName ref="Хасиды">Еврейской секте Каролинов</orgName> и об учителе их <persName ref="alter-rebbe">Раввине
-        Зальмане Боруховиче</persName>, и о доносах <persName ref="Гирш_Давидович">Еврея Гирша Давидовича</persName></title>
-    <abstract>
-        Дело <orgName ref="Тайная_экспедиция">Тайной
-        экспедиции</orgName>, документы обоих арестов. 1798й и 1800й годы. </abstract>
 
     <p>Российский государственный архив древних актов - <ref target="http://rgada.info/poisk/index.php">РГАДА</ref>,
         Разряд VII. Преображенский приказ, Тайная канцелярия и <orgName ref="Тайная_экспедиция">Тайная экспедиция</orgName>;
