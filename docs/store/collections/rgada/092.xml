@@ -3,12 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt><author><persName ref="Меер_Рафалович">Меер Рафалович</persName></author></titleStmt>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
+      <publicationStmt/>
+      <sourceDesc/>
     </fileDesc>
     <profileDesc>
       <abstract><p>Протокол (на польском языке) допроса <persName ref="Меер_Рафалович">Меера Рафаловича</persName></p>
@@ -16,7 +12,6 @@
       <creation><date when="1798-10-01">1798 года сентября<note place="end">ошибка канцеляриста, правильно - октября
       </note> 1 дня</date></creation>
       <langUsage><language ident="pl"/></langUsage>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
