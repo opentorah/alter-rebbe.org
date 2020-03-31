@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><author><persName ref="Фризель">Фризель</persName></author></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><author><persName ref="Фризель">Фризель</persName></author></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract>Рапорт <placeName ref="Литва">литовского</placeName> гражданского губернатора <persName ref="Фризель">
       Фризеля</persName> генерал-губернатору <persName ref="Де-Ласси">Де-Ласси</persName> о запросе документов у

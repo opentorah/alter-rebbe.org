@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><persName ref="Меер_Рафалович">Меер Рафалович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Меер_Рафалович">Меер Рафалович</persName></author>
+      <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>Перевод протокола допроса <persName ref="Меер_Рафалович">Меера Рафаловича</persName></p></abstract>
       <creation><date when="1798-10-01">1798 года октября 1 дня<note place="end">дата указана в 092</note></date>

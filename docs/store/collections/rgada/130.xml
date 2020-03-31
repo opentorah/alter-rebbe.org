@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><persName ref="Хлиовна_Зорухович">Хлиовна Зорухович</persName></author>
-        <editor role="fragment-transcriber"><persName ref="MF">Mendel Feller</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Хлиовна_Зорухович">Хлиовна Зорухович</persName></author>
+      <editor role="fragment-transcriber"><persName ref="MF">Mendel Feller</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>Допрос жида <persName ref="Хлиовна_Зорухович">Хлиовна Зоруховича</persName></p></abstract>
       <langUsage><language ident="pl"/></langUsage>

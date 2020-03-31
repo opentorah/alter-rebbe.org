@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">К пророчеству о Бонапарте</title>
-        <author>Каган</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
-    <profileDesc><langUsage><language ident="ru"/></langUsage></profileDesc>
+    <fileDesc><titleStmt>
+      <author>Каган</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>К пророчеству о Бонапарте</p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
+    <head>К пророчеству о Бонапарте</head>
     <p>
       <pb xml:id="p427" n="427" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/427.jpg"/> Къ статьѣ
       „Вмѣшательство русскаго правительства въ антихасидскую борьбу" приложенъ, между прочимъ, документъ за № 27,

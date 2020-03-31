@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">Вмешательство русского правительства в антихасидскую борьбу (1800—1801)</title>
-        <title type="sub">Вступление</title>
-        <author><persName ref="Дубнов">Дубнов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
-    <profileDesc><langUsage><language ident="ru"/></langUsage></profileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Дубнов">Дубнов</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>Вступление</p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>

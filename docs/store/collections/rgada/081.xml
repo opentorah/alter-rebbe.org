@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <author><persName ref="Павел_I">Павел I</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Лопухин">Лопухин</persName></author>
+      <author><persName ref="Павел_I">Павел I</persName></author>
+      <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Доклад <persName ref="Лопухин">Лопухина</persName> императору о хасидах <orgName ref="Хасиды">Секте Каролинов
