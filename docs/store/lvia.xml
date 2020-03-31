@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="LVIA"><by selector="fund"><store n="378">
-  <title>Канцелярия Виленского военного генерал-губернатора</title>
-  <by selector="year">
-    <store file="collections/lvia1799.xml"/>
-    <store file="collections/lvia1800.xml"/>
-    <store file="collections/lvia1824.xml"/>
-    <store file="collections/lvia1868.xml"/>
-  </by>
-</store></by></store>
+<store n="LVIA">
+  <title>LVIA, Vilnius (Литовский государственный исторический архив)</title>
+  <abstract>Lietuvos valstybės istorijos archyvas</abstract>
+  <by selector="fund"><store n="378">
+    <title>Канцелярия Виленского военного генерал-губернатора</title>
+    <by selector="year">
+      <store file="collections/lvia1799.xml"/>
+      <store file="collections/lvia1800.xml"/>
+      <store file="collections/lvia1824.xml"/>
+      <store file="collections/lvia1868.xml"/>
+    </by>
+  </store></by>
+</store>

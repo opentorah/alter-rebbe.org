@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="LNA"><by selector="fund"><store n="I-2-208"><by selector="case"><store file="collections/lna208.xml"/></by>
-</store></by></store>
+<store n="LNA">
+  <title>LNA, Riga (Национальный архив Латвии)</title>
+  <abstract>
+    <l>Latvijas Nacionālais arhīvs</l>
+    <l><ref target="https://arhivi.gov.lv/">Вебсайт</ref></l>
+  </abstract>
+  <by selector="fund"><store n="I-2-208"><by selector="case"><store file="collections/lna208.xml"/></by></store></by>
+</store>

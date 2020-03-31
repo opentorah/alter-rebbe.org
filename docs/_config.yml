@@ -29,6 +29,7 @@ theme: minima
 markdown: kramdown
 
 exclude:
+#  - store
   - buld.gradle
   - CNAME
   - Gemfile

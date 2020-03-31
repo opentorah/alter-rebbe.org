@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="РГАДА"><by selector="разряд"><store n="VII">
-  <title>Преображенский приказ, Тайная канцелярия и <orgName ref="Тайная_экспедиция">Тайная экспедиция</orgName>;
-  коллекция Государственного архива Российской империи</title>
-  <by selector="опись"><store n="2">
-    <title>
-      <ref target="http://rgada.info/opisi/7-opis_2/0218.jpg">Дела</ref>
-      <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>
-    </title>
-    <by selector="case"><store file="collections/rgada.xml"/></by>
+<store n="РГАДА">
+  <title>РГАДА, Москва (Российский государственный архив древних актов)</title>
+  <abstract><ref target="http://rgada.info/poisk/index.php">Вебсайт</ref></abstract>
+  <by selector="разряд"><store n="VII">
+    <title>Преображенский приказ, Тайная канцелярия и <orgName ref="Тайная_экспедиция">Тайная экспедиция</orgName>;
+    коллекция Государственного архива Российской империи</title>
+    <by selector="опись"><store n="2">
+      <title>Дела <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName></title>
+      <abstract><ref target="http://rgada.info/opisi/7-opis_2/0218.jpg">Вебсайт</ref></abstract>
+      <by selector="case"><store file="collections/rgada.xml"/></by>
+    </store></by>
   </store></by>
-</store></by></store>
+</store>
