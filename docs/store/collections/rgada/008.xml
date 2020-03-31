@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-      <publicationStmt/>
-      <sourceDesc/>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Булгаков">Булгаков</persName></author>
+      <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о
