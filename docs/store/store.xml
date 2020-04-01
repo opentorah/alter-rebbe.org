@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="Архив 19 кислева">
+<store n="by">
   <selector>
     <name lang="en" n="names"/>
     <name lang="ru" n="имена"/>
@@ -57,9 +57,9 @@
     <listPerson xml:id="unknown"><head>Неизвестно кто</head></listPerson>
     <listPlace xml:id="places"><head>Места</head></listPlace>
     <listOrg xml:id="organizations"><head>Организации</head></listOrg>
-    <listOrg xml:id="organizations" role="archive"><head>Архивы</head></listOrg>
     <listPerson xml:id="transcribers" role="transcriber"><head>Расшифровщики</head></listPerson>
   </entities>
+  <title>Архив 19 кислева</title>
   <by selector="archive">
     <store file="books.xml"/>
     <store file="lna.xml"/>
@@ -68,5 +68,6 @@
     <store file="rgada.xml"/>
     <store file="rgia.xml"/>
     <store file="rnb.xml"/>
+    <store file="cahjp.xml"/>
   </by>
 </store>
