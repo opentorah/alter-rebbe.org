@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="by">
+  <title>Архив 19 кислева</title>
   <selector>
     <name lang="en" n="names"/>
     <name lang="ru" n="имена"/>
@@ -59,7 +60,6 @@
     <listOrg xml:id="organizations"><head>Организации</head></listOrg>
     <listPerson xml:id="transcribers" role="transcriber"><head>Расшифровщики</head></listPerson>
   </entities>
-  <title>Архив 19 кислева</title>
   <by selector="archive">
     <store file="books.xml"/>
     <store file="lna.xml"/>
