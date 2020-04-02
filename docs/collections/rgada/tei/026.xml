@@ -32,7 +32,7 @@
       <l>Евреевъ, слѣдующихъ новой сектѣ,</l>
       <l><orgName ref="Хасиды">Каролинами</orgName> называемой.</l>
     </head>
-    <table>
+    <table rendition="rgada-026-table">
       <row>
         <cell><emph rend="underline">Имяна.</emph></cell>
         <cell><emph rend="underline">Состояніе:</emph></cell>
@@ -41,7 +41,7 @@
       <row>
         <cell>
           <l>1. <persName ref="Меер_Рафалович">Меіеръ Рафаиловичъ</persName>, или</l>
-          <l>сынъ Рафаила</l>
+          <l>сынъ <persName>Рафаила</persName></l>
         </cell>
         <cell>
           <l>имѣетъ каменной домъ въ</l>
@@ -103,9 +103,10 @@
       <row>
         <cell>11. <persName ref="Лейба_Юделевич">Лейба Юделовичъ</persName> –</cell>
         <cell>
-          <l>родомъ из Крожи<note place="end">ныне местечко Кражяй в Кельмеском районе Литвы</note>, въ Россіен</l>
-          <l>скомъ повѣтѣ<note place="end">впоследствие - Россиенская волость одноименного уезда Ковенской губ. (ныне -
-          Литва)</note>, промысла ни</l>
+          <l>родомъ из Крожи<note place="end">ныне местечко <placeName>Кражяй</placeName> в <placeName>Кельмеском
+          районе</placeName> <placeName ref="Литва">Литвы</placeName></note>, въ <placeName>Россіен<lb/>
+           скомъ повѣтѣ<note place="end">впоследствие - Россиенская волость одноименного уезда Ковенской губ. (ныне -
+          Литва)</note></placeName>, промысла ни</l>
           <l>какого не имѣетъ.</l>
         </cell>
       </row>
@@ -129,11 +130,11 @@
         <cell>писарь в мелницѣ <persName ref="Огинский">Огинскаго</persName></cell>
       </row>
       <row>
-        <cell>14. Чася<note place="end">возможно, Аса</note>, зять Цидки –</cell>
+        <cell>14. Чася<note place="end">возможно, Аса</note>, зять <persName>Цидки</persName> –</cell>
         <cell>обучаетъ дѣтей грамотѣ</cell>
       </row>
       <row>
-        <cell>15. <persName ref="Леизер_Нотолевич">Леизеръ</persName>, зять Фейбуша</cell>
+        <cell>15. <persName ref="Леизер_Нотолевич">Леизеръ</persName>, зять <persname>Фейбуша</persname></cell>
         <cell>портной</cell>
       </row>
       <row>
@@ -171,7 +172,7 @@
       <row>
         <cell>20. <persName ref="Борух_Мордухович">Борухъ Мордухъ</persName> –</cell>
         <cell>
-          <l>родомъ изо Лвова, живетъ здѣсь отъ</l>
+          <l>родомъ изо <placeName>Лвова</placeName>, живетъ здѣсь отъ</l>
           <l>двухъ лѣтъ, жена его шинкуетъ,</l>
           <l>а онъ себя называетъ <orgName ref="Хасиды">каролинскимъ</orgName></l>
           <l>рабиномъ.</l>
@@ -192,7 +193,7 @@
         <cell>22. <persName ref="Мовша_Иосиелиович">Мовша Іосіеловичъ</persName> –</cell>
         <cell>
           <l>былъ вѣрникомъ, или казначеемъ</l>
-          <l>Антокольскаго подкагалка, но</l>
+          <l><placeName>Антокольскаго</placeName> подкагалка, но</l>
           <l><orgName ref="Виленский_кагал">виленскимъ кагаломъ</orgName> отъ</l>
           <l>мѣста отрѣшенъ.</l>
         </cell>
@@ -200,7 +201,7 @@
       <row>
         <cell>23. <persName ref="Иосель_Мовшович">Іосіель Мовшовичъ</persName> –</cell>
         <cell>
-          <l>содержитъ антокольскую пробку,</l>
+          <l>содержитъ <placeName>антокольскую</placeName> пробку,</l>
           <l>или сборъ с убиваемой ско-</l>
           <l>тины, ни торгу, ни ремесла</l>
           <l>не имѣетъ.</l>
@@ -208,7 +209,7 @@
       </row>
       <row><cell>
         <l>Въ <emph rend="underline"><placeName ref="Видзы">Видзахъ</placeName></emph></l>
-        <l>повѣтовомъ мѣстечкѣ Браславскаго повѣта</l>
+        <l>повѣтовомъ мѣстечкѣ <placeName>Браславскаго повѣта</placeName></l>
       </cell></row>
       <row>
         <cell>24. <persName ref="Мовша_Ицкович">Мовша Ицковичъ</persName> –</cell>
@@ -234,19 +235,20 @@
         <cell>28. <persName ref="Шмуил_Хаимович">Шмуило Хаймовичъ –</persName></cell>
         <cell>
           <l>рабинъ <orgName ref="Хасиды">королинской</orgName>, переселился</l>
-          <l>изъ Волпы, и живетъ ихъ ден</l>
+          <l>изъ <placeName>Волпы</placeName>, и живетъ ихъ ден</l>
           <l>гами.</l>
         </cell>
       </row>
       <row><cell>
-        <l>Въ <emph rend="underline">Понедѣлахъ</emph><note place="end">ныне г. Панделис в Литве</note></l>
+        <l>Въ <placeName><emph rend="underline">Понедѣлахъ</emph><note place="end">ныне г. Панделис в Литве</note>
+        </placeName></l>
         <l>въ повѣтѣ вилкомирскомъ</l>
       </cell></row>
       <row>
         <cell>29. <persName>Юдель Меіеровичъ</persName> –</cell>
         <cell>
-          <l>рабинъ, родомъ изъ Малаты<note place="end">ныне г. Молетай в Литве, идишское назв. Малат</note>, деревни
-          </l>
+          <l>рабинъ, родомъ изъ <placeName>Малаты<note place="end">ныне г. Молетай в Литве, идишское назв.
+          Малат</note></placeName>, деревни</l>
           <l><persName>графа Шоазеля</persName>, живетъ подаяніемъ</l>
           <l>отъ <orgName ref="Хасиды">каролиновъ</orgName>, и подговариваетъ мо-</l>
           <l>лодежь въ ихъ секту.</l>
@@ -256,7 +258,7 @@
       <fw type="pageNum">27об.</fw>
       <row><cell>
         <l><emph rend="underline">въ высоком Литовскомъ:</emph></l>
-        <l>В Бржескомъ повѣтѣ</l>
+        <l>В <placeName>Бржескомъ повѣтѣ</placeName></l>
       </cell></row>
       <row>
         <cell>30. <persName>Гилель Шмуиловичъ</persName></cell>

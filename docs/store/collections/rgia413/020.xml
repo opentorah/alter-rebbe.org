@@ -2,14 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc>
-      <abstract>
-        <p>Заявление о составлении списка книг при обыске</p>
-        <p>Список книг <persName ref="alter-rebbe">Алтер Ребе</persName></p>
-        <p>Документ <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у Дубнова</p>
-      </abstract>
-      <langUsage><language ident="he"/></langUsage>
-    </profileDesc>
+    <profileDesc><abstract>
+      <p>Заявление о составлении списка книг при обыске</p>
+      <p>Список книг <persName ref="alter-rebbe">Алтер Ребе</persName></p>
+      <p>Документ <ref target="/collections/dubnov/documents/269.html" role="documentViewer">№ 19</ref> у Дубнова</p>
+    </abstract></profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
     <pb xml:id="p020-1" n="020-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/020-1.jpg"/>
