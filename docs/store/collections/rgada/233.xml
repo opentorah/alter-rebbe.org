@@ -5,13 +5,10 @@
       <author>?</author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc>
-      <abstract><p>
-        Реестр денежных средств, отправленных <orgName ref="Хасиды">хасидами</orgName> <placeName ref="Видзы">Видз
-        </placeName> в <placeName ref="Палестина">Палестину</placeName> с указанием получателей
-      </p></abstract>
-      <langUsage><language ident="ru"/></langUsage>
-    </profileDesc>
+    <profileDesc><abstract><p>
+      Реестр денежных средств, отправленных <orgName ref="Хасиды">хасидами</orgName> <placeName ref="Видзы">Видз
+      </placeName> в <placeName ref="Палестина">Палестину</placeName> с указанием получателей
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p233-1" n="233-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/233-1.jpg"/>
@@ -23,248 +20,249 @@
       <l>отправленныхъ <choice><sic>о</sic><corr>отъ</corr></choice> <placeName ref="Видзы">Видзскихъ</placeName>
       каролиновъ денегъ</l>
       <l>въ святѣйшую землю или <placeName ref="Палестина">Палестину</placeName>, въ городъ</l>
-      <l><choice><sic>Тверь</sic><corr>Тиверія</corr></choice><note place="end">в Еврейской энциклопедии
-      Брокгауза-Ефрона - Тиверіада</note> и <choice><sic>Чфасъ</sic><corr>Цефатъ</corr></choice>, и имянно кому</l>
+      <l><placeName><choice><sic>Тверь</sic><corr>Тиверія</corr></choice><note place="end">в Еврейской энциклопедии
+      Брокгауза-Ефрона - Тиверіада</note></placeName> и <placeName><choice><sic>Чфасъ</sic><corr
+      >Цефатъ</corr></choice></placeName>, и имянно кому</l>
     </head>
-    <table>
+    <table rendition="rgada-233-table">
       <row>
-        <cell><p><l>1.</l></p></cell>
-        <cell><p><l>Рабину Абраму Александровичу</l></p></cell>
-        <cell><p><l>68<hi rend="superscript">Z</hi><note place="end">символический знак рубля</note></l></p></cell>
-        <cell><p><l>60<hi rend="superscript">ко</hi></l></p></cell>
+        <cell>1.</cell>
+        <cell>Рабину <persName>Абраму Александровичу</persName></cell>
+        <cell>68<hi rend="superscript">Z</hi><note place="end">символический знак рубля</note></cell>
+        <cell>60<hi rend="superscript">ко</hi></cell>
       </row>
       <row>
-        <cell><p><l>2.</l></p></cell>
-        <cell><p><l>Саію Смуиловичу</l></p></cell>
-        <cell><p><l>6</l></p></cell>
-        <cell><p><l>50</l></p></cell>
+        <cell>2.</cell>
+        <cell><persName>Саію Смуиловичу</persName></cell>
+        <cell>6</cell>
+        <cell>50</cell>
       </row>
       <row>
-        <cell><p><l>3</l></p></cell>
-        <cell><p><l>Юделіовичу</l></p></cell>
-        <cell><p><l>1</l></p></cell>
-        <cell><p><l>92</l></p></cell>
+        <cell>3</cell>
+        <cell><persName>Юделіовичу</persName></cell>
+        <cell>1</cell>
+        <cell>92</cell>
       </row>
       <row>
-        <cell><p><l>4</l></p></cell>
-        <cell><p><l>Давиду Изралевичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>25</l></p></cell>
+        <cell>4</cell>
+        <cell><persName>Давиду Изралевичу</persName></cell>
+        <cell>2</cell>
+        <cell>25</cell>
       </row>
       <row>
-        <cell><p><l>5</l></p></cell>
-        <cell><p><l>Юделю Еселевичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>30</l></p></cell>
+        <cell>5</cell>
+        <cell><persName>Юделю Еселевичу</persName></cell>
+        <cell>2</cell>
+        <cell>30</cell>
       </row>
       <row>
-        <cell><p><l>6</l></p></cell>
-        <cell><p><l>Урясу Спирѣ</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>– 2½</l></p></cell>
+        <cell>6</cell>
+        <cell><persName>Урясу Спирѣ</persName></cell>
+        <cell>2</cell>
+        <cell>– 2½</cell>
       </row>
       <row>
-        <cell><p><l>7</l></p></cell>
-        <cell><p><l>Нотелю Еліашевичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>94½</l></p></cell>
+        <cell>7</cell>
+        <cell><persName>Нотелю Еліашевичу</persName></cell>
+        <cell>2</cell>
+        <cell>94½</cell>
       </row>
       <row>
-        <cell><p><l>8</l></p></cell>
-        <cell><p><l>Мовшѣ Менделевичу</l></p></cell>
-        <cell><p><l>14</l></p></cell>
-        <cell><p><l>30</l></p></cell>
+        <cell>8</cell>
+        <cell><persName>Мовшѣ Менделевичу</persName></cell>
+        <cell>14</cell>
+        <cell>30</cell>
       </row>
       <row>
-        <cell><p><l>9</l></p></cell>
-        <cell><p><l>Быховскому<note place="end">Быхов - ныне город в Могилевской обл. Белоруссии</note> рабину</l></p>
-        </cell>
-        <cell><p><l>3</l></p></cell>
-        <cell><p><l>13</l></p></cell>
+        <cell>9</cell>
+        <cell><placeName>Быховскому<note place="end">Быхов - ныне город в Могилевской обл. Белоруссии</note></placeName>
+        рабину</cell>
+        <cell>3</cell>
+        <cell>13</cell>
       </row>
       <row>
-        <cell><p><l>10</l></p></cell>
-        <cell><p><l>Меиру Янкелевичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>24</l></p></cell>
+        <cell>10</cell>
+        <cell><persName>Меиру Янкелевичу</persName></cell>
+        <cell>2</cell>
+        <cell>24</cell>
       </row>
       <row>
-        <cell><p><l>11</l></p></cell>
-        <cell><p><l>Зелману Гиршовичу</l></p></cell>
-        <cell><p><l>4</l></p></cell>
-        <cell><p><l>88</l></p></cell>
+        <cell>11</cell>
+        <cell><persName>Зелману Гиршовичу</persName></cell>
+        <cell>4</cell>
+        <cell>88</cell>
       </row>
       <row>
-        <cell><p><l>12</l></p></cell>
-        <cell><p><l>Нафтлю Хвастару</l></p></cell>
-        <cell><p><l>1</l></p></cell>
-        <cell><p><l>32</l></p></cell>
+        <cell>12</cell>
+        <cell><persName>Нафтлю Хвастару</persName></cell>
+        <cell>1</cell>
+        <cell>32</cell>
       </row>
       <row>
-        <cell><p><l>13</l></p></cell>
-        <cell><p><l>Янкелю Гланцарю</l></p></cell>
-        <cell><p><l>5</l></p></cell>
-        <cell><p><l>81</l></p></cell>
+        <cell>13</cell>
+        <cell><persName>Янкелю Гланцарю</persName></cell>
+        <cell>5</cell>
+        <cell>81</cell>
       </row>
       <row>
-        <cell><p><l>14</l></p></cell>
-        <cell><p><l>Рафалю Абрамовичу<note place="end">см. также строку 19</note></l></p></cell>
-        <cell><p><l>12</l></p></cell>
-        <cell><p><l>90</l></p></cell>
+        <cell>14</cell>
+        <cell><persName>Рафалю Абрамовичу</persName><note place="end">см. также строку 19</note></cell>
+        <cell>12</cell>
+        <cell>90</cell>
       </row>
       <row>
-        <cell><p><l>15</l></p></cell>
-        <cell><p><l>Ицкѣ Зелмановичу</l></p></cell>
-        <cell><p><l>3</l></p></cell>
-        <cell><p><l>7</l></p></cell>
+        <cell>15</cell>
+        <cell><persName>Ицкѣ Зелмановичу</persName></cell>
+        <cell>3</cell>
+        <cell>7</cell>
       </row>
       <row>
-        <cell><p><l>16</l></p></cell>
-        <cell><p><l>Евелю Смальянерю</l></p></cell>
-        <cell><p><l>4</l></p></cell>
-        <cell><p><l>3</l></p></cell>
+        <cell>16</cell>
+        <cell><persName>Евелю Смальянерю</persName></cell>
+        <cell>4</cell>
+        <cell>3</cell>
       </row>
       <row>
-        <cell><p><l>17</l></p></cell>
-        <cell><p><l>Леизеру Жусмановичу</l></p></cell>
-        <cell><p><l>11</l></p></cell>
-        <cell><p><l>10</l></p></cell>
+        <cell>17</cell>
+        <cell><persName>Леизеру Жусмановичу</persName></cell>
+        <cell>11</cell>
+        <cell>10</cell>
       </row>
       <row>
-        <cell><p><l>18</l></p></cell>
-        <cell><p><l>Шоилю Гиршовичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>25</l></p></cell>
+        <cell>18</cell>
+        <cell><persName>Шоилю Гиршовичу</persName></cell>
+        <cell>2</cell>
+        <cell>25</cell>
       </row>
       <row>
-        <cell><p><l>19</l></p></cell>
-        <cell><p><l>Рафалю Абрамовичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>7</l></p></cell>
+        <cell>19</cell>
+        <cell><persName>Рафалю Абрамовичу</persName></cell>
+        <cell>2</cell>
+        <cell>7</cell>
       </row>
       <row>
-        <cell><p><l>20</l></p></cell>
-        <cell><p><l>Гиршу Леизеровичу</l></p></cell>
-        <cell><p><l>–</l></p></cell>
-        <cell><p><l>87</l></p></cell>
+        <cell>20</cell>
+        <cell><persName>Гиршу Леизеровичу</persName></cell>
+        <cell>–</cell>
+        <cell>87</cell>
       </row>
       <row>
-        <cell><p><l>21</l></p></cell>
-        <cell><p><l>Шлимѣ Кантору</l></p></cell>
-        <cell><p><l/></p></cell>
-        <cell><p><l>82</l></p></cell>
+        <cell>21</cell>
+        <cell><persName>Шлимѣ Кантору</persName></cell>
+        <cell/>
+        <cell>82</cell>
       </row>
       <row>
-        <cell><p><l>22</l></p></cell>
-        <cell><p><l>Михайлѣ Резнику</l></p></cell>
-        <cell><p><l/></p></cell>
-        <cell><p><l>82</l></p></cell>
+        <cell>22</cell>
+        <cell><persName>Михайлѣ Резнику</persName></cell>
+        <cell/>
+        <cell>82</cell>
       </row>
       <row>
-        <cell><p><l>23</l></p></cell>
-        <cell><p><l>Арону Смольянару</l></p></cell>
-        <cell><p><l>–</l></p></cell>
-        <cell><p><l>82</l></p></cell>
+        <cell>23</cell>
+        <cell><persName>Арону Смольянару</persName></cell>
+        <cell>–</cell>
+        <cell>82</cell>
       </row>
       <row>
-        <cell><p><l>24</l></p></cell>
-        <cell><p><l>Арону Ицковичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>14</l></p></cell>
+        <cell>24</cell>
+        <cell><persName>Арону Ицковичу</persName></cell>
+        <cell>2</cell>
+        <cell>14</cell>
       </row>
       <row>
-        <cell><p><l>25</l></p></cell>
-        <cell><p><l>Мовшѣ Островенскому</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>25</l></p></cell>
+        <cell>25</cell>
+        <cell><persName>Мовшѣ Островенскому</persName></cell>
+        <cell>2</cell>
+        <cell>25</cell>
       </row>
       <row>
-        <cell><p><l>26</l></p></cell>
-        <cell><p><l>Хаймѣ Шліомовичу</l></p></cell>
-        <cell><p><l>–</l></p></cell>
-        <cell><p><l>87</l></p></cell>
+        <cell>26</cell>
+        <cell><persName>Хаймѣ Шліомовичу</persName></cell>
+        <cell>–</cell>
+        <cell>87</cell>
       </row>
       <row>
-        <cell><p><l>27</l></p></cell>
-        <cell><p><l>Хаймѣ Михаловичу</l></p></cell>
-        <cell><p><l>–</l></p></cell>
-        <cell><p><l>82</l></p></cell>
+        <cell>27</cell>
+        <cell><persName>Хаймѣ Михаловичу</persName></cell>
+        <cell>–</cell>
+        <cell>82</cell>
       </row>
       <row>
-        <cell><p><l>28</l></p></cell>
-        <cell><p><l>Леибовичу</l></p></cell>
-        <cell><p><l>–</l></p></cell>
-        <cell><p><l>37</l></p></cell>
+        <cell>28</cell>
+        <cell><persName>Леибовичу</persName></cell>
+        <cell>–</cell>
+        <cell>37</cell>
       </row>
       <row>
-        <cell><p><l>29</l></p></cell>
-        <cell><p><l>Давиду Александровичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>40</l></p></cell>
+        <cell>29</cell>
+        <cell><persName>Давиду Александровичу</persName></cell>
+        <cell>2</cell>
+        <cell>40</cell>
       </row>
       <row>
-        <cell><p><l>30</l></p></cell>
-        <cell><p><l>Есеровичу</l></p></cell>
-        <cell><p><l>1</l></p></cell>
-        <cell><p><l>2½</l></p></cell>
+        <cell>30</cell>
+        <cell><persName>Есеровичу</persName></cell>
+        <cell>1</cell>
+        <cell>2½</cell>
       </row>
       <row>
-        <cell><p><l>31</l></p></cell>
-        <cell><p><l>Смуилу Грунимовичу</l></p></cell>
-        <cell><p><l/></p></cell>
-        <cell><p><l>77</l></p></cell>
+        <cell>31</cell>
+        <cell><persName>Смуилу Грунимовичу</persName></cell>
+        <cell/>
+        <cell>77</cell>
       </row>
       <row>
-        <cell><p><l/></p></cell>
-        <cell><p><l>Итого</l></p></cell>
-        <cell><p><l>167<hi rend="superscript">Z</hi><note place="end">символический знак рубля</note></l></p></cell>
-        <cell><p><l>61½</l></p></cell>
+        <cell/>
+        <cell>Итого</cell>
+        <cell>167<hi rend="superscript">Z</hi><note place="end">символический знак рубля</note></cell>
+        <cell>61½</cell>
       </row>
     </table>
     <pb xml:id="p233-2" n="233-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/233-2.jpg"/>
     <fw type="pageNum" place="right">233 об.</fw>
-    <table>
+    <table rendition="rgada-233-table">
       <row>
-        <cell><p><l/></p></cell>
-        <cell><p><l>транспортъ</l></p></cell>
-        <cell><p><l>167<hi rend="superscript">Z</hi><note place="end">символический знак рубля</note></l></p></cell>
-        <cell><p><l>61½</l></p></cell>
+        <cell/>
+        <cell>транспортъ</cell>
+        <cell>167<hi rend="superscript">Z</hi><note place="end">символический знак рубля</note></cell>
+        <cell>61½</cell>
       </row>
       <row>
-        <cell><p><l>32</l></p></cell>
-        <cell><p><l>Ирмеасу Еселевичу</l></p></cell>
-        <cell><p><l>2</l></p></cell>
-        <cell><p><l>15</l></p></cell>
+        <cell>32</cell>
+        <cell><persName>Ирмеасу Еселевичу</persName></cell>
+        <cell>2</cell>
+        <cell>15</cell>
       </row>
       <row>
-        <cell><p><l>33</l></p></cell>
-        <cell><p><l>Овсею</l></p></cell>
-        <cell><p><l>-</l></p></cell>
-        <cell><p><l>82</l></p></cell>
+        <cell>33</cell>
+        <cell><persName>Овсею</persName></cell>
+        <cell>-</cell>
+        <cell>82</cell>
       </row>
       <row>
-        <cell><p><l>34</l></p></cell>
-        <cell><p><l>Гершоновичу</l></p></cell>
-        <cell><p><l>-</l></p></cell>
-        <cell><p><l>82</l></p></cell>
+        <cell>34</cell>
+        <cell><persName>Гершоновичу</persName></cell>
+        <cell>-</cell>
+        <cell>82</cell>
       </row>
       <row>
-        <cell><p><l>35</l></p></cell>
-        <cell><p><l>Гиршѣ Абрамовичу</l></p></cell>
-        <cell><p><l>1</l></p></cell>
-        <cell><p><l>90</l></p></cell>
+        <cell>35</cell>
+        <cell><persName>Гиршѣ Абрамовичу</persName></cell>
+        <cell>1</cell>
+        <cell>90</cell>
       </row>
       <row>
-        <cell><p><l>36</l></p></cell>
-        <cell><p><l>Ицку Гершоновичу</l></p></cell>
-        <cell><p><l>1</l></p></cell>
-        <cell><p><l>18</l></p></cell>
+        <cell>36</cell>
+        <cell><persName>Ицку Гершоновичу</persName></cell>
+        <cell>1</cell>
+        <cell>18</cell>
       </row>
       <row>
-        <cell><p><l/></p></cell>
-        <cell><p><l>Итого</l></p></cell>
-        <cell><p><l>174</l></p></cell>
-        <cell><p><l>48½</l></p></cell>
+        <cell/>
+        <cell>Итого</cell>
+        <cell>174</cell>
+        <cell>48½</cell>
       </row>
     </table>
     <p><l>Сіи денги розданы въ теченіе двухъ лѣтъ.</l></p>

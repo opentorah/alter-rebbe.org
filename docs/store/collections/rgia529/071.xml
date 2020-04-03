@@ -2,13 +2,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc>
-      <abstract><p>
-        Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меер_Рафалович">реб Меира
-        Рафаловича</persName> <persName ref="Павел_I">императору Павлу I</persName>
-      </p></abstract>
-      <langUsage><language ident="ru"/></langUsage>
-    </profileDesc>
+    <profileDesc><abstract><p>
+      Письмо <persName ref="Эстер_Рафалович">Эстер</persName>, жены <persName ref="Меер_Рафалович">реб Меира
+      Рафаловича</persName> <persName ref="Павел_I">императору Павлу I</persName>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p071-1" n="071-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia529/071-1.jpg"/>

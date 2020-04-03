@@ -1,11 +1,19 @@
-tei-table.t026 > table {
+tei-table.rgada-026-table {
   border: none;
 
   tr {
     background-color: $background-color;
-
     td { border: none; }
+    td:nth-child(1) { width: 300px; }
+    td:nth-child(2) { width: 400px; }
+  }
+}
 
-    td:nth-child(1) { width: 50%; }
+tei-table.rgada-233-table {
+  tr {
+    td:nth-child(1) { width: 30px; }
+    td:nth-child(2) { width: 210px; }
+    td:nth-child(3) { width: 30px; }
+    td:nth-child(4) { width: 30px; }
   }
 }

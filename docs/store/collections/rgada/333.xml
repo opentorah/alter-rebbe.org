@@ -12,12 +12,11 @@
         ref="Петербург">Петербурга</placeName> в <placeName ref="Лозна">Лиозно</placeName>
       </p></abstract>
       <creation><date when="1801-03-27">марта 27 дня 1801</date></creation>
-      <langUsage><language ident="ru"/></langUsage>
       <correspDesc><correspAction><persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
-  <text><body>
+  <text xml:lang="ru"><body>
     <pb xml:id="p333-1" n="333-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/333-1.jpg"/>
     <fw type="pageNum" place="right"><del rend="overstrike">336</del></fw>
     <fw type="pageNum" place="right">333</fw>
