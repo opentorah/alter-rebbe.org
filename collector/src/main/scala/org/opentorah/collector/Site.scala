@@ -17,14 +17,14 @@ object Site {
 
   private val collectionsFileName: String = "collections"
 
-  // TODO Note: also hard-coded in 'index.xml'!
+  // Note: also hard-coded in 'index.xml'!
   private val collectionsDirectoryName: String = "collections"
 
   private val namesDirectoryName: String = "names"
 
   private val namesFileName: String = "names"
 
-  // TODO Note: also hard-coded in _layouts/tei.html!
+  // Note: also hard-coded in _layouts/tei.html!
   private val facsDirectoryName: String = "facs" // facsimile viewers
 
   private val documentsDirectoryName: String = "documents"
@@ -225,13 +225,15 @@ object Site {
       <list type="bulleted">
       {by.stores.map { storeX =>
         val subStore = storeX.asInstanceOf[Store]  // TODO get rid of the cast!!!
+        val title: Seq[Node] = RawXml.getXml(subStore.title)
+        val titlePrefix: Seq[Node] = scala.xml.Text(getName(subStore.names) + (if (title.isEmpty) "" else ": "))
         <item>
           {ref(
           url =
             if (subStore.isInstanceOf[Collection]) s"/$collectionsDirectoryName/${fileName(subStore)}"
             else path2url(store.path :+ by.selector.bind(subStore)),
           viewer = collectionViewer,
-          text = getName(subStore.names)
+          text = titlePrefix ++ title
         )}</item>
       }}
       </list>
@@ -427,7 +429,8 @@ object Site {
             <list type="bulleted">{for (collection <- byArchive(archive)) yield toXml(collection)}</list>
           </item>}}
       </list>,
-      target = collectionViewer
+      target = collectionViewer,
+      yaml = Seq("title" -> "Архивы")
     )
   }
 
@@ -522,7 +525,8 @@ object Site {
       directory,
       fileName = namesFileName,
       content = <head>{namesHead}</head> ++ listOfLists ++ nonEmptyLists.flatMap(toXml),
-      target = namesViewer
+      target = namesViewer,
+      yaml = Seq("title" -> namesHead)
     )
   }
 
