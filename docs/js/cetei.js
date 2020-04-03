@@ -1,4 +1,4 @@
-import behaviors from './cetei-behaviors.js'
+import behaviors from './CETEI/defaultBehaviors.js'
 class CETEI {
 
     constructor(base){

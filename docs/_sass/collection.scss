@@ -19,7 +19,7 @@ tei-table.collection-index > table {
     }
   }
 
-  /* Size the columns */
+  // Size the columns
   td.description { width: 44%; }
   td.date        { width:  8%; }
   td.author      { width: 10%; }
@@ -30,14 +30,14 @@ tei-table.collection-index > table {
   td.transcriber {             }
 
 
-  /* Part title */
+  // Part title
   .part-title {
     font-weight: 700;
     font-size: 32px;
     color: #1614ff;
   }
 
-  /* Missing page links */
+  // Missing page links
   tei-ref.missing-page a {
     color: red;
   }
