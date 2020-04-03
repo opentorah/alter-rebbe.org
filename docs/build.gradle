@@ -10,7 +10,7 @@ dependencies {
 
 task postprocess(type: JavaExec) {
     classpath = sourceSets.main.runtimeClasspath
-    main = 'org.opentorah.archive.collector.Main'
+    main = 'org.opentorah.collector.Main'
     args = [project.projectDir]
 }
 postprocess.dependsOn(classes)
