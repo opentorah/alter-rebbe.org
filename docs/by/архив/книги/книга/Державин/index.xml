@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body>
+    <l>архив <ref target="/by/архив/книги/" role="collectionViewer">книги</ref></l>
+    <head>книга Державин</head>
+    <p>
+      <l>том:</l>
+      <list type="bulleted">
+        <item><ref target="/collections/derzhavin6" role="collectionViewer">6: Сочиненія <persName ref="Державин"
+        >Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ</ref>
+        </item>
+        <item><ref target="/collections/derzhavin7" role="collectionViewer">7: Сочиненія <persName ref="Державин"
+        >Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ</ref>
+        </item>
+      </list>
+    </p>
+  </body></text>
+</TEI>
