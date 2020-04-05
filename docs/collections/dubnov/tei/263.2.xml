@@ -20,8 +20,8 @@
           </persName> об отправке хасидского „начальника” <persName ref="alter-rebbe">Боруховича</persName> в <placeName
           ref="Петербург">Петербург</placeName>
         </p>
-        <p>Документ <ref target="/collections/rgada/documents/276.html" role="documentViewer">276</ref> в РГАДА</p>
-        <p>Документ <ref target="/collections/rgia413/documents/008.html" role="documentViewer">008</ref> в РГИА 413</p>
+        <p>Документ <ref role="documentViewer" target="/collections/rgada/documents/276.html">276</ref> в РГАДА</p>
+        <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/008.html">008</ref> в РГИА 413</p>
       </abstract>
       <creation><date when="1800-11-13">1800-11-13</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -33,12 +33,12 @@
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p263" n="263" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/263.jpg"/> № 14.<note
-      type="gloss" place="end">Документы съ № <ref target="/collections/dubnov/documents/263.2.html">14</ref> до конца
-      скопированы из дел 3-го Депармента <orgName ref="Сенат">Сената</orgName>, I отд. за 1800—1801 гг. (№№ 328 и
-      413).</note> Сообщеніе <placeName ref="Белоруссия">Бѣлорусскаго</placeName> <persName ref="Северин"
-      >губернатора</persName> <persName ref="Обольянинов">генералъ-прокурору</persName> объ отправкѣ хасидскаго
-      „начальника” <persName ref="alter-rebbe">Боруховича</persName> въ <placeName ref="Петербург">
-      Петербургъ</placeName>
+      type="gloss" place="end">Документы съ № <ref role="documentViewer"
+      target="/collections/dubnov/documents/263.2.html">14</ref> до конца скопированы из дел 3-го Депармента <orgName
+      ref="Сенат">Сената</orgName>, I отд. за 1800—1801 гг. (№№ 328 и 413).</note> Сообщеніе <placeName ref="Белоруссия"
+      >Бѣлорусскаго</placeName> <persName ref="Северин">губернатора</persName> <persName ref="Обольянинов"
+      >генералъ-прокурору</persName> объ отправкѣ хасидскаго „начальника” <persName ref="alter-rebbe"
+      >Боруховича</persName> въ <placeName ref="Петербург">Петербургъ</placeName>
     </head>
     <fw>Секретно.</fw>
     <salute>Ваше Превосходительство, Милостивый Государь!</salute>

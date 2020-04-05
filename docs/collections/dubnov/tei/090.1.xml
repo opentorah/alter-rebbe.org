@@ -18,7 +18,7 @@
       <abstract>
         <p>№ 1. Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
         <p>
-          Документ <ref target="/collections/rgia2213/documents/001.html" role="documentViewer">001</ref> в РГИА 2213
+          Документ <ref role="documentViewer" target="/collections/rgia2213/documents/001.html">001</ref> в РГИА 2213
         </p>
       </abstract>
       <creation><date when="1800-04-23">1800-04-23</date></creation>
@@ -32,7 +32,8 @@
     <head>
       <pb xml:id="p090" n="090" facs="http://facsimiles.alter-rebbe.org/facsimiles/dubnov/090.jpg"/> № 1.
       Препроводительное письмо къ прошенію раввина <persName ref="Авигдор">Авигдора Хаимовича</persName>.<note
-      type="gloss" place="end">Документы отъ № <ref target="/collections/dubnov/documents/090.1.html">1</ref> до № <ref
+      type="gloss" place="end">Документы отъ № <ref role="documentViewer"
+      target="/collections/dubnov/documents/090.1.html">1</ref> до № <ref role="documentViewer"
       target="/collections/dubnov/documents/263.1.html">13</ref> включительно находятся въ <orgName ref="Сенат"
       >Сенатскомъ</orgName> Архивѣ, дѣло М-ва Юстиціи 1800 гг. № 85.</note>
     </head>
