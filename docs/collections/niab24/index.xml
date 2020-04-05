@@ -37,12 +37,13 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/145.html" role="documentViewer">145</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/niab24/documents/145.html">145</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/145.html#p145-1" role="documentViewer" rendition="page">145</ref>
-          <ref target="documents/145.html#p179-2" role="documentViewer" rendition="page">179об</ref>
-          <ref target="documents/145.html#p180-2" role="documentViewer" rendition="page">180об</ref>
-          <ref target="documents/145.html#p181-1" role="documentViewer" rendition="page">181</ref>
+          <ref role="documentViewer" target="/collections/niab24/documents/145.html#p145-1" rendition="page">145</ref>
+          <ref role="documentViewer" target="/collections/niab24/documents/145.html#p179-2" rendition="page">179об</ref>
+          <ref role="documentViewer" target="/collections/niab24/documents/145.html#p180-2" rendition="page">180об</ref>
+          <ref role="documentViewer" target="/collections/niab24/documents/145.html#p181-1" rendition="page">181</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>

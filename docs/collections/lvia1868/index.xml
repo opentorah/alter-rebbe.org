@@ -44,10 +44,12 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/000.html" role="documentViewer">000</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1868/documents/000.html"
+        >000</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
-          <ref target="documents/000.html#p000-2" role="documentViewer" rendition="missing-page">000об</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/000.html#p000-1" rendition="page">000</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/000.html#p000-2" rendition="missing-page"
+          >000об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>
@@ -57,10 +59,12 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/001.html" role="documentViewer">001</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1868/documents/001.html"
+        >001</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
-          <ref target="documents/001.html#p001-2" role="documentViewer" rendition="missing-page">001об</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/001.html#p001-1" rendition="page">001</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/001.html#p001-2" rendition="missing-page"
+          >001об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>
@@ -70,12 +74,15 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/002.html" role="documentViewer">002</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1868/documents/002.html"
+        >002</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
-          <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
-          <ref target="documents/002.html#p003-1" role="documentViewer" rendition="page">003</ref>
-          <ref target="documents/002.html#p003-2" role="documentViewer" rendition="missing-page">003об</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/002.html#p002-1" rendition="page">002</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/002.html#p002-2" rendition="page"
+          >002об</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/002.html#p003-1" rendition="page">003</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/002.html#p003-2" rendition="missing-page"
+          >003об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>
@@ -85,10 +92,12 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/006.html" role="documentViewer">006</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1868/documents/006.html"
+        >006</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/006.html#p006-1" role="documentViewer" rendition="page">006</ref>
-          <ref target="documents/006.html#p006-2" role="documentViewer" rendition="missing-page">006об</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/006.html#p006-1" rendition="page">006</ref>
+          <ref role="documentViewer" target="/collections/lvia1868/documents/006.html#p006-2" rendition="missing-page"
+          >006об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>

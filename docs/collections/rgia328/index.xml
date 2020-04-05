@@ -40,10 +40,12 @@
         <cell rendition="author"/>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/000.html" role="documentViewer">000</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/000.html">000</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/000.html#p000-1" role="documentViewer" rendition="page">000</ref>
-          <ref target="documents/000.html#p000-2" role="documentViewer" rendition="page">000об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/000.html#p000-1" rendition="page">000</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/000.html#p000-2" rendition="page"
+          >000об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -55,10 +57,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Оленин">Оленину</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/001.html" role="documentViewer">001</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/001.html">001</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
-          <ref target="documents/001.html#p001-2" role="documentViewer" rendition="page">001об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/001.html#p001-1" rendition="page">001</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/001.html#p001-2" rendition="page"
+          >001об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -72,14 +76,18 @@
         <cell rendition="author"><persName ref="Елиашевич">Елиашевич</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/002.html" role="documentViewer">002</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/002.html">002</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
-          <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
-          <ref target="documents/002.html#p003-1" role="documentViewer" rendition="page">003</ref>
-          <ref target="documents/002.html#p003-2" role="documentViewer" rendition="page">003об</ref>
-          <ref target="documents/002.html#p004-1" role="documentViewer" rendition="page">004</ref>
-          <ref target="documents/002.html#p004-2" role="documentViewer" rendition="missing-page">004об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/002.html#p002-1" rendition="page">002</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/002.html#p002-2" rendition="page"
+          >002об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/002.html#p003-1" rendition="page">003</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/002.html#p003-2" rendition="page"
+          >003об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/002.html#p004-1" rendition="page">004</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/002.html#p004-2" rendition="missing-page"
+          >004об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -93,10 +101,13 @@
         <cell rendition="author"><persName ref="Волков">Волков</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/005.html" role="documentViewer">005</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/005.html">005</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/005.html#p005-1" role="documentViewer" rendition="missing-page">005</ref>
-          <ref target="documents/005.html#p005-2" role="documentViewer" rendition="page">005об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/005.html#p005-1" rendition="missing-page"
+          >005</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/005.html#p005-2" rendition="page"
+          >005об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -110,10 +121,12 @@
         <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/006.html" role="documentViewer">006</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/006.html">006</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/006.html#p006-1" role="documentViewer" rendition="page">006</ref>
-          <ref target="documents/006.html#p006-2" role="documentViewer" rendition="page">006об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/006.html#p006-1" rendition="page">006</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/006.html#p006-2" rendition="page"
+          >006об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -126,10 +139,12 @@
         <cell rendition="author"><persName ref="Павел_I">Павел I</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/007.html" role="documentViewer">007</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/007.html">007</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/007.html#p007-1" role="documentViewer" rendition="page">007</ref>
-          <ref target="documents/007.html#p007-2" role="documentViewer" rendition="page">007об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/007.html#p007-1" rendition="page">007</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/007.html#p007-2" rendition="page"
+          >007об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -142,12 +157,15 @@
         <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/008.html" role="documentViewer">008</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/008.html">008</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/008.html#p008-1" role="documentViewer" rendition="page">008</ref>
-          <ref target="documents/008.html#p008-2" role="documentViewer" rendition="page">008об</ref>
-          <ref target="documents/008.html#p009-1" role="documentViewer" rendition="page">009</ref>
-          <ref target="documents/008.html#p009-2" role="documentViewer" rendition="page">009об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/008.html#p008-1" rendition="page">008</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/008.html#p008-2" rendition="page"
+          >008об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/008.html#p009-1" rendition="page">009</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/008.html#p009-2" rendition="page"
+          >009об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -160,12 +178,15 @@
         <cell rendition="author"><persName ref="Мовша_Ошерович">Ошерович</persName></cell>
         <cell rendition="addressee"><persName ref="Павел_I">Павлу I</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/010.html" role="documentViewer">010</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/010.html">010</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/010.html#p010-1" role="documentViewer" rendition="page">010</ref>
-          <ref target="documents/010.html#p010-2" role="documentViewer" rendition="page">010об</ref>
-          <ref target="documents/010.html#p011-1" role="documentViewer" rendition="page">011</ref>
-          <ref target="documents/010.html#p011-2" role="documentViewer" rendition="page">011об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/010.html#p010-1" rendition="page">010</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/010.html#p010-2" rendition="page"
+          >010об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/010.html#p011-1" rendition="page">011</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/010.html#p011-2" rendition="page"
+          >011об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -180,12 +201,15 @@
         <cell rendition="author"><persName ref="Мовша_Ошерович">Ошерович</persName></cell>
         <cell rendition="addressee"><persName ref="Кутузов">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/012.html" role="documentViewer">012</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia328/documents/012.html">012</ref>
+        </cell>
         <cell rendition="pages">
-          <ref target="documents/012.html#p012-1" role="documentViewer" rendition="page">012</ref>
-          <ref target="documents/012.html#p012-2" role="documentViewer" rendition="page">012об</ref>
-          <ref target="documents/012.html#p013-1" role="documentViewer" rendition="page">013</ref>
-          <ref target="documents/012.html#p013-2" role="documentViewer" rendition="missing-page">013об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/012.html#p012-1" rendition="page">012</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/012.html#p012-2" rendition="page"
+          >012об</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/012.html#p013-1" rendition="page">013</ref>
+          <ref role="documentViewer" target="/collections/rgia328/documents/012.html#p013-2" rendition="missing-page"
+          >013об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>

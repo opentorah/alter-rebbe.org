@@ -59,10 +59,12 @@
         <cell rendition="author"><persName ref="Брискорн">Брискорн</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/001.html" role="documentViewer">001</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/001.html"
+        >001</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/001.html#p001-1" role="documentViewer" rendition="page">001</ref>
-          <ref target="documents/001.html#p001-2" role="documentViewer" rendition="missing-page">001об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/001.html#p001-1" rendition="page">001</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/001.html#p001-2" rendition="missing-page"
+          >001об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -77,50 +79,72 @@
         <cell rendition="author"><persName ref="Авигдор">Авигдор</persName></cell>
         <cell rendition="addressee"><persName ref="Павел_I">Павлу I</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/002.html" role="documentViewer">002</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/002.html"
+        >002</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/002.html#p002-1" role="documentViewer" rendition="page">002</ref>
-          <ref target="documents/002.html#p002-2" role="documentViewer" rendition="page">002об</ref>
-          <ref target="documents/002.html#p003-1" role="documentViewer" rendition="page">003</ref>
-          <ref target="documents/002.html#p003-2" role="documentViewer" rendition="page">003об</ref>
-          <ref target="documents/002.html#p004-1" role="documentViewer" rendition="page">004</ref>
-          <ref target="documents/002.html#p004-2" role="documentViewer" rendition="page">004об</ref>
-          <ref target="documents/002.html#p005-1" role="documentViewer" rendition="page">005</ref>
-          <ref target="documents/002.html#p005-2" role="documentViewer" rendition="page">005об</ref>
-          <ref target="documents/002.html#p006-1" role="documentViewer" rendition="page">006</ref>
-          <ref target="documents/002.html#p006-2" role="documentViewer" rendition="page">006об</ref>
-          <ref target="documents/002.html#p007-1" role="documentViewer" rendition="page">007</ref>
-          <ref target="documents/002.html#p007-2" role="documentViewer" rendition="page">007об</ref>
-          <ref target="documents/002.html#p008-1" role="documentViewer" rendition="page">008</ref>
-          <ref target="documents/002.html#p008-2" role="documentViewer" rendition="page">008об</ref>
-          <ref target="documents/002.html#p009-1" role="documentViewer" rendition="page">009</ref>
-          <ref target="documents/002.html#p009-2" role="documentViewer" rendition="page">009об</ref>
-          <ref target="documents/002.html#p010-1" role="documentViewer" rendition="page">010</ref>
-          <ref target="documents/002.html#p010-2" role="documentViewer" rendition="page">010об</ref>
-          <ref target="documents/002.html#p011-1" role="documentViewer" rendition="page">011</ref>
-          <ref target="documents/002.html#p011-2" role="documentViewer" rendition="page">011об</ref>
-          <ref target="documents/002.html#p012-1" role="documentViewer" rendition="page">012</ref>
-          <ref target="documents/002.html#p012-2" role="documentViewer" rendition="page">012об</ref>
-          <ref target="documents/002.html#p013-1" role="documentViewer" rendition="page">013</ref>
-          <ref target="documents/002.html#p013-2" role="documentViewer" rendition="page">013об</ref>
-          <ref target="documents/002.html#p014-1" role="documentViewer" rendition="page">014</ref>
-          <ref target="documents/002.html#p014-2" role="documentViewer" rendition="page">014об</ref>
-          <ref target="documents/002.html#p015-1" role="documentViewer" rendition="page">015</ref>
-          <ref target="documents/002.html#p015-2" role="documentViewer" rendition="page">015об</ref>
-          <ref target="documents/002.html#p016-1" role="documentViewer" rendition="page">016</ref>
-          <ref target="documents/002.html#p016-2" role="documentViewer" rendition="page">016об</ref>
-          <ref target="documents/002.html#p017-1" role="documentViewer" rendition="page">017</ref>
-          <ref target="documents/002.html#p017-2" role="documentViewer" rendition="page">017об</ref>
-          <ref target="documents/002.html#p018-1" role="documentViewer" rendition="page">018</ref>
-          <ref target="documents/002.html#p018-2" role="documentViewer" rendition="page">018об</ref>
-          <ref target="documents/002.html#p019-1" role="documentViewer" rendition="page">019</ref>
-          <ref target="documents/002.html#p019-2" role="documentViewer" rendition="page">019об</ref>
-          <ref target="documents/002.html#p020-1" role="documentViewer" rendition="page">020</ref>
-          <ref target="documents/002.html#p020-2" role="documentViewer" rendition="page">020об</ref>
-          <ref target="documents/002.html#p021-1" role="documentViewer" rendition="page">021</ref>
-          <ref target="documents/002.html#p021-2" role="documentViewer" rendition="page">021об</ref>
-          <ref target="documents/002.html#p022-1" role="documentViewer" rendition="page">022</ref>
-          <ref target="documents/002.html#p022-2" role="documentViewer" rendition="page">022об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p002-1" rendition="page">002</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p002-2" rendition="page"
+          >002об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p003-1" rendition="page">003</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p003-2" rendition="page"
+          >003об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p004-1" rendition="page">004</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p004-2" rendition="page"
+          >004об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p005-1" rendition="page">005</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p005-2" rendition="page"
+          >005об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p006-1" rendition="page">006</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p006-2" rendition="page"
+          >006об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p007-1" rendition="page">007</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p007-2" rendition="page"
+          >007об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p008-1" rendition="page">008</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p008-2" rendition="page"
+          >008об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p009-1" rendition="page">009</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p009-2" rendition="page"
+          >009об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p010-1" rendition="page">010</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p010-2" rendition="page"
+          >010об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p011-1" rendition="page">011</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p011-2" rendition="page"
+          >011об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p012-1" rendition="page">012</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p012-2" rendition="page"
+          >012об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p013-1" rendition="page">013</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p013-2" rendition="page"
+          >013об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p014-1" rendition="page">014</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p014-2" rendition="page"
+          >014об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p015-1" rendition="page">015</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p015-2" rendition="page"
+          >015об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p016-1" rendition="page">016</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p016-2" rendition="page"
+          >016об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p017-1" rendition="page">017</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p017-2" rendition="page"
+          >017об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p018-1" rendition="page">018</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p018-2" rendition="page"
+          >018об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p019-1" rendition="page">019</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p019-2" rendition="page"
+          >019об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p020-1" rendition="page">020</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p020-2" rendition="page"
+          >020об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p021-1" rendition="page">021</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p021-2" rendition="page"
+          >021об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p022-1" rendition="page">022</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/002.html#p022-2" rendition="page"
+          >022об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -138,10 +162,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Кутузов">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/023.html" role="documentViewer">023</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/023.html"
+        >023</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/023.html#p023-1" role="documentViewer" rendition="page">023</ref>
-          <ref target="documents/023.html#p023-2" role="documentViewer" rendition="missing-page">023об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/023.html#p023-1" rendition="page">023</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/023.html#p023-2" rendition="missing-page"
+          >023об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -159,10 +185,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Брискорн">Брискорну</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/024.html" role="documentViewer">024</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/024.html"
+        >024</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/024.html#p024-1" role="documentViewer" rendition="page">024</ref>
-          <ref target="documents/024.html#p024-2" role="documentViewer" rendition="missing-page">024об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/024.html#p024-1" rendition="page">024</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/024.html#p024-2" rendition="missing-page"
+          >024об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -180,10 +208,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Брискорн">Брискорну</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/025.html" role="documentViewer">025</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/025.html"
+        >025</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/025.html#p025-1" role="documentViewer" rendition="page">025</ref>
-          <ref target="documents/025.html#p025-2" role="documentViewer" rendition="missing-page">025об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/025.html#p025-1" rendition="page">025</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/025.html#p025-2" rendition="missing-page"
+          >025об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -201,10 +231,12 @@
         <cell rendition="author"><persName ref="Тормасов">Тормасов</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/026.html" role="documentViewer">026</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/026.html"
+        >026</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/026.html#p026-1" role="documentViewer" rendition="page">026</ref>
-          <ref target="documents/026.html#p026-2" role="documentViewer" rendition="missing-page">026об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/026.html#p026-1" rendition="page">026</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/026.html#p026-2" rendition="missing-page"
+          >026об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -222,10 +254,12 @@
         <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/027.html" role="documentViewer">027</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/027.html"
+        >027</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/027.html#p027-1" role="documentViewer" rendition="page">027</ref>
-          <ref target="documents/027.html#p027-2" role="documentViewer" rendition="missing-page">027об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/027.html#p027-1" rendition="page">027</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/027.html#p027-2" rendition="missing-page"
+          >027об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -243,10 +277,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Кутузов">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/028.html" role="documentViewer">028</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/028.html"
+        >028</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/028.html#p028-1" role="documentViewer" rendition="page">028</ref>
-          <ref target="documents/028.html#p028-2" role="documentViewer" rendition="page">028об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/028.html#p028-1" rendition="page">028</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/028.html#p028-2" rendition="page"
+          >028об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -263,12 +299,15 @@
         <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/029.html" role="documentViewer">029</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/029.html"
+        >029</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/029.html#p029-1" role="documentViewer" rendition="page">029</ref>
-          <ref target="documents/029.html#p029-2" role="documentViewer" rendition="page">029об</ref>
-          <ref target="documents/029.html#p030-1" role="documentViewer" rendition="page">030</ref>
-          <ref target="documents/029.html#p030-2" role="documentViewer" rendition="missing-page">030об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/029.html#p029-1" rendition="page">029</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/029.html#p029-2" rendition="page"
+          >029об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/029.html#p030-1" rendition="page">030</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/029.html#p030-2" rendition="missing-page"
+          >030об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -287,16 +326,21 @@
         <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/031.html" role="documentViewer">031</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/031.html"
+        >031</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/031.html#p031-1" role="documentViewer" rendition="page">031</ref>
-          <ref target="documents/031.html#p031-2" role="documentViewer" rendition="page">031об</ref>
-          <ref target="documents/031.html#p032-1" role="documentViewer" rendition="page">032</ref>
-          <ref target="documents/031.html#p032-2" role="documentViewer" rendition="page">032об</ref>
-          <ref target="documents/031.html#p033-1" role="documentViewer" rendition="page">033</ref>
-          <ref target="documents/031.html#p033-2" role="documentViewer" rendition="page">033об</ref>
-          <ref target="documents/031.html#p034-1" role="documentViewer" rendition="page">034</ref>
-          <ref target="documents/031.html#p034-2" role="documentViewer" rendition="missing-page">034об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p031-1" rendition="page">031</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p031-2" rendition="page"
+          >031об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p032-1" rendition="page">032</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p032-2" rendition="page"
+          >032об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p033-1" rendition="page">033</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p033-2" rendition="page"
+          >033об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p034-1" rendition="page">034</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/031.html#p034-2" rendition="missing-page"
+          >034об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -306,10 +350,12 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">de</cell>
-        <cell rendition="document"><ref target="documents/035.html" role="documentViewer">035</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/035.html"
+        >035</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/035.html#p035-1" role="documentViewer" rendition="page">035</ref>
-          <ref target="documents/035.html#p035-2" role="documentViewer" rendition="missing-page">035об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/035.html#p035-1" rendition="page">035</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/035.html#p035-2" rendition="missing-page"
+          >035об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>
@@ -319,30 +365,42 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">de</cell>
-        <cell rendition="document"><ref target="documents/036.html" role="documentViewer">036</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/036.html"
+        >036</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/036.html#p036-1" role="documentViewer" rendition="page">036</ref>
-          <ref target="documents/036.html#p036-2" role="documentViewer" rendition="page">036об</ref>
-          <ref target="documents/036.html#p037-1" role="documentViewer" rendition="page">037</ref>
-          <ref target="documents/036.html#p037-2" role="documentViewer" rendition="page">037об</ref>
-          <ref target="documents/036.html#p038-1" role="documentViewer" rendition="page">038</ref>
-          <ref target="documents/036.html#p038-2" role="documentViewer" rendition="page">038об</ref>
-          <ref target="documents/036.html#p039-1" role="documentViewer" rendition="page">039</ref>
-          <ref target="documents/036.html#p039-2" role="documentViewer" rendition="page">039об</ref>
-          <ref target="documents/036.html#p040-1" role="documentViewer" rendition="page">040</ref>
-          <ref target="documents/036.html#p040-2" role="documentViewer" rendition="page">040об</ref>
-          <ref target="documents/036.html#p041-1" role="documentViewer" rendition="page">041</ref>
-          <ref target="documents/036.html#p041-2" role="documentViewer" rendition="page">041об</ref>
-          <ref target="documents/036.html#p042-1" role="documentViewer" rendition="page">042</ref>
-          <ref target="documents/036.html#p042-2" role="documentViewer" rendition="page">042об</ref>
-          <ref target="documents/036.html#p043-1" role="documentViewer" rendition="page">043</ref>
-          <ref target="documents/036.html#p043-2" role="documentViewer" rendition="page">043об</ref>
-          <ref target="documents/036.html#p044-1" role="documentViewer" rendition="page">044</ref>
-          <ref target="documents/036.html#p044-2" role="documentViewer" rendition="page">044об</ref>
-          <ref target="documents/036.html#p045-1" role="documentViewer" rendition="page">045</ref>
-          <ref target="documents/036.html#p045-2" role="documentViewer" rendition="page">045об</ref>
-          <ref target="documents/036.html#p046-1" role="documentViewer" rendition="page">046</ref>
-          <ref target="documents/036.html#p046-2" role="documentViewer" rendition="page">046об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p036-1" rendition="page">036</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p036-2" rendition="page"
+          >036об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p037-1" rendition="page">037</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p037-2" rendition="page"
+          >037об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p038-1" rendition="page">038</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p038-2" rendition="page"
+          >038об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p039-1" rendition="page">039</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p039-2" rendition="page"
+          >039об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p040-1" rendition="page">040</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p040-2" rendition="page"
+          >040об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p041-1" rendition="page">041</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p041-2" rendition="page"
+          >041об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p042-1" rendition="page">042</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p042-2" rendition="page"
+          >042об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p043-1" rendition="page">043</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p043-2" rendition="page"
+          >043об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p044-1" rendition="page">044</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p044-2" rendition="page"
+          >044об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p045-1" rendition="page">045</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p045-2" rendition="page"
+          >045об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p046-1" rendition="page">046</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/036.html#p046-2" rendition="page"
+          >046об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>
@@ -359,10 +417,12 @@
         <cell rendition="author">?</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">he</cell>
-        <cell rendition="document"><ref target="documents/047.html" role="documentViewer">047</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/047.html"
+        >047</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/047.html#p047-1" role="documentViewer" rendition="page">047</ref>
-          <ref target="documents/047.html#p047-2" role="documentViewer" rendition="missing-page">047об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/047.html#p047-1" rendition="page">047</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/047.html#p047-2" rendition="missing-page"
+          >047об</ref>
         </cell>
         <cell rendition="transcriber"/>
       </row>
@@ -381,10 +441,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Авигдор">Авигдору</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/048.html" role="documentViewer">048</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/048.html"
+        >048</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/048.html#p048-1" role="documentViewer" rendition="page">048</ref>
-          <ref target="documents/048.html#p048-2" role="documentViewer" rendition="missing-page">048об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/048.html#p048-1" rendition="page">048</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/048.html#p048-2" rendition="missing-page"
+          >048об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -404,10 +466,12 @@
         <cell rendition="author"><persName ref="Розенберг">Розенберг</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/049.html" role="documentViewer">049</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/049.html"
+        >049</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/049.html#p049-1" role="documentViewer" rendition="page">049</ref>
-          <ref target="documents/049.html#p049-2" role="documentViewer" rendition="missing-page">049об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/049.html#p049-1" rendition="page">049</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/049.html#p049-2" rendition="missing-page"
+          >049об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -425,10 +489,12 @@
         <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/050.html" role="documentViewer">050</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/050.html"
+        >050</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/050.html#p050-1" role="documentViewer" rendition="page">050</ref>
-          <ref target="documents/050.html#p050-2" role="documentViewer" rendition="missing-page">050об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/050.html#p050-1" rendition="page">050</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/050.html#p050-2" rendition="missing-page"
+          >050об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -446,10 +512,12 @@
         <cell rendition="author"><persName ref="Корнеев">Карнеев</persName></cell>
         <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/051.html" role="documentViewer">051</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/051.html"
+        >051</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/051.html#p051-1" role="documentViewer" rendition="page">051</ref>
-          <ref target="documents/051.html#p051-2" role="documentViewer" rendition="page">051об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/051.html#p051-1" rendition="page">051</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/051.html#p051-2" rendition="page"
+          >051об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
@@ -467,10 +535,12 @@
         <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
         <cell rendition="addressee"><persName ref="Авигдор">Авигдору</persName></cell>
         <cell rendition="language">ru</cell>
-        <cell rendition="document"><ref target="documents/052.html" role="documentViewer">052</ref></cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rgia2213/documents/052.html"
+        >052</ref></cell>
         <cell rendition="pages">
-          <ref target="documents/052.html#p052-1" role="documentViewer" rendition="page">052</ref>
-          <ref target="documents/052.html#p052-2" role="documentViewer" rendition="missing-page">052об</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/052.html#p052-1" rendition="page">052</ref>
+          <ref role="documentViewer" target="/collections/rgia2213/documents/052.html#p052-2" rendition="missing-page"
+          >052об</ref>
         </cell>
         <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
       </row>
