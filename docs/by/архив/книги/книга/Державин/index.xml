@@ -10,15 +10,15 @@
     <sourceDesc><p>Facsimile</p></sourceDesc>
   </fileDesc></teiHeader>
   <text><body>
-    <l>архив <ref target="/by/архив/книги/" role="collectionViewer">книги</ref></l>
+    <l>архив <ref role="collectionViewer" target="/by/архив/книги/">книги</ref></l>
     <head>книга Державин</head>
     <p>
       <l>том:</l>
       <list type="bulleted">
-        <item><ref target="/collections/derzhavin6" role="collectionViewer">6: Сочиненія <persName ref="Державин"
+        <item><ref role="collectionViewer" target="/collections/derzhavin6">6: Сочиненія <persName ref="Державин"
         >Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ</ref>
         </item>
-        <item><ref target="/collections/derzhavin7" role="collectionViewer">7: Сочиненія <persName ref="Державин"
+        <item><ref role="collectionViewer" target="/collections/derzhavin7">7: Сочиненія <persName ref="Державин"
         >Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание Императорской академіи наукъ</ref>
         </item>
       </list>

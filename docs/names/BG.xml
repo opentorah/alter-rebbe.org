@@ -12,11 +12,11 @@
   <text><body><person xml:id="BG" role="transcriber">
     <persName>Горкин Борух</persName>
     <p rendition="mentions">
-      <ref target="/names.html#BG" role="namesViewer">[...]</ref>
+      <ref role="namesViewer" target="/names.html#BG">[...]</ref>
       <l>
         <emph>РГАДА 3140:</emph>
-        <ref target="/collections/rgada/documents/059.html" role="documentViewer">059</ref>
-        <ref target="/collections/rgada/documents/059-ru.html" role="documentViewer">059-ru</ref>
+        <ref role="documentViewer" target="/collections/rgada/documents/059.html">059</ref>
+        <ref role="documentViewer" target="/collections/rgada/documents/059-ru.html">059-ru</ref>
       </l>
     </p>
   </person></body></text>
