@@ -7,11 +7,11 @@
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract>Рапорт <placeName ref="Литва">литовского</placeName> гражданского губернатора <persName ref="Фризель">
-      Фризеля</persName> генерал-губернатору <persName ref="Де-Ласси">Де-Ласси</persName> о запросе документов у
-      <orgName ref="Виленский_кагал">виленского кагала</orgName> и о подготовке акта, пересматривающего полномочия
-      <orgName ref="Виленский_кагал">виленского кагала</orgName></abstract>
+      Фризеля</persName> генерал-губернатору <persName ref="Лассий">Де-Ласси</persName> о запросе документов у <orgName
+      ref="Виленский_кагал">виленского кагала</orgName> и о подготовке акта, пересматривающего полномочия <orgName
+      ref="Виленский_кагал">виленского кагала</orgName></abstract>
       <creation><date when="1799-02-09">9 февраля 1799</date></creation>
-      <correspDesc><correspAction><persName ref="Де-Ласси" role="addressee">Де-Ласси</persName></correspAction>
+      <correspDesc><correspAction><persName ref="Лассий" role="addressee">Де-Ласси</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
@@ -25,7 +25,7 @@
       <l>Господину Генералу отъ инфантеріи, <placeName ref="Литва">литов-<lb/>
        ской</placeName> дивизіи по пѣхотѣ инспектору, <placeName ref="Литва">литов-<lb/>
        скому</placeName> Генералу Губернатору и разныхъ орденовъ</l>
-      <l>кавалеру <persName ref="Де-Ласси">Борису Петровичу Лассію</persName></l>
+      <l>кавалеру <persName ref="Лассий">Борису Петровичу Лассію</persName></l>
     </salute>
     <head><l><placeName ref="Литва">Литовскаго</placeName> гражданскаго губернатора<lb/>
        рапортъ</l></head>
@@ -37,7 +37,7 @@
       <l>имѣлъ честь получить 7<hi rend="superscript">го</hi> числа, и не премину</l>
       <l>выполнить его въ точности. Приступилъ бы</l>
       <l>я того жъ часу к дѣлу сему; но какъ извѣстно</l>
-      <l>мнѣ, что <placeName ref="Вильно">виленскій</placeName> Комендантъ Господинъ Ге-</l>
+      <l>мнѣ, что <placeName ref="Вильна">виленскій</placeName> Комендантъ Господинъ Ге-</l>
       <l>нерал-майоръ <persName ref="Капцевич">Капцевичъ</persName> въ силу прежде дан</l>
       <l>наго ему вашимъ высокопревосходительствомъ</l>
       <l>таковаго жъ предписанія, здѣлалъ уже разныя</l>
@@ -119,7 +119,7 @@
     <closer place="left">
       <l><fw type="docNum">92</fw></l>
       <l><date when="1799-02-09">9 февраля 1799</date></l>
-      <l><placeName ref="Вильно">вилна</placeName></l>
+      <l><placeName ref="Вильна">вилна</placeName></l>
     </closer>
   </body></text>
 </TEI>

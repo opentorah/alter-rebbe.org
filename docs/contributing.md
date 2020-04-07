@@ -209,7 +209,7 @@ layout: page
 (`person`, `place`, `org`) в файле с именами (`names.xml`):
 ```xml
   <persName ref="alter-rebbe">Алтер Ребе</persName>
-  в <placeName ref="Вильно">Вильне</placeName>
+  в <placeName ref="Вильна">Вильне</placeName>
   <orgName ref="Виленский_кагал">виленский кагал</orgName>
 ```
 

@@ -15,13 +15,12 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="фонъ_Дер_Пален">Палену</persName> о
-        переводе <persName ref="alter-rebbe">Шнеура Залмана</persName> из-под ареста на квартиру
+        Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Пален">Палену</persName> о переводе
+        <persName ref="alter-rebbe">Шнеура Залмана</persName> из-под ареста на квартиру
       </p></abstract>
       <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="фонъ_Дер_Пален" role="addressee">Палену</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName ref="Пален" role="addressee">Палену</persName></correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -31,7 +30,7 @@
     <fw type="pageNum" place="right"><del rend="overstrike">333</del></fw>
     <fw type="pageNum" place="right">330</fw>
     <p>
-      <l><salute>М. Г. мой Графъ <persName ref="фонъ_Дер_Пален">Петръ Алексеевичъ</persName>!</salute></l>
+      <l><salute>М. Г. мой Графъ <persName ref="Пален">Петръ Алексеевичъ</persName>!</salute></l>
       <l>Г:И<note place="end">Государь Император</note> высочайше повелѣть соизволилъ</l>
       <l>еврея <persName ref="alter-rebbe">Боруховича</persName> выпустить въ квартиру,</l>
       <l>но чтобъ изъ города не выѣзжалъ доколѣ</l>
@@ -51,7 +50,7 @@
       <l><fw type="docNum">№ 962<hi rend="superscript">й</hi>.</fw></l>
       <l><date when="1800-11-28">Ноября 28 дня<lb/>
        1800 года</date></l>
-      <l>Графу <persName ref="фонъ_Дер_Пален">Палену</persName></l>
+      <l>Графу <persName ref="Пален">Палену</persName></l>
     </closer>
     <pb xml:id="p330-2" n="330-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/330-2.jpg"/>
   </body></text>
