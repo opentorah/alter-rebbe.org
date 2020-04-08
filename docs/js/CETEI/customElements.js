@@ -1,4 +1,4 @@
-import * as utilities from './utilities'
+import * as utilities from './utilities.js'
 
 /* 
   Appends any element returned by the function passed in the first

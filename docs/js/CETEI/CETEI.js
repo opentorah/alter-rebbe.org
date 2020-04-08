@@ -1,7 +1,8 @@
-import * as utilities from './utilities';
-import defaultBehaviors from './defaultBehaviors';
-import {addBehaviors, addBehavior, applyBehaviors} from './behaviors';
-import {learnElementNames} from './dom';
+// LMD added '.js' in all the includes.
+import * as utilities from './utilities.js';
+import defaultBehaviors from './defaultBehaviors.js';
+import {addBehaviors, addBehavior, applyBehaviors} from './behaviors.js';
+import {learnElementNames} from './dom.js';
 
 class CETEI {
   constructor(options){

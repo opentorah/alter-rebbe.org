@@ -1,4 +1,4 @@
-import {define, fallback} from './customElements';
+import {define, fallback} from './customElements.js';
 
 /* 
   Add a user-defined set of behaviors to CETEIcean's processing
