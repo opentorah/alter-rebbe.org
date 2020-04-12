@@ -25,7 +25,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p246-1" n="246-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/246-1.jpg"/>
+    <pb xml:id="p246-1" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/246.html#p246-1"/>
     <fw type="pageNum" place="right">246</fw>
     <head>
       <l><emph rend="big">Въ <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословіе презренія разорен<lb/>
@@ -61,7 +61,7 @@
       <l>усердія къ подданнической власти въ чемъ</l>
       <l>имѣлъ свидѣтельства отъ господина генерала</l>
       <l>маіора <persName ref="Неверовский">Неверовскаго</persName></l>
-      <pb xml:id="p246-2" n="246-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/246-2.jpg"/>
+      <pb xml:id="p246-2" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/246.html#p246-2"/>
       <l>27<hi rend="superscript">й</hi> дивизіи Егерской пехоты которое</l>
       <l>имъ утеряно, а самъ со семействомъ своимъ</l>
       <l>поѣхалъ въ <sic>дальнейши</sic> путь въ разные</l>
@@ -96,7 +96,7 @@
       <l>командированнаго отъ военнаго мини</l>
       <l>стра для устройства порядковъ и ка</l>
       <l>валера <persName ref="Левицкий">левицкаго</persName> и со свидѣтельства</l>
-      <pb xml:id="p247-1" n="247-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/247-1.jpg"/>
+      <pb xml:id="p247-1" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/246.html#p247-1"/>
       <fw type="pageNum" place="right">247</fw>
       <l>Смоленскаго господина Гражданскаго губернато</l>
       <l>ра Аша<note place="end">К.И. Аш - губернатор в 1807-1822 гг.</note>, каковое мое съ семействомъ пока</l>
@@ -136,6 +136,7 @@
        1814<hi rend="superscript">го</hi> года</date></l>
       <note place="end">приложена печать "П. Бабиновецкаго нижняго земскаго суда" с гербом уездного города</note>
     </p>
-    <pb xml:id="p247-2" n="247-2"/>
+    <pb xml:id="p247-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia119/facs/246.html#p247-2"/>
   </body></text>
 </TEI>

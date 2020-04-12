@@ -26,7 +26,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p364-1" n="364-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/364-1.jpg"/>
+    <pb xml:id="p364-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/364.html#p364-1"/>
     <fw type="note" place="left">Секретно</fw>
     <fw type="docNum" place="left">№ 1856.</fw>
     <date when="1800-12-23">23 декабря 1800<hi rend="superscript">го</hi></date>
@@ -65,6 +65,6 @@
        1800 года</date></l>
       <l><placeName ref="Витебск">Витебскъ</placeName></l>
     </closer>
-    <pb xml:id="p364-2" n="364-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/364-2.jpg"/>
+    <pb xml:id="p364-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/364.html#p364-2"/>
   </body></text>
 </TEI>

@@ -25,7 +25,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p244-1" n="244-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/244-1.jpg"/>
+    <pb xml:id="p244-1" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/244.html#p244-1"/>
     <fw type="docNum"><emph rend="underline">№ 1143</emph></fw>
     <date when="1815-02-16">16 фев 1815</date>
     <fw type="pageNum" place="right">244</fw>
@@ -68,7 +68,7 @@
       <l>похвальнымъ засвидетельствованиемъ</l>
       <l><fw type="docNum">№ 44</fw></l>
       <l><fw type="pageNum">63.</fw></l>
-      <pb xml:id="p244-2" n="244-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/244-2.jpg"/>
+      <pb xml:id="p244-2" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/244.html#p244-2"/>
       <l>Г<hi rend="superscript">на</hi> генерала <unclear><persName ref="Неверовский">Неверского</persName></unclear>_.
       во вторыхъ_</l>
       <l>Когда стремление неприятеля угрожа</l>
@@ -101,7 +101,7 @@
       <l>сами съ семѣиствомъ принуждены</l>
       <l>ныне скитаться по чужимъ угламъ.</l>
     </p>
-    <pb xml:id="p245-1" n="245-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia119/245-1.jpg"/>
+    <pb xml:id="p245-1" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/244.html#p245-1"/>
     <fw type="pageNum" place="right">245</fw>
     <p>
       <l>Потеря имения нашего, и цена разоренному</l>
@@ -139,6 +139,7 @@
       <l><signed>???</signed><note place="end">подпись на иврите</note></l>
       <l><date when="1815-02-??">февраля дня<lb/>1815 года</date></l>
     </p>
-    <pb xml:id="p245-2" n="245-2"/>
+    <pb xml:id="p245-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia119/facs/244.html#p245-2"/>
   </body></text>
 </TEI>

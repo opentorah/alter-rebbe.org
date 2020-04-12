@@ -16,7 +16,8 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p538-1" n="538-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/538-1.jpg"/>
-    <pb xml:id="p538-2" n="538-2"/>
+    <pb xml:id="p538-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0538.html#p538-1"/>
+    <pb xml:id="p538-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/lvia1799/facs/0538.html#p538-2"/>
   </body></text>
 </TEI>

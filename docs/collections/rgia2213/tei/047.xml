@@ -22,7 +22,8 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
-    <pb xml:id="p047-1" n="047-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/047-1.jpg"/>
-    <pb xml:id="p047-2" n="047-2"/>
+    <pb xml:id="p047-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/047.html#p047-1"/>
+    <pb xml:id="p047-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia2213/facs/047.html#p047-2"/>
   </body></text>
 </TEI>

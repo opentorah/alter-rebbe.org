@@ -30,8 +30,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <salute>
-      <pb xml:id="p027-1" n="027-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/027-1.jpg"/> Милостивый
-      Государь мой <persName ref="Обольянинов">Петръ хрисанфовичъ</persName>!
+      <pb xml:id="p027-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/027.html#p027-1"/>
+      Милостивый Государь мой <persName ref="Обольянинов">Петръ хрисанфовичъ</persName>!
     </salute>
     <p>
       <l>Получа почтеннѣйшее отношеніе вашего</l>
@@ -67,6 +67,7 @@
       <l>Его высокопревосход:</l>
       <l><persName ref="Обольянинов">П:Х: Обольянинову</persName></l>
     </closer>
-    <pb xml:id="p027-2" n="027-2"/>
+    <pb xml:id="p027-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia2213/facs/027.html#p027-2"/>
   </body></text>
 </TEI>

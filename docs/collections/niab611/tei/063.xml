@@ -16,13 +16,14 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p063-1" n="063-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/063-1.jpg"/>
-    <pb xml:id="p063a-1" n="063a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/063a-1.jpg"/>
-    <pb xml:id="p063-2" n="063-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/063-2.jpg"/>
-    <pb xml:id="p064-1" n="064-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/064-1.jpg"/>
-    <pb xml:id="p064-2" n="064-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/064-2.jpg"/>
-    <pb xml:id="p064a-2" n="064a-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/064a-2.jpg"/>
-    <pb xml:id="p065-1" n="065-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/065-1.jpg"/>
-    <pb xml:id="p065-2" n="065-2"/>
+    <pb xml:id="p063-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p063-1"/>
+    <pb xml:id="p063a-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p063a-1"/>
+    <pb xml:id="p063-2" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p063-2"/>
+    <pb xml:id="p064-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p064-1"/>
+    <pb xml:id="p064-2" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p064-2"/>
+    <pb xml:id="p064a-2" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p064a-2"/>
+    <pb xml:id="p065-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/063.html#p065-1"/>
+    <pb xml:id="p065-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/niab611/facs/063.html#p065-2"/>
   </body></text>
 </TEI>

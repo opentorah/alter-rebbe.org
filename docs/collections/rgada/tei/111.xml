@@ -23,7 +23,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p111-1" n="111-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/111-1.jpg"/>
+    <pb xml:id="p111-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/111.html#p111-1"/>
     <fw type="docNum">№10</fw>
     <fw type="note" place="right"><ref target="../documents/112.html">переводъ</ref></fw>
     <fw type="pageNum" place="right">111.</fw>
@@ -43,6 +43,6 @@
       <l>впрочемъ ничего не знаю.</l>
       <l><signed>Подписалъ <persName ref="Михель_Файбишович">Михель Файбишовичъ</persName>.</signed></l>
     </p>
-    <pb xml:id="p111-2" n="111-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/111-2.jpg"/>
+    <pb xml:id="p111-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/111.html#p111-2"/>
   </body></text>
 </TEI>

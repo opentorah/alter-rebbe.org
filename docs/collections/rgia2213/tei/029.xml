@@ -30,7 +30,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p029-1" n="029-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/029-1.jpg"/>
+    <pb xml:id="p029-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/029.html#p029-1"/>
     <fw type="docNum" place="left">№ 1279/1562</fw>
     <date when="1800-07-22">22 Іюля 1800.</date>
     <fw type="pageNum" place="right">29</fw>
@@ -59,8 +59,8 @@
       <l>имѣетъ правила въ молитвахъ и жизни</l>
       <l>несходныя съ древними иудеями, поелику</l>
       <l>они удаляя всякую боязнь и печаль хотятъ</l>
-      <l><pb xml:id="p029-2" n="029-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/029-2.jpg"/> все
-      творить съ веселіемъ и спокойствіемъ духа,</l>
+      <l><pb xml:id="p029-2" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/029.html#p029-2"
+      /> все творить съ веселіемъ и спокойствіемъ духа,</l>
       <l>а древніе евреи со страхомъ и трепетомъ,</l>
       <l>противу чего въ прежнее польское правленіе</l>
       <l>отъ оберъ рабина сего многія были доносы</l>
@@ -84,8 +84,8 @@
       <l>рабинства доходовъ заключается, то и остает-</l>
       <l>ся сомнительнымъ. _ и на 3<hi rend="superscript">ю</hi> чтобы одни</l>
       <l>ученѣйшія евреи судили во всѣхъ дѣлахъ</l>
-      <l><pb xml:id="p030-1" n="030-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/030-1.jpg"/> <fw
-      type="pageNum" place="right">30</fw> евреевъ, а не иной кто изъ другаго закона,</l>
+      <l><pb xml:id="p030-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/029.html#p030-1"
+      /> <fw type="pageNum" place="right">30</fw> евреевъ, а не иной кто изъ другаго закона,</l>
       <l>таковое желаніе противно устроенному</l>
       <l>порядку правленія съ симъ мнѣніемъ</l>
       <l><placeName ref="Минская_губерния">минскаго</placeName> гражданскаго губернатора бывъ</l>
@@ -114,6 +114,7 @@
        1800 года</date></l>
       <l>Его Высокопр<hi rend="superscript">у</hi> <persName ref="Обольянинов">Обольянинову</persName></l>
     </closer>
-    <pb xml:id="p030-2" n="030-2"/>
+    <pb xml:id="p030-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia2213/facs/029.html#p030-2"/>
   </body></text>
 </TEI>

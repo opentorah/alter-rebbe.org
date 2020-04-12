@@ -18,10 +18,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <p>
-      <l><pb xml:id="p002-1" n="002-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/002-1.jpg"/>
-      доказательства</l>
+      <l><pb xml:id="p002-1" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/002.html#p002-1"
+      /> доказательства</l>
       <l>Еврея <persName ref="Авигдор">Абигдара Хаймовича</persName></l>
     </p>
-    <pb xml:id="p002-2" n="002-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/002-2.jpg"/>
+    <pb xml:id="p002-2" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/002.html#p002-2"/>
   </body></text>
 </TEI>

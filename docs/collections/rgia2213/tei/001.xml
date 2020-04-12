@@ -26,7 +26,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/001-1.jpg"/>
+    <pb xml:id="p001-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/001.html#p001-1"/>
     <fw type="docNum" place="left">№4488/447</fw>
     <date when="1800-04-23">23. апреля 1800.</date>
     <fw type="pageNum" place="right">1</fw>
@@ -62,6 +62,7 @@
       <l>прежнимъ дѣламъ</l>
       <l>Его Высокопр. <persName ref="Обольянинов">Обольянинову</persName></l>
     </p>
-    <pb xml:id="p001-2" n="001-2"/>
+    <pb xml:id="p001-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia2213/facs/001.html#p001-2"/>
   </body></text>
 </TEI>

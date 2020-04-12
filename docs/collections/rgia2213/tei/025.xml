@@ -29,8 +29,8 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body><salute>
-    <pb xml:id="p025-1" n="025-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/025-1.jpg"/> <fw
-    type="pageNum" place="right">25</fw> Милостивый Государь мой Феодор Максимовичъ!
+    <pb xml:id="p025-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/025.html#p025-1"/>
+    <fw type="pageNum" place="right">25</fw> Милостивый Государь мой Феодор Максимовичъ!
   </salute> <fw type="docNum" place="right">№. 4724</fw> <p>
     <l>На отношеніе вашего Превосходительства</l>
     <l>при коемъ по Высочайшему Его Импера-</l>
@@ -57,5 +57,6 @@
     <l>ист почт Есм.</l>
   </p> <date when="1800-06-07" place="left"><l>июня 7 дня<lb/>
    1800 года.</l></date> ______________________________ <fw type="note" place="left"><persName ref="Брискорн">
-  Брискорну</persName>.</fw> <pb xml:id="p025-2" n="025-2"/></body></text>
+  Брискорну</persName>.</fw> <pb xml:id="p025-2" rendition="missing-page" role="facsimileViewer"
+  target="/collections/rgia2213/facs/025.html#p025-2"/></body></text>
 </TEI>

@@ -26,7 +26,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p353-1" n="353-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/353-1.jpg"/>
+    <pb xml:id="p353-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/353.html#p353-1"/>
     <fw type="docNum" place="left">№ 1745.</fw>
     <date when="1800-12-15">15 декабря 1800_</date>
     <fw type="note" place="right">Секретно:</fw>
@@ -69,6 +69,6 @@
        1800 года</date></l>
       <l><placeName ref="Каменец_Подольский">Каменецъ.подольскій</placeName></l>
     </closer>
-    <pb xml:id="p353-2" n="353-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/353-2.jpg"/>
+    <pb xml:id="p353-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/353.html#p353-2"/>
   </body></text>
 </TEI>

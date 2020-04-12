@@ -5,11 +5,11 @@
     <profileDesc/>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p061-1" n="061-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/061-1.jpg"/>
-    <pb xml:id="p061a-1" n="061a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/061a-1.jpg"/>
-    <pb xml:id="p061-2" n="061-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/061-2.jpg"/>
-    <pb xml:id="p061a-2" n="061a-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/061a-2.jpg"/>
-    <pb xml:id="p062-1" n="062-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/062-1.jpg"/>
-    <pb xml:id="p062-2" n="062-2"/>
+    <pb n="061-1"/>
+    <pb n="061a-1"/>
+    <pb n="061-2"/>
+    <pb n="061a-2"/>
+    <pb n="062-1"/>
+    <pb n="062-2" missing="true"/>
   </body></text>
 </TEI>

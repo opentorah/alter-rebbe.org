@@ -23,7 +23,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p090-1" n="090-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/090-1.jpg"/>
+    <pb xml:id="p090-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/090.html#p090-1"/>
     <fw type="docNum">№1</fw>
     <fw type="note" place="right"><ref target="../documents/092.html">переводъ</ref></fw>
     <fw type="pageNum" place="right">90</fw>
@@ -62,7 +62,7 @@
       <l>Въ минувшихъ мѣсяцахъ въ маіѣ</l>
       <l>или апрѣлѣ писалъ онъ <persName ref="alter-rebbe">рабинъ</persName> въ</l>
       <l><orgName ref="Хасиды">Королинское</orgName> <placeName ref="Вильна">виленское</placeName> собраніе</l>
-      <pb xml:id="p090-2" n="090-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/090-2.jpg"/>
+      <pb xml:id="p090-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/090.html#p090-2"/>
       <fw type="pageNum">90 об</fw>
       <l>писмо, и оно доставлено сюда въ</l>
       <l><placeName ref="Вильна">вилну</placeName> чрезъ нарочнаго <persName ref="Лейба_Зеликович">Лейба Зели<lb/>
@@ -96,7 +96,7 @@
       <l>томъ, года съ четыре назадъ, пе</l>
       <l>реведено было въ мой домъ. А от</l>
       <l>куда секта взяла свое начало</l>
-      <pb xml:id="p091-1" n="091-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/091-1.jpg"/>
+      <pb xml:id="p091-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/090.html#p091-1"/>
       <fw type="pageNum" place="right">91</fw>
       <fw type="pageNum" place="right"><del rend="overstrike">92</del></fw>
       <l>не знаю. На отправленіе богомоле</l>
@@ -114,6 +114,6 @@
       <l>ся на волю Божію.</l>
       <l><signed>подписалъ <persName ref="Меер_Рафалович">Меіеръ Рафаловичъ</persName></signed>.</l>
     </p>
-    <pb xml:id="p091-2" n="091-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/091-2.jpg"/>
+    <pb xml:id="p091-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/090.html#p091-2"/>
   </body></text>
 </TEI>

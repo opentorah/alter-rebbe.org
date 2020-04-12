@@ -17,9 +17,9 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
-    <pb xml:id="p095-1" n="095-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/095-1.jpg"/>
-    <pb xml:id="p095-2" n="095-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/095-2.jpg"/>
-    <pb xml:id="p096-1" n="096-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/096-1.jpg"/>
-    <pb xml:id="p096-2" n="096-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/096-2.jpg"/>
+    <pb xml:id="p095-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/095.html#p095-1"/>
+    <pb xml:id="p095-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/095.html#p095-2"/>
+    <pb xml:id="p096-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/095.html#p096-1"/>
+    <pb xml:id="p096-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/095.html#p096-2"/>
   </body></text>
 </TEI>
