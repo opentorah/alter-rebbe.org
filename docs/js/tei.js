@@ -1,6 +1,14 @@
 import CETEI from './cetei.js'
 
 export default function loadTei(tei, thisDocument) {
+    let wrapper = document
+        .getElementsByClassName("page-content").item(0)
+        .getElementsByClassName("wrapper").item(0);
+
+    let teiDiv = document.createElement("div");
+    teiDiv.innerHTML = "This page will only work in modern browsers.";
+    wrapper.appendChild(teiDiv);
+
     let refBehavior = [["[ref]", ["<a href='/names/$@ref.html' target='namesViewer'>", "</a>"]]];
 
     let CETEIcean = new CETEI();
@@ -17,8 +25,8 @@ export default function loadTei(tei, thisDocument) {
     });
 
     CETEIcean.getHTML5(tei, function (data) {
-        document.getElementById("TEI").innerHTML = "";
-        document.getElementById("TEI").appendChild(data);
+        teiDiv.innerHTML = "";
+        teiDiv.appendChild(data);
         CETEIcean.addStyle(document, data);
     });
 }
