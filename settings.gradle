@@ -11,8 +11,8 @@ include 'collector'
 include 'docs'
 include 'service'
 
-includeBuild ('../../store') {
-    dependencySubstitution {
-        substitute module('org.opentorah:store') with project(':store')
-    }
-}
+//includeBuild ('../../store') {
+//    dependencySubstitution {
+//        substitute module('org.opentorah:store') with project(':store')
+//    }
+//}
