@@ -18,9 +18,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <salute>
-      <l><pb xml:id="p250-1" n="250-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/250-1.jpg"/> <fw
-      type="pageNum" place="right">250</fw> <fw type="note" place="left margin">№ „40„<hi rend="superscript">и</hi></fw>
-      Господину отъ инфантеріи генералу <placeName ref="Литва">литовскому</placeName> генералъ губер-<lb/>
+      <l><pb n="250-1"/> <fw type="pageNum" place="right">250</fw> <fw type="note" place="left margin">№ „40„<hi
+      rend="superscript">и</hi></fw> Господину отъ инфантеріи генералу <placeName ref="Литва">литовскому</placeName>
+      генералъ губер-<lb/>
        натору кавалеру <persName ref="Лассий">лассе</persName></l>
     </salute>
     <p>
@@ -50,8 +50,7 @@
       <l>обязался: найденная жъ въ погребѣ настоящая книга поне-</l>
       <l>дельно подписана некоторыми кагальными старшинами,</l>
       <l>заключаетъ въ себѣ одной, приходъ и расходъ, а подъделанныя</l>
-      <l><pb xml:id="p250-2" n="250-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/250-2.jpg"/>
-      разделены на двѣ то есть на приходную и расходную,</l>
+      <l><pb n="250-2"/> разделены на двѣ то есть на приходную и расходную,</l>
       <l>и во многомъ неимѣющія сходства съ настоящею, да и въ</l>
       <l>сѣй послѣдней при первомъ взорѣ оказываются такїе расхо-</l>
       <l>ды, кои никакъ нужными и полезными для Общества почесть</l>
@@ -83,10 +82,10 @@
       <l>райскїе яблоки четыре ста пятдесятъ рублѣй No= 450.</l>
       <l>да вырученныхъ за продажу четвертой части Екзакцїйнова</l>
       <l>збора отъ даннаго <persName ref="Шимель_Вульфович">шимелу вульфовичу</persName> на откупъ</l>
-      <l><pb xml:id="p265-1" n="265-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/265-1.jpg"/> <note
-      place="end">стр. 251-264 в архиве не относятся к этому документу - или мы смотрим не на те номера :)</note> <fw
-      type="pageNum" place="right">265<note place="end">надпись карандашом</note></fw> <fw type="pageNum" place="right">
-      265<note place="end">запись чернилами</note></fw> Три тысячи сто пядѣсятъ рублѣй No= 3150. протчіе</l>
+      <l><pb n="265-1"/> <note place="end">стр. 251-264 в архиве не относятся к этому документу - или мы смотрим не на
+      те номера :)</note> <fw type="pageNum" place="right">265<note place="end">надпись карандашом</note></fw> <fw
+      type="pageNum" place="right">265<note place="end">запись чернилами</note></fw> Три тысячи сто пядѣсятъ рублѣй No=
+      3150. протчіе</l>
       <l>бумаги изъ найденныхъ въ погребу, и отысканные ушколь-</l>
       <l>наго писаря о протчихъ таковыхъ <orgName ref="Виленский_кагал">кагала</orgName> деяніяхъ, еще не</l>
       <l>разсматриваны. _ При семъ за нужное нахожу донести</l>
@@ -117,6 +116,6 @@
        1799 года.</date></l>
       <l><placeName ref="Вильна">г. вильна</placeName></l>
     </closer>
-    <pb xml:id="p265-2" n="265-2"/>
+    <pb n="265-2" missing="true"/>
   </body></text>
 </TEI>

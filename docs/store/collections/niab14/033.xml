@@ -5,9 +5,9 @@
     <profileDesc/>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p033-1" n="033-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab14/033-1.jpg"/>
-    <pb xml:id="p033-2" n="033-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab14/033-2.jpg"/>
-    <pb xml:id="p034-1" n="034-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab14/034-1.jpg"/>
-    <pb xml:id="p034-2" n="034-2"/>
+    <pb n="033-1"/>
+    <pb n="033-2"/>
+    <pb n="034-1"/>
+    <pb n="034-2" missing="true"/>
   </body></text>
 </TEI>

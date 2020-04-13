@@ -28,7 +28,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p012-1" n="012-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/012-1.jpg"/>
+    <pb xml:id="p012-1" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/012.html#p012-1"/>
     <date when="1799-02-21">21 февр. 1799</date>
     <fw type="docNum" place="left">3670/466</fw>
     <fw type="pageNum" place="right">12</fw>
@@ -71,8 +71,8 @@
       <l>наказъ, дабы утвѣрдивши общественное 1772.<hi rend="superscript">го</hi> года постановленіе</l>
       <l>предписать предпринявшимъ таковую нелепость, отъ оной</l>
       <l>отъстать, и никому болѣе изъ еврѣевъ онои ни принимать;</l>
-      <l><pb xml:id="p012-2" n="012-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/012-2.jpg"/> для
-      смотрения жъ за симъ избралъ пять человекъ. всемъ</l>
+      <l><pb xml:id="p012-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/012.html#p012-2"
+      /> для смотрения жъ за симъ избралъ пять человекъ. всемъ</l>
       <l>таковымъ <orgName ref="Виленский_кагал">виленскаго еврейскаго общества</orgName> усилиямъ упор</l>
       <l>ствуя вышеписанной секты особы, переменили мѣсто</l>
       <l>своего для молитвъ сходбища и избрали оное въ доме <placeName ref="Вильна">виленс<lb/>
@@ -118,10 +118,10 @@
       крайней мере одного листа</note></l>
     </p>
     <p>
-      <l><pb xml:id="p013-1" n="013-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/013-1.jpg"/> <fw
-      type="pageNum" place="right">13.</fw> <fw type="pageNum" place="right"><del rend="overstrike">64</del></fw> Месяца
-      6<hi rend="superscript">го</hi> числа пришедъ въ <orgName ref="Виленский_кагал">кагальныи</orgName> домъ плацъ
-      маиоръ пал</l>
+      <l><pb xml:id="p013-1" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/012.html#p013-1"
+      /> <fw type="pageNum" place="right">13.</fw> <fw type="pageNum" place="right"><del rend="overstrike">64</del></fw>
+      Месяца 6<hi rend="superscript">го</hi> числа пришедъ въ <orgName ref="Виленский_кагал">кагальныи</orgName> домъ
+      плацъ маиоръ пал</l>
       <l>кинъ съ отступившими отнашей веры нѣ толко <placeName ref="Вильна">виленски<lb/>
        ми</placeName>, <emph rend="underline">да и антоколскими</emph><note place="end">подчеркнуто карандашом, тем же
       карандашом против этих слов поставлена "галочка" на полях</note> <orgName ref="Хасиды">каролинами</orgName>
@@ -168,6 +168,7 @@
       <l><date when="1799-02-11">февраля 11<hi rend="superscript">го</hi> дня<lb/>1799 года</date></l>
       <l><placeName ref="Вильна">Г: Вилно</placeName>.</l>
     </closer>
-    <pb xml:id="p013-2" n="013-2"/>
+    <pb xml:id="p013-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia328/facs/012.html#p013-2"/>
   </body></text>
 </TEI>

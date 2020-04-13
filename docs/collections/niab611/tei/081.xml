@@ -16,10 +16,11 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p081-1" n="081-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/081-1.jpg"/>
-    <pb xml:id="p081a-1" n="081a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/081a-1.jpg"/>
-    <pb xml:id="p081-2" n="081-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/081-2.jpg"/>
-    <pb xml:id="p082-1" n="082-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/082-1.jpg"/>
-    <pb xml:id="p082-2" n="082-2"/>
+    <pb xml:id="p081-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/081.html#p081-1"/>
+    <pb xml:id="p081a-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/081.html#p081a-1"/>
+    <pb xml:id="p081-2" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/081.html#p081-2"/>
+    <pb xml:id="p082-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/081.html#p082-1"/>
+    <pb xml:id="p082-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/niab611/facs/081.html#p082-2"/>
   </body></text>
 </TEI>

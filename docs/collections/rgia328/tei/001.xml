@@ -24,7 +24,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p001-1" n="001-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/001-1.jpg"/>
+    <pb xml:id="p001-1" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/001.html#p001-1"/>
     <fw type="note">къ исполненію</fw>
     <fw type="note" place="left">Копія</fw>
     <fw type="note" place="right">получено <date when="1800-06-21">21 июня 1800. года.</date></fw>
@@ -65,6 +65,6 @@
       ref="Обольянинов">Обольяниновъ</persName></signed></l>
       <note place="end">две нижних строки, вписанных другим почерком, затерты и нечитабельны</note>
     </p>
-    <pb xml:id="p001-2" n="001-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia328/001-2.jpg"/>
+    <pb xml:id="p001-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/001.html#p001-2"/>
   </body></text>
 </TEI>

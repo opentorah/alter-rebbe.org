@@ -16,9 +16,9 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p800-1" n="800-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/800-1.jpg"/>
-    <pb xml:id="p800-2" n="800-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/800-2.jpg"/>
-    <pb xml:id="p801-1" n="801-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/801-1.jpg"/>
-    <pb xml:id="p801-2" n="801-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1800/801-2.jpg"/>
+    <pb xml:id="p800-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/800.html#p800-1"/>
+    <pb xml:id="p800-2" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/800.html#p800-2"/>
+    <pb xml:id="p801-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/800.html#p801-1"/>
+    <pb xml:id="p801-2" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/800.html#p801-2"/>
   </body></text>
 </TEI>

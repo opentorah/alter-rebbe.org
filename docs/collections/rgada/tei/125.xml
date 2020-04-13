@@ -23,7 +23,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p125-1" n="125-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/125-1.jpg"/>
+    <pb xml:id="p125-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/125.html#p125-1"/>
     <fw type="docNum" place="left">№17./</fw>
     <fw type="note" place="right"><ref target="../documents/125.html">переводъ</ref></fw>
     <fw type="pageNum" place="right">125.</fw>
@@ -43,6 +43,6 @@
       <l>дѣлахъ</l>
       <l><signed>подписалъ <persName ref="Иосель_Мовшович">Јосель Мовшовичъ</persName>.</signed></l>
     </p>
-    <pb xml:id="p125-2" n="125-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/125-2.jpg"/>
+    <pb xml:id="p125-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/125.html#p125-2"/>
   </body></text>
 </TEI>

@@ -29,7 +29,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p023-1" n="023-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/023-1.jpg"/>
+    <pb xml:id="p023-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/023.html#p023-1"/>
     <fw type="pageNum" place="right">23</fw>
     <fw type="docNum" place="right">№. 4722</fw>
     <salute>Милостивый Государь <persName ref="Кутузов">Михайло Илларионовичъ!</persName></salute>
@@ -53,6 +53,7 @@
     </p>
     <l><date when="1800-06-07" place="left">июня 7 дня <lb/>1800 года</date></l>
     <l><persName ref="Кутузов">Голенищеву Кутузову</persName></l>
-    <pb xml:id="p023-2" n="023-2"/>
+    <pb xml:id="p023-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia2213/facs/023.html#p023-2"/>
   </body></text>
 </TEI>

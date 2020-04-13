@@ -16,8 +16,9 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p011-1" n="011-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/011-1.jpg"/>
-    <pb xml:id="p011a-1" n="011a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/niab611/011a-1.jpg"/>
-    <pb xml:id="p011-2" n="011-2"/>
+    <pb xml:id="p011-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/011.html#p011-1"/>
+    <pb xml:id="p011a-1" rendition="page" role="facsimileViewer" target="/collections/niab611/facs/011.html#p011a-1"/>
+    <pb xml:id="p011-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/niab611/facs/011.html#p011-2"/>
   </body></text>
 </TEI>

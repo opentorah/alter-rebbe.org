@@ -1,6 +1,6 @@
 import CETEI from './cetei.js'
 
-export default function loadTei(tei, thisDocument) {
+export default function loadTei(tei) {
     let wrapper = document
         .getElementsByClassName("page-content").item(0)
         .getElementsByClassName("wrapper").item(0);
@@ -15,8 +15,7 @@ export default function loadTei(tei, thisDocument) {
 
     CETEIcean.addBehaviors({
         "tei": {
-            "pb": [["[facs][n]", ["<a class='facsimileLink' target='facsimileViewer' href='../facs/" + thisDocument + ".html#p$@n'>⎙</a>"]]],
-            "pb": [["[n]", ["<a class='missingFacsimileLink' target='facsimileViewer' href='../facs/" + thisDocument + ".html#p$@n'>⎙</a>"]]],
+            "pb": [["[role][target]", ["<a target='$@role' href='$@target'>⎙</a>"]]],
             "persName": refBehavior,
             "placeName": refBehavior,
             "orgName": refBehavior,

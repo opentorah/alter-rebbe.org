@@ -19,10 +19,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <salute>
-      <pb xml:id="p027-1" n="027-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia2213/027-1.jpg"/> Милостивый
-      Государь мой <persName ref="Обольянинов">Петръ хрисанфовичъ</persName>!
-    </salute>
+    <salute><pb n="027-1"/> Милостивый Государь мой <persName ref="Обольянинов">Петръ хрисанфовичъ</persName>!</salute>
     <p>
       <l>Получа почтеннѣйшее отношеніе вашего</l>
       <l>высокопревосходительства за № 4722<hi rend="superscript">м</hi> съ изображе-</l>
@@ -57,6 +54,6 @@
       <l>Его высокопревосход:</l>
       <l><persName ref="Обольянинов">П:Х: Обольянинову</persName></l>
     </closer>
-    <pb xml:id="p027-2" n="027-2"/>
+    <pb n="027-2" missing="true"/>
   </body></text>
 </TEI>

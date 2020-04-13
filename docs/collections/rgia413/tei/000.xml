@@ -16,7 +16,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p000-1" n="000-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000-1.jpg"/>
+    <pb xml:id="p000-1" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/000.html#p000-1"/>
     <head>
       <l><emph rend="big">Правительствующаго <orgName ref="Сенат">сената</orgName></emph></l>
       <l>1</l>
@@ -27,8 +27,9 @@
       <l><fw type="docNum">№ 413</fw><note place="end">Обложка дела со штампами "Ленинградский Центральный Исторический
       АРХИВ" и "Ц.Г.И.А.Л. фонд " 1347 Опись 64 Ед. хр. № 413"</note></l>
     </head>
-    <pb xml:id="p000-2" n="000-2"/>
-    <pb xml:id="p000a-1" n="000a-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000a-1.jpg"/>
+    <pb xml:id="p000-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/rgia413/facs/000.html#p000-2"/>
+    <pb xml:id="p000a-1" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/000.html#p000a-1"/>
     <fw type="pageNum" place="right">II</fw>
     <table>
       <row><l>Опись бумагамъ въ дѣлѣ, заключающимся.</l></row>
@@ -115,7 +116,7 @@
          Боруховича</persName> поданное <date when="1801-03-06">6 марта<lb/>
          1801 года</date> съ приложеніями</l></cell>
       </row>
-      <pb xml:id="p000a-2" n="000a-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgia413/000a-2.jpg"/>
+      <pb xml:id="p000a-2" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/000.html#p000a-2"/>
       <row>
         <cell>
           <l>Число</l>

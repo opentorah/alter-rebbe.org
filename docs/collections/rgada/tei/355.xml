@@ -26,7 +26,7 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p355-1" n="355-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/355-1.jpg"/>
+    <pb xml:id="p355-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/355.html#p355-1"/>
     <fw type="pageNum" place="right">355</fw>
     <p>
       <l><salute>
@@ -52,6 +52,6 @@
        1800</date></l>
       <l>Его пр<hi rend="superscript">ву</hi> <persName ref="Северин">Северину</persName></l>
     </closer>
-    <pb xml:id="p355-2" n="355-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/rgada/355-2.jpg"/>
+    <pb xml:id="p355-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/355.html#p355-2"/>
   </body></text>
 </TEI>

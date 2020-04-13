@@ -16,11 +16,14 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb xml:id="p512-1" n="512-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/512-1.jpg"/>
-    <pb xml:id="p512-2" n="512-2"/>
-    <pb xml:id="p513-1" n="513-1"/>
-    <pb xml:id="p513-2" n="513-2" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/513-2.jpg"/>
-    <pb xml:id="p514-1" n="514-1" facs="http://facsimiles.alter-rebbe.org/facsimiles/lvia1799/514-1.jpg"/>
-    <pb xml:id="p514-2" n="514-2"/>
+    <pb xml:id="p512-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0512.html#p512-1"/>
+    <pb xml:id="p512-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/lvia1799/facs/0512.html#p512-2"/>
+    <pb xml:id="p513-1" rendition="missing-page" role="facsimileViewer"
+    target="/collections/lvia1799/facs/0512.html#p513-1"/>
+    <pb xml:id="p513-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0512.html#p513-2"/>
+    <pb xml:id="p514-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0512.html#p514-1"/>
+    <pb xml:id="p514-2" rendition="missing-page" role="facsimileViewer"
+    target="/collections/lvia1799/facs/0512.html#p514-2"/>
   </body></text>
 </TEI>
