@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Пален">Пален</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Пален.html">Пален</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +17,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Пален">Палена</persName>, направленное <persName ref="Обольянинов">
-        Обольянинову</persName> о поручении обер-полицеймейстеру Зильбергарнишу доставить <persName ref="Авигдор">
-        Авигдора Хаймовича</persName> на допрос
+        Сообщение <persName role="namesViewer" target="/names/Пален.html">Палена</persName>, направленное <persName
+        role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о поручении обер-полицеймейстеру
+        Зильбергарнишу доставить <persName role="namesViewer" target="/names/Авигдор.html">Авигдора Хаймовича</persName>
+        на допрос
       </p></abstract>
       <creation><date when="1800-11-16">16 ноября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -38,14 +40,15 @@
       <fw type="note" place="right">къ отпуску</fw>
     </l>
     <salute><l>Милостивый Государь мой<lb/>
-       <persName ref="Обольянинов">петръ Хрисанфовичъ</persName>!</l></salute>
+       <persName role="namesViewer" target="/names/Обольянинов.html">петръ Хрисанфовичъ</persName>!</l></salute>
     <p>
       <l>По отношенїю вашего высоко-</l>
       <l>превосходительства, о сыскѢ и пред-</l>
       <l>ставленїи къ вамъ сего же дня быв-</l>
-      <l>шаго оберъ-рабина <persName ref="Авигдор">Хайма</persName> съ перевод-</l>
-      <l>чикомъ и еврея <persName ref="Юда_Файбишевич">Фавичовича</persName> живущаго</l>
-      <l>у доктора <persName ref="Цуберт">Цуберта</persName>, предписалъ я</l>
+      <l>шаго оберъ-рабина <persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName> съ перевод-</l>
+      <l>чикомъ и еврея <persName role="namesViewer" target="/names/Юда_Файбишевич.html">Фавичовича</persName>
+      живущаго</l>
+      <l>у доктора <persName role="namesViewer" target="/names/Цуберт.html">Цуберта</persName>, предписалъ я</l>
       <l>оберъ-полицїймейстеру Зильбергарнишу.</l>
       <l>О чемъ увѢдомляя васъ Милостивый</l>
       <l>Государь мой, имѢю честь съ истин-</l>
@@ -54,13 +57,14 @@
       <l>Милостивый Государь мой</l>
       <l>вашего высокопревосходительства</l>
       <l>покорнѢйшій слуга</l>
-      <l>графъ <persName ref="Пален">фонъ Дер Паленъ</persName></l>
+      <l>графъ <persName role="namesViewer" target="/names/Пален.html">фонъ Дер Паленъ</persName></l>
     </p>
     <closer place="right">
       <l><fw type="docNum">№ 466</fw></l>
       <l><date when="1800-11-15">Ноября. 15. дня<lb/>
        1800 года</date></l>
-      <l>Его в: <emph rend="underline">пр-ву</emph> <persName ref="Обольянинов">Обольянинову</persName></l>
+      <l>Его в: <emph rend="underline">пр-ву</emph> <persName role="namesViewer" target="/names/Обольянинов.html"
+      >Обольянинову</persName></l>
     </closer>
     <pb xml:id="p323-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/323.html#p323-2"/>
   </body></text>

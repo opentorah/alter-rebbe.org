@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Северин">Северин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Северин.html">Северин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,17 +17,18 @@
     <profileDesc>
       <abstract>
         <p>
-          № 14. Сообщение <persName ref="Северин">Северина</persName> <persName ref="Обольянинов">Обольянинову
-          </persName> об отправке хасидского „начальника” <persName ref="alter-rebbe">Боруховича</persName> в <placeName
-          ref="Петербург">Петербург</placeName>
+          № 14. Сообщение <persName role="namesViewer" target="/names/Северин.html">Северина</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> об отправке хасидского
+          „начальника” <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> в <placeName
+          role="namesViewer" target="/names/Петербург.html">Петербург</placeName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgada/documents/276.html">276</ref> в РГАДА</p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/008.html">008</ref> в РГИА 413</p>
       </abstract>
       <creation><date when="1800-11-13">1800-11-13</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,49 +37,56 @@
       <pb xml:id="p263" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/263.2.html#p263"/> №
       14.<note type="gloss" place="end">Документы съ № <ref role="documentViewer"
       target="/collections/dubnov/documents/263.2.html">14</ref> до конца скопированы из дел 3-го Депармента <orgName
-      ref="Сенат">Сената</orgName>, I отд. за 1800—1801 гг. (№№ 328 и 413).</note> Сообщеніе <placeName ref="Белоруссия"
-      >Бѣлорусскаго</placeName> <persName ref="Северин">губернатора</persName> <persName ref="Обольянинов"
-      >генералъ-прокурору</persName> объ отправкѣ хасидскаго „начальника” <persName ref="alter-rebbe"
-      >Боруховича</persName> въ <placeName ref="Петербург">Петербургъ</placeName>
+      role="namesViewer" target="/names/Сенат.html">Сената</orgName>, I отд. за 1800—1801 гг. (№№ 328 и 413).</note>
+      Сообщеніе <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлорусскаго</placeName> <persName
+      role="namesViewer" target="/names/Северин.html">губернатора</persName> <persName role="namesViewer"
+      target="/names/Обольянинов.html">генералъ-прокурору</persName> объ отправкѣ хасидскаго „начальника” <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> въ <placeName role="namesViewer"
+      target="/names/Петербург.html">Петербургъ</placeName>
     </head>
     <fw>Секретно.</fw>
     <salute>Ваше Превосходительство, Милостивый Государь!</salute>
     <p>
       Вслѣдствіе почтеннѣйшаго Вашего отношенія отъ <date when="1800-10-30">30-го прошедшаго октября</date>, отправилъ я
       <date when="1800-11-09">9 числа сего мѣсяца</date> къ Вашему Высокопревосходительству, съ двумя сенатскими
-      курьерами <persName ref="Петров">Петровымъ</persName> и <persName ref="Сукин">Сукинымъ</persName>, требуемаго
-      начальника <orgName ref="Хасиды">каролинской секты или хосадовъ</orgName>, ев- <pb xml:id="p264" rendition="page"
-      role="facsimileViewer" target="/collections/dubnov/facs/263.2.html#p264"/> рея <persName ref="alter-rebbe"
-      >Боруховича</persName>, имѣлъ честь донести, что о прочемъ въ томъ отношеніи изображенномъ рѣшено будетъ точное и
-      непремѣнное исполненіе. Нынѣ же долгомъ поставляю почтеннѣйше В. В-ву донести, что секретно входилъ я въ тончайшее
-      испытаніе и изысканіе въ образѣ жизни и поведеніи <orgName ref="Хасиды">секты Каролинской</orgName> и Россійскихъ
-      раскольниковъ, но ничего такого между ними соблазнительнаго, или неповиновенія къ власти не токмо не замѣчается,
-      но и надѣяться сего совершенно невозможно: ибо во всѣхъ мхъ существуетъ непоколебимое вѣрноподданичество къ
-      Высочайшему Е. И. В. престолу, истинное и безропотное повиновеніе къ власти, и по самой сектѣ ихъ ничего подобнаго
-      къ соблазнамъ, или противнаго общей тишинѣ и спокойствію не предусматривается. Да и самой начальникъ <orgName
-      ref="Хасиды">Каролинской секты</orgName> <persName ref="alter-rebbe">Боруховичъ</persName>, по
-      засвидѣтельствованію <placeName ref="Белоруссия">Бѣлорусскаго</placeName> Губернскаго Еврейскаго Кагала, родившись
-      въ мѣстечкѣ <placeName ref="Лиозно">Лиошзнѣ</placeName>, ни въ чемъ другомъ упражнялся, какъ въ единственномъ
-      чтеніи духовныхъ книгъ и богомоленіи, входя <sic>прп</sic> томъ самымъ краткимъ образомъ, безъ письменнаго какого
-      либо производства, по общему ссорющихся сторонъ согласію, въ разборъ нѣкоторыхъ ихъ претензій, которыя, какъ тотъ
-      же Кагалъ удостовѣряетъ, рѣшалъ споры и удовлетворялъ такимъ образомъ, что обѣ стороны оставались всегда довольны,
-      и жалобъ на то нигдѣ не производили, что еще удостовѣряется и даннымъ ему <persName ref="alter-rebbe"
-      >Боруховичу</persName> письменнымъ приказомъ, <date when="1798-02-08">8 числа февраля 1798 года</date> подъ <fw
-      type="docNum">№ 624</fw>, отъ бывшаго <placeName ref="Белоруссия">Бѣлорусскаго</placeName> Губернатора и Кавалера
-      <persName ref="Жегулин">Жегулина</persName>, по делу <placeName ref="Витебск">Витебскихъ</placeName> купцовъ Гирши
-      Нохимивича и Нохима Гиршановича.
+      курьерами <persName role="namesViewer" target="/names/Петров.html">Петровымъ</persName> и <persName
+      role="namesViewer" target="/names/Сукин.html">Сукинымъ</persName>, требуемаго начальника <orgName
+      role="namesViewer" target="/names/Хасиды.html">каролинской секты или хосадовъ</orgName>, ев- <pb xml:id="p264"
+      rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/263.2.html#p264"/> рея <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName>, имѣлъ честь донести, что о прочемъ въ
+      томъ отношеніи изображенномъ рѣшено будетъ точное и непремѣнное исполненіе. Нынѣ же долгомъ поставляю почтеннѣйше
+      В. В-ву донести, что секретно входилъ я въ тончайшее испытаніе и изысканіе въ образѣ жизни и поведеніи <orgName
+      role="namesViewer" target="/names/Хасиды.html">секты Каролинской</orgName> и Россійскихъ раскольниковъ, но ничего
+      такого между ними соблазнительнаго, или неповиновенія къ власти не токмо не замѣчается, но и надѣяться сего
+      совершенно невозможно: ибо во всѣхъ мхъ существуетъ непоколебимое вѣрноподданичество къ Высочайшему Е. И. В.
+      престолу, истинное и безропотное повиновеніе къ власти, и по самой сектѣ ихъ ничего подобнаго къ соблазнамъ, или
+      противнаго общей тишинѣ и спокойствію не предусматривается. Да и самой начальникъ <orgName role="namesViewer"
+      target="/names/Хасиды.html">Каролинской секты</orgName> <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Боруховичъ</persName>, по засвидѣтельствованію <placeName role="namesViewer"
+      target="/names/Белоруссия.html">Бѣлорусскаго</placeName> Губернскаго Еврейскаго Кагала, родившись въ мѣстечкѣ
+      <placeName role="namesViewer" target="/names/Лиозно.html">Лиошзнѣ</placeName>, ни въ чемъ другомъ упражнялся, какъ
+      въ единственномъ чтеніи духовныхъ книгъ и богомоленіи, входя <sic>прп</sic> томъ самымъ краткимъ образомъ, безъ
+      письменнаго какого либо производства, по общему ссорющихся сторонъ согласію, въ разборъ нѣкоторыхъ ихъ претензій,
+      которыя, какъ тотъ же Кагалъ удостовѣряетъ, рѣшалъ споры и удовлетворялъ такимъ образомъ, что обѣ стороны
+      оставались всегда довольны, и жалобъ на то нигдѣ не производили, что еще удостовѣряется и даннымъ ему <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Боруховичу</persName> письменнымъ приказомъ, <date
+      when="1798-02-08">8 числа февраля 1798 года</date> подъ <fw type="docNum">№ 624</fw>, отъ бывшаго <placeName
+      role="namesViewer" target="/names/Белоруссия.html">Бѣлорусскаго</placeName> Губернатора и Кавалера <persName
+      role="namesViewer" target="/names/Жегулин.html">Жегулина</persName>, по делу <placeName role="namesViewer"
+      target="/names/Витебск.html">Витебскихъ</placeName> купцовъ Гирши Нохимивича и Нохима Гиршановича.
     </p>
     <p>
       За симъ остается мнѣ почтеннѣйше Ваше, Высокопр-ство удостовѣрить, что въ ввѣренной управленію моему <placeName
-      ref="Белоруссия">Бѣлорусской губерніи</placeName> нѣтъ и быть не можетъ никакихъ неблагонамѣренныхъ къ Высочайшему
-      Е. И. В-ва престолу людей, но всѣ суть вѣрноподанные, повинующіеся во всякихъ случаяхъ Высочайшей Государя
-      Императора волѣ и власти, всегда готовые пожертвовать собою въ <sic>испонелніи</sic> премудрыхъ Его Величества
-      учрежденій и сохраняющіе тишину и спокойствіе.
+      role="namesViewer" target="/names/Белоруссия.html">Бѣлорусской губерніи</placeName> нѣтъ и быть не можетъ никакихъ
+      неблагонамѣренныхъ къ Высочайшему Е. И. В-ва престолу людей, но всѣ суть вѣрноподанные, повинующіеся во всякихъ
+      случаяхъ Высочайшей Государя Императора волѣ и власти, всегда готовые пожертвовать собою въ <sic>испонелніи</sic>
+      премудрыхъ Его Величества учрежденій и сохраняющіе тишину и спокойствіе.
     </p>
     <p>
-      Съ истиннымъ высокопочитаніемъ Вашего Высокопр-ства всепокорнѣйшій слуга <persName ref="Северин">Петръ
-      (Северинъ)</persName>. <date calendar="#julian" when="1800-11-13">Ноября 13 дня 1800 года</date>. Его
-      Высокопр-ству Ген.-прокурору <persName ref="Обольянинов">Петру Хрисанфовичу Обольянинову</persName>.
+      Съ истиннымъ высокопочитаніемъ Вашего Высокопр-ства всепокорнѣйшій слуга <persName role="namesViewer"
+      target="/names/Северин.html">Петръ (Северинъ)</persName>. <date calendar="#julian" when="1800-11-13">Ноября 13 дня
+      1800 года</date>. Его Высокопр-ству Ген.-прокурору <persName role="namesViewer" target="/names/Обольянинов.html"
+      >Петру Хрисанфовичу Обольянинову</persName>.
     </p>
   </body></text>
 </TEI>

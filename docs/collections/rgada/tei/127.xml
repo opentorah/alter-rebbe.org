@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского язывка протокола допроса <persName ref="Мовша_Иосиелиович">Мовши Иосиеловича</persName>
+        Перевод с польского язывка протокола допроса <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html"
+        >Мовши Иосиеловича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,27 +31,30 @@
     <fw type="pageNum" place="right">127</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Мовша_Иосиелиович">Мовши Јосіеловича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовши Јосіеловича</persName></l>
     </head>
     <p>
-      <l>Я <persName ref="Мовша_Иосиелиович">Мовша Јоселовичъ</persName> отъ роду</l>
+      <l>Я <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовша Јоселовичъ</persName> отъ роду</l>
       <l>имѣю 45 лѣтъ, родился на предмѣстьѣ</l>
-      <l><placeName ref="Антоколь">Антоколѣ</placeName>, женатъ, дѣтей имѣю,</l>
-      <l>сыновей <persName ref="Иосель_Мовшович">Јоселя</persName> и Боруха, и дочерей</l>
+      <l><placeName role="namesViewer" target="/names/Антоколь.html">Антоколѣ</placeName>, женатъ, дѣтей имѣю,</l>
+      <l>сыновей <persName role="namesViewer" target="/names/Иосель_Мовшович.html">Јоселя</persName> и Боруха, и
+      дочерей</l>
       <l>три; упражняюсь мещанскимъ про-</l>
-      <l>мысломъ; въ <orgName ref="Хасиды">секту каролинскую</orgName></l>
-      <l>никогда не вступалъ; <orgName ref="Хасиды">Каролины</orgName> же</l>
-      <l>называли меня потому, что <orgName ref="Виленский_кагал">вилен<lb/>
+      <l>мысломъ; въ <orgName role="namesViewer" target="/names/Хасиды.html">секту каролинскую</orgName></l>
+      <l>никогда не вступалъ; <orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName> же</l>
+      <l>называли меня потому, что <orgName role="namesViewer" target="/names/Виленский_кагал.html">вилен<lb/>
        ской кагалъ</orgName> оштрафовалъ меня</l>
       <l>300. рубл., и удалилъ отъ вѣрников-</l>
       <l>ства антакольскаго кагала, на</l>
       <l>которой поступокъ я не жаловался</l>
-      <l>но сами <orgName ref="Хасиды">каролины</orgName>, безъ моего вѣ-</l>
+      <l>но сами <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName>, безъ моего вѣ-</l>
       <l>дома сіе вмѣстили въ прошеніе</l>
-      <l>поданное въ <orgName ref="Литовское_губернское_правление">Литовское губернское<lb/>
-       правленіе</orgName>; въ чемъ состоитъ <orgName ref="Хасиды">каро-<lb/>
+      <l>поданное въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское
+      губернское<lb/>
+       правленіе</orgName>; въ чемъ состоитъ <orgName role="namesViewer" target="/names/Хасиды.html">каро-<lb/>
        линская</orgName> вѣра я не знаю.</l>
-      <l><signed>подписалъ <persName ref="Мовша_Иосиелиович">Мовша Јоселіовичъ</persName></signed></l>
+      <l><signed>подписалъ <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовша
+      Јоселіовичъ</persName></signed></l>
     </p>
     <pb xml:id="p127-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/127.html#p127-2"/>
   </body></text>

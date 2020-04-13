@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Хрущов">Хрущов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Хрущов.html">Хрущов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,14 +16,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольянинов">Обольянинову</persName> со
-        сведениями о <orgName ref="Хасиды">хасидах</orgName>, полученными в ходе поездки по <placeName ref="Белоруссия">
-        Белоруссии</placeName>
+        Рапорт <persName role="namesViewer" target="/names/Хрущов.html">Хрущова</persName> <persName role="namesViewer"
+        target="/names/Обольянинов.html">Обольянинову</persName> со сведениями о <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидах</orgName>, полученными в ходе поездки по <placeName role="namesViewer"
+        target="/names/Белоруссия.html">Белоруссии</placeName>
       </p></abstract>
       <creation><date when="1800-09-10">10 сентября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -41,26 +43,28 @@
     <p>
       <l>По донесѣніи мною отъ <date when="1800-08-30">30 числа прошедшаго<lb/>
        августа</date> вашѣму высокопревосходитѣлству: <date when="1800-09-02">сего<lb/>
-       месяца до 2<hi rend="superscript">го</hi> числа</date> находился я въ <placeName ref="Витебск">витѣбскѣ
-      </placeName></l>
+       месяца до 2<hi rend="superscript">го</hi> числа</date> находился я въ <placeName role="namesViewer"
+      target="/names/Витебск.html">витѣбскѣ</placeName></l>
       <l>пропуская слухъ что забочусь по части прави</l>
       <l>янской. И кажится успѣлъ изрядно закрыть</l>
-      <l>отъ житѣлей <placeName ref="Белоруссия">белорускихъ</placeName> настоящее мое препо-</l>
+      <l>отъ житѣлей <placeName role="namesViewer" target="/names/Белоруссия.html">белорускихъ</placeName> настоящее мое
+      препо-</l>
       <l>ручѣніе. Симъ времянемъ ползуясь стараясь ра</l>
       <l>зведать сколко-возъможно и приготовить</l>
-      <l>себя сведениемъ для бытности моей въ <placeName ref="Лиозно">лио-<lb/>
-       зне</placeName>, 2<hi rend="superscript">го</hi> числа и отъ правился по <placeName ref="Белоруссия">белоруской
-      гу<lb/>
+      <l>себя сведениемъ для бытности моей въ <placeName role="namesViewer" target="/names/Лиозно.html">лио-<lb/>
+       зне</placeName>, 2<hi rend="superscript">го</hi> числа и отъ правился по <placeName role="namesViewer"
+      target="/names/Белоруссия.html">белоруской гу<lb/>
        бернии</placeName> проезжая до могилѣва, возврашаясь на</l>
-      <l>задъ, 1<hi rend="superscript">го</hi> числа прибылъ въ <placeName ref="Лиозно">лиозно</placeName>, и пробылъ
-      сутки</l>
+      <l>задъ, 1<hi rend="superscript">го</hi> числа прибылъ въ <placeName role="namesViewer"
+      target="/names/Лиозно.html">лиозно</placeName>, и пробылъ сутки</l>
       <l>и что могъ обстоятѣлно во все сие время узна</l>
       <l>ть симъ честь имѣю донести.</l>
     </p>
     <p>
-      <l><persName ref="alter-rebbe">Борговичъ</persName> называется рабинъ что у насъ митро</l>
-      <l>политъ или патриярхъ. <orgName ref="Хасиды">Секта</orgName> его название</l>
-      <l>имѣетъ <orgName ref="Хасиды">хосоды</orgName> на росискомъ языке значитъ</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Борговичъ</persName> называется рабинъ что у насъ
+      митро</l>
+      <l>политъ или патриярхъ. <orgName role="namesViewer" target="/names/Хасиды.html">Секта</orgName> его название</l>
+      <l>имѣетъ <orgName role="namesViewer" target="/names/Хасиды.html">хосоды</orgName> на росискомъ языке значитъ</l>
       <l>избранны! Таинство оной состоитъ въ томъ</l>
       <l>чтобъ быть въ слепомъ повиновении начални-</l>
       <l>ку и по ево приказу не щадить своего имѣ</l>
@@ -69,15 +73,18 @@
       <l>весть себя въ безъпамятсво чтобъ не могло</l>
       <l>притьти другихъ мыслѣй кроме молитвы! Число</l>
       <l>оныхъ хосодовъ полагаютъ третья или четвертая</l>
-      <l>часть изъ житѣлствующихъ въ <placeName ref="Белоруссия">белоруссии</placeName> и Литве_</l>
+      <l>часть изъ житѣлствующихъ въ <placeName role="namesViewer" target="/names/Белоруссия.html"
+      >белоруссии</placeName> и Литве_</l>
     </p>
     <pb xml:id="p251-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/251.html#p251-2"/>
     <fw type="pageNum" place="left">251 об.</fw>
-    <l>а болшая часть находится въ <placeName ref="Белоруссия">белоруссии</placeName> <unclear>секта</unclear></l>
+    <l>а болшая часть находится въ <placeName role="namesViewer" target="/names/Белоруссия.html">белоруссии</placeName>
+    <unclear>секта</unclear></l>
     <l>ихъ простирается и въ другихъ государствахъ Европы</l>
-    <l>вступающии въ сию <orgName ref="Хасиды">секту</orgName> обязываются кля-</l>
+    <l>вступающии въ сию <orgName role="namesViewer" target="/names/Хасиды.html">секту</orgName> обязываются кля-</l>
     <l>твою не толко въ совершенномъ даже вслѣпомъ</l>
-    <l>быть повиновени къ <persName ref="alter-rebbe">рабину</persName>, и исполнять его</l>
+    <l>быть повиновени къ <persName role="namesViewer" target="/names/alter-rebbe.html">рабину</persName>, и исполнять
+    его</l>
     <l>приказания какъ въ обряде богомолья такъ и</l>
     <l>не сшадить своево имѣния по ево приказу! Почте</l>
     <l>ние къ нему простирается отъ принявшихъ секту</l>
@@ -85,17 +92,20 @@
     <l>влѣния или учится отъ него, не смѣитъ войти</l>
     <l>безъ докладу Почему у него при въ ходе къ нему</l>
     <l>въ горницу стоитъ еврей докладывать прика-</l>
-    <l>житъ ли пустить а без докладу ихъ <orgName ref="Хасиды">секты</orgName> вои-</l>
+    <l>житъ ли пустить а без докладу ихъ <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName>
+    вои-</l>
     <l>тить не можетъ. Итакъ поставя себя на то-</l>
     <l>ль важную стѣпень довелъ ихъ противъ себя</l>
     <l>до таковаго повиновения что повелѣния его и</l>
     <l>сполняются свято и безовсякихъ отъ говорокъ,</l>
-    <l>Доходъ его состоитъ отъ вступившихъ въ <orgName ref="Хасиды">секту</orgName></l>
+    <l>Доходъ его состоитъ отъ вступившихъ въ <orgName role="namesViewer" target="/names/Хасиды.html">секту</orgName>
+    </l>
     <l>еврѣевъ до десяти тысячъ рублей_ Изъ чего онъ</l>
     <l>содѣржитъ себя и семѣиство свое! Изъ которыхъ</l>
     <l>онъ употребляетъ на помощь беднымъ да</l>
     <l>также отъ правляетъ до несколку тысяч въ</l>
-    <l><placeName ref="Иерусалим">Ерусалимъ</placeName> на содержание таковыхъ же хосодо</l>
+    <l><placeName role="namesViewer" target="/names/Иерусалим.html">Ерусалимъ</placeName> на содержание таковыхъ же
+    хосодо</l>
     <l>довъ. Сеи доходъ онъ имеетъ по ихъ воле Ани</l>
     <l>даютъ ему безовсякого принуждения_ А еще</l>
     <l>за счасья почитаютъ если приметъ. Если</l>
@@ -110,7 +120,8 @@
     <fw type="pageNum" place="right"><del rend="overstrike">257</del></fw><note place="end">номер проставлен чернилами и
     зачеркнут карандашом</note>
     <fw type="pageNum" place="right">252</fw><note place="end">номер проставлен карандашом</note>
-    <l>какъ возили ево въ <placeName ref="Петербург">питербургъ</placeName> то тчасъ со-</l>
+    <l>какъ возили ево въ <placeName role="namesViewer" target="/names/Петербург.html">питербургъ</placeName> то тчасъ
+    со-</l>
     <l>брали сколко могли денегъ ему надарогу! И чрезъ</l>
     <l>мерно сокрушалися что ево лишилися дагоняли на</l>
     <l>дароге чтобъ принять отъ него благословения_</l>
@@ -118,16 +129,17 @@
     <l>верстъ за сто и были безума отъ радости какъ</l>
     <l>сумашедшия плясали и кричали! кореспонде-</l>
     <l>нция ево по обыкновеннымъ почтамъ очѣнь мало</l>
-    <l>а иметъ переписку чрезъ нарочныхъ своей <orgName ref="Хасиды">секты</orgName></l>
+    <l>а иметъ переписку чрезъ нарочныхъ своей <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName>
+    </l>
     <l>евреевъ! касатѣлно жъ что бъ что можна заме</l>
     <l>тить съ стороны каковыхъ либо мыслѣи</l>
     <l>къ волнодумству или законной власти непови</l>
     <l>новѣнию, ни личнаго на государя неудоволствия</l>
     <l>етова у нихъ кажется совсемъ и въ мысляхъ</l>
     <l>нетъ. Я сие время употребилъ разными</l>
-    <l>способами испытывать какъ въ <placeName ref="Витебск">витебске</placeName></l>
-    <l>равно и объхалъ въ <placeName ref="Белоруссия">губернии <choice><sic>белоекой</sic><corr>белорусской</corr>
-    </choice></placeName> все по</l>
+    <l>способами испытывать какъ въ <placeName role="namesViewer" target="/names/Витебск.html">витебске</placeName></l>
+    <l>равно и объхалъ въ <placeName role="namesViewer" target="/names/Белоруссия.html">губернии <choice><sic
+    >белоекой</sic><corr>белорусской</corr></choice></placeName> все по</l>
     <l>чти местечки где толко могло быть су-</l>
     <l>мнѣние но ничево не нашолъ къ разрушению</l>
     <l>спокоиствия государства! Докладываю сие</l>
@@ -139,7 +151,7 @@
     <l>въ сей секте то отъ меня укрытся</l>
     <l>не могло потому что имѣю людей которыя</l>
     <l>ко мне имѣютъ доверенность. имѣю честь пре</l>
-    <l>дставить и свое на сию <orgName ref="Хасиды">секту</orgName> замѣчание</l>
+    <l>дставить и свое на сию <orgName role="namesViewer" target="/names/Хасиды.html">секту</orgName> замѣчание</l>
     <l>что оное мною описанное я получилъ све</l>
     <l>дения отъ евреевъ старой ихъ настоящѣй</l>
     <l>веры которыя говорятъ что сия секта не</l>
@@ -148,8 +160,8 @@
     <pb xml:id="p252-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/251.html#p252-2"/>
     <fw type="pageNum" place="left">252 об.</fw><note place="end">номер проставлен карандашом</note>
     <l>чрезъ ихъ домы! чтобъ ползоватся интересо</l>
-    <l>мъ отъ нихъ! Я какъ былъ въ <placeName ref="Лиозно">лозне</placeName> ходилъ къ <persName ref="alter-rebbe"
-    >нему</persName></l>
+    <l>мъ отъ нихъ! Я какъ былъ въ <placeName role="namesViewer" target="/names/Лиозно.html">лозне</placeName> ходилъ къ
+    <persName role="namesViewer" target="/names/alter-rebbe.html">нему</persName></l>
     <l>нашолъ ево въ высокой малѣнкой горнице</l>
     <l>у нево былъ изъ шклова молодой еврей принима</l>
     <l>ть наставления_ меня принялъ учтиво и</l>
@@ -160,7 +172,8 @@
     <l>ономия ево болшова ума не обещаетъ. А</l>
     <l>можно сказать что онъ выдалъ себя зау-</l>
     <l>чонова или святова. обираетъ съ протчихъ</l>
-    <l>своей <orgName ref="Хасиды">секты</orgName> евреевъ денеи_ И подыменемъ свя_</l>
+    <l>своей <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName> евреевъ денеи_ И подыменемъ
+    свя_</l>
     <l>тости а ни ему ему слѣпо повинуются! А что бъ было</l>
     <l>что къ нарушению покоя государства! Или бъ</l>
     <l>какия виды къ волнодумству то онова у нихъ</l>
@@ -180,11 +193,11 @@
     <l>вашего высокопревосходителства</l>
     <l>милостиваго государя</l>
     <l>всепокорнеиши слуга</l>
-    <l><signed><persName ref="Хрущов">Петръ Хрущовъ</persName></signed></l>
+    <l><signed><persName role="namesViewer" target="/names/Хрущов.html">Петръ Хрущовъ</persName></signed></l>
     <closer place="left">
       <l><date when="1800-09-10">10<hi rend="superscript">го</hi> сентѣбря<lb/>
        1800 года</date></l>
-      <l><placeName ref="Витебск">Г. витебскъ</placeName>.</l>
+      <l><placeName role="namesViewer" target="/names/Витебск.html">Г. витебскъ</placeName>.</l>
     </closer>
   </body></text>
 </TEI>

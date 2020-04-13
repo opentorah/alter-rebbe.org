@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского языка протокола допроса <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName>
+        Перевод с польского языка протокола допроса <persName role="namesViewer" target="/names/Зелман_Лейбович.html"
+        >Зелмана Лейбовича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,22 +31,25 @@
     <fw type="pageNum" place="right">131.</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зелмана Лейбовича</persName></l>
     </head>
     <p>
-      <l>Я <persName ref="Зелман_Лейбович">Зелманъ Лейбовичъ</persName> отъ роду</l>
+      <l>Я <persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зелманъ Лейбовичъ</persName> отъ роду</l>
       <l>имѣю 24 года, женатъ, имѣю одну</l>
       <l>дочь, торгую стекломъ; родился</l>
-      <l>въ <placeName ref="Вильна">Вилнѣ</placeName>; въ <orgName ref="Хасиды">каролинскую секту</orgName></l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>; въ <orgName role="namesViewer"
+      target="/names/Хасиды.html">каролинскую секту</orgName></l>
       <l>не вступалъ; шесть лѣтъ тому,</l>
-      <l>какъ ѣздилъ я къ <placeName ref="Лиозно">Лозенскому</placeName> <persName ref="alter-rebbe">ра-<lb/>
+      <l>какъ ѣздилъ я къ <placeName role="namesViewer" target="/names/Лиозно.html">Лозенскому</placeName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">ра-<lb/>
        бину</persName>, у котораго проведя одну</l>
       <l>недѣлю, обучался библіи; уѣхавъ же</l>
-      <l>отъ него, былъ у <placeName ref="Ляховичи">Ляховицкаго</placeName> ра</l>
-      <l>бина <persName ref="Мордух">Мордуха</persName> два года; къ симъ</l>
+      <l>отъ него, былъ у <placeName role="namesViewer" target="/names/Ляховичи.html">Ляховицкаго</placeName> ра</l>
+      <l>бина <persName role="namesViewer" target="/names/Мордух.html">Мордуха</persName> два года; къ симъ</l>
       <l>обоимъ множество людей собирает-</l>
       <l>ся изъ разныхъ мѣстъ</l>
-      <signed>подписалъ <persName ref="Зелман_Лейбович">Зелманъ Лейбовичъ</persName></signed>
+      <signed>подписалъ <persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зелманъ Лейбовичъ</persName>
+      </signed>
     </p>
     <pb xml:id="p131-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/131.html#p131-2"/>
   </body></text>

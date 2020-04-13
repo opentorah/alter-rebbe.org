@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Арон_Беркович">Арон Беркович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Арон_Беркович.html">Арон Беркович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского языка протокола допроса <persName ref="Арон_Беркович">Арона Берковича</persName>
+        Перевод с польского языка протокола допроса <persName role="namesViewer" target="/names/Арон_Беркович.html"
+        >Арона Берковича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,35 +31,35 @@
     <fw type="pageNum" place="right">99.</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Арон_Беркович">Арона Берковича</persName>.</l>
+      <l>жида <persName role="namesViewer" target="/names/Арон_Беркович.html">Арона Берковича</persName>.</l>
     </head>
     <p>
-      <l>Зовутъ меня <persName ref="Арон_Беркович">Арономъ Берковичемъ</persName></l>
+      <l>Зовутъ меня <persName role="namesViewer" target="/names/Арон_Беркович.html">Арономъ Берковичемъ</persName></l>
       <l>отъ роду имѣю 35 лѣтъ, женатъ, дѣ-</l>
       <l>тей имѣю, сыновей Моижеса и Гиршу,</l>
-      <l>дочь Шифру; родился въ <placeName ref="Вильна">Вилнѣ</placeName>; при</l>
+      <l>дочь Шифру; родился въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>; при</l>
       <l>шелъ самъ добровольно, узнавъ о взя-</l>
-      <l>тіи подъ караулъ <orgName ref="Хасиды">каролиновъ</orgName>. Около</l>
+      <l>тіи подъ караулъ <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>. Около</l>
       <l>году какъ я оставилъ ихъ секту; ко-</l>
       <l>гда я вступилъ въ оную, то въ те-</l>
       <l>ченіе двухъ лѣтъ молился по ихъ обы-</l>
-      <l>кновенію. Вступилъ же в <orgName ref="Хасиды">каролин-<lb/>
+      <l>кновенію. Вступилъ же в <orgName role="namesViewer" target="/names/Хасиды.html">каролин-<lb/>
        скую секту</orgName> по слѣдующему случаю:</l>
       <l>торгуя стеклом, когда ѣздилъ я</l>
       <l>для покупки онаго, когда насту-</l>
       <l>палъ праздникъ Трубковъ<note place="end">вероятно, трубления, т.е. Рош-Ашана</note>; не имѣя</l>
       <l>гдѣ оной провести, и отправлять</l>
       <l>моленія, поѣхалъ я в мѣстечко</l>
-      <l><placeName ref="Ляховичи">Ляховичи</placeName> <note type="gloss">|: въ <placeName ref="Минская_губерния">
-      Минской губерніи</placeName> |</note> яко</l>
+      <l><placeName role="namesViewer" target="/names/Ляховичи.html">Ляховичи</placeName> <note type="gloss">|: въ
+      <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской губерніи</placeName> |</note> яко</l>
       <l>въ ближайшее отъ того, гдѣ покупалъ</l>
-      <l>стекло. Будучи у рабина <persName ref="Мордух">Мордуха</persName>,</l>
+      <l>стекло. Будучи у рабина <persName role="namesViewer" target="/names/Мордух.html">Мордуха</persName>,</l>
       <l>получилъ отъ него поученіе, чтобы</l>
       <l>во время молитвы всѣмъ сердцемъ</l>
       <l>заниматься Богомъ, и ни о чемъ</l>
       <l>другомъ не думать; тогда-то</l>
-      <l>родилось во мнѣ желаніе быть <orgName ref="Хасиды">ка<lb/>
-       ролиномъ</orgName>. <orgName ref="Хасиды">Каролины</orgName> ничѣмъ</l>
+      <l>родилось во мнѣ желаніе быть <orgName role="namesViewer" target="/names/Хасиды.html">ка<lb/>
+       ролиномъ</orgName>. <orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName> ничѣмъ</l>
       <l>другимъ не отличаются отъ ста-</l>
       <l>рыхъ евреевъ, как только тѣмъ,</l>
       <l>что отправляютъ моленіе свое</l>
@@ -66,35 +68,41 @@
       <l>гласно, и отмѣннымъ образомъ;</l>
       <l>послѣ, когда таковое желаніе во мнѣ</l>
       <l>усилилось остаться в той сектѣ,</l>
-      <l>ѣздилъ я въ <placeName ref="Лиозно">Лозну</placeName> къ рабину <persName ref="alter-rebbe">Зель-<lb/>
+      <l>ѣздилъ я въ <placeName role="namesViewer" target="/names/Лиозно.html">Лозну</placeName> къ рабину <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Зель-<lb/>
        ману Боруховичу</persName>, у котораго живу-</l>
-      <l>чи 8 дней, видѣлъ <placeName ref="Вильна">виленскихъ</placeName> евреевъ</l>
-      <l><persName ref="Лейба_Зеликович">Лейбу Зеликовича</persName>, <persName ref="Лейба_Меиерович">Лейбу
-      Меіеровича</persName>,</l>
-      <l>портнаго <persName ref="Абрамович">абрамовича</persName>, зятя его <persName ref="Ицка_Абрамович">Иц-<lb/>
-       ку</persName>, <persName ref="Шломо_Меиерович">Шлома Меіеровича</persName>, <persName ref="Вулф">
-      Вулфа</persName>, зя</l>
-      <l>тя <persName ref="Зельман">Зельманова</persName>, гдѣ также видѣлъ</l>
+      <l>чи 8 дней, видѣлъ <placeName role="namesViewer" target="/names/Вильна.html">виленскихъ</placeName> евреевъ</l>
+      <l><persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейбу Зеликовича</persName>, <persName
+      role="namesViewer" target="/names/Лейба_Меиерович.html">Лейбу Меіеровича</persName>,</l>
+      <l>портнаго <persName role="namesViewer" target="/names/Абрамович.html">абрамовича</persName>, зятя его <persName
+      role="namesViewer" target="/names/Ицка_Абрамович.html">Иц-<lb/>
+       ку</persName>, <persName role="namesViewer" target="/names/Шломо_Меиерович.html">Шлома Меіеровича</persName>,
+      <persName role="namesViewer" target="/names/Вулф.html">Вулфа</persName>, зя</l>
+      <l>тя <persName role="namesViewer" target="/names/Зельман.html">Зельманова</persName>, гдѣ также видѣлъ</l>
       <l>изъ разныхъ мѣстъ прибывшихъ</l>
       <l>евреевъ болѣе 2000. Молитвенная</l>
-      <l>книга, изданная <placeName ref="Лиозно">лозинскимъ</placeName> <persName ref="alter-rebbe">раби<lb/>
+      <l>книга, изданная <placeName role="namesViewer" target="/names/Лиозно.html">лозинскимъ</placeName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">раби<lb/>
        номъ</persName>, въ которой предписывается</l>
       <l>порядокъ моленія, называется <emph rend="underline">Та-<lb/>
-       нія</emph>. Въ прошломъ году, когда <orgName ref="Виленский_кагал">ви<lb/>
-       ленскій кагалъ</orgName> поссорился съ <orgName ref="Хасиды">каро-<lb/>
+       нія</emph>. Въ прошломъ году, когда <orgName role="namesViewer" target="/names/Виленский_кагал.html">ви<lb/>
+       ленскій кагалъ</orgName> поссорился съ <orgName role="namesViewer" target="/names/Хасиды.html">каро-<lb/>
        линскою сектою</orgName>, отнялъ у нихъ</l>
       <l>книги <emph rend="underline">Лекуда корамъ</emph><note place="end">вероятно, "Ликутей Амарим"</note> и <emph
       rend="underline">Лекуда – Морамъ</emph><note place="end">название книги требует уточнения</note>,</l>
       <l>сіи книги изданы были прежними</l>
       <l>сектами, называемыми <emph rend="underline">Ксыдимъ</emph><note place="end">вероятно, "хасидим"</note>,</l>
-      <l>или нынѣшними <orgName ref="Хасиды">каролинами</orgName>.</l>
-      <l><orgName ref="Хасиды">Каролинскую секту</orgName> возобновилъ въ</l>
-      <l><placeName ref="Вильна">вилнѣ</placeName> прибывшій изъ <placeName ref="Островна">Островны</placeName></l>
-      <l><persName ref="Орлик_Мовшович">Орликъ</persName>, которому послѣдовали во-</l>
-      <l>первыхъ, <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName> и <persName ref="Меер_Рафалович">Меіеръ<lb
-      />
+      <l>или нынѣшними <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>.</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">Каролинскую секту</orgName> возобновилъ въ</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName> прибывшій изъ <placeName
+      role="namesViewer" target="/names/Островна.html">Островны</placeName></l>
+      <l><persName role="namesViewer" target="/names/Орлик_Мовшович.html">Орликъ</persName>, которому послѣдовали
+      во-</l>
+      <l>первыхъ, <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба Зеликовичъ</persName> и
+      <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меіеръ<lb/>
        Рафаловичъ</persName></l>
-      <l><signed>Подписал <persName ref="Арон_Беркович">Арон Беркович</persName>.</signed></l>
+      <l><signed>Подписал <persName role="namesViewer" target="/names/Арон_Беркович.html">Арон
+      Беркович</persName>.</signed></l>
     </p>
   </body></text>
 </TEI>

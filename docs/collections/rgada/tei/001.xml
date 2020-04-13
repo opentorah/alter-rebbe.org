@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Гирш_Давидович">Гирш Давидович</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Гирш_Давидович.html">Гирш Давидович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Копия жалобы на злоупотребления виленского городничего, подписанная именем <persName ref="Гирш_Давидович">Гирша
-        Давыдовича</persName>
+        Копия жалобы на злоупотребления виленского городничего, подписанная именем <persName role="namesViewer"
+        target="/names/Гирш_Давидович.html">Гирша Давыдовича</persName>
       </p></abstract>
       <creation><date when="1798-05-10">Маія 10 дня 1798 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -37,7 +38,8 @@
       <l>Литовской губерніи виленской городничей</l>
       <l>нѣмѣцъ Менше имѣя при себѣ секретаря</l>
       <l>Ивана Матвѣева, бѣглаго унтеръ-офицера или</l>
-      <l>писаря изъ <placeName ref="Петербург">Санктпетербургскаго</placeName> пѣхотнаго полку</l>
+      <l>писаря изъ <placeName role="namesViewer" target="/names/Петербург.html">Санктпетербургскаго</placeName>
+      пѣхотнаго полку</l>
       <l>укрываемаго безъ всякаго спросу, отвѣту, суда</l>
       <l>и депутата пристрастно поступая содержа въ</l>
       <l>колодкахъ и бивъ батожьемъ принудили дать</l>
@@ -68,12 +70,12 @@
       <l>вашего Сіятельства</l>
       <l>Милостивѣйшаго Государя</l>
       <l>всенижайшій слуга:</l>
-      <l><persName ref="Гирш_Давидович">Гиршъ Давыдовичъ</persName>.</l>
+      <l><persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршъ Давыдовичъ</persName>.</l>
     </p>
     <closer place="left">
       <l><date when="1798-05-10">Маія 10<hi rend="superscript">го</hi> дня<lb/>
        1798 года</date>.</l>
-      <l><placeName ref="Вильна">вильна</placeName>.</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName>.</l>
     </closer>
   </body></text>
 </TEI>

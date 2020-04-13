@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>-<persName ref="alter-rebbe"
-          >Залмана</persName> в <orgName ref="Сенат">Сенат</orgName>
+          Высоч. повеление о передаче дела <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName>-<persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> в
+          <orgName role="namesViewer" target="/names/Сенат.html">Сенат</orgName>
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/dubnov/documents/268.1.html">№ 16</ref> у Дубнова
@@ -35,9 +37,10 @@
     <p>
       <l>Его императорское величество высо-</l>
       <l>чайше повелѣть соизволил, дѣло между</l>
-      <l>евреями <persName ref="Авигдор">Абикдаромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Зал-<lb/>
+      <l>евреями <persName role="namesViewer" target="/names/Авигдор.html">Абикдаромъ Хаймовичемъ</persName> и <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Зал-<lb/>
        маномъ боруховичемъ</persName>, касающееся до ихъ</l>
-      <l>религiи и прочаго въ <orgName ref="Сенат">Сенатѣ</orgName> разсмот-</l>
+      <l>религiи и прочаго въ <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> разсмот-</l>
       <l>рѣть, и учинить положенiе на какомъ</l>
       <l>впредь основанiи быть сектѣ хасе-</l>
       <l>довъ и Кагаламъ. На каковой Конецъ и</l>
@@ -46,7 +49,7 @@
     </p>
     <p>
       <l>на подлинномъ подписалъ</l>
-      <l>Генералъ прокуроръ <persName ref="Обольянинов">обол-<lb/>
+      <l>Генералъ прокуроръ <persName role="namesViewer" target="/names/Обольянинов.html">обол-<lb/>
        няниновъ</persName></l>
     </p>
     <p>
@@ -54,10 +57,10 @@
       <signed><l>Иван<unclear>Д...</unclear></l></signed>
     </p>
     <p>
-      <l>Читанъ въ общемъ <orgName ref="Сенат">Сената</orgName> собранiи <date when="1800-11-27">27=ноября 1800=года
-      </date></l>
-      <l>Слушанъ въ 3м <orgName ref="Сенат">Сената</orgName> департаментѣ <date when="1800-11-28">28=ноября 1800=года
-      </date></l>
+      <l>Читанъ въ общемъ <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName> собранiи <date
+      when="1800-11-27">27=ноября 1800=года</date></l>
+      <l>Слушанъ въ 3м <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName> департаментѣ <date
+      when="1800-11-28">28=ноября 1800=года</date></l>
     </p>
     <p><date when="1800-11-27">
         <l>Ноября 27<hi rend="superscript">го</hi> дня.</l>

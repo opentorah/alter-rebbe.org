@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,14 +16,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о начале
-        расследования деятельности <orgName ref="Хасиды">хасидов</orgName>, ответ на распоряжение о таких действиях, см.
+        Рапорт <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> <persName
+        role="namesViewer" target="/names/Лопухин.html">Лопухину</persName> о начале расследования деятельности <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, ответ на распоряжение о таких действиях, см.
         <ref role="documentViewer" target="/collections/rgada/documents/029.html">029</ref>
       </p></abstract>
       <creation><date when="1798-09-30">30 сентября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,7 +36,9 @@
     <fw type="pageNum" place="right">36.</fw>
     <fw type="note" place="left margin">Къ отпуску</fw>
     <p>
-      <l><salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute></l>
+      <l><salute>
+        Милостивой Государь <persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!
+      </salute></l>
       <l>Высочайшее повелѣніе содержащееся въ секретномъ</l>
       <l>вашего Высокопревосходительства отношеніи отъ</l>
       <l><date when="1798-09-15">15. сентября</date> удостоился я получить, и приступая</l>
@@ -46,13 +50,13 @@
       <l>Милостивой государь!</l>
       <l>Вашего высокопревосходительства</l>
       <l>всепокорнеишій слуга</l>
-      <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Булгаков.html">Яковъ Булгаковъ</persName></signed></l>
       <closer place="left">
         <l><fw type="docNum">№ 148</fw></l>
         <l><date when="1798-09-30">30 сентября 1798</date></l>
-        <l><placeName ref="Вильна">вилна</placeName></l>
-        <l>Его высокопревосходительству Г<hi rend="superscript">ну</hi> Генералу Прокурору <persName ref="Лопухин">
-        Лопухину</persName></l>
+        <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName></l>
+        <l>Его высокопревосходительству Г<hi rend="superscript">ну</hi> Генералу Прокурору <persName role="namesViewer"
+        target="/names/Лопухин.html">Лопухину</persName></l>
         <l/>
       </closer>
     </p>

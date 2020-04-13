@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Карнеев">Карнеев</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Карнеев.html">Карнеев</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Карнеев">Карнеева</persName> <persName ref="Обольянинов" role="addressee">Обольянинову
-        </persName> о введении надзора за <orgName ref="Хасиды">хасидами</orgName>
+        Рапорт <persName role="namesViewer" target="/names/Карнеев.html">Карнеева</persName> <persName
+        role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о введении надзора за <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидами</orgName>
       </p></abstract>
       <creation><date when="1800-11-16">ноября 16 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,14 +36,14 @@
     <fw type="note" place="left">къ отпуску</fw>
     <p>
       <l><salute>Милостивый Государь!<lb/>
-         <persName ref="Обольянинов">Петръ хрисанфовичъ</persName>.</salute></l>
+         <persName role="namesViewer" target="/names/Обольянинов.html">Петръ хрисанфовичъ</persName>.</salute></l>
       <l>Предписаніе вашего высокопревосходи-</l>
       <l>тельства отъ <date when="1800-11-01">1<hi rend="superscript">го</hi> сего ноября</date>, коимъ въ въ слѣд-</l>
       <l>ствиіе <emph rend="big">высочайшаго</emph> имяннаго <emph rend="big">Его импе-<lb/>
        раторскаго величества</emph> повелѣнія, по</l>
       <l>ручить изволили имѣть неослабное са</l>
       <l>мымъ тайнымъ образомъ за поведеніемъ</l>
-      <l>и поступками <orgName ref="Хасиды">Каролинской секты евреевъ</orgName></l>
+      <l>и поступками <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской секты евреевъ</orgName></l>
       <l>и въ случаи малѣйше замѣченнаго какого</l>
       <l>либо поводу къ соблазну или неповиновенію</l>
       <l>неукоснительно увѣдомлять ваше высоко</l>
@@ -76,13 +78,13 @@
       <l>Милостивый Государь.</l>
       <l>вашего высокопревосходительства</l>
       <l>всепокорнѣйшій слуга</l>
-      <l><signed><persName ref="Карнеев">Захаръ Карнеевъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Карнеев.html">Захаръ Карнеевъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 152.</fw></l>
       <l><date when="1800-11-16">ноября 16. дня.<lb/>
        1800 года</date></l>
-      <l><placeName ref="Минск">Минскъ</placeName>.</l>
+      <l><placeName role="namesViewer" target="/names/Минск.html">Минскъ</placeName>.</l>
     </closer>
   </body></text>
 </TEI>

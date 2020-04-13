@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="ребицен_Штерна">Штерна Лейбовна</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерна Лейбовна</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,9 +16,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Прошение вдовы <persName ref="alter-rebbe">Шнеура Залмана</persName> <persName ref="ребицен_Штерна">Штерны
-        Лейбовны</persName> к «Сословию попечителей призрения разоренных от неприятеля в 1812 г.» с подписями свидетелей
-        и заключением суда
+        Прошение вдовы <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> <persName
+        role="namesViewer" target="/names/ребицен_Штерна.html">Штерны Лейбовны</persName> к «Сословию попечителей
+        призрения разоренных от неприятеля в 1812 г.» с подписями свидетелей и заключением суда
       </p></abstract>
       <creation><date when="1814-06-??">Июня 1814 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -28,18 +29,20 @@
     <pb xml:id="p246-1" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/246.html#p246-1"/>
     <fw type="pageNum" place="right">246</fw>
     <head>
-      <l><emph rend="big">Въ <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословіе презренія разорен<lb/>
+      <l><emph rend="big">Въ <orgName role="namesViewer"
+      target="/names/Сословие_призрения_разоренных_от_неприятеля.html">Сословіе презренія разорен<lb/>
        ныхъ отъ непріятеля</orgName></emph></l>
-      <l>Покойнаго оберъ раввина <persName ref="alter-rebbe">Залма<lb/>
+      <l>Покойнаго оберъ раввина <persName role="namesViewer" target="/names/alter-rebbe.html">Залма<lb/>
        на Боруховича Шнеерова</persName> еврейки</l>
-      <l>жены <persName ref="ребицен_Штерна">Штерны Лейбовой</persName> дочери</l>
+      <l>жены <persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерны Лейбовой</persName> дочери</l>
       <l>по мужу Шнееровой</l>
       <l><emph rend="big">Прошеніе</emph></l>
     </head>
     <p>
-      <l><persName ref="alter-rebbe">Покойный мужъ мой</persName> имѣя <placeName ref="Могилевская_губерния">
-      Могилевской<lb/>
-       губерніи</placeName> Бабиновецкаго уѣзда въ мѣстечкѣ <placeName ref="Ляды">Ля<lb/>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Покойный мужъ мой</persName> имѣя <placeName
+      role="namesViewer" target="/names/Могилевская_губерния.html">Могилевской<lb/>
+       губерніи</placeName> Бабиновецкаго уѣзда въ мѣстечкѣ <placeName role="namesViewer" target="/names/Ляды.html"
+      >Ля<lb/>
        дахъ</placeName> пять собственныхъ деревянныхъ домовъ</l>
       <l>со всею движимостію по нашествіи непрія</l>
       <l>теля въ прошломъ 1812<hi rend="superscript">м</hi> году въ предѣлы</l>
@@ -47,20 +50,21 @@
       <fw type="note" place="right margin">свѣрить</fw><note place="end">вписано между строк справа другим почерком
       </note>
       <l>подданству россійской державы желая покой</l>
-      <l>ный <persName ref="alter-rebbe">мужъ мой</persName> быть изторгнуту отъ не</l>
+      <l>ный <persName role="namesViewer" target="/names/alter-rebbe.html">мужъ мой</persName> быть изторгнуту отъ
+      не</l>
       <l>пріятельскихъ рукъ забравъ все свое семей</l>
       <l>ство съ нужнымъ имуществомъ на двад</l>
       <l>цати пароконныхъ подводахъ а прочее</l>
       <l>которое было невозможно взять съ собою</l>
       <l>оставилъ на мѣстѣ, выѣхалъ вовнутрь</l>
       <l>россіи предъ россійскою арміею, во время же</l>
-      <l>бытія его въ мѣстечке <placeName ref="Ляды">Лядахъ</placeName> и по при</l>
+      <l>бытія его въ мѣстечке <placeName role="namesViewer" target="/names/Ляды.html">Лядахъ</placeName> и по при</l>
       <l>ближенію непріятеля старался открывать</l>
       <l>мѣста нахожденія непріятельскихъ войскъ</l>
       <l>россійскому воинству изъ единственнаго</l>
       <l>усердія къ подданнической власти въ чемъ</l>
       <l>имѣлъ свидѣтельства отъ господина генерала</l>
-      <l>маіора <persName ref="Неверовский">Неверовскаго</persName></l>
+      <l>маіора <persName role="namesViewer" target="/names/Неверовский.html">Неверовскаго</persName></l>
       <pb xml:id="p246-2" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/246.html#p246-2"/>
       <l>27<hi rend="superscript">й</hi> дивизіи Егерской пехоты которое</l>
       <l>имъ утеряно, а самъ со семействомъ своимъ</l>
@@ -84,34 +88,37 @@
       <l>умрѣ а я нынѣ остаюся вдовоюсъ семей</l>
       <l>ствомъ своимъ по прибытіе на прежнее</l>
       <l>жилище чрезъ годъ нѣ найдя въ мѣстеч</l>
-      <l>кѣ <placeName ref="Ляды">Лядахъ</placeName> ни одного своего дома кото</l>
+      <l>кѣ <placeName role="namesViewer" target="/names/Ляды.html">Лядахъ</placeName> ни одного своего дома кото</l>
       <l>рыя созжены непріятелемъ принужден</l>
       <l>нымъ нашлись проживать въ мѣстечкѣ</l>
-      <l><placeName ref="Любавичи">Любавичахъ</placeName> въ чужихъ домахъ при всей</l>
+      <l><placeName role="namesViewer" target="/names/Любавичи.html">Любавичахъ</placeName> въ чужихъ домахъ при
+      всей</l>
       <l>бѣдности, и во удостовѣреніе сего предста</l>
       <l>вляю при семъ съ выданныхъ покойному</l>
-      <l><persName ref="alter-rebbe">мужу моему</persName> открытаго листа для про</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">мужу моему</persName> открытаго листа для про</l>
       <l>ѣзда внутрь россіи отъ господина гене</l>
       <l>ралъ маіора 36<hi rend="superscript">го</hi> Егерскаго полка шефа</l>
       <l>командированнаго отъ военнаго мини</l>
       <l>стра для устройства порядковъ и ка</l>
-      <l>валера <persName ref="Левицкий">левицкаго</persName> и со свидѣтельства</l>
+      <l>валера <persName role="namesViewer" target="/names/Левицкий.html">левицкаго</persName> и со свидѣтельства</l>
       <pb xml:id="p247-1" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/246.html#p247-1"/>
       <fw type="pageNum" place="right">247</fw>
       <l>Смоленскаго господина Гражданскаго губернато</l>
       <l>ра Аша<note place="end">К.И. Аш - губернатор в 1807-1822 гг.</note>, каковое мое съ семействомъ пока</l>
       <l>заніе и присягою утвердить могу; о чемъ по</l>
-      <l>дано отъ меня <placeName ref="Могилевская_губерния">могилевскому</placeName> господину</l>
+      <l>дано отъ меня <placeName role="namesViewer" target="/names/Могилевская_губерния.html">могилевскому</placeName>
+      господину</l>
       <l>Гражданскому губернатору прошлаго <date when="1813-05-??">1813<hi rend="superscript">го</hi><lb/>
        года въ мае</date> мцѣ<note place="end">месяце</note> почему возпріяла смѣ</l>
       <l>лость утруждать оное благотворитель</l>
-      <l>ное <orgName ref="Сословие_призрения_разоренных_от_неприятеля">сословіе</orgName> о неоставленіи меня съ се</l>
+      <l>ное <orgName role="namesViewer" target="/names/Сословие_призрения_разоренных_от_неприятеля.html"
+      >сословіе</orgName> о неоставленіи меня съ се</l>
       <l>мействомъ милостивѣйшимъ возрѣніемъ</l>
     </p>
     <p>
-      <l><note place="end">далее четыре строки другим почерком</note> <persName ref="ребицен_Штерна">штерна лебовна
-      </persName> по <choice><sic>музу</sic><corr>мужу</corr></choice> шнеерова а <choice><sic>вместе</sic><corr>вместо
-      </corr></choice></l>
+      <l><note place="end">далее четыре строки другим почерком</note> <persName role="namesViewer"
+      target="/names/ребицен_Штерна.html">штерна лебовна</persName> по <choice><sic>музу</sic><corr>мужу</corr></choice>
+      шнеерова а <choice><sic>вместе</sic><corr>вместо</corr></choice></l>
       <l>ея яко не имениемъ грамоты по прошенію ея подпи</l>
       <l>салса ратманъ нохимъ иткинъ</l>
       <l>что показанные убытки дѣйствитель</l>
@@ -126,8 +133,10 @@
     <p>
       <l><date when="1814-07-04">1814<hi rend="superscript">о</hi> года іюля 4<hi rend="superscript">о</hi> дня</date> о
       дѣиствительности разграбле</l>
-      <l>нія непріятелемъ разнаго имѣнія оберъ раввина <placeName ref="Лиозно">Лез<lb/>
-       няньскаго</placeName> <persName ref="alter-rebbe">Залмана Боруховича Шнеюра</persName> покоинаго: по изы</l>
+      <l>нія непріятелемъ разнаго имѣнія оберъ раввина <placeName role="namesViewer" target="/names/Лиозно.html">Лез<lb
+      />
+       няньскаго</placeName> <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана Боруховича
+      Шнеюра</persName> покоинаго: по изы</l>
       <l>сканію Нижняго земскаго суда оказалось убытка дѣй</l>
       <l>ствительно на шестьдесятъ тысячъ рублей въ томъ съ</l>
       <l>приложеніемъ казенной печати свидѣтельствуетъ</l>

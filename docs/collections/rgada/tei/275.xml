@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Северин">Северин</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Северин.html">Северин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +17,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Донесение <persName ref="Северин">Северина</persName> об отправке <persName ref="alter-rebbe">Шнеура Залмана
-        </persName> в <placeName ref="Петербург">Петербург</placeName> с <orgName ref="Сенат">сенатскими</orgName>
-        курьерами
+        Донесение <persName role="namesViewer" target="/names/Северин.html">Северина</persName> об отправке <persName
+        role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> в <placeName role="namesViewer"
+        target="/names/Петербург.html">Петербург</placeName> с <orgName role="namesViewer" target="/names/Сенат.html"
+        >сенатскими</orgName> курьерами
       </p></abstract>
       <creation><date when="1800-11-09">1800 года Ноября 9 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -42,15 +44,18 @@
     <p>
       <l>Испоняя повелѢнiе вашего высокопревосходитель-</l>
       <l>ства, отправилъ я сего числа прi особомъ моемъ</l>
-      <l>отношенiи требуемаго начальника <orgName ref="Хасиды">каролинской Секты</orgName></l>
-      <l>или <orgName ref="Хасиды">хосодовъ</orgName> еврея <persName ref="alter-rebbe">Залмана Боруховича</persName>,
-      съ нарочно</l>
-      <l>присланными за нимъ двумя <orgName ref="Сенат">Сенатскими</orgName> курьерами</l>
-      <l><persName ref="Петров">Петровымъ</persName> и <persName ref="Сукин">Сукинымъ</persName>; но что нѢсколько за-
-      </l>
+      <l>отношенiи требуемаго начальника <orgName role="namesViewer" target="/names/Хасиды.html">каролинской
+      Секты</orgName></l>
+      <l>или <orgName role="namesViewer" target="/names/Хасиды.html">хосодовъ</orgName> еврея <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Залмана Боруховича</persName>, съ нарочно</l>
+      <l>присланными за нимъ двумя <orgName role="namesViewer" target="/names/Сенат.html">Сенатскими</orgName>
+      курьерами</l>
+      <l><persName role="namesViewer" target="/names/Петров.html">Петровымъ</persName> и <persName role="namesViewer"
+      target="/names/Сукин.html">Сукинымъ</persName>; но что нѢсколько за-</l>
       <l>медлилъ я отправлениiемъ его къ вашему высоко-</l>
       <l>превосходительству, о причинѢ оного почтеннѢйше</l>
-      <l>доношу, что онъ <persName ref="alter-rebbe">Боруховичь</persName> находился въ отлучкѢ</l>
+      <l>доношу, что онъ <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичь</persName> находился
+      въ отлучкѢ</l>
       <l>изъ жилища своего, а потому и время на оты-</l>
       <l>сканiе его подъ рукою и безъ огласки употреблено</l>
       <l>излишнѢ, о чемъ донеся, съ истиннымъ высокопо-</l>
@@ -59,12 +64,12 @@
       <l>Милостивый Государь</l>
       <l>Вашего высокопревосходительства</l>
       <l>Всепокорнейшимъ слугою</l>
-      <l><signed>Петръ <persName ref="Северин">Северинъ</persName></signed></l>
+      <l><signed>Петръ <persName role="namesViewer" target="/names/Северин.html">Северинъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><date when="1800-11-09">Ноября 9. дня<lb/>
        1800 года</date></l>
-      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Витебск.html">Витебскъ</placeName></l>
     </closer>
     <pb xml:id="p275-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/275.html#p275-2"/>
   </body></text>

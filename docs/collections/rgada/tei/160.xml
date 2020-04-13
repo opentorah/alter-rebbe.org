@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Титульный лист раздела: Расписки о деньгах, пересланных <orgName ref="Хасиды">хасидами</orgName> в <placeName
-        ref="Иерусалим">Иерусалим</placeName>
+        Титульный лист раздела: Расписки о деньгах, пересланных <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидами</orgName> в <placeName role="namesViewer" target="/names/Иерусалим.html">Иерусалим</placeName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -30,7 +31,7 @@
     <fw type="docNum">№28</fw>
     <p>
       <l>Росписки въ денгахъ</l>
-      <l>пересланныхъ въ <placeName ref="Иерусалим">Јерусалимъ</placeName>.</l>
+      <l>пересланныхъ въ <placeName role="namesViewer" target="/names/Иерусалим.html">Јерусалимъ</placeName>.</l>
     </p>
     <pb xml:id="p160-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/160.html#p160-2"/>
   </body></text>

@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Меер_Рафалович">Меер Рафалович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Меер_Рафалович.html">Меер Рафалович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,7 +16,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Перевод протокола допроса <persName ref="Меер_Рафалович">Меера Рафаловича</persName></p></abstract>
+      <abstract><p>
+        Перевод протокола допроса <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера
+        Рафаловича</persName>
+      </p></abstract>
       <creation><date when="1798-10-01">1798 года октября 1 дня<note place="end">дата указана в 092</note></date>
       </creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -29,70 +33,81 @@
     <fw type="pageNum" place="right">90</fw>
     <head>
       <l>Допросъ</l>
-      <l>Жида <persName ref="Меер_Рафалович">Меера Рафаловича</persName>, рабина и начальника <orgName ref="Хасиды">
-      Каро-<lb/>
-       линской секты</orgName> въ <placeName ref="Вильна">Вилнѣ</placeName>.</l>
+      <l>Жида <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера Рафаловича</persName>, рабина и
+      начальника <orgName role="namesViewer" target="/names/Хасиды.html">Каро-<lb/>
+       линской секты</orgName> въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>.</l>
     </head>
     <p>
-      <l>Зовутъ меня <persName ref="Меер_Рафалович">Меером Рафаловичемъ</persName>;</l>
+      <l>Зовутъ меня <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меером
+      Рафаловичемъ</persName>;</l>
       <l>от рожденія моего считаю летъ 50;</l>
       <l>торгую разными напитками; родил</l>
-      <l>ся въ городѣ <placeName ref="Вильна">Вилнѣ</placeName>; дѣтей имѣю, сы</l>
+      <l>ся въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>; дѣтей имѣю, сы</l>
       <l>новей двухъ Шлома и Янкеля. Де</l>
       <l>сять лѣтъ тому, какъ я видя умер</l>
       <l>шихъ уже двухъ моихъ сыновей, при</l>
-      <l>ставшихъ къ <orgName ref="Хасиды">каролинской сектѣ</orgName>,</l>
+      <l>ставшихъ къ <orgName role="namesViewer" target="/names/Хасиды.html">каролинской сектѣ</orgName>,</l>
       <l>получилъ желаніе въ оную вступить</l>
-      <l>здѣсь въ <placeName ref="Вильна">Вилнѣ</placeName>, и вступя, ѣздилъ</l>
-      <l>я въ мѣстечко <placeName ref="Лиозно">Лозну</placeName>, гдѣ тамошній</l>
+      <l>здѣсь въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>, и вступя, ѣздилъ</l>
+      <l>я въ мѣстечко <placeName role="namesViewer" target="/names/Лиозно.html">Лозну</placeName>, гдѣ тамошній</l>
       <l>рабинъ далъ мнѣ обыкновенныя наста</l>
-      <l>вленіи. <orgName ref="Хасиды">Каролинская секта</orgName> ни въ чемъ</l>
+      <l>вленіи. <orgName role="namesViewer" target="/names/Хасиды.html">Каролинская секта</orgName> ни въ чемъ</l>
       <l>не различается отъ старинной ев-</l>
-      <l>рейской, кромѣ того, что <orgName ref="Хасиды">каролины</orgName></l>
+      <l>рейской, кромѣ того, что <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName></l>
       <l>отправляютъ молитвы не тихо,</l>
       <l>но гласно и съ другими обрядами.</l>
-      <l>Начальникомъ у <orgName ref="Хасиды">каролиновъ</orgName> есть</l>
-      <l><placeName ref="Лиозно">Лозенской</placeName> рабинъ <persName ref="alter-rebbe">Зельманъ Борухо-<lb/>
+      <l>Начальникомъ у <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> есть</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">Лозенской</placeName> рабинъ <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Зельманъ Борухо-<lb/>
        вичъ</persName>, и принадлежатъ къ сей сектѣ</l>
-      <l><persName ref="Мовша_Ицкович">Мовша Ицковичъ</persName>, <persName ref="Рафаил_Шлиомович">Рафаель Шмой-<lb/>
-       ловичъ</persName>, <persName ref="Хлиовна_Зорухович">Хловна Боруховичъ</persName>. Писалъ</l>
-      <l>ли я къ <placeName ref="Лиозно">Лозенскому</placeName> <persName ref="alter-rebbe">рабину</persName>, или</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ицкович.html">Мовша Ицковичъ</persName>, <persName
+      role="namesViewer" target="/names/Рафаил_Шлиомович.html">Рафаель Шмой-<lb/>
+       ловичъ</persName>, <persName role="namesViewer" target="/names/Хлиовна_Зорухович.html">Хловна
+      Боруховичъ</persName>. Писалъ</l>
+      <l>ли я къ <placeName role="namesViewer" target="/names/Лиозно.html">Лозенскому</placeName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабину</persName>, или</l>
       <l>нѣтъ, не помню; отъ него же имѣю</l>
       <l>два писма, коимъ года три назадъ.</l>
       <l>Въ минувшихъ мѣсяцахъ въ маіѣ</l>
-      <l>или апрѣлѣ писалъ онъ <persName ref="alter-rebbe">рабинъ</persName> въ</l>
-      <l><orgName ref="Хасиды">Королинское</orgName> <placeName ref="Вильна">виленское</placeName> собраніе</l>
+      <l>или апрѣлѣ писалъ онъ <persName role="namesViewer" target="/names/alter-rebbe.html">рабинъ</persName> въ</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">Королинское</orgName> <placeName role="namesViewer"
+      target="/names/Вильна.html">виленское</placeName> собраніе</l>
       <pb xml:id="p090-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/090.html#p090-2"/>
       <fw type="pageNum">90 об</fw>
       <l>писмо, и оно доставлено сюда въ</l>
-      <l><placeName ref="Вильна">вилну</placeName> чрезъ нарочнаго <persName ref="Лейба_Зеликович">Лейба Зели<lb/>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилну</placeName> чрезъ нарочнаго <persName
+      role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба Зели<lb/>
        ковича</persName>, которой отъ него привезъ</l>
       <l>съ собой <measure type="curency">800 рубл.</measure> ассигнаціями. Я же</l>
-      <l>здѣлавшись <orgName ref="Хасиды">каролиномъ</orgName>, денегъ ни</l>
+      <l>здѣлавшись <orgName role="namesViewer" target="/names/Хасиды.html">каролиномъ</orgName>, денегъ ни</l>
       <l>куда не посылалъ, кромѣ того, что</l>
-      <l>прибывшему из <placeName ref="Витебск">Витепска</placeName> <persName ref="Арон">Арону</persName></l>
+      <l>прибывшему из <placeName role="namesViewer" target="/names/Витебск.html">Витепска</placeName> <persName
+      role="namesViewer" target="/names/Арон.html">Арону</persName></l>
       <l>далъ на убогихъ находящихся въ</l>
-      <l><placeName ref="Иерусалим">Јерусалимѣ</placeName>. Переписки за границею</l>
+      <l><placeName role="namesViewer" target="/names/Иерусалим.html">Јерусалимѣ</placeName>. Переписки за границею</l>
       <l>не имѣю, денегъ никуда не посылалъ</l>
-      <l>и не посылаю. Объ <persName ref="Арон">Аронѣ</persName> и <persName ref="Соломон">Соломо-<lb/>
+      <l>и не посылаю. Объ <persName role="namesViewer" target="/names/Арон.html">Аронѣ</persName> и <persName
+      role="namesViewer" target="/names/Соломон.html">Соломо-<lb/>
        нѣ</persName> я слышалъ, что они набожны,</l>
-      <l>и что <persName ref="Соломон">Соломонъ</persName> жилъ въ мѣстечкѣ</l>
-      <l><placeName ref="Каролины">Каролинахъ</placeName>; также слышалъ я, но</l>
-      <l>не помню отъ кого, что <persName ref="Соломон">Саломонъ</persName></l>
-      <l>убитъ подъ мѣстечкомъ <placeName ref="Владимир">Влади<lb/>
-       миромъ</placeName>. <placeName ref="Индура">Индурскаго</placeName> рабина <persName ref="Шмуил_Хаимович">Шмуй-<lb
-      />
-       ла Хайку</persName>, также и <placeName ref="Ляховичи">Ляховицкаго</placeName> <persName ref="Мордух">Мор-<lb/>
+      <l>и что <persName role="namesViewer" target="/names/Соломон.html">Соломонъ</persName> жилъ въ мѣстечкѣ</l>
+      <l><placeName role="namesViewer" target="/names/Каролины.html">Каролинахъ</placeName>; также слышалъ я, но</l>
+      <l>не помню отъ кого, что <persName role="namesViewer" target="/names/Соломон.html">Саломонъ</persName></l>
+      <l>убитъ подъ мѣстечкомъ <placeName role="namesViewer" target="/names/Владимир.html">Влади<lb/>
+       миромъ</placeName>. <placeName role="namesViewer" target="/names/Индура.html">Индурскаго</placeName> рабина
+      <persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуй-<lb/>
+       ла Хайку</persName>, также и <placeName role="namesViewer" target="/names/Ляховичи.html">Ляховицкаго</placeName>
+      <persName role="namesViewer" target="/names/Мордух.html">Мор-<lb/>
        духа</persName> знаю, и слышалъ, что отъ</l>
-      <l><persName ref="Мордух">Мордуха</persName> зависятъ болѣе ста жидовъ.</l>
-      <l>Будучи въ <placeName ref="Гродно">Гродно</placeName>, назадъ тому</l>
-      <l>четыре года, былъ я у <placeName ref="Индура">индурскаго</placeName></l>
-      <l><persName ref="Шмуил_Хаимович">рабина</persName>, которой и нынѣ тамъ жи</l>
-      <l>тельствуетъ. Еврея <persName ref="Гирш_Давидович">Гиршу Давы<lb/>
-       довича</persName> не знаю. Богомоленіе <orgName ref="Хасиды">кароли<lb/>
-       новъ</orgName> въ городѣ <placeName ref="Вильна">Вилнѣ</placeName>, какъ я по-</l>
+      <l><persName role="namesViewer" target="/names/Мордух.html">Мордуха</persName> зависятъ болѣе ста жидовъ.</l>
+      <l>Будучи въ <placeName role="namesViewer" target="/names/Гродно.html">Гродно</placeName>, назадъ тому</l>
+      <l>четыре года, былъ я у <placeName role="namesViewer" target="/names/Индура.html">индурскаго</placeName></l>
+      <l><persName role="namesViewer" target="/names/Шмуил_Хаимович.html">рабина</persName>, которой и нынѣ тамъ жи</l>
+      <l>тельствуетъ. Еврея <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршу Давы<lb/>
+       довича</persName> не знаю. Богомоленіе <orgName role="namesViewer" target="/names/Хасиды.html">кароли<lb/>
+       новъ</orgName> въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>, какъ я
+      по-</l>
       <l>мню, прежде отправляемо было въ</l>
-      <l>домѣ <persName ref="Лезер_Хаймович">Лезера Хаймовича</persName>, а по-</l>
+      <l>домѣ <persName role="namesViewer" target="/names/Лезер_Хаймович.html">Лезера Хаймовича</persName>, а по-</l>
       <l>томъ, года съ четыре назадъ, пе</l>
       <l>реведено было въ мой домъ. А от</l>
       <l>куда секта взяла свое начало</l>
@@ -101,18 +116,20 @@
       <fw type="pageNum" place="right"><del rend="overstrike">92</del></fw>
       <l>не знаю. На отправленіе богомоле</l>
       <l>нія въ домѣ моемъ далъ мнѣ позво-</l>
-      <l>леніе отъ имени <orgName ref="Виленский_кагал">виленскаго Кагала</orgName></l>
-      <l><persName ref="Мовша_Ошерович">Моисей Ошеровичъ</persName>, чему болѣе</l>
+      <l>леніе отъ имени <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго Кагала</orgName>
+      </l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моисей Ошеровичъ</persName>, чему болѣе</l>
       <l>уже двухъ лѣтъ.</l>
     </p>
     <p>
-      <l>Писма писанного къ <persName ref="Нохим_Ицкович">Нохиму</persName></l>
+      <l>Писма писанного къ <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохиму</persName></l>
       <l><note type="gloss">|: о коемъ выше :|</note> я не читалъ, а</l>
-      <l>ко мнѣ писалъ <persName ref="alter-rebbe">рабинъ</persName> съ лишкомъ</l>
+      <l>ко мнѣ писалъ <persName role="namesViewer" target="/names/alter-rebbe.html">рабинъ</persName> съ лишкомъ</l>
       <l>годъ назадъ писмы, коими совѣ-</l>
       <l>товалъ, чтобы я во всемъ пустил</l>
       <l>ся на волю Божію.</l>
-      <l><signed>подписалъ <persName ref="Меер_Рафалович">Меіеръ Рафаловичъ</persName></signed>.</l>
+      <l><signed>подписалъ <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меіеръ
+      Рафаловичъ</persName></signed>.</l>
     </p>
     <pb xml:id="p091-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/090.html#p091-2"/>
   </body></text>

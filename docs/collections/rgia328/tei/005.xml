@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Волков">Волков</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Волков.html">Волков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,9 +16,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <placeName ref="Литва">литовской</placeName> казенной палаты в связи с получением <orgName ref="Сенат">
-        сенатского</orgName> указа о взимании денег со старшин <orgName ref="Виленский_кагал">виленского
-        кагала</orgName>, виновных в недоимке
+        Рапорт <placeName role="namesViewer" target="/names/Литва.html">литовской</placeName> казенной палаты в связи с
+        получением <orgName role="namesViewer" target="/names/Сенат.html">сенатского</orgName> указа о взимании денег со
+        старшин <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>, виновных в
+        недоимке
       </p></abstract>
       <creation><date when="1800-09-10">Сентября 10 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -29,28 +31,29 @@
     target="/collections/rgia328/facs/005.html#p005-1"/>
     <fw type="pageNum" place="right">89</fw>
     <date when="1800-09-21">21 сентября 1800</date><note place="end">дата вписана позднее другими чернилами</note>
-    <salute><orgName ref="Сенат">Правительствующему Сенату</orgName></salute>
-    <head><l><placeName ref="Литва">Литовской</placeName> Казенной Палаты<lb/>
+    <salute><orgName role="namesViewer" target="/names/Сенат.html">Правительствующему Сенату</orgName></salute>
+    <head><l><placeName role="namesViewer" target="/names/Литва.html">Литовской</placeName> Казенной Палаты<lb/>
        Рапортъ о полученіи указа</l></head>
     <p>
       <l><emph rend="big">Его императорскаго величества</emph> указъ</l>
-      <l>изъ <orgName ref="Сенат">Правительствующаго Сената</orgName> отъ <date when="1800-08-27">27<hi
-      rend="superscript">го</hi> августа</date></l>
-      <l>подъ № 4382<hi rend="superscript">м</hi> съ предписаніемъ <orgName ref="Литовское_губернское_правление">
-      Литовскому<lb/>
+      <l>изъ <orgName role="namesViewer" target="/names/Сенат.html">Правительствующаго Сената</orgName> отъ <date
+      when="1800-08-27">27<hi rend="superscript">го</hi> августа</date></l>
+      <l>подъ № 4382<hi rend="superscript">м</hi> съ предписаніемъ <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">Литовскому<lb/>
        Губернскому правленію</orgName>, чтобъ оно безъ малѣй-</l>
       <l>шаго промедленія о взысканіи казенной не-</l>
-      <l>доимки съ виновныхъ старшинъ <orgName ref="Виленский_кагал">виленскаго<lb/>
+      <l>доимки съ виновныхъ старшинъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго<lb/>
        кагала</orgName> на основаніи законовъ употребило</l>
       <l>дѣятельнѣйшія и строжашія мѣры. Сего</l>
       <l><date when="1800-09-06">сентября 6<hi rend="superscript">го</hi> числа</date> полученъ, о чемъ</l>
       <l>
-        <orgName ref="Сенат">Правительствующему Сенату</orgName>
-        <placeName ref="Литва">Литовская</placeName>
+        <orgName role="namesViewer" target="/names/Сенат.html">Правительствующему Сенату</orgName>
+        <placeName role="namesViewer" target="/names/Литва.html">Литовская</placeName>
       </l>
       <l>Казенная палата имѣетъ честь симъ донести.</l>
     </p>
-    <l><signed>вице Губернаторъ <persName ref="Волков">Николай волковъ</persName></signed></l>
+    <l><signed>вице Губернаторъ <persName role="namesViewer" target="/names/Волков.html">Николай волковъ</persName>
+    </signed></l>
     <l><fw type="note">Секретарь Тачыкинъ</fw></l>
     <closer place="left">
       <l><fw type="docNum">№<emph rend="underline">2280.</emph></fw></l>

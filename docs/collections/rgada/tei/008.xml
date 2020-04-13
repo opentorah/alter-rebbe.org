@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +18,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о
-        недостоверности содержания доносов и отсутствии в <placeName ref="Вильна">Вильне</placeName> их мнимого
-        отправителя <persName ref="Гирш_Давидович">Гирша Давыдовича</persName>
+        Сообщение <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> <persName
+        role="namesViewer" target="/names/Лопухин.html">Лопухину</persName> о недостоверности содержания доносов и
+        отсутствии в <placeName role="namesViewer" target="/names/Вильна.html">Вильне</placeName> их мнимого отправителя
+        <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гирша Давыдовича</persName>
       </p></abstract>
       <creation><date when="1798-09-02">2 Сентября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,7 +36,11 @@
     <fw><date when="1798-09-15">15. сентября 1798.</date></fw>
     <fw type="note" place="right">Секретно</fw>
     <fw type="pageNum" place="right">8.</fw>
-    <p><l><salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute></l></p>
+    <p>
+      <l><salute>
+        Милостивой Государь <persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!
+      </salute></l>
+    </p>
     <p>
       <l>Изъ числа присланныхъ ко мнѣ отъ вашего Превос-</l>
       <l>ходительства трехъ секретныхъ писемъ с доносами,</l>
@@ -44,10 +51,12 @@
       <l>покорнейше при семъ препровождаю подробное объ</l>
       <l>ясненіе, изъ котораго ваше Превосходительство</l>
       <l>изволите усмотреть, что весь доносъ учиненной</l>
-      <l>жидомъ <persName ref="Гирш_Давидович">Гиршемъ Давыдовичемъ</persName>, никакого осно-</l>
+      <l>жидомъ <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршемъ Давыдовичемъ</persName>,
+      никакого осно-</l>
       <l>вания не имѣетъ. А уже въ помянутомъ моемъ</l>
       <l>предъидущемъ под <fw type="docNum">№ 130</fw> доносилъ, что жида сего</l>
-      <l>имяни здѣсь нетъ, письмо о <persName ref="alter-rebbe">рабинѣ Боруховиче</persName></l>
+      <l>имяни здѣсь нетъ, письмо о <persName role="namesViewer" target="/names/alter-rebbe.html">рабинѣ
+      Боруховиче</persName></l>
       <l>подложное, и подписано не жидовскою рукою; тоже</l>
       <l>самое имѣю я сказать и о семъ письмѣ. Оставя</l>
       <l>подлинное здѣсь, для познанія почерка и открытіе</l>
@@ -65,13 +74,14 @@
       <l>Милостивой Государь</l>
       <l>Вашего Превосходительства</l>
       <l>всепокорнейшій слуга</l>
-      <l><persName ref="Булгаков">Яковъ Булгаковъ</persName></l>
+      <l><persName role="namesViewer" target="/names/Булгаков.html">Яковъ Булгаковъ</persName></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 132</fw></l>
       <l><date when="1798-09-02">2 Сентября 1798</date></l>
-      <l><placeName ref="Вильна">Вилна</placeName></l>
-      <l>Его Превосходительству Гну Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">Вилна</placeName></l>
+      <l>Его Превосходительству Гну Генералу Прокурору <persName role="namesViewer" target="/names/Лопухин.html"
+      >Лопухину</persName></l>
     </closer>
   </body></text>
 </TEI>

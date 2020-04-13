@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Брискорн">Брискорн</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-        <editor role="encoder"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Брискорн.html">Брискорн</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+        <editor role="encoder"><persName role="namesViewer" target="/names/ALD.html">Арье-Лейб Дубинский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,36 +18,43 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>№ 1. Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
+        <p>
+          № 1. Препроводительное письмо к прошению раввина <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора Хаимовича</persName>
+        </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia2213/documents/001">001</ref> в РГИА 2213</p>
       </abstract>
       <creation><date when="1800-04-23">1800-04-23</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p090" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/090.1.html#p090"/> № 1.
-      Препроводительное письмо къ прошенію раввина <persName ref="Авигдор">Авигдора Хаимовича</persName>.<note
-      type="gloss" place="end">Документы отъ № <ref role="documentViewer"
+      Препроводительное письмо къ прошенію раввина <persName role="namesViewer" target="/names/Авигдор.html">Авигдора
+      Хаимовича</persName>.<note type="gloss" place="end">Документы отъ № <ref role="documentViewer"
       target="/collections/dubnov/documents/090.1.html">1</ref> до № <ref role="documentViewer"
-      target="/collections/dubnov/documents/263.1.html">13</ref> включительно находятся въ <orgName ref="Сенат"
-      >Сенатскомъ</orgName> Архивѣ, дѣло М-ва Юстиціи 1800 гг. № 85.</note>
+      target="/collections/dubnov/documents/263.1.html">13</ref> включительно находятся въ <orgName role="namesViewer"
+      target="/names/Сенат.html">Сенатскомъ</orgName> Архивѣ, дѣло М-ва Юстиціи 1800 гг. № 85.</note>
     </head>
-    <salute>Милостивый Государь, <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute>
+    <salute>
+      Милостивый Государь, <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичъ</persName>!
+    </salute>
     <p>
       По Высочайшему Е. И. В. повелѣнію имѣю честь препроводить къ Вашему Высокопревосходительству прошеніе бывшаго въ
-      <placeName ref="Пинск">Пинскѣ</placeName> оберъ-рабина <persName ref="Авигдор">Хаима</persName>, описывающаго
-      притѣсненія и гоненія, претерпѣваемыя имъ отъ какой то новой секты, о которой въ приложенной запискѣ подробныя
-      дѣлаетъ замѣчанія. Пребывая и проч....
+      <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName> оберъ-рабина <persName
+      role="namesViewer" target="/names/Авигдор.html">Хаима</persName>, описывающаго притѣсненія и гоненія,
+      претерпѣваемыя имъ отъ какой то новой секты, о которой въ приложенной запискѣ подробныя дѣлаетъ замѣчанія.
+      Пребывая и проч....
     </p>
     <closer>
-      <signed><persName ref="Брискорн">Ѳедоръ Брискорнъ</persName>.</signed>
+      <signed><persName role="namesViewer" target="/names/Брискорн.html">Ѳедоръ Брискорнъ</persName>.</signed>
       <dateline>
-        В <placeName ref="Петербург">С.-П-Бургѣ</placeName>, <date when="1800-04-23">апрѣля 23-го 1800-го</date>.
+        В <placeName role="namesViewer" target="/names/Петербург.html">С.-П-Бургѣ</placeName>, <date when="1800-04-23"
+        >апрѣля 23-го 1800-го</date>.
       </dateline>
     </closer>
   </body></text>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,8 @@
     <profileDesc>
       <abstract>
         <p>
-          № 5. Сообщение о препровождении жалобы <persName ref="Авигдор">Авигдора</persName> к <persName ref="Брискорн">
-          Брискорну</persName>
+          № 5. Сообщение о препровождении жалобы <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName> к <persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/025.html">025</ref> в РГИА 2213
@@ -25,34 +26,35 @@
       </abstract>
       <creation><date when="1800-06-07">1800-06-07</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Брискорн" role="addressee">Брискорну</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p254" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/254.1.html#p254"/> № 5.
-      Сообщеніе о препровожденіи жалобы <persName ref="Авигдор">Авигдора</persName> къ <placeName ref="Литва"
-      >Литовскому</placeName> губернатору.
+      Сообщеніе о препровожденіи жалобы <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> къ
+      <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName> губернатору.
     </head>
     <salute>Милостивый государь мой Өедоръ Максимовичъ!</salute>
     <p>
       На отношеніе вашего превосходительства, при коемъ по высочайшему Е. И. В. повелѣнію препроводили ко мнѣ жалобу
-      бывшаго въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ-раббина <persName ref="Авигдор">Хаима</persName> на
-      притѣсненія, чинимыя ему послѣдователями Шабзусъ - Цвинкусъ, честь имѣю увѣдомить васъ милостивый государь мой,
-      что я, разсматривая оную, не могъ найти, въ чемъ именно состоитъ секта, просителя <persName ref="Авигдор">Хаима
-      </persName> притѣсняющая, и претензія его на оную, также — можетъ ли быть оная удовлетворена и на какомъ
-      основаніи, и потому препроводиль оную къ господину <placeName ref="Литва">Литовскому</placeName> военному
-      губернатору, генералу отъ инфантеріи <persName ref="Кутузов">Голенищеву-Кутузову</persName>, дабы онъ приказалъ
-      всѣ оныя обстоятельства на мѣстѣ привести въ ясность и для донесенія о всемъ Е. И. В. увѣдомить. Съ истиннымъ
-      почтеніемъ есмь . . . . . . . . .
+      бывшаго въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName> оберъ-раббина <persName
+      role="namesViewer" target="/names/Авигдор.html">Хаима</persName> на притѣсненія, чинимыя ему послѣдователями
+      Шабзусъ - Цвинкусъ, честь имѣю увѣдомить васъ милостивый государь мой, что я, разсматривая оную, не могъ найти, въ
+      чемъ именно состоитъ секта, просителя <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName>
+      притѣсняющая, и претензія его на оную, также — можетъ ли быть оная удовлетворена и на какомъ основаніи, и потому
+      препроводиль оную къ господину <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName>
+      военному губернатору, генералу отъ инфантеріи <persName role="namesViewer" target="/names/Кутузов.html"
+      >Голенищеву-Кутузову</persName>, дабы онъ приказалъ всѣ оныя обстоятельства на мѣстѣ привести въ ясность и для
+      донесенія о всемъ Е. И. В. увѣдомить. Съ истиннымъ почтеніемъ есмь . . . . . . . . .
     </p>
     <closer>
-      <signed>(<persName ref="Обольянинов">Обольяниновъ</persName>?)</signed>
+      <signed>(<persName role="namesViewer" target="/names/Обольянинов.html">Обольяниновъ</persName>?)</signed>
       <dateline>
         генер-прокур). <date calendar="#julian" when="1800-06-07">Іюня 7 дня, 1800 года</date>. <fw type="docNum">№ 4724
-        </fw> — <persName ref="Брискорн">Брискорну</persName>.
+        </fw> — <persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>.
       </dateline>
     </closer>
   </body></text>

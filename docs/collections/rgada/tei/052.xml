@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/ALD.html">Арье-Лейб Дубинский</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +18,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Список арестованных <orgName ref="Хасиды">хасидов</orgName> с номерами их допросов и перечнем реквизированных
-        бумаг – приложение к сообщению <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">
+        Список арестованных <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> с номерами их
+        допросов и перечнем реквизированных бумаг – приложение к сообщению <persName role="namesViewer"
+        target="/names/Булгаков.html">Булгакова</persName> <persName role="namesViewer" target="/names/Лопухин.html">
         Лопухину</persName>, см.: <ref role="documentViewer" target="/collections/rgada/documents/044.html">044</ref>
       </p></abstract>
       <creation><date when="1798-10-25">25 октября 1798</date></creation>
@@ -33,7 +36,7 @@
     <head>
       <l>Реестръ</l>
       <l>подлинныхъ допросовъ съ переводами, и разныхъ</l>
-      <l>бумагъ по дѣлу <orgName ref="Хасиды">каролинской секты</orgName> при семъ</l>
+      <l>бумагъ по дѣлу <orgName role="namesViewer" target="/names/Хасиды.html">каролинской секты</orgName> при семъ</l>
       <l>подъ №<hi rend="superscript">ми</hi> представляемыхъ</l>
     </head>
     <list>
@@ -41,109 +44,131 @@
       <fw>№</fw>
       <item>
         <label>1.</label>
-        <ref target="../documents/090.html"><persName ref="Меер_Рафалович">Меіера Рафаловича</persName></ref>
+        <ref target="../documents/090.html"><persName role="namesViewer" target="/names/Меер_Рафалович.html">Меіера
+        Рафаловича</persName></ref>
       </item>
       <item>
         <label>2</label>
-        <ref target="../documents/093.html"><persName ref="Нохим_Ицкович">Нохима Ицковича</persName></ref>
+        <ref target="../documents/093.html"><persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохима
+        Ицковича</persName></ref>
       </item>
       <item>
         <label>3</label>
-        <ref target="../documents/097.html"><persName ref="Лейба_Зеликович">Лейбы Зеликовича</persName></ref>
+        <ref target="../documents/097.html"><persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейбы
+        Зеликовича</persName></ref>
       </item>
       <item>
         <label>4</label>
-        <ref target="../documents/099.html"><persName ref="Арон_Беркович">Арона Берковича</persName></ref>
+        <ref target="../documents/099.html"><persName role="namesViewer" target="/names/Арон_Беркович.html">Арона
+        Берковича</persName></ref>
       </item>
       <item>
         <label>5</label>
-        <ref target="../documents/101.html"><persName ref="Лейба_Меиерович">Лейбы Меіеровича</persName></ref>
+        <ref target="../documents/101.html"><persName role="namesViewer" target="/names/Лейба_Меиерович.html">Лейбы
+        Меіеровича</persName></ref>
       </item>
       <item>
         <label>6</label>
-        <ref target="../documents/103.html"><persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></ref>
+        <ref target="../documents/103.html"><persName role="namesViewer" target="/names/Зелман_Янкелевич.html">Зелмана
+        Янкелевича</persName></ref>
       </item>
       <item>
         <label>7</label>
-        <ref target="../documents/105.html"><persName ref="Вулф_Шимелиович">Вулфа Шимеліовича</persName></ref>
+        <ref target="../documents/105.html"><persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Вулфа
+        Шимеліовича</persName></ref>
       </item>
       <item>
         <label>8</label>
-        <ref target="../documents/107.html"><persName ref="Рафаил_Шлиомович">Рафаила Шломовича</persName></ref>
+        <ref target="../documents/107.html"><persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">Рафаила
+        Шломовича</persName></ref>
       </item>
       <item>
         <label>9</label>
-        <ref target="../documents/109.html"><persName ref="Юдель_Елиашевич">Юделя Еліашевича</persName></ref>
+        <ref target="../documents/109.html"><persName role="namesViewer" target="/names/Юдель_Елиашевич.html">Юделя
+        Еліашевича</persName></ref>
       </item>
       <item>
         <label>10</label>
-        <ref target="../documents/111.html"><persName ref="Михель_Файбишович">Михеля Фаибишовича</persName></ref>
+        <ref target="../documents/111.html"><persName role="namesViewer" target="/names/Михель_Файбишович.html">Михеля
+        Фаибишовича</persName></ref>
       </item>
       <item>
         <label>11.</label>
-        <ref target="../documents/113.html"><persName ref="Зелман_Леизерович">Зелмана Леизеровича</persName></ref>
+        <ref target="../documents/113.html"><persName role="namesViewer" target="/names/Зелман_Леизерович.html">Зелмана
+        Леизеровича</persName></ref>
       </item>
       <item>
         <label>12</label>
-        <ref target="../documents/115.html"><persName ref="Перец_Хаймович">Переца Хаймовича</persName></ref>
+        <ref target="../documents/115.html"><persName role="namesViewer" target="/names/Перец_Хаймович.html">Переца
+        Хаймовича</persName></ref>
       </item>
       <item>
         <label>13</label>
-        <ref target="../documents/117.html"><persName ref="Ицко_Сайович">Ицка Саіовича</persName></ref>
+        <ref target="../documents/117.html"><persName role="namesViewer" target="/names/Ицко_Сайович.html">Ицка
+        Саіовича</persName></ref>
       </item>
       <item>
         <label>14</label>
-        <ref target="../documents/120.html"><persName ref="Шая_Ицкович">Шая Ицковича</persName></ref>
+        <ref target="../documents/120.html"><persName role="namesViewer" target="/names/Шая_Ицкович.html">Шая
+        Ицковича</persName></ref>
       </item>
       <item>
         <label>15</label>
-        <ref target="../documents/121.html"><persName ref="Леизер_Нотолевич">Леизера Нотолевича</persName></ref>
+        <ref target="../documents/121.html"><persName role="namesViewer" target="/names/Леизер_Нотолевич.html">Леизера
+        Нотолевича</persName></ref>
       </item>
       <item>
         <label>16</label>
-        <ref target="../documents/123.html"><persName ref="Борух_Мордухович">Боруха Мордуховича</persName></ref>
+        <ref target="../documents/123.html"><persName role="namesViewer" target="/names/Борух_Мордухович.html">Боруха
+        Мордуховича</persName></ref>
       </item>
       <item>
         <label>17</label>
-        <ref target="../documents/125.html"><persName ref="Иосель_Мовшович">Јоселя Мовшовича</persName></ref>
+        <ref target="../documents/125.html"><persName role="namesViewer" target="/names/Иосель_Мовшович.html">Јоселя
+        Мовшовича</persName></ref>
       </item>
       <item>
         <label>18</label>
-        <ref target="../documents/127.html"><persName ref="Мовша_Иосиелиович">Мовши Јосіеліовича</persName></ref>
+        <ref target="../documents/127.html"><persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовши
+        Јосіеліовича</persName></ref>
       </item>
       <item>
         <label>19</label>
-        <ref target="../documents/129.html"><persName ref="Хлиовна_Зорухович">Хлїовны Зоруховича</persName></ref>
+        <ref target="../documents/129.html"><persName role="namesViewer" target="/names/Хлиовна_Зорухович.html">Хлїовны
+        Зоруховича</persName></ref>
       </item>
       <pb xml:id="p052-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/052.html#p052-2"/>
       <fw type="pageNum">52об.</fw>
       <item>
         <label>20</label>
-        <ref target="../documents/131.html"><persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName></ref>
+        <ref target="../documents/131.html"><persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зелмана
+        Лейбовича</persName></ref>
       </item>
       <item>
         <label>21</label>
-        <ref target="../documents/133.html"><persName ref="Гирш_Иоселиович">Гирши Јосіеліовича</persName></ref>
+        <ref target="../documents/133.html"><persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гирши
+        Јосіеліовича</persName></ref>
       </item>
       <item>
         <label>22</label>
-        <ref target="../documents/135.html"><persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName> съ билетами.
-        </ref>
+        <ref target="../documents/135.html"><persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуила
+        Хаимовича</persName> съ билетами.</ref>
       </item>
       <item>-----</item>
       <item>
         <label>23</label>
-        <ref target="../documents/143a.html">Бумаги найденныя у <persName ref="Меер_Рафалович">Меіера
-        Рафаловича</persName>.</ref>
+        <ref target="../documents/143a.html">Бумаги найденныя у <persName role="namesViewer"
+        target="/names/Меер_Рафалович.html">Меіера Рафаловича</persName>.</ref>
       </item>
       <item>
         <label>24</label>
-        <ref target="../documents/150a.html">Писмо найденное у <persName ref="Вулф_Шимелиович">Волфа Шимеловича
-        </persName></ref>
+        <ref target="../documents/150a.html">Писмо найденное у <persName role="namesViewer"
+        target="/names/Вулф_Шимелиович.html">Волфа Шимеловича</persName></ref>
       </item>
       <item>
         <label>25</label>
-        <ref target="../documents/152a.html">Бумаги <persName ref="Нохим_Ицкович">Нохима Ицковича</persName></ref>
+        <ref target="../documents/152a.html">Бумаги <persName role="namesViewer" target="/names/Нохим_Ицкович.html"
+        >Нохима Ицковича</persName></ref>
       </item>
       <item>
         <label>26</label>
@@ -155,19 +180,21 @@
       </item>
       <item>
         <label>28</label>
-        <ref target="../documents/160.html">росписки денег пересланныхъ отсюда въ <placeName ref="Иерусалим">Јерусалимъ
-        </placeName></ref>
+        <ref target="../documents/160.html">росписки денег пересланныхъ отсюда въ <placeName role="namesViewer"
+        target="/names/Иерусалим.html">Јерусалимъ</placeName></ref>
       </item>
       <item>
         <label>29</label>
-        <ref target="../documents/233.html">реестр денег пересланныхъ отсюда въ <placeName ref="Иерусалим">Јерусалимъ
-        </placeName></ref>
+        <ref target="../documents/233.html">реестр денег пересланныхъ отсюда въ <placeName role="namesViewer"
+        target="/names/Иерусалим.html">Јерусалимъ</placeName></ref>
       </item>
       <item>
         <label>30</label>
-        <ref target="../documents/234.html">Бумаги <persName ref="Рафаил_Шлиомович">Рафала Шломовича</persName></ref>
+        <ref target="../documents/234.html">Бумаги <persName role="namesViewer" target="/names/Рафаил_Шлиомович.html"
+        >Рафала Шломовича</persName></ref>
       </item>
     </list>
-    <closer><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></closer>
+    <closer><signed><persName role="namesViewer" target="/names/Булгаков.html">Яковъ Булгаковъ</persName></signed>
+    </closer>
   </body></text>
 </TEI>

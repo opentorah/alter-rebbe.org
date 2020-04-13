@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Перевод с польском языка протокола допроса <persName ref="Ицко_Сайович">Ицка Сайовича</persName></p>
-      </abstract>
+      <abstract><p>
+        Перевод с польском языка протокола допроса <persName role="namesViewer" target="/names/Ицко_Сайович.html">Ицка
+        Сайовича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -33,15 +36,17 @@
     <p>
       <l>Я Ицко Саіовичъ отъ роду имѣю</l>
       <l>19 лѣтъ, торгую напитками, ро-</l>
-      <l>дился в мѣстечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>,</l>
-      <l>въ <placeName ref="Вильна">вилнѣ</placeName> живу шестой годъ, женатъ,</l>
+      <l>дился в мѣстечкѣ <placeName role="namesViewer" target="/names/Оникшты.html">Оникштахъ</placeName>,</l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName> живу шестой годъ, женатъ,</l>
       <l>имѣю сына Саія; третей годъ, какъ</l>
-      <l>вступилъ въ <orgName ref="Хасиды">каролинскую секту</orgName>,</l>
+      <l>вступилъ въ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскую секту</orgName>,</l>
       <l>и сіе учинилъ потому, что понра-</l>
       <l>вился мнѣ образъ моленія; касатель-</l>
-      <l>но еврея <persName ref="Орлик_Мовшович">Орлика</persName>, согласенъ во всемъ</l>
-      <l>съ <persName ref="Вулф_Шимелиович">Вулфом Шемеліовичемъ</persName><note place="end">см. <ref
-      role="documentViewer" target="/collections/rgada/documents/106.html">106</ref></note>; о про-</l>
+      <l>но еврея <persName role="namesViewer" target="/names/Орлик_Мовшович.html">Орлика</persName>, согласенъ во
+      всемъ</l>
+      <l>съ <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Вулфом Шемеліовичемъ</persName><note
+      place="end">см. <ref role="documentViewer" target="/collections/rgada/documents/106.html">106</ref></note>; о
+      про-</l>
       <l>чемъ же ничего не знаю.</l>
     </p>
     <l><signed>подписал Ицко Саїович</signed></l>

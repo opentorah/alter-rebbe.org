@@ -3,8 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Александр_Вюртембергский">Александр Вюртембергский</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Александр_Вюртембергский.html">Александр
+        Вюртембергский</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,9 +17,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Обращение <placeName ref="Белоруссия">белорусского</placeName> губернатора в благотворительное общество
-        «Сословие попечителей призрения разоренных от неприятеля в 1812 году» с предложением оказать содействие
-        <persName ref="ребицен_Штерна">вдове</persName> <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Обращение <placeName role="namesViewer" target="/names/Белоруссия.html">белорусского</placeName> губернатора в
+        благотворительное общество «Сословие попечителей призрения разоренных от неприятеля в 1812 году» с предложением
+        оказать содействие <persName role="namesViewer" target="/names/ребицен_Штерна.html">вдове</persName> <persName
+        role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1815-05-11">11 Мая 1815</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -31,7 +34,8 @@
     <fw type="pageNum" place="right">243</fw>
     <head>
       <l>№19.</l>
-      <l>Въ <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословіе Призрѣніе разоренныхъ отъ<lb/>
+      <l>Въ <orgName role="namesViewer" target="/names/Сословие_призрения_разоренных_от_неприятеля.html">Сословіе
+      Призрѣніе разоренныхъ отъ<lb/>
        непріятеля</orgName><note place="end">см. <ref target="https://www.prlib.ru/1812_10a">Президенская
       библиотека</ref> и <ref target="https://lechaim.ru/ARHIV/209/minkina.htm">Лехаим</ref></note>.</l>
     </head>
@@ -39,41 +43,46 @@
       <l>Б. В. Г.</l>
       <l><date when="1815-03-22">22 марта 1815.</date></l>
       <l><fw type="docNum">№<emph rend="underline">697</emph></fw></l>
-      <l><placeName ref="Витебск"><emph rend="underline">Витебскъ.</emph></placeName></l>
+      <l><placeName role="namesViewer" target="/names/Витебск.html"><emph rend="underline">Витебскъ.</emph></placeName>
+      </l>
       <l>Съ прошеніемъ</l>
-      <l><persName ref="ребицен_Штерна">вдовы Шнѣеровой</persName>.</l>
+      <l><persName role="namesViewer" target="/names/ребицен_Штерна.html">вдовы Шнѣеровой</persName>.</l>
     </opener>
     <p>
-      <l><placeName ref="Могилевская_губерния"><emph rend="underline">Могилевской</emph> губерніи</placeName>
-      Бабиновецкаго<note place="end">ныне Бабиновичи – агрогородок в Лиозненском районе Витебской обл. Белоруссии</note>
-      </l>
+      <l><placeName role="namesViewer" target="/names/Могилевская_губерния.html"><emph rend="underline"
+      >Могилевской</emph> губерніи</placeName> Бабиновецкаго<note place="end">ныне Бабиновичи – агрогородок в
+      Лиозненском районе Витебской обл. Белоруссии</note></l>
       <l>Повѣта вдова бывшаго оберъ равина</l>
-      <l><persName ref="alter-rebbe">Зельмана Шнѣера</persName> жена еврейка <persName ref="ребицен_Штерна">Штерна<lb/>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Зельмана Шнѣера</persName> жена еврейка <persName
+      role="namesViewer" target="/names/ребицен_Штерна.html">Штерна<lb/>
        Шнѣерова</persName> проситъ моего предстатель-</l>
       <l>ства въ здѣланіи ей вспоможенія</l>
-      <l>по претерпенному ею обще съ <persName ref="alter-rebbe">мужемъ</persName></l>
+      <l>по претерпенному ею обще съ <persName role="namesViewer" target="/names/alter-rebbe.html">мужемъ</persName></l>
       <l>отъ нашествія непріятельскаго раз-</l>
       <l>зоренія въ имуществѣ болѣе нежели</l>
       <l>на 60/т. рублей._</l>
     </p>
     <fw type="note" place="right margin"><unclear>кіи?</unclear></fw>
     <p>
-      <l>1. Препровождая представленное <persName ref="ребицен_Штерна">еврей-<lb/>
+      <l>1. Препровождая представленное <persName role="namesViewer" target="/names/ребицен_Штерна.html">еврей-<lb/>
        кою Шнѣеровою</persName> ко мнѣ прошеніе</l>
-      <l>на имя <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословія</orgName> учрежденнаго для при</l>
+      <l>на имя <orgName role="namesViewer" target="/names/Сословие_призрения_разоренных_от_неприятеля.html"
+      >Сословія</orgName> учрежденнаго для при</l>
       <l>зрѣнія раззоренныхъ отъ непріятеля</l>
       <l>засвидѣтельствованное Нижнимъ Зем-</l>
       <l>скимъ Судомъ съ копіями данныхъ</l>
       <l>отъ начальства о пропускѣ въ Россіи</l>
       <pb xml:id="p243-2" rendition="page" role="facsimileViewer" target="/collections/rgia119/facs/243.html#p243-2"/>
-      <l>семейства ея видовъ прошу сего <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословія</orgName>
-      </l>
+      <l>семейства ея видовъ прошу сего <orgName role="namesViewer"
+      target="/names/Сословие_призрения_разоренных_от_неприятеля.html">Сословія</orgName></l>
       <l>обратить на расстроенное состояніе сей</l>
-      <l><persName ref="ребицен_Штерна">вдовы</persName> благотворное вниманіе и по примѣ</l>
+      <l><persName role="namesViewer" target="/names/ребицен_Штерна.html">вдовы</persName> благотворное вниманіе и по
+      примѣ</l>
       <l>ру оказаннаго протчимъ вспоможенія</l>
       <l>не оставить и ее онымъ._</l>
-      <l><placeName ref="Белоруссия">Бѣлорусскій</placeName> военный губернаторъ.</l>
-      <l><signed>Гер. <persName ref="Александр_Вюртембергский">А. <unclear>Вюртембер</unclear></persName></signed></l>
+      <l><placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлорусскій</placeName> военный губернаторъ.</l>
+      <l><signed>Гер. <persName role="namesViewer" target="/names/Александр_Вюртембергский.html">А. <unclear
+      >Вюртембер</unclear></persName></signed></l>
     </p>
   </body></text>
 </TEI>

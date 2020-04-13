@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,15 +17,16 @@
     <profileDesc>
       <abstract>
         <p>
-          Отношение <persName ref="Обольянинов">Обольянинова</persName> к <persName ref="Кутузов">Кутузову</persName> о
-          необходимости отыскать старое дело о сектантах в <placeName ref="Вильна">Вильне</placeName>
+          Отношение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> к <persName
+          role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о необходимости отыскать старое дело о
+          сектантах в <placeName role="namesViewer" target="/names/Вильна.html">Вильне</placeName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/255.2.html">№ 8</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-07-09">1800-07-09</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,18 +35,23 @@
     <fw type="docNum" place="left">№ 11278/1389</fw>
     <date when="1800-06-02">2 июня 1800.</date>
     <fw type="pageNum" place="right">28</fw>
-    <salute>Милостивый Государь мой <persName ref="Кутузов">Михайло Илларѣоновичъ</persName></salute>
+    <salute>
+      Милостивый Государь мой <persName role="namesViewer" target="/names/Кутузов.html">Михайло Илларѣоновичъ</persName>
+    </salute>
     <fw type="docNum" place="right">№: 5859</fw>
     <p>
       <l>Получилъ почтеннѣйшѣе отношенѣ вашего</l>
       <l>высокопревосходительства съ увѣдомленіемъ</l>
       <l>что вы доставленную отъ меня жалобу</l>
-      <l>обер раббина <persName ref="Авигдор">Хайма</persName>, <del rend="overstrike">почита</del> по упоми-</l>
-      <l>наемому въ немъ <del rend="overstrike">мѣсто</del> городу <placeName ref="Пинск">Пинску</placeName></l>
-      <l>почитая <hi rend="superscript">принадлежащего до рассмотренія</hi> <placeName ref="Минская_губерния">минской
-      губер-<lb/>
+      <l>обер раббина <persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName>, <del rend="overstrike"
+      >почита</del> по упоми-</l>
+      <l>наемому въ немъ <del rend="overstrike">мѣсто</del> городу <placeName role="namesViewer"
+      target="/names/Пинск.html">Пинску</placeName></l>
+      <l>почитая <hi rend="superscript">принадлежащего до рассмотренія</hi> <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">минской губер-<lb/>
        ніи</placeName> отправили оную къ тамошнему граж-</l>
-      <l>данскому губернатору <persName ref="Карнеев">Карнѣеву</persName> обязываюсь</l>
+      <l>данскому губернатору <persName role="namesViewer" target="/names/Карнеев.html">Карнѣеву</persName>
+      обязываюсь</l>
       <l>изъяснить вашему высокопревосхходитель-</l>
       <l>ству <del rend="overstrike">изъяснить</del>, что оная бумага препровож-</l>
       <l>дена <del rend="overstrike">вашеу вашему высокопревосхо</del> на</l>
@@ -52,15 +59,17 @@
       <l><del rend="overstrike">вашей же</del> нѣй же усмотрѣть изволите, что онъ</l>
       <l>Хаимъ о соблазнительныхъ книгахъ секты</l>
       <l>Шабзусъ Цвинкусъ представлялъ къ нѣкоему</l>
-      <l><persName ref="Элиас">Еліасу</persName> въ <placeName ref="Вильна">вильнѣ</placeName> жившему и <hi
-      rend="superscript">его</hi> просилъ довѣ-</l>
+      <l><persName role="namesViewer" target="/names/Элиас.html">Еліасу</persName> въ <placeName role="namesViewer"
+      target="/names/Вильна.html">вильнѣ</placeName> жившему и <hi rend="superscript">его</hi> просилъ довѣ-</l>
       <l>сти къ сведенію вышнего начальства, <del rend="overstrike">и</del></l>
       <l><del rend="overstrike">что потому</del> <hi rend="superscript">которыя</hi> представленіи просителя разсмо-</l>
       <l>трены и книги публично предъ домомъ мо-</l>
-      <l>литвы сожжены в <placeName ref="Вильна">вильнѣ</placeName>, <hi rend="superscript">и</hi> что поступки</l>
-      <l>оной секты виделъ бывшій в <placeName ref="Вильна">вильнѣ</placeName> губер-</l>
-      <l>наторъ и требовалъ къ себѣ изъ <placeName ref="Лиозно">Лошни</placeName></l>
-      <l>старшину той секты <persName ref="alter-rebbe">Соломона</persName>. по</l>
+      <l>литвы сожжены в <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>, <hi
+      rend="superscript">и</hi> что поступки</l>
+      <l>оной секты виделъ бывшій в <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>
+      губер-</l>
+      <l>наторъ и требовалъ къ себѣ изъ <placeName role="namesViewer" target="/names/Лиозно.html">Лошни</placeName></l>
+      <l>старшину той секты <persName role="namesViewer" target="/names/alter-rebbe.html">Соломона</persName>. по</l>
       <l><pb xml:id="p028-2" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/028.html#p028-2"
       /> каковыми обстоятельствами съ большою вѣро-</l>
       <l>ятностію полагалъ быть болшему сведенію</l>
@@ -71,12 +80,14 @@
       <l>для соображенія подлѣжащія справки</l>
       <l>о всемъ – согласно первому отношенію моему</l>
       <l>почтить меня увѣдомленіемъ приобща</l>
-      <l>къ оному и то, что <placeName ref="Минская_губерния">минской</placeName> губернаторъ</l>
+      <l>къ оному и то, что <placeName role="namesViewer" target="/names/Минская_губерния.html">минской</placeName>
+      губернаторъ</l>
       <l>по отношенію вашего высокопревосхо-</l>
       <l>дительства <del rend="overstrike">открыть мое</del> <hi rend="superscript">можетъ быть</hi> откроетъ. Съ</l>
       <l>истиннымъ почтеніемъ есмь.</l>
     </p>
     <closer><date when="1800-07-09"><l>Іюля 9 дня<lb/>
-     1800 года.</l></date> _____________ <signed><persName ref="Кутузов">Кутузовъ</persName></signed></closer>
+     1800 года.</l></date> _____________ <signed><persName role="namesViewer" target="/names/Кутузов.html"
+    >Кутузовъ</persName></signed></closer>
   </body></text>
 </TEI>

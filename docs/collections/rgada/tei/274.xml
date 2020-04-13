@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,7 +16,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перечень губернаторов-адресатов секретного распоряжения от <persName ref="Обольянинов">Обольнянинова</persName>
+        Перечень губернаторов-адресатов секретного распоряжения от <persName role="namesViewer"
+        target="/names/Обольянинов.html">Обольнянинова</persName>
       </p></abstract>
       <creation><date when="1800-11-02">1800 года Ноябрь 2 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -30,7 +32,8 @@
     <p>
       <l>1800 года Ноября 2<hi rend="superscript">го</hi> дня въ принятiи посланныхъ при</l>
       <l>семъ от Его высокопревосходительства господина генерала</l>
-      <l>прокурора <persName ref="Обольянинов">Обольнянинова</persName> пакетовъ, а имянно</l>
+      <l>прокурора <persName role="namesViewer" target="/names/Обольянинов.html">Обольнянинова</persName> пакетовъ, а
+      имянно</l>
     </p>
     <table>
       <row>
@@ -83,7 +86,8 @@
       </row>
       <row>
         <cell><p><l>11 Аксакову въ Ярославль</l></p></cell>
-        <cell><p><l>33 <persName ref="Карнеев">КарнѢеву</persName> въ Минскъ.</l></p></cell>
+        <cell><p><l>33 <persName role="namesViewer" target="/names/Карнеев.html">КарнѢеву</persName> въ Минскъ.</l></p>
+        </cell>
       </row>
       <row>
         <cell><p><l>12 Обольнянинову въ Новъгородъ</l></p></cell>
@@ -139,12 +143,13 @@
     <fw type="pageNum" place="left">274 об.</fw>
     <l><date when="1800-11-03">1800 года Ноября 3 дня</date> въ принятiи пос-</l>
     <l>ланныхъ при семъ от господина генерала</l>
-    <l>прокурора <persName ref="Обольянинов">Обольнянинова</persName> секретныхъ паке-</l>
+    <l>прокурора <persName role="namesViewer" target="/names/Обольянинов.html">Обольнянинова</persName> секретныхъ
+    паке-</l>
     <l>товъ 1<hi rend="superscript">го</hi> Арсеньеву въ Митаву, 2<hi rend="superscript">го</hi></l>
-    <l>Рихтеру въ <placeName ref="Рига">Ригу</placeName>, 3<hi rend="superscript">го</hi> <persName ref="Фризель">
-    Фризелю</persName> въ</l>
-    <l><placeName ref="Вильна">Вильну</placeName>, 4 Лангелю в Ревель,</l>
-    <l>и 5 Ореусу въ Выборгъ, въ <placeName ref="Петербург">С.<lb/>
+    <l>Рихтеру въ <placeName role="namesViewer" target="/names/Рига.html">Ригу</placeName>, 3<hi rend="superscript"
+    >го</hi> <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName> въ</l>
+    <l><placeName role="namesViewer" target="/names/Вильна.html">Вильну</placeName>, 4 Лангелю в Ревель,</l>
+    <l>и 5 Ореусу въ Выборгъ, въ <placeName role="namesViewer" target="/names/Петербург.html">С.<lb/>
      п.-бургскомъ</placeName> почтъамтѣ благово</l>
     <l>ленно было бъ росписаться</l>
     <l>пять пакетовъ</l>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Розенберг">Розенберг</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Розенберг.html">Розенберг</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          Сообщение <persName ref="Розенберг">Розенберга</persName> <persName ref="Обольянинов">Обольянинову</persName>
-          о получении высочайшего повеления по жалобе <persName ref="Авигдор">Авигдора</persName>
+          Сообщение <persName role="namesViewer" target="/names/Розенберг.html">Розенберга</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о получении высочайшего повеления
+          по жалобе <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
         </p>
         <p>
           Упомянут в документе <ref role="documentViewer" target="/collections/dubnov/documents/262.1.html">№ 11-а</ref>
@@ -26,8 +28,8 @@
       </abstract>
       <creation><date when="1800-10-20"/></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -39,13 +41,14 @@
     <fw type="pageNum" place="right"><del rend="overstrike">52</del></fw>
     <fw type="pageNum" place="right">49</fw>
     <l><salute>Милоствый Государь мой!<lb/>
-       <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
+       <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичъ</persName>!</salute></l>
     <p>
       <l>Получа почтенѣйшее сообщеніе ко мнѣ вашего высо-</l>
       <l>копревосходительства съ объявленіемъ <emph rend="big">высочайшаго<lb/>
        Его императорскаго величества</emph> повеленія</l>
       <l>послѣдовавшаго по принесенной жалобѣ отъ бывшаго</l>
-      <l>еврейскаго оберъ рабина <persName ref="Авигдор">хаима</persName>, учинил я сообразно</l>
+      <l>еврейскаго оберъ рабина <persName role="namesViewer" target="/names/Авигдор.html">хаима</persName>, учинил я
+      сообразно</l>
       <l>оному высочайшему поеленію надлежащіе господамъ</l>
       <l>Гражданскимъ Губернаторамъ ввѣренныхъ мнѣ</l>
       <l>Губерніи предписанія.</l>
@@ -56,15 +59,15 @@
       <l>Милостивый Государь мой</l>
       <l>вашего высокопревосходительства</l>
       <l>Всепокорнейший слуга</l>
-      <l><signed><persName ref="Розенберг">Андрей Розенберг</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Розенберг.html">Андрей Розенберг</persName></signed></l>
     </p>
     <closer place="left">
       <fw type="docNum">№911</fw>
       <date when="1800-10-20"><l>Октября 20 дня<lb/>
        1800 Года</l></date>
-      <l><placeName ref="Каменец_Подольский">К: подольскій</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Каменец_Подольский.html">К: подольскій</placeName></l>
       <l>Его высокопревосходи-</l>
-      <l>тельству <persName ref="Обольянинов">Обольянинову</persName>!</l>
+      <l>тельству <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>!</l>
     </closer>
     <pb xml:id="p049-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/rgia2213/facs/049.html#p049-2"/>

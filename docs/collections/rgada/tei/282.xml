@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,8 +13,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Показания <persName ref="alter-rebbe">Шнеура Залмана</persName> в <orgName ref="Тайная_экспедиция">Тайной
-        экспедиции</orgName>
+        Показания <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> в <orgName
+        role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной экспедиции</orgName>
       </p></abstract>
       <creation><date when="1800-11-15/16">15 или 16 ноября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -25,8 +26,13 @@
     <fw type="pageNum" place="right"><del rend="overstrike">286</del></fw><note place="end">номер обозначен чернилами и
     вычеркнут карандашом</note>
     <fw type="pageNum" place="right">282</fw><note place="end">новый номер листа вписан карандашом</note>
-    <p><head><l>На вопросы въ тайной Експедиціи еврей <persName ref="alter-rebbe">Борухо-<lb/>
-         вичъ</persName> симъ ответствуетъ.</l></head></p>
+    <p>
+      <head>
+        <l>На вопросы въ тайной Експедиціи еврей <persName role="namesViewer" target="/names/alter-rebbe.html"
+        >Борухо-<lb/>
+         вичъ</persName> симъ ответствуетъ.</l>
+      </head>
+    </p>
     <table>
       <row>
         <cell><p>
@@ -36,7 +42,8 @@
         </p></cell>
         <cell><p>
           <l>на 1<hi rend="superscript">е</hi></l>
-          <l>родился въ <placeName ref="Лиозно">ложнѣ</placeName> местечкѣ <placeName ref="Белоруссия">Бе-<lb/>
+          <l>родился въ <placeName role="namesViewer" target="/names/Лиозно.html">ложнѣ</placeName> местечкѣ <placeName
+          role="namesViewer" target="/names/Белоруссия.html">Бе-<lb/>
            лоруской губерніи</placeName>. - отъ роду</l>
           <l>имеетъ 52 года<note place="end">вторая фраза вписана другими чернилами</note></l>
         </p></cell>
@@ -45,7 +52,8 @@
         <cell><p>
           <l>2<hi rend="superscript">е</hi>,</l>
           <l>по какому случаю и дав</l>
-          <l>но ли <del rend="overstrike">отецъ</del> пріехалъ въ <placeName ref="Белоруссия">бело<lb/>
+          <l>но ли <del rend="overstrike">отецъ</del> пріехалъ въ <placeName role="namesViewer"
+          target="/names/Белоруссия.html">бело<lb/>
            русію</placeName>? и гдѣ учился за</l>
           <l>кону?<note place="end">вторая фраза вписана другими чернилами</note></l>
           <l/>
@@ -68,9 +76,10 @@
         </p></cell>
         <cell><p>
           <l>на 3.</l>
-          <l>Ученіе принялъ <placeName ref="Волынская_губерния">волынской губерніи</placeName> въ</l>
-          <l>местечкѣ <placeName ref="Мезеричи">мезерицѣ</placeName>, отъ бывшаго</l>
-          <l>тамъ рабина <persName ref="maggid">берки</persName> которой уже</l>
+          <l>Ученіе принялъ <placeName role="namesViewer" target="/names/Волынская_губерния.html">волынской
+          губерніи</placeName> въ</l>
+          <l>местечкѣ <placeName role="namesViewer" target="/names/Мезеричи.html">мезерицѣ</placeName>, отъ бывшаго</l>
+          <l>тамъ рабина <persName role="namesViewer" target="/names/maggid.html">берки</persName> которой уже</l>
           <l>умѣръ</l>
         </p></cell>
       </row>
@@ -84,7 +93,8 @@
         </p></cell>
         <cell><p>
           <l>на 4<hi rend="superscript">е</hi></l>
-          <l><del rend="overstrike">некот</del> онъ въ местечкѣ <placeName ref="Лиозно">Ліознѣ</placeName> раби-</l>
+          <l><del rend="overstrike">некот</del> онъ въ местечкѣ <placeName role="namesViewer"
+          target="/names/Лиозно.html">Ліознѣ</placeName> раби-</l>
           <l>номъ, и толкуетъ священноѣ писа</l>
           <l>ніе и нраво-ученіе девять разъ</l>
           <l>въ году. Зимою три раза а летомъ 6 разъ</l>
@@ -140,16 +150,17 @@
       </row>
     </table>
     <p>
-      <l>По окончаніи сего оберъ раввина <persName ref="Авигдор">Абигдоръ Хаймовичъ</persName></l>
+      <l>По окончаніи сего оберъ раввина <persName role="namesViewer" target="/names/Авигдор.html">Абигдоръ
+      Хаймовичъ</persName></l>
       <l>здѣлалъ показанія слѣдующія</l>
     </p>
     <p>
       <l>О книгѣ секты <emph rend="underline"><unclear>???</unclear><lb/>
        а половину страницъ</emph> пока</l>
-      <l>заніи <persName ref="Авигдор">Хаймовича</persName>.</l>
+      <l>заніи <persName role="namesViewer" target="/names/Авигдор.html">Хаймовича</persName>.</l>
     </p>
     <del rend="overstrike">
-      <l><persName ref="alter-rebbe">Боруховичъ</persName> напротивъ</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичъ</persName> напротивъ</l>
       <l>сего объясняетъ <hi rend="superscript">рабинъ <unclear>??? ??? ???</unclear></hi> <unclear>???</unclear></l>
       <l><unclear>??? ???</unclear></l>
       <l>на 1<hi rend="superscript">е</hi> напишетъ его объя</l>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Пален">Пален</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Пален.html">Пален</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Пален">Палена</persName> <persName ref="Обольянинов">Обольянинову</persName> о принятии
-        мер в связи с распоряжением о <orgName ref="Хасиды">хасидах</orgName>
+        Сообщение <persName role="namesViewer" target="/names/Пален.html">Палена</persName> <persName role="namesViewer"
+        target="/names/Обольянинов.html">Обольянинову</persName> о принятии мер в связи с распоряжением о <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидах</orgName>
       </p></abstract>
       <creation><date when="1800-11-03">3 ноября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -37,7 +39,8 @@
     <p>
       <l>въ слѣдствїе отношенїя вашего высокопревосхо-</l>
       <l>дительства отъ <date when="1800-11-02">2<hi rend="superscript">го</hi> сего ноября</date> касательно</l>
-      <l>старообрядцовъ и <orgName ref="Хасиды">Королинской секты евреевъ</orgName>,</l>
+      <l>старообрядцовъ и <orgName role="namesViewer" target="/names/Хасиды.html">Королинской секты
+      евреевъ</orgName>,</l>
       <l>а равно и вразсужденїи нечиненїя предста</l>
       <l>вленїя и отпуска отставным и изклю</l>
       <l>ченнымъ изъ службъ воинской и штатской</l>
@@ -51,12 +54,13 @@
       <l>Вашего высокопревосходительства</l>
       <l>Милостиваго Государя моего</l>
       <l>Покорнейшій слуга</l>
-      <l><signed><persName ref="Пален">Граф фонъ деръ Пален</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Пален.html">Граф фонъ деръ Пален</persName></signed></l>
     </p>
     <closer place="left">
       <l><date when="1800-11-05">Ноября. 5<hi rend="superscript">го</hi>. дня<lb/>
        1800 года.</date></l>
-      <l>Его высокопре<hi rend="superscript">ву</hi> <persName ref="Обольянинов">Обольянинову</persName>.</l>
+      <l>Его высокопре<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Обольянинов.html"
+      >Обольянинову</persName>.</l>
     </closer>
     <pb xml:id="p348-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/348.html#p348-2"/>
   </body></text>

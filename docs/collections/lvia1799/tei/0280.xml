@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Фризель">Фризель</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -14,12 +15,13 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>Рапорт <placeName ref="Литва">литовского</placeName> <persName ref="Фризель">гражданского губернатора
-      </persName> о мотивах расследования действий <orgName ref="Виленский_кагал">виленского кагала</orgName></abstract>
+      <abstract>Рапорт <placeName role="namesViewer" target="/names/Литва.html">литовского</placeName> <persName
+      role="namesViewer" target="/names/Фризель.html">гражданского губернатора</persName> о мотивах расследования
+      действий <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName></abstract>
       <creation><date when="1799-02-12">12 февраля 1799</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лассий" role="addressee">Де-Ласси</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -32,42 +34,49 @@
     <fw type="pageNum" place="right">280<note place="end">дата вписана карандашом</note></fw>
     <salute>
       <l>Его высокопревосходительству,</l>
-      <l>Господину Генералу отъ инфантеріи, <placeName ref="Литва">Литов-<lb/>
-       ской</placeName> дивизіи по пѣхотѣ инспектору, <placeName ref="Литва">Литовско-<lb/>
+      <l>Господину Генералу отъ инфантеріи, <placeName role="namesViewer" target="/names/Литва.html">Литов-<lb/>
+       ской</placeName> дивизіи по пѣхотѣ инспектору, <placeName role="namesViewer" target="/names/Литва.html"
+      >Литовско-<lb/>
        му</placeName> Генералу Губернатору и разныхъ орденовъ</l>
-      <l>кавалеру <persName ref="Лассий">Борису Петровичу Лассіо</persName></l>
+      <l>кавалеру <persName role="namesViewer" target="/names/Лассий.html">Борису Петровичу Лассіо</persName></l>
     </salute>
     <head>
-      <l><placeName ref="Литва">Литовскаго</placeName> гражданскаго Губернатора</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> гражданскаго Губернатора</l>
       <l>рапортъ</l>
     </head>
     <p>
       <l>Въ слѣдствіе всепочтеннѣйшаго вашего высо-</l>
       <l>копревосходительства предписанія въ <date when="1799-01-07">7. день Генваря</date></l>
       <l>сего года подъ <fw type="docNum">№ 9</fw> мнѣ даннаго, о разсмотрѣніи</l>
-      <l>резолюціи въ <orgName ref="Литовское_губернское_правление">Литовскомъ губернскомъ правленіи</orgName></l>
+      <l>резолюціи въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскомъ
+      губернскомъ правленіи</orgName></l>
       <l>въ <date when="1798-08-20">20. день августа прошлаго 1798 года</date>, по про-</l>
-      <l>шеніямъ взаимно поданнымъ отъ <orgName ref="Виленский_кагал">виленскаго<lb/>
+      <l>шеніямъ взаимно поданнымъ отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго<lb/>
        еврейскаго Кагала</orgName> и еврейскаго общества на-</l>
-      <l>званнаго <orgName ref="Хасиды">каролинскимъ</orgName>, изготовленной, но безъ</l>
+      <l>званнаго <orgName role="namesViewer" target="/names/Хасиды.html">каролинскимъ</orgName>, изготовленной, но
+      безъ</l>
       <l>подписанія оставшейся, входилъ я, по собраніи</l>
       <l>всѣхъ нужныхъ къ лучшему сего дѣла объясне-</l>
       <l>нію, бумагъ, въ прилѣжное и подробное разсма-</l>
       <l>триваніе всѣхъ статей какъ сей резолюціи, такъ</l>
       <l>и другой состоявшейся прежде, и именно <date when="1798-04-26">Апрѣля<lb/>
-       в 26 день</date>, а равно представленныхъ отъ <orgName ref="Виленский_кагал">виленскаго<lb/>
+       в 26 день</date>, а равно представленныхъ отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >виленскаго<lb/>
        <pb xml:id="p280-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0280.html#p280-2"
       /> Еврейскаго кагала</orgName>, во многихъ поданныхъ про-</l>
       <l>шеніяхъ объясненій и возраженій. Разыскивая</l>
       <l>такимъ образомъ справедливость и ползу,</l>
-      <l>какую могутъ принести положенія <orgName ref="Литовское_губернское_правление">Литовскаго<lb/>
+      <l>какую могутъ принести положенія <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовскаго<lb/>
        губернскаго правленія</orgName>, я нашелъ:</l>
       <l>1, Существо всего сего дѣла точно принад-</l>
-      <l>лежало разсмотренію <orgName ref="Литовское_губернское_правление">губернскаго правленія</orgName>,</l>
+      <l>лежало разсмотренію <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">губернскаго
+      правленія</orgName>,</l>
       <l>которому высчайшимъ учрежденіемъ предписы-</l>
       <l>вается отвращать всякаго рода насильства</l>
       <l>и злоупотребленія. А потому всѣ положенія</l>
-      <l>въ резолюціи <orgName ref="Литовское_губернское_правление">Литовскаго губернскаго правленія</orgName></l>
+      <l>въ резолюціи <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      губернскаго правленія</orgName></l>
       <l>помѣщенныя, не только не противны должности</l>
       <l>сего правительства, но здѣланы по достато-</l>
       <l>чномъ уваженіи всѣхъ обстоятельствъ согласно</l>
@@ -79,7 +88,8 @@
       <l>вѣрцовъ и для корысти ихъ старшихъ произ-</l>
       <l>водятся. Рѣшеніемъ надворнаго суда, судъ и</l>
       <l>расправа по дѣламъ гражданскимъ и уголовнымъ</l>
-      <l>на евреевъ жительствующихъ въ городѣ <placeName ref="Вильна">вильнѣ</placeName></l>
+      <l>на евреевъ жительствующихъ въ городѣ <placeName role="namesViewer" target="/names/Вильна.html"
+      >вильнѣ</placeName></l>
       <l><pb xml:id="p281-1" rendition="page" role="facsimileViewer"
       target="/collections/lvia1799/facs/0280.html#p281-1"/> <fw type="pageNum" place="right">257</fw> предоставлены на
       основаніи здѣшнихъ правъ</l>
@@ -88,25 +98,31 @@
       <l>ныхъ дѣлъ, также и тѣхъ, кои касаются ихъ</l>
       <l>религіи, предоставлено имъ самимъ по прежне-</l>
       <l>му же производить. Ту же самую цѣль имѣло</l>
-      <l>и <orgName ref="Литовское_губернское_правление">губернское правленіе</orgName>, отымая у <orgName
-      ref="Виленский_кагал">кагала</orgName> власть,</l>
+      <l>и <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">губернское
+      правленіе</orgName>, отымая у <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName>
+      власть,</l>
       <l>простираемую имъ до сужденій делъ граждан-</l>
       <l>скихъ и уголовныхъ. Слѣдовательно резолюціи</l>
-      <l><orgName ref="Литовское_губернское_правление">правленія</orgName> ни въ чемъ решенію надворнаго суда</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">правленія</orgName> ни въ чемъ
+      решенію надворнаго суда</l>
       <l>не противорѣчатъ, да и во всѣхъ частяхъ своихъ</l>
       <l>никакому опроверженію или порицанію не под-</l>
       <l>вержены. Сверхъ того не составляютъ они еще</l>
       <l>окончательное опредѣленіе, ибо въ дополненіе</l>
       <l>и для дальнейшаго доказательства своеволь-</l>
-      <l>ныхъ поступковъ <orgName ref="Виленский_кагал">кагала</orgName>, требуютъ еще свѣ-</l>
-      <l>деній, на какомъ основаніи учрежденъ <orgName ref="Виленский_кагал">кагалъ</orgName>,</l>
-      <l>и въ чемъ состоитъ власть <orgName ref="Виленский_кагал">кагальныхъ</orgName> стар-</l>
+      <l>ныхъ поступковъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName>, требуютъ еще
+      свѣ-</l>
+      <l>деній, на какомъ основаніи учрежденъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName>,</l>
+      <l>и въ чемъ состоитъ власть <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагальныхъ</orgName>
+      стар-</l>
       <l>шинъ. Тутъ открыться могутъ прямыя</l>
       <l>правила религіи, коими управляющіе оного люди</l>
       <l>руководствоваться должны, а вмѣстѣ и всѣ зло-</l>
       <l>употребленія обнаружатся, кои надлежитъ еще</l>
       <l>предать надлежащему суду. Понеже начатое</l>
-      <l>сіе дѣло на томъ только, что <orgName ref="Литовское_губернское_правление">правленіе</orgName> здѣлало,</l>
+      <l>сіе дѣло на томъ только, что <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >правленіе</orgName> здѣлало,</l>
       <l><pb xml:id="p281-2" rendition="page" role="facsimileViewer"
       target="/collections/lvia1799/facs/0280.html#p281-2"/> остановиться не можетъ.</l>
     </p>
@@ -119,7 +135,8 @@
       <l>пространять ее по своимъ толкамъ на при</l>
       <l>тѣсненіе другихъ въ глазахъ гражданской вла-</l>
       <l>сти, которая такого преимущества ни въ</l>
-      <l>комъ терпеть не должна. <orgName ref="Виленский_кагал">Кагалъ</orgName> присвоива</l>
+      <l>комъ терпеть не должна. <orgName role="namesViewer" target="/names/Виленский_кагал.html">Кагалъ</orgName>
+      присвоива</l>
       <l>етъ себѣ власть наказывать тѣлесно пре</l>
       <l>ступниковъ своей религіи, основывая сіе на</l>
       <l>привилегіи 1534 года, которая напротивъ того</l>
@@ -128,20 +145,22 @@
       <l>то съ помощію правительства</l>
     </p>
     <p>
-      <l>3<hi rend="superscript">е</hi> Приведеніе резолюціи <orgName ref="Литовское_губернское_правление">губернскаго
-      правле<lb/>
+      <l>3<hi rend="superscript">е</hi> Приведеніе резолюціи <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">губернскаго правле<lb/>
        нія</orgName> въ исполненіе не произведетъ и произвесть</l>
       <l>не должно никакого замѣшательства какъ</l>
       <l>въ религіи, такъ и во всѣхъ гражданскихъ</l>
       <l>обязанностяхъ евреевъ къ правительству;</l>
-      <l>ибо та власть, которую <orgName ref="Виленский_кагал">кагалъ</orgName> себѣ прежде</l>
+      <l>ибо та власть, которую <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> себѣ
+      прежде</l>
       <l>сего присвоивалъ, и которая нынѣ по силѣ</l>
       <l><pb xml:id="p282-1" rendition="page" role="facsimileViewer"
       target="/collections/lvia1799/facs/0280.html#p282-1"/> <fw type="pageNum" place="right">258</fw> законовъ
       справедливо отъ него отымается,</l>
       <l>останется уже въ рукахъ правительства, ко-</l>
       <l>торое обратить можетъ вниманіе свое даже</l>
-      <l>и на тотъ предметъ, коего наиболѣе <orgName ref="Виленский_кагал">кагалъ</orgName></l>
+      <l>и на тотъ предметъ, коего наиболѣе <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName></l>
       <l>опасается, то есть, чтобы ересь не заражала</l>
       <l>ихъ юношества, не двая ему самому воли</l>
       <l>отвращать и истреблять соблазны насиліемъ</l>
@@ -149,10 +168,12 @@
       <l>тишины и спокойствію.</l>
     </p>
     <p>
-      <l>4<hi rend="superscript">е</hi> Такъ называемые <orgName ref="Хасиды">каролины</orgName> не составляютъ</l>
+      <l>4<hi rend="superscript">е</hi> Такъ называемые <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролины</orgName> не составляютъ</l>
       <l>новую секту въ нынѣшнее только время родив-</l>
       <l>шуюся, но уже давно здѣлалась она извѣст</l>
-      <l>ною въ <placeName ref="Вильна">вилнѣ</placeName>, какъ мнѣ извѣстно, съ тѣмъ</l>
+      <l>ною въ <placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName>, какъ мнѣ извѣстно, съ
+      тѣмъ</l>
       <l>только намѣреніемъ и пять старшинъ, духов-</l>
       <l>ной судъ составлявшіе, были избраны, чтобъ ту</l>
       <l>ересь преслѣдовать. Теперь нужно знать, какой</l>
@@ -160,20 +181,24 @@
       <l>еврейской религіи, такъ и для всякаго рода</l>
       <l>обществъ. Законы же то только возбраняютъ,</l>
       <l>что благонравію и общественной тишинѣ</l>
-      <l>вредно. <orgName ref="Литовское_губернское_правление">Правленіе</orgName> своими резолюціями отнюдь</l>
-      <l>не позволяетъ <note type="gloss">|: какъ <orgName ref="Виленский_кагал">кагалъ</orgName> мечтаетъ :|</note>
-      сек-</l>
+      <l>вредно. <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Правленіе</orgName>
+      своими резолюціями отнюдь</l>
+      <l>не позволяетъ <note type="gloss">|: какъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName> мечтаетъ :|</note> сек-</l>
       <l>тѣ сей ни распространяться, ни заводить</l>
       <l><pb xml:id="p282-2" rendition="page" role="facsimileViewer"
       target="/collections/lvia1799/facs/0280.html#p282-2"/> особыхъ своихъ школъ; а только въ обезпе</l>
       <l>ченіе каждаго гражданина подтверждаетъ, чтобъ</l>
-      <l>Карлины не были <orgName ref="Виленский_кагал">кагаломъ преслѣдуемы</orgName>, и да-</l>
+      <l>Карлины не были <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагаломъ
+      преслѣдуемы</orgName>, и да-</l>
       <l>етъ симъ свободу отправлять свое богомо-</l>
       <l>ліе.</l>
     </p>
     <p>
-      <l>5<hi rend="superscript">е</hi> <orgName ref="Виленский_кагал">Кагалъ</orgName> проситъ, чтобъ не приводить</l>
-      <l>резолюціи <orgName ref="Литовское_губернское_правление">правленія</orgName> въ исполненіе, но должно-</l>
+      <l>5<hi rend="superscript">е</hi> <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >Кагалъ</orgName> проситъ, чтобъ не приводить</l>
+      <l>резолюціи <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">правленія</orgName>
+      въ исполненіе, но должно-</l>
       <l>сти полиціи въ разсужденіи сего дѣла про-</l>
       <l>писаны въ той резолюціи столь сильно и согла-</l>
       <l>сно съ высочайшими узаконеніями, что всѣ</l>
@@ -182,7 +207,8 @@
     </p>
     <p>
       <l>По всѣмъ симъ обстоятельствамъ и</l>
-      <l>уваженіямъ, присупаю я предложить <orgName ref="Литовское_губернское_правление">Ли<lb/>
+      <l>уваженіямъ, присупаю я предложить <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">Ли<lb/>
        товскому Губернскому правленію</orgName>, привести</l>
       <l>въ дѣйствіе изготовленную имъ въ <date when="1798-08-20">20 день<lb/>
        августа прошлаго 1798 года</date>, резолюцію, а купно</l>
@@ -194,20 +220,20 @@
       <l>ставляю въ разсмотрѣніе у сего копію</l>
       <l><pb xml:id="p283-1" rendition="page" role="facsimileViewer"
       target="/collections/lvia1799/facs/0280.html#p283-1"/> <fw type="pageNum" place="right">258</fw> съ отзыва по мнѣ
-      бывшаго <placeName ref="Литва">Литовскаго</placeName></l>
+      бывшаго <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName></l>
       <l>Губернатора Господина Действительнаго</l>
-      <l>Тайнаго Совѣтника <persName ref="Булгаков">Булгакова</persName> на мое</l>
+      <l>Тайнаго Совѣтника <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> на мое</l>
       <l>къ нему отношеніе, коимъ испрашивалъ</l>
       <l>я изъясненія мнѣ причинъ, подавшихъ по-</l>
       <l>водъ къ изключенію изъ журнала при под-</l>
       <l>писаніи онаго помянутой <date when="1798-08-20">20. августа</date> резолюціи</l>
-      <l><placeName ref="Литва">Литовскій</placeName> Гражданскій Губернаторъ <signed><persName ref="Фризель">Фризель
-      </persName></signed></l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовскій</placeName> Гражданскій Губернаторъ <signed>
+      <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">110</fw></l>
       <l><date when="1799-02-12">12 февраля 1799</date></l>
-      <l><placeName ref="Вильна">вилно</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилно</placeName></l>
     </closer>
     <pb xml:id="p283-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1799/facs/0280.html#p283-2"/>

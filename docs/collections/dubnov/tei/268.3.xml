@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,39 +17,44 @@
     <profileDesc>
       <abstract>
         <p>
-          № 18. Препровождениe в 3-й департамент <orgName ref="Сенат">Сената</orgName> книг и бумаг, отобранных при
-          арест <persName ref="alter-rebbe">Залмана</persName>
+          № 18. Препровождениe в 3-й департамент <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName>
+          книг и бумаг, отобранных при арест <persName role="namesViewer" target="/names/alter-rebbe.html"
+          >Залмана</persName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgada/documents/356.html">356</ref> в РГАДА</p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/007.html">007</ref> в РГИА 413</p>
       </abstract>
       <creation><date when="1800-12-22">1800-12-22</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Оленин" role="addressee">Оленину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Оленин.html">Оленину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p268" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/268.3.html#p268"/> №
-      18. Препровожденіe въ 3-й департаментъ <orgName ref="Сенат">Сената</orgName> книгъ и бумагъ, отобранныхъ при
-      арестѣ <persName ref="alter-rebbe">Залмана</persName>.
+      18. Препровожденіe въ 3-й департаментъ <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName>
+      книгъ и бумагъ, отобранныхъ при арестѣ <persName role="namesViewer" target="/names/alter-rebbe.html"
+      >Залмана</persName>.
     </head>
     <p>
-      Г-ну Оберъ прокурору 3-го Департамента <orgName ref="Сенат">Сената</orgName> <persName ref="Оленин">
-      Оленину</persName>. Препроводивъ во исполненіе Высочайшаго Е. И. В. повелѣнія, объявленнаго мною въ <date
-      when="1800-11-27">27-й день Ноября</date>, производившееся въ <orgName ref="Тайная_экспедиция">Тайной Экспедиціи
-      </orgName> дѣло между евреями <persName ref="Авигдор">Абикдоромъ Хаймовичемъ</persName> и <persName
-      ref="alter-rebbe">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи и прочаго, для надлежащаго въ
-      <orgName ref="Сенат">Сенатѣ</orgName> разсмотренія и положенія, на какомъ основаніи впредь быть сектѣ Хоседовъ и
-      Кагаламъ – препровождаю при семъ доставленныя послѣ того ко мнѣ отъ <placeName ref="Белоруссия">Бѣлорусскаго
-      </placeName> Гражданскаго Губернатора книги и разныя бумаги, взятыя имъ въ домѣ <persName ref="alter-rebbe">
-      Боруховича</persName>, съ краткимъ о содержаніи ихъ, чрезъ еврейскихъ переводчиковъ здѣсь учиненнымъ, переводомъ,
-      а также и отношеніе Губернатора въ разсужденіи сдѣланнаго имъ замѣчанія о поведеніи всѣхъ <pb xml:id="p269"
-      rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/268.3.html#p269"/> вообще <orgName
-      ref="Хасиды">Каролиновъ</orgName><note type="gloss" place="end">Рѣчь идетъ, очевидно, о вышеприведенномъ документѣ
-      № <ref role="documentViewer" target="/collections/dubnov/documents/263.2.html">14</ref>.</note>, рекомендуя Вашему
+      Г-ну Оберъ прокурору 3-го Департамента <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName>
+      <persName role="namesViewer" target="/names/Оленин.html">Оленину</persName>. Препроводивъ во исполненіе
+      Высочайшаго Е. И. В. повелѣнія, объявленнаго мною въ <date when="1800-11-27">27-й день Ноября</date>,
+      производившееся въ <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной Экспедиціи</orgName>
+      дѣло между евреями <persName role="namesViewer" target="/names/Авигдор.html">Абикдоромъ Хаймовичемъ</persName> и
+      <persName role="namesViewer" target="/names/alter-rebbe.html">Залманомъ Боруховичемъ</persName>, касающееся до ихъ
+      религіи и прочаго, для надлежащаго въ <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName>
+      разсмотренія и положенія, на какомъ основаніи впредь быть сектѣ Хоседовъ и Кагаламъ – препровождаю при семъ
+      доставленныя послѣ того ко мнѣ отъ <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлорусскаго
+      </placeName> Гражданскаго Губернатора книги и разныя бумаги, взятыя имъ въ домѣ <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Боруховича</persName>, съ краткимъ о содержаніи ихъ, чрезъ еврейскихъ
+      переводчиковъ здѣсь учиненнымъ, переводомъ, а также и отношеніе Губернатора въ разсужденіи сдѣланнаго имъ
+      замѣчанія о поведеніи всѣхъ <pb xml:id="p269" rendition="page" role="facsimileViewer"
+      target="/collections/dubnov/facs/268.3.html#p269"/> вообще <orgName role="namesViewer" target="/names/Хасиды.html"
+      >Каролиновъ</orgName><note type="gloss" place="end">Рѣчь идетъ, очевидно, о вышеприведенномъ документѣ № <ref
+      role="documentViewer" target="/collections/dubnov/documents/263.2.html">14</ref>.</note>, рекомендуя Вашему
       Превосходительству присоединить все оное къ тому же въ Сенатѣ имѣющемуся дѣлу. <date when="1800-12-22">Декабря 22
       дня 1800 года</date>
     </p>

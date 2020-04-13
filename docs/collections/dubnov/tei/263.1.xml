@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Карнеев">Карнеев</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Карнеев.html">Карнеев</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 13. Отзыв <persName ref="Карнеев">Карнеева</persName> <persName ref="Обольянинов">Обольянинову</persName> о
-          претензиях <persName ref="Авигдор">Авигдора</persName>
+          № 13. Отзыв <persName role="namesViewer" target="/names/Карнеев.html">Карнеева</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о претензиях <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/051.html">051</ref> в РГИА 2213
@@ -25,37 +27,39 @@
       </abstract>
       <creation><date when="1800-10-15">1800-10-15</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p263" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/263.1.html#p263"/> №
-      13. Отзывъ <placeName ref="Минская_губерния">Минскаго</placeName> <persName ref="Карнеев">губернатора</persName> о
-      претензіяхъ <persName ref="Авигдор">Авигдора</persName>.
+      13. Отзывъ <placeName role="namesViewer" target="/names/Минская_губерния.html">Минскаго</placeName> <persName
+      role="namesViewer" target="/names/Карнеев.html">губернатора</persName> о претензіяхъ <persName role="namesViewer"
+      target="/names/Авигдор.html">Авигдора</persName>.
     </head>
     <p>
-      Милостивый государь <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>! Предписаніе вашего
-      высокопревосходительства съ изъясненіемъ высочайшаго Е. И. В. повелѣнія о взысканіи съ еврейскаго кагала 400
-      червонныхъ, внесенныхъ бывшимъ еврейскимъ оберъ рабиномъ <persName ref="Авигдор">Хаимомъ</persName> за полученіе
-      мѣста, и о удовлетвореніи его въ понесенныхъ отъ лишенія онаго убыткахъ, отъ 3 сего мѣсяца имѣлъ честь получить и
-      какъ неизвѣстно мнѣ въ который кагалъ им тѣ деньги внесены, и самого рабина на лицо нѣтъ, а извѣстно только то,
-      что онъ жительствомъ изъ <placeName ref="Пинск">Пинска</placeName>, то я предложилъ <placeName ref="Пинск">
-      Пинскому</placeName> городовому магистрату, чтобы истребовавъ отъ него или повѣреннаго его доказательства на
-      взносъ показанныхъ денегъ, вошелъ въ разсмотрѣніе съ кого слѣдуетъ взыскать, равно учинилъ бы законное опредѣленіе
-      и о удовлетвореніи его въ понесенныхъ убыткахъ отъ потерянія мѣста, стараясь елико возможно и скоро и справедливо
-      дѣло сіе рѣшить, яко производимое по высочайшему Е. И. В. повелѣнію, рапортуя губернскому правлениію о успѣхѣ
-      ежемѣсячно, за чемъ о наблюденіи и губернскому правленію потвердилъ.
+      Милостивый государь <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичъ</persName>!
+      Предписаніе вашего высокопревосходительства съ изъясненіемъ высочайшаго Е. И. В. повелѣнія о взысканіи съ
+      еврейскаго кагала 400 червонныхъ, внесенныхъ бывшимъ еврейскимъ оберъ рабиномъ <persName role="namesViewer"
+      target="/names/Авигдор.html">Хаимомъ</persName> за полученіе мѣста, и о удовлетвореніи его въ понесенныхъ отъ
+      лишенія онаго убыткахъ, отъ 3 сего мѣсяца имѣлъ честь получить и какъ неизвѣстно мнѣ въ который кагалъ им тѣ
+      деньги внесены, и самого рабина на лицо нѣтъ, а извѣстно только то, что онъ жительствомъ изъ <placeName
+      role="namesViewer" target="/names/Пинск.html">Пинска</placeName>, то я предложилъ <placeName role="namesViewer"
+      target="/names/Пинск.html">Пинскому</placeName> городовому магистрату, чтобы истребовавъ отъ него или повѣреннаго
+      его доказательства на взносъ показанныхъ денегъ, вошелъ въ разсмотрѣніе съ кого слѣдуетъ взыскать, равно учинилъ
+      бы законное опредѣленіе и о удовлетвореніи его въ понесенныхъ убыткахъ отъ потерянія мѣста, стараясь елико
+      возможно и скоро и справедливо дѣло сіе рѣшить, яко производимое по высочайшему Е. И. В. повелѣнію, рапортуя
+      губернскому правлениію о успѣхѣ ежемѣсячно, за чемъ о наблюденіи и губернскому правленію потвердилъ.
     </p>
     <closer>
       <salute>Съ совершеннымъ высокочтеніемъ и проч...</salute>
-      <signed><persName ref="Карнеев">Захаръ Карнѣевъ</persName>.</signed>
+      <signed><persName role="namesViewer" target="/names/Карнеев.html">Захаръ Карнѣевъ</persName>.</signed>
       <num>№ 2922</num>
       <dateline>
-        <date calendar="#julian" when="1800-10-15">Октября 15 дня 1800</date> <placeName type="city" ref="Минск">г.
-        Минскъ</placeName>.
+        <date calendar="#julian" when="1800-10-15">Октября 15 дня 1800</date> <placeName role="namesViewer"
+        target="/names/Минск.html">г. Минскъ</placeName>.
       </dateline>
     </closer>
   </body></text>

@@ -12,7 +12,8 @@
   <text><body>
     <head>"Вмешательство русского правительства в антихасидскую борьбу"</head>
     <span>Анализ материалов второго ареста опубликован в книге "Еврейская старина", том 3, Еврейское И.-Э. общество,
-    <persName ref="Дубнов">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург, 1910.</span>
+    <persName role="namesViewer" target="/names/Дубнов.html">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург,
+    1910.</span>
     <p>
       Документы от № 1 до № 13 включительно находятся в Сенатском архиве, дело м-ва Юстиции отд. 1800 гг. <ref
       role="collectionViewer" target="/collections/rgia2213">№ 85</ref> (см. сноску в <ref role="documentViewer"
@@ -36,7 +37,7 @@
       <row>
         <cell rendition="description"><p>Вступление</p></cell>
         <cell rendition="date"/>
-        <cell rendition="author"><persName ref="Дубнов">Дубнов</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Дубнов.html">Дубнов</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/084.html">084</ref>
@@ -47,12 +48,13 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/084.html#p086" rendition="page">086</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/084.html#p087" rendition="page">087</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>Список документов</p></cell>
         <cell rendition="date"/>
-        <cell rendition="author"><persName ref="Дубнов">Дубнов</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Дубнов.html">Дубнов</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/088.html">088</ref>
@@ -62,33 +64,42 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/088.html#p089" rendition="page">089</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/088.html#p090" rendition="page">090</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
-          <p>№ 1. Препроводительное письмо к прошению раввина <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
+          <p>
+            № 1. Препроводительное письмо к прошению раввина <persName role="namesViewer" target="/names/Авигдор.html"
+            >Авигдора Хаимовича</persName>
+          </p>
           <p>Документ <ref role="documentViewer" target="/collections/rgia2213/documents/001">001</ref> в РГИА 2213</p>
         </cell>
         <cell rendition="date">1800-04-23</cell>
-        <cell rendition="author"><persName ref="Брискорн">Брискорн</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Брискорн.html">Брискорн</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/090.1.html"
         >090.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/090.1.html#p090"
         rendition="page">090</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
-          <p>№ 2. Прошение <persName ref="Авигдор">р. Авигдора Хаимовича</persName> на Высочайшее имя</p>
+          <p>
+            № 2. Прошение <persName role="namesViewer" target="/names/Авигдор.html">р. Авигдора Хаимовича</persName> на
+            Высочайшее имя
+          </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/002.html">002</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-04-23</cell>
-        <cell rendition="author"><persName ref="Авигдор">Авигдор</persName></cell>
-        <cell rendition="addressee"><persName ref="Павел_I">Павлу I</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/090.2.html"
         >090.2</ref></cell>
@@ -114,42 +125,47 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/090.2.html#p108" rendition="page">108</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/090.2.html#p109" rendition="page">109</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row><cell cols="8"><span rendition="part-title">Окончаниe</span></cell></row>
       <row>
         <cell rendition="description">
           <p>
-            № 3. Запрос <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName>
-            о секте „Шабзус-Цвинкус"
+            № 3. Запрос <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+            role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о секте „Шабзус-Цвинкус"
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/023.html">023</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-06-07</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Кутузов">Кутузову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/253.1.html"
         >253.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/253.1.html#p253"
         rendition="page">253</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 4. Ордер <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Брискорн">Брискорну</persName>
-            о расследовании дела
+            № 4. Ордер <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+            role="namesViewer" target="/names/Брискорн.html">Брискорну</persName> о расследовании дела
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/024.html">024</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-06-07</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Брискорн">Брискорну</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
+        </cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/253.2.html"
         >253.2</ref></cell>
@@ -157,82 +173,94 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/253.2.html#p253" rendition="page">253</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/253.2.html#p254" rendition="page">254</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 5. Сообщение о препровождении жалобы <persName ref="Авигдор">Авигдора</persName> к <persName
-            ref="Брискорн">Брискорну</persName>
+            № 5. Сообщение о препровождении жалобы <persName role="namesViewer" target="/names/Авигдор.html"
+            >Авигдора</persName> к <persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/025.html">025</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-06-07</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Брискорн">Брискорну</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
+        </cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/254.1.html"
         >254.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/254.1.html#p254"
         rendition="page">254</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 6. Ответ <persName ref="Тормасов">Тормасова</persName> <persName ref="Обольянинов"
-            >Обольянинову</persName>, что в <placeName ref="Литва">Литовской губернии</placeName> о секте неизвестно
+            № 6. Ответ <persName role="namesViewer" target="/names/Тормасов.html">Тормасова</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>, что в <placeName
+            role="namesViewer" target="/names/Литва.html">Литовской губернии</placeName> о секте неизвестно
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/026.html">026</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-06-21</cell>
-        <cell rendition="author"><persName ref="Тормасов">Тормасов</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Тормасов.html">Тормасов</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/254.2.html"
         >254.2</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/254.2.html#p254"
         rendition="page">254</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 7. Извещение <persName ref="Кутузов">Кутузова</persName> <persName ref="Обольянинов"
-            >Обольянинову</persName> о пересылке жалобы <persName ref="Авигдор">Авигдора</persName> в <placeName
-            ref="Минск">Минск</placeName>
+            № 7. Извещение <persName role="namesViewer" target="/names/Кутузов.html">Кутузова</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о пересылке жалобы <persName
+            role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> в <placeName role="namesViewer"
+            target="/names/Минск.html">Минск</placeName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/027.html">027</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-06-19</cell>
-        <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Кутузов.html">Кутузов</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/255.1.html"
         >255.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/255.1.html#p255"
         rendition="page">255</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 8. Отношение <persName ref="Обольянинов">Обольянинова</persName> к <persName ref="Кутузов">Кутузову
-            </persName> о необходимости отыскать старое дело о сектантах в <placeName ref="Вильна">Вильне</placeName>
+            № 8. Отношение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> к
+            <persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о необходимости отыскать
+            старое дело о сектантах в <placeName role="namesViewer" target="/names/Вильна.html">Вильне</placeName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/028.html">028</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-07-09</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Кутузов">Кутузову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/255.2.html"
         >255.2</ref></cell>
@@ -240,23 +268,26 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/255.2.html#p255" rendition="page">255</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/255.2.html#p256" rendition="page">256</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 9. Сообщение <persName ref="Кутузов">Кутузова</persName> <persName ref="Обольянинов"
-            >Обольянинову</persName> о сведениях от <persName ref="Карнеев">Карнеева</persName>, что секта
-            „Шабсус-Цвинкус" или Китаевая ведет себя в <placeName ref="Минская_губерния">Минской губернии</placeName>
-            спокойно
+            № 9. Сообщение <persName role="namesViewer" target="/names/Кутузов.html">Кутузова</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о сведениях от <persName
+            role="namesViewer" target="/names/Карнеев.html">Карнеева</persName>, что секта „Шабсус-Цвинкус" или Китаевая
+            ведет себя в <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской
+            губернии</placeName> спокойно
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/029.html">029</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-07-12</cell>
-        <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Кутузов.html">Кутузов</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/256.html">256</ref>
         </cell>
@@ -264,22 +295,25 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/256.html#p256" rendition="page">256</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/256.html#p257" rendition="page">257</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 10. Донесение <persName ref="Кутузов">Кутузова</persName> <persName ref="Обольянинов">Обольянинову
-            </persName> о существовании <orgName ref="Хасиды">секты „Каролинов" (Хасидов)</orgName>, которая
-            подвергалась гонениям но признана правительством безвредной
+            № 10. Донесение <persName role="namesViewer" target="/names/Кутузов.html">Кутузова</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о существовании <orgName
+            role="namesViewer" target="/names/Хасиды.html">секты „Каролинов" (Хасидов)</orgName>, которая подвергалась
+            гонениям но признана правительством безвредной
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/031.html">031</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-07-30</cell>
-        <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Кутузов.html">Кутузов</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/257.html">257</ref>
         </cell>
@@ -290,33 +324,38 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/257.html#p260" rendition="page">260</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/257.html#p261" rendition="page">261</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 11. Объявление <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору
-            </persName> о справках по его денежным претензиям
+            № 11. Объявление <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName>
+            <persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справках по его денежным
+            претензиям
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/052.html">052</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-10-03</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Авигдор">Авигдору</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/261.html">261</ref>
         </cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/261.html#p261"
         rendition="page">261</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 11-а. Извещение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору
-            </persName> о справках по его денежным претензиям и справка <placeName ref="Подольская_губерния">Подольского
+            № 11-а. Извещение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName>
+            <persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справках по его денежным
+            претензиям и справка <placeName role="namesViewer" target="/names/Подольская_губерния.html">Подольского
             </placeName> губернатора
           </p>
           <p>
@@ -328,28 +367,32 @@
           </p>
         </cell>
         <cell rendition="date">1800-10-07</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Авигдор">Авигдору</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/262.1.html"
         >262.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/262.1.html#p262"
         rendition="page">262</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 12. Отзыв <persName ref="Кутузов">Кутузова</persName> <persName ref="Обольянинов">Обольянинову</persName>
-            о претензии <persName ref="Авигдор">Авигдора</persName>
+            № 12. Отзыв <persName role="namesViewer" target="/names/Кутузов.html">Кутузова</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о претензии <persName
+            role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/050.html">050</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-11-12</cell>
-        <cell rendition="author"><persName ref="Кутузов">Кутузов</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Кутузов.html">Кутузов</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/262.2.html"
         >262.2</ref></cell>
@@ -357,34 +400,39 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/262.2.html#p262" rendition="page">262</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/262.2.html#p263" rendition="page">263</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 13. Отзыв <persName ref="Карнеев">Карнеева</persName> <persName ref="Обольянинов">Обольянинову</persName>
-            о претензиях <persName ref="Авигдор">Авигдора</persName>
+            № 13. Отзыв <persName role="namesViewer" target="/names/Карнеев.html">Карнеева</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о претензиях <persName
+            role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/051.html">051</ref> в РГИА 2213
           </p>
         </cell>
         <cell rendition="date">1800-10-15</cell>
-        <cell rendition="author"><persName ref="Карнеев">Карнеев</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Карнеев.html">Карнеев</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/263.1.html"
         >263.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/263.1.html#p263"
         rendition="page">263</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 14. Сообщение <persName ref="Северин">Северина</persName> <persName ref="Обольянинов">Обольянинову
-            </persName> об отправке хасидского „начальника” <persName ref="alter-rebbe">Боруховича</persName> в
-            <placeName ref="Петербург">Петербург</placeName>
+            № 14. Сообщение <persName role="namesViewer" target="/names/Северин.html">Северина</persName> <persName
+            role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> об отправке хасидского
+            „начальника” <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> в
+            <placeName role="namesViewer" target="/names/Петербург.html">Петербург</placeName>
           </p>
           <p>Документ <ref role="documentViewer" target="/collections/rgada/documents/276.html">276</ref> в РГАДА</p>
           <p>
@@ -392,8 +440,9 @@
           </p>
         </cell>
         <cell rendition="date">1800-11-13</cell>
-        <cell rendition="author"><persName ref="Северин">Северин</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Северин.html">Северин</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/263.2.html"
         >263.2</ref></cell>
@@ -401,25 +450,27 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/263.2.html#p263" rendition="page">263</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/263.2.html#p264" rendition="page">264</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 15. Вопросные пункты <persName ref="Авигдор">Авигдора Хаимовича</persName> и ответы <persName
-            ref="alter-rebbe">Залмана Боруховича</persName>
+            № 15. Вопросные пункты <persName role="namesViewer" target="/names/Авигдор.html">Авигдора
+            Хаимовича</persName> и ответы <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана
+            Боруховича</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/003.html">003</ref> в РГИА 413
           </p>
-          <p>18 и 19 пп. ответов <persName ref="alter-rebbe">Алтер Ребе</persName></p>
+          <p>18 и 19 пп. ответов <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/004.html">004</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1800-11</cell>
-        <cell rendition="author"><persName ref="Авигдор">Авигдор</persName>, <persName ref="alter-rebbe">Алтер
-        Ребе</persName>,</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName>, <persName
+        role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>,</cell>
         <cell rendition="addressee"/>
         <cell rendition="language">he</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/264.html">264</ref>
@@ -430,31 +481,38 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/264.html#p266" rendition="page">266</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/264.html#p267" rendition="page">267</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 16. Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>-<persName
-            ref="alter-rebbe">Залмана</persName> в <orgName ref="Сенат">Сенат</orgName>
+            № 16. Высоч. повеление о передаче дела <persName role="namesViewer" target="/names/Авигдор.html"
+            >Авигдора</persName>-<persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> в
+            <orgName role="namesViewer" target="/names/Сенат.html">Сенат</orgName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/001.html">001</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1800-11-27</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/268.1.html"
         >268.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/268.1.html#p268"
         rendition="page">268</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
-          <p>№ 17. Назначение дела к слушанию в 3 департаменте <orgName ref="Сенат">Сената</orgName></p>
+          <p>
+            № 17. Назначение дела к слушанию в 3 департаменте <orgName role="namesViewer" target="/names/Сенат.html"
+            >Сената</orgName>
+          </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/006.html">006</ref> в РГИА 413
           </p>
@@ -467,13 +525,15 @@
         >268.2</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/268.2.html#p268"
         rendition="page">268</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 18. Препровождениe в 3-й департамент <orgName ref="Сенат">Сената</orgName> книг и бумаг, отобранных при
-            арест <persName ref="alter-rebbe">Залмана</persName>
+            № 18. Препровождениe в 3-й департамент <orgName role="namesViewer" target="/names/Сенат.html"
+            >Сената</orgName> книг и бумаг, отобранных при арест <persName role="namesViewer"
+            target="/names/alter-rebbe.html">Залмана</persName>
           </p>
           <p>Документ <ref role="documentViewer" target="/collections/rgada/documents/356.html">356</ref> в РГАДА</p>
           <p>
@@ -481,8 +541,9 @@
           </p>
         </cell>
         <cell rendition="date">1800-12-22</cell>
-        <cell rendition="author"><persName ref="Обольянинов">Обольянинов</persName></cell>
-        <cell rendition="addressee"><persName ref="Оленин">Оленину</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Оленин.html">Оленину</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/268.3.html"
         >268.3</ref></cell>
@@ -490,11 +551,15 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/268.3.html#p268" rendition="page">268</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/268.3.html#p269" rendition="page">269</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
-          <p>№ 19. Реестр бумаг и книг <persName ref="alter-rebbe">Залмана Боруховича</persName></p>
+          <p>
+            № 19. Реестр бумаг и книг <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана
+            Боруховича</persName>
+          </p>
           <p>Документ <ref role="documentViewer" target="/collections/rgada/documents/363.html">363</ref> в РГАДА</p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/011.html">011</ref> в РГИА 413
@@ -510,21 +575,23 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/269.html#p269" rendition="page">269</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/269.html#p270" rendition="page">270</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 20. Дополнительное прошение <persName ref="Авигдор">Авигдора</persName> <persName ref="Обольянинов">
-            Обольянинову</persName> с доносом на Хасидов
+            № 20. Дополнительное прошение <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
+            <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> с доносом на Хасидов
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/021.html">021</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1800-12</cell>
-        <cell rendition="author"><persName ref="Авигдор">Авигдор</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/271.html">271</ref>
         </cell>
@@ -532,35 +599,39 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/271.html#p271" rendition="page">271</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/271.html#p272" rendition="page">272</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>
           Приложение к документу № <ref role="documentViewer" target="/collections/dubnov/documents/271.html">20</ref>
         </p></cell>
         <cell rendition="date">1800-12</cell>
-        <cell rendition="author"><persName ref="Авигдор">Авигдор</persName></cell>
-        <cell rendition="addressee"><persName ref="Обольянинов">Обольянинову</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/272.1.html"
         >272.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/272.1.html#p272"
         rendition="page">272</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 21. Прошение <persName ref="alter-rebbe">Залмана</persName> на высоч. имя об ускорении его дела, с
-            приложением документов доказывающих безвредность хасидской секты
+            № 21. Прошение <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> на высоч.
+            имя об ускорении его дела, с приложением документов доказывающих безвредность хасидской секты
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/023.html">023</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1801-03</cell>
-        <cell rendition="author"><persName ref="alter-rebbe">Алтер Ребе</persName></cell>
-        <cell rendition="addressee"><persName ref="Павел_I">Павлу I</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/272.2.html"
         >272.2</ref></cell>
@@ -568,22 +639,25 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html#p272" rendition="page">272</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html#p273" rendition="page">273</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
             Приложение А к документу № <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html"
-            >21</ref>. Ордер <persName ref="Жегулин">Жегулина</persName> <persName ref="Добрынин">Добрынину</persName>
-            об освобождении <persName ref="alter-rebbe">Залмана</persName>
+            >21</ref>. Ордер <persName role="namesViewer" target="/names/Жегулин.html">Жегулина</persName> <persName
+            role="namesViewer" target="/names/Добрынин.html">Добрынину</persName> об освобождении <persName
+            role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/024.html">024</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1798-12-15</cell>
-        <cell rendition="author"><persName ref="Жегулин">Жегулин</persName></cell>
-        <cell rendition="addressee"><persName ref="Добрынин">Добрынину</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Жегулин.html">Жегулин</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Добрынин.html">Добрынину</persName>
+        </cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/273.html">273</ref>
         </cell>
@@ -591,32 +665,38 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/273.html#p273" rendition="page">273</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/273.html#p274" rendition="page">274</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
             Приложение Б к документу № <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html"
-            >21</ref>. Объявление <persName ref="Фризель">Фризеля</persName> о высочайше дорованной терпимости к
-            <orgName ref="Хасиды">секте Каролинов</orgName>
+            >21</ref>. Объявление <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> о
+            высочайше дорованной терпимости к <orgName role="namesViewer" target="/names/Хасиды.html">секте
+            Каролинов</orgName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/032.html">032</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1800-01-23</cell>
-        <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/274.1.html"
         >274.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/274.1.html#p274"
         rendition="page">274</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
-          <p>№ 22. Приобщение <orgName ref="Сенат">Сенатом</orgName> к делу предыдущих документов</p>
+          <p>
+            № 22. Приобщение <orgName role="namesViewer" target="/names/Сенат.html">Сенатом</orgName> к делу предыдущих
+            документов
+          </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/026.html">026</ref> в РГИА 413
           </p>
@@ -629,41 +709,44 @@
         >274.2</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/274.2.html#p274"
         rendition="page">274</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 23. Извещение <persName ref="Тарбеев">Тарбеева</persName>, что <persName ref="alter-rebbe"
-            >Залман</persName> по выс. повелению освобожден и отпущен из <placeName ref="Петербург"
-            >Петербурга</placeName>
+            № 23. Извещение <persName role="namesViewer" target="/names/Тарбеев.html">Тарбеева</persName>, что <persName
+            role="namesViewer" target="/names/alter-rebbe.html">Залман</persName> по выс. повелению освобожден и отпущен
+            из <placeName role="namesViewer" target="/names/Петербург.html">Петербурга</placeName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/031.html">031</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1801-06-13</cell>
-        <cell rendition="author"><persName ref="Тарбеев">Тарбеев</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Тарбеев.html">Тарбеев</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/275.1.html"
         >275.1</ref></cell>
         <cell rendition="pages"><ref role="documentViewer" target="/collections/dubnov/documents/275.1.html#p275"
         rendition="page">275</ref></cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 24. Прошение <persName ref="Авигдор">Авигдора</persName> на имя <orgName ref="Сенат">Сената</orgName> с
-            жалобами на хасидов и освобожденного их начальника <persName ref="alter-rebbe">Залмана</persName>
+            № 24. Прошение <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> на имя <orgName
+            role="namesViewer" target="/names/Сенат.html">Сената</orgName> с жалобами на хасидов и освобожденного их
+            начальника <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia413/documents/005.html">005</ref> в РГИА 413
           </p>
         </cell>
         <cell rendition="date">1801-04</cell>
-        <cell rendition="author"><persName ref="Авигдор">Авигдор</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">he</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/275.2.html"
@@ -673,16 +756,20 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/275.2.html#p276" rendition="page">276</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/275.2.html#p277" rendition="page">277</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>
-          № 25. Жалоба <persName ref="alter-rebbe">Залмана</persName> на ложные доносы <persName ref="Авигдор">
-          Авигдора</persName>, разорительные для жалобщика и хасидов, и просьба о наказании клеветников
+          № 25. Жалоба <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> на ложные доносы
+          <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>, разорительные для жалобщика и
+          хасидов, и просьба о наказании клеветников
         </p></cell>
         <cell rendition="date">1801-05</cell>
-        <cell rendition="author"><persName ref="alter-rebbe">Алтер Ребе</persName></cell>
-        <cell rendition="addressee"><persName ref="Александр_I">Александру I</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Александр_I.html">Александру
+        I</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/277.html">277</ref>
         </cell>
@@ -690,16 +777,19 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/277.html#p277" rendition="page">277</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/277.html#p278" rendition="page">278</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>
-          № 26. Новое прошение <persName ref="alter-rebbe">Залмана</persName> об обуздании клеветников и об обеспечении
-          ему и хасидам спокойного существования
+          № 26. Новое прошение <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> об
+          обуздании клеветников и об обеспечении ему и хасидам спокойного существования
         </p></cell>
         <cell rendition="date">1801-08</cell>
-        <cell rendition="author"><persName ref="alter-rebbe">Алтер Ребе</persName></cell>
-        <cell rendition="addressee"><persName ref="Александр_I">Александру I</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>
+        </cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Александр_I.html">Александру
+        I</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/279.html">279</ref>
         </cell>
@@ -707,13 +797,14 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/279.html#p279" rendition="page">279</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/279.html#p280" rendition="page">280</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description">
           <p>
-            № 27. Пророчество о гибели французских "мятежников" и о победе импер. <persName ref="Павел_I">Павла
-            I</persName>
+            № 27. Пророчество о гибели французских "мятежников" и о победе импер. <persName role="namesViewer"
+            target="/names/Павел_I.html">Павла I</persName>
           </p>
           <p>
             Документ <ref role="documentViewer" target="/collections/rgia2213/documents/047.html">047</ref> в РГИА 2213
@@ -729,12 +820,13 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/280.html#p280" rendition="page">280</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/280.html#p281" rendition="page">281</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>Послесловие</p></cell>
         <cell rendition="date"/>
-        <cell rendition="author"><persName ref="Дубнов">Дубнов</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Дубнов.html">Дубнов</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/dubnov/documents/281.html">281</ref>
@@ -743,7 +835,8 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/281.html#p281" rendition="page">281</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/281.html#p282" rendition="page">282</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>К пророчеству о Бонапарте</p></cell>
@@ -757,7 +850,8 @@
           <ref role="documentViewer" target="/collections/dubnov/documents/427.html#p427" rendition="page">427</ref>
           <ref role="documentViewer" target="/collections/dubnov/documents/427.html#p428" rendition="page">428</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
     </table>
   </body></text>

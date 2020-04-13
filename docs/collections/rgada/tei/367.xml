@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -14,7 +15,7 @@
       <abstract>
         <p>
           Черновой вариант перевода первой части молитвы "О благоденствии и спасении Государя" с оригинала, записанного
-          <persName ref="alter-rebbe">Шнеуром Залманом</persName>
+          <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеуром Залманом</persName>
         </p>
         <p>
           Отредактированный и исправленный текст - документ <ref role="documentViewer"
@@ -55,7 +56,8 @@
         <emph rend="big">всемилостивѣйшаго Государя</emph>
       </l>
       <l>нашего <del rend="overstrike">с фами</del> <emph rend="big">императора</emph></l>
-      <l><emph rend="big"><persName ref="Павел_I">Павла петровича</persName> съ высочайшей</emph></l>
+      <l><emph rend="big"><persName role="namesViewer" target="/names/Павел_I.html">Павла петровича</persName> съ
+      высочайшей</emph></l>
       <l><emph rend="big">фамиліею</emph>, да возвысилось бы сіяніе ихъ.</l>
     </p>
     <p>

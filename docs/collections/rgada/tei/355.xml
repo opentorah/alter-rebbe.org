@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт неизвестного чиновника <persName ref="Северин">Северину</persName> об отправке книг и бумаг, изъятых в
-        доме <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Рапорт неизвестного чиновника <persName role="namesViewer" target="/names/Северин.html">Северину</persName> об
+        отправке книг и бумаг, изъятых в доме <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура
+        Залмана</persName>
       </p></abstract>
       <creation><date when="1800-12-11">Декабря 11 дня 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Северин" role="addressee">Северину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Северин.html">Северину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -30,15 +32,18 @@
     <fw type="pageNum" place="right">355</fw>
     <p>
       <l><salute>
-        М Г<note place="end">милостивый государь</note> мой <persName ref="Северин">Петръ Ивановичъ</persName>._
+        М Г<note place="end">милостивый государь</note> мой <persName role="namesViewer" target="/names/Северин.html"
+        >Петръ Ивановичъ</persName>._
       </salute></l>
       <l>получивъ отправленные при отношеніи</l>
       <l>вашего пр<hi rend="superscript">ва</hi><note place="end">превосходительства</note> отъ <date when="1800-12-02">
       2 декабря</date> <del rend="overstrike">за</del> съ нарочнымъ унтеръ</l>
       <l>афицеромъ матвеевымъ забранныхъ чрезъ послан-</l>
       <l>наго отъ васъ казенной палаты совѣтника</l>
-      <l>троцкій въ домѣ началника <orgName ref="Хасиды">каролинской секты</orgName></l>
-      <l>еврея <persName ref="alter-rebbe">боруховича</persName> еврейскіе книги и рукописные</l>
+      <l>троцкій въ домѣ началника <orgName role="namesViewer" target="/names/Хасиды.html">каролинской секты</orgName>
+      </l>
+      <l>еврея <persName role="namesViewer" target="/names/alter-rebbe.html">боруховича</persName> еврейскіе книги и
+      рукописные</l>
       <l>бумаги, имею честь <del rend="overstrike">увѣдомить</del> васъ <del rend="overstrike">о томъ</del></l>
       <l>М : Г мой <hi rend="superscript">о томъ извѣстить</hi> и вместе обратить нарочно присла</l>
       <l>ного <del rend="overstrike"><unclear>???</unclear></del> пребывая въ прочемъ въ истинномъ почтеніи</l>
@@ -47,10 +52,11 @@
     </p>
     <closer place="left">
       <l><fw type="docNum">№ <emph rend="underline">1006<hi rend="superscript">й</hi>.</emph></fw></l>
-      <l><placeName ref="Петербург">С.П.бургъ</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Петербург.html">С.П.бургъ</placeName></l>
       <l><date when="1800-12-11">Декабря 11 дня<lb/>
        1800</date></l>
-      <l>Его пр<hi rend="superscript">ву</hi> <persName ref="Северин">Северину</persName></l>
+      <l>Его пр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Северин.html"
+      >Северину</persName></l>
     </closer>
     <pb xml:id="p355-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/355.html#p355-2"/>
   </body></text>

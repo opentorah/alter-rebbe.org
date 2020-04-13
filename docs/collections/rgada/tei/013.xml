@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> о признании
-        ложным доноса, подписанного именем ксендза <persName ref="Чечерский">Чечерского</persName>
+        Сообщение <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> <persName
+        role="namesViewer" target="/names/Лопухин.html">Лопухину</persName> о признании ложным доноса, подписанного
+        именем ксендза <persName role="namesViewer" target="/names/Чечерский.html">Чечерского</persName>
       </p></abstract>
       <creation><date when="1798-09-06">6 сентября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -31,26 +33,33 @@
     <fw type="note" place="right">Секретно</fw>
     <fw type="docNum" place="left">№. 2245.</fw>
     <date when="1798-09-21">21 сентября_</date>
-    <salute><l>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
+    <salute>
+      <l>Милостивой Государь <persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!</l>
+    </salute>
     <p>
       <l>Препроводивъ къ вашему Превосходительству</l>
-      <l>объясненіи на два доноса жида <persName ref="Гирш_Давидович">Гирши Давыдовича</persName>,</l>
+      <l>объясненіи на два доноса жида <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гирши
+      Давыдовича</persName>,</l>
       <l>присланные ко мнѣ при почтеннѣйшемъ вашемъ</l>
       <l>отношеніи отъ <date when="1798-08-16">16. августа</date>, остается мнѣ здѣлать</l>
       <l>объясненіе и о третьемъ таковомъ же, подписанномъ</l>
-      <l>Ксендзомъ <persName ref="Чечерский">Чечерскимъ</persName>.</l>
+      <l>Ксендзомъ <persName role="namesViewer" target="/names/Чечерский.html">Чечерскимъ</persName>.</l>
     </p>
     <p>
       <l>По строгомъ изслѣдованіи нашелъ я, что и сіе</l>
       <l>третье писмо есть подложное. Дѣло шляхтича Рым-</l>
-      <l>ши съ <placeName ref="Вильна">виленскими</placeName> доминиканами производилось</l>
-      <l>въ верховномъ Литовскомъ, на время въ <placeName ref="Гродно">Гроднѣ</placeName> учре-</l>
+      <l>ши съ <placeName role="namesViewer" target="/names/Вильна.html">виленскими</placeName> доминиканами
+      производилось</l>
+      <l>въ верховномъ Литовскомъ, на время въ <placeName role="namesViewer" target="/names/Гродно.html"
+      >Гроднѣ</placeName> учре-</l>
       <l>жденномъ, правленіи. Повѣреннымъ ходатаемъ по оному</l>
       <l>дѣлу съ ихъ стороны былъ одинъ монахъ</l>
-      <l>по имяни <persName ref="Чечерский">Чечерской</persName>, которой потомъ выбранъ въ пріоры</l>
+      <l>по имяни <persName role="namesViewer" target="/names/Чечерский.html">Чечерской</persName>, которой потомъ
+      выбранъ въ пріоры</l>
       <l>ихъ монастыря, и пока находился въ семъ званіи,</l>
       <l>явился участникомъ въ открытомъ здѣсь заговорѣ,</l>
-      <l>отправленъ мною съ прочими въ <placeName ref="Петербург">Петербургъ</placeName>, и тамъ</l>
+      <l>отправленъ мною съ прочими въ <placeName role="namesViewer" target="/names/Петербург.html"
+      >Петербургъ</placeName>, и тамъ</l>
       <l>получилъ достойное воздаяніе за свое злодѣйство:</l>
       <l>слѣдовательно сего писма писать онъ не могъ.</l>
       <l>Не утверждаясь на семъ обстоятельствѣ, отыскалъ</l>
@@ -59,7 +68,8 @@
       <fw type="pageNum">13 об.</fw> и нашелъ, что она совсемъ не походитъ на руку,</l>
       <l>употребленную въ подписѣ доноса: почему вѣрно за-</l>
       <l>ключить также, что подпись подложная и впрочемъ</l>
-      <l>онъ <persName ref="Чечерский">Чечерской</persName> по руски не только писать, но и говорить</l>
+      <l>онъ <persName role="namesViewer" target="/names/Чечерский.html">Чечерской</persName> по руски не только писать,
+      но и говорить</l>
       <l>не умѣетъ. Допрашивалъ я доминикановъ, нынѣ дѣ-</l>
       <l>лами монастыря ихъ вѣдающими, кои уже съ того</l>
       <l>времени переменились, не знаютъ ли они чего о дачѣ</l>
@@ -70,9 +80,11 @@
     </p>
     <p>
       <l>Бывшіе тогда члены верховнаго Литовскаго Правленія</l>
-      <l>Господа нынѣшніе вицегубернаторъ <persName ref="Волков">Волковъ</persName>, надвор-</l>
+      <l>Господа нынѣшніе вицегубернаторъ <persName role="namesViewer" target="/names/Волков.html">Волковъ</persName>,
+      надвор-</l>
       <l>наго Губернскаго суда судья Багмевской, и почт-директоръ,</l>
-      <l>Дѣйствительной Статской совѣтникъ <persName ref="Фризель">Фризель</persName>,</l>
+      <l>Дѣйствительной Статской совѣтникъ <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризель</persName>,</l>
       <l>столь ложнымъ доносомъ чувствительно оскорбляемые,</l>
       <l>сами <sic>интерессованы</sic> будучи въ изысканіи автора сей</l>
       <l>клеветы, стараются но не могутъ узнать руки,</l>
@@ -80,7 +92,8 @@
       <l>новскій находясь тогда при Князѣ Николаѣ Васильевичѣ</l>
       <l>Репнинѣ, не былъ употребленъ въ семъ дѣлѣ, а про-</l>
       <l>изводившіе его въ уголовномъ отдѣленіи членъ</l>
-      <l>Русаковъ и секретарь Манковской находятся въ <placeName ref="Петербург">С.П.Бургѣ</placeName></l>
+      <l>Русаковъ и секретарь Манковской находятся въ <placeName role="namesViewer" target="/names/Петербург.html"
+      >С.П.Бургѣ</placeName></l>
       <l><pb xml:id="p014-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/013.html#p014-1"/>
       <fw type="pageNum" place="right">14</fw> первой думаю въ отставкѣ, а послѣдній при почто-</l>
       <l>вомъ главномъ Правленіи.</l>
@@ -93,14 +106,14 @@
       <l>Милостивой Государь!</l>
       <l>Вашего Превосходительства</l>
       <l>всепокорнѣйшій слуга</l>
-      <l><persName ref="Булгаков">Яковъ булгаковъ</persName></l>
+      <l><persName role="namesViewer" target="/names/Булгаков.html">Яковъ булгаковъ</persName></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 134.</fw></l>
       <l><date when="1798-09-06">6. Сентября 1798</date></l>
-      <l><placeName ref="Вильна">вилна</placeName></l>
-      <l>Его Превосходительству, <emph rend="underline">Гну</emph> генералу прокурору <persName ref="Лопухин">Лопухину
-      </persName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName></l>
+      <l>Его Превосходительству, <emph rend="underline">Гну</emph> генералу прокурору <persName role="namesViewer"
+      target="/names/Лопухин.html">Лопухину</persName></l>
       <l/>
     </closer>
     <pb xml:id="p014-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/013.html#p014-2"/>

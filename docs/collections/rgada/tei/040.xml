@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,11 +18,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Доклад <persName ref="Лопухин">Лопухина</persName> <persName ref="Павел_I">императору</persName> об отстутствии
-        в <placeName ref="Петербург">Санкт-Петербурге</placeName> переводчика с иврита и отсылке показаний <persName
-        ref="alter-rebbe">Шнеура Залмана</persName> в <placeName ref="Вильна">Вильно</placeName> для перевода там, а
-        также о невозможности в связи с этим отправить в столицу для дальнейших следственных действий групу <placeName
-        ref="Вильна">виленских</placeName> <orgName ref="Хасиды">хасидов</orgName>
+        Доклад <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> <persName
+        role="namesViewer" target="/names/Павел_I.html">императору</persName> об отстутствии в <placeName
+        role="namesViewer" target="/names/Петербург.html">Санкт-Петербурге</placeName> переводчика с иврита и отсылке
+        показаний <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> в <placeName
+        role="namesViewer" target="/names/Вильна.html">Вильно</placeName> для перевода там, а также о невозможности в
+        связи с этим отправить в столицу для дальнейших следственных действий групу <placeName role="namesViewer"
+        target="/names/Вильна.html">виленских</placeName> <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидов</orgName>
       </p></abstract>
       <creation><date when="1798-10-17">17 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -34,18 +39,19 @@
     <fw type="pageNum" place="right"><del rend="overstrike">452</del></fw>
     <fw type="pageNum" place="right">40</fw>
     <fw type="note" place="left margin">
-      <l><persName ref="Павел_I">Государь императоръ</persName> высочайше повелѣть соизволилъ показаніе</l>
-      <l><persName ref="alter-rebbe">Боруховича</persName> для переводу отослать <persName ref="Булгаков">Я. Булгакову
-      </persName> съ тѣмъ, чтобъ</l>
+      <l><persName role="namesViewer" target="/names/Павел_I.html">Государь императоръ</persName> высочайше повелѣть
+      соизволилъ показаніе</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> для переводу отослать
+      <persName role="namesViewer" target="/names/Булгаков.html">Я. Булгакову</persName> съ тѣмъ, чтобъ</l>
       <l>оной здѣланъ былъ тайно, и присланъ обратно поскорѣе, а при томъ</l>
       <l>предписать ему, чтобъ по окончаніи слѣдствія доставить одни слѣд-</l>
       <l>ственныя бумаги, а евреевъ въ томъ причастныхъ оставить</l>
-      <l>въ <placeName ref="Вильна">вильнѣ</placeName> подъ стражею. <date when="1798-10-17">17. октября 1798.</date>
-      </l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> подъ стражею. <date
+      when="1798-10-17">17. октября 1798.</date></l>
     </fw>
     <p>
-      <l><placeName ref="Литва">Литовской</placeName> гражданской губер-</l>
-      <l>наторъ <persName ref="Булгаков">Булгаковъ</persName> по случаю</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовской</placeName> гражданской губер-</l>
+      <l>наторъ <persName role="namesViewer" target="/names/Булгаков.html">Булгаковъ</persName> по случаю</l>
       <l>открывающейся между евреями</l>
       <l>новой секты, о чемъ онъ произво-</l>
       <l>дитъ слѣдствїе, ко мнѣ пишетъ,</l>
@@ -54,7 +60,7 @@
       <l>причастныхъ евреевъ. А какъ</l>
       <l>находящагося здѣсь объявленнаго</l>
       <l>той секты начальникомъ еврея</l>
-      <l><persName ref="alter-rebbe">Боруховича</persName> показанїе остается</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> показанїе остается</l>
       <l>по сїе время безъ перевода, по не-</l>
       <l>имѣнїю ни въ Александро-невской</l>
       <l>симинарїи, ни въ коллегїи иностран-</l>
@@ -70,8 +76,8 @@
       <l>угодно ли будетъ высочайше</l>
       <pb xml:id="p040-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/040.html#p040-2"/>
       <fw type="pageNum">40об.</fw>
-      <l>повелѣть оную <persName ref="alter-rebbe">Боруховича</persName> бумагу</l>
-      <l>отослать въ <placeName ref="Вильна">Вильну</placeName> для нужнаго</l>
+      <l>повелѣть оную <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> бумагу</l>
+      <l>отослать въ <placeName role="namesViewer" target="/names/Вильна.html">Вильну</placeName> для нужнаго</l>
       <l>иногда при слѣдствїи соображенїя,</l>
       <l>гдѣ уповательно удобнѣе отъи-</l>
       <l>скаться можетъ переводчикъ,</l>

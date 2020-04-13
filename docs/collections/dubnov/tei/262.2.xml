@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Кутузов">Кутузов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Кутузов.html">Кутузов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 12. Отзыв <persName ref="Кутузов">Кутузова</persName> <persName ref="Обольянинов">Обольянинову</persName> о
-          претензии <persName ref="Авигдор">Авигдора</persName>
+          № 12. Отзыв <persName role="namesViewer" target="/names/Кутузов.html">Кутузова</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о претензии <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/050.html">050</ref> в РГИА 2213
@@ -25,39 +27,51 @@
       </abstract>
       <creation><date when="1800-11-12">1800-11-12</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p262" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/262.2.html#p262"/> №
-      12. Отзывъ <placeName ref="Литва">Литовскаго</placeName> <persName ref="Кутузов">губернатора</persName> о
-      претензіи <persName ref="Авигдор">Авигдора</persName>.
+      12. Отзывъ <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> <persName
+      role="namesViewer" target="/names/Кутузов.html">губернатора</persName> о претензіи <persName role="namesViewer"
+      target="/names/Авигдор.html">Авигдора</persName>.
     </head>
-    <salute>Милостивый государь мой <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute>
+    <salute>
+      Милостивый государь мой <persName role="namesViewer" target="/names/Обольянинов.html">Петръ
+      Хрисанфовичъ</persName>!
+    </salute>
     <p>
       Вслѣдствіи почтенѣйшаго отношенія вашего высокопр-ва, съ изображеніемъ въ ономъ высочайшаго Государя Имп.
-      повелѣнія о возвратѣ оберъ рабину <persName ref="Авигдор">Хаиму</persName> внесенныхъ будто имъ въ кагалъ 400-хъ
-      червонныхъ и о удовлетвореніи за понесенные имъ при лишеніи того мѣста убытки, предписано отъ меня было <placeName
-      ref="Литва">Литовскому</placeName> гражданскому губернатору сдѣлать <sic>строгоо</sic> изысканіе по <orgName
-      ref="Виленский_кагал">виленскому кагалу</orgName>, участвоваль-ли онъ въ помянутомъ лишеніи мѣста оберъ рабина
-      <persName ref="Авигдор">Хаима</persName> и были ли внесены въ оный отъ него 400 червонныхъ, и въ случаѣ
-      прикосновенія его къ тому или другому, много или мало, удовлетворить по мѣрѣ того <persName ref="Авигдор">
-      Хаима</persName>: на что получилъ вчерашняго числа отъ прописаннаго господина губернатора донесеніе, что бывшій
-      оберъ рабинъ <persName ref="Авигдор">Хаимъ</persName> избранъ былъ въ сіе званіе <placeName ref="Минская_губерния"
-      >Минской губерніи</placeName> <orgName ref="Пинский_кагал">Пинскимъ</orgName> и <orgName ref="Карлинский_кагал">
-      Карлинскимъ кагалами</orgName>, и какъ <orgName ref="Виленский_кагал">Виленскій</orgName> не имѣетъ съ тѣми
-      никакой связи, то, не участвовавши въ выборѣ <persName ref="Авигдор">Хаима</persName>, не имелъ онъ никакого
-      участія ни въ внесенныхъ имъ 400 червонныхъ, ни въ лишеніи сего званія. Изъ сего явствуетъ, что <orgName
-      ref="Виленский_кагал">Виленскій кагалъ</orgName> и не обязанъ къ удовлетворенію оберъ рабина <persName
-      ref="Авигдор">Хаима</persName> въ его претензіяхъ, о чемъ извѣщая васъ, милостивый государь мой, съ совершеннымъ
-      почтеніемъ и преданностію имѣю честь быть вашего <pb xml:id="p263" rendition="page" role="facsimileViewer"
-      target="/collections/dubnov/facs/262.2.html#p263"/> высокопревосходительства всепокорнѣйшимъ слугою <persName
-      ref="Кутузов">Михайла Голенищевъ-Кутузовъ</persName>.
+      повелѣнія о возвратѣ оберъ рабину <persName role="namesViewer" target="/names/Авигдор.html">Хаиму</persName>
+      внесенныхъ будто имъ въ кагалъ 400-хъ червонныхъ и о удовлетвореніи за понесенные имъ при лишеніи того мѣста
+      убытки, предписано отъ меня было <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName>
+      гражданскому губернатору сдѣлать <sic>строгоо</sic> изысканіе по <orgName role="namesViewer"
+      target="/names/Виленский_кагал.html">виленскому кагалу</orgName>, участвоваль-ли онъ въ помянутомъ лишеніи мѣста
+      оберъ рабина <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName> и были ли внесены въ оный
+      отъ него 400 червонныхъ, и въ случаѣ прикосновенія его къ тому или другому, много или мало, удовлетворить по мѣрѣ
+      того <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName>: на что получилъ вчерашняго числа
+      отъ прописаннаго господина губернатора донесеніе, что бывшій оберъ рабинъ <persName role="namesViewer"
+      target="/names/Авигдор.html">Хаимъ</persName> избранъ былъ въ сіе званіе <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">Минской губерніи</placeName> <orgName role="namesViewer"
+      target="/names/Пинский_кагал.html">Пинскимъ</orgName> и <orgName role="namesViewer"
+      target="/names/Карлинский_кагал.html">Карлинскимъ кагалами</orgName>, и какъ <orgName role="namesViewer"
+      target="/names/Виленский_кагал.html">Виленскій</orgName> не имѣетъ съ тѣми никакой связи, то, не участвовавши въ
+      выборѣ <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName>, не имелъ онъ никакого участія
+      ни въ внесенныхъ имъ 400 червонныхъ, ни въ лишеніи сего званія. Изъ сего явствуетъ, что <orgName
+      role="namesViewer" target="/names/Виленский_кагал.html">Виленскій кагалъ</orgName> и не обязанъ къ удовлетворенію
+      оберъ рабина <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName> въ его претензіяхъ, о чемъ
+      извѣщая васъ, милостивый государь мой, съ совершеннымъ почтеніемъ и преданностію имѣю честь быть вашего <pb
+      xml:id="p263" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/262.2.html#p263"/>
+      высокопревосходительства всепокорнѣйшимъ слугою <persName role="namesViewer" target="/names/Кутузов.html">Михайла
+      Голенищевъ-Кутузовъ</persName>.
     </p>
     <p><date calendar="#julian" when="1800-11-12">Ноября 12-го дня 1800 года</date>.</p>
-    <p>Его высокопревосходительству Генералу отъ инфантеріи <persName ref="Обольянинов">Обольянинову</persName>.</p>
+    <p>
+      Его высокопревосходительству Генералу отъ инфантеріи <persName role="namesViewer" target="/names/Обольянинов.html"
+      >Обольянинову</persName>.
+    </p>
   </body></text>
 </TEI>

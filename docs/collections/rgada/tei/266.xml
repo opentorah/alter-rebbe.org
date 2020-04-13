@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +17,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Северин">Северину</persName> о
-        задержании <persName ref="alter-rebbe">Шнеура Залмана</persName> и доставлении его в <placeName ref="Петербург">
-        Санкт-Петербург</placeName>
+        Распоряжение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+        role="namesViewer" target="/names/Северин.html">Северину</persName> о задержании <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName> и доставлении его в <placeName role="namesViewer"
+        target="/names/Петербург.html">Санкт-Петербург</placeName>
       </p></abstract>
       <creation><date when="1800-10">октябрь 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Северин" role="addressee">Северину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Северин.html">Северину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,20 +37,27 @@
       <fw type="note">секретно</fw>
       <fw type="pageNum" place="right"><del rend="overstrike">815</del></fw>
     </l>
-    <salute><l>Милостивый Государь мой <persName ref="Северин">Петръ Ивановичъ</persName>!</l></salute>
+    <salute>
+      <l>Милостивый Государь мой <persName role="namesViewer" target="/names/Северин.html">Петръ
+      Ивановичъ</persName>!</l>
+    </salute>
     <p>
       <l>Имѣя высочайшее повеленiе, чтобъ</l>
-      <l>начальника <orgName ref="Хасиды">Королинской Секты или хо-<lb/>
-       сидовъ</orgName> еврѣя <persName ref="alter-rebbe">Боруховича</persName> взять сюда,</l>
+      <l>начальника <orgName role="namesViewer" target="/names/Хасиды.html">Королинской Секты или хо-<lb/>
+       сидовъ</orgName> еврѣя <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> взять
+      сюда,</l>
       <l>прошу ваше превосходительство при-</l>
-      <l>казать онаго <persName ref="alter-rebbe">Боруховича</persName>, въ мѣстечкѣ</l>
-      <l><placeName ref="Лиозно">Хозагъ</placeName><note place="end">вероятно, название было записано со слуха и не
-      понято</note>, немедленно отыскать и</l>
-      <l>отдать вручителямъ сего <orgName ref="Сенат">сенат-<lb/>
-       скимъ</orgName> курiерамъ <persName ref="Петров">Петрову</persName> и <persName ref="Сукин">Сукину</persName></l>
+      <l>казать онаго <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName>, въ
+      мѣстечкѣ</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">Хозагъ</placeName><note place="end">вероятно,
+      название было записано со слуха и не понято</note>, немедленно отыскать и</l>
+      <l>отдать вручителямъ сего <orgName role="namesViewer" target="/names/Сенат.html">сенат-<lb/>
+       скимъ</orgName> курiерамъ <persName role="namesViewer" target="/names/Петров.html">Петрову</persName> и <persName
+      role="namesViewer" target="/names/Сукин.html">Сукину</persName></l>
       <l>для доставленiя ко мнѣ. между тѣмъ</l>
-      <l><fw type="note">о наблюденiи за <orgName ref="Хасиды">каролинскою сектою</orgName>, и российскими
-      католиками</fw><note place="end">пояснительное замечание, вписанное мелким почерком между строк</note></l>
+      <l><fw type="note">о наблюденiи за <orgName role="namesViewer" target="/names/Хасиды.html">каролинскою
+      сектою</orgName>, и российскими католиками</fw><note place="end">пояснительное замечание, вписанное мелким
+      почерком между строк</note></l>
       <l><del rend="overstrike"><unclear>за росси и оликами</unclear></del>, дабы не было соблазну</l>
       <l>или неповиновенiя власти имѣть наблюде-</l>
       <l>нiе и естьлибы что посему открываться</l>
@@ -65,8 +74,9 @@
     <closer place="left">
       <l><date when="1800-10-30">октября 30. дня<lb/>
        1800.</date></l>
-      <l><placeName ref="Петербург">Санктпетербургъ</placeName></l>
-      <l>Его Пр<hi rend="superscript">ву</hi> <persName ref="Северин">Северину</persName>.</l>
+      <l><placeName role="namesViewer" target="/names/Петербург.html">Санктпетербургъ</placeName></l>
+      <l>Его Пр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Северин.html"
+      >Северину</persName>.</l>
       <l/>
       <l/>
     </closer>

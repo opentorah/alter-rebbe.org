@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,10 +16,12 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Черновики писем <persName ref="Лопухин">Лопухина</persName> <persName ref="Бенкендорф">Бенкендорфу</persName> и
-        <persName ref="Булгаков">Булгакову</persName> о возвращении в <placeName ref="Вильна">Вильно</placeName>
-        <orgName ref="Хасиды">хасидов</orgName>, ранее отправленных в <placeName ref="Петербург">Санкт-Петербург
-        </placeName>
+        Черновики писем <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> <persName
+        role="namesViewer" target="/names/Бенкендорф.html">Бенкендорфу</persName> и <persName role="namesViewer"
+        target="/names/Булгаков.html">Булгакову</persName> о возвращении в <placeName role="namesViewer"
+        target="/names/Вильна.html">Вильно</placeName> <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидов</orgName>, ранее отправленных в <placeName role="namesViewer" target="/names/Петербург.html"
+        >Санкт-Петербург</placeName>
       </p></abstract>
       <creation><date when="1798-11-10">10 ноября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -28,24 +31,26 @@
   <text xml:lang="ru"><body>
     <pb xml:id="p056-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/056.html#p056-1"/>
     <fw type="pageNum" place="right">56.</fw>
-    <salute><l>Мил. Г. мой <persName ref="Бенкендорф">Христофоръ Ивановичъ</persName>!</l></salute>
+    <salute>
+      <l>Мил. Г. мой <persName role="namesViewer" target="/names/Бенкендорф.html">Христофоръ Ивановичъ</persName>!</l>
+    </salute>
     <p>
       <l>Получивъ увѣдомленіе отъ</l>
       <l>литовскаго гражданскаго губер</l>
       <l>натора господина дѣистви</l>
       <l>тельнаго тайнаго совѣтника</l>
-      <l><persName ref="Булгаков">булгакова</persName>, о требованіи его</l>
+      <l><persName role="namesViewer" target="/names/Булгаков.html">булгакова</persName>, о требованіи его</l>
       <l>къ вашему высокопр<hi rend="superscript">ву</hi> отправлен-</l>
       <l>номъ, чтобы слѣдующія</l>
       <l>отъ него сюда арестанты</l>
       <l>евреи остановлены были</l>
-      <l>въ <placeName ref="Рига">ригѣ</placeName>, нужнымъ</l>
+      <l>въ <placeName role="namesViewer" target="/names/Рига.html">ригѣ</placeName>, нужнымъ</l>
       <l>нахожу сообщить вамъ</l>
       <l>мил. Г. мой чтобъ благо</l>
       <l>волили приказать отослать</l>
-      <l>ихъ обратно въ <placeName ref="Вильна">вильну</placeName></l>
-      <l>къ г<hi rend="superscript">ну</hi> <persName ref="Булгаков">булгакову</persName> <hi rend="superscript">и меня
-      увѣдомить.</hi> Въ</l>
+      <l>ихъ обратно въ <placeName role="namesViewer" target="/names/Вильна.html">вильну</placeName></l>
+      <l>къ г<hi rend="superscript">ну</hi> <persName role="namesViewer" target="/names/Булгаков.html"
+      >булгакову</persName> <hi rend="superscript">и меня увѣдомить.</hi> Въ</l>
       <l>прочемъ <del rend="overstrike">пребываю</del> съ</l>
       <l>совершенным почтеніемъ</l>
       <l>имѣю честь быть.</l>
@@ -55,7 +60,7 @@
     <closer place="left">
       <l><fw type="docNum">№ 916<hi rend="superscript">й</hi></fw></l>
       <l><date when="1798-11-10">10. ноября 1798</date></l>
-      <l><persName ref="Бенкендорф">бенкиндорфу</persName></l>
+      <l><persName role="namesViewer" target="/names/Бенкендорф.html">бенкиндорфу</persName></l>
     </closer>
     <salute><l>Мил. Г. мой Яковъ Ивановичъ</l></salute>
     <p>
@@ -66,13 +71,13 @@
       <l>тору господину генералу отъ</l>
       <pb xml:id="p056-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/056.html#p056-2"/>
       <fw type="pageNum">56 об.</fw>
-      <l>инфантеріи <persName ref="Бенкендорф">бенкендорфу</persName></l>
+      <l>инфантеріи <persName role="namesViewer" target="/names/Бенкендорф.html">бенкендорфу</persName></l>
       <l>чтобы слѣдующія сюда изъ</l>
-      <l><placeName ref="Вильна">вильны</placeName> арестанты евреи</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильны</placeName> арестанты евреи</l>
       <l>остановлены были <unclear>???</unclear></l>
       <l>отнесся я къ нему, чтобы</l>
       <l>приказалъ возвратить</l>
-      <l>ихъ в <placeName ref="Вильна">вильну</placeName>, о чемъ васъ</l>
+      <l>ихъ в <placeName role="namesViewer" target="/names/Вильна.html">вильну</placeName>, о чемъ васъ</l>
       <l>мил. Г. мой увѣдомляю</l>
       <l>имѣю честь быть съ</l>
       <l>совершеннымъ почтеніемъ</l>
@@ -83,7 +88,7 @@
       <l><fw type="docNum">№ 917.<hi rend="superscript">й</hi></fw></l>
       <l><date when="1798-11-10">10 ноября<lb/>
        1798.</date></l>
-      <l><persName ref="Булгаков">булгакову</persName></l>
+      <l><persName role="namesViewer" target="/names/Булгаков.html">булгакову</persName></l>
     </closer>
   </body></text>
 </TEI>

@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Авигдор">Авигдор Хаймович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Авигдор.html">Авигдор Хаймович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Обвинения <persName ref="Авигдор">Авигдора</persName> против <orgName ref="Хасиды">хасидов</orgName>
+        Обвинения <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> против <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>
       </p></abstract>
       <creation><date when="1800-11-15/16">15 или 16 ноября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -29,16 +31,17 @@
     <fw type="pageNum" place="right"><del rend="overstrike">287</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
     <head>
-      <l>Оберъ рабинъ <persName ref="Авигдор">Абикдаръ Хаймовичъ</persName> про-</l>
-      <l>тивъ <persName ref="alter-rebbe">Залмана Боруховича</persName>, начальника бѣло-</l>
-      <l>руской <orgName ref="Хасиды">Каролинской Секты, или хоседовъ</orgName></l>
+      <l>Оберъ рабинъ <persName role="namesViewer" target="/names/Авигдор.html">Абикдаръ Хаймовичъ</persName> про-</l>
+      <l>тивъ <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана Боруховича</persName>, начальника
+      бѣло-</l>
+      <l>руской <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской Секты, или хоседовъ</orgName></l>
       <l>обьявляетъ слѣдуюшее</l>
     </head>
     <p>
-      <l>1. въ книгѣ Секты <orgName ref="Хасиды">Каролинской</orgName></l>
+      <l>1. въ книгѣ Секты <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской</orgName></l>
       <l>или Хоседовъ, сочиненной Главными</l>
-      <l>учителями Израилемъ <persName ref="Баал_Шем_Тов">Балшентовым</persName>, <note place="end">продолжение строки -
-      на правом поле страницы</note></l>
+      <l>учителями Израилемъ <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Балшентовым</persName>,
+      <note place="end">продолжение строки - на правом поле страницы</note></l>
       <fw type="note" place="right margin">
         <l>которой по Кабалистикѣ</l>
         <l>могъ называть Ангеловъ</l>
@@ -48,7 +51,8 @@
         <l>и больные имѣли къ</l>
         <l>нему прибѣжище</l>
       </fw>
-      <l>и <persName ref="maggid">беркою</persName> <placeName ref="Мезеричи">мозерищинымъ</placeName>, написано,</l>
+      <l>и <persName role="namesViewer" target="/names/maggid.html">беркою</persName> <placeName role="namesViewer"
+      target="/names/Мезеричи.html">мозерищинымъ</placeName>, написано,</l>
       <l>что человѣкъ долженъ всегда</l>
       <l>быть веселъ не только во время</l>
       <l>молитвы, но и во всякое время;</l>
@@ -76,7 +80,7 @@
     <p>
       <l><pb xml:id="p283-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/283.html#p283-2"/>
       <fw type="pageNum" place="right">283 об</fw><note place="end">номер вписан карандашом</note> 3. Въ той же <orgName
-      ref="Хасиды">Каролинской</orgName> КнигѢ</l>
+      role="namesViewer" target="/names/Хасиды.html">Каролинской</orgName> КнигѢ</l>
       <l>написано, что человѢкъ не дол-</l>
       <l>женъ бояться никакого тво-</l>
       <l>ренiя: ибо хотя и случается,</l>
@@ -120,7 +124,8 @@
       <l>лаетъ порочнаго дѣла.</l>
     </p>
     <p>
-      <l>6. въ Книгахъ <orgName ref="Хасиды">Каролинскихъ</orgName> <del rend="overstrike">написано</del>,</l>
+      <l>6. въ Книгахъ <orgName role="namesViewer" target="/names/Хасиды.html">Каролинскихъ</orgName> <del
+      rend="overstrike">написано</del>,</l>
       <l><del rend="overstrike">что мысли человѣка</del> въ некото-</l>
       <l>рыхъ мѣстахъ называются мысль,</l>
       <l>глаголъ и <unclear>жизненность</unclear> создателемъ;</l>
@@ -136,12 +141,12 @@
       <l>алека.</l>
     </p>
     <p>
-      <l>7. Хотя <orgName ref="Хасиды">каролинской</orgName> равинъ</l>
-      <l><persName ref="alter-rebbe">Салманъ боруховичъ</persName> и объяснилъ,</l>
+      <l>7. Хотя <orgName role="namesViewer" target="/names/Хасиды.html">каролинской</orgName> равинъ</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Салманъ боруховичъ</persName> и объяснилъ,</l>
       <l>что будто изъдревле обыкновенно</l>
       <l><pb xml:id="p284-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/283.html#p284-2"/>
       <fw type="pageNum">284 об</fw><note place="end">номер вписан карандашом</note> Собирать деньги на содержанiе</l>
-      <l>богумолящихся в <placeName ref="Иерусалим">Јерусалимѣ</placeName>,</l>
+      <l>богумолящихся в <placeName role="namesViewer" target="/names/Иерусалим.html">Јерусалимѣ</placeName>,</l>
       <l>однакожъ не такъ, какъ теперь;</l>
       <l>ежели справится по книгамъ,</l>
       <l>то видѣть можно, что давнiи</l>
@@ -150,16 +155,16 @@
       <l>что по еврейской религiи должно оста-</l>
       <l>влять девять частей на домашнихъ</l>
       <l>убогихъ, а десятую отсылать на</l>
-      <l>содержанiе <placeName ref="Иерусалим">јерусалимскихъ</placeName>.</l>
+      <l>содержанiе <placeName role="namesViewer" target="/names/Иерусалим.html">јерусалимскихъ</placeName>.</l>
     </p>
     <p>
       <l>8 чтожъ принадлежитъ до прочихъ</l>
       <l>несогласностей и злоупотребленiи</l>
-      <l>секты <orgName ref="Хасиды">Каролинской</orgName> со старымъ</l>
+      <l>секты <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской</orgName> со старымъ</l>
       <l>еврейскимъ Закономъ, то не же-</l>
       <l>лаетъ и не въ силахъ симъ <hi rend="superscript">о томъ</hi> доказать,</l>
       <l>а проситъ чтобы выписать всѢхъ</l>
-      <l>рабиновъ <orgName ref="Хасиды">Королинской Секты</orgName></l>
+      <l>рабиновъ <orgName role="namesViewer" target="/names/Хасиды.html">Королинской Секты</orgName></l>
       <l>и столько же рабиновъ стараго</l>
       <l>Еврейскаго Закона.</l>
     </p>
@@ -168,17 +173,18 @@
       <fw type="pageNum" place="right">285</fw><note place="end">номер вписан карандашом</note>
       <fw type="pageNum" place="right"><del rend="overstrike">289</del></fw><note place="end">номер записан чернилами и
       вычеркнут карандашом</note>
-      <l>9. <orgName ref="Хасиды">Каралинскою Сектою</orgName> называютъ</l>
-      <l>оберъ рабинъ и прочїе <persName ref="alter-rebbe">Борухо-<lb/>
+      <l>9. <orgName role="namesViewer" target="/names/Хасиды.html">Каралинскою Сектою</orgName> называютъ</l>
+      <l>оберъ рабинъ и прочїе <persName role="namesViewer" target="/names/alter-rebbe.html">Борухо-<lb/>
        вича</persName> и его сообщниковъ по тому,</l>
       <l>что по смерти вышепомянутыхъ</l>
-      <l>двухъ сочинителей Книги <persName ref="Баал_Шем_Тов">балшем-<lb/>
-       това</persName> и <persName ref="maggid">мезерицкаго</persName> были перво-</l>
-      <l>начальныя послѣдователи <persName ref="Арон">Ааронъ</persName></l>
-      <l>и <persName ref="Соломон">Соломонъ</persName> мѣстечка <placeName ref="Каролины">Каролины</placeName></l>
-      <l>въ <placeName ref="Минская_губерния">Минской губернїи</placeName>. <orgName ref="Хасиды">Хоседами</orgName>
-      име-</l>
-      <l>нуютъ себя <orgName ref="Хасиды">Каролины</orgName>, что зна-</l>
+      <l>двухъ сочинителей Книги <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">балшем-<lb/>
+       това</persName> и <persName role="namesViewer" target="/names/maggid.html">мезерицкаго</persName> были перво-</l>
+      <l>начальныя послѣдователи <persName role="namesViewer" target="/names/Арон.html">Ааронъ</persName></l>
+      <l>и <persName role="namesViewer" target="/names/Соломон.html">Соломонъ</persName> мѣстечка <placeName
+      role="namesViewer" target="/names/Каролины.html">Каролины</placeName></l>
+      <l>въ <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской губернїи</placeName>. <orgName
+      role="namesViewer" target="/names/Хасиды.html">Хоседами</orgName> име-</l>
+      <l>нуютъ себя <orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName>, что зна-</l>
       <l>читъ <del rend="overstrike">правѣдный</del> благодѣтельный.</l>
       <l>Сектою же называются оне потому,</l>
       <l>что они отмѣнили обрядъ еврей-</l>
@@ -192,18 +198,20 @@
     вычеркнут карандашом</note>
     <fw type="pageNum" place="right">286</fw><note place="end">номер вписан карандашом</note>
     <p>
-      <l>10<hi rend="superscript">и</hi>. <orgName ref="Хасиды">Каролины</orgName> <del rend="overstrike">пославши</del>
-      <hi rend="superscript">отправивъ въ <placeName ref="Палестина">израилскій край</placeName></hi> трехъ своихъ
-      раввиновъ, а имянно:</l>
-      <l>раввина шепетовскаго, Абрама <placeName ref="Калич">калискаго</placeName> и <persName ref="Арон">Арона
-      </persName></l>
-      <l><placeName ref="Витебск">витебскаго</placeName>, посылаютъ къ нимъ большія суммы.</l>
+      <l>10<hi rend="superscript">и</hi>. <orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName>
+      <del rend="overstrike">пославши</del> <hi rend="superscript">отправивъ въ <placeName role="namesViewer"
+      target="/names/Палестина.html">израилскій край</placeName></hi> трехъ своихъ раввиновъ, а имянно:</l>
+      <l>раввина шепетовскаго, Абрама <placeName role="namesViewer" target="/names/Калич.html">калискаго</placeName> и
+      <persName role="namesViewer" target="/names/Арон.html">Арона</persName></l>
+      <l><placeName role="namesViewer" target="/names/Витебск.html">витебскаго</placeName>, посылаютъ къ нимъ большія
+      суммы.</l>
       <l>раввины каралинскія или почтеннныя ихъ посланики</l>
       <l>разъезжая по разнымъ мѣстамъ, <del rend="overstrike">гдѣ издерживаются</del> на ижди</l>
       <l>веніи жителеи оныхъ евреевъ <del rend="overstrike">коихъ</del>; <del rend="overstrike">ибо дѣлаютъ тамо долги,
       собираютъ <unclear>???</unclear></del> <hi rend="superscript">когда пріезжаютъ въ какое мѣсто</hi></l>
       <l>дѣлаются тамо для нихъ великія балы, на которыя</l>
-      <l>собираются всѣ тамошныя <orgName ref="Хасиды">каролины</orgName>, затѣмъ тѣж пріезжя</l>
+      <l>собираются всѣ тамошныя <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName>, затѣмъ тѣж
+      пріезжя</l>
       <l>посланники съ знатнѣйшими того мѣста</l>
       <l>королинами идутъ къ каждому хозяину,</l>
       <l>склоняя ихъ словами, и тѣ хозяева стыдясь</l>
@@ -211,14 +219,16 @@
       <l><del rend="overstrike">что</del> по скольку каждой хозяинъ долженъ <del rend="overstrike">взнести</del> вносить
       </l>
       <l>еженедѣльно, на содержаніе богомолящихся</l>
-      <l>въ <placeName ref="Палестина">израильскомъ краѣ</placeName>; послѣ того <del rend="overstrike">должны</del></l>
+      <l>въ <placeName role="namesViewer" target="/names/Палестина.html">израильскомъ краѣ</placeName>; послѣ того <del
+      rend="overstrike">должны</del></l>
       <l>принуждены евреи <del rend="overstrike">въ мѣсте</del> тѣхъ мѣстъ дать имъ посланникамъ деньги</l>
       <l>за ихъ труды. На что употребляются тѣ</l>
       <l>деньги, которые съ евреевъ собраны на заплату</l>
       <l>подушнаго<note place="end">подушного сбора, налога по числу душ – жителей</note> <del rend="overstrike">
       денегъ</del>, и остаются на нихъ</l>
       <l>казенныя недоимки, а бѣдныя умираютъ</l>
-      <l>съ голоду. _Також <orgName ref="Хасиды">каролины</orgName> <del rend="overstrike">вездѣ</del></l>
+      <l>съ голоду. _Також <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName> <del
+      rend="overstrike">вездѣ</del></l>
       <l>по стяжательству своему почти вездѣ</l>
       <l><del rend="overstrike">стараются чтобы они были <unclear>???</unclear> началниками тѣми кои</del>въ распоря-
       </l>
@@ -234,9 +244,10 @@
     <p>
       <pb xml:id="p286-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/283.html#p286-2"/>
       <fw type="pageNum">286 об.</fw><note place="end">номер вписан карандашом</note>
-      <l>11 Присяга у <orgName ref="Хасиды">каролиновъ</orgName> за ничто почитается.</l>
-      <l>что можно доказать въ городѣ <placeName ref="Вильна">вильнѣ, но стѣмъ</placeName><note place="end">окончание
-      п.11 вписано на левом поле страницы</note></l>
+      <l>11 Присяга у <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> за ничто
+      почитается.</l>
+      <l>что можно доказать въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ, но
+      стѣмъ</placeName><note place="end">окончание п.11 вписано на левом поле страницы</note></l>
     </p>
     <fw type="note" place="left margin">
       <l>чтобы</l>
@@ -245,7 +256,7 @@
       <l>рейскія</l>
       <l>началники</l>
       <l>не были</l>
-      <l>изъ <orgName ref="Хасиды">кара<lb/>
+      <l>изъ <orgName role="namesViewer" target="/names/Хасиды.html">кара<lb/>
        линовъ</orgName> и</l>
       <l><del rend="overstrike">съ тѣмъ</del></l>
       <l>дабы нуж</l>
@@ -256,7 +267,7 @@
       <l>ихъ боятся</l>
     </fw>
     <p>
-      <l>12 <orgName ref="Хасиды">Каролины</orgName> никакого къ отцамъ и матерямъ</l>
+      <l>12 <orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName> никакого къ отцамъ и матерямъ</l>
       <l>почтенія не имѣютъ, Говоря „что отѣцъ или мать <del rend="overstrike"><unclear>???</unclear></del></l>
       <l>произвели его на Свѣтъ ради прихоти своей, и для того</l>
       <l>не должно ихъ почитать; но матери</l>
@@ -264,7 +275,8 @@
       <l>у нея высасывали„.</l>
     </p>
     <p>
-      <l>13 всѣ они <orgName ref="Хасиды">королины</orgName> воруютъ у отцовъ, матерей</l>
+      <l>13 всѣ они <orgName role="namesViewer" target="/names/Хасиды.html">королины</orgName> воруютъ у отцовъ,
+      матерей</l>
       <l>и женъ своихъ завѣдомо<del rend="overstrike">мъ</del> ихъ раввиновъ деньги</l>
       <l>и даютъ тѣмъ же раввинамиъ; хотя</l>
       <l>по еврейскимъ <del rend="overstrike">правиламъ</del> установленіямъ</l>
@@ -283,8 +295,9 @@
     </p>
     <p>
       <l>15. Во время праздниковъ еврейскихъ <del rend="overstrike">отъ</del> прибываютъ</l>
-      <l><orgName ref="Хасиды">каралини</orgName> въ мѣстечко <placeName ref="Лиозно">Ложню</placeName> къ равину своему
-      <persName ref="alter-rebbe">Саламону<lb/>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каралини</orgName> въ мѣстечко <placeName
+      role="namesViewer" target="/names/Лиозно.html">Ложню</placeName> къ равину своему <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Саламону<lb/>
        боруховичу</persName> такъ, какъ и къ прочимъ ихъ равинамъ</l>
       <l><del rend="overstrike">Хаимовичу</del>, <del rend="overstrike">числомъ</del> по тысячи пятисотъ</l>
       <l>и болѣе человѣкъ, и причиняется отъ</l>
@@ -306,7 +319,7 @@
       <l>проповеди получать письменно.</l>
     </p>
     <p>
-      <l>16. Когда раввины ихъ <orgName ref="Хасиды">каралинъ</orgName></l>
+      <l>16. Когда раввины ихъ <orgName role="namesViewer" target="/names/Хасиды.html">каралинъ</orgName></l>
       <l>ездятъ куда, то даютъ имъ</l>
       <l>вездѣ есть и пить, равно и <del rend="overstrike"><unclear>???</unclear></del></l>
       <l>подарки, за иждивеніемъ евреевъ.</l>
@@ -315,7 +328,7 @@
       <l>17 все вышеписанное написалъ я, <del rend="overstrike">есть</del></l>
       <l>изъ обыкновенныхъ разговоровъ</l>
       <l>тѣхъ евреевъ которыя ж</l>
-      <l>суть изъ <orgName ref="Хасиды">секты королинской</orgName></l>
+      <l>суть изъ <orgName role="namesViewer" target="/names/Хасиды.html">секты королинской</orgName></l>
     </p>
     <p>
       <pb xml:id="p287-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/283.html#p287-2"/>
@@ -324,11 +337,12 @@
       <l>ныхъ мною обстоя</l>
       <l>тельствахъ извѣстны</l>
       <l>евреи жители <del rend="overstrike">мѣстечка</del> городовъ</l>
-      <l><placeName ref="Вильна">вилны</placeName>, и <placeName ref="Слуцк">слуцка</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилны</placeName>, и <placeName role="namesViewer"
+      target="/names/Слуцк.html">слуцка</placeName></l>
     </p>
     <p>
       <l>19 а виделъ я, что <del rend="overstrike">когда</del> естли кто изъ</l>
-      <l>евреевъ желаетъ пристать къ <orgName ref="Хасиды">каро<lb/>
+      <l>евреевъ желаетъ пристать къ <orgName role="namesViewer" target="/names/Хасиды.html">каро<lb/>
        линской сектѣ</orgName>, долженъ тотъ</l>
       <l>прежде притти къ раввину короли</l>
       <l>новъ, <del rend="overstrike">дать</del> представить</l>
@@ -351,7 +365,7 @@
       <l>что онъ подписалъ <del rend="overstrike"><unclear>???</unclear> упомянутой</del></l>
       <l>вышеприведенной рее</l>
       <l>стръ. По сему самому</l>
-      <l><orgName ref="Хасиды">каралины</orgName> исполняютъ</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каралины</orgName> исполняютъ</l>
       <l>все то, что раввины</l>
       <l>приказываютъ имъ</l>
       <l>съ такою точностію,</l>

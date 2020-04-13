@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 8. Отношение <persName ref="Обольянинов">Обольянинова</persName> к <persName ref="Кутузов">Кутузову
-          </persName> о необходимости отыскать старое дело о сектантах в <placeName ref="Вильна">Вильне</placeName>
+          № 8. Отношение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> к
+          <persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о необходимости отыскать старое
+          дело о сектантах в <placeName role="namesViewer" target="/names/Вильна.html">Вильне</placeName>
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/028.html">028</ref> в РГИА 2213
@@ -25,42 +27,49 @@
       </abstract>
       <creation><date when="1800-07-09">1800-07-09</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p255" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/255.2.html#p255"/> № 8.
-      Отношеніе <persName ref="Обольянинов">Обольянинова</persName> къ <placeName ref="Литва">Литовскому</placeName>
-      <persName ref="Кутузов">губернатору</persName> о необходимости отыскать старое дѣло о сектантахъ въ <placeName
-      ref="Вильна">Вильнѣ</placeName>.
+      Отношеніе <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> къ <placeName
+      role="namesViewer" target="/names/Литва.html">Литовскому</placeName> <persName role="namesViewer"
+      target="/names/Кутузов.html">губернатору</persName> о необходимости отыскать старое дѣло о сектантахъ въ
+      <placeName role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName>.
     </head>
-    <salute>Милостивый государь мой <persName ref="Кутузов">Михайло Иларіоновичъ</persName>!</salute>
+    <salute>
+      Милостивый государь мой <persName role="namesViewer" target="/names/Кутузов.html">Михайло Иларіоновичъ</persName>!
+    </salute>
     <p>
       Получивъ почтеннѣйшее отношеніе вашего высокопревосходительства съ извѣщеніемъ, что вы доставленную отъ меня
-      жалобу оберть-раббина <persName ref="Авигдор">Хаима</persName>, по упоминаемому въ ней городу <placeName
-      ref="Пинск">Пинску</placeName> почитая принадлежащею до разсмотрѣнія <placeName ref="Минская_губерния">Минской
-      губерніи</placeName>, отправили оную къ тамошнему гражданскому губернатору <persName ref="Карнеев">
+      жалобу оберть-раббина <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName>, по упоминаемому
+      въ ней городу <placeName role="namesViewer" target="/names/Пинск.html">Пинску</placeName> почитая принадлежащею до
+      разсмотрѣнія <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской губерніи</placeName>,
+      отправили оную къ тамошнему гражданскому губернатору <persName role="namesViewer" target="/names/Карнеев.html">
       Карнѣеву</persName>, обязываюсь изъяснить вашему высокопревосходительству, что оная бумага препровождена на ваше
-      разсмотрѣніе для того, какъ изъ ней же усмотрѣть изволите, что онъ <persName ref="Авигдор">Хаимъ</persName> о
-      соблазнительныхъ книгахъ секты Шабзусъ - Цвинкусъ представлялъ къ нѣкоему <persName ref="Элиас">Еліасу</persName>,
-      в <placeName ref="Вильна">Вильнѣ</placeName> жившему, и его просилъ довести къ свѣдѣнію вышняго начальства,
+      разсмотрѣніе для того, какъ изъ ней же усмотрѣть изволите, что онъ <persName role="namesViewer"
+      target="/names/Авигдор.html">Хаимъ</persName> о соблазнительныхъ книгахъ секты Шабзусъ - Цвинкусъ представлялъ къ
+      нѣкоему <persName role="namesViewer" target="/names/Элиас.html">Еліасу</persName>, в <placeName role="namesViewer"
+      target="/names/Вильна.html">Вильнѣ</placeName> жившему, и его просилъ довести къ свѣдѣнію вышняго начальства,
       которыя представленія просителя разсмотрѣны и книги публично предъ домомъ молитвы сожжены въ <placeName
-      ref="Вильна">Вильнѣ</placeName>, и что поступки оной секты видѣль бывшій въ <placeName ref="Вильна">Вильнѣ
-      </placeName> губернаторъ и требовалъ къ себѣ изъ <placeName ref="Лиозно">Лошни</placeName> старшину той секты
-      <persName ref="alter-rebbe">Саломона</persName>. По каковымъ обстоятельствамъ съ большею вѣроятностью полагая быть
-      большему свѣдѣнію объ означенной сектѣ въ дѣлахъ предмѣстниковъ вашего высокопревосходительства, прошу васъ,
-      милостивый государь мой, приказать отыскать оныя и отобравъ откуда слѣдуѣтъ для соображенія подлежащія справки, о
-      всемъ, согласно первому отношенію моему, <pb xml:id="p256" rendition="page" role="facsimileViewer"
-      target="/collections/dubnov/facs/255.2.html#p256"/> почтить меня увѣдомленіемъ, пріобща къ оному и то, что
-      <placeName ref="Минская_губерния">Минскій</placeName> губернаторъ по отношенію вашего высокопревосходительства
-      можетъ быть откроеть. Съ истиннымъ почтеніемъ есмь . . . .
+      role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName>, и что поступки оной секты видѣль бывшій въ
+      <placeName role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName> губернаторъ и требовалъ къ себѣ изъ
+      <placeName role="namesViewer" target="/names/Лиозно.html">Лошни</placeName> старшину той секты <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Саломона</persName>. По каковымъ обстоятельствамъ съ большею
+      вѣроятностью полагая быть большему свѣдѣнію объ означенной сектѣ въ дѣлахъ предмѣстниковъ вашего
+      высокопревосходительства, прошу васъ, милостивый государь мой, приказать отыскать оныя и отобравъ откуда слѣдуѣтъ
+      для соображенія подлежащія справки, о всемъ, согласно первому отношенію моему, <pb xml:id="p256" rendition="page"
+      role="facsimileViewer" target="/collections/dubnov/facs/255.2.html#p256"/> почтить меня увѣдомленіемъ, пріобща къ
+      оному и то, что <placeName role="namesViewer" target="/names/Минская_губерния.html">Минскій</placeName>
+      губернаторъ по отношенію вашего высокопревосходительства можетъ быть откроеть. Съ истиннымъ почтеніемъ есмь . . .
+      .
     </p>
     <dateline>
-      <persName ref="Кутузов">Кутузову</persName>. <date when="1800-07-09">Іюля 9 дня 1800 г.</date> <fw type="docNum">№
-      5859</fw>.
+      <persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>. <date when="1800-07-09">Іюля 9 дня
+      1800 г.</date> <fw type="docNum">№ 5859</fw>.
     </dateline>
   </body></text>
 </TEI>

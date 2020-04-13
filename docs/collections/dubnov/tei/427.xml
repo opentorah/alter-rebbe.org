@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <author>Каган</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -53,9 +54,9 @@
     <p>
       Любопытнымъ въ напечатанномъ „пророчествѣ" является отличное знакомство автора шарады съ библейскимъ языкомъ. Надо
       полагать, что авторъ жилъ въ <placeName>Шкловѣ</placeName>, гдѣ въ концѣ 18-го вѣка находились лучшие гебраисты
-      <placeName ref="Белоруссия">Бѣлорусскаго края</placeName>; оттуда „пророчество" это, вѣроятно, было доставлено и
-      пріобщено къ дѣлу о <orgName ref="Хасиды">хасидахъ</orgName>. <persName>М. Каганъ</persName>. <placeName>
-      Яффа</placeName>.
+      <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлорусскаго края</placeName>; оттуда „пророчество"
+      это, вѣроятно, было доставлено и пріобщено къ дѣлу о <orgName role="namesViewer" target="/names/Хасиды.html"
+      >хасидахъ</orgName>. <persName>М. Каганъ</persName>. <placeName>Яффа</placeName>.
     </p>
   </body></text>
 </TEI>

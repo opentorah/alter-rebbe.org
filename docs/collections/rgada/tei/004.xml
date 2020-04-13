@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,9 +18,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Лопухин">Лопухина</persName> на высочайшее имя о получении трех анонимных писем из
-        <placeName ref="Вильна">Вильно</placeName>, в том числе доноса на <persName ref="alter-rebbe">Шнеура
-        Залмана</persName>, а также изложение <persName ref="Павел_I">императорской</persName> резолюции
+        Рапорт <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> на высочайшее имя о
+        получении трех анонимных писем из <placeName role="namesViewer" target="/names/Вильна.html">Вильно</placeName>,
+        в том числе доноса на <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>, а
+        также изложение <persName role="namesViewer" target="/names/Павел_I.html">императорской</persName> резолюции
       </p></abstract>
       <creation><date when="1798-08-14">14 августа 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -31,7 +34,7 @@
     <fw type="pageNum" place="right">4.</fw>
     <head>
       <l>О трехъ письмахъ, полученныхъ</l>
-      <l>из <placeName ref="Вильна">Вильны</placeName> с доносами.</l>
+      <l>из <placeName role="namesViewer" target="/names/Вильна.html">Вильны</placeName> с доносами.</l>
     </head>
     <fw type="note" place="left margin">
       <l>1 <unclear>??? ???</unclear> на ево</l>
@@ -66,62 +69,72 @@
       <l><fw type="pageNum" place="right"><del rend="overstrike"><unclear>378</unclear></del></fw> <fw type="pageNum"
       place="right">4.</fw> На имя предмѣстника моего<note place="end">Анонимные письма были получены генерал-прокурором
       А.Б. Куракиным незадолго до его отставки, последовавшей 8 августа 1798 г., после чего к ним обратился занявший
-      этот пост его преемник <persName ref="Лопухин">П.В. Лопухин</persName></note> получены</l>
+      этот пост его преемник <persName role="namesViewer" target="/names/Лопухин.html">П.В. Лопухин</persName></note>
+      получены</l>
       <l>три писма надписанные по секрету два</l>
-      <l>изъ <placeName ref="Вильна">вильны</placeName> отъ <date when="1798-05-08">8</date> и <date when="1798-05-10">
-      10 маія</date> подписанные</l>
-      <l><emph rend="underline"><persName ref="Гирш_Давидович">Гиршемъ Давидовичемъ</persName></emph>, а третье без</l>
+      <l>изъ <placeName role="namesViewer" target="/names/Вильна.html">вильны</placeName> отъ <date when="1798-05-08"
+      >8</date> и <date when="1798-05-10">10 маія</date> подписанные</l>
+      <l><emph rend="underline"><persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршемъ
+      Давидовичемъ</persName></emph>, а третье без</l>
       <l>числа и безъ означенія мѣста, подписан-</l>
-      <l>ное <emph rend="underline">ксензомъ <persName ref="Чечерский">Чечерскимъ</persName></emph>. <persName
-      ref="Гирш_Давидович">Давидовичъ</persName></l>
-      <l>пишетъ в 1<hi rend="superscript">м</hi> якобы <placeName ref="Белоруссия">Белоруской губерніи</placeName></l>
-      <l>в мѣстечкѣ <placeName ref="Лиозно">Лознѣ</placeName> <persName ref="alter-rebbe">рабинъ Зальманъ<lb/>
+      <l>ное <emph rend="underline">ксензомъ <persName role="namesViewer" target="/names/Чечерский.html"
+      >Чечерскимъ</persName></emph>. <persName role="namesViewer" target="/names/Гирш_Давидович.html"
+      >Давидовичъ</persName></l>
+      <l>пишетъ в 1<hi rend="superscript">м</hi> якобы <placeName role="namesViewer" target="/names/Белоруссия.html"
+      >Белоруской губерніи</placeName></l>
+      <l>в мѣстечкѣ <placeName role="namesViewer" target="/names/Лиозно.html">Лознѣ</placeName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабинъ Зальманъ<lb/>
        Боруговичъ</persName> собирая молодыхъ евреевъ хочетъ</l>
       <l>Французской революціи способствовать,</l>
       <l>въ надежде чего живутъ роскошно, другъ</l>
       <l>друга обманываютъ и воруютъ престраш-</l>
-      <l>но с обидою всѣхъ. Дѣти его, <persName ref="Гирш_Давидович">Давидо-<lb/>
+      <l>но с обидою всѣхъ. Дѣти его, <persName role="namesViewer" target="/names/Гирш_Давидович.html">Давидо-<lb/>
        вича</persName> забравъ болѣе 10,000.<hi rend="superscript">руб</hi> ушли туда-</l>
       <l>же и онъ ихъ отыскать неможетъ по-</l>
       <l>причине взятокъ и понаровокъ губерна-</l>
       <l>торовъ, ходатаевъ и защитителей</l>
-      <l>ихъ въ <placeName ref="Петербург">Петербургѣ</placeName>, кои ничего болѣе не</l>
+      <l>ихъ въ <placeName role="namesViewer" target="/names/Петербург.html">Петербургѣ</placeName>, кои ничего болѣе
+      не</l>
       <l>заслуживаютъ, чтобы ихъ побрать въ</l>
       <l>полки и впередъ сраженія ставить, или</l>
       <l>выслать въ степь на поселеніе съ ихъ</l>
-      <l>начальникомъ <persName ref="alter-rebbe">Зальманомъ</persName>, гдѣ имъ</l>
-      <l>обѣщанная и ожидаемая <placeName ref="Палестина">Святая Земля</placeName></l>
+      <l>начальникомъ <persName role="namesViewer" target="/names/alter-rebbe.html">Зальманомъ</persName>, гдѣ имъ</l>
+      <l>обѣщанная и ожидаемая <placeName role="namesViewer" target="/names/Палестина.html">Святая Земля</placeName></l>
       <l>Шеребора волъ и Левитъ Рыба будетъ.</l>
       <l>И проситъ объ отысканіи находящихся</l>
       <l><pb xml:id="p004-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/004.html#p004-2"/>
       <fw type="pageNum">4об.</fw> у нихъ денегъ по-поламъ въ казну. Во 2<hi rend="superscript">м</hi>,</l>
-      <l>что <placeName ref="Литва">Литовской губерніи</placeName> <emph rend="underline"><placeName ref="Вильна">
-      <choice><sic>вилденской</sic><corr>виленской</corr></choice></placeName> город-</emph></l>
+      <l>что <placeName role="namesViewer" target="/names/Литва.html">Литовской губерніи</placeName> <emph
+      rend="underline"><placeName role="namesViewer" target="/names/Вильна.html"><choice><sic>вилденской</sic><corr
+      >виленской</corr></choice></placeName> город-</emph></l>
       <l>ничей, имѣя при себѣ секретаря <emph rend="underline">Алексѣева</emph></l>
-      <l>беглаго унтеръ офицера <placeName ref="Петербург">СанктПетербург-<lb/>
+      <l>беглаго унтеръ офицера <placeName role="namesViewer" target="/names/Петербург.html">СанктПетербург-<lb/>
        скаго</placeName> пехотнаго полку, пристрастно посту-</l>
-      <l>паетъ. Его <persName ref="Гирш_Давидович">Давидовича</persName> содержа въ колодкахъ</l>
+      <l>паетъ. Его <persName role="namesViewer" target="/names/Гирш_Давидович.html">Давидовича</persName> содержа въ
+      колодкахъ</l>
       <l>и бивъ батожьемъ вынудили по 100.<hi rend="superscript">руб</hi> а</l>
       <l>частные приставы Эрдманъ Кулеша и</l>
       <l>прочіе берутъ со всякаго прибывшаго за нере-</l>
       <l>портицію по рублю, обыватели же болѣе</l>
       <l>имъ платятъ нежели въ казну, о чемъ</l>
-      <l>извѣстно <placeName ref="Литва">литовскому</placeName> начальству, но</l>
+      <l>извѣстно <placeName role="namesViewer" target="/names/Литва.html">литовскому</placeName> начальству, но</l>
       <l>понаровкою и соучастіемъ Губернатора</l>
       <l>удовольствія нетъ, и проситъ о изслѣ-</l>
-      <l>дованіи чрезъ <placeName ref="Литва">литовскаго</placeName> прокурора</l>
-      <l>или Надворный судъ. Ксензъ же <persName ref="Чечерский">Че-<lb/>
-       черский</persName> будучи повереннымъ отъ <placeName ref="Вильна">вилен-<lb/>
+      <l>дованіи чрезъ <placeName role="namesViewer" target="/names/Литва.html">литовскаго</placeName> прокурора</l>
+      <l>или Надворный судъ. Ксензъ же <persName role="namesViewer" target="/names/Чечерский.html">Че-<lb/>
+       черский</persName> будучи повереннымъ отъ <placeName role="namesViewer" target="/names/Вильна.html">вилен-<lb/>
        скихъ</placeName> Доминикановъ по дѣлу съ шлях-</l>
       <l>тичемъ Рытшею прописываетъ, что</l>
-      <l>в бывшемъ верховномъ <orgName ref="Литовское_губернское_правление">Литовскомъ<lb/>
+      <l>в бывшемъ верховномъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовскомъ<lb/>
        правленіи</orgName> подъ предсѣдательствомъ</l>
       <l>князя Репнина присудствовавшіе, —</l>
       <l>Фризель, Волковъ, Багмевской секре-</l>
       <l>тари Тарновской и Манковской за решеніе</l>
       <l><pb xml:id="p005-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/004.html#p005-1"/>
       <fw type="pageNum" place="right">5.</fw> онаго дѣла в пользу Доминикановъ взяли</l>
-      <l>болѣе 12,000.<hi rend="superscript">руб</hi> но какъ въ <orgName ref="Сенат">Сенатѣ</orgName> решеніе</l>
+      <l>болѣе 12,000.<hi rend="superscript">руб</hi> но какъ въ <orgName role="namesViewer" target="/names/Сенат.html"
+      >Сенатѣ</orgName> решеніе</l>
       <l>ихъ опровергнуто, то и проситъ о изслѣдо-</l>
       <l>ваніи и взысканіи денегъ хотя пополамъ</l>
       <l>въ казну.</l>

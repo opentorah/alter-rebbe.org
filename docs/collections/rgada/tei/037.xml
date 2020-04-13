@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,21 +16,22 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Письмо <persName ref="Лопухин">Лопухина</persName> санкт-петербургскому <persName ref="Гавриил_Новгородский">
-        митрополиту</persName> с указанием перевести с иврита на русский язык документы следственного дела <persName
-        ref="alter-rebbe">Шнеура Залмана</persName>
+        Письмо <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> санкт-петербургскому
+        <persName role="namesViewer" target="/names/Гавриил_Новгородский.html">митрополиту</persName> с указанием
+        перевести с иврита на русский язык документы следственного дела <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1798-10-11">11 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Гавриил_Новгородский" role="addressee">митрополиту Гавриилу</persName>
-      </correspAction></correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Гавриил_Новгородский.html">митрополиту
+      Гавриилу</persName></correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p037-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/037.html#p037-1"/>
     <fw type="pageNum" place="right">37</fw>
-    <head><persName ref="Гавриил_Новгородский">Гавріилу Митрополиту</persName></head>
+    <head><persName role="namesViewer" target="/names/Гавриил_Новгородский.html">Гавріилу Митрополиту</persName></head>
     <p>
       <l>По высочайшему Государя</l>
       <l>императора повеленію</l>
@@ -64,7 +66,7 @@
         <l><fw type="docNum">№ 854.<hi rend="superscript">й</hi></fw></l>
         <l><date when="1798-10-11">11.<hi rend="superscript">го</hi> октября<lb/>
          1798</date></l>
-        <l><persName ref="Гавриил_Новгородский">Гавріилу Митрополиту</persName></l>
+        <l><persName role="namesViewer" target="/names/Гавриил_Новгородский.html">Гавріилу Митрополиту</persName></l>
       </closer>
     </p>
     <pb xml:id="p037-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/037.html#p037-2"/>

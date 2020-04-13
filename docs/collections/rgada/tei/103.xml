@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского языка протокола допроса <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName>
+        Перевод с польского языка протокола допроса <persName role="namesViewer" target="/names/Зелман_Янкелевич.html"
+        >Зелмана Янкелевича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,23 +31,25 @@
     <fw type="pageNum" place="right">103</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Зелман_Янкелевич.html">Зелмана Янкелевича</persName></l>
     </head>
     <p>
-      <l>Я <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName> отъ роду</l>
+      <l>Я <persName role="namesViewer" target="/names/Зелман_Янкелевич.html">Зелманъ Янкелевичъ</persName> отъ роду</l>
       <l>имѣю 30. лѣтъ, упражняюсь мещан-</l>
       <l>скимъ промысломъ, родился въ мѣ-</l>
-      <l>стечкѣ <placeName ref="Оникшты">Оникштахъ</placeName>, въ <placeName ref="Вильна">Вилнѣ</placeName> про-</l>
+      <l>стечкѣ <placeName role="namesViewer" target="/names/Оникшты.html">Оникштахъ</placeName>, въ <placeName
+      role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName> про-</l>
       <l>живаю болѣе 20 лѣтъ, женатъ, имѣю</l>
       <l>дѣтей, сыновей Гиршу и Хайку; тре-</l>
-      <l>тей годъ, какъ вступилъ въ <orgName ref="Хасиды">Каро-<lb/>
+      <l>тей годъ, какъ вступилъ въ <orgName role="namesViewer" target="/names/Хасиды.html">Каро-<lb/>
        линскую секту</orgName>, и тогда былъ я</l>
-      <l>въ <placeName ref="Лиозно">Лознѣ</placeName> у рабина, также и въ</l>
-      <l><placeName ref="Ляховичи">Ляховичѣ</placeName> у тамошняго рабина;</l>
+      <l>въ <placeName role="namesViewer" target="/names/Лиозно.html">Лознѣ</placeName> у рабина, также и въ</l>
+      <l><placeName role="namesViewer" target="/names/Ляховичи.html">Ляховичѣ</placeName> у тамошняго рабина;</l>
       <l>туда ѣздилъ я по комерціи; въ</l>
       <l>прочемъ ничего не знаю.</l>
     </p>
-    <l><signed>Подписалъ <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName>.</signed></l>
+    <l><signed>Подписалъ <persName role="namesViewer" target="/names/Зелман_Янкелевич.html">Зелманъ
+    Янкелевичъ</persName>.</signed></l>
     <pb xml:id="p103-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/103.html#p103-2"/>
   </body></text>
 </TEI>

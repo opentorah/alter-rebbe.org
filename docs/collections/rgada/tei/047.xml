@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,9 +16,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Список <orgName ref="Хасиды">хасидов</orgName>, оставленных на время следственных действий в заключении в
-        <placeName ref="Вильна">Вильно</placeName> до особого распоряжения - приложение к донесению <persName
-        ref="Булгаков">Булгакова</persName>
+        Список <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, оставленных на время
+        следственных действий в заключении в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильно</placeName> до особого распоряжения - приложение к донесению <persName role="namesViewer"
+        target="/names/Булгаков.html">Булгакова</persName>
       </p></abstract>
       <creation><date when="1798-10-25">25 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -31,70 +33,71 @@
     <fw type="pageNum" place="right">47.</fw>
     <head>
       <l>Реестръ</l>
-      <l><orgName ref="Хасиды">каролиновъ</orgName> оставленныхъ въ <placeName ref="Вильна">Вилнѣ</placeName></l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> оставленныхъ въ <placeName
+      role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName></l>
     </head>
     <p>
       <l>
         <label>1.</label>
-        <persName ref="Борух_Мордухович">Борухъ Мордуховичъ</persName>
+        <persName role="namesViewer" target="/names/Борух_Мордухович.html">Борухъ Мордуховичъ</persName>
       </l>
       <l>
         <label>2</label>
-        <persName ref="Арон_Беркович">Аронъ Берковичъ</persName>
+        <persName role="namesViewer" target="/names/Арон_Беркович.html">Аронъ Берковичъ</persName>
       </l>
       <l>
         <label>3.</label>
-        <persName ref="Зелман_Янкелевич">Зелманъ Янкіеліевичъ</persName>
+        <persName role="namesViewer" target="/names/Зелман_Янкелевич.html">Зелманъ Янкіеліевичъ</persName>
       </l>
       <l>
         <label>4.</label>
-        <persName ref="Юдель_Елиашевич">Юдель Еліашевичъ</persName>
+        <persName role="namesViewer" target="/names/Юдель_Елиашевич.html">Юдель Еліашевичъ</persName>
       </l>
       <l>
         <label>5.</label>
-        <persName ref="Лейба_Меиерович">Леиба Меіеровичъ</persName>
+        <persName role="namesViewer" target="/names/Лейба_Меиерович.html">Леиба Меіеровичъ</persName>
       </l>
       <l>
         <label>6</label>
-        <persName ref="Перец_Хаймович">Перецъ Хаимовичъ</persName>
+        <persName role="namesViewer" target="/names/Перец_Хаймович.html">Перецъ Хаимовичъ</persName>
       </l>
       <l>
         <label>7.</label>
-        <persName ref="Михель_Файбишович">Михель Фаибишовичъ</persName>
+        <persName role="namesViewer" target="/names/Михель_Файбишович.html">Михель Фаибишовичъ</persName>
       </l>
       <l>
         <label>8.</label>
-        <persName ref="Вулф_Шимелиович">Волфъ Шимеловичъ</persName>
+        <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Волфъ Шимеловичъ</persName>
       </l>
       <l>
         <label>9.</label>
-        <persName ref="Шая_Ицкович">Шаія Ицковичъ</persName>
+        <persName role="namesViewer" target="/names/Шая_Ицкович.html">Шаія Ицковичъ</persName>
       </l>
       <l>
         <label>10.</label>
-        <persName ref="Леизер_Нотолевич">Леизеръ Нотолевичъ</persName>
+        <persName role="namesViewer" target="/names/Леизер_Нотолевич.html">Леизеръ Нотолевичъ</persName>
       </l>
       <l>
         <label>11.</label>
-        <persName ref="Ицко_Сайович">Ицко Саіовичъ</persName>
+        <persName role="namesViewer" target="/names/Ицко_Сайович.html">Ицко Саіовичъ</persName>
       </l>
       <l>
         <label>12</label>
-        <persName ref="Зелман_Лейбович">Зелманъ Леибовичъ</persName>
+        <persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зелманъ Леибовичъ</persName>
       </l>
       <l>
         <label>13.</label>
-        <persName ref="Мовша_Иосиелиович">Мовша Іоселіовичъ</persName>
+        <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовша Іоселіовичъ</persName>
       </l>
       <l>
         <label>14.</label>
-        <persName ref="Иосель_Мовшович">Іосїель Мовшовичъ</persName>
+        <persName role="namesViewer" target="/names/Иосель_Мовшович.html">Іосїель Мовшовичъ</persName>
       </l>
       <l>
         <label>15</label>
-        <persName ref="Хлиовна_Зорухович">Хловна Боруховичъ</persName>
+        <persName role="namesViewer" target="/names/Хлиовна_Зорухович.html">Хловна Боруховичъ</persName>
       </l>
-      <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Булгаков.html">Яковъ Булгаковъ</persName></signed></l>
     </p>
     <pb xml:id="p047-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/047.html#p047-2"/>
   </body></text>

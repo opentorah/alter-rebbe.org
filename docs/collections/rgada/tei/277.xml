@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,7 +16,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Донесение о нахождении, задержании и болезни в пути <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Донесение о нахождении, задержании и болезни в пути <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1800-11-14">1800 года ноября 14 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -29,7 +31,7 @@
     зачеркнут карандашом</note>
     <fw type="pageNum" place="right"><del rend="overstrike">501</del></fw><note place="end">номер записан чернилами и
     зачеркнут карандашом</note>
-    <head><l>о <persName ref="alter-rebbe">ЕвреѢ БоруховичѢ</persName></l></head>
+    <head><l>о <persName role="namesViewer" target="/names/alter-rebbe.html">ЕвреѢ БоруховичѢ</persName></l></head>
     <fw type="note" place="left margin">
       <l>докладовано</l>
       <l>повелено допросъ</l>
@@ -37,15 +39,16 @@
       <l>секты учинить</l>
       <l><date when="1800-11-14">ноября 14 дня<lb/>
        1800 года</date></l>
-      <l><placeName ref="Петербург">С:П:бургъ</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Петербург.html">С:П:бургъ</placeName></l>
     </fw>
     <l>По высочайшему ВАШЕГО ИМПЕРАТОР-</l>
     <l>СКАГО ВЕЛИЧЕСТВА повелѢнiю привезен-</l>
-    <l>ный сюда изъ <placeName ref="Витебск">Витебска</placeName> начальникъ Ев-</l>
-    <l>рейской <orgName ref="Хасиды">каролинской секты</orgName> <persName ref="alter-rebbe">Еврей Залманъ<lb/>
+    <l>ный сюда изъ <placeName role="namesViewer" target="/names/Витебск.html">Витебска</placeName> начальникъ Ев-</l>
+    <l>рейской <orgName role="namesViewer" target="/names/Хасиды.html">каролинской секты</orgName> <persName
+    role="namesViewer" target="/names/alter-rebbe.html">Еврей Залманъ<lb/>
      Боруховичь</persName>, по случаю ненахожденiя его</l>
     <l>во время прiѢзда посланныхъ за нимъ</l>
-    <l>курiеровъ въ <placeName ref="Лиозно">мѢстѢ его жительства</placeName>,</l>
+    <l>курiеровъ въ <placeName role="namesViewer" target="/names/Лиозно.html">мѢстѢ его жительства</placeName>,</l>
     <l>въ тайной експедицiи, гдѢ онъ въ сiе</l>
     <l>время находился, спрашиванъ и показалъ:</l>
     <l>что, какъ онъ узналъ послѢ, за два</l>
@@ -60,12 +63,12 @@
     <l>неподалеку онаго, имя которой онъ</l>
     <l>не помнитъ, и взятъ подъ караулъ.</l>
     <l>С посланными на возвратномъ пути</l>
-    <l>къ <placeName ref="Витебск">Витебску</placeName> онъ заболѢлъ, и пробылъ</l>
+    <l>къ <placeName role="namesViewer" target="/names/Витебск.html">Витебску</placeName> онъ заболѢлъ, и пробылъ</l>
     <l>въ другой деревнѢ, которой имя</l>
     <l><pb xml:id="p277-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/277.html#p277-2"/>
     <fw type="pageNum" place="left">277об.</fw> также не помнитъ, три дни, что и со-</l>
     <l>ставитъ около недѢли по прiѢздѢ</l>
-    <l>въ <placeName ref="Витебск">Витебскъ</placeName> курiеровъ, а оттуда</l>
+    <l>въ <placeName role="namesViewer" target="/names/Витебск.html">Витебскъ</placeName> курiеровъ, а оттуда</l>
     <l>отправленъ сюда.</l>
   </body></text>
 </TEI>

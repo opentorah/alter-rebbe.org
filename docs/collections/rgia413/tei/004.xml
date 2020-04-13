@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,13 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Заголовок раздела: "Ответы <persName ref="alter-rebbe">Алтер Ребе</persName>"</p>
-        <p>18-й и 19-й пункты ответов <persName ref="alter-rebbe">Алтер Ребе</persName></p>
+        <p>
+          Заголовок раздела: "Ответы <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер
+          Ребе</persName>"
+        </p>
+        <p>
+          18-й и 19-й пункты ответов <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>
+        </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/264.html">№ 15</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-11">ноябрь 1800 по версии Дубнова в комментарии</date></creation>
@@ -28,7 +34,7 @@
     <p>
       <l><pb xml:id="p004-1" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/004.html#p004-1"
       /> Отвѣты или объяснению</l>
-      <l>Еврѣя <persName ref="alter-rebbe">Залмана Боруховича</persName></l>
+      <l>Еврѣя <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана Боруховича</persName></l>
     </p>
     <pb xml:id="p004-2" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/004.html#p004-2"/>
   </body></text>

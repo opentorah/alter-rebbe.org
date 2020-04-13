@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,37 +17,39 @@
     <profileDesc>
       <abstract>
         <p>
-          № 21. Прошение <persName ref="alter-rebbe">Залмана</persName> на высоч. имя об ускорении его дела, с
-          приложением документов доказывающих безвредность хасидской секты
+          № 21. Прошение <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> на высоч. имя
+          об ускорении его дела, с приложением документов доказывающих безвредность хасидской секты
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/023.html">023</ref> в РГИА 413</p>
       </abstract>
       <creation><date when="1801-03">начало марта 1801 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p272" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/272.2.html#p272"/> №
-      21. Прошеніе <persName ref="alter-rebbe">Залмана</persName> на высоч. имя объ ускореніи его дѣла, съ приложеніемъ
-      документовъ доказывающихъ безвредность хасидской секты.
+      21. Прошеніе <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> на высоч. имя объ
+      ускореніи его дѣла, съ приложеніемъ документовъ доказывающихъ безвредность хасидской секты.
     </head>
     <p>
-      Всепресвѣтлѣйшій, Державнѣйшій Великій Государь Императоръ <persName ref="Павел_I">Павелъ Петровичъ</persName>,
-      Самодержецъ, всероссійскій, Государь Всемилостивѣйшій! Проситъ <placeName ref="Белоруссия">Бѣлорусской губерніи
-      </placeName> местечка <placeName ref="Лиозно">Ліозны</placeName> еврей <persName ref="alter-rebbe">Залманъ
-      Боруховичъ</persName> о нижеслѣдующемъ:
+      Всепресвѣтлѣйшій, Державнѣйшій Великій Государь Императоръ <persName role="namesViewer"
+      target="/names/Павел_I.html">Павелъ Петровичъ</persName>, Самодержецъ, всероссійскій, Государь Всемилостивѣйшій!
+      Проситъ <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлорусской губерніи</placeName> местечка
+      <placeName role="namesViewer" target="/names/Лиозно.html">Ліозны</placeName> еврей <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Залманъ Боруховичъ</persName> о нижеслѣдующемъ:
     </p>
     <p>
       <pb xml:id="p273" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/272.2.html#p273"/> 1-е.
-      Будучи извѣстенъ, что дѣло по несправедливому доносу еврея <persName ref="Авигдор">Абикдора Хаймовича</persName>
-      на меня и евреевъ хоседовъ, названныхъ имъ по ненависти <orgName ref="Хасиды">каролинами</orgName>, производится
-      теперь Прав. <orgName ref="Сенат">Сената</orgName> въ 3-мъ Департаментѣ, – при семъ подношу всеподданнѣйше 2
-      документа подъ литерами A и Б, изъясняющіе Высочайшую В. И. В-ва волю чтобъ оставить насъ въ прежнемъ
-      существованіи, и всеподданѣйше прошу:
+      Будучи извѣстенъ, что дѣло по несправедливому доносу еврея <persName role="namesViewer"
+      target="/names/Авигдор.html">Абикдора Хаймовича</persName> на меня и евреевъ хоседовъ, названныхъ имъ по ненависти
+      <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>, производится теперь Прав. <orgName
+      role="namesViewer" target="/names/Сенат.html">Сената</orgName> въ 3-мъ Департаментѣ, – при семъ подношу
+      всеподданнѣйше 2 документа подъ литерами A и Б, изъясняющіе Высочайшую В. И. В-ва волю чтобъ оставить насъ въ
+      прежнемъ существованіи, и всеподданѣйше прошу:
     </p>
     <p>
       Дабы Высочайшимъ В. И. В. указомъ повелѣно было сіе мое прошеніе принявъ записать, и согласно прилагаемымъ
@@ -56,13 +59,14 @@
     <p>Всемилостивѣйшій Государь! Прошу В. И. В. о семъ моемъ прошеніи рѣшеніе учинить.</p>
     <p>
       <date when="1801-03-??">Марта... дня, 1801 года</date><note type="gloss" place="end">Это прошеніе, поданное на имя
-      <persName ref="Павел_I">Павла І</persName>, могло быть написано до 11 марта 1801 г., дня смерти <persName
-      ref="Павел_I">Павла</persName>; оно, слѣдовательно, относится къ первымъ числамъ марта, а заслушано въ сенатѣ уже
-      при <persName ref="Александр_I">Александрѣ І</persName>.</note>
+      <persName role="namesViewer" target="/names/Павел_I.html">Павла І</persName>, могло быть написано до 11 марта 1801
+      г., дня смерти <persName role="namesViewer" target="/names/Павел_I.html">Павла</persName>; оно, слѣдовательно,
+      относится къ первымъ числамъ марта, а заслушано въ сенатѣ уже при <persName role="namesViewer"
+      target="/names/Александр_I.html">Александрѣ І</persName>.</note>
     </p>
     <p>
-      Къ поданію надлежитъ Прав. <orgName ref="Сенат">Сената</orgName> въ 3-ій департаменть. Прошеніе писалъ
-      канцеляристъ Рождественскій.
+      Къ поданію надлежитъ Прав. <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName> въ 3-ій
+      департаменть. Прошеніе писалъ канцеляристъ Рождественскій.
     </p>
     <p>Слушано <date when="1801-04-12">12 апреля 1801</date> года.</p>
   </body></text>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,16 +17,16 @@
     <profileDesc>
       <abstract>
         <p>
-          Объявление <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору</persName> о
-          справках по его денежным претензиям
+          Объявление <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справках по его денежным претензиям
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/261.html">№ 11</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-10-03">3 октября 1800<note place="end">не ранее даты, указанной в документе</note>
       </date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Авигдор" role="addressee">Авигдору</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,19 +35,23 @@
     <fw type="pageNum" place="right">52</fw>
     <fw type="pageNum" place="right"><del rend="overstrike">55</del></fw>
     <l>По принесенной от бывшаго еврейскаго оберъ-</l>
-    <l>рабина <persName ref="Авигдор">Хайма</persName><note place="end">вместо имени просителя ошибочно указано имя его
-    отца</note> жалобы, что онъ внесъ въ еврей-</l>
+    <l>рабина <persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName><note place="end">вместо имени
+    просителя ошибочно указано имя его отца</note> жалобы, что онъ внесъ въ еврей-</l>
     <l>ской кагалъ 400. червонныхъ за полученіе того</l>
     <l>мѣста, котораго онъ лишился происками Коро-</l>
     <l>линовъ, и отъ того потерпѣлъ свѣрхъ того у-</l>
     <l>бытки, Государь Императоръ высочайше по-</l>
     <l>велѣть соизволилъ Генералу Прокурору отнестись</l>
     <l>къ Генераламъ отъ Инфантеріи и управляю-</l>
-    <l>щимъ губерниями <placeName ref="Литва">Литовской</placeName> <persName ref="Кутузов">Голенищеву Куту-<lb/>
-     зову</persName> и <placeName ref="Минская_губерния">Минскою</placeName> <hi rend="superscript">волынс. и
-    под</hi><note place="end">вставка - <placeName ref="Волынская_губерния">волынской</placeName> и подольскою</note>
-    <persName ref="Розенберг">Розенбергу</persName>, такъ же къ <placeName ref="Минск">мин-<lb/>
-     скому</placeName> Гражданскому Губернатору <persName ref="Карнеев">Карнееву</persName></l>
+    <l>щимъ губерниями <placeName role="namesViewer" target="/names/Литва.html">Литовской</placeName> <persName
+    role="namesViewer" target="/names/Кутузов.html">Голенищеву Куту-<lb/>
+     зову</persName> и <placeName role="namesViewer" target="/names/Минская_губерния.html">Минскою</placeName> <hi
+    rend="superscript">волынс. и под</hi><note place="end">вставка - <placeName role="namesViewer"
+    target="/names/Волынская_губерния.html">волынской</placeName> и подольскою</note> <persName role="namesViewer"
+    target="/names/Розенберг.html">Розенбергу</persName>, такъ же къ <placeName role="namesViewer"
+    target="/names/Минск.html">мин-<lb/>
+     скому</placeName> Гражданскому Губернатору <persName role="namesViewer" target="/names/Карнеев.html"
+    >Карнееву</persName></l>
     <l>съ тѣмъ, что естьли въ Губернскихъ управленіяхъ</l>
     <l>ихъ вверенныхъ еврейской Кагалъ взялъ съ</l>
     <l>него тѣ деньги, то въ оныхъ, равно и въ по-</l>

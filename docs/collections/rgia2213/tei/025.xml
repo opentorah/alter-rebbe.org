@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,15 +17,15 @@
     <profileDesc>
       <abstract>
         <p>
-          Сообщение о препровождении жалобы <persName ref="Авигдор">Авигдора</persName> к <persName ref="Брискорн">
-          Брискорну</persName>
+          Сообщение о препровождении жалобы <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName> к <persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/254.1.html">№ 5</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-06-07">Іюня 7 дня 1800 года.</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Брискорн" role="addressee">Брискорну</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,28 +36,29 @@
     <l>На отношеніе вашего Превосходительства</l>
     <l>при коемъ по Высочайшему Его Импера-</l>
     <l>торскаго Величества Повеленію препроводили</l>
-    <l>ко мнѣ жалобу бывшаго въ <placeName ref="Пинск">пинскѣ</placeName> оберъ</l>
-    <l>раббина <persName ref="Авигдор">Хайма</persName><note place="end">вместо имени просителя указано имя его отца
-    </note> на притесненія чинимыя</l>
+    <l>ко мнѣ жалобу бывшаго въ <placeName role="namesViewer" target="/names/Пинск.html">пинскѣ</placeName> оберъ</l>
+    <l>раббина <persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName><note place="end">вместо имени
+    просителя указано имя его отца</note> на притесненія чинимыя</l>
     <l>ему послѣдователями Шабзусъ Цвикусъ,</l>
     <l>честь имѣю увѣдомить васъ милостивый</l>
     <l>Государь мой, что я разсматривая оную</l>
     <l>не могъ найти в чемъ именно состоитъ</l>
-    <l>секта просителя <del rend="overstrike">просителя</del> <hi rend="superscript"><persName ref="Авигдор">
-    Хайма</persName></hi>притесняю-</l>
+    <l>секта просителя <del rend="overstrike">просителя</del> <hi rend="superscript"><persName role="namesViewer"
+    target="/names/Авигдор.html">Хайма</persName></hi>притесняю-</l>
     <l>щая и претензія <hi rend="superscript">его на оную</hi> <del rend="overstrike">на нее еврея <persName
-    ref="Авигдор">Хайма</persName>,</del></l>
+    role="namesViewer" target="/names/Авигдор.html">Хайма</persName>,</del></l>
     <l>также можетъ ли быть оная удовлетворена</l>
     <l>и на какомъ основаніи и потому препрово-</l>
-    <l>дилъ я оную къ Господину <placeName ref="Литва">Литовскому</placeName> военному</l>
-    <l>Губернатору генералу отъ инфантеріи <persName ref="Кутузов">Голени-<lb/>
+    <l>дилъ я оную къ Господину <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName>
+    военному</l>
+    <l>Губернатору генералу отъ инфантеріи <persName role="namesViewer" target="/names/Кутузов.html">Голени-<lb/>
      щеву Кутузову</persName>, дабы онъ приказалъ всѣ</l>
     <l>оныя обстоятельства на мѣстѣ привѣсти</l>
     <l>въ ясность и для донесенія о всемъ Его</l>
     <l>Императорскому Величеству увѣдомилъ. съ</l>
     <l>ист почт Есм.</l>
   </p> <date when="1800-06-07" place="left"><l>июня 7 дня<lb/>
-   1800 года.</l></date> ______________________________ <fw type="note" place="left"><persName ref="Брискорн">
-  Брискорну</persName>.</fw> <pb xml:id="p025-2" rendition="missing-page" role="facsimileViewer"
-  target="/collections/rgia2213/facs/025.html#p025-2"/></body></text>
+   1800 года.</l></date> ______________________________ <fw type="note" place="left"><persName role="namesViewer"
+  target="/names/Брискорн.html">Брискорну</persName>.</fw> <pb xml:id="p025-2" rendition="missing-page"
+  role="facsimileViewer" target="/collections/rgia2213/facs/025.html#p025-2"/></body></text>
 </TEI>

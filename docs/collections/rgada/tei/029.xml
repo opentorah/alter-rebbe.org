@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,16 +16,18 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Черновой вариант распоряжения <persName ref="Лопухин">Лопухина</persName> <persName ref="Булгаков">Булгакову
-        </persName> о доставке в <placeName ref="Петербург">Санкт-Петербург</placeName> <orgName ref="Хасиды">
-        хасидов</orgName>, связанных со <persName ref="alter-rebbe">Шнеуром Залманом</persName> для следственных
-        действий и о прислыке сведений об этих людях; текст соотносится с вариантом в документе <ref
-        role="documentViewer" target="/collections/rgada/documents/028.html">028</ref>
+        Черновой вариант распоряжения <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName>
+        <persName role="namesViewer" target="/names/Булгаков.html">Булгакову</persName> о доставке в <placeName
+        role="namesViewer" target="/names/Петербург.html">Санкт-Петербург</placeName> <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName>, связанных со <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеуром Залманом</persName> для следственных действий и о прислыке сведений об
+        этих людях; текст соотносится с вариантом в документе <ref role="documentViewer"
+        target="/collections/rgada/documents/028.html">028</ref>
       </p></abstract>
       <creation><date when="1798-09-15">15 сентября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Булгаков" role="addressee">Булгакову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Булгаков.html">Булгакову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -38,14 +41,16 @@
       <l>ко ввѣренной вамъ губерніи, то прошу сообщить<unclear>???</unclear> начальника</l>
       <l><unclear>???</unclear></l>
     </del></fw>
-    <salute>Милостивый Государь мой <persName ref="Булгаков">Яковъ Ивановичъ</persName>!</salute>
+    <salute>
+      Милостивый Государь мой <persName role="namesViewer" target="/names/Булгаков.html">Яковъ Ивановичъ</persName>!
+    </salute>
     <p>
       <l>Получа почтенное письмо вашего высоко-</l>
       <l>превосходительства отъ 30<hi rend="superscript">го</hi> прошлаго августа</l>
       <l>съ приложениями о сѣктѣ каролиновъ евре-</l>
       <l>ями заведенной, имѣлъ я щастіе докладывать <emph rend="big">его императорскому</emph></l>
       <l><emph rend="big">величеству</emph>, и <emph rend="big">Государь императоръ</emph> высо-</l>
-      <l>чайше повелѣть соизволилъ, рабина <persName ref="alter-rebbe">Борухо-<lb/>
+      <l>чайше повелѣть соизволилъ, рабина <persName role="namesViewer" target="/names/alter-rebbe.html">Борухо-<lb/>
        вича</persName> и нѣсколько изъ главнѣйшихъ его сообщ-</l>
       <l>никовъ взявъ подъ стражу прислать за крѣп</l>
       <l>кимъ карауломъ сюда <hi rend="superscript"><del rend="overstrike">и нѣсколько его главнѣйшихъ сообщниковъ</del>
@@ -56,8 +61,9 @@
       <l><del rend="overstrike"><emph rend="big">честву</emph></del>; <del rend="overstrike">въ слѣдствіе чего</del> <hi
       rend="superscript"><del rend="overstrike">почему</del> на основаніи Его высочайшаго повелѣнія</hi> о присылкѣ ко
       </l>
-      <l>мнѣ рабина <persName ref="alter-rebbe">Боруховича</persName> <del rend="overstrike">отнесся</del> <hi
-      rend="superscript">сообщилъ</hi> я къ <persName ref="Жегулин">Бѣло-<lb/>
+      <l>мнѣ рабина <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> <del
+      rend="overstrike">отнесся</del> <hi rend="superscript">сообщилъ</hi> я къ <persName role="namesViewer"
+      target="/names/Жегулин.html">Бѣло-<lb/>
        рускому гражданскому губернатору</persName>, а ваше</l>
       <l><pb xml:id="p029-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/029.html#p029-2"/>
       высокопревосходительство <del rend="overstrike">сообщая о прочихъ</del> <hi rend="superscript">благоволите <del
@@ -69,7 +75,8 @@
       <l>надлежащаго во свое время увѣдомленія,</l>
       <l>для донесенія <emph rend="big">его величеству</emph></l>
       <l><del rend="overstrike">какъ и о присылкѣ главнѣйшихъ сообщниковъ</del></l>
-      <l><del rend="overstrike">рабина <persName ref="alter-rebbe">Боруховича</persName></del>. Впрочемъ имѣю</l>
+      <l><del rend="overstrike">рабина <persName role="namesViewer" target="/names/alter-rebbe.html"
+      >Боруховича</persName></del>. Впрочемъ имѣю</l>
       <l>честь быть съ совершеннымъ почтеніемъ</l>
       <l>Милостивый Государь мой</l>
       <l>вашего высокопревосходительства</l>
@@ -85,10 +92,11 @@
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 814<hi rend="superscript">й</hi></fw></l>
-      <l>въ <placeName ref="Петербург">С.п.бургѣ</placeName></l>
+      <l>въ <placeName role="namesViewer" target="/names/Петербург.html">С.п.бургѣ</placeName></l>
       <l><date when="1798-09-15">15<hi rend="superscript">го</hi>. сентября<lb/>
        1798 года.</date></l>
-      <l>Его высокопр<hi rend="superscript">ву</hi> <persName ref="Булгаков">Булгакову</persName>.</l>
+      <l>Его высокопр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Булгаков.html"
+      >Булгакову</persName>.</l>
     </closer>
   </body></text>
 </TEI>

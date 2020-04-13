@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Северин">Северин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Северин.html">Северин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Северин">Северина</persName> <persName ref="Обольянинов">Обольянинову</persName> о
-        получении письма, касающегося изътия книг и бумаг <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Сообщение <persName role="namesViewer" target="/names/Северин.html">Северина</persName> <persName
+        role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о получении письма, касающегося
+        изътия книг и бумаг <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1800-12-16">Декабря. 16 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -41,7 +43,8 @@
       <l>кущаго мѣсяца съ нарочнымъ унтеръ офицеромъ Матвѣ-</l>
       <l>евымъ, забранныхъ чрезъ посыланнаго от меня Казенной</l>
       <l>палаты совѣтника Троцкаго, въ домѣ начальника коро-</l>
-      <l>линской секты еврея <persName ref="alter-rebbe">Боруховича</persName> еврейскихъ книгъ и руко-</l>
+      <l>линской секты еврея <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName>
+      еврейскихъ книгъ и руко-</l>
       <l>писныхъ бумагъ, сего жъ теченія въ 17<hi rend="superscript">й</hi> день, яко знакъ</l>
       <l>милостиваго вашего <sic>высокопревосходительста</sic> ко мнѣ</l>
       <l>отзыва, съ особливѣйшимъ уваженіемъ имѣлъ я честь</l>
@@ -53,17 +56,17 @@
       <l>Милостивый государь</l>
       <l>вашего высокопревосходительства</l>
       <l>всепокорнѣйшій слуга</l>
-      <l><signed><persName ref="Северин">Петръ Северинъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Северин.html">Петръ Северинъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 15787</fw></l>
       <l>Его высокопревосходительству</l>
       <l>Господину Генералъ отъ инфантеріи</l>
       <l>генералъ прокурору и кавалеру</l>
-      <l><persName ref="Обольянинов">Петру Хрисанфовичу Обольянинову</persName></l>
+      <l><persName role="namesViewer" target="/names/Обольянинов.html">Петру Хрисанфовичу Обольянинову</persName></l>
       <l><date when="1800-12-16">Декабря. 16<hi rend="superscript">го</hi> дня<lb/>
        1800 года</date></l>
-      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Витебск.html">Витебскъ</placeName></l>
     </closer>
     <pb xml:id="p364-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/364.html#p364-2"/>
   </body></text>

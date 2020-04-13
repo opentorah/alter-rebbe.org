@@ -9,17 +9,16 @@ export default function loadTei(tei) {
     teiDiv.innerHTML = "This page will only work in modern browsers.";
     wrapper.appendChild(teiDiv);
 
-    let refBehavior = [["[ref]", ["<a href='/names/$@ref.html' target='namesViewer'>", "</a>"]]];
-
     let CETEIcean = new CETEI();
 
+    let refBehavior    = [["[role][target]", ["<a target='$@role' href='$@target'>", "</a>"]]];
     CETEIcean.addBehaviors({
         "tei": {
-            "pb": [["[role][target]", ["<a target='$@role' href='$@target'>⎙</a>"]]],
-            "persName": refBehavior,
+            "pb"       : [["[role][target]", ["<a target='$@role' href='$@target'>⎙</a>"]]],
+            "persName" : refBehavior,
             "placeName": refBehavior,
-            "orgName": refBehavior,
-            "supplied": ["[", "]"]
+            "orgName"  : refBehavior,
+            "supplied" : ["[", "]"]
         }
     });
 

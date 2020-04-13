@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Перевод с польского языка показаний <persName ref="Вулф_Шимелиович">Вулфа Шимелиовича</persName></p>
-      </abstract>
+      <abstract><p>
+        Перевод с польского языка показаний <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Вулфа
+        Шимелиовича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -28,24 +31,27 @@
     <fw type="pageNum" place="right">105</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Вулф_Шимелиович">Вулфа Шимеліовича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Вулфа Шимеліовича</persName></l>
     </head>
     <p>
-      <l>Я <persName ref="Вулф_Шимелиович">Вулфъ Шимеліовичъ</persName> отъ роду имѣю</l>
-      <l>24 года, нахожусь въ мѣльницѣ <persName ref="Огинский">г. Огин<lb/>
-       скаго</persName>, родился въ мѣстечкѣ <placeName ref="Дзиенциола">Дзіен-<lb/>
-       цїолѣ</placeName>, живу въ <placeName ref="Вильна">вилнѣ</placeName> 14. лѣтъ, же-</l>
+      <l>Я <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Вулфъ Шимеліовичъ</persName> отъ роду
+      имѣю</l>
+      <l>24 года, нахожусь въ мѣльницѣ <persName role="namesViewer" target="/names/Огинский.html">г. Огин<lb/>
+       скаго</persName>, родился въ мѣстечкѣ <placeName role="namesViewer" target="/names/Дзиенциола.html">Дзіен-<lb/>
+       цїолѣ</placeName>, живу въ <placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName> 14. лѣтъ,
+      же-</l>
       <l>натъ, имѣю дочь Зислю; Третей</l>
-      <l>годъ тому, какъ вступилъ въ <orgName ref="Хасиды">Каро-<lb/>
-       линскую секту</orgName>; къ <placeName ref="Лиозно">Лозинскому</placeName></l>
-      <l><persName ref="alter-rebbe">рабину</persName> ѣздилъ прошлаго году, и въ</l>
-      <l><placeName ref="Лиозно">Лознѣ</placeName> жилъ пять недѣль. Еврея</l>
-      <l><persName ref="Орлик_Мовшович">Орлика</persName> возобновившаго въ <placeName ref="Вильна">вилнѣ</placeName>
-      </l>
-      <l><orgName ref="Хасиды">секту каролиновъ</orgName> знаю; живетъ</l>
-      <l>онъ въ <placeName ref="Островна">Островнѣ</placeName>. впрочемъ ничего</l>
+      <l>годъ тому, какъ вступилъ въ <orgName role="namesViewer" target="/names/Хасиды.html">Каро-<lb/>
+       линскую секту</orgName>; къ <placeName role="namesViewer" target="/names/Лиозно.html">Лозинскому</placeName></l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">рабину</persName> ѣздилъ прошлаго году, и въ</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">Лознѣ</placeName> жилъ пять недѣль. Еврея</l>
+      <l><persName role="namesViewer" target="/names/Орлик_Мовшович.html">Орлика</persName> возобновившаго въ <placeName
+      role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName></l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">секту каролиновъ</orgName> знаю; живетъ</l>
+      <l>онъ въ <placeName role="namesViewer" target="/names/Островна.html">Островнѣ</placeName>. впрочемъ ничего</l>
       <l>не знаю</l>
-      <signed>Подписалъ <persName ref="Вулф_Шимелиович">Вулфъ Шимеліовичъ</persName>.</signed>
+      <signed>Подписалъ <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">Вулфъ
+      Шимеліовичъ</persName>.</signed>
     </p>
     <pb xml:id="p105-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/105.html#p105-2"/>
   </body></text>

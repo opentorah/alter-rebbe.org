@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лейба_Зеликович">Лейба Зеликович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба Зеликович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Перевод с польского языка допроса <persName ref="Лейба_Зеликович">Лейба Зеликовича</persName></p>
-      </abstract>
+      <abstract><p>
+        Перевод с польского языка допроса <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба
+        Зеликовича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -28,37 +31,45 @@
     <fw type="pageNum" place="right">97</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Лейба_Зеликович">Леибы Зеликовича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Леибы Зеликовича</persName></l>
     </head>
     <p>
-      <l>Имя мое <persName ref="Лейба_Зеликович">Леиба Зеликовичъ</persName>; отъ ро</l>
+      <l>Имя мое <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Леиба Зеликовичъ</persName>; отъ
+      ро</l>
       <l>ду мнѣ 23 года, женатъ, имѣю двѣ</l>
       <l>дочери Дину и Хаю, родился въ городѣ</l>
-      <l><placeName ref="Вильна">Вилнѣ</placeName>, торговаго промыслу никакого</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>, торговаго промыслу никакого</l>
       <l>не имѣю; третей годъ тому, как здѣ-</l>
-      <l>лался <orgName ref="Хасиды">каролиномъ</orgName>. Къ <placeName ref="Лиозно">Лозинскому</placeName></l>
-      <l><persName ref="alter-rebbe">рабину</persName> ѣздилъ три раза: первой разъ</l>
+      <l>лался <orgName role="namesViewer" target="/names/Хасиды.html">каролиномъ</orgName>. Къ <placeName
+      role="namesViewer" target="/names/Лиозно.html">Лозинскому</placeName></l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">рабину</persName> ѣздилъ три раза: первой
+      разъ</l>
       <l>по комерціи, другой за тѣмъ, чтобы,</l>
       <l>узнавь о великихъ его знаніях въ вѣ-</l>
       <l>рѣ, быть отъ него просвѣщеннымъ,</l>
       <l>и сей второй разъ ѣздилъ я на ижди</l>
-      <l>веніи <orgName ref="Хасиды">каролиновъ</orgName>, и отъ онаго <persName ref="alter-rebbe">рабина</persName></l>
-      <l>из <placeName ref="Лиозно">Лозны</placeName> привезъ сюда писмо къ</l>
-      <l><persName ref="Нохим_Ицкович">Нохиму Ицковичу</persName>, в которомъ на</l>
+      <l>веніи <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>, и отъ онаго <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабина</persName></l>
+      <l>из <placeName role="namesViewer" target="/names/Лиозно.html">Лозны</placeName> привезъ сюда писмо къ</l>
+      <l><persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохиму Ицковичу</persName>, в которомъ на</l>
       <l>ходились денги разною монетою,</l>
       <l>сколько же ихъ было, не знаю; въ</l>
       <l>третій разъ ѣздилъ для увѣдомле</l>
-      <l>нія, что изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго<lb/>
+      <l>нія, что изъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      Губернскаго<lb/>
        правленія</orgName> исходатайствовано под-</l>
       <l>твержденіе о Каролинской сектѣ,</l>
       <fw type="note" place="left margin"><note type="gloss">
         <l>|: №. сего подтвержденія, и ничего</l>
-        <l>подобнаго въ <orgName ref="Литовское_губернское_правление">Губернскомъ прав-<lb/>
+        <l>подобнаго въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернскомъ
+        прав-<lb/>
          леніи</orgName> не было :|</l>
       </note></fw>
-      <l>и въ сей разъ помянутой <persName ref="alter-rebbe">рабинъ</persName> при-</l>
+      <l>и въ сей разъ помянутой <persName role="namesViewer" target="/names/alter-rebbe.html">рабинъ</persName>
+      при-</l>
       <l>слалъ со мною въ писмѣ на имя</l>
-      <l><persName ref="Нохим_Ицкович">Нохима Ицковича</persName> для <orgName ref="Хасиды">каролинскаго</orgName></l>
+      <l><persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохима Ицковича</persName> для <orgName
+      role="namesViewer" target="/names/Хасиды.html">каролинскаго</orgName></l>
       <l>собранія 800 рубл. ассигнаціями. вѣра</l>
       <l>или секта наша ни на чемъ дру-</l>
       <l>гомъ не основывается, какъ только</l>
@@ -71,37 +82,42 @@
       <l>стойнѣйшими у Бога предъ древними</l>
       <l>жидами, а потому отъ нихъ и отли</l>
       <l>чаемся. Евреи, которыхъ показалъ</l>
-      <l>мнѣ реестръ, принадлежатъ къ <orgName ref="Хасиды">ка<lb/>
-       ролинской сектѣ</orgName>, исключая <persName ref="Лейба_Юделевич">Лейбу<lb/>
-       Юделевича</persName> и <persName ref="Мовша_Иосиелиович">Мовшу Јозелевича</persName>, <persName
-      ref="Иосель_Мовшович">Јозе-<lb/>
-       ля Мовшовича</persName> и <persName ref="Мовша_Мордохович">Мовшу Мордоховича</persName>.</l>
-      <l>Будучи у <placeName ref="Лиозно">Лозинскаго</placeName> <persName ref="alter-rebbe">рабина</persName>, видѣлъ
-      </l>
+      <l>мнѣ реестръ, принадлежатъ къ <orgName role="namesViewer" target="/names/Хасиды.html">ка<lb/>
+       ролинской сектѣ</orgName>, исключая <persName role="namesViewer" target="/names/Лейба_Юделевич.html">Лейбу<lb/>
+       Юделевича</persName> и <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовшу
+      Јозелевича</persName>, <persName role="namesViewer" target="/names/Иосель_Мовшович.html">Јозе-<lb/>
+       ля Мовшовича</persName> и <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мовшу
+      Мордоховича</persName>.</l>
+      <l>Будучи у <placeName role="namesViewer" target="/names/Лиозно.html">Лозинскаго</placeName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабина</persName>, видѣлъ</l>
       <l>прибывшихъ къ нему евреевъ изъ раз-</l>
       <l>ныхъ мѣстъ болѣе двухъ сотъ, а въ</l>
       <l>другой разъ болѣе тысячи; слышалъ</l>
-      <l>что <persName ref="Арон">Аронъ</persName> былъ, и что <persName ref="Соломон">Саломонъ</persName> убитъ</l>
-      <l>подъ <placeName ref="Владимир">Владимиромъ</placeName>. <placeName ref="Индура">Индурскаго</placeName> рабина
-      </l>
-      <l>по имени <persName ref="Шмуил_Хаимович">Шмуйла Хайка</persName> видѣлъ</l>
-      <l>въ <placeName ref="Вильна">Вилнѣ</placeName>, но съ нимъ ни о чемъ не</l>
+      <l>что <persName role="namesViewer" target="/names/Арон.html">Аронъ</persName> былъ, и что <persName
+      role="namesViewer" target="/names/Соломон.html">Саломонъ</persName> убитъ</l>
+      <l>подъ <placeName role="namesViewer" target="/names/Владимир.html">Владимиромъ</placeName>. <placeName
+      role="namesViewer" target="/names/Индура.html">Индурскаго</placeName> рабина</l>
+      <l>по имени <persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуйла Хайка</persName> видѣлъ</l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>, но съ нимъ ни о чемъ не</l>
       <l>разговаривалъ. На отправленіе моле-</l>
-      <l>нія въ домѣ <persName ref="Меер_Рафалович">Рафаловича</persName> далъ позво-</l>
-      <l>леніе кагальной <persName ref="Мовша_Ошерович">Моисей Ошеровичъ</persName>,</l>
-      <l>съ тѣмъ однакожъ, чтобы <persName ref="Меер_Рафалович">Рафаило-<lb/>
+      <l>нія въ домѣ <persName role="namesViewer" target="/names/Меер_Рафалович.html">Рафаловича</persName> далъ
+      позво-</l>
+      <l>леніе кагальной <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моисей
+      Ошеровичъ</persName>,</l>
+      <l>съ тѣмъ однакожъ, чтобы <persName role="namesViewer" target="/names/Меер_Рафалович.html">Рафаило-<lb/>
        вичъ</persName> самъ бывалъ всегда въ публи</l>
       <l>чной школѣ. Денги, какия были собра</l>
-      <l>ны отъ <orgName ref="Хасиды">каролинскаго</orgName> общества, на</l>
-      <l>ходятся у <persName ref="Нохим_Ицкович">Нохима</persName>, сколько жъ съ</l>
+      <l>ны отъ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскаго</orgName> общества, на</l>
+      <l>ходятся у <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохима</persName>, сколько жъ съ</l>
       <l>котораго дому получено, я не знаю</l>
       <l>потому что всякой хозяинъ давалъ</l>
       <l>по своей возможности. Привезенные</l>
-      <l>мною денги отданы въ руки <persName ref="Нохим_Ицкович">Нохима<lb/>
+      <l>мною денги отданы въ руки <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохима<lb/>
        Ицковича</persName>, а на что употребилъ онъ</l>
       <l>тѣ денги и збиранные отъ общества</l>
       <l>жидовскаго, не знаю.</l>
-      <l><signed>Подписалъ <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName>.</signed></l>
+      <l><signed>Подписалъ <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба
+      Зеликовичъ</persName>.</signed></l>
     </p>
   </body></text>
 </TEI>

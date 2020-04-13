@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,12 +17,13 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение <persName ref="Обольянинов">Обольянинова</persName> о доставке <persName ref="Авигдор">Авигдора
-        </persName> для следственных действий
+        Распоряжение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> о доставке
+        <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> для следственных действий
       </p></abstract>
       <creation><date when="1800-11-15">1800 года ноября 15 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Пален" role="addressee">Палену</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Пален.html">Палену</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,16 +35,16 @@
     <l>М. Г.мой г. Петръ Алексѣевичъ</l>
     <l>Покорно прошу приказать В. С.</l>
     <l>прислать ко мнѢ сего же дня</l>
-    <l>бывшаго оберъ рабина <persName ref="Авигдор">Хайма</persName></l>
+    <l>бывшаго оберъ рабина <persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName></l>
     <l>съ переводчикомъ и живущаго</l>
-    <l>у доктора <persName ref="Цуберт">цуберта</persName> еврея</l>
-    <l><persName ref="Юда_Файбишевич">Фавичовича</persName>. Пребываю въ проч.</l>
+    <l>у доктора <persName role="namesViewer" target="/names/Цуберт.html">цуберта</persName> еврея</l>
+    <l><persName role="namesViewer" target="/names/Юда_Файбишевич.html">Фавичовича</persName>. Пребываю въ проч.</l>
     <l>съ истиннымъ почтенiемъ</l>
     <closer>
       <l><fw type="docNum">№ 929.<hi rend="superscript">й</hi></fw></l>
       <l><date when="1800-11-15">ноября 15 дня<lb/>
        1800</date>.</l>
-      <l>Графу <persName ref="Пален">Фонъ Деръ Палену</persName>.</l>
+      <l>Графу <persName role="namesViewer" target="/names/Пален.html">Фонъ Деръ Палену</persName>.</l>
       <pb xml:id="p279-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/279.html#p279-2"/>
     </closer>
   </body></text>

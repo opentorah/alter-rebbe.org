@@ -3,8 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Хлиовна_Зорухович">Хлиовна Зорухович</persName></author>
-        <editor role="fragment-transcriber"><persName ref="MF">Mendel Feller</persName></editor>
+        <author><persName role="namesViewer" target="/names/Хлиовна_Зорухович.html">Хлиовна Зорухович</persName>
+        </author>
+        <editor role="fragment-transcriber"><persName role="namesViewer" target="/names/MF.html">Mendel
+        Feller</persName></editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -14,7 +16,9 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Допрос жида <persName ref="Хлиовна_Зорухович">Хлиовна Зоруховича</persName></p></abstract>
+      <abstract><p>
+        Допрос жида <persName role="namesViewer" target="/names/Хлиовна_Зорухович.html">Хлиовна Зоруховича</persName>
+      </p></abstract>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>

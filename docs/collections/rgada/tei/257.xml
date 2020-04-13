@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольяниновъ</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольяниновъ</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Павел_I">Павлу I</persName>
-      об особенностях <orgName ref="Хасиды">хасидских общин</orgName> и отсутствии угрозы для государства с их стороны
-      </abstract>
+      <abstract>Сообщение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName>
+      <persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName> об особенностях <orgName
+      role="namesViewer" target="/names/Хасиды.html">хасидских общин</orgName> и отсутствии угрозы для государства с их
+      стороны</abstract>
       <creation><date when="1800-10-12">12 октября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,10 +37,10 @@
         <l>высочайше</l>
         <l>повелено</l>
         <l>военому губерна-</l>
-        <l>тору <placeName ref="Литва">литовскому</placeName></l>
+        <l>тору <placeName role="namesViewer" target="/names/Литва.html">литовскому</placeName></l>
         <l>естли въ вереной</l>
         <l>губернiи ево кагалъ</l>
-        <l>отъ оберъ рабина <persName ref="Авигдор">Хай-<lb/>
+        <l>отъ оберъ рабина <persName role="namesViewer" target="/names/Авигдор.html">Хай-<lb/>
          ма</persName> взялъ денги</l>
         <l>и лиша места</l>
         <l>чрезъ что понесъ</l>
@@ -46,55 +48,61 @@
         <l>рить просителя</l>
         <l>равно и <unclear>...</unclear> граждан-</l>
         <l>скому губернатору</l>
-        <l><placeName ref="Минская_губерния">минскому</placeName> и вое-</l>
+        <l><placeName role="namesViewer" target="/names/Минская_губерния.html">минскому</placeName> и вое-</l>
         <l>ному губернатору</l>
-        <l><persName ref="Розенберг">Розенбергу</persName></l>
+        <l><persName role="namesViewer" target="/names/Розенберг.html">Розенбергу</persName></l>
         <l>ответить</l>
         <l>Октября 12-го</l>
         <l>1800 года</l>
         <l>Гатчина</l>
       </fw></p>
-    <l>Бывший в <placeName ref="Пинск">Пинскѣ</placeName> Оберъ рабинъ</l>
-    <l><persName ref="Авигдор">Хаимъ</persName> приносил вашему <emph rend="big">ИМПЕРА-<lb/>
+    <l>Бывший в <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName> Оберъ рабинъ</l>
+    <l><persName role="namesViewer" target="/names/Авигдор.html">Хаимъ</persName> приносил вашему <emph rend="big"
+    >ИМПЕРА-<lb/>
      ТОРСКОМУ ВЕЛИЧЕСТВУ</emph> жалобу</l>
     <l>на разныя притѣсненiя и гоненiя</l>
     <l>претерпѣваемыя имъ отъ какойто</l>
-    <l>новой <orgName ref="Хасиды">секты</orgName> <emph rend="underline">Шабзусъ Цвинкусъ</emph>.</l>
+    <l>новой <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName> <emph rend="underline">Шабзусъ
+    Цвинкусъ</emph>.</l>
     <l>По поводу сего отправленъ былъ</l>
     <l>от генералъ прокурора штата</l>
     <l>провiантскаго коммисiонеръ .8.<hi rend="superscript">го</hi></l>
-    <l>класса <persName ref="Хрущов">Хрущовъ</persName> въ <placeName ref="Белоруссия">Бѣлорусiю</placeName> для</l>
+    <l>класса <persName role="namesViewer" target="/names/Хрущов.html">Хрущовъ</persName> въ <placeName
+    role="namesViewer" target="/names/Белоруссия.html">Бѣлорусiю</placeName> для</l>
     <l>узнанiя секретнымъ образомъ о</l>
-    <l>существѣ сей <orgName ref="Хасиды">секты</orgName>, которой</l>
+    <l>существѣ сей <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName>, которой</l>
     <l>и донесъ, что оная под названiем</l>
-    <l><orgName ref="Хасиды">каролины или хосоды</orgName> состоитъ</l>
-    <l>въ <placeName ref="Белоруссия">бѣлоруской</placeName> и <placeName ref="Литва">Литовской</placeName> губер-</l>
+    <l><orgName role="namesViewer" target="/names/Хасиды.html">каролины или хосоды</orgName> состоитъ</l>
+    <l>въ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлоруской</placeName> и <placeName
+    role="namesViewer" target="/names/Литва.html">Литовской</placeName> губер-</l>
     <l>нiяхъ из евреевъ подъ начальст-</l>
-    <l>вомъ рабина <persName ref="alter-rebbe">Боруховича</persName>. Таин-</l>
+    <l>вомъ рабина <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName>. Таин-</l>
     <l>ство оной есть при отправленiи</l>
     <l>богослуженія кричать во всю силу</l>
     <l>и лѣзть на стѣну. По справкѣ</l>
     <l>здѣлами тайной експедицiи ока-</l>
-    <l>залось, что о сей самой <orgName ref="Хасиды">сектѣ</orgName> про-</l>
-    <l>изведено было въ <placeName ref="Литва">литовской</placeName> и <placeName ref="Белоруссия">бѣло-<lb/>
+    <l>залось, что о сей самой <orgName role="namesViewer" target="/names/Хасиды.html">сектѣ</orgName> про-</l>
+    <l>изведено было въ <placeName role="namesViewer" target="/names/Литва.html">литовской</placeName> и <placeName
+    role="namesViewer" target="/names/Белоруссия.html">бѣло-<lb/>
      руской</placeName> губернiяхъ въ 1798<hi rend="superscript">м</hi> году слѣд-</l>
-    <l>ствiе и начальникъ ея <persName ref="alter-rebbe">боруховичъ</persName></l>
+    <l>ствiе и начальникъ ея <persName role="namesViewer" target="/names/alter-rebbe.html">боруховичъ</persName></l>
     <l>привезенъ былъ сюда. По допро-</l>
     <l>самъ его и по слѣдствiю найдено,</l>
-    <l>что <orgName ref="Хасиды">секта</orgName> сiя нечто иное есть</l>
+    <l>что <orgName role="namesViewer" target="/names/Хасиды.html">секта</orgName> сiя нечто иное есть</l>
     <l>какъ старинный обрядъ Шадимского</l>
     <pb xml:id="p257-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/257.html#p257-2"/>
     <fw type="pageNum" place="left">2578 об.</fw>
     <l>моленія съ величайшимъ иступле</l>
     <l>ніемъ, основаннаго на библіи, тал-</l>
     <l>мудѣ, кабалистикѣ и нравстве-</l>
-    <l>нности. Приходящимъ изъ <placeName ref="Палестина">пале-<lb/>
+    <l>нности. Приходящимъ изъ <placeName role="namesViewer" target="/names/Палестина.html">пале-<lb/>
      стины</placeName> по древнему обычаю евреямъ</l>
     <l>для содержанія тамошней братіи,</l>
     <l>помогаютъ онѣ деньгами. Но быв-</l>
-    <l>шѣй <placeName ref="Белоруссия">бѣлоруской</placeName> губернаторъ <persName ref="Жегулин">жегу-<lb/>
+    <l>шѣй <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлоруской</placeName> губернаторъ <persName
+    role="namesViewer" target="/names/Жегулин.html">жегу-<lb/>
      линъ</persName> къ предосужденію и обвиненію</l>
-    <l><persName ref="alter-rebbe">боруховича</persName> ни чего открыть не могъ.</l>
+    <l><persName role="namesViewer" target="/names/alter-rebbe.html">боруховича</persName> ни чего открыть не могъ.</l>
     <l>при всеподданѣйшемъ о семъ <date when="1798-11-16">.16.<hi rend="superscript">го</hi><lb/>
      ноября 1798.<hi rend="superscript">го</hi> года</date> докладѣ, благоуго</l>
     <l>дно было вашему <emph rend="big">ИМПЕРАТОР</emph>-</l>
@@ -102,7 +110,7 @@
     <l>повелѣть: поелику въ поведеніи</l>
     <l>евреевъ ничего для <emph rend="big">Государства</emph></l>
     <l>вреднаго и для нравовъ развратнаго</l>
-    <l>не усмотрено, то <persName ref="alter-rebbe">Боруховича</persName> освобо</l>
+    <l>не усмотрено, то <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> освобо</l>
     <l>дить, имѣя за нимисмотреніе,</l>
     <l>не будетъ ли какихъ-нибудь потаен</l>
     <l>ныхъ сношеній съ развратно тол-</l>
@@ -117,10 +125,10 @@
     <pb xml:id="p258-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/257.html#p258-1"/>
     <fw type="pageNum" place="right">258</fw>
     <fw type="pageNum" place="right"><del rend="overstrike">265</del></fw>
-    <l>ченное до существа той <orgName ref="Хасиды">секты</orgName> ка-</l>
+    <l>ченное до существа той <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName> ка-</l>
     <l>сающееся, присовокупляя, что пре-</l>
-    <l>тензiи <persName ref="Авигдор">Хаима</persName> суть слѣдующiе:</l>
-    <l>1-е. что бы <orgName ref="Хасиды">секту</orgName> Шабзусъ Цвинкусъ</l>
+    <l>тензiи <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName> суть слѣдующiе:</l>
+    <l>1-е. что бы <orgName role="namesViewer" target="/names/Хасиды.html">секту</orgName> Шабзусъ Цвинкусъ</l>
     <l>истребить по тому, что она и-</l>
     <l>мѣетъ правила в молитвахъ</l>
     <l>и образѣ жизни несходныя с древ-</l>
@@ -129,27 +137,29 @@
     <l>все творить с веселiемъ и спо-</l>
     <l>койствiемъ, а древнiе Јудеи со</l>
     <l>страхомъ и трепетомъ. Злоба</l>
-    <l>прочихъ евреевъ къ <orgName ref="Хасиды">каролинамъ</orgName> про-</l>
+    <l>прочихъ евреевъ къ <orgName role="namesViewer" target="/names/Хасиды.html">каролинамъ</orgName> про-</l>
     <l>исходитъ и отъ того, что нѣкто</l>
-    <l>святоша <persName ref="Элиас">Елiашъ</persName> умирая в 1797<hi rend="superscript">м</hi></l>
+    <l>святоша <persName role="namesViewer" target="/names/Элиас.html">Елiашъ</persName> умирая в 1797<hi
+    rend="superscript">м</hi></l>
     <l>году здѣлалъ завѣщанiе, что бы</l>
-    <l>всѣхъ <orgName ref="Хасиды">королинской секты</orgName> истребит</l>
+    <l>всѣхъ <orgName role="namesViewer" target="/names/Хасиды.html">королинской секты</orgName> истребит</l>
     <l>и всѣ евреи клялись надъ его гробомъ</l>
     <l>сiе исполнить. Сверхъ сего</l>
     <l>въ прежнее польское правленiе были</l>
-    <l>от сего <persName ref="Авигдор">оберъ рабина</persName> дѣланы мно-</l>
-    <l>гiе доносы, и книги <orgName ref="Хасиды">китаевцовъ<lb/>
+    <l>от сего <persName role="namesViewer" target="/names/Авигдор.html">оберъ рабина</persName> дѣланы мно-</l>
+    <l>гiе доносы, и книги <orgName role="namesViewer" target="/names/Хасиды.html">китаевцовъ<lb/>
      или каролиновъ</orgName> тамъ сожигае-</l>
-    <l>мы; въ прочемъ евреи сей <orgName ref="Хасиды">секты</orgName></l>
+    <l>мы; въ прочемъ евреи сей <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName></l>
     <l>равно древней существующей въ</l>
-    <l>городахъ <placeName ref="Минская_губерния">минской губернiи</placeName>, ведутъ</l>
+    <l>городахъ <placeName role="namesViewer" target="/names/Минская_губерния.html">минской губернiи</placeName>,
+    ведутъ</l>
     <l>себя спокойно, и всѣ Государст-</l>
     <l>венныя подати платятъ равно</l>
     <l>съ другими. 2.<hi rend="superscript">е</hi> что по отрѣшенiи</l>
     <pb xml:id="p258-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/257.html#p258-2"/>
     <fw type="pageNum" place="left">258 об.</fw>
     <l/>
-    <l>Его <persName ref="Авигдор">хаима</persName> отъ оберъ рабинства</l>
+    <l>Его <persName role="namesViewer" target="/names/Авигдор.html">хаима</persName> отъ оберъ рабинства</l>
     <l>надъ тридцатью городами считаетъ</l>
     <l>онъ убытку себѣ до десяти тысячъ</l>
     <l>червонныхъ, что однакожъ не до-</l>
@@ -161,7 +171,7 @@
     <l>дѣламъ евреевъ же, что противно</l>
     <l>установленному государствен-</l>
     <l>ному порядку.</l>
-    <l>Бывъ призванъ оной <persName ref="Авигдор">хаимъ</persName> къ</l>
+    <l>Бывъ призванъ оной <persName role="namesViewer" target="/names/Авигдор.html">хаимъ</persName> къ</l>
     <l>генералъ прокурору объявилъ словесно,</l>
     <l>что за мѣсто оберъ равина внесъ онъ</l>
     <l>въ еврейскій кагалъ .400. червонныхъ,</l>

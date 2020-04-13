@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Бенкендорф">Бенкендорф</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Бенкендорф.html">Бенкендорф</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +18,16 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Бенкендорф">Бенкендорфа</persName> <persName ref="Лопухин">Лопухину</persName> о
-        возвращении семи арестованных <orgName ref="Хасиды">хасидов</orgName> из <placeName ref="Рига">Риги</placeName>
-        в <placeName ref="Вильна">Вильно</placeName>
+        Сообщение <persName role="namesViewer" target="/names/Бенкендорф.html">Бенкендорфа</persName> <persName
+        role="namesViewer" target="/names/Лопухин.html">Лопухину</persName> о возвращении семи арестованных <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> из <placeName role="namesViewer"
+        target="/names/Рига.html">Риги</placeName> в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильно</placeName>
       </p></abstract>
       <creation><date when="1798-11-20">ноября 20 дня 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,28 +38,30 @@
     <fw type="docNum" place="left">№ 2948<hi rend="superscript">й</hi>.</fw>
     <fw type="pageNum" place="right">86.</fw>
     <salute><l>Милостивый Государь<lb/>
-       <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
+       <persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!</l></salute>
     <p>
       <l>По почтенному отношенію Вашего Высокопре-</l>
       <l>восходительства арестанты евреи, семь человѣкъ за</l>
-      <l>смотромъ <placeName ref="Вильна">виленской</placeName> полиціи надзирателя Грѣча въ</l>
-      <l><placeName ref="Вильна">вильну</placeName> къ господину дѣйствительному тайному совѣтни</l>
-      <l>ку <persName ref="Булгаков">Булгакову</persName>, <date when="1798-11-18">18<hi rend="superscript">го</hi>
-      числа сего теченія</date> отправлены о семъ</l>
+      <l>смотромъ <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> полиціи надзирателя
+      Грѣча въ</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильну</placeName> къ господину дѣйствительному
+      тайному совѣтни</l>
+      <l>ку <persName role="namesViewer" target="/names/Булгаков.html">Булгакову</persName>, <date when="1798-11-18"
+      >18<hi rend="superscript">го</hi> числа сего теченія</date> отправлены о семъ</l>
       <l>увѣдомя пребыть честь имѣю с моимъ истиннымъ къ <note place="end">вероятно, "Вамъ" - край листа оборван</note>
       </l>
       <l>почтенїемъ и таковою же преданностїю навсегда.</l>
       <l>Милостивый Государь</l>
       <l>вашего высокопревосходительства</l>
       <l><signed>Покорнѣиший слуга<lb/>
-       <persName ref="Бенкендорф">Бенкендорфъ</persName></signed></l>
+       <persName role="namesViewer" target="/names/Бенкендорф.html">Бенкендорфъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 835.<hi rend="superscript">и</hi></fw></l>
       <l><date when="1798-11-20">ноября 20<hi rend="superscript">го</hi> дня<lb/>
        1798<hi rend="superscript">го</hi> года</date></l>
-      <l><placeName ref="Рига">Рига</placeName></l>
-      <l>Его высокопревосходительству <persName ref="Лопухин">Лопухину</persName>.</l>
+      <l><placeName role="namesViewer" target="/names/Рига.html">Рига</placeName></l>
+      <l>Его высокопревосходительству <persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>.</l>
     </closer>
     <pb xml:id="p086-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/086.html#p086-2"/>
   </body></text>

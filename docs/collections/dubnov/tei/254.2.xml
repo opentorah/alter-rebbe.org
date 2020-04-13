@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Тормасов">Тормасов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Тормасов.html">Тормасов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 6. Ответ <persName ref="Тормасов">Тормасова</persName> <persName ref="Обольянинов">Обольянинову</persName>,
-          что в <placeName ref="Литва">Литовской губернии</placeName> о секте неизвестно
+          № 6. Ответ <persName role="namesViewer" target="/names/Тормасов.html">Тормасова</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>, что в <placeName
+          role="namesViewer" target="/names/Литва.html">Литовской губернии</placeName> о секте неизвестно
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/026.html">026</ref> в РГИА 2213
@@ -25,34 +27,40 @@
       </abstract>
       <creation><date when="1800-06-21">1800-06-21</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p254" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/254.2.html#p254"/> № 6.
-      Отвѣтъ <placeName ref="Литва">Литовскаго</placeName> прокурора, что въ <placeName ref="Литва">Литовской
-      губерніи</placeName> о сектѣ неизвѣстно.
+      Отвѣтъ <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> прокурора, что въ
+      <placeName role="namesViewer" target="/names/Литва.html">Литовской губерніи</placeName> о сектѣ неизвѣстно.
     </head>
     <salute>
       Его высокопревосходительству, господину гонералу отъ инфантеріи, генералу-прокурору, генералъ-провіантмейстеру и
-      разныхъ орденовъ кавалеру <persName ref="Обольянинов">Петру Хрисанофовичу Обольянинову</persName>.
+      разныхъ орденовъ кавалеру <persName role="namesViewer" target="/names/Обольянинов.html">Петру Хрисанофовичу
+      Обольянинову</persName>.
     </salute>
-    <p><placeName ref="Литва">Литовскаго</placeName> губернскаго прокурора рапортъ.</p>
+    <p>
+      <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> губернскаго прокурора рапортъ.
+    </p>
     <p>
       На всепочтеннѣйшее предписаніе вашего высокопревосходительства отъ <date when="1800-06-07">7 числа сего іюня
       </date> подъ № 4723-мъ, послѣдовавшѣе по именному Е. И. В. высочайшему повелѣнію, касательно производимаго
-      слѣдствія о притѣсненіяхъ, чинимыхъ сектою Шабзусь-Цвинкусь <placeName ref="Пинск">Пинскому</placeName>
-      оберъ-раббину <persName ref="Авигдор">Хайму</persName>, имѣю честь донести вашему высокопревосходительству, что въ
-      здѣшней губернии подобнаго слѣдствія не производится и не производилось, да и свѣдѣнія о таковой сектѣ до
-      правительства не доходили, а уповаю я, что сіе должно <sic>относитьси</sic> къ <placeName ref="Минская_губерния">
-      Минской губерніи</placeName>, въ которой и <placeName ref="Пинск">Пинскъ</placeName> состоитъ уѣзднымъ городомъ,
+      слѣдствія о притѣсненіяхъ, чинимыхъ сектою Шабзусь-Цвинкусь <placeName role="namesViewer"
+      target="/names/Пинск.html">Пинскому</placeName> оберъ-раббину <persName role="namesViewer"
+      target="/names/Авигдор.html">Хайму</persName>, имѣю честь донести вашему высокопревосходительству, что въ здѣшней
+      губернии подобнаго слѣдствія не производится и не производилось, да и свѣдѣнія о таковой сектѣ до правительства не
+      доходили, а уповаю я, что сіе должно <sic>относитьси</sic> къ <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">Минской губерніи</placeName>, въ которой и <placeName role="namesViewer"
+      target="/names/Пинск.html">Пинскъ</placeName> состоитъ уѣзднымъ городомъ,
     </p>
     <closer><dateline>
-      — <placeName ref="Литва">Литовскій</placeName> губернскій прокуроръ <persName ref="Тормасов">Тормасовъ</persName>.
-      <fw>№ 99.</fw> <date when="1800-06-21">Іюня 21-го дня, 1800 года</date>..
+      — <placeName role="namesViewer" target="/names/Литва.html">Литовскій</placeName> губернскій прокуроръ <persName
+      role="namesViewer" target="/names/Тормасов.html">Тормасовъ</persName>. <fw>№ 99.</fw> <date when="1800-06-21">Іюня
+      21-го дня, 1800 года</date>..
     </dateline></closer>
   </body></text>
 </TEI>

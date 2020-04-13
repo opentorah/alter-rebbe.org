@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author><persName>Бельков</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Письмо <persName>Белькова</persName> в <orgName ref="Тайная_экспедиция">Тайную экспедицию</orgName> об оплате
-        счетов <persName ref="Хрущов">Хрущова</persName>
+        Письмо <persName>Белькова</persName> в <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">Тайную
+        экспедицию</orgName> об оплате счетов <persName role="namesViewer" target="/names/Хрущов.html"
+        >Хрущова</persName>
       </p></abstract>
       <creation><date when="1800-10-17">17 октября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -31,14 +33,15 @@
     <fw type="pageNum" place="right"><del rend="overstrike">269</del></fw>
     <fw type="pageNum" place="right">265</fw>
     <salute><l>Милостивый Государь<lb/>
-       <persName>Александръ Семеновичъ</persName>!<note place="end"><persName>А.С. Макаров</persName> был руководителем <orgName ref="Тайная_экспедиция">Тайной Экспедиции</orgName> при <orgName ref="Сенат">Правительствующем Сенате</orgName> с 1794 по 1801 г.</note></l></salute>
+       <persName>Александръ Семеновичъ</persName>!<note place="end"><persName>А.С. Макаров</persName> был руководителем <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной Экспедиции</orgName> при <orgName role="namesViewer" target="/names/Сенат.html">Правительствующем Сенате</orgName> с 1794 по 1801 г.</note></l></salute>
     <p>
       <l>По отношениiю вышего превосхо-</l>
       <l>дительства слѣдующiя по щотамъ</l>
-      <l>Коммисiонера <persName ref="Хрущов">Хрущова</persName> въ возвратъ</l>
+      <l>Коммисiонера <persName role="namesViewer" target="/names/Хрущов.html">Хрущова</persName> въ возвратъ</l>
       <l>477. рублей 24. копѣйки приказано</l>
       <l>казначѣю <persName>рындину</persName> принять и предста-</l>
-      <l>вить въ коммисiю <placeName ref="Петербург">СанктПетербургскаго</placeName></l>
+      <l>вить въ коммисiю <placeName role="namesViewer" target="/names/Петербург.html">СанктПетербургскаго</placeName>
+      </l>
       <l>провiантскаго депо.</l>
       <l>Съ совершеннымъ почтенiемъ и пре</l>
       <l>данностiю имѣю честь быть</l>

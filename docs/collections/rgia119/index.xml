@@ -10,10 +10,12 @@
     <sourceDesc><p>Facsimile</p></sourceDesc>
   </fileDesc></teiHeader>
   <text><body>
-    <head>Прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName></head>
-    <span>1813 год. Прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName>, вдовы <persName
-    ref="alter-rebbe">Алтер Ребе</persName>, подписанное <persName ref="мителер_ребе">Мителер Ребе</persName>. Открытый
-    лист для проезда <persName ref="alter-rebbe">Алтер Ребе</persName> с семейством во внутрение губернии России.</span>
+    <head>Прошение <persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерны Лейбовны</persName></head>
+    <span>1813 год. Прошение <persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерны
+    Лейбовны</persName>, вдовы <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>,
+    подписанное <persName role="namesViewer" target="/names/мителер_ребе.html">Мителер Ребе</persName>. Открытый лист
+    для проезда <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName> с семейством во
+    внутрение губернии России.</span>
     <p>
       Российский государственный исторический архив - <ref target="http://www.fgurgia.ru/#!">РГИА</ref>, <ref
       target="https://rgia.su/object/27603831#!page:1/o:27603831/p:1">фонд 1309 (СОСЛОВИЕ ПОПЕЧИТЕЛЕЙ ПРИЗРЕНИЯ
@@ -25,12 +27,15 @@
     <p>
       Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Сословие попечителей призрения разоренных в 1812 г.
       Прошения лиц, пострадавших от военных действий, о выдаче пособий по губерниям Гродненской, <placeName
-      ref="Витебск">Витебской</placeName>, <placeName ref="Могилевская_губерния">Могилевской</placeName> и др., в т.ч.
-      прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName>, вдовы раввина м. <placeName ref="Ляды"
-      >Ляды</placeName> <persName ref="alter-rebbe">р. Шнеера Залмана</persName>, подписанное его сыном <persName
-      ref="мителер_ребе">р. Дов Бером Шнеуровым</persName>, раввином <placeName ref="Любавичи">м. Любавичи</placeName>
-      (подпись на иврите). В деле - Открытый лист для проезда <persName ref="alter-rebbe">р. Шнеера Залмана</persName> с
-      семейством во внутрение губернии России.
+      role="namesViewer" target="/names/Витебск.html">Витебской</placeName>, <placeName role="namesViewer"
+      target="/names/Могилевская_губерния.html">Могилевской</placeName> и др., в т.ч. прошение <persName
+      role="namesViewer" target="/names/ребицен_Штерна.html">Штерны Лейбовны</persName>, вдовы раввина м. <placeName
+      role="namesViewer" target="/names/Ляды.html">Ляды</placeName> <persName role="namesViewer"
+      target="/names/alter-rebbe.html">р. Шнеера Залмана</persName>, подписанное его сыном <persName role="namesViewer"
+      target="/names/мителер_ребе.html">р. Дов Бером Шнеуровым</persName>, раввином <placeName role="namesViewer"
+      target="/names/Любавичи.html">м. Любавичи</placeName> (подпись на иврите). В деле - Открытый лист для проезда
+      <persName role="namesViewer" target="/names/alter-rebbe.html">р. Шнеера Залмана</persName> с семейством во
+      внутрение губернии России.
     </p>
     <p>Фотографии предоставил Константин Пименов.</p>
     <table rendition="collection-index">
@@ -46,12 +51,14 @@
       </row>
       <row>
         <cell rendition="description"><p>
-          Обращение <placeName ref="Белоруссия">белорусского</placeName> губернатора в благотворительное общество
-          «Сословие попечителей призрения разоренных от неприятеля в 1812 году» с предложением оказать содействие
-          <persName ref="ребицен_Штерна">вдове</persName> <persName ref="alter-rebbe">Шнеура Залмана</persName>
+          Обращение <placeName role="namesViewer" target="/names/Белоруссия.html">белорусского</placeName> губернатора в
+          благотворительное общество «Сословие попечителей призрения разоренных от неприятеля в 1812 году» с
+          предложением оказать содействие <persName role="namesViewer" target="/names/ребицен_Штерна.html"
+          >вдове</persName> <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
         </p></cell>
         <cell rendition="date">1815-05-11</cell>
-        <cell rendition="author"><persName ref="Александр_Вюртембергский">Александр Вюртембергский</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Александр_Вюртембергский.html">Александр
+        Вюртембергский</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/rgia119/documents/243.html">243</ref>
@@ -61,16 +68,19 @@
           <ref role="documentViewer" target="/collections/rgia119/documents/243.html#p243-2" rendition="page"
           >243об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>
-          Прошение вдовы <persName ref="alter-rebbe">Шнеура Залмана</persName> <persName ref="ребицен_Штерна">Штерны
-          Лейбовны</persName> об оказании помощи со стороны благотворительного общества «Сословие попечителей призрения
-          разоренных от неприятеля в 1812 г.» в связи с разорением хозяйства ее покойного мужа во время войны 1812 г.
+          Прошение вдовы <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
+          <persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерны Лейбовны</persName> об оказании помощи
+          со стороны благотворительного общества «Сословие попечителей призрения разоренных от неприятеля в 1812 г.» в
+          связи с разорением хозяйства ее покойного мужа во время войны 1812 г.
         </p></cell>
         <cell rendition="date">1815-02-16</cell>
-        <cell rendition="author"><persName ref="ребицен_Штерна">Штерна Лейбовна</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерна
+        Лейбовна</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/rgia119/documents/244.html">244</ref>
@@ -83,16 +93,18 @@
           <ref role="documentViewer" target="/collections/rgia119/documents/244.html#p245-2" rendition="missing-page"
           >245об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>
-          Прошение вдовы <persName ref="alter-rebbe">Шнеура Залмана</persName> <persName ref="ребицен_Штерна">Штерны
-          Лейбовны</persName> к «Сословию попечителей призрения разоренных от неприятеля в 1812 г.» с подписями
-          свидетелей и заключением суда
+          Прошение вдовы <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
+          <persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерны Лейбовны</persName> к «Сословию
+          попечителей призрения разоренных от неприятеля в 1812 г.» с подписями свидетелей и заключением суда
         </p></cell>
         <cell rendition="date">1814-06-??</cell>
-        <cell rendition="author"><persName ref="ребицен_Штерна">Штерна Лейбовна</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/ребицен_Штерна.html">Штерна
+        Лейбовна</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/rgia119/documents/246.html">246</ref>
@@ -105,12 +117,14 @@
           <ref role="documentViewer" target="/collections/rgia119/documents/246.html#p247-2" rendition="missing-page"
           >247об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"><p>
-          Открытый лист, выданный <persName ref="alter-rebbe">Шнеуру Залману</persName> и членам его семьи для проезда
-          по внутренним губерниям России с отметками местных органов власти по пути следования
+          Открытый лист, выданный <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеуру
+          Залману</persName> и членам его семьи для проезда по внутренним губерниям России с отметками местных органов
+          власти по пути следования
         </p></cell>
         <cell rendition="date">1812-08-12</cell>
         <cell rendition="author"/>
@@ -127,7 +141,8 @@
           <ref role="documentViewer" target="/collections/rgia119/documents/248.html#p249-2" rendition="page"
           >249об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
     </table>
     <p>Отсутствуют фотографии 3 страниц: 245об 247об 248</p>

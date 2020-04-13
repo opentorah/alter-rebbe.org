@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Козминский">Козминский</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Козминский.html">Козминский</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,9 +17,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Показания губернского секретаря <persName ref="Козминский">Козминского</persName> о частично выполненном им
-        переводе письма <orgName ref="Виленский_кагал">виленского кагала</orgName> к <placeName ref="Видзы">видзенскому
-        </placeName> кагалу
+        Показания губернского секретаря <persName role="namesViewer" target="/names/Козминский.html"
+        >Козминского</persName> о частично выполненном им переводе письма <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> к <placeName role="namesViewer"
+        target="/names/Видзы.html">видзенскому</placeName> кагалу
       </p></abstract>
       <creation><date when="1798-10-16">16 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -32,23 +34,26 @@
     <fw type="pageNum" place="right"><del rend="overstrike">159</del></fw>
     <p>
       <l><date when="1798-10-16">1798 года октября 16<hi rend="superscript">го</hi> дня</date> Губернскій</l>
-      <l>секретарь <persName ref="Козминский">Козминскій</persName> въ <placeName ref="Вильна">виленскомъ</placeName>
-      город</l>
+      <l>секретарь <persName role="namesViewer" target="/names/Козминский.html">Козминскій</persName> въ <placeName
+      role="namesViewer" target="/names/Вильна.html">виленскомъ</placeName> город</l>
       <l>ничестве показалъ:</l>
     </p>
     <p>
       <l>Что онъ началъ писать по польски переводъ съ</l>
-      <l>еврейского писма отъ <orgName ref="Виленский_кагал">виленского кагала</orgName> писан</l>
-      <l>ного въ городъ <placeName ref="Видзы">видзы</placeName> къ евреямъ, которое съ</l>
+      <l>еврейского писма отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+      кагала</orgName> писан</l>
+      <l>ного въ городъ <placeName role="namesViewer" target="/names/Видзы.html">видзы</placeName> къ евреямъ, которое
+      съ</l>
       <l>еврейского диктовалъ ему жидъ Нохимъ на квар</l>
-      <l>тире капитана Лошкарева, но как он <persName ref="Козминский">Козмин<lb/>
+      <l>тире капитана Лошкарева, но как он <persName role="namesViewer" target="/names/Козминский.html">Козмин<lb/>
        скій</persName> увидѣлъ, что длинное было писмо, и ему</l>
       <l>время недоставало писать, то отказавшись</l>
       <l>отъ писма ушелъ къ себѣ домой. А кто его</l>
       <l>сочинялъ по еврейски, и что оно значитъ, не знаетъ</l>
       <l>ибо писано по еврейски; более же ни о какихъ</l>
       <l>делах неизвѣстенъ. въ чемъ и подписуюсь</l>
-      <l><signed>Секретарь <persName ref="Козминский">Козма Козминскій</persName></signed></l>
+      <l><signed>Секретарь <persName role="namesViewer" target="/names/Козминский.html">Козма Козминскій</persName>
+      </signed></l>
     </p>
     <pb xml:id="p158-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/158.html#p158-2"/>
   </body></text>

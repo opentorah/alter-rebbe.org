@@ -4,8 +4,10 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/ALD.html">Арье-Лейб Дубинский</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +18,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Титульный лист раздела: Письмо, найденное у <persName ref="Вулф_Шимелиович">Вольфа Шмулевича</persName>
+        Титульный лист раздела: Письмо, найденное у <persName role="namesViewer" target="/names/Вулф_Шимелиович.html"
+        >Вольфа Шмулевича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -28,7 +31,7 @@
     <fw type="docNum">№ 24.</fw>
     <p>
       <l>писмо наиденное</l>
-      <l>у <persName ref="Вулф_Шимелиович">волфа шимеліовича</persName>.</l>
+      <l>у <persName role="namesViewer" target="/names/Вулф_Шимелиович.html">волфа шимеліовича</persName>.</l>
     </p>
     <pb xml:id="p150a-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/150a.html#p150a-2"/>
   </body></text>

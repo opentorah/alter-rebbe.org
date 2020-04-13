@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -17,18 +18,20 @@
     <profileDesc>
       <abstract>
         <p>
-          Доклад <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Павел_I">императору</persName> о
-          следствии по делу <persName ref="alter-rebbe">Шнеура Залмана</persName>
+          Доклад <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Павел_I.html">императору</persName> о следствии по делу <persName
+          role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
         </p>
         <p>
-          Резолюция императора об освобождении <persName ref="alter-rebbe">Шнеура Залмана</persName> и о рассмотрении
-          дела <orgName ref="Сенат">Сенатом</orgName>
+          Резолюция императора об освобождении <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура
+          Залмана</persName> и о рассмотрении дела <orgName role="namesViewer" target="/names/Сенат.html"
+          >Сенатом</orgName>
         </p>
       </abstract>
       <creation><date when="1800-11-21">1800 года ноября 21 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -39,29 +42,31 @@
     вычеркнут карандашом</note>
     <fw type="pageNum" place="right"><del rend="overstrike">509.</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
-    <l><head place="left">О <persName ref="alter-rebbe">евреѢ БоруховичѢ</persName></head></l>
+    <l><head place="left">
+      О <persName role="namesViewer" target="/names/alter-rebbe.html">евреѢ БоруховичѢ</persName>
+    </head></l>
     <fw type="note" place="left margin">
       <p>
         <l>высочайше</l>
-        <l>повелено <orgName ref="Сенат">сенату</orgName></l>
+        <l>повелено <orgName role="namesViewer" target="/names/Сенат.html">сенату</orgName></l>
         <l>расмотреть</l>
         <l>и учинить положе</l>
         <l>ніе до секты</l>
-        <l><orgName ref="Хасиды">хоседовъ</orgName> и кага</l>
+        <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседовъ</orgName> и кага</l>
         <l>ловъ допросы</l>
         <l>и переводы со онымъ</l>
         <l>препроводить</l>
-        <l>въ <orgName ref="Сенат">сенатъ</orgName> <unclear>???</unclear></l>
+        <l>въ <orgName role="namesViewer" target="/names/Сенат.html">сенатъ</orgName> <unclear>???</unclear></l>
         <l><unclear>???</unclear> объявить</l>
         <l><date when="1800-11-26">ноября 26 дня<lb/>
          1800 года</date></l>
-        <l><placeName ref="Петербург">С:П:бургъ</placeName></l>
+        <l><placeName role="namesViewer" target="/names/Петербург.html">С:П:бургъ</placeName></l>
       </p>
       <p>
         <l>Его императорское</l>
         <l>величество высочай-</l>
         <l>ше повелѣть изволили</l>
-        <l>Еврея <persName ref="alter-rebbe">Боруховича</persName> осво-</l>
+        <l>Еврея <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> осво-</l>
         <l>бодя отпустить въ</l>
         <l>домъ его. <date when="1801-03-21">Марта<lb/>
          21-го. 1801. года.</date></l>
@@ -71,14 +76,18 @@
     <p>
       <l>По высочайшему <emph rend="big">ВАШЕГО ИМПЕРАТОР-<lb/>
        СКАГО ВЕЛИЧЕСТВА</emph> повелѣнiю привезенному</l>
-      <l>из <placeName ref="Витебск">Витебска</placeName> называемому начальникомъ <orgName ref="Хасиды">Каролин-<lb/>
-       ской Секты</orgName> Еврею <persName ref="alter-rebbe">Залману Боруховичу</persName> здѢланы</l>
+      <l>из <placeName role="namesViewer" target="/names/Витебск.html">Витебска</placeName> называемому начальникомъ
+      <orgName role="namesViewer" target="/names/Хасиды.html">Каролин-<lb/>
+       ской Секты</orgName> Еврею <persName role="namesViewer" target="/names/alter-rebbe.html">Залману
+      Боруховичу</persName> здѢланы</l>
       <l>были вопросы; о его происхожденiи, о мѣстѣ рож-</l>
       <l>денiя и пребыванiя, о существѣ его ученiя и въ</l>
       <l>чемъ оное разнится отъ обыкновеннаго Еврейскаго?</l>
       <l>Онъ показал, что дѣдъ, отецъ и онъ жили без-</l>
-      <l>престанно <placeName ref="Белоруссия">Бѣлорусской</placeName> губернiи въ мѢстечкѢ</l>
-      <l><placeName ref="Лиозно">ЛiознѢ</placeName>; от роду имѢетъ 52 года, называютъ</l>
+      <l>престанно <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлорусской</placeName> губернiи въ
+      мѢстечкѢ</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">ЛiознѢ</placeName>; от роду имѢетъ 52 года,
+      называютъ</l>
       <l>его раввиномъ, что значитъ учоной, но духовнаго</l>
       <l>сану не имѣетъ; особливо никого не учитъ, а въ</l>
       <l>проповѣдяхъ приходящимъ въ то мѣстечко 9<hi rend="superscript">ть</hi></l>
@@ -92,9 +101,12 @@
     </p>
     <p>
       <l>По окончаніи сего бывшей Оберъ-Раввинъ</l>
-      <l><persName ref="Авигдор">Хаймовичъ</persName> подалъ в 19<hi rend="superscript">ти</hi> пунктахъ свои на по-</l>
-      <l>мянутаго <persName ref="alter-rebbe">Боруховича</persName> доносы; означая, что уче-</l>
-      <l>нiе <persName ref="alter-rebbe">Боруховича</persName> есть противно еврейскому закону</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Хаймовичъ</persName> подалъ в 19<hi
+      rend="superscript">ти</hi> пунктахъ свои на по-</l>
+      <l>мянутаго <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> доносы; означая,
+      что уче-</l>
+      <l>нiе <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> есть противно
+      еврейскому закону</l>
       <l>и дозволяется дѣлать то, что сердце желаетъ,</l>
       <l>никого не боятся и не любить кромѣ Бога; такъ</l>
       <l>же въ зборѣ съ послѣдователей сему ученiю ве-</l>
@@ -106,7 +118,7 @@
       <l>давать деньги равинамъ; о несохраненiи при-</l>
       <l>сяги и въ приглашенiи большаго числа людей</l>
       <l>подъ видомъ слушанiя проповѣди изъ дальнихъ</l>
-      <l>мѣстъ, и прочее. _ Напротивъ сего <persName ref="alter-rebbe">Борухо-<lb/>
+      <l>мѣстъ, и прочее. _ Напротивъ сего <persName role="namesViewer" target="/names/alter-rebbe.html">Борухо-<lb/>
        вичъ</persName> отвѣчаетъ, что онъ никого не учитъ, и въ</l>
       <l>проповѣдяхъ его, ни нравственности, ни закону</l>
       <l>еврейскому, противнаго ничего нѣтъ: на что,</l>
@@ -118,22 +130,27 @@
       <l>и таковое оклѣветанiе почитаетъ дѣломъ</l>
       <l>для него совсѣмъ постороннимъ, и единствен-</l>
       <l>но вымышленнымъ по существующей между</l>
-      <l>евреями, за уничтоженiе <orgName ref="Виленский_кагал">Виленскаго кагала</orgName></l>
+      <l>евреями, за уничтоженiе <orgName role="namesViewer" target="/names/Виленский_кагал.html">Виленскаго
+      кагала</orgName></l>
       <l>власти, враждѣ, и со времяни разсмотрѣнiя</l>
-      <l>въ <orgName ref="Литовское_губернское_правление">Литовскомъ губернскомъ правленiи</orgName> по просьбѢ</l>
-      <l><orgName ref="Хасиды">хосседовъ</orgName> кагальскихъ книгъ евреевъ <placeName ref="Вильна">вилен-<lb/>
+      <l>въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскомъ губернскомъ
+      правленiи</orgName> по просьбѢ</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хосседовъ</orgName> кагальскихъ книгъ евреевъ
+      <placeName role="namesViewer" target="/names/Вильна.html">вилен-<lb/>
        скихъ</placeName>; а равно по сему же самому и на оболь-</l>
       <l>щенiе дѣтей не почитать ихъ родителей, на</l>
       <l>присягу, и на созывъ якобы въ большомъ числѣ</l>
       <l>людей въ видѣ противомыслящихъ; не найдетъ</l>
-      <l>онъ <persName ref="Авигдор">Хаймовичъ</persName> себѣ ни отъ кого подтвержденiя,</l>
+      <l>онъ <persName role="namesViewer" target="/names/Авигдор.html">Хаймовичъ</persName> себѣ ни отъ кого
+      подтвержденiя,</l>
       <l>поелику никогда сего не было и быть не могло:</l>
       <pb xml:id="p326-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/325.html#p326-1"/>
       <fw type="pageNum" place="right"><del rend="overstrike">329</del></fw><note place="end">номер записан чернилами и
       зачеркнут карандашом</note>
       <fw type="pageNum" place="right">326</fw><note place="end">номер вписан карандашом</note>
       <l>и тѣмъ болѣе, что всѣ сiи доносы дѣлалъ</l>
-      <l>онъ по слухамъ; а по тому онъ <persName ref="alter-rebbe">Боруховичъ</persName>, давъ</l>
+      <l>онъ по слухамъ; а по тому онъ <persName role="namesViewer" target="/names/alter-rebbe.html"
+      >Боруховичъ</persName>, давъ</l>
       <l>на каждой пунктъ пространные съ доводами</l>
       <l>отвѣты, обнадѣживаетъ себя высочайшею</l>
       <l><emph rend="big">ВАШЕГО ИМПЕРАТОРСКОГО ВЕЛИЧЕСТВА</emph></l>
@@ -143,14 +160,14 @@
     </p>
     <p>
       <l>Въ письмахъ еврейскихъ взятыхъ изъ жи-</l>
-      <l>лища еврея <persName ref="Юда_Файбишевич">Файбишовича</persName>, отъ <placeName ref="Вильна">виленскихъ
-      </placeName></l>
+      <l>лища еврея <persName role="namesViewer" target="/names/Юда_Файбишевич.html">Файбишовича</persName>, отъ
+      <placeName role="namesViewer" target="/names/Вильна.html">виленскихъ</placeName></l>
       <l>евреевъ къ здѣсь пребывающимъ давыдград-</l>
       <l>скому Миллеру и шкловскому Юделю, яв-</l>
       <l>ствуетъ, что пишутъ къ нимъ укорительно,</l>
       <l>какъ они могли одобрить предъ <emph rend="big">ВАШИМЪ</emph></l>
-      <l><emph rend="big">ВЕЛИЧЕСТВОМЪ</emph> повѢденiи <placeName ref="Пинск">пинскаго</placeName> <persName
-      ref="Авигдор">раввина</persName>,</l>
+      <l><emph rend="big">ВЕЛИЧЕСТВОМЪ</emph> повѢденiи <placeName role="namesViewer" target="/names/Пинск.html"
+      >пинскаго</placeName> <persName role="namesViewer" target="/names/Авигдор.html">раввина</persName>,</l>
       <l>знавъ его нечестивые качества и желанiи за-</l>
       <l>жечь огонь распри между евреями, и про-</l>
       <l>сятъ, дабы Миллеръ постарался возстано-</l>
@@ -161,14 +178,16 @@
       <l>сяца отъ Бѣлорусскаго гражданскаго губерна-</l>
       <l>тора увѣдомленiе, въ которомъ онъ увѣри-</l>
       <l>тельно пишетъ, что стараясь открыть</l>
-      <l>послѣ отправки сюда <persName ref="alter-rebbe">Боруховича</persName> каковыя-</l>
+      <l>послѣ отправки сюда <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName>
+      каковыя-</l>
       <l>либо злоумышленiи или противности, не могъ</l>
       <l>ничего инаго найтить, какъ что во всѣхъ</l>
       <l>тамъ евреяхъ существуетъ непоколебимое</l>
       <pb xml:id="p326-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/325.html#p326-2"/>
       <fw type="pageNum" place="left">326об.</fw><note place="end">номер записан карандашом</note>
       <l>вѢрноподданство, истинное и безропотное повино-</l>
-      <l>венiе къ власти; самой же <persName ref="alter-rebbe">Боруховичь</persName> по</l>
+      <l>венiе къ власти; самой же <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичь</persName>
+      по</l>
       <l>засвидѣтельствованiю отъ Губернскаго кагала</l>
       <l>ни чемъ другимъ съ самого рожденiя его тамъ</l>
       <l>не занимается, какъ единственнымъ чтенiемъ</l>

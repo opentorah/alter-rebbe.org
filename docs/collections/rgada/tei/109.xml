@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского языка протокола допроса <persName ref="Юдель_Елиашевич">Юделя Елиашевича</persName>
+        Перевод с польского языка протокола допроса <persName role="namesViewer" target="/names/Юдель_Елиашевич.html"
+        >Юделя Елиашевича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,63 +31,72 @@
     <fw type="pageNum" place="right">109.</fw>
     <head>
       <l>Допросъ</l>
-      <l>жида <persName ref="Юдель_Елиашевич">Юделя Еліашевича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Юдель_Елиашевич.html">Юделя Еліашевича</persName></l>
     </head>
     <p>
-      <l>Зовутъ меня <persName ref="Юдель_Елиашевич">Юделемъ Еліашевичемъ</persName>,</l>
+      <l>Зовутъ меня <persName role="namesViewer" target="/names/Юдель_Елиашевич.html">Юделемъ
+      Еліашевичемъ</persName>,</l>
       <l>отъ роду мнѣ 35 лѣтъ, упражняюсь</l>
       <l>продажею напитковъ; родился Браслав-</l>
-      <l>скаго повята въ мѣстечкѣ <placeName ref="Видзы">Видзахъ</placeName>, въ</l>
-      <l>деревнѣ Швили; живу въ <placeName ref="Вильна">Вилнѣ</placeName> девя-</l>
+      <l>скаго повята въ мѣстечкѣ <placeName role="namesViewer" target="/names/Видзы.html">Видзахъ</placeName>, въ</l>
+      <l>деревнѣ Швили; живу въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName> девя-</l>
       <l>той годъ, женатъ, дѣтей имѣю сына</l>
-      <l>Еліаша, дочь Дворку. Вступилъ въ <orgName ref="Хасиды">ка<lb/>
+      <l>Еліаша, дочь Дворку. Вступилъ въ <orgName role="namesViewer" target="/names/Хасиды.html">ка<lb/>
        ролинскую секту</orgName> по причине бѣднаго</l>
-      <l>моего состоянія, въ городѣ <placeName ref="Вильна">Вилнѣ</placeName> въ</l>
+      <l>моего состоянія, въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName> въ</l>
       <l><date when="1797-09-??">сентябрѣ 1797 года</date>. Для записанія</l>
-      <l>себя въ <orgName ref="Хасиды">каролинскую секту</orgName> никуда</l>
+      <l>себя въ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскую секту</orgName> никуда</l>
       <l>не ѣздилъ, и на чемъ она основана, не</l>
       <l>знаю; а былъ только повѣреннымъ сей</l>
       <l>секты; знаю же только то, что ев-</l>
-      <l>реи называющіеся <orgName ref="Хасиды">каролинами</orgName> и-</l>
+      <l>реи называющіеся <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName> и-</l>
       <l>накимъ образомъ отправляютъ свои</l>
       <l>моленія, и есть нѣсколько словъ до-</l>
       <l>бавленныхъ въ ихъ книгахъ; также</l>
       <l>въ обрядахъ введены разности. Началь-</l>
-      <l>никомъ <orgName ref="Хасиды">каролинской секты</orgName> есть</l>
-      <l><placeName ref="Лиозно">Лозинской</placeName> рабинъ <persName ref="alter-rebbe">Зелманъ Борухо-<lb/>
-       вичъ</persName>, и къ <orgName ref="Хасиды">каролинской</orgName> вѣрѣ принад-</l>
+      <l>никомъ <orgName role="namesViewer" target="/names/Хасиды.html">каролинской секты</orgName> есть</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">Лозинской</placeName> рабинъ <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Зелманъ Борухо-<lb/>
+       вичъ</persName>, и къ <orgName role="namesViewer" target="/names/Хасиды.html">каролинской</orgName> вѣрѣ
+      принад-</l>
       <l>лежатъ всѣ тѣ, кои помѣщены въ</l>
       <l>показанномъ мнѣ реестрѣ, исключая</l>
-      <l><persName ref="Мовша_Иосиелиович">Мовшу Јозелевича</persName> съ сыномъ. <persName ref="alter-rebbe">Рабина
-      </persName></l>
-      <l>живущаго въ <placeName ref="Лиозно">Лознѣ</placeName> не знаю, перепи-</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовшу Јозелевича</persName> съ сыномъ.
+      <persName role="namesViewer" target="/names/alter-rebbe.html">Рабина</persName></l>
+      <l>живущаго въ <placeName role="namesViewer" target="/names/Лиозно.html">Лознѣ</placeName> не знаю, перепи-</l>
       <l>ски съ нимъ не производилъ, и также</l>
       <l>не знаю, посылаетъ ли къ нему</l>
       <l>кто денги; то только мнѣ извѣстно</l>
       <pb xml:id="p109-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/109.html#p109-2"/>
       <fw type="pageNum">109 об.</fw>
-      <l>что посланный отъ <orgName ref="Хасиды">каролинской сек-<lb/>
-       ты</orgName> нарочный <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName> два</l>
+      <l>что посланный отъ <orgName role="namesViewer" target="/names/Хасиды.html">каролинской сек-<lb/>
+       ты</orgName> нарочный <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба
+      Зеликовичъ</persName> два</l>
       <l>раза привозилъ денги; сколько же ихъ</l>
       <l>было, не вѣдаю; равнымъ образомъ</l>
       <l>и того не знаю, производится ли</l>
       <l>кѣмъ нибудь переписка за границею.</l>
-      <l><persName ref="Арон">Арона</persName> и <persName ref="Соломон">Саломона</persName> не знаю; а о</l>
-      <l><placeName ref="Индура">Индурскомъ</placeName> рабинѣ слыхалъ, что онъ</l>
-      <l>въ связи съ <orgName ref="Хасиды">каролинами</orgName>; зовутъ его</l>
-      <l><persName ref="Шмуил_Хаимович">Шмуйло Хайко</persName>, которой въ Индурѣ</l>
+      <l><persName role="namesViewer" target="/names/Арон.html">Арона</persName> и <persName role="namesViewer"
+      target="/names/Соломон.html">Саломона</persName> не знаю; а о</l>
+      <l><placeName role="namesViewer" target="/names/Индура.html">Индурскомъ</placeName> рабинѣ слыхалъ, что онъ</l>
+      <l>въ связи съ <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>; зовутъ его</l>
+      <l><persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуйло Хайко</persName>, которой въ Индурѣ</l>
       <l>и живетъ. Волпскаго подрабника и</l>
-      <l>жида <persName ref="Гирш_Давидович">Гиршу Давыдовича</persName> не знаю, и не</l>
+      <l>жида <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршу Давыдовича</persName> не знаю, и
+      не</l>
       <l>слыхалъ объ нихъ, а знаю только,</l>
       <l>что уже тому четвертой годъ, какъ въ</l>
-      <l><placeName ref="Вильна">Вилнѣ</placeName> существуетъ <orgName ref="Хасиды">каролинская<lb/>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName> существуетъ <orgName
+      role="namesViewer" target="/names/Хасиды.html">каролинская<lb/>
        секта</orgName>; не знаю и того, кто былъ</l>
       <l>ея заводителемъ; денги, присланные</l>
-      <l>отъ <persName ref="alter-rebbe">рабина</persName>, также и здѣсь собранные,</l>
-      <l>отданы <persName ref="Нохим_Ицкович">Нохиму Ициковичу</persName>, но не знаю,</l>
+      <l>отъ <persName role="namesViewer" target="/names/alter-rebbe.html">рабина</persName>, также и здѣсь
+      собранные,</l>
+      <l>отданы <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохиму Ициковичу</persName>, но не
+      знаю,</l>
       <l>куда они употреблены. Писемъ раби</l>
       <l>новыхъ не читалъ; сколько собрано</l>
-      <l>здѣсь съ жидовъ денегъ, и сколько <persName ref="alter-rebbe">ра-<lb/>
+      <l>здѣсь съ жидовъ денегъ, и сколько <persName role="namesViewer" target="/names/alter-rebbe.html">ра-<lb/>
        бинъ</persName> ихъ прислалъ, не знаю</l>
       <l><signed>Подписалъ Юдель Еліашевичъ</signed>.</l>
     </p>

@@ -4,8 +4,10 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/ALD.html">Арье-Лейб Дубинский</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +17,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Титульный лист: Бумаги, найденные у <persName ref="Меер_Рафалович">Меера Рафаиловича</persName></p>
-      </abstract>
+      <abstract><p>
+        Титульный лист: Бумаги, найденные у <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера
+        Рафаиловича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -25,7 +29,7 @@
     <pb xml:id="p143a-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/143a.html#p143a-1"/>
     <fw type="pageNum">143а</fw>
     <fw type="docNum">№ 23.</fw>
-    <p><l>бумаги наиденныя у <persName ref="Меер_Рафалович">меіера<lb/>
+    <p><l>бумаги наиденныя у <persName role="namesViewer" target="/names/Меер_Рафалович.html">меіера<lb/>
        рафаловича</persName>.</l></p>
     <pb xml:id="p143a-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/143a.html#p143a-2"/>
   </body></text>

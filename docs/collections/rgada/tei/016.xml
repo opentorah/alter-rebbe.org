@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,9 +16,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Доклад Лопухина <persName ref="Павел_I">императору</persName>, основанный на сообщении <persName ref="Булгаков">
-        Булгакова</persName> (<ref role="documentViewer" target="/collections/rgada/documents/013.html">013</ref>) о
-        подложном доносе, подписанном именем ксендза <persName ref="Чечерский">Чечерского</persName>
+        Доклад Лопухина <persName role="namesViewer" target="/names/Павел_I.html">императору</persName>, основанный на
+        сообщении <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> (<ref
+        role="documentViewer" target="/collections/rgada/documents/013.html">013</ref>) о подложном доносе, подписанном
+        именем ксендза <persName role="namesViewer" target="/names/Чечерский.html">Чечерского</persName>
       </p></abstract>
       <creation><date when="1798-09-27">27 сентября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -36,18 +38,20 @@
       <l>докладу о письмѣ полученномъ</l>
       <l>предмѣстникомъ моимъ подписан-</l>
       <l>номъ безъ числа и безъ означенія</l>
-      <l>мѣста <emph rend="underline">Ксензомъ <persName ref="Чечерский">Чечерскимъ</persName></emph>, въ</l>
+      <l>мѣста <emph rend="underline">Ксензомъ <persName role="namesViewer" target="/names/Чечерский.html"
+      >Чечерскимъ</persName></emph>, въ</l>
       <l>которомъ показано, что онъ былъ</l>
       <l>повѣреннымъ отъ виленскихъ доми-</l>
       <l>никановъ по дѣлу съ шляхтичемъ</l>
       <l>Рытшею и присудствовавшіе въ быв-</l>
       <l>шемъ верховномъ Литовскомъ пра-</l>
-      <l>вленіи <persName ref="Фризель">Фризель</persName>, <persName ref="Волков">Волковъ</persName>, Баг-</l>
+      <l>вленіи <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName>, <persName
+      role="namesViewer" target="/names/Волков.html">Волковъ</persName>, Баг-</l>
       <l>мевской секретари Тарновской и</l>
       <l>Манковской за рѣшеніе онаго дѣла</l>
       <l>въ пользу доминикановъ взяли</l>
       <l>болѣе 12.000 рублей, но какъ въ</l>
-      <l><orgName ref="Сенат">Сенатѣ</orgName> рѣшеніе ихъ опровергнуто,</l>
+      <l><orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> рѣшеніе ихъ опровергнуто,</l>
       <l>то просилъ о изслѣдованіи и взы-</l>
       <l>сканіи денегъ хотя пополамъ въ</l>
       <l>Казну, <emph rend="big">ваше императорское</emph></l>
@@ -73,9 +77,9 @@
       <l>не слыхали, не знаютъ и въ запискахъ</l>
       <l>не имѣютъ. Бывшіе тогда члены</l>
       <l>верховнаго Литовскаго правленія –</l>
-      <l>нынѣшніе вицѣ губернаторъ <persName ref="Волков">Волковъ</persName>,</l>
+      <l>нынѣшніе вицѣ губернаторъ <persName role="namesViewer" target="/names/Волков.html">Волковъ</persName>,</l>
       <l>надворнаго губернскаго суда судья Баг-</l>
-      <l>мевской и почтъ директоръ <persName ref="Фризель">Фризель</persName></l>
+      <l>мевской и почтъ директоръ <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></l>
       <l>столь ложнымъ доносомъ чувстви-</l>
       <l>тельно оскорбляемые, сами интересованы</l>
       <l><pb xml:id="p017-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/016.html#p017-1"/>

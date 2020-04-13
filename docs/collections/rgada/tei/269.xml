@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +17,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Фризель">Фризелю</persName> о
-        введении тайного наблюдения за <orgName ref="Хасиды">хасидами</orgName> и старообрядцами; указание на копию
-        этого письма для отправки другим губернаторам
+        Распоряжение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+        role="namesViewer" target="/names/Фризель.html">Фризелю</persName> о введении тайного наблюдения за <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидами</orgName> и старообрядцами; указание на копию этого
+        письма для отправки другим губернаторам
       </p></abstract>
       <creation><date when="1800-11-01">Ноября 1 дня 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Фризель" role="addressee">Фризелю</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -39,8 +41,8 @@
       <l>во ввѣренной вамъ губерніи имѣли са-</l>
       <l>мымъ тайнымъ образомъ неослабное</l>
       <l>за повѣденіемъ и поступками Старо</l>
-      <l>обрядцовъ* <fw type="note" place="left margin">* <orgName ref="Хасиды">Каролинской Секты Евреевъ</orgName></fw>
-      наблюденіе, и въ случаѣ</l>
+      <l>обрядцовъ* <fw type="note" place="left margin">* <orgName role="namesViewer" target="/names/Хасиды.html"
+      >Каролинской Секты Евреевъ</orgName></fw> наблюденіе, и въ случаѣ</l>
       <l>малѣйше замѣченнаго какого-либо</l>
       <l>поводу къ соблазну или неповиновенію</l>
       <l>власти меня неукоснительно о томъ</l>
@@ -54,17 +56,20 @@
       <l><fw type="docNum">№ 826<hi rend="superscript">й</hi></fw></l>
       <l><date when="1800-11-01">Ноября 1 дня<lb/>
        1800</date></l>
-      <l><persName ref="Фризель">Фризелю</persName><lb/>
-       <placeName ref="Литва">Литовскому</placeName>./</l>
+      <l><persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName><lb/>
+       <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName>./</l>
     </closer>
     <p>
-      <l>Еще таковыя же о <orgName ref="Хасиды"><emph rend="underline">Каролинахъ</emph></orgName>. Граждан-<lb/>
+      <l>Еще таковыя же о <orgName role="namesViewer" target="/names/Хасиды.html"><emph rend="underline"
+      >Каролинахъ</emph></orgName>. Граждан-<lb/>
        скимъ Губернаторамъ.</l>
-      <l><placeName ref="Минская_губерния">Минскому</placeName> <persName ref="Карнеев">Карнѣеву</persName> подъ №
-      827<hi rend="superscript">м</hi></l>
-      <l><placeName ref="Волынская_губерния">Волынскому</placeName> Курису__________828</l>
+      <l><placeName role="namesViewer" target="/names/Минская_губерния.html">Минскому</placeName> <persName
+      role="namesViewer" target="/names/Карнеев.html">Карнѣеву</persName> подъ № 827<hi rend="superscript">м</hi></l>
+      <l><placeName role="namesViewer" target="/names/Волынская_губерния.html">Волынскому</placeName>
+      Курису__________828</l>
       <l>Кіевскому Коробьину________824</l>
-      <l><placeName ref="Подольская_губерния">Подольскому</placeName> Тензену________830</l>
+      <l><placeName role="namesViewer" target="/names/Подольская_губерния.html">Подольскому</placeName>
+      Тензену________830</l>
       <l>Новороссійскому <sic>Nиколеву</sic>___831 P.S.</l>
       <l>Малороссійскому Френздорфу__832.</l>
       <pb xml:id="p269-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/269.html#p269-2"/>
@@ -95,12 +100,12 @@
       вычеркнут карандашом</note>
       <l><del rend="overstrike">Малороссіскому Френздорфу</del></l>
       <l>Новгородскому Обольянинову. подъ № 849<hi rend="superscript">мъ</hi></l><note place="end">вероятно, родственник
-      <persName ref="Обольянинов">генерал-прокурора</persName></note>
+      <persName role="namesViewer" target="/names/Обольянинов.html">генерал-прокурора</persName></note>
       <l>Нижегородскому Кудрявцову___________850</l>
       <l>Оренбургскому Глазенапу.____________851</l>
       <l>Орловскому вульфу.__________________852</l>
       <l>Псковскому беклешову________________853</l><note place="end">однофамилец или родственник отправленного в 1800
-      г. в отставку <persName ref="Беклешов">генерал-прокурора</persName></note>
+      г. в отставку <persName role="namesViewer" target="/names/Беклешов.html">генерал-прокурора</persName></note>
       <l>Пермскому Модераху._________________854</l>
       <l>Рязанскому Сонину___________________855</l>
       <l>С.п.бургскому Хотяинцову.___________856</l>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,14 +16,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Лопухин">Лопухина</persName> <persName ref="Жегулин">Жегулину</persName>, подверждающее
-        доставку <persName ref="alter-rebbe">Шнеура Залмана</persName> в <placeName ref="Петербург">Санкт-Петербург
-        </placeName>
+        Сообщение <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> <persName
+        role="namesViewer" target="/names/Жегулин.html">Жегулину</persName>, подверждающее доставку <persName
+        role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> в <placeName role="namesViewer"
+        target="/names/Петербург.html">Санкт-Петербург</placeName>
       </p></abstract>
       <creation><date when="1798-10-07">7 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Жегулин" role="addressee">Жегулину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Жегулин.html">Жегулину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -31,9 +33,9 @@
     <fw type="note" place="left">Секретно.</fw>
     <fw type="pageNum" place="right">35</fw>
     <p>
-      <salute><l>Милостивый Государь мой <persName ref="Жегулин">Семенъ Семено-<lb/>
+      <salute><l>Милостивый Государь мой <persName role="namesViewer" target="/names/Жегулин.html">Семенъ Семено-<lb/>
          вичъ</persName>!</l></salute>
-      <l>Еврей <persName ref="alter-rebbe">Боруховичъ</persName> со всѣмъ</l>
+      <l>Еврей <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичъ</persName> со всѣмъ</l>
       <l>что при немъ отправленъ, рав-</l>
       <l>но и бумаги иностранца Са-</l>
       <l>довскаго доставлены ко мнѣ</l>
@@ -48,10 +50,11 @@
       <l>покорный слуга</l>
       <closer place="left">
         <l><fw type="docNum">№ 845<hi rend="superscript">й</hi></fw></l>
-        <l>въ <placeName ref="Петербург">С.п. бургѣ</placeName>.</l>
+        <l>въ <placeName role="namesViewer" target="/names/Петербург.html">С.п. бургѣ</placeName>.</l>
         <l><date when="1798-10-07">7<hi rend="superscript">го</hi> октября<lb/>
          1798 года</date></l>
-        <l>Его пр.<hi rend="superscript">ву</hi> <persName ref="Жегулин">Жегулину</persName></l>
+        <l>Его пр.<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Жегулин.html"
+        >Жегулину</persName></l>
       </closer>
     </p>
     <pb xml:id="p035-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/035.html#p035-2"/>

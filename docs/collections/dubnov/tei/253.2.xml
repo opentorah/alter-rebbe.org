@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,8 @@
     <profileDesc>
       <abstract>
         <p>
-          № 4. Ордер <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Брискорн">Брискорну</persName> о
-          расследовании дела
+          № 4. Ордер <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Брискорн.html">Брискорну</persName> о расследовании дела
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/024.html">024</ref> в РГИА 2213
@@ -25,32 +26,34 @@
       </abstract>
       <creation><date when="1800-06-07">1800-06-07</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Брискорн" role="addressee">Брискорну</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p253" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/253.2.html#p253"/> № 4.
-      <placeName ref="Литва">Литовскому</placeName> <persName ref="Брискорн">прокурору</persName> ордеръ о разслѣдованіи
-      дѣла.
+      <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName> <persName role="namesViewer"
+      target="/names/Брискорн.html">прокурору</persName> ордеръ о разслѣдованіи дѣла.
     </head>
     <p>
-      Имѣя высочайшее Е. И. В. повелѣніе разсмотреть жалобу бывшаго въ <placeName ref="Пинск">Пинскѣ</placeName>
-      оберъ-раббина <persName ref="Авигдор">Хаима</persName> на притѣсненія, чинимыя ему послѣдователями секты Шабзусъ -
-      Цвинкусъ, препроводилъ я оную къ господину <placeName ref="Литва">Литовскому</placeName> военному губернатору,
-      генералу отъ инфантеріи <persName ref="Кутузов">Голенищеву-Кутузову</persName>, дабы онъ приказалъ всѣ
-      обстоятельства оныя, чрезъ кого слѣдуетъ, при- <pb xml:id="p254" rendition="page" role="facsimileViewer"
+      Имѣя высочайшее Е. И. В. повелѣніе разсмотреть жалобу бывшаго въ <placeName role="namesViewer"
+      target="/names/Пинск.html">Пинскѣ</placeName> оберъ-раббина <persName role="namesViewer"
+      target="/names/Авигдор.html">Хаима</persName> на притѣсненія, чинимыя ему послѣдователями секты Шабзусъ -
+      Цвинкусъ, препроводилъ я оную къ господину <placeName role="namesViewer" target="/names/Литва.html"
+      >Литовскому</placeName> военному губернатору, генералу отъ инфантеріи <persName role="namesViewer"
+      target="/names/Кутузов.html">Голенищеву-Кутузову</persName>, дабы онъ приказалъ всѣ обстоятельства оныя, чрезъ
+      кого слѣдуетъ, при- <pb xml:id="p254" rendition="page" role="facsimileViewer"
       target="/collections/dubnov/facs/253.2.html#p254"/> вести въ ясность — въ чемъ именно состоитъ сія секта и
-      претензія на нее еврея <persName ref="Авигдор">Хаима</persName>, также можетъ ли быть она удовлетворена и на
-      какомъ основаніи. а вашему высокоблагородію рекомендую по присутственнымъ мѣстамъ наблюсти, чтобы сіе изслѣдованіе
-      производилось съ надлежащею аккуратностью и о успѣхѣ <sic>онаге</sic> меня уведомить. Съ истиннымъ почтеніемъ есмь
-      . . . . . . . . .
+      претензія на нее еврея <persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName>, также можетъ ли
+      быть она удовлетворена и на какомъ основаніи. а вашему высокоблагородію рекомендую по присутственнымъ мѣстамъ
+      наблюсти, чтобы сіе изслѣдованіе производилось съ надлежащею аккуратностью и о успѣхѣ <sic>онаге</sic> меня
+      уведомить. Съ истиннымъ почтеніемъ есмь . . . . . . . . .
     </p>
     <closer>
-      <signed>(<persName ref="Обольянинов">Обольяниновъ</persName>?).</signed>
-      <p><persName ref="Брискорн">Брискорну</persName>.</p>
+      <signed>(<persName role="namesViewer" target="/names/Обольянинов.html">Обольяниновъ</persName>?).</signed>
+      <p><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>.</p>
       <dateline>
         <date calendar="#julian" when="1800-06-07">Іюня 7 дня, 1800 г.</date> <fw type="docNum">№ 4723</fw>.
       </dateline>

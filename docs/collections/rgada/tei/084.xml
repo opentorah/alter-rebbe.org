@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,31 +17,36 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Черновик сообщений <persName ref="Лопухин">Лопухина</persName> <persName ref="Булгаков">Булгакову</persName> и
-        <persName ref="Жегулин">Жегулину</persName> об освобождении <persName ref="alter-rebbe">Шнеура Залмана
-        </persName> и арестованных <orgName ref="Хасиды">хасидов</orgName>
+        Черновик сообщений <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> <persName
+        role="namesViewer" target="/names/Булгаков.html">Булгакову</persName> и <persName role="namesViewer"
+        target="/names/Жегулин.html">Жегулину</persName> об освобождении <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName> и арестованных <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName>
       </p></abstract>
       <creation><date when="1798-11-17">17 Ноябрь 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Булгаков" role="addressee">Булгакову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Булгаков.html">Булгакову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p084-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/084.html#p084-1"/>
     <fw type="pageNum" place="right">84.</fw>
-    <salute><l>Мил. г. мой <persName ref="Булгаков">Яковъ Ивановичъ</persName></l></salute>
+    <salute>
+      <l>Мил. г. мой <persName role="namesViewer" target="/names/Булгаков.html">Яковъ Ивановичъ</persName></l>
+    </salute>
     <p>
       <l>При всеподданѣйшемъ отъ меня</l>
-      <l><persName ref="Павел_I">Государю Императору</persName> докладѣ</l>
+      <l><persName role="namesViewer" target="/names/Павел_I.html">Государю Императору</persName> докладѣ</l>
       <l><add place="left">всѣхъ обстоятельствъ оказавшихся при изслѣдованіи</add> <del rend="overstrike">о
       произведеннымъ</del> вашимъ</l>
       <l>высокопрв<hi rend="superscript">мъ</hi> произведеннымъ</l>
       <l>по случаю заведенной евреями</l>
-      <l><orgName ref="Хасиды">секты называемой каролины</orgName></l>
-      <l>и объясненïя рабина<persName ref="alter-rebbe">Зальмана Боруховича</persName>,</l>
-      <l><persName ref="Павел_I">Его Импер. Величество</persName> не</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">секты называемой каролины</orgName></l>
+      <l>и объясненïя рабина<persName role="namesViewer" target="/names/alter-rebbe.html">Зальмана
+      Боруховича</persName>,</l>
+      <l><persName role="namesViewer" target="/names/Павел_I.html">Его Импер. Величество</persName> не</l>
       <l>усматривая въ поведеніи евреевъ</l>
       <l>коихъ щитаютъ въ секте той,</l>
       <l>ничего вреднаго для государства,</l>
@@ -73,21 +79,22 @@
     <closer place="left">
       <fw type="docNum">№ 927<hi rend="superscript">й</hi></fw>
       <fw><date when="1798-11-17">17 Ноября 1798</date></fw>
-      <fw><persName ref="Булгаков">булгакову</persName></fw>
+      <fw><persName role="namesViewer" target="/names/Булгаков.html">булгакову</persName></fw>
     </closer>
     <p>
       <l>
-        <emph rend="underline">Къ <persName ref="Жегулин">Жегулину</persName></emph>
+        <emph rend="underline">Къ <persName role="namesViewer" target="/names/Жегулин.html">Жегулину</persName></emph>
         <note type="gloss">|: прописать доречи<note place="end">т.е. кстати. Ср. укр. "доречі"</note><lb/>
          сообщая :|</note>
       </l>
       <l><del rend="overstrike">Въслѣдствіе чѣго</del></l>
       <l>О исполненïи таковой высокомо-</l>
       <l>наршей воли отнесся я къ</l>
-      <l>Г<hi rend="superscript">ну</hi> <placeName ref="Литва">литовскому</placeName> гражданскому</l>
+      <l>Г<hi rend="superscript">ну</hi> <placeName role="namesViewer" target="/names/Литва.html">литовскому</placeName>
+      гражданскому</l>
       <l>губернатору, а о томъ же и</l>
       <l>вашему прв<hi rend="superscript">у</hi> сообщаю съ</l>
-      <l>темъ, что <persName ref="alter-rebbe">Зальманъ Боруховичъ</persName></l>
+      <l>темъ, что <persName role="namesViewer" target="/names/alter-rebbe.html">Зальманъ Боруховичъ</persName></l>
       <l>освобожденъ, и для <del rend="overstrike">прохода</del></l>
       <l>свободнаго <del rend="overstrike">ему</del> прохода до житель</l>
       <l>ства данъ <del rend="overstrike">отъ</del> ему отъ меня</l>
@@ -101,7 +108,7 @@
       <l><fw type="docNum">№ 928<hi rend="superscript">й</hi></fw></l>
       <l><fw place="left"><date when="1798-11-17">17 Ноября<lb/>
        1798</date></fw></l>
-      <l><fw place="left"><persName ref="Жегулин">Жегулину</persName></fw></l>
+      <l><fw place="left"><persName role="namesViewer" target="/names/Жегулин.html">Жегулину</persName></fw></l>
     </closer>
   </body></text>
 </TEI>

@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +17,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение <persName ref="Обольянинов">Обольянинова</persName>, направленное <persName ref="Северин">Северину
-        </persName> о доставке книг и бумаг <persName ref="alter-rebbe">Шнеура Залмана</persName> в <placeName
-        ref="Петербург">Петербург</placeName>
+        Распоряжение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName>, направленное
+        <persName role="namesViewer" target="/names/Северин.html">Северину</persName> о доставке книг и бумаг <persName
+        role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> в <placeName role="namesViewer"
+        target="/names/Петербург.html">Петербург</placeName>
       </p></abstract>
       <creation><date when="1800-11-16">16 Ноября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Северин" role="addressee">Северину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Северин.html">Северину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,7 +36,8 @@
     зачеркнут карандашом</note>
     <p>
       <l><salute>М: Г: мой Петръ Ивановичъ. _</salute></l>
-      <l>Началникъ <orgName ref="Хасиды">Каролинской секты</orgName> <persName ref="alter-rebbe">Еврей<lb/>
+      <l>Началникъ <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской секты</orgName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Еврей<lb/>
        Боруховичъ</persName> отправленной отъ вашего</l>
       <l>превосходи<hi rend="superscript">ва</hi> при сообщенїи отъ 9<hi rend="superscript">о</hi> сего ноября</l>
       <l><del rend="overstrike">съ нарочно посланными за нимъ двумя</del></l>
@@ -55,7 +58,8 @@
       <l><fw type="docNum">№ 934.<hi rend="superscript">й</hi></fw></l>
       <l><date when="1800-11-16">Ноября 16<hi rend="superscript">го</hi> дня<lb/>
        1800 года</date></l>
-      <l>Его п<hi rend="superscript">ву</hi> <persName ref="Северин">Северину</persName></l>
+      <l>Его п<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Северин.html"
+      >Северину</persName></l>
     </closer>
     <p>
       <l>Рукою Г<hi rend="superscript">на</hi> Генералъ Прокурора:</l>

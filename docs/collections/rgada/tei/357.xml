@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,7 +13,7 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Реестр книгам <persName ref="alter-rebbe">еврея Боруховича</persName></p>
+        <p>Реестр книгам <persName role="namesViewer" target="/names/alter-rebbe.html">еврея Боруховича</persName></p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/014.html">014</ref> в РГИА 413</p>
         <p>
           Упомянут в документе <ref role="documentViewer" target="/collections/dubnov/documents/269.html">№ 19</ref> у
@@ -31,7 +32,8 @@
       <l>Реестръ</l>
       <l>Книгамъ еврея боруховича <del rend="overstrike">съ <unclear>объясненіемъ</unclear> ихъ содержанія</del></l>
       <l>при<del rend="overstrike">везенныхъ</del>сланныхъ изъ дому его чрезъ белорускаго гражданскаго</l>
-      <l>губернатора <persName ref="Северин">Северина</persName>, сюда по <sic>счислаему</sic> ниже сего ихъ содержа</l>
+      <l>губернатора <persName role="namesViewer" target="/names/Северин.html">Северина</persName>, сюда по <sic
+      >счислаему</sic> ниже сего ихъ содержа</l>
       <l>нію ничего противнаго <hi rend="superscript">въ книгахъ</hi> <del rend="overstrike"><unclear>???</unclear>
       </del> <unclear>??? ???</unclear>не замечается</l>
     </p>

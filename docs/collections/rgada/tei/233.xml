@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Реестр денежных средств, отправленных <orgName ref="Хасиды">хасидами</orgName> <placeName ref="Видзы">Видз
-        </placeName> в <placeName ref="Палестина">Палестину</placeName> с указанием получателей
+        Реестр денежных средств, отправленных <orgName role="namesViewer" target="/names/Хасиды.html">хасидами</orgName>
+        <placeName role="namesViewer" target="/names/Видзы.html">Видз</placeName> в <placeName role="namesViewer"
+        target="/names/Палестина.html">Палестину</placeName> с указанием получателей
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,9 +31,10 @@
     <fw type="pageNum" place="right"><del rend="overstrike">235</del></fw>
     <head>
       <l>Щетъ</l>
-      <l>отправленныхъ <choice><sic>о</sic><corr>отъ</corr></choice> <placeName ref="Видзы">Видзскихъ</placeName>
-      каролиновъ денегъ</l>
-      <l>въ святѣйшую землю или <placeName ref="Палестина">Палестину</placeName>, въ городъ</l>
+      <l>отправленныхъ <choice><sic>о</sic><corr>отъ</corr></choice> <placeName role="namesViewer"
+      target="/names/Видзы.html">Видзскихъ</placeName> каролиновъ денегъ</l>
+      <l>въ святѣйшую землю или <placeName role="namesViewer" target="/names/Палестина.html">Палестину</placeName>, въ
+      городъ</l>
       <l><placeName><choice><sic>Тверь</sic><corr>Тиверія</corr></choice><note place="end">в Еврейской энциклопедии
       Брокгауза-Ефрона - Тиверіада</note></placeName> и <placeName><choice><sic>Чфасъ</sic><corr
       >Цефатъ</corr></choice></placeName>, и имянно кому</l>

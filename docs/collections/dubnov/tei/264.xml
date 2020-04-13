@@ -4,10 +4,11 @@
     <fileDesc>
       <titleStmt>
         <author>
-          <persName ref="Авигдор">Авигдор</persName>
-          <persName ref="alter-rebbe">Алтер Ребе</persName>
+          <persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName>
+          <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName>
         </author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -19,11 +20,11 @@
     <profileDesc>
       <abstract>
         <p>
-          № 15. Вопросные пункты <persName ref="Авигдор">Авигдора Хаимовича</persName> и ответы <persName
-          ref="alter-rebbe">Залмана Боруховича</persName>
+          № 15. Вопросные пункты <persName role="namesViewer" target="/names/Авигдор.html">Авигдора Хаимовича</persName>
+          и ответы <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана Боруховича</persName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/003.html">003</ref> в РГИА 413</p>
-        <p>18 и 19 пп. ответов <persName ref="alter-rebbe">Алтер Ребе</persName></p>
+        <p>18 и 19 пп. ответов <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/004.html">004</ref> в РГИА 413</p>
       </abstract>
       <creation><date when="1800-11">ноябрь 1800 по версии Дубнова в комментарии</date></creation>
@@ -34,50 +35,60 @@
   <text xml:lang="he"><body>
     <head xml:lang="ru">
       <pb xml:id="p264" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/264.html#p264"/> № 15.
-      Вопросные пункты <persName ref="Авигдор">Авигдора Хаимовича</persName> и отвѣты <persName ref="alter-rebbe"
-      >Залмана Боруховича</persName>.<note type="gloss" place="end">
+      Вопросные пункты <persName role="namesViewer" target="/names/Авигдор.html">Авигдора Хаимовича</persName> и отвѣты
+      <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана Боруховича</persName>.<note type="gloss"
+      place="end">
         <p>
           Этотъ документъ (еврейскій текстъ), содержащій письменное объясненіе между обвинителемъ <persName
-          ref="Авигдор">Авигдоромъ</persName> и обвиняемымъ <persName ref="alter-rebbe">Залманомъ</persName>, не
-          помѣченъ никакой датой. Я его отнесъ къ ноябрю 1800 г., т. е. къ моменту, послѣдовавшему тотчасъ за арестомъ
-          <persName ref="alter-rebbe">Залмана</persName> и доставкою его въ <placeName ref="Петербург">
-          Петербургъ</placeName>, на слѣдующихъ основаніяхъ: 1) въ прошеніи <persName ref="Авигдор">Авигдора</persName>
-          отъ декабря 1800 г. (ниже, № <ref role="documentViewer" target="/collections/dubnov/documents/271.html"
-          >20</ref>) уже имѣется ссылка на эти вопросные пункты; 2) въ позднѣйшемъ прошеніи <persName ref="Авигдор"
+          role="namesViewer" target="/names/Авигдор.html">Авигдоромъ</persName> и обвиняемымъ <persName
+          role="namesViewer" target="/names/alter-rebbe.html">Залманомъ</persName>, не помѣченъ никакой датой. Я его
+          отнесъ къ ноябрю 1800 г., т. е. къ моменту, послѣдовавшему тотчасъ за арестомъ <persName role="namesViewer"
+          target="/names/alter-rebbe.html">Залмана</persName> и доставкою его въ <placeName role="namesViewer"
+          target="/names/Петербург.html">Петербургъ</placeName>, на слѣдующихъ основаніяхъ: 1) въ прошеніи <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> отъ декабря 1800 г. (ниже, № <ref
+          role="documentViewer" target="/collections/dubnov/documents/271.html">20</ref>) уже имѣется ссылка на эти
+          вопросные пункты; 2) въ позднѣйшемъ прошеніи <persName role="namesViewer" target="/names/Авигдор.html"
           >Авигдора</persName> (№ <ref role="documentViewer" target="/collections/dubnov/documents/275.2.html">24</ref>)
           приводится мотивъ этого письменнаго объясненія: такъ какъ судьи не понимали устныхъ показаній сторонъ, то
           обвинителю предложено было изложить письменно свои пункты съ тѣмъ, чтобы обвиняемый далъ на нихъ письменные же
           отвѣты.
         </p>
         <p>
-          Настоящій документь содержитъ 19 вопросныхъ пунктовъ <persName ref="Авигдор">Авигдора</persName> и отвѣты
-          <persName ref="alter-rebbe">Залмана</persName> на два послѣднихъ вопроса. Пункты 1–2 здѣсь не формулированы и
-          замѣнены ссылкой на русскій переводъ ихъ с отвѣтами Залмана. Пункты 3–6 содержатъ цитаты изъ „той хасидской
-          книги" (книга не названа, но цитаты взяты изъ „Завѣщанія <persName ref="Баал_Шем_Тов">Бешта</persName>"),
-          доказывающія, что ученіе „секты" направлено „противъ нашей вѣры", Пунктъ 7 обвиняетъ „раввина <orgName
-          ref="Хасиды">Каролиновъ</orgName>” <persName ref="alter-rebbe">Залмана</persName> въ собираніи большихъ суммъ
-          для пересылки въ <placeName ref="Палестина">Палестину</placeName>. Въ п. 8. <persName ref="Авигдор">Авигдоръ
-          </persName> предлагаетъ устроить публичный диспутъ между раввинами и цадиками. Въ п. 9 объясняется
-          происхожденіе названія <orgName ref="Хасиды">„Каролины"</orgName> отъ пригорода <placeName ref="Пинск">
-          Пинска</placeName>, гдѣ дѣйствовали первые ученики <persName ref="Баал_Шем_Тов">Бешта</persName>" и <persName
-          ref="maggid">Бера</persName>. Въ п. 10 повторяется обвиненіе въ сборѣ <placeName ref="Палестина">палестинскихъ
-          </placeName> денегъ въ связи съ фактомъ поѣездки въ Св. Землю трехъ цадиковъ — Шепетовскаго, Калисскаго и
-          <placeName ref="Витебск">Витебскаго.</placeName> Пункты 12—14 обвиняютъ сектантовъ въ непочитаніи родителей,
-          въ похищеніи молодыми людьми денегъ у родителей для передачи цадикамъ и въ своеволіи. Въ п. 15 доносится, что
-          на праздники къ <persName ref="alter-rebbe">Залману</persName> въ <placeName ref="Лиозно">Ліозно</placeName>
-          съѣзжаются 1000—1500 человѣкъ и больше, что обвинителю кажется весьма подозрительнымъ; когда же цадики
-          объѣзжають свою епархію, они вездѣ угощаются и берутъ подарки у своихъ приверженцевъ (п. 16). Въ п. п.17—18
-          обвинитель говоритъ, что его слова могутъ подтвердить всѣ, особенно жители <placeName ref="Вильна">Вильна
-          </placeName> и <placeName ref="Слуцк">Слуцка</placeName>. Въ п. 19 <persName ref="Авигдор">Авигдоръ</persName>
-          сообщаетъ, что вступленіе въ секту обусловлено формальною „передачею души" хасидскому „ребе" и полнымъ ему
-          подчиненіемъ, — На послѣдніе пункты <persName ref="alter-rebbe">Залманъ</persName> отвѣчаетъ, что жители
-          <placeName ref="Слуцк">Слуцка</placeName> извѣстны своими гоненіями на хасидовъ, и возмущается клеветою
-          <persName ref="Авигдор">Авигдора</persName>, которою онъ смѣетъ утруждать Государя. Отвѣты Залмана на прочіе
-          пункты не сохранились.
+          Настоящій документь содержитъ 19 вопросныхъ пунктовъ <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName> и отвѣты <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>
+          на два послѣднихъ вопроса. Пункты 1–2 здѣсь не формулированы и замѣнены ссылкой на русскій переводъ ихъ с
+          отвѣтами Залмана. Пункты 3–6 содержатъ цитаты изъ „той хасидской книги" (книга не названа, но цитаты взяты изъ
+          „Завѣщанія <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Бешта</persName>"), доказывающія,
+          что ученіе „секты" направлено „противъ нашей вѣры", Пунктъ 7 обвиняетъ „раввина <orgName role="namesViewer"
+          target="/names/Хасиды.html">Каролиновъ</orgName>” <persName role="namesViewer"
+          target="/names/alter-rebbe.html">Залмана</persName> въ собираніи большихъ суммъ для пересылки въ <placeName
+          role="namesViewer" target="/names/Палестина.html">Палестину</placeName>. Въ п. 8. <persName role="namesViewer"
+          target="/names/Авигдор.html">Авигдоръ</persName> предлагаетъ устроить публичный диспутъ между раввинами и
+          цадиками. Въ п. 9 объясняется происхожденіе названія <orgName role="namesViewer" target="/names/Хасиды.html"
+          >„Каролины"</orgName> отъ пригорода <placeName role="namesViewer" target="/names/Пинск.html">
+          Пинска</placeName>, гдѣ дѣйствовали первые ученики <persName role="namesViewer"
+          target="/names/Баал_Шем_Тов.html">Бешта</persName>" и <persName role="namesViewer" target="/names/maggid.html"
+          >Бера</persName>. Въ п. 10 повторяется обвиненіе въ сборѣ <placeName role="namesViewer"
+          target="/names/Палестина.html">палестинскихъ</placeName> денегъ въ связи съ фактомъ поѣездки въ Св. Землю
+          трехъ цадиковъ — Шепетовскаго, Калисскаго и <placeName role="namesViewer" target="/names/Витебск.html"
+          >Витебскаго.</placeName> Пункты 12—14 обвиняютъ сектантовъ въ непочитаніи родителей, въ похищеніи молодыми
+          людьми денегъ у родителей для передачи цадикамъ и въ своеволіи. Въ п. 15 доносится, что на праздники къ
+          <persName role="namesViewer" target="/names/alter-rebbe.html">Залману</persName> въ <placeName
+          role="namesViewer" target="/names/Лиозно.html">Ліозно</placeName> съѣзжаются 1000—1500 человѣкъ и больше, что
+          обвинителю кажется весьма подозрительнымъ; когда же цадики объѣзжають свою епархію, они вездѣ угощаются и
+          берутъ подарки у своихъ приверженцевъ (п. 16). Въ п. п.17—18 обвинитель говоритъ, что его слова могутъ
+          подтвердить всѣ, особенно жители <placeName role="namesViewer" target="/names/Вильна.html">Вильна</placeName>
+          и <placeName role="namesViewer" target="/names/Слуцк.html">Слуцка</placeName>. Въ п. 19 <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдоръ</persName> сообщаетъ, что вступленіе въ секту
+          обусловлено формальною „передачею души" хасидскому „ребе" и полнымъ ему подчиненіемъ, — На послѣдніе пункты
+          <persName role="namesViewer" target="/names/alter-rebbe.html">Залманъ</persName> отвѣчаетъ, что жители
+          <placeName role="namesViewer" target="/names/Слуцк.html">Слуцка</placeName> извѣстны своими гоненіями на
+          хасидовъ, и возмущается клеветою <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName>, которою онъ смѣетъ утруждать Государя. Отвѣты Залмана на прочіе пункты не сохранились.
         </p>
       </note>
     </head>
-    <p xml:lang="ru">I. Вопросы <persName ref="Авигдор">Авигдора</persName>.</p>
+    <p xml:lang="ru">I. Вопросы <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>.</p>
     <list type="simple">
       <item><label>1-2.</label> על פונקט ראשון ושני שנתתי הלא המה כתובים על רושים וגם הרב מ' זלמן השיב עליהם על רושים,
       והם המה הפונקטין אשר הקשיתי עליו ועל כל הקארלינים, בלשון הקודש יעתיקו.</item>

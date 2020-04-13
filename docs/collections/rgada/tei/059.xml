@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="fragment-transcriber"><persName ref="BG">Борух Горкин</persName></editor>
+        <author><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="fragment-transcriber"><persName role="namesViewer" target="/names/BG.html">Борух Горкин</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +17,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Собственноручные письменные показания <persName ref="alter-rebbe">Алтер Ребе</persName></p>
-      </abstract>
+      <abstract><p>
+        Собственноручные письменные показания <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер
+        Ребе</persName>
+      </p></abstract>
       <langUsage><language ident="he"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -31,7 +35,7 @@
       והנה אף שאינני יודע אם יש איזה נפקותא להודיע <unclear>[מ?]</unclear> זה להשרים יר״ה אך ההכרח אלי לומר האמת כאשר
       הוא ולהשיב לאשר נשאלתי מהשרים ממי קבלתי דרשותיי ע״כ באתי להודיע שעיקר דרשותיי הוא מאשר בינותי בספרים כי אף המעט
       מחכמת הקבלה שאני אומר דרך מקרה ג״כ כתוב בספרי קבלה שנדפסו רק שתחלת לימודי בספרי קבלה שנדפסו היה אצל הרב הנ״ל
-      <supplied reason="implied"><persName ref="maggid">המגיד</persName></supplied>
+      <supplied reason="implied"><persName role="namesViewer" target="/names/maggid.html">המגיד</persName></supplied>
     </p>
     <pb xml:id="p061-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/059.html#p061-2"/>
     <pb xml:id="p062-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/059.html#p062-1"/>

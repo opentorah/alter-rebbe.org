@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Хрущов">Хрущов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Хрущов.html">Хрущов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +17,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольянинов" role="addressee">Обольянинову
-        </persName> об отсутствии антиправительственной деятельности у <orgName ref="Хасиды">хасидов</orgName>
+        Сообщение <persName role="namesViewer" target="/names/Хрущов.html">Хрущова</persName> <persName
+        role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> об отсутствии антиправительственной
+        деятельности у <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>
       </p></abstract>
       <creation><date when="1800-10-02">2 октября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -37,11 +39,11 @@
        Милостивой государь</l></salute>
     <p>
       <l><date when="1800-09-20">20 числа</date> приехалъ я изъ Полоцка въ</l>
-      <l><placeName ref="Витебск">Витебскъ</placeName> проезжая совсемъ другою</l>
+      <l><placeName role="namesViewer" target="/names/Витебск.html">Витебскъ</placeName> проезжая совсемъ другою</l>
       <l>дорогою, и неусыпно старался разъ-</l>
       <l>ведать о здѣланномъ мне препоручѣнии</l>
       <l>Но открыть нечѣто больше не могъ</l>
-      <l>про секту <orgName ref="Хасиды">хосодовъ</orgName>. о чѣмъ имѣлъ честь</l>
+      <l>про секту <orgName role="namesViewer" target="/names/Хасиды.html">хосодовъ</orgName>. о чѣмъ имѣлъ честь</l>
       <l>донѣсть вашему высокопревосходите-</l>
       <l>лству! Испытывая разными способа-</l>
       <l>ми не кроится ли какое нибудь зло-</l>

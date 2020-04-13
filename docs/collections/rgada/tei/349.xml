@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Фризель">Фризель</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Фризель">Фризеля</persName> <persName ref="Обольянинов">Обольянинову</persName>,
-        подтверждающее получение секретного отношения о наблюдении за <orgName ref="Хасиды">хасидами</orgName>
+        Сообщение <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> <persName
+        role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>, подтверждающее получение секретного
+        отношения о наблюдении за <orgName role="namesViewer" target="/names/Хасиды.html">хасидами</orgName>
       </p></abstract>
       <creation><date when="1800-11-15">15 ноября 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,13 +36,14 @@
     <fw type="pageNum" place="right">349</fw><note place="end">номер записан чернилами</note>
     <p>
       <l><salute>Милостивый Государь!<lb/>
-         <persName ref="Обольянинов">Петръ Хрисанфовичь</persName>!</salute></l>
+         <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичь</persName>!</salute></l>
       <l>Имѣлъ я честь къ непремѣнному исполненію</l>
       <l>получить всепочтеннѣйшее вашего высокопрево-</l>
       <l>сходительства секретное отношеніе отъ <date when="1800-11-01">1. сего<lb/>
        ноября</date> съ изображеніемъ высочайшаго его импера-</l>
       <l>торскаго величества повелѣнія, о наблюденіи за</l>
-      <l>поведеніемъ евреевъ <orgName ref="Хасиды">секты каролинской</orgName>. О чемъ до-</l>
+      <l>поведеніемъ евреевъ <orgName role="namesViewer" target="/names/Хасиды.html">секты каролинской</orgName>. О чемъ
+      до-</l>
       <l>нося вашему высокопревосходительству, приношу</l>
       <l>чувствительную благодарность за сдѣланное въ</l>
       <l>постскриптѣ онаго, остереженіе, въ разсужденіи</l>
@@ -54,12 +57,12 @@
       <l>Милостивый Государь!</l>
       <l>вашего высокопревосходительства</l>
       <l>Всепокорнѣйшій слуга</l>
-      <l><persName ref="Фризель">Иванъ Фризель</persName></l>
+      <l><persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 251<hi rend="superscript">й</hi></fw>.</l>
       <l><date when="1800-11-15">15. ноября 1800.</date></l>
-      <l><placeName ref="Вильна">вильна</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName></l>
     </closer>
     <pb xml:id="p349-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/349.html#p349-2"/>
   </body></text>

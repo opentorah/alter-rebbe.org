@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +17,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Приказ <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Хрущов">Хрущову</persName> о
-        возвращении в <placeName ref="Петербург">Петербург</placeName>
+        Приказ <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+        role="namesViewer" target="/names/Хрущов.html">Хрущову</persName> о возвращении в <placeName role="namesViewer"
+        target="/names/Петербург.html">Петербург</placeName>
       </p></abstract>
       <creation><date when="1800-09-19">1800-09-19</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Хрущов" role="addressee">Хрущову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Хрущов.html">Хрущову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -30,10 +32,10 @@
     <p>
       <l><pb xml:id="p255-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/255.html#p255-1"/>
       <fw type="pageNum" place="right">255</fw> <fw type="pageNum" place="right"><del rend="overstrike">260</del></fw>
-      Государь мой <persName ref="Хрущов">Петръ Николаевичъ</persName>!</l>
+      Государь мой <persName role="namesViewer" target="/names/Хрущов.html">Петръ Николаевичъ</persName>!</l>
       <l>По донесенiю вашему от <date when="1800-09-10">10<hi rend="superscript">го</hi> сего<lb/>
-       Сентября</date> о <orgName ref="Хасиды">Сектѣ Каролиновъ</orgName> всепод-</l>
-      <l>даннѣйше докладывалъ я <persName ref="Павел_I">Государю<lb/>
+       Сентября</date> о <orgName role="namesViewer" target="/names/Хасиды.html">Сектѣ Каролиновъ</orgName> всепод-</l>
+      <l>даннѣйше докладывалъ я <persName role="namesViewer" target="/names/Павел_I.html">Государю<lb/>
        Императору</persName> и въ слѣдствiе высо-</l>
       <l>чайшаго <emph rend="big">Его в<hi rend="superscript">а</hi></emph> повелѣнiя рекомен-</l>
       <l>дую вамъ, по полученiи сего возвра-</l>
@@ -47,7 +49,7 @@
       <l><fw>Гатчино</fw></l>
       <l><date when="1800-09-19"><l>Сентября 19<hi rend="superscript">го</hi> дня<lb/>
        1800 года</l></date></l>
-      <fw>Его высокобл. <persName ref="Хрущов">Хрущову</persName>.</fw>
+      <fw>Его высокобл. <persName role="namesViewer" target="/names/Хрущов.html">Хрущову</persName>.</fw>
     </closer>
     <pb xml:id="p255-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/255.html#p255-2"/>
   </body></text>

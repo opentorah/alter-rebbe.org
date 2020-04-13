@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 16. Высоч. повеление о передаче дела <persName ref="Авигдор">Авигдора</persName>-<persName ref="alter-rebbe"
-          >Залмана</persName> в <orgName ref="Сенат">Сенат</orgName>
+          № 16. Высоч. повеление о передаче дела <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName>-<persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> в
+          <orgName role="namesViewer" target="/names/Сенат.html">Сенат</orgName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/001.html">001</ref> в РГИА 413</p>
       </abstract>
@@ -29,16 +31,19 @@
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p268" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/268.1.html#p268"/> №
-      16. Высоч. повелѣніе о передачѣ дѣла <persName ref="Авигдор">Авигдора</persName>-<persName ref="alter-rebbe"
-      >Залмана</persName> въ <orgName ref="Сенат">Сенатъ</orgName>.
+      16. Высоч. повелѣніе о передачѣ дѣла <persName role="namesViewer" target="/names/Авигдор.html"
+      >Авигдора</persName>-<persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> въ <orgName
+      role="namesViewer" target="/names/Сенат.html">Сенатъ</orgName>.
     </head>
     <p>
-      Его Императорское Величество высочайше повелѣть соизволили: дѣло между евреями <persName ref="Авигдор">Абикдоромъ
-      Хаймовичемъ</persName> и <persName ref="alter-rebbe">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи
-      и прочаго, въ <orgName ref="Сенат">Сенатѣ</orgName> разсмотрѣть и учинить положеніе, на какомъ впредь <sic>
-      основаній</sic> быть сектѣ хоседовъ и кагаламъ. На каковой конецъ и препроводить учиненные допросы на еврейскомъ
-      языкѣ съ переводомъ. На подлиномъ подписалъ <persName ref="Обольянинов">Генералъ-Прокурорь
-      Обольяниновъ</persName>. Слушанъ въ Общемъ Собраніи <date when="1800-11-27">27 ноября 1800</date> г.
+      Его Императорское Величество высочайше повелѣть соизволили: дѣло между евреями <persName role="namesViewer"
+      target="/names/Авигдор.html">Абикдоромъ Хаймовичемъ</persName> и <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Залманомъ Боруховичемъ</persName>, касающееся до ихъ религіи и прочаго, въ
+      <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> разсмотрѣть и учинить положеніе, на какомъ
+      впредь <sic>основаній</sic> быть сектѣ хоседовъ и кагаламъ. На каковой конецъ и препроводить учиненные допросы на
+      еврейскомъ языкѣ съ переводомъ. На подлиномъ подписалъ <persName role="namesViewer"
+      target="/names/Обольянинов.html">Генералъ-Прокурорь Обольяниновъ</persName>. Слушанъ въ Общемъ Собраніи <date
+      when="1800-11-27">27 ноября 1800</date> г.
     </p>
   </body></text>
 </TEI>

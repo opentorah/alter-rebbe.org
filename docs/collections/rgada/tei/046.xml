@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,10 +18,12 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Список <orgName ref="Хасиды">хасидов</orgName>, связанных со <persName ref="alter-rebbe">Шнеуром Залманом
-        </persName> и отправленных из <placeName ref="Вильна">Вильно</placeName> в <placeName ref="Петербург">
-        Санкт-Петербург</placeName> для продолжения следственных действий – приложение к сообщению <persName
-        ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName>, см.: <ref role="documentViewer"
+        Список <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, связанных со <persName
+        role="namesViewer" target="/names/alter-rebbe.html">Шнеуром Залманом</persName> и отправленных из <placeName
+        role="namesViewer" target="/names/Вильна.html">Вильно</placeName> в <placeName role="namesViewer"
+        target="/names/Петербург.html">Санкт-Петербург</placeName> для продолжения следственных действий – приложение к
+        сообщению <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> <persName
+        role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>, см.: <ref role="documentViewer"
         target="/collections/rgada/documents/044.html">044</ref>
       </p></abstract>
       <creation><date when="1798-10-25">25 октября 1798 года</date></creation>
@@ -34,37 +38,38 @@
     <fw type="pageNum" place="right">46.</fw>
     <head>
       <l>Реестръ</l>
-      <l><orgName ref="Хасиды">каролиновъ</orgName> отправленныхъ въ <placeName ref="Петербург">Санктпетербургъ
-      </placeName></l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> отправленныхъ въ <placeName
+      role="namesViewer" target="/names/Петербург.html">Санктпетербургъ</placeName></l>
     </head>
     <list>
       <item>
         <label>1.</label>
-        <persName ref="Меер_Рафалович">Меїеръ Рафаловичъ</persName>
+        <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меїеръ Рафаловичъ</persName>
       </item>
       <item>
         <label>2.</label>
-        <persName ref="Зелман_Леизерович">Сельмонъ Леизеровичъ</persName>
+        <persName role="namesViewer" target="/names/Зелман_Леизерович.html">Сельмонъ Леизеровичъ</persName>
       </item>
       <item>
         <label>3.</label>
-        <persName ref="Лейба_Зеликович">Леиба Зеликовичъ</persName>
+        <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Леиба Зеликовичъ</persName>
       </item>
       <item>
         <label>4.</label>
-        <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName>
+        <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохимъ Ицковичъ</persName>
       </item>
       <item>
         <label>5.</label>
-        <persName ref="Гирш_Иоселиович">Гиршъ Іосіеліовичъ</persName>
+        <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршъ Іосіеліовичъ</persName>
       </item>
       <item>
         <label>6.</label>
-        <persName ref="Рафаил_Шлиомович">Рафалъ Шломовичъ</persName>
+        <persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">Рафалъ Шломовичъ</persName>
       </item>
-      <item><label>7.</label> <persName ref="Шмуил_Хаимович">Шмуило Хаимовичъ</persName>.</item>
+      <item><label>7.</label> <persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуило
+      Хаимовичъ</persName>.</item>
     </list>
-    <signed><persName ref="Булгаков">Яков Булгаков</persName></signed>
+    <signed><persName role="namesViewer" target="/names/Булгаков.html">Яков Булгаков</persName></signed>
     <pb xml:id="p046-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/046.html#p046-2"/>
   </body></text>
 </TEI>

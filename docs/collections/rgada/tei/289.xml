@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="alter-rebbe">Шнеур Залман</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/alter-rebbe.html">Шнеур Залман</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -17,8 +18,9 @@
     <profileDesc>
       <abstract>
         <p>
-          Черновик перевода письменных показаний <persName ref="alter-rebbe">Шнеура Залмана</persName> в виде ответов по
-          пунктам на жалобу, поданную <persName ref="Авигдор">Авигдором Хаймовичем</persName>
+          Черновик перевода письменных показаний <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура
+          Залмана</persName> в виде ответов по пунктам на жалобу, поданную <persName role="namesViewer"
+          target="/names/Авигдор.html">Авигдором Хаймовичем</persName>
         </p>
         <p>
           черновик с отдельными страницами, переписанными набело, представляет собой перевода показаний с многчисленными
@@ -40,15 +42,17 @@
     <fw type="pageNum" place="right"><del rend="overstrike">293</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
     <head>
-      <l><persName ref="alter-rebbe">Салманъ Боруховичъ</persName> почитаемый начальникомъ</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Салманъ Боруховичъ</persName> почитаемый
+      начальникомъ</l>
       <l>Каролинской секты или Хоседовъ отвѣчаетъ</l>
-      <l>на <del rend="overstrike">извѣтъ</del> показанїе Оберъ Рабина <persName ref="Авигдор">Абикдора
-      Хаймовича</persName>.</l>
+      <l>на <del rend="overstrike">извѣтъ</del> показанїе Оберъ Рабина <persName role="namesViewer"
+      target="/names/Авигдор.html">Абикдора Хаймовича</persName>.</l>
     </head>
     <p>
       <l><emph rend="underline">на 1<hi rend="superscript">ое</hi></emph></l>
       <l>Что въ Книгѣ той о сей веселости совсемъ не</l>
-      <l>такъ написано, и что <persName ref="Авигдор">Хаймовичъ</persName> того не по-</l>
+      <l>такъ написано, и что <persName role="namesViewer" target="/names/Авигдор.html">Хаймовичъ</persName> того не
+      по-</l>
       <l>нялъ. Въ оной означается для занимающагося</l>
       <l>единственно божїею службою, чтобъ онъ съ веселымъ</l>
       <l>и добрымъ сердцемъ славилъ бога, что доказывается</l>
@@ -74,21 +78,26 @@
       </fw>
       <l>моновыхъ Еклезїастахъ сказано, что есть</l>
       <l>время веселости и печали. Упоминаемый</l>
-      <l>израилтянинъ <persName ref="Баал_Шем_Тов">Балшентовъ</persName> никакихъ книгъ</l>
+      <l>израилтянинъ <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Балшентовъ</persName> никакихъ
+      книгъ</l>
       <l>не сочинилъ, и послѣ себя не оставилъ, а потому</l>
       <l>и дѣйствіе ангеловъ и дьволовъ мнѣ неиз-</l>
       <l>вѣстно. Есть малая книжка подъ названїемъ</l>
-      <l>Завѣщанїе <persName ref="Баал_Шем_Тов">Большента</persName>, которую сочинилъ быв-</l>
+      <l>Завѣщанїе <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Большента</persName>, которую сочинилъ
+      быв-</l>
       <l>шїй нѣкто при смерти его; но на ней не</l>
       <l>можно основываться, потому что она сочи-</l>
-      <l>нена на еврейскомъ языкѣ, а <persName ref="Баал_Шем_Тов">большентовъ</persName> го-</l>
+      <l>нена на еврейскомъ языкѣ, а <persName role="namesViewer" target="/names/Баал_Шем_Тов.html"
+      >большентовъ</persName> го-</l>
       <l>ворилъ еврейско- нѣмецкимъ языкомъ.</l>
       <l>Если оберъ Рабинъ представитъ въ етой книжкѣ</l>
-      <l>нѣкоторыя сумнѣнїя, то <persName ref="alter-rebbe">Боруховичъ</persName> обя-</l>
+      <l>нѣкоторыя сумнѣнїя, то <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичъ</persName>
+      обя-</l>
       <l>зуется оныя объяснить, въ какомъ смыслѣ</l>
-      <l>говорилъ <persName ref="Баал_Шем_Тов">Бальшентъ</persName>, и въ чемъ сочинитель</l>
+      <l>говорилъ <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Бальшентъ</persName>, и въ чемъ
+      сочинитель</l>
       <l>могъ ошибиться, хотя онъ ее читалъ</l>
-      <l>однажды. О <persName ref="maggid">беркѣ мезерицком</persName> сказать</l>
+      <l>однажды. О <persName role="namesViewer" target="/names/maggid.html">беркѣ мезерицком</persName> сказать</l>
       <pb xml:id="p289-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p289-2"/>
       <l><fw type="pageNum" place="left">289 об</fw><note place="end">номер вписан карандашом</note></l>
       <l>долженъ, что и онъ самъ ничего не сочинялъ,</l>
@@ -104,7 +113,7 @@
       <l>случаѣ моленïе происходитъ съ веселымъ</l>
       <l>духомъ; а въ послѣднихъ съ сокрушен-</l>
       <l>нымъ сердцемъ и плачемъ. Въ книгѣ же</l>
-      <l>представленной <persName ref="Авигдор">Хаймовичемъ</persName> на первый</l>
+      <l>представленной <persName role="namesViewer" target="/names/Авигдор.html">Хаймовичемъ</persName> на первый</l>
       <l>случай написаны слѣдующїя слова „Плачъ</l>
       <l>есть вредъ великой, когда человѣку нужно</l>
       <l>служить Богу съ веселостію; но ежели</l>
@@ -133,14 +142,15 @@
       <l>боится льва? отвѣтствовалъ онъ:</l>
       <l>„Стыжусь отъ создателя моего, чтобы я</l>
       <l>имѣль боязнь за что нибудь кромѣ Его„:</l>
-      <l>слѣдственно и нѣтъ ему <persName ref="Авигдор">хаимовичу</persName> ро</l>
+      <l>слѣдственно и нѣтъ ему <persName role="namesViewer" target="/names/Авигдор.html">хаимовичу</persName> ро</l>
       <l>птать на ту только книгу: однако для лучшаго</l>
       <l>изъясненія и разърѣшенія его запросовъ долженъ</l>
       <l>я продолжить слѣдующее:</l>
     </p>
     <p>
-      <l>По справедливости, <del rend="overstrike">онаго</del> бывшій <placeName ref="Пинск">пинской</placeName>
-      <persName ref="Авигдор">раввинъ</persName></l>
+      <l>По справедливости, <del rend="overstrike">онаго</del> бывшій <placeName role="namesViewer"
+      target="/names/Пинск.html">пинской</placeName> <persName role="namesViewer" target="/names/Авигдор.html"
+      >раввинъ</persName></l>
       <l>переменилъ смыслъ той книги въ другое толкованіе по ево</l>
       <l>только хотѣнїю ради ненавистнаго гоненія. Къ объясненїю же</l>
       <l>истиннаго смысла той книги необходимо нужно</l>
@@ -449,8 +459,8 @@
       <fw type="pageNum" place="right"><del rend="overstrike">298</del></fw><note place="end">номер записан чернилами и
       вычеркнут карандашом</note>
       <l>речей той книжки и мыслей оныхъ</l>
-      <l>представляющихся всякому безъпристрастному читателю и симъ самымъ разрѣшится вопросъ <persName ref="Авигдор">
-      хаимовича</persName>:</l>
+      <l>представляющихся всякому безъпристрастному читателю и симъ самымъ разрѣшится вопросъ <persName
+      role="namesViewer" target="/names/Авигдор.html">хаимовича</persName>:</l>
       <l><del rend="overstrike">упомянутый въ 4 пунктѣ</del>, что</l>
       <l>та книжка показываетъ бла</l>
       <l>женный путь тѣмъ кои</l>
@@ -614,7 +624,8 @@
       <l>24. въ стихѣ 21 „бойся</l>
       <l>Бога сынѣ и царя, и съ отмѣ</l>
       <l>няющимъ не мѣшайся„<note place="end">начало цитаты на церковнославянском языке – до запятой – передано верно,
-      дальнейшее - толкование <persName ref="alter-rebbe">Шнеура Залмана</persName> или переводчика</note> разу</l>
+      дальнейшее - толкование <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName>
+      или переводчика</note> разу</l>
       <l>мѣется: къ отмѣняющимъ или различающимъ</l>
       <l>боязнь бога и боязни государя</l>
       <l>не мѣшайся, и не имѣй съ ними</l>
@@ -643,7 +654,7 @@
     </p>
     <p>
       <l><del rend="overstrike">6</del> на 5 пунктъ</l>
-      <l>туть тоже <persName ref="Авигдор">хаимовичъ</persName> отмѣнилъ</l>
+      <l>туть тоже <persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName> отмѣнилъ</l>
       <l>рѣчей той книги и значенія оныхъ, –</l>
       <l>поелику самой тотъ слогъ <del rend="overstrike">не доказыва</del></l>
       <l>вовсе не <del rend="overstrike">показываетъ</del> относится</l>
@@ -828,7 +839,7 @@
       <l>что вовсе несовмѣстно во ономъ</l>
       <l>ошибатся на другое толкованіе, отъ</l>
       <l>чего боже сохрани! А что онъ</l>
-      <l><persName ref="Авигдор">Хаймовичъ</persName> пишетъ, будто раввины</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Хаймовичъ</persName> пишетъ, будто раввины</l>
       <l>называются богами, никакъ ни-</l>
       <l>когда сего не бывало, и никогда</l>
       <l>не увидится и нигдѣ не найдется</l>
@@ -846,8 +857,8 @@
     <fw type="pageNum">300 об.</fw><note place="end">номер вписан карандашом</note>
     <p>
       <l>На 7<hi rend="superscript">й</hi> пунктъ.</l>
-      <l>О деньгах, что онъ <persName ref="Авигдор">Хаймовичъ</persName> пи-</l>
-      <l>шетъ, будто что посылается въ <placeName ref="Палестина">Израиль-<lb/>
+      <l>О деньгах, что онъ <persName role="namesViewer" target="/names/Авигдор.html">Хаймовичъ</persName> пи-</l>
+      <l>шетъ, будто что посылается въ <placeName role="namesViewer" target="/names/Палестина.html">Израиль-<lb/>
        скій край</placeName> на содержаніе только находя-</l>
       <l>щихся богослужителей, въ нынѣшнія вре-</l>
       <l>мена во сто кратъ болѣе древнихъ:</l>
@@ -859,9 +870,10 @@
       <l>а вѣдаю только, что посылается туда</l>
       <l>денегъ гораздо болѣе нежели въ древ-</l>
       <l>нія времена, потому, что тогда въ</l>
-      <l><placeName ref="Палестина">израильскомъ краѣ</placeName> очень мало находи-</l>
-      <l>лось евреевъ <placeName ref="Польша">польскихъ</placeName>; тамошнія</l>
-      <l>жители пропитаніе получая отъ <placeName ref="Турция">турец-<lb/>
+      <l><placeName role="namesViewer" target="/names/Палестина.html">израильскомъ краѣ</placeName> очень мало
+      находи-</l>
+      <l>лось евреевъ <placeName role="namesViewer" target="/names/Польша.html">польскихъ</placeName>; тамошнія</l>
+      <l>жители пропитаніе получая отъ <placeName role="namesViewer" target="/names/Турция.html">турец-<lb/>
        кихъ</placeName> евреевъ и окресностей оныхъ;</l>
       <l>а польскія называемыя тамо по ихъ</l>
       <l>обыкновенію нѣмецкими, даже и десяти</l>
@@ -876,11 +888,12 @@
       <l>своихъ сродниковъ, изъ того мѣста</l>
       <l>откуда они были, но съ недавнихъ</l>
       <l>лѣтъ, извѣстно всѣмъ, какъ я</l>
-      <l>слыхалъ, что поѣхали изъ <placeName ref="Белоруссия">бѣло-<lb/>
-       руссіи</placeName> когда еще была <placeName ref="Польша">польшею</placeName></l>
+      <l>слыхалъ, что поѣхали изъ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣло-<lb/>
+       руссіи</placeName> когда еще была <placeName role="namesViewer" target="/names/Польша.html">польшею</placeName>
+      </l>
       <l>сълишкомъ до тридцати чело-</l>
       <l>вѣкъ со всѣми своими семей-</l>
-      <l>ствами имѣя въ <placeName ref="Белоруссия">бѣлоруссіи</placeName> и въ</l>
+      <l>ствами имѣя въ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлоруссіи</placeName> и въ</l>
       <l>окольныхъ мѣстахъ сродственниковъ</l>
       <l>и приятелей, которыя сожалѣя</l>
       <l>объ нихъ, дѣлаютъ обѣты <sic>[даютъ]</sic></l>
@@ -888,8 +901,8 @@
       <l>жаніе болѣе обыкновенной въ</l>
       <l>давнія времена. Можетъ</l>
       <l>статься то же самое происхо-</l>
-      <l>дитъ по <placeName ref="Волынская_губерния">волынской</placeName>, <placeName ref="Подольская_губерния">
-      Подольской</placeName></l>
+      <l>дитъ по <placeName role="namesViewer" target="/names/Волынская_губерния.html">волынской</placeName>, <placeName
+      role="namesViewer" target="/names/Подольская_губерния.html">Подольской</placeName></l>
       <l>и прочимъ губерніямъ, откуда</l>
       <pb xml:id="p301-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p301-2"/>
       <fw type="pageNum">301 об.</fw><note place="end">номер вписан карандашом</note>
@@ -904,7 +917,7 @@
       <l>денегъ давалъ на то, но всякъ</l>
       <l>даетъ по своему желанію, и изъ</l>
       <l>то, что даютъ деньги на со-</l>
-      <l>держаніе <placeName ref="Иерусалим">јерусалимскихъ</placeName> бого-</l>
+      <l>держаніе <placeName role="namesViewer" target="/names/Иерусалим.html">јерусалимскихъ</placeName> бого-</l>
       <l>мольниковъ мнѣ никакой пользы</l>
       <l>нѣтъ, а особливо когда я</l>
       <l>самъ можетъ быть имѣю</l>
@@ -923,9 +936,9 @@
       <fw type="pageNum" place="right"><del rend="overstrike">307</del></fw><note place="end">номер записан чернилами и
       вычеркнут карандашом</note>
       <l>деньги на содержаніе богомольниковъ</l>
-      <l><placeName ref="Палестина">израильскаго края</placeName> вовсе не проис-</l>
+      <l><placeName role="namesViewer" target="/names/Палестина.html">израильскаго края</placeName> вовсе не проис-</l>
       <l>ходитъ отъ меня, но отъ послан-</l>
-      <l>никовъ жителей <placeName ref="Палестина">израильскаго края</placeName>,</l>
+      <l>никовъ жителей <placeName role="namesViewer" target="/names/Палестина.html">израильскаго края</placeName>,</l>
       <l>бывшихъ прежде здѣшнихъ, кои</l>
       <l>посланники прибывъ сюда, объѣзжали</l>
       <l>всѣ мѣста. Просили милостыни</l>
@@ -934,33 +947,34 @@
       <l>и отъ прочихъ; оныя посланники</l>
       <l>избрали себѣ вѣрнаго человѣка,</l>
       <l>дабы онъ собиралъ ту мило-</l>
-      <l>стыню до прибытія изъ <placeName ref="Иерусалим">Јеру-<lb/>
+      <l>стыню до прибытія изъ <placeName role="namesViewer" target="/names/Иерусалим.html">Јеру-<lb/>
        салима</placeName> посланника, дабы онъ</l>
       <l>здѣсь не замѣдлился, и не опоз-</l>
       <l>далъ бы чрезъ то отшествіе</l>
       <l>кораблей. Имянуютъ же того</l>
       <l>вѣрнымъ отъ нихъ избраннаго</l>
-      <l>человѣка <persName ref="Янкель_Лейбович">Янкелемъ Лейбовичемъ</persName></l>
+      <l>человѣка <persName role="namesViewer" target="/names/Янкель_Лейбович.html">Янкелемъ Лейбовичемъ</persName></l>
       <pb xml:id="p302-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p302-2"/>
       <fw type="pageNum">302 об.</fw><note place="end">номер вписан карандашом</note>
       <l>изъ Смоляна<note place="end">Смоляны - ныне деревня в 30 км к западу от Орши</note>.Но какъ такое обык-</l>
       <l>новеніе водворилось, чрезъ выше-</l>
       <l>упомянутыя посланники, то слу-</l>
       <l>чалось многія разы что хотя</l>
-      <l>и не прибылъ изъ <placeName ref="Иерусалим">јерусалима</placeName> сюда</l>
-      <l>посланникъ, то оной <persName ref="Янкель_Лейбович">Янкель</persName> поѣхалъ</l>
-      <l>на <placeName ref="Украина">Украіну</placeName>, и тамо посылалъ</l>
+      <l>и не прибылъ изъ <placeName role="namesViewer" target="/names/Иерусалим.html">јерусалима</placeName> сюда</l>
+      <l>посланникъ, то оной <persName role="namesViewer" target="/names/Янкель_Лейбович.html">Янкель</persName>
+      поѣхалъ</l>
+      <l>на <placeName role="namesViewer" target="/names/Украина.html">Украіну</placeName>, и тамо посылалъ</l>
       <l>имѣющіяся деньги чрезъ прибываю-</l>
-      <l>щихъ туда изъ <placeName ref="Иерусалим">Јерусалима</placeName> послан-</l>
+      <l>щихъ туда изъ <placeName role="namesViewer" target="/names/Иерусалим.html">Јерусалима</placeName> послан-</l>
       <l>никовъ, или чрезъ отправившихся</l>
-      <l>оттуда въ <placeName ref="Палестина">Израильской край</placeName>, какъ</l>
+      <l>оттуда въ <placeName role="namesViewer" target="/names/Палестина.html">Израильской край</placeName>, какъ</l>
       <l>для жительства, такъ и въ намѣ-</l>
       <l>реніи возвратиться сюда. И</l>
       <l>какимъ точно образомъ посылаетъ</l>
       <l>мнѣ неизвѣстно, но только то вѣ-</l>
       <l>домо есть, что всѣ обѣты доста-</l>
-      <l>вляются въ <placeName ref="Палестина">Израильской край</placeName></l>
-      <l>отъ рѣченнаго <persName ref="Янкель_Лейбович">Янкеля</persName>, потому,</l>
+      <l>вляются въ <placeName role="namesViewer" target="/names/Палестина.html">Израильской край</placeName></l>
+      <l>отъ рѣченнаго <persName role="namesViewer" target="/names/Янкель_Лейбович.html">Янкеля</persName>, потому,</l>
       <l>что къ нему присылаются отъ</l>
       <l>туда</l>
       <l>квитанціи за подписамі</l>
@@ -979,7 +993,7 @@
       <l>сколько опредѣлилъ, досталась въ</l>
       <l>руки сполна. Каждой же изъ здѣш-</l>
       <l>нихъ евреевъ знаетъ подписи всѣхъ</l>
-      <l>јерусалимскихъ. Что же равинъ <persName ref="Авигдор">Хай-<lb/>
+      <l>јерусалимскихъ. Что же равинъ <persName role="namesViewer" target="/names/Авигдор.html">Хай-<lb/>
        мовичъ</persName> пишетъ, будто по установ-</l>
       <l>леніямъ еврейскимъ, должно девять</l>
       <l>частей оставить для убогихъ домаш-</l>
@@ -1071,11 +1085,12 @@
       <l><del rend="overstrike">прежныя раввины бывало избираются</del></l>
       <l><del rend="overstrike">за подписом евреевъ какого мѣстечка</del></l>
       <l><del rend="overstrike">но не всѣхъ. Учрежденія прежныя</del></l>
-      <l>раввинами подобными ему <persName ref="Авигдор">хаимовичу</persName></l>
-      <l>и тѣми которыхъ онъ же <persName ref="Авигдор">хаимовичъ</persName> и сообщники его</l>
+      <l>раввинами подобными ему <persName role="namesViewer" target="/names/Авигдор.html">хаимовичу</persName></l>
+      <l>и тѣми которыхъ онъ же <persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName> и
+      сообщники его</l>
       <l>называютъ каролинскими; первыя суть такія которыя</l>
-      <l><del rend="overstrike">бывало учреждаются</del> <hi rend="superscript">продолжались <placeName ref="Польша">
-      польшею</placeName></hi> такимъ образомъ:</l>
+      <l><del rend="overstrike">бывало учреждаются</del> <hi rend="superscript">продолжались <placeName
+      role="namesViewer" target="/names/Польша.html">польшею</placeName></hi> такимъ образомъ:</l>
       <l>кто будучи богатъ и хорошо обученъ талъмуду,</l>
       <l>желалъ пропитать себя <del rend="overstrike"><unclear>въ какомъ либо</unclear></del> съ</l>
       <l><del rend="overstrike">честію</del> славою, пришедъ къ <del rend="overstrike">на</del> <del rend="overstrike">
@@ -1194,8 +1209,8 @@
       <l>своему.</l>
     </p>
     <p>
-      <l>2. раввины жъ тѣ, которыхъ <persName ref="Авигдор">хаймовичъ</persName></l>
-      <l>называетъ <orgName ref="Хасиды">каролинскими</orgName>, не имѣютъ</l>
+      <l>2. раввины жъ тѣ, которыхъ <persName role="namesViewer" target="/names/Авигдор.html">хаймовичъ</persName></l>
+      <l>называетъ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскими</orgName>, не имѣютъ</l>
       <pb xml:id="p306-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p306-2"/>
       <fw type="pageNum" place="left">4</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
       </note>
@@ -1323,8 +1338,8 @@
         <l>надъ всеми евреями</l>
         <l>жительствующими въ уѣздѣ</l>
         <l>наравнѣ какъ надъ тѣми</l>
-        <l>которыхъ <persName ref="Авигдор">хаимовичъ</persName> име</l>
-        <l>нуетъ <orgName ref="Хасиды">королинами</orgName> такъ</l>
+        <l>которыхъ <persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName> име</l>
+        <l>нуетъ <orgName role="namesViewer" target="/names/Хасиды.html">королинами</orgName> такъ</l>
         <l>и надъ прочими</l>
         <l>ибо мы <del rend="overstrike">всѣ одно</del> всѣ одинаковы</l>
         <l>безъ <del rend="overstrike"><unclear>??? ???</unclear></del> и само</l>
@@ -1503,17 +1518,19 @@
       <l>съ сердечнымъ вниманіемъ, не есть</l>
       <l>дѣло новое, которое бы возоб</l>
       <l>новилось между называемыми только</l>
-      <l><orgName ref="Хасиды">хоседами</orgName>; но и въ <del rend="overstrike">наро</del> родахъ</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседами</orgName>; но и въ <del rend="overstrike"
+      >наро</del> родахъ</l>
       <l>древныхъ какъ за двѣсти лѣтъ</l>
       <l>бывало очень долго продолжаютъ</l>
       <l>молитвы съ сердечнымъ вни</l>
-      <l>маніемъ <hi rend="superscript">болѣе</hi> теперешнихъ <orgName ref="Хасиды">хоседовъ</orgName>,</l>
+      <l>маніемъ <hi rend="superscript">болѣе</hi> теперешнихъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >хоседовъ</orgName>,</l>
       <l>такъ какъ разумѣть можно изъ древныхъ</l>
       <l>еврейскихъ книгъ, что то</l>
       <l>обыкновеніе было продолжаемо;</l>
       <l>но увы! доколѣ <sic>востали</sic> выше</l>
       <l>обьясненные мною, бывшія</l>
-      <l>раввины въ <placeName ref="Польша">польшѣ</placeName>, которыя</l>
+      <l>раввины въ <placeName role="namesViewer" target="/names/Польша.html">польшѣ</placeName>, которыя</l>
       <l><del rend="overstrike">наняли</del> купили или наняли</l>
       <l>раввинство отъ владѣлца</l>
       <l>о они! они то начали уничижать</l>
@@ -1543,12 +1560,12 @@
       <l>рыя не взирая на все то</l>
       <l>бывало продолжаютъ молитвы</l>
       <l>свои съ сердечнымъ вниманіемъ</l>
-      <l>коихъ называли тогда <orgName ref="Хасиды">хосидами</orgName></l>
+      <l>коихъ называли тогда <orgName role="namesViewer" target="/names/Хасиды.html">хосидами</orgName></l>
       <l><note type="gloss">|: то есть благодѣтелными :|</note> <del rend="overstrike">почему</del> то</l>
       <l><unclear>и до дня</unclear> всѣхъ которыя</l>
       <l>молитвы свои отправляютъ</l>
       <l>продолжительно и внимательно</l>
-      <l>называаются <orgName ref="Хасиды">хоседами</orgName>:</l>
+      <l>называаются <orgName role="namesViewer" target="/names/Хасиды.html">хоседами</orgName>:</l>
     </p>
     <p>
       <l>Тутъ нужно мнѣ продолжать немного</l>
@@ -1557,13 +1574,13 @@
     </p>
     <p>
       <l>1<hi rend="superscript">е</hi> весьма я удивляюсь, какъ онъ</l>
-      <l><persName ref="Авигдор">Хаймовичъ</persName> дерзнулъ навлѣчь такую</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Хаймовичъ</persName> дерзнулъ навлѣчь такую</l>
       <l>ложь на меня, и на всѣхъ назы-</l>
-      <l>ваемыхъ <orgName ref="Хасиды">хоседами</orgName>, живущихъ въ</l>
-      <l>губерніяхъ <placeName ref="Белоруссия">бѣлорусской</placeName>, <placeName ref="Подольская_губерния">
-      Подольской</placeName>,</l>
-      <l><placeName ref="Минская_губерния">Минской</placeName>, <placeName ref="Волынская_губерния">
-      волынской</placeName>, Новороссійской</l>
+      <l>ваемыхъ <orgName role="namesViewer" target="/names/Хасиды.html">хоседами</orgName>, живущихъ въ</l>
+      <l>губерніяхъ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлорусской</placeName>, <placeName
+      role="namesViewer" target="/names/Подольская_губерния.html">Подольской</placeName>,</l>
+      <l><placeName role="namesViewer" target="/names/Минская_губерния.html">Минской</placeName>, <placeName
+      role="namesViewer" target="/names/Волынская_губерния.html">волынской</placeName>, Новороссійской</l>
       <pb xml:id="p310-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p310-1"/>
       <fw type="pageNum" place="right"><del rend="overstrike">22</del></fw><note place="end">номер записан чернилами и
       вычеркнут карандашом</note>
@@ -1571,15 +1588,16 @@
       <fw type="pageNum" place="right"><del rend="overstrike">314</del></fw><note place="end">номер записан чернилами и
       вычеркнут карандашом</note>
       <l>Малороссійской и Кіевской, гдѣ они никогда</l>
-      <l>никѣмъ не назывались <orgName ref="Хасиды">каролинами</orgName>, но</l>
-      <l><orgName ref="Хасиды">хоседами</orgName>, которое наименованіе происхо-</l>
+      <l>никѣмъ не назывались <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>, но</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседами</orgName>, которое наименованіе происхо-</l>
       <l>дитъ отъ слова хоседъ благодѣянія,</l>
       <l>и добраго сердца къ Богу и къ чело-</l>
       <l>вѣкамъ, а въ нѣкоторыхъ мѣстахъ</l>
-      <l>называются отъ польскихъ господъ <orgName ref="Хасиды">ки-<lb/>
-       таевыми</orgName>, но только въ городѣ <placeName ref="Вильна">вильнѣ</placeName></l>
+      <l>называются отъ польскихъ господъ <orgName role="namesViewer" target="/names/Хасиды.html">ки-<lb/>
+       таевыми</orgName>, но только въ городѣ <placeName role="namesViewer" target="/names/Вильна.html"
+      >вильнѣ</placeName></l>
       <l>и его окружностяхъ главныя евреи,</l>
-      <l>отъ вражды назвавъ именемъ <orgName ref="Хасиды">каро-<lb/>
+      <l>отъ вражды назвавъ именемъ <orgName role="namesViewer" target="/names/Хасиды.html">каро-<lb/>
        линскимъ</orgName>, отъ того вошло сіе въ</l>
       <l>обыкновеніе и у простыхъ людей,</l>
       <l>представляя, будто есть между</l>
@@ -1602,7 +1620,7 @@
       <l><del rend="overstrike">закона</del> вмѣстѣ отправляемъ молитвы</l>
       <l>наши, естьлти намъ недосужно или по дру-</l>
       <l>гимъ какимъ нибудь причинамъ; многія суть,</l>
-      <l>что два братья один <orgName ref="Хасиды">хоседъ</orgName> а другой нетъ.</l>
+      <l>что два братья один <orgName role="namesViewer" target="/names/Хасиды.html">хоседъ</orgName> а другой нетъ.</l>
       <l>Есть же и такія, что были хоседами, а послѣ</l>
       <l>по недосугамъ не бываютъ болѣе, и въ наблюденіи</l>
       <l>еврейскаго закона во всѣмъ только, что написано</l>
@@ -1624,7 +1642,8 @@
       вычеркнут карандашом</note>
       <l>они напечатаны въ Амстердамѣ,</l>
       <l>съ позволенія тамошнихъ раввиновъ,</l>
-      <l>хотя и не назывались <orgName ref="Хасиды">хосседами</orgName><note place="end">так в оригинале</note>.</l>
+      <l>хотя и не назывались <orgName role="namesViewer" target="/names/Хасиды.html">хосседами</orgName><note
+      place="end">так в оригинале</note>.</l>
     </p>
     <p>
       <l>Послѣ того Римско-Император-</l>
@@ -1674,15 +1693,17 @@
       <l>не занимающіяся богомоленіемъ</l>
       <l><del rend="overstrike">съ такимъ</del> съ такою</l>
       <l>прилежностію <del rend="overstrike">богу молиться</del></l>
-      <l>называютъ насъ <orgName ref="Хасиды">хосидами</orgName>;</l>
+      <l>называютъ насъ <orgName role="namesViewer" target="/names/Хасиды.html">хосидами</orgName>;</l>
       <l><note type="gloss">|: то есть благодѣтелями :|</note></l>
       <pb xml:id="p312-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p312-2"/>
       <fw type="pageNum">312 об.</fw><note place="end">номер записан карандашом</note>
-      <l>а никакой зависти и вражды не имѣютъ; но <placeName ref="Вильна">виленскія</placeName> богатыя</l>
+      <l>а никакой зависти и вражды не имѣютъ; но <placeName role="namesViewer" target="/names/Вильна.html"
+      >виленскія</placeName> богатыя</l>
       <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
       <l><del rend="overstrike">богатыя евреи будучи само</del></l>
       <l><del rend="overstrike">любивы не находящіяся</del></l>
-      <l><del rend="overstrike">насъ зато въ городе <placeName ref="Вильна">вильнѣ</placeName></del></l>
+      <l><del rend="overstrike">насъ зато въ городе <placeName role="namesViewer" target="/names/Вильна.html"
+      >вильнѣ</placeName></del></l>
       <l><del rend="overstrike">суть, тамошныя бога</del></l>
       <l><del rend="overstrike">тыя</del> и ученныя евреи, и послѣдователи ихъ</l>
       <l>будучи самолюбивы и често</l>
@@ -1699,9 +1720,9 @@
     <p>
       <l>3<hi rend="superscript">е</hi> нынѣ недавно усугубилась</l>
       <l>та распря и вражда въ городѣ</l>
-      <l><placeName ref="Вильна">вильнѣ</placeName>, назадъ тому три года</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>, назадъ тому три года</l>
       <l>послѣ смѣрти раввина ихъ покойнаго</l>
-      <l><persName ref="Элиас">Эліяша</persName>, которой хотя тоже</l>
+      <l><persName role="namesViewer" target="/names/Элиас.html">Эліяша</persName>, которой хотя тоже</l>
       <l>не любилъ насъ по ложнымъ наговорамъ</l>
       <l>тамошныхъ евреевъ, которыя</l>
       <l>обыкновенно суть вздорники</l>
@@ -1725,7 +1746,7 @@
         <l>при жизни своей не пустилъ</l>
         <l>войти въ великія распори</l>
         <l>нападать <del rend="overstrike">на нихъ <unclear>???</unclear></del> <hi rend="superscript">на <placeName
-        ref="Вильна">виленскихъ</placeName> евреевъ</hi></l>
+        role="namesViewer" target="/names/Вильна.html">виленскихъ</placeName> евреевъ</hi></l>
         <l>
           <del rend="overstrike">евреевъ которыя боголюбиывыя</del>
           <hi rend="superscript">молящихся</hi>
@@ -1741,16 +1762,16 @@
         <l>и небезизвѣстно</l>
         <l>изъ жалобъ</l>
         <l>тамошныхъ</l>
-        <l><orgName ref="Хасиды">хоседовъ</orgName></l>
+        <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседовъ</orgName></l>
         <l>на обыкновен</l>
-        <l>ную у <placeName ref="Вильна">виленскихъ</placeName></l>
+        <l>ную у <placeName role="namesViewer" target="/names/Вильна.html">виленскихъ</placeName></l>
         <l>евреевъ, за быт</l>
         <l>ностію города</l>
-        <l><placeName ref="Вильна">вилны</placeName> во вла</l>
-        <l>деніи <placeName ref="Польша">польскомъ</placeName></l>
+        <l><placeName role="namesViewer" target="/names/Вильна.html">вилны</placeName> во вла</l>
+        <l>деніи <placeName role="namesViewer" target="/names/Польша.html">польскомъ</placeName></l>
         <l>черную книгу</l>
         <l>по которои</l>
-        <l>сіи <orgName ref="Хасиды">хосѣди</orgName></l>
+        <l>сіи <orgName role="namesViewer" target="/names/Хасиды.html">хосѣди</orgName></l>
         <l>были гонимы</l>
       </fw>
     </p>
@@ -1774,7 +1795,8 @@
         <l>и правительству</l>
         <l>изъ обыкновенія черной ихъ</l>
         <l>книги, продолжавшейся</l>
-        <l><placeName ref="Польша">польшею</placeName> – <orgName ref="Хасиды">хоседы</orgName> называемыя евреи</l>
+        <l><placeName role="namesViewer" target="/names/Польша.html">польшею</placeName> – <orgName role="namesViewer"
+        target="/names/Хасиды.html">хоседы</orgName> называемыя евреи</l>
         <l>будучи гонимыми жаловались</l>
       </del>
       <pb xml:id="p313-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p313-2"/>
@@ -1796,29 +1818,33 @@
       <l><del rend="overstrike">и чемъ <unclear>??? польскаго</unclear></del></l>
       <l><del rend="overstrike"><unclear>???</unclear></del></l>
       <l><del rend="overstrike">правленія владѣніемъ извѣстно</del></l>
-      <l><del rend="overstrike">посему даже изъ <placeName ref="Вильна">вильны</placeName></del></l>
-      <l><del rend="overstrike"><placeName ref="Польша">польскимъ</placeName> правительствомъ по</del></l>
-      <l><del rend="overstrike">всему <placeName ref="Польша">польскому краю</placeName></del></l>
+      <l><del rend="overstrike">посему даже изъ <placeName role="namesViewer" target="/names/Вильна.html"
+      >вильны</placeName></del></l>
+      <l><del rend="overstrike"><placeName role="namesViewer" target="/names/Польша.html">польскимъ</placeName>
+      правительствомъ по</del></l>
+      <l><del rend="overstrike">всему <placeName role="namesViewer" target="/names/Польша.html">польскому
+      краю</placeName></del></l>
     </p>
     <p>
       <l>По всему <hi rend="superscript">распространенію</hi> израиля не слышно</l>
       <l>и не нашлась <del rend="overstrike"><unclear>???</unclear></del></l>
       <l>таковая книга ниже таковой</l>
       <l>тайный гонитель, кромѣ только</l>
-      <l>въ городѣ <placeName ref="Вильна">вильнѣ</placeName>, когда <del rend="overstrike"><unclear>???</unclear></del>
-      </l>
+      <l>въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>, когда <del
+      rend="overstrike"><unclear>???</unclear></del></l>
       <l>тотъ городъ состоялъ</l>
       <l>подъ польскимъ правленіемъ.</l>
       <l>По уничтоженіи таковаго обыкновенія тамошнимъ губернскимъ правленіемъ</l>
-      <l>чрезъ прошеніи <placeName ref="Вильна">вилинскихъ</placeName> евреевъ</l>
-      <l><del rend="overstrike">каролинскимъ таковая</del> <hi rend="superscript">называемыхъ <orgName ref="Хасиды">
-      хоседами</orgName></hi>, учинились</l>
+      <l>чрезъ прошеніи <placeName role="namesViewer" target="/names/Вильна.html">вилинскихъ</placeName> евреевъ</l>
+      <l><del rend="overstrike">каролинскимъ таковая</del> <hi rend="superscript">называемыхъ <orgName
+      role="namesViewer" target="/names/Хасиды.html">хоседами</orgName></hi>, учинились</l>
       <l>и <unclear>???</unclear> прочія виленскія</l>
       <l><del rend="overstrike">обыкновеніе <unclear>???</unclear> виленское</del></l>
       <l>евреи великими</l>
       <l><del rend="overstrike">имъ всемъ великими</del></l>
       <l>врагами, такъ какъ и про</l>
-      <l>чимъ <orgName ref="Хасиды">хоседамъ</orgName>, <hi rend="superscript">идутъ</hi> почти</l>
+      <l>чимъ <orgName role="namesViewer" target="/names/Хасиды.html">хоседамъ</orgName>, <hi rend="superscript"
+      >идутъ</hi> почти</l>
       <l>и на животъ ихъ; также</l>
       <l>какъ послѣ послѣдовало то,</l>
       <l>что взяты <hi rend="superscript">въ губернское правленіе</hi> всѣ книги</l>
@@ -1850,7 +1876,8 @@
       <l><del rend="overstrike"><unclear>???</unclear></del></l>
       <l>сіе разсмотрѣніе происходитъ</l>
       <l><del rend="overstrike"><unclear>???</unclear></del> отъ</l>
-      <l><sic>старательста</sic> тамошныхъ <orgName ref="Хасиды">хоседовъ</orgName></l>
+      <l><sic>старательста</sic> тамошныхъ <orgName role="namesViewer" target="/names/Хасиды.html">хоседовъ</orgName>
+      </l>
       <l>вящше <hi rend="superscript">тѣ вилинскія евреи</hi> учинились</l>
       <l><del rend="overstrike"><unclear>???</unclear></del> имъ врагами._</l>
       <l>И тако естли мы гдѣ и въ</l>
@@ -1866,10 +1893,10 @@
     </p>
     <p>
       <l>4</l>
-      <l>что же онъ <persName ref="Авигдор">хаимовичъ</persName> пишетъ</l>
+      <l>что же онъ <persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName> пишетъ</l>
       <pb xml:id="p314-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p314-2"/>
       <fw type="pageNum">314 об.</fw><note place="end">номер записан карандашом</note>
-      <l>будьто <orgName ref="Хасиды">хоседы</orgName> переменили обряды</l>
+      <l>будьто <orgName role="namesViewer" target="/names/Хасиды.html">хоседы</orgName> переменили обряды</l>
       <l>еврейскія въ молитвахъ и даже</l>
       <l>одежды, что не <del rend="overstrike">одеваются</del> носятъ</l>
       <l>шерстяннаго: то что въ моли</l>
@@ -1877,7 +1904,7 @@
       <l>только въ словахъ по кабалистикѣ</l>
       <l>и что же таковыя молитвы</l>
       <l>давно напечатаны я уже</l>
-      <l>выше изъяснилъ: въ <placeName ref="Палестина">израил<lb/>
+      <l>выше изъяснилъ: въ <placeName role="namesViewer" target="/names/Палестина.html">израил<lb/>
        ском краю</placeName> молятся такимъ</l>
       <l>образомъ съ самого начала</l>
       <l>еврейской молитвы. – А ка</l>
@@ -1896,8 +1923,9 @@
       <l>осторожность наблюдаютъ съ</l>
       <l>наивящею точностію многія бого</l>
       <l>боящіеся люди хоть они и не</l>
-      <l><orgName ref="Хасиды">хоседы</orgName>; а особливо изъ</l>
-      <l>учѣниковъ <placeName ref="Вильна">вилинскаго</placeName> покойнаго раввина</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседы</orgName>; а особливо изъ</l>
+      <l>учѣниковъ <placeName role="namesViewer" target="/names/Вильна.html">вилинскаго</placeName> покойнаго
+      раввина</l>
       <pb xml:id="p315-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p315-1"/>
       <fw type="pageNum" place="right">315</fw><note place="end">Номер вписан карандашом</note>
       <fw type="pageNum" place="right">5</fw><note place="end">номер записан черилами</note>
@@ -1907,9 +1935,9 @@
       чернилами</note>
       <fw type="pageNum" place="right"><del rend="overstrike">318<hi rend="superscript">а</hi></del></fw><note
       place="end">номер записан чернилами и вычеркнут карандашом</note>
-      <l><persName ref="Элиас">Еліаша</persName>, а напротивъ того</l>
-      <l>въ <placeName ref="Белоруссия">бѣлорусіи</placeName> есть многіе</l>
-      <l>изъ <orgName ref="Хасиды">хоседовъ</orgName>, которыя</l>
+      <l><persName role="namesViewer" target="/names/Элиас.html">Еліаша</persName>, а напротивъ того</l>
+      <l>въ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлорусіи</placeName> есть многіе</l>
+      <l>изъ <orgName role="namesViewer" target="/names/Хасиды.html">хоседовъ</orgName>, которыя</l>
       <l>вовсе его не наблюдая</l>
       <l>надѣваютъ шерстянное.</l>
     </p>
@@ -1936,7 +1964,8 @@
       суть</hi>; многія даже</l>
       <l>и изъ <hi rend="superscript">тѣхъ евреевъ</hi> которыхъ и называютъ</l>
       <l>хоседами <del rend="overstrike">– наподобіе тамо</del> такъ, какъ <del rend="overstrike">напримѣръ</del></l>
-      <l>и изъ бывшей <placeName ref="Польша">польши</placeName> и <del rend="overstrike">изъ</del> прочихъ</l>
+      <l>и изъ бывшей <placeName role="namesViewer" target="/names/Польша.html">польши</placeName> и <del
+      rend="overstrike">изъ</del> прочихъ</l>
       <l>земель <del rend="overstrike">и какъ слышно что и тѣ</del></l>
       <l><del rend="overstrike">евреи</del> Что же онъ пишетъ будьто</l>
       <l>употребляются <hi rend="superscript">на содержаніе оныхъ</hi> подушныя деньги, и все</l>
@@ -1950,7 +1979,7 @@
       <l>наша при насъ суть, кто намъ</l>
       <l>Господь есть?„<note place="end">на церковнославянском языке</note> мнѣ и болѣе не нужно</l>
       <l>на такія его льсти отвѣчать какъ что того</l>
-      <l>никогда не бывало въ <placeName ref="Белоруссия">бѣлорусіи</placeName>;</l>
+      <l>никогда не бывало въ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлорусіи</placeName>;</l>
       <l>а что <del rend="overstrike">же</del> касается прочихъ губерніи</l>
       <l>то <del rend="overstrike">пусть самъ <unclear>???</unclear></del> конечно тамошныя евреи</l>
       <l><del rend="overstrike">они могли</del> сами отъ себя могутъ дать объясненіе <del rend="overstrike"
@@ -1964,14 +1993,14 @@
     <p>
       <l>на 11<hi rend="superscript">и</hi></l>
       <l>О присягѣ доношу, что то несправедливо</l>
-      <l>а что <persName ref="Авигдор">Хаимович</persName> пишетъ,</l>
+      <l>а что <persName role="namesViewer" target="/names/Авигдор.html">Хаимович</persName> пишетъ,</l>
       <l>будьто онъ все то докажетъ</l>
-      <l>въ городѣ <placeName ref="Вильна">вилнѣ</placeName>, то сіе</l>
+      <l>въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName>, то сіе</l>
       <l>удивительно, какое <del rend="overstrike">можетъ</del></l>
       <l>можетъ быть отътоль <del rend="overstrike"><unclear>???</unclear></del></l>
       <l>доказателство? отъ города</l>
-      <l>гдѣ евреи <hi rend="superscript">враждующія тѣмъ евреямъ которыхъ называютъ <orgName ref="Хасиды">хоседами
-      </orgName></hi> учнили на насъ въ школахъ</l>
+      <l>гдѣ евреи <hi rend="superscript">враждующія тѣмъ евреямъ которыхъ называютъ <orgName role="namesViewer"
+      target="/names/Хасиды.html">хоседами</orgName></hi> учнили на насъ въ школахъ</l>
       <l>публикаціи и проклятія, такъ</l>
       <l>какъ о томъ небезизвѣстно</l>
       <l><del rend="overstrike">есть</del>; да и по уничтоженіи</l>
@@ -1983,9 +2012,9 @@
       <l><del rend="overstrike">Свѣтлости</del> <del rend="overstrike">Гну</del> бывшему</l>
       <l>Г<hi rend="superscript">ну</hi> генералу прокурору и кавалѣру</l>
       <l>князю <del rend="overstrike">петру васильевичу</del></l>
-      <l><persName ref="Лопухин">лопухину</persName>, прося чтобы</l>
+      <l><persName role="namesViewer" target="/names/Лопухин.html">лопухину</persName>, прося чтобы</l>
       <l><del rend="overstrike">уничтожить всѣхъ</del> истре</l>
-      <l>бить всѣхъ <orgName ref="Хасиды">хосидовъ</orgName> изъ</l>
+      <l>бить всѣхъ <orgName role="namesViewer" target="/names/Хасиды.html">хосидовъ</orgName> изъ</l>
       <l><hi rend="big">Государства Его имва<note place="end">аббревиатура – "Его Императорского Величества"</note></hi>
       </l>
       <l><note type="gloss">|: до возвысилась слава Его<lb/>
@@ -2006,10 +2035,11 @@
       <l><del rend="overstrike">къ нему</del> отъ Г<hi rend="superscript">на</hi> бывшаго</l>
       <l>Генералъ прокурора</l>
       <l>и кавалѣра <del rend="overstrike">александра</del></l>
-      <l><del rend="overstrike">андрѣевича</del> <persName ref="Беклешов">беклешева</persName> къ нему отношенія</l>
+      <l><del rend="overstrike">андрѣевича</del> <persName role="namesViewer" target="/names/Беклешов.html"
+      >беклешева</persName> къ нему отношенія</l>
       <l>что по всевысочайшему</l>
       <l>Соизволенію, нужно уничтожить называемую</l>
-      <l>ими <orgName ref="Хасиды">секту королинскую</orgName>,</l>
+      <l>ими <orgName role="namesViewer" target="/names/Хасиды.html">секту королинскую</orgName>,</l>
       <l>но <hi rend="big">всемилоствѣйше</hi></l>
       <l>предоставлена ей</l>
       <l>свобода: вотъ изъ сихъ</l>
@@ -2025,7 +2055,8 @@
       <l>что онъ <hi rend="superscript">тутъ и въ прежнемъ пунктѣ</hi> пишетъ есть не</l>
       <l><del rend="overstrike">сего никогда не бывало, не <unclear>наидетъ</unclear></del></l>
       <l>справедливо. Не найдетъ онъ на то</l>
-      <l>подтвержденіе какъ в <del rend="overstrike">городѣ <placeName ref="Вильна">вилнѣ</placeName></del></l>
+      <l>подтвержденіе какъ в <del rend="overstrike">городѣ <placeName role="namesViewer" target="/names/Вильна.html"
+      >вилнѣ</placeName></del></l>
       <l><del rend="overstrike">и для <unclear>???</unclear></del> только<hi rend="superscript">можетъ быть</hi> отъ
       виленскихъ</l>
       <l>евреевъ и имъ подобныхъ враговъ нашихъ</l>
@@ -2041,7 +2072,8 @@
       <l>Да и естли бы случилось въ</l>
       <l>самомъ дѣлѣ, что нѣкоторымъ</l>
       <l>называющимся</l>
-      <l><orgName ref="Хасиды">хосидемъ</orgName> не наблюдалъ <del rend="overstrike">бы</del></l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хосидемъ</orgName> не наблюдалъ <del rend="overstrike"
+      >бы</del></l>
       <l>почтенія къ отцу и матерѣ</l>
       <l>своимъ или сохрани Господи</l>
       <l>не сохранили присяги:</l>
@@ -2055,7 +2087,7 @@
       <l>на всѣхъ генерально, <del rend="overstrike">чтобы не</del></l>
       <l><del rend="overstrike">всѣхъ</del></l>
       <l><hi rend="superscript">и имѣть подозреніе на всѣхъ</hi> называемыхъ</l>
-      <l><orgName ref="Хасиды">хоседами</orgName>,</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседами</orgName>,</l>
       <l>будьто презирая ихъ сохрани Господи!</l>
       <l>Честию своихъ родителей</l>
       <l>а кольми паче присягою,</l>
@@ -2134,7 +2166,7 @@
     <pb xml:id="p318-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p318-2"/>
     <fw type="pageNum">318 об.</fw><note place="end">номерзаписан карандашом</note>
     <p>
-      <l><persName ref="Авигдор">хаимовичъ</persName> не стыдился</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName> не стыдился</l>
       <l>говорить, такую</l>
       <l>развратность. Секта</l>
       <l>сабсецвиническая говорила,</l>
@@ -2145,7 +2177,7 @@
       <l>дѣлать; а мы бѣрежемся</l>
       <l>отъ грѣховъ, и ревнуемъ</l>
       <l>о соблюденіи <del rend="overstrike">приказ</del> повеленій</l>
-      <l>Господніхъ болѣе его <persName ref="Авигдор">хаимовича</persName></l>
+      <l>Господніхъ болѣе его <persName role="namesViewer" target="/names/Авигдор.html">хаимовича</persName></l>
       <l>и ему подобныхъ, равно и простыхъ</l>
       <l>евреевъ. ...но лучше я не буду</l>
       <l>разхваливать самого себя</l>
@@ -2161,7 +2193,8 @@
       <l>на 15</l>
       <l>Когда проповедники съ<unclear>???</unclear> говорятъ свои</l>
       <l>проповеди въ большихъ городахъ напримѣръ какъ</l>
-      <l>въ <placeName ref="Вильна">вилнѣ</placeName>, въ <del rend="overstrike">городѣ</del> бродахъ</l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName>, въ <del rend="overstrike"
+      >городѣ</del> бродахъ</l>
       <l>и во львовѣ, тогда нахо-</l>
       <l>дилось тамо болѣе тысящи</l>
       <l>человѣкъ, и не было отъ</l>
@@ -2183,7 +2216,7 @@
       <l>время; по справедли</l>
       <l>вости <del rend="overstrike">было</del> случилось одинъ или</l>
       <l>два раза, что пріезжало</l>
-      <l>въ <placeName ref="Лиозно">ліозню</placeName> около тысящи</l>
+      <l>въ <placeName role="namesViewer" target="/names/Лиозно.html">ліозню</placeName> около тысящи</l>
       <l>человѣкъ на праздникъ</l>
       <l>еврейскіи называемый <emph rend="big">шевуотъ</emph>;</l>
       <l>почему какъ я пересталъ <del rend="overstrike">на тотъ</del></l>
@@ -2204,7 +2237,7 @@
       <fw type="pageNum">319 об.</fw><note place="end">номер записан карандашом</note>
       <l>нѣсколько сотъ человѣкъ, <hi rend="superscript">то уже весьма много</hi> а иногда</l>
       <l>по сто пятидѣсяти и ме</l>
-      <l>нѣе. – онъ <persName ref="Авигдор">хаимовичъ</persName> самъ</l>
+      <l>нѣе. – онъ <persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName> самъ</l>
       <l>того не видѣлъ и тотъ ко</l>
       <l>торой ему расказывалъ,</l>
       <l>не разчитывалъ, но только</l>
@@ -2220,7 +2253,7 @@
       <l>того во время собранія приезжа</l>
       <l>ющихъ къ слышанію пропо</l>
       <l>веди, не запрещено евреямъ и не <unclear>???</unclear></l>
-      <l><orgName ref="Хасиды">хоседскимъ</orgName> туда притти и слышать</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">хоседскимъ</orgName> туда притти и слышать</l>
       <l>проповедь. впрочемъ какой бы могла<note place="end">далее текст продолжается на правом поле</note> произойти
       вредъ отъ множества людѣй слушающихъ проповеди и нравоучительныя наставленіи, <del rend="overstrike">знать</del>
       понять не могу.</l>
@@ -2231,7 +2264,7 @@
       <l>не емъ и не пью какъ <del rend="overstrike">только</del>, сколько въ домѣ моемъ</l>
       <l>и не принимаю по дорогѣ</l>
       <l>подарковъ, да естли бъ принималъ,</l>
-      <l>то что ему <persName ref="Авигдор">хаимовичу</persName> завидно? онъ</l>
+      <l>то что ему <persName role="namesViewer" target="/names/Авигдор.html">хаимовичу</persName> завидно? онъ</l>
       <l>самъ тоже когда <del rend="overstrike">нанималъ</del></l>
       <pb xml:id="p320-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/289.html#p320-1"/>
       <fw type="pageNum" place="right">320</fw><note place="end">номер вписан карандашом</note>
@@ -2260,7 +2293,7 @@
       <l>Евреи жители города Луцка,</l>
       <l>суть также врагами нашими,</l>
       <l>которыя чинили великія</l>
-      <l>гонѣнія <orgName ref="Хасиды">хоседамъ</orgName> живущимъ</l>
+      <l>гонѣнія <orgName role="namesViewer" target="/names/Хасиды.html">хоседамъ</orgName> живущимъ</l>
       <l>въ <del rend="overstrike">городѣ</del> мѣстечке ляховцы, такъ какъ</l>
       <l>небезизвѣстно о чемъ изъ</l>
       <l>опредѣленія <del rend="overstrike">заключеннаго</del></l>
@@ -2288,7 +2321,7 @@
       продолжается вставкой на правом поле страницы</note></l>
       <fw type="note" place="right margin">
         <l>какъ только въ давныя</l>
-        <l>времена въ <placeName ref="Польша">польшѣ,</placeName></l>
+        <l>времена въ <placeName role="namesViewer" target="/names/Польша.html">польшѣ,</placeName></l>
         <l>гдѣ <del rend="overstrike">было</del> католи-</l>
         <l>ческія духовники бывало нападаютъ</l>
         <l>на евреевъ, напримѣръ, предна</l>
@@ -2303,9 +2336,10 @@
         <l>и много без-</l>
         <l>винной крови</l>
         <l>евреев тогда проли</l>
-        <l>валось въ <placeName ref="Польша">польшѣ</placeName></l>
+        <l>валось въ <placeName role="namesViewer" target="/names/Польша.html">польшѣ</placeName></l>
       </fw>
-      <l>Онъ <hi rend="superscript"><persName ref="Авигдор">хаимовичъ</persName></hi> хотя самъ того</l>
+      <l>Онъ <hi rend="superscript"><persName role="namesViewer" target="/names/Авигдор.html">хаимовичъ</persName></hi>
+      хотя самъ того</l>
       <l>не слыхалъ и не видалъ; но</l>
       <l>что ему воспрѣщаетъ? будучи</l>
       <l>свободнымъ распространяетъ</l>

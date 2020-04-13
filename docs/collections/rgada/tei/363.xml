@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -13,8 +14,9 @@
     <profileDesc>
       <abstract>
         <p>
-          Реестр писем и документов, изъятых у <persName ref="alter-rebbe">Алтер Ребе</persName> из дома и переданных
-          ему "до востребования" следствием на квартире в <placeName ref="Петербург">Санкт-Петербурге</placeName>
+          Реестр писем и документов, изъятых у <persName role="namesViewer" target="/names/alter-rebbe.html">Алтер
+          Ребе</persName> из дома и переданных ему "до востребования" следствием на квартире в <placeName
+          role="namesViewer" target="/names/Петербург.html">Санкт-Петербурге</placeName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/011.html">011</ref> в РГИА 413</p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/269.html">№ 19</ref> у Дубнова</p>
@@ -30,18 +32,19 @@
     <head><l>Регистръ <hi rend="superscript">писмамъ</hi> <del rend="overstrike">писмамъ и соде</del></l></head><note
     place="end">веротяно, по первоначальному замыслу составителя,"регистр письмам и содержанию их"</note>
     <p>
-      <l>№ 1. писмецо <persName ref="alter-rebbe">боруховича</persName> къ евреямъ: даввыду и абелю, о при</l>
+      <l>№ 1. писмецо <persName role="namesViewer" target="/names/alter-rebbe.html">боруховича</persName> къ евреямъ:
+      даввыду и абелю, о при</l>
       <l>сылкѣ <hi rend="superscript">на письмѣ</hi> содержанія ихъ исковаго спора, для делаемаго ими</l>
       <l><hi rend="superscript">примирительнаго</hi> прекращенія, поелику прежде ими посланное потерялосъ.</l>
     </p>
     <p>
-      <l>№ 2 писмецо къ одному еврею даввыду, <hi rend="superscript">отъ <persName ref="alter-rebbe">боруховича
-      </persName></hi> съ прозьбою дабы не</l>
+      <l>№ 2 писмецо къ одному еврею даввыду, <hi rend="superscript">отъ <persName role="namesViewer"
+      target="/names/alter-rebbe.html">боруховича</persName></hi> съ прозьбою дабы не</l>
       <l>оставилъ тамъ больного еврея менделя денежнымъ обѣтомъ.</l>
     </p>
     <p>
-      <l>№ 3<hi rend="superscript">е</hi>. письмо <persName ref="alter-rebbe">боруховича</persName> къ евреямъ лейбѣ и
-      бейнишу, чтобъ елику можно</l>
+      <l>№ 3<hi rend="superscript">е</hi>. письмо <persName role="namesViewer" target="/names/alter-rebbe.html"
+      >боруховича</persName> къ евреямъ лейбѣ и бейнишу, чтобъ елику можно</l>
       <l>старались прекратить исковой споръ <del rend="overstrike">свой</del> миромъ <hi rend="superscript">между
       евреями нохимомъ и гершкою</hi>; а по крайней</l>
       <l>необходимости естли желаютъ развѣдатся третйскимъ</l>
@@ -58,7 +61,8 @@
       <l>его примиренія.</l>
     </p>
     <p>
-      <l>№ 7.Запросъ <persName ref="alter-rebbe">боруховичу</persName> присланный о дѣле касающемся</l>
+      <l>№ 7.Запросъ <persName role="namesViewer" target="/names/alter-rebbe.html">боруховичу</persName> присланный о
+      дѣле касающемся</l>
       <l>еврейскаго закона, со испрошеніемъ разрѣшенія.</l>
     </p>
     <p><l>№ 8<hi rend="superscript">и</hi> Регистръ о доправленныхъ долгахъ</l></p>
@@ -74,7 +78,8 @@
       <l>нутаго въ письмѣ под№ 3<hi rend="superscript">м</hi></l>
     </p>
     <p>
-      <l>№ 12. Запросъ <persName ref="alter-rebbe">бороховичу</persName> отъ брата своего</l>
+      <l>№ 12. Запросъ <persName role="namesViewer" target="/names/alter-rebbe.html">бороховичу</persName> отъ брата
+      своего</l>
       <l>касательно еврейскаго обряда</l>
     </p>
     <pb xml:id="p363-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/363.html#p363-2"/>
@@ -87,23 +92,27 @@
     <p>
       <l>№ 14. Молитва по еврейскіи сочиненная о благо</l>
       <l>денствіи <emph rend="big">всемилостивѣйшаго Государя</emph></l>
-      <l><emph rend="big">императора <persName ref="Павел_I">павла петровича</persName></emph></l>
+      <l><emph rend="big">императора <persName role="namesViewer" target="/names/Павел_I.html">павла
+      петровича</persName></emph></l>
       <l><emph rend="big">съ фамиліею</emph></l>
     </p>
     <p>
       <l>по сему рестѣр они писми <unclear>подъ №</unclear><note place="end">ч</note> 14<note place="end">по смыслу -
       "числом 14"</note>евре</l>
-      <l><persName ref="alter-rebbe">брухович</persName> принялъ и стем что если они испро</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">брухович</persName> принялъ и стем что если они
+      испро</l>
       <l>шини будут то приставит<note place="end">представить</note> должин –</l>
       <l>писол виленем<note place="end">возможно, "вильнер", житель или уроженец Вильны</note> <unclear>
-      яко</unclear><note place="end">возможно, роспись поручителя, составившего расписку за <persName ref="alter-rebbe">
-      Шнеура Залмана</persName>, или слово "Яко", как и в предыдущем документе</note> шевил юдович</l>
+      яко</unclear><note place="end">возможно, роспись поручителя, составившего расписку за <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Шнеура Залмана</persName>, или слово "Яко", как и в предыдущем документе</note>
+      шевил юдович</l>
       <l><signed>???</signed><note place="end">подпись Шнеура Залмана, иврит</note></l>
     </p>
     <p>
       <l>Подписка сія въ разсужденіи приказныхъ бумагъ</l>
       <l>и векселей не относится, а можетъ еврей</l>
-      <l><persName ref="alter-rebbe">боруховичъ</persName> употреблять ихъ по надобности</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">боруховичъ</persName> употреблять ихъ по
+      надобности</l>
       <l>своей и произволенію, но книги и другія до</l>
       <l>еврейскаго закона касающіеся сочиненіи до</l>
       <l>возтрѣбованія оныхъ хранить обязывается.</l>

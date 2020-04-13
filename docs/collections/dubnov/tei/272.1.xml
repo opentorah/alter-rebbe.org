@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Авигдор">Авигдор</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -19,8 +20,8 @@
       </p></abstract>
       <creation><date when="1800-12">декабрь 1800, не позднее 28го</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -28,24 +29,26 @@
     <head>
       <pb xml:id="p272" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/272.1.html#p272"/>
       Приложение к документу № <ref role="documentViewer" target="/collections/dubnov/documents/271.html">20</ref>.
-      (Среди дѣлъ <placeName ref="Рига">Рижской</placeName> цензуры найденъ следующій переводъ выписокъ изъ книги
-      <persName ref="alter-rebbe">Залмана</persName><note type="gloss" place="end">Этотъ отрывокъ, стоящій особнякомъ въ
-      сенатскомъ „Дѣлѣ", присоединенъ мною къ предшествующему прошенію <persName ref="Авигдор">Авигдора</persName>, въ
+      (Среди дѣлъ <placeName role="namesViewer" target="/names/Рига.html">Рижской</placeName> цензуры найденъ следующій
+      переводъ выписокъ изъ книги <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName><note
+      type="gloss" place="end">Этотъ отрывокъ, стоящій особнякомъ въ сенатскомъ „Дѣлѣ", присоединенъ мною къ
+      предшествующему прошенію <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>, въ
       предположеніи, что это и есть та „выписка", о которой въ прошеніи говорится. Она содержитъ цитаты изъ книги
-      „Tanio" <persName ref="alter-rebbe">Залмана</persName>, изданной въ 1796 г. Возбуждаетъ однако сомнѣніе то, что
-      эти же цитаты (о томъ, что христіане имѣютъ второстепенную душу, состоящую „изъ всякихъ худыхъ качествъ" и т.п.)
-      служили, по преданію, уликами противъ <persName ref="alter-rebbe">Залмана</persName> и при допросѣ 1798 г. и тоже
-      прошли черезъ рижскую цензуру (см. „Религіозная борьба" Восх. 1893, кн. І, стр. 46–481).</note>:
+      „Tanio" <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>, изданной въ 1796 г.
+      Возбуждаетъ однако сомнѣніе то, что эти же цитаты (о томъ, что христіане имѣютъ второстепенную душу, состоящую
+      „изъ всякихъ худыхъ качествъ" и т.п.) служили, по преданію, уликами противъ <persName role="namesViewer"
+      target="/names/alter-rebbe.html">Залмана</persName> и при допросѣ 1798 г. и тоже прошли черезъ рижскую цензуру
+      (см. „Религіозная борьба" Восх. 1893, кн. І, стр. 46–481).</note>:
     </head>
     <p>
-      „Выписка изъ книги сочиненной евреемъ <persName ref="alter-rebbe">Соломономъ Боруховичемъ</persName> въ <placeName
-      ref="Лиозно">Лохнѣ</placeName> (?) и изданной отъ него въ печать. Въ концѣ I главы изображено слѣдующее: „Что
-      касается до тѣла еврея, то въ ономъ заключается нѣкоторымъ образомъ двѣ души. Первая производитъ свое начало отъ
-      всякаго блага, такъ что она имѣетъ подобіе съ ангеломъ, а вторая составлена изъ всякихъ худыхъ качествъ. Сіе
-      происходитъ отъ древа райскаго, посредствомъ котораго можно было различить добро отъ зла. Относительно же народовъ
-      христіанскихъ, то тѣло ихъ составлено единственно изъ всякихъ нечистыхъ и злыхъ существъ, не вмѣщающихъ въ себѣ ни
-      малѣйшаго добраго качества. И все, что они добраго ни позорятъ (?), дѣлаютъ они единственно для себя самихъ или
-      изъ тщеславія".
+      „Выписка изъ книги сочиненной евреемъ <persName role="namesViewer" target="/names/alter-rebbe.html">Соломономъ
+      Боруховичемъ</persName> въ <placeName role="namesViewer" target="/names/Лиозно.html">Лохнѣ</placeName> (?) и
+      изданной отъ него въ печать. Въ концѣ I главы изображено слѣдующее: „Что касается до тѣла еврея, то въ ономъ
+      заключается нѣкоторымъ образомъ двѣ души. Первая производитъ свое начало отъ всякаго блага, такъ что она имѣетъ
+      подобіе съ ангеломъ, а вторая составлена изъ всякихъ худыхъ качествъ. Сіе происходитъ отъ древа райскаго,
+      посредствомъ котораго можно было различить добро отъ зла. Относительно же народовъ христіанскихъ, то тѣло ихъ
+      составлено единственно изъ всякихъ нечистыхъ и злыхъ существъ, не вмѣщающихъ въ себѣ ни малѣйшаго добраго
+      качества. И все, что они добраго ни позорятъ (?), дѣлаютъ они единственно для себя самихъ или изъ тщеславія".
     </p>
     <p>
       Въ 6-й главѣ между прочимъ прописываетъ онъ слѣдующее: „Есть двоякаго рода злыхъ духовъ, которые раздѣляются въ

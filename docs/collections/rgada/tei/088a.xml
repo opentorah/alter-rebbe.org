@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Титульный лист: Следствие, произведенное в <placeName ref="Вильна">Вильне</placeName> по случаю заведения
-        евреями <orgName ref="Хасиды">Каролинской секты</orgName>
+        Титульный лист: Следствие, произведенное в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильне</placeName> по случаю заведения евреями <orgName role="namesViewer" target="/names/Хасиды.html"
+        >Каролинской секты</orgName>
       </p></abstract>
       <creation><date when="1798-10-25">25 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -28,11 +30,11 @@
     <pb xml:id="p088a-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/088a.html#p088a-1"/>
     <fw type="pageNum">88а</fw>
     <l>Слѣдствiе произведенное</l>
-    <l>въ <placeName ref="Вильна">Вильнѣ</placeName> по случаю</l>
-    <l>заведенія евреями <orgName ref="Хасиды">каро-<lb/>
+    <l>въ <placeName role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName> по случаю</l>
+    <l>заведенія евреями <orgName role="namesViewer" target="/names/Хасиды.html">каро-<lb/>
      линской секты</orgName>. При</l>
     <l>сланное при писмѣ губер-</l>
-    <l>натора <persName ref="Булгаков">Булгакова</persName> отъ</l>
+    <l>натора <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> отъ</l>
     <l><date when="1798-10-25">25 октября 1798<hi rend="superscript">го</hi></date></l>
     <pb xml:id="p088a-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/088a.html#p088a-2"/>
   </body></text>

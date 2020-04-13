@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/ALD.html">Арье-Лейб Дубинский</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +18,13 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение Булгакова Лопухину об отправке выполненного перевода показаний <persName ref="alter-rebbe">Шнеура
-        Залмана</persName> с иврита на французский язык
+        Сообщение Булгакова Лопухину об отправке выполненного перевода показаний <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName> с иврита на французский язык
       </p></abstract>
       <creation><date when="1798-11-01">1 Ноября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -32,11 +34,14 @@
     <date when="1798-11-13">13<hi rend="superscript">го</hi> Ноября 1798<hi rend="superscript">го</hi>.</date>
     <fw type="note" place="right"><emph rend="underline">секретно</emph></fw>
     <fw type="pageNum" place="right">58.</fw>
-    <salute>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</salute>
+    <salute>
+      Милостивой Государь <persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!
+    </salute>
     <p>
       <l>Присланное при всепочтеннѣйшимъ отношеніи отъ</l>
-      <l><date when="1798-10-18">18 Октября</date> показаніе <placeName ref="Лиозно">Лозенского</placeName> рабина
-      <persName ref="alter-rebbe">Боруховича</persName> пе</l>
+      <l><date when="1798-10-18">18 Октября</date> показаніе <placeName role="namesViewer" target="/names/Лиозно.html"
+      >Лозенского</placeName> рабина <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName>
+      пе</l>
       <l>реведено на французской языкъ. Съ нуждою я въ томъ</l>
       <l>предуспеть могъ, тѣмъ паче, что писано оно не на про-</l>
       <l>стомъ нынѣ жидами употребляемомъ, но на ученомъ</l>
@@ -52,13 +57,14 @@
       <l>Милостивой Государь!</l>
       <l>вашего высокопревосходительства</l>
       <l>всепокорнейшій слуга</l>
-      <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Булгаков.html">Яковъ Булгаковъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 200</fw></l>
       <l><date when="1798-11-01">1 Ноября 1798</date></l>
-      <l><placeName ref="Вильна">вилна</placeName></l>
-      <l>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName></l>
+      <l>Его высокопревосходительству Г. Генералу Прокурору <persName role="namesViewer" target="/names/Лопухин.html"
+      >Лопухину</persName></l>
     </closer>
     <pb xml:id="p058-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/058.html#p058-2"/>
   </body></text>

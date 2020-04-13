@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Жегулин">Жегулин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Жегулин.html">Жегулин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          Ордер <persName ref="Жегулин">Жегулина</persName> <persName ref="Добрынин">Добрынину</persName> об
-          освобождении <persName ref="alter-rebbe">Залмана</persName>
+          Ордер <persName role="namesViewer" target="/names/Жегулин.html">Жегулина</persName> <persName
+          role="namesViewer" target="/names/Добрынин.html">Добрынину</persName> об освобождении <persName
+          role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>
         </p>
         <p>
           <ref role="documentViewer" target="/collections/dubnov/documents/273.html">Приложение А к документу № 21</ref>
@@ -26,8 +28,8 @@
       </abstract>
       <creation><date when="1798-12-15">Декабря 15 дня 1798 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Добрынин" role="addressee">Добрынину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Добрынин.html">Добрынину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -39,8 +41,8 @@
     <p>
       <l><date when="1800-07-01">1800<hi rend="superscript">го</hi> года июля 1<hi rend="superscript">го</hi> дня</date>
       по подан-</l>
-      <l>ному прошенію на имя <placeName ref="Витебск">витебскаго</placeName> зем-</l>
-      <l>скаго комиссара отъ <placeName ref="Витебск">витебскаго</placeName> купца</l>
+      <l>ному прошенію на имя <placeName role="namesViewer" target="/names/Витебск.html">витебскаго</placeName> зем-</l>
+      <l>скаго комиссара отъ <placeName role="namesViewer" target="/names/Витебск.html">витебскаго</placeName> купца</l>
       <l>Бениша Янкелевича нижеслѣдующей ор-</l>
       <l>деръ выданъ за скрѣпою.</l>
     </p>
@@ -48,24 +50,30 @@
     <l><fw type="note ">полученъ<date when="1798-12-18">декабря 18<hi rend="superscript">го</hi> дня 798 года</date>.
     </fw></l>
     <p>
-      <l>Ордеръ <placeName ref="Витебск">витебскому</placeName> земскому камисару госпо-</l>
-      <l>дину коллежскому ассессору <persName ref="Добрынин">добрынину</persName> по высочай-</l>
+      <l>Ордеръ <placeName role="namesViewer" target="/names/Витебск.html">витебскому</placeName> земскому камисару
+      госпо-</l>
+      <l>дину коллежскому ассессору <persName role="namesViewer" target="/names/Добрынин.html">добрынину</persName> по
+      высочай-</l>
       <l>шему его ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА повеле-</l>
       <l>нію объявленному мнѣ въ отношеніи его высоко-</l>
       <l>превосходительства господина дѣйствительнаго</l>
       <l>тайного совѣтника генералъ прокурора и кавалера</l>
-      <l><persName ref="Лопухин">петра васильевича Лопухина</persName> взятой предъ симъ</l>
-      <l>изъ мѣстечка <placeName ref="Лиозно">Ліозни</placeName> проживающій тамъ рав-</l>
-      <l>винъ <persName ref="alter-rebbe">залманъ Боруховичъ</persName> по разсмотреніи обс-</l>
-      <l>тоятельствъ учиненъ свободнымъ и <orgName ref="Хасиды">секта евре-<lb/>
+      <l><persName role="namesViewer" target="/names/Лопухин.html">петра васильевича Лопухина</persName> взятой предъ
+      симъ</l>
+      <l>изъ мѣстечка <placeName role="namesViewer" target="/names/Лиозно.html">Ліозни</placeName> проживающій тамъ
+      рав-</l>
+      <l>винъ <persName role="namesViewer" target="/names/alter-rebbe.html">залманъ Боруховичъ</persName> по
+      разсмотреніи обс-</l>
+      <l>тоятельствъ учиненъ свободнымъ и <orgName role="namesViewer" target="/names/Хасиды.html">секта евре-<lb/>
        евъ каролины именуемая</orgName> остается при преж-</l>
       <l>немъ ея существованіи, для того предписываю</l>
       <l>вашему высокоблагородію отысканіе средь пуб-</l>
-      <l>лики проживающаго въ <placeName ref="Островна">Островнѣ</placeName> еврея Орли<unclear>ка</unclear></l>
+      <l>лики проживающаго въ <placeName role="namesViewer" target="/names/Островна.html">Островнѣ</placeName> еврея
+      Орли<unclear>ка</unclear></l>
       <l>мовшовича уничтожить, и въ высылку его ко</l>
       <l>мнѣ уже не требовать. на подлинномъ под-</l>
-      <l>писано тако: <persName ref="Жегулин">Семенъ Жегулинъ</persName>. <date when="1798-12-15">декабря 15<hi
-      rend="superscript">го</hi></date></l>
+      <l>писано тако: <persName role="namesViewer" target="/names/Жегулин.html">Семенъ Жегулинъ</persName>. <date
+      when="1798-12-15">декабря 15<hi rend="superscript">го</hi></date></l>
       <l>дня 1798<hi rend="superscript">го</hi> года съ подлиннымъ свѣрилъ</l>
       <l>земский камисаръ <unclear>Бюссовъ</unclear>. Съ подлиннымъ</l>
       <l>читалъ губернскій регистраторъ мацишевъ.</l>

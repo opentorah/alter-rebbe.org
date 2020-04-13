@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Тарбеев">Тарбеев</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Тарбеев.html">Тарбеев</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 23. Извещение <persName ref="Тарбеев">Тарбеева</persName>, что <persName ref="alter-rebbe">Залман</persName>
-          по выс. повелению освобожден и отпущен из <placeName ref="Петербург">Петербурга</placeName>
+          № 23. Извещение <persName role="namesViewer" target="/names/Тарбеев.html">Тарбеева</persName>, что <persName
+          role="namesViewer" target="/names/alter-rebbe.html">Залман</persName> по выс. повелению освобожден и отпущен
+          из <placeName role="namesViewer" target="/names/Петербург.html">Петербурга</placeName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/031.html">031</ref> в РГИА 413</p>
       </abstract>
@@ -29,29 +31,35 @@
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p275" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/275.1.html#p275"/> №
-      23. Извѣщеніе, что <persName ref="alter-rebbe">Залманъ</persName> по выс. повелѣнію освобожденъ и отпущенъ изъ
-      <placeName ref="Петербург">Петербурга</placeName> (<date when="1801-03-29">29 марта 1801</date> г.<note
-      place="end">Дата в названии документа Дубновым указана ошибочно, как и в конце расшифрованного документа. Верно он
-      указал ее в описи документов: 13 июня 1801 г., как это было обозначено в оригинале. - alter-rebbe.org</note>).
-      Открытое свидѣтельство.
+      23. Извѣщеніе, что <persName role="namesViewer" target="/names/alter-rebbe.html">Залманъ</persName> по выс.
+      повелѣнію освобожденъ и отпущенъ изъ <placeName role="namesViewer" target="/names/Петербург.html"
+      >Петербурга</placeName> (<date when="1801-03-29">29 марта 1801</date> г.<note place="end">Дата в названии
+      документа Дубновым указана ошибочно, как и в конце расшифрованного документа. Верно он указал ее в описи
+      документов: 13 июня 1801 г., как это было обозначено в оригинале. - alter-rebbe.org</note>). Открытое
+      свидѣтельство.
     </head>
     <p>
-      Его Высокопревосходительство Господинъ Генералъ-Прокуроръ <persName ref="Беклешов">А. А. Беклешовъ</persName> въ
-      отношеніи ко мнѣ отъ <date when="1801-03-29">29 марта сего года</date> изъясняя, что еврей <persName
-      ref="alter-rebbe">Залманъ Боруховичъ</persName>, бывшій въ <placeName ref="Петербург">С.-Петербургѣ</placeName> по
-      нѣкоторымъ надобностямъ, нынѣ по Высочайшему Государя Императора повелѣнію освобожденъ и отпущенъ въ домъ его, о
-      чемъ, а равно о доставленіи полной ему по прежнему его жительству и обращенію свободы и о исполненіи сего,
-      изволить сообщить мнѣ, — почему исполняя я вышеписанное снабдилъ Господина Рабина <persName ref="alter-rebbe">
-      Боруховича</persName> симъ открытымъ свидѣтельствомъ, чтобы онъ по жительству его въ <placeName ref="Белоруссия">
+      Его Высокопревосходительство Господинъ Генералъ-Прокуроръ <persName role="namesViewer"
+      target="/names/Беклешов.html">А. А. Беклешовъ</persName> въ отношеніи ко мнѣ отъ <date when="1801-03-29">29 марта
+      сего года</date> изъясняя, что еврей <persName role="namesViewer" target="/names/alter-rebbe.html">Залманъ
+      Боруховичъ</persName>, бывшій въ <placeName role="namesViewer" target="/names/Петербург.html"
+      >С.-Петербургѣ</placeName> по нѣкоторымъ надобностямъ, нынѣ по Высочайшему Государя Императора повелѣнію
+      освобожденъ и отпущенъ въ домъ его, о чемъ, а равно о доставленіи полной ему по прежнему его жительству и
+      обращенію свободы и о исполненіи сего, изволить сообщить мнѣ, — почему исполняя я вышеписанное снабдилъ Господина
+      Рабина <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> симъ открытымъ
+      свидѣтельствомъ, чтобы онъ по жительству его въ <placeName role="namesViewer" target="/names/Белоруссия.html">
       Бѣлорусской губерніи</placeName> пользовался повсеместно въ оной по прежнему (въ) его жительствѣ и разномъ
       обращеніи полною свободою безъ малѣйшаго отъ кого либо препятствія.
     </p>
-    <p><placeName ref="Витебск">Витебскъ</placeName>, <date when="1801-07-13">Іюля 13 дня, 1801 года</date>.</p>
     <p>
-      У подлиннаго подписалъ <persName ref="Тарбеев">Петръ Тарабеевъ</persName><note place="end">Здесь - ошибочное
-      написание фамилии Дубновым либо опечатка. В оригинале - Тарбеевъ. Правильное написание фамилии приводится,
-      например, на сайте <ref target="http://niab.by/stat/vit_gub">"Национальный исторический архив Беларуси"</ref> -
-      alter-rebbe.org</note>.
+      <placeName role="namesViewer" target="/names/Витебск.html">Витебскъ</placeName>, <date when="1801-07-13">Іюля 13
+      дня, 1801 года</date>.
+    </p>
+    <p>
+      У подлиннаго подписалъ <persName role="namesViewer" target="/names/Тарбеев.html">Петръ Тарабеевъ</persName><note
+      place="end">Здесь - ошибочное написание фамилии Дубновым либо опечатка. В оригинале - Тарбеевъ. Правильное
+      написание фамилии приводится, например, на сайте <ref target="http://niab.by/stat/vit_gub">"Национальный
+      исторический архив Беларуси"</ref> - alter-rebbe.org</note>.
     </p>
   </body></text>
 </TEI>

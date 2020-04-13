@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Авигдор">Авигдор</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,16 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Прошение <persName ref="Авигдор">р. Авигдора Хаимовича</persName> на Высочайшее имя</p>
+        <p>
+          Прошение <persName role="namesViewer" target="/names/Авигдор.html">р. Авигдора Хаимовича</persName> на
+          Высочайшее имя
+        </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/090.2.html">№ 2</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -43,7 +47,8 @@
       <l>чества многими моими сочинѣніями, я покрылъ</l>
       <l>ихъ <del rend="overstrike">ихъ</del> божіимъ ученіемъ, дабы они не столько про-</l>
       <l>извели трудовъ: Кромѣ того великія притѣсне-</l>
-      <l>нія, которыя претѣрпевая я въ <placeName ref="Пинск">Пинскѣ</placeName> новоявив-</l>
+      <l>нія, которыя претѣрпевая я въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName>
+      новоявив-</l>
       <l>шеюся сектою, такъ какъ послѣдующее въ моемъ</l>
       <l>писаніи изображаетъ преподаѣтъ мнѣ надежду</l>
       <l>ожидать <del rend="overstrike">всещрео</del> всещедрую милость отъ вашего</l>
@@ -63,10 +68,11 @@
       <l>всепресвѣтлѣйшій".</l>
       <l>Великомощный Госсударь</l>
       <l>(подлинная подпись еврейская)</l>
-      <l>всеподданнѣйшій рабъ <persName ref="Авигдор">Абигдоръ<lb/>Хаимъ</persName> бывшій оберъ рабинъ въ <placeName
-      ref="Пинск">Пинскѣ</placeName>.</l>
+      <l>всеподданнѣйшій рабъ <persName role="namesViewer" target="/names/Авигдор.html">Абигдоръ<lb/>Хаимъ</persName>
+      бывшій оберъ рабинъ въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName>.</l>
       <l>Переводчикъ съ еврейскаго всеподданный</l>
-      <l>рабъ здѣшній мещанинъ <persName ref="Бернгард">Петръ Бернгардъ</persName>.</l>
+      <l>рабъ здѣшній мещанинъ <persName role="namesViewer" target="/names/Бернгард.html">Петръ
+      Бернгардъ</persName>.</l>
     </p>
     <pb xml:id="p003-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/002.html#p003-1"/>
     <fw type="pageNum" place="right">3</fw>
@@ -199,7 +205,7 @@
       <l>тысяща крат щастливѣе можемъ мы по-</l>
       <l>честь себя, что всемогущій ощастливилъ насъ</l>
       <l>и для царствованія намъ поставилъ „нашего</l>
-      <l>Государя великомощнаго императора <persName ref="Павел_I">Павла пер-<lb/>
+      <l>Государя великомощнаго императора <persName role="namesViewer" target="/names/Павел_I.html">Павла пер-<lb/>
        ваго</persName>„ который можетъ себя также назвать первымъ</l>
       <l>и премудрѣйшимъмъ, надо всѣми на земли царствую-</l>
       <l>щими императорами и королями; чрезъ великое Его</l>
@@ -288,7 +294,8 @@
       <l>ками своими многія непозволенныя вольности.</l>
       <l>И какъ въ то время изъ нашей на-</l>
       <l>ціи старшія яко судьи опредѣлены были,</l>
-      <l>такъ какъ въ <placeName ref="Польша">польше</placeName> съ древнихъ временъ</l>
+      <l>такъ какъ въ <placeName role="namesViewer" target="/names/Польша.html">польше</placeName> съ древнихъ
+      временъ</l>
       <l>Королевскимъ повелѣніемъ учреждено было: то</l>
       <l>посадили они возмутителей въ тюрьму;</l>
       <l>и когда послѣ того представили сіи дѣла</l>
@@ -298,12 +305,14 @@
       <l>скую религію, но имеютъ и по сію пору</l>
       <l><emph rend="underline">имя „Шабзусъ Цвинкусъ„. Оной сѣкты<lb/>
        остались однако <del rend="overstrike">въ</del> тогда еще три особы,<lb/>
-       какъ то <persName ref="Баал_Шем_Тов">Израиль</persName> изъ <placeName ref="Меджибож">Мезбича</placeName> и
-      <persName ref="maggid">Берелъ</persName><lb/>
-       изъ <placeName ref="Мезеричи">Мезрича</placeName>, которыя были сочинителями<lb/>
+       какъ то <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Израиль</persName> изъ <placeName
+      role="namesViewer" target="/names/Меджибож.html">Мезбича</placeName> и <persName role="namesViewer"
+      target="/names/maggid.html">Берелъ</persName><lb/>
+       изъ <placeName role="namesViewer" target="/names/Мезеричи.html">Мезрича</placeName>, которыя были сочинителями<lb
+      />
        малой книги, съ коей я малую копію у сего<lb/>
-       прилагаю, и <persName ref="рав_Яаков_Йосеф">Яаковъ изъ Полено</persName><note place="end">из Полонного</note>,
-      который при<lb/>
+       прилагаю, и <persName role="namesViewer" target="/names/рав_Яаков_Йосеф.html">Яаковъ изъ Полено</persName><note
+      place="end">из Полонного</note>, который при<lb/>
        аррестованіи другихъ <del rend="overstrike">находился</del> содержалъ себя въ скрыт-<lb/>
        ности. и какъ они</emph> послѣ того явились,</l>
       <l>назвались они людьми, которые <del rend="overstrike">в</del> могутъ</l>
@@ -313,7 +322,8 @@
     <p>
       <l>А какъ напослѣдокъ блаженныя памяти</l>
       <l>Его величество Король Поніятовской въ пра-</l>
-      <l>вленіе въ <placeName ref="Польша">Польше</placeName> вступилъ, довела сія секта</l>
+      <l>вленіе въ <placeName role="namesViewer" target="/names/Польша.html">Польше</placeName> вступилъ, довела сія
+      секта</l>
       <l>чрезъ другихъ столь далеко, что у Іудеевъ</l>
       <l><pb xml:id="p006-2" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/002.html#p006-2"
       /> отнято ихъ право имѣть старшинъ и судей</l>
@@ -574,7 +584,7 @@
         <cell>
           <p>
             <l>съ книги, подъ названіемъ</l>
-            <l>Повелѣнія <persName ref="Баал_Шем_Тов">Израиля изъ<lb/>
+            <l>Повелѣнія <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Израиля изъ<lb/>
              Мезрича</persName>.</l>
           </p>
           <p>
@@ -1339,7 +1349,8 @@
       <l>Величества.</l>
     </p>
     <p>
-      <l>Когда я избранъ оберъ раббиномъ въ <placeName ref="Пинск">пинскѣ</placeName></l>
+      <l>Когда я избранъ оберъ раббиномъ въ <placeName role="namesViewer" target="/names/Пинск.html">пинскѣ</placeName>
+      </l>
       <l><pb xml:id="p018-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/002.html#p018-1"
       /> <fw type="pageNum" place="right">18</fw> и въ тридцати ко оному принадлежащихъ городахъ,</l>
       <l>долженъ я <del rend="overstrike">былъ</del> признаться, что я съ явившеюся</l>
@@ -1362,8 +1373,9 @@
       <l>столько власти, дабы сожечь ихъ книги пу-</l>
       <l>блично. Но я былъ <del rend="overstrike">б</del> принужденъ увѣдомить</l>
       <l>о семъ приключеніи покойнаго высокоученаго</l>
-      <l><emph rend="underline"><persName ref="Элиас">Эліаса</persName> въ <placeName ref="Вильна">вильнѣ</placeName>
-      <placeName ref="Вильна">Вильне</placeName> покелику онъ былъ разум-<lb/>
+      <l><emph rend="underline"><persName role="namesViewer" target="/names/Элиас.html">Эліаса</persName> въ <placeName
+      role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> <placeName role="namesViewer"
+      target="/names/Вильна.html">Вильне</placeName> покелику онъ былъ разум-<lb/>
        нѣйшій и ученѣйшій изо всѣхъ нашихъ уче-<lb/>
        ныхъ, какъ въ священномъ писаніи такъ и<lb/>
        въ тайномъ писаніи.</emph> Я объявилъ ему содержа-</l>
@@ -1379,7 +1391,8 @@
       <l>ихъ помѣщено, отводить добродѣтельнаго <del rend="overstrike">изъ</del> съ пути</l>
       <l>истиннаго, то по законамъ нашимъ надлежало оныя</l>
       <l>книги публично сжечь. - Сіе и исполнили они въ виль-</l>
-      <l>нѣ <placeName ref="Вильна">Вильне</placeName> и велѣли книги публично передъ домомъ</l>
+      <l>нѣ <placeName role="namesViewer" target="/names/Вильна.html">Вильне</placeName> и велѣли книги публично передъ
+      домомъ</l>
       <l>молитвы сжечь. Когда секта сіе узнала и примѣтила</l>
       <l>что я весьма противу ихъ мыслей, возстали они всѣ</l>
       <l>однимъ союзомъ противу меня, разстроили мои</l>
@@ -1387,13 +1400,15 @@
       <l>не отдавали мнѣ приналежащее мнѣ. И кто бы та-</l>
       <l>кой, не учинилъ къ таковому совѣту вниманія? От-</l>
       <l>того обнищалъ я наикрайнѣйше даже въ трехъ</l>
-      <l>городахъ, а именно въ <placeName ref="Злобин">Злобинѣ</placeName>, <placeName ref="Столин">Столинѣ</placeName>
-      и <placeName ref="Добрович">Добро-<lb/>
+      <l>городахъ, а именно въ <placeName role="namesViewer" target="/names/Злобин.html">Злобинѣ</placeName>, <placeName
+      role="namesViewer" target="/names/Столин.html">Столинѣ</placeName> и <placeName role="namesViewer"
+      target="/names/Добрович.html">Добро-<lb/>
        вичѣ</placeName>, которыя были подъ моимъ надзоромъ, но</l>
       <l>коихъ были старшины оной секты, исходатайство-</l>
       <l>вали они отъ Господъ оныхъ Городовъ – свободу, что</l>
       <l>мнѣ запрещено многажды приѣзжать туда. По-</l>
-      <l>слѣ того умножились они въ <placeName ref="Пинск">Пинскѣ</placeName> весьма,</l>
+      <l>слѣ того умножились они въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName>
+      весьма,</l>
       <l>и прежде еще, нежели время мое прошло къ смѣ-</l>
       <l>не мѣста оберъ раббина, отняли они у ме-</l>
       <l>ня оное насильно, и съ величайшимъ мнѣ здѣлан-</l>
@@ -1437,12 +1452,14 @@
       <l>ихъ угодности людей такихъ, которые ни малѣй-</l>
       <l>шаго опыта въ томъ не имѣютъ. и избрали</l>
       <l><pb xml:id="p019-2" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/002.html#p019-2"
-      /> въ старшины <persName ref="Гершель_Колоднер">Гершеля Колоднера</persName> – единственно</l>
+      /> въ старшины <persName role="namesViewer" target="/names/Гершель_Колоднер.html">Гершеля Колоднера</persName> –
+      единственно</l>
       <l>для того, что онъ со всею его фамиліею есть той же</l>
-      <l>секты. Онъ же поехалъ <del rend="overstrike">и</del> въ <placeName ref="Минск">Минскъ</placeName> къ
-      Губернатору</l>
-      <l><persName ref="Неплюев">Неплюеву</persName><note place="end">И.Н. Неплюев - минский наместник в 1793—1796,
-      должность губернатора введена в 1796 г.)</note> и досталъ отъ него, чрезъ ложныя доносы</l>
+      <l>секты. Онъ же поехалъ <del rend="overstrike">и</del> въ <placeName role="namesViewer"
+      target="/names/Минск.html">Минскъ</placeName> къ Губернатору</l>
+      <l><persName role="namesViewer" target="/names/Неплюев.html">Неплюеву</persName><note place="end">И.Н. Неплюев -
+      минский наместник в 1793—1796, должность губернатора введена в 1796 г.)</note> и досталъ отъ него, чрезъ ложныя
+      доносы</l>
       <l>учиненныя имъ на меня повелѣніе, чтобы всѣ мои <del rend="overstrike">остав</del></l>
       <l><del rend="overstrike">шіяся</del> <hi rend="superscript">недонятые</hi>деньги <del rend="overstrike">зе</del>
       за 6 летъ, которыя надлежало мнѣ</l>
@@ -1479,12 +1496,13 @@
       <l>мною ссору; <hi rend="underline">оное простирается до 10,000 червонныхъ<lb/>
        со всехъ городовъ подъ надзоромъ моимъ бывшихъ<lb/>
        что я могу доказать моею совѣстію.</hi> Хотя же</l>
-      <l>я послѣ былъ болѣе десяти разъ въ <placeName ref="Минск">Минскѣ</placeName> и</l>
+      <l>я послѣ былъ болѣе десяти разъ въ <placeName role="namesViewer" target="/names/Минск.html">Минскѣ</placeName>
+      и</l>
       <l>приносилъ <del rend="overstrike">изъ</del> въ Магистрата повѣленія изъ</l>
       <l>Губернскаго правленія, также и отъ Генералъ Губер-</l>
-      <l>натора <persName ref="Тутолмин">Тутельмана</persName><note place="end">ошибка, правильно - Т.И. Тутолмин,
-      фамилия которого в тексте подчеркнута, но не карандшом, а не пером канцеляриста</note>, дабы мое дѣло окончить,
-      </l>
+      <l>натора <persName role="namesViewer" target="/names/Тутолмин.html">Тутельмана</persName><note place="end"
+      >ошибка, правильно - Т.И. Тутолмин, фамилия которого в тексте подчеркнута, но не карандшом, а не пером
+      канцеляриста</note>, дабы мое дѣло окончить,</l>
       <l>Но и сіе все не помогало, а <del rend="overstrike">то</del> дѣло мое</l>
       <l>токмо болѣе проволачивалось, пока я чрезъ то</l>
       <l>въ бѣднѣйшее попалъ состояніе. Я былъ при-</l>
@@ -1502,7 +1520,8 @@
       <l>богу вышнія законы, гдѣ притѣсненный мо-</l>
       <l>жетъ получить удовлетвореніе, и кто можетъ</l>
       <l>быть более, какъ нашъ великомощный</l>
-      <l>Императоръ <persName ref="Павел_I">Павелъ первый</persName>, котораго богъ возвелъ</l>
+      <l>Императоръ <persName role="namesViewer" target="/names/Павел_I.html">Павелъ первый</persName>, котораго богъ
+      возвелъ</l>
       <l>намъ на земли, дабы быть ему Государемъ</l>
       <l>надо всѣми Государями, коего сердце открыто</l>
       <l>для всякаго справедливаго дѣла. яко двери</l>
@@ -1539,31 +1558,36 @@
     <p>
       <l>Сверхъ того секта <del rend="overstrike">еще</del> не была еще доволь-</l>
       <l>на моимъ паденіемъ, но какъ они знали, что</l>
-      <l>въ <placeName ref="Вильна">вильне</placeName> ихъ вольныя книги созжены, то здѣ-</l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">вильне</placeName> ихъ вольныя книги созжены, то
+      здѣ-</l>
       <l>лали и тамъ союзъ между собою противу уче-</l>
       <l>ныхъ іудейскихъ судей и городскиххъ старшинъ.</l>
       <l>Избрали изъ своей секты двухъ по именамъ</l>
       <l><pb xml:id="p021-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/002.html#p021-1"
-      /> <fw type="pageNum" place="right">21</fw> <persName ref="Меер_Рафалович">Мейер Рафалсъ</persName> и <persName
-      ref="Нохим_Ицкович">Нахумъ</persName>, оныя <del rend="overstrike">ж</del> приносили</l>
+      /> <fw type="pageNum" place="right">21</fw> <persName role="namesViewer" target="/names/Меер_Рафалович.html">Мейер
+      Рафалсъ</persName> и <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нахумъ</persName>, оныя <del
+      rend="overstrike">ж</del> приносили</l>
       <l>ложныя жалобы на городскихъ старшинъ <del rend="overstrike">у</del></l>
       <l>таковымъ, открывъ имъ свое намѣреніе, а</l>
       <l>оныя нашли <del rend="overstrike">оне</del> то за благо, и заступились</l>
       <l>за секту, такъ что вышепомянутыя стар-</l>
-      <l>шины изъ <placeName ref="Вильна">вильны</placeName> выбыли, отъ чего тѣ, кото-</l>
+      <l>шины изъ <placeName role="namesViewer" target="/names/Вильна.html">вильны</placeName> выбыли, отъ чего тѣ,
+      кото-</l>
       <l>рые были противу секты потѣряли болѣе</l>
       <l>10000 червонныхъ: отъ чего наипаче бедныя</l>
       <l>бывшія противу мыслей <del rend="overstrike">бѣдныхъ</del> оной секты</l>
       <l>страдали. _ Сіи поступки <del rend="overstrike">въ</del> оной секты</l>
       <l>соединенныя съ вольностію и съ союзомъ между</l>
-      <l>собою усмотрелъ и бывшій въ <placeName ref="Вильна">вильнѣ</placeName> губерна-</l>
+      <l>собою усмотрелъ и бывшій въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>
+      губерна-</l>
       <l>торъ, о чемъ и сюда далъ знать. Послѣ того</l>
-      <l>потребовалъ суда оной секты старшина <persName ref="alter-rebbe">Сало-<lb/>
-       монъ</persName> изъ <placeName ref="Лиозно">Лошни</placeName>. <emph rend="underline">Какъ его между протчимъ<lb
-      />
+      <l>потребовалъ суда оной секты старшина <persName role="namesViewer" target="/names/alter-rebbe.html">Сало-<lb/>
+       монъ</persName> изъ <placeName role="namesViewer" target="/names/Лиозно.html">Лошни</placeName>. <emph
+      rend="underline">Какъ его между протчимъ<lb/>
        допросили, по какой причинѣ онъ отъ секты<lb/>
        ежегодно столько денегъ беретъ, <del rend="overstrike">то</del> и посылаетъ<lb/>
-       ихъ въ <placeName ref="Турция">турцію</placeName>? то отвѣчалъ онъ, что сіе обы-<lb/>
+       ихъ въ <placeName role="namesViewer" target="/names/Турция.html">турцію</placeName>? то отвѣчалъ онъ, что сіе
+      обы-<lb/>
        конвеніе издавна заведено между іудеями. _<lb/>
        что однако есть противно.</emph> _ Правда что изда-</l>
       <l>вна заведено ежегодно изъ <hi rend="superscript">того</hi> города гдѣ іудеѣвъ</l>
@@ -1670,10 +1694,12 @@
     </p>
     <p>
       <l>Сочинено на еврейскомъ языкѣ подданѣйшимъ</l>
-      <l>рабомъ <hi rend="superscript"><persName ref="Авигдор">Абигдоромъ</persName></hi> бывшимъ оберраббиномъ въ
-      <placeName ref="Пинск">Пинскѣ</placeName>, сыномъ</l>
-      <l><persName ref="Хаим">Хаима Рабина</persName> въ <placeName ref="Калич">Каличе</placeName> въ <placeName
-      ref="Петербург">С.П бургѣ</placeName>, гдѣ онъ</l>
+      <l>рабомъ <hi rend="superscript"><persName role="namesViewer" target="/names/Авигдор.html">Абигдоромъ</persName>
+      </hi> бывшимъ оберраббиномъ въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName>,
+      сыномъ</l>
+      <l><persName role="namesViewer" target="/names/Хаим.html">Хаима Рабина</persName> въ <placeName role="namesViewer"
+      target="/names/Калич.html">Каличе</placeName> въ <placeName role="namesViewer" target="/names/Петербург.html">С.П
+      бургѣ</placeName>, гдѣ онъ</l>
       <l>надѣется увидѣть животворный светъ. Ибо у</l>
       <l>тебя есть источникъ жизни. Источникъ</l>
       <l>жизни въ руцѣ праведнаго и въ твоемъ свѣтѣ</l>
@@ -1682,6 +1708,6 @@
     <fw type="note">еврейская подпись.</fw>
     <l><fw type="pageNum" place="right">Перведено съ еврейскаго подданѣй-<lb/>
      шимъ рабомъ здѣшнимъ мещаниномъ<lb/>
-     <persName ref="Бернгард">Петромъ Бернгардомъ</persName>.</fw></l>
+     <persName role="namesViewer" target="/names/Бернгард.html">Петромъ Бернгардомъ</persName>.</fw></l>
   </body></text>
 </TEI>

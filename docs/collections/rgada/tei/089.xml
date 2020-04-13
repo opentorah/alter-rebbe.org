@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Жегулин">Жегулин</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Жегулин.html">Жегулин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +18,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Письмо <persName ref="Жегулин">Жегулина</persName>, подтверждающее, что он получил предписание отпустить
-        арестованных <orgName ref="Хасиды">хасидов</orgName>, но установить наблюдение за ними
+        Письмо <persName role="namesViewer" target="/names/Жегулин.html">Жегулина</persName>, подтверждающее, что он
+        получил предписание отпустить арестованных <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидов</orgName>, но установить наблюдение за ними
       </p></abstract>
       <creation><date when="1798-12-04">4 декабря 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -36,11 +39,11 @@
       <l>Высокородному и выскопревосходи-</l>
       <l>тельному господину дѣйствительному</l>
       <l>Тайному совѣтнику генералу проку-</l>
-      <l>рору и Кавалеру <persName ref="Лопухин">Петру Василіевичу<lb/>
+      <l>рору и Кавалеру <persName role="namesViewer" target="/names/Лопухин.html">Петру Василіевичу<lb/>
        Лопухину</persName></l>
     </salute>
     <head>
-      <l>Тайнаго совѣтника и <placeName ref="Белоруссия">Бѣло-<lb/>
+      <l>Тайнаго совѣтника и <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣло-<lb/>
        рускаго</placeName> губернатора</l>
       <l><emph rend="big">Донесеніе</emph>!</l>
     </head>
@@ -49,7 +52,7 @@
       <l>саніе отъ 17<hi rend="superscript">го</hi> прошедшаго ноября съ изо-</l>
       <l>браженіемъ въ немъ высочайшаго <emph rend="big">Его импе-<lb/>
        раторскаго Величества</emph> повелѣнія чтобы</l>
-      <l>евреевъ <orgName ref="Хасиды">секты называемой королины</orgName> по-</l>
+      <l>евреевъ <orgName role="namesViewer" target="/names/Хасиды.html">секты называемой королины</orgName> по-</l>
       <l>причинѣ, что неусмотрено въ поведеніи ихъ</l>
       <l>ничего вреднаго для государства, ниже раз-</l>
       <l>вратнаго въ нравахъ и нарушающаго общее</l>
@@ -66,13 +69,14 @@
       <l>ствѣ и образѣ правленія я во <date when="1798-12-02">2<hi rend="superscript">и</hi> день<lb/>
        сего декабря</date> къ точнѣйшему и непремен-</l>
       <l>ному исполненію получить честь имѣлъ.</l>
-      <l><signed>тайный совѣтникъ <persName ref="Жегулин">Семенъ Жегулинъ</persName></signed></l>
+      <l><signed>тайный совѣтникъ <persName role="namesViewer" target="/names/Жегулин.html">Семенъ Жегулинъ</persName>
+      </signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 5355</fw></l>
       <l><date when="1798-12-04">Декабря 4<hi rend="superscript">го</hi> дня<lb/>
        1798 года</date></l>
-      <l><placeName ref="Чаусы">Чаусы</placeName>.</l>
+      <l><placeName role="namesViewer" target="/names/Чаусы.html">Чаусы</placeName>.</l>
     </closer>
   </body></text>
 </TEI>

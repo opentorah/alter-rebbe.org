@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,13 +13,13 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Конверт от письма, адресованного <persName ref="Юда_Файбишевич">Юделю Файбишовичу</persName>, с фрагментом
-        сургучной печати
+        Конверт от письма, адресованного <persName role="namesViewer" target="/names/Юда_Файбишевич.html">Юделю
+        Файбишовичу</persName>, с фрагментом сургучной печати
       </p></abstract>
       <creation><date when="1800-11/12">ноябрь или декабрь 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Юда_Файбишевич" role="addressee">Юделю Файбишовичу</persName>
-      </correspAction></correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Юда_Файбишевич.html">Юделю
+      Файбишовичу</persName></correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -28,9 +29,10 @@
     <fw type="pageNum" place="left margin"><del rend="overstrike">341а</del></fw><note place="end">номер записан
     чернилами и зачеркнут карандашом</note>
     <fw type="docNum" place="left margin">№ 3</fw><note place="end">номер записан чернилами</note>
-    <l>Г<hi rend="superscript">ину</hi> <placeName ref="Белоруссия">бѣлорускому</placeName> купцу</l>
-    <l><persName ref="Юда_Файбишевич">юделу файбешевичу</persName></l>
-    <l>въ <placeName ref="Петербург">С=петербурге</placeName></l>
+    <l>Г<hi rend="superscript">ину</hi> <placeName role="namesViewer" target="/names/Белоруссия.html"
+    >бѣлорускому</placeName> купцу</l>
+    <l><persName role="namesViewer" target="/names/Юда_Файбишевич.html">юделу файбешевичу</persName></l>
+    <l>въ <placeName role="namesViewer" target="/names/Петербург.html">С=петербурге</placeName></l>
     <pb xml:id="p339-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/339.html#p339-2"/>
   </body></text>
 </TEI>

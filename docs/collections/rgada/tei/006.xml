@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,14 +16,16 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Лопухин">Лопухина</persName> <persName ref="Булгаков">Булгакову</persName> о высочайшем
-        распоряжении провести расследование обстоятельств, изложенных в анонимных письмах с доносами в том числе на
-        <orgName ref="Хасиды">хасидов</orgName> и <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Сообщение <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> <persName
+        role="namesViewer" target="/names/Булгаков.html">Булгакову</persName> о высочайшем распоряжении провести
+        расследование обстоятельств, изложенных в анонимных письмах с доносами в том числе на <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> и <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1798-08-16">августа 16 дня 1798 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Булгаков" role="addressee">Булгакову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Булгаков.html">Булгакову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -39,15 +42,18 @@
       <l>Князя Алексѣя Борисовича</l>
       <l>Куракина получены три писма</l>
       <l>надписанныхъ по секрету, два изъ</l>
-      <l><placeName ref="Вильна">вильны</placeName> отъ <date when="1800-05-08">8</date>. и <date when="1800-05-10">10.
-      маія</date> подпи</l>
-      <l>санные <persName ref="Гирш_Давидович">Гиршемъ давидовичемъ</persName>;</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильны</placeName> отъ <date when="1800-05-08"
+      >8</date>. и <date when="1800-05-10">10. маія</date> подпи</l>
+      <l>санные <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршемъ давидовичемъ</persName>;</l>
       <l>а третье безъ числа и означеннаго</l>
-      <l>мѣста подписанное ксензомъ <persName ref="Чечерский"><unclear>Чечер</unclear><lb/>
-       скимъ</persName>. <persName ref="Гирш_Давидович">Давидовичъ</persName> пишетъ въ</l>
-      <l>1<hi rend="superscript">м</hi>. <del rend="overstrike">Якобы</del> <placeName ref="Белоруссия">бѣлоруской
-      губерніи</placeName> въ</l>
-      <l>мѣстечкѣ <placeName ref="Лиозно">Лознѣ</placeName> Рабинъ <persName ref="alter-rebbe">Зальмон<lb/>
+      <l>мѣста подписанное ксензомъ <persName role="namesViewer" target="/names/Чечерский.html"><unclear
+      >Чечер</unclear><lb/>
+       скимъ</persName>. <persName role="namesViewer" target="/names/Гирш_Давидович.html">Давидовичъ</persName> пишетъ
+      въ</l>
+      <l>1<hi rend="superscript">м</hi>. <del rend="overstrike">Якобы</del> <placeName role="namesViewer"
+      target="/names/Белоруссия.html">бѣлоруской губерніи</placeName> въ</l>
+      <l>мѣстечкѣ <placeName role="namesViewer" target="/names/Лиозно.html">Лознѣ</placeName> Рабинъ <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Зальмон<lb/>
        Боруговичъ</persName>, <del rend="overstrike">собирая молодыхъ</del> <hi rend="superscript">которой хочетъ
       <unclear>чтобъ</unclear></hi></l>
       <l><del rend="overstrike">евреевъ, хочетъ</del> <hi rend="superscript">способствовать</hi> французской</l>
@@ -64,10 +70,12 @@
         <l>ихъ отыскать не можетъ</l>
         <l>по причинѣ взятокъ и пона-</l>
         <l>ровокъ губернаторовъ, ходатаевъ</l>
-        <l>и защитителей въ <placeName ref="Петербург">петербургѣ</placeName>.</l>
+        <l>и защитителей въ <placeName role="namesViewer" target="/names/Петербург.html">петербургѣ</placeName>.</l>
       </del>
-      <l>во 2<hi rend="superscript">м</hi>. Что <placeName ref="Литва">Литовской губерніи</placeName></l>
-      <l><placeName ref="Вильна"><sic>вилденской</sic></placeName> городничей которой</l>
+      <l>во 2<hi rend="superscript">м</hi>. Что <placeName role="namesViewer" target="/names/Литва.html">Литовской
+      губерніи</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html"><sic>вилденской</sic></placeName> городничей
+      которой</l>
       <l>имѣетъ при себѣ секретаремъ <del rend="overstrike">Алексѣева</del></l>
       <l>бѣглаго унтеръ-офицѣра санктъ-</l>
       <l>петербургскаго пѣхотнаго полку</l>
@@ -91,7 +99,8 @@
         <l>и проситъ о изслѣдованіи чрезъ</l>
         <l>литовскаго прокурора или надвор-</l>
       </del>
-      <l><del rend="overstrike">ный судъ.</del> Ксензъ же <persName ref="Чечерский">Чечерскій</persName></l>
+      <l><del rend="overstrike">ный судъ.</del> Ксензъ же <persName role="namesViewer" target="/names/Чечерский.html"
+      >Чечерскій</persName></l>
       <l>
         <hi rend="superscript">о взятіи якобы по дѣлу</hi>
         <del rend="overstrike">будучи повѣреннымъ отъ ви-</del>
@@ -103,13 +112,15 @@
       <l>вленіи <hi rend="superscript">членами и секретарями</hi> <del rend="overstrike">подъ председательствомъ</del>
       </l>
       <l><del rend="overstrike">Князя Николая васильевича</del></l>
-      <l><del rend="overstrike">присудствовавшія <persName ref="Фризель">Фризель</persName>,</del></l>
-      <l><del rend="overstrike"><persName ref="Волков">волковъ</persName>, багмевской, секретари</del></l>
+      <l><del rend="overstrike">присудствовавшія <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризель</persName>,</del></l>
+      <l><del rend="overstrike"><persName role="namesViewer" target="/names/Волков.html">волковъ</persName>, багмевской,
+      секретари</del></l>
       <l><del rend="overstrike">тарновской и манковской</del></l>
       <l>за рѣшеніе онаго <del rend="overstrike">дѣла</del> въ пользу</l>
       <l>доминикановъ <del rend="overstrike">взяли</del> болѣе</l>
       <l>12000<hi rend="superscript">р</hi><note place="end">использован символический знак рубля</note>. <del
-      rend="overstrike">Но какъ въ <orgName ref="Сенат">Сенатѣ</orgName> рѣ-</del></l>
+      rend="overstrike">Но какъ въ <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> рѣ-</del></l>
       <l><del rend="overstrike">шеніе ихъ опровергнуто, то и</del></l>
       <l><del rend="overstrike">проситъ о изслѣдованіи и взы-</del></l>
       <l><del rend="overstrike">сканіи денегъ.</del> – По симъ письмамъ</l>
@@ -144,10 +155,11 @@
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 737<hi rend="superscript">й</hi></fw>.</l>
-      <l>въ <placeName ref="Петербург">С.п.бургѣ</placeName></l>
+      <l>въ <placeName role="namesViewer" target="/names/Петербург.html">С.п.бургѣ</placeName></l>
       <l><date when="1798-08-16">августа 16 дня<lb/>
        1798. года</date></l>
-      <l>Его высокопр<hi rend="superscript">ву</hi> <persName ref="Булгаков">Булгакову</persName>.</l>
+      <l>Его высокопр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Булгаков.html"
+      >Булгакову</persName>.</l>
     </closer>
     <pb xml:id="p007-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/006.html#p007-2"/>
   </body></text>

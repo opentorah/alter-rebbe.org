@@ -4,8 +4,10 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +18,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Список литовских <orgName ref="Хасиды">хасидов</orgName> – приложение к докладу <persName ref="Булгаков">
-        Булгакова</persName>
+        Список литовских <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> – приложение к
+        докладу <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -30,24 +32,25 @@
     <head>
       <l>Реестръ</l>
       <l>Евреевъ, слѣдующихъ новой сектѣ,</l>
-      <l><orgName ref="Хасиды">Каролинами</orgName> называемой.</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">Каролинами</orgName> называемой.</l>
     </head>
     <table rendition="rgada-026-table">
       <row>
         <cell><emph rend="underline">Имяна.</emph></cell>
         <cell><emph rend="underline">Состояніе:</emph></cell>
       </row>
-      <row><cell><emph rend="underline">в <placeName ref="Вильна">Вилнѣ</placeName></emph>.</cell></row>
+      <row><cell><emph rend="underline">в <placeName role="namesViewer" target="/names/Вильна.html"
+      >Вилнѣ</placeName></emph>.</cell></row>
       <row>
         <cell>
-          <l>1. <persName ref="Меер_Рафалович">Меіеръ Рафаиловичъ</persName>, или</l>
+          <l>1. <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меіеръ Рафаиловичъ</persName>, или</l>
           <l>сынъ <persName>Рафаила</persName></l>
         </cell>
         <cell>
           <l>имѣетъ каменной домъ въ</l>
-          <l><placeName ref="Вильна">вилнѣ</placeName>, шинкуетъ разными</l>
+          <l><placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName>, шинкуетъ разными</l>
           <l>напитками; у него бываетъ</l>
-          <l>сборище <orgName ref="Хасиды">каролиновъ</orgName>.</l>
+          <l>сборище <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>.</l>
         </cell>
       </row>
       <row>
@@ -55,29 +58,31 @@
         <cell>шинкуетъ разными напитками.</cell>
       </row>
       <row>
-        <cell>3. <persName ref="Арон_Беркович">Аронъ Берковичъ</persName> –</cell>
+        <cell>3. <persName role="namesViewer" target="/names/Арон_Беркович.html">Аронъ Берковичъ</persName> –</cell>
         <cell>торгуетъ стекломъ.</cell>
       </row>
       <row>
         <cell>4. <persName>Шмуль Еліашовичъ</persName> –</cell>
         <cell>
           <l>держитъ кофейной домъ для</l>
-          <l><orgName ref="Хасиды">каролиновъ</orgName>, а другимъ жидамъ</l>
+          <l><orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>, а другимъ жидамъ</l>
           <l>отъ кагала запрещено къ нему</l>
           <l>ходить, дабы не учились новой</l>
           <l>сектѣ.</l>
         </cell>
       </row>
       <row>
-        <cell>5. <persName ref="Зелман_Янкелевич">Зелманъ Янкеліевичъ</persName></cell>
+        <cell>5. <persName role="namesViewer" target="/names/Зелман_Янкелевич.html">Зелманъ Янкеліевичъ</persName>
+        </cell>
         <cell>торгуетъ старымъ платьемъ</cell>
       </row>
       <row>
-        <cell>6. <persName ref="Зелман_Леизерович">Селмонъ Леизеровичъ</persName></cell>
+        <cell>6. <persName role="namesViewer" target="/names/Зелман_Леизерович.html">Селмонъ Леизеровичъ</persName>
+        </cell>
         <cell>шинкуетъ виномъ.</cell>
       </row>
       <row>
-        <cell>7. <persName ref="Юдель_Елиашевич">Юдель Еліасовичъ</persName></cell>
+        <cell>7. <persName role="namesViewer" target="/names/Юдель_Елиашевич.html">Юдель Еліасовичъ</persName></cell>
         <cell>шинкуетъ и соль продаетъ</cell>
       </row>
       <row>
@@ -85,26 +90,27 @@
         <cell>даётъ деньги въ ростъ</cell>
       </row>
       <row>
-        <cell>9. <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName> –</cell>
+        <cell>9. <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба Зеликовичъ</persName> –</cell>
         <cell>
           <l>промоталъ все имѣніе, ѣздя</l>
-          <l>къ <orgName ref="Хасиды">каролинскимъ</orgName> рабинамъ,</l>
+          <l>къ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскимъ</orgName> рабинамъ,</l>
           <l>не имѣетъ, чѣмъ жить, и изъ</l>
           <l>милости кормится подаяніемъ</l>
           <l>своего тестя.</l>
         </cell>
       </row>
       <row>
-        <cell>10. <persName ref="Перец_Хаймович">Перецъ Хеймовичъ</persName></cell>
+        <cell>10. <persName role="namesViewer" target="/names/Перец_Хаймович.html">Перецъ Хеймовичъ</persName></cell>
         <cell>шубной мастеръ</cell>
       </row>
       <pb xml:id="p026-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/026.html#p026-2"/>
       <fw type="pageNum">26об.</fw>
       <row>
-        <cell>11. <persName ref="Лейба_Юделевич">Лейба Юделовичъ</persName> –</cell>
+        <cell>11. <persName role="namesViewer" target="/names/Лейба_Юделевич.html">Лейба Юделовичъ</persName> –</cell>
         <cell>
           <l>родомъ из Крожи<note place="end">ныне местечко <placeName>Кражяй</placeName> в <placeName>Кельмеском
-          районе</placeName> <placeName ref="Литва">Литвы</placeName></note>, въ <placeName>Россіен<lb/>
+          районе</placeName> <placeName role="namesViewer" target="/names/Литва.html">Литвы</placeName></note>, въ
+          <placeName>Россіен<lb/>
            скомъ повѣтѣ<note place="end">впоследствие - Россиенская волость одноименного уезда Ковенской губ. (ныне -
           Литва)</note></placeName>, промысла ни</l>
           <l>какого не имѣетъ.</l>
@@ -113,75 +119,81 @@
       <row>
         <cell>
           <l>Сіи жиды ѣздили къ ра</l>
-          <l>бинамъ въ <placeName ref="Лиозно">Лозну</placeName> и въ дру</l>
+          <l>бинамъ въ <placeName role="namesViewer" target="/names/Лиозно.html">Лозну</placeName> и въ дру</l>
           <l>гіе мѣста, а слѣдующіе</l>
           <l>ходятъ только молиться</l>
-          <l>въ домъ <persName ref="Меер_Рафалович">Меіера Рафа<lb/>
+          <l>въ домъ <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меіера Рафа<lb/>
            ловича</persName>.</l>
         </cell>
         <cell/>
       </row>
       <row>
-        <cell>12. <persName ref="Михель_Файбишович">Михель Фейбушовичъ</persName></cell>
+        <cell>12. <persName role="namesViewer" target="/names/Михель_Файбишович.html">Михель Фейбушовичъ</persName>
+        </cell>
         <cell>безъ всякаго ремесла</cell>
       </row>
       <row>
-        <cell>13. <persName ref="Вулф">Вольфъ</persName>, зять <persName ref="Зельман">Зельмана</persName></cell>
-        <cell>писарь в мелницѣ <persName ref="Огинский">Огинскаго</persName></cell>
+        <cell>13. <persName role="namesViewer" target="/names/Вулф.html">Вольфъ</persName>, зять <persName
+        role="namesViewer" target="/names/Зельман.html">Зельмана</persName></cell>
+        <cell>писарь в мелницѣ <persName role="namesViewer" target="/names/Огинский.html">Огинскаго</persName></cell>
       </row>
       <row>
         <cell>14. Чася<note place="end">возможно, Аса</note>, зять <persName>Цидки</persName> –</cell>
         <cell>обучаетъ дѣтей грамотѣ</cell>
       </row>
       <row>
-        <cell>15. <persName ref="Леизер_Нотолевич">Леизеръ</persName>, зять <persname>Фейбуша</persname></cell>
+        <cell>15. <persName role="namesViewer" target="/names/Леизер_Нотолевич.html">Леизеръ</persName>, зять <persname
+        >Фейбуша</persname></cell>
         <cell>портной</cell>
       </row>
       <row>
         <cell>
-          <l>16. <persName ref="Ицка_Абрамович">Ицко</persName>, зять портнова</l>
-          <l><persName ref="Абрамович">Абрамовича</persName></l>
+          <l>16. <persName role="namesViewer" target="/names/Ицка_Абрамович.html">Ицко</persName>, зять портнова</l>
+          <l><persName role="namesViewer" target="/names/Абрамович.html">Абрамовича</persName></l>
         </cell>
         <cell>безъ всякаго способа жизни</cell>
       </row>
       <row>
-        <cell>17. <persName ref="Зелман_Лейбович">Зелманъ Леибовичъ</persName></cell>
+        <cell>17. <persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зелманъ Леибовичъ</persName></cell>
         <cell>также.</cell>
       </row>
       <row>
-        <cell>18. <persName ref="Мовша_Мордохович">Мозесъ Мордеховичъ</persName></cell>
+        <cell>18. <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мозесъ Мордеховичъ</persName>
+        </cell>
         <cell>
-          <l>ѣздилъ въ <placeName ref="Лиозно">Лозну</placeName>, но въ домѣ</l>
-          <l><persName ref="Меер_Рафалович">Рафаеловича</persName> не молился.</l>
+          <l>ѣздилъ въ <placeName role="namesViewer" target="/names/Лиозно.html">Лозну</placeName>, но въ домѣ</l>
+          <l><persName role="namesViewer" target="/names/Меер_Рафалович.html">Рафаеловича</persName> не молился.</l>
         </cell>
       </row>
       <row>
-        <cell>19. <persName ref="Нохим_Ицкович">Нохимъ Ицковичъ</persName> –</cell>
+        <cell>19. <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохимъ Ицковичъ</persName> –</cell>
         <cell>
-          <l>родомъ изъ <placeName ref="Чаусы">чаусовъ</placeName>, жилъ въ <placeName ref="Любавичи">Лю-<lb/>
-           бовичу</placeName> въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName>, потомъ</l>
-          <l>въ <placeName ref="Минск">Минскъ</placeName>, въ Молодезнѣ<note place="end">Молодечно</note>, въ <placeName
-          ref="Гродно">Гро-<lb/>
+          <l>родомъ изъ <placeName role="namesViewer" target="/names/Чаусы.html">чаусовъ</placeName>, жилъ въ <placeName
+          role="namesViewer" target="/names/Любавичи.html">Лю-<lb/>
+           бовичу</placeName> въ <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлоруссіи</placeName>,
+          потомъ</l>
+          <l>въ <placeName role="namesViewer" target="/names/Минск.html">Минскъ</placeName>, въ Молодезнѣ<note
+          place="end">Молодечно</note>, въ <placeName role="namesViewer" target="/names/Гродно.html">Гро-<lb/>
            дне</placeName>, а отъ нѣсколькихъ мѣся</l>
-          <l>цовъ въ <placeName ref="Вильна">Вилнѣ</placeName>, ни промысла,</l>
+          <l>цовъ въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>, ни промысла,</l>
           <l>ни доходовъ не имѣетъ, а кор-</l>
-          <l>мится подаяніемъ отъ <orgName ref="Хасиды">каро-<lb/>
+          <l>мится подаяніемъ отъ <orgName role="namesViewer" target="/names/Хасиды.html">каро-<lb/>
            линовъ</orgName>.</l>
         </cell>
       </row>
       <row>
-        <cell>20. <persName ref="Борух_Мордухович">Борухъ Мордухъ</persName> –</cell>
+        <cell>20. <persName role="namesViewer" target="/names/Борух_Мордухович.html">Борухъ Мордухъ</persName> –</cell>
         <cell>
           <l>родомъ изо <placeName>Лвова</placeName>, живетъ здѣсь отъ</l>
           <l>двухъ лѣтъ, жена его шинкуетъ,</l>
-          <l>а онъ себя называетъ <orgName ref="Хасиды">каролинскимъ</orgName></l>
+          <l>а онъ себя называетъ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскимъ</orgName></l>
           <l>рабиномъ.</l>
         </cell>
       </row>
       <pb xml:id="p027-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/026.html#p027-1"/>
       <fw type="pageNum" place="right">27.</fw>
       <row>
-        <cell>21. <persName ref="Мовша_Мордохович">Мовша Мордуховичъ</persName></cell>
+        <cell>21. <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мовша Мордуховичъ</persName></cell>
         <cell>
           <l>былъ школьникомъ<note place="end">администратором и делопроизводителем кагала</note>, а теперь</l>
           <l>кагалъ его больше не употре</l>
@@ -190,16 +202,18 @@
       </row>
       <row><cell><emph rend="underline">В предмѣстьѣ Антоколь</emph></cell></row>
       <row>
-        <cell>22. <persName ref="Мовша_Иосиелиович">Мовша Іосіеловичъ</persName> –</cell>
+        <cell>22. <persName role="namesViewer" target="/names/Мовша_Иосиелиович.html">Мовша Іосіеловичъ</persName>
+        –</cell>
         <cell>
           <l>былъ вѣрникомъ, или казначеемъ</l>
           <l><placeName>Антокольскаго</placeName> подкагалка, но</l>
-          <l><orgName ref="Виленский_кагал">виленскимъ кагаломъ</orgName> отъ</l>
+          <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскимъ кагаломъ</orgName> отъ</l>
           <l>мѣста отрѣшенъ.</l>
         </cell>
       </row>
       <row>
-        <cell>23. <persName ref="Иосель_Мовшович">Іосіель Мовшовичъ</persName> –</cell>
+        <cell>23. <persName role="namesViewer" target="/names/Иосель_Мовшович.html">Іосіель Мовшовичъ</persName>
+        –</cell>
         <cell>
           <l>содержитъ <placeName>антокольскую</placeName> пробку,</l>
           <l>или сборъ с убиваемой ско-</l>
@@ -208,33 +222,37 @@
         </cell>
       </row>
       <row><cell>
-        <l>Въ <emph rend="underline"><placeName ref="Видзы">Видзахъ</placeName></emph></l>
+        <l>Въ <emph rend="underline"><placeName role="namesViewer" target="/names/Видзы.html">Видзахъ</placeName></emph>
+        </l>
         <l>повѣтовомъ мѣстечкѣ <placeName>Браславскаго повѣта</placeName></l>
       </cell></row>
       <row>
-        <cell>24. <persName ref="Мовша_Ицкович">Мовша Ицковичъ</persName> –</cell>
+        <cell>24. <persName role="namesViewer" target="/names/Мовша_Ицкович.html">Мовша Ицковичъ</persName> –</cell>
         <cell>имѣетъ небольшую лавку</cell>
       </row>
       <row>
-        <cell>25. <persName ref="Гирш_Иоселиович">Гиршъ Јосіелович</persName> –</cell>
+        <cell>25. <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршъ Јосіелович</persName> –</cell>
         <cell>факторъ<note place="end">поверенный в делах</note>.</cell>
       </row>
       <row>
-        <cell>26. <persName ref="Хлиовна_Зорухович">Лапидусъ Хловна</persName> –</cell>
+        <cell>26. <persName role="namesViewer" target="/names/Хлиовна_Зорухович.html">Лапидусъ Хловна</persName>
+        –</cell>
         <cell>имѣетъ небольшую лавку.</cell>
       </row>
       <row>
-        <cell>27. <persName ref="Рафаил_Шлиомович">Рафалъ Шломовичъ</persName> –</cell>
+        <cell>27. <persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">Рафалъ Шломовичъ</persName>
+        –</cell>
         <cell>шинкуетъ.</cell>
       </row>
       <row><cell>
-        <l>Въ <emph rend="underline"><placeName ref="Индура">Индурахъ</placeName></emph></l>
-        <l>В <placeName ref="Гродно">Гроденскомъ</placeName> повѣтѣ.</l>
+        <l>Въ <emph rend="underline"><placeName role="namesViewer" target="/names/Индура.html">Индурахъ</placeName>
+        </emph></l>
+        <l>В <placeName role="namesViewer" target="/names/Гродно.html">Гроденскомъ</placeName> повѣтѣ.</l>
       </cell></row>
       <row>
-        <cell>28. <persName ref="Шмуил_Хаимович">Шмуило Хаймовичъ –</persName></cell>
+        <cell>28. <persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуило Хаймовичъ –</persName></cell>
         <cell>
-          <l>рабинъ <orgName ref="Хасиды">королинской</orgName>, переселился</l>
+          <l>рабинъ <orgName role="namesViewer" target="/names/Хасиды.html">королинской</orgName>, переселился</l>
           <l>изъ <placeName>Волпы</placeName>, и живетъ ихъ ден</l>
           <l>гами.</l>
         </cell>
@@ -250,7 +268,7 @@
           <l>рабинъ, родомъ изъ <placeName>Малаты<note place="end">ныне г. Молетай в Литве, идишское назв.
           Малат</note></placeName>, деревни</l>
           <l><persName>графа Шоазеля</persName>, живетъ подаяніемъ</l>
-          <l>отъ <orgName ref="Хасиды">каролиновъ</orgName>, и подговариваетъ мо-</l>
+          <l>отъ <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>, и подговариваетъ мо-</l>
           <l>лодежь въ ихъ секту.</l>
         </cell>
       </row>

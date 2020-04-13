@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перервод с польского языка протокола допроса <persName ref="Перец_Хаймович">Переца Хаймовича</persName>
+        Перервод с польского языка протокола допроса <persName role="namesViewer" target="/names/Перец_Хаймович.html"
+        >Переца Хаймовича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -29,23 +31,24 @@
     <head>
       <fw type="docNum">№ 12./</fw>
       <l>Допросъ</l>
-      <l>жида <persName ref="Перец_Хаймович">Переца Хаймовича</persName></l>
+      <l>жида <persName role="namesViewer" target="/names/Перец_Хаймович.html">Переца Хаймовича</persName></l>
     </head>
     <p>
-      <l>Я <persName ref="Перец_Хаймович">Перецъ Хаймовичъ</persName> отъ роду</l>
+      <l>Я <persName role="namesViewer" target="/names/Перец_Хаймович.html">Перецъ Хаймовичъ</persName> отъ роду</l>
       <l>имѣю 50 лѣтъ, упражняюсь въ скор-</l>
       <l>няшномъ мастерствѣ, родился въ</l>
-      <l><placeName ref="Вильна">вилнѣ</placeName>, женатъ, имѣю дѣтей сына</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName>, женатъ, имѣю дѣтей сына</l>
       <l>Зелка<note place="end">возможно, Зеева - Зевка</note> и одну дочь; четвертой годъ</l>
-      <l>какъ вступилъ въ <orgName ref="Хасиды">каролинскую сек-<lb/>
+      <l>какъ вступилъ въ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскую сек-<lb/>
        ту</orgName>; она ничѣмъ не разнествуетъ</l>
       <l>отъ Еврейской вѣры; начальникомъ</l>
-      <l>ея есть <placeName ref="Лиозно">Лозинской</placeName> <persName ref="alter-rebbe">рабинъ</persName>; въ
-      раз-</l>
-      <l>сужденіи <orgName ref="Хасиды">каролинской секты</orgName> пока</l>
-      <l>залъ согласно съ <persName ref="Арон_Беркович">Ароном Берко-<lb/>
+      <l>ея есть <placeName role="namesViewer" target="/names/Лиозно.html">Лозинской</placeName> <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабинъ</persName>; въ раз-</l>
+      <l>сужденіи <orgName role="namesViewer" target="/names/Хасиды.html">каролинской секты</orgName> пока</l>
+      <l>залъ согласно съ <persName role="namesViewer" target="/names/Арон_Беркович.html">Ароном Берко-<lb/>
        вичемъ</persName><note place="end">см. документ 099</note>; о прочемъ ничего не знаю</l>
-      <l><signed>Подписалъ <persName ref="Перец_Хаймович">Перецъ Хаймовичъ</persName>.</signed></l>
+      <l><signed>Подписалъ <persName role="namesViewer" target="/names/Перец_Хаймович.html">Перецъ
+      Хаймовичъ</persName>.</signed></l>
     </p>
     <pb xml:id="p115-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/115.html#p115-2"/>
   </body></text>

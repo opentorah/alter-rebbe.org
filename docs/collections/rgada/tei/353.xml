@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Розенберг">Розенберг</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Розенберг.html">Розенберг</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Розенберг">Розенберга</persName> <persName ref="Обольянинов">Обольянинову</persName> о
-        мерах по негласному наблюдению за <orgName ref="Хасиды">хасидами</orgName>
+        Рапорт <persName role="namesViewer" target="/names/Розенберг.html">Розенберга</persName> <persName
+        role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о мерах по негласному наблюдению за
+        <orgName role="namesViewer" target="/names/Хасиды.html">хасидами</orgName>
       </p></abstract>
       <creation><date when="1800-11-24">Ноября 24 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,14 +36,15 @@
     <fw type="note" place="left">Къ отпуску</fw>
     <p>
       <l><salute>Милостивый государь мой<lb/>
-         <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
+         <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичъ</persName>!</salute></l>
       <l>Въ слѣдствіе почтеннѣйшаго сообщенія ко мнѣ</l>
       <l>вашего высокопревосходительства съ объявленіемъ</l>
       <l>высочайшаго <emph rend="big">Его императорскаго величества</emph></l>
       <l>повелѣнія, дабы во ввѣренныхъ мнѣ губерніяхъ</l>
       <l>имѣть самымъ тайнымъ образомъ неослабное</l>
       <l>за поведеніемъ и поступками россійскихъ рос-</l>
-      <l>колников и <orgName ref="Хасиды">королинской секты евреевъ</orgName> наблю-</l>
+      <l>колников и <orgName role="namesViewer" target="/names/Хасиды.html">королинской секты евреевъ</orgName>
+      наблю-</l>
       <l>деніе, и въ случае малѣйше замѣченнаго какого</l>
       <l>либо поводу къ соблазну или неповиновенію власти</l>
       <l>ваше высокопревосходительство неукоснительно</l>
@@ -61,13 +64,13 @@
       <l>Милостивый государь мой!</l>
       <l>вашего высокопревосходительства</l>
       <l>покорнѣйшій слуга</l>
-      <l><signed><persName ref="Розенберг">Андрей Розенберг</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Розенберг.html">Андрей Розенберг</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 774</fw></l>
       <l><date when="1800-11-24">Ноября 24 дня<lb/>
        1800 года</date></l>
-      <l><placeName ref="Каменец_Подольский">Каменецъ.подольскій</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Каменец_Подольский.html">Каменецъ.подольскій</placeName></l>
     </closer>
     <pb xml:id="p353-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/353.html#p353-2"/>
   </body></text>

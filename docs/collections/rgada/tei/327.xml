@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,10 +13,12 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Официальное сообщение о резолюции <persName ref="Павел_I">императора</persName> прекратить дело по обвинениям со
-        стороны <persName ref="Авигдор">Авигдора Хаймовича</persName> в адрес <persName ref="alter-rebbe">Шнеура
-        Залмана</persName> и передать дело о <orgName ref="Хасиды">хасидах</orgName> и кагалах литовского толка в
-        <orgName ref="Сенат">Сенат</orgName>
+        Официальное сообщение о резолюции <persName role="namesViewer" target="/names/Павел_I.html"
+        >императора</persName> прекратить дело по обвинениям со стороны <persName role="namesViewer"
+        target="/names/Авигдор.html">Авигдора Хаймовича</persName> в адрес <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName> и передать дело о <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидах</orgName> и кагалах литовского толка в <orgName role="namesViewer"
+        target="/names/Сенат.html">Сенат</orgName>
       </p></abstract>
       <creation><date when="1800-11-27">ноября 27 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -31,11 +34,12 @@
     <p>
       <l>Его императорское величество высочайше</l>
       <l>повелеть соизволилъ, дѣло мѣжду евреями</l>
-      <l><persName ref="Авигдор">Абикдаромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Залманом<lb/>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Абикдаромъ Хаймовичемъ</persName> и <persName
+      role="namesViewer" target="/names/alter-rebbe.html">Залманом<lb/>
        боруховичемъ</persName> касающееся до ихъ религіи и про</l>
-      <l>чаго, въ <orgName ref="Сенат">сенатѣ</orgName> разсмотреть; и учинить</l>
+      <l>чаго, въ <orgName role="namesViewer" target="/names/Сенат.html">сенатѣ</orgName> разсмотреть; и учинить</l>
       <l>положеніе на какомъ впредь основаніи быть</l>
-      <l>сектѣ <orgName ref="Хасиды">хоседовъ</orgName> и кагаламъ. На каковой</l>
+      <l>сектѣ <orgName role="namesViewer" target="/names/Хасиды.html">хоседовъ</orgName> и кагаламъ. На каковой</l>
       <l>конецъ и препроводить учиненные допросы</l>
       <l>на еврейскомъ языкѣ съ переводами. _</l>
     </p>

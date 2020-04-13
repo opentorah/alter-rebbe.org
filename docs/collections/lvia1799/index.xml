@@ -11,8 +11,8 @@
   </fileDesc></teiHeader>
   <text><body>
     <head>Фонд 378: Канцелярия Виленского военного генерал-губернатора - 1799 год</head>
-    <span>Документы, связанные с конфликтом <orgName ref="Виленский_кагал">"кагала"</orgName> и <orgName ref="Хасиды">
-    "каролинов"</orgName>.</span>
+    <span>Документы, связанные с конфликтом <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+    >"кагала"</orgName> и <orgName role="namesViewer" target="/names/Хасиды.html">"каролинов"</orgName>.</span>
     <p>
       Литовский Исторический Архив - <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">LVIA
       Vilniua</ref>.
@@ -28,28 +28,32 @@
     <p>Описания в <ref target="http://cahjp.nli.org.il/">CAHJP</ref> дел из этой коллекции:</p>
     <p>
       378 1799 2. (B/S). Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Документы, относящиеся к
-      административной переписке о расследовании злоупотреблений <orgName ref="Виленский_кагал">виленского кагала
-      </orgName> и его конфликта с <placeName ref="Вильна">виленскими</placeName> хасидами. В деле упомянуты некоторые
-      материалы следствия в связи с первым арестом <persName ref="alter-rebbe">р. Шнеур Залмана</persName> (без
-      упомянания о нём) и других хасидов Хабада. дело 178, стр.75 Отрывок из дневника виленского правления от 30 июня
-      1798 года - стр. 75-77 об. - 3 скана .
+      административной переписке о расследовании злоупотреблений <orgName role="namesViewer"
+      target="/names/Виленский_кагал.html">виленского кагала</orgName> и его конфликта с <placeName role="namesViewer"
+      target="/names/Вильна.html">виленскими</placeName> хасидами. В деле упомянуты некоторые материалы следствия в
+      связи с первым арестом <persName role="namesViewer" target="/names/alter-rebbe.html">р. Шнеур Залмана</persName>
+      (без упомянания о нём) и других хасидов Хабада. дело 178, стр.75 Отрывок из дневника виленского правления от 30
+      июня 1798 года - стр. 75-77 об. - 3 скана .
     </p>
     <p>
       378 B/S 1799 178. Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Следственное дело по жалобам
-      <persName ref="Мовша_Ошерович">Мойжеша Ошеровича</persName> В деле опись произведенному следствию (лл. 512-514).
-      Почему-то были сделаны только 3 скана, в которые не вошла лицевая сторона стр. 513...
+      <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName> В деле опись
+      произведенному следствию (лл. 512-514). Почему-то были сделаны только 3 скана, в которые не вошла лицевая сторона
+      стр. 513...
     </p>
     <p>
       378 B/S 1799 2a extract. Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: "Об устройстве в
-      <placeName ref="Польша">Польше</placeName> порядка и прочих распряжений служащих балгу народа" переписка по
-      взаимным претензиям <orgName ref="Виленский_кагал">"кагала"</orgName> и <orgName ref="Хасиды"
-      >"каролинов"</orgName> список книг <placeName ref="Вильна">виленской</placeName> цензуры. Сделаны 7 сканов дела и
-      7 - списка книг виленской цензуры.
+      <placeName role="namesViewer" target="/names/Польша.html">Польше</placeName> порядка и прочих распряжений служащих
+      балгу народа" переписка по взаимным претензиям <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >"кагала"</orgName> и <orgName role="namesViewer" target="/names/Хасиды.html">"каролинов"</orgName> список книг
+      <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> цензуры. Сделаны 7 сканов дела и 7
+      - списка книг виленской цензуры.
     </p>
     <p>
       378 B/S 1799 3 extract. Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Об устройстве в <placeName
-      ref="Польша">Польше</placeName> порядка, претензии <orgName ref="Виленский_кагал">Виленского кагала</orgName> и
-      карлинского еврейского общества. Сделаны 19 сканов.
+      role="namesViewer" target="/names/Польша.html">Польше</placeName> порядка, претензии <orgName role="namesViewer"
+      target="/names/Виленский_кагал.html">Виленского кагала</orgName> и карлинского еврейского общества. Сделаны 19
+      сканов.
     </p>
     <p>Фотографии предоставили Елена Волк (250, 265, 276, 280-283, 287, 344-346) и Галина Баранова.</p>
     <table rendition="collection-index">
@@ -153,13 +157,15 @@
       </row>
       <row>
         <cell rendition="description"><p>
-          Сообщение <placeName ref="Вильна">виленского</placeName> коменданта <persName ref="Капцевич">Капцевича
-          </persName> <placeName ref="Литва">литовскому</placeName> генерал-губернатору <persName ref="Лассий">Де-Ласси
-          </persName> о выявлении незаконного оборота денег в <orgName ref="Виленский_кагал">Виленском кагале</orgName>
+          Сообщение <placeName role="namesViewer" target="/names/Вильна.html">виленского</placeName> коменданта
+          <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName> <placeName role="namesViewer"
+          target="/names/Литва.html">литовскому</placeName> генерал-губернатору <persName role="namesViewer"
+          target="/names/Лассий.html">Де-Ласси</persName> о выявлении незаконного оборота денег в <orgName
+          role="namesViewer" target="/names/Виленский_кагал.html">Виленском кагале</orgName>
         </p></cell>
         <cell rendition="date">1799-02-09</cell>
-        <cell rendition="author"><persName ref="Капцевич">Капцевич</persName></cell>
-        <cell rendition="addressee"><persName ref="Лассий">Де-Ласси</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Капцевич.html">Капцевич</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0250.html"
         >0250</ref></cell>
@@ -173,7 +179,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0250.html#p265-2" rendition="missing-page"
           >265об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
@@ -236,13 +243,16 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description">Рапорт <placeName ref="Литва">литовского</placeName> гражданского губернатора
-        <persName ref="Фризель">Фризеля</persName> генерал-губернатору <persName ref="Лассий">Де-Ласси</persName> о
-        запросе документов у <orgName ref="Виленский_кагал">виленского кагала</orgName> и о подготовке акта,
-        пересматривающего полномочия <orgName ref="Виленский_кагал">виленского кагала</orgName></cell>
+        <cell rendition="description">Рапорт <placeName role="namesViewer" target="/names/Литва.html"
+        >литовского</placeName> гражданского губернатора <persName role="namesViewer" target="/names/Фризель.html">
+        Фризеля</persName> генерал-губернатору <persName role="namesViewer" target="/names/Лассий.html"
+        >Де-Ласси</persName> о запросе документов у <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+        >виленского кагала</orgName> и о подготовке акта, пересматривающего полномочия <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName></cell>
         <cell rendition="date">1799-02-09</cell>
-        <cell rendition="author"><author><persName ref="Фризель">Фризель</persName></author></cell>
-        <cell rendition="addressee"><persName ref="Лассий">Де-Ласси</persName></cell>
+        <cell rendition="author"><author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName>
+        </author></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0276.html"
         >0276</ref></cell>
@@ -256,15 +266,17 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0276.html#p287-2" rendition="page"
           >287об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
-        <cell rendition="description">Рапорт <placeName ref="Литва">литовского</placeName> <persName ref="Фризель"
-        >гражданского губернатора</persName> о мотивах расследования действий <orgName ref="Виленский_кагал">виленского
-        кагала</orgName></cell>
+        <cell rendition="description">Рапорт <placeName role="namesViewer" target="/names/Литва.html"
+        >литовского</placeName> <persName role="namesViewer" target="/names/Фризель.html">гражданского губернатора
+        </persName> о мотивах расследования действий <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+        >виленского кагала</orgName></cell>
         <cell rendition="date">1799-02-12</cell>
-        <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
-        <cell rendition="addressee"><persName ref="Лассий">Де-Ласси</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0280.html"
         >0280</ref></cell>
@@ -286,7 +298,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0280.html#p283-2" rendition="missing-page"
           >283об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
@@ -321,14 +334,16 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description">Рапорт <placeName ref="Литва">литовского</placeName> гражданского губернатора
-        <persName ref="Фризель">Фризеля</persName> генерал-губернатору <persName ref="Лассий">Де-Ласси</persName> об
-        отправке копии предложений <orgName ref="Литовское_губернское_правление">Губернскому правлению</orgName> о
-        действиях в отношении <orgName ref="Виленский_кагал">виленского кагала</orgName>, а также копия самх
+        <cell rendition="description">Рапорт <placeName role="namesViewer" target="/names/Литва.html"
+        >литовского</placeName> гражданского губернатора <persName role="namesViewer" target="/names/Фризель.html">
+        Фризеля</persName> генерал-губернатору <persName role="namesViewer" target="/names/Лассий.html"
+        >Де-Ласси</persName> об отправке копии предложений <orgName role="namesViewer"
+        target="/names/Литовское_губернское_правление.html">Губернскому правлению</orgName> о действиях в отношении
+        <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>, а также копия самх
         предложений</cell>
         <cell rendition="date">1799-02-16</cell>
-        <cell rendition="author"><persName ref="Фризель">Фризель</persName></cell>
-        <cell rendition="addressee"><persName ref="Лассий">Де-Ласси</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0344.html"
         >0344</ref></cell>
@@ -346,7 +361,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0344.html#p346-2" rendition="page"
           >346об</ref>
         </cell>
-        <cell rendition="transcriber"><persName ref="VK">Василий Когаловский</persName></cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>

@@ -4,8 +4,10 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/ALD.html">Арье-Лейб Дубинский</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +17,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Титульный лист раздела: Бумаги <persName ref="Рафаил_Шлиомович">Рафаила Шломовича</persName></p>
-      </abstract>
+      <abstract><p>
+        Титульный лист раздела: Бумаги <persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">Рафаила
+        Шломовича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -28,7 +32,7 @@
     <fw type="pageNum" place="right"><del rend="overstrike">235<hi rend="superscript">а</hi></del></fw>
     <p>
       <l>бумаги</l>
-      <l><persName ref="Рафаил_Шлиомович">рафала шломовича</persName>.</l>
+      <l><persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">рафала шломовича</persName>.</l>
     </p>
     <pb xml:id="p234-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/234.html#p234-2"/>
   </body></text>

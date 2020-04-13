@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Хрущов">Хрущов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Хрущов.html">Хрущов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +17,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Хрущов">Хрущова</persName> <persName ref="Обольянинов">Обольянинову</persName> об
-        отсутствии антиправительственных намерений у <orgName ref="Хасиды">хасидов</orgName>
+        Рапорт <persName role="namesViewer" target="/names/Хрущов.html">Хрущова</persName> <persName role="namesViewer"
+        target="/names/Обольянинов.html">Обольянинову</persName> об отсутствии антиправительственных намерений у
+        <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>
       </p></abstract>
       <creation><date when="1800-10-10">10 октября 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -37,16 +39,17 @@
       <l>господину генералу отъ инфантерии</l>
       <l>генералъ прокурору, упровляющему про</l>
       <l>виянскимъ депортаментом и разныхъ</l>
-      <l>орденовъ кавалѣру! <persName ref="Обольянинов">Обольянинову</persName></l>
+      <l>орденовъ кавалѣру! <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName></l>
     </p>
-    <l>Комисионера 8 класа <persName ref="Хрущов">Хрущова</persName></l>
+    <l>Комисионера 8 класа <persName role="namesViewer" target="/names/Хрущов.html">Хрущова</persName></l>
     <l><head>Рапортъ</head></l>
     <p>
       <l>Всходствие повелѣния вашего высоко-</l>
       <l>превосходителства сего числа прибывъ</l>
-      <l>въ <placeName ref="Петербург">Санктъ Петербургъ</placeName>! имѣю честь яви-</l>
+      <l>въ <placeName role="namesViewer" target="/names/Петербург.html">Санктъ Петербургъ</placeName>! имѣю честь
+      яви-</l>
       <l>тся и донести! что какъ уже я докла-</l>
-      <l>дывалъ про <orgName ref="Хасиды">секту хосодовъ</orgName> что сторо-</l>
+      <l>дывалъ про <orgName role="namesViewer" target="/names/Хасиды.html">секту хосодовъ</orgName> что сторо-</l>
       <l>ны возмущения покоя обществе-</l>
       <l>ннаго и волнодумства! и неповинове-</l>
       <l>ния къ началству, онаго ничего нетъ</l>
@@ -54,12 +57,12 @@
       <l>совершенномъ покое. Какъ я ихъ въ</l>
       <l>семъ и оставилъ! О чем имѣю счастие</l>
       <l>представить! Комисионеръ 8 класа</l>
-      <l><signed><persName ref="Хрущов">Хрущовъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Хрущов.html">Хрущовъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><date when="1800-10-10">10 октября<lb/>
        1800 года</date></l>
-      <l><placeName ref="Петербург">С. Петербургъ</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Петербург.html">С. Петербургъ</placeName></l>
     </closer>
     <pb xml:id="p263-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/263.html#p263-2"/>
   </body></text>

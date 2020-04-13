@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Фризель">Фризель</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,9 +16,10 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> в связи с
-        получением <orgName ref="Сенат">сенатского</orgName> указа и намерением взыскать недоимку со старшин <orgName
-        ref="Виленский_кагал">виленского кагала</orgName>
+        Рапорт <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского губернского
+        правления</orgName> в связи с получением <orgName role="namesViewer" target="/names/Сенат.html"
+        >сенатского</orgName> указа и намерением взыскать недоимку со старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
       </p></abstract>
       <creation><date when="1800-09-10">Сентября 10 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -30,37 +32,41 @@
     <fw type="pageNum" place="right">6</fw>
     <date when="1800-09-21">1800 сентября 21</date><note place="end">дата вписана другим почерком и другими чернилами
     </note>
-    <head><orgName ref="Сенат">Правительствующему Сенату</orgName>,<lb/>
-       <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName><lb/>
+    <head><orgName role="namesViewer" target="/names/Сенат.html">Правительствующему Сенату</orgName>,<lb/>
+       <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго Губернскаго Правленія</orgName><lb/>
        Рапортъ о полученіи Указа.</head>
     <p>
       <l><emph rend="big">Его императорскаго величе-<lb/>
-       ства</emph> изъ Правительствующаго <orgName ref="Сенат">Се-<lb/>
+       ства</emph> изъ Правительствующаго <orgName role="namesViewer" target="/names/Сенат.html">Се-<lb/>
        ната</orgName> Указъ отъ <date when="1800-08-27">27<hi rend="superscript">го</hi> прошедшаго августа</date></l>
       <l><fw type="docNum">подъ № 4,381<hi rend="superscript">м</hi></fw> послѣдовавшій по поводу</l>
-      <l>представленія <placeName ref="Литва">Литовскаго</placeName> военнаго</l>
+      <l>представленія <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> военнаго</l>
       <l>Губернатора и управляющаго граждан-</l>
       <l>скою частію Генерала отъ Инфантеріи</l>
-      <l><persName ref="Кутузов">Голенищева-Кутузова</persName> съ предписаніемъ</l>
+      <l><persName role="namesViewer" target="/names/Кутузов.html">Голенищева-Кутузова</persName> съ предписаніемъ</l>
       <l>овзысканіи безъ малѣйшаго промедле-</l>
-      <l>нія съ отрешенныхъ <orgName ref="Виленский_кагал">виленскаго еврей-<lb/>
+      <l>нія съ отрешенныхъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго еврей-<lb/>
        скаго Кагала</orgName> старшинъ выбранной</l>
       <l>ими доимки съ еврейскаго общества</l>
       <l>и въ казну невнесенныхъ казенныхъ</l>
       <l>податей, сего <date when="1800-09-06">сентября 6<hi rend="superscript">го</hi> числа</date> въ сем</l>
-      <l><orgName ref="Литовское_губернское_правление">Правленіи</orgName> полученъ.</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Правленіи</orgName>
+      полученъ.</l>
     </p>
     <p>
       <l>И по оному <emph rend="big">Его императорскаго<lb/>
-       величества</emph> Указу въ <orgName ref="Литовское_губернское_правление">Литовскомъ<lb/>
+       величества</emph> Указу въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовскомъ<lb/>
        Губернскомъ правленіи</orgName> <emph rend="big">опредѣлено</emph>:</l>
-      <l>о полученіи Указа <orgName ref="Сенат">Правительствующему<lb/>
-       Сенату</orgName> отрапортовать, <placeName ref="Вильна">виленской</placeName> же</l>
+      <l>о полученіи Указа <orgName role="namesViewer" target="/names/Сенат.html">Правительствующему<lb/>
+       Сенату</orgName> отрапортовать, <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName>
+      же</l>
       <fw type="note">слушано <date when="1800-10-05">5<hi rend="superscript">го</hi> октября 1800</date>.</fw><note
       place="end">вписано другим почерком и другими чернилами</note>
       <l><pb xml:id="p006-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/006.html#p006-2"
       /> Городской Полиціи предписать Указом,</l>
-      <l>чтобъ она бывшихъ въ 1798<hi rend="superscript">м</hi> году <orgName ref="Виленский_кагал">вилен-<lb/>
+      <l>чтобъ она бывшихъ въ 1798<hi rend="superscript">м</hi> году <orgName role="namesViewer"
+      target="/names/Виленский_кагал.html">вилен-<lb/>
        скаго еврейскаго кагала</orgName> старшинъ за</l>
       <l>разные безпорядки отрешенныхъ, пону-</l>
       <l>дила къ немедлѣнной уплатѣ состоя</l>
@@ -77,11 +83,12 @@
       <l>посредствомъ вырученныхъ съ публич</l>
       <l>ной продажи изъ ихъ имѣній денегъ</l>
       <l>и послѣдующемъ донесла правленію,</l>
-      <l>о чемъ <orgName ref="Сенат">Правительствующему Сенату</orgName></l>
-      <l>сіе <orgName ref="Литовское_губернское_правление">Правленіе</orgName> покорнѣйше доноситъ.</l>
+      <l>о чемъ <orgName role="namesViewer" target="/names/Сенат.html">Правительствующему Сенату</orgName></l>
+      <l>сіе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Правленіе</orgName>
+      покорнѣйше доноситъ.</l>
     </p>
-    <l><signed><placeName ref="Литва">Литовскій</placeName> Гражданскій Губернаторъ <persName ref="Фризель">Фризель
-    </persName></signed></l>
+    <l><signed><placeName role="namesViewer" target="/names/Литва.html">Литовскій</placeName> Гражданскій Губернаторъ
+    <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></signed></l>
     <fw type="note" place="right">Секретарь <signed><unclear>Бабятокскій</unclear></signed></fw>
     <closer place="left">
       <l><fw type="docNum">№ 459</fw>.</l>

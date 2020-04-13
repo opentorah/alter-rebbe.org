@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Фризель">Фризель</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -17,8 +18,8 @@
       <abstract>
         <p>
           Приложение Б к документу № <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html"
-          >21</ref>. Объявление <persName ref="Фризель">Фризеля</persName> о высочайше дорованной терпимости к <orgName
-          ref="Хасиды">секте Каролинов</orgName>
+          >21</ref>. Объявление <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> о высочайше
+          дорованной терпимости к <orgName role="namesViewer" target="/names/Хасиды.html">секте Каролинов</orgName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/032.html">032</ref> в РГИА 413</p>
       </abstract>
@@ -31,34 +32,39 @@
     <head>
       <pb xml:id="p274" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/274.1.html#p274"/>
       Приложение Б к документу № <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html">21</ref>.
-      Объявленіе <placeName ref="Литва">Литовскаго</placeName> губернатора о высочайше дорованной терпимости къ <orgName
-      ref="Хасиды">сектѣ Каролиновъ</orgName>.
+      Объявленіе <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> губернатора о высочайше
+      дорованной терпимости къ <orgName role="namesViewer" target="/names/Хасиды.html">сектѣ Каролиновъ</orgName>.
     </head>
     <p>Получено <date when="1800-01-23">Генваря 23-го 1800</date> года.</p>
     <p>
-      Предложеніе Дѣйст. Ст. Совѣтника <placeName ref="Литва">Литовскаго</placeName> Гражданскаго Губернатора <placeName
-      ref="Вильна">Виленской</placeName> Городской Полиціи.
+      Предложеніе Дѣйст. Ст. Совѣтника <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName>
+      Гражданскаго Губернатора <placeName role="namesViewer" target="/names/Вильна.html">Виленской</placeName> Городской
+      Полиціи.
     </p>
     <p>
-      Предлагаю <placeName ref="Вильна">Виленской</placeName> Полиціи: — призвавъ прежнихъ <orgName
-      ref="Виленский_кагал">Виленскаго Еврейскаго Кагала</orgName> старшинъ евреевъ <persName ref="Мовша_Ошерович">Мовшу
-      Ошеровича</persName> и <persName ref="Ицка_Мелентович">Ицку Мелентовича</persName>, утруждавшихъ Государя
-      Императора прошеніями и посылавшихъ таковыя же и г-ну Кавалеру <persName ref="Беклешов">Беклешову</persName> о
-      уничтоженіи между прочимъ <orgName ref="Хасиды">секты Каролиновъ</orgName> и о оставленіи Кагалу и Синагогѣ права
-      заниматься разборомъ гражданскихъ дѣлъ между евреями, объявить: что по Высочайшему Е. И. В-ва соизволенію <orgName
-      ref="Хасиды">секта Каролинская</orgName> должна быть терпима, и что Кагалъ долженствуетъ заниматься единственно
-      дѣлами обрядовъ закона и Богослуженія, не вмѣшиваясь отнюдь въ гражданскія дѣла, для коихъ установлены закономъ
-      особенныя мѣста, — а что сіе имъ объявлено взять отъ нихъ подпись и о томъ меня увѣдомить. Подлинное подписалъ
-      <persName ref="Фризель">Иванъ Фризель</persName>. Съ подлиннымъ сверялъ Регистраторъ Кичковичъ. <date
-      when="1800-01-23">Генваря 23-го дня, 1800</date> года, <placeName ref="Вильна">Вильна</placeName>.
+      Предлагаю <placeName role="namesViewer" target="/names/Вильна.html">Виленской</placeName> Полиціи: — призвавъ
+      прежнихъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">Виленскаго Еврейскаго Кагала</orgName>
+      старшинъ евреевъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовшу Ошеровича</persName> и
+      <persName role="namesViewer" target="/names/Ицка_Мелентович.html">Ицку Мелентовича</persName>, утруждавшихъ
+      Государя Императора прошеніями и посылавшихъ таковыя же и г-ну Кавалеру <persName role="namesViewer"
+      target="/names/Беклешов.html">Беклешову</persName> о уничтоженіи между прочимъ <orgName role="namesViewer"
+      target="/names/Хасиды.html">секты Каролиновъ</orgName> и о оставленіи Кагалу и Синагогѣ права заниматься разборомъ
+      гражданскихъ дѣлъ между евреями, объявить: что по Высочайшему Е. И. В-ва соизволенію <orgName role="namesViewer"
+      target="/names/Хасиды.html">секта Каролинская</orgName> должна быть терпима, и что Кагалъ долженствуетъ заниматься
+      единственно дѣлами обрядовъ закона и Богослуженія, не вмѣшиваясь отнюдь въ гражданскія дѣла, для коихъ установлены
+      закономъ особенныя мѣста, — а что сіе имъ объявлено взять отъ нихъ подпись и о томъ меня увѣдомить. Подлинное
+      подписалъ <persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName>. Съ подлиннымъ
+      сверялъ Регистраторъ Кичковичъ. <date when="1800-01-23">Генваря 23-го дня, 1800</date> года, <placeName
+      role="namesViewer" target="/names/Вильна.html">Вильна</placeName>.
     </p>
     <p>
-      <date when="1800-04-11">1800 года, Апрѣля 11-го дня</date>. По указу Е. И. В-ва въ <placeName ref="Вильна">
-      Виленской</placeName> Городской Полиціи, по поданному отъ <placeName ref="Вильна">Виленскаго</placeName> купца
-      <persName ref="Меер_Рафалович">Меера Рафаиловича</persName> прошенію, — приказали: оному <persName
-      ref="Меер_Рафалович">Рафаиловичу</persName> просимую имъ сію копію выдать. На подлинной подписанъ частный Приставъ
-      Иванъ Тарновскій. У сей копіи <placeName ref="Вильна">Виленской</placeName> Городской Полиціи печать. Пошлинъ 52½
-      к. взято. (М. П.).
+      <date when="1800-04-11">1800 года, Апрѣля 11-го дня</date>. По указу Е. И. В-ва въ <placeName role="namesViewer"
+      target="/names/Вильна.html">Виленской</placeName> Городской Полиціи, по поданному отъ <placeName
+      role="namesViewer" target="/names/Вильна.html">Виленскаго</placeName> купца <persName role="namesViewer"
+      target="/names/Меер_Рафалович.html">Меера Рафаиловича</persName> прошенію, — приказали: оному <persName
+      role="namesViewer" target="/names/Меер_Рафалович.html">Рафаиловичу</persName> просимую имъ сію копію выдать. На
+      подлинной подписанъ частный Приставъ Иванъ Тарновскій. У сей копіи <placeName role="namesViewer"
+      target="/names/Вильна.html">Виленской</placeName> Городской Полиціи печать. Пошлинъ 52½ к. взято. (М. П.).
     </p>
   </body></text>
 </TEI>

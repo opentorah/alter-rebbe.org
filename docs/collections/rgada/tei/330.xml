@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,12 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Пален">Палену</persName> о переводе
-        <persName ref="alter-rebbe">Шнеура Залмана</persName> из-под ареста на квартиру
+        Сообщение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+        role="namesViewer" target="/names/Пален.html">Палену</persName> о переводе <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName> из-под ареста на квартиру
       </p></abstract>
       <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Пален" role="addressee">Палену</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Пален.html">Палену</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -31,9 +34,12 @@
     зачеркнут карандашом</note>
     <fw type="pageNum" place="right">330</fw><note place="end">номер вписан карандашом</note>
     <p>
-      <l><salute>М. Г. мой Графъ <persName ref="Пален">Петръ Алексеевичъ</persName>!</salute></l>
+      <l><salute>
+        М. Г. мой Графъ <persName role="namesViewer" target="/names/Пален.html">Петръ Алексеевичъ</persName>!
+      </salute></l>
       <l>Г:И<note place="end">Государь Император</note> высочайше повелѣть соизволилъ</l>
-      <l>еврея <persName ref="alter-rebbe">Боруховича</persName> выпустить въ квартиру,</l>
+      <l>еврея <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> выпустить въ
+      квартиру,</l>
       <l>но чтобъ изъ города не выѣзжалъ доколѣ</l>
       <l>не будетъ позволено, въ чемъ обязать</l>
       <l>его съ поручительствомъ подпискою,</l>
@@ -41,8 +47,9 @@
       <l>Извѣщая о сей высочайшей волѣ</l>
       <l>ваше с<hi rend="superscript">во</hi> для надлежащаго испол-</l>
       <l>ненія имѣю честь увѣдомить, что</l>
-      <l>пребываніе еврей <persName ref="alter-rebbe">Боруховичъ</persName> долженъ</l>
-      <l>будетъ имѣть въ домѣ <persName ref="Цуберт">Цуберта</persName>,</l>
+      <l>пребываніе еврей <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичъ</persName>
+      долженъ</l>
+      <l>будетъ имѣть въ домѣ <persName role="namesViewer" target="/names/Цуберт.html">Цуберта</persName>,</l>
       <l>гдѣ и прочіе евреи жительствуютъ.</l>
       <l>Пребываю<note place="end">далее значок, свидетельствующий о стандартной форме - "пребываю с совершенным
       почтением"</note></l>
@@ -51,7 +58,7 @@
       <l><fw type="docNum">№ 962<hi rend="superscript">й</hi>.</fw></l>
       <l><date when="1800-11-28">Ноября 28 дня<lb/>
        1800 года</date></l>
-      <l>Графу <persName ref="Пален">Палену</persName></l>
+      <l>Графу <persName role="namesViewer" target="/names/Пален.html">Палену</persName></l>
     </closer>
     <pb xml:id="p330-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/330.html#p330-2"/>
   </body></text>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          Извещение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору</persName> о
-          справках по его денежным претензиям и справка <placeName ref="Подольская_губерния">Подольского</placeName>
+          Извещение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справках по его денежным претензиям и
+          справка <placeName role="namesViewer" target="/names/Подольская_губерния.html">Подольского</placeName>
           губернатора
         </p>
         <p>
@@ -26,8 +28,8 @@
       </abstract>
       <creation><date when="1800-10-07" calendar="#julian">1800-10-07</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Авигдор" role="addressee">Авигдору</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -38,9 +40,11 @@
     <fw type="docNum">въ акад. - №: 9315</fw>
     <fw type="docNum">универ – 9316.</fw>
     <p>
-      <l>отъ <persName ref="Обольянинов">Генерала Прокурора</persName> бывшему Евреискому</l>
-      <l>оберъ рабину <emph rend="big"><persName ref="Авигдор">ХАИМУ</persName></emph>, утруждавшему Его <emph
-      rend="big">ИМВВО</emph><note place="end">Его Императорское Величество</note></l>
+      <l>отъ <persName role="namesViewer" target="/names/Обольянинов.html">Генерала Прокурора</persName> бывшему
+      Евреискому</l>
+      <l>оберъ рабину <emph rend="big"><persName role="namesViewer" target="/names/Авигдор.html"
+      >ХАИМУ</persName></emph>, утруждавшему Его <emph rend="big">ИМВВО</emph><note place="end">Его Императорское
+      Величество</note></l>
       <l>всеподданнѣйшею жалобою что онъ внесъ въ евреи</l>
       <l>скій Кагалъ .400. червонныхъ <del rend="overstrike">и проч. выписки</del></l>
       <l><del rend="overstrike">и записки</del> за полученіе того мѣста, но</l>
@@ -49,12 +53,16 @@
       <l>объявляется, что на оную послѣдовало высочаи</l>
       <l>шее повелѣніе, и сообщено къ генералу</l>
       <l>отинфантеріи и управляющимъ губерніями</l>
-      <l><placeName ref="Литва">литовскою</placeName> <persName ref="Кутузов">Голенищеву Кутузову</persName>, <placeName
-      ref="Минская_губерния">минскою</placeName></l>
-      <l><placeName ref="Волынская_губерния">волынскою</placeName> и <placeName ref="Подольская_губерния">подольскою
-      </placeName> <persName ref="Розенберг">Розенбергу</persName> также</l>
-      <l><placeName ref="Минская_губерния">минскому</placeName> граждан: губернатору</l>
-      <l><persName ref="Карнеев">Корнѣеву</persName>, что естьли въ губерніяхъ управ</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">литовскою</placeName> <persName role="namesViewer"
+      target="/names/Кутузов.html">Голенищеву Кутузову</persName>, <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">минскою</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Волынская_губерния.html">волынскою</placeName> и <placeName
+      role="namesViewer" target="/names/Подольская_губерния.html">подольскою</placeName> <persName role="namesViewer"
+      target="/names/Розенберг.html">Розенбергу</persName> также</l>
+      <l><placeName role="namesViewer" target="/names/Минская_губерния.html">минскому</placeName> граждан:
+      губернатору</l>
+      <l><persName role="namesViewer" target="/names/Карнеев.html">Корнѣеву</persName>, что естьли въ губерніяхъ
+      управ</l>
       <l>ления ихъ ввѣренныхъ еврѣйскій кагалъ</l>
       <l>взялъ те деньги, то въ оныхъ, а равно</l>
       <l>и впонесенныхъ чрезъ потеряніе</l>

@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
+      <titleStmt><editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+      Когаловский</persName></editor></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,8 +13,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сведения о <orgName ref="Хасиды">хасидах</orgName>, полученные в ходе негласного правительственного
-        расследования
+        Сведения о <orgName role="namesViewer" target="/names/Хасиды.html">хасидах</orgName>, полученные в ходе
+        негласного правительственного расследования
       </p></abstract>
       <creation><date when="1800-08">август 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -27,22 +28,24 @@
     <fw type="pageNum" place="right"><del rend="overstrike">253</del></fw><note place="end">номер записан чернилами,
     вычеркнут карандашом</note>
     <p>
-      <l>Извѣстной еврейской <orgName ref="Хасиды">секты</orgName> въ <placeName ref="Белоруссия">Бѣло-<lb/>
+      <l>Извѣстной еврейской <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName> въ <placeName
+      role="namesViewer" target="/names/Белоруссия.html">Бѣло-<lb/>
        руссіи</placeName> находящійся Патріархъ или началь-</l>
-      <l>никъ <persName ref="alter-rebbe">Саломонъ Борговичъ</persName> живетъ въ</l>
-      <l><placeName ref="Лиозно">Лоснѣ</placeName> въ 8<hi rend="superscript">ми</hi> миляхъ отъ <placeName
-      ref="Витебск">Витебска</placeName>. _</l>
-      <l>Число ихъ въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> и <placeName ref="Литва">Литвѣ</placeName></l>
+      <l>никъ <persName role="namesViewer" target="/names/alter-rebbe.html">Саломонъ Борговичъ</persName> живетъ въ</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">Лоснѣ</placeName> въ 8<hi rend="superscript">ми</hi>
+      миляхъ отъ <placeName role="namesViewer" target="/names/Витебск.html">Витебска</placeName>. _</l>
+      <l>Число ихъ въ <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлоруссіи</placeName> и <placeName
+      role="namesViewer" target="/names/Литва.html">Литвѣ</placeName></l>
       <l>простирается до 40,000 человѣкъ. _ Увѣ-</l>
       <l>ряютъ, что они весьма дерзко говорятъ</l>
       <l>на щетъ закона и общественныхъ обя-</l>
       <l>занностей._ Таинственное принятіе</l>
-      <l>въ ихъ <orgName ref="Хасиды">Секту</orgName> сопровождается клятвою,</l>
+      <l>въ ихъ <orgName role="namesViewer" target="/names/Хасиды.html">Секту</orgName> сопровождается клятвою,</l>
       <l>и они предъ своимъ начальникомъ обя-</l>
       <l>зуются слѣпымъ и неограниченнымъ по-</l>
       <l>виновеніемъ. _ По многимъ призна-</l>
       <l>камъ заключать вѣроподобно можно,</l>
-      <l>что сія <orgName ref="Хасиды">секта</orgName> есть иллюминатовъ.</l>
+      <l>что сія <orgName role="namesViewer" target="/names/Хасиды.html">секта</orgName> есть иллюминатовъ.</l>
     </p>
     <pb xml:id="p248-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/248.html#p248-2"/>
   </body></text>

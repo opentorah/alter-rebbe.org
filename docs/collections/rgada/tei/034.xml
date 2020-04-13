@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,9 +18,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Доклад <persName ref="Лопухин">Лопухина</persName> императору о первом допросе <persName ref="alter-rebbe"
-        >Шнеура Залмана</persName> с резолюцией <persName ref="Павел_I">Павла I</persName> о ведении следствия на
-        еврейском языке
+        Доклад <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> императору о первом допросе
+        <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> с резолюцией <persName
+        role="namesViewer" target="/names/Павел_I.html">Павла I</persName> о ведении следствия на еврейском языке
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -28,18 +30,19 @@
     <pb xml:id="p034-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/034.html#p034-1"/>
     <fw type="pageNum" place="right"><del rend="overstrike">441</del></fw>
     <fw type="pageNum" place="right">34.</fw>
-    <head>О еврее <persName ref="alter-rebbe">Боруховиче</persName></head>
+    <head>О еврее <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховиче</persName></head>
     <fw type="note" place="left margin">
       <l>О сіемъ Боруховичѣ о произхождѣніи секты и о протчемъ, написать</l>
       <l>на еврѣйскомъ языкѣ, здѣлавъ ему обстоятельныя допросы все пункты.</l>
       <l>докладывано <date when="1798-10-07">7 октября</date></l>
     </fw>
     <p>
-      <l><placeName ref="Белоруссия">белоруской</placeName> гражданской губер-</l>
-      <l>наторъ <persName ref="Жегулин">Жегулинъ</persName> по высочай</l>
+      <l><placeName role="namesViewer" target="/names/Белоруссия.html">белоруской</placeName> гражданской губер-</l>
+      <l>наторъ <persName role="namesViewer" target="/names/Жегулин.html">Жегулинъ</persName> по высочай</l>
       <l>шему Вашего Императорскаго</l>
       <l>величества повелѣнїю прислалъ</l>
-      <l>ко мнѣ <emph rend="underline">еврея <persName ref="alter-rebbe">боруховича</persName></emph>, на ко-</l>
+      <l>ко мнѣ <emph rend="underline">еврея <persName role="namesViewer" target="/names/alter-rebbe.html"
+      >боруховича</persName></emph>, на ко-</l>
       <l>тораго доносятъ якобы онъ</l>
       <l>завел новую еврейскую секту</l>
       <l>и збирал съ другихъ евреевъ</l>
@@ -53,7 +56,7 @@
       <l>в разборѣ духовныхъ дѣлъ</l>
       <l>еврейскихъ, которыя ево дарятъ</l>
       <l>по произволенію послѣ сужденія.</l>
-      <l>пріезжаютъ же евреи изъ <placeName ref="Иерусалим">Иеруса<lb/>
+      <l>пріезжаютъ же евреи изъ <placeName role="namesViewer" target="/names/Иерусалим.html">Иеруса<lb/>
        лима</placeName> и по древнему ихъ обыкно-</l>
       <l>венїю збираютъ съ евреевъ добро-</l>
       <l>вольныя подачи, не только въ</l>
@@ -70,9 +73,10 @@
     </p>
     <p>
       <l>Гражданскія же губернаторы</l>
-      <l><placeName ref="Литва">литовской</placeName> <persName ref="Булгаков">булгаковъ</persName> и <placeName
-      ref="Белоруссия">белору<lb/>
-       ской</placeName> <persName ref="Жегулин">Жегулинъ</persName> описываютъ его</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">литовской</placeName> <persName role="namesViewer"
+      target="/names/Булгаков.html">булгаковъ</persName> и <placeName role="namesViewer" target="/names/Белоруссия.html"
+      >белору<lb/>
+       ской</placeName> <persName role="namesViewer" target="/names/Жегулин.html">Жегулинъ</persName> описываютъ его</l>
       <l>весьма вреднымъ человѣкомъ</l>
       <l>и дабы въ томъ совершенно</l>
       <l>удостоверится, то нужно сыс-</l>

@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,10 +16,11 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Копия письма с подписью <persName ref="Гирш_Давидович">Гирша Давыдовича</persName> о злоупотреблениях <placeName
-        ref="Вильна">виленской</placeName> городской власти; копия датирована 11 мая в отличие другой копии от 10 мая
-        (<ref role="documentViewer" target="/collections/rgada/documents/001.html">001</ref>) и имеет существенные
-        отличия от нее
+        Копия письма с подписью <persName role="namesViewer" target="/names/Гирш_Давидович.html">Гирша
+        Давыдовича</persName> о злоупотреблениях <placeName role="namesViewer" target="/names/Вильна.html"
+        >виленской</placeName> городской власти; копия датирована 11 мая в отличие другой копии от 10 мая (<ref
+        role="documentViewer" target="/collections/rgada/documents/001.html">001</ref>) и имеет существенные отличия от
+        нее
       </p></abstract>
       <creation><date when="1798-05-11">маія 11 дня 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
@@ -36,8 +38,8 @@
     </head>
     <p>
       <l>
-        <placeName ref="Литва">Литовской губерніи</placeName>
-        <placeName ref="Вильна">виленской</placeName>
+        <placeName role="namesViewer" target="/names/Литва.html">Литовской губерніи</placeName>
+        <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName>
       </l>
       <l>городничей нѣмецъ Менше имѣя</l>
       <l>при себѣ секретаря Ивана Матвѣ-</l>
@@ -65,7 +67,7 @@
       <l>удовольствія не учинено, того ради</l>
       <l><pb xml:id="p011-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/011.html#p011-2"/>
       <fw type="pageNum">11 об.</fw> для изслѣдованія чрезъ прокурора</l>
-      <l><placeName ref="Вильна">виленскаго</placeName> или надворный судъ</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">виленскаго</placeName> или надворный судъ</l>
       <l>о сихъ ихъ взяткахъ съ присягою</l>
       <l>обывателей и евреевъ порознь спро</l>
       <l>сить во изобличеніе ихъ съ отрѣ</l>
@@ -77,7 +79,7 @@
       <l>вашего Сіятельства</l>
       <l>Милостивѣйшаго Государя</l>
       <l>всенижайшій слуга</l>
-      <l><persName ref="Гирш_Давидович">Гиршъ Давыдовичъ</persName>.</l>
+      <l><persName role="namesViewer" target="/names/Гирш_Давидович.html">Гиршъ Давыдовичъ</persName>.</l>
     </p>
     <p>
       <l>Съ подлиннымъ вѣрно Секретарь Иванъ</l>
@@ -86,7 +88,7 @@
     <closer>
       <l><date when="1798-05-11">маія 11 дня<lb/>
        1798</date></l>
-      <l><placeName ref="Вильна">вилна</placeName>.</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName>.</l>
     </closer>
   </body></text>
 </TEI>

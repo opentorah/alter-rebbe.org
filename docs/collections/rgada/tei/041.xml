@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Лопухин">Лопухин</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,14 +18,16 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение <persName ref="Лопухин">Лопухина</persName> о выполнении перевода показаний <persName
-        ref="alter-rebbe">Шнеура Залмана</persName> в <placeName ref="Литва">Литовской губернии</placeName> и удержании
-        задержанных <orgName ref="Хасиды">хасидов</orgName> под стражей в <placeName ref="Вильна">Вильне</placeName>
+        Распоряжение <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> о выполнении перевода
+        показаний <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура Залмана</persName> в <placeName
+        role="namesViewer" target="/names/Литва.html">Литовской губернии</placeName> и удержании задержанных <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> под стражей в <placeName role="namesViewer"
+        target="/names/Вильна.html">Вильне</placeName>
       </p></abstract>
       <creation><date when="1798-10-18">18 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Булгаков" role="addressee">Булгакову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Булгаков.html">Булгакову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -31,17 +35,20 @@
     <pb xml:id="p041-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/041.html#p041-1"/>
     <fw type="note" place="left">Секретно</fw>
     <fw type="pageNum" place="right">41.</fw>
-    <salute><l>Милостивый Государь мой <persName ref="Булгаков">Яковъ Ивановичъ</persName>!</l></salute>
+    <salute>
+      <l>Милостивый Государь мой <persName role="namesViewer" target="/names/Булгаков.html">Яковъ
+      Ивановичъ</persName>!</l>
+    </salute>
     <p>
       <l>По сообщенію Вашего прв<hi rend="superscript">а</hi></l>
       <l>отъ <date when="1798-10-04">4<hi rend="superscript">го</hi> сего октября</date> о производствѣ</l>
-      <l>слѣдствія о новой <orgName ref="Хасиды">сектѣ евреевъ</orgName>,</l>
+      <l>слѣдствія о новой <orgName role="namesViewer" target="/names/Хасиды.html">сектѣ евреевъ</orgName>,</l>
       <l>и что по окончаніи онаго доста-</l>
       <l>вить <hi rend="superscript">ко мнѣ</hi> всѣ бумаги и причастныхъ</l>
       <l>въ томъ евреевъ; а такъже и</l>
       <l>о здѣланномъ отъ находящагося</l>
       <l>здѣсь объявленнаго той секты</l>
-      <l>начальникомъ еврея <persName ref="alter-rebbe">Боруховича</persName></l>
+      <l>начальникомъ еврея <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName></l>
       <l>показаніи, которое по неотыска-</l>
       <l>нію переводчика остается безъ</l>
       <l>перевода, имѣлъ я щастіе все-</l>
@@ -57,13 +64,13 @@
       <l>по окончаніи слѣдствія доста-</l>
       <l>вили одни слѣдственныя бумаги,</l>
       <l>евреев <hi rend="superscript">же</hi> въ томъ причастныхъ</l>
-      <l>оставили въ <placeName ref="Вильна">вильнѣ</placeName> подъ стра-</l>
+      <l>оставили въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> подъ стра-</l>
       <l>жею; Сообщая симъ высоко-</l>
       <l>монаршую волю для надлежащего</l>
       <l><pb xml:id="p041-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/041.html#p041-2"/>
       <fw type="pageNum">41об.</fw> со стороны вашего прв<hi rend="superscript">а</hi> испол-</l>
       <l>ненія оное показаніе еврея</l>
-      <l><persName ref="alter-rebbe">Боруховича</persName> при семъ препровождаю</l>
+      <l><persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> при семъ препровождаю</l>
       <l>и имѣю честь быть съ совер-</l>
       <l>шеннымъ почтеніемъ</l>
       <l>Милос. Госуд. мой</l>
@@ -71,10 +78,11 @@
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 870.<hi rend="superscript">й</hi></fw></l>
-      <l><placeName ref="Петербург">въ С. п. бургѣ</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Петербург.html">въ С. п. бургѣ</placeName></l>
       <l><date when="1798-10-18">октября 18 дня<lb/>
        1798. года</date></l>
-      <l>Его пр<hi rend="superscript">ву</hi> <persName ref="Булгаков">Булгакову</persName>.</l>
+      <l>Его пр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Булгаков.html"
+      >Булгакову</persName>.</l>
     </closer>
   </body></text>
 </TEI>

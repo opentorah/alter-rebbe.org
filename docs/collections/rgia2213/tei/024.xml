@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,15 +17,15 @@
     <profileDesc>
       <abstract>
         <p>
-          Ордер <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Брискорн">Брискорну</persName> о
-          расследовании дела
+          Ордер <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Брискорн.html">Брискорну</persName> о расследовании дела
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/253.2.html">№ 4</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-06-07">Іюня 7 дня 1800 года.</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Брискорн" role="addressee">Брискорну</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Брискорн.html">Брискорну</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,19 +34,19 @@
     <fw type="pageNum" place="right">24</fw>
     <fw type="docNum" place="right">№. 4723</fw>
     <p>
-      <l><placeName ref="Литва">Литовскому</placeName> Прокурору Ордеръ</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName> Прокурору Ордеръ</l>
       <l>Имѣя высочайшее Его императорскаго</l>
       <l>Величества Повелеіе разсмотреть жало-</l>
-      <l>бу бывшаго въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ раббина</l>
-      <l><persName ref="Авигдор">Хайма</persName> на притесненія чинимыя ему</l>
+      <l>бу бывшаго въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName> оберъ раббина</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName> на притесненія чинимыя ему</l>
       <l>послѣдователями секты Шабзусъ- Цвикусъ</l>
-      <l>препроводилъ я оную къ Господину <placeName ref="Литва">Литов-<lb/>
+      <l>препроводилъ я оную къ Господину <placeName role="namesViewer" target="/names/Литва.html">Литов-<lb/>
        скому</placeName> военному Губернатору Генералу отъ</l>
-      <l>Инфантеріи <persName ref="Кутузов">Голенищеву Кутузову</persName>, дабы</l>
+      <l>Инфантеріи <persName role="namesViewer" target="/names/Кутузов.html">Голенищеву Кутузову</persName>, дабы</l>
       <l>онъ приказалъ всѣ обстоятельства оныя</l>
       <l>чрезъ кого следуетъ привести въ ясность</l>
       <l>въ чемъ именно состоитъ сія секта и</l>
-      <l>претензія на нее еврея <persName ref="Авигдор">Хайма</persName>, также</l>
+      <l>претензія на нее еврея <persName role="namesViewer" target="/names/Авигдор.html">Хайма</persName>, также</l>
       <l>можетъ ли быть она удовлетворена и</l>
       <l>на какомъ основаніи. А вашему высо-</l>
       <l>коблагородію рекомендую по присудствѣннымъ</l>

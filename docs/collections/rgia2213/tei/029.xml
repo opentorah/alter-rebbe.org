@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Кутузов">Кутузов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Кутузов.html">Кутузов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,16 +17,18 @@
     <profileDesc>
       <abstract>
         <p>
-          Сообщение <persName ref="Кутузов">Кутузова</persName> <persName ref="Обольянинов">Обольянинову</persName> о
-          сведениях от <persName ref="Карнеев">Карнеева</persName>, что секта „Шабсус-Цвинкус" или Китаевая ведет себя в
-          <placeName ref="Минская_губерния">Минской губернии</placeName> спокойно
+          Сообщение <persName role="namesViewer" target="/names/Кутузов.html">Кутузова</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> о сведениях от <persName
+          role="namesViewer" target="/names/Карнеев.html">Карнеева</persName>, что секта „Шабсус-Цвинкус" или Китаевая
+          ведет себя в <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской губернии</placeName>
+          спокойно
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/256.html">№ 9</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-07-12">1800-07-12</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,23 +38,28 @@
     <date when="1800-07-22">22 Іюля 1800.</date>
     <fw type="pageNum" place="right">29</fw>
     <fw type="note" place="left margin">ожидать на послѣднее отношеніе отвѣтствія.</fw>
-    <salute><l>Милостивый Государь мой <persName ref="Обольянинов">Петръ Хрисан-<lb/>фовичъ!</persName></l></salute>
+    <salute>
+      <l>Милостивый Государь мой <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисан-<lb
+      />фовичъ!</persName></l>
+    </salute>
     <p>
       <l>Въ слѣдствіе почтеннѣйшаго отношенія</l>
       <l>ко мнѣ вашего высокопревосходительства отъ 1<hi rend="superscript">го</hi></l>
       <l>Іюня съ изображеніемъ въ ономъ высочайшаго</l>
       <l>Его императорскаго величества повелѣнія</l>
       <l>о приведеніи въ ясность всѣхъ обстоятельствъ</l>
-      <l>жалобы бывшаго въ <placeName ref="Пинск">Пинскѣ</placeName> оберъ рабина</l>
-      <l><persName ref="Авигдор">Хаима</persName>, увѣдомить вас честь имѣю, что</l>
-      <l>по изысканіямъ моимъ въ <placeName ref="Литва">литовской губер-<lb/>
+      <l>жалобы бывшаго въ <placeName role="namesViewer" target="/names/Пинск.html">Пинскѣ</placeName> оберъ рабина</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName>, увѣдомить вас честь имѣю, что</l>
+      <l>по изысканіямъ моимъ въ <placeName role="namesViewer" target="/names/Литва.html">литовской губер-<lb/>
        ніи</placeName> послѣдователей секты Шабзусъ Цвинкусъ</l>
-      <l>не находится, а потому какъ <placeName ref="Пинск">Пинскъ</placeName> состоитъ</l>
-      <l>въ <placeName ref="Минская_губерния">Минской губерніи</placeName>, гдѣ и послѣдователи помя-</l>
+      <l>не находится, а потому какъ <placeName role="namesViewer" target="/names/Пинск.html">Пинскъ</placeName>
+      состоитъ</l>
+      <l>въ <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской губерніи</placeName>, гдѣ и
+      послѣдователи помя-</l>
       <l>нутой секты должны быть, сообщилъ я къ</l>
-      <l><placeName ref="Минская_губерния">минскому</placeName> гражданскому</l>
+      <l><placeName role="namesViewer" target="/names/Минская_губерния.html">минскому</placeName> гражданскому</l>
       <l>губернатору съ требованіемъ на жалобу</l>
-      <l><persName ref="Авигдор">Хаима</persName> объясненія, которой увѣдомляетъ</l>
+      <l><persName role="namesViewer" target="/names/Авигдор.html">Хаима</persName> объясненія, которой увѣдомляетъ</l>
       <l>меня изъ числа претензій его на 1<hi rend="superscript">ю</hi> заключаю-</l>
       <l>щуюся въ томъ, чтобы секта по ученому</l>
       <l>Шабзусъ Цвинкусъ, а попросту называвшаяся</l>
@@ -64,9 +72,10 @@
       <l>а древніе евреи со страхомъ и трепетомъ,</l>
       <l>противу чего въ прежнее польское правленіе</l>
       <l>отъ оберъ рабина сего многія были доносы</l>
-      <l>въ <placeName ref="Вильна">Вильну</placeName> и книги китаевцовъ тамъ сожи-</l>
+      <l>въ <placeName role="namesViewer" target="/names/Вильна.html">Вильну</placeName> и книги китаевцовъ тамъ
+      сожи-</l>
       <l>гаемы. Хотя въ прочемъ секта сія равно древ-</l>
-      <l>ней ихъ, существуя по городамъ <placeName ref="Минская_губерния">минской<lb/>
+      <l>ней ихъ, существуя по городамъ <placeName role="namesViewer" target="/names/Минская_губерния.html">минской<lb/>
        губерніи</placeName> вѣдетъ себя покойно и всѣ государст-</l>
       <l>венныя подати платитъ равно съ другими,</l>
       <l>отправляя молитвы свои и прочее безъ всякаго</l>
@@ -88,7 +97,8 @@
       /> <fw type="pageNum" place="right">30</fw> евреевъ, а не иной кто изъ другаго закона,</l>
       <l>таковое желаніе противно устроенному</l>
       <l>порядку правленія съ симъ мнѣніемъ</l>
-      <l><placeName ref="Минская_губерния">минскаго</placeName> гражданскаго губернатора бывъ</l>
+      <l><placeName role="namesViewer" target="/names/Минская_губерния.html">минскаго</placeName> гражданскаго
+      губернатора бывъ</l>
       <l>совершенно согласенъ, съ своей стороны</l>
       <l>дополню то только что и всѣ три пункта</l>
       <l>желаній просителя не основаны ни на какихъ</l>
@@ -105,14 +115,16 @@
       <l>Милостивый государь мой!</l>
       <l>вашего высокопревосходительства</l>
       <l>всепокорнейшій слуга</l>
-      <l><signed><persName ref="Кутузов">Михайла Голенищевъ Кутузовъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Кутузов.html">Михайла Голенищевъ Кутузовъ</persName>
+      </signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 1419</fw></l>
-      <l><placeName ref="Вильна">Вильна</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">Вильна</placeName></l>
       <l><date when="1800-07-12">июля 12 дня<lb/>
        1800 года</date></l>
-      <l>Его Высокопр<hi rend="superscript">у</hi> <persName ref="Обольянинов">Обольянинову</persName></l>
+      <l>Его Высокопр<hi rend="superscript">у</hi> <persName role="namesViewer" target="/names/Обольянинов.html"
+      >Обольянинову</persName></l>
     </closer>
     <pb xml:id="p030-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/rgia2213/facs/029.html#p030-2"/>

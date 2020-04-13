@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +18,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Булгаков">Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> об
-        освобождении всех арестованных <orgName ref="Хасиды">хасидов</orgName>
+        Сообщение <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> <persName
+        role="namesViewer" target="/names/Лопухин.html">Лопухину</persName> об освобождении всех арестованных <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>
       </p></abstract>
       <creation><date when="1798-11-25">25 ноября</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,13 +38,14 @@
     <salute><l>Милостивой Государь Петръ Васильевичъ!</l></salute>
     <p>
       <l>По написаніи всепокорнѣйшаго моего севоднишнаго</l>
-      <l>донесенія подъ <fw type="docNum">№ 209</fw>, пришла <placeName ref="Петербург">санктпетербургская</placeName>
-      почта,</l>
+      <l>донесенія подъ <fw type="docNum">№ 209</fw>, пришла <placeName role="namesViewer"
+      target="/names/Петербург.html">санктпетербургская</placeName> почта,</l>
       <l>съ которою имѣлъ я честь получить секретное вашего</l>
       <l>высокопревосходительства отношеніе отъ <date when="1798-11-17">17. ноября</date>,</l>
       <l>со изъявлениемъ всемилостивѣйшаго повелѣнія объ осво-</l>
       <l>божденіи всѣхъ евреевъ, арестованныхъ здѣсь по поводу</l>
-      <l>заведенной ими <orgName ref="Хасиды">секты, называемой Каролинскою</orgName>; и</l>
+      <l>заведенной ими <orgName role="namesViewer" target="/names/Хасиды.html">секты, называемой Каролинскою</orgName>;
+      и</l>
       <l>уже далъ, кому слѣдовало, приказаніе всѣхъ ихъ осво-</l>
       <l>бодить и отпустить въ ихъ домы, такъ что сіе дѣло</l>
       <l>кончено.</l>
@@ -58,13 +62,14 @@
       <l>Милостивой Государь!</l>
       <l>вашего высокопревосходительства</l>
       <l>всепокорнейшій слуга</l>
-      <l><signed><persName ref="Булгаков">Яковъ Булгаковъ</persName>.</signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Булгаков.html">Яковъ Булгаковъ</persName>.</signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 210</fw></l>
       <l><data when="1798-11-25">25 ноября 1798</data></l>
-      <l><placeName ref="Вильна">вилна</placeName></l>
-      <l>Его высокопревосходительству г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName>.</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName></l>
+      <l>Его высокопревосходительству г. Генералу Прокурору <persName role="namesViewer" target="/names/Лопухин.html"
+      >Лопухину</persName>.</l>
     </closer>
     <pb xml:id="p088-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/088.html#p088-2"/>
   </body></text>

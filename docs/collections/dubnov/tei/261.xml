@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 11. Объявление <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору
-          </persName> о справках по его денежным претензиям
+          № 11. Объявление <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName>
+          <persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справках по его денежным
+          претензиям
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/rgia2213/documents/052.html">052</ref> в РГИА 2213
@@ -25,29 +27,34 @@
       </abstract>
       <creation><date when="1800-10-03">3 октября 1800 (не ранее даты, указанной в документе)</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Авигдор" role="addressee">Авигдору</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p261" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/261.html#p261"/> № 11.
-      Объявленіе <persName ref="Авигдор">Авигдору</persName> о справкахъ по его денежнымъ претензіямъ.
+      Объявленіе <persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справкахъ по его
+      денежнымъ претензіямъ.
     </head>
     <p>
-      По принесенной отъ бывшаго еврейскаго оберъ рабина <persName ref="Авигдор">Хайма</persName> жалобѣ, что онъ внесъ
-      въ еврейскій кагалъ 400 червонныхъ за полученіе того мѣста, котораго онъ лишился происками <orgName ref="Хасиды">
-      каролиновъ</orgName> и оттого потерпѣлъ сверхъ того, — высочайше повелѣть соизволилъ <persName ref="Обольянинов">
+      По принесенной отъ бывшаго еврейскаго оберъ рабина <persName role="namesViewer" target="/names/Авигдор.html"
+      >Хайма</persName> жалобѣ, что онъ внесъ въ еврейскій кагалъ 400 червонныхъ за полученіе того мѣста, котораго онъ
+      лишился происками <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> и оттого потерпѣлъ
+      сверхъ того, — высочайше повелѣть соизволилъ <persName role="namesViewer" target="/names/Обольянинов.html">
       Генералу-Прокурору</persName>: отнестись къ генераламъ отъ инфантеріи и управляющимъ губерніями <placeName
-      ref="Литва">Литовскою</placeName> <persName ref="Кутузов">Голенищеву-Кутузову</persName> и <placeName
-      ref="Минская_губерния">Минскою</placeName>, <placeName ref="Волынская_губерния">Волынскою</placeName> и <placeName
-      ref="Подольская_губерния">Подольскою</placeName> <persName ref="Розенберг">Розенбергу</persName>, также къ
-      <placeName ref="Минская_губерния">Минскому</placeName> гражданскому губернатору <persName ref="Карнеев">Корнееву
-      </persName> съ тѣмъ, что если въ губерніяхъ управленію ихъ ввѣренныхъ еврейскій кагалъ взялъ съ него тѣ деньги, то
-      въ оныхъ, равно и въ понесенныхъ чрезъ потеряніе мѣста убыткахъ, просителя удовлетворить. О каковой высокомонаршей
-      волѣ къ упомянутымъ начальникамъ губерній отъ ген.-прокурора сообщено <date when="1800-10-03">3 октября (1800)
-      </date> и о томъ просителю объявляется.
+      role="namesViewer" target="/names/Литва.html">Литовскою</placeName> <persName role="namesViewer"
+      target="/names/Кутузов.html">Голенищеву-Кутузову</persName> и <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">Минскою</placeName>, <placeName role="namesViewer"
+      target="/names/Волынская_губерния.html">Волынскою</placeName> и <placeName role="namesViewer"
+      target="/names/Подольская_губерния.html">Подольскою</placeName> <persName role="namesViewer"
+      target="/names/Розенберг.html">Розенбергу</persName>, также къ <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">Минскому</placeName> гражданскому губернатору <persName role="namesViewer"
+      target="/names/Карнеев.html">Корнееву</persName> съ тѣмъ, что если въ губерніяхъ управленію ихъ ввѣренныхъ
+      еврейскій кагалъ взялъ съ него тѣ деньги, то въ оныхъ, равно и въ понесенныхъ чрезъ потеряніе мѣста убыткахъ,
+      просителя удовлетворить. О каковой высокомонаршей волѣ къ упомянутымъ начальникамъ губерній отъ ген.-прокурора
+      сообщено <date when="1800-10-03">3 октября (1800)</date> и о томъ просителю объявляется.
     </p>
   </body></text>
 </TEI>

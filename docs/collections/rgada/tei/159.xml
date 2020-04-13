@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <author>?</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского на русский язык фрагмента письма <orgName ref="Виленский_кагал">виленского кагала</orgName>
-        <placeName ref="Видзы">видзенскому</placeName> кагалу - см. <ref role="documentViewer"
+        Перевод с польского на русский язык фрагмента письма <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> <placeName role="namesViewer"
+        target="/names/Видзы.html">видзенскому</placeName> кагалу - см. <ref role="documentViewer"
         target="/collections/rgada/documents/158.html">158</ref> и <ref role="documentViewer"
         target="/collections/rgada/documents/054.html">054</ref>
       </p></abstract>
@@ -36,7 +38,7 @@
         <l>владѣющій цѣлымъ свѣтомъ</l>
         <l>да возвыситъ славу и число</l>
         <l>Израильскаго народа! Кагальнымъ</l>
-        <l>старшинамъ мѣстечка <placeName ref="Видзы">Видзы</placeName></l>
+        <l>старшинамъ мѣстечка <placeName role="namesViewer" target="/names/Видзы.html">Видзы</placeName></l>
         <l>съ цѣлымъ повятомъ</l>
       </p></cell>
     </row>

@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <author>Коробьин</author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт киевского губернатора Коробьина <persName ref="Обольянинов" role="addressee">Обольянинову</persName> о
-        введении надзора за <orgName ref="Хасиды">хасидами</orgName>
+        Рапорт киевского губернатора Коробьина <persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName> о введении надзора за <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидами</orgName>
       </p></abstract>
       <creation><date when="1800-11-19">ноября 19 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,12 +35,12 @@
     <fw type="pageNum" place="right">351</fw>
     <p>
       <l><salute>Милостивый Государь!<lb/>
-         <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
+         <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичъ</persName>!</salute></l>
       <l>Отношеніе вашего высокопревосходи-</l>
       <l>тельства отъ <date when="1800-11-01">1<hi rend="superscript">го</hi> ноября</date>, о имѣніи въ</l>
       <l>губерніи мнѣ въвѣренной самимъ тайнымъ</l>
       <l>образомъ наблюденія за поведеніемъ и</l>
-      <l>поступками <orgName ref="Хасиды">Каролинской секты евреевъ</orgName></l>
+      <l>поступками <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской секты евреевъ</orgName></l>
       <l>я имелъ честь получить <date when="1800-11-17">сего ноября 17<hi rend="superscript">го</hi><lb/>
        числа</date>. По которому всѣ нужные</l>
       <l>къ тому предосторожности и распоря-0</l>
@@ -57,7 +59,7 @@
       <l><date when="1800-11-19">ноября 19<hi rend="superscript">го</hi> дня<lb/>
        1800 года</date></l>
       <l>Его высокопревосходитель</l>
-      <l>ству <persName ref="Обольянинов">обольянинову</persName>.</l>
+      <l>ству <persName role="namesViewer" target="/names/Обольянинов.html">обольянинову</persName>.</l>
     </closer>
     <pb xml:id="p351-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/351.html#p351-2"/>
   </body></text>

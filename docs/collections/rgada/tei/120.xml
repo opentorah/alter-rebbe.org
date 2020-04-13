@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,8 +16,10 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Перевод с польского языка протокола допроса <persName ref="Шая_Ицкович">Шая Ицковича</persName></p>
-      </abstract>
+      <abstract><p>
+        Перевод с польского языка протокола допроса <persName role="namesViewer" target="/names/Шая_Ицкович.html">Шая
+        Ицковича</persName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -34,14 +37,16 @@
     <p>
       <l>Я Шая Ицковичъ, отъ роду имѣю</l>
       <l>36 лѣтъ, упражняюсь мещанскимъ</l>
-      <l>промысломъ, родился въ городѣ <placeName ref="Вильна">вилнѣ</placeName>,</l>
+      <l>промысломъ, родился въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вилнѣ</placeName>,</l>
       <l>женатъ, имѣю четыре дочери; три го-</l>
-      <l>да тому какъ вступилъ въ <orgName ref="Хасиды">каролин<lb/>
+      <l>да тому какъ вступилъ въ <orgName role="namesViewer" target="/names/Хасиды.html">каролин<lb/>
        скую секту</orgName>; назадъ тому 7 лѣтъ, бу-</l>
-      <l>дучи въ <placeName ref="Лиозно">Лознѣ</placeName>, видѣлъ <persName ref="alter-rebbe">рабина</persName>. въ</l>
+      <l>дучи въ <placeName role="namesViewer" target="/names/Лиозно.html">Лознѣ</placeName>, видѣлъ <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабина</persName>. въ</l>
       <l>секту сію вступилъ потому что счи</l>
-      <l>таютъ ихъ набожными; о <persName ref="Арон">Аронѣ</persName></l>
-      <l>слышалъ, <persName ref="Соломон">Саломона</persName> видѣлъ в <placeName ref="Минск">Мин<lb/>
+      <l>таютъ ихъ набожными; о <persName role="namesViewer" target="/names/Арон.html">Аронѣ</persName></l>
+      <l>слышалъ, <persName role="namesViewer" target="/names/Соломон.html">Саломона</persName> видѣлъ в <placeName
+      role="namesViewer" target="/names/Минск.html">Мин<lb/>
        скѣ</placeName>, а послѣ слышалъ, что онъ убитъ,</l>
       <l>о прочемъ ничего не знаю.</l>
       <l><signed>Подписалъ Шая Ицковичъ.</signed></l>

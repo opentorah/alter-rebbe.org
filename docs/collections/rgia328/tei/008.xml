@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Фризель">Фризель</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Письмо <persName ref="Фризель">Фризеля</persName> <persName ref="Обольянинов">Обольянинову</persName> о передаче
-        дела старшин <orgName ref="Виленский_кагал">виленского кагала</orgName> в надворный суд
+        Письмо <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> <persName role="namesViewer"
+        target="/names/Обольянинов.html">Обольянинову</persName> о передаче дела старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> в надворный суд
       </p></abstract>
       <creation><date when="1800-08-20">20 Августа 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,53 +35,62 @@
     другими чернилами</note>
     <fw type="pageNum" place="right"><del rend="overstrike">36</del></fw>
     <salute><l>Милостивый Государь<lb/>
-       <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</l></salute>
+       <persName role="namesViewer" target="/names/Обольянинов.html">Петръ Хрисанфовичъ</persName>!</l></salute>
     <p>
       <l>По жалобамъ отъ одного изъ отрѣшен-</l>
-      <l>ныхъ старшинъ <orgName ref="Виленский_кагал">виленскаго еврейскаго ка-<lb/>
-       гала</orgName>, нѣкоего <persName ref="Мовша_Ошерович">Мойжеша <emph rend="underline">ошеровича</emph></persName>
-      пред-</l>
+      <l>ныхъ старшинъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго еврейскаго ка-<lb/>
+       гала</orgName>, нѣкоего <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша <emph
+      rend="underline">ошеровича</emph></persName> пред-</l>
       <l>мѣстнику вашего высокопревосходительства</l>
-      <l>Князю <persName ref="Лопухин">Петру васильеевичу Лопухину</persName> въ про-</l>
-      <l>шедшемъ 1799<hi rend="superscript">м</hi> году принесеннымъ, на <orgName ref="Литовское_губернское_правление">
-      ли-<lb/>
+      <l>Князю <persName role="namesViewer" target="/names/Лопухин.html">Петру васильеевичу Лопухину</persName> въ
+      про-</l>
+      <l>шедшемъ 1799<hi rend="superscript">м</hi> году принесеннымъ, на <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">ли-<lb/>
        товское Губернское правленіе</orgName>, въ разныхъ</l>
-      <l>притесненіяхъ оному <orgName ref="Виленский_кагал">кагалу</orgName> якобы отъ</l>
-      <l>него нанесенныхъ, и на Совѣтника <orgName ref="Литовское_губернское_правление">правле</orgName></l>
-      <l>нія Г<hi rend="superscript">на</hi> <persName ref="Елиашевич">Еліашевича</persName>, въ причиненіи имъ</l>
-      <l>будто бы <orgName ref="Виленский_кагал">кагальнымъ</orgName> старшинамъ побоя</l>
+      <l>притесненіяхъ оному <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName> якобы
+      отъ</l>
+      <l>него нанесенныхъ, и на Совѣтника <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">правле</orgName></l>
+      <l>нія Г<hi rend="superscript">на</hi> <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевича</persName>, въ причиненіи имъ</l>
+      <l>будто бы <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагальнымъ</orgName> старшинамъ
+      побоя</l>
       <l>въ еврѣйской школѣ во время ихъ богослуже-</l>
       <l>нія, – въ слѣдствіе предписанія Его свѣтло-</l>
       <l>сти, поручено отъ меня было произвести</l>
-      <l>точнѣйшее изслѣдованіе <placeName ref="Литва">Литовскому</placeName></l>
+      <l>точнѣйшее изслѣдованіе <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName></l>
       <l>надворному суду. Судъ кончивъ нынѣ слѣд-</l>
       <l>ствіе сіе, и представя на утвержденіе свое</l>
       <l>опредѣленіе Господину Генералу отъ инфан</l>
-      <l>теріи, <placeName ref="Литва">Литовскому</placeName> военному Губернатору</l>
+      <l>теріи, <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName> военному Губернатору</l>
       <l>начальствующему по гражданской части</l>
       <l><fw type="note">краткую выписку сделалъ</fw><note place="end">строка вписана другим почерком</note></l>
       <l><pb xml:id="p008-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/008.html#p008-2"
-      /> и кавалеру <persName ref="Кутузов">Михайлѣ Ларіоновичу Голенищеву<lb/>
+      /> и кавалеру <persName role="namesViewer" target="/names/Кутузов.html">Михайлѣ Ларіоновичу Голенищеву<lb/>
        Кутузову</persName>, препроводилъ ихъ для свѣденія и ко мнѣ</l>
       <l>съ онаго копію. Хотя его высокопревосходитель</l>
-      <l>ство при отъездѣ въ <placeName ref="Петербург">Ст Петербургъ</placeName> изволили</l>
-      <l>предложить <placeName ref="Литва">Литовскому</placeName> надворному Суду</l>
+      <l>ство при отъездѣ въ <placeName role="namesViewer" target="/names/Петербург.html">Ст Петербургъ</placeName>
+      изволили</l>
+      <l>предложить <placeName role="namesViewer" target="/names/Литва.html">Литовскому</placeName> надворному Суду</l>
       <l>дѣла до чиновниковъ касающіяся, препровож-</l>
       <l>дать на утвержденіе къ нему одному, и слѣд-</l>
-      <l>ственно положенія <placeName ref="Литва">литовскимъ</placeName> надворнымъ</l>
-      <l>судомъ по жалобамъ <persName ref="Мовша_Ошерович">Ошаровича</persName> учинен-</l>
+      <l>ственно положенія <placeName role="namesViewer" target="/names/Литва.html">литовскимъ</placeName>
+      надворнымъ</l>
+      <l>судомъ по жалобамъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошаровича</persName>
+      учинен-</l>
       <l>ныя подлѣжатъ разсмотрѣнію Его же</l>
       <l>высокопревосходительства; но я, во исполне</l>
       <l>ніе воли предмѣстниковъ вашего высоко-</l>
-      <l>првосходительства <persName ref="Лопухин">Князя Петра Василь-<lb/>
+      <l>првосходительства <persName role="namesViewer" target="/names/Лопухин.html">Князя Петра Василь-<lb/>
        евича Лопухина</persName>, и Господина генерала отъ</l>
-      <l>инфантеріи <persName ref="Беклешов">Александръ- Андрѣевича бек-<lb/>
+      <l>инфантеріи <persName role="namesViewer" target="/names/Беклешов.html">Александръ- Андрѣевича бек-<lb/>
        лешова</persName>, въ несколькихъ отношеніяхъ ко мнѣ</l>
       <l>изъясненной, и всепочтеннѣйшаго вашего</l>
       <l>высокопревосходительства предписанія отъ</l>
       <l>30<hi rend="superscript">го</hi> Апрѣля сего года за № 3498<hi rend="superscript">м</hi>. по разсмо</l>
       <l>трѣніи съ моей стороны, сообщенной мнѣ</l>
-      <l>отъ <placeName ref="Литва">Литовскаго</placeName> Nадворнаго суда копіи съ</l>
+      <l>отъ <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> Nадворнаго суда копіи
+      съ</l>
       <l>его опредѣленія, поднося ея у сего вашему</l>
       <l>высокопревосходительству на благоуваженіе</l>
       <l>обязанностію своею поставляю представить</l>
@@ -100,16 +111,18 @@
     </p>
     <p>
       <l>Изслѣдованіе о утайкѣ отрѣ-</l>
-      <l>шеннымъ <orgName ref="Виленский_кагал">кагаломъ</orgName> отъ ревизіи нема-</l>
+      <l>шеннымъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагаломъ</orgName> отъ ревизіи
+      нема-</l>
       <l>лаго числа душъ, о сборѣ съ народа из-</l>
       <l>лишнихъ податей, и повѣрка щетовъ</l>
       <l>ихъ, по предписанію Господина Генера</l>
-      <l>ла отъ инфантеріи, <placeName ref="Литва">Литовскаго</placeName> во-</l>
+      <l>ла отъ инфантеріи, <placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> во-</l>
       <l>еннаго Губернатора, начальствующа</l>
       <l>го по гражданской части и кавалера</l>
-      <l><persName ref="Кутузов">Голенищева Кутузова</persName>, препровождены</l>
-      <l>изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго правленія</orgName></l>
-      <l>въ <placeName ref="Литва">Литовскій</placeName> Nадворный Судъ; тутъ</l>
+      <l><persName role="namesViewer" target="/names/Кутузов.html">Голенищева Кутузова</persName>, препровождены</l>
+      <l>изъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго Губернскаго
+      правленія</orgName></l>
+      <l>въ <placeName role="namesViewer" target="/names/Литва.html">Литовскій</placeName> Nадворный Судъ; тутъ</l>
       <l>безсомненно обнаружаться всѣ злоупо-</l>
       <l>требленія отрѣшенныхъ старшинъ</l>
       <l>кагала и духовнаго суда.</l>
@@ -120,7 +133,8 @@
       <l><pb xml:id="p009-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/008.html#p009-2"
       /> замѣчанія о положеніяхъ Литовскаго</l>
       <l>надворнаго Суда по жалобамъ отрѣ-</l>
-      <l>шеннаго кагальнаго <persName ref="Мовша_Ошерович">Ошеровича</persName>, имѣю</l>
+      <l>шеннаго кагальнаго <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>,
+      имѣю</l>
       <l>честь быть съ совершеннѣйшимъ выс<note place="end">лист загнут, последние буквы не читаются</note></l>
       <l>почитаніемъ и таковою же предан<note place="end">лист загнут, последние буквы не читаются</note></l>
       <l>стію</l>
@@ -128,12 +142,12 @@
     <l>Милостивый Государь</l>
     <l>вашего высокопревосходительства</l>
     <l><signed>всепокорнѣйшій слуга<lb/>
-     <persName ref="Фризель">Иванъ Фризель</persName></signed></l>
+     <persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName></signed></l>
     <closer place="left">
       <l><fw type="docNum">№ 4079</fw></l>
       <l><date when="1800-08-20">20<hi rend="superscript">го</hi> Августа<lb/>
        1800<hi rend="superscript">го</hi> года</date></l>
-      <l><placeName ref="Вильна">вильна</placeName>.</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName>.</l>
     </closer>
   </body></text>
 </TEI>

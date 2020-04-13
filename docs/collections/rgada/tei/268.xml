@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +17,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Черновик письма <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Павел_I">Павлу I</persName> о
-        действиях в отношении <orgName ref="Хасиды">хасидов</orgName> и старообрядцев
+        Черновик письма <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+        role="namesViewer" target="/names/Павел_I.html">Павлу I</persName> о действиях в отношении <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> и старообрядцев
       </p></abstract>
       <creation><date when="1800-10-30">октября 30 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,24 +35,31 @@
     <fw type="pageNum" place="right">268</fw>
     <salute><l>В I В<note place="end">Ваше императорское величество</note> Милостивеиши Государь</l></salute>
     <p>
-      <l>Мне изъвестна <orgName ref="Хасиды">секта каролиновъ</orgName> и самой началникъ</l>
-      <l>ихъ <hi rend="superscript"><persName ref="alter-rebbe">Буругович</persName></hi> живушей в <placeName
-      ref="Витебская_губерния">витебской губерніи</placeName> в <placeName ref="Лиозно">местечке Лозахъ</placeName></l>
+      <l>Мне изъвестна <orgName role="namesViewer" target="/names/Хасиды.html">секта каролиновъ</orgName> и самой
+      началникъ</l>
+      <l>ихъ <hi rend="superscript"><persName role="namesViewer" target="/names/alter-rebbe.html">Буругович</persName>
+      </hi> живушей в <placeName role="namesViewer" target="/names/Витебская_губерния.html">витебской
+      губерніи</placeName> в <placeName role="namesViewer" target="/names/Лиозно.html">местечке Лозахъ</placeName></l>
       <l>я чрезъ нарошнаго провианскаго чиновника, 7., класа</l>
-      <l><persName ref="Хрущов">Хрущева</persName> посланаго по секрету для узнанiя о дѢйствiяхъ</l>
+      <l><persName role="namesViewer" target="/names/Хрущов.html">Хрущева</persName> посланаго по секрету для узнанiя о
+      дѢйствiяхъ</l>
       <l>ихъ, жилъ во ономъ местечке объежалъ всю губернiю даже</l>
-      <l>и <placeName ref="Литва">литовскую</placeName> потвiдомъ заготовленiя для войска проволствiя</l>
-      <l>не позналъ инова как расколъ еврейской <orgName ref="Хасиды">секты</orgName> кагаловъ еврей-</l>
+      <l>и <placeName role="namesViewer" target="/names/Литва.html">литовскую</placeName> потвiдомъ заготовленiя для
+      войска проволствiя</l>
+      <l>не позналъ инова как расколъ еврейской <orgName role="namesViewer" target="/names/Хасиды.html">секты</orgName>
+      кагаловъ еврей-</l>
       <l>скихъ не признаютъ и не повинуются, чрезъ оное доходы</l>
       <l>кагалскiя уменшiлiся, молодые люди более приверже-</l>
-      <l>ны къ <orgName ref="Хасиды">каролинамъ</orgName> разоряя свои домы переводятъ имушества</l>
-      <l>вновую <orgName ref="Хасиды">секту</orgName>, въ конце прошетшаго месяца о всемъ</l>
+      <l>ны къ <orgName role="namesViewer" target="/names/Хасиды.html">каролинамъ</orgName> разоряя свои домы переводятъ
+      имушества</l>
+      <l>вновую <orgName role="namesViewer" target="/names/Хасиды.html">секту</orgName>, въ конце прошетшаго месяца о
+      всемъ</l>
       <l>всеподанейше доносiлъ вашему императорскому</l>
       <l>величеству испрашивая высочайшаго повеленiя</l>
       <l>соизволили оставить ихъ по прежнему, сего ж</l>
       <l>чiсла о правлю нарошнаго для доставленiя сюда</l>
-      <l>началнiка <persName ref="alter-rebbe">Буруговича</persName>, и по привозе въ <placeName
-      ref="Алексеевский_равелин">равелинъ</placeName></l>
+      <l>началнiка <persName role="namesViewer" target="/names/alter-rebbe.html">Буруговича</persName>, и по привозе въ
+      <placeName role="namesViewer" target="/names/Алексеевский_равелин.html">равелинъ</placeName></l>
       <l>посаженъ будѢтъ, раскольники же безъпоповшины более</l>
       <l>разъвратности имеютъ нежели те кои имеютъ часовни</l>
       <l>по последнимъ высочайшим указамъ по прозбе мо-</l>
@@ -58,7 +67,8 @@
       <l>веденiю состоятъ епархiялные архиереи и отправленiе</l>
       <l>служенiя по старопечатнымъ книгамъ разрушит <unclear>святость</unclear></l>
       <l>и обман ихъ обнаружится, димитрий федоровъ повы-</l>
-      <l>сочайшему повелениiю содержится въ <placeName ref="Алексеевский_равелин">раввелине</placeName> кото-</l>
+      <l>сочайшему повелениiю содержится въ <placeName role="namesViewer" target="/names/Алексеевский_равелин.html"
+      >раввелине</placeName> кото-</l>
       <l>рый былъ ихъ ходатой и повереный а сiе боле укра</l>
       <l>титъ ихъ, по секрету жъ <unclear>о несусь</unclear> к началствующимъ</l>
       <l>о неослабномъ наблюдени за поведнiемъ и поступками</l>
@@ -72,22 +82,27 @@
       нежелательных для нее "расколов", т.е. стремилась обеспечить максимальную лояльность со стороны евреев.</note></l>
     </p>
     <p>
-      <l>къ <placeName ref="Белоруссия">белорускому</placeName> губернатору послать двухъ курiеровъ</l>
-      <l>нарошныхъ чтобъ <persName ref="alter-rebbe">Буруговича</persName> взяли въ месте жителства <unclear><placeName
-      ref="Лиозно">Лозахъ</placeName></unclear></l>
+      <l>къ <placeName role="namesViewer" target="/names/Белоруссия.html">белорускому</placeName> губернатору послать
+      двухъ курiеровъ</l>
+      <l>нарошныхъ чтобъ <persName role="namesViewer" target="/names/alter-rebbe.html">Буруговича</persName> взяли въ
+      месте жителства <unclear><placeName role="namesViewer" target="/names/Лиозно.html">Лозахъ</placeName></unclear>
+      </l>
       <l>и отправiлбы со оными и буде нужно чтобъ дали и</l>
-      <l>конвой для доставлениiя сюда, въ <orgName ref="Тайная_экспедиция">тайною ек-<lb/>
+      <l>конвой для доставлениiя сюда, въ <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">тайною
+      ек-<lb/>
        спедiцiю</orgName> какъ можно <unclear>??? ???</unclear></l>
-      <l>наблюдали за <orgName ref="Хасиды">каролинами</orgName>, равно и за расколниками</l>
+      <l>наблюдали за <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>, равно и за
+      расколниками</l>
       <l>дабы не было къ соблазу или неповиновению власти</l>
       <l>неукоснително естли что открыватся будетъ уведомили бы</l>
       <l><unclear>его</unclear> и прочихъ гражданскихъ губернаторовъ и вовсем <unclear>??? ???</unclear></l>
-      <l><unclear>???</unclear> оныя секты и объ обоихъ<unclear>...</unclear> <placeName ref="Литва"
-      >литовскую</placeName> <placeName ref="Минская_губерния">минскую</placeName> <placeName ref="Вильна"
-      >виленскую</placeName></l>
+      <l><unclear>???</unclear> оныя секты и объ обоихъ<unclear>...</unclear> <placeName role="namesViewer"
+      target="/names/Литва.html">литовскую</placeName> <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">минскую</placeName> <placeName role="namesViewer"
+      target="/names/Вильна.html">виленскую</placeName></l>
       <l>кiевскую и въ прочія о раскольниках. <date when="1800-10-30">октября 30 дня 1800 года</date></l>
     </p>
-    <placeName ref="Петербург"><l>Са: П: бургъ</l></placeName>
+    <placeName role="namesViewer" target="/names/Петербург.html"><l>Са: П: бургъ</l></placeName>
     <pb xml:id="p268-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/268.html#p268-2"/>
   </body></text>
 </TEI>

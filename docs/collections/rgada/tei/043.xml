@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт <persName ref="Булгаков">Булгакова</persName> об окончании допросов <placeName ref="Вильна">виленских
-        </placeName> <orgName ref="Хасиды">хасидов</orgName> и об их непризнании в зарубежных связях
+        Рапорт <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> об окончании допросов
+        <placeName role="namesViewer" target="/names/Вильна.html">виленских</placeName> <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName> и об их непризнании в зарубежных связях
       </p></abstract>
       <creation><date when="1798-10-18">18 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -31,17 +33,22 @@
     <date when="1798-10-29">29.окт. 1798.</date>
     <fw type="note" place="right">Секретно</fw>
     <fw type="pageNum" place="right">43.</fw>
-    <salute><l>Милостивой государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
+    <salute>
+      <l>Милостивой государь <persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!</l>
+    </salute>
     <fw type="note" place="left margin">къ дѣлу</fw>
     <p>
-      <l>Въ продолженіе донесеній моихъ о жидахъ <orgName ref="Хасиды">каролинахъ</orgName>,</l>
+      <l>Въ продолженіе донесеній моихъ о жидахъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролинахъ</orgName>,</l>
       <l>имѣю честь севодни всепокорнѣйше сказать, что</l>
-      <l>допросы перехватанныхъ мною здѣсь въ <placeName ref="Вильна">Вилнѣ</placeName> уже</l>
+      <l>допросы перехватанныхъ мною здѣсь въ <placeName role="namesViewer" target="/names/Вильна.html"
+      >Вилнѣ</placeName> уже</l>
       <l>кончены, а продолжаются привозимыхъ изъ разныхъ</l>
       <l>повѣтовъ: но какъ есть здѣсь извѣстіе, что и глав-</l>
-      <l>ной ихъ начальникъ рабинъ <persName ref="alter-rebbe">Боруховичъ</persName> изъ <placeName ref="Белоруссия">
-      Бѣлоруской<lb/>
-       губерніи</placeName> отправленъ уже въ <placeName ref="Петербург">Санктпетербургъ</placeName>, то</l>
+      <l>ной ихъ начальникъ рабинъ <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичъ</persName>
+      изъ <placeName role="namesViewer" target="/names/Белоруссия.html">Бѣлоруской<lb/>
+       губерніи</placeName> отправленъ уже въ <placeName role="namesViewer" target="/names/Петербург.html"
+      >Санктпетербургъ</placeName>, то</l>
       <l>я на сей недѣлѣ отправлю такожѣ къ вашему</l>
       <l>высокопревосодительству для сличенія и здѣшнихъ</l>
       <l>нѣкоторыхъ, кои съ нимъ были въ большей связи,</l>
@@ -53,12 +60,13 @@
       <l>Милостивой Государь!</l>
       <l>вашего высокопревосходительства</l>
       <l>всепокорнеишій слуга</l>
-      <l><persName ref="Булгаков">Яковъ булгаковъ</persName></l>
+      <l><persName role="namesViewer" target="/names/Булгаков.html">Яковъ булгаковъ</persName></l>
       <closer place="left">
         <l><fw type="docNum">№ 169</fw></l>
         <l><date when="1798-10-18">18 октября 1798</date></l>
-        <l><placeName ref="Вильна">вилна</placeName></l>
-        <l>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></l>
+        <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName></l>
+        <l>Его высокопревосходительству Г. Генералу Прокурору <persName role="namesViewer" target="/names/Лопухин.html"
+        >Лопухину</persName></l>
       </closer>
     </p>
     <pb xml:id="p043-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/043.html#p043-2"/>

@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,13 +17,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Предписание <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName> о
-        наблюдении за старообрядцами и <orgName ref="Хасиды">хасидами</orgName>
+        Предписание <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+        role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о наблюдении за старообрядцами и <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидами</orgName>
       </p></abstract>
       <creation><date when="1800-11-02">ноябрь 2-го дня 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -32,13 +34,14 @@
     <fw type="pageNum" place="right"><del rend="overstrike">270</del></fw>
     <fw type="note" place="right"><l>секретно</l></fw>
     <p>
-      <l>Милостивый Государь мой <persName ref="Кутузов">Михайла Ларiоновичъ</persName></l>
+      <l>Милостивый Государь мой <persName role="namesViewer" target="/names/Кутузов.html">Михайла
+      Ларiоновичъ</persName></l>
       <l>По высочайшему Его императорскаго величества</l>
       <l>повеленiю сообщаю къ вашему высокопревосходитель-</l>
       <l>ству, дабы въ вѢренной вамъ губернiи имѢли самымъ</l>
       <l>тайнымъ образомъ не ослабное наблюденiе за поведенiемъ и по-</l>
-      <l>ступками росийскихъ старообрядцевъ и <orgName ref="Хасиды">каролинской секты евреевъ</orgName> <del
-      rend="overstrike">наблюденіе,</del></l>
+      <l>ступками росийскихъ старообрядцевъ и <orgName role="namesViewer" target="/names/Хасиды.html">каролинской секты
+      евреевъ</orgName> <del rend="overstrike">наблюденіе,</del></l>
       <l>и въ случае малейше замеченного какого либо поводу</l>
       <l>къ соблазну или неповиновенiю власти, меня неукос-</l>
       <l>нительно о томъ увѢдомлять, для донесенiя Его</l>
@@ -56,7 +59,8 @@
       <l><date when="1800-11-02">ноября 2<hi rend="superscript">го</hi> дня<lb/>
        1800</date></l>
       <l>P:S:</l>
-      <l>Его Высоко пр<hi rend="superscript">ву</hi> <persName ref="Кутузов">Коленищеву-Кутузову.</persName></l>
+      <l>Его Высоко пр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Кутузов.html"
+      >Коленищеву-Кутузову.</persName></l>
     </closer>
     <pb xml:id="p272-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/272.html#p272-2"/>
     <fw type="pageNum" place="left">272 об.</fw><note place="end">номер обозначен карандашом</note>
@@ -79,7 +83,8 @@
       <l>С.п. бургскому Графу Палену. Подъ № 886</l>
       <l>Московскому Графу Салтыкову.________887</l>
       <l>Архангельскому Графу Ливену.________888</l>
-      <l>Подольскому <persName ref="Розенберг">Розенбергу</persName>. ___________889</l>
+      <l>Подольскому <persName role="namesViewer" target="/names/Розенберг.html">Розенбергу</persName>.
+      ___________889</l>
       <l>Астраханскому фонъ Кноррингу._______890</l>
       <l>Оренбургскому Бахметеву_____________891.</l>
     </p>

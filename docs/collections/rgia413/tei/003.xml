@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author><persName ref="Авигдор">Авигдор</persName></author></titleStmt>
+      <titleStmt><author><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></author>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,7 +13,7 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Вопросные пункты <persName ref="Авигдор">Авигдора Хаимовича</persName></p>
+        <p>Вопросные пункты <persName role="namesViewer" target="/names/Авигдор.html">Авигдора Хаимовича</persName></p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/264.html">№ 15</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-11">ноябрь 1800 по версии Дубнова в комментарии</date></creation>

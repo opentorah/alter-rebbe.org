@@ -3,9 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Юда_Файбишевич">Юда Файбишович</persName></author>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Юда_Файбишевич.html">Юда Файбишович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,7 +16,8 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Показания <persName ref="Юда_Файбишевич">Файбишовича</persName></p></abstract>
+      <abstract><p>Показания <persName role="namesViewer" target="/names/Юда_Файбишевич.html">Файбишовича</persName></p>
+      </abstract>
       <creation><date when="1800-11-14">ноября 14 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -26,24 +28,26 @@
     <fw type="pageNum" place="right">278</fw><note place="end">номер вписан карандашом</note>
     <fw type="pageNum" place="right"><del rend="overstrike">282</del></fw><note place="end">номер записан чернилами и
     зачеркнут карандашом</note>
-    <fw type="note"><l>докладовано <date when="1800-11-14">ноября 14 дня 1800 года</date> <placeName ref="Петербург">
-    С:П:бургъ</placeName></l></fw>
-    <l>Я <persName ref="Юда_Файбишевич">Юда Файбишовичь</persName> <placeName ref="Белоруссия">бѢлоруской губернiи
-    </placeName></l>
-    <l>города <placeName ref="Копысь">Копыси</placeName> мѢщанинъ приехалъ въ</l>
-    <l><placeName ref="Петербург">Санктъ Петербургъ</placeName> сего 15 ноября<note place="end">вероятно, ошибка в
-    записи, т.е. следует читать 13 ноября</note>. Для</l>
+    <fw type="note"><l>докладовано <date when="1800-11-14">ноября 14 дня 1800 года</date> <placeName role="namesViewer"
+    target="/names/Петербург.html">С:П:бургъ</placeName></l></fw>
+    <l>Я <persName role="namesViewer" target="/names/Юда_Файбишевич.html">Юда Файбишовичь</persName> <placeName
+    role="namesViewer" target="/names/Белоруссия.html">бѢлоруской губернiи</placeName></l>
+    <l>города <placeName role="namesViewer" target="/names/Копысь.html">Копыси</placeName> мѢщанинъ приехалъ въ</l>
+    <l><placeName role="namesViewer" target="/names/Петербург.html">Санктъ Петербургъ</placeName> сего 15 ноября<note
+    place="end">вероятно, ошибка в записи, т.е. следует читать 13 ноября</note>. Для</l>
     <l>продажи кожи и юфту находящегося здесь,</l>
-    <l><placeName ref="Витебск">витебскаго</placeName> купца Давида Шлiомовича, которыя</l>
+    <l><placeName role="namesViewer" target="/names/Витебск.html">витебскаго</placeName> купца Давида Шлiомовича,
+    которыя</l>
     <l>посланы были около двухъ мѣсяцовъ, адресован-</l>
     <l>ны били на мое имя, но между тѢмъ</l>
-    <l>отъехалъ в <placeName ref="Витебск">Витебскъ</placeName>; тѢ товары</l>
+    <l>отъехалъ в <placeName role="namesViewer" target="/names/Витебск.html">Витебскъ</placeName>; тѢ товары</l>
     <l>еще непроданы и лежатъ въ домѢ док-</l>
-    <l>тора <persName ref="Цуберт">Цуберта</persName>, въ то время булъ я здесь</l>
+    <l>тора <persName role="namesViewer" target="/names/Цуберт.html">Цуберта</persName>, въ то время булъ я здесь</l>
     <l>съ отцомъ моимъ у госпожи аграфены</l>
     <l>александровны рыбоперовой, от которой</l>
     <l>мой отецъ аренду содерживаетъ i для ра-</l>
-    <l>щоту; <placeName ref="Копысь">Копыской</placeName> мѣщанинъ <persName ref="Юда_Файбишевич">Юда Файби<lb/>
+    <l>щоту; <placeName role="namesViewer" target="/names/Копысь.html">Копыской</placeName> мѣщанинъ <persName
+    role="namesViewer" target="/names/Юда_Файбишевич.html">Юда Файби<lb/>
      шович</persName></l>
     <pb xml:id="p278-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/278.html#p278-2"/>
   </body></text>

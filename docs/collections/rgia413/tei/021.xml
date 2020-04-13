@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Авигдор">Авигдор</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,15 +17,15 @@
     <profileDesc>
       <abstract>
         <p>
-          Дополнительное прошение <persName ref="Авигдор">Авигдора</persName> <persName ref="Обольянинов">Обольянинову
-          </persName> с доносом на Хасидов
+          Дополнительное прошение <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName>
+          <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName> с доносом на Хасидов
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/271.html">№ 20</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-12">декабрь 1800, не позднее 28го</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,9 +35,10 @@
     <fw type="pageNum" place="right">21</fw>
     <fw type="note" place="left">
       <l>Отдано мнѣ лично Его высокопревосходительствомъ</l>
-      <l>Господиномъ Генералъ Прокуроромъ въ <orgName ref="Сенат">Сенатѣ</orgName> для</l>
+      <l>Господиномъ Генералъ Прокуроромъ въ <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName>
+      для</l>
       <l>пріобщенія къ дѣлу 28 декаб 1800 года оберъ прокуроръ</l>
-      <l><persName ref="Оленин">Оленинъ</persName></l>
+      <l><persName role="namesViewer" target="/names/Оленин.html">Оленинъ</persName></l>
     </fw>
     <p><salute>
         <l>Ваше высокопревосходительство!</l>
@@ -46,15 +48,17 @@
       <l>Къ производящемуся въ силу высочашаго</l>
       <l>Его <emph rend="big">ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА</emph> пове-</l>
       <l>лѣнія, по всеподаннѣйшей прозьбѣ моей, на</l>
-      <l><orgName ref="Хасиды">Каролинскую секту</orgName>, поданы къ вашему высо-</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">Каролинскую секту</orgName>, поданы къ вашему высо-</l>
       <l>копревосходительству отъ меня противъ</l>
-      <l>начальника оной <persName ref="alter-rebbe">Зальмена Боруховича</persName> во-</l>
+      <l>начальника оной <persName role="namesViewer" target="/names/alter-rebbe.html">Зальмена Боруховича</persName>
+      во-</l>
       <l>просные пункты, относящіяся до той секты,</l>
       <l>въ дополненіе коихъ осмѣливаюсь при семъ</l>
       <l><emph rend="big">ВАШЕМУ ВЫСОКОПРЕВОСХОДИТЕЛЬСТВУ</emph> почтен-</l>
       <l>нѣйше поднесть выписку изъ книги, сочинен-</l>
-      <l>ной онымъ <persName ref="alter-rebbe">Боруховичемъ</persName>, единственно для по-</l>
-      <l>мянутой <orgName ref="Хасиды">Каролинской секты</orgName> на еврейскомъ</l>
+      <l>ной онымъ <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичемъ</persName>, единственно
+      для по-</l>
+      <l>мянутой <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской секты</orgName> на еврейскомъ</l>
       <l>языкѣ, съ которой всепокорнѣйше прошу, бла-</l>
       <l>говолите повелѣть сдѣлать переводъ на рос-</l>
       <l>cійской діалектъ, причемъ для вѣрности и</l>
@@ -65,17 +69,18 @@
       /> противна оная секта нашему еврейскому зако-</l>
       <l>ну, но и зловредна благосостоянію Государства</l>
       <l>а какія противъ моихъ вопросныхъ пунктовъ</l>
-      <l>онъ <persName ref="alter-rebbe">Боруховичъ</persName> объясненіи далъ, то всепокор-</l>
+      <l>онъ <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховичъ</persName> объясненіи далъ, то
+      всепокор-</l>
       <l>нѣйше прошу с нихъ дать мнѣ на еврейскомъ</l>
       <l>языкѣ съ переводомъ российскаго копію: дабы</l>
       <l>я могъ на все то въ достовѣрность доказатель-</l>
-      <l>ства мои представить; от него же <persName ref="alter-rebbe">Борухо-<lb/>
+      <l>ства мои представить; от него же <persName role="namesViewer" target="/names/alter-rebbe.html">Борухо-<lb/>
        вича</persName> истребовать книгу, въ которой записы-</l>
       <l>вано имъ, какъ приходъ вымогаемыхъ отъ евре-</l>
       <l>евъ денегъ, такъ и расходъ онымъ, пересылкою</l>
       <l>отъ него за границу къ сотоварищамъ секты</l>
       <l>ево въ чужіе краи; равнымъ образомъ прот-</l>
-      <l>чихъ послѣдователей <orgName ref="Хасиды">Каролинской же секты</orgName></l>
+      <l>чихъ послѣдователей <orgName role="namesViewer" target="/names/Хасиды.html">Каролинской же секты</orgName></l>
       <l>начальников, въ другихъ Россійской Имперіи</l>
       <l>губерніяхъ находящихся по моему показанію</l>
       <l>съ таковыми же книгами, повелѣть доста-</l>
@@ -106,8 +111,8 @@
       <signed>
         <l>всепокорнѣйшій и нижайшій</l>
         <l><unclear><note place="end">подпись на иврите</note>...</unclear></l>
-        <l><persName ref="Авигдор">авигдоръ хаимовичъ</persName> оберъ рабинъ <placeName ref="Пинск">пинскій</placeName>
-        </l>
+        <l><persName role="namesViewer" target="/names/Авигдор.html">авигдоръ хаимовичъ</persName> оберъ рабинъ
+        <placeName role="namesViewer" target="/names/Пинск.html">пинскій</placeName></l>
       </signed>
     </p>
     <pb xml:id="p022-2" rendition="page" role="facsimileViewer" target="/collections/rgia413/facs/021.html#p022-2"/>

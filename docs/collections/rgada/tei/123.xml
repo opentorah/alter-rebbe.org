@@ -4,8 +4,9 @@
     <fileDesc>
       <titleStmt>
         <author/>
-        <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IL.html">Илья Лурье</persName></editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +17,8 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с польского языка протокола допроса <persName ref="Борух_Мордухович">Боруха Мордуховича</persName>
+        Перевод с польского языка протокола допроса <persName role="namesViewer" target="/names/Борух_Мордухович.html"
+        >Боруха Мордуховича</persName>
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -34,20 +36,22 @@
     <p>
       <l>Я Борухъ Мордуховичъ отъ роду</l>
       <l>имѣю 26 лѣтъ, торгую напитками,</l>
-      <l>родился во Лвовѣ, живу въ <placeName ref="Вильна">Вилнѣ</placeName></l>
-      <l>четвертой годъ, былъ въ <placeName ref="Вильна">Вилнѣ</placeName> и</l>
+      <l>родился во Лвовѣ, живу въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName></l>
+      <l>четвертой годъ, былъ въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName> и</l>
       <l>прежде, назадъ тому девять лѣтъ;</l>
       <l>женатъ, имѣю сыновей двухъ, Са</l>
       <l>мойла и Лейбу; хотя и въ согла</l>
-      <l>сіи былъ я съ <orgName ref="Хасиды">каролинскою сектою</orgName>,</l>
+      <l>сіи былъ я съ <orgName role="namesViewer" target="/names/Хасиды.html">каролинскою сектою</orgName>,</l>
       <l>однакожъ въ оную не вступалъ; въ</l>
-      <l><placeName ref="Лиозно">Лозну</placeName> ѣздилъ не къ <persName ref="alter-rebbe">рабину</persName>, а къ</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">Лозну</placeName> ѣздилъ не къ <persName
+      role="namesViewer" target="/names/alter-rebbe.html">рабину</persName>, а къ</l>
       <l>учителю Якубу Шимоновичу, гдѣ</l>
       <l>и пробылъ цѣлой годъ; пріѣхалъ</l>
       <l>оттуда, пятой мѣсяцъ; о прочемъ</l>
       <l>же ничего не знаю.</l>
     </p>
-    <signed>Подписалъ <persName ref="Борух_Мордухович">Борухъ Мордуховичъ</persName></signed>
+    <signed>Подписалъ <persName role="namesViewer" target="/names/Борух_Мордухович.html">Борухъ Мордуховичъ</persName>
+    </signed>
     <pb xml:id="p123-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/123.html#p123-2"/>
   </body></text>
 </TEI>

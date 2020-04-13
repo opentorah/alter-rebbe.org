@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Хрущов">Хрущовъ</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Хрущов.html">Хрущовъ</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -14,12 +15,13 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>Отчет <persName ref="Хрущов">Хрущова</persName> о попытках найти информацию о <orgName ref="Хасиды">
-      хасидах</orgName> у представителей митнагедов</abstract>
+      <abstract>Отчет <persName role="namesViewer" target="/names/Хрущов.html">Хрущова</persName> о попытках найти
+      информацию о <orgName role="namesViewer" target="/names/Хасиды.html">хасидах</orgName> у представителей
+      митнагедов</abstract>
       <creation><date when="1800-09-17">1800-09-17</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -41,16 +43,16 @@
       <l>сяца отъ 10 числа я нарочною еста</l>
       <l>фетою для разведованія препоруче-</l>
       <l>нной мне комисии отъ правился</l>
-      <l>изъ <placeName ref="Витебск">Витебска</placeName> въ полоцкъ изъ коего</l>
+      <l>изъ <placeName role="namesViewer" target="/names/Витебск.html">Витебска</placeName> въ полоцкъ изъ коего</l>
       <l>симъ донесть честь имѣю проезъ-</l>
       <l>жая черезъ разныя местѣчки до полоцка</l>
-      <l>новова ничѣго открыть про <orgName ref="Хасиды">секту хосо-<lb/>
+      <l>новова ничѣго открыть про <orgName role="namesViewer" target="/names/Хасиды.html">секту хосо-<lb/>
        довъ</orgName> не могъ потому что везде адинъ</l>
       <l>обрядъ и адно положение о которомъ</l>
       <l>имѣлъ счастие предъставить. <emph rend="underline">а въ да<lb/>
        бавокъ толко то что евреи стараго<lb/>
        ихъ закону во всехъ местахъ желали бы<lb/>
-       чтобъ сия <orgName ref="Хасиды">секта</orgName> была уничтожена<lb/>
+       чтобъ сия <orgName role="namesViewer" target="/names/Хасиды.html">секта</orgName> была уничтожена<lb/>
        и запрещено бы было ездить къ рабину<lb/>
        дабы сохранить свое имѣние которое<lb/>
        расточаютъ молодыя люди.</emph> съ соверше-</l>
@@ -59,7 +61,7 @@
       <l>вашѣго высокопревосходителства</l>
       <l>милостиваго государя</l>
       <l>всепокорнейший слуга</l>
-      <l><signed><persName ref="Хрущов">Петръ Хрущовъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Хрущов.html">Петръ Хрущовъ</persName></signed></l>
     </p>
     <closer>
       <l><date when="1800-09-17">1800 года<lb/>

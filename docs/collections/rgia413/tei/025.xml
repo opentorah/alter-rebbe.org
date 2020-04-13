@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Фризель">Фризель</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,8 @@
     <profileDesc>
       <abstract>
         <p>
-          Предложение <placeName ref="Вильна">виленской</placeName> полиции о терпимости к <orgName ref="Хасиды">
-          каролонской секте</orgName>
+          Предложение <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> полиции о
+          терпимости к <orgName role="namesViewer" target="/names/Хасиды.html">каролонской секте</orgName>
         </p>
         <p>
           <ref role="documentViewer" target="/collections/dubnov/documents/274.1.html">Приложение Б к документу №
@@ -41,50 +42,60 @@
     <head>
       <l><emph rend="big">ПРЕДЛОЖЕНІЕ</emph></l>
       <l>Дѣйствительнаго статскаго Совѣтника</l>
-      <l><placeName ref="Литва">Литовскаго</placeName> Гражданскаго Губернатора и</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> Гражданскаго Губернатора и</l>
       <l>кавалера</l>
-      <l><placeName ref="Вильна">виленской</placeName> Городовой полиціи</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> Городовой полиціи</l>
     </head>
     <p>
-      <l>Предлагаю <placeName ref="Вильна">виленской</placeName> полиціи, призвав прежнихъ</l>
-      <l><orgName ref="Виленский_кагал">виленскаго еврейскаго Кагала</orgName> старшинъ евреевъ</l>
-      <l><persName ref="Мовша_Ошерович">Мовшу Ошеровича</persName> и <persName ref="Ицка_Мелентович">Ицку
-      Меленковича</persName>, утружд-</l>
+      <l>Предлагаю <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> полиціи, призвав
+      прежнихъ</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго еврейскаго Кагала</orgName>
+      старшинъ евреевъ</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовшу Ошеровича</persName> и <persName
+      role="namesViewer" target="/names/Ицка_Мелентович.html">Ицку Меленковича</persName>, утружд-</l>
       <l>давшихъ Государя императора прошеніями и по-</l>
       <l>сылавшихъ таковыя же и къ господину Генералъ</l>
-      <l>прокурору и кавалеру <persName ref="Беклешов">беклешову</persName> о уничтоженіи</l>
-      <l>мѣжду прочимъ <orgName ref="Хасиды">Секты Каролиновъ</orgName> и о оста-</l>
-      <l>вленіи <orgName ref="Виленский_кагал">Кагалу</orgName> и Синагогѣ права заниматься</l>
+      <l>прокурору и кавалеру <persName role="namesViewer" target="/names/Беклешов.html">беклешову</persName> о
+      уничтоженіи</l>
+      <l>мѣжду прочимъ <orgName role="namesViewer" target="/names/Хасиды.html">Секты Каролиновъ</orgName> и о оста-</l>
+      <l>вленіи <orgName role="namesViewer" target="/names/Виленский_кагал.html">Кагалу</orgName> и Синагогѣ права
+      заниматься</l>
       <l>разборомъ гражданскихъ делъ между евреями</l>
       <l>объявить, что по высочайшему <emph rend="big">его император-<lb/>
-       скаго величества</emph> соизволенію <orgName ref="Хасиды">Секта Каролинская</orgName></l>
-      <l>должна быть терпима, и что <orgName ref="Виленский_кагал">Кагалъ</orgName> должен-</l>
+       скаго величества</emph> соизволенію <orgName role="namesViewer" target="/names/Хасиды.html">Секта
+      Каролинская</orgName></l>
+      <l>должна быть терпима, и что <orgName role="namesViewer" target="/names/Виленский_кагал.html">Кагалъ</orgName>
+      должен-</l>
       <l>ствуетъ заниматься единственно дѣлами</l>
       <l>обрядовъ закона и Богослуженія не вмѣшиваясь</l>
       <l>отнюдь въ гражданскіе дѣла для коихъ уста-</l>
       <l>новлены закономъ особенные мѣста, а что сіе</l>
       <l>имъ объявлено взять отъ нихъ подпись, и о</l>
       <l>томъ меня увѣдомить, подлинное подпи-</l>
-      <l>салъ <persName ref="Фризель">Иванъ Фризель</persName> =переводчикъ. –</l>
+      <l>салъ <persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName> =переводчикъ. –</l>
       <l>съ подлиннымъ свѣрялъ регистраторъ <signed>Кичковичъ</signed></l>
       <l>
         <date when="1800-01-23">генваря 23<hi rend="superscript">го</hi> дня 1800<hi rend="superscript">го</hi> года
         </date>
-        <placeName ref="Вильна">Вильна</placeName>
+        <placeName role="namesViewer" target="/names/Вильна.html">Вильна</placeName>
       </l>
     </p>
     <p>
       <l><date when="1800-04-10">1800<hi rend="superscript">го</hi> года апреля 10<hi rend="superscript">го</hi> дня
       </date> по указу <emph rend="big">его<lb/>
-       императорскаго величества</emph> въ <placeName ref="Вильна">виленской</placeName> го-</l>
-      <l>родовой полиціи по поданному отъ <placeName ref="Вильна">виленскаго</placeName></l>
-      <l>купца <persName ref="Меер_Рафалович">меера рафаловича</persName> прошенію <emph rend="big">прика-<lb/>
-       зали</emph>: оному <persName ref="Меер_Рафалович">рафаловичу</persName> просимую имъ сію</l>
+       императорскаго величества</emph> въ <placeName role="namesViewer" target="/names/Вильна.html"
+      >виленской</placeName> го-</l>
+      <l>родовой полиціи по поданному отъ <placeName role="namesViewer" target="/names/Вильна.html"
+      >виленскаго</placeName></l>
+      <l>купца <persName role="namesViewer" target="/names/Меер_Рафалович.html">меера рафаловича</persName> прошенію
+      <emph rend="big">прика-<lb/>
+       зали</emph>: оному <persName role="namesViewer" target="/names/Меер_Рафалович.html">рафаловичу</persName>
+      просимую имъ сію</l>
       <l>копію выдать. на подлинной подписалъ <signed>частный<lb/>
        приставъ Иванъ тарновскій</signed></l>
       <fw type="note" place="center">
         <l>У сей копіи <emph rend="big">его императорскаго<lb/>
-         величества</emph> <placeName ref="Вильна">виленской</placeName> городовой</l>
+         величества</emph> <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> городовой</l>
         <l>полиціи пѣчать пошлинъ 54 ½ взято</l>
       </fw>
     </p>

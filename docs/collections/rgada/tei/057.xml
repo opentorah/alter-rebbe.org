@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Бенкендорф">Бенкендорф</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Бенкендорф.html">Бенкендорф</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,14 +16,15 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Бенкендорф">Бенкендорфа</persName> о прибытии арестованных <orgName ref="Хасиды">
-        хасидов</orgName> в <placeName ref="Рига">Ригу</placeName> и оставлении их под стражей до распоряжения <persName
-        ref="Лопухин">Лопухина</persName>
+        Сообщение <persName role="namesViewer" target="/names/Бенкендорф.html">Бенкендорфа</persName> о прибытии
+        арестованных <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> в <placeName
+        role="namesViewer" target="/names/Рига.html">Ригу</placeName> и оставлении их под стражей до распоряжения
+        <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName>
       </p></abstract>
       <creation><date when="1798-11-11">11. ноября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -34,24 +36,28 @@
     <fw type="pageNum" place="right">57.</fw>
     <salute>
       <l>Милостивый Государь.</l>
-      <l><persName ref="Лопухин">Петръ Васильевичъ</persName>!</l>
+      <l><persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ</persName>!</l>
     </salute>
     <p>
       <l>Господинъ дѣйствительный тайный со-</l>
       <l>вѣтникъ Литовскій гражданскій губернаторъ</l>
-      <l>и кавалеръ <persName ref="Булгаков">Булгаковъ</persName> сообщилъ ко мнѣ чтобъ</l>
+      <l>и кавалеръ <persName role="namesViewer" target="/names/Булгаков.html">Булгаковъ</persName> сообщилъ ко мнѣ
+      чтобъ</l>
       <l>отправленныхъ отъ него по высочайшему <emph rend="big">Его</emph></l>
       <l><emph rend="big">императорскаго величества</emph> повелѣ-</l>
       <l>нію семерыхъ арестантовъ еврѣевъ подъ при-</l>
-      <l>смотромъ <placeName ref="Вильна">виленской</placeName> полиціи надзирателя Греча</l>
-      <l>въ <placeName ref="Петербург">Санктпетербургъ</placeName> не отправлять а остановить,</l>
+      <l>смотромъ <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> полиціи надзирателя
+      Греча</l>
+      <l>въ <placeName role="namesViewer" target="/names/Петербург.html">Санктпетербургъ</placeName> не отправлять а
+      остановить,</l>
       <l>гдѣ онъ Гречъ съ ними прилучиться<note place="end">прилучится - окажется; хотя, по уверению Булгакова (см.:
       <ref role="documentViewer" target="/collections/rgada/documents/055.html">055</ref>), этапированные хасиды должны
       были добраться до окрестностей Риги около 28 октября, они оказались там лишь 5 ноября, т.е. были отправлены в
       Петербург пешком</note>, и для даль-</l>
       <l>нѣйшаго о нихъ предписанія отнестись къ ва-</l>
       <l>шему высокопревосходительству. Онъ же Гречъ</l>
-      <l>вчерашняго числа въ <placeName ref="Рига">Ригу</placeName> прибылъ, то оныя</l>
+      <l>вчерашняго числа въ <placeName role="namesViewer" target="/names/Рига.html">Ригу</placeName> прибылъ, то
+      оныя</l>
       <l>семеро арестантовъ остановлены здѣсь подъ</l>
       <l>стражею. вашего высокопревосходительства</l>
       <l>о семъ извѣстя, покорнѣйше прошу меня</l>
@@ -62,14 +68,14 @@
       <l>Милостивый Государь!</l>
       <l>вашего высокопревосходительства</l>
       <l>покорнейшій слуга</l>
-      <l><signed><persName ref="Бенкендорф">бенкендорфъ</persName></signed></l>
+      <l><signed><persName role="namesViewer" target="/names/Бенкендорф.html">бенкендорфъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 787</fw></l>
       <l><date when="1798-11-06">ноября 6 дня<lb/>
        1798.<hi rend="superscript">го</hi> года</date></l>
-      <l><placeName ref="Рига">Рига</placeName></l>
-      <l>Его высокопревос/ву <persName ref="Лопухин">Лопухину</persName></l>
+      <l><placeName role="namesViewer" target="/names/Рига.html">Рига</placeName></l>
+      <l>Его высокопревос/ву <persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName></l>
     </closer>
     <pb xml:id="p057-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/057.html#p057-2"/>
   </body></text>

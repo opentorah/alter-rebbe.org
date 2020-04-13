@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 11-а. Извещение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Авигдор">Авигдору
-          </persName> о справках по его денежным претензиям и справка <placeName ref="Подольская_губерния">Подольского
+          № 11-а. Извещение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName>
+          <persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName> о справках по его денежным
+          претензиям и справка <placeName role="namesViewer" target="/names/Подольская_губерния.html">Подольского
           </placeName> губернатора
         </p>
         <p>
@@ -30,36 +32,42 @@
       </abstract>
       <creation><date when="1800-10-07" calendar="#julian">1800-10-07</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Авигдор" role="addressee">Авигдору</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Авигдор.html">Авигдору</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <head>
       <pb xml:id="p262" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/262.1.html#p262"/> №
-      11-а. Извещеніе о томъ же и справка <placeName ref="Подольская_губерния">Подольскаго</placeName> губернатора.
+      11-а. Извещеніе о томъ же и справка <placeName role="namesViewer" target="/names/Подольская_губерния.html"
+      >Подольскаго</placeName> губернатора.
     </head>
     <p>Въ Акад. <fw type="docNum">№ 9315</fw>. Универ <fw type="docNum">9316</fw>.</p>
     <p>
-      Отъ <persName ref="Обольянинов">Генерала-Прокурора</persName> бывшему еврейскому оберъ рабину <persName
-      ref="Авигдор">Хаиму</persName>, утрудившему Е. И. В. всеподданнѣйшею жалобою, что онъ внесъ въ еврейскій кагалъ
-      400 червонныхъ за полученіе того места, но онаго лишился происками <orgName ref="Хасиды">каролиновъ</orgName> и
-      оттого потерпѣлъ сверхъ того убытки, объявляется, что на оную послѣдовало высочайшее повелѣніе, и сообщено въ
-      генераламъ отъ инфантеріи и управляющимъ губерніями <placeName ref="Литва">Литовскою</placeName> <persName
-      ref="Кутузов">Голенищеву-Кутузову</persName>, <placeName ref="Минская_губерния">Минскою</placeName>, <placeName
-      ref="Волынская_губерния">Волынскою</placeName> и <placeName ref="Подольская_губерния">Подольскою</placeName>
-      <persName ref="Розенберг">Розенбергу</persName>, также <placeName ref="Минская_губерния">минскому</placeName>
-      гражданскому губернатору <persName ref="Карнеев">Корнѣеву</persName>, что если въ губерніяхъ управленію ихъ
-      вверенныхъ еврейскій кагалъ взялъ тѣ деньги, то въ оныхъ, а равно въ понесенныхъ чрезъ потеряніе мѣста убыткахъ
-      просителя удовлетверить .
+      Отъ <persName role="namesViewer" target="/names/Обольянинов.html">Генерала-Прокурора</persName> бывшему еврейскому
+      оберъ рабину <persName role="namesViewer" target="/names/Авигдор.html">Хаиму</persName>, утрудившему Е. И. В.
+      всеподданнѣйшею жалобою, что онъ внесъ въ еврейскій кагалъ 400 червонныхъ за полученіе того места, но онаго
+      лишился происками <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> и оттого потерпѣлъ
+      сверхъ того убытки, объявляется, что на оную послѣдовало высочайшее повелѣніе, и сообщено въ генераламъ отъ
+      инфантеріи и управляющимъ губерніями <placeName role="namesViewer" target="/names/Литва.html"
+      >Литовскою</placeName> <persName role="namesViewer" target="/names/Кутузов.html">Голенищеву-Кутузову</persName>,
+      <placeName role="namesViewer" target="/names/Минская_губерния.html">Минскою</placeName>, <placeName
+      role="namesViewer" target="/names/Волынская_губерния.html">Волынскою</placeName> и <placeName role="namesViewer"
+      target="/names/Подольская_губерния.html">Подольскою</placeName> <persName role="namesViewer"
+      target="/names/Розенберг.html">Розенбергу</persName>, также <placeName role="namesViewer"
+      target="/names/Минская_губерния.html">минскому</placeName> гражданскому губернатору <persName role="namesViewer"
+      target="/names/Карнеев.html">Корнѣеву</persName>, что если въ губерніяхъ управленію ихъ вверенныхъ еврейскій
+      кагалъ взялъ тѣ деньги, то въ оныхъ, а равно въ понесенныхъ чрезъ потеряніе мѣста убыткахъ просителя удовлетверить
+      .
     </p>
     <dateline><date calendar="#julian" when="1800-10-07">7 октября 1800</date>.</dateline>
     <postscript><p>
-      [<date when="1800-11-15">15 ноября 1800</date> г. получено было отношеніе генерала <persName ref="Розенберг">
-      Розенберга</persName> изъ <placeName ref="Каменец_Подольский">К. Подольскаго</placeName>, отъ <date
-      when="1800-10-20">20 октября</date> за <fw type="docNum">№ 911-мъ</fw>, что онъ учинилъ „сообразно оному
-      высочайшему повелѣнію надлежащія г.г. гражданскимъ губернаторамъ ввѣренныхъ ему губерній предписанія"].
+      [<date when="1800-11-15">15 ноября 1800</date> г. получено было отношеніе генерала <persName role="namesViewer"
+      target="/names/Розенберг.html">Розенберга</persName> изъ <placeName role="namesViewer"
+      target="/names/Каменец_Подольский.html">К. Подольскаго</placeName>, отъ <date when="1800-10-20">20 октября</date>
+      за <fw type="docNum">№ 911-мъ</fw>, что онъ учинилъ „сообразно оному высочайшему повелѣнію надлежащія г.г.
+      гражданскимъ губернаторамъ ввѣренныхъ ему губерній предписанія"].
     </p></postscript>
   </body></text>
 </TEI>

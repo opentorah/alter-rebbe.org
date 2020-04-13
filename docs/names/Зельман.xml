@@ -11,7 +11,10 @@
   </fileDesc></teiHeader>
   <text><body><person xml:id="Зельман" role="jew">
     <persName>Зельман</persName>
-    <p>в документе 1798 г. - тесть виленского хасида <persName ref="Вулф">Вульфа</persName></p>
+    <p>
+      в документе 1798 г. - тесть виленского хасида <persName role="namesViewer" target="/names/Вулф.html"
+      >Вульфа</persName>
+    </p>
     <p rendition="mentions">
       <ref role="namesViewer" target="/names.html#Зельман">[...]</ref>
       <l>

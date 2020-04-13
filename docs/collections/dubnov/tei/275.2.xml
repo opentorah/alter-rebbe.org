@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Авигдор">Авигдор</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Авигдор.html">Авигдор</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,9 @@
     <profileDesc>
       <abstract>
         <p>
-          № 24. Прошение <persName ref="Авигдор">Авигдора</persName> на имя <orgName ref="Сенат">Сената</orgName> с
-          жалобами на хасидов и освобожденного их начальника <persName ref="alter-rebbe">Залмана</persName>
+          № 24. Прошение <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> на имя <orgName
+          role="namesViewer" target="/names/Сенат.html">Сената</orgName> с жалобами на хасидов и освобожденного их
+          начальника <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/005.html">005</ref> в РГИА 413</p>
       </abstract>
@@ -29,27 +31,32 @@
   <text xml:lang="he"><body>
     <head xml:lang="ru">
       <pb xml:id="p275" rendition="page" role="facsimileViewer" target="/collections/dubnov/facs/275.2.html#p275"/> №
-      24. Прошеніе <persName ref="Авигдор">Авигдора</persName> на имя <orgName ref="Сенат">Сената</orgName> съ жалобами
-      на хасидовъ и освобожденнаго ихъ начальника <persName ref="alter-rebbe">Залмана</persName><note type="gloss"
+      24. Прошеніе <persName role="namesViewer" target="/names/Авигдор.html">Авигдора</persName> на имя <orgName
+      role="namesViewer" target="/names/Сенат.html">Сената</orgName> съ жалобами на хасидовъ и освобожденнаго ихъ
+      начальника <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName><note type="gloss"
       place="end">
         <p>
           Это прошеніе на еврейскомъ языке, не помѣченное никакой да той, отнесено мною къ моменту послѣ освобождеіия
-          <persName ref="alter-rebbe">Залмана</persName>, указаннаго въ предыдущемъ документѣ (<date when="1801-03-29"
-          >29 марта 1801 г.</date>). Въ немъ упоминается объ оправданіи <persName ref="alter-rebbe">Залмана</persName>,
-          а объ императорѣ <persName ref="Павел_I">Павлѣ I</persName> говорится уже какъ о покойникѣ (ע"ה - блаженной
-          памяти). Эта новая жалоба <persName ref="Авигдор">Авигдора</persName> должна была предшествовать контръ-жалобѣ
-          <persName ref="alter-rebbe">Залмана</persName> отъ <date when="1801-05">мая 1801 г.</date>, приводимой въ
+          <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>, указаннаго въ предыдущемъ
+          документѣ (<date when="1801-03-29">29 марта 1801 г.</date>). Въ немъ упоминается объ оправданіи <persName
+          role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName>, а объ императорѣ <persName
+          role="namesViewer" target="/names/Павел_I.html">Павлѣ I</persName> говорится уже какъ о покойникѣ (ע"ה -
+          блаженной памяти). Эта новая жалоба <persName role="namesViewer" target="/names/Авигдор.html"
+          >Авигдора</persName> должна была предшествовать контръ-жалобѣ <persName role="namesViewer"
+          target="/names/alter-rebbe.html">Залмана</persName> отъ <date when="1801-05">мая 1801 г.</date>, приводимой въ
           слѣдующемъ № (<ref role="documentViewer" target="/collections/dubnov/documents/277.html">25</ref>) и
           упоминающей о новыхъ проискахъ враговъ; слѣдовательно, могла быть написана въ промежуткѣ, т. е. въ <date
           when="1801-04">апрѣлѣ 1801 г</date>.
         </p>
         <p>
-          Въ этомъ новомъ прошеніи <persName ref="Авигдор">Авигдоръ</persName> разсказываетъ о своей раввинской карьерѣ,
-          погубленной происками хасидов, о томъ, какъ онъ подавалъ жалобы покойному императору <persName ref="Павел_I">
-          Павлу I</persName>, коему „весьма понравился", какъ имѣлъ очную ставку и письменное объясненіе съ <persName
-          ref="alter-rebbe">Залманомъ</persName>. Въ виду оправданія <persName ref="alter-rebbe">Залмана</persName> на
-          основаніи его письменныхъ отвѣтовъ, <persName ref="Авигдор">Авигдоръ</persName> проситъ предъявить ему эти
-          отвѣты для опроверженія. Документъ очень важный, какъ ретроспективный обзоръ всего „дѣла".
+          Въ этомъ новомъ прошеніи <persName role="namesViewer" target="/names/Авигдор.html">Авигдоръ</persName>
+          разсказываетъ о своей раввинской карьерѣ, погубленной происками хасидов, о томъ, какъ онъ подавалъ жалобы
+          покойному императору <persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>, коему
+          „весьма понравился", какъ имѣлъ очную ставку и письменное объясненіе съ <persName role="namesViewer"
+          target="/names/alter-rebbe.html">Залманомъ</persName>. Въ виду оправданія <persName role="namesViewer"
+          target="/names/alter-rebbe.html">Залмана</persName> на основаніи его письменныхъ отвѣтовъ, <persName
+          role="namesViewer" target="/names/Авигдор.html">Авигдоръ</persName> проситъ предъявить ему эти отвѣты для
+          опроверженія. Документъ очень важный, какъ ретроспективный обзоръ всего „дѣла".
         </p>
       </note>
     </head>

@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Булгаков">Булгаков</persName></author>
-        <editor role="transcriber"><persName ref="IA">Ифрах Абрамов</persName></editor>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/IA.html">Ифрах Абрамов</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +18,9 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Булгаков">Булгакова</persName> о характере <orgName ref="Хасиды">хасидского движения
-        </orgName> с предложением о запрете хасидского направления в России – приложение к докладу
+        Сообщение <persName role="namesViewer" target="/names/Булгаков.html">Булгакова</persName> о характере <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидского движения</orgName> с предложением о запрете хасидского
+        направления в России – приложение к докладу
       </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
@@ -28,19 +31,19 @@
     <fw type="pageNum" place="right">21.</fw>
     <head>
       <l>Объясненіе</l>
-      <l>О началѣ и правилахъ <orgName ref="Хасиды">секты Ка-<lb/>
+      <l>О началѣ и правилахъ <orgName role="namesViewer" target="/names/Хасиды.html">секты Ка-<lb/>
        ролиновъ</orgName>.</l>
     </head>
     <p>
-      <l><persName ref="Баал_Шем_Тов">Израель Балшумъ</persName>, или Каба</l>
+      <l><persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Израель Балшумъ</persName>, или Каба</l>
       <l>листа, слишкомъ десять лѣтъ</l>
       <l>тому назадъ жилъ въ мѣстечкѣ</l>
-      <l><placeName ref="Меджибож">Мендзибожъ</placeName> въ <placeName ref="Подольская_губерния">Подоліи</placeName>; и
-      въ</l>
+      <l><placeName role="namesViewer" target="/names/Меджибож.html">Мендзибожъ</placeName> въ <placeName
+      role="namesViewer" target="/names/Подольская_губерния.html">Подоліи</placeName>; и въ</l>
       <l>младости лѣтъ своихъ воспитанъ</l>
       <l>въ суровой жизни и въ пустынѣ.</l>
       <l>Онъ есть заводчикомъ секты,</l>
-      <l>названной потомъ <orgName ref="Хасиды">Каролинскою</orgName>.</l>
+      <l>названной потомъ <orgName role="namesViewer" target="/names/Хасиды.html">Каролинскою</orgName>.</l>
       <l>Долгія и безпрестанныя молитвы</l>
       <l>его такъ привлекли къ нему на</l>
       <l>родъ, что по его наружной на</l>
@@ -52,7 +55,7 @@
       <l>стіяхъ и пр.</l>
     </p>
     <p>
-      <l>Во время жизни <persName ref="Баал_Шем_Тов">Израеля<lb/>
+      <l>Во время жизни <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Израеля<lb/>
        Балшума</persName>, сила ли действую-</l>
       <l>щей натуры, или какое его</l>
       <l>проворство, происходящее отъ</l>
@@ -60,12 +63,13 @@
       <l>нему чернь, удовлетворенную</l>
       <l><pb xml:id="p021-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/021.html#p021-2"/>
       <fw type="pageNum">21об.</fw> въ ея желаніяхъ. Разнесшаяся</l>
-      <l>слава о набожности <persName ref="Баал_Шем_Тов">Израеля</persName></l>
+      <l>слава о набожности <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Израеля</persName></l>
       <l>привлекла къ нему изъ Ланцу-</l>
-      <l>та<note place="end">ныне Ланьцут, город в Польше</note>, <placeName ref="Полонное">Поленова</placeName>,
-      Берокъ<note place="end">вероятно, д. Берков в Гомельской обл. Белоруссии</note> и <placeName ref="Мезеричи">
-      Межери<lb/>
-       цы</placeName>, рабиновъ <placeName ref="Волынская_губерния">волынскихъ</placeName> горо-</l>
+      <l>та<note place="end">ныне Ланьцут, город в Польше</note>, <placeName role="namesViewer"
+      target="/names/Полонное.html">Поленова</placeName>, Берокъ<note place="end">вероятно, д. Берков в Гомельской обл.
+      Белоруссии</note> и <placeName role="namesViewer" target="/names/Мезеричи.html">Межери<lb/>
+       цы</placeName>, рабиновъ <placeName role="namesViewer" target="/names/Волынская_губерния.html"
+      >волынскихъ</placeName> горо-</l>
       <l>довъ. Сіи по долгомъ обученіи</l>
       <l>новому образу моленія, возвра</l>
       <l>тясь въ домы свои, каждой особо</l>
@@ -76,8 +80,8 @@
       <l>жидовскими начальствами.</l>
     </p>
     <p>
-      <l>По смерти Израеля <persName ref="Баал_Шем_Тов">Бал-<lb/>
-       шума</persName>, <persName ref="maggid">рабинъ Межирицкій Беркъ</persName>,</l>
+      <l>По смерти Израеля <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Бал-<lb/>
+       шума</persName>, <persName role="namesViewer" target="/names/maggid.html">рабинъ Межирицкій Беркъ</persName>,</l>
       <l>одинъ изъ его старшихъ уче</l>
       <l>никовъ, здѣлался наилучшимъ</l>
       <l>послѣдователемъ набожности</l>
@@ -85,11 +89,13 @@
       <l>шили къ нему евреи для пріо-</l>
       <l>брѣтенія свѣдѣній въ духовной</l>
       <l>наукѣ, между коими изъ Литвы</l>
-      <l>два еврея <persName ref="Арон">Аронъ</persName> и <persName ref="Соломон">Саломонъ</persName></l>
-      <l>из <placeName ref="Каролины">Каролина</placeName>, предмѣстія го</l>
-      <l>рода <placeName ref="Пинск">Пинска</placeName>; <persName ref="Шмуил_Хаимович">Рабин Индурскій</persName></l>
-      <l><note type="gloss">|: <placeName ref="Индура">мѣстечко</placeName> <placeName ref="Гродно">Гродненскаго
-      </placeName> повѣта :|</note></l>
+      <l>два еврея <persName role="namesViewer" target="/names/Арон.html">Аронъ</persName> и <persName
+      role="namesViewer" target="/names/Соломон.html">Саломонъ</persName></l>
+      <l>из <placeName role="namesViewer" target="/names/Каролины.html">Каролина</placeName>, предмѣстія го</l>
+      <l>рода <placeName role="namesViewer" target="/names/Пинск.html">Пинска</placeName>; <persName role="namesViewer"
+      target="/names/Шмуил_Хаимович.html">Рабин Индурскій</persName></l>
+      <l><note type="gloss">|: <placeName role="namesViewer" target="/names/Индура.html">мѣстечко</placeName> <placeName
+      role="namesViewer" target="/names/Гродно.html">Гродненскаго</placeName> повѣта :|</note></l>
       <l>и подрабинекъ изъ Волпы<note place="end">ныне агрогородок Волпа в Гродненской обл. Белоруссии</note> <note
       type="gloss">|: мѣ-<lb/>
        стечко Волковійскаго повѣта :|</note></l>
@@ -97,20 +103,25 @@
       <fw type="pageNum" place="right">22.</fw> были его соучениками.</l>
     </p>
     <p>
-      <l>Изъ сихъ учениковъ <persName ref="maggid">Берка</persName></l>
-      <l><persName ref="Шмуил_Хаимович">рабинъ Индурскій</persName> в <placeName ref="Индура">Индурѣ</placeName>, а</l>
-      <l>три послѣднихъ <persName ref="Арон">Аронъ</persName> и <persName ref="Соломон">Сало-<lb/>
+      <l>Изъ сихъ учениковъ <persName role="namesViewer" target="/names/maggid.html">Берка</persName></l>
+      <l><persName role="namesViewer" target="/names/Шмуил_Хаимович.html">рабинъ Индурскій</persName> в <placeName
+      role="namesViewer" target="/names/Индура.html">Индурѣ</placeName>, а</l>
+      <l>три послѣднихъ <persName role="namesViewer" target="/names/Арон.html">Аронъ</persName> и <persName
+      role="namesViewer" target="/names/Соломон.html">Сало-<lb/>
        монъ</persName> съ подрабинкомъ волп-</l>
-      <l>скимъ, по дружеской связи, учредили свою школу в <placeName ref="Каролины">Ка<lb/>
+      <l>скимъ, по дружеской связи, учредили свою школу в <placeName role="namesViewer" target="/names/Каролины.html"
+      >Ка<lb/>
        ролинѣ</placeName>.</l>
     </p>
     <p>
       <l>Такимъ образомъ умно-</l>
       <l>жилось число новозаводителей,</l>
-      <l>от имени предмѣстія <placeName ref="Каролины">Каро-<lb/>
-       лина</placeName>, <emph rend="underline"><orgName ref="Хасиды">каролинами</orgName></emph> названныхъ,</l>
+      <l>от имени предмѣстія <placeName role="namesViewer" target="/names/Каролины.html">Каро-<lb/>
+       лина</placeName>, <emph rend="underline"><orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролинами</orgName></emph> названныхъ,</l>
       <l>и здѣлалось извѣстнымъ въ</l>
-      <l><placeName ref="Литва">Литвѣ</placeName> и <placeName ref="Белоруссия">Бѣлорусіи</placeName>. При сей</l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литвѣ</placeName> и <placeName role="namesViewer"
+      target="/names/Белоруссия.html">Бѣлорусіи</placeName>. При сей</l>
       <l>новой перемѣнѣ, народъ жидов</l>
       <l>скій раздѣлился на разныя</l>
       <l>партіи въ образѣ мысленія,</l>
@@ -129,22 +140,25 @@
     <p>
       <l>Но сіе позднѣе оказалось</l>
       <l><pb xml:id="p022-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/021.html#p022-2"/>
-      <fw type="pageNum">22об.</fw> въ <placeName ref="Вильна">Вилнѣ</placeName>, когда завистію пред-</l>
+      <fw type="pageNum">22об.</fw> въ <placeName role="namesViewer" target="/names/Вильна.html">Вилнѣ</placeName>,
+      когда завистію пред-</l>
       <l>водимый подрабинекъ волпской</l>
-      <l>поссорился с жидами <persName ref="Арон">Арономъ</persName></l>
-      <l>и <persName ref="Соломон">Саломономъ</persName>, и былъ униженъ</l>
+      <l>поссорился с жидами <persName role="namesViewer" target="/names/Арон.html">Арономъ</persName></l>
+      <l>и <persName role="namesViewer" target="/names/Соломон.html">Саломономъ</persName>, и былъ униженъ</l>
       <l>отъ нихъ въ своемъ достоинствѣ</l>
       <l>и славѣ при народномъ собраніи.</l>
-      <l>Онъ пріехалъ въ <placeName ref="Вильна">Вилну</placeName>: къ <persName ref="Элиас">Елі-<lb/>
+      <l>Онъ пріехалъ въ <placeName role="namesViewer" target="/names/Вильна.html">Вилну</placeName>: къ <persName
+      role="namesViewer" target="/names/Элиас.html">Елі-<lb/>
        ашу</persName>, обремененному лѣтами,</l>
       <l>честному нравами, быстрому</l>
       <l><note type="gloss">|: какъ вообще думаютъ :|</note> по</l>
       <l>духовной наукѣ, и за святаго</l>
       <l>здѣсь признаваемому, и объя-</l>
-      <l>вилъ ему о сектѣ <persName ref="Баал_Шем_Тов">Израеля</persName> въ</l>
-      <l><placeName ref="Каролины">Каролинѣ</placeName>, чрезъ его пропага-</l>
-      <l>нистовъ <persName ref="Арон">Арона</persName> и <persName ref="Соломон">Саломона</persName></l>
-      <l>основанной; а сей <persName ref="Элиас">Еліашъ</persName>, умер-</l>
+      <l>вилъ ему о сектѣ <persName role="namesViewer" target="/names/Баал_Шем_Тов.html">Израеля</persName> въ</l>
+      <l><placeName role="namesViewer" target="/names/Каролины.html">Каролинѣ</placeName>, чрезъ его пропага-</l>
+      <l>нистовъ <persName role="namesViewer" target="/names/Арон.html">Арона</persName> и <persName role="namesViewer"
+      target="/names/Соломон.html">Саломона</persName></l>
+      <l>основанной; а сей <persName role="namesViewer" target="/names/Элиас.html">Еліашъ</persName>, умер-</l>
       <l>шій вскорѣ послѣ того, находя</l>
       <l>оную секту противною своему</l>
       <l>мнѣнію, призналъ ее за вредную.</l>
@@ -152,43 +166,46 @@
     <p>
       <l>При семъ случаѣ примѣ-</l>
       <l>ченъ былъ духъ партіи во мнѣ-</l>
-      <l>ніи <persName ref="Элиас">Еліаша</persName>, снискавшаго по-</l>
+      <l>ніи <persName role="namesViewer" target="/names/Элиас.html">Еліаша</persName>, снискавшаго по-</l>
       <l>чтеніе и довѣренность в мѣл-</l>
       <l>комъ народѣ. Воспалился</l>
-      <l>народъ паче любовію к <persName ref="Элиас">Еліашу</persName>,</l>
+      <l>народъ паче любовію к <persName role="namesViewer" target="/names/Элиас.html">Еліашу</persName>,</l>
       <l>нежели удостовѣреніем о худой</l>
       <l>моральности новой секты. Когда</l>
-      <l>только задумывали <orgName ref="Хасиды">Каролины</orgName></l>
+      <l>только задумывали <orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName></l>
       <l><pb xml:id="p023-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/021.html#p023-1"/>
       <fw type="pageNum">23.</fw> завести свою особенную школу</l>
-      <l>или молитвенной домъ в <placeName ref="Вильна">Вил-<lb/>
+      <l>или молитвенной домъ в <placeName role="namesViewer" target="/names/Вильна.html">Вил-<lb/>
        нѣ</placeName>, всегда возбранено имъ то</l>
       <l>было от здѣшняго кагала.</l>
     </p>
     <p>
       <l>Наконецъ <note type="gloss">|: уже тому три<lb/>
-       года :|</note> <placeName ref="Вильна">виленской</placeName> обыватель еврей</l>
-      <l><persName ref="Меер_Рафалович">Мееръ Рафаиловичъ</persName>, во время</l>
-      <l>еще жизни <persName ref="Элиас">Еліаша</persName>, начал вы</l>
-      <l>зывать сюда <orgName ref="Хасиды">каролиновъ</orgName>. Не чи</l>
+       года :|</note> <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> обыватель
+      еврей</l>
+      <l><persName role="namesViewer" target="/names/Меер_Рафалович.html">Мееръ Рафаиловичъ</persName>, во время</l>
+      <l>еще жизни <persName role="namesViewer" target="/names/Элиас.html">Еліаша</persName>, начал вы</l>
+      <l>зывать сюда <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>. Не чи</l>
       <l>нено ему силнаго о сборѣ ихъ</l>
       <l>воспрещенія, потому что онъ</l>
       <l>имелъ тогда пріятелемъ себѣ</l>
-      <l><persName ref="Мовша_Ошерович">Моисея Ошеровича</persName>, получилъ</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моисея Ошеровича</persName>, получилъ</l>
       <l>отъ него письменное позволеніе</l>
-      <l>о вольномъ пріѣздѣ <orgName ref="Хасиды">кароли<lb/>
-       новъ</orgName>. Послѣ того, сей <persName ref="Меер_Рафалович">Мееръ</persName></l>
+      <l>о вольномъ пріѣздѣ <orgName role="namesViewer" target="/names/Хасиды.html">кароли<lb/>
+       новъ</orgName>. Послѣ того, сей <persName role="namesViewer" target="/names/Меер_Рафалович.html">Мееръ</persName>
+      </l>
       <l>былъ самъ избранъ кагальнымъ,</l>
       <l>и сей урядъ поссорилъ его съ</l>
-      <l><persName ref="Мовша_Ошерович">Моисеемъ Ошеровичемъ</persName>, чрезъ</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моисеемъ Ошеровичемъ</persName>, чрезъ</l>
       <l>котораго стараніе собраніе</l>
-      <l><orgName ref="Хасиды">каролиновъ</orgName> вновь было запре-</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> вновь было запре-</l>
       <l>щено. Въ такомъ положеніи</l>
       <l>распря о сектѣ пребыла до</l>
-      <l>самой смерти <persName ref="Элиас">Еліаша</persName>.</l>
+      <l>самой смерти <persName role="namesViewer" target="/names/Элиас.html">Еліаша</persName>.</l>
     </p>
     <p>
-      <l>Когда умеръ Еліашъ, <persName ref="Мовша_Ошерович">Мо- <lb/>исей Ошеровичъ</persName> бывъ извѣстенъ</l>
+      <l>Когда умеръ Еліашъ, <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мо- <lb/>исей
+      Ошеровичъ</persName> бывъ извѣстенъ</l>
       <l>о сильномъ предъубѣжденіи об-</l>
       <l>щества еврейскаго о набожности</l>
       <l><pb xml:id="p023-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/021.html#p023-2"/>
@@ -202,21 +219,21 @@
       <l>собраніе надъ его могилою, изъ</l>
       <l>10 человѣкъ своихъ друзей, на ко-</l>
       <l>торомъ постановлено предпи</l>
-      <l>сать всему обществу: чтобы <orgName ref="Хасиды">ка<lb/>
+      <l>сать всему обществу: чтобы <orgName role="namesViewer" target="/names/Хасиды.html">ка<lb/>
        ролины</orgName> не имѣли особенной шко-</l>
       <l>лы; чтобы запрещено имъ было</l>
       <l>ѣздить в мѣстечки ихъ началь</l>
       <l>никовъ; и чтобы, наконецъ при</l>
       <l>выборѣ согласился народъ на особу</l>
-      <l><persName ref="Мовша_Ошерович">Моисея</persName> и другихъ четырехъ ему</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моисея</persName> и другихъ четырехъ ему</l>
       <l>приданныхъ помочниковъ или вы-</l>
       <l>борныхъ, кои бы имѣли власть</l>
       <l>по части религіи дѣйствовать</l>
-      <l>противу <orgName ref="Хасиды">каролиновъ</orgName>. Чрезъ та-</l>
-      <l>ковой оборотъ <persName ref="Мовша_Ошерович">Моисей Ошеро-<lb/>
+      <l>противу <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>. Чрезъ та-</l>
+      <l>ковой оборотъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моисей Ошеро-<lb/>
        вичъ</persName> сдѣлавшись кагальнымъ,</l>
       <l>суровымъ своимъ преслѣдова</l>
-      <l>ніемъ угнѣтаетъ теперь <orgName ref="Хасиды">ка<lb/>
+      <l>ніемъ угнѣтаетъ теперь <orgName role="namesViewer" target="/names/Хасиды.html">ка<lb/>
        ролинов</orgName>.</l>
     </p>
     <p>
@@ -243,7 +260,7 @@
       <l>свободенъ отъ постороннихъ</l>
       <l>искушеній. Время моленія</l>
       <l>обыкновенное у давныхъ евреевъ,</l>
-      <l><orgName ref="Хасиды">каролинами</orgName>, ожидающими</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>, ожидающими</l>
       <l>спокойной мысли, сълишкомъ</l>
       <l>продолженное, оскорбляетъ всѣхъ</l>
       <l>держащихся давняго обыкно</l>
@@ -259,7 +276,7 @@
       <l>примиренію с Богомъ.</l>
     </p>
     <p>
-      <l>4.<orgName ref="Хасиды">Каролины</orgName>, раздѣливъ начальство</l>
+      <l>4.<orgName role="namesViewer" target="/names/Хасиды.html">Каролины</orgName>, раздѣливъ начальство</l>
       <l>свое на мірское и духовное,</l>
       <l>утверждаютъ, что <emph rend="underline">мірская</emph></l>
       <l><emph rend="underline">власть</emph> можетъ законно на</l>
@@ -282,7 +299,7 @@
     </p>
     <p>
       <l>Краткое познаніе о началѣ</l>
-      <l>и усиленіи <orgName ref="Хасиды">секты каролиновъ</orgName></l>
+      <l>и усиленіи <orgName role="namesViewer" target="/names/Хасиды.html">секты каролиновъ</orgName></l>
       <l>удостовѣряетъ человѣека разумнаго</l>
       <l>о характерѣ и слабости начальни-</l>
       <l><pb xml:id="p025-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/021.html#p025-1"/>
@@ -323,7 +340,7 @@
       <l>взаимно себя гонящихъ, и мо-</l>
       <l>гущихъ на все рѣшиться? Чи</l>
       <l>сло сей безпокойной секты,</l>
-      <l>понынѣ въ <placeName ref="Литва">Литовской губер-<lb/>
+      <l>понынѣ въ <placeName role="namesViewer" target="/names/Литва.html">Литовской губер-<lb/>
        ніи</placeName> состоящей изъ бродягъ,</l>
       <l>и которую прочие жиды уподо-</l>
       <l>бляютъ может быть и не</l>

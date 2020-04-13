@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Мовша_Ошерович">Ошерович</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошерович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,20 +16,21 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Прошение старшин распущенного состава <orgName ref="Виленский_кагал">виленского кагала</orgName> о
-        восстановлении прежнего состава <orgName ref="Виленский_кагал">кагала</orgName> и его полномочий
+        Прошение старшин распущенного состава <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+        >виленского кагала</orgName> о восстановлении прежнего состава <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">кагала</orgName> и его полномочий
       </p></abstract>
       <creation><date when="1799-02-20">февраля 20 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb xml:id="p010-1" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/010.html#p010-1"/>
-    <fw type="note">в <placeName ref="Петербург">г С.П. бургѣ</placeName> Марта 3.дня 1799 .<hi rend="superscript">го
-    </hi></fw>
+    <fw type="note">в <placeName role="namesViewer" target="/names/Петербург.html">г С.П. бургѣ</placeName> Марта 3.дня
+    1799 .<hi rend="superscript">го</hi></fw>
     <fw type="docNum" place="left">4347</fw>
     <fw type="docNum" place="left">501</fw>
     <fw type="pageNum" place="right"><del rend="overstrike">57</del></fw>
@@ -37,59 +39,80 @@
        всемилостивѣйшій Государь!</salute>
     <p>
       <l>высочайшими <emph rend="big">вашего императорскаго вели-<lb/>
-       чества</emph> указами изданными на <placeName ref="Литва">литовскую губернію</placeName>, оби-</l>
-      <l>тающіе въ <placeName ref="Литва">оной губерніи</placeName> народы, въ томъ числѣ и об-</l>
-      <l>щество евреевъ отъ давныхъ временъ въ <placeName ref="Литва">литвѣ</placeName> посе-</l>
+       чества</emph> указами изданными на <placeName role="namesViewer" target="/names/Литва.html">литовскую
+      губернію</placeName>, оби-</l>
+      <l>тающіе въ <placeName role="namesViewer" target="/names/Литва.html">оной губерніи</placeName> народы, въ томъ
+      числѣ и об-</l>
+      <l>щество евреевъ отъ давныхъ временъ въ <placeName role="namesViewer" target="/names/Литва.html"
+      >литвѣ</placeName> посе-</l>
       <l>лившееся, всемилостивѣйше оставлены при древнихъ</l>
       <l>своихъ правахъ и привилегіяхъ. Каковою высокомонар-</l>
       <l>шею милостію всѣ безъ изъятія и понынѣ пользуются,</l>
       <l>кромѣ общества евреевъ, которое было также спокойно</l>
       <l>до тѣхъ поръ, покамѣстъ отступившіе отъ онаго</l>
-      <l>и основавшіе новую <orgName ref="Хасиды">секту каролины</orgName>, сыскавъ протекцію</l>
-      <l>и покровительство <orgName ref="Литовское_губернское_правление">литовскаго губернскаго правленія</orgName></l>
-      <l>совѣтника <persName ref="Елиашевич">Еліашевича</persName>, на начали насъ, составляющихъ</l>
-      <l><orgName ref="Виленский_кагал">виленскій кагалъ</orgName> евреевъ всячески обеспокоивать сво-</l>
+      <l>и основавшіе новую <orgName role="namesViewer" target="/names/Хасиды.html">секту каролины</orgName>, сыскавъ
+      протекцію</l>
+      <l>и покровительство <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">литовскаго
+      губернскаго правленія</orgName></l>
+      <l>совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>, на начали насъ,
+      составляющихъ</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскій кагалъ</orgName> евреевъ всячески
+      обеспокоивать сво-</l>
       <l>ими нововыдуманными обрядами въ Богомоленіи и</l>
-      <l>прочемъ. Стараясь они <orgName ref="Хасиды">каролины</orgName> подкрѣпить то свое</l>
-      <l>отступленіе отъ насъ, взнесли жалобу въ <orgName ref="Литовское_губернское_правление">литовское губерн-<lb/>
+      <l>прочемъ. Стараясь они <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName> подкрѣпить то
+      свое</l>
+      <l>отступленіе отъ насъ, взнесли жалобу въ <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">литовское губерн-<lb/>
        ское правленіе</orgName>, о причиняемыхъ якобы нами для нихъ</l>
       <l>притесненіяхъ, которое удовлѣтворяя оную ихъ жа-</l>
       <l>лобу во всемъ, въ противность нашихъ привиле-</l>
-      <l>гій и рѣшеній бывшаго <placeName ref="Литва">литовскаго</placeName> королевскаго</l>
-      <l>задворнаго и <placeName ref="Литва">литовскаго</placeName> надворнаго судовъ <note type="gloss">|: кото-<lb/>
+      <l>гій и рѣшеній бывшаго <placeName role="namesViewer" target="/names/Литва.html">литовскаго</placeName>
+      королевскаго</l>
+      <l>задворнаго и <placeName role="namesViewer" target="/names/Литва.html">литовскаго</placeName> надворнаго судовъ
+      <note type="gloss">|: кото-<lb/>
        рых совсѣмъ отмѣнило :|</note> въ <date when="1798-04-26">26<hi rend="superscript">и</hi> день Апрѣля<lb/>
        1798<hi rend="superscript">го</hi> года</date> запретило намъ по нашимъ духовнымъ</l>
       <l><pb xml:id="p010-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/010.html#p010-2"
       /> законамъ наказывать евреевъ нарушающихъ обряды</l>
-      <l>религіи, позволило <orgName ref="Хасиды">каролинамъ</orgName> отправлять Богомо-</l>
+      <l>религіи, позволило <orgName role="namesViewer" target="/names/Хасиды.html">каролинамъ</orgName> отправлять
+      Богомо-</l>
       <l>леніе не по правамъ праотцевъ нашихъ и не вѣлено</l>
-      <l><orgName ref="Виленский_кагал">кагалу</orgName> и духовному суду принимать и судить между</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName> и духовному суду принимать и
+      судить между</l>
       <l>евреями дѣлъ.</l>
     </p>
     <p>
-      <l>О прописанномъ положеніи <orgName ref="Литовское_губернское_правление">губернскаго правленія</orgName></l>
-      <l>жаловался <orgName ref="Виленский_кагал">кагалъ</orgName> бывшему <placeName ref="Литва">литовскому</placeName>
-      Губернатору</l>
-      <l>дѣйствительному тайному совѣтнику и кавалеру <persName ref="Булгаков">Бул-<lb/>
+      <l>О прописанномъ положеніи <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >губернскаго правленія</orgName></l>
+      <l>жаловался <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> бывшему <placeName
+      role="namesViewer" target="/names/Литва.html">литовскому</placeName> Губернатору</l>
+      <l>дѣйствительному тайному совѣтнику и кавалеру <persName role="namesViewer" target="/names/Булгаков.html">Бул-<lb
+      />
        гакову</persName> и нынѣшнему Губернатору, дѣйствительному</l>
-      <l>статскому совѣтнику и кавалеру <persName ref="Фризель">Фризелю</persName>, предста-</l>
+      <l>статскому совѣтнику и кавалеру <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName>,
+      предста-</l>
       <l>вя при томъ и свои привилегіи съ другими дока-</l>
       <l>зательствами, которыя всѣ нынѣ находятся у</l>
-      <l>господина <placeName ref="Литва">литовскаго</placeName> Губернатора, однако за всѣмъ</l>
+      <l>господина <placeName role="namesViewer" target="/names/Литва.html">литовскаго</placeName> Губернатора, однако
+      за всѣмъ</l>
       <l>тѣмъ гоненіе наше не прекратилось, а вящше время</l>
       <l>отъ времени усиливается тѣмъ, что <date when="1799-02-04">4<hi rend="superscript">го</hi> числа сего<lb/>
-       мѣсяца</date> <orgName ref="Виленский_кагал">кагальные члены</orgName> содержаны были чрезъ весь</l>
+       мѣсяца</date> <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагальные члены</orgName>
+      содержаны были чрезъ весь</l>
       <l>день въ полиціи подъ стражею, опечатаны всѣ ихъ</l>
       <l>и партикулярныхъ евреевъ даже и неслужащіе къ сему</l>
       <l>дѣлу бумаги, а въ вечеру того жъ числа Господинъ Ко-</l>
-      <l>мендантъ <persName ref="Капцевич">капцевичъ</persName>, совѣтникъ <persName ref="Елиашевич">
-      Еліашевичъ</persName>, губерн-</l>
+      <l>мендантъ <persName role="namesViewer" target="/names/Капцевич.html">капцевичъ</persName>, совѣтникъ <persName
+      role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>, губерн-</l>
       <l>скій казначей Сербиновичъ, плацъ маіоръ Палкинъ,</l>
       <l>квартальный надзиратель <unclear>Гестико</unclear> съ десятцскими</l>
-      <l>и <orgName ref="Хасиды">каролинами</orgName>, невзирая на высокоторжественный</l>
+      <l>и <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName>, невзирая на
+      высокоторжественный</l>
       <l>праздникъ, прибыли въ храмъ нашего Богомоленія</l>
-      <l>гдѣ совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> остановя наше Бого-</l>
-      <l>моленіе объявилъ громогласно, что нѣтъ <orgName ref="Виленский_кагал">кагала</orgName></l>
+      <l>гдѣ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> остановя наше
+      Бого-</l>
+      <l>моленіе объявилъ громогласно, что нѣтъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагала</orgName></l>
       <l>и духовнаго суда, потомъ простирая далѣе свое</l>
       <l>неудовольствіе, и <emph rend="underline">прикрывъ</emph> однихъ <emph rend="underline">собственноручными</emph>
       </l>
@@ -101,17 +124,21 @@
     </p>
     <p>
       <l>Не кончилось на томъ наше притѣсненіе ибо <date when="1799-02-06">6<hi rend="superscript">го</hi><lb/>
-       числа</date> пришедъ въ <orgName ref="Виленский_кагал">кагальный домъ</orgName> плацъ маіоръ</l>
+       числа</date> пришедъ въ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагальный домъ</orgName>
+      плацъ маіоръ</l>
       <l>Палкинъ съ квартальными надзирателями и ка-</l>
-      <l>ролинами, сдѣлалъ новый выборъ <orgName ref="Виленский_кагал">кагальнымъ членамъ</orgName></l>
+      <l>ролинами, сдѣлалъ новый выборъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагальнымъ
+      членамъ</orgName></l>
       <l>со всѣмъ обрядамъ религіи нашей и желанію общества</l>
-      <l>противный, подъ надзираніемъ однихъ <orgName ref="Хасиды">каролиновъ</orgName>.</l>
+      <l>противный, подъ надзираніемъ однихъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролиновъ</orgName>.</l>
     </p>
     <p>
       <l>Описавъ все прописанное въ подробности, подали</l>
-      <l>мы жалобу въ <orgName ref="Литовское_губернское_правление">губернское правленіе</orgName>, къ Господину Гене-
-      </l>
-      <l>ралъ Губернатору <persName ref="Лассий">лассію</persName> и также послали про-</l>
+      <l>мы жалобу въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">губернское
+      правленіе</orgName>, къ Господину Гене-</l>
+      <l>ралъ Губернатору <persName role="namesViewer" target="/names/Лассий.html">лассію</persName> и также послали
+      про-</l>
       <l>шеніе къ господину генералъ прокурору.</l>
     </p>
     <p>
@@ -129,15 +156,15 @@
     <p>
       <l>вашего императорскаго величества</l>
       <l>всемилостивѣйшаго государя</l>
-      <l>всеподданнѣйшій <orgName ref="Виленский_кагал">виленскаго еврей-<lb/>
-       скаго кагала</orgName> старшина <persName ref="Мовша_Ошерович">мовша<lb/>
+      <l>всеподданнѣйшій <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго еврей-<lb/>
+       скаго кагала</orgName> старшина <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мовша<lb/>
        ошеровичъ</persName> по еврейски подписался</l>
       <l><signed>משה בהרב הגדול מה' אברהם אשר זצל מווילנא</signed></l>
     </p>
     <closer place="left">
       <l><date when="1799-02-20">февраля 20 <hi rend="superscript">го</hi> дня<lb/>
        1799<hi rend="superscript">го</hi> года</date></l>
-      <l><placeName ref="Вильна">вильна</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName></l>
     </closer>
     <pb xml:id="p011-2" rendition="page" role="facsimileViewer" target="/collections/rgia328/facs/010.html#p011-2"/>
   </body></text>

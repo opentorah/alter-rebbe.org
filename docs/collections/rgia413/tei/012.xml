@@ -3,9 +3,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-        <editor role="transcriber"><persName ref="MK">Михоэль Кориц</persName></editor>
+        <author><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/MK.html">Михоэль Кориц</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,7 +18,7 @@
     </fileDesc>
     <profileDesc>
       <abstract>
-        <p>Молитва за императора <persName ref="Павел_I">Павла</persName></p>
+        <p>Молитва за императора <persName role="namesViewer" target="/names/Павел_I.html">Павла</persName></p>
         <p>
           Упомянута в документе <ref role="documentViewer" target="/collections/dubnov/documents/269.html">№ 19</ref> у
           Дубнова

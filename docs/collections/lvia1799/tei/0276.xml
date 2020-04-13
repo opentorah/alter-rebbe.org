@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><author><persName ref="Фризель">Фризель</persName></author></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -14,14 +15,16 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>Рапорт <placeName ref="Литва">литовского</placeName> гражданского губернатора <persName ref="Фризель">
-      Фризеля</persName> генерал-губернатору <persName ref="Лассий">Де-Ласси</persName> о запросе документов у <orgName
-      ref="Виленский_кагал">виленского кагала</orgName> и о подготовке акта, пересматривающего полномочия <orgName
-      ref="Виленский_кагал">виленского кагала</orgName></abstract>
+      <abstract>Рапорт <placeName role="namesViewer" target="/names/Литва.html">литовского</placeName> гражданского
+      губернатора <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> генерал-губернатору
+      <persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName> о запросе документов у <orgName
+      role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName> и о подготовке акта,
+      пересматривающего полномочия <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+      кагала</orgName></abstract>
       <creation><date when="1799-02-09">9 февраля 1799</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Лассий" role="addressee">Де-Ласси</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лассий.html">Де-Ласси</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -32,23 +35,29 @@
     <fw type="pageNum" place="right">296<note place="end">запись чернилами</note></fw>
     <salute>
       <l>Его высокопревосходительству</l>
-      <l>Господину Генералу отъ инфантеріи, <placeName ref="Литва">литов-<lb/>
-       ской</placeName> дивизіи по пѣхотѣ инспектору, <placeName ref="Литва">литов-<lb/>
+      <l>Господину Генералу отъ инфантеріи, <placeName role="namesViewer" target="/names/Литва.html">литов-<lb/>
+       ской</placeName> дивизіи по пѣхотѣ инспектору, <placeName role="namesViewer" target="/names/Литва.html">литов-<lb
+      />
        скому</placeName> Генералу Губернатору и разныхъ орденовъ</l>
-      <l>кавалеру <persName ref="Лассий">Борису Петровичу Лассію</persName></l>
+      <l>кавалеру <persName role="namesViewer" target="/names/Лассий.html">Борису Петровичу Лассію</persName></l>
     </salute>
-    <head><l><placeName ref="Литва">Литовскаго</placeName> гражданскаго губернатора<lb/>
-       рапортъ</l></head>
+    <head>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> гражданскаго губернатора<lb/>
+       рапортъ</l>
+    </head>
     <p>
       <l>Всепочтеннѣйшее предписаніе вашего высоко-</l>
       <l>превосходительства отъ 4 февраля за № 40, о</l>
       <l>изъслѣдованіи и пресѣченіи разныхъ злоупотребленій</l>
-      <l><orgName ref="Виленский_кагал">виленским еврейским кагаломъ</orgName> чинимыхъ, я</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленским еврейским кагаломъ</orgName>
+      чинимыхъ, я</l>
       <l>имѣлъ честь получить 7<hi rend="superscript">го</hi> числа, и не премину</l>
       <l>выполнить его въ точности. Приступилъ бы</l>
       <l>я того жъ часу к дѣлу сему; но какъ извѣстно</l>
-      <l>мнѣ, что <placeName ref="Вильна">виленскій</placeName> Комендантъ Господинъ Ге-</l>
-      <l>нерал-майоръ <persName ref="Капцевич">Капцевичъ</persName> въ силу прежде дан</l>
+      <l>мнѣ, что <placeName role="namesViewer" target="/names/Вильна.html">виленскій</placeName> Комендантъ Господинъ
+      Ге-</l>
+      <l>нерал-майоръ <persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName> въ силу прежде
+      дан</l>
       <l>наго ему вашимъ высокопревосходительствомъ</l>
       <l>таковаго жъ предписанія, здѣлалъ уже разныя</l>
       <l>о семъ распоряженія, то дабы не учинить чего</l>
@@ -64,23 +73,27 @@
       <l>Относительно предписанія вашего высокопре-</l>
       <l>восходительства отъ <date when="1799-01-07">7<hi rend="superscript">го</hi> Генваря</date> подъ № 9, о воз-</l>
       <l>становленіи, есть ли по разсмотрѣніи нужнымъ</l>
-      <l>покажется, резолюціи <orgName ref="Литовское_губернское_правление">Литовскаго губернскаго<lb/>
+      <l>покажется, резолюціи <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      губернскаго<lb/>
        правленія</orgName> от <date when="1798-08-20">20 августа прошедшаго года</date>,</l>
       <l>я истребовалъ напередъ отъ предмѣстника</l>
       <l>моего изъясненіе причинъ подавшихъ поводъ</l>
       <l>къ оставленію предположенія правленія безъ</l>
       <l>дѣйствія; по полученіи отъ него о томъ увѣ-</l>
-      <l>домленія, предписалъ <orgName ref="Виленский_кагал">кагалу</orgName> здѣшнему, чтобъ</l>
+      <l>домленія, предписалъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName>
+      здѣшнему, чтобъ</l>
       <l>онъ представилъ мнѣ всѣ свои привилегіи, на</l>
       <l>которыя онъ въ подданномъ вашему высокопре-</l>
-      <l>восходительству прошеніи ссылается. <orgName ref="Виленский_кагал">Кагалъ</orgName></l>
+      <l>восходительству прошеніи ссылается. <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >Кагалъ</orgName></l>
       <l>представилъ мнѣ ихъ въ препровожденіи сво-</l>
       <l>его объясненія и множества другихъ бумагъ,</l>
       <l>всѣ на польскомъ языкѣ; почему принужденъ</l>
       <l>я былъ возвратить ихъ съ тѣмъ, дабы были</l>
       <l>переведены на Россійской языкъ. На дѣло сіе</l>
       <l>требующее не мало временнаго занятія, по</l>
-      <l>недостатку здѣсь переводчиковъ, <orgName ref="Виленский_кагал">кагалъ</orgName> ис-</l>
+      <l>недостатку здѣсь переводчиковъ, <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName> ис-</l>
       <l>просилъ тринедѣльный срокъ. Видя, что скорее</l>
       <l><pb xml:id="p287-1" rendition="page" role="facsimileViewer"
       target="/collections/lvia1799/facs/0276.html#p287-1"/> <note place="end">в архиве этот документ продолжается на
@@ -105,10 +118,12 @@
     </p>
     <p>
       <l>Приступая къ подписанію сего, получилъ я</l>
-      <l>отзывъ Господина генерала Маіора <persName ref="Капцевич">Капцевича</persName></l>
+      <l>отзывъ Господина генерала Маіора <persName role="namesViewer" target="/names/Капцевич.html"
+      >Капцевича</persName></l>
       <l>на мое къ нему отъ вчерашняго числа отно-</l>
       <l>шеніе. онъ увѣдомляетъ меня, что стар-</l>
-      <l>шины <orgName ref="Виленский_кагал">виленскаго кагала</orgName> и духовнаго суда</l>
+      <l>шины <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго кагала</orgName> и духовнаго
+      суда</l>
       <l>удалены уже отъ ихъ должностей, и на мѣсто</l>
       <l>ихъ избраны другія восемь человѣкъ, которыя</l>
       <l><pb xml:id="p287-2" rendition="page" role="facsimileViewer"
@@ -124,13 +139,13 @@
       <l>распоряженія, и о каждомъ изъ оныхъ</l>
       <l>мой будетъ ваше высокопревосходи</l>
       <l>извѣщать.</l>
-      <l><placeName ref="Литва">Литовскій</placeName> гражданскій губернаторъ <signed><persName ref="Фризель">Фризель
-      </persName></signed></l>
+      <l><placeName role="namesViewer" target="/names/Литва.html">Литовскій</placeName> гражданскій губернаторъ <signed>
+      <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">92</fw></l>
       <l><date when="1799-02-09">9 февраля 1799</date></l>
-      <l><placeName ref="Вильна">вилна</placeName></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вилна</placeName></l>
     </closer>
   </body></text>
 </TEI>

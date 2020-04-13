@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Пален">Пален</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Пален.html">Пален</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -15,13 +16,14 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение <persName ref="Пален">Палена</persName> <persName ref="Беклешов">Беклешову</persName> об освобождении
-        <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Сообщение <persName role="namesViewer" target="/names/Пален.html">Палена</persName> <persName role="namesViewer"
+        target="/names/Беклешов.html">Беклешову</persName> об освобождении <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1801-03-22">Марта 22 дня 1801 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Беклешов" role="addressee">Беклешову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Беклешов.html">Беклешову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -35,9 +37,10 @@
     <fw type="note" place="right">къ дѣлу</fw>
     <p>
       <l><salute>Милостивый государь мой<lb/>
-         <persName ref="Беклешов">Александръ Андрѣевичъ</persName>!</salute></l>
+         <persName role="namesViewer" target="/names/Беклешов.html">Александръ Андрѣевичъ</persName>!</salute></l>
       <l>Получа почтеннѣйшее отношеніе вашего</l>
-      <l>высокопревосходительства о евреѣ <persName ref="alter-rebbe">боруховичѣ</persName>,</l>
+      <l>высокопревосходительства о евреѣ <persName role="namesViewer" target="/names/alter-rebbe.html"
+      >боруховичѣ</persName>,</l>
       <l>котораго всемилостивѣйше повелѣно освободить</l>
       <l>и отпустить въ домъ его: предписалъ я для</l>
       <l>надлѣжащаго исполненія оберъ полиціимейстеру.</l>
@@ -46,13 +49,14 @@
       <l>Милостивый Государь мой!</l>
       <l>вашего высокопревосходительства</l>
       <l>покорнейшій слуга</l>
-      <l>Графъ <persName ref="Пален">фонъ Дер Паленъ</persName></l>
+      <l>Графъ <persName role="namesViewer" target="/names/Пален.html">фонъ Дер Паленъ</persName></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 1451<hi rend="superscript">и</hi>.</fw></l>
       <l><date when="1801-03-22">Марта 22. дня<lb/>
        1801. года</date></l>
-      <l>Его высок: Пр<hi rend="superscript">ву</hi> <persName ref="Беклешов">Беклешову</persName>.</l>
+      <l>Его высок: Пр<hi rend="superscript">ву</hi> <persName role="namesViewer" target="/names/Беклешов.html"
+      >Беклешову</persName>.</l>
     </closer>
     <pb xml:id="p335-2" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/335.html#p335-2"/>
   </body></text>

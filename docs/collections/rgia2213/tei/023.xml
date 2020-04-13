@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,15 +17,15 @@
     <profileDesc>
       <abstract>
         <p>
-          Запрос <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Кутузов">Кутузову</persName> о секте
-          „Шабзус-Цвинкус"
+          Запрос <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о секте „Шабзус-Цвинкус"
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/253.1.html">№ 3</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-06-07">Іюня 7 дня 1800 года.</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -32,12 +33,15 @@
     <pb xml:id="p023-1" rendition="page" role="facsimileViewer" target="/collections/rgia2213/facs/023.html#p023-1"/>
     <fw type="pageNum" place="right">23</fw>
     <fw type="docNum" place="right">№. 4722</fw>
-    <salute>Милостивый Государь <persName ref="Кутузов">Михайло Илларионовичъ!</persName></salute>
+    <salute>
+      Милостивый Государь <persName role="namesViewer" target="/names/Кутузов.html">Михайло Илларионовичъ!</persName>
+    </salute>
     <p>
       <l>Имѣя высочайшее Его Императорскаго</l>
       <l>Величества Повеленіе разсмотреть</l>
       <l>препровождаемую при сем жалобу бывшаго</l>
-      <l>въ <placeName ref="Пинск">пинскѣ</placeName> оберъ раббина <persName ref="Авигдор">Хайма</persName></l>
+      <l>въ <placeName role="namesViewer" target="/names/Пинск.html">пинскѣ</placeName> оберъ раббина <persName
+      role="namesViewer" target="/names/Авигдор.html">Хайма</persName></l>
       <l>на притесненія чинимыя ему</l>
       <l>последователями секты Шабзусъ</l>
       <l>Цвикусъ Прошу Ваше высокопревос-</l>
@@ -52,7 +56,7 @@
       <l>шенннейшимъ почтеніемъ есмь</l>
     </p>
     <l><date when="1800-06-07" place="left">июня 7 дня <lb/>1800 года</date></l>
-    <l><persName ref="Кутузов">Голенищеву Кутузову</persName></l>
+    <l><persName role="namesViewer" target="/names/Кутузов.html">Голенищеву Кутузову</persName></l>
     <pb xml:id="p023-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/rgia2213/facs/023.html#p023-2"/>
   </body></text>

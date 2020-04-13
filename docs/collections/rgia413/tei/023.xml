@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="alter-rebbe">Алтер Ребе</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/alter-rebbe.html">Алтер Ребе</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,8 +17,8 @@
     <profileDesc>
       <abstract>
         <p>
-          Прошение <persName ref="alter-rebbe">Залмана</persName> на высоч. имя об ускорении его дела, с приложением
-          документов доказывающих безвредность хасидской секты
+          Прошение <persName role="namesViewer" target="/names/alter-rebbe.html">Залмана</persName> на высоч. имя об
+          ускорении его дела, с приложением документов доказывающих безвредность хасидской секты
         </p>
         <p>
           Документ <ref role="documentViewer" target="/collections/dubnov/documents/272.2.html">№ 21</ref> у Дубнова
@@ -25,8 +26,8 @@
       </abstract>
       <creation><date when="1801-03">начало марта 1801 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -40,20 +41,22 @@
     <salute>
       <l>ВСЕПРЕСВѢТЛЕЙШІЙ ДЕРЖАВ-</l>
       <l>НѢЙШІЙ ВЕЛИКІЙ ГОСУДАРЬ, ИМ-</l>
-      <l>ПЕРАТОРЪ, <persName ref="Павел_I">ПАВЕЛЪ ПЕТРОВИЧЪ</persName></l>
+      <l>ПЕРАТОРЪ, <persName role="namesViewer" target="/names/Павел_I.html">ПАВЕЛЪ ПЕТРОВИЧЪ</persName></l>
       <l>САМОДЕРЖЕЦЪ ВСЕРОССІСКІЙ, ГОСУДАРЬ</l>
       <l>ВСЕМИЛОСТИВѢЙШІЙ</l>
     </salute>
     <p>
-      <l>Проситъ <placeName ref="Белоруссия">белоруской губерніи</placeName> мѣстѣчка</l>
-      <l><placeName ref="Лиозно">ліозны</placeName> еврей <persName ref="alter-rebbe">зелминъ боруховичъ</persName> о
-      нижеслѣдущем.</l>
+      <l>Проситъ <placeName role="namesViewer" target="/names/Белоруссия.html">белоруской губерніи</placeName>
+      мѣстѣчка</l>
+      <l><placeName role="namesViewer" target="/names/Лиозно.html">ліозны</placeName> еврей <persName role="namesViewer"
+      target="/names/alter-rebbe.html">зелминъ боруховичъ</persName> о нижеслѣдущем.</l>
     </p>
     <p>
       <l>Будучи известенъ, что дѣло по несправедливому</l>
-      <l>доносу еврея <persName ref="Авигдор">абикдора хаймовича</persName>, на меня и ев-</l>
+      <l>доносу еврея <persName role="namesViewer" target="/names/Авигдор.html">абикдора хаймовича</persName>, на меня и
+      ев-</l>
       <l>реевъ хоседовъ, названныхъ имъ по ненависти коро-</l>
-      <l>линами, производится теперь <orgName ref="Сенат">правительствующаго<lb/>
+      <l>линами, производится теперь <orgName role="namesViewer" target="/names/Сенат.html">правительствующаго<lb/>
        сената</orgName> въ 3<hi rend="superscript">мъ</hi> дѣпартамѣнтѣ; при семъ подношу</l>
       <l>всеподданнѣйше два докумѣнта подъ литерами</l>
       <l>А и B изъясняющія высочайшую вашего величества волю, чтобъ ос-</l>
@@ -72,7 +75,8 @@
       <l>ВАШЕГО ИМПЕРАТОРСКАГО ВЕЛИЧЕСТВА о семъ</l>
       <l>моемъ прошеніи рѣшеніе учинить. Марта „ „</l>
       <l>дня 1800<hi rend="superscript">го</hi> года. Къ поданію надлежитъ пра-</l>
-      <l>вительствующаго <orgName ref="Сенат">Сената</orgName> въ 3<hi rend="superscript">мъ</hi> дѣпартамѣнтѣ</l>
+      <l>вительствующаго <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName> въ 3<hi
+      rend="superscript">мъ</hi> дѣпартамѣнтѣ</l>
       <l>прошеніе <signed>писецъ канцеляріи рождественский</signed></l>
       <l>באת עה'ח ני'ט שניאור זלמן בן ברוך</l>
       <l>Слушано <date when="1801-04-11">11 апреля 1801</date></l>

@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Обольянинов">Обольянинов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,10 +17,11 @@
     <profileDesc>
       <abstract>
         <p>
-          Сообщение <persName ref="Обольянинов">Обольянинова</persName> <persName ref="Оленин">Оленину</persName> об
-          отправке в <orgName ref="Сенат">Сенат</orgName> книг и бумаг, изъятых у <persName ref="alter-rebbe">Шнеура
-          Залмана</persName>, для рассмотрения вопроса о дальнейшем положении <orgName ref="Хасиды">хасидского движения
-          </orgName> и кагалов
+          Сообщение <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинова</persName> <persName
+          role="namesViewer" target="/names/Оленин.html">Оленину</persName> об отправке в <orgName role="namesViewer"
+          target="/names/Сенат.html">Сенат</orgName> книг и бумаг, изъятых у <persName role="namesViewer"
+          target="/names/alter-rebbe.html">Шнеура Залмана</persName>, для рассмотрения вопроса о дальнейшем положении
+          <orgName role="namesViewer" target="/names/Хасиды.html">хасидского движения</orgName> и кагалов
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/rgia413/documents/007.html">007</ref> в РГИА 413</p>
         <p>
@@ -28,8 +30,8 @@
       </abstract>
       <creation><date when="1800-12-22">Декабря 22 дня 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Оленин" role="addressee">Оленину</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Оленин.html">Оленину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -39,33 +41,40 @@
     <p>
       <l><head>Ордеръ</head></l>
       <l>Г<hi rend="superscript">ну</hi> оберъ прокурору<note place="end">здесь - обер-прокурору III департамента
-      <orgName ref="Сенат">Сената</orgName></note> <del rend="overstrike">духовницкому</del> <persName ref="Оленин">
-      Оленину</persName><note place="end">фамилия вписана другим почерком</note></l>
+      <orgName role="namesViewer" target="/names/Сенат.html">Сената</orgName></note> <del rend="overstrike"
+      >духовницкому</del> <persName role="namesViewer" target="/names/Оленин.html">Оленину</persName><note place="end"
+      >фамилия вписана другим почерком</note></l>
       <l>Препроводивъ во исполненіе Его Іва<note place="end">его имераторского величества</note></l>
       <l>повелѣнія, объявленаго мною въ <date when="1800-11-27">27. день ноября</date></l>
-      <l>производившееся въ <orgName ref="Тайная_экспедиция">тайной експедиціи</orgName> дѣло, меж</l>
-      <l>ду евреями <persName ref="Авигдор">Абикдоромъ Хаймовичемъ</persName> и <persName ref="alter-rebbe">Зель-<lb/>
+      <l>производившееся въ <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">тайной
+      експедиціи</orgName> дѣло, меж</l>
+      <l>ду евреями <persName role="namesViewer" target="/names/Авигдор.html">Абикдоромъ Хаймовичемъ</persName> и
+      <persName role="namesViewer" target="/names/alter-rebbe.html">Зель-<lb/>
        маномъ Боруховичемъ</persName> касающееся до ихъ</l>
       <l>религіи и прочаго, для надлежащаго въ</l>
-      <l><orgName ref="Сенат">Сенатѣ</orgName> разсмотренія и положенія на какомъ</l>
-      <l>основаніи впредь быть <orgName ref="Хасиды">секте хоседовъ</orgName> и</l>
+      <l><orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> разсмотренія и положенія на какомъ</l>
+      <l>основаніи впредь быть <orgName role="namesViewer" target="/names/Хасиды.html">секте хоседовъ</orgName> и</l>
       <l>кагаламъ; препровождаю при семъ доставленные</l>
-      <l>послѣ того ко мнѣ отъ <placeName ref="Белоруссия">белорускаго</placeName> гражданскаго</l>
-      <l><persName ref="Северин">губернатора</persName> книги и разные бумаги, взятые</l>
-      <l>имъ въ домѣ <persName ref="alter-rebbe">Боруховича</persName> съ краткимъ</l>
+      <l>послѣ того ко мнѣ отъ <placeName role="namesViewer" target="/names/Белоруссия.html">белорускаго</placeName>
+      гражданскаго</l>
+      <l><persName role="namesViewer" target="/names/Северин.html">губернатора</persName> книги и разные бумаги,
+      взятые</l>
+      <l>имъ въ домѣ <persName role="namesViewer" target="/names/alter-rebbe.html">Боруховича</persName> съ краткимъ</l>
       <l>о содержаніи ихъ чрезъ еврейскихъ переводчиковъ</l>
       <l>здесь учиненнымъ переводомъ; а также и</l>
       <l>отношеніе губернатора въ разсужденіи зделан-</l>
       <l>наго имъ замѣчанія о поведѣніи всехъ во</l>
-      <l>обще <orgName ref="Хасиды">каролиновъ</orgName>; рекомендуя Вашему</l>
+      <l>обще <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>; рекомендуя Вашему</l>
       <l>Пр<hi rend="superscript">ву</hi><note place="end">превосходительству</note> присоединить все оное къ тому же
       </l>
-      <l>въ <orgName ref="Сенат">Сенатѣ</orgName> имѣющемуся дѣлу.</l>
+      <l>въ <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> имѣющемуся дѣлу.</l>
     </p>
     <p>
-      <l>Препровождаемое <persName ref="Северин">Северина</persName> отношеніе по входящей</l>
-      <l>книгѣ <orgName ref="Тайная_экспедиция">т. експед</orgName>: 1800<hi rend="superscript">го</hi> <fw
-      type="docNum">№ <emph rend="underline">1665</emph> <hi rend="superscript">й</hi></fw></l>
+      <l>Препровождаемое <persName role="namesViewer" target="/names/Северин.html">Северина</persName> отношеніе по
+      входящей</l>
+      <l>книгѣ <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">т. експед</orgName>: 1800<hi
+      rend="superscript">го</hi> <fw type="docNum">№ <emph rend="underline">1665</emph> <hi rend="superscript">й</hi>
+      </fw></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 1053<hi rend="superscript">й</hi></fw></l>

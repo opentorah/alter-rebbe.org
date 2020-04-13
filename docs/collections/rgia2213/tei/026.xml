@@ -3,8 +3,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author><persName ref="Тормасов">Тормасов</persName></author>
-        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+        <author><persName role="namesViewer" target="/names/Тормасов.html">Тормасов</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
       </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
@@ -16,15 +17,16 @@
     <profileDesc>
       <abstract>
         <p>
-          Ответ <persName ref="Тормасов">Тормасова</persName> <persName ref="Обольянинов">Обольянинову</persName>, что в
-          <placeName ref="Литва">Литовской губернии</placeName> о секте неизвестно
+          Ответ <persName role="namesViewer" target="/names/Тормасов.html">Тормасова</persName> <persName
+          role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>, что в <placeName
+          role="namesViewer" target="/names/Литва.html">Литовской губернии</placeName> о секте неизвестно
         </p>
         <p>Документ <ref role="documentViewer" target="/collections/dubnov/documents/254.2.html">№ 6</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-06-21">1800-06-21</date></creation>
       <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
-      </correspDesc>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -36,8 +38,8 @@
     <p><salute><l>Его высокопревосходительству, Господину Генералу<lb/>
          отъ инфантеріи, Генералу Прокурору, Генералъ про-<lb/>
          віантмѣйстеру и разных орденовъ Кавалеру<lb/>
-         <persName ref="Обольянинов">Петру Хрисанфовичу Обольянинову</persName></l></salute></p>
-    <head><l><placeName ref="Литва">Литовскаго</placeName> Губернскаго прокурора<lb/>
+         <persName role="namesViewer" target="/names/Обольянинов.html">Петру Хрисанфовичу Обольянинову</persName></l></salute></p>
+    <head><l><placeName role="namesViewer" target="/names/Литва.html">Литовскаго</placeName> Губернскаго прокурора<lb/>
        <emph rend="big">Рапортъ</emph></l></head>
     <p>
       <l>На высокопочтеннейшѣе Предписаніе вашего</l>
@@ -46,18 +48,19 @@
       <l>императорскаго величества высочайшему по</l>
       <l>велѣнію касательно производимаго слѣдствія</l>
       <l>о притесненіяхъ чинимыхъ сектою Шабзусъ Цвин</l>
-      <l>кусъ <placeName ref="Пинск">пинскому</placeName> оберъ рабину <persName ref="Авигдор">Хаиму</persName><note
-      place="end">вместо имени просителя указано имя его отца</note>, имѣю</l>
+      <l>кусъ <placeName role="namesViewer" target="/names/Пинск.html">пинскому</placeName> оберъ рабину <persName
+      role="namesViewer" target="/names/Авигдор.html">Хаиму</persName><note place="end">вместо имени просителя указано
+      имя его отца</note>, имѣю</l>
       <l>честь донести вашему высокопревосходитель</l>
       <l>ству, что въ здешней Губерніи подобнаго Слѣд</l>
       <l>ствія не производится и не производилось, да</l>
       <l>и свѣденія о таковой сектѣ до правительства не до</l>
       <l>ходили, а уповаю я, что сіе должно относится къ</l>
-      <l><placeName ref="Минская_губерния">минской Губерніи</placeName>, въ которой и <placeName ref="Пинск">Пинскъ
-      </placeName> состоитъ уѣзд</l>
+      <l><placeName role="namesViewer" target="/names/Минская_губерния.html">минской Губерніи</placeName>, въ которой и
+      <placeName role="namesViewer" target="/names/Пинск.html">Пинскъ</placeName> состоитъ уѣзд</l>
       <l>нымъ городомъ.</l>
-      <l><signed><placeName ref="Литва">Литовскій</placeName> Губернскій Прокуроръ <persName ref="Тормасов">
-      Тормасовъ</persName>.</signed></l>
+      <l><signed><placeName role="namesViewer" target="/names/Литва.html">Литовскій</placeName> Губернскій Прокуроръ
+      <persName role="namesViewer" target="/names/Тормасов.html">Тормасовъ</persName>.</signed></l>
     </p>
     <fw type="docNum" place="left">№ 99<hi rend="superscript">й</hi></fw>
     <date when="1800-06-21"><l>Іюня 21<hi rend="superscript">го</hi> дня<lb/>
