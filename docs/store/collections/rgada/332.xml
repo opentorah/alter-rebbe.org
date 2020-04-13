@@ -6,7 +6,7 @@
     <profileDesc>
       <abstract><p>
         Сопроводительный документ ("вид"), выданный <persName ref="alter-rebbe">Шнеуру Залману</persName> при выезде из
-        <placeName ref="Петербург">Петербурга</placeName> для передачи в канцелярию <placeName ref="Белоруссия">
+        <placeName ref="Петербург">Петербурга</placeName> для предъявления в канцелярии <placeName ref="Белоруссия">
         Белорусского</placeName> гражданского губернатора
       </p></abstract>
       <creation><date when="1801-03-28">марта 28 дня 1801 года</date></creation>
@@ -14,12 +14,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="332-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">335</del></fw>
-    <fw type="pageNum" place="right">332</fw>
-    <fw type="docNum" place="left margin">№ 36</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">335</del></fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">332</fw><note place="end">номер вписан карандашом</note>
+    <fw type="docNum" place="left margin">№ 36</fw><note place="end">номер записан чернилами</note>
     <p>
       <l>Объявитель сего еврей <persName ref="alter-rebbe">Зальманъ Бору-<lb/>
-       ховичъ</persName> находившись здѣсь по некоторымъ</l>
+       ховичъ</persName> находившись здѣсь по некотором<del rend="overstrike">у</del>ъ</l>
       <l>
         <del rend="overstrike">дѣлу нынѣ по ненадобности въ немъ.</del>
         <hi rend="superscript">надобностямъ нынѣ по высочайшему Государя импе</hi>
@@ -30,9 +30,8 @@
       <l>онъ по прибытіи въ <placeName ref="Витебск">витебскъ</placeName></l>
       <l>явился съ симъ <hi rend="superscript">видомъ</hi> у Белорускаго Г<hi rend="superscript">на</hi></l>
       <l>Гражданскаго Губернатора <del rend="overstrike">Госпо</del></l>
-      <l><del rend="overstrike">дина</del> Къ которому будетъ писано. Тайнаго Совѣтника <persName ref="Тарбеев">Тар-<lb
-      />
-       бѣева</persName> <placeName ref="Петербург">С.п.бургъ</placeName> <date when="1801-03-28">марта 28 дня<lb/>
+      <l><del rend="overstrike">дина</del> Къ которому об нем писано. <del rend="overstrike">Тайнаго Совѣтника <persName ref="Тарбеев">Тар-<lb/>
+       бѣева</persName></del> <placeName ref="Петербург">С.п.бургъ</placeName> <date when="1801-03-28">марта 28 дня<lb/>
        1801. года</date></l>
     </p>
     <pb n="332-2"/>
