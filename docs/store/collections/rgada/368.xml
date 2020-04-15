@@ -6,7 +6,7 @@
     <profileDesc>
       <abstract>
         <p>
-          Заявление переводчиков с еврейского о документах и книгах <persName ref="alter-rebbe">Алтер Ребе (начало
+          Заявление переводчиков с еврейского о документах и книгах <persName ref="alter-rebbe">Шннеура Залмана (начало
           документа)</persName>
         </p>
         <p>Документ <ref target="/collections/rgia413/documents/010.html">010</ref> в РГИА 413</p>
@@ -17,12 +17,14 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="368-1"/>
-    <fw type="pageNum" place="left">368</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">368</del></fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
+    <fw type="pageNum" place="right">368</fw><note place="end">номер вписан карандашом</note>
+    <pb n="368-2"/>
+    <fw type="pageNum" place="left">368</fw><note place="end">номер вписан карандашом</note>
     <p>
       <l><date when="1800-12-??">1800 года декабря дня</date> мы нижеподписав</l>
-      <l>шіся разсмотрели бумаги принадле</l>
-      <l>жащія еврею <persName ref="alter-rebbe">боруховичу</persName>, и сѣй показываетъ, что</l>
+      <l>шія разсмотрели бумаги принадле</l>
+      <l>жащія еврею <persName ref="alter-rebbe">боруховичу</persName>, и симъ показываемъ, что</l>
     </p>
-    <pb n="368-2"/>
-  </body></text>
+      </body></text>
 </TEI>
