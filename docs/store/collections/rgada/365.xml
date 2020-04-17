@@ -5,8 +5,8 @@
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт Новороссийского губернатора Обольянинову об исполнении повеления ввести надзор за <orgName ref="Хасиды">
-        хасидами</orgName>, несмотря на их отстутствие в губернии
+        Рапорт Новороссийского губернатора <persName ref="Обольянинов">Обольянинову</persName> об исполнении повеления
+        ввести надзор за <orgName ref="Хасиды">хасидами</orgName>, несмотря на их отстутствие в губернии
       </p></abstract>
       <creation><date when="1800-11-30">ноября 30 дня 1800 года</date></creation>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
@@ -15,13 +15,13 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="365-1"/>
-    <fw type="docNum" place="left">№ 1837</fw>
+    <fw type="docNum" place="left">№ 1837.</fw>
     <date when="1800-12-24">24 декабря 1800</date>
     <fw type="note" place="right">Секретно</fw>
-    <fw type="pageNum" place="right">365</fw>
+    <fw type="pageNum" place="right">365</fw><note place="end">номер записан чернилами</note>
     <p>
       <l><salute>Милостивый Государь<lb/>
-         Петръ Хрисанфовичъ!</salute></l>
+         <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>
       <l>Отъ <date when="1800-11-01">1. числа сего ноября</date> ваше</l>
       <l>ваше высокопревосходительство объявить</l>
       <l>мнѣ изволили <emph rend="big">высочайшее его</emph></l>
@@ -38,8 +38,8 @@
       <l>и поведеніе до сего подозрительны</l>
       <l>не были; однакожъ я за всѣмъ</l>
       <pb n="365-2"/>
-      <fw type="pageNum">365 об.</fw>
-      <l>тѣмъ къ исполненію высокомо</l>
+      <fw type="pageNum">365 об.</fw><note place="end">номер записан карандашом</note>
+      <l>тѣмъ къ исполненїю высокомо</l>
       <l>наршей воли точнаго и неослаб</l>
       <l>наго наблюденія имѣть не упущу.</l>
       <l>Пребывая <sic>зъ</sic> совершеннымъ высоко</l>
@@ -47,7 +47,7 @@
       <l>Милостивый Государь</l>
       <l>вашего высокопревосходительства</l>
       <l>покорный слуга</l>
-      <l>Юрій Николев<note place="end">Новороссийский губернатор в 1800-1801 гг.</note></l>
+      <l>Юрій Николевъ<note place="end">Новороссийский губернатор в 1800-1801 гг.</note></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 117</fw></l>
