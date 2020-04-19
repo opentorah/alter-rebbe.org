@@ -96,7 +96,7 @@ layout: page
 - 2014: Ф.М.Абрамов, "Мегилат Алтер Ребе. 19 Кислев. Полный сборник документов, историй, протокол допросов."
   (Санкт-Петербург). Использовались фотографии документов из РГАДА.
 
-Многие исследователи [_использовали_](/notes/research-publications.html) документы этих дел не _публикуя_ их полностью.
+Многие исследователи [_использовали_](/notes/research-publications.md) документы этих дел не _публикуя_ их полностью.
 
 
 ## История сайта ##
@@ -143,7 +143,7 @@ Documents and code for the website are in a GitHub <a href="https://github.com/o
       <span class="username">repository</span>
     </a> <a href="https://github.com/opentorah/alter-rebbe.org/actions">
   <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg" alt="CI badge"/>
-</a>
+</a>.
 
 Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
 
@@ -156,3 +156,13 @@ Static site is hosted on [GitHub Pages](https://pages.github.com/).
 
 Facsimiles are hosted in a Google Cloud Storage bucket `facsimiles.alter-rebbe.org`
 and are retrievable only using exact URLs. 
+
+To rebuild collection indices and verify name references:
+```
+  $ ./gradlew clean build
+```
+
+The site can be served locally by running the following command in `docs`:
+```
+  $ bundle exec jekyll serve
+```

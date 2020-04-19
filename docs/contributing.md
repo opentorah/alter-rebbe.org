@@ -7,34 +7,23 @@ layout: page
 {:toc}
 ## Подача материала ##
 
-Содержимое сайта находится в GitHub repository https://github.com/opentorah/alter-rebbe.org
-
-<ul class="social-media-list">
-  <li>
-    <a href="https://github.com/opentorah/alter-rebbe.org">
+ Содержимое сайта находится в GitHub <a href="https://github.com/opentorah/alter-rebbe.org">
       <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
       <span class="username">repository</span>
-    </a>
-  </li>
-</ul>
-
-<a href="https://github.com/opentorah/alter-rebbe.org/actions">
-  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg"/>
-</a>
+    </a> <a href="https://github.com/opentorah/alter-rebbe.org/actions">
+  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg" alt="CI badge"/>
+</a>.
 
 Рекомендуемый способ участия в расшифровке, исправлении ошибок и т.д. - открыть GitHub pull request.
 Если прогресс (пока) не пришёл в Ваш дом, и термины GitHub, repository и pull request Вам ничего не
 говорят - можно воспользоваться электронной почтой по адресу [dub@podval.org](mailto:dub@podval.org).
 
-[![Gitter](https://badges.gitter.im/alter-rebbe-org/community.svg)](https://gitter.im/alter-rebbe-org/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-Рассылка: alter-rebbe@podval.org.
-
 ## Формат ##
 
-Файл со списком имён: `names.xml`.
-Файлы с расшифровами документов находятся в директориях `docs/archive/tei/` и `docs/dubnov/tei`;
+Файлы с расшифровами документов находятся в директориях `docs/store/collections/`;
 они названы по номеру первой страницы документа, например: `001.xml`, `088a.xml`.
+
+Файл с информацией о именах упомянутых в документах находятся в директории `/docs/store/names`.
 
 Все они хранятся в XMLе, в формате [TEI](https://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 ("Text Encoding Initiative", "Инициатива по Кодировке Текстов"), вот уже более 30ти лет
@@ -64,7 +53,7 @@ layout: page
 
 ## Структура ##
 
-Файл в формате TEI содержит в себе заголовок (`teiHeader`) и сам текст (`text`);
+Файл в формате TEI содержит в себе [заголовок](#teiheader) (`teiHeader`) и сам текст (`text`);
 расшифровка текста находится внутри элемента `body`.
 
 ```xml
@@ -82,7 +71,7 @@ layout: page
 
 Во всех файлах уже проставлены начала страниц (`pb`, "page beginning"):
 ```xml
-  <pb xml:id="p002-1" n="002-1" facs="https://facsimiles.alter-rebbe.org/facsimiles/rgada/facsimiles/002-1.jpg"/>
+  <pb n="002-1"/>
 ```
 Расшифровка текста страницы должна следовать за её началом :)
 
@@ -201,6 +190,18 @@ layout: page
 элемент `opener`; в конце документа (дата, подпись и т.д.) - `closer`. Чётких правил по пользованию
 этими элементами пока не выработалось :( 
 
+Ссылки на веб-страницы кодируются элементом `ref`, где адрес страницы - значение атрибута `target`:
+```xml
+  <ref target="https://ru.wikipedia.org/wiki/Баал-Шем-Тов">[Википедия]</ref>
+```
+
+Текст, нажатием на который происходит переход по ссылке - это содержимое элемента `ref`;
+заключать этот текст в квадратные скобки или заменять в нём пробелы на подчёркивания нет
+необходимости; единственное требование к этому тексту - он должен присутствовать :)
+
+Ссылка на документ сайта кодируется его относительным адресом (т.е., адрес начинается не с
+имени сайта, а с `/``): `<ref targte="/rgada/090">090</ref>`; ссылка на коллекцию сайта
+кодируется аналогично: `<ref targte="/rgada">РГАДА</ref>`.
 
 ## Имена ##
 
@@ -213,78 +214,68 @@ layout: page
   <orgName ref="Виленский_кагал">виленский кагал</orgName>
 ```
 
-Имена описываются в файлах в соответствующей директории внутри директории `names`:
-`jews`, `officials`, `organizations`, `places` или `transcribers`. В директории `organizations`
-файлы выглядят таким образом:
+Имена описываются в файлах в директории `/docs/store/names`.
+
+Файл про организацию выглядит таким образом:
 ```xml
-  <?xml version="1.0" encoding="UTF-8"?>
   <org>
     <orgName>Губернатор</orgName>
   </org>
 ```
-в директории `places` - таким:
+про местность - таким:
 ```xml
-  <?xml version="1.0" encoding="UTF-8"?>
   <place>
     <placeName>Литва</placeName>
   </place>
 ```
-а в остальных - вот так:
+а про человека - вот так:
 ```xml
-  <?xml version="1.0" encoding="UTF-8"?>
   <person>
     <persName>Баал Шем Тов</persName>
     <ref target="https://ru.wikipedia.org/wiki/Баал-Шем-Тов">[Википедия]</ref>
   </person>
 ``` 
-Имена этих файлов - это те идентификаторы, которые используются для ссылок: `ref="Баал_Шем_Тов"`
+Имена этих файлов - это те идентификаторы, которые используются для ссылок: `ref="Баал_Шем_Тов"`.
+
+Имя человека кодируется элементом `persName`: `<persName ="Обольянинов"></persName>`,
+имя местности - элементом `paceName`: `<placeName ref="Вильна">Вильне</placeName>`,
+название организации - элементом `orgName`: `<orgName ref="Виленский_кагал">виленский кагал</orgName>`.
+
+Атрибут `ref` может отсутствовать.
 
 Код который порождает сайт:
-- проверяет, что элемент кодирующий имя снабжён атрибутом `ref`;
-- создаёт файл с именами (`names.xml`); РЕДАКТИРОВАТЬ ЭТОТ ФАЙЛ БЕССМЫСЛЕННО;
-- проверяет, что в имя, на который атрибут `ref` ссылается, наличествует;
-- вставляет в файл с именами обратные ссылки на документы где каждое из имён присутствует.
+- если у ссылки на имя присутствует атрибут `ref`, проверяет, что в имя, на которое этот атрибут ссылается, наличествует;
+- вставляет в файл с именами обратные ссылки на документы где каждое из имён присутствует;
+- перечисляет (в файле `/reports/no-refs.html`) имена, закодированные без атрибута `ref`.
 
-Результаты этих проверок для Вашего pull requestа можно посмотреть в нём самом или на
+Прошёл ли Ваш pull request все проверки можно посмотреть в нём самом или на
 [странице непрерывной интеграции](https://github.com/opentorah/alter-rebbe.org/actions). 
-
-Имя человека, которому документ адресован, кодируется в заголовке документа,
-внутри элемента `profileDesc` элементом `correspDesc` следующего вида: 
-```xml
-  <correspDesc>
-    <correspAction>
-      <persName ref="Булгаков" role="addressee">Булгакову</persName>
-    </correspAction>
-  </correspDesc>
-```
 
 ## teiHeader ##
 
 Элемент `teiHeader` содержит метаинформацию о документе, которая показывается в (порождаемом программой) оглавлении
 коллекции:
-- заголовок документа (то, что внутри документа закодировано как `head`) - если он есть (`title`); 
-- краткое содержание (`abstract`);
 - автор (`author`);
 - расшифровщик (`editor`; атрибут `role` со значением `transcriber`);
-- дата написания (`date` внутри элемента `creation`):
+- краткое содержание (`abstract`);
+- дата написания (`date` внутри элемента `creation`);
+- имя человека, которому документ адресован (внутри элемента `profileDesc` элементом `correspDesc`,
+  содержащим элемент `persName` с атрибутом `ref` со значением `addressee`): 
 
 ```xml
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Къ пророчеству о Бонапарте</title>
-        <author>
-          <persName ref="Гирша_Давыдовичъ">Гирш Давыдович</persName>
-        </author>
-        <editor role="transcriber">
-          <persName ref="IA">Ифрах Абрамов</persName></editor>
+        <author><persName ref="Гирш_Давидовичъ">Гирш Давидович</persName></author>
+        <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
       </titleStmt>
-      ...
     </fileDesc>
     <profileDesc>
-      ...
-      <creation><date when="1798-05-08">8 мая 1798</date></creation>
       <abstract><p>Донос</p></abstract>
+      <creation><date when="1800-04-23">1800-04-23</date></creation>
+      <correspDesc>
+        <correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
 ```
