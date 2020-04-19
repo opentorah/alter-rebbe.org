@@ -17,22 +17,29 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>
-        <p>
-          Копия жалобы <persName role="namesViewer" target="/names/Чечерский.html">Чечерского</persName> на
-          взяточничество секретарей <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
-          >Литовского губернского правления</orgName>, датировка, адресат и отдельные фрагменты текста которой совпадают
-          с аналогичными элементами доноса на <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура
-          Залмана</persName>
-        </p>
-        <p>Оригинал см. здесь: <ref role="documentViewer" target="/collections/rgada/documents/015.html">015</ref></p>
-      </abstract>
+      <abstract>Копия жалобы <persName role="namesViewer" target="/names/Чечерский.html">Чечерского</persName> на
+      взяточничество секретарей <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовского губернского правления</orgName> (оригинал: <ref role="documentViewer"
+      target="/collections/rgada/documents/015.html">015</ref>), датировка, адресат и отдельные фрагменты текста которой
+      совпадают с аналогичными элементами доноса на <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура
+      Залмана</persName></abstract>
       <creation><date when="1798-08-11">11 августа 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l>Копия жалобы <persName role="namesViewer" target="/names/Чечерский.html">Чечерского</persName> на
+      взяточничество секретарей <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовского губернского правления</orgName> (оригинал: <ref role="documentViewer"
+      target="/collections/rgada/documents/015.html">015</ref>), датировка, адресат и отдельные фрагменты текста которой
+      совпадают с аналогичными элементами доноса на <persName role="namesViewer" target="/names/alter-rebbe.html">Шнеура
+      Залмана</persName></l>
+      <l>Дата: 1798-08-11</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Чечерский.html">Чечерский</persName></l>
+      <l>Кому:</l>
+    </p>
     <pb xml:id="p003-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/003.html#p003-1"/>
     <fw type="note" place="left">Копія</fw>
     <fw type="docNum" place="left">№ 1763<hi rend="superscript">й</hi></fw>
@@ -45,18 +52,18 @@
       </l>
       <l>Будучи я повѣреннымъ ходателемъ</l>
       <l>отъ <placeName role="namesViewer" target="/names/Вильна.html">виленскихъ</placeName> Ксензовъ доминикановъ</l>
-      <l>по дѣлу съ шляхтичемъ Рымшею, въ бывшемъ</l>
+      <l>по дѣлу съ шляхтичемъ <persName>Рымшею</persName>, въ бывшемъ</l>
       <l>верховномъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскомъ
       правленіи</orgName> подъ пред-</l>
-      <l>сѣдательствомъ Князя Репнина присудство-</l>
+      <l>сѣдательствомъ Князя <persName>Репнина</persName> присудство-</l>
       <l>вавшіе <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName> <persName
       role="namesViewer" target="/names/Волков.html">Волковъ</persName> напослѣдокъ</l>
-      <l>Багмевской секретари Тарковски и Мань-</l>
-      <l>ковски взявъ болѣе 12000 рублей за рѣше-</l>
+      <l><persName>Багмевской</persName> секретари <persName>Тарковски</persName> и <persName>Мань-<lb/>
+       ковски</persName> взявъ болѣе 12000 рублей за рѣше-</l>
       <l>ніе на возвратъ имѣнія ксензамъ, но какъ</l>
       <l>въ <orgName role="namesViewer" target="/names/Сенат.html">Сенатѣ</orgName> оное их рѣшеніе опровергнуто</l>
       <l>и велѣно возвратить имѣніе шляхтичу</l>
-      <l>Рымшѣ, слѣдовательно, оные деньги 12.000</l>
+      <l><persName>Рымшѣ</persName>, слѣдовательно, оные деньги 12.000</l>
       <l>рублей, взятые ими должны быть возвра-</l>
       <l>щены. Того ради вашему Сіятельству</l>
       <l>симъ донеся, всепокорнѣйше прошу предло-</l>
