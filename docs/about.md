@@ -95,7 +95,7 @@ layout: page
 - 2014: Ф.М.Абрамов, "Мегилат Алтер Ребе. 19 Кислев. Полный сборник документов, историй, протокол допросов."
   (Санкт-Петербург). Использовались фотографии документов из РГАДА.
 
-Многие исследователи [_использовали_](/research-publications.html) документы этих дел не _публикуя_ их полностью.
+Многие исследователи [_использовали_](/notes/research-publications.html) документы этих дел не _публикуя_ их полностью.
 
 
 ## История сайта ##
@@ -148,15 +148,15 @@ Documents and code for the website are in a GitHub repository:
 </ul>
 
 <a href="https://github.com/opentorah/alter-rebbe.org/actions">
-  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg"/>
+  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg" alt="CI badge"/>
 </a>
 
 Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
 
-TEI documents are displayed with [CETEIcean](https://github.com/TEIC/CETEIcean).
+TEI documents are displayed with [CETEIcean](https://github.com/TEIC/CETEIcean) ([license](/licenses/LICENSE-CETEIcean.md)).
 
 Static site generated with [Jekyll](https://jekyllrb.com/) using customized
-[Minima](https://github.com/jekyll/minima) theme.
+[Minima](https://github.com/jekyll/minima) theme ([license](/licenses/LICENSE-minima.txt)).
 
 Static site is hosted on [GitHub Pages](https://pages.github.com/).
 
