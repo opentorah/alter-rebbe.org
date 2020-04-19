@@ -8,6 +8,19 @@ tei-body > tei-head {
   margin-bottom: 15px;
 }
 
+/* Tables */
+
+tei-table {
+  table {
+    width: auto;
+  }
+
+  td {
+    vertical-align: text-top;
+  }
+}
+
+
 /* editorial */
 
 tei-del[rend='overstrike'] {
@@ -68,4 +81,111 @@ tei-fw[type='pageNum'] {
 
 ol.notes {
   padding-top: 2em;
+}
+
+
+/* Lists of people, places and organizations. */
+
+$tei-list-head-font-size: 32px;
+$tei-list-head-text-indent: -0.5em;
+$tei-named-margin-top: 1em;
+$tei-named-margin-bottom: 1em;
+$tei-named-name-font-size: 24px;
+
+tei-listperson > tei-head {
+  font-size: $tei-list-head-font-size;
+  text-indent: $tei-list-head-text-indent;
+}
+tei-listplace > tei-head {
+  font-size: $tei-list-head-font-size;
+  text-indent: $tei-list-head-text-indent;
+}
+tei-listorg > tei-head {
+  font-size: $tei-list-head-font-size;
+  text-indent: $tei-list-head-text-indent;
+}
+
+tei-person {
+  display: block;
+  margin-top: $tei-named-margin-top;
+  margin-bottom: $tei-named-margin-bottom;
+}
+tei-place {
+  display: block;
+  margin-top: $tei-named-margin-top;
+  margin-bottom: $tei-named-margin-bottom;
+}
+tei-org {
+  display: block;
+  margin-top: $tei-named-margin-top;
+  margin-bottom: $tei-named-margin-bottom;
+}
+
+tei-person > tei-persName {
+  display: block;
+  font-size: $tei-named-name-font-size;
+}
+tei-place > tei-placeName {
+  display: block;
+  font-size: $tei-named-name-font-size;
+}
+tei-org > tei-orgName {
+  display: block;
+  font-size: $tei-named-name-font-size;
+}
+
+.mentions {
+  font-size: smaller;
+}
+
+
+/* Collection index. */
+
+tei-table.collection-index > table {
+  // TEI/CETEIcean do not handle table header, so the first row is it:
+  tr:first-child {
+    td {
+      // Replicate Chrome's and minima's styling of the th
+      // on the td elements of the first row (thead/tr analogue):
+      font-weight: bold;
+      background-color: #f0f0f0;
+      border: 1px solid #dedede;
+      border-bottom-color: #c9c9c9;
+      padding: 10px 15px;
+
+      // Keep header visible
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+    }
+  }
+
+  // Size the columns
+  td.description { width: 44%; }
+  td.date        { width:  8%; }
+  td.author      { width: 10%; }
+  td.addressee   { width: 10%; }
+  td.language    { width:  4%; }
+  td.document    { width:  5%; }
+  td.pages       { width:  8%; }
+  td.transcriber {             }
+
+
+  // Part title
+  .part-title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #1614ff;
+  }
+
+  // Missing page links
+  tei-ref.missing-page a {
+    color: red;
+  }
+}
+
+/* Document. */
+
+tei-pb.missing-page a {
+  color: red;
 }
