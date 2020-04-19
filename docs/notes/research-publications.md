@@ -17,20 +17,19 @@ layout: page
   Изд-во: Новое литературное обозрение. ISBN: 978-5-4448-0302-8.
   Высказано предположение, что Гирш Давыдович, написавший донос на Алтер Ребе, идентичен еврейскому
   депутату Виленской и Гродненской губерний Гиршу Давидовичу.
-  См. <a href="/research/Гирша_Давыдовичъ.html" target="namesViewer">наш анализ</a>.
-- 2013 Assaf D., Sagiv D.. Hasidism in Tsarist Russia. Historical and Social Aspects: Assaf D., Sagiv D.. Hasidism in Tsarist Russia.       Historical and Social Aspects: The appeal to the authorities led, among other things, to the interrogation
+  См. <a href="/notes/Гирша_Давыдовичъ.html" target="namesViewer">наш анализ</a>.
+
+- 2013 Assaf D., Sagiv D.. Hasidism in Tsarist Russia. Historical and Social Aspects:
+  The appeal to the authorities led, among other things, to the interrogation
   and imprisonment of hasidim and some of their leaders. Among the most
   well known of these was Rashaz, the leader of Habad, who was first arrested
   in September 1798 on charges of subversion leveled against him by an apparently
   fictitious informant named Hirsch Davidovitch of Vilna. Other tsadikim
   were arrested along with Rashaz, among them (according to hasidic sources)
   Shmuel of Amdur and Mordechai of Lachovitch (1742–1810).
-  https://podval.slack.com/files/UQ15WBKT7/FQBS8SD0C/assaf_d.__sagiv_d.._hasidism_in_tsarist_russia._historical_and_social_aspects.pdf
   
--   https://www.jewishgen.org/yizkor/Pinsk1/pinsk1.html#TOC2a
-    https://www.jewishgen.org/yizkor/Pinsk1/pine12_018.html
-    https://www.jewishgen.org/yizkor/Pinsk1/pine12_033.html
-    
--    Дэвид Фишман. Великое противостояние: хасиды и митнагеды
-    https://lechaim.ru/academy/hasidy-i-mitnagedy/?fbclid=IwAR0UK4KaZ1t_5zWUD2EDDfBQWrBStiK5gUtAGDRB1aS8V8-3Qi-az_8qoA8
-   О заключительной стадии конфликта 1797–1801 годов см.: Виленски. Указ. соч. Т. 1. С. 210–222, 230–236 (на основании документов,      неизвестных Дубнову). Региональные власти Литвы последовали примеру верховных властей, лишив кагал права осуществлять гражданскую, судебную и полицейскую власть; там же, с. 212.
+- 2019 Дэвид Фишман. Великое противостояние: [хасиды и митнагеды](https://lechaim.ru/academy/hasidy-i-mitnagedy/?fbclid=IwAR0UK4KaZ1t_5zWUD2EDDfBQWrBStiK5gUtAGDRB1aS8V8-3Qi-az_8qoA8)
+  О заключительной стадии конфликта 1797–1801 годов см.: Виленский. Указ. соч. Т. 1.
+  С. 210–222, 230–236 (на основании документов, неизвестных Дубнову).
+  Региональные власти Литвы последовали примеру верховных властей,
+  лишив кагал права осуществлять гражданскую, судебную и полицейскую власть; там же, с. 212.
