@@ -1,6 +1,7 @@
 tei-table.rgada-026-table {
-  width: auto;
-  border: none;
+  table {
+    border: none;
+  }
 
   tr {
     background-color: $background-color;
@@ -11,12 +12,11 @@ tei-table.rgada-026-table {
 }
 
 tei-table.rgada-233-table {
-  width: auto;
 
   tr {
     td:nth-child(1) { width: 30px; }
-    td:nth-child(2) { width: 210px; }
-    td:nth-child(3) { width: 30px; }
-    td:nth-child(4) { width: 30px; }
+    td:nth-child(2) { width: 200px; }
+    td:nth-child(3) { width: 55px; }
+    td:nth-child(4) { width: 35px; }
   }
 }
