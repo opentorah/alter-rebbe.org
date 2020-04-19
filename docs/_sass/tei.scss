@@ -8,24 +8,6 @@ tei-body > tei-head {
   margin-bottom: 15px;
 }
 
-/* Lines. */
-
-tei-l {
-  width: auto;
-}
-
-/* Tables. */
-
-tei-table {
-  table {
-    width: auto;
-  }
-
-  td {
-    vertical-align: text-top;
-  }
-}
-
 
 /* editorial */
 
@@ -145,6 +127,25 @@ tei-org > tei-orgName {
 }
 
 
+/* Lines. */
+
+tei-l {
+  width: auto;
+}
+
+/* Tables. */
+
+tei-table {
+  table {
+    width: auto;
+  }
+
+  td {
+    vertical-align: text-top;
+  }
+}
+
+
 /* Collection index. */
 
 tei-table.collection-index > table {
@@ -194,4 +195,30 @@ tei-table.collection-index > table {
 
 tei-pb.missing-page a {
   color: red;
+}
+
+
+/* Document-specific. */
+
+tei-table.rgada-026-table {
+  table {
+    border: none;
+  }
+
+  tr {
+    background-color: $background-color;
+    td { border: none; }
+    td:nth-child(1) { width: 300px; }
+    td:nth-child(2) { width: 400px; }
+  }
+}
+
+tei-table.rgada-233-table {
+
+  tr {
+    td:nth-child(1) { width: 30px; }
+    td:nth-child(2) { width: 200px; }
+    td:nth-child(3) { width: 55px; }
+    td:nth-child(4) { width: 35px; }
+  }
 }
