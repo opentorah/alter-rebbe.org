@@ -12,6 +12,8 @@
         </orgName> с предложением о его запрете в России – приложение к докладу
       </p></abstract>
       <creation><date when="1798-08-30">30 августа 1798</date></creation>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -20,7 +22,9 @@
     <head>
       <l>Объясненіе</l>
       <l>О началѣ и правилахъ <orgName ref="Хасиды">секты Ка-<lb/>
-       ролиновъ</orgName>.</l>
+       ролиновъ</orgName>.<note place="end">Данный документ служит приложением к письму <persName ref="Булгаков"
+      >Булгакова</persName> <persName ref="Лопухин">Лопухину</persName> (<ref target="018">018</ref>), в котором
+      упоминается "приложенная при семъ записка о новой жидовской сектѣ Каролиновъ"</note></l>
     </head>
     <p>
       <l><persName ref="Баал_Шем_Тов">Израель Балшумъ</persName>, или Каба</l>
