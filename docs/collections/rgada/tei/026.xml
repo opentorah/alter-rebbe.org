@@ -23,6 +23,8 @@
       </p></abstract>
       <creation><date when="1798-08-30">30 августа 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -33,7 +35,11 @@
     <head>
       <l>Реестръ</l>
       <l>Евреевъ, слѣдующихъ новой сектѣ,</l>
-      <l><orgName role="namesViewer" target="/names/Хасиды.html">Каролинами</orgName> называемой.</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">Каролинами</orgName> называемой.<note place="end"
+      >Данный документ служит приложением к письму <persName role="namesViewer" target="/names/Булгаков.html"
+      >Булгакова</persName> <persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName> (<ref
+      target="018">018</ref>), в котором упоминается "приложенная при семъ записка о новой жидовской сектѣ
+      Каролиновъ"</note></l>
     </head>
     <table rendition="rgada-026-table">
       <row>
