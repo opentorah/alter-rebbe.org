@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Булгаков">Булгаков</persName></author>
       <editor role="transcriber"><persName ref="SB">Сергей Броуде</persName></editor>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
@@ -13,6 +13,7 @@
         <placeName ref="Вильна">виленские</placeName> городские службы
       </p></abstract>
       <creation><date when="1798-05-11">11 Маія 1798</date></creation>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
