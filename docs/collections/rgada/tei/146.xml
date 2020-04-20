@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt><author>Моше_из_Полян</author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,8 +11,11 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Текст</p></abstract>
+      <abstract><p>Письмо</p></abstract>
+      <creation><date when="1798-10-08">8 Октября 1798</date></creation>
       <langUsage><language ident="yi"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Иеуда_Кац_из_Вильна.html">Иеуде Кацу из
+      Вильны</persName></correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
