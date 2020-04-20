@@ -3,10 +3,11 @@
   <teiHeader>
     <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
     <profileDesc>
-    <creation><date when="1798-11-01">1 ноября 1798 года</date></creation>
-    <abstract><p>
-      Перевод с иврита на французский язык показаний <persName ref="alter-rebbe">Шнеура Залмана</persName>
-    </p></abstract></profileDesc>
+      <abstract><p>
+        Перевод с иврита на французский язык показаний <persName ref="alter-rebbe">Шнеура Залмана</persName>
+      </p></abstract>
+      <creation><date when="1798-11-01">1 ноября 1798 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="fr"><body>
     <pb n="063-1"/>
@@ -14,7 +15,10 @@
     <head>
       <l>Переводъ</l>
       <l>съ еврейскаго языка показанія начальника <orgName ref="Хасиды">каролин-<lb/>
-       ской секты</orgName> еврея <persName ref="alter-rebbe">Боруховича</persName><note place="end">Документ  может быть датирован 31 октября или (более вероятно) 1 ноября 1798 г. по письму Булгакова Лопухину об отправке данного перевода - см. 058 РГАДА. Распоряжение о выполнении перевода было получено Булгаковым 28 октября - см. 055 РГАДА.</note></l>
+       ской секты</orgName> еврея <persName ref="alter-rebbe">Боруховича</persName><note place="end">Документ может быть
+      датирован 31 октября или (более вероятно) 1 ноября 1798 г. по письму Булгакова Лопухину об отправке данного
+      перевода - см. 058 РГАДА. Распоряжение о выполнении перевода было получено Булгаковым 28 октября - см. 055
+      РГАДА.</note></l>
     </head>
     <pb n="063-2"/>
     <pb n="064-1"/>
