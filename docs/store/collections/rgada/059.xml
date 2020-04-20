@@ -7,10 +7,10 @@
       <editor role="fragment-transcriber"><persName ref="BG">Борух Горкин</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-    <creation><date when="1798-10-11">11 октября 1798 года</date></creation>
-    <abstract><p>
-      Собственноручные письменные показания <persName ref="alter-rebbe">Алтер Ребе</persName>
-    </p></abstract></profileDesc>
+      <abstract><p>Собственноручные письменные показания <persName ref="alter-rebbe">Алтер Ребе</persName></p>
+      </abstract>
+      <creation><date when="1798-10-11">11 октября 1798 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
     <pb n="059-1"/>
@@ -21,8 +21,10 @@
     <p>
       והנה אף שאינני יודע אם יש איזה נפקותא להודיע <unclear>[מ?]</unclear> זה להשרים יר״ה אך ההכרח אלי לומר האמת כאשר
       הוא ולהשיב לאשר נשאלתי מהשרים ממי קבלתי דרשותיי ע״כ באתי להודיע שעיקר דרשותיי הוא מאשר בינותי בספרים כי אף המעט
-      מחכמת הקבלה שאני אומר דרך מקרה ג״כ כתוב בספרי קבלה שנדפסו רק שתחלת לימודי בספרי קבלה שנדפסו היה אצל הרב הנ״ל<note place="end">документ может быть датирован 10 или (более вероятно) 11 октября 1798 г. по письму <persName ref="Лопухин">Лопухина</persName> к санкт-петербургскому митрополиту от 11.10.1798 с указанием перевести данные показания – см. 037 РГАДА</note>
-      <supplied reason="implied"><persName ref="maggid">המגיד</persName></supplied>
+      מחכמת הקבלה שאני אומר דרך מקרה ג״כ כתוב בספרי קבלה שנדפסו רק שתחלת לימודי בספרי קבלה שנדפסו היה אצל הרב הנ״ל<note
+      place="end">документ может быть датирован 10 или (более вероятно) 11 октября 1798 г. по письму <persName
+      ref="Лопухин">Лопухина</persName> к санкт-петербургскому митрополиту от 11.10.1798 с указанием перевести данные
+      показания – см. 037 РГАДА</note> <supplied reason="implied"><persName ref="maggid">המגיד</persName></supplied>
     </p>
     <pb n="061-2"/>
     <pb n="062-1"/>
