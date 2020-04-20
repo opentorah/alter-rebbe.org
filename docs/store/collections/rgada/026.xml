@@ -12,11 +12,8 @@
         Булгакова</persName>
       </p></abstract>
       <creation><date when="1798-08-30">30 августа 1798</date></creation>
-      <correspDesc>
-    <correspAction>
-      <persName ref="Лопухин" role="addressee">Лопухину</persName>
-    </correspAction>
-  </correspDesc>
+      <correspDesc><correspAction><persName ref="Лопухин" role="addressee">Лопухину</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -26,8 +23,9 @@
     <head>
       <l>Реестръ</l>
       <l>Евреевъ, слѣдующихъ новой сектѣ,</l>
-      <l><orgName ref="Хасиды">Каролинами</orgName> называемой.<note place="end">Данный документ служит приложением к письму Булгакова Лопухину (РГАДА 018), в котором упоминается
-        "приложенная при семъ записка о новой жидовской сектѣ Каролиновъ"</note></l>
+      <l><orgName ref="Хасиды">Каролинами</orgName> называемой.<note place="end">Данный документ служит приложением к
+      письму Булгакова Лопухину (РГАДА 018), в котором упоминается "приложенная при семъ записка о новой жидовской сектѣ
+      Каролиновъ"</note></l>
     </head>
     <table rendition="rgada-026-table">
       <row>
