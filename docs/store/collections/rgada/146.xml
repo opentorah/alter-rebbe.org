@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc><abstract><p>Текст</p></abstract></profileDesc>
+    <fileDesc><titleStmt><author>Моше_из_Полян</author></titleStmt></fileDesc>
+    <profileDesc><abstract><p>Письмо</p></abstract>
+     <creation><date when="1798-10-08">8 Октября 1798</date></creation>
+      <correspDesc><correspAction><persName ref="Иеуда_Кац_из_Вильна" role="addressee">Иеуде Кацу из Вильны</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="yi"><body>
     <pb n="146-1"/>
