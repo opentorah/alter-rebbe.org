@@ -24,6 +24,8 @@
       </p></abstract>
       <creation><date when="1798-10-07">7 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -36,7 +38,7 @@
       </p></l>
       <l>Дата: 1798-10-07</l>
       <l>Кто: <persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></l>
-      <l>Кому:</l>
+      <l>Кому: <persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName></l>
     </p>
     <pb xml:id="p034-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/034.html#p034-1"/>
     <fw type="pageNum" place="right"><del rend="overstrike">441</del></fw>
