@@ -2,14 +2,17 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
+    <author><persName ref="Обольянинов">Обольянинов</persName></author>
       <editor role="transcriber"><persName ref="IL">Илья Лурье</persName></editor>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Донесение о нахождении, задержании и болезни в пути <persName ref="alter-rebbe">Шнеура Залмана</persName>
+        Донесение <persName ref="Обольянинов">Обольянинова</persName> о нахождении, задержании и болезни в пути <persName ref="alter-rebbe">Шнеура Залмана</persName>
       </p></abstract>
       <creation><date when="1800-11-14">1800 года ноября 14 дня</date></creation>
+    <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
