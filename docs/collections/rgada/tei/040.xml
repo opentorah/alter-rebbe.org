@@ -29,6 +29,8 @@
       </p></abstract>
       <creation><date when="1798-10-17">17 октября 1798</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -46,7 +48,7 @@
       </p></l>
       <l>Дата: 1798-10-17</l>
       <l>Кто: <persName role="namesViewer" target="/names/Лопухин.html">Лопухин</persName></l>
-      <l>Кому:</l>
+      <l>Кому: <persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName></l>
     </p>
     <pb xml:id="p040-1" rendition="page" role="facsimileViewer" target="/collections/rgada/facs/040.html#p040-1"/>
     <head place="left"><l><emph rend="underline">О новой еврейской<lb/>
