@@ -10,22 +10,20 @@
     <sourceDesc><p>Facsimile</p></sourceDesc>
   </fileDesc></teiHeader>
   <text><body>
+    <l>архив <ref role="collectionViewer" target="/by/архив/РГАДА/index.html">РГАДА</ref>: Российский государственный
+    архив древних актов (Москва)</l>
+    <l>разряд <ref role="collectionViewer" target="/by/архив/РГАДА/разряд/VII/index.html">VII</ref>: Преображенский
+    приказ, Тайная канцелярия и <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">Тайная
+    экспедиция</orgName>; коллекция Государственного архива Российской империи</l>
+    <l>опись <ref role="collectionViewer" target="/by/архив/РГАДА/разряд/VII/опись/2/index.html">2</ref>: Дела <orgName
+    role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной экспедиции</orgName></l>
     <head>
-      О <orgName role="namesViewer" target="/names/Хасиды.html">Еврейской секте Каролинов</orgName> и об учителе их
-      <persName role="namesViewer" target="/names/alter-rebbe.html">Раввине Зальмане Боруховиче</persName>, и о доносах
-      <persName role="namesViewer" target="/names/Гирш_Давидович.html">Еврея Гирша Давидовича</persName>
+      дело 3140: О <orgName role="namesViewer" target="/names/Хасиды.html">Еврейской секте Каролинов</orgName> и об
+      учителе их <persName role="namesViewer" target="/names/alter-rebbe.html">Раввине Зальмане Боруховиче</persName>, и
+      о доносах <persName role="namesViewer" target="/names/Гирш_Давидович.html">Еврея Гирша Давидовича</persName>
     </head>
-    <span>Дело <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной экспедиции</orgName>, документы
-    обоих арестов. 1798й и 1800й годы.</span>
-    <p>
-      Российский государственный архив древних актов - <ref target="http://rgada.info/poisk/index.php">РГАДА</ref>,
-      Разряд VII. Преображенский приказ, Тайная канцелярия и <orgName role="namesViewer"
-      target="/names/Тайная_экспедиция.html">Тайная экспедиция</orgName>; коллекция Государственного архива Российской
-      империи; Опись 2. Дела <orgName role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной
-      экспедиции</orgName>, <ref target="http://rgada.info/opisi/7-opis_2/0218.jpg">дело</ref> <ref
-      target="http://rgada.info/opisi/7-opis_2m/0089.jpg">3140</ref>. В этом деле - документы обоих арестов. 1798й и
-      1800й годы. 376 листов.
-    </p>
+    <span>Документы обоих арестов, 1798й и 1800й годы. 376 листов. <ref
+    target="http://rgada.info/opisi/7-opis_2m/0089.jpg">[Вебсайт]</ref></span>
     <p>
       Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Материалы следствия, произведённого <orgName
       role="namesViewer" target="/names/Тайная_экспедиция.html">Тайной Экспедицией</orgName> по доносам <placeName
@@ -106,16 +104,12 @@
         <persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName></cell>
       </row>
       <row>
-        <cell rendition="description">
-          <p>
-            Копия жалобы <persName role="namesViewer" target="/names/Чечерский.html">Чечерского</persName> на
-            взяточничество секретарей <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
-            >Литовского губернского правления</orgName>, датировка, адресат и отдельные фрагменты текста которой
-            совпадают с аналогичными элементами доноса на <persName role="namesViewer" target="/names/alter-rebbe.html">
-            Шнеура Залмана</persName>
-          </p>
-          <p>Оригинал см. здесь: <ref role="documentViewer" target="/collections/rgada/documents/015.html">015</ref></p>
-        </cell>
+        <cell rendition="description">Копия жалобы <persName role="namesViewer" target="/names/Чечерский.html"
+        >Чечерского</persName> на взяточничество секретарей <orgName role="namesViewer"
+        target="/names/Литовское_губернское_правление.html">Литовского губернского правления</orgName> (оригинал: <ref
+        role="documentViewer" target="/collections/rgada/documents/015.html">015</ref>), датировка, адресат и отдельные
+        фрагменты текста которой совпадают с аналогичными элементами доноса на <persName role="namesViewer"
+        target="/names/alter-rebbe.html">Шнеура Залмана</persName></cell>
         <cell rendition="date">1798-08-11</cell>
         <cell rendition="author"><persName role="namesViewer" target="/names/Чечерский.html">Чечерский</persName></cell>
         <cell rendition="addressee"/>
@@ -204,8 +198,8 @@
           role="namesViewer" target="/names/Вильна.html">виленские</placeName> городские службы
         </p></cell>
         <cell rendition="date">1798-05-11</cell>
-        <cell rendition="author">?</cell>
-        <cell rendition="addressee"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Булгаков.html">Булгаков</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/rgada/documents/009.html">009</ref>
         </cell>

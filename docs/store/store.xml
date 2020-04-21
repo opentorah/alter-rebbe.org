@@ -66,10 +66,7 @@
   </entities>
   <by selector="archive">
     <store n="книги"><by selector="book">
-      <store n="Державин"><by selector="том">
-        <store file="collections/derzhavin6.xml"/>
-        <store file="collections/derzhavin7.xml"/>
-      </by></store>
+      <store file="collections/derzhavin.xml"/>
       <store file="collections/dubnov.xml"/>
     </by></store>
     <store file="lna.xml"/>

@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="6" type="org.opentorah.collector.Book">
-  <title>Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание
-  Императорской академіи наукъ</title>
+  <title>Переписка (1794-1816) и "Записки"</title>
   <abstract>Из записок <persName ref="Державин">Державина</persName>.</abstract>
   <body>
+    <p>Апрель 1871 года. <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot6.pdf">PDF</ref></p>
     <p>
-      Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание
-      Императорской академіи наукъ. <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot6.pdf">Томъ 6.</ref>
-      Переписка (1794-1816) и "Записки". Апрель 1871 года.
+      <l>стр. 385: Рескрипт Императора Павла</l>
+      <l>стр. 390-394: Доклад <persName ref="Обольянинов">Обольянинова</persName> Государю (о поездке <persName
+      ref="Державин">Державина</persName>)</l>
+      <l>стр. 721-725: Записки <persName ref="Державин">Державина</persName>. Вторая (?) поездка в <placeName
+      ref="Белоруссия">Белорусию</placeName>. Закрытие винодельни в <placeName ref="Лиозно">Лиозно</placeName>.</l>
+      <l>стр. 749-751: Жалоба еврейки из <placeName ref="Лиозно">Лиозно</placeName></l>
     </p>
-    <p>стр. 385: Рескрипт Императора Павла</p>
-    <p>
-      стр. 390-394: Доклад <persName ref="Обольянинов">Обольянинова</persName> Государю (о поездке <persName
-      ref="Державин">Державина</persName>)
-    </p>
-    <p>
-      стр. 721-725: Записки <persName ref="Державин">Державина</persName>. Вторая (?) поездка в <placeName
-      ref="Белоруссия">Белорусию</placeName>. Закрытие винодельни в <placeName ref="Лиозно">Лиозно</placeName>.
-    </p>
-    <p>стр. 749-751: Жалоба еврейки из <placeName ref="Лиозно">Лиозно</placeName></p>
   </body>
   <by selector="document" directory="derzhavin6"/>
 </store>
