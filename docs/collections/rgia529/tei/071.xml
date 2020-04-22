@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Эстер_Рафалович.html">Эстер Рафалович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -12,27 +16,32 @@
     </fileDesc>
     <profileDesc>
       <abstract><p>
-        Письмо <persName role="namesViewer" target="/names/Эстер_Рафалович.html">Эстер</persName>, жены <persName
-        role="namesViewer" target="/names/Меер_Рафалович.html">реб Меира Рафаловича</persName> <persName
-        role="namesViewer" target="/names/Павел_I.html">императору Павлу I</persName>
+        Обращение на высочайшее имя от <persName role="namesViewer" target="/names/Эстер_Рафалович.html"
+        >Эстер</persName>, жены <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера
+        Рафаловича</persName> с просьбой о смягчении участи задержанных <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName>
       </p></abstract>
+      <creation><date when="1798-10-18">Октября 18 дня 1798 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
       <l><p>
-        Письмо <persName role="namesViewer" target="/names/Эстер_Рафалович.html">Эстер</persName>, жены <persName
-        role="namesViewer" target="/names/Меер_Рафалович.html">реб Меира Рафаловича</persName> <persName
-        role="namesViewer" target="/names/Павел_I.html">императору Павлу I</persName>
+        Обращение на высочайшее имя от <persName role="namesViewer" target="/names/Эстер_Рафалович.html"
+        >Эстер</persName>, жены <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера
+        Рафаловича</persName> с просьбой о смягчении участи задержанных <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName>
       </p></l>
-      <l>Дата:</l>
-      <l>Кто: ?</l>
-      <l>Кому:</l>
+      <l>Дата: 1798-10-18</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Эстер_Рафалович.html">Эстер Рафалович</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Павел_I.html">Павлу I</persName></l>
     </p>
     <pb xml:id="p071-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p071-1"/>
-    <date when="1798-11-01">ноября 1.лня 1798. года</date>
+    <date when="1798-11-01">ноября 1.дня 1798. года</date>
     <fw type="pageNum" place="right">71</fw>
     <fw type="note" place="left">23</fw>
     <salute><l>всеавгустѣйшій монархъ<lb/>
@@ -104,11 +113,189 @@
       <fw type="pageNum" place="right">72</fw>
       <l>всѣ поступки кагаловъ и наидя оныя коварными,</l>
       <l>хотя и предприняло уже было положить преграду</l>
+      <l>и конецъ всемъ ихъ своеволїямъ и коварствамъ, здѣ</l>
+      <l>ланїемъ новой о евреяхъ реформы и уничтожа при-</l>
+      <l>своенную кагалами власть сужденїя дѣлъ гражданскихъ</l>
+      <l>и уголовныхъ велело разбираться и евреямъ въ устано</l>
+      <l>вленныхъ на то гражданскихъ присудственныхъ мѣстахъ и</l>
+      <l>учредило коммисїю для снятїя съ кагаловъ щетовъ и</l>
+      <l>предоставило онымъ одно лишь наблюденїе обрядовъ</l>
+      <l>своей религїи и богослуженїя, но: какъ последовавшая</l>
+      <l>въскорѣ революцїя возпрепятствовала привѣденїю сего</l>
+      <l>въ дѣйствїе то <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ виленской</orgName> и
+      обратился къ преж-</l>
+      <l>нему своему самовластїю и угнетанїю; на которое</l>
+      <l>утесненные евреи въ февралѣ мцѣ<note place="end">месяце; над сокращенной записью слова - титло</note>
+      принуждены были</l>
+      <l>жаловаться <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернскому
+      Правленїю</orgName> представляя</l>
+      <l>доказательствы о многихъ злоупотребленїяхъ и прите</l>
+      <l>сненїяхъ здѣшняго кагала, которое наидя кагалъ совер-</l>
+      <l>шенно виновнымъ апреля въ 26<hi rend="superscript">и</hi> день сего года</l>
+      <l>предписало указомъ виленскому городничему о стро</l>
+      <l>жаишемъ подътвержденїи <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName> дабы
+      оной воздер</l>
+      <l>жался въпредь отъ безъзаконныхъ своихъ дѣянїи</l>
+      <l>и присвоенїя сѣбѣ сужденїя мѣжду евреями граж-</l>
+      <l>данскихъ и уголовныхъ дѣлъ; для сужденїя каковыхъ</l>
+      <l>учреждены гражданскїе присудственные мѣста_,</l>
+      <l>а кагалъ вѣдалъ бы только дѣла до обрядовъ ихъ</l>
+      <pb xml:id="p072-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p072-2"/>
+      <l>религїи и богослуженїя относящїяся.</l>
     </p>
-    <pb xml:id="p072-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p072-2"/>
-    <pb xml:id="p073-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p073-1"/>
-    <pb xml:id="p073-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p073-2"/>
-    <pb xml:id="p083-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p083-1"/>
+    <p>
+      <l>Послѣ которой резолюцЇи жаловавшїеся евреи надеялись</l>
+      <l>уже что они вообще остануться спокойными отъ</l>
+      <l>угнетенїи <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> и разорительныхъ
+      наологовъ онаго.</l>
+      <l>но надежда ихъ оказалась тщетною№ _ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ<lb
+      />
+       виленской</orgName> не только не исполнилъ по повеленїю <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">Гу-<lb/>
+       бернскаго Правленїя</orgName> но еще какъбы вопреки оному</l>
+      <l>въ тожъ самое время наказывалъ некоторыхъ теле</l>
+      <l>сно и публично, но и послалъ ко всемъ <placeName role="namesViewer" target="/names/Литва.html">Литовской<lb/>
+       губернїи</placeName> въ уѣздахъ состоящимъ кагаламъ, цыр-</l>
+      <l>кулярные требованїи чтобъ вновь собравъ съ</l>
+      <l>евреевъ деньги прислали оные съ нарочными</l>
+      <l>въ тотъ кагалъ._ Сїе противу законное требова</l>
+      <l>нїе а пче дерзостные слова помѣщенные</l>
+      <l>въ ономъ на щетъ начальства и даже собствен-</l>
+      <l>ныхъ вашего императорскаго величества по-</l>
+      <l>веленїи названїемъ ихъ злобными побудили бра</l>
+      <l>славское еврейское общество представить ориги</l>
+      <l>наломъ то отъношенїе виленскаго кагала въ <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">Ли-<lb/>
+       товское Губернское правленїе</orgName>, которое допрося</l>
+      <l>кагальныхъ старшинъ подъписавшихъ оное хотя</l>
+      <l>изъ собственныхъ признанїи и показанїи видило</l>
+      <l>содѣланное ихъ безъзаконїе, но ни преступникамъ</l>
+      <l>наказанїя ни терпящимъ евреямъ облегченїя</l>
+      <pb xml:id="p073-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p073-1"/>
+      <fw type="pageNum" place="right">73</fw>
+      <l>и защиты не зделано._ а <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> видя
+      что всѣ пре</l>
+      <l>ступленїи его остаються безънаказанными попу-</l>
+      <l>стился въ вящшїе своевольствы и надеясь на покро</l>
+      <l>вительство и сильное вспоможенїе виленскаго гор-</l>
+      <l>дничаго, котораго извѣстными <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName>
+      средствами</l>
+      <l>нетрудно было склонить на свою сторону, <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName></l>
+      <l>всеми образы стараться о пагубѣ не только жало-</l>
+      <l>вавшихся евреевъ, и представившихъ изъ <placeName role="namesViewer" target="/names/Видзы.html"
+      >видзъ</placeName> ори-</l>
+      <l>гиналомъ кагальное требованїе, но даже и тѣхъ</l>
+      <l>коихъ подозревалъ въ единомыслїисъ ними, и на сей</l>
+      <l>конецъ чрезъ его жъгородничаго внушилъ Литов-</l>
+      <l>скому Г<hi rend="superscript">ну</hi> губернатору о всехъ доносившихъ на</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> евреевъ, будтобы онѣ заводятъ
+      новую</l>
+      <l>секту, опасную для Правительства и вредную</l>
+      <l>обществу чего никогда не бывало и быть не могло._</l>
+    </p>
+    <p>
+      <l>Очернивже ихъ такимъ образомъ довели до того</l>
+      <l>что всѣ онѣ небывъ ни въ чемъ виновными схвачены</l>
+      <l>въ ночное время и посажены каждой порознь въ же</l>
+      <l>сточайшїя заключенїи какъ бы государственные пре</l>
+      <l>ступники и злодеи, гдѣ и по нынѣ страждутъ,</l>
+      <l>угнетаемые городничимъ, которой не только лишилъ</l>
+      <l>ихъ нужныхъ человѣку выгодъ но еще сверхъ обы</l>
+      <l>кновеннаго воинскаго, приставилъ караулъ отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагала</orgName></l>
+      <l>въ угодность онаго для вящшаго притесненїя, и</l>
+      <l>какъ слышно допрашиваютъся сїи безъвинныи,</l>
+      <pb xml:id="p073-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p073-2"/>
+      <l>имъ городничимъ съ угрозами и даже съ пристрастиемъ.</l>
+      <l>А посему вида мужей и кровныхъ нашихъ отъданныхъ</l>
+      <l>власти городничаго защищающаго всемѣрно <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName> и</l>
+      <l>совершенно ему преданнаго, лишаемся мы надежды чтобъ</l>
+      <l>неещастныя заключенныя при всей своей невинности</l>
+      <l>могли спастись отъ погибели приготовляемой имъ</l>
+      <l>по ходатейству <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> отъ
+      городничаго, которой бывъ</l>
+      <l>одолженнымъ отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> можетъ иногда
+      согласится</l>
+      <l>и на то что въ мѣсто истинныхъ показанїй подмѣнялъ</l>
+      <l>ихъ другими не ихъ руками подписанными</l>
+    </p>
+    <p>
+      <l>Сїе то спасенїе <emph rend="big">всеавгустѣйшїй монархъ</emph> прину-</l>
+      <l>ждаетъ насъ бѣдныхъ отъправить сїю бумагу къ</l>
+      <l><emph rend="big">вашему императорскому величеству</emph> и все под-</l>
+      <l>даннѣйше просить чтобъ сихъ оговоренныхъ всехъ</l>
+      <l>или по крайней мѣре двухъ изъ нихъ почитающихся</l>
+      <l>более прочихъ виновными, и имѣнно <persName role="namesViewer" target="/names/Нохим_Ицкович.html"
+      >нохима</persName> и <persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">рафала</persName></l>
+      <l>повѣлено было представить въ С: Петербургъ для</l>
+      <l>оправданїя и изъследованїя истинны чрезъ кого</l>
+      <l><emph rend="big">вашему Императорскому величеству</emph> благоугодно</l>
+      <l>будетъ. они не токмо найдуться правыми но и</l>
+      <l>докажутъ такїя злоупотребленїя <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагала</orgName>, кои въ</l>
+      <l>благоустроенномъ государствѣ терпимы быть</l>
+      <l>не могутъ и коихъ отъкритїя <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName>
+      страшась ста-</l>
+      <l>рается истребить всехъ тѣхъ кои только могутъ</l>
+      <l>донести о томъ Правительству._</l>
+    </p>
+    <p>
+      <l><emph rend="big">Всемилостивѣйшїй Государь</emph> естли жъ сїи о коихъ</l>
+      <l>мы просимъ окажуться виновными въ зловредныхъ</l>
+      <l>замыслахъ противъ Правительства въ нарушенїи спо</l>
+      <l>койствїя или въ чемъ тому подобномъ то мы не только</l>
+      <pb xml:id="p083-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/071.html#p083-1"/>
+      <fw type="pageNum" place="right">83</fw>
+      <l>не испрашиваемъ имъ пощады но тутъ же и <sic>сѣбѣ</sic> повергаемъ</l>
+      <l>такому наказанїю какое заслуживаютъ участники по</l>
+      <l>добныхъ преступленїй.</l>
+    </p>
+    <p>
+      <l>благоволитѣ <emph rend="big">всемилостивѣйшїй Государь</emph> возреть</l>
+      <l>на подносимые при семъ бумаги изъ коихъ одна пред</l>
+      <l>ставитъ резолюцїю <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернскаго
+      Правленїя</orgName> доказываю-</l>
+      <l>щую, что содержимые въ заключенїи не имѣли никогда</l>
+      <l>того вида, и намѣренїя, каковыя приписываетъ имъ</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName>; но были добрыми гражданами
+      искавшими сѣбѣ</l>
+      <l>защищенїя отъ Закона и Правительства противу гра</l>
+      <l>бежа и своевольства <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName>._ Другая
+      же на еврейскомъ</l>
+      <l>языкѣ съ польскимъ переводомъ обнаружитъ непозво-</l>
+      <l>ленное вымагательство збора денѣгъ и ту продерзость</l>
+      <l>съ коею кагалъ осмѣлился называть высочайшее</l>
+      <l><emph rend="big">вашего Императорскаго величества</emph> повеленїе</l>
+      <l>данное о уничтоженїи винокуренїя злобнымъ, въ разо</l>
+      <l>сланныхъ циркулярно по целой губернїи своихъ письмахъ.</l>
+      <l>Дѣло о чемъ давно уже начато и производилось въ <orgName role="namesViewer"
+      target="/names/Литовское_губернское_правление.html">литов<lb/>
+       скомъ Губернскомъ Правленїи</orgName>, которое со всеми доказа</l>
+      <l>тельствами а также допросами кагальныхъ старшинъ</l>
+      <l>и съ тою резолюцїею, какая по онымъ была <sic>затовлена</sic><note place="end">вероятно, "заготовлена"</note>
+      </l>
+    </p>
+    <p>
+      <l>повели всемилостивѣйшїй государь изътребовать</l>
+      <l>для обнаруженїя истинны и невинности страждущихъ</l>
+      <l><emph rend="big">всемилостивѣйшїй и Правосудный Государь</emph> не по-</l>
+      <l>пусти погибнуть многимъ невинно оклеветаннымъ не по-</l>
+      <l>лучающимъ здѣсь должной справедливости, и не даждь воз</l>
+      <l>торжествовать злобѣ и клевѣтѣ старающеися истребить</l>
+      <l>правыхъ и невинныхъ и <sic>темъяишъ</sic> закрить свои безъзаконїи.</l>
+      <l><emph rend="big">всемилостивѣйшїй Государь</emph></l>
+      <l>вашего императорскаго величества</l>
+      <l>всенижаишая вѣрноподанная</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l><persName role="namesViewer" target="/names/Эстер_Рафалович.html">естеръ жена рафаловича</persName>._</l>
+    </p>
+    <closer place="left">
+      <l><date when="1798-10-18">Октября 18<hi rend="superscript">го</hi> дня<lb/>
+       1798<hi rend="superscript">го</hi> года</date></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильно</placeName>.</l>
+    </closer>
     <pb xml:id="p083-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/rgia529/facs/071.html#p083-2"/>
   </body></text>
