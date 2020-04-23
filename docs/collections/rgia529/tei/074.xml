@@ -11,23 +11,47 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract><p>Журнал виленского кагала</p></abstract>
+      <abstract><p>
+        Перевод с иврита на польский язык письма, циркулярно разосланного от <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> поветовым кагалам, заверенный подписями
+        кагальных старшин<note place="end">расшифрованы заголовок и окончание письма с подписями</note>
+      </p></abstract>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <p rendition="document-header">
-      <l><p>Журнал виленского кагала</p></l>
+      <l><p>
+        Перевод с иврита на польский язык письма, циркулярно разосланного от <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> поветовым кагалам, заверенный подписями
+        кагальных старшин<note place="end">расшифрованы заголовок и окончание письма с подписями</note>
+      </p></l>
       <l>Дата:</l>
       <l>Кто: ?</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p074-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p074-1"/>
+    <head>
+      Kopїa kahalnego pisma cyrkularnїe <unclear>polsanego</unclear><note place="end">возможно, poslanego</note>
+    </head>
     <pb xml:id="p074-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p074-2"/>
     <pb xml:id="p075-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p075-1"/>
     <pb xml:id="p075-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p075-2"/>
     <pb xml:id="p076-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p076-1"/>
     <pb xml:id="p076-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p076-2"/>
+    <l>tuteyszego miasta wilna</l>
+    <l>Datt <unclear>???</unclear> Dnia 25<hi rend="superscript">o</hi></l>
+    <l>m-ca<note place="end">над словом - титло</note> <unclear>???</unclear> po hebraysku na</l>
+    <l>zwanego 1798<hi rend="superscript">o</hi> swoimi re</l>
+    <l>rekoma podpisuiemy_<note place="end">здешнего города Вильна / <unclear>??? ???</unclear> 25го дня месяца <unclear
+    >???</unclear> по-еврейски названного нижеподписашиеся</note></l>
+    <l>Leyba Zalkinowiez</l>
+    <l>Dawid Jankielowiez</l>
+    <l>Abram Josielowicz</l>
+    <l><persName role="namesViewer" target="/names/Лейба_Беркович.html">Leyba Berkowicz</persName></l>
+    <l>Morduch Percykowicz</l>
+    <l>Szmuylo morduchowicz</l>
+    <l>Jzrael Leybowicz</l>
   </body></text>
 </TEI>
