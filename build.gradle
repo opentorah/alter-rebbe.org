@@ -1,17 +1,17 @@
 plugins {
   id 'com.github.ben-manes.versions'
   id 'idea'
+  id 'java'
 }
 
-allprojects {
-  repositories {
-    jcenter()
-    mavenCentral()
-    mavenLocal()
-  }
+final String storeVersion = '0.1.45'
 
-  group = 'org.opentorah.archive'
-  version = projectVersion
+description = '19 Kislev Archive'
+
+repositories {
+  jcenter()
+  mavenCentral()
+  mavenLocal()
 }
 
 idea {
@@ -22,3 +22,14 @@ idea {
     ]
   }
 }
+
+dependencies {
+  runtimeOnly "org.opentorah:opentorah-collector:$storeVersion"
+}
+
+task postprocess(type: JavaExec) {
+  classpath = sourceSets.main.runtimeClasspath
+  main = 'org.opentorah.collector.Main'
+  args = ["$rootDir/docs"]
+}
+build.dependsOn(postprocess)
