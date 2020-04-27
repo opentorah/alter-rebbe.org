@@ -4,7 +4,7 @@ plugins {
   id 'java'
 }
 
-final String storeVersion = '0.1.45'
+final String opentorahVersion = '0.1.47'
 
 description = '19 Kislev Archive'
 
@@ -24,7 +24,7 @@ idea {
 }
 
 dependencies {
-  runtimeOnly "org.opentorah:opentorah-collector:$storeVersion"
+  runtimeOnly "org.opentorah:opentorah-collector:$opentorahVersion"
 }
 
 task postprocess(type: JavaExec) {

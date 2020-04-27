@@ -5,8 +5,6 @@ pluginManagement {
   }
 }
 
-rootProject.name = 'archive'
-
 //includeBuild ('../../store') {
 //    dependencySubstitution {
 //        substitute module('org.opentorah:store') with project(':store')
