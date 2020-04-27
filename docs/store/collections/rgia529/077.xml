@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>
-      Копия записи в журнале <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> о
-      рассмотрении дела по жалобам <placeName ref="Вильна">виленских</placeName> <orgName ref="Хасиды">хасидов</orgName>
-      в связи с их неправомерными преследованиями со стороны <orgName ref="Виленский_кагал">виленского кагала</orgName>
-    </p></abstract>
-  <creation><date when="1798-04-26">1798 года Апреля 26 дня</date></creation></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Копия записи в журнале <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName>
+        о рассмотрении дела по жалобам <placeName ref="Вильна">виленских</placeName> <orgName ref="Хасиды"
+        >хасидов</orgName> в связи с их неправомерными преследованиями со стороны <orgName ref="Виленский_кагал"
+        >виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1798-04-26">1798 года Апреля 26 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="077-1"/>
     <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
     <fw type="pageNum" place="right">77</fw>
-    <p><l><date when="1798-04-26">1798 года Апреля 26 дня</date> в журнале <orgName ref="Литовское_губернское_правление">литовскаго<lb/>
-       Губернскаго Правленія</orgName> записано подъ № 21<hi rend="superscript">мъ</hi></l></p>
+    <p>
+      <l><date when="1798-04-26">1798 года Апреля 26 дня</date> в журнале <orgName ref="Литовское_губернское_правление"
+      >литовскаго<lb/>
+       Губернскаго Правленія</orgName> записано подъ № 21<hi rend="superscript">мъ</hi></l>
+    </p>
     <p>
       <l>Разсматривали дело имеющѣеся въ семъ правленіи по про</l>
       <l>шениямъ взаимно поданнымъ отъ <orgName ref="Виленский_кагал">виленскаго евреискаго<lb/>
@@ -24,7 +31,7 @@
       <l>изъ того дела значитъ, что оно началось и продолжалось</l>
       <l>следующимъ образомъ. Означенные евреи жаловались Его</l>
       <l>высокопревосходительству <persName ref="Булгаков">литовскому господину губер-<lb/>
-      натору</persName> и кавалеру на <orgName ref="Виленский_кагал">виленскои кагалъ</orgName>, за наложение</l>
+       натору</persName> и кавалеру на <orgName ref="Виленский_кагал">виленскои кагалъ</orgName>, за наложение</l>
       <l>на нихъ проклятія, за исключение изъ кагальныхъ чле</l>
       <l>новъ еврея <persName ref="Меер_Рафалович">меера рафаловича</persName>, за зделаніе имъ запреще</l>
       <l>ния отъправлять вчастномъ доме богомоленіе и о прот</l>
