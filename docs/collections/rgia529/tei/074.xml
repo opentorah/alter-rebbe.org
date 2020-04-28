@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author>?</author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -16,6 +20,7 @@
         target="/names/Виленский_кагал.html">виленского кагала</orgName> поветовым кагалам, заверенный подписями
         кагальных старшин<note place="end">расшифрованы заголовок и окончание письма с подписями</note>
       </p></abstract>
+      <creation><date when="1798-04-30">25 ияра 1798 года</date></creation>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
@@ -27,7 +32,7 @@
         target="/names/Виленский_кагал.html">виленского кагала</orgName> поветовым кагалам, заверенный подписями
         кагальных старшин<note place="end">расшифрованы заголовок и окончание письма с подписями</note>
       </p></l>
-      <l>Дата:</l>
+      <l>Дата: 1798-04-30</l>
       <l>Кто: ?</l>
       <l>Кому:</l>
     </p>
@@ -40,12 +45,15 @@
     <pb xml:id="p075-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p075-2"/>
     <pb xml:id="p076-1" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p076-1"/>
     <pb xml:id="p076-2" rendition="page" role="facsimileViewer" target="/collections/rgia529/facs/074.html#p076-2"/>
+    <l>wielce zamozni y Boga</l>
+    <l>ci Kahalu gminu jzraelskiego</l>
     <l>tuteyszego miasta wilna</l>
-    <l>Datt <unclear>???</unclear> Dnia 25<hi rend="superscript">o</hi></l>
-    <l>m-ca<note place="end">над словом - титло</note> <unclear>???</unclear> po hebraysku na</l>
+    <l>Datt w piatek Dnia 25<hi rend="superscript">o</hi></l>
+    <l>m-ca<note place="end">над словом - титло</note> Jr<hi rend="superscript">o</hi> po hebraysku na</l>
     <l>zwanego 1798<hi rend="superscript">o</hi> swoimi re</l>
-    <l>rekoma podpisuiemy_<note place="end">здешнего города Вильна / <unclear>??? ???</unclear> 25го дня месяца <unclear
-    >???</unclear> по-еврейски названного нижеподписашиеся</note></l>
+    <l>rekoma podpisuiemy_<note place="end">здешнего города Вильна / в пятницу 25го дня / месяца ияра по-еврейски
+    на/званного 1798-го<note place="end">25 ияра в 1798 г. приходилось на 30 апреля (11 мая н.ст.)</note> /
+    нижеподписашиеся</note></l>
     <l>Leyba Zalkinowiez</l>
     <l>Dawid Jankielowiez</l>
     <l>Abram Josielowicz</l>
