@@ -2,10 +2,40 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <profileDesc>
+      <abstract><p>
+        Запись в журнале Литовского надворного суда о слушании дела по жалобе Мовши Ошеровича – представителя
+        распущенного состава виленского кагала – в связи с нанесенными ему побоями
+      </p></abstract>
+      <creation><date when="1799-04-01">1799 года апреля въ 1 день</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="073-1"/>
+    <fw type="pageNum" place="right">73.</fw>
+    <p>
+      <l><date when="1799-04-08">1799<hi rend="superscript">го</hi> года апрѣля 8<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ</l>
+      <l>Литовскаго Надворнаго Суда записано.</l>
+      <l><fw type="docNum"><emph rend="underline">№ 4</emph></fw></l>
+    </p>
+    <p>
+      <l>Слушали объисненіе виленскаго купца <persName ref="Мовша_Ошерович">Мойжеша<lb/>
+       Ошеровича</persName>, данное имъ по силѣ резолюціи сего</l>
+      <l>Надворнаго Суда въ <date when="1799-04-01">1<hi rend="superscript">и</hi> день сего апрѣля послѣ-</date></l>
+      <l>довавшей въ дополненіе прозьбы посланной имъ</l>
+      <l><persName ref="Мовша_Ошерович">ошеровичемъ</persName> къ его свѣтлости Господину гене-</l>
+      <l>ралъ Прокурору съ жалобою на побои въ еврей-</l>
+      <l>ской школѣ причиненныя. <emph rend="big">Приказали</emph>: оное</l>
+      <l>объисненіе пріобща къ слѣдствію по жалобе его</l>
+      <l><persName ref="Мовша_Ошерович">ошеровича</persName> въ семъ Судѣ производящемуся, и</l>
+      <l>справясь съ онымъ Присудствію доложить. По-</l>
+      <l>длинной за подписаніемъ господъ присудству-</l>
+      <l>ющихъ и за скрепою Секретаря Павла Ис-</l>
+      <l>крицкаго./ Протоколистъ <signed>јосифъ <unclear>???</unclear></signed></l>
+      <l/>
+    </p>
+    <l><fw type="note" place="left margin">6<hi rend="superscript">е</hi>-</fw></l>
     <pb n="073-2" missing="true"/>
   </body></text>
 </TEI>
