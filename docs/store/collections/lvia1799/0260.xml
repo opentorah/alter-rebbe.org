@@ -3,15 +3,16 @@
   <teiHeader>
     <fileDesc><titleStmt><author><persName ref="Елиашевич">Федоръ Елиашевич</persName></author>
   <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-    <correspDesc>
-    <correspAction>
-      <persName ref="Лассий" role="addressee">Лассию</persName>
-    </correspAction>
-  </correspDesc>
     </titleStmt></fileDesc>
     <profileDesc>
     <creation><date when="1799-08-05">5 августа 1799 года</date></creation>
       <abstract><p>Докладная записка советника <persName ref="Елиашевич">Елиашевича</persName> литовскому генерал-губернатору <persName ref="Лассий">Лассию</persName> о расследовании дела, связанного со злоупотреблениями <orgName ref="Виленский_кагал">виленского кагала</orgName></p></abstract>
+          <correspDesc>
+    <correspAction>
+      <persName ref="Лассий" role="addressee">Лассию</persName>
+    </correspAction>
+  </correspDesc>
+
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
