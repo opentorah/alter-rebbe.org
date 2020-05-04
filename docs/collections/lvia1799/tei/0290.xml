@@ -2,7 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Булгаков.html">предположительно, Яков Булгаков</persName>
+        </author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,18 +16,91 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Письмо <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName>, вероятно, от <persName
+        role="namesViewer" target="/names/Булгаков.html">Булгакова</persName>, об обстоятельствах принятия <orgName
+        role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовским губернским правлением</orgName>
+        двух резолюций о действиях <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName>
+      </p></abstract>
+      <creation><date when="1799-01-??">вторая половина января 1799 г.</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто: ?</l>
-      <l>Кому:</l>
+      <l><p>
+        Письмо <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName>, вероятно, от <persName
+        role="namesViewer" target="/names/Булгаков.html">Булгакова</persName>, об обстоятельствах принятия <orgName
+        role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовским губернским правлением</orgName>
+        двух резолюций о действиях <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName>
+      </p></l>
+      <l>Дата: 1799-01-??</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Булгаков.html">предположительно, Яков Булгаков</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName></l>
     </p>
     <pb xml:id="p290-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0290.html#p290-1"/>
-    <pb xml:id="p290-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0290.html#p290-2"/>
+    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
+    <fw type="pageNum" place="right">290</fw><note place="end">номер продублирован чернилами и карандашом</note>
+    <salute>
+      Милостивой Государь мой <persName role="namesViewer" target="/names/Фризель.html">Иванъ Григорьевичъ</persName>!
+    </salute>
+    <p>
+      <l>Болезнь моя не дозволила мнѣ тотчасъ отвѣчать</l>
+      <l>на отношеніе вашего Превосходительства отъ <date when="1799-01-09">9<lb/>
+       сего генваря</date> по поводу прозбы поданной господину</l>
+      <l>Господину Генералу Губернатору <persName role="namesViewer" target="/names/Лассий.html">Борису Петровичу де
+      Лассію</persName>,</l>
+      <l>и отвѣтъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго Губернскаго
+      Правленія</orgName>, будто</l>
+      <l>бы по приказанію момему состоявшаяся въ <date when="1798-08-20">20. день<lb/>
+       августа прошедшаго года</date> резолюція изключена</l>
+      <l>изъ журнала съ объявленіемъ, что по извѣстнымъ</l>
+      <l>мнѣ причинамъ должна она остаться безъ дѣй-</l>
+      <l>ствія. Сіе требуетъ подробнаго объясненія, къ</l>
+      <l>которому я и приступаю; а какъ сіе дѣло есть</l>
+      <l>слѣдствіемъ другой прежней <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Губернскаго Прав<lb/>
+       ленія</orgName> резолюціи, то нужно и объ оной здѣсь упо</l>
+      <l>мянуть.</l>
+    </p>
+    <p>
+      <l>Въ апрѣлѣ мѣсяцѣ поданъ мнѣ былъ для под-</l>
+      <l>писанія журналъ, содержащей препространную</l>
+      <l>резолюцію о жидахъ виленскихъ, о которой преж-</l>
+      <l>де въ присудствіи докладывано не было, и слѣ-</l>
+      <l>довательно согласія на оную не могъ я дать.</l>
+      <l>А, находя въ ней некоторой родъ судопроизводства</l>
+      <l>и не довѣряя собственному моему въ законахъ зна-</l>
+      <l>нію, просилъ я господина вице--губернатора вол-</l>
+      <l>кова и Надворнаго суда судью господина Багмев-</l>
+      <l>скаго, разсмотрѣть помянутую резолюцію, не про-</l>
+      <l>тивна ли она законамъ; и когда дали они свое мнѣ-</l>
+      <l>ніе при семъ подъ лит. B.</l>
+      <l>оная резолюція, мною и господами совѣтниками</l>
+      <pb xml:id="p290-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0290.html#p290-2"/>
+      <l>Губернскаго Правленія въ журналѣ подписанная дѣй</l>
+      <l>ствіе свое возъимѣла.</l>
+    </p>
+    <p>
+      <l>вскорѣ послѣ того <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскій кагалъ</orgName>
+      подалъ</l>
+      <l>мнѣ противъ оной резолюціи во исполненіе город-</l>
+      <l>ничимъ производимой прозбу приложенную здѣсь подъ</l>
+      <l>лит. C.</l>
+    </p>
+    <p>
+      <l>Точно упомнить я не могу мѣсяца и дня, но вѣ-</l>
+      <l>роятно, что то было <date when="1798-08-20">20. августа</date>, поданъ мнѣ въ</l>
+      <l>присудствіи для подписанія журналъ, въ коемъ</l>
+      <l>внесена была предолгая и новая о жидахъ резо-</l>
+      <l>люція, о которой ничего прежде не докладывано</l>
+      <l>и со мною говорено не было. По сей причинѣ не могъ</l>
+      <l>я подписать ее, а сказалъ, что она требуетъ<note place="end">далее брак факсимиле - изображения нет</note></l>
+    </p>
   </body></text>
 </TEI>
