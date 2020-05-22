@@ -24,7 +24,7 @@ jobs:
 
       - name: "Commit and push generated changes"
         if: success()
-        uses: github-actions-x/commit@v2.2
+        uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{github.token}}
           commit-message: "Commit and push generated changes"
