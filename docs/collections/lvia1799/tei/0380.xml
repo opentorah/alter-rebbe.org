@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author>?</author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,13 +15,22 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Копия рапорта 1800 г. в <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+        >Литовское губернское правление</orgName> от чиновников, расследовавших злоупотребления <orgName
+        role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
+      <l><p>
+        Копия рапорта 1800 г. в <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+        >Литовское губернское правление</orgName> от чиновников, расследовавших злоупотребления <orgName
+        role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
       <l>Дата:</l>
       <l>Кто: ?</l>
       <l>Кому:</l>
@@ -43,8 +56,12 @@
       <l>шинъ._</l>
     </head>
     <p>
-      <fw type="note" place="left margin">Сію</fw>
-      <l>Въ сходственностьобъявленной намъ резо-</l>
+      <fw type="note" place="left margin">Сію</fw><note place="end">Начало служебной записи, продолжающейся на нечетных
+      страницах и предназначенной для удостоверения подлинности и целостности всех его листов: "Сию/ выписку/ из/ бумаг/
+      еврейских/ по переводу/ кагальным/ синдиком/ Еремиашем/ Нохимо/ вичем/ на/ польский/ язык/ сделал/ ?<note
+      place="end">слово неизвестно - лист пропущен</note>/ Литовской/ губернии/ Иван/ <unclear>Доменович</unclear>/
+      сделал/ сию/ выписку/ сделал"</note>
+      <l>Въ сходственность объявленной намъ резо-</l>
       <l>люціи <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго Губернскаго
       правленія</orgName> въ <date when="1799-02-15">15<hi rend="superscript">и</hi><lb/>
        дѣнь февраля прошлаго 1799<hi rend="superscript">го</hi> года</date> состоявшейся</l>
@@ -430,7 +447,7 @@
     <l>складки долженъ находится между бумагами</l>
     <pb xml:id="p387-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p387-1"/>
     <fw type="pageNum" place="right">387</fw>
-    <fw type="note" place="left margin">кагальныхъ</fw>
+    <fw type="note" place="left margin">кагальнымъ</fw>
     <l>писаря Уріаша и на таковую <choice><sic>сладку</sic><corr>складку</corr></choice> была</l>
     <l>кагальная ухвала апробованная сынагогою</l>
     <l>подъ хейрымомъ; имѣли жъ въ вѣдомствѣ и</l>
@@ -1065,7 +1082,7 @@
       >Капцевича</persName></l>
       <pb xml:id="p399-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p399-1"/>
       <fw type="pageNum" place="right">399</fw>
-      <fw type="note" place="left margin">Ивана</fw>
+      <fw type="note" place="left margin">Иванъ</fw>
       <l>отданы и хранятся въ вѣдомствѣ и за пе-</l>
       <l>чатью перваго изъ насъ совѣтника Еліа</l>
       <l>шевича._ Изъ таковыхъ представ-</l>
@@ -1139,7 +1156,7 @@
       зборщика</l>
       <pb xml:id="p400-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p400-1"/>
       <fw type="pageNum" place="right">400</fw>
-      <fw type="note" place="left margin"><unclear>Доменовича</unclear></fw>
+      <fw type="note" place="left margin"><unclear>Доменовичъ</unclear></fw>
       <l>рекрутскихъ денегъ въ которомъ оказалось,</l>
       <l>что изъ числа 400. хозяевъ въ томъ регист-</l>
       <l>рѣ показанныхъ собрано 2780. руб: въ числѣ</l>
@@ -1330,13 +1347,52 @@
       <l>въ приходѣ виленскаго <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> въ
       1798<hi rend="superscript">м</hi> году</l>
       <l>90550 злот: изъ чего видно что приходъ въ</l>
-      <l>книгѣ B. показанх вовсѣ несправедливо и оста</l>
+      <l>книгѣ B. показанъ вовсѣ несправедливо и оста</l>
       <l>токъ вышепоказанной суммы въ приходѣ имѣв</l>
       <l>шейся по видимому <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагаломъ</orgName> обращенъ
       на неизвѣс</l>
       <l>тные вовсе надобности. _ да и въ числѣ записанныхъ</l>
+      <pb xml:id="p403-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p403-1"/>
+      <fw type="pageNum" place="right">403</fw><note place="end">чернильная запись продублирована карандашом</note>
+      <fw type="note" place="left margin">сдѣлалъ</fw>
+      <l>издержекъ по вышеписанной называемой</l>
+      <l>справедливой книгѣ подъ буквою A: Сколько</l>
+      <l>видѣть можно показано таковыхъ расхо</l>
+      <l>довъ которые никакъ не могутъ прилич-</l>
+      <l>ными быть и относится на щетъ надоб-</l>
+      <l>ности общества ибо тамъ помѣщено:</l>
+      <l>за сахаръ, кофе, говядину, водку и протчее;</l>
+      <l>А такъ же на жалованье кагальнымъ стар-</l>
+      <l>шинамъ, которое отнюдь имъ не слѣдуетъ</l>
+      <l>и на протчее тому подобное 21834 злотыхъ</l>
+      <l>Сверхъ сего какъ выше прописано изъ наложен-</l>
+      <l>ной кагальными старшинами на евреевъ от-</l>
+      <l>купщиковъ чоповаго сосоваго и консумційнаго</l>
+      <l>зборовъ одинъ разъ пятой а въ другой четвер-</l>
+      <l>той части получаемого ими дохода единствен-</l>
+      <l>но только за дозволеніе данное имъ отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">ка-<lb
+      />
+       гала</orgName> взятъ сіи зборы на откупъ открывает</l>
+      <l>ся немалой ущербъ государственной каз-</l>
+      <l>нѣ; ибо тѣ пятую и четвертую части</l>
+      <l>доходовъ естлибы кагальные старшины</l>
+      <l>не вынуждали для себя, могли бы откупщи-</l>
+      <l>ки при торгѣ производимомъ въ казенной</l>
+      <l>палатѣнаддать не только то число въ</l>
+      <l>казну денегъ, но и въ гораздо превосходнѣе того</l>
+      <l>сумму естли бы <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> не дѣлалъ на
+      та-</l>
+      <l>ковые случаи толь зловредныхъ постанов-</l>
+      <l>леній: а чтобъ видѣть можно на какіе вопросы</l>
+      <pb xml:id="p403-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p403-2"/>
+      <l>отвѣчали школьники и протчіе давшіе уже</l>
+      <l>на оные отвѣты, копія таковыхъ при семъ</l>
+      <l>прилагается._ <signed>Губернскій секретарь Иванъ <unclear>Гоменовскій</unclear></signed></l>
+      <l><signed>Литовскаго губернскаго правленія совѣтникъ<lb/>
+       <persName role="namesViewer" target="/names/Елиашевич.html">Федоръ Еліашевичъ</persName></signed></l>
+      <l><signed>Литовской казенной палаты<lb/>
+       совѣтникъ Харитоновъ</signed></l>
+      <l><signed>тои же палаты губернск казначеи Сербиновичъ</signed></l>
     </p>
-    <pb xml:id="p403-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p403-1"/>
-    <pb xml:id="p403-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0380.html#p403-2"/>
   </body></text>
 </TEI>
