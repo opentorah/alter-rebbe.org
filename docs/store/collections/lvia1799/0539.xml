@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName ref="Лопухин">Лопухин</persName></author>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc>
+    <correspDesc>
+    <correspAction>
+      <persName ref="Фризель" role="addressee">Фризелю</persName>
+    </correspAction>
+  </correspDesc>
+      <creation><date when="1799-03-05">5 марта 1799 года</date></creation>
+      <abstract><p>Копия письма Лопухина Фризелю с требованием провести расследование по жалобе отстраненных членов <orgName ref="Виленский_кагал">виленского кагала</orgName></p></abstract>
+</profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="539-1"/>
+    <fw type="pageNum" place="right">539</fw>
+    <head>
+<l>Копія отношенія Его Светлости Господина Генерала</l>
+<l>Прокурора и кавалѣра <persName ref="Лопухин">князя Лопухина</persName> къ Литовскому Граж-</l>
+<l>данскому Губернатору отъ <date when="1799-03-05">5<hi rend="superscript">го</hi> марта 1799. года</date> за <fw type="docNum">№ 1972</fw>.</l>
+</head>
+<p>
+<l><orgName ref="Виленский_кагал">Виленскаго еврейскаго кагала</orgName> членъ <persName ref="Мовша_Ошерович">Мойжесъ Ошеровичъ</persName></l>
+<l>жалуется мнѣ на <orgName ref="Литовское_губернское_правление">Литовское Губернское Правленіе</orgName>, кото-</l>
+<l>рое защищая якобы открывшуюся вновь <orgName ref="Хасиды">секту королин-<lb/>
+скую</orgName>, опредѣлило другаго кагала за то, что первой на:</l>
+<l>стоялъ изтребить сію <orgName ref="Хасиды">секту</orgName>, оказавъ сему разныя оби-</l>
+<l>ды и заключивъ подъ стражу бывшихъ кагальныхъ чле-</l>
+<l>новъ съ причиненіемъ побой. По поводу жалобы сей, въ</l>
+<l>обязанности щитаю себя отнестись къ вашему Пре-</l>
+<l>восходительству дабы о изъясненныхъ побояхъ и при-</l>
+<l>тѣсненіяхъ приказали вы произвесть законное изслѣдо-</l>
+<l>ваніе, и о послѣдствіяхъ немедленно извѣстили меня,</l>
+<l>обративъ наконецъ должное со стороны вашей внима-</l>
+<l>ніе, чтобъ обиженные не остались безъ правосуднаго</l>
+<l>удовлетворенія.</l>
+</p>
+<p>
+<l>Съ подлиннымъ свѣрилъ Литовскій Гражданскій</l>
+<l>Губернаторъ <persName ref="Фризель">Фризель</persName></l>
+</p>
+<closer place="left">
+<l>№ 1972<hi rend="superscript">и</hi></l>
+<l><date when="1799-03-05">Марта 5<hi rend="superscript">го</hi> дня<lb/>
+1799. года</date></l>
+<l>Его Пре<hi rend="superscript">ву</hi> <persName ref="Фризель">Фризелю</persName></l>
+</closer>
     <pb n="539-2" missing="true"/>
   </body></text>
 </TEI>
