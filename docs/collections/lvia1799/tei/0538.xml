@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,18 +15,58 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Копия обращения <persName role="namesViewer" target="/names/Фризель.html">Литовского гражданского
+        губернатора</persName> в Надворный суд о передаче жалоб отстраненных старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> для расследования
+      </p></abstract>
+      <creation><date when="1793-03-20">20 марта 1793 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто: ?</l>
+      <l><p>
+        Копия обращения <persName role="namesViewer" target="/names/Фризель.html">Литовского гражданского
+        губернатора</persName> в Надворный суд о передаче жалоб отстраненных старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> для расследования
+      </p></l>
+      <l>Дата: 1793-03-20</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p538-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0538.html#p538-1"/>
+    <fw type="pageNum" place="right">538</fw>
+    <head>
+      <l>Копія предложенія Литовскому Губернскому</l>
+      <l>Надворному Суду отъ <date when="1793-03-20">20<hi rend="superscript">го</hi> марта 1793. года</date> подъ №</l>
+    </head>
+    <l>Господинъ Генералъ-Прокуроръ и кавалѣръ князь</l>
+    <l><persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ Лопухинъ</persName>, по вступившей къ
+    его</l>
+    <l>свѣтлости жалобѣ отъ бывшаго виленскаго кагальнаго</l>
+    <l>старшины Мойжеса Ошеровича, о причиненныхъ якобы</l>
+    <l>бывшимъ кагальнымъ членамъ разныхъ обидахъ, притѣ-</l>
+    <l>сненіяхъ и побояхъ, по случаю отрѣшенія ихъ отъ должно-</l>
+    <l>сти, предписалъ мнѣ произвести о томъ законное изслѣ-</l>
+    <l>дованіе, и о послѣдствіяхъ Его Свѣтлость извѣстить.</l>
+    <l>Препровождая въ Литовскій Губернскій надворный судъ ко:</l>
+    <l>пію съ онаго предписанія, за нужное почелъ присовоку-</l>
+    <l>пить тутъ же вступившіе въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+    >Губернское Правленіе</orgName> и</l>
+    <l>ко мнѣ отъ означеннаго <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеса
+    Ошеровича</persName> таковаго</l>
+    <l>же содержанія жалобы съ тѣмъ, дабы Надворный Судъ</l>
+    <l>благоволилъ произвесть у себя повѣленное изслѣдованіе</l>
+    <l>во всѣхъ обстоятельствахъ до сего рода жалобы прина-</l>
+    <l>длежащихъ, и не приступая къ рѣшенію поспѣшилъ бы</l>
+    <l>увѣдомить меня о томъ, что по сему слѣдствію откроет-</l>
+    <l>ся, для донесенія Его Свѣтлости Господину Генералу Про-</l>
+    <l>курору. Отъ кого же по сему предмету нужно будетъ</l>
+    <l>отобрать свѣденія или показанія, то надворной судъ</l>
+    <l>прямо тоъ себя ихъ требовать можетъ.</l>
+    <l><signed><persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName></signed></l>
     <pb xml:id="p538-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1799/facs/0538.html#p538-2"/>
   </body></text>
