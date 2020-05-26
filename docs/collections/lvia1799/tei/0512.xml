@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author>?</author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,24 +15,545 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Перечень документов следствия 1799 г. в Литовском надворном суде по жалобам отстраненных членов <orgName
+        role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
+      <l><p>
+        Перечень документов следствия 1799 г. в Литовском надворном суде по жалобам отстраненных членов <orgName
+        role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
       <l>Дата:</l>
       <l>Кто: ?</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p512-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0512.html#p512-1"/>
+    <fw type="pageNum" place="right">512</fw>
+    <table>
+      <row><cell><head>
+        <l>Опись слѣдствію произведенному въ Литовскомъ Надворномъ</l>
+        <l>судѣ по предложенію господина Литовскаго Гражданскаго</l>
+        <l>Губернатора о притисненіяхъ и побояхъ кагальнымъ членамъ</l>
+        <l>причиненныхъ.</l>
+      </head></cell></row>
+      <row>
+        <cell>№</cell>
+        <cell/>
+        <cell>
+          <l>На ко</l>
+          <l>ликихъ</l>
+          <l>стра</l>
+          <l>ницахъ</l>
+        </cell>
+      </row>
+      <row>
+        <cell>1</cell>
+        <cell>
+          <l>Отношеніе господина Литовскаго гражданскаго губернатора</l>
+          <l>съ приложеніемъ копіи отношенія князя <persName role="namesViewer" target="/names/Лопухин.html"
+          >Лопухина</persName>,двухъ про-</l>
+          <l>шеній еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName> и
+          перевода изъ еврейскаго</l>
+          <l>языка на____________________________</l>
+        </cell>
+        <cell>15</cell>
+      </row>
+      <row>
+        <cell>2.</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>3</cell>
+      </row>
+      <row>
+        <cell>3</cell>
+        <cell>
+          <l>Объясненіе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моижеша
+          Ошеровича</persName> съ приложеніемъ</l>
+          <l>копіи прошенія посланнаго отъ него князю <persName role="namesViewer" target="/names/Лопухин.html"
+          >Лопухину</persName> на __________</l>
+        </cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>4</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>5</cell>
+        <cell>
+          <l>Сообщеніе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+          губернскаго правленія</orgName> съ приложеніемъ</l>
+          <l>двухъ рапортовъ коменданта <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName>
+          и двухъ про-</l>
+          <l>шеніи на _____________________________</l>
+        </cell>
+        <cell>13</cell>
+      </row>
+      <row>
+        <cell>6</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>7</cell>
+        <cell>
+          <l>Прошеніе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша
+          Ошеровича</persName> съ резолюціею сего</l>
+          <l>суда на __________________________</l>
+        </cell>
+        <cell>3</cell>
+      </row>
+      <row>
+        <cell>8</cell>
+        <cell>
+          <l>Прошение евожъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName> съ
+          приложеніемъ довѣ-</l>
+          <l>ренности, данной отъ бывшихъ кагальныхъ членовъ на</l>
+        </cell>
+        <cell>6</cell>
+      </row>
+      <row>
+        <cell>9</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>4</cell>
+      </row>
+      <row>
+        <cell>10</cell>
+        <cell>
+          <l>Отношеніе Литовскаго гражданскаго губернатора</l>
+          <l>съ приложеніемъ копіи отношенія генерала отъ</l>
+          <l>инфантеріи <persName role="namesViewer" target="/names/Лассий.html">Лассія</persName> на
+          ______________________</l>
+        </cell>
+        <cell>4</cell>
+      </row>
+      <row>
+        <cell>11</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>12</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>22</cell>
+      </row>
+      <row>
+        <cell>13</cell>
+        <cell>Объясненіе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша
+        Ошеровича</persName> на ____________</cell>
+        <cell>4</cell>
+      </row>
+      <row>
+        <cell>14</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>15</cell>
+        <cell>
+          <l>Сообщеніе Литовскаго губернскаго правленія съ</l>
+          <l>приложеніемъ разныхъ бумагъ на ______________</l>
+        </cell>
+        <cell>28</cell>
+      </row>
+      <row>
+        <cell>16</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>17</cell>
+        <cell>Сообщеніе Литовскаго губернскаго правленія на___________</cell>
+        <cell>14</cell>
+      </row>
+      <row>
+        <cell>18</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>19</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>5</cell>
+      </row>
+      <row>
+        <cell>20</cell>
+        <cell>
+          <l>Сообщеніе Литовской казенной палаты съ приложеніемъ</l>
+          <l>объясненія губернскаго казначея <persName>Сербиновича</persName> на _________</l>
+        </cell>
+        <cell>4</cell>
+      </row>
+    </table>
     <pb xml:id="p512-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1799/facs/0512.html#p512-2"/>
     <pb xml:id="p513-1" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1799/facs/0512.html#p513-1"/>
     <pb xml:id="p513-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0512.html#p513-2"/>
+    <table>
+      <row>
+        <cell>№</cell>
+        <cell/>
+        <cell>
+          <l>На ко</l>
+          <l>ликихъ</l>
+          <l>стра</l>
+          <l>ницахъ</l>
+        </cell>
+      </row>
+      <row>
+        <cell>77</cell>
+        <cell><l>Показаніе еврея <persName role="namesViewer" target="/names/Зелман_Лейбович.html">Зельмана
+        Лейбовича</persName> на ____________</l></cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>78</cell>
+        <cell>Показаніе еврея <persName>Берки <unclear>короспевича</unclear></persName> на ____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>79</cell>
+        <cell>Показаніе дѣсятскаго <persName>Новаковскаго</persName> на ____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>80</cell>
+        <cell>Показаніе еврея <persName>Берки Ароновича</persName> на ______________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>81</cell>
+        <cell>Показаніе еврея <persName>Моижеша Марковича</persName> на ____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>82</cell>
+        <cell>Показаніе дѣсятскаго стараго <persName>Файбиша Шмуиловича</persName> на</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>83</cell>
+        <cell>Показаніе еврея <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Леибы
+        Зеликовича</persName> на ____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>84</cell>
+        <cell>Показаніе еврея <persName>Мордуха Менделевича</persName> на _____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>85</cell>
+        <cell>Показаніе еврея <persName>Шліомы Мееровича</persName> на __________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>86</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>87</cell>
+        <cell>Сообщеніе плацъ маіора <persName>Палкина</persName> на ____________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>88</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>89</cell>
+        <cell>Показаніе еврея <persName>Леибы Рафаловича</persName> на ________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>90</cell>
+        <cell>Сообщеніе плац маіора <persName>Палкина</persName> на _______________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>91</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>92</cell>
+        <cell>Показаніе еврея <persName>Гирши Юделевича</persName> на ________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>93</cell>
+        <cell>Показаніе еврея <persName>Янкеля Мееровича</persName> на __________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>94</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>95</cell>
+        <cell>
+          <l>Рапортъ виленскаго магистрата съ приложеніемъ</l>
+          <l>рапорта <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго кагала</orgName> на
+          __________________</l>
+        </cell>
+        <cell>3</cell>
+      </row>
+      <row>
+        <cell>96</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>3</cell>
+      </row>
+      <row>
+        <cell>97</cell>
+        <cell>
+          <l>Рапортъ виленскаго магистрата съ приложеніемъ</l>
+          <l>выправки о состояніи евреевъ <persName>Леибы Рафаловича</persName></l>
+          <l><persName>Абрама Нотеліовича</persName> и прочихъ на ______________</l>
+        </cell>
+        <cell>16</cell>
+      </row>
+      <row>
+        <cell>98</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>4</cell>
+      </row>
+      <row>
+        <cell>99</cell>
+        <cell>Прошеніе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моижеша
+        Ошеровича</persName> на</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>100</cell>
+        <cell>Копія резолюціи сего суда на ___________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>101</cell>
+        <cell>
+          <l>Увѣдомленіе совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> съ
+          приложеніемъ</l>
+          <l>свидѣтельства подчашія<note place="end">подчаший - одна из управленческих должностей в Великом княжестве
+          Литовском и Речи Посполитой</note> <unclear>Выржшковскаго</unclear> и еврейской</l>
+          <l>бумаги съ переводомъ на ______________</l>
+        </cell>
+        <cell>6</cell>
+      </row>
+      <row>
+        <cell>102</cell>
+        <cell>Копія резолюціи сего суда на ___________</cell>
+        <cell>4</cell>
+      </row>
+      <row>
+        <cell>103.</cell>
+        <cell>
+          <l>Присяжный листъ еврея <persName>Енуха Янкелевича</persName> и прочихъ</l>
+          <l>на __________________</l>
+        </cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>104</cell>
+        <cell>Показаніе еврея <persName>Копеля Нотеліовича</persName> на ______________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>105</cell>
+        <cell>Показаніе еврея <persName>Мойжеша Лейбовича</persName> на ____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>106</cell>
+        <cell>Показаніе еврея <persName>Енуха Янкелевича</persName> на ___________________</cell>
+        <cell>2</cell>
+      </row>
+    </table>
     <pb xml:id="p514-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0512.html#p514-1"/>
+    <fw type="pageNum" place="right">514</fw>
+    <table>
+      <row>
+        <cell>№</cell>
+        <cell/>
+        <cell>
+          <l>На ко</l>
+          <l>лики</l>
+          <l>хъ</l>
+          <l>стра</l>
+          <l>ницахъ</l>
+        </cell>
+      </row>
+      <row>
+        <cell>107</cell>
+        <cell>Показаніе еврея <persName>Абрама Янкелевича</persName> на ____________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>108</cell>
+        <cell>Показаніе еврея <persName>Зельмана Ароновича</persName> на _____________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>109</cell>
+        <cell>Показаніе еврея <persName>Мордуха Лейзаровича</persName> на ________________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>110</cell>
+        <cell>Прошіе совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> на
+        _______________</cell>
+        <cell>3</cell>
+      </row>
+      <row>
+        <cell>111</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>3</cell>
+      </row>
+      <row>
+        <cell>112</cell>
+        <cell>
+          <l>Предложеніе Литовскаго гражданскаго губернатора</l>
+          <l>на __________________</l>
+        </cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>113</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>1</cell>
+      </row>
+      <row>
+        <cell>114</cell>
+        <cell><l>Объясненіе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша
+        Ошеровича</persName> на ______________</l></cell>
+        <cell>7</cell>
+      </row>
+      <row>
+        <cell>115</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>5</cell>
+      </row>
+      <row>
+        <cell>116</cell>
+        <cell>
+          <l>Прошеніе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName> съ
+          приложеніемъ выписи</l>
+          <l>изъ книгъ Виленскаго Гродскаго суда на _______________</l>
+        </cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>117</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>118</cell>
+        <cell>Донесеніе совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> на
+        ____________</cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>119</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>120</cell>
+        <cell><l>Объясненіе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моижеша
+        Ошеровича</persName> на ______________</l></cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell>121</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell>122</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>123</cell>
+        <cell>Объясненіе совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> на
+        __________</cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell>124</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>4.</cell>
+      </row>
+      <row>
+        <cell>125</cell>
+        <cell>Присяжный листъ разныхъ евреевъ на _____________</cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>126</cell>
+        <cell>Показаніе еврея <persName>Моижеша Ароновича</persName> на ______________</cell>
+        <cell>2</cell>
+      </row>
+      <row>
+        <cell>127</cell>
+        <cell>Показаніе еврея <persName>Ицки Леибовича</persName> ______________</cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>128</cell>
+        <cell>Показаніе еврея <persName>Герцика Гиршовича</persName> на ____________</cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>129</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>130</cell>
+        <cell>
+          <l>Сообщеніе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+          губернскаго правленія</orgName> с приложениемъ разныхъ бумагъ на _________</l>
+          <l/>
+        </cell>
+        <cell>18.</cell>
+      </row>
+      <row>
+        <cell>131</cell>
+        <cell>Копія резолюціи сего суда на __________________</cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>132</cell>
+        <cell>
+          <l>Справка <hi rend="superscript">суда и отвѣтствіе</hi> <orgName role="namesViewer"
+          target="/names/Литовское_губернское_правление.html">Литовскаго губернскаго правленія</orgName> при коемъ</l>
+          <l>прислана резолюція состоявшаяся въ томъ <orgName role="namesViewer"
+          target="/names/Литовское_губернское_правление.html">Правленіи</orgName></l>
+          <l><date when="1799-02-07">7<hi rend="superscript">го</hi> февраля 1799<hi rend="superscript">го</hi>
+          года</date> на _____________</l>
+        </cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>133</cell>
+        <cell><l>Справка <hi rend="superscript">суда и отвѣтствіе</hi> <orgName role="namesViewer"
+        target="/names/Литовское_губернское_правление.html">Литовскаго губернскаго правленія</orgName> на
+        ____________</l></cell>
+        <cell>1.</cell>
+      </row>
+    </table>
+    <l><signed>Секретарь <persName>Павелъ Искрицкій</persName></signed></l>
     <pb xml:id="p514-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1799/facs/0512.html#p514-2"/>
   </body></text>
