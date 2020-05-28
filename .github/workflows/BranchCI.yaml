@@ -25,7 +25,7 @@ jobs:
       - name: "Commit and push generated changes"
         if: success()
         # looks like generated changes stopped being checked in after upgrade from 2.2 to 2.6...
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.2
         with:
           github-token: ${{github.token}}
           commit-message: "Commit and push generated changes"
