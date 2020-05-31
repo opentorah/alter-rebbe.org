@@ -26,6 +26,8 @@ jobs:
         if: success()
         uses: github-actions-x/commit@v2.6
         with:
+          email: "action@github.com"
+          name: "GitHub Action"
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Commit and push generated changes"
           rebase: true
