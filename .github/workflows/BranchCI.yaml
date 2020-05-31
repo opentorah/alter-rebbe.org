@@ -22,14 +22,15 @@ jobs:
       - name: "Build with Gradle"
         run: ./gradlew build
 
+      - name: "Commit and push generated changes"
+        if: success()
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Commit and push generated changes"
+
 ## Looks like generated changes stopped being checked in after upgrade from 2.2 to 2.6 -
 ## but 2.2 no longer works either...
-#      - name: "Commit and push generated changes"
-#        if: success()
-#        uses: github-actions-x/commit@v2.2
-#        with:
-#          github-token: ${{github.token}}
-#          commit-message: "Commit and push generated changes"
 ##          force-add: 'true'
 
 ## This, on the other hand, does not work at all:
