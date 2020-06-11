@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,18 +15,53 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Копия перечня <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, взятых под арест в
+        <placeName role="namesViewer" target="/names/Вильна.html">Вильно</placeName> и отправленных для дальнейших
+        следственных действий в <placeName role="namesViewer" target="/names/Петербург.html">Санкт-Петербург</placeName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
+      <l><p>
+        Копия перечня <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, взятых под арест в
+        <placeName role="namesViewer" target="/names/Вильна.html">Вильно</placeName> и отправленных для дальнейших
+        следственных действий в <placeName role="namesViewer" target="/names/Петербург.html">Санкт-Петербург</placeName>
+      </p></l>
       <l>Дата:</l>
-      <l>Кто: ?</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p041-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/041.html#p041-1"/>
+    <fw type="pageNum" place="right">41.</fw>
+    <head>
+      <l>Реестръ</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">Евреямъ Каролинамъ</orgName> бывшимъ изъ</l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильны</placeName> отправленнымъ въ <placeName
+      role="namesViewer" target="/names/Петербург.html">С<hi rend="superscript">т</hi> петер-<lb/>
+       бургъ</placeName> подъ присмотромъ полицейска-</l>
+      <l>го надзирателя Греча. <date when="1798-10-25">Октября 25<hi rend="superscript">го</hi><lb/>
+       дня 1798<hi rend="superscript">го</hi> года</date>.</l>
+    </head><note place="end">Документ почти аналогичен отправленному <persName role="namesViewer"
+    target="/names/Булгаков.html">Булгаковым</persName> <persName role="namesViewer" target="/names/Лопухин.html"
+    >Лопухину</persName> http://www.alter-rebbe.org/collections/rgada/documents/046.html в день отсылки <orgName
+    role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> в <placeName role="namesViewer"
+    target="/names/Петербург.html">Санкт-Петербург</placeName>, однако составлен не ранее 1799 г., когда <persName
+    role="namesViewer" target="/names/Фризель.html">Фризель</persName> занял пост Литовского гражданского губернатора.
+    Отличие от оригинального перечня состоит в упоминнании надзирателя Греча и разночтениях в написании имен и фамилий
+    <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName></note>
+    <l>1._ <persName role="namesViewer" target="/names/Меер_Рафалович.html">Мейеръ Рафаловичъ</persName>.</l>
+    <l>2_ Сальмонъ Лейзеровичъ.</l>
+    <l>3_ <persName role="namesViewer" target="/names/Лейба_Зеликович.html">Лейба Зеликовичъ</persName>.</l>
+    <l>4._ <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохимъ Ицковичъ</persName>.</l>
+    <l>5._ <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршъ Јосіеловичъ</persName></l>
+    <l>6_ <persName role="namesViewer" target="/names/Рафаил_Шлиомович.html">Рафалъ Шломовичъ</persName>.</l>
+    <l>7_ <persName role="namesViewer" target="/names/Шмуил_Хаимович.html">Шмуйло Хаймовичъ</persName>.</l>
+    <l><signed>Литовскій Гражданскій Губернаторъ <persName role="namesViewer" target="/names/Фризель.html"
+    >Фризель</persName></signed></l>
     <pb xml:id="p041-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1800/facs/041.html#p041-2"/>
   </body></text>

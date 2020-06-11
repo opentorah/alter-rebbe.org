@@ -73,9 +73,14 @@
         Когаловский</persName></cell>
       </row>
       <row>
-        <cell rendition="description"/>
+        <cell rendition="description"><p>
+          Копия перечня <orgName role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, взятых под арест в
+          <placeName role="namesViewer" target="/names/Вильна.html">Вильно</placeName> и отправленных для дальнейших
+          следственных действий в <placeName role="namesViewer" target="/names/Петербург.html"
+          >Санкт-Петербург</placeName>
+        </p></cell>
         <cell rendition="date"/>
-        <cell rendition="author">?</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1800/documents/041.html"
@@ -85,7 +90,8 @@
           <ref role="documentViewer" target="/collections/lvia1800/documents/041.html#p041-2" rendition="missing-page"
           >041об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
