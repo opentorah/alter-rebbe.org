@@ -2,15 +2,16 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName ref="Капцевич">виленский комендант Капцевич</persName></author>
+      <author><persName ref="Капцевич">Капцевич</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Письмо Капцевича де Лассию с предложением провести пересчет еврейского населения Вильны в связи с утайкой
-        виленским кагалом при ревизии значительной части мужского населения
+        Письмо <persName ref="Капцевич">Капцевича</persName> <persName ref="Лассий">де Ласси</persName> с предложением
+        провести пересчет еврейского населения <placeName ref="Вильна">Вильны</placeName> в связи с утайкой <orgName
+        ref="Виленский_кагал">виленским кагалом</orgName> при ревизии значительной части мужского населения
       </p></abstract>
-      <correspDesc><correspAction><persName ref="Лассий" role="addressee">генералу де Лассию</persName></correspAction>
+      <correspDesc><correspAction><persName ref="Лассий" role="addressee">де Ласси</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
