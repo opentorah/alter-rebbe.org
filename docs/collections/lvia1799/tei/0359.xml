@@ -24,6 +24,8 @@
       </p></abstract>
       <creation><date when="1800-06-15">15 июня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html"
+      >Кутузову</persName>?</correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
@@ -38,7 +40,7 @@
       </p></l>
       <l>Дата: 1800-06-15</l>
       <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></l>
-      <l>Кому:</l>
+      <l>Кому: <persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></l>
     </p>
     <pb xml:id="p359-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0359.html#p359-1"/>
     <fw type="pageNum" place="right">359</fw>
