@@ -3,8 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>Иван <unclear>Гоменовский</unclear>, <persName role="namesViewer" target="/names/Елиашевич.html">Федор
-        Елиашевичъ</persName>, Харитонов, Сербинович</author>
+        <author><persName>Иван <unclear>Гоменовский</unclear></persName></author>
+        <author><persName role="namesViewer" target="/names/Елиашевич.html">Елиашевич</persName></author>
+        <author><persName>Харитонов</persName></author>
+        <author><persName>Сербинович</persName></author>
         <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
         </editor>
       </titleStmt>
@@ -33,8 +35,9 @@
         role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
       </p></l>
       <l>Дата:</l>
-      <l>Кто: Иван <unclear>Гоменовский</unclear>, , <persName role="namesViewer" target="/names/Елиашевич.html">Федор
-      Елиашевичъ</persName>, , Харитонов, Сербинович</l>
+      <l>Кто: <persName>Иван <unclear>Гоменовский</unclear></persName>, <persName role="namesViewer"
+      target="/names/Елиашевич.html">Елиашевич</persName>, <persName>Харитонов</persName>, <persName
+      >Сербинович</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p380-1" rendition="missing-page" role="facsimileViewer"
