@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName ref="Фризель">Фризель</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение <persName ref="Фризель">Фризеля</persName> <persName ref="Кутузов">Кутузову</persName> о проведенном в
+        1798 г. расследовании по жалобе <persName ref="Авигдор">Авигдора хаймовича</persName> на <orgName ref="Хасиды"
+        >хасидов</orgName> и вынесенном по этому делу решении
+      </p></abstract>
+      <creation><date when="1800-07-26">26 Июля 1800 года</date></creation>
+      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="043-1"/>
@@ -13,8 +25,8 @@
       <l>Господину Генералу отъ инфантеріи, Ли-</l>
       <l>товскому военному губернатору, началь-</l>
       <l>ствующему по гражданской части и</l>
-      <l>кавалеру Михайлѣ Ларіоновичу Голени-<lb/>
-       щеву-Кутузову</l>
+      <l>кавалеру <persName ref="Кутузов">Михайлѣ Ларіоновичу Голени-<lb/>
+       щеву-Кутузову</persName></l>
     </salute>
     <head>
       <l>Литовскаго гражданскаго Губернатора</l>
@@ -40,9 +52,9 @@
       возъимѣ-</l>
       <l>ли; <emph rend="underline">въ четвертыхъ</emph><note place="end">подчеркнуто карандашом</note> когда созжены
       книги</l>
-      <l>тою <orgName ref="Хасиды">сектою</orgName> изданныя, ип наконецъ въ пя-</l>
+      <l>тою <orgName ref="Хасиды">сектою</orgName> изданныя, и наконецъ въ пя-</l>
       <l>тыхъ что учинено съ старшиною сей <orgName ref="Хасиды">сек-<lb/>
-       ты</orgName> <persName ref="alter-rebbe">Соломоном</persName>? Старался с дѣлать</l>
+       ты</orgName> <persName ref="alter-rebbe">Соломоном</persName>? Старался сдѣлать</l>
       <l>обстоятельныя о всемъ томъ развѣдыва-</l>
       <l>нія и выправки, по которымъ достовѣрно</l>
       <l>могу вашему высокопревосходительству</l>
@@ -249,7 +261,7 @@
       <l>онъ для своихъ учениковъ къ распростране-</l>
       <l>нію его мнѣній. Начальное основаніе</l>
       <l>каролинской секты произходило съ 1760<hi rend="superscript">го</hi></l>
-      <l>до 17655<hi rend="superscript">го</hi> года въ <placeName ref="Подольская_губерния">Подоліи</placeName> въ
+      <l>до 1765<hi rend="superscript">го</hi> года въ <placeName ref="Подольская_губерния">Подоліи</placeName> въ
       мѣстечкѣ <placeName ref="Меджибож">Мен-<lb/>
        дзибожѣ</placeName>, гдѣ имѣлъ жительство рабинъ</l>
       <l><persName ref="Баал_Шем_Тов">Израиль</persName>. По смерти его нѣкоторыя</l>
@@ -265,7 +277,24 @@
       <l>могутъ носить инаго платья какъ изъ</l>
       <l>бумажной матеріи, и потому носятъ</l>
       <l>обыкновенно китайчатое.</l>
+      <pb n="048-2"/>
+      <l>Изъ всего здѣсь показаннаго ваше</l>
+      <l>высокопревосходительство изволите</l>
+      <l>усмотрѣть, что все объявленное оберъ-</l>
+      <l>рабиномъ <persName ref="Авигдор">Хаймомъ</persName> относится един-</l>
+      <l>ственно до <orgName ref="Хасиды">каролиновъ</orgName>, о которых бы-</l>
+      <l>ло уже производимо изслѣдованіе высо-</l>
+      <l>чайше разсмотрѣнное и рѣшенное,</l>
+      <l>и что потому по удовлетворенію жало-</l>
+      <l>бы его нѣтъ кажется никакой удоб-</l>
+      <l>ности.</l>
+      <l><signed>Литовскій Гражданскій Губернаторъ <persName ref="Фризель">Фризель</persName></signed></l>
+      <closer place="left">
+        <l><emph rend="underline"><fw type="docNum">№ 177<hi rend="superscript">й</hi></fw></emph></l>
+        <l><date when="1800-07-26">26<hi rend="superscript">го</hi> Јюля<lb/>
+         <emph rend="underline">1800<hi rend="superscript">го</hi> года</emph></date></l>
+        <l><placeName ref="Вильна">вильна</placeName></l>
+      </closer>
     </p>
-    <pb n="048-2"/>
   </body></text>
 </TEI>

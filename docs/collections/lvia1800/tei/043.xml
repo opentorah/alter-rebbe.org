@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,16 +15,30 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Сообщение <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> <persName
+        role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о проведенном в 1798 г. расследовании по
+        жалобе <persName role="namesViewer" target="/names/Авигдор.html">Авигдора хаймовича</persName> на <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> и вынесенном по этому делу решении
+      </p></abstract>
+      <creation><date when="1800-07-26">26 Июля 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто: ?</l>
-      <l>Кому:</l>
+      <l><p>
+        Сообщение <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> <persName
+        role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о проведенном в 1798 г. расследовании по
+        жалобе <persName role="namesViewer" target="/names/Авигдор.html">Авигдора хаймовича</persName> на <orgName
+        role="namesViewer" target="/names/Хасиды.html">хасидов</orgName> и вынесенном по этому делу решении
+      </p></l>
+      <l>Дата: 1800-07-26</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></l>
     </p>
     <pb xml:id="p043-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/043.html#p043-1"/>
     <fw type="note" place="right">Секретно.</fw>
@@ -30,8 +48,8 @@
       <l>Господину Генералу отъ инфантеріи, Ли-</l>
       <l>товскому военному губернатору, началь-</l>
       <l>ствующему по гражданской части и</l>
-      <l>кавалеру Михайлѣ Ларіоновичу Голени-<lb/>
-       щеву-Кутузову</l>
+      <l>кавалеру <persName role="namesViewer" target="/names/Кутузов.html">Михайлѣ Ларіоновичу Голени-<lb/>
+       щеву-Кутузову</persName></l>
     </salute>
     <head>
       <l>Литовскаго гражданскаго Губернатора</l>
@@ -57,10 +75,10 @@
       возъимѣ-</l>
       <l>ли; <emph rend="underline">въ четвертыхъ</emph><note place="end">подчеркнуто карандашом</note> когда созжены
       книги</l>
-      <l>тою <orgName role="namesViewer" target="/names/Хасиды.html">сектою</orgName> изданныя, ип наконецъ въ пя-</l>
+      <l>тою <orgName role="namesViewer" target="/names/Хасиды.html">сектою</orgName> изданныя, и наконецъ въ пя-</l>
       <l>тыхъ что учинено съ старшиною сей <orgName role="namesViewer" target="/names/Хасиды.html">сек-<lb/>
-       ты</orgName> <persName role="namesViewer" target="/names/alter-rebbe.html">Соломоном</persName>? Старался с
-      дѣлать</l>
+       ты</orgName> <persName role="namesViewer" target="/names/alter-rebbe.html">Соломоном</persName>? Старался
+      сдѣлать</l>
       <l>обстоятельныя о всемъ томъ развѣдыва-</l>
       <l>нія и выправки, по которымъ достовѣрно</l>
       <l>могу вашему высокопревосходительству</l>
@@ -287,7 +305,7 @@
       <l>онъ для своихъ учениковъ къ распростране-</l>
       <l>нію его мнѣній. Начальное основаніе</l>
       <l>каролинской секты произходило съ 1760<hi rend="superscript">го</hi></l>
-      <l>до 17655<hi rend="superscript">го</hi> года въ <placeName role="namesViewer"
+      <l>до 1765<hi rend="superscript">го</hi> года въ <placeName role="namesViewer"
       target="/names/Подольская_губерния.html">Подоліи</placeName> въ мѣстечкѣ <placeName role="namesViewer"
       target="/names/Меджибож.html">Мен-<lb/>
        дзибожѣ</placeName>, гдѣ имѣлъ жительство рабинъ</l>
@@ -306,7 +324,25 @@
       <l>могутъ носить инаго платья какъ изъ</l>
       <l>бумажной матеріи, и потому носятъ</l>
       <l>обыкновенно китайчатое.</l>
+      <pb xml:id="p048-2" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/043.html#p048-2"/>
+      <l>Изъ всего здѣсь показаннаго ваше</l>
+      <l>высокопревосходительство изволите</l>
+      <l>усмотрѣть, что все объявленное оберъ-</l>
+      <l>рабиномъ <persName role="namesViewer" target="/names/Авигдор.html">Хаймомъ</persName> относится един-</l>
+      <l>ственно до <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName>, о которых бы-</l>
+      <l>ло уже производимо изслѣдованіе высо-</l>
+      <l>чайше разсмотрѣнное и рѣшенное,</l>
+      <l>и что потому по удовлетворенію жало-</l>
+      <l>бы его нѣтъ кажется никакой удоб-</l>
+      <l>ности.</l>
+      <l><signed>Литовскій Гражданскій Губернаторъ <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризель</persName></signed></l>
+      <closer place="left">
+        <l><emph rend="underline"><fw type="docNum">№ 177<hi rend="superscript">й</hi></fw></emph></l>
+        <l><date when="1800-07-26">26<hi rend="superscript">го</hi> Јюля<lb/>
+         <emph rend="underline">1800<hi rend="superscript">го</hi> года</emph></date></l>
+        <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName></l>
+      </closer>
     </p>
-    <pb xml:id="p048-2" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/043.html#p048-2"/>
   </body></text>
 </TEI>
