@@ -34,7 +34,7 @@ export function copyAndReset(node) {
       }
     }
     return result;
-  }
+  };
   return clone(node);
 }
 
@@ -88,7 +88,25 @@ export function repeat(str, times) {
   return result;
 }
 
-/* 
+/*
+  Resolves URIs that use TEI prefixDefs into full URIs.
+  See https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-prefixDef.html
+*/
+export function resolveURI(uri) {
+  let prefixdef = this.prefixDefs[uri.substring(0,uri.indexOf(":"))];
+  return uri.replace(new RegExp(prefixdef["matchPattern"]), prefixdef["replacementPattern"]);
+}
+
+/*
+  Convenience function for getting prefix definitions, Takes a prefix
+  and returns an object with "matchPattern" and "replacementPattern"
+  keys.
+*/
+export function getPrefixDef(prefix) {
+  return this.prefixDefs[prefix];
+}
+
+/*
   Takes a relative URL and rewrites it based on the base URL of the
   HTML document
 */
@@ -110,7 +128,7 @@ export function serialize(el, stripElt, ws) {
   let str = "";
   let ignorable = (txt) => {
     return !(/[^\t\n\r ]/.test(txt));
-  }
+  };
   if (!stripElt && el.nodeType == Node.ELEMENT_NODE) {
     if ((typeof ws === "string") && ws !== "") {
       str += "\n" + ws + "<";

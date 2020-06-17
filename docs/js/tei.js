@@ -1,4 +1,5 @@
-import CETEI from './cetei.js'
+//import CETEI from './CETEI/CETEI.js'
+import CETEI from './CETEI.js'
 
 export default function loadTei(tei) {
     let wrapper = document
@@ -25,6 +26,5 @@ export default function loadTei(tei) {
     CETEIcean.getHTML5(tei, function (data) {
         teiDiv.innerHTML = "";
         teiDiv.appendChild(data);
-        CETEIcean.addStyle(document, data);
     });
 }
