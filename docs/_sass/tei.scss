@@ -3,7 +3,7 @@ tei-body > tei-head {
   font-size: 36px;
   letter-spacing: -1px;
   line-height: 1;
-  text-indent: 0em;
+  text-indent: 0;
   margin-block-end: 15px;
   margin-bottom: 15px;
 }
@@ -109,15 +109,15 @@ tei-org {
   margin-bottom: $tei-named-margin-bottom;
 }
 
-tei-person > tei-persName {
+tei-person > tei-persname {
   display: block;
   font-size: $tei-named-name-font-size;
 }
-tei-place > tei-placeName {
+tei-place > tei-placename {
   display: block;
   font-size: $tei-named-name-font-size;
 }
-tei-org > tei-orgName {
+tei-org > tei-orgname {
   display: block;
   font-size: $tei-named-name-font-size;
 }
@@ -136,29 +136,37 @@ tei-l {
 /* Tables. */
 
 tei-table {
-  table {
-    width: auto;
-  }
+  margin-bottom: $spacing-unit;
+  width: auto;
+  text-align: $table-text-align;
+  color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: 1px solid $grey-color-light;
+  tei-row {
+    &:nth-child(even) {
+      background-color: lighten($grey-color-light, 6%);
+    }
 
-  td {
-    vertical-align: text-top;
+    tei-cell {
+      vertical-align: text-top;
+      padding: ($spacing-unit / 3) ($spacing-unit / 2);
+      border: 1px solid $grey-color-light;
+    }
   }
 }
 
-
 /* Collection index. */
 
-tei-table.collection-index > table {
+tei-table.collection-index {
   // TEI/CETEIcean do not handle table header, so the first row is it:
-  tr:first-child {
-    td {
+  tei-row:first-child {
+    tei-cell {
       // Replicate Chrome's and minima's styling of the th
       // on the td elements of the first row (thead/tr analogue):
       font-weight: bold;
-      background-color: #f0f0f0;
-      border: 1px solid #dedede;
-      border-bottom-color: #c9c9c9;
-      padding: 10px 15px;
+      background-color: lighten($grey-color-light, 3%);
+      border: 1px solid darken($grey-color-light, 4%);
+      border-bottom-color: darken($grey-color-light, 12%);
 
       // Keep header visible
       position: -webkit-sticky;
@@ -168,14 +176,14 @@ tei-table.collection-index > table {
   }
 
   // Size the columns
-  td.description { width: 44%; }
-  td.date        { width:  8%; }
-  td.author      { width: 10%; }
-  td.addressee   { width: 10%; }
-  td.language    { width:  4%; }
-  td.document    { width:  5%; }
-  td.pages       { width:  8%; }
-  td.transcriber {             }
+  tei-cell.description { width: 44%; }
+  tei-cell.date        { width:  8%; }
+  tei-cell.author      { width: 10%; }
+  tei-cell.addressee   { width: 10%; }
+  tei-cell.language    { width:  4%; }
+  tei-cell.document    { width:  5%; }
+  tei-cell.pages       { width:  8%; }
+  tei-cell.transcriber {             }
 
 
   // Part title
@@ -206,24 +214,22 @@ tei-pb.missing-page a {
 /* Document-specific. */
 
 tei-table.rgada-026-table {
-  table {
-    border: none;
-  }
+  border: none;
 
-  tr {
+  tei-row {
     background-color: $background-color;
-    td { border: none; }
-    td:nth-child(1) { width: 300px; }
-    td:nth-child(2) { width: 400px; }
+    tei-cell { border: none; }
+    tei-cell:nth-child(1) { width: 300px; }
+    tei-cell:nth-child(2) { width: 400px; }
   }
 }
 
 tei-table.rgada-233-table {
 
-  tr {
-    td:nth-child(1) { width: 30px; }
-    td:nth-child(2) { width: 200px; }
-    td:nth-child(3) { width: 55px; }
-    td:nth-child(4) { width: 35px; }
+  tei-row {
+    tei-cell:nth-child(1) { width: 30px; }
+    tei-cell:nth-child(2) { width: 200px; }
+    tei-cell:nth-child(3) { width: 55px; }
+    tei-cell:nth-child(4) { width: 35px; }
   }
 }

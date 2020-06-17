@@ -8,11 +8,11 @@ export default {
     "eg": ["<pre>","</pre>"],
     // inserts a link inside <ptr> using the @target; the link in the
     // @href is piped through the rw (rewrite) function before insertion
-    "ptr": ["<a href=\"$rw@target\">$@target</a>"],
+    "ptr": ["<a href=\"$rw$first@target\">$@target</a>"],
     // wraps the content of the <ref> in an HTML link
     // LMD ref with 'role' - which becomes 'target' on the 'a'
     "ref": [
-      // LMD: in the original:  ["[target]", ["<a href=\"$rw@target\">","</a>"]]
+      // LMD: in the original:  ["[target]", ["<a href=\"$rw$first@target\">","</a>"]]
       ["[role]", ["<a href=\"$rw@target\" target=\"$@role\">","</a>"]],
       ["_"     , ["<a href=\"$rw@target\">"                  ,"</a>"]]
     ],
@@ -79,37 +79,6 @@ export default {
       // ,
       // ["_", ["(",")"]]
     ],
-    "table": function(elt) {
-      let table = document.createElement("table");
-      table.innerHTML = elt.innerHTML;
-      if (table.firstElementChild.localName == "tei-head") {
-        let head = table.firstElementChild;
-        head.remove();
-        let caption = document.createElement("caption");
-        caption.innerHTML = head.innerHTML;
-        table.appendChild(caption);
-      }
-      for (let row of Array.from(table.querySelectorAll("tei-row"))) {
-        let tr = document.createElement("tr");
-        tr.innerHTML = row.innerHTML;
-        for (let attr of Array.from(row.attributes)) {
-          tr.setAttribute(attr.name, attr.value);
-        }
-        row.parentElement.replaceChild(tr, row);
-      }
-      for (let cell of Array.from(table.querySelectorAll("tei-cell"))) {
-        let td = document.createElement("td");
-        if (cell.hasAttribute("cols")) {
-          td.setAttribute("colspan", cell.getAttribute("cols"));
-        }
-        td.innerHTML = cell.innerHTML;
-        for (let attr of Array.from(cell.attributes)) {
-          td.setAttribute(attr.name, attr.value);
-        }
-        cell.parentElement.replaceChild(td, cell);
-      }
-      return table;
-    },
     "teiHeader": function(e) {
       this.hideContent(e, false);
     },
