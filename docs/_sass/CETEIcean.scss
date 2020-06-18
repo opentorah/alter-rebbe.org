@@ -211,7 +211,6 @@ tei-cb:before {
   content: "[column break]";
 }
 tei-cell {
-  display: table-cell;
   border-right: thin solid black;
   border-bottom: thin solid black;
   padding: 2px;
@@ -344,8 +343,7 @@ tei-gi:after {
 /* h */
 tei-head {
   display: block;
-//LMD suppressed font-family wich was overriding Minima's settings.
-//  font-family: Arvo, sans-serif;
+  font-family: Arvo, sans-serif;
   font-weight: normal;
 }
 tei-body > tei-head {
@@ -667,12 +665,11 @@ tei-recordhist {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-// LMD commented out
-//tei-ref {
-//  color: #5f0000;
-//  text-decoration: underline;
-//  cursor: pointer;
-//}
+tei-ref {
+  color: #5f0000;
+  text-decoration: underline;
+  cursor: pointer;
+}
 tei-remarks {
   font-weight: bold;
 }
@@ -689,7 +686,9 @@ tei-revisiondesc {
   display: none;
 }
 tei-row {
-  display: table-row;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
 }
 
 /* s */
@@ -829,7 +828,7 @@ tei-tei {
   display: block;
 }
 tei-table {
-  display: table;
+  display: block;
   border-top: thin solid black;
   border-left: thin solid black;
   margin-top: 2em;
@@ -898,4 +897,20 @@ tei-wit {
 }
 tei-witdetail {
   display:none;
+}
+
+/* styles for the HTML shell */
+html {
+  margin: 0;
+  margin-left: 2em;
+  margin-right: 4em;
+  padding: 2.5em;
+  font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
+  font-size: 12pt;
+  background-color: white;
+  color: #292929;
+}
+html > body {
+  margin: 0;
+  padding: 0;
 }
