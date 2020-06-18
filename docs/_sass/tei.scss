@@ -1,3 +1,19 @@
+/* Counter-act html, body, tei-head and tei-ref styling from CETEIcean to blend with Minima. */
+html {
+  margin: 0;
+  padding: 0;
+}
+
+tei-head {
+  font-family: $base-font-family;
+}
+
+tei-ref {
+  color: $text-color;
+  text-decoration: none;
+  cursor: auto;
+}
+
 /* Style top-level TEI <head> same way Minima styles .post-title */
 tei-body > tei-head {
   font-size: 36px;
@@ -136,6 +152,7 @@ tei-l {
 /* Tables. */
 
 tei-table {
+  display: table;
   margin-bottom: $spacing-unit;
   width: auto;
   text-align: $table-text-align;
@@ -143,11 +160,13 @@ tei-table {
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
   tei-row {
+    display: table-row;
     &:nth-child(even) {
       background-color: lighten($grey-color-light, 6%);
     }
 
     tei-cell {
+      display: table-cell;
       vertical-align: text-top;
       padding: ($spacing-unit / 3) ($spacing-unit / 2);
       border: 1px solid $grey-color-light;

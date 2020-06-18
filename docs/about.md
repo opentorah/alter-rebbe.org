@@ -176,6 +176,6 @@ To update CETEIcean to the current repository version:
   $ npm run-script build
 ```
 
-Merge into the archive project taking local changes into account:
+Merge into the archive project:
 - `/test/CETEIcean.css` into `/docs/_sass/CETEIcean.scss`
-- `/dist/CETE.js` into /docs/js/CETEI.js`
+- `/dist/CETE.js` into /docs/js/CETEI.js` taking local changes into account
