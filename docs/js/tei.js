@@ -1,4 +1,4 @@
-import CETEI from './CETEI/CETEI.js'
+import './CETEI.js'
 
 export default function loadTei(tei) {
   let wrapper = document
