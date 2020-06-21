@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author/></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l/>
+      <l>Дата:</l>
+      <l>Кто:</l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p095-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p095-1"/>
+    <pb xml:id="p095-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p095-2"/>
+    <pb xml:id="p096-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p096-1"/>
+    <pb xml:id="p096-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p096-2"/>
+    <pb xml:id="p097-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p097-1"/>
+    <pb xml:id="p097-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p097-2"/>
+    <pb xml:id="p098-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p098-1"/>
+    <pb xml:id="p098-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p098-2"/>
+    <pb xml:id="p099-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p099-1"/>
+    <pb xml:id="p099-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p099-2"/>
+    <pb xml:id="p100-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p100-1"/>
+    <pb xml:id="p100-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p100-2"/>
+    <pb xml:id="p101-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p101-1"/>
+    <pb xml:id="p101-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0095.html#p101-2"/>
+  </body></text>
+</TEI>
