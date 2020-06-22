@@ -18,7 +18,12 @@ export default function loadTei(tei) {
       "persName"  : refBehavior,
       "placeName" : refBehavior,
       "orgName"   : refBehavior,
-      "supplied"  : ["[", "]"]
+      "supplied"  : ["[", "]"],
+      "ref": [
+        // ref with 'role' - which becomes 'target' on the 'a'
+        ["[role]", ["<a href=\"$rw@target\" target=\"$@role\">","</a>"]],
+        ["_"     , ["<a href=\"$rw@target\">"                  ,"</a>"]]
+      ]
     }
   });
 

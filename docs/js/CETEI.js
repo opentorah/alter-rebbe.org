@@ -13,11 +13,8 @@ var CETEI = (function () {
       // @href is piped through the rw (rewrite) function before insertion
       "ptr": ["<a href=\"$rw@target\">$@target</a>"],
       // wraps the content of the <ref> in an HTML link
-      // LMD ref with 'role' - which becomes 'target' on the 'a'
       "ref": [
-        // LMD: in the original:  ["[target]", ["<a href=\"$rw$@target\">","</a>"]]
-        ["[role]", ["<a href=\"$rw@target\" target=\"$@role\">","</a>"]],
-        ["_"     , ["<a href=\"$rw@target\">"                  ,"</a>"]]
+        ["[target]", ["<a href=\"$rw@target\">","</a>"]]
       ],
       "graphic": function(elt) {
         let content = new Image();
