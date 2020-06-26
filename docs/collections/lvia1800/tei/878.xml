@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author>?</author></titleStmt>
+      <titleStmt>
+        <author>?</author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,16 +15,30 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Справка <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского губернского
+        правления</orgName> для генерал-губернатора Кутузова о размере и составялющих долга <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> и состоянии дел с его выплатой после отдачи
+        задолженности на откуп
+      </p></abstract>
+      <creation><date when="1800-05-15">Мая 15 дня 1800</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Справка <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского губернского
+        правления</orgName> для генерал-губернатора Кутузова о размере и составялющих долга <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName> и состоянии дел с его выплатой после отдачи
+        задолженности на откуп
+      </p></l>
+      <l>Дата: 1800-05-15</l>
       <l>Кто: ?</l>
-      <l>Кому:</l>
+      <l>Кому: <persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></l>
     </p>
     <pb xml:id="p878-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/878.html#p878-1"/>
     <fw type="pageNum" place="right"><del rend="overstrike">553</del></fw>
@@ -208,7 +226,8 @@
       <l>порядкомъ тѣмъ же судомъ контрактъ, и по</l>
       <l>окончанїи таковымъ образомъ сего расчетнаго</l>
       <pb xml:id="p880-2" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/878.html#p880-2"/>
-      <l>о долгахъ виленскаго кагала дѣла виленскій</l>
+      <l>о долгахъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго кагала</orgName> дѣла
+      виленскій</l>
       <l>земскій судъ копїю декрета въ коемъ помѣщенъ</l>
       <l>и оной контрактъ представилъ скарбовой ком</l>
       <l>мисїи. На вышеписанномъ основанїи тѣ зборы</l>
@@ -235,9 +254,76 @@
       <l>нїемъ, что ежели бы правительство за благо</l>
       <l>признало учинить новое распоряженїе</l>
       <pb xml:id="p881-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/878.html#p881-1"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">556</del></fw>
+      <fw type="pageNum" place="right">881</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">1298</del></fw>
+      <l>для скорейшей уплаты кагальныхъ долговъ,тогда оное обязательство остатся должно</l>
+      <l>безъ всякаго дѣйствїя._ и какъ новыхъ распо-</l>
+      <l>ряженій учинено не было, то оной возгирдъ</l>
+      <l>и оставался при содержанїи тѣхъ зборовъ на осно-</l>
+      <l>ванїи опредѣленїя казеннаго отдѣленїя и по-</l>
+      <l>становленїя виленскаго земскаго суда._</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">литовское Губернское
+      правленїе</orgName> не собравъ</l>
+      <l>всѣхъ нужныхъ свѣденїй о семъ дѣле по еди-</l>
+      <l>еой только частныхъ людей прозбѣ произ-</l>
+      <l>вело публики прошлаго .799. года съ вызовомъ</l>
+      <l>желающихъ взять на откупъ коробки евриской</l>
+      <l>здѣсь въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>.Настоящїй
+      содержатель</l>
+      <l>хорунжїй мерецкій вазгирдъ увѣдомляя о семъ</l>
+      <l>вошелъ съ своей стороны съ представленїемъ</l>
+      <l>и просилъ о ненарушенїи данныхъ ему обя-</l>
+      <l>зательствъ, по таковой прозбѣ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Губернское Прав-<lb/>
+       ленїе</orgName> узнавъ что все производство по сей части</l>
+      <l>находится въ казенной палатѣ сообщило во во оную</l>
+      <l>съ требованїемъ о доставленїи въ оное нужныхъ</l>
+      <l>свѣденїй, но какъ при ближайшемъ рассмотре-</l>
+      <l>нїи всѣхъ сего дѣла обстоятельствъ необходимо</l>
       <pb xml:id="p881-2" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/878.html#p881-2"/>
+      <l>нужно было напередъ разрѣшить можетъ ли</l>
+      <l>быть нарушено обязательство данное Г<hi rend="superscript">ну</hi></l>
+      <l>вазгирду на основанїи состоявшагося въ виленскомъ</l>
+      <l>земскомъ судѣ декрета, то его превосходительство</l>
+      <l>литовскій гражданскій Губернаторъ для большаго</l>
+      <l>уваженїя сего важнаго обстоятельства пригласилъ</l>
+      <l>въ присудствїи <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">губернскаго
+      правленія</orgName> вице губерна</l>
+      <l>тора, надворнаго судьй статскаго совѣтника</l>
+      <l>Багмевскаго и губернскаго прокурора. По прочте</l>
+      <l>нїи декрета виленскаго земскаго суда и разсмотре</l>
+      <l>нїи всѣхъ обстоятельствъ положено было оста</l>
+      <l>вить заключенный контрактъ въ самой его силѣ._</l>
+      <l>въ разсужденїи чего требованїе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Губернскаго правле<lb/>
+       нїя</orgName> и осталось безъ удовлетворенїя о которомъ</l>
+      <l>и самое <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернское
+      правленіе</orgName> не дѣлало никакого</l>
+      <l>настоянїя для того, что никакой нужды не</l>
+      <l>было возобновлять по чьимъ либо проискамъ</l>
+      <l>такого дѣла, которое по выше изъ</l>
+      <l>ясненнымъ причинамъ никакому нару</l>
+      <l>шенїю подлежать не можетъ. Сколько же</l>
+      <l>числится на здѣшнемъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалѣ</orgName>
+      долгу</l>
+      <l>сколько уже выплачено и затѣмъ еще осталось.</l>
+      <l>при семъ вашему высокопревосходительству казенная палата</l>
       <pb xml:id="p882-1" rendition="page" role="facsimileViewer" target="/collections/lvia1800/facs/878.html#p882-1"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">557</del></fw>
+      <fw type="pageNum" place="right">882</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">1299</del></fw>
+      <l>имѣетъ честь представить разщетъ.</l>
+      <l><signed><persName role="namesViewer" target="/names/Волков.html">вице губернаторъ Николай Волковъ</persName>
+      </signed></l>
+      <l><signed>Губернскій секретарь Людвигъ <unclear>???</unclear></signed></l>
+      <l><signed>Коллежскїй регистраторъ <unclear>???</unclear></signed></l>
     </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 1096.</fw></l>
+      <l><date when="1800-05-15">Маія 15 дня<lb/>
+       1800.</date></l>
+    </closer>
     <pb xml:id="p882-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1800/facs/878.html#p882-2"/>
   </body></text>
