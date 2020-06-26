@@ -16,9 +16,22 @@
     </by></store>
     <store n="III O."><by selector="опись"><store n="1841г"><by selector="case"><store file="collections/niab14.xml"/>
     </by></store></by></store>
-    <store n="2096"><by selector="опись"><store n="1"><by selector="case">
-      <store file="collections/niab19.xml"/>
-      <store file="collections/niab24.xml"/>
-    </by></store></by></store>
+    <store n="2096">
+      <title>Оршанская городская дума</title>
+      <by selector="опись"><store n="1">
+        <title>?</title>
+        <by selector="case">
+          <store file="collections/niab19.xml"/>
+          <store file="collections/niab24.xml"/>
+        </by>
+      </store></by>
+    </store>
+    <store n="2640">
+      <title>?</title>
+      <by selector="опись"><store n="1">
+        <title>?</title>
+        <by selector="case"><store file="collections/niab57.xml"/></by>
+      </store></by>
+    </store>
   </by>
 </store>
