@@ -10,12 +10,14 @@
     <sourceDesc><p>Facsimile</p></sourceDesc>
   </fileDesc></teiHeader>
   <text><body>
-    <head>архив РНБ: Российская национальная библиотека (Санкт-Петербург)</head>
-    <span><ref target="http://nlr.ru/">Вебсайт</ref></span>
+    <l>архив <ref role="collectionViewer" target="/by/архив/РНБ/index.html">РНБ</ref>: Российская национальная
+    библиотека (Санкт-Петербург)</l>
+    <l>разряд <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/index.html">РО</ref></l>
+    <head>фонд 152</head>
     <p>
-      <l>разряд:</l>
-      <list type="bulleted"><item><ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/index.html">РО</ref>
-      </item></list>
+      <l>опись:</l>
+      <list type="bulleted"><item><ref role="collectionViewer"
+      target="/by/архив/РНБ/разряд/РО/фонд/152/опись/1/index.html">1</ref></item></list>
     </p>
   </body></text>
 </TEI>
