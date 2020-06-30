@@ -286,11 +286,39 @@
           <ref role="collectionViewer" target="/by/архив/РНБ/index.html">РНБ: Российская национальная библиотека
           (Санкт-Петербург)</ref>
           <list type="none">
-            <item><emph>дело</emph></item>
-            <item><list type="none">
-              <item><ref role="collectionViewer" target="/collections/rnb203/index.html">РНБ 203: "?"</ref></item>
-              <item><ref role="collectionViewer" target="/collections/rnb211/index.html">211: ?</ref></item>
-            </list></item>
+            <item><emph>разряд</emph></item>
+            <item><list type="none"><item>
+              <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/index.html">РО</ref>
+              <list type="none">
+                <item><emph>фонд</emph></item>
+                <item><list type="none">
+                  <item>
+                    <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/фонд/Евр_IV/index.html">Евр IV</ref>
+                    <list type="none">
+                      <item><emph>дело</emph></item>
+                      <item><list type="none"><item><ref role="collectionViewer" target="/collections/rnb203/index.html"
+                      >203: "?"</ref></item></list></item>
+                    </list>
+                  </item>
+                  <item>
+                    <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/фонд/152/index.html">152</ref>
+                    <list type="none">
+                      <item><emph>опись</emph></item>
+                      <item><list type="none"><item>
+                        <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/фонд/152/опись/1/index.html"
+                        >1</ref>
+                        <list type="none">
+                          <item><emph>дело</emph></item>
+                          <item><list type="none"><item><ref role="collectionViewer"
+                          target="/collections/rnb211/index.html">211: Барахович Зелман, раввин; письмо ко всем евреям,
+                          в Белоруссии пребывающим</ref></item></list></item>
+                        </list>
+                      </item></list></item>
+                    </list>
+                  </item>
+                </list></item>
+              </list>
+            </item></list></item>
           </list>
         </item>
         <item><ref role="collectionViewer" target="/by/архив/CAHJP/index.html">CAHJP: Центральный архив истории
