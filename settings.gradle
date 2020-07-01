@@ -5,8 +5,8 @@ pluginManagement {
   }
 }
 
-//includeBuild ('../../store') {
-//    dependencySubstitution {
-//        substitute module('org.opentorah:store') with project(':store')
-//    }
+//includeBuild ('../../opentorah/next') {
+//  dependencySubstitution {
+//    substitute module('org.opentorah:opentorah-collector') with project(':collector')
+//  }
 //}
