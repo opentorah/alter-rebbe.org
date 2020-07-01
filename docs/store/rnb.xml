@@ -2,9 +2,24 @@
 <store n="РНБ">
   <title>Российская национальная библиотека (Санкт-Петербург)</title>
   <abstract><ref target="http://nlr.ru/">Вебсайт</ref></abstract>
-  <by selector="разряд"><store n="РО"><by selector="fund">
-    <store n="Евр IV"><by selector="case"><store file="collections/rnb203.xml"/></by></store>
-    <store n="152"><by selector="опись"><store n="1"><by selector="case"><store file="collections/rnb211.xml"/></by>
-    </store></by></store>
-  </by></store></by>
+  <by selector="разряд">
+    <store n="РО">
+      <by selector="fund">
+        <store n="Евр IV">
+          <by selector="case">
+            <store file="collections/rnb203.xml"/>
+          </by>
+        </store>
+        <store n="152">
+          <by selector="опись">
+            <store n="1">
+              <by selector="case">
+                <store file="collections/rnb211.xml"/>
+              </by>
+            </store>
+          </by>
+        </store>
+      </by>
+    </store>
+  </by>
 </store>

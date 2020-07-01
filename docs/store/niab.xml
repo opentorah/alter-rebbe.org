@@ -6,32 +6,61 @@
     <l><ref target="https://niab.by/newsite/ru">Вебсайт</ref></l>
   </abstract>
   <by selector="fund">
-    <store n="1297"><by selector="опись"><store n="1"><by selector="case">
-      <store file="collections/niab611.xml"/>
-      <store file="collections/niab25207.xml"/>
-    </by></store></by></store>
-    <store n="1718"><by selector="опись">
-      <store n="2"><by selector="case"><store file="collections/niab271.xml"/></by></store>
-      <store n="3"><by selector="case"><store file="collections/niab5.xml"/></by></store>
-    </by></store>
-    <store n="III O."><by selector="опись"><store n="1841г"><by selector="case"><store file="collections/niab14.xml"/>
-    </by></store></by></store>
+    <store n="1297">
+      <by selector="опись">
+        <store n="1">
+          <by selector="case">
+            <store file="collections/niab611.xml"/>
+            <store file="collections/niab25207.xml"/>
+          </by>
+        </store>
+      </by>
+    </store>
+    <store n="1718">
+      <by selector="опись">
+        <store n="2">
+          <by selector="case">
+            <store file="collections/niab271.xml"/>
+          </by>
+        </store>
+        <store n="3">
+          <by selector="case">
+            <store file="collections/niab5.xml"/>
+          </by>
+        </store>
+      </by>
+    </store>
+    <store n="III O.">
+      <by selector="опись">
+        <store n="1841г">
+          <by selector="case">
+            <store file="collections/niab14.xml"/>
+          </by>
+        </store>
+      </by>
+    </store>
     <store n="2096">
       <title>Оршанская городская дума</title>
-      <by selector="опись"><store n="1">
-        <title>?</title>
-        <by selector="case">
-          <store file="collections/niab19.xml"/>
-          <store file="collections/niab24.xml"/>
-        </by>
-      </store></by>
+      <by selector="опись">
+        <store n="1">
+          <title>?</title>
+          <by selector="case">
+            <store file="collections/niab19.xml"/>
+            <store file="collections/niab24.xml"/>
+          </by>
+        </store>
+      </by>
     </store>
     <store n="2640">
       <title>?</title>
-      <by selector="опись"><store n="1">
-        <title>?</title>
-        <by selector="case"><store file="collections/niab57.xml"/></by>
-      </store></by>
+      <by selector="опись">
+        <store n="1">
+          <title>?</title>
+          <by selector="case">
+            <store file="collections/niab57.xml"/>
+          </by>
+        </store>
+      </by>
     </store>
   </by>
 </store>

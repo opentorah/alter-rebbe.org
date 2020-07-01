@@ -15,8 +15,14 @@
     <p>Фотографии предоставила Ф.З. Швайгер; новые - Елена Волк.</p>
   </body>
   <by selector="document" directory="rgada">
-    <store n="1" from="000"><title>Первый арест, 1798й год</title></store>
-    <store n="2" from="248"><title>Второй арест, 1800й год</title></store>
-    <store n="9" from="900"><title>Сопроводительная информация</title></store>
+    <store n="1" from="000">
+      <title>Первый арест, 1798й год</title>
+    </store>
+    <store n="2" from="248">
+      <title>Второй арест, 1800й год</title>
+    </store>
+    <store n="9" from="900">
+      <title>Сопроводительная информация</title>
+    </store>
   </by>
 </store>

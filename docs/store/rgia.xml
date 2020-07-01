@@ -9,48 +9,63 @@
     <store n="468">
       <title>Кабинет Его Императорского Величества МИДв</title>
       <abstract><ref target="https://rgia.su/object/27609433#!page:1/o:27609433/p:1">Вебсайт</ref></abstract>
-      <by selector="опись"><store n="43">
-        <title>1713-1918 гг., Исполнительное, Камеральное, Хозяйственное, Горное, Административное и Счетное отделения -
-        материалы из россыпи - см. описи соответствующих структурных частей.</title>
-        <abstract><ref target="https://rgia.su/object/2841139">Вебсайт</ref></abstract>
-        <by selector="case"><store file="collections/rgia529.xml"/></by>
-      </store></by>
+      <by selector="опись">
+        <store n="43">
+          <title>1713-1918 гг., Исполнительное, Камеральное, Хозяйственное, Горное, Административное и Счетное отделения
+          - материалы из россыпи - см. описи соответствующих структурных частей.</title>
+          <abstract><ref target="https://rgia.su/object/2841139">Вебсайт</ref></abstract>
+          <by selector="case">
+            <store file="collections/rgia529.xml"/>
+          </by>
+        </store>
+      </by>
     </store>
     <store n="1309">
       <title>Сословие попечителей призрения разоренных от неприятеля В 1812 г.</title>
       <abstract><ref target="https://rgia.su/object/27603831#!page:1/o:27603831/p:1">Вебсайт</ref></abstract>
-      <by selector="опись"><store n="1">
-        <abstract><ref
-        target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjHzM7PyMjZmI2Qio/Czw=="
-        >Вебсайт</ref></abstract>
-        <by selector="case"><store file="collections/rgia119.xml"/></by>
-      </store></by>
+      <by selector="опись">
+        <store n="1">
+          <abstract><ref
+          target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjHzM7PyMjZmI2Qio/Czw=="
+          >Вебсайт</ref></abstract>
+          <by selector="case">
+            <store file="collections/rgia119.xml"/>
+          </by>
+        </store>
+      </by>
     </store>
     <store n="1347">
       <abstract><ref target="https://rgia.su/object/27604124#!page:1/o:27604124/p:1">Вебсайт</ref></abstract>
-      <by selector="опись"><store n="64 ч I">
-        <title>Третий (аппеляционный) департамент <orgName ref="Сенат">Сената</orgName></title>
-        <abstract>
-          <ref target="https://rgia.su/object/27604124#!page:1/o:27604124/p:1/o:27604124_H_10610/p:4/o:27787140/p:1"
-          >Вебсайт</ref>
-          <ref target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw=="
-          >Вебсайт</ref>
-        </abstract>
-        <by selector="case">
-          <store file="collections/rgia328.xml"/>
-          <store file="collections/rgia413.xml"/>
-        </by>
-      </store></by>
+      <by selector="опись">
+        <store n="64 ч I">
+          <title>Третий (аппеляционный) департамент <orgName ref="Сенат">Сената</orgName></title>
+          <abstract>
+            <ref target="https://rgia.su/object/27604124#!page:1/o:27604124/p:1/o:27604124_H_10610/p:4/o:27787140/p:1"
+            >Вебсайт</ref>
+            <ref
+            target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw=="
+            >Вебсайт</ref>
+          </abstract>
+          <by selector="case">
+            <store file="collections/rgia328.xml"/>
+            <store file="collections/rgia413.xml"/>
+          </by>
+        </store>
+      </by>
     </store>
     <store n="1374">
       <title>Канцелярия генерал-прокурора <orgName ref="Сенат">Сената</orgName></title>
       <abstract><ref target="https://rgia.su/object/27604349#!page:1/o:27604349/p:1">Вебсайт</ref></abstract>
-      <by selector="опись"><store n="3">
-        <abstract><ref
-        target="https://rgia.su/object/27604349#!page:1/o:27604349/p:1/o:27604349_H_10610/p:1/o:27822924/p:1"
-        >Вебсайт</ref></abstract>
-        <by selector="case"><store file="collections/rgia2213.xml"/></by>
-      </store></by>
+      <by selector="опись">
+        <store n="3">
+          <abstract><ref
+          target="https://rgia.su/object/27604349#!page:1/o:27604349/p:1/o:27604349_H_10610/p:1/o:27822924/p:1"
+          >Вебсайт</ref></abstract>
+          <by selector="case">
+            <store file="collections/rgia2213.xml"/>
+          </by>
+        </store>
+      </by>
     </store>
   </by>
 </store>
