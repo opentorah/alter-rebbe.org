@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,18 +15,72 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Требование <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> к губернскому надворному
+        суду о расследовании по жалобе <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровича</persName>, заявившего о притеснениях и побоях старшинам отстраненного состава <orgName
+        role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>, причиненнным со стороны
+        должностных лиц
+      </p></abstract>
+      <creation><date when="1799-03-20">20го марта 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Требование <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> к губернскому надворному
+        суду о расследовании по жалобе <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровича</persName>, заявившего о притеснениях и побоях старшинам отстраненного состава <orgName
+        role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>, причиненнным со стороны
+        должностных лиц
+      </p></l>
+      <l>Дата: 1799-03-20</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p001-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0001.html#p001-1"/>
+    <fw type="docNum" place="left">№ <emph rend="underline">183</emph>.</fw>
+    <fw type="pageNum" place="right">1<hi rend="superscript">и</hi></fw>
+    <fw type="note">Получено <date when="1799-03-21">21<hi rend="superscript">го</hi> марта 1799<hi rend="superscript"
+    >го</hi> года</date>.</fw>
+    <head>
+      <l>Дѣйствительнаго статскаго совѣтника, Ли<note place="end">обрыв листа</note></l>
+      <l>го <persName role="namesViewer" target="/names/Фризель.html">Гражданскаго губернатора</persName> и кавалѣра</l>
+      <l>Литовскому Губернскому Надворному Суду.</l>
+    </head>
+    <p>
+      <l>Господинъ Генералъ-Прокуроръ и Кавалѣръ Князь</l>
+      <l><persName role="namesViewer" target="/names/Лопухин.html">Петръ Васильевичъ Лопухинъ</persName>, по вступившей
+      къ его Свѣтло-</l>
+      <l>сти жалобѣ отъ бывшаго виленскаго кагальнаго стар</l>
+      <l>шины <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеса Ошаровича</persName> о
+      причиненныхъ якобы быв-</l>
+      <l>шимъ кагальнымъ членамъ разныхъ обидъ, притѣсне<note place="end">-</note></l>
+      <l>ніяхъ и побояхъ, по случаю отрѣшенія ихъ отъ должно</l>
+      <l>стей предписалъ мнѣ произвести о томъ законное рас-</l>
+      <l>слѣдованіе, и о послѣдствіяхъ Его Свѣтлость извѣстить</l>
+      <l>Проепровождая въ Литовской Губернской Надворной судъ копію</l>
+      <l>съ онаго предписанія, за нужное почелъ присовокупить тутъ</l>
+      <l>вступившія въ Губернское Правленіе и ко мнѣ от означенна</l>
+      <l>го <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеса Ошеровича</persName> таковаго же
+      содержанія затѣмъ, дабы Надворный судъ благоволилъ произвесть у себя</l>
+      <l>повелѣнное изслѣдованіе во высѣхъ обстоятельствахъ</l>
+      <l>до сего рода жалобы принадлежащихъ и не приступая</l>
+      <l>къ рѣшенію поспѣшилъ бы увѣдомить меня в томъ, что</l>
+      <l>по сему слѣдствію откроется, для донесенія его Свѣтлости</l>
+      <l>Господину Генералу Прокурору. Отъ кого же по сему предме</l>
+      <l>ту нужно будетъ отобрать свѣденія или показанія, то</l>
+      <l>Надворный судъ прямо отъ себя ихъ требовать можетъ.</l>
+      <l><signed>Литовскій Гражданскій Губернаторъ <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризель</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№. 226</fw></l>
+      <l><date when="1799-03-20">20го марта<lb/>
+       1799 года</date></l>
+    </closer>
     <pb xml:id="p001-2" rendition="missing-page" role="facsimileViewer"
     target="/collections/lvia1799/facs/0001.html#p001-2"/>
   </body></text>
