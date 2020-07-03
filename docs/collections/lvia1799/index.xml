@@ -97,10 +97,14 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
-        <cell rendition="addressee"/>
+        <cell rendition="description"><p>
+          Копия требования <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> <persName
+          role="namesViewer" target="/names/Фризель.html">Фризелю</persName> о проведении расследования по жалобе
+          <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>
+        </p></cell>
+        <cell rendition="date">1799-03-05</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0002.html"
         >0002</ref></cell>
@@ -110,7 +114,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0002.html#p002-2" rendition="missing-page"
           >002об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
