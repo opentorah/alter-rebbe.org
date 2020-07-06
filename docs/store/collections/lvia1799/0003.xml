@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    </titleStmt></fileDesc>
+    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc>
-    <correspAction>
-      <persName ref="Павел_I" role="addressee">императору Павлу I</persName>
-    </correspAction>
-  </correspDesc>
-      <creation><date when="1799-02-09">9 февраля 1799 года</date></creation>
       <abstract><p>Жалоба виленских евреев на высочайшее имя</p></abstract>
+      <creation><date when="1799-02-09">9 февраля 1799 года</date></creation>
+      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">императору Павлу I</persName></correspAction>
+      </correspDesc>
     </profileDesc>
-
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
