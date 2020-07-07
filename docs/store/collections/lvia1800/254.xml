@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-        <profileDesc>
-      <correspDesc>
-    <correspAction>
-      <persName ref="Кутузов" role="addressee">Кутузову</persName>
-    </correspAction>
-  </correspDesc>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> литовскому
+        генерал-губернатору <persName ref="Кутузов">Кутузову</persName> о взыскании со старшин прежнего состава <orgName
+        ref="Виленский_кагал">виленского кагала</orgName> собранных с евреев <placeName ref="Вильна">Вильно</placeName>,
+        но не внесенных в казну средств поголовной подати, признанных недоимкой
+      </p></abstract>
       <creation><date when="1800-04-07">Апреля „7" дня 1800 года</date></creation>
-      <abstract><p>Сообщение <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> литовскому генерал-губернатору <persName ref="Кутузов">Кутузову</persName> о взыскании со старшин прежнего состава <orgName ref="Виленский_кагал">виленского кагала</orgName> собранных с евреев <placeName ref="Вильна">Вильно</placeName>, но не внесенных в казну средств поголовной подати, признанных недоимкой</p></abstract>
+      <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
+      </correspDesc>
     </profileDesc>
-
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="254-1"/>
