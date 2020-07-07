@@ -140,7 +140,7 @@
         </p></cell>
         <cell rendition="date">1800-03-31</cell>
         <cell rendition="author">?</cell>
-        <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">КУтузову</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1800/documents/126.html"
         >126</ref></cell>
@@ -165,11 +165,11 @@
         <cell rendition="description"><p>
           Объяснение <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> <persName
           role="namesViewer" target="/names/Кутузов.html">Кутузову</persName> о взыскании недоимки за 1798 г. с прежних
-          кагальных старшин из-за растраты ими податей, собранных виленской еврейской общиной
+          кагальных старшин из-за растраты ими податей, собранных <placeName role="namesViewer"
+          target="/names/Вильна.html">виленской</placeName> еврейской общиной
         </p></cell>
         <cell rendition="date">1800-03-31</cell>
-        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName>
-        </cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></cell>
         <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1800/documents/130.html"
@@ -209,8 +209,8 @@
           собранных в казну податей
         </p></cell>
         <cell rendition="date">1800-09-29</cell>
-        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Петр
-        Обольянинов</persName></cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинов</persName>
+        </cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1800/documents/678.html"
@@ -233,8 +233,7 @@
         </p></cell>
         <cell rendition="date">1800-05-10</cell>
         <cell rendition="author">?</cell>
-        <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">Михайле Ларионовичу
-        Голенищеву-Кутузову</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Кутузов.html">Кутузову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1800/documents/800.html"
         >800</ref></cell>
@@ -252,10 +251,11 @@
       <row>
         <cell rendition="description"><p>
           Выписка из журнала <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского
-          губернского правления</orgName>, направленная литовскому генерал-губернатору <persName role="namesViewer"
-          target="/names/Кутузов.html">Кутузову</persName>, с изложением двух не совпавших мнений советников <orgName
-          role="namesViewer" target="/names/Литовское_губернское_правление.html">Правления</orgName> при рассмотрении
-          дела о недоимке <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+          губернского правления</orgName>, направленная <placeName role="namesViewer" target="/names/Литва.html"
+          >литовскому</placeName> генерал-губернатору <persName role="namesViewer" target="/names/Кутузов.html"
+          >Кутузову</persName>, с изложением двух не совпавших мнений советников <orgName role="namesViewer"
+          target="/names/Литовское_губернское_правление.html">Правления</orgName> при рассмотрении дела о недоимке
+          <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
         </p></cell>
         <cell rendition="date">1800-05-02</cell>
         <cell rendition="author">?</cell>
@@ -291,13 +291,13 @@
         <cell rendition="description"><p>
           Решение <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> о взыскании недоимки с
           избирателей <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName> и
-          описании имущества членов предыдущего состава кагала, при котором возникла задолженность перед казной, для
-          возможного наложения ответственности на них - вопреки мнению советника <persName role="namesViewer"
-          target="/names/Елиашевич.html">Елиашевича</persName>
+          описании имущества членов предыдущего состава <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+          >кагала</orgName>, при котором возникла задолженность перед казной, для возможного наложения ответственности
+          на них - вопреки мнению советника <persName role="namesViewer" target="/names/Елиашевич.html"
+          >Елиашевича</persName>
         </p></cell>
         <cell rendition="date">1800-05-05</cell>
-        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName>
-        </cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1800/documents/816.html"
@@ -318,9 +318,11 @@
       </row>
       <row>
         <cell rendition="description"><p>
-          Прошение литовскому гражданскому губернатору <persName role="namesViewer" target="/names/Фризель.html"
-          >Фризелю</persName> от трех старшин распущенного в 1799 г. состава виленского кагала, заявивших о
-          правомерности своих действий при распоряжении деньгами, которые были собраны в качестве поголовной подати
+          Прошение <placeName role="namesViewer" target="/names/Литва.html">литовскому</placeName> гражданскому
+          губернатору <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName> от трех старшин
+          распущенного в 1799 г. состава <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+          кагала</orgName>, заявивших о правомерности своих действий при распоряжении деньгами, которые были собраны в
+          качестве поголовной подати
         </p></cell>
         <cell rendition="date">1800-05-02</cell>
         <cell rendition="author">?</cell>
@@ -345,9 +347,10 @@
       <row>
         <cell rendition="description"><p>
           Справка <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского губернского
-          правления</orgName> для генерал-губернатора Кутузова о размере и составляющих частях долга <orgName
-          role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName> и состоянии дел с его
-          выплатой после отдачи задолженности на откуп
+          правления</orgName> для генерал-губернатора <persName role="namesViewer" target="/names/Кутузов.html"
+          >Кутузова</persName> о размере и составляющих частях долга <orgName role="namesViewer"
+          target="/names/Виленский_кагал.html">виленского кагала</orgName> и состоянии дел с его выплатой после отдачи
+          задолженности на откуп
         </p></cell>
         <cell rendition="date">1800-05-15</cell>
         <cell rendition="author">?</cell>
