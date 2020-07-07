@@ -1,41 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша (Мойжеш) Ошерович</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша (Мойжеш) Ошерович</persName></author></titleStmt>
+    </fileDesc>
     <profileDesc>
-            <creation><date when="1799-03-24">24 марта 1799 Года</date></creation>
-      <abstract><p>Сообщение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> о передаче Надворному суду копии жалобы, отправленной генерал-прокурору <persName ref="Лопухин">Лопухину</persName></p></abstract>
+      <abstract><p>
+        Сообщение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> о передаче Надворному суду копии жалобы,
+        отправленной генерал-прокурору <persName ref="Лопухин">Лопухину</persName>
+      </p></abstract>
+      <creation><date when="1799-03-24">24 марта 1799 Года</date></creation>
     </profileDesc>
-
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="015-1"/>
     <fw type="docNum" place="left">№ 147</fw>
-    <fw type="note">Подано <date when="1799-03-24">24<hi rend="superscript">го</hi> марта 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="note">Подано <date when="1799-03-24">24<hi rend="superscript">го</hi> марта 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
     <salute><l>Литовскому надворному суду</l></salute>
     <head>
-    <l>Виленскаго купца <persName ref="Мовша_Ошерович">Мойжеша Оше-<lb/>
-    ровича</persName> нижайшее</l>
-<l><emph rend="big">Объяснение</emph></l>
-</head>
-<l>По приказанию въ присудствїи онаго</l>
-<l>Надворнаго Суда въ 22<hi rend="superscript">й</hi> день сего месяца</l>
-<l>мнѣ данному, чтобъ я объяснилъ въ</l>
-<l>чемъ состоитъ моя прозба посланная</l>
-<l>къ Его Сіятельству Господину Генералъ</l>
-<l>Прокурору и кавалеру князю <persName ref="Лопухин">Петру<lb/>
-Васильевичу Лопухину</persName> на <orgName ref="Литовское_губернское_правление">Литовское<lb/>
-Губернское Правленіе</orgName>, и изъясненныхъ въ</l>
-<l>особъ, имѣю честь изъ оной прозь-</l>
-<l>бы представить при семъ копїю, съ опи-</l>
-<l>саниемъ того, что послѣ посылки оной</l>
-<l>прозьбы с нами отъ нашихъ обитчиковъ</l>
-<l>послѣдовало</l>
-<l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
-<closer place="left">
-<l>Дня <date when="1799-03-24">24 марта<lb/>
-1799 Года</date></l>
-</closer>
+      <l>Виленскаго купца <persName ref="Мовша_Ошерович">Мойжеша Оше-<lb/>
+       ровича</persName> нижайшее</l>
+      <l><emph rend="big">Объяснение</emph></l>
+    </head>
+    <l>По приказанию въ присудствїи онаго</l>
+    <l>Надворнаго Суда въ 22<hi rend="superscript">й</hi> день сего месяца</l>
+    <l>мнѣ данному, чтобъ я объяснилъ въ</l>
+    <l>чемъ состоитъ моя прозба посланная</l>
+    <l>къ Его Сіятельству Господину Генералъ</l>
+    <l>Прокурору и кавалеру князю <persName ref="Лопухин">Петру<lb/>
+     Васильевичу Лопухину</persName> на <orgName ref="Литовское_губернское_правление">Литовское<lb/>
+     Губернское Правленіе</orgName>, и изъясненныхъ въ</l>
+    <l>особъ, имѣю честь изъ оной прозь-</l>
+    <l>бы представить при семъ копїю, съ опи-</l>
+    <l>саниемъ того, что послѣ посылки оной</l>
+    <l>прозьбы с нами отъ нашихъ обитчиковъ</l>
+    <l>послѣдовало</l>
+    <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    <closer place="left"><l>Дня <date when="1799-03-24">24 марта<lb/>
+     1799 Года</date></l></closer>
     <pb n="015-2" missing="true"/>
   </body></text>
 </TEI>
