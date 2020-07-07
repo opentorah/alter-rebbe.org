@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошерович</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,16 +15,28 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Жалоба Мовши Ошеровича на Капцевича в связи с обстоятельствами роспуска в 1799 г. прежнего состава виленского
+        кагала, угрозами Капцевича и "разными обидами кагалу", а также приложенное к жалобе изложение событий 15 марта
+        1799 г. в версии отрешенных кагальных старшин и их сторонников
+      </p></abstract>
+      <creation><date when="1799-03-18">марта 18 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто:</l>
-      <l>Кому:</l>
+      <l><p>
+        Жалоба Мовши Ошеровича на Капцевича в связи с обстоятельствами роспуска в 1799 г. прежнего состава виленского
+        кагала, угрозами Капцевича и "разными обидами кагалу", а также приложенное к жалобе изложение событий 15 марта
+        1799 г. в версии отрешенных кагальных старшин и их сторонников
+      </p></l>
+      <l>Дата: 1799-03-18</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошерович</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Фризель.html">Фризелю</persName></l>
     </p>
     <pb xml:id="p009-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0009.html#p009-1"/>
     <fw type="pageNum" place="right">9</fw>
