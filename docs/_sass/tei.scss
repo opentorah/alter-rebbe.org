@@ -246,9 +246,13 @@ tei-table.rgada-026-table {
 tei-table.rgada-233-table {
 
   tei-row {
-    tei-cell:nth-child(1) { width: 30px; }
+    tei-cell:nth-child(1) { width: 30px;  }
     tei-cell:nth-child(2) { width: 200px; }
-    tei-cell:nth-child(3) { width: 55px; }
-    tei-cell:nth-child(4) { width: 35px; }
+    tei-cell:nth-child(3) { width: 55px;  }
+    tei-cell:nth-child(4) { width: 35px;  }
   }
+}
+
+tei-signed.lvia1800-816-signed-inline {
+  display: inline;
 }
