@@ -2,58 +2,58 @@
 <store n="by">
   <title>Архив 19 кислева</title>
   <selector>
-    <name lang="en" n="names"/>
-    <name lang="ru" n="имена"/>
+    <name n="names" lang="en"/>
+    <name n="имена" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="name"/>
-    <name lang="ru" n="имя"/>
+    <name n="name" lang="en"/>
+    <name n="имя" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="book"/>
-    <name lang="ru" n="книга"/>
+    <name n="book" lang="en"/>
+    <name n="книга" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="archive"/>
-    <name lang="ru" n="архив"/>
+    <name n="archive" lang="en"/>
+    <name n="архив" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="fund"/>
-    <name lang="ru" n="фонд"/>
+    <name n="fund" lang="en"/>
+    <name n="фонд" lang="ru"/>
   </selector>
-  <selector><name lang="ru" n="разряд"/></selector>
-  <selector><name lang="ru" n="опись"/></selector>
+  <selector><name n="разряд" lang="ru"/></selector>
+  <selector><name n="опись" lang="ru"/></selector>
   <selector>
-    <name lang="en" n="year"/>
-    <name lang="ru" n="год"/>
-  </selector>
-  <selector>
-    <name lang="en" n="case"/>
-    <name lang="ru" n="дело"/>
+    <name n="year" lang="en"/>
+    <name n="год" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="author"/>
-    <name lang="ru" n="автор"/>
+    <name n="case" lang="en"/>
+    <name n="дело" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="volume"/>
-    <name lang="ru" n="том"/>
+    <name n="author" lang="en"/>
+    <name n="автор" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="part"/>
-    <name lang="ru" n="часть"/>
+    <name n="volume" lang="en"/>
+    <name n="том" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="document"/>
-    <name lang="ru" n="документ"/>
+    <name n="part" lang="en"/>
+    <name n="часть" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="language"/>
-    <name lang="ru" n="язык"/>
+    <name n="document" lang="en"/>
+    <name n="документ" lang="ru"/>
   </selector>
   <selector>
-    <name lang="en" n="page"/>
-    <name lang="ru" n="страница"/>
+    <name n="language" lang="en"/>
+    <name n="язык" lang="ru"/>
+  </selector>
+  <selector>
+    <name n="page" lang="en"/>
+    <name n="страница" lang="ru"/>
   </selector>
   <entities selector="names">
     <by selector="name" directory="names"/>
