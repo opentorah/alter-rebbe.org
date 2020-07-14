@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошеровичъ</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,16 +15,36 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Копия прошения отстраненных старшин <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName> генерал-прокурору <persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+        о восстановлении их в прежних должностях и изгагнии из состава <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">кагала</orgName> представителей <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName>, оказавшихся там в большинстве; в документе излагается
+        миснагедская версия истории противостояния с <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидами</orgName> в 1797-1799 гг.
+      </p></abstract>
+      <creation><date when="1799-03-??">не ранее 11 марта 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+      </correspAction></correspDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто:</l>
-      <l>Кому:</l>
+      <l><p>
+        Копия прошения отстраненных старшин <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName> генерал-прокурору <persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName>
+        о восстановлении их в прежних должностях и изгагнии из состава <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">кагала</orgName> представителей <orgName role="namesViewer"
+        target="/names/Хасиды.html">хасидов</orgName>, оказавшихся там в большинстве; в документе излагается
+        миснагедская версия истории противостояния с <orgName role="namesViewer" target="/names/Хасиды.html"
+        >хасидами</orgName> в 1797-1799 гг.
+      </p></l>
+      <l>Дата: 1799-03-??</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошеровичъ</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName></l>
     </p>
     <pb xml:id="p016-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0016.html#p016-1"/>
     <fw type="note" place="left">Копія</fw>
@@ -745,5 +769,24 @@
       <l>ВАШЕ<note place="end">слов записано отдельно, на нижнем поле листа</note></l>
     </p>
     <pb xml:id="p028-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0016.html#p028-2"/>
+    <l>Ваше Сіятельство соблаговолитѣ ми-</l>
+    <l>лостиво внять столь тяжніе гоненіи</l>
+    <l>и впредь оныя прекратить предавъ</l>
+    <l>дѣло изъслѣдованію и сужденію не <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+    >Губерн-<lb/>
+     скому Правленію</orgName> но надлежащему</l>
+    <l>месту, а приказать удалить вновь</l>
+    <l>выбранныхъ изъ <orgName role="namesViewer" target="/names/Хасиды.html">карлинъ</orgName> и по ихъ жела</l>
+    <l>нію кагальныхъ удалить, привра-</l>
+    <l>тить прежнихъ безъвинно осуж-</l>
+    <l>денныхъ безъ суда купно съ духо</l>
+    <l>вными и вовсѣ прочемъ удовле-</l>
+    <l>творить прежную нашую прось-</l>
+    <l>бу.__ Подлинной и <choice><sic>нинушну<lb/>
+     ю</sic><corr>нынешнюю</corr></choice> копію подписалъ <orgName role="namesViewer"
+    target="/names/Виленский_кагал.html">виленскаго<lb/>
+     кагалу</orgName> старшой членъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша<lb/>
+     Ошеровичъ</persName> по гебрейску. _</l>
+    <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
   </body></text>
 </TEI>

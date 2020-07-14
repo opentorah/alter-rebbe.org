@@ -230,10 +230,19 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
-        <cell rendition="addressee"/>
+        <cell rendition="description"><p>
+          Копия прошения отстраненных старшин <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+          >виленского кагала</orgName> генерал-прокурору <persName role="namesViewer" target="/names/Лопухин.html"
+          >Лопухину</persName> о восстановлении их в прежних должностях и изгагнии из состава <orgName
+          role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> представителей <orgName
+          role="namesViewer" target="/names/Хасиды.html">хасидов</orgName>, оказавшихся там в большинстве; в документе
+          излагается миснагедская версия истории противостояния с <orgName role="namesViewer"
+          target="/names/Хасиды.html">хасидами</orgName> в 1797-1799 гг.
+        </p></cell>
+        <cell rendition="date">1799-03-??</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша
+        Ошеровичъ</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Лопухин.html">Лопухину</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0016.html"
         >0016</ref></cell>
@@ -291,7 +300,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0016.html#p028-2" rendition="page"
           >028об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
