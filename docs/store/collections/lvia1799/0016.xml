@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошеровичъ</persName></author>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Лопухин" role="addressee">Лопухину</persName>
+    </correspAction>
+  </correspDesc>
+      <creation><date when="1799-03-??">не ранее 11 марта 1799 года</date></creation>
+      <abstract><p>Копия прошения отстраненных старшин <orgName ref="Виленский_кагал">виленского кагала</orgName> генерал-прокурору <persName ref="Лопухин">Лопухину</persName> о восстановлении их в прежних должностях и изгагнии из состава <orgName ref="Виленский_кагал">кагала</orgName> представителей <orgName ref="Хасиды">хасидов</orgName>, оказавшихся там в большинстве; в документе излагается миснагедская версия истории противостояния с <orgName ref="Хасиды">хасидами</orgName> в 1797-1799 гг.</p></abstract>
+    </profileDesc>
+
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="016-1"/>
@@ -646,5 +656,22 @@
       <l>ВАШЕ<note place="end">слов записано отдельно, на нижнем поле листа</note></l>
     </p>
     <pb n="028-2"/>
+<l>Ваше Сіятельство соблаговолитѣ ми-</l>
+<l>лостиво внять столь тяжніе гоненіи</l>
+<l>и впредь оныя прекратить предавъ</l>
+<l>дѣло изъслѣдованію и сужденію не <orgName ref="Литовское_губернское_правление">Губерн-<lb/>
+скому Правленію</orgName> но надлежащему</l>
+<l>месту, а приказать удалить вновь</l>
+<l>выбранныхъ изъ <orgName ref="Хасиды">карлинъ</orgName> и по ихъ жела</l>
+<l>нію кагальныхъ удалить, привра-</l>
+<l>тить прежнихъ безъвинно осуж-</l>
+<l>денныхъ безъ суда купно съ духо</l>
+<l>вными и вовсѣ прочемъ удовле-</l>
+<l>творить прежную нашую прось-</l>
+<l>бу.__ Подлинной и <choice><sic>нинушну<lb/>
+ю</sic><corr>нынешнюю</corr></choice> копію подписалъ <orgName ref="Виленский_кагал">виленскаго<lb/>
+кагалу</orgName> старшой членъ <persName ref="Мовша_Ошерович">Мовша<lb/>
+Ошеровичъ</persName> по гебрейску. _</l>
+<l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
   </body></text>
 </TEI>
