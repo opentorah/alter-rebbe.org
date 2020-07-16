@@ -400,9 +400,13 @@
         Когаловский</persName></cell>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
+        <cell rendition="description"><p>
+          Окончание рапорта <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName> о событиях,
+          связанных с выявленными злоупотреблениями кагальных старшин и смене состава <orgName role="namesViewer"
+          target="/names/Виленский_кагал.html">виленского кагала</orgName>
+        </p></cell>
+        <cell rendition="date">1799-02-09</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Капцевич.html">Капцевич</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0038.html"
@@ -413,7 +417,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0038.html#p038-2" rendition="missing-page"
           >038об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
