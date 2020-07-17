@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt>
-      <author><persName ref="Мовша_Ошерович">Мовша Ошеровича</persName></author>
-      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
-    </titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошеровича</persName></author>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
     <profileDesc>
-      <abstract><p>
-        Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, поданное на высочайшее имя
-      </p></abstract>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Павел_I" role="addressee">Павлу I</persName>
+    </correspAction>
+  </correspDesc>
       <creation><date when="1799-03-28">18 марта (8 апреля н.ст) 1799 года</date></creation>
-      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
-      </correspDesc>
+      <abstract><p>Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, поданное  на высочайшее имя</p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -19,8 +18,20 @@
     <fw type="docNum" place="left">№ 205</fw>
     <fw type="note">Подана <date when="1799-03-28">28 марта 1799<hi rend="superscript">го</hi> года</date></fw>
     <fw type="pageNum" place="right">45</fw>
-    <pb n="045-2"/>
+        <pb n="045-2"/>
+        <fw type="note">виленскій уѣздный каз-<note place="end">см. продолжение записи на след. стр.</note></fw>
+        <p>
+        <l>1799го года марта 29го дня въ Журналѣ Литовскаго над-</l>
+<l>ворнаго Суда записано подъ № 4<hi rend="superscript">м</hi></l>
+<l>ПРИКАЗАЛИ: Оное прошеніе приобщить къ</l>
+<l>дѣлу. Подлинной за подписаніемъ господъ</l>
+</p>
     <pb n="046-1"/>
+    <fw type="pageNum" place="right">46.</fw>
+    <fw type="note" place="left">начей Јосифъ <unclear>???</unclear></fw>
+    <l>присудствующихъ и за скрепою секретаря </l>
+<l>Павла Искрицкаго</l>
+<l>Протоколистъ Јосифъ Волковъ</l>
     <pb n="046-2" missing="true"/>
   </body></text>
 </TEI>
