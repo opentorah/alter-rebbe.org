@@ -571,10 +571,19 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
-        <cell rendition="addressee"/>
+        <cell rendition="description"><p>
+          Указание <persName role="namesViewer" target="/names/Лассий.html">Лассия</persName> <persName role=
+          "namesViewer" target="/names/Капцевич.html">Капцевичу</persName> о предоставлении Литовскому надворному суду
+          сведений об обстоятельствах смены состава <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+          >виленского кагала</orgName> в связи с жалобой <persName role="namesViewer" target=
+          "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>; решение Надворного суда о приобщении к делу
+          доверенности, выданной <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName>
+          отстраненными кагальными старшинами
+        </p></cell>
+        <cell rendition="date">1799-03-24</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Лассий.html">Лассій</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Капцевич.html">Капцевичу</persName>
+        </cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0051.html"
         >0051</ref></cell>
@@ -596,7 +605,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0051.html#p054-2" rendition="missing-page"
           >054об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
