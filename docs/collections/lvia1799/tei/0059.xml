@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,14 +15,22 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Промежуточное решение Литовского надворного суда по жалобе Мовши Ошеровича и старшин виленского кагала о
+        необходимости получить дополнительные объяснения подателя жалобы, а также ее подробное изложение
+      </p></abstract>
+      <creation><date when="1799-04-01">1799 года апреля 1 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Промежуточное решение Литовского надворного суда по жалобе Мовши Ошеровича и старшин виленского кагала о
+        необходимости получить дополнительные объяснения подателя жалобы, а также ее подробное изложение
+      </p></l>
+      <l>Дата: 1799-04-01</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
@@ -544,12 +556,200 @@
       мордуховичъ</persName> <orgName role="namesViewer" target="/names/Хасиды.html">каролинской<lb/>
        секты</orgName> члены при выборѣ находящіеся приказали,</l>
       <l>то всѣ исполнено безъ соглласія общества; а потому</l>
+      <pb xml:id="p067-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p067-1"/>
+      <fw type="pageNum" place="right">67</fw>
+      <fw type="note" place="left margin">тарь</fw>
+      <fw type="note" place="left margin">ко-</fw>
+      <l>еврей <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мойжешъ ошоровичъ</persName> просилъ
+      господина <persName role="namesViewer" target="/names/Лопухин.html">генералъ про-<lb/>
+       курора</persName> 1<hi rend="superscript">е</hi> возвратить прежнему <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">кагалу</orgName> свое существова</l>
+      <l>ніе купно съ судомъ духовнымъ; 2<hi rend="superscript">е</hi> выбранныхъ вновь</l>
+      <l>восемь человѣкъ удалить; 3<hi rend="superscript">е</hi> съ <orgName role="namesViewer" target=
+      "/names/Хасиды.html">каролинами</orgName> для изыс-</l>
+      <l>канія истины назначить въ <placeName role="namesViewer" target="/names/Литва.html">Литовской
+      губерніи</placeName> судъ</l>
+      <l>по законамъ и привилегіямъ слѣдующій, и ни одной сто-</l>
+      <l>ронѣ неспослабляющій. 4<hi rend="superscript">е</hi> приказать снять щетъ съ</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> особамъ ни съ одной стороны
+      не подозрительнымъ,</l>
+      <l>5<hi rend="superscript">е</hi> Запретить <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролинамъ</orgName> выдумывать новую секту</l>
+      <l>и обряды; 6<hi rend="superscript">е</hi> прибывшаго сюда недавно <orgName role="namesViewer" target=
+      "/names/Хасиды.html">каролинской<lb/>
+       секты</orgName> еврея <persName role="namesViewer" target="/names/Нохим_Ицкович.html">нохима Ицковича</persName>,
+      который шатается</l>
+      <l>по разнымъ мѣстамъ и губерніямъ, и нарушаетъ въ об-</l>
+      <l>ществѣ спокойствіе, велѣть удалить его до мѣста</l>
+      <l>его жительства <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлоруской губерніи</placeName> въ
+      городѣ <placeName role="namesViewer" target="/names/Чаусы.html">чаусы</placeName>.</l>
+      <l>Сверхъ сей жалобы вмѣщена въ представленной евреемъ</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">мойжешемъ ошеровичемъ</persName> копіи прозба
+      писанная,</l>
+      <l>какъ видно, послѣ вышепрописанной на имя же Гос-</l>
+      <l>подина <persName role="namesViewer" target="/names/Лопухин.html">Генералъ прокурора</persName>, слѣдующаго
+      содержанія:</l>
+      <l>въ прошломъ еще 1798<hi rend="superscript">м</hi> году <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">виленскій кагалъ</orgName> по</l>
+      <l>луча свѣденія, что въ <placeName role="namesViewer" target="/names/Минская_губерния.html">минской
+      губерніи</placeName> запрещено</l>
+      <l>содержать евреямъ винокурни и карчмы, и опасаясь,</l>
+      <l>чтобы таковое постановленіе не принято было</l>
+      <l>дворянствомъ и въ <placeName role="namesViewer" target="/names/Литва.html">здешней губерніи</placeName>,
+      употребилъ</l>
+      <pb xml:id="p067-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p067-2"/>
+      <l>одного виленскаго жителя къ сочиненію писемъ</l>
+      <l>къ уѣзднымъ кагаламъ, приглашая оными, чтобы</l>
+      <l>каждый изъ нихъ прислалъ въ <placeName role="namesViewer" target="/names/Вильна.html">вильну</placeName> по два
+      чело-</l>
+      <l>вѣкадля положенія общаго о помянутомъ слу</l>
+      <l>чаѣ совѣта, и чтобы прилагали старанія умо-</l>
+      <l>лить дворянъ о помилованіи себя, намѣреніе же</l>
+      <l>совѣтованія клонилось къ тому, дабы испросить</l>
+      <l>отъ начальства позволенія, чтобы отправить</l>
+      <l>кого либо въ <placeName role="namesViewer" target="/names/Петербург.html">Санктпетербургъ</placeName> къ Его
+      ИМПЕРА-</l>
+      <l>ТОРСКОМУ ВЕЛИЧЕСТВУ для испрошенія мо-</l>
+      <l>наршей милости, а притомъ напоминалъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">ка-<lb/>
+       галъ</orgName> въ тѣхъ своихъ письмахъ и то, что та-</l>
+      <l>ковая въ <placeName role="namesViewer" target="/names/Петербург.html">Санктпетербургъ</placeName> поѣздка
+      требуетъ</l>
+      <l>дорожныхъ и на другія надобности издержекъ._</l>
+      <l>какъ же у евреевъ въ обыкновеніи есть въ пис-</l>
+      <l>махъ своихъ помѣщать слова священныя,</l>
+      <l>то сочинявшій и для <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго
+      кагала</orgName> оныя</l>
+      <l>вмѣстилъ и въ нихъ, даже къ дѣлу не относя</l>
+      <l>щіяся;однако нимало доброму общественному</l>
+      <l>порядку не проивныя, <choice><sic>покотому</sic><corr>по которому</corr></choice> письму нѣ</l>
+      <l>которые еврей и пріеѣжали, а что кто</l>
+      <l>съ собою привезъ на содержаніе, о томъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >вилен-<lb/>
+       скому кагалу</orgName> было неизвестно. По съѣздѣ оныхъ</l>
+      <pb xml:id="p068-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p068-1"/>
+      <fw type="pageNum" place="right">68.</fw>
+      <fw type="note" place="left margin">Па</fw>
+      <fw type="note" place="left margin">листъ</fw>
+      <l>евреевъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> не входилъ ни во что;
+      но сами они собою по-</l>
+      <l>дали къ Господину Губернатору прошеніе, о чемъ узнавъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >ка-<lb/>
+       ролины</orgName> посредствомъ сотоварищей своихъ жительству-</l>
+      <l>ющихъ въ браславскомъ повѣтѣ, таковое письмо пере-</l>
+      <l>хватили, и представили <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовскому губернскому прав-<lb/>
+       ленію</orgName> при доношеніи, толкуя его крывымъ образомъ, по-</l>
+      <l>чему кагальнымъ и чинены были допросы, и по тѣмъ до-</l>
+      <l>просамъ въ <date when="1799-02-15">15<hi rend="superscript">й</hi> день минувшаго февраля</date> записана</l>
+      <l>въ журналѣ резолюція, якобы <date when="1798-08-20">20<hi rend="superscript">го</hi> августа прошлаго<lb/>
+       1798<hi rend="superscript">го</hi> года</date> кѣмъ то приготовленная, которою безъ су-</l>
+      <l>да и изслѣдованія отрішило <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >правленіе</orgName> невинно навсегда</l>
+      <l>отъ должностей не только тѣхъ, кои сказанное письмо</l>
+      <l>подписали, но и тѣхъ, кои и не подписывали, купно съ ду-</l>
+      <l>ховными особами; а наполня нынѣ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагалъ</orgName> <orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName></l>
+      <l>и тѣми, кого сіи желали, оставило общество еврейское</l>
+      <l>безъ духовныхъ, безъ коихъ ни одна вѣра не бываетъ.</l>
+      <l>Само <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">правленіе</orgName> въ
+      оной резолюцій сказало, что <orgName role="namesViewer" target="/names/Виленский_кагал.html">вилен-<lb/>
+       скій кагалъ</orgName> въ 18<hi rend="superscript">ть</hi> уѣздныхъ посылалъ подобныя письми; но</l>
+      <l>ни одного для сличенія съ представленнымъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролинами</orgName> не</l>
+      <l>потребовало, также не спросило уѣздныхъ кагаловъ, при</l>
+      <l>сылали ль они въ <placeName role="namesViewer" target="/names/Вильна.html">вильну</placeName> какія деньги,
+      такъ какъ каро-<lb/>
+       лины ложно донесли, а теперь уже по отрешеніи кагальныхъ</l>
+      <pb xml:id="p068-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p068-2"/>
+      <l>велѣло то выполнить городничимъ и земскимъ комми-</l>
+      <l>сарамъ. наконецъ <date when="1799-03-10">10<hi rend="superscript">го</hi> числа сего мѣсяца</date> въ вечеру
+      при</l>
+      <l>дя въ школу Господина Каменданта <persName role="namesViewer" target="/names/Капцевич.html"
+      >капцевича</persName> фак-</l>
+      <l>торъ съ воорруженными салдатами во время отправ-</l>
+      <l>ленія молитвъ и чтенія изъ Стараго Завѣта исторій,</l>
+      <l>схватилъ книгу и унесъ съ школы съ собою. Назавтрѣ же</l>
+      <l>явясь съ другимъ полицейскимъ факторомъ и поставя</l>
+      <l>солдатъ при алтарѣ и при школьной двери объявлялъ,</l>
+      <l>что Господинъ <persName role="namesViewer" target="/names/Капцевич.html">камендантъ</persName> приказалъ, чтобы
+      той</l>
+      <l>исторіи никто не отваживался читать, кромѣ ка-</l>
+      <l>ролина Шмуйлы Еліашевича, что по приходѣ каро-</l>
+      <l>лина рафала мееровича<note place="end">вероятно, <persName role="namesViewer" target=
+      "/names/Меер_Рафалович.html">Меера Рафаловича</persName></note> и выполнилось. въслѣдствіе</l>
+      <l>чего просилъ онъ <choice><sic>мойжешовичъ</sic><corr><persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">мойжешъ ошеровичъ</persName></corr></choice> втоично внять ми-</l>
+      <l>лостиво столь тяжкимъ гоненіямъ и впредь оныя</l>
+      <l>прекратить предавъ дѣло для изслѣдованія и суж-</l>
+      <l>денія не <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">губернскому
+      правленію</orgName>, но надлежащему</l>
+      <l>мѣсту, и приказать удалить вновь выбранныхъ</l>
+      <l>изъ <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> и по ихъ желанію кагальныхъ,
+      при-</l>
+      <l>вратить прежнихъ безвинно осужденныхъ безъ суда</l>
+      <l>купно съ духовными, и во всемъ прочемъ удовлетво</l>
+      <l>рить прежнюю <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> прозьбу.
+      ПРИКАЗАЛИ:</l>
+      <l>какъ изъ предписанія его Свѣтлости Господина</l>
+      <pb xml:id="p069-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p069-1"/>
+      <fw type="pageNum" place="right">69</fw>
+      <fw type="note" place="left margin">велъа</fw>
+      <fw type="note" place="left margin">Јосифъ</fw>
+      <l>Генералъ прокурора князя <persName role="namesViewer" target="/names/Лопухин.html">петра васильевича
+      Лапухина</persName>,</l>
+      <l>присланнаго къ <persName role="namesViewer" target="/names/Фризель.html">Господину Литовскому
+      губернатору</persName> ока-</l>
+      <l>зывается, что оное послѣдовало по первой прозьбѣ</l>
+      <l>еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мойжеша Ошеровича</persName>
+      жаловавшагося на <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Ли-<lb/>
+       товское Губернское правленіе</orgName>, которое защищая</l>
+      <l>якобы открывшуюся вновь <orgName role="namesViewer" target="/names/Хасиды.html">секту
+      каролинскую</orgName>,</l>
+      <l>опредѣлило другой <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> за то, что
+      первой насто-</l>
+      <l>ялъ истребить сію <orgName role="namesViewer" target="/names/Хасиды.html">секту</orgName>, оказавъ ему
+      разныя</l>
+      <l>обиды и заключивъ подъ стражу бывшихъ кагаль</l>
+      <l>ныхъ членовъ съ причиненіемъ побой, что самое</l>
+      <l>изъ прописанной выше сего копіи прозьбы имъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >оше-<lb/>
+       ровичемъ</persName> въ сей надворный судъ представленной</l>
+      <l>и первоанчально въ сей резолюціи прописанной зна-</l>
+      <l>читъ. другая же прозьба имъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >ошеровичемъ</persName> при концѣ</l>
+      <l>помѣщенная о письмахъ виленскихъ къ уѣзднымъ</l>
+      <l>кагаламъ писанныхъ и вприходѣ фактора Госпо-</l>
+      <l>дина каменданта <persName role="namesViewer" target="/names/Капцевич.html">капцевича</persName> въ школу съ
+      воору-</l>
+      <l>женными салдатами, была ли имъ къ Господину</l>
+      <l><persName role="namesViewer" target="/names/Лопухин.html">Генералъ прокурору</persName> посылана, и что по оной
+      послѣ</l>
+      <l>довало сему надворному суду неизвестно; и для</l>
+      <l>того сію послѣднюю его <persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровича</persName>
+      прозьбу оста-</l>
+      <l>вить безъ дѣйствія. А что принадлежитъ до первой,</l>
+      <pb xml:id="p069-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p069-2"/>
+      <l>то поелику его Свѣтлость Господинъ <persName role="namesViewer" target="/names/Лопухин.html">Генералъ про-<lb/>
+       куроръ</persName> предписалъ о изъясненныхъ въ оной побояхъ</l>
+      <l>и притѣсненіяхъ произвесть законное изслѣдо-</l>
+      <l>ваніе; почему съ прописаніемъ оной прозьбы ев-</l>
+      <l>рея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мойжеша ошеровича</persName> съ жалобою на
+      <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литов-<lb/>
+       ское Губернское правленіе</orgName>, сообщить въ оное,</l>
+      <l>дабы благоволило прислать надворному суду</l>
+      <l>на всѣ тѣ обстоятельства достаточное све</l>
+      <l>деніе. А какъ онъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName> жалуясь
+      на побои</l>
+      <l>при запрещеніи въ еврейской школѣ богослуженія</l>
+      <l>причиненныя, не изъяснилъ, кто именно тогда былъ</l>
+      <l>битъ, и при кѣмъ именно то происходило? то</l>
+      <l>призвавъ его <persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровича</persName> въ
+      присудствіи сего суда ,</l>
+      <l>объявить ему, дабы онъ сіе обстоятельство объяс-</l>
+      <l>нилъ надлежащими доказательствами. Под-</l>
+      <l>линной за подписаніемъ господъ присудствую-</l>
+      <l>щихъ и за скрепою секретаря Павла Искриц-</l>
+      <l>каго._ <signed><unclear>???</unclear></signed></l>
     </p>
-    <pb xml:id="p067-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p067-1"/>
-    <pb xml:id="p067-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p067-2"/>
-    <pb xml:id="p068-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p068-1"/>
-    <pb xml:id="p068-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p068-2"/>
-    <pb xml:id="p069-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p069-1"/>
-    <pb xml:id="p069-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0059.html#p069-2"/>
   </body></text>
 </TEI>
