@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша_Ошерович</persName></author>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc>
+    <correspAction>
+      <persName ref="Обольянинов" role="addressee">Обольянинову</persName>
+    </correspAction>
+  </correspDesc>
+      <creation><date when="1799-04-07">7 апреля 1799 года</date></creation>
+      <abstract><p>Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, поданное в Литовский надворный суд </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="071-1"/>
-    <pb n="071-2"/>
+    <fw type="docNum" place="left"># 228</fw>
+    <fw type="note">Подано <date when="1799-04-07">7 апрѣля 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="pageNum" place="right">71.</fw>
+    <fw type="note" place="left margin">криц</fw>
+        <pb n="071-2"/>
     <pb n="072-1"/>
     <pb n="072-2"/>
   </body></text>
