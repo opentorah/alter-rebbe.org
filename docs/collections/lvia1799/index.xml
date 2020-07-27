@@ -689,10 +689,15 @@
         Когаловский</persName></cell>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
-        <cell rendition="addressee"/>
+        <cell rendition="description"><p>
+          Объяснение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> на
+          польском языке, поданное в Литовский надворный суд
+        </p></cell>
+        <cell rendition="date">1799-04-07</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Мовша_Ошерович</persName></cell>
+        <cell rendition="addressee"><persName role="namesViewer" target="/names/Обольянинов.html"
+        >Обольянинову</persName></cell>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/0071.html"
         >0071</ref></cell>
