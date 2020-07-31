@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Выписка из журнала Литовского надворного суда о приобщении к делу сообщения <orgName ref=
+        "Литовское_губернское_правление">Литовского губернского правления</orgName>
+      </p></abstract>
+      <creation><date when="1798-05-05">1798 года маія 5<hi rend="superscript">го</hi> дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="102-1"/>
+    <fw type="pageNum" place="right">192.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1798-05-05">1798 года маія 5<hi rend="superscript">го</hi> дня</date> въ Журналѣ Литовскаго
+      Надвор-</l>
+      <l>наго Суда записано._</l>
+      <l><emph rend="underline">№ 1</emph></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName></l>
+      <l>въ коемъ для свѣденія прописываетъ свое поста</l>
+      <l>новленіе по дѣлу <orgName ref="Виленский_кагал">виленскаго еврейскаго<lb/>
+       кагала</orgName> съ <orgName ref="Хасиды">еврейскимъ обществомъ называ<lb/>
+       мымъ карлинскимъ</orgName> о наложеніи <orgName ref="Виленский_кагал">кагаломъ</orgName></l>
+      <l>на евреевъ проклятія за исключеніе изъ ка</l>
+      <l>гальныхъ членовъ еврея <persName ref="Меер_Рафалович">Меера Рафаловича</persName></l>
+      <l>за здѣланіе имъ запрещенія отправлять</l>
+      <l>въ частномъ домѣ богомоленія и о прочемъ.</l>
+      <l>ПРИКАЗАЛИ: принять оное сообщеніе во</l>
+      <l>извѣстіе._ Подлинной за подписаніемъ гос-</l>
+      <l>подъ присудствующихъ и за скрепою секре-</l>
+      <l>таря Павла Искрицкаго._</l>
+    </p>
     <pb n="102-2" missing="true"/>
   </body></text>
 </TEI>
