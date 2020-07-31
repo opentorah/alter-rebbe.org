@@ -974,8 +974,11 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
+        <cell rendition="description"><p>
+          Выписка из журнала Литовского надворного суда о приобщении к делу сообщения <orgName role="namesViewer"
+          target="/names/Литовское_губернское_правление.html">Литовского губернского правления</orgName>
+        </p></cell>
+        <cell rendition="date">1798-05-05</cell>
         <cell rendition="author"/>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
@@ -987,7 +990,8 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/0102.html#p102-2" rendition="missing-page"
           >102об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
