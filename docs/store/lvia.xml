@@ -3,13 +3,15 @@
   <title>Литовский государственный исторический архив (Вильнюс)</title>
   <abstract>Lietuvos valstybės istorijos archyvas, Vilnius (Vilniua?)</abstract>
   <body><ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">Вебсайт</ref>.</body>
-  <by selector="fund"><store n="378">
-    <title>Канцелярия Виленского военного генерал-губернатора</title>
-    <by selector="year">
-      <store file="collections/lvia1799.xml"/>
-      <store file="collections/lvia1800.xml"/>
-      <store file="collections/lvia1824.xml"/>
-      <store file="collections/lvia1868.xml"/>
-    </by>
-  </store></by>
+  <by selector="fund">
+    <store n="378">
+      <title>Канцелярия Виленского военного генерал-губернатора</title>
+      <by selector="year">
+        <store file="collections/lvia1799.xml"/>
+        <store file="collections/lvia1800.xml"/>
+        <store file="collections/lvia1824.xml"/>
+        <store file="collections/lvia1868.xml"/>
+      </by>
+    </store>
+  </by>
 </store>

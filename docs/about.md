@@ -131,7 +131,7 @@ layout: page
 
 - 2020: опубликованы:
   - фотографии документов из LVIA, которые предоставила Галина Баранова; 
-  - фотографии документов из НИАБ и LVIA, которые предоставили Перец Мочкин и Елена Волк; 
+  - фотографии документов из НИАБ и LVIA, которые предоставили Перец Мочкин, Елена Волк и Константин Пименов; 
   - фотографии документов из РГИА, которые предоставил Константин Пименов;
   - полный комплект фотографий документов из РГАДА, которые предоставила Елена Волк;
   - новые расшифровки документов, которые выполнил Василий Когаловский.
@@ -154,7 +154,7 @@ Static site generated with [Jekyll](https://jekyllrb.com/) using customized
 
 Static site is hosted on [GitHub Pages](https://pages.github.com/).
 
-Facsimiles are hosted in a Google Cloud Storage bucket `facsimiles.alter-rebbe.org`
+Facsimiles are hosted in a public Google Cloud Storage bucket `facsimiles.alter-rebbe.org`
 and are retrievable only using exact URLs. 
 
 To rebuild collection indices and verify name references:
@@ -166,3 +166,16 @@ The site can be served locally by running the following command in `docs`:
 ```
   $ bundle exec jekyll serve
 ```
+
+To update CETEIcean to the current repository version:
+
+```
+  $ git clone git@github.com:TEIC/CETEIcean.git
+  $ cd CETEIcean
+  $ npm clean-install
+  $ npm run-script build
+```
+
+Merge into the archive project:
+- `/test/CETEIcean.css` into `/docs/_sass/CETEIcean.scss`
+- `/dist/CETE.js` into /docs/js/CETEI.js` taking local changes into account

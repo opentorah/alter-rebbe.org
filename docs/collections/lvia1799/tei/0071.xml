@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша_Ошерович</persName>
+      </author></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Объяснение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> на
+        польском языке, поданное в Литовский надворный суд
+      </p></abstract>
+      <creation><date when="1799-04-07">7 апреля 1799 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName>
+      </correspAction></correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l><p>
+        Объяснение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> на
+        польском языке, поданное в Литовский надворный суд
+      </p></l>
+      <l>Дата: 1799-04-07</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша_Ошерович</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Обольянинов.html">Обольянинову</persName></l>
+    </p>
+    <pb xml:id="p071-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0071.html#p071-1"/>
+    <fw type="docNum" place="left"># 228</fw>
+    <fw type="note">Подано <date when="1799-04-07">7 апрѣля 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="pageNum" place="right">71.</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <pb xml:id="p071-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0071.html#p071-2"/>
+    <pb xml:id="p072-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0071.html#p072-1"/>
+    <pb xml:id="p072-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0071.html#p072-2"/>
+  </body></text>
+</TEI>

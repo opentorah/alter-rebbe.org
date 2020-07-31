@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName ref="Лопухин">Лопухина</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Копия требования <persName ref="Лопухин">Лопухина</persName> <persName ref="Фризель">Фризелю</persName> о
+        проведении расследования по жалобе <persName ref="Мовша_Ошерович">Ошеровича</persName>
+      </p></abstract>
+      <creation><date when="1799-03-05">5 марта 1799 года</date></creation>
+      <correspDesc><correspAction><persName ref="Фризель" role="addressee">Фризелю</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb n="002-1"/>
+    <fw type="pageNum" place="right">2</fw>
+    <head>
+      <l>Копія отношенія Его Свѣтлости Господина Генерала</l>
+      <l>Прокурора и кавалѣра Князя <persName ref="Лопухин">Лопухина</persName> къ Литовскому</l>
+      <l>Гражданскому Губернатору <persName ref="Фризель">Фризелю</persName> отъ <date when="1799-03-05">5<hi rend=
+      "superscript">го</hi> марта<lb/>
+       1799<hi rend="superscript">го</hi> года</date> за <fw type="docNum">№ 1972<hi rend="superscript">м</hi></fw>.</l>
+    </head>
+    <p>
+      <l><orgName ref="Виленский_кагал">Виленскаго еврейскаго кагала</orgName> членъ <persName ref="Мовша_Ошерович"
+      >Мойжешъ<lb/>
+       Ошеровичъ</persName> жалуется мнѣ на <orgName ref="Литовское_губернское_правление">Литовское Губернское Пра<lb/>
+       вленіе</orgName>, которое защищая якобы открывшуюся вновь</l>
+      <l><orgName ref="Хасиды">секту каролинскую</orgName>, опредѣлило другаго <orgName ref="Виленский_кагал"
+      >кагала</orgName> за то</l>
+      <l>что первой настоялъ истребить сію секту, оказавъ</l>
+      <l>сему разныя обиды, и заключивъ подъ стражу бывшихъ</l>
+      <l>кагальныхъ членовъ съ причиненіемъ побой. По поводу жало</l>
+      <l>бы сей, въ обязанности щитаю себя отнестись къ Ва</l>
+      <l>шему Превосходительству, дабы о изъясненныхъ побояхъ</l>
+      <l>и притесненіяхъ, приказали вы произвесть законное</l>
+      <l>изслѣдованіе, и о послѣдствіяхъ немедленно извѣстили</l>
+      <l>меня, обративъ наконецъ должное со стороны вашей</l>
+      <l>вниманіе, чтобъ обиженные не остались безъ правосудна</l>
+      <l>го удовлетворенія.</l>
+    </p>
+    <p>
+      <l>Съ подлиннымъ свѣрилъ Литовскій Граждан</l>
+      <l>скій Губернаторъ <persName ref="Фризель">Фризель</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 1972</fw></l>
+      <l><date when="1799-03-05">Марта 5<hi rend="superscript">го</hi> дня<lb/>
+       1799. года</date></l>
+      <l>Его пре<hi rend="superscript">ву</hi> <persName ref="Фризель">Фризелю</persName></l>
+    </closer>
+    <pb n="002-2" missing="true"/>
+  </body></text>
+</TEI>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Первый или последний лист официального документа (возможно, Литовского надворного суда) с заверяющей подписью
+      секретаря
+    </p></abstract></profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb n="043-1"/>
+    <fw type="pageNum" place="right">43.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <signed><l>Секретарь Михаил <unclear>???</unclear></l></signed>
+    <pb n="043-2" missing="true"/>
+  </body></text>
+</TEI>

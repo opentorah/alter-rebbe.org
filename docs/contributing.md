@@ -19,7 +19,7 @@ layout: page
 [странице непрерывной интеграции](https://github.com/opentorah/alter-rebbe.org/actions). 
 
 Если прогресс (пока) не пришёл в Ваш дом, и термины GitHub, repository и pull request Вам ничего не
-говорят - можно воспользоваться электронной почтой по адресу [dub@podval.org](mailto:dub@podval.org).
+говорят - можно воспользоваться электронной почтой по адресу [dub@opentorah.org](mailto:dub@opentorah.org).
 
 ## Формат ##
 

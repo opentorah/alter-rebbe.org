@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Номер и название архивного дела, а также данные архивного хранения, содержащиеся в двух заполненных штампах
+        (советского периода и времени независимости Литвы), а также цифровая приписка; все записи выполнены шариковыми
+        ручками
+      </p></abstract>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l><p>
+        Номер и название архивного дела, а также данные архивного хранения, содержащиеся в двух заполненных штампах
+        (советского периода и времени независимости Литвы), а также цифровая приписка; все записи выполнены шариковыми
+        ручками
+      </p></l>
+      <l>Дата:</l>
+      <l>Кто:</l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p000-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0000.html#p000-1"/>
+    <fw type="note" place="left">
+      <l>Lietuvos valstybės</l>
+      <l>istorijos archyvas</l>
+      <l>F.Nr 378</l>
+      <l>Ap.Nr. bis 1799</l>
+      <l>B. Nr. 178</l>
+    </fw><note place="end">заполненный штамп архивного дела</note>
+    <fw type="note" place="left">
+      <l>Ф: 378% 1799г.</l>
+      <l>Ед. 178</l>
+    </fw><note place="end">заполненный штамп архивного дела</note>
+    <fw type="note">392-</fw>
+    <pb xml:id="p000-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0000.html#p000-2"/>
+    <fw type="note" place="left">К.66</fw><note place="end">архивное обозначение, выполненное красным карандашом</note>
+    <l><fw type="docNum"><emph rend="underline">№.178.</emph></fw></l>
+    <head>
+      <l>Слѣдственное Дѣло</l>
+      <l>По жалобѣ бывшаго <hi rend="superscript">Виленскаго</hi> кагальнаго старшины</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеса <emph rend="underline"
+      >Ошаровича</emph></persName> о причиненныхъ бывшимъ</l>
+      <l>кагальнымъ членамъ разныхъ обидъ, притѣсненій и</l>
+      <l>побоевъ, по случаю отрѣшенія ихъ отъ должностей._</l>
+      <l>Совѣтникомъ <emph rend="underline"><persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевичемъ</persName></emph>, комендантомъ <emph rend="underline"><persName role="namesViewer" target=
+      "/names/Капцевич.html">Капцевичемъ</persName></emph>,</l>
+      <l>казначеемъ <emph rend="underline">Сербиновичемъ</emph> и пллацъ-маіоромъ <emph rend="underline"
+      >Палки</emph>-</l>
+      <l><emph rend="underline">нымъ</emph>.</l>
+    </head>
+    <fw type="note">
+      <l>Началъ. съ <date when="1799-03-20">20<hi rend="superscript">го</hi> марта</date>, а кончено <date when=
+      "1799-06-28">28<lb/>
+       јюня 1799<hi rend="superscript">го</hi></date>.</l>
+      <l>1799<hi rend="superscript">го</hi>.</l>
+    </fw>
+    <fw type="note" place="left">
+      <l>Центральный исторический</l>
+      <l>архив Литовской СССР</l>
+      <l>Ф. № 378 оп.. № 1799</l>
+      <l>Ед. хр. № 178</l>
+    </fw><note place="end">заполненный штамп архивного дела</note>
+    <fw type="note"><l>-389-</l></fw>
+  </body></text>
+</TEI>

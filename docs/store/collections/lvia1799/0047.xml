@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша_Ошерович</persName></author></titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, поданное в Литовский
+        надворный суд
+      </p></abstract>
+      <creation><date when="1799-03-29">29 марта 1799 года</date></creation>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb n="047-1"/>
+    <fw type="docNum" place="left">№ 206</fw>
+    <fw type="note">Подано <date when="1799-03-29">29<hi rend="superscript">го</hi> марта 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">47</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <pb n="047-2"/>
+    <pb n="048-1"/>
+    <fw type="pageNum" place="right">48</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <pb n="048-2" missing="true"/>
+  </body></text>
+</TEI>

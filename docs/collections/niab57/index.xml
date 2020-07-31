@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body>
+    <l>архив <ref role="collectionViewer" target="/by/архив/НИАБ/index.html">НИАБ</ref>: Национальный исторический архив
+    Беларуси (Минск)</l>
+    <l>фонд <ref role="collectionViewer" target="/by/архив/НИАБ/фонд/2640/index.html">2640</ref>: ?</l>
+    <l>опись <ref role="collectionViewer" target="/by/архив/НИАБ/фонд/2640/опись/1/index.html">1</ref>: ?</l>
+    <head>дело 57: Ревизская сказка 1834 года</head>
+    <span/>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/niab57/documents/000.html">000</ref>
+        </cell>
+        <cell rendition="pages"><ref role="documentViewer" target="/collections/niab57/documents/000.html#p000-1"
+        rendition="page">000</ref></cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/niab57/documents/216.html">216</ref>
+        </cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p216-2" rendition="page">216об</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p217-1" rendition="page">217</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p245-2" rendition="page">245об</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p246-1" rendition="page">246</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p250-2" rendition="page">250об</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p251-1" rendition="page">251</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p251-2" rendition="page">251об</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p261-2" rendition="page">261об</ref>
+          <ref role="documentViewer" target="/collections/niab57/documents/216.html#p263-2" rendition="page">263об</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+    </table>
+  </body></text>
+</TEI>

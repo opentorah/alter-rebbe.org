@@ -12,23 +12,50 @@
   <text><body>
     <l>архив <ref role="collectionViewer" target="/by/архив/РНБ/index.html">РНБ</ref>: Российская национальная
     библиотека (Санкт-Петербург)</l>
-    <head>дело 211: "?"</head>
-    <span>Документов этого дела у нас пока нет.</span>
-    <p>РО, ф. 152, оп. 1, д. 211</p>
+    <l>разряд <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/index.html">РО</ref></l>
+    <l>фонд <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/фонд/152/index.html">152</ref></l>
+    <l>опись <ref role="collectionViewer" target="/by/архив/РНБ/разряд/РО/фонд/152/опись/1/index.html">1</ref></l>
+    <head>дело 211: Барахович Зелман, раввин; письмо ко всем евреям, в Белоруссии пребывающим</head>
+    <span/>
+    <p>4 листа</p>
     <p>
       Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Военский К.Е. Перевод на русской послания <persName
       role="namesViewer" target="/names/alter-rebbe.html">Шнеур Залмана</persName> из <placeName role="namesViewer"
       target="/names/Ляды.html">Ляд</placeName> к российским евреям. Рукописная копия из Военно-ученого архива.
     </p>
-    <table rendition="collection-index"><row>
-      <cell rendition="description">Описание</cell>
-      <cell rendition="date">Дата</cell>
-      <cell rendition="author">Кто</cell>
-      <cell rendition="addressee">Кому</cell>
-      <cell rendition="language">Язык</cell>
-      <cell rendition="document">Документ</cell>
-      <cell rendition="pages">Страницы</cell>
-      <cell rendition="transcriber">Расшифровка</cell>
-    </row></table>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/rnb211/documents/001.html">001</ref>
+        </cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p001-1" rendition="page">001</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p001-2" rendition="page">001об</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p002-1" rendition="page">002</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p002-2" rendition="page">002об</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p003-1" rendition="page">003</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p003-2" rendition="page">003об</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p004-1" rendition="page">004</ref>
+          <ref role="documentViewer" target="/collections/rnb211/documents/001.html#p004-2" rendition="missing-page"
+          >004об</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+    </table>
+    <p>Отсутствуют фотографии 1 страниц: 004об</p>
   </body></text>
 </TEI>
