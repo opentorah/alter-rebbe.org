@@ -1,42 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
-            <creation><date when="1799-04-30">Апреля 30 дня 1799 года</date></creation>
-      <abstract><p>Сопроводительное письмо Литовской казенной палаты в губернский надволрный суд при пересылаемом объяснении Сербиновича</p></abstract>
+      <abstract><p>
+        Сопроводительное письмо Литовской казенной палаты в губернский надволрный суд при пересылаемом объяснении
+        Сербиновича
+      </p></abstract>
+      <creation><date when="1799-04-30">Апреля 30 дня 1799 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="112-1"/>
     <fw type="docNum" place="left">№ 261</fw>
-    <fw type="note">Получено <date when="1799-05-02">2<hi rend="superscript">го</hi> маія 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="note">Получено <date when="1799-05-02">2<hi rend="superscript">го</hi> маія 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
     <fw type="pageNum" place="right">112.</fw>
     <fw type="note" place="left margin"><fw type="docNum">№ 1071.</fw></fw>
     <fw type="note" place="left margin">велъ</fw>
     <head>
-    <l>Изъ литовской Казенной палаты</l>
-    <l>въ литовскій Надворный судъ</l>
+      <l>Изъ литовской Казенной палаты</l>
+      <l>въ литовскій Надворный судъ</l>
     </head>
     <p>
-    <l>Въ сходство требованій онаго суда отъ</l>
-<l>26го сего мѣсяца подъ <fw type="docNum">№ 131<hi rend="superscript">м</hi></fw> сія Казенная</l>
-<l>палата отбравъ отъ господина губернскаго</l>
-<l>казначея сербиновича объясненіе, о произшествіи </l>
-<l>случившемся въ еврейской школѣ при отбираніи отъ</l>
-<l>виленскихъ кагальныхъ старшинъ и прочихъ ев</l>
-<l>реевъ свѣденій о мѣстѣ храненія книгъ  и о</l>
-<l>прочемъ, при семъ въ оной судъ въ орегиналѣ</l>
-<l>препровлождаетъ. <signed><unclear>??? ???</unclear></signed></l>
-<l><signed>Начальникъ стола Иванъ <unclear>Корсаковъ</unclear></signed></l>
-<l><signed>Регистраторъ Корнилій <unclear>???</unclear></signed></l>
-</p>
-<closer place="left">
-<l><date when="1799-04-30">Апреля 30<hi rend="superscript">го</hi> дня<lb/>
-1799. года</date></l>
-</closer>
-<fw type="note" place="left">Слуш<note place="end">слушано</note>: <date when="1799-05-03">3<hi rend="superscript">го</hi> маія</date></fw>
-  <pb n="112-2" missing="true"/>
+      <l>Въ сходство требованій онаго суда отъ</l>
+      <l>26го сего мѣсяца подъ <fw type="docNum">№ 131<hi rend="superscript">м</hi></fw> сія Казенная</l>
+      <l>палата отбравъ отъ господина губернскаго</l>
+      <l>казначея сербиновича объясненіе, о произшествіи</l>
+      <l>случившемся въ еврейской школѣ при отбираніи отъ</l>
+      <l>виленскихъ кагальныхъ старшинъ и прочихъ ев</l>
+      <l>реевъ свѣденій о мѣстѣ храненія книгъ и о</l>
+      <l>прочемъ, при семъ въ оной судъ въ орегиналѣ</l>
+      <l>препровлождаетъ. <signed><unclear>??? ???</unclear></signed></l>
+      <l><signed>Начальникъ стола Иванъ <unclear>Корсаковъ</unclear></signed></l>
+      <l><signed>Регистраторъ Корнилій <unclear>???</unclear></signed></l>
+    </p>
+    <closer place="left"><l><date when="1799-04-30">Апреля 30<hi rend="superscript">го</hi> дня<lb/>
+     1799. года</date></l></closer>
+    <fw type="note" place="left">Слуш<note place="end">слушано</note>: <date when="1799-05-03">3<hi rend="superscript"
+    >го</hi> маія</date></fw>
+    <pb n="112-2" missing="true"/>
   </body></text>
 </TEI>
