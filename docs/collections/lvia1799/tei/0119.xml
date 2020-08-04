@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,18 +15,74 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
+      <abstract><p>
+        Решение Литовского надворного суда о предоставлении <orgName role="namesViewer" target=
+        "/names/Литовское_губернское_правление.html">Губернскому правлению</orgName> копий дополнительных документов по
+        просьбе советника <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName>
+      </p></abstract>
+      <creation><date when="1799-05-11">1799 года мая 11 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Решение Литовского надворного суда о предоставлении <orgName role="namesViewer" target=
+        "/names/Литовское_губернское_правление.html">Губернскому правлению</orgName> копий дополнительных документов по
+        просьбе советника <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName>
+      </p></l>
+      <l>Дата: 1799-05-11</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p119-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0119.html#p119-1"/>
-    <pb xml:id="p119-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0119.html#p119-2"/>
+    <fw type="pageNum" place="right">119</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1799-05-11">1799<hi rend="superscript">го</hi> года маія 11<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ</l>
+      <l>Литовскаго Надворнаго Суда записано.</l>
+      <l><fw type="docNum">№ 3<hi rend="superscript">и</hi></fw>.</l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      губернскаго<lb/>
+       правленія</orgName>, въ коемъ прописываетъ, что го-</l>
+      <l>сподинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> при
+      докла-</l>
+      <l>дѣ сего Надворнаго суда сообщенія требу-</l>
+      <l>ющаго отъ него объясненія, объявилъ, что во</l>
+      <l>ономъ упомянута дополнительная прозьба</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>, но оной не приложено.
+      видѣть же</l>
+      <l>ея для дачи требуемаго свѣденія ему нужно,</l>
+      <l>а потому <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Правленіе</orgName>
+      требуетъ доставить въ</l>
+      <l>оное въ засвидѣтельствованной копіи вышеозна-</l>
+      <l>ченную дополнительную жалобу еврея оше-<lb/>
+       ровича, равно и довѣренность какая дана <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Оше-<lb
+      />
+       ровичу</persName> обще съ копіею той бумаги, при которой</l>
+      <l>она представлена въ судъ; ибо и о семъ госпо-</l>
+      <l>динъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> проситъ.
+      ПРИ-</l>
+      <l>КАЗАЛИ: съ изъясненной въ семъ сообщеніи до-</l>
+      <l>полнительной жалобы еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>
+      и</l>
+      <pb xml:id="p119-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/0119.html#p119-2"/>
+      <l>довѣренности отъ него въ сей судъ представ-</l>
+      <l>ленной обще съ бумагою при которой она</l>
+      <l>была подана засвидѣтельствованные копіи,</l>
+      <l>требуемые <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернскимъ
+      правленіемъ</orgName> по про-</l>
+      <l>шенію совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>
+      препроводить</l>
+      <l>во оное <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Правленіе</orgName> при
+      сообщеніи. Подлинной</l>
+      <l>за подписаніемъ господъ присудствующихъ></l>
+      <l>и за скрепою секретаря Павла Искрицкаго.</l>
+      <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+    </p>
   </body></text>
 </TEI>
