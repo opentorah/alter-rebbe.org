@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сопроводительное письмо <orgName ref="Литовское_губернское_правление">Литовского губернского
+        тправления</orgName>надворный суд с объяснением <persName ref="Елиашевич">Елиашевича</persName> и приложенными
+        им документами
+      </p></abstract>
+      <creation><date when="1799-05-14">Мая 14 дня 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="132-1"/>
+    <fw type="docNum" place="left">№ 299</fw>
+    <fw type="note">Получено <date when="1799-05-16">16<hi rend="superscript">го</hi> маія 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">132.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <fw type="note" place="left margin">№ 4212</fw>
+    <head>
+      <l>Изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName></l>
+      <l>въ Литовскій Губернскій Надворный Судъ.</l>
+    </head>
+    <p>
+      <l>Въ сходство сообщенія онаго суда отъ <date when="1799-04-26">26.<lb/>
+       числа прошедшаго апреля</date> за<fw type="docNum">№ 129<hi rend="superscript">м</hi></fw> сіе <orgName ref=
+      "Литовское_губернское_правление">Прав-<lb/>
+       леніе</orgName> препровождаетъ при семъ требованное</l>
+      <l>отъ г<hi rend="superscript">на</hi> совѣтника <persName ref="Елиашевич">Еліашевича</persName> объясне-</l>
+      <l>ніе съ копіями тѣхъ бумагъ, кои достав-</l>
+      <l>лены отъ виленскаго господина комен-</l>
+      <l>данта и кавалера <persName ref="Капцевич">Капцевича</persName> и кои гнъ</l>
+      <l>совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> почитаетъ нуж-</l>
+      <l>ными къ дѣлу. <date when="1799-05-14">Маія 14 дня 1799. года</date>.</l>
+      <l>Фердинандъ Контримъ</l>
+      <l>Протоколистъ Алексей Булавинъ</l>
+      <l>Повытчикъ Семенъ Дмитревскій</l>
+      <l><fw type="note" place="left">слуш<note place="end">слушано</note>: <date when="1799-05-17">17<hi rend=
+      "superscript">го</hi> маія</date></fw></l>
+    </p>
     <pb n="132-2" missing="true"/>
   </body></text>
 </TEI>
