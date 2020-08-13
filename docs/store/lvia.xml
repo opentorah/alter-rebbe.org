@@ -6,9 +6,11 @@
   <by selector="fund">
     <store n="378">
       <title>Канцелярия Виленского военного генерал-губернатора</title>
-      <by selector="year">
+      <by selector="case">
         <store file="collections/lvia1799.xml"/>
         <store file="collections/lvia1800.xml"/>
+        <store file="collections/lvia1800-2-2.xml"/>
+        <store file="collections/lvia1800-2-3.xml"/>
         <store file="collections/lvia1824.xml"/>
         <store file="collections/lvia1868.xml"/>
       </by>
