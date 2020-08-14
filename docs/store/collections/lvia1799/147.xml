@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author><persName ref="Капцевич">Капцевич</persName></author>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-05-09">мая 9 дня 1799 года</date></creation><abstract>Копия сопроводительного сообщения <persName ref="Капцевич">Капцевича</persName> с передаваемыми им <orgName ref="Литовское_губернское_правление">Губернскому правлению</orgName> оригиналами изъятых в <orgName ref="Виленский_кагал">виленском кагале</orgName> документов</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="147-1"/>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">147</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+    <l>Въ <orgName ref="Литовское_губернское_правление">Литовское Губернское правленіе</orgName></l>
+<l>отъ артиллеріи генералъ маіора вилѣнска-</l>
+<l>го коменданта и кавалера <persName ref="Капцевич">капцевича</persName></l>
+</head>
+<p>
+<l>въ слѣдствіе сообщенія онаго <orgName ref="Литовское_губернское_правление">правленія</orgName> подъ</l>
+<l><fw type="docNum">№ 1444<hi rend="superscript">м</hi></fw> отысканные мною, при удаленіи преж-</l>
+<l>нихъ <orgName ref="Виленский_кагал">вилѣнскаго кагала</orgName> старшинъ, книги,</l>
+<l>регистры и протчіе бумаги, а равно показа-</l>
+<l>нїя учиненныя въ городской полиціи пяти</l>
+<l>евреевъ, гдѣ и у кгого хранились тѣ книги</l>
+<l>и какїе злоупотребленїи дѣлали нѣкоторые</l>
+<l>изъ старшинъ того <orgName ref="Виленский_кагал">кагала</orgName>, съ протчи-</l>
+<l>ми такъже бумагами, при семъ въ оное</l>
+<l><orgName ref="Литовское_губернское_правление">Правленїе</orgName> препровождаю, прилагая при томъ</l>
+<l>всемъ тому опись съ означеніемъ во оной</l>
+<l>какіе бумаги, отъ кого имянно отобраны;</l>
+<l>чтожъ касается до обнаруживанїя утайки</l>
+<l>еврейскихъ душъ отъ ревизіи, объ найденныхъ</l>
+<l>уже сверхъ показанныхъ въ ревизіи 4,046<hi rend="superscript">ть</hi></l>
+<l>душъ; то съ учиненныхъ на польскомъ язы-</l>
+<l>кѣ всемъ живущимъ въ <placeName ref="Вильна">вильнѣ</placeName> евреямъ</l>
+<l>описей дѣлается переводъ на россійской</l>
+<l>языкъ, по переводѣ которыхъ немедленно</l>
+<l>потребное и вѣрное по сей части сведенїе</l>
+<l>не премину правленію доставить. У под-</l>
+<l>линнаго тако: комендантъ <signed><persName ref="Капцевич">Капцевичъ</persName></signed></l>
+<l>Съ подлиннаго вѣрно Протоколистъ</l>
+<l>Алексей бутовичъ</l>
+</p>
+<closer place="left">
+<l><fw type="docNum">№ 427<hi rend="superscript">й</hi></fw></l>
+<l><date when="1799-05-09">маїя 9 дня<lb/>
+1799 года</date></l>
+<l><placeName ref="Вильна">Вильно</placeName>.</l>
+</closer>
     <pb n="147-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
