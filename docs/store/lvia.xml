@@ -6,14 +6,34 @@
   <by selector="fund">
     <store n="378">
       <title>Канцелярия Виленского военного генерал-губернатора</title>
-      <by selector="case">
-        <store file="collections/lvia1799.xml"/>
-        <store file="collections/lvia1799-2.xml"/>
-        <store file="collections/lvia1799-2a.xml"/>
-        <store file="collections/lvia1800-2-2.xml"/>
-        <store file="collections/lvia1800-2-3.xml"/>
-        <store file="collections/lvia1824.xml"/>
-        <store file="collections/lvia1868.xml"/>
+      <by selector="year">
+        <store n="1799">
+          <by selector="case">
+            <store file="collections/lvia1799.xml"/>
+            <store file="collections/lvia1799-2.xml"/>
+            <store file="collections/lvia1799-2a.xml"/>
+          </by>
+        </store>
+        <store n="1800">
+          <by selector="case">
+            <store n="2">
+              <by selector="part">
+                <store file="collections/lvia1800-2-2.xml"/>
+                <store file="collections/lvia1800-2-3.xml"/>
+              </by>
+            </store>
+          </by>
+        </store>
+        <store n="1824">
+          <by selector="case">
+            <store file="collections/lvia1824.xml"/>
+          </by>
+        </store>
+        <store n="1869">
+          <by selector="case">
+            <store file="collections/lvia1868.xml"/>
+          </by>
+        </store>
       </by>
     </store>
   </by>
