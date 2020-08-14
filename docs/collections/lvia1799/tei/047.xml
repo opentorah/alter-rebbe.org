@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша_Ошерович</persName>
+      </author></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Прошение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> на польском
+        языке, поданное в Литовский надворный суд
+      </p></abstract>
+      <creation><date when="1799-03-29">29 марта 1799 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l><p>
+        Прошение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> на польском
+        языке, поданное в Литовский надворный суд
+      </p></l>
+      <l>Дата: 1799-03-29</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша_Ошерович</persName></l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p047-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/047.html#p047-1"/>
+    <fw type="docNum" place="left">№ 206</fw>
+    <fw type="note">Подано <date when="1799-03-29">29<hi rend="superscript">го</hi> марта 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">47</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <pb xml:id="p047-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/047.html#p047-2"/>
+    <pb xml:id="p048-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/047.html#p048-1"/>
+    <fw type="pageNum" place="right">48</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <pb xml:id="p048-2" rendition="missing-page" role="facsimileViewer" target=
+    "/collections/lvia1799/facs/047.html#p048-2"/>
+  </body></text>
+</TEI>
