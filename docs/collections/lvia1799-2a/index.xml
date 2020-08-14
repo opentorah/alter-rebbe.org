@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader><fileDesc>
+    <titleStmt/>
+    <publicationStmt>
+      <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+      <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+      Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+    </publicationStmt>
+    <sourceDesc><p>Facsimile</p></sourceDesc>
+  </fileDesc></teiHeader>
+  <text><body>
+    <l>архив <ref role="collectionViewer" target="/by/архив/LVIA/index.html">LVIA</ref>: Литовский государственный
+    исторический архив (Вильнюс)</l>
+    <l>фонд <ref role="collectionViewer" target="/by/архив/LVIA/фонд/378/index.html">378</ref>: Канцелярия Виленского
+    военного генерал-губернатора</l>
+    <head>дело 1799-2a</head>
+    <span/>
+    <p>
+      <l>Получено из архива в такой форме:</l>
+      <l>378-1799-2a (260-265) Записки о проверке финансовой деятельности общины</l>
+      <l>378-1799-2a (1019-1024) Выписки из доставленных цензуре бумаг</l>
+    </p>
+    <p>
+      <l>Описания в <ref target="http://cahjp.nli.org.il/">CAHJP</ref> дел из этой коллекции:</l>
+      <l>378 B/S 1799 2a extract. Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: "Об устройстве в
+      <placeName role="namesViewer" target="/names/Польша.html">Польше</placeName> порядка и прочих распряжений служащих
+      благу народа" переписка по взаимным претензиям <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >"кагала"</orgName> и <orgName role="namesViewer" target="/names/Хасиды.html">"каролинов"</orgName> список книг
+      <placeName role="namesViewer" target="/names/Вильна.html">виленской</placeName> цензуры. Сделаны 7 сканов дела и 7
+      - списка книг виленской цензуры.</l>
+    </p>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"><p>
+          Сборник инструкций для цензурных органов, составленный в 1799 г. и касающийся в том числе ограничения на ввоз
+          в Россию еврейских книг
+        </p></cell>
+        <cell rendition="date"/>
+        <cell rendition="author">?</cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html"
+        >1019</ref></cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1019-1" rendition="page"
+          >1019</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1019-2" rendition=
+          "missing-page">1019об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1020-1" rendition=
+          "missing-page">1020</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1020-2" rendition="page"
+          >1020об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1021-1" rendition="page"
+          >1021</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1021-2" rendition="page"
+          >1021об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1022-1" rendition="page"
+          >1022</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1022-2" rendition="page"
+          >1022об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1023-1" rendition="page"
+          >1023</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1023-2" rendition="page"
+          >1023об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1024-1" rendition="page"
+          >1024</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2a/documents/1019.html#p1024-2" rendition=
+          "missing-page">1024об</ref>
+        </cell>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
+      </row>
+    </table>
+    <p>Отсутствуют фотографии 3 страниц: 1019об 1020 1024об</p>
+  </body></text>
+</TEI>
