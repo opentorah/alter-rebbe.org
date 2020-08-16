@@ -1,84 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <author><persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName></author>
-        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
-        </editor>
-      </titleStmt>
-      <publicationStmt>
-        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
-        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
-        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
-      </publicationStmt>
-      <sourceDesc><p>Facsimile</p></sourceDesc>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Капцевич">Капцевич</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Доклад <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName> <persName role=
-        "namesViewer" target="/names/Лассий.html">Лассию</persName> о финансовых злоупотреблениях <orgName role=
-        "namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>, выявленных при изъятии кагальных
-        книг прихода и расхода, и о смене состава <orgName role="namesViewer" target="/names/Виленский_кагал.html"
-        >виленского кагала</orgName>
+        Доклад <persName ref="Капцевич">Капцевича</persName> <persName ref="Лассий">Лассию</persName> о финансовых
+        злоупотреблениях <orgName ref="Виленский_кагал">виленского кагала</orgName>, выявленных при изъятии кагальных
+        книг прихода и расхода, и о смене состава <orgName ref="Виленский_кагал">виленского кагала</orgName>
       </p></abstract>
       <creation><date when="1799-02-09">февраля 9 дня 1799 года</date></creation>
-      <langUsage><language ident="ru"/></langUsage>
-      <correspDesc><correspAction><persName role="namesViewer" target="/names/Лассий.html">Лассию</persName>
-      </correspAction></correspDesc>
-      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+      <correspDesc><correspAction><persName ref="Лассий" role="addressee">Лассию</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <p rendition="document-header">
-      <l><p>
-        Доклад <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName> <persName role=
-        "namesViewer" target="/names/Лассий.html">Лассию</persName> о финансовых злоупотреблениях <orgName role=
-        "namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>, выявленных при изъятии кагальных
-        книг прихода и расхода, и о смене состава <orgName role="namesViewer" target="/names/Виленский_кагал.html"
-        >виленского кагала</orgName>
-      </p></l>
-      <l>Дата: 1799-02-09</l>
-      <l>Кто: <persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName></l>
-      <l>Кому: <persName role="namesViewer" target="/names/Лассий.html">Лассию</persName></l>
-    </p>
-    <pb xml:id="p037-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/036.html#p037-1"/>
+    <pb n="037-1"/>
     <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
     <fw type="pageNum" place="right">36</fw>
     <fw type="note" place="left margin">целъ</fw>
     <salute>
-      <l>Господину отъ инфантеріи литовскому генералу и кавалеру <persName role="namesViewer" target=
-      "/names/Лассий.html">лассію</persName>.</l>
-      <l>Отъ артиллеріи генералъ-маіора виленскаго комменданта кавалера <persName role="namesViewer" target=
-      "/names/Капцевич.html">капцевича</persName></l>
+      <l>Господину отъ инфантеріи литовскому генералу и кавалеру <persName ref="Лассий">лассію</persName>.</l>
+      <l>Отъ артиллеріи генералъ-маіора виленскаго комменданта кавалера <persName ref="Капцевич">капцевича</persName>
+      </l>
     </salute>
     <p>
       <l>Исполняя повеленіе вашего высокопревосходительства данное .2<hi rend="superscript">го</hi> числа<lb/>
        сего мца<note place="end">месяца; слово записано с титлом над ним</note> подъ № <note place="end">номер не
       указан</note> Я съ назначеннымъ въ помощь мнѣ двумя господами</l>
-      <l>гражданскими чиновниками приступилъ къ открытію деиствія <orgName role="namesViewer" target=
-      "/names/Виленский_кагал.html">виленскаго<lb/>
+      <l>гражданскими чиновниками приступилъ къ открытію деиствія <orgName ref="Виленский_кагал">виленскаго<lb/>
        евреискаго кагала</orgName> и на сей канѣцъ. 4го. числа призвавъ четырехъ школьниковъ въ</l>
       <l>двухъ <choice><sic>вернихъ</sic><corr>вѣрниковъ</corr></choice> и четырехъ кагальныъхъ старшинъ спрашивалъ
       оныхъ о книгахъ</l>
       <l>и регистрахъ прихода и расхода кои отозвались что расходъ веденъ и записываемъ</l>
-      <l>былъ верникомъ коробочнаго дохода еврѣемъ <persName role="namesViewer" target="/names/Зыскинд.html"
-      >Зыскою</persName> когда жъ сей зыска былъ</l>
+      <l>былъ верникомъ коробочнаго дохода еврѣемъ <persName ref="Зыскинд">Зыскою</persName> когда жъ сей зыска былъ</l>
       <l>вопрошаемъ о техъ книгахъ и регистрахъ то преждѣ запираясь и отъговариваясь</l>
       <l>долго послѣ представилъ въместо подлинныхъ книгъ подложные и фалшивые</l>
       <l>не бывъ уличаемъ тремя кагальными членами не соучаствующими въ безъ зако</l>
-      <l>ніяхъ и долго увещеваемъ едва согласился опасаясь мщенія <orgName role="namesViewer" target=
-      "/names/Виленский_кагал.html">кагала</orgName> И</l>
+      <l>ніяхъ и долго увещеваемъ едва согласился опасаясь мщенія <orgName ref="Виленский_кагал">кагала</orgName> И</l>
       <l>духовнаго суда показать спрятанныя имъ въ погребу двѣ подлинные книги</l>
       <l>и протчие бумаги И потомъ уже признался что въместо настоящихъ</l>
-      <l>книгъ дѣлалъ новые на чердакѣ въ домѣ кагальнаго старшины <persName role="namesViewer" target=
-      "/names/Мовша_Ошерович.html">моишежа<lb/>
-       ошеровича</persName> и по приказу его и другаго кагальнаго жъ старшины <persName role="namesViewer" target=
-      "/names/Лейба_Беркович.html">леибы берковича</persName></l>
-      <l>и по совету еврея <persName role="namesViewer" target="/names/Шимель_Вульфович.html">шимеля
-      вульфовича</persName> которые одне только и разпоряжали</l>
-      <l>въ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалѣ</orgName> въ семъ сами собою не
-      отънасясь къ протчимъ сочленамъ на что</l>
+      <l>книгъ дѣлалъ новые на чердакѣ въ домѣ кагальнаго старшины <persName ref="Мовша_Ошерович">моишежа<lb/>
+       ошеровича</persName> и по приказу его и другаго кагальнаго жъ старшины <persName ref="Лейба_Беркович">леибы
+      берковича</persName></l>
+      <l>и по совету еврея <persName ref="Шимель_Вульфович">шимеля вульфовича</persName> которые одне только и
+      разпоряжали</l>
+      <l>въ <orgName ref="Виленский_кагал">кагалѣ</orgName> въ семъ сами собою не отънасясь къ протчимъ сочленамъ на
+      что</l>
       <l>и свидетелеи представить обязался наиденная жъ въ погребе настоящая</l>
       <l>книга понедельно подписана некоторыми кагальными старшинами хаключаетъ</l>
       <l>въ себѣ одной приходъ и расходъ а полъделанныя разделены на всѣ то есть</l>
@@ -87,7 +57,7 @@
       <l>никакъ нужными и полезными для общества почесть нѣлзя И кой</l>
       <l>обънаруживаютъ безъзаконную растрату и раздачу собираемыхъ</l>
       <l><signed><unclear>???</unclear></signed><note place="end">подпись на нижнем поле страницы</note></l>
-      <pb xml:id="p037-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/036.html#p037-2"/>
+      <pb n="037-2"/>
       <l>съ евреискаго народа денѣгъ а именно какъ показано по однои только</l>
       <l>книгѣ коробочнаго збора городничему меньшу наличными деньгами сто</l>
       <l>шесть рублей №. 106 Ему жъ въ два мца<note place="end">месяца; слово записано с титлом над ним</note> на
@@ -96,8 +66,7 @@
       <l>петдесятъ рублеи № 50<hi rend="superscript">и</hi>. Да фактору жъ его городничаго на каждои мцъ<note place=
       "end">месяц; слово записано с титлом над ним</note> по</l>
       <l>четыре рубля №4. сверхъ же тогозаписано на какихъ то неизъвестныхъ</l>
-      <l>людеи двести рублеи № 200. такъже по запискамъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
-      >кагала</orgName> на сахаръ</l>
+      <l>людеи двести рублеи № 200. такъже по запискамъ <orgName ref="Виленский_кагал">кагала</orgName> на сахаръ</l>
       <l>кофѣ и на напитки неизъвестнымъ какимъ то особамъ да несколко сотъ</l>
       <l>рублей такъжѣ на подарки повѣтовымъ какимъ то начальникамъ сто</l>
       <l>рублей № 100. И на протчія тому подобныя расходы показано немалое число</l>
@@ -105,15 +74,13 @@
       <l>утаены немалые суммы какъ совсемъ и въ приодѣ въ переделанныхъ книгахъ</l>
       <l>не показаны и о коихъ удостоверяютъ вышепоказанные несоучавствующіе</l>
       <l>въ винѣ кагальные А именно выбранныхъ поголовныхъ денегъ за сентябрскую</l>
-      <l>половину съ живущихъ въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> еврѣевъ
-      дѣвятьсотъ рублеи № 900.</l>
+      <l>половину съ живущихъ въ <placeName ref="Вильна">вильнѣ</placeName> еврѣевъ дѣвятьсотъ рублеи № 900.</l>
       <l>за ту же половину съ живущихъ въ поветѣ пятьсотъ семь рублей № 507.</l>
       <l>да рекрутскихъ денѣгъ следующихъ отъ живущихъ въ поветѣ еврѣевъ кой</l>
       <l>отъданы безъзаконно на отъкупъ пятьсотъ петнатцать рублеи</l>
       <l>№ 515. выбранныхъ за такъ называемые раискіе яблоки четыреста</l>
       <l>петдесятъ рублей № 450. Да вырученныхъ за продажу четвертой части</l>
-      <l>екзакційнова збора и отъданнаго <persName role="namesViewer" target="/names/Шимель_Вульфович.html">шимелу
-      вульфовичу</persName> на отъкупъ</l>
+      <l>екзакційнова збора и отъданнаго <persName ref="Шимель_Вульфович">шимелу вульфовичу</persName> на отъкупъ</l>
       <l>три тысячи сто петдесятъ рублеи № 3150. А протчіе бумаги изъ</l>
       <l>наиденныхъ въ погребу и отысканные у школьнаго писаря о протчихъ</l>
       <l>подобныхъ кагала дѣяніяхъ еще не разсматриваны. При семъ за нужное</l>
@@ -122,14 +89,13 @@
       <l>вовали протчимъ членамъ сочленамъ въ деиствіяхъ ихъ но еще увещевали оныхъ</l>
       <l>чтобъ не поступали противъ справедливости и по своеи волѣ а особливо</l>
       <l>при отдачѣ непозволеннымъ образомъ на отъкупъ взысканія рекрутскихъ</l>
-      <l><signed><persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName></signed></l>
+      <l><signed><persName ref="Капцевич">Капцевичъ</persName></signed></l>
     </p>
-    <pb xml:id="p038-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/036.html#p038-1"/>
+    <pb n="038-1"/>
     <fw type="pageNum" place="right">38</fw>
     <fw type="note" place="left margin">ис</fw>
     <p>
-      <l>Складочныхъ денѣгъ <persName role="namesViewer" target="/names/Шимель_Вульфович.html">шимелю
-      вульфовичу</persName> что какъ сами они приз-</l>
+      <l>Складочныхъ денѣгъ <persName ref="Шимель_Вульфович">шимелю вульфовичу</persName> что какъ сами они приз-</l>
       <l>наются было причинною многихъ злоупотребленіи а посему видя явныя</l>
       <l>преступленія при самомъ начатіи порученнаго мнѣ изысканія и осно</l>
       <l>вываясь на повеленіи вашего высокопревосходительства не усумнился</l>
@@ -139,12 +105,11 @@
       <l>торые и вступили .7<hi rend="superscript">го</hi>. числа и въ отправленіе настоящихъ своихъ обязан-</l>
       <l>ностяхъ и на семъ дѣло сіе остановилось до полученія далнеишаго отъ</l>
       <l>вашего высокопревосходительства повеленія._ Подлинное подписалъ</l>
-      <l>Генералъ маіоръ <persName role="namesViewer" target="/names/Капцевич.html">капцевичъ</persName></l>
-      <l><signed><persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName></signed></l>
+      <l>Генералъ маіоръ <persName ref="Капцевич">капцевичъ</persName></l>
+      <l><signed><persName ref="Капцевич">Капцевичъ</persName></signed></l>
     </p>
     <closer place="left"><l><date when="1799-02-09">февраля 9<hi rend="superscript">го</hi> дня<lb/>
      1799 года</date></l></closer>
-    <pb xml:id="p038-2" rendition="missing-page" role="facsimileViewer" target=
-    "/collections/lvia1799/facs/036.html#p038-2"/>
+    <pb n="038-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
