@@ -26,6 +26,7 @@ layout: page
 просто интересующихся.
 Для желающих помочь имеется <a href="/contributing.html" target="collectionViewer">инструкция</a>.    
 
+Новости сайта публикуются в [блоге OpenTorah.org](http://www.opentorah.org/tags/#alter-rebbe-org).
 
 ## Что мы имеем ##
 
@@ -138,11 +139,18 @@ layout: page
 
 ## Colophon ##
 
-Documents and code for the website are in a GitHub <a href="https://github.com/opentorah/alter-rebbe.org">
+Documents are in a GitHub <a href="https://github.com/opentorah/alter-rebbe.org">
       <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
       <span class="username">repository</span>
     </a> <a href="https://github.com/opentorah/alter-rebbe.org/actions">
   <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg" alt="CI badge"/>
+</a>.
+
+Code that generates the site is in a GitHub <a href="https://github.com/opentorah/opentorah">
+      <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
+      <span class="username">repository</span>
+    </a> <a href="https://github.com/opentorah/opentorah/actions">
+  <img src="https://github.com/opentorah/opentorah/workflows/CI/badge.svg" alt="CI badge"/>
 </a>.
 
 Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
