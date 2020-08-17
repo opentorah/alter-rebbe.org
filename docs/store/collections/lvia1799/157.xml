@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc>
+          <creation><date when="1799-05-24">1799 года мая 24 дня</date></creation><abstract>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о выдаче <persName ref="Мовша_Ошерович">Мовше Ошеровичу</persName> по его прошению копий объяснений (письменных показаний) должностных лиц-участников отстранения первоначального состава <orgName ref="Виленский_кагал">виленского кагала</orgName></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="157-1"/>
+    <fw type="pageNum" place="right">157</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+    <l><date when="1799-05-24">1799<hi rend="superscript">го</hi> года маія 24<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго надворнаго<lb/>
+    суда</orgName> записано</l>
+<l><fw type="docNum">№ 5<hi rend="superscript">й</hi></fw></l>
+<p>
+<l>СЛУШАЛИ: прошеніе еврея <persName ref="Мовша_Ошерович">мойжеша ошеровича</persName>, въ коемъ</l>
+<l>прописываетъ, что взявъ изъ сего надворнаго суда копію</l>
+<l>объясненія совѣтника <persName ref="Елиашевич">Еліашевича</persName>, къ лучшему объясне-</l>
+<l>нію дѣла желаетъ вѣдать о таковыхъ же представлен-</l>
+<l>ныхъ въ судъ комендантомъ <persName ref="Капцевич">капцевичемъ</persName>, плацъ ма-</l>
+<l>іоромъ палкинымъ, надзирателемъ Гескою и казначе-</l>
+<l>емъ Сербиновичемъ; почему проситъ оныя объясненіи</l>
+<l>ему сообщить. ПРИКАЗАЛИ: требуемое евреемъ <persName ref="Мовша_Ошерович">оше-<lb/>
+ровичемъ</persName> копій съ объясненій въ сей судъ присланныхъ</l>
+<l>выдать ему за скрепою секретаря. Подлинной за</l>
+<l>подписаніемъ господъ присудствующихъ и за скре-</l>
+<l>пою секретаря Павла Искрицкаго._</l>
+<l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+</p>
+</head>
     <pb n="157-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
