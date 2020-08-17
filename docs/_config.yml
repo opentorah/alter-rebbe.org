@@ -1,47 +1,29 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-# I already do not show it in the footer, so the on;y thing this controls is the "Home" link - and I want it to be...:
-#title: 19 Kislev Archive
 title: 'Документы'
-
 author: "www.alter-rebbe.org"
 email: dub@opentorah.org
 
 description: >- # this means to ignore newlines until "baseurl:"
   documents related to early Chabad history
-
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://www.alter-rebbe.org"
 timezone: America/New_York
 google_analytics: UA-154490117-1
 
-#github_username:  dubinsky
-
-theme: minima
 markdown: kramdown
-
-exclude:
-#  - store/collections/
-#  - collections/
-#  - store/names/
-#  - names/
-  - buld.gradle
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
+theme: minima
 
 header_pages:
   - names.html
   - collections.html
-  - blog.md
   - help.md
   - about.md
 
+exclude:
+  #  - store/collections/
+  #  - collections/
+  #  - store/names/
+  #  - names/
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
