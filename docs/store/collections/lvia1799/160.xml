@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author></titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract>Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> <orgName ref=
+      "Литовский_надворный_суд">Литовскому надворному суду</orgName></abstract>
+      <creation><date when="1799-05-23">1799 года мая 23 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="160-1"/>

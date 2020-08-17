@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt><author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошерович</persName>
+      </author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,16 +12,20 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Прошение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>
+      <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName>
+      </abstract>
+      <creation><date when="1799-05-23">1799 года мая 23 дня</date></creation>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l>Прошение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> <orgName
+      role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName></l>
+      <l>Дата: 1799-05-23</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошерович</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p160-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/160.html#p160-1"/>
