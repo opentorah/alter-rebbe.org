@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,19 +15,57 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Распоряжение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворного
+      суда</orgName> о предоставлении <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовшей
+      Ошеровичем</persName> доказательств и свидетелей по делу в связи споданной им жалобой</abstract>
+      <creation><date when="1799-05-17">1799 года мая 17 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Распоряжение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворного суда</orgName>
+      о предоставлении <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовшей Ошеровичем</persName>
+      доказательств и свидетелей по делу в связи споданной им жалобой</l>
+      <l>Дата: 1799-05-17</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p149-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/149.html#p149-1"/>
+    <fw type="pageNum" place="right">149</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><date when="1799-05-17">1799<hi rend="superscript">го</hi> года маія 17<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литов-<lb/>
+       скаго Надворнаго суда</orgName> записано.</l>
+      <l><fw type="docNum">№ 4<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      Губернскаго Правленія</orgName>,</l>
+      <l>при которомъ въ сходство требованія сего <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Надворнаго Су-<lb/>
+       да</orgName> препровождаетъ взятое отъ господина совѣтника</l>
+      <l>Еліашевича объясненіе съ копіями бумагъ, кои достав-</l>
+      <l>лены отъ господина виленскаго коменданта и кава-</l>
+      <l>лера <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName>, и кои совѣтникъ <persName
+      role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> почи-</l>
+      <l>таетъ нужнымъ къ дѣлу. ПРИКАЗАЛИ: еврея</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName> призвавъ въ
+      присудствіе сего</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">суда</orgName> дать ему копію съ
+      объясненія господина совѣ-</l>
+      <l>тника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> съ тѣмъ, дабы онъ безъ
+      продол-</l>
+      <l>женія времени на утвержденіе обидъ въ еврейской</l>
+      <l>школѣ причиненныхъ представилъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сему
+      суду</orgName> свои до-</l>
+      <l>казательства и свдѣтелей, показавъ сихъ сослѣ-</l>
+      <l>днихъ по именамъ. Подлинной за подписаніемъ господъ</l>
+      <l>присудствующихъ из скрепою секретаря Павла</l>
+      <l>Искрицкаго. Протоколисть <signed>Јосифъ Волковъ</signed></l>
+    </p>
     <pb xml:id="p149-2" rendition="missing-page" role="facsimileViewer" target=
     "/collections/lvia1799/facs/149.html#p149-2"/>
   </body></text>
