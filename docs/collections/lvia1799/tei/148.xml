@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,19 +15,78 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Изложение показаний <persName role="namesViewer" target="/names/Зыскинд.html">Зыскинда</persName> об
+      обстоятельствах составления подложных приходно-расходных книг <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">виленского кагала</orgName> и местонахождении настоящих и измененных
+      документов</abstract>
+      <creation><date when="1799-02-04">1799 года февраля 4 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Изложение показаний <persName role="namesViewer" target="/names/Зыскинд.html">Зыскинда</persName> об
+      обстоятельствах составления подложных приходно-расходных книг <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">виленского кагала</orgName> и местонахождении настоящих и измененных документов</l>
+      <l>Дата: 1799-02-04</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p148-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/148.html#p148-1"/>
-    <pb xml:id="p148-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/148.html#p148-2"/>
+    <fw type="pageNum" place="right">148.</fw>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <p>
+      <l><date when="1799-02-04">1799 года февраля 4. дня</date> въ вилѣнской комендант-</l>
+      <l>ской канцеляріи при г<hi rend="superscript">хъ</hi> Его превосходительствѣ ге-</l>
+      <l>нералъ маїорѣ комендантѣ и кавалерѣ <persName role="namesViewer" target="/names/Капцевич.html">капце-<lb/>
+       вичѣ</persName>, совѣтникѣ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичѣ</persName> и
+      губернскомъ</l>
+      <l>казначее Сербиновичѣ, вилѣнской еврей, состоящій</l>
+      <l>при <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалѣ</orgName> верникомъ, <persName
+      role="namesViewer" target="/names/Зыскинд.html">Зискимъ берковичъ</persName>, на</l>
+      <l>спрашиваніе по увещеваніи о показаніи истинны</l>
+      <l>объявилъ:</l>
+    </p>
+    <p>
+      <l>Что <orgName role="namesViewer" target="/names/Виленский_кагал.html">вилѣнскаго кагала</orgName> настоящая о
+      приходѣ</l>
+      <l>съ коробочнаго збора чинимаго съ еврейскаго об-</l>
+      <l>щества и о расходѣ изъ сей суммы одна книга</l>
+      <l>находится у него въ собственномъ его домѣ,</l>
+      <l>а передѣланная изъ оной на двѣ другія, одна о</l>
+      <l>приходѣ, а другая о расходѣ съ перемѣненіемъ</l>
+      <l>прихода и расхода, и еще третья о выдаваемыхъ</l>
+      <l>и кому имянно дровахъ, лѣжатъ въ кагальной</l>
+      <l>избѣ въ шкафе, отъ которой и ключъ у него имѣ-</l>
+      <l>ется._ Передѣлывалъ же онъ изъ настоящей под</l>
+      <l>ложныя новыя 1798 года въ ноябрѣ мце<note place="end">месяце</note> на</l>
+      <l>чердакѣ въ домѣ кагальнаго старшины <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мой-<lb/>
+       жеша ошеровича</persName> по приказанію его <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >ошеровича</persName></l>
+      <l>и другаго кагальнаго жъ старшины <persName role="namesViewer" target="/names/Лейба_Беркович.html">Лейбы бер-<lb
+      />
+       ковича</persName>, и по совѣту еврей <persName role="namesViewer" target="/names/Шимель_Вульфович.html">шимѣля
+      вульфовича</persName>,</l>
+      <l>которыя однѣ только и распоряжали въ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кага-<lb
+      />
+       лѣ</orgName> всемъ сами собою, на что и свидѣтелей пред-</l>
+      <l>ставить обязался. Какіежъ перемѣны подѣ-</l>
+      <l>ланы въ новыхъ книгахъ, противу настоя-</l>
+      <l>щей, то все то при повѣркѣ оныхъ обстоятельно</l>
+      <pb xml:id="p148-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/148.html#p148-2"/>
+      <l>можно найти. и сіе показалъ онъ по самой</l>
+      <l>чистой совѣсти и правдѣ подвергая себя</l>
+      <l>въ противномъ случаѣ , ежелибы изобли-</l>
+      <l>ченъ былъ въ утайкѣ чего о приходахъ</l>
+      <l>поступавшихъ въ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> и расходахъ
+      <orgName role="namesViewer" target="/names/Виленский_кагал.html">ка-<lb/>
+       галомъ</orgName> чинимыхъ, поступленію по законамъ. У подлиннаго тако: <persName role="namesViewer" target=
+      "/names/Зыскинд.html">Зискимъ<lb/>
+       берковичъ</persName>. Съ подлиннымъ вѣрно Протоко-</l>
+      <l>листъ <signed>Алексей Бутовичъ</signed></l>
+      <l>Читалъ повытчикъ <signed>Семенъ Дмитревскій</signed></l>
+    </p>
   </body></text>
 </TEI>
