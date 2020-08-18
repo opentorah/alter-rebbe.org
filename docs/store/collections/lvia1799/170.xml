@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>Перевод на русский - см. <ref target="/lvia1799/516">516</ref></abstract></profileDesc>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-06-28">1799 года июня месяца 28 дня/ июля 9 дня</date></creation>
+    <abstract>Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, представленное в <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName>. Перевод на русский - см. <ref target="/lvia1799/516">516</ref></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="170-1"/>
