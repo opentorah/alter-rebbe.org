@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-06-03">1799 года июня 3/14 дня</date></creation>
-    <abstract>Прошение Мовши Ошеровича на польском языке в литовский надворный суд</abstract></profileDesc>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author></titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract>Прошение Мовши Ошеровича на польском языке в литовский надворный суд</abstract>
+      <creation><date when="1799-06-03">1799 года июня 3/14 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="164-1"/>
