@@ -22,7 +22,10 @@
     <name n="фонд" lang="ru"/>
   </selector>
   <selector><name n="разряд" lang="ru"/></selector>
-  <selector><name n="опись" lang="ru"/></selector>
+  <selector>
+    <name n="inventory" lang="en"/>
+    <name n="опись" lang="ru"/>
+  </selector>
   <selector>
     <name n="year" lang="en"/>
     <name n="год" lang="ru"/>
