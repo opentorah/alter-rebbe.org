@@ -1444,8 +1444,11 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description">?</cell>
-        <cell rendition="date"/>
+        <cell rendition="description">Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+        >Литовского надворного суда</orgName> о выдаче <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Мовше Ошеровичу</persName> по его прошению копий документов, представленных советником <persName role=
+        "namesViewer" target="/names/Елиашевич.html">Елиашевичем</persName></cell>
+        <cell rendition="date">1799-06-07</cell>
         <cell rendition="author"/>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
@@ -1459,13 +1462,17 @@
           <ref role="documentViewer" target="/collections/lvia1799/documents/165.html#p166-2" rendition="missing-page"
           >166об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
-        <cell rendition="description">Перевод на русский - см. <ref role="documentViewer" target=
-        "/collections/lvia1799/documents/516.html">516</ref></cell>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
+        <cell rendition="description">Объяснение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+        Ошеровича</persName> на польском языке, представленное в <orgName role="namesViewer" target=
+        "/names/Литовский_надворный_суд.html">Литовский надворный суд</orgName>. Перевод на русский - см. <ref role=
+        "documentViewer" target="/collections/lvia1799/documents/516.html">516</ref></cell>
+        <cell rendition="date">1799-06-28</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша
+        Ошерович</persName></cell>
         <cell rendition="addressee"/>
         <cell rendition="language">pl</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799/documents/170.html"
