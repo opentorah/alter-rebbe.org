@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt><author><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошерович</persName>
+      </author></titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,18 +12,23 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>Перевод на русский - см. <ref role="documentViewer" target="/collections/lvia1799/documents/516.html"
-      >516</ref></abstract>
+      <abstract>Объяснение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>
+      на польском языке, представленное в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >Литовский надворный суд</orgName>. Перевод на русский - см. <ref role="documentViewer" target=
+      "/collections/lvia1799/documents/516.html">516</ref></abstract>
+      <creation><date when="1799-06-28">1799 года июня месяца 28 дня/ июля 9 дня</date></creation>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <p rendition="document-header">
-      <l>Перевод на русский - см. <ref role="documentViewer" target="/collections/lvia1799/documents/516.html">516</ref>
-      </l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l>Объяснение <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> на
+      польском языке, представленное в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >Литовский надворный суд</orgName>. Перевод на русский - см. <ref role="documentViewer" target=
+      "/collections/lvia1799/documents/516.html">516</ref></l>
+      <l>Дата: 1799-06-28</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовша Ошерович</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p170-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799/facs/170.html#p170-1"/>
