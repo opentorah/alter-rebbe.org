@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName ref="Фризель">Фризель</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сопроводительное письмо <persName ref="Фризель">Фризеля</persName> при передаче копии предписания <persName ref=
+        "Лассий">Лассия</persName> в <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName>
+      </p></abstract>
+      <creation><date when="1799-03-28">28 марта 1799 года</date></creation>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <pb n="053-1"/>
+    <fw type="pageNum" place="right">53.</fw>
+    <fw type="docNum">№ 207</fw>
+    <fw type="note" place="left">Получено <date when="1799-03-29">29<hi rend="superscript">го</hi> марта 1799<hi rend=
+    "superscript">го</hi> года</date></fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+      <l>Дѣйствительнаго статскаго совѣтника <persName ref="Фризель">Литов-<lb/>
+       скаго гражданскаго губернатора</persName> и кавалера.</l>
+      <l><orgName ref="Литовский_надворный_суд">Литовскому Губернскому надворному Суду</orgName>.</l>
+    </head>
+    <p>
+      <l>Съ предписанія господиномъ генераломъ отъ инфантеріи</l>
+      <l>Литовскимъ генераломъ губернаторомъ и кавалеромъ</l>
+      <l><persName ref="Лассий">Лассіемъ</persName>, виленскому коменданту господину генералу ма</l>
+      <l>іору <persName ref="Капцевич">Копцевичу</persName> даннаго, и мнѣ въ копіи отъ его высо-</l>
+      <l>копревосходительства сообщеннаго, о доставленіи оному</l>
+      <l><orgName ref="Литовский_надворный_суд">суду</orgName> по требованіямъ его свѣденій, нужныхъ для произ-</l>
+      <l>веденія онымъ слѣдствія, по жалобѣ бывшихъ кагаль</l>
+      <l>ныхъ, якобы причинены имъ при отрѣшеніи разныя</l>
+      <l>обиды, для свѣденія онаго суда препровождаю при семъ</l>
+      <l>копію <signed><persName ref="Фризель">Иванъ Фризель</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 265.</fw></l>
+      <l>= <date when="1799-03-28">28 марта 1799. года</date>._</l>
+      <l>Слуш<note place="end">слушано</note>: <date when="1799-03-31">31<hi rend="superscript">го</hi> марта</date></l>
+    </closer>
+    <pb n="053-2" missing="true" empty="true"/>
+  </body></text>
+</TEI>
