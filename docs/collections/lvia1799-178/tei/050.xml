@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author/></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>Выпись из "гродских книг Виленского повета"</p></abstract>
+      <creation><date when="1799-03-23">23 марта (3 апреля по н.ст.) 1799 года</date></creation>
+      <langUsage><language ident="pl"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="pl"><body>
+    <p rendition="document-header">
+      <l><p>Выпись из "гродских книг Виленского повета"</p></l>
+      <l>Дата: 1799-03-23</l>
+      <l>Кто:</l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p049-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/050.html#p049-2"
+    />
+    <pb xml:id="p050-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/050.html#p050-1"
+    />
+    <pb xml:id="p050-2" rendition="missing-page" role="facsimileViewer" target=
+    "/collections/lvia1799-178/facs/050.html#p050-2"/>
+  </body></text>
+</TEI>

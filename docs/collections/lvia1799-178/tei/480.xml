@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><author/></titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract/>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l/>
+      <l>Дата:</l>
+      <l>Кто:</l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p480-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/480.html#p480-1"
+    />
+    <pb xml:id="p480-2" rendition="missing-page" role="facsimileViewer" target=
+    "/collections/lvia1799-178/facs/480.html#p480-2"/>
+  </body></text>
+</TEI>

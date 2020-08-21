@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Лассий.html">Лассий</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Копия предписания <persName role="namesViewer" target="/names/Лассий.html">Лассия</persName> <persName role=
+        "namesViewer" target="/names/Капцевич.html">Капцевичу</persName> о предоставлениопказаний <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName> об
+        обстоятельствах отрешения кагальных старшин
+      </p></abstract>
+      <creation><date when="1799-03-24">24 марта 1799 года</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <correspDesc><correspAction><persName role="namesViewer" target="/names/Капцевич.html">Капцевичу</persName>
+      </correspAction></correspDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l><p>
+        Копия предписания <persName role="namesViewer" target="/names/Лассий.html">Лассия</persName> <persName role=
+        "namesViewer" target="/names/Капцевич.html">Капцевичу</persName> о предоставлениопказаний <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName> об
+        обстоятельствах отрешения кагальных старшин
+      </p></l>
+      <l>Дата: 1799-03-24</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Лассий.html">Лассий</persName></l>
+      <l>Кому: <persName role="namesViewer" target="/names/Капцевич.html">Капцевичу</persName></l>
+    </p>
+    <pb xml:id="p054-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/054.html#p054-1"
+    />
+    <fw type="pageNum" place="right">54</fw>
+    <fw type="note" place="left margin">ис-</fw>
+    <head>
+      <l>Копія съ предписанія Генерала отъ инфантеріи <persName role="namesViewer" target="/names/Лассий.html">Лас<lb/>
+       сія</persName> къ Генералъ Маіору отъ артилѣріи <persName role="namesViewer" target="/names/Капцевич.html"
+      >Капцевичу</persName> отъ</l>
+      <l><date when="1799-03-24">24<hi rend="superscript">го</hi> марта 1799 года</date> за <fw type="docNum">№
+      2097</fw></l>
+    </head>
+    <l>Ежели <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">надворный Литовскій судъ</orgName>
+    будетъ отъ васъ</l>
+    <l>требовать какихъ либо свѣденій о произшествіяхъ слу</l>
+    <l>чившихся въ виленской школѣ при отрѣшеніи кагаль-</l>
+    <l>ныхъ членовъ, гдѣ вы сами прсудствовали, то ваше</l>
+    <l>Превосходительство снабдите тотъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+    >судъ</orgName> всѣми та</l>
+    <l>кими свѣденіями нужными оному для того, что из</l>
+    <l>слѣдованіе сего дѣла по поводу жалобы вступившей къ</l>
+    <l><persName role="namesViewer" target="/names/Лопухин.html">Господину Генералу Прокурору</persName> отъ <persName
+    role="namesViewer" target="/names/Мовша_Ошерович.html">виленскаго кагальнаго<lb/>
+     старшины</persName>, ему представлено._</l>
+    <l>вѣрно адьютантъ Корнѣевъ._</l>
+    <l>Съ копіею вѣрно: Секретарь Иванъ Журавлевъ</l>
+    <pb xml:id="p054-2" rendition="missing-page" role="facsimileViewer" target=
+    "/collections/lvia1799-178/facs/054.html#p054-2"/>
+  </body></text>
+</TEI>

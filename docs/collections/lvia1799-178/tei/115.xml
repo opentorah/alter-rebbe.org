@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Запись в журнале <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу свидетельства губернского казначея Сербиновича
+      </p></abstract>
+      <creation><date when="1799-05-03">1799 года мая 3 дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l><p>
+        Запись в журнале <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу свидетельства губернского казначея Сербиновича
+      </p></l>
+      <l>Дата: 1799-05-03</l>
+      <l>Кто:</l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p115-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/115.html#p115-1"
+    />
+    <fw type="pageNum" place="right">115</fw><note place="end">чернильная запись продублирована карандашом</note>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+      <l><date when="1799-05-03">1799<hi rend="superscript">го</hi> года маія 3<hi rend="superscript">го</hi> дня</date>
+      въ журналѣ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надворнаго Суда</orgName>
+      записано.</l>
+      <l>№ 1<hi rend="superscript">и</hi></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе Литовской казенной</l>
+      <l>палаты, при которомъ въ слѣдствіе требо-</l>
+      <l>ванія сего <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">суда</orgName>,
+      препровождаетъ отобранное</l>
+      <l>ею отъ господина губернскаго казначея Серби-</l>
+      <l>новича, объясненіе, о произшествіи случившемся</l>
+      <l>въ еврейской школѣ при отобраніи от ви-</l>
+      <l>ленскихъ кагальныхъ старшинъ и прочихъ</l>
+      <l>евреевъ свѣденій, о мѣстѣ храненія книхъ</l>
+      <l>и о протчемъ. ПРИКАЗАЛИ: оное сообщеніе</l>
+      <l>вмѣстѣ съ объясненіемъ губернскаго казначея</l>
+      <l>Сербиновича приобщить къ производящемуся въ</l>
+      <l>семъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">судѣ</orgName> по прозьбѣ еврея
+      <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеро-<lb/>
+       вича</persName> слѣдствію. Подлинной за подписаніемъ</l>
+      <l>господъ присудствующихъ и за скрепою секре-</l>
+      <l>таря Павла Искрицкаго._</l>
+      <l><signed>протоколистъ <unclear>???</unclear></signed></l>
+    </p>
+    <pb xml:id="p115-2" rendition="missing-page" role="facsimileViewer" target=
+    "/collections/lvia1799-178/facs/115.html#p115-2"/>
+  </body></text>
+</TEI>
