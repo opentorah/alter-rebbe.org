@@ -54,15 +54,15 @@
           <by selector="inventory">
             <store n="1799">
               <body>
+                <p>Номер описи в фонде: 7</p>
                 <p>
-                Номер описи в фонде: 7</p>
-                <p>
-                <span>Опись:</span>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p01.jpg">стр. 1</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p02.jpg">стр. 2</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p03.jpg">стр. 3</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p51.jpg">стр. 51</ref>
-              </p></body>
+                  <span>Опись:</span>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p01.jpg">стр. 1</ref>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p02.jpg">стр. 2</ref>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p03.jpg">стр. 3</ref>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1799-p51.jpg">стр. 51</ref>
+                </p>
+              </body>
               <by selector="case">
                 <store file="collections/lvia1799-2.xml"/>
                 <store file="collections/lvia1799-2-2.xml"/>
@@ -71,14 +71,14 @@
             </store>
             <store n="1800">
               <body>
+                <p>Номер описи в фонде: 8</p>
                 <p>
-                Номер описи в фонде: 8</p>
-                <p>
-                <span>Опись:</span>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1800-p01.jpg">стр. 1</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1800-p02.jpg">стр. 2</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1800-p03.jpg">стр. 3</ref>
-              </p></body>
+                  <span>Опись:</span>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1800-p01.jpg">стр. 1</ref>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1800-p02.jpg">стр. 2</ref>
+                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-1800-p03.jpg">стр. 3</ref>
+                </p>
+              </body>
               <by selector="case">
                 <store file="collections/lvia1800-2-2.xml"/>
                 <store file="collections/lvia1800-2-3.xml"/>
