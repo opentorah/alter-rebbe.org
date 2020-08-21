@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher><ptr target="www.alter-rebbe.org"/></publisher>
+        <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
+        Creative Commons Attribution 4.0 International License</ref></ab></licence></availability>
+      </publicationStmt>
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Выписка из журнала <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского
+        надворного суда</orgName> о приобщении к делу сообщения <orgName role="namesViewer" target=
+        "/names/Литовское_губернское_правление.html">Литовского губернского правления</orgName>
+      </p></abstract>
+      <creation><date when="1798-05-05">1798 года маія 5<hi rend="superscript">го</hi> дня</date></creation>
+      <langUsage><language ident="ru"/></langUsage>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p rendition="document-header">
+      <l><p>
+        Выписка из журнала <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского
+        надворного суда</orgName> о приобщении к делу сообщения <orgName role="namesViewer" target=
+        "/names/Литовское_губернское_правление.html">Литовского губернского правления</orgName>
+      </p></l>
+      <l>Дата: 1798-05-05</l>
+      <l>Кто:</l>
+      <l>Кому:</l>
+    </p>
+    <pb xml:id="p102-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/102.html#p102-1"
+    />
+    <fw type="pageNum" place="right">192.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1798-05-05">1798 года маія 5<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName role=
+      "namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надвор-<lb/>
+       наго Суда</orgName> записано._</l>
+      <l><emph rend="underline">№ 1</emph></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      Губернскаго Правленія</orgName></l>
+      <l>въ коемъ для свѣденія прописываетъ свое поста</l>
+      <l>новленіе по дѣлу <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго еврейскаго<lb/>
+       кагала</orgName> съ <orgName role="namesViewer" target="/names/Хасиды.html">еврейскимъ обществомъ называ<lb/>
+       мымъ карлинскимъ</orgName> о наложеніи <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагаломъ</orgName></l>
+      <l>на евреевъ проклятія за исключеніе изъ ка</l>
+      <l>гальныхъ членовъ еврея <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера
+      Рафаловича</persName></l>
+      <l>за здѣланіе имъ запрещенія отправлять</l>
+      <l>въ частномъ домѣ богомоленія и о прочемъ.</l>
+      <l>ПРИКАЗАЛИ: принять оное сообщеніе во</l>
+      <l>извѣстіе._ Подлинной за подписаніемъ гос-</l>
+      <l>подъ присудствующихъ и за скрепою секре-</l>
+      <l>таря Павла Искрицкаго._</l>
+    </p>
+    <pb xml:id="p102-2" rendition="missing-page" role="facsimileViewer" target=
+    "/collections/lvia1799-178/facs/102.html#p102-2"/>
+  </body></text>
+</TEI>
