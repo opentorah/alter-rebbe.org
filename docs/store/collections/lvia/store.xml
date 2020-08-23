@@ -63,63 +63,10 @@
             <l>bendrasis skyrius - BS</l>
           </body>
           <by selector="inventory">
-            <store n="1799">
-              <body>
-                <p>Номер описи в фонде: 7</p>
-                <p>
-                  <span>Страницы из описи:</span>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1799/p01.jpg">1</ref>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1799/p02.jpg">2</ref>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1799/p03.jpg">3</ref>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1799/p51.jpg">51</ref>
-                </p>
-              </body>
-              <by selector="case">
-                <store file="collections/lvia1799-2.xml"/>
-                <store file="collections/lvia1799-2-2.xml"/>
-                <store file="collections/lvia1799-178.xml"/>
-              </by>
-            </store>
-            <store n="1800">
-              <body>
-                <p>Номер описи в фонде: 8</p>
-                <p>
-                  <span>Страницы из описи:</span>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p01.jpg">1</ref>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p02.jpg">2</ref>
-                  <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p03.jpg">3</ref>
-                </p>
-              </body>
-              <by selector="case">
-                <store file="collections/lvia1800-2-2.xml"/>
-                <store file="collections/lvia1800-2-3.xml"/>
-              </by>
-            </store>
-            <store n="1824">
-              <body><p>
-                <span>Страницы из описи:</span>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p01.jpg">1</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p02.jpg">2</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p03.jpg">3</ref>
-                <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p14.jpg">14</ref>
-              </p></body>
-              <by selector="case">
-                <store file="collections/lvia1824.xml"/>
-              </by>
-            </store>
-            <store n="1868">
-              <body><p>
-                <span>Страницы из описи:</span> <ref target=
-                "http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1868/p01.jpg">1</ref> <ref target=
-                "http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1868/p02.jpg">2</ref> <ref target=
-                "http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1868/p03.jpg">3</ref>; <ref target=
-                "http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1868/p88.jpg">88</ref> <ref target=
-                "http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1868/p89.jpg">89</ref>
-              </p></body>
-              <by selector="case">
-                <store file="collections/lvia1868.xml"/>
-              </by>
-            </store>
+            <store file="1799/store.xml"/>
+            <store file="1800/store.xml"/>
+            <store file="1824/store.xml"/>
+            <store file="1868/store.xml"/>
           </by>
         </store>
       </by>

@@ -72,18 +72,13 @@
     <listPerson xml:id="transcribers" role="transcriber"><head>Расшифровщики</head></listPerson>
   </entities>
   <by selector="archive">
-    <store n="книги">
-      <by selector="book">
-        <store file="collections/derzhavin.xml"/>
-        <store file="collections/dubnov.xml"/>
-      </by>
-    </store>
-    <store file="lna.xml"/>
-    <store file="lvia.xml"/>
-    <store file="niab.xml"/>
-    <store file="rgada.xml"/>
-    <store file="rgia.xml"/>
-    <store file="rnb.xml"/>
-    <store file="cahjp.xml"/>
+    <store file="collections/books/store.xml"/>
+    <store file="collections/lna/store.xml"/>
+    <store file="collections/lvia/store.xml"/>
+    <store file="collections/niab/store.xml"/>
+    <store file="collections/rgada/store.xml"/>
+    <store file="collections/rgia/store.xml"/>
+    <store file="collections/rnb/store.xml"/>
+    <store file="collections/cahjp/store.xml"/>
   </by>
 </store>
