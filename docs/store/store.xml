@@ -71,14 +71,5 @@
     <listOrg xml:id="organizations"><head>Организации</head></listOrg>
     <listPerson xml:id="transcribers" role="transcriber"><head>Расшифровщики</head></listPerson>
   </entities>
-  <by selector="archive">
-    <store file="collections/books/store.xml"/>
-    <store file="collections/lna/store.xml"/>
-    <store file="collections/lvia/store.xml"/>
-    <store file="collections/niab/store.xml"/>
-    <store file="collections/rgada/store.xml"/>
-    <store file="collections/rgia/store.xml"/>
-    <store file="collections/rnb/store.xml"/>
-    <store file="collections/cahjp/store.xml"/>
-  </by>
+  <by file="archive/by.xml"/>
 </store>

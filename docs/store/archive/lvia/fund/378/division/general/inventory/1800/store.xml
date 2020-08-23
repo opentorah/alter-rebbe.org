@@ -9,8 +9,5 @@
       <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p03.jpg">3</ref>
     </p>
   </body>
-  <by selector="case">
-    <store file="2-2/lvia1800-2-2.xml"/>
-    <store file="2-3/lvia1800-2-3.xml"/>
-  </by>
+  <by file="case/by.xml"/>
 </store>
