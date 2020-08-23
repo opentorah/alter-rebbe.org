@@ -3,8 +3,5 @@
   <title>Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными примѣчаніями Я. Грота. Издание
   Императорской академіи наукъ</title>
   <abstract/>
-  <by selector="том">
-    <store file="derzhavin6.xml"/>
-    <store file="derzhavin7.xml"/>
-  </by>
+  <by file="volume/by.xml"/>
 </store>
