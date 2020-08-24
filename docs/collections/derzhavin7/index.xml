@@ -19,17 +19,58 @@
     <p>Май 1872 года. <ref target="http://www.derzhavin-poetry.ru/poems/derzhavin-grot7.pdf">PDF</ref></p>
     <p>
       <l>стр. 244-332 и далее: Мнение об отвращении в <placeName role="namesViewer" target="/names/Белоруссия.html"
-      >Белорусии</placeName> голода и устройстве быта евреев. 1800, часть II. О евреях.</l>
+      >Белорусии</placeName> голода и устройстве быта евреев. 1800, часть II. О евреях. Публикуем и расшифровываем
+      страницы 253 и 259-260.</l>
     </p>
-    <table rendition="collection-index"><row>
-      <cell rendition="description">Описание</cell>
-      <cell rendition="date">Дата</cell>
-      <cell rendition="author">Кто</cell>
-      <cell rendition="addressee">Кому</cell>
-      <cell rendition="language">Язык</cell>
-      <cell rendition="document">Документ</cell>
-      <cell rendition="pages">Страницы</cell>
-      <cell rendition="transcriber">Расшифровка</cell>
-    </row></table>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin7/documents/000.html"
+        >000</ref></cell>
+        <cell rendition="pages"><ref role="documentViewer" target="/collections/derzhavin7/documents/000.html#p000"
+        rendition="page">000</ref></cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin7/documents/253.html"
+        >253</ref></cell>
+        <cell rendition="pages"><ref role="documentViewer" target="/collections/derzhavin7/documents/253.html#p253"
+        rendition="page">253</ref></cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin7/documents/259.html"
+        >259</ref></cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/derzhavin7/documents/259.html#p259" rendition="page">259</ref>
+          <ref role="documentViewer" target="/collections/derzhavin7/documents/259.html#p260" rendition="page">260</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+    </table>
   </body></text>
 </TEI>

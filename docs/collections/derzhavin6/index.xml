@@ -27,15 +27,90 @@
       <l>стр. 749-751: Жалоба еврейки из <placeName role="namesViewer" target="/names/Лиозно.html">Лиозно</placeName>
       </l>
     </p>
-    <table rendition="collection-index"><row>
-      <cell rendition="description">Описание</cell>
-      <cell rendition="date">Дата</cell>
-      <cell rendition="author">Кто</cell>
-      <cell rendition="addressee">Кому</cell>
-      <cell rendition="language">Язык</cell>
-      <cell rendition="document">Документ</cell>
-      <cell rendition="pages">Страницы</cell>
-      <cell rendition="transcriber">Расшифровка</cell>
-    </row></table>
+    <table rendition="collection-index">
+      <row>
+        <cell rendition="description">Описание</cell>
+        <cell rendition="date">Дата</cell>
+        <cell rendition="author">Кто</cell>
+        <cell rendition="addressee">Кому</cell>
+        <cell rendition="language">Язык</cell>
+        <cell rendition="document">Документ</cell>
+        <cell rendition="pages">Страницы</cell>
+        <cell rendition="transcriber">Расшифровка</cell>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin6/documents/000.html"
+        >000</ref></cell>
+        <cell rendition="pages"><ref role="documentViewer" target="/collections/derzhavin6/documents/000.html#p000"
+        rendition="page">000</ref></cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin6/documents/385.html"
+        >385</ref></cell>
+        <cell rendition="pages"><ref role="documentViewer" target="/collections/derzhavin6/documents/385.html#p385"
+        rendition="page">385</ref></cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin6/documents/390.html"
+        >390</ref></cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/390.html#p390" rendition="page">390</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/390.html#p391" rendition="page">391</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/390.html#p392" rendition="page">392</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/390.html#p393" rendition="page">393</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/390.html#p394" rendition="page">394</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin6/documents/721.html"
+        >721</ref></cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/721.html#p721" rendition="page">721</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/721.html#p722" rendition="page">722</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/721.html#p723" rendition="page">723</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/721.html#p724" rendition="page">724</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/721.html#p725" rendition="page">725</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Державин.html">Державин</persName></cell>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/derzhavin6/documents/749.html"
+        >749</ref></cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/749.html#p749" rendition="page">749</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/749.html#p750" rendition="page">750</ref>
+          <ref role="documentViewer" target="/collections/derzhavin6/documents/749.html#p751" rendition="page">751</ref>
+        </cell>
+        <cell rendition="transcriber"/>
+      </row>
+    </table>
   </body></text>
 </TEI>
