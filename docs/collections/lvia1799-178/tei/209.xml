@@ -2,7 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Еремиаш_Нохимович.html">Еремиаш Нохимович</persName>
+        </author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,16 +16,23 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Объяснение <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>,
+      адресованное гражданскому губернатору <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризелю</persName>, о содержании письма, разосланного в поветовые кагалы и его переводе, выполненном <persName
+      role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршем Иоселиовичем</persName></abstract>
+      <creation><date when="1799-01-27">Января 27 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l>Объяснение <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>,
+      адресованное гражданскому губернатору <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризелю</persName>, о содержании письма, разосланного в поветовые кагалы и его переводе, выполненном <persName
+      role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршем Иоселиовичем</persName></l>
+      <l>Дата: 1799-01-27</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Еремиаш_Нохимович.html">Еремиаш Нохимович</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p209-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/209.html#p209-1"
@@ -142,10 +154,79 @@
       <l>неиндѣ имѣлъ мысль какъ только увѣдомить евреевъ о могущемъ</l>
       <l>встрѣтится имъ нещастіи а для того совѣтовалъ имъ</l>
       <l>какъ выше сказано, чтобы чинили о себѣ предповѣтовыми</l>
+      <pb xml:id="p210-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/209.html#p210-1"/>
+      <fw type="pageNum" place="right">210</fw>
+      <fw type="note" place="left margin">криц</fw>
+      <l>урядниками стараніе и каждой кагалъ прислалъ бы</l>
+      <l>по двѣ выбранные изъ помежду себя особы для положенія</l>
+      <l>мнѣнія о исправленіи бѣднаго своего состоянія кото-</l>
+      <l>рые по усмотреніи надобности послалъ отъ себя</l>
+      <l>человѣка въ <placeName role="namesViewer" target="/names/Петербург.html">Санктпетербургъ</placeName> также
+      чтобы каждыи</l>
+      <l>привозилъ на свое содержаніе деньги; однакожъ, что</l>
+      <l>касается до толкованія подробныхъ словъ еврейскаго на</l>
+      <l>польскій или россійскій діалектъ, то увѣрены мы,</l>
+      <l>что кагальные не могли согласится во равномъ онаго</l>
+      <l>толкованіи, ибо не всѣ евреи изъ своего языка перево-</l>
+      <l>дить могутъ. для удостоверенія о семъ прикажите</l>
+      <l>ваше Превосходительство написать о какомъ нибудь</l>
+      <l>дѣлѣ письмо и оное нѣсколькими евреями перевести</l>
+      <l>естли не изволите сыскать разныя толкованія и изъя-</l>
+      <l>сненіи поелику кемъ выше сказано не всякій изъ сего</l>
+      <l>языка можетъ переводить_ Кромѣ техъ которые</l>
+      <l>въ немъ искусны. напротивъ естлибы и во весь свѣтъ</l>
+      <l>разослать писанное отъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго</orgName> къ
+      видзскому</l>
+      <l>кагалу письмо то всѣ дать должны одно объясненіе</l>
+      <l>что въ немъ нѣтъ другаго значенія какъ только</l>
+      <l>то что выше сказано. Но вышеписанный видз</l>
+      <l>скіи еврей <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гирша Іоселіовичъ</persName> по
+      наговору и приказанію</l>
+      <l>виленскихъ <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> а именно <persName
+      role="namesViewer" target="/names/Нохим_Ицкович.html">нохима ицковича</persName></l>
+      <l>которои родомъ <placeName role="namesViewer" target="/names/Белоруссия.html">бѣлорускои губерніи</placeName>
+      изъ города <placeName role="namesViewer" target="/names/Чаусы.html">Чаусъ</placeName></l>
+      <l>жилъ также <placeName role="namesViewer" target="/names/Белоруссия.html">губерніи</placeName> въ мѣстечкѣ
+      молодечнѣ<note place="end">ныне г. Молодечно Минской области Белоруссии</note></l>
+      <l>потомъ здѣшнеи губерніи въ городѣ <placeName role="namesViewer" target="/names/Гродно.html">Гроднѣ</placeName>
+      а нынѣ</l>
+      <l>имѣетъ свое пребываніе въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> и
+      неизвѣстно</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскому кагалу</orgName> уволненъ ли онъ въ
+      вышесказанномъ</l>
+      <l>городѣ <placeName role="namesViewer" target="/names/Чаусы.html">чаусахъ</placeName> изъ мѣщанства или
+      купечества и чемъ</l>
+      <l>нынѣ здѣсь промышляетъ и прочихъ <note type="gloss">|: въ чемъ и сами<lb/>
+       видзскіе <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName> не запротииворечатъ :|</note>
+      и самои ихъ</l>
+      <l>спыльчивости принесъ жалобу <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >правленію</orgName>. одина</l>
+      <l>ковые письма писалъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскіи кагалъ</orgName>
+      во всѣ</l>
+      <l>18ть повѣтовыхъ кагаловъ, но ни одинъ изъ нихъ,</l>
+      <l>ниже ни одинъ честнои еврей не не приносилъ на сей</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалъ</orgName> ни о таковыхъ письмахъ ниже о
+      насильственныхъ</l>
+      <pb xml:id="p210-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/209.html#p210-2"/>
+      <l>складкахъ жалобы кромѣ выше реченнаго <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гирши
+      Іоселіовича</persName></l>
+      <l>и то по приказанію виленскихъ каролинскихъ началь-</l>
+      <l>никовъ._ А посему виленскій кагалъх вашего</l>
+      <l>превосходительства проситъ видзскаго жителя</l>
+      <l>еврея <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршу іоселіовича</persName> за
+      невѣрнои переводъ озна</l>
+      <l>ченнаго отъ виленскаго къ видзскому кагалу</l>
+      <l>посланнаго письма за составле ложной отъніе</l>
+      <l>видзскаго кагала довѣренности и за напрасное за</l>
+      <l>трудненіе правительства отослать къ суду для</l>
+      <l>поступленія съ нимъ по законамъ.</l>
+      <l><signed><persName role="namesViewer" target="/names/Еремиаш_Нохимович.html">Јeremiasz Nochimowicz</persName>
+      syndyk<lb/>
+       <orgName role="namesViewer" target="/names/Виленский_кагал.html">kahalu Wilenskego</orgName></signed></l>
     </p>
-    <pb xml:id="p210-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/209.html#p210-1"
-    />
-    <pb xml:id="p210-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/209.html#p210-2"
-    />
+    <closer place="left"><l><date when="1799-01-27">Генваря 27<hi rend="superscript">го</hi> дня<lb/>
+     1799<hi rend="superscript">го</hi> года</date></l></closer>
   </body></text>
 </TEI>
