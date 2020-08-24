@@ -18,10 +18,19 @@
     <head>опись 1800</head>
     <p>Номер описи в фонде: 8</p>
     <p>
-      <seg>Страницы из описи:</seg>
-      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p01.jpg">1</ref>
-      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p02.jpg">2</ref>
-      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p03.jpg">3</ref>
+      <p>Страницы из описи:</p>
+      <figure>
+        <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p01.jpg">1</ref>
+        <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p01.jpg" width="150"/>
+      </figure>
+      <figure>
+        <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p02.jpg">2</ref>
+        <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p02.jpg" width="150"/>
+      </figure>
+      <figure>
+        <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p03.jpg">3</ref>
+        <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1800/p03.jpg" width="150"/>
+      </figure>
     </p>
     <p>
       <l>дело:</l>

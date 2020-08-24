@@ -279,6 +279,22 @@ layout: page
   </teiHeader>
 ```
 
+## Ресурсы ##
+
+Исходные документы из репозитории GitHub обрабаттываются и публикуются на статическом сайте `store.alter-rebbe.org`.
+Ведутся работы по превращению сайта в динамический; текущая версия публикуется на сайте `app.alter-rebbe.org`.
+Пока что этот сайт копирует страницы с `store.alter-rebbe.org`, но вскоре будет порождать их сам, и тогда
+`store.alter-rebbe.org` будет публиковать только исходные, необработанные документы.
+Сайт `www.alter-rebbe.org` указывает на `app.alter-rebbe.org`.
+
+Факсимиле документов опубликованы на сайте `facsimile.alter-rebbe.org`. Туда ведут ссылки из страниц сайта `www.alter-rebbe.org`.
+Этот сайт на самом деле - Google Storage Bucket (https://console.cloud.google.com/storage/browser/facsimiles.alter-rebbe.org).
+Имея доступ, можно посмотреть, что там есть.
+
+Факсимиле как они были получены из архивов (листы не разрезаны, файлы не переименованы)
+и прочая информация хранятся в Google Drive (https://drive.google.com/drive/folders/1AiYcBGocnO4D6pgSPn475EkWqb4mub9T?usp=sharing)
+Имея доступ, можно посмотреть, что там есть.
+
 <script type="module">
   window.name = "collectionViewer"
 </script>
