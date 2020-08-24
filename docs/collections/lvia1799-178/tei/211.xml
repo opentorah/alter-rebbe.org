@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,21 +15,85 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Письмо видзского кагала о его непричастности к переводу <persName role="namesViewer" target=
+        "/names/Гирш_Иоселиович.html">Гиршем Иоселиовичем</persName> письма <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленского кагала</orgName> в поветовые кагалы <placeName role="namesViewer"
+        target="/names/Литва.html">Литовской губернии</placeName>
+      </p></abstract>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
+      <l><p>
+        Письмо видзского кагала о его непричастности к переводу <persName role="namesViewer" target=
+        "/names/Гирш_Иоселиович.html">Гиршем Иоселиовичем</persName> письма <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленского кагала</orgName> в поветовые кагалы <placeName role="namesViewer"
+        target="/names/Литва.html">Литовской губернии</placeName>
+      </p></l>
       <l>Дата:</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p211-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/211.html#p211-1"
     />
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">211.</fw>
+    <fw type="note" place="right">2<hi rend="superscript">го</hi></fw>
+    <head>Переводъ изъ еврейскаго деалекту, на русскимъ языкѣ</head>
+    <fw type="note" place="left margin">кій</fw>
+    <l>Мы здѣшняго кагала старѣйшины и жители мѣ-</l>
+    <l>стѣчка <placeName role="namesViewer" target="/names/Видзы.html">видзы</placeName> объявляемъ кому о семъ вѣдать
+    надле-</l>
+    <l>житъ, касатеьно поданнаго здѣшнимъ мясникомъ</l>
+    <l>каролинской секты членомъ евреемъ <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршею
+    Јоселеви-<lb/>
+     чемъ</persName> прошенія относительно письма писаннаго ви-</l>
+    <l>ленскимъ кагаломъ сего <date when="1798-04-30">1798<hi rend="superscript">го</hi> года отъ 30 апрѣля/11
+    маія</date> во всѣ</l>
+    <l>восѣмнадцать повѣтовъ по случаю послѣдовавшаго</l>
+    <l>въ <placeName role="namesViewer" target="/names/Минская_губерния.html">Минской губерніи</placeName> установленія,
+    что всѣ житель-</l>
+    <l>ствующіе въ селахъ и партикулярныхъ мѣстечкахъ</l>
+    <l>евреи должны переселяться въ уѣздные города</l>
+    <l>и что не вольно имъ содержать винокуренъ, что</l>
+    <l>въ ономъ письмѣ изображено дабы избранныя</l>
+    <l>въ повѣтовыхъ мѣстечкахъ особы прибыли въ городъ</l>
+    <l>вильно для учиненія совѣта, что они чинить имѣютъ,</l>
+    <l>чтобы таковый указъ, не послѣдовалъ равномѣрно</l>
+    <l>и въ <placeName role="namesViewer" target="/names/Литва.html">Литовской губерніи</placeName>; когдажъ изъ
+    каролинской</l>
+    <l>партіи особы увидили таковое письмо, то</l>
+    <l>взялъ оное упомянутый еврей <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршъ
+    Јоселевичъ</persName></l>
+    <l>и переведши его на россійской языкъ невѣрно</l>
+    <l>и ложно прибавивъ нѣкоторыя слова, которыхъ</l>
+    <l>совсѣмъ въ ономъ письмѣ не имѣется, и все то</l>
+    <l>дѣлалъ безъ вѣдома кагала и обывателей,</l>
+    <l>но единственно по согласію принадлежащихъ</l>
+    <l>къ <orgName role="namesViewer" target="/names/Хасиды.html">каролинской сектѣ</orgName> особъ, <note type="gloss"
+    >|: какъ обыкно-<lb/>
+     венно то извѣстно, что все ихъ усиліе въ :|</note></l>
+    <l>томъ состоитъ чтобы ложные способы</l>
+    <l>возложить на противящихся имъ людей</l>
+    <l>напасти какія бы только постигнуть могли</l>
+    <l>для ихъ пагубы; мыжъ кагалъ и жители</l>
+    <l>никакого о таковой жалобѣ свѣденія</l>
     <pb xml:id="p211-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/211.html#p211-2"
     />
+    <fw type="note" place="left margin">тарь</fw>
+    <l>не имѣли и предрѣченному еврею <persName role="namesViewer" target="/names/Гирш_Иоселиович.html">Гиршу</persName>
+    не дали</l>
+    <l>никакой къ тому довѣренности. для чего въ</l>
+    <l>домѣ здѣшнемъ кагальномъ на сессіи кагальной</l>
+    <l>и <choice><sic>гмѣнной</sic><corr>гминной</corr></choice> подписуемся. <placeName role="namesViewer" target=
+    "/names/Видзы.html">видзы</placeName> <date when="1798-07-25">1798 года јюля<lb/>
+     25<hi rend="superscript">го</hi> дня</date>, на подлинномъ подписались: Файбишъ</l>
+    <l>Калмановичъ, Борухъ Јоселевичъ, Файбишъ Ян-</l>
+    <l>келевичъ, предсѣдатель мнахимъ шліомовичъ,</l>
+    <l>шимель Хацкелевичъ, Еліашъ вульфовичъ, Гиршъ</l>
+    <l>Даніелевичъ, Гиршъ Мойжешовичъ._</l>
   </body></text>
 </TEI>
