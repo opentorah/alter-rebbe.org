@@ -226,6 +226,9 @@ tei-table.collection-index {
   }
 
   // Missing page links
+  tei-ref.missing-empty-page a {
+    color: orange;
+  }
   tei-ref.missing-page a {
     color: red;
   }
@@ -236,6 +239,10 @@ tei-table.collection-index {
 .document-header {
   background-color: #f0f0f0;
   padding: 10px;
+}
+
+tei-pb.missing-empty-page a {
+  color: orange;
 }
 
 tei-pb.missing-page a {

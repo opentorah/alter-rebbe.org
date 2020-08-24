@@ -5,7 +5,7 @@ pluginManagement {
   }
 }
 
-//includeBuild ('../../opentorah/next') {
+//includeBuild ('../opentorah.org') {
 //  dependencySubstitution {
 //    substitute module('org.opentorah:opentorah-collector') with project(':collector')
 //  }

@@ -239,8 +239,8 @@ layout: page
 ``` 
 Имена этих файлов - это те идентификаторы, которые используются для ссылок: `ref="Баал_Шем_Тов"`.
 
-Имя человека кодируется элементом `persName`: `<persName ="Обольянинов"></persName>`,
-имя местности - элементом `paceName`: `<placeName ref="Вильна">Вильне</placeName>`,
+Имя человека кодируется элементом `persName`: `<persName ="Обольянинов">Обольянинов</persName>`,
+имя местности - элементом `paceName`: `<placeName ref="Вильна">Вильна</placeName>`,
 название организации - элементом `orgName`: `<orgName ref="Виленский_кагал">виленский кагал</orgName>`.
 
 Атрибут `ref` может отсутствовать.
@@ -288,11 +288,11 @@ layout: page
 Сайт `www.alter-rebbe.org` указывает на `app.alter-rebbe.org`.
 
 Факсимиле документов опубликованы на сайте `facsimile.alter-rebbe.org`. Туда ведут ссылки из страниц сайта `www.alter-rebbe.org`.
-Этот сайт на самом деле - Google Storage Bucket (https://console.cloud.google.com/storage/browser/facsimiles.alter-rebbe.org).
+Этот сайт на самом деле - Google Storage [Bucket](https://console.cloud.google.com/storage/browser/facsimiles.alter-rebbe.org).
 Имея доступ, можно посмотреть, что там есть.
 
 Факсимиле как они были получены из архивов (листы не разрезаны, файлы не переименованы)
-и прочая информация хранятся в Google Drive (https://drive.google.com/drive/folders/1AiYcBGocnO4D6pgSPn475EkWqb4mub9T?usp=sharing)
+и прочая информация хранятся в [Google Drive](https://drive.google.com/drive/folders/1AiYcBGocnO4D6pgSPn475EkWqb4mub9T?usp=sharing).
 Имея доступ, можно посмотреть, что там есть.
 
 <script type="module">
