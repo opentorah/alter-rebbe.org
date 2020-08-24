@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="1824">
   <body><p>
-    <seg>Страницы из описи:</seg>
-    <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p01.jpg">1</ref>
-    <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p02.jpg">2</ref>
-    <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p03.jpg">3</ref>
-    <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p14.jpg">14</ref>
+    <p>Страницы из описи:</p>
+    <figure>
+      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p01.jpg">1</ref>
+      <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p01.jpg" width="150"/>
+    </figure>
+    <figure>
+      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p02.jpg">2</ref>
+      <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p02.jpg" width="150"/>
+    </figure>
+    <figure>
+      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p03.jpg">3</ref>
+      <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p03.jpg" width="150"/>
+    </figure>
+    <figure>
+      <ref target="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p14.jpg">14</ref>
+      <graphic url="http://facsimiles.alter-rebbe.org/facsimiles/lvia-378-bs/1824/p14.jpg" width="150"/>
+    </figure>
   </p></body>
   <by file="case/by.xml"/>
 </store>
