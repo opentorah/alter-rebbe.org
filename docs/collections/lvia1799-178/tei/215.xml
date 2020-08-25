@@ -2,7 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt><author><persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></author>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +12,37 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Копия (на польском языке) требования литовского гражданского губернатора <persName role="namesViewer" target=
+        "/names/Фризель.html">Фризеля</persName>, адресованное <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленскому кагалу</orgName>, предоставить документы, подтверждающие польские
+        привилегии <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName> и виленской общине,
+        в переводе на русский язык
+      </p></abstract>
+      <creation><date when="1799-01-09">января 9 дня / 20 дня по н. стилю 1799 года</date></creation>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Копия (на польском языке) требования литовского гражданского губернатора <persName role="namesViewer" target=
+        "/names/Фризель.html">Фризеля</persName>, адресованное <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленскому кагалу</orgName>, предоставить документы, подтверждающие польские
+        привилегии <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName> и виленской общине,
+        в переводе на русский язык
+      </p></l>
+      <l>Дата: 1799-01-09</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Фризель</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p215-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/215.html#p215-1"
     />
+    <fw type="pageNum" place="right">215</fw>
+    <fw type="note" place="right">btw</fw><note place="end">пометка в правом верхнем углу</note>
+    <fw type="note" place="left">Kopie</fw>
+    <fw type="note" place="left margin">Па</fw>
     <pb xml:id="p215-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/215.html#p215-2"/>
   </body></text>
