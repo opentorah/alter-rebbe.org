@@ -287,7 +287,7 @@ layout: page
 `store.alter-rebbe.org` будет публиковать только исходные, необработанные документы.
 Сайт `www.alter-rebbe.org` указывает на `app.alter-rebbe.org`.
 
-Факсимиле документов опубликованы на сайте `facsimile.alter-rebbe.org`. Туда ведут ссылки из страниц сайта `www.alter-rebbe.org`.
+Факсимиле документов опубликованы на сайте `facsimiles.alter-rebbe.org`. Туда ведут ссылки из страниц сайта `www.alter-rebbe.org`.
 Этот сайт на самом деле - Google Storage [Bucket](https://console.cloud.google.com/storage/browser/facsimiles.alter-rebbe.org).
 Имея доступ, можно посмотреть, что там есть.
 
