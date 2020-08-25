@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author><persName ref="Фризель">Фризель</persName></author></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-01-09">января 9 дня / 20 дня по н. стилю 1799 года</date></creation>
+    <abstract><p>Копия (на польском языке) требования литовского гражданского губернатора <persName ref="Фризель">Фризеля</persName>, адресованное <orgName ref="Виленский_кагал">виленскому кагалу</orgName>,  предоставить документы, подтверждающие польские привилегии <orgName ref="Виленский_кагал">кагалу</orgName> и виленской общине, в переводе на русский язык</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="215-1"/>
-    <pb n="215-2" missing="true" empty="true"/>
+    <fw type="pageNum" place="right">215</fw>
+    <fw type="note" place="right">btw</fw><note place="end">пометка в правом верхнем углу</note>
+    <fw type="note" place="left">Kopie</fw>
+    <fw type="note" place="left margin">Па</fw>
+        <pb n="215-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
