@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,21 +15,67 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+      суда</orgName> предоставить гражданскому губернатору <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризелю</persName> справку о ходе следствия по жалобе <persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName></abstract>
+      <creation><date when="1799-07-15">1799 года июля 15 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+      суда</orgName> предоставить гражданскому губернатору <persName role="namesViewer" target="/names/Фризель.html"
+      >Фризелю</persName> справку о ходе следствия по жалобе <persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName></l>
+      <l>Дата: 1799-07-15</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p226-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/226.html#p226-1"
     />
-    <pb xml:id="p226-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/226.html#p226-2"
-    />
+    <fw type="pageNum" place="right">226.</fw>
+    <fw type="note" place="left margin">ис-</fw>
+    <head>
+      <l/>
+      <l><date when="1799-07-15">1799<hi rend="superscript">го</hi> года Јюля 15<hi rend="superscript">го</hi>
+      дня</date> въ журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго над-<lb
+      />
+       ворнаго суда</orgName> записано.</l>
+      <l><fw type="docNum">№ 1</fw></l>
+    </head>
+    <p>
+      <l>СЛУШАЛИ: Предложеніе господина Литовскаго граж-</l>
+      <l>данскаго губернатора дѣйствительнаго статскаго</l>
+      <l>совѣтника и кавалера <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName>, коимъ
+      требуетъ для</l>
+      <l>донесенія Его Свѣтлости господину генераль проку-</l>
+      <l>рору князю <persName role="namesViewer" target="/names/Лопухин.html">петру васильевичу Лопухину</persName>
+      доставить</l>
+      <l>къ нему господину губернатору обстоятельное увѣ-</l>
+      <l>домленіе, въ какомъ положеніи находится нынѣ пре-</l>
+      <l>порученное имъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сему надворному
+      суду</orgName> изслѣдова</l>
+      <l>ніе по жалобѣ отрешеннаго отъ должности бывшаго</l>
+      <l>въ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскомъ еврейскомъ кагалѣ</orgName>
+      старшиною <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мой<lb/>
+       жеша Ошеровича</persName>, на чем остановилось производство, и какъ скоро можетъ быть окончено. ПРИКАЗАЛИ</l>
+      <l>учиня въ слѣдствіемъ въ семъ судѣ по жалобѣ еврея</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName> производящимся
+      выправку</l>
+      <pb xml:id="p226-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/226.html#p226-2"/>
+      <fw type="note" place="left margin">тарь</fw>
+      <l>и что по оной окажется здѣлавъ записку, предста</l>
+      <l>вить оную къ господину Литовскому гражданскому</l>
+      <l><persName role="namesViewer" target="/names/Фризель.html">губернатору</persName>, оставя при дѣлѣ копію за
+      скрепою</l>
+      <l>секретаря. Подлинной за подписаніемъ господъ</l>
+      <l>присудствующихъ из скрепою секретаря Павла</l>
+      <l>Искрицкаго.</l>
+      <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+    </p>
   </body></text>
 </TEI>
