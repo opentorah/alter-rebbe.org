@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,67 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Требование <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> к <orgName role=
+      "namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName> предоставить ему
+      сведения о ходе следствия по жалобе <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+      Ошеровича</persName></abstract>
+      <creation><date when="1799-07-18">18 июля 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l>Требование <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> к <orgName role=
+      "namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName> предоставить ему
+      сведения о ходе следствия по жалобе <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+      Ошеровича</persName></l>
+      <l>Дата: 1799-07-18</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p225-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/225.html#p225-1"
     />
+    <fw type="note" place="left">cis</fw>
+    <fw type="note">Получено <date when="1799-07-18">18<hi rend="superscript">го</hi> июля 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">225</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+      <l>Предложеніе</l>
+      <l>Дѣйствительнаго статскаго совѣтника</l>
+      <l><persName role="namesViewer" target="/names/Фризель.html">Литовскаго гражданскаго губернатора</persName> и
+      кава-</l>
+      <l>лера</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому Губернскому Надворному<lb/>
+       Суду</orgName></l>
+    </head>
+    <p>
+      <l>Для донесенія Его свѣтлости господину генера-</l>
+      <l>лу прокурору князю <persName role="namesViewer" target="/names/Лопухин.html">Петру Васильевичу</persName>
+      нуж-</l>
+      <l>но мнѣ знать, въ какомъ положеніи находит-</l>
+      <l>ся нынѣ препорученное мною оному <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >Надворному<lb/>
+       суду</orgName> изслѣдованіе по жалобѣ отрешеннаго отъ</l>
+      <l>должности бывшаго въ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскомъ еврейскомъ<lb
+      />
+       кагалѣ</orgName> старшиною <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша
+      Ошеровича</persName>, на</l>
+      <l>чемъ остановилось производство онаго, и какъ</l>
+      <l>скоро можетъ быть окончено,почему предла-</l>
+      <l>гаю <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому Надворному Су-<lb/>
+       ду</orgName>, доставить мнѣ о томъ обстоятельное</l>
+      <l>увѣдомленіе.</l>
+      <l><persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2835</fw>.</l>
+      <l><date when="1799-07-15">15 Іюля 1799</date></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName></l>
+    </closer>
+    <fw type="note" place="left margin"><l>слуш<note place="end">слушано</note>: <date when="1799-07-18">18<hi rend=
+    "superscript">го</hi> јюля 1799</date></l></fw><note place="end">пометка на нижнем поле страницы</note>
     <pb xml:id="p225-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/225.html#p225-2"/>
   </body></text>

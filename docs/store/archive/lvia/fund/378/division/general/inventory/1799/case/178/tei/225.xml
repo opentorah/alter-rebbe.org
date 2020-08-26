@@ -1,45 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Фризель">Иван Фризель</persName></author><editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-07-18">18 июля 1799 года</date></creation>
-    <abstract>Требование <persName ref="Фризель">Фризеля</persName> к <orgName ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> предоставить ему сведения о ходе следствия по жалобе <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Фризель">Иван Фризель</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Требование <persName ref="Фризель">Фризеля</persName> к <orgName ref="Литовский_надворный_суд"
+      >Литовскому надворному суду</orgName> предоставить ему сведения о ходе следствия по жалобе <persName ref=
+      "Мовша_Ошерович">Мовши Ошеровича</persName></abstract>
+      <creation><date when="1799-07-18">18 июля 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="225-1"/>
     <fw type="note" place="left">cis</fw>
-    <fw type="note">Получено <date when="1799-07-18">18<hi rend="superscript">го</hi> июля 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="note">Получено <date when="1799-07-18">18<hi rend="superscript">го</hi> июля 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
     <fw type="pageNum" place="right">225</fw>
     <fw type="note" place="left margin">велъ</fw>
     <head>
-    <l>Предложеніе</l>
-<l>Дѣйствительнаго статскаго совѣтника</l>
-<l><persName ref="Фризель">Литовскаго гражданскаго губернатора</persName> и кава-</l>
-<l>лера</l>
-<l><orgName ref="Литовский_надворный_суд">Литовскому Губернскому Надворному<lb/>
-Суду</orgName></l>
-</head>
-<p>
-<l>Для донесенія Его свѣтлости господину генера-</l>
-<l>лу прокурору князю <persName ref="Лопухин">Петру Васильевичу</persName> нуж-</l>
-<l>но мнѣ знать, въ какомъ положеніи находит-</l>
-<l>ся нынѣ препорученное мною оному <orgName ref="Литовский_надворный_суд">Надворному<lb/>
-суду</orgName> изслѣдованіе по жалобѣ отрешеннаго отъ</l>
-<l>должности бывшаго въ <orgName ref="Виленский_кагал">виленскомъ еврейскомъ<lb/>
-кагалѣ</orgName> старшиною <persName ref="Мовша_Ошерович">Мойжеша Ошеровича</persName>, на</l>
-<l>чемъ остановилось производство онаго, и какъ</l>
-<l>скоро можетъ быть окончено,почему предла-</l>
-<l>гаю <orgName ref="Литовский_надворный_суд">Литовскому Надворному Су-<lb/>
-ду</orgName>, доставить мнѣ о томъ обстоятельное</l>
-<l>увѣдомленіе.</l>
-<l><persName ref="Фризель">Иванъ Фризель</persName></l>
-</p>
-<closer place="left">
-<l><fw type="docNum">№ 2835</fw>.</l>
-<l><date when="1799-07-15">15 Іюля 1799</date></l>
-<l><placeName ref="Вильна">вильна</placeName></l>
-</closer>
-<fw type="note" place="left margin"><l>слуш<note place="end">слушано</note>: <date when="1799-07-18">18<hi rend="superscript">го</hi> јюля 1799</date></l></fw><note place="end">пометка на нижнем поле страницы</note>
+      <l>Предложеніе</l>
+      <l>Дѣйствительнаго статскаго совѣтника</l>
+      <l><persName ref="Фризель">Литовскаго гражданскаго губернатора</persName> и кава-</l>
+      <l>лера</l>
+      <l><orgName ref="Литовский_надворный_суд">Литовскому Губернскому Надворному<lb/>
+       Суду</orgName></l>
+    </head>
+    <p>
+      <l>Для донесенія Его свѣтлости господину генера-</l>
+      <l>лу прокурору князю <persName ref="Лопухин">Петру Васильевичу</persName> нуж-</l>
+      <l>но мнѣ знать, въ какомъ положеніи находит-</l>
+      <l>ся нынѣ препорученное мною оному <orgName ref="Литовский_надворный_суд">Надворному<lb/>
+       суду</orgName> изслѣдованіе по жалобѣ отрешеннаго отъ</l>
+      <l>должности бывшаго въ <orgName ref="Виленский_кагал">виленскомъ еврейскомъ<lb/>
+       кагалѣ</orgName> старшиною <persName ref="Мовша_Ошерович">Мойжеша Ошеровича</persName>, на</l>
+      <l>чемъ остановилось производство онаго, и какъ</l>
+      <l>скоро можетъ быть окончено,почему предла-</l>
+      <l>гаю <orgName ref="Литовский_надворный_суд">Литовскому Надворному Су-<lb/>
+       ду</orgName>, доставить мнѣ о томъ обстоятельное</l>
+      <l>увѣдомленіе.</l>
+      <l><persName ref="Фризель">Иванъ Фризель</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2835</fw>.</l>
+      <l><date when="1799-07-15">15 Іюля 1799</date></l>
+      <l><placeName ref="Вильна">вильна</placeName></l>
+    </closer>
+    <fw type="note" place="left margin"><l>слуш<note place="end">слушано</note>: <date when="1799-07-18">18<hi rend=
+    "superscript">го</hi> јюля 1799</date></l></fw><note place="end">пометка на нижнем поле страницы</note>
     <pb n="225-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
