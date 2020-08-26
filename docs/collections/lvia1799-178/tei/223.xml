@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,24 +15,130 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+      суда</orgName> об истребовании дополнительных показаний у <persName role="namesViewer" target=
+      "/names/Елиашевич.html">Елиашевича</persName>, Сербиновича и Гестки в связи с опровержениями, представленными
+      <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовшей Ошеровичем</persName></abstract>
+      <creation><date when="1799-07-04">1799 года июля 4 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+      суда</orgName> об истребовании дополнительных показаний у <persName role="namesViewer" target=
+      "/names/Елиашевич.html">Елиашевича</persName>, Сербиновича и Гестки в связи с опровержениями, представленными
+      <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовшей Ошеровичем</persName></l>
+      <l>Дата: 1799-07-04</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p223-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/223.html#p223-1"
     />
-    <pb xml:id="p223-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/223.html#p223-2"
-    />
-    <pb xml:id="p224-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/223.html#p224-1"
-    />
+    <fw type="pageNum" place="right">223.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1799-07-04">1799<hi rend="superscript">го</hi> года Јюля 4<hi rend="superscript">го</hi> дня</date>
+      въ журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надворнаго
+      Суда</orgName></l>
+      <l>записано <fw type="docNum">подъ № 17<hi rend="superscript">мъ</hi></fw></l>
+    </head>
+    <p>
+      <l>СЛУШАЛИ: доказательствы виленскаго еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >мойжеша<lb/>
+       ошеровича</persName> данныя имъ противъ объясненій виленскаго ко-</l>
+      <l>менданта господина генералъ маіора и кавалера <persName role="namesViewer" target="/names/Капцевич.html"
+      >капце-<lb/>
+       вича</persName>, плацъ маіора палкина, квартальнаго надзирателя</l>
+      <l>Гестки, Губернскаго правленія совѣтника <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевича</persName></l>
+      <l>и губернскаго казначея Сербиновича, въ коемъ между про-</l>
+      <l>чимъ по силѣ резолюціи <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сего надворнаго
+      суда</orgName> въ 17<hi rend="superscript">и</hi> день</l>
+      <l>мая состоявшейся изъясняетъ о именахъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролиновъ</orgName></l>
+      <l>и десятскихъ, которые были въ <date when="1799-02-04">четвертой</date> и <date when="1799-02-06">шестой день<lb
+      />
+       февраля</date> въ еврейской школѣ при господинѣ камендантѣ <persName role="namesViewer" target=
+      "/names/Капцевич.html">капцевичѣ</persName></l>
+      <l>и плацъ маіорѣ палкинѣ и находились у присмотра до-</l>
+      <l>мовъ кагальныхъ и партикулярныхъ особъ. ПРИКАЗАЛИ:</l>
+      <l>Хотя онъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName> въ помянутыхъ
+      доказательствахъ <choice><sic>ка-<lb/>
+       жде</sic><corr>каждое</corr></choice> объясненіе опровергаетъ особо; но какъ господинъ камен-</l>
+      <l>дантъ <persName role="namesViewer" target="/names/Капцевич.html">капцевичъ</persName> и пляцъ маіоръ палкинъ по
+      роду службы</l>
+      <l>своей не подлежатъ гражданскому изследованію, а потому</l>
+      <l>выписавъ еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровича</persName>
+      опроверженіи въ касающем-</l>
+      <l>ся только до господина совѣтника <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевича</persName>, гу-</l>
+      <l>бернскаго казначея Сербиновича и квартальнаго над</l>
+      <l>зирателя Гестки, отправить оныя въ <orgName role="namesViewer" target=
+      "/names/Литовское_губернское_правление.html">Литовское Губерн-<lb/>
+       ское Правленіе</orgName>, здѣшнюю казенную Палату и къ исправ-</l>
+      <l>ляющему должность госпо</l>
+      <l>дину пляцъ маіору Палкину съ тѣмъ, дабы правленіе</l>
+      <l>господину совѣтнику <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичу</persName>, казенная
+      палата</l>
+      <pb xml:id="p223-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/223.html#p223-2"/>
+      <l>господину губернатору казначею Сербиновичу, а пляцъ</l>
+      <l>маіоръ надзирателю Гесткѣ объявили, не имѣютъ ли они</l>
+      <l>чего либо сказать противъ доказательствъ еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >мой<lb/>
+       жеша Ошеровича</persName>, и ссылается ли изъ нихъ господинъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> во свидѣтельство на евреевъ
+      просите-</l>
+      <l>лемъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичемъ</persName> представленныхъ;
+      будѣ же не ссыла-</l>
+      <l>ется, то почему имянно? и что ими господами <persName role="namesViewer" target="/names/Елиашевич.html">Елі-<lb
+      />
+       ашевичемъ</persName>, Сербиновичемъ и Гесткою показано бу-</l>
+      <l>детъ, доставили бы все то въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">надворной
+      судъ</orgName> въ скор-</l>
+      <l>рѣйшемъ времени. Хотя же резолюціею <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >сего суда</orgName> въ <date when="1799-05-17">17<hi rend="superscript">й</hi><lb/>
+       день маія</date> послѣдовавшею на сообщеніе господина ка-</l>
+      <l>менданта <persName role="namesViewer" target="/names/Капцевич.html">капцевича</persName>, чтобы о именахъ тѣхъ
+      людей,</l>
+      <l>коихъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровичъ</persName> назоветъ <orgName
+      role="namesViewer" target="/names/Хасиды.html">каролинами</orgName> объявлено было</l>
+      <l>ему <persName role="namesViewer" target="/names/Капцевич.html">господину каменданту</persName>, для должнаго на
+      основа-</l>
+      <l>ній законовъ или соглашенія съ показаніемъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеро-<lb/>
+       вича</persName>, естьли оно справедливо,или въ противномъ слу-</l>
+      <l>чае опроверженія, заключено, чтобъ по представленіи</l>
+      <l>евреемъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичемъ</persName> о каролинахъ
+      показанія, препро-</l>
+      <l>водить оное къ <persName role="namesViewer" target="/names/Капцевич.html">господину каменданту</persName>, въ
+      следствіе</l>
+      <l>означеннаго его требованія; но поелику онъ госпо-</l>
+      <l>динъ <persName role="namesViewer" target="/names/Капцевич.html">комендантъ</persName> <note type="gloss">|:
+      какъ изъ сообщенія <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернскаго<lb
+      />
+       Правленія</orgName> въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей
+      судъ</orgName> присланнаго значитъ :|</note> от-</l>
+      <l>правился въ <placeName role="namesViewer" target="/names/Рига.html">ригу</placeName>; то будѣ въ теченіе
+      производства</l>
+      <l>сего следственнаго дѣла. онъ господинъ комен-</l>
+      <l>дантъ въ <placeName role="namesViewer" target="/names/Вильна.html">вильну</placeName> не прибудетъ, для того
+      дабы не ос-</l>
+      <l>тановить окончанія онаго дѣла, не откладывать</l>
+      <pb xml:id="p224-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/223.html#p224-1"/>
+      <fw type="pageNum" place="right">224</fw>
+      <fw type="note" place="left margin">Па</fw>
+      <l>послѣ подачи требуемыхъ нынешнею резолюціею</l>
+      <l>объясненій, и отобранія какъ отъ оныхъ <orgName role="namesViewer" target="/names/Хасиды.html"
+      >каролиновъ</orgName>,</l>
+      <l>такъ и отдѣсятскихъ показаніи. Подлинной за</l>
+      <l>подписаніемъ господъ присудствующихъ и за</l>
+      <l>скрепою секретаря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+    </p>
     <pb xml:id="p224-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/223.html#p224-2"/>
   </body></text>
