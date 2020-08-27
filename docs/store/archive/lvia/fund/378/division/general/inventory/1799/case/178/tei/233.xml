@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-08-03">августа 3 дня 1799 года</date></creation>
-    <abstract>Сопроводительное письмо Литовской казенной палаты в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> при отправке объяснений губернского казначея Сербиновича в связи сделом по жалобе <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Сопроводительное письмо Литовской казенной палаты в <orgName ref="Литовский_надворный_суд">Надворный
+      суд</orgName> при отправке объяснений губернского казначея Сербиновича в связи сделом по жалобе <persName ref=
+      "Мовша_Ошерович">Мовши Ошеровича</persName></abstract>
+      <creation><date when="1799-08-03">августа 3 дня 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="233-1"/>
@@ -14,19 +20,19 @@
     <fw type="note" place="left margin">велъ</fw>
     <fw type="note" place="left margin"><fw type="docNum">№ 1845</fw></fw>
     <head>
-    <l>Изъ Литовской Казенной Палаты</l>
-    <l>въ <orgName ref="Литовский_надворный_суд">Литовскїй надворный судъ</orgName></l>
+      <l>Изъ Литовской Казенной Палаты</l>
+      <l>въ <orgName ref="Литовский_надворный_суд">Литовскїй надворный судъ</orgName></l>
     </head>
     <p>
-    <l>Представленное въ сію палату отъ губернскаго</l>
-<l>казначея господина Сербиновича объясненіе про-</l>
-<l>тиву доказательства еврея <persName ref="Мовша_Ошерович">ошеровича</persName> отъ онаго</l>
-<l><orgName ref="Литовский_надворный_суд">суда</orgName> въ палату въ копїи доставленнаго въ</l>
-<l>сходствїе требованїя <orgName ref="Литовский_надворный_суд">онаго надворнаго суда</orgName></l>
-<l>палата при семъ въ оный судъ въ оригиналѣ</l>
-<l>имѣетъ честь препроводить</l>
-<l><signed><unclear>??? ???</unclear></signed></l>
-</p>
+      <l>Представленное въ сію палату отъ губернскаго</l>
+      <l>казначея господина Сербиновича объясненіе про-</l>
+      <l>тиву доказательства еврея <persName ref="Мовша_Ошерович">ошеровича</persName> отъ онаго</l>
+      <l><orgName ref="Литовский_надворный_суд">суда</orgName> въ палату въ копїи доставленнаго въ</l>
+      <l>сходствїе требованїя <orgName ref="Литовский_надворный_суд">онаго надворнаго суда</orgName></l>
+      <l>палата при семъ въ оный судъ въ оригиналѣ</l>
+      <l>имѣетъ честь препроводить</l>
+      <l><signed><unclear>??? ???</unclear></signed></l>
+    </p>
     <pb n="233-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

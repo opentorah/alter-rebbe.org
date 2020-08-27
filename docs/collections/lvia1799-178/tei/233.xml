@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,50 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Сопроводительное письмо Литовской казенной палаты в <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Надворный суд</orgName> при отправке объяснений губернского казначея
+      Сербиновича в связи сделом по жалобе <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+      Ошеровича</persName></abstract>
+      <creation><date when="1799-08-03">августа 3 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Сопроводительное письмо Литовской казенной палаты в <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Надворный суд</orgName> при отправке объяснений губернского казначея
+      Сербиновича в связи сделом по жалобе <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+      Ошеровича</persName></l>
+      <l>Дата: 1799-08-03</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p233-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/233.html#p233-1"
     />
+    <fw type="docNum" place="left">№ 570</fw>
+    <fw type="pageNum" place="right">233.</fw>
+    <fw type="note">Получено <date when="1799-08-03">августа .3. дня 1799. года</date></fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 1845</fw></fw>
+    <head>
+      <l>Изъ Литовской Казенной Палаты</l>
+      <l>въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскїй надворный судъ</orgName>
+      </l>
+    </head>
+    <p>
+      <l>Представленное въ сію палату отъ губернскаго</l>
+      <l>казначея господина Сербиновича объясненіе про-</l>
+      <l>тиву доказательства еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровича</persName>
+      отъ онаго</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">суда</orgName> въ палату въ копїи
+      доставленнаго въ</l>
+      <l>сходствїе требованїя <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">онаго надворнаго
+      суда</orgName></l>
+      <l>палата при семъ въ оный судъ въ оригиналѣ</l>
+      <l>имѣетъ честь препроводить</l>
+      <l><signed><unclear>??? ???</unclear></signed></l>
+    </p>
     <pb xml:id="p233-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/233.html#p233-2"/>
   </body></text>
