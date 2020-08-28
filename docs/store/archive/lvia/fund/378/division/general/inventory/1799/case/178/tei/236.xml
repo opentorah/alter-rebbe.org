@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-08-04">1799 года августа 4 дня</date></creation>
+    <abstract>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о приобщении к делу показаний губернского казначея Сербиновича</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="236-1"/>
+    <fw type="pageNum" place="right">236.</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+    <l><date when="1799-08-04">1799<hi rend="superscript">го</hi> года августа 4<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
+    скаго Надворнаго суда</orgName> записано.</l>
+<l><fw type="docNum">№ 2<hi rend="superscript">и</hi></fw></l>
+</head>
+<p>
+<l>Слушали сообщеніе Литовской Казенной Палаты,</l>
+<l>при которомъ въ сходство требованія сего <orgName ref="Литовский_надворный_суд">Надвор-<lb/>
+наго суда</orgName> препровождаетъ данное господиномъ</l>
+<l>губернскимъ казначеемъ Сербиновичемъ объясненіе про-</l>
+<l>тиву доказательства еврея <persName ref="Мовша_Ошерович">Ошеровича</persName>. ПРИКА-</l>
+<l>ЗАЛИ: оное сообщеніе вмѣстѣ съ приложенымъ</l>
+<l>при немъ объясненіемъ губернскаго казначея Сер-</l>
+<l>биновича приобщить къ производящемуся въ семъ</l>
+<l><orgName ref="Литовский_надворный_суд">судѣ</orgName> по прозьбѣ <persName ref="Мовша_Ошерович">Ошеровича</persName> слѣдствію. Подлин-</l>
+<l>ной за подписаніемъ господъ присудствующихъ и</l>
+<l>за скрепою секретаря Павла Искрицкаго._</l>
+<l>Протоколистъ Јосифъ Волковъ</l>
+</p>
     <pb n="236-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
