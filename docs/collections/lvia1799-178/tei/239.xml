@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,56 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Сопроводительное письмо плац-майора Палкина, исполнявшего обязанности виленского коменданта, при
+      передаче показаний в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовский надворный
+      суд</orgName> письменных показаний квартального надзирателя Гестки</abstract>
+      <creation><date when="1799-08-13">Августа 13 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Сопроводительное письмо плац-майора Палкина, исполнявшего обязанности виленского коменданта, при передаче
+      показаний в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовский надворный
+      суд</orgName> письменных показаний квартального надзирателя Гестки</l>
+      <l>Дата: 1799-08-13</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p239-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/239.html#p239-1"
     />
+    <fw type="docNum" place="left">№ 607</fw>
+    <fw type="note">Получено <date when="1799-08-17">17<hi rend="superscript">го</hi> августа 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">234</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l>Въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовской Надворной
+      Судъ</orgName>.</l>
+      <l>Отъ правящаго комендантскую должность</l>
+      <l>виленскаго плацъ маїора,</l>
+    </head>
+    <p>
+      <l>Какое по поводу сообщенїя ко мнѣ изъ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго надворнаго суда</orgName>
+      отъ <date when="1799-07-19">19<hi rend="superscript">го</hi><lb/>
+       минувшаго июля</date> подъ <fw type="docNum">№ 268<hi rend="superscript">м</hi></fw> съ при-</l>
+      <l>ложенїемъ доказательствъ еврея</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName> подано отъ
+      квартальнаго</l>
+      <l>надзирателя Гестки объясненїе</l>
+      <l>оное при семъ представить честь</l>
+      <l>имѣю Плацъ маіоръ Палкинъ.</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 330</fw>.</l>
+      <l><date when="1799-08-13">Августа 13<hi rend="superscript">го</hi> дня<lb/>
+       1799<hi rend="superscript">го</hi> года</date></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильно</placeName></l>
+    </closer>
+    <fw type="note">Слуш<note place="end">слушано</note>: <date when="1799-08-18">18<hi rend="superscript">го</hi>
+    августа</date></fw>
     <pb xml:id="p239-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/239.html#p239-2"/>
   </body></text>

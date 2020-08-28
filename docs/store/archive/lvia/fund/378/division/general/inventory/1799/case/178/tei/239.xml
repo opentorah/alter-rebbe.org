@@ -1,39 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-08-13">Августа 13 дня 1799 года</date></creation>
-    <abstract>Сопроводительное письмо плац-майора Палкина, исполнявшего обязанности виленского коменданта, при передаче показаний в <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName> письменных показаний квартального надзирателя Гестки</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Сопроводительное письмо плац-майора Палкина, исполнявшего обязанности виленского коменданта, при
+      передаче показаний в <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName> письменных показаний
+      квартального надзирателя Гестки</abstract>
+      <creation><date when="1799-08-13">Августа 13 дня 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="239-1"/>
     <fw type="docNum" place="left">№ 607</fw>
-    <fw type="note">Получено <date when="1799-08-17">17<hi rend="superscript">го</hi> августа 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="note">Получено <date when="1799-08-17">17<hi rend="superscript">го</hi> августа 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
     <fw type="pageNum" place="right">234</fw>
     <fw type="note" place="left margin">тарь</fw>
     <head>
-    <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной Судъ</orgName>.</l>
-<l>Отъ правящаго комендантскую должность</l>
-<l>виленскаго плацъ маїора,</l>
-</head>
-<p>
-<l>Какое по поводу сообщенїя ко мнѣ изъ</l>
-<l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> отъ <date when="1799-07-19">19<hi rend="superscript">го</hi><lb/>
-минувшаго июля</date> подъ <fw type="docNum">№ 268<hi rend="superscript">м</hi></fw> съ при-</l>
-<l>ложенїемъ доказательствъ еврея</l>
-<l><persName ref="Мовша_Ошерович">Ошеровича</persName> подано отъ квартальнаго</l>
-<l>надзирателя Гестки объясненїе</l>
-<l>оное при семъ представить честь</l>
-<l>имѣю Плацъ маіоръ Палкинъ.</l>
-</p>
-<closer place="left">
-<l><fw type="docNum">№ 330</fw>.</l>
-<l><date when="1799-08-13">Августа 13<hi rend="superscript">го</hi> дня<lb/>
-1799<hi rend="superscript">го</hi> года</date></l>
-<l><placeName ref="Вильна">вильно</placeName></l>
-</closer>
-<fw type="note">Слуш<note place="end">слушано</note>: <date when="1799-08-18">18<hi rend="superscript">го</hi> августа</date></fw>
+      <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной Судъ</orgName>.</l>
+      <l>Отъ правящаго комендантскую должность</l>
+      <l>виленскаго плацъ маїора,</l>
+    </head>
+    <p>
+      <l>Какое по поводу сообщенїя ко мнѣ изъ</l>
+      <l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> отъ <date when="1799-07-19">19<hi
+      rend="superscript">го</hi><lb/>
+       минувшаго июля</date> подъ <fw type="docNum">№ 268<hi rend="superscript">м</hi></fw> съ при-</l>
+      <l>ложенїемъ доказательствъ еврея</l>
+      <l><persName ref="Мовша_Ошерович">Ошеровича</persName> подано отъ квартальнаго</l>
+      <l>надзирателя Гестки объясненїе</l>
+      <l>оное при семъ представить честь</l>
+      <l>имѣю Плацъ маіоръ Палкинъ.</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 330</fw>.</l>
+      <l><date when="1799-08-13">Августа 13<hi rend="superscript">го</hi> дня<lb/>
+       1799<hi rend="superscript">го</hi> года</date></l>
+      <l><placeName ref="Вильна">вильно</placeName></l>
+    </closer>
+    <fw type="note">Слуш<note place="end">слушано</note>: <date when="1799-08-18">18<hi rend="superscript">го</hi>
+    августа</date></fw>
     <pb n="239-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
