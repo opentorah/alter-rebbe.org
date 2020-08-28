@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,21 +15,98 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Первый лист письменных показаний квартального надзирателя Гестки о его участии в изъятии приходно-расходных книг
+        <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1799-08-13">Августа 13 дня 1799 года</date><note place="end">не указанная в документе дата
+      составления показаний восстановлена по документуц 239
+      (https://app.alter-rebbe.org/collections/lvia1799-178/documents/239.html)</note></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Первый лист письменных показаний квартального надзирателя Гестки о его участии в изъятии приходно-расходных книг
+        <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1799-08-13</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p240-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/240.html#p240-1"
     /><note place="end">В деле этот лист подшит перед листом 442.</note>
-    <pb xml:id="p240-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/240.html#p240-2"
-    />
+    <fw type="pageNum" place="right">240.</fw>
+    <fw type="note" place="left margin">Па-</fw>
+    <head>
+      <l><emph rend="big">Его высокоблагородію</emph> г<hi rend="superscript">ну</hi> виленскому плацъ ма</l>
+      <l>іору Василю Ивановичу Палкину.</l>
+      <l>Отъ квартальнаго надзирателя</l>
+      <l>Гестки</l>
+      <l>ОБЪЯСНЕНІЕ.</l>
+    </head>
+    <p>
+      <l>На объявленное вашимъ высоко-</l>
+      <l>благородіемъ доказательство</l>
+      <l>виленскаго еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеро<lb/>
+       вича</persName> симъ имѣю честь во опра</l>
+      <l>вданія себя объявить именно:</l>
+      <l>1е Что имянуемые ошеровичемъ</l>
+      <l>въ доказательствѣ его еврей,</l>
+      <l>былибъ <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName>! Я вовсѣ не ведаю</l>
+      <l>ибо на нихъ никакого отличающаго</l>
+      <l>отъ другихъ евреевъ но не іменую-</l>
+      <l>щаго <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> знака не было; да</l>
+      <l>находили сами они между другими</l>
+      <l>евреями собирающимися въ домъ</l>
+      <l>школьный я того не примѣтилъ</l>
+      <l>въ протчемъ есть либо они туда</l>
+      <l>не причиняя никому никакой обиды</l>
+      <l>и приходили, чего воспретить нельзя</l>
+      <l>было за неимѣніемъ повеленія <unclear>о</unclear></l>
+      <l>примѣчаніи и невпущеніи ихъ въ <unclear>домъ</unclear><note place="end">слово не читается</note></l>
+      <l>школьный, то я чрезъ те <unclear>???</unclear></l>
+      <l>содѣлать <unclear>???</unclear> 2. Что я</l>
+      <l><unclear>???</unclear><note place="end">строка нечитабельна</note></l>
+      <l><unclear>???</unclear><note place="end">строка нечитабельна</note></l>
+      <pb xml:id="p240-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/240.html#p240-2"/>
+      <l>отъ нихъ кагальныхъ книгъ; но не</l>
+      <l>самъ отъ себя, а по повеленію г<hi rend="superscript">на</hi> <persName role="namesViewer" target=
+      "/names/Капцевич.html">ко<lb/>
+       менданта</persName>, причемъ могло статся,</l>
+      <l>что у прилучившихся на то время былъ</l>
+      <l>въ домахъ тѣхъ евреевъ другихъ по</l>
+      <l>стороннихъ таковыхъ же евреевъ, тре</l>
+      <l>бовалъ я чтобъ мнѣ прочитали,за</l>
+      <l>главіи находимыхъ мною книгъ, что</l>
+      <l>нужно было для узнанія относятся ли</l>
+      <l>они до приходовъ и расходовъ <orgName role="namesViewer" target="/names/Виленский_кагал.html"
+      >кагаломъ</orgName></l>
+      <l>здѣланныхъ, кои мнѣ велено забирать;</l>
+      <l>но чтобъ и оные еврей было <orgName role="namesViewer" target="/names/Хасиды.html">каро<lb/>
+       ліни</orgName>, я не могъ знать по описанной</l>
+      <l>выше въ первомъ пунктѣ причинѣ;</l>
+      <l>Гдежъ не находилъ кагальныхъ книгъ,</l>
+      <l>тамъ никакихъ другихъ и не забиралъ;</l>
+      <l>равно такъ же у кого ни былъ, не при</l>
+      <l>чинялъ я никому никакой обиды ни</l>
+      <l>словомъ ни дѣломъ ни малейшаго</l>
+      <l>ничемъ разоренія; въ чемъ тотъ</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровичъ</persName> не можетъ того ска</l>
+      <l>зать такъ какъ въ томъ мнѣ</l>
+      <l>онъ и не доказываетъ; слѣдовательно</l>
+      <l>тѣмъ самымъ онъ и самъ меня</l>
+      <l>оправдываетъ. 3. Что въ прежнемъ</l>
+      <l>моемъ отвѣтѣ показывалъ я в</l>
+      <l>хожденіи моемъ для забиранія книгъ</l>
+      <l>къ двумъ евреямъ то ето потому</l>
+      <l>что у меня тогда о тѣхъ только двухъ</l>
+      <l>евреяхъ спрашивано; но какъ я не</l>
+      <l>только не зналъ и теперь не знаю</l>
+      <l>кто такой изъ евреевъ со<note place="end">далее нечитабельное место - обрыв листа</note></l>
+    </p>
   </body></text>
 </TEI>
