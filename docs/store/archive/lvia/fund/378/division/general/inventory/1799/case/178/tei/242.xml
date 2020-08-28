@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-08-18">1799 года августа 18 дня</date></creation>
+    <abstract>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о приобщении к делу показаний Гестки</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="242-1"/>
+    <fw type="pageNum" place="right">242.</fw>
+    <fw type="note" place="left margin">ис-</fw>
+    <head>
+    <l><date when="1799-08-18">1799<hi rend="superscript">го</hi> года августа 18<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
+    скаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 4<hi rend="superscript">и</hi></fw></l>
+<l></l>
+    </head>
+    <p>
+    <l>Слушали сообщеніе правящего комендантскую</l>
+<l>виленскаго плацъ маѣора Палкина при</l>
+<l>въ сходство требованія <orgName ref="Литовский_надворный_суд">сего суда</orgName></l>
+<l>препровождаетъ отобранное отъ кварталь-</l>
+<l>наго надзирателя Гестки объясненіе про-</l>
+<l>тивъ доказательствъ еврея <persName ref="Мовша_Ошерович">Ошеровича</persName>.</l>
+<l>ПРИКАЗАЛИ: оное сообщеніе вмѣстѣ</l>
+<l>препровожденнымъ при ономъ кварталь-</l>
+<l>наго надзирателя Гестки объясненіемъ при-</l>
+<l>общить къ дѣлу._ Подлинной за подписа-</l>
+<l>ніемъ господъ присудствующихъ и за скрепою</l>
+<l>секретаря Павла Искрицкаго_</l>
+<l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+</p>
     <pb n="242-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
