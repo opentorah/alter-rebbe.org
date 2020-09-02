@@ -2,7 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1796-01-26">26 января 1796 года</date></creation><abstract><p>Документ виленского кагала на иврите с переводом на польский язык о расходовании собранных средств, подписанный кагальными школьниками</p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Документ виленского кагала на иврите с переводом на польский язык о расходовании собранных средств, подписанный
+        кагальными школьниками
+      </p></abstract>
+      <creation><date when="1796-01-26">26 января 1796 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="265-1"/>
