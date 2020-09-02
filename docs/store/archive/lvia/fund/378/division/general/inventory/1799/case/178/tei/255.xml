@@ -2,7 +2,14 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Кагальная ухвала (постановление) <orgName ref="Виленский_кагал">Виленского кагала</orgName> о расходовании
+        собранных средств - на иврите с переводом на польский язык; подписана кагальным старшиной <persName ref=
+        "Еремиаш_Нохимович">Еремиашем Нохимовичем</persName>
+      </p></abstract>
+      <creation><date when="1798-01-28">28 января 1798 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="255-1"/>
