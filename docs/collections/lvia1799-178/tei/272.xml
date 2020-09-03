@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,51 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Показания Мордуха Цалковича о сроке проживания в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильне</placeName>из-за отстутствия сведений в ревизских данных
+      </p></abstract>
+      <creation><date when="1799-10-13">1799 года октября 13 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Показания Мордуха Цалковича о сроке проживания в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильне</placeName>из-за отстутствия сведений в ревизских данных
+      </p></l>
+      <l>Дата: 1799-10-13</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p272-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/272.html#p272-1"
     />
+    <fw type="pageNum" place="right">272.</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <p>
+      <l><date when="1799-10-13">1799 года октября 13<hi rend="superscript">го</hi> дня</date> въ присудствіи</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго надворнаго суда</orgName>
+      виленскій жи-</l>
+      <l>тель и здѣшняго <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагала</orgName> служитель
+      мордухъ</l>
+      <l>Цалковичъ по силѣ резолюціи въ <date when="1799-10-07">7<hi rend="superscript">и</hi> день сего ок<lb/>
+       тября</date> послѣдовавшей бывъ спрашиванъ, пока-</l>
+      <l>залъ:</l>
+    </p>
+    <p>
+      <l>Что онъ жительствуетъ въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> около</l>
+      <l>двадцати лѣтъ, но во время бывшей въ 1795<hi rend="superscript">м</hi></l>
+      <l>году ревизіи бывъ боленъ находился въ шпиталѣ.</l>
+      <l>А за симъ и неизвѣстно записанъ ли въ ревизію.</l>
+      <l>Извѣстенъ только, что по бѣдности своей пода-</l>
+      <l>тей не платилъ. А сего года взята отъ него</l>
+      <l>сказка надзирателемъ Гесткою какъ о лѣтахъ</l>
+      <l>самаго его и сѣмѣйства, такъ и о томъ,</l>
+      <l>гдѣ онъ жительствуетъ.</l>
+      <l><signed>???</signed><note place="end">краткая подпись на иврите</note></l>
+    </p>
     <pb xml:id="p272-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/272.html#p272-2"/>
   </body></text>
