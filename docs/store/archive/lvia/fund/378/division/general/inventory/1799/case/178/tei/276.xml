@@ -1,37 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-10-13">1799 года октября 13 дня</date></creation>
-    <abstract><p>Показания Абраама Гиршовича о сроке жительства в <placeName ref="Вильна">Вильне</placeName> и причинах отстутствия сведений о нем в ревизских данных 1795 г.</p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Показания Абраама Гиршовича о сроке жительства в <placeName ref="Вильна">Вильне</placeName> и причинах
+        отстутствия сведений о нем в ревизских данных 1795 г.
+      </p></abstract>
+      <creation><date when="1799-10-13">1799 года октября 13 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="276-1"/>
     <fw type="pageNum" place="right">276.</fw>
     <fw type="note" place="left margin">кій</fw>
     <p>
-    <l><date when="1799-10-13">1799<hi rend="superscript">го</hi> года октября 13<hi rend="superscript">го</hi> дня</date> въ присудствіи</l>
-<l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> виленскій жи-</l>
-<l>тель и здѣшняго <orgName ref="Виленский_кагал">кагала</orgName> служитель Аб-</l>
-<l>раамъ Гиршовичъ по силѣ резолюціи въ <date when="1799-10-07">7<hi rend="superscript">и</hi><lb/>
-день сего октября</date> послѣдовавшей бывъ</l>
-<l>спрашиванъ, показалъ:</l>
-</p>
-<p>
-<l>Что онъ жительствуетъ въ <placeName ref="Вильна">вильнѣ</placeName> около</l>
-<l>восемнадцати лѣтъ. въ ревизіи въ 1795<hi rend="superscript">м</hi> году</l>
-<l>происходившей  не могъ онъ записанъ</l>
-<l>быть потому, что тогда и послѣ не</l>
-<l>находился въ <placeName ref="Вильна">вильнѣ</placeName>, а отлучался за</l>
-<l>извощика въ <placeName ref="Пруссия">Пруссію</placeName>. Платила ли жена</l>
-<l>его подати ему Гиршовичу неизвѣстно.</l>
-<l>Въ прошломъ же 1798<hi rend="superscript">м</hi> году записанъ онъ</l>
-<l>Гиршовичъ въ ревизіи съ семействомъ</l>
-<l>квартальнымъ надзирателемъ и какъ</l>
-<l>припомнитъ можетъ Гречемъ.</l>
-<l><signed>???</signed><note place="end">подпись на иврите</note></l>
-</p>
+      <l><date when="1799-10-13">1799<hi rend="superscript">го</hi> года октября 13<hi rend="superscript">го</hi>
+      дня</date> въ присудствіи</l>
+      <l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> виленскій жи-</l>
+      <l>тель и здѣшняго <orgName ref="Виленский_кагал">кагала</orgName> служитель Аб-</l>
+      <l>раамъ Гиршовичъ по силѣ резолюціи въ <date when="1799-10-07">7<hi rend="superscript">и</hi><lb/>
+       день сего октября</date> послѣдовавшей бывъ</l>
+      <l>спрашиванъ, показалъ:</l>
+    </p>
+    <p>
+      <l>Что онъ жительствуетъ въ <placeName ref="Вильна">вильнѣ</placeName> около</l>
+      <l>восемнадцати лѣтъ. въ ревизіи въ 1795<hi rend="superscript">м</hi> году</l>
+      <l>происходившей не могъ онъ записанъ</l>
+      <l>быть потому, что тогда и послѣ не</l>
+      <l>находился въ <placeName ref="Вильна">вильнѣ</placeName>, а отлучался за</l>
+      <l>извощика въ <placeName ref="Пруссия">Пруссію</placeName>. Платила ли жена</l>
+      <l>его подати ему Гиршовичу неизвѣстно.</l>
+      <l>Въ прошломъ же 1798<hi rend="superscript">м</hi> году записанъ онъ</l>
+      <l>Гиршовичъ въ ревизіи съ семействомъ</l>
+      <l>квартальнымъ надзирателемъ и какъ</l>
+      <l>припомнитъ можетъ Гречемъ.</l>
+      <l><signed>???</signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb n="276-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
