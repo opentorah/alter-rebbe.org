@@ -2,10 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <profileDesc><creation><date when="1799-10-12">12 октября 1799 года</date></creation>
+    <abstract><p>Сообщение виленского магистрата в <orgName ref="Литовский_надворный_суд">Литовский надворный суд - на польском языке</orgName></p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="271-1"/>
-    <pb n="271-2" missing="true" empty="true"/>
+        <pb n="271-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
