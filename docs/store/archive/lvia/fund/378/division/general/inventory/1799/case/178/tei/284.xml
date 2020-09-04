@@ -2,8 +2,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-10-19">19 октября 1799 года</date></creation>
-    <abstract><p>Донесение в Виленский магистрат на польском языке</p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>Донесение в Виленский магистрат на польском языке</p></abstract>
+      <creation><date when="1799-10-19">19 октября 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="284-1"/>
