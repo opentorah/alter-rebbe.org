@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Елиашевич.html">Федор Елиашевичъ</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,24 +15,138 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Показание <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Надворному суду</orgName> с отказом принять уточнение
+        имен свидетей, представленных <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровичем</persName>
+      </p></abstract>
+      <creation><date when="1799-10-24">Октября 24 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Показание <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Надворному суду</orgName> с отказом принять уточнение
+        имен свидетей, представленных <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровичем</persName>
+      </p></l>
+      <l>Дата: 1799-10-24</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Елиашевич.html">Федор Елиашевичъ</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p300-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/300.html#p300-1"
     />
-    <pb xml:id="p300-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/300.html#p300-2"
-    />
-    <pb xml:id="p301-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/300.html#p301-1"
-    />
+    <fw type="docNum" place="left">№ 835</fw>
+    <fw type="note">Пол.<note place="end">получено</note> <date when="1799-10-24">24<hi rend="superscript">го</hi>
+    октября 1799 года</date></fw>
+    <fw type="pageNum" place="right">300</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому Губернскому Nадворному
+      Суду</orgName>.</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго Губернскаго
+      правленія</orgName></l>
+      <l>совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName></l>
+    </head>
+    <p>
+      <l>Оный <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворный судъ</orgName>
+      препровождаетъ въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское<lb/>
+       губернское правленіе</orgName> для объявленія мнѣ доне-</l>
+      <l>сеніе виленскаго жителя <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша
+      Ошеровича</persName>,</l>
+      <l>въ которомъ угодно было написать ему, что</l>
+      <l>изъ объясненїя или выспицификацїи<note place="end">судя по всему, выспецификация - документ с утвержденным
+      cписком отобранных судом к процессу свидетелей</note> свидѣтелей</l>
+      <l>имъ противу меня представленныхъ усмот-</l>
+      <l>релъ онъ ошибку въ прозванїяхъ трехъ изъ</l>
+      <l>нихъ, учиненную якобы писцомъ переписывав-</l>
+      <l>шимъ показанїе его <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>._
+      Таковая</l>
+      <l>незбытная ложь бывъ обнажена всякаго прав</l>
+      <l>доподобія, не заслуживаетъ никакого вѣроятія</l>
+      <l>потому: 1<hi rend="superscript">е</hi>, бумага поданная <persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">Ошеровичемъ</persName>,</l>
+      <l>въ которой случилась будтобы вышеозначен-</l>
+      <l>ная ошибка писалась у него больше двухъ</l>
+      <l>мѣсяцовъ, и не прежде была имъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичемъ</persName></l>
+      <l>подписана, какъ по прочтенїи; а посему, есть</l>
+      <l>либъ переписывавшій ту бумагу ошибся,</l>
+      <l>то могъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName> при чтенїи
+      усмотреть</l>
+      <l>сіе и поправить, но сего не послѣдовало въ</l>
+      <l>теченіи многихъ мцовъ. 2<hi rend="superscript">е</hi> все тѣ люди,</l>
+      <pb xml:id="p300-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/300.html#p300-2"/>
+      <l>коихъ прозванїи <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName> называетъ
+      оши-</l>
+      <l>бочными, находятся сдѣсь дѣйствительно</l>
+      <l>налицо; итакъ естьлибы подлинно прозва-</l>
+      <l>нїи сихъ людей написаны были ошибкою,</l>
+      <l>то какимъ образомъ писецъ могъ столь</l>
+      <l>удачно ошибкою придать всѣмъ тремъ имя-</l>
+      <l>намъ такіе точно прозванїи, кои дѣйстви</l>
+      <l>тельно <hi rend="superscript">находятся</hi> въ особахъ здѣсь <placeName role="namesViewer" target=
+      "/names/Вильна.html">въ городѣ</placeName> живущихъ,</l>
+      <l>а еще неимовѣрнее то, чтобъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичъ</persName> дол-</l>
+      <l>женствующій лично знать всякаго свидѣ-</l>
+      <l>теля, не могъ замѣтить сіи ошибки, но</l>
+      <l>вздумалъ говорить о семъ пропустя столь</l>
+      <l>долгое время. 3<hi rend="superscript">е</hi> <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичъ</persName> пишетъ, будтобы</l>
+      <l>онъ сїю ошибку свою усмотрелъ изъ выспи-</l>
+      <l>цификаїи свидѣтелей, естьли же оная учи-</l>
+      <l>нена въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Nадворномъ судѣ</orgName>, то
+      надлежитъ</l>
+      <l>изыскать, какимъ образомъ провѣдалъ</l>
+      <l>объ ней <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName> тогда, когда
+      никакая</l>
+      <l>выспицификацїя не объявлена мнѣ, а слѣдова-</l>
+      <l>тельно и ему, ибо въ противномъ случаѣ</l>
+      <l>было бы сіе для него предпочтенїемъ._ Я нео-</l>
+      <l>бинуясь и утвердительно сказать могу,</l>
+      <l>что <persName role="namesViewer" target="/names/Мовша_Ошерович.html">ошеровичъ</persName> отнюдь не здѣлалъ
+      ошибки</l>
+      <l>въ прозванїяхъ изъясненныхъ имъ въ до-</l>
+      <l>казательствахъ своихъ свидѣтелей, а видно</l>
+      <pb xml:id="p301-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/300.html#p301-1"/>
+      <fw type="pageNum" place="right">301</fw>
+      <fw type="note" place="left margin">Се</fw>
+      <l>что и сихъ не могъ онъ согласить ни лѣстїю,</l>
+      <l>ни страхомъ хейрима и черною книгою</l>
+      <l>къ толь беззаконному свидѣтельствованїю,</l>
+      <l>а потому и могла ослабнуть надежда его</l>
+      <l>на нихъ, да и едваль не хочетъ онъ симъ вновь</l>
+      <l>продлить и запутать дѣло, ибо сіе послѣднее</l>
+      <l>донесеніе не имѣетъ даже вида истинны, и</l>
+      <l>нѣтъ теперь нужды въ новыхъ свидѣтеляхъ,</l>
+      <l>кои всеконечно не лучше прежде представленныхъ</l>
+      <l>имъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичемъ</persName>; для того и
+      остается мнѣ</l>
+      <l>просить вспепокорнѣйше <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскій
+      губернскій<lb/>
+       Nадворный судъ</orgName> запретить ему <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичу</persName> вхо-</l>
+      <l>дить съ новыми бумагами, и тѣмъ зат-</l>
+      <l>руднять производство слѣдствія; на основа</l>
+      <l>ніи воинскаго процесса 1<hi rend="superscript">й</hi> части 4<hi rend="superscript">й</hi> главы</l>
+      <l>2<hi rend="superscript">го</hi> пункта, ибо въ противномъ случаѣ не-</l>
+      <l>будетъ конца затеямъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>, кои
+      воз-</l>
+      <l>раждасяь вновь и превращаясь въ другіе виды</l>
+      <l>произведутъ одно только затрудненіе, медлѣн</l>
+      <l>ность и совершенную остановку въ производствѣ</l>
+      <l>совѣтникъ <signed><persName role="namesViewer" target="/names/Елиашевич.html">Федоръ Еліашевичъ</persName>
+      </signed></l>
+    </p>
+    <closer place="left"><l><date when="1799-10-24">Октября 24 дня<lb/>
+     1799 года</date>.</l></closer>
     <pb xml:id="p301-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/300.html#p301-2"/>
   </body></text>
