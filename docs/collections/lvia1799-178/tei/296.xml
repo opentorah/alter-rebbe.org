@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,52 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу рапорта виленского магистрата
+      </p></abstract>
+      <creation><date when="1799-10-21">1799 года октября 21 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу рапорта виленского магистрата
+      </p></l>
+      <l>Дата: 1799-10-21</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p296-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/296.html#p296-1"
     />
+    <fw type="pageNum" place="right">296.</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1799-10-21">1799<hi rend="superscript">го</hi> года октября 21<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литов<lb/>
+       скаго Надворнаго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 2<hi rend="superscript"
+      >и</hi></fw></emph></l>
+    </head>
+    <p>
+      <l>Слушали рапортъ виленскаго городоваго магистрата,</l>
+      <l>при которомъ въ слѣдствіе указа <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сего
+      Надворнаго суда</orgName></l>
+      <l>представляетъ учиненную имъ выправку, касательно</l>
+      <l>состоянія и поведенія евреевъ кагальныхъ сторожей,</l>
+      <l>Геноха, Мойжеша и Копеля, равножъ жителей Зель-</l>
+      <l>мана Ароновича, Мордуха Лейзаровича, и Абра-</l>
+      <l>гама Янкелевича. ПРИКАЗАЛИ: оной рапортъ</l>
+      <l>и приложенную при ономъ выправку приобщить къ</l>
+      <l>протчимъ бумагамъ, касающимся до разрѣшенія</l>
+      <l>о свидѣтеляхъ, и выписавъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >присудствію</orgName> доложить.</l>
+      <l>Подлинной за подписаніемъ господъ присудствующихъ</l>
+      <l>и за скрепою секрктаря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+    </p>
     <pb xml:id="p296-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/296.html#p296-2"/>
   </body></text>
