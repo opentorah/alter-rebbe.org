@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,61 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о принятии лонесения <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+        Ошеровича</persName> и отправлении его копии <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевичу</persName>
+      </p></abstract>
+      <creation><date when="1799-10-17">1799 года октября 17 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о принятии лонесения <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши
+        Ошеровича</persName> и отправлении его копии <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевичу</persName>
+      </p></l>
+      <l>Дата: 1799-10-17</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p278-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/278.html#p278-1"
     />
+    <fw type="pageNum" place="right">278.</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><date when="1799-10-17">1799<hi rend="superscript">го</hi> года октября 17<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       Надворнаго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 8<hi rend="superscript">и</hi>
+      </fw></emph></l>
+    </head>
+    <p>
+      <l>Слушали донесеніе еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша
+      Ошеровича</persName>, въ коемъ</l>
+      <l>прописываетъ, что въ поданныхъ отъ него въ <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">сей судъ</orgName> объ-</l>
+      <l>ясненіи и о свидѣтеляхъ рѣестре<note place="end">в оригинале "ѣ" и "е" слились в одну букву</note> находятся
+      учиненныя</l>
+      <l>писцемъ ошибки въ прозваніяхъ, и имянно: въмѣсто</l>
+      <l>Лейбы Давидовича, написано рафаловича, вѣмѣсто Аб-</l>
+      <l>рагама Изаковича, написано Нотелевича, и вмѣсто</l>
+      <l>Еліокима Мовшовича, написано Лейбовича; проситъ</l>
+      <l>сіе его донесеніе отмѣтить на поданномъ объясненіи</l>
+      <l>и прописанные ошибки поправить. ПРИКАЗАЛИ: копію</l>
+      <l>сего донесенія препроводить при сообщенію въ <orgName role="namesViewer" target=
+      "/names/Литовское_губернское_правление.html">Губернское<lb/>
+       Правленіе</orgName>, для объявленія онаго господину совѣтнику</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичу</persName>. Подлинной за подписаніемъ
+      господъ присуд-</l>
+      <l>ствующихъ и за скрепою секретаря Павла Искриц-</l>
+      <l>каго.</l>
+      <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+    </p>
     <pb xml:id="p278-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/278.html#p278-2"/>
   </body></text>
