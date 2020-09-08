@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,54 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о допросе доставленного свидетеля со стороны <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> – Абрама Нотеліовича
+      </p></abstract>
+      <creation><date when="1799-11-15">1799 года ноября 15 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о допросе доставленного свидетеля со стороны <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> – Абрама Нотеліовича
+      </p></l>
+      <l>Дата: 1799-11-15</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p308-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/308.html#p308-1"
     />
+    <fw type="pageNum" place="right">308.</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+      <l><date when="1799-11-15">1799<hi rend="superscript">го</hi> года ноября 15<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Ли-<lb/>
+       товскаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 2<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго комендантскую</l>
+      <l>должность виленскаго плацъ маіора, подпол-</l>
+      <l>ковника Палкина, при которомъ всходство</l>
+      <l>отношенія сего <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Суда</orgName>
+      отысканнаго въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">виль-<lb/>
+       нѣ</placeName> еврея абрама Нотелевича представля-</l>
+      <l>етъ; Леибы же рафаловича не найдено, но</l>
+      <l>коль скоро отыщетсято имѣетъ и его его пред-</l>
+      <l>ставить. ПРИКАЗАЛИ: представленнаго при</l>
+      <l>семъ сообщеніи еврея Нотелевича въ слѣ-</l>
+      <l>дствіе резолюціи состоявшейся въ семъ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Судѣ</orgName> минувшаго октября 25го
+      дня спро-</l>
+      <l>сить. Подлинной за подписаніемъ господъ при-</l>
+      <l>судствующихъ и за скрепою секретаря Па-</l>
+      <l>вла Искрицкаго._ Секретарь Павелъ Искрицкій</l>
+    </p>
     <pb xml:id="p308-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/308.html#p308-2"/>
   </body></text>
