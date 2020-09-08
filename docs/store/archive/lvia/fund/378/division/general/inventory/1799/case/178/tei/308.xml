@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-11-15">1799 года ноября 15 дня</date></creation>
+    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о допросе доставленного свидетеля со стороны <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> – Абрама Нотеліовича</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="308-1"/>
+    <fw type="pageNum" place="right">308.</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+    <l><date when="1799-11-15">1799<hi rend="superscript">го</hi> года ноября 15<hi rend="superscript">го</hi> дня</date>  въ Журналѣ <orgName ref="Литовский_надворный_суд">Ли-<lb/>
+    товскаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 2<hi rend="superscript">и</hi></fw></l>
+</head>
+<p>
+<l>Слушали сообщеніе правящаго комендантскую</l>
+<l>должность виленскаго плацъ маіора, подпол-</l>
+<l>ковника Палкина, при которомъ всходство</l>
+<l>отношенія сего <orgName ref="Литовский_надворный_суд">Суда</orgName> отысканнаго въ городѣ <placeName ref="Вильна">виль-<lb/>
+нѣ</placeName> еврея абрама Нотелевича представля-</l>
+<l>етъ; Леибы же рафаловича не найдено, но</l>
+<l>коль скоро отыщетсято имѣетъ и его его пред-</l>
+<l>ставить. ПРИКАЗАЛИ: представленнаго при</l>
+<l>семъ сообщеніи еврея Нотелевича въ слѣ-</l>
+<l>дствіе резолюціи состоявшейся въ семъ</l>
+<l><orgName ref="Литовский_надворный_суд">Судѣ</orgName> минувшаго октября 25го дня спро-</l>
+<l>сить. Подлинной за подписаніемъ господъ при-</l>
+<l>судствующихъ и за скрепою секретаря Па-</l>
+<l>вла Искрицкаго._ Секретарь Павелъ Искрицкій</l>
+</p>
     <pb n="308-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
