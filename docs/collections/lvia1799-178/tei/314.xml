@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,56 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о допросе свидетеля <persName role="namesViewer" target="/names/Левин_Беркович.html">Левина
+        Берковича</persName>
+      </p></abstract>
+      <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о допросе свидетеля <persName role="namesViewer" target="/names/Левин_Беркович.html">Левина
+        Берковича</persName>
+      </p></l>
+      <l>Дата: 1800-11-28</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p314-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/314.html#p314-1"
     />
+    <fw type="pageNum" place="right">314</fw>
+    <fw type="note" place="left margin">ис-</fw>
+    <head>
+      <l><date when="1800-11-28">1800 года ноября 28<hi rend="superscript">го</hi> дня</date> въ журналѣ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго надворнаго суда</orgName>
+      записано</l>
+      <l><fw type="docNum">№ 2</fw></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго ко-</l>
+      <l>мендантскую должность виленскаго</l>
+      <l>плацъ маіора подполковника Пал-</l>
+      <l>кина, при которомъ въ слѣдствіе</l>
+      <l>требованія сего <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворнаго
+      суда</orgName></l>
+      <l>прислалъ еврея <persName role="namesViewer" target="/names/Левин_Беркович.html">Левина Берковича</persName></l>
+      <l>ПРИКАЗАЛИ: присланнаго при</l>
+      <l>семъ сообщеніи еврея <persName role="namesViewer" target="/names/Левин_Беркович.html">Левина Бер-<lb/>
+       ковича</persName> въ силу резолюціи <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сего
+      суда</orgName></l>
+      <l>послѣдовавшей текущаго <date when="1799-11-22">ноября<lb/>
+       22<hi rend="superscript">го</hi> дня</date> о чемъ слѣдуетъ спро-</l>
+      <l>сить подлинной за подписаніемъ</l>
+      <l>господъ присудствующихъ и зас-</l>
+      <l>крепою секретаря Павла Искрицкаго</l>
+      <l>Секретарь Павелъ Искрицкій</l>
+    </p>
     <pb xml:id="p314-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/314.html#p314-2"/>
   </body></text>
