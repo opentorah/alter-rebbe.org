@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,45 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Протокол допроса Абрама Нотеліовича, свидетеля со стороны <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>, в <orgName role="namesViewer" target=
+        "/names/Литовский_надворный_суд.html">Литовском надворном суде</orgName>
+      </p></abstract>
+      <creation><date when="1799-11-15">1799 года ноября 15 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Протокол допроса Абрама Нотеліовича, свидетеля со стороны <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>, в <orgName role="namesViewer" target=
+        "/names/Литовский_надворный_суд.html">Литовском надворном суде</orgName>
+      </p></l>
+      <l>Дата: 1799-11-15</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p312-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/312.html#p312-1"
     />
+    <fw type="pageNum" place="right">312.</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <p>
+      <l><date when="1799-11-15">1799 года ноября 15<hi rend="superscript">го</hi> дня</date> въ присудствіи <orgName
+      role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       надворнаго суда</orgName> еврей Абрамъ Нотелевичъ по силѣ</l>
+      <l>резолюціи въ <date when="1799-10-25">25<hi rend="superscript">и</hi> день минувшаго октября</date> послѣ-</l>
+      <l>довавшей бывъ спрашиванъ показалъ:</l>
+    </p>
+    <p>
+      <l>Что отецъ его и онъ всегда жительствовали</l>
+      <l>въ Вильнѣ. Но записанъ ли тутъ въ ревизію не</l>
+      <l>знаетъ. Казенныя же подати и другія сборы</l>
+      <l>всегда уплачиваетъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагалу</orgName>.</l>
+      <l><signed>???</signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb xml:id="p312-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/312.html#p312-2"/>
   </body></text>
