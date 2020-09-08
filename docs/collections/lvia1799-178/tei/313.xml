@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,59 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Рапорт исполняющего должность виленского коменданта Палкина <orgName role="namesViewer" target=
+        "/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName> о доставлении свидетеля <persName
+        role="namesViewer" target="/names/Левин_Беркович.html">Левина Берковича</persName>
+      </p></abstract>
+      <creation><date when="1799-11-25">ноября 25 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Рапорт исполняющего должность виленского коменданта Палкина <orgName role="namesViewer" target=
+        "/names/Литовский_надворный_суд.html">Литовскому надворному суду</orgName> о доставлении свидетеля <persName
+        role="namesViewer" target="/names/Левин_Беркович.html">Левина Берковича</persName>
+      </p></l>
+      <l>Дата: 1799-11-25</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p313-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/313.html#p313-1"
     />
+    <fw type="docNum" place="left">№ 921</fw>
+    <fw type="note">Получено <date when="1799-11-25">25<hi rend="superscript">го</hi> ноября 1799<hi rend="superscript"
+    >го</hi> года</date>.</fw>
+    <fw type="pageNum" place="right">313</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+      <l>Въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовской Надворной
+      судъ</orgName>,</l>
+      <l>отъ правящаго комендантскую должно-</l>
+      <l>сть виленскаго плацъ маіора подполков</l>
+      <l>ника</l>
+    </head>
+    <p>
+      <l>Требуемой сообщенїемъ онаго <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надвор-<lb
+      />
+       наго суда</orgName> отъ <date when="1799-11-23">23<hi rend="superscript">го</hi> сего мца</date> съ <fw type=
+      "docNum">№<lb/>
+       475<hi rend="superscript">м</hi></fw> еврей <persName role="namesViewer" target="/names/Левин_Беркович.html"
+      >левинъ берковичъ</persName> при семъ</l>
+      <l>представляется, плацъ маиоръ</l>
+      <l>подполковникъ Палкинъ</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 1070</fw></l>
+      <l><date when="1799-11-25">ноября 25 дня<lb/>
+       1799<hi rend="superscript">го</hi> года</date></l>
+      <l>вилно</l>
+      <l>Слуш<note place="end">Слушано; записано другими чернилами</note>: <date when="1799-11-28">28<hi rend=
+      "superscript">го</hi> ноября</date></l>
+    </closer>
     <pb xml:id="p313-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/313.html#p313-2"/>
   </body></text>

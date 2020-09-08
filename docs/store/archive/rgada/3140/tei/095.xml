@@ -1,257 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI
-	xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<editor role="transcriber">
-					<persName ref="AW">Alina Wolska</persName>
-				</editor>
-			</titleStmt>
-		</fileDesc>
-		<profileDesc>
-			<abstract>
-				<p>
-        Протокол (на польском языке) допроса 
-					<persName ref="Нохим_Ицкович">Нохима Ицковича</persName>; перевод: 
-					<ref
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt><editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor></titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Протокол (на польском языке) допроса <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>; перевод: <ref
         target="/rgada/093">093</ref>
-				</p>
-			</abstract>
-			<creation>
-				<date when="1798-10-01">1798 года октября 1 дня
-					<note place="end">допросы виленских хасидов продолжались
-      с 1 октября 
-						<ref target="/rgada/092">092</ref> по 25 октября 
-						<ref target="/rgada/092">052</ref> 1798 г.
-					</note>
-				</date>
-			</creation>
-		</profileDesc>
-	</teiHeader>
-	<text xml:lang="pl">
-		<body>
-			<pb n="095-1"/>
-			<fw type="docNum" place="left">№ 2.</fw>
-			<fw type="pageNum" place="right">95</fw>
-			<fw type="pageNum" place="right">
-				<del rend="overstrike">94</del>
-			</fw>
-			<p>
-				<l>
-					<persName ref="Нохим_Ицкович">Nochim Jckowicz</persName> odurodzenia Lat ─
-				</l>
-				<l>mam 36 bawię się roznemi Przemy</l>
-				<l>słami kupieckimi od czega mam</l>
-				<l>sposób do Ƶycia Rodem 
-					<placeName ref="Могилевская_губерния">mohiliwskiey
-						<lb/>
-Gubernij
-					</placeName>, z miasteczka 
-					<placeName ref="Чаусы">Czaus</placeName>, w 
-					<placeName ref="Литва">Litwie</placeName>
-				</l>
-				<l>jak zostaie szósty Rok, Jestem żo</l>
-				<l>naty, mam córkę Rybykę
-					<note place="end">в русском переводе - "имѣю дочьРыбку"</note>, Do 
-					<orgName ref="Хасиды">Sekty
-						<lb/> 
-Karolinow
-					</orgName> ja niełączyłemsię lecz będąc
-				</l>
-				<l>w 
-					<placeName ref="Вильна">wilnie</placeName> zpowodu pokrewienstwa
-				</l>
-				<l>mojego z 
-					<persName ref="Меер_Рафалович">Rafałowiczem</persName> byłem od 
-					<orgName ref="Хасиды">Sekty
-						<lb/> 
-Karolinskiey
-					</orgName>  do Spraw wzywanym, w In
-				</l>
-				<l>teresach pomogałem y gdzie mogłem</l>
-				<l>promowałem onych; onaz Sekta</l>
-				<l>jak misię zda jest ufundowana</l>
-				<l>na Hebreyskich Prawach lecz tylko</l>
-				<l>Czasu modleniasię i Ceremonij wnie</l>
-				<l>których rzeczach rożnisię oddawnych</l>
-				<l>Żydów  y takowy Zwyczay czyli 
-					<orgName ref="Хасиды">Sek
-						<lb/>
-ta Karolinska
-					</orgName> początek wzieła
-				</l>
-				<l>od Rabinow 
-					<placeName ref="Каролины">Karolinskich</placeName>. Teyże
-				</l>
-				<l>Sekty Zwierzchnikiem jest 
-					<placeName ref="Лиозно">Lozenski</placeName>
-				</l>
-				<l>Rabin 
-					<persName ref="alter-rebbe">Salomon Boruch</persName> ─ w Reyestrze
-				</l>
-				<l>pod Literą A
-					<note place="end">т.е. "в реестре под буквой А", что в русском переводе документа передано подробнее: "Въ реестрѣ мнѣ читанномъ» |: которой посланъ былъ подъ № 130 :| "</note> wszystkich uznawam
-				</l>
-				<l>za 
-					<orgName ref="Хасиды">Karolinow</orgName> oprócz 
-					<persName ref="Мовша_Иосиелиович">mowszy Josielo
-						<lb/>
-wicza
-					</persName> y 
-					<persName ref="Иосель_Мовшович">Josiela Mowszowicza</persName> ─ wdru
-				</l>
-				<l>gich zas Guberniach jako to 
-					<placeName ref="Минская_губерния">minskiey</placeName>,
-				</l>
-				<l>
-					<placeName ref="Белоруссия">Bialoruskiey</placeName>, 
-					<placeName ref="Волынская_губерния">wolynskiey</placeName> a także
-				</l>
-				<l>y wPrusyi są 
-					<orgName ref="Хасиды">Karolini</orgName> y 
-					<placeName ref="Лиозно">Lozenski</placeName>
-					<persName ref="alter-rebbe">Ra
-						<lb/>
-bin
-					</persName> będąć znimi naEdukacyi  wmia
-				</l>
-				<l>steczku 
-					<placeName ref="Мезеричи">Mezeruczach</placeName> naypewniey że
-				</l>
-				<l>ma zonemi Rożne Korespondencyi</l>
-				<l>atakże jestem ytego wiadomym</l>
-				<l>że 
-					<placeName ref="Гамбург">Hamburskiego</placeName> Rabina 
-					<persName ref="Рафал">Rafała</persName>
-				</l>
-				<l>wnuczkę tuteyszego Ƶyda 
-					<persName ref="alter-rebbe">Zelmana</persName>
-				</l>
-				<l>Syn wziął zażonę_. 
-					<placeName ref="Белоруссия">wBiało
-						<lb/>
-Ruszyi
-					</placeName> mieszkającego Rabina 
-					<persName ref="alter-rebbe">Zel
-						<lb/>
-mana
-					</persName> znam y lat temu siedem
-				</l>
-				<pb n="095-2"/>
-				<fw type="pageNum">95 об.</fw>
-				<l>Byłem uniego, ytu będąc 
-					<placeName ref="Вильна">wwilnie</placeName>
-				</l>
-				<l>odebrałem dwa Listy zktorych wpier</l>
-				<l>wszym prosił opomoc tuteyszym</l>
-				<l>Karolinam awdrugim Dziękował</l>
-				<l>zadobrą Remonstracyą yPoparcie 
-					<orgName ref="Хасиды">Karol
-						<lb/>
-inskiey
-					</orgName> Sprawy, przytych obydwóch
-				</l>
-				<l>Listach odebrałem odniego wszystkich</l>
-				<l>pieniędzy osmset Rublow asygnacyami.</l>
-				<l>Rabina 
-					<persName ref="Арон">Arona</persName> nieznam a 
-					<persName ref="Соломон">oSolomonie</persName>
-				</l>
-				<l>słyszałem że zabity 
-					<placeName ref="Владимир">wWłodzimie
-						<lb/>
-rzu
-					</placeName>, 
-					<placeName ref="Индура">Jndurskiego</placeName> rabina znam yJmie
-				</l>
-				<l>iemu 
-					<persName ref="Шмуил_Хаимович">Szmyta</persName>
-					<note place="end">еврейское имя Шмуйло здесь передано польским Szmyta/Шмыта</note>, 
-					<placeName ref="Волынская_губерния">Wołynskich</placeName> Rabinow
-				</l>
-				<l>nieznam lecz słyszałem że jest w mia</l>
-				<l>steczku 
-					<placeName ref="Нескиза">nieschizie</placeName> y Jmie iemu 
-					<persName ref="Мордух">Mor
-						<lb/>
-duch
-					</persName> ─ 
-					<orgName ref="Хасиды">Sekta Karolinow</orgName> wszczęłasie
-				</l>
-				<l>w 
-					<placeName ref="Вильна">wilnie</placeName> od kilku Żydów w Roku
-				</l>
-				<l>1772-m y od tego czasu 
-					<persName ref="Меер_Рафалович">Mejer Rafa
-						<lb/>
-łowicz
-					</persName>  z dalszemi został 
-					<orgName ref="Хасиды">Karolinem</orgName>.
-				</l>
-				<l>Pieniądze które były przysłane z 
-					<placeName ref="Лиозно">Loz
-						<lb/>
-nu
-					</placeName> od 
-					<persName ref="alter-rebbe">Rabina</persName> odebrałem y one wy
-				</l>
-				<l>Expensowałem naRożne potrzeby w spra</l>
-				<l>wie 
-					<orgName ref="Хасиды">Karolinow</orgName>, a mianowicie na Kan
-				</l>
-				<l>cellaryi, zanapisanie Prozb, Zawysła</l>
-				<l>nie Kopiow z Rezolucyow, Reszte zas</l>
-				<l>nasiebie obrociłem. Kopia Listu</l>
-				<l>zaczętego pisac przez 
-					<persName ref="Козминский">Kuzminskiego</persName>
-					<note place="end">в русском переводе вместо дословного соответствия "Копия письма, начатого Кузминским" это место передано как "Копія, которую зачалъ писать своею рукою секретарь Кузминскій"</note>
-				</l>
-				<l>która u mnie odebrana jest z tego li</l>
-				<l>stu który przedstawiony przez 
-					<orgName ref="Хасиды">Karolinow</orgName>
-					<placeName ref="Видзы">widz
-						<lb/>
-kich
-					</placeName> do 
-					<orgName ref="Литовское_губернское_правление">Rządu</orgName>  aprzez 
-					<orgName ref="Виленский_кагал">kahal wilen
-						<lb/>
-ski
-					</orgName> pisanego ─ Sprawę ja 
-					<orgName ref="Хасиды">Karolinow</orgName>
-				</l>
-				<l>popierałem dlatego że byłem wprzy</l>
-				<l>iaźni 
-					<persName ref="Меер_Рафалович">Zmejerem Rafałowiczem</persName> a także
-				</l>
-				<l>dlatego że wszyscy zowiącysię 
-					<orgName ref="Хасиды">Karoli
-						<lb/>
-nami
-					</orgName> oświadczyli zwrócić Expon
-				</l>
-				<l>sa jakie kolwiek z tego zrodla mo</l>
-				<l>gły wyniknąć y nagrodzć zafatygę.</l>
-				<pb n="096-1"/>
-				<fw type="pageNum" place="right">96</fw>
-				<fw type="pageNum" place="right">
-					<del rend="overstrike">95.</del>
-				</fw>
-				<l>Te zas Listy, które były pisane od Ra
-					<lb/>
-bina znayduią się tu 
-					<placeName ref="Вильна">wwilnie</placeName> między
-				</l>
-				<l>moiemi papierami_.</l>
-Nochim Jckowicz
-
-				<signed>???</signed>
-				<note place="end">Подпись 
-					<persName ref="Нохим_Ицкович">Нохима Ицковича</persName> на иврите
-				</note>
-			</p>
-			<pb n="096-2"/>
-		</body>
-	</text>
+      </p></abstract>
+      <creation><date when="1798-10-01">1798 года октября 1 дня <note place="end">допросы виленских хасидов продолжались
+      с 1 октября <ref target="/rgada/092">092</ref> по 25 октября <ref target="/rgada/092">052</ref> 1798 г.</note>
+      </date></creation>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="pl"><body>
+    <pb n="095-1"/>
+    <fw type="docNum" place="left">№ 2.</fw>
+    <fw type="pageNum" place="right">95</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">94</del></fw>
+    <p>
+      <l><persName ref="Нохим_Ицкович">Nochim Jckowicz</persName> odurodzenia Lat ─</l> <l>mam 36 bawię się roznemi
+      Przemy</l> <l>słami kupieckimi od czega mam</l> <l>sposób do Ƶycia Rodem <placeName ref="Могилевская_губерния"
+      >mohiliwskiey <lb/>
+       Gubernij</placeName>, z miasteczka <placeName ref="Чаусы">Czaus</placeName>, w <placeName ref="Литва"
+      >Litwie</placeName></l> <l>jak zostaie szósty Rok, Jestem żo</l> <l>naty, mam córkę Rybykę <note place="end">в
+      русском переводе - "имѣю дочьРыбку"</note>, Do <orgName ref="Хасиды">Sekty <lb/>
+       Karolinow</orgName> ja niełączyłemsię lecz będąc</l> <l>w <placeName ref="Вильна">wilnie</placeName> zpowodu
+      pokrewienstwa</l> <l>mojego z <persName ref="Меер_Рафалович">Rafałowiczem</persName> byłem od <orgName ref=
+      "Хасиды">Sekty <lb/>
+       Karolinskiey</orgName> do Spraw wzywanym, w In</l> <l>teresach pomogałem y gdzie mogłem</l> <l>promowałem onych;
+      onaz Sekta</l> <l>jak misię zda jest ufundowana</l> <l>na Hebreyskich Prawach lecz tylko</l> <l>Czasu modleniasię
+      i Ceremonij wnie</l> <l>których rzeczach rożnisię oddawnych</l> <l>Żydów y takowy Zwyczay czyli <orgName ref=
+      "Хасиды">Sek <lb/>
+       ta Karolinska</orgName> początek wzieła</l> <l>od Rabinow <placeName ref="Каролины">Karolinskich</placeName>.
+      Teyże</l> <l>Sekty Zwierzchnikiem jest <placeName ref="Лиозно">Lozenski</placeName></l> <l>Rabin <persName ref=
+      "alter-rebbe">Salomon Boruch</persName> ─ w Reyestrze</l> <l>pod Literą A <note place="end">т.е. "в реестре под
+      буквой А", что в русском переводе документа передано подробнее: "Въ реестрѣ мнѣ читанномъ» |: которой посланъ былъ
+      подъ № 130 :| "</note> wszystkich uznawam</l> <l>za <orgName ref="Хасиды">Karolinow</orgName> oprócz <persName
+      ref="Мовша_Иосиелиович">mowszy Josielo <lb/>
+       wicza</persName> y <persName ref="Иосель_Мовшович">Josiela Mowszowicza</persName> ─ wdru</l> <l>gich zas
+      Guberniach jako to <placeName ref="Минская_губерния">minskiey</placeName>,</l> <l><placeName ref="Белоруссия"
+      >Bialoruskiey</placeName>, <placeName ref="Волынская_губерния">wolynskiey</placeName> a także</l> <l>y wPrusyi są
+      <orgName ref="Хасиды">Karolini</orgName> y <placeName ref="Лиозно">Lozenski</placeName> <persName ref=
+      "alter-rebbe">Ra <lb/>
+       bin</persName> będąć znimi naEdukacyi wmia</l> <l>steczku <placeName ref="Мезеричи">Mezeruczach</placeName>
+      naypewniey że</l> <l>ma zonemi Rożne Korespondencyi</l> <l>atakże jestem ytego wiadomym</l> <l>że <placeName ref=
+      "Гамбург">Hamburskiego</placeName> Rabina <persName ref="Рафал">Rafała</persName></l> <l>wnuczkę tuteyszego Ƶyda
+      <persName ref="alter-rebbe">Zelmana</persName></l> <l>Syn wziął zażonę_. <placeName ref="Белоруссия">wBiało <lb/>
+       Ruszyi</placeName> mieszkającego Rabina <persName ref="alter-rebbe">Zel <lb/>
+       mana</persName> znam y lat temu siedem</l> <pb n="095-2"/> <fw type="pageNum">95 об.</fw> <l>Byłem uniego, ytu
+      będąc <placeName ref="Вильна">wwilnie</placeName></l> <l>odebrałem dwa Listy zktorych wpier</l> <l>wszym prosił
+      opomoc tuteyszym</l> <l>Karolinam awdrugim Dziękował</l> <l>zadobrą Remonstracyą yPoparcie <orgName ref="Хасиды"
+      >Karol <lb/>
+       inskiey</orgName> Sprawy, przytych obydwóch</l> <l>Listach odebrałem odniego wszystkich</l> <l>pieniędzy osmset
+      Rublow asygnacyami.</l> <l>Rabina <persName ref="Арон">Arona</persName> nieznam a <persName ref="Соломон"
+      >oSolomonie</persName></l> <l>słyszałem że zabity <placeName ref="Владимир">wWłodzimie <lb/>
+       rzu</placeName>, <placeName ref="Индура">Jndurskiego</placeName> rabina znam yJmie</l> <l>iemu <persName ref=
+      "Шмуил_Хаимович">Szmyta</persName> <note place="end">еврейское имя Шмуйло здесь передано польским
+      Szmyta/Шмыта</note>, <placeName ref="Волынская_губерния">Wołynskich</placeName> Rabinow</l> <l>nieznam lecz
+      słyszałem że jest w mia</l> <l>steczku <placeName ref="Нескиза">nieschizie</placeName> y Jmie iemu <persName ref=
+      "Мордух">Mor <lb/>
+       duch</persName> ─ <orgName ref="Хасиды">Sekta Karolinow</orgName> wszczęłasie</l> <l>w <placeName ref="Вильна"
+      >wilnie</placeName> od kilku Żydów w Roku</l> <l>1772-m y od tego czasu <persName ref="Меер_Рафалович">Mejer Rafa
+      <lb/>
+       łowicz</persName> z dalszemi został <orgName ref="Хасиды">Karolinem</orgName>.</l> <l>Pieniądze które były
+      przysłane z <placeName ref="Лиозно">Loz <lb/>
+       nu</placeName> od <persName ref="alter-rebbe">Rabina</persName> odebrałem y one wy</l> <l>Expensowałem naRożne
+      potrzeby w spra</l> <l>wie <orgName ref="Хасиды">Karolinow</orgName>, a mianowicie na Kan</l> <l>cellaryi,
+      zanapisanie Prozb, Zawysła</l> <l>nie Kopiow z Rezolucyow, Reszte zas</l> <l>nasiebie obrociłem. Kopia Listu</l>
+      <l>zaczętego pisac przez <persName ref="Козминский">Kuzminskiego</persName> <note place="end">в русском переводе
+      вместо дословного соответствия "Копия письма, начатого Кузминским" это место передано как "Копія, которую зачалъ
+      писать своею рукою секретарь Кузминскій"</note></l> <l>która u mnie odebrana jest z tego li</l> <l>stu który
+      przedstawiony przez <orgName ref="Хасиды">Karolinow</orgName> <placeName ref="Видзы">widz <lb/>
+       kich</placeName> do <orgName ref="Литовское_губернское_правление">Rządu</orgName> aprzez <orgName ref=
+      "Виленский_кагал">kahal wilen <lb/>
+       ski</orgName> pisanego ─ Sprawę ja <orgName ref="Хасиды">Karolinow</orgName></l> <l>popierałem dlatego że byłem
+      wprzy</l> <l>iaźni <persName ref="Меер_Рафалович">Zmejerem Rafałowiczem</persName> a także</l> <l>dlatego że
+      wszyscy zowiącysię <orgName ref="Хасиды">Karoli <lb/>
+       nami</orgName> oświadczyli zwrócić Expon</l> <l>sa jakie kolwiek z tego zrodla mo</l> <l>gły wyniknąć y nagrodzć
+      zafatygę.</l> <pb n="096-1"/> <fw type="pageNum" place="right">96</fw> <fw type="pageNum" place="right"><del rend=
+      "overstrike">95.</del></fw> <l>Te zas Listy, które były pisane od Ra <lb/>
+       bina znayduią się tu <placeName ref="Вильна">wwilnie</placeName> między</l> <l>moiemi papierami_.</l> Nochim
+      Jckowicz <signed>???</signed> <note place="end">Подпись <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>
+      на иврите</note>
+    </p>
+    <pb n="096-2"/>
+  </body></text>
 </TEI>
