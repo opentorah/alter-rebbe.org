@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Протокол допроса Абрама Нотеліовича, свидетеля со стороны <persName ref="Мовша_Ошерович">Мовши
+        Ошеровича</persName>, в <orgName ref="Литовский_надворный_суд">Литовском надворном суде</orgName>
+      </p></abstract>
+      <creation><date when="1799-11-15">1799 года ноября 15 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="312-1"/>
+    <fw type="pageNum" place="right">312.</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <p>
+      <l><date when="1799-11-15">1799 года ноября 15<hi rend="superscript">го</hi> дня</date> въ присудствіи <orgName
+      ref="Литовский_надворный_суд">Литовскаго<lb/>
+       надворнаго суда</orgName> еврей Абрамъ Нотелевичъ по силѣ</l>
+      <l>резолюціи въ <date when="1799-10-25">25<hi rend="superscript">и</hi> день минувшаго октября</date> послѣ-</l>
+      <l>довавшей бывъ спрашиванъ показалъ:</l>
+    </p>
+    <p>
+      <l>Что отецъ его и онъ всегда жительствовали</l>
+      <l>въ Вильнѣ. Но записанъ ли тутъ въ ревизію не</l>
+      <l>знаетъ. Казенныя же подати и другія сборы</l>
+      <l>всегда уплачиваетъ <orgName ref="Виленский_кагал">кагалу</orgName>.</l>
+      <l><signed>???</signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb n="312-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
