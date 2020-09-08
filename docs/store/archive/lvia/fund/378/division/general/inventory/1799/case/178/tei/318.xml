@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-12-01">1799 года декабря 1 дня</date></creation>
+    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о третьем запросе к исполняющему обязанности коменданта <placeName ref="Вильна">Вильно</placeName> с требованием разыскать и доставить свидетеля Лейбу Рафаловича</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="318-1"/>
+    <fw type="pageNum" place="right">318</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+    <l><date when="1799-12-01">1799<hi rend="superscript">го</hi> года декабря 1<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Ли-<lb/>
+    
+    товскаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 5<hi rend="superscript">и</hi></fw></l>
+</head>
+<p>
+<l>Имѣли разсужденіе, что <orgName ref="Литовский_надворный_суд">сей Надворный судъ</orgName> два</l>
+<l>раза сообщалъ исправляющему въ вильнѣ комен-</l>
+<l>дансткую должность плацъ-маіору господину</l>
+<l>подполковнику Палкину въ 1<hi rend="superscript">и</hi> разъ <date when="1799-10-27">27<hi rend="superscript">го</hi> октября</date></l>
+<l>съ <fw type="docNum">№ 436<hi rend="superscript">мъ</hi></fw>, а въ другой <date when="1799-11-11">11<hi rend="superscript">го</hi> ноября</date> съ <fw type="docNum">№ 456<hi rend="superscript">м</hi></fw></l>
+<l>о доставленіи во оной виленскихъ евреевъ Абрама</l>
+<l>Нотелевича, и Лейбу рафаловича. Въ слѣдствіе</l>
+<l>чего въ <date when="1799-11-14">14<hi rend="superscript">и</hi> день ноября</date> присланъ отъ него господина</l>
+<l>плацъ маіора только одинъ Абрамъ Нотеле-</l>
+<l>вичъ; о Лейбѣ же рафаловичѣ онъ господинъ под-</l>
+<l>полковникъ далъ знать, что его въ городѣ не най-</l>
+<l>дено, а коль скоро отыщется; будетъ высланъ. Но</l>
+<l>отысканъ ли онъ рафаловичъ, или нѣтъ? сему</l>
+<l><orgName ref="Литовский_надворный_суд">Надворному cуду</orgName> не извѣстно. ПРИКАЗАЛИ: ГО- </l>
+<l>сподину плацъ-маіору подполковнику Палкину</l>
+<l>третично сообщить, дабы благоволилъ еврея Лейбу</l>
+<l>рафаловича прислать въ <orgName ref="Литовский_надворный_суд">Надворный судъ</orgName> въ воз-</l>
+<l>можно скорѣйшемъ времени. Подлинной за подпи-</l>
+<l>саніемъ господъ присудствующихъ и за скрепою се-</l>
+<l>кретиаря Павла Искрицкаго._</l>
+<l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
+</p>
     <pb n="318-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
