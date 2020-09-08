@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
+    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о допросе свидетеля <persName ref="Левин_Беркович">Левина Берковича</persName></p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="314-1"/>
+    <fw type="pageNum" place="right">314</fw>
+    <fw type="note" place="left margin">ис-</fw>
+    <head>
+    <l><date when="1800-11-28">1800 года ноября 28<hi rend="superscript">го</hi> дня</date> въ журналѣ</l>
+<l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> записано</l>
+<l><fw type="docNum">№ 2</fw></l>
+</head>
+<p>
+<l>Слушали сообщеніе правящаго ко-</l>
+<l>мендантскую должность виленскаго</l>
+<l>плацъ маіора подполковника Пал-</l>
+<l>кина, при которомъ въ слѣдствіе</l>
+<l>требованія сего <orgName ref="Литовский_надворный_суд">Надворнаго суда</orgName></l>
+<l>прислалъ еврея <persName ref="Левин_Беркович">Левина Берковича</persName></l>
+<l>ПРИКАЗАЛИ: присланнаго при</l>
+<l>семъ сообщеніи еврея <persName ref="Левин_Беркович">Левина Бер-<lb/>
+ковича</persName> въ силу резолюціи <orgName ref="Литовский_надворный_суд">сего суда</orgName></l>
+<l>послѣдовавшей текущаго <date when="1799-11-22">ноября<lb/>
+22<hi rend="superscript">го</hi> дня</date> о чемъ слѣдуетъ спро-</l>
+<l>сить подлинной за подписаніемъ</l>
+<l>господъ присудствующихъ и зас-</l>
+<l>крепою секретаря Павла Искрицкаго</l>
+<l>Секретарь Павелъ Искрицкій</l>
+</p>
     <pb n="314-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
