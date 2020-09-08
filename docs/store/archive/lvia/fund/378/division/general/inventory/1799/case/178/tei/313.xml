@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-11-25">ноября 25 дня 1799 года</date></creation>
+    <abstract><p>Рапорт исполняющего должность виленского коменданта Палкина <orgName ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> о доставлении свидетеля <persName ref="Левин_Беркович">Левина Берковича</persName></p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="313-1"/>
+    <fw type="docNum" place="left">№ 921</fw>
+    <fw type="note">Получено <date when="1799-11-25">25<hi rend="superscript">го</hi> ноября 1799<hi rend="superscript">го</hi> года</date>.</fw>
+    <fw type="pageNum" place="right">313</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+    <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной судъ</orgName>,</l>
+<l>отъ правящаго комендантскую должно-</l>
+<l>сть виленскаго плацъ маіора подполков</l>
+<l>ника</l>
+</head>
+<p>
+<l>Требуемой сообщенїемъ онаго <orgName ref="Литовский_надворный_суд">Надвор-<lb/>
+наго суда</orgName> отъ <date when="1799-11-23">23<hi rend="superscript">го</hi> сего мца</date> съ <fw type="docNum">№<lb/>
+475<hi rend="superscript">м</hi></fw> еврей <persName ref="Левин_Беркович">левинъ берковичъ</persName> при семъ</l>
+<l>представляется, плацъ маиоръ</l>
+<l>подполковникъ Палкинъ</l>
+</p>
+<closer place="left">
+<l><fw type="docNum">№ 1070</fw></l>
+<l><date when="1799-11-25">ноября 25 дня<lb/>
+1799<hi rend="superscript">го</hi> года</date></l>
+<l>вилно</l>
+<l>Слуш<note place="end">Слушано; записано другими чернилами</note>: <date when="1799-11-28">28<hi rend="superscript">го</hi> ноября</date></l>
+</closer>
     <pb n="313-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
