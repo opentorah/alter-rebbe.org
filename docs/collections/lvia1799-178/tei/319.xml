@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,61 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Сообщение плац-майора Палкина <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+        >Литовскому надворному суду</orgName> об отсутствии в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильно</placeName> Лейбы Рафаловича – свидетеля, представленного <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовшей Ошеровичем</persName>
+      </p></abstract>
+      <creation><date when="1799-12-09">декабря 9 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Сообщение плац-майора Палкина <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+        >Литовскому надворному суду</orgName> об отсутствии в <placeName role="namesViewer" target="/names/Вильна.html"
+        >Вильно</placeName> Лейбы Рафаловича – свидетеля, представленного <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовшей Ошеровичем</persName>
+      </p></l>
+      <l>Дата: 1799-12-09</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p319-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/319.html#p319-1"
     />
+    <fw type="docNum" place="left">№ <emph rend="underline">956</emph></fw>
+    <fw type="note">Получено <date when="1799-12-20">20<hi rend="superscript">го</hi> декабря 1799 года</date></fw>
+    <fw type="pageNum" place="right">319</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 1238</fw></fw>
+    <head>
+      <l>Въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовской Надворной Судъ</orgName>
+      </l>
+      <l>Отъ правящаго въ <placeName role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName> коменданта
+      долж-</l>
+      <l>ность плацъ маїора подполковника</l>
+    </head>
+    <p>
+      <l>Во исполненїе оного <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворного
+      Суда</orgName> сообщенія отъ</l>
+      <l><date when="1799-12-07">7<hi rend="superscript">го</hi> сего мца<note place="end">месяца, над словом -
+      титло</note></date> подъ <fw type="docNum">№ 489<hi rend="superscript">м</hi></fw> чрезъ городскую полицію</l>
+      <l>по частямъ города <placeName role="namesViewer" target="/names/Вильна.html">вильни</placeName> чиненъ поискъ
+      еврея</l>
+      <l>лѣибу Рафаловича потребного въ высылку во</l>
+      <l>оной судъ, то сїе нигдѣ по жительству въ городе</l>
+      <l>не сысканъ, о чемъ и благоволитъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">оной
+      Надвор-<lb/>
+       ной судъ</orgName> быть извѣстенъ. Плацъ маиоръ</l>
+      <l>подполковникъ Палкинъ</l>
+    </p>
+    <closer place="left"><l><date when="1799-12-09">декабря 9<hi rend="superscript">го</hi> дня<lb/>
+     1799<hi rend="superscript">го</hi> года</date></l></closer>
+    <fw type="note">Слуш<note place="end">слушано</note> <date when="1799-12-20">20 декабря</date></fw><note place="end"
+    >запись на нижнем поле страницы</note>
     <pb xml:id="p319-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/319.html#p319-2"/>
   </body></text>

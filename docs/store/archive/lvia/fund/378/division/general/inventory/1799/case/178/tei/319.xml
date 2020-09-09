@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение плац-майора Палкина <orgName ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> об
+        отсутствии в <placeName ref="Вильна">Вильно</placeName> Лейбы Рафаловича – свидетеля, представленного <persName
+        ref="Мовша_Ошерович">Мовшей Ошеровичем</persName>
+      </p></abstract>
+      <creation><date when="1799-12-09">декабря 9 дня 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="319-1"/>
+    <fw type="docNum" place="left">№ <emph rend="underline">956</emph></fw>
+    <fw type="note">Получено <date when="1799-12-20">20<hi rend="superscript">го</hi> декабря 1799 года</date></fw>
+    <fw type="pageNum" place="right">319</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 1238</fw></fw>
+    <head>
+      <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной Судъ</orgName></l>
+      <l>Отъ правящаго въ <placeName ref="Вильна">Вильнѣ</placeName> коменданта долж-</l>
+      <l>ность плацъ маїора подполковника</l>
+    </head>
+    <p>
+      <l>Во исполненїе оного <orgName ref="Литовский_надворный_суд">Надворного Суда</orgName> сообщенія отъ</l>
+      <l><date when="1799-12-07">7<hi rend="superscript">го</hi> сего мца<note place="end">месяца, над словом -
+      титло</note></date> подъ <fw type="docNum">№ 489<hi rend="superscript">м</hi></fw> чрезъ городскую полицію</l>
+      <l>по частямъ города <placeName ref="Вильна">вильни</placeName> чиненъ поискъ еврея</l>
+      <l>лѣибу Рафаловича потребного въ высылку во</l>
+      <l>оной судъ, то сїе нигдѣ по жительству въ городе</l>
+      <l>не сысканъ, о чемъ и благоволитъ <orgName ref="Литовский_надворный_суд">оной Надвор-<lb/>
+       ной судъ</orgName> быть извѣстенъ. Плацъ маиоръ</l>
+      <l>подполковникъ Палкинъ</l>
+    </p>
+    <closer place="left"><l><date when="1799-12-09">декабря 9<hi rend="superscript">го</hi> дня<lb/>
+     1799<hi rend="superscript">го</hi> года</date></l></closer>
+    <fw type="note">Слуш<note place="end">слушано</note> <date when="1799-12-20">20 декабря</date></fw><note place="end"
+    >запись на нижнем поле страницы</note>
     <pb n="319-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
