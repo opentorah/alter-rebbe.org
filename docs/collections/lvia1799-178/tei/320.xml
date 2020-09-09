@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,53 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу рапорта Палкина, сообщившего об отстутствии среди жителей <placeName role=
+        "namesViewer" target="/names/Вильна.html">Вильны</placeName> свидетеля Лейбы Рафаловича
+      </p></abstract>
+      <creation><date when="1899-12-20">1799 года декабря 20 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу рапорта Палкина, сообщившего об отстутствии среди жителей <placeName role=
+        "namesViewer" target="/names/Вильна.html">Вильны</placeName> свидетеля Лейбы Рафаловича
+      </p></l>
+      <l>Дата: 1899-12-20</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p320-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/320.html#p320-1"
     />
+    <fw type="pageNum" place="right">320</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1899-12-20">1799<hi rend="superscript">го</hi> года декабря 20<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литов-<lb/>
+       скаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 1<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>
+      комендант-</l>
+      <l>скую должность, плацъ-маіора господина подполков-</l>
+      <l>ника Палкина, коимъ даетъ знать, что городскою</l>
+      <l>полиціею по частямъ города <placeName role="namesViewer" target="/names/Вильна.html">вильны</placeName> чинена
+      была о ев-</l>
+      <l>рѣе Лейбѣ Рафаловичѣ выправка, однако его Рафа-</l>
+      <l>ловича въ <placeName role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName> въ жительствѣ не
+      оказалось._</l>
+      <l>ПРИКАЗАЛИ: Оное сообщеніе приобщить къ дѣлу и</l>
+      <l>разсмотря <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">присудствію</orgName>
+      должить. Подлинной за под-</l>
+      <l>писаніемъ господъ присудствующихъ и за скрепою</l>
+      <l>секретаря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
+    </p>
     <pb xml:id="p320-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/320.html#p320-2"/>
   </body></text>
