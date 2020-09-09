@@ -1,32 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1899-12-20">1799 года декабря 20 дня</date></creation>
-    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о приобщении к делу рапорта Палкина, сообщившего об отстутствии среди жителей <placeName ref="Вильна">Вильны</placeName> свидетеля Лейбы Рафаловича</p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о приобщении к делу рапорта
+        Палкина, сообщившего об отстутствии среди жителей <placeName ref="Вильна">Вильны</placeName> свидетеля Лейбы
+        Рафаловича
+      </p></abstract>
+      <creation><date when="1899-12-20">1799 года декабря 20 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="320-1"/>
     <fw type="pageNum" place="right">320</fw>
- <fw type="note" place="left margin">Па</fw> 
- <head>
- <l><date when="1899-12-20">1799<hi rend="superscript">го</hi> года декабря 20<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
- скаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 1<hi rend="superscript">и</hi></fw></l>
-</head> 
-<p>
-<l>Слушали сообщеніе правящаго въ <placeName ref="Вильна">вильнѣ</placeName> комендант-</l>
-<l>скую должность, плацъ-маіора господина подполков-</l>
-<l>ника Палкина, коимъ даетъ знать, что городскою</l>
-<l>полиціею по частямъ города <placeName ref="Вильна">вильны</placeName> чинена была о ев-</l>
-<l>рѣе Лейбѣ Рафаловичѣ выправка, однако его Рафа-</l>
-<l>ловича въ <placeName ref="Вильна">Вильнѣ</placeName> въ жительствѣ не оказалось._</l>
-<l>ПРИКАЗАЛИ: Оное сообщеніе приобщить къ дѣлу и</l>
-<l>разсмотря <orgName ref="Литовский_надворный_суд">присудствію</orgName> должить. Подлинной за под-</l>
-<l>писаніемъ господъ присудствующихъ и за скрепою</l>
-<l>секретаря Павла Искрицкаго._</l>
-<l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
-</p> 
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1899-12-20">1799<hi rend="superscript">го</hi> года декабря 20<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
+       скаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 1<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго въ <placeName ref="Вильна">вильнѣ</placeName> комендант-</l>
+      <l>скую должность, плацъ-маіора господина подполков-</l>
+      <l>ника Палкина, коимъ даетъ знать, что городскою</l>
+      <l>полиціею по частямъ города <placeName ref="Вильна">вильны</placeName> чинена была о ев-</l>
+      <l>рѣе Лейбѣ Рафаловичѣ выправка, однако его Рафа-</l>
+      <l>ловича въ <placeName ref="Вильна">Вильнѣ</placeName> въ жительствѣ не оказалось._</l>
+      <l>ПРИКАЗАЛИ: Оное сообщеніе приобщить къ дѣлу и</l>
+      <l>разсмотря <orgName ref="Литовский_надворный_суд">присудствію</orgName> должить. Подлинной за под-</l>
+      <l>писаніемъ господъ присудствующихъ и за скрепою</l>
+      <l>секретаря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
+    </p>
     <pb n="320-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
