@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,20 +15,84 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Отношение Литовского гражданского губернатора <persName role="namesViewer" target="/names/Фризель.html"
+        >Фризеля</persName> к губернскому <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+        >Надворному суду</orgName> о предоставлении сведений, касающихся хода расследования дела по жалобе <persName
+        role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> для доклада генерал-прокурору
+        <persName role="namesViewer" target="/names/Беклешов.html">Беклешову</persName>, а также о скорейшем завершении
+        следствия
+      </p></abstract>
+      <creation><date when="1799-12-??">не позднее 21 декабря 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Отношение Литовского гражданского губернатора <persName role="namesViewer" target="/names/Фризель.html"
+        >Фризеля</persName> к губернскому <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+        >Надворному суду</orgName> о предоставлении сведений, касающихся хода расследования дела по жалобе <persName
+        role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> для доклада генерал-прокурору
+        <persName role="namesViewer" target="/names/Беклешов.html">Беклешову</persName>, а также о скорейшем завершении
+        следствия
+      </p></l>
+      <l>Дата: 1799-12-??</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Фризель.html">Иван Фризель</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p324-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/324.html#p324-1"
     />
+    <fw type="docNum">№ 954</fw>
+    <fw type="note" place="left">Получено 21<hi rend="superscript">го</hi> декабря 1799<hi rend="superscript">го</hi>
+    года.</fw>
+    <fw type="pageNum" place="right">324</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+      <l>Отъ дѣйствительнаго статскаго совѣтника</l>
+      <l><persName role="namesViewer" target="/names/Фризель.html">литовскаго гражданскаго губернатора</persName> и
+      кавалера,</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому Надворному
+      Суду</orgName>._</l>
+    </head>
+    <p>
+      <l>Господинъ генералъ отъ инфантеріи генералъ прокуроръ</l>
+      <l>и кавалеръ <persName role="namesViewer" target="/names/Беклешов.html">Беклешовъ</persName> по поводу новыхъ
+      прошеній отъ</l>
+      <l>евреевъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> и <persName
+      role="namesViewer" target="/names/Ицка_Мелентович.html">Ицки Мелентовича</persName> на все-</l>
+      <l>высочайшее имя и къ нему господину <persName role="namesViewer" target="/names/Беклешов.html">генералу проку<lb
+      />
+       рору</persName> поданныхъ по кагальному дѣлу въ <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Литовскомъ<lb/>
+       надворномъ судѣ</orgName> производящемуся, въ отношеніи ко мнѣ</l>
+      <l>отъ <date when="1799-12-07">7. декабря</date> между прочимъ требуетъ, чтобы подтвер-</l>
+      <l>дилъ я <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сему суду</orgName> о
+      скорѣйшемъ приведеніи къ окончанію</l>
+      <l>дѣла сего, и донесъ бы <persName role="namesViewer" target="/names/Беклешов.html">Его
+      высокопревосходительству</persName>, что</l>
+      <l>при изслѣдованіи обнаружится. Исполняя таковую волю</l>
+      <l>господина <persName role="namesViewer" target="/names/Беклешов.html">генерала прокурора</persName>, долгомъ
+      считаю предложить</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворному суду</orgName>, чтобъ
+      благоволилъ поспѣшить сколь воз-</l>
+      <l>можно производствомъ дѣла сего, а мѣжду тѣмъ для</l>
+      <l>донесенія <persName role="namesViewer" target="/names/Беклешов.html">Его высокопревосходительству</persName>
+      увѣдомить ме-</l>
+      <l>ня, что <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">имъ</orgName> послѣ сообщенія
+      ко мнѣ отъ <date when="1799-07-18">18. июля</date></l>
+      <l>учинено, и что открыто, на чемъ теперь производство</l>
+      <l>остановилось, и какъ скоро произведено будетъ къ оконча-</l>
+      <l>нію. <persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2461</fw></l>
+      <l><date when="1799-12-??">декабря 1799</date><note place="end">число не указано</note></l>
+      <l><placeName role="namesViewer" target="/names/Вильна.html">вильна</placeName></l>
+    </closer>
+    <fw type="note">Слуш<note place="end">слушано</note>: <date when="1799-12-22">22<hi rend="superscript">го</hi>
+    декабря</date></fw>
     <pb xml:id="p324-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/324.html#p324-2"/>
   </body></text>
