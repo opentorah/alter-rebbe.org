@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,24 +15,134 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о запросе <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> и
+        получении справок на основе ревизских данных 1795 г. для уточнения имен свидетелей и их присутствия в <placeName
+        role="namesViewer" target="/names/Вильна.html">Вильне</placeName>
+      </p></abstract>
+      <creation><date when="1799-12-23">1799 года декабря 23 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о запросе <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> и
+        получении справок на основе ревизских данных 1795 г. для уточнения имен свидетелей и их присутствия в <placeName
+        role="namesViewer" target="/names/Вильна.html">Вильне</placeName>
+      </p></l>
+      <l>Дата: 1799-12-23</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p328-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/328.html#p328-1"
     />
-    <pb xml:id="p328-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/328.html#p328-2"
-    />
-    <pb xml:id="p329-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/328.html#p329-1"
-    />
+    <fw type="pageNum" place="right">328.</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1799-12-23">1799<hi rend="superscript">го</hi> года декабря 23<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       Надворнаго Суда</orgName> записано <emph rend="underline"><emph rend="underline">№ 7<hi rend="superscript">и</hi>
+      </emph></emph></l>
+      <l/>
+    </head>
+    <p>
+      <l>Докладывано сообщеніе правящаго въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>
+      комен-</l>
+      <l>дантскую должность плацъ-маіора господина под-</l>
+      <l>полковника Палкин, коимъ далъ знать, что го-</l>
+      <l>родскою полиціею по всемъ частямъ города <placeName role="namesViewer" target="/names/Вильна.html"
+      >Вильны</placeName></l>
+      <l>чиненъ былъ поискъ еврея Леибы Рафаловича, одна-</l>
+      <l>ко его здѣсь въ жительствѣ не оказалось. ПРИКА-</l>
+      <l>ЗАЛИ: Хотя <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      губернскаго правленія</orgName> го-</l>
+      <l>сподинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> противу
+      поданнаго</l>
+      <l>въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей Надворный судъ</orgName> отъ
+      еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеро-<lb/>
+       вича</persName> прошеніе о здѣланной писцомъ переписывав-</l>
+      <l>шимъ его доказательствы въ прозваніяхъ евреевъ</l>
+      <l>Абрама Нотелевича и Лейбы Рафаловича ошибкѣ,</l>
+      <l>отозвался, что писецъ не могъ столь удачно ошиб-</l>
+      <l>кою придать тѣмъ имянамъ такія прозванія,</l>
+      <l>которыя дѣйствительно находятся въ особахъ въ</l>
+      <l>вильнѣ живущихъ; на чемъ сей <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворный
+      судъ</orgName> не-</l>
+      <l>увѣрялъ, резолюціею своею въ <date when="1799-10-23">23<hi rend="superscript">й</hi> день октября<lb/>
+       сего года</date> послѣдовавшею заключилъ оныхъ Лейбу</l>
+      <l>Рафаловича и Абрама Нотелевича тогда только</l>
+      <l>спросить, когда они отъ господина плацъ-маіора</l>
+      <l>присланы будутъ, и когда сами подтвердятъ свои</l>
+      <l>прозваніи. въ слѣдствіе каковой резолюціи Абрамъ</l>
+      <l>Нотелевичъ и спрошенъ; но какъ по вышеписанному</l>
+      <pb xml:id="p328-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/328.html#p328-2"/>
+      <l>господина плацъ-маіора засвидѣтельствованію Леибы</l>
+      <l>Рафаловича въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> не отыскано,
+      а изъ того</l>
+      <l>самаго видно, что Ошеровичъ назвалъ сего еврея ра-</l>
+      <l>фаловичемъ ошибкою. Для того принявъ вмѣсто</l>
+      <l>его Рафаловича во свидѣтели Леибу Давидовича, кото-</l>
+      <l>раго <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName> представляетъ въ
+      означенномъ подан-</l>
+      <l>номъ съ перемѣною прозваній прошеніе, сообщить въ</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское губернское
+      правленіе</orgName>, дабы благоволило,</l>
+      <l>взять отъ господина совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>
+      свѣденіе,</l>
+      <l>ссылается ли онъ на сего еврея во свидѣтельство, и не</l>
+      <l>имѣетъ ли на него какого подозренія? которое свѣденіе</l>
+      <l>поспѣшить присылкою въ сей <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворный
+      судъ</orgName> потому</l>
+      <l>что о скорейшемъ окончаніи производящагося по сему</l>
+      <l>предмѣту слѣдствія, имѣетъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей
+      судъ</orgName> предписаніе</l>
+      <l>господина генерала отъ инфантеріи , генералъ про-</l>
+      <l>курора и кавалера <persName role="namesViewer" target="/names/Беклешов.html">Беклешова</persName> въ
+      предложеніи господи-</l>
+      <l>на <persName role="namesViewer" target="/names/Фризель.html">Литовскаго гражданскаго губернатора</persName> и
+      кавалера</l>
+      <l>изъясненное. Поелику же какъ Абрамъ Нотелевичъ, такъ</l>
+      <l>и спрашиванныя <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">симъ Надворнымъ
+      судомъ</orgName> по силѣ ре-</l>
+      <l>золюціи въ <date when="1799-10-07">7<hi rend="superscript">и</hi> день октября</date> состоявшейся
+      служитель</l>
+      <l>виленскаго еврейскаго кагала Абрамъ Гиршовичъ, ни-</l>
+      <l>сонъ Давидовичъ, и Мордухъ Цалковичъ въ показаніяхъ</l>
+      <l>своихъ объявили, то они жительствуя съ давныхъ вре-</l>
+      <l>мянъ въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> не упомнятъ достовѣрно,
+      записаныль</l>
+      <l>въ ревизію, и что изъ нихъ отъ Абрама Гиршовича</l>
+      <l>въ прошломъ въ 1798<hi rend="superscript">м</hi>, а отъ Нисона Давидовича и Мордуха</l>
+      <pb xml:id="p329-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/328.html#p329-1"/>
+      <fw type="pageNum" place="right">329</fw>
+      <fw type="note" place="left margin">велъ</fw>
+      <l>Цалковича въ семъ году взяты квартальнымъ надзира-</l>
+      <l>телемъ о ихъ самыхъ и о ихъ семействахъ сказки.</l>
+      <l>Почему по нахожденію имянныхъ ревискихъ сказокъ</l>
+      <l>въ вѣдомствѣ Литовской казенной палаты сообщилъ въ</l>
+      <l>оную, дабы благоволила приказать въ ревизію 1795<hi rend="superscript">го</hi> года</l>
+      <l>учинить выправку, находятся ли въ оной записанными</l>
+      <l>по городу <placeName role="namesViewer" target="/names/Вильна.html">Вильнѣ</placeName> означенныя евреи, и что
+      окажется</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей судъ</orgName> немедленно
+      извѣстить. Сообщить такъ же</l>
+      <l>исправляющему въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> комендантскую
+      должность</l>
+      <l>господину плацъ-маіору подполковнику Палкину</l>
+      <l>требуя увѣдомленія, по какому поводу квартальными</l>
+      <l>надзирателями въ 1798<hi rend="superscript">м</hi> и въ семъ году отбираны бы-</l>
+      <l>ли отъ евреевъ Абрама Гиршовича, Нисона Дави-</l>
+      <l>довича и Мордуха Цалковича сказки. Подлинной за</l>
+      <l>подписаніемъ господъ присудствующихъ и за скрепою</l>
+      <l>секретаря Павла Искрицкаго._ Секретарь</l>
+      <l>Павелъ Искрицкій</l>
+    </p>
     <pb xml:id="p329-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/328.html#p329-2"/>
   </body></text>
