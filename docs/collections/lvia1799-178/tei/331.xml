@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,21 +15,76 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу сообщения Палкина, уведомившего, что данные о некоторых виленских евреях, не
+        учтенные в ревизии, собирала не полиция,а <orgName role="namesViewer" target=
+        "/names/Литовское_губернское_правление.html">Губернское правление</orgName>, причем сведений о нрекоторых
+        персонах в ревизских материалах действительно не оказалось
+      </p></abstract>
+      <creation><date when="1800-01-05">1800 года января 5 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу сообщения Палкина, уведомившего, что данные о некоторых виленских евреях, не
+        учтенные в ревизии, собирала не полиция,а <orgName role="namesViewer" target=
+        "/names/Литовское_губернское_правление.html">Губернское правление</orgName>, причем сведений о нрекоторых
+        персонах в ревизских материалах действительно не оказалось
+      </p></l>
+      <l>Дата: 1800-01-05</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p331-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/331.html#p331-1"
     />
-    <pb xml:id="p331-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/331.html#p331-2"
-    />
+    <fw type="pageNum" place="right">331.</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <head>
+      <l><date when="1800-01-05">1800 года генваря 5<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName role=
+      "namesViewer" target="/names/Литовский_надворный_суд.html">Литов-<lb/>
+       скаго Надворнаго Суда</orgName> записано. <fw type="docNum">№ 1<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго въ городѣ <placeName role="namesViewer" target="/names/Вильна.html"
+      >вильнѣ</placeName></l>
+      <l>комендантскую должность плацъ-маіора господи-</l>
+      <l>на подполковника Палкина, коимъ на сообщеніе</l>
+      <l>сего суда отъ <date when="1799-12-24">24<hi rend="superscript">го</hi> минувшаго декабря</date> сей судъ
+      увѣ-</l>
+      <l>домляетъ, что по учиненнымъ съ дѣлами вилен-</l>
+      <l>ской городской полиціи выправкахъ, не оказалось,</l>
+      <l>чтобъ въ прошлыхъ 1798<hi rend="superscript">м</hi> и 1799<hi rend="superscript">мъ</hi> годахъ кварталь-</l>
+      <l>ными надзирателями отбираемы были сказки</l>
+      <l>отъ евреевъ Абрама Гиршовича, Нисона Давидо-</l>
+      <l>вича и Мордуха Цалковича для записанія ихъ</l>
+      <l>въ ревизію; а на основаніи повелѣнія бывшаго</l>
+      <l>господина литовскаго генералъ губернатора и</l>
+      <l>кавалера <persName role="namesViewer" target="/names/Лассий.html">Лассія</persName> и по сообщенію <orgName
+      role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго<lb/>
+       губернскаго правленія</orgName> чинена была въ 1799 году</l>
+      <l>въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> повѣрка, для
+      обнаруженія,</l>
+      <l>какія имянно еврей пропущены по ревизіи</l>
+      <pb xml:id="p331-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/331.html#p331-2"/>
+      <l>1795<hi rend="superscript">го</hi> года, собиралъ ли <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">кагалъ</orgName> съ нихъ подати</l>
+      <l>и сколько? которая повѣрка представлена</l>
+      <l>имъ на разсмотреніе въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовское губерн-<lb/>
+       ское правленіе</orgName>, но и по сей повѣркѣ состоятъ</l>
+      <l>въ числѣ пропущенныхъ вышеписанные евреи</l>
+      <l>Абрамъ Гиршовичъ, Нисонъ Давидовичъ, и Мор-</l>
+      <l>духъ Цалковичъ. ПРИКАЗАЛИ: сообщеніе сіе</l>
+      <l>приобщить къ дѣлу. Подлинной за подписаніемъ</l>
+      <l>господъ присудствующихъ и за скрепою секре-</l>
+      <l>таря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
+    </p>
   </body></text>
 </TEI>
