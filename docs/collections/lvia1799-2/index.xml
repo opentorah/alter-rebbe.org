@@ -46,8 +46,12 @@
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799-2/documents/000.html"
         >000</ref></cell>
-        <cell rendition="pages"><ref role="documentViewer" target="/collections/lvia1799-2/documents/000.html#p000-1"
-        rendition="page">000</ref></cell>
+        <cell rendition="pages">
+          <ref role="documentViewer" target="/collections/lvia1799-2/documents/000.html#p000-1" rendition="page"
+          >000</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2/documents/000.html#p000-2" rendition=
+          "missing-empty-page">000об</ref>
+        </cell>
         <cell rendition="transcriber"/>
       </row>
       <row>
@@ -71,8 +75,8 @@
           >250об</ref>
           <ref role="documentViewer" target="/collections/lvia1799-2/documents/250.html#p265-1" rendition="page"
           >265</ref>
-          <ref role="documentViewer" target="/collections/lvia1799-2/documents/250.html#p265-2" rendition="missing-page"
-          >265об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2/documents/250.html#p265-2" rendition=
+          "missing-empty-page">265об</ref>
         </cell>
         <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
         Когаловский</persName></cell>
@@ -130,8 +134,8 @@
           >282об</ref>
           <ref role="documentViewer" target="/collections/lvia1799-2/documents/280.html#p283-1" rendition="page"
           >283</ref>
-          <ref role="documentViewer" target="/collections/lvia1799-2/documents/280.html#p283-2" rendition="missing-page"
-          >283об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2/documents/280.html#p283-2" rendition=
+          "missing-empty-page">283об</ref>
         </cell>
         <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
         Когаловский</persName></cell>
@@ -231,8 +235,8 @@
         <cell rendition="pages">
           <ref role="documentViewer" target="/collections/lvia1799-2/documents/538.html#p538-1" rendition="page"
           >538</ref>
-          <ref role="documentViewer" target="/collections/lvia1799-2/documents/538.html#p538-2" rendition="missing-page"
-          >538об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2/documents/538.html#p538-2" rendition=
+          "missing-empty-page">538об</ref>
         </cell>
         <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
         Когаловский</persName></cell>
@@ -253,13 +257,13 @@
         <cell rendition="pages">
           <ref role="documentViewer" target="/collections/lvia1799-2/documents/539.html#p539-1" rendition="page"
           >539</ref>
-          <ref role="documentViewer" target="/collections/lvia1799-2/documents/539.html#p539-2" rendition="missing-page"
-          >539об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2/documents/539.html#p539-2" rendition=
+          "missing-empty-page">539об</ref>
         </cell>
         <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
         Когаловский</persName></cell>
       </row>
     </table>
-    <p>Отсутствуют фотографии 4 непустых страниц: 265об 283об 538об 539об</p>
+    <p>Отсутствуют фотографии 5 пустых страниц: 000об 265об 283об 538об 539об</p>
   </body></text>
 </TEI>

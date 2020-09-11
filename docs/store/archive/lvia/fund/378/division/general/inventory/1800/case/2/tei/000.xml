@@ -4,5 +4,8 @@
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
     <profileDesc><abstract/></profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body><pb n="000-1"/></body></text>
+  <text xml:lang="ru"><body>
+    <pb n="000-1"/>
+    <pb n="000-2" missing="true" empty="true"/>
+  </body></text>
 </TEI>
