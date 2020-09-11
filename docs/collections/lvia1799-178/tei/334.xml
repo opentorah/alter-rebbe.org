@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Елиашевич.html">Федор Елиашевичъ</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/">
@@ -11,21 +15,89 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Объяснение <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> о свидетелях
+        <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>
+      </p></abstract>
+      <creation><date when="1800-01-09">9 января 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Объяснение <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> о свидетелях
+        <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>
+      </p></l>
+      <l>Дата: 1800-01-09</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Елиашевич.html">Федор Елиашевичъ</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p334-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/334.html#p334-1"
     />
-    <pb xml:id="p334-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/334.html#p334-2"
-    />
+    <fw type="pageNum" place="right">334</fw>
+    <fw type="note" place="right">Пол.<note place="end">получено</note> <date when="1800-01-09">9 генваря 1800
+    года</date>.</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому Губернскому Надворному
+      Суду</orgName></l>
+      <l>статскаго совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName></l>
+      <l>Объясненіе</l>
+    </head>
+    <p>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Оному суду</orgName> благоугодно было
+      сообщить въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Ли-<lb/>
+       товское губернское правленіе</orgName>, о объявленіи мнѣ,</l>
+      <l>что еврея лейбы Рафаловича; о перемѣне коего</l>
+      <l>въ Давыдовичи просилъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName>, въ
+      городѣ <placeName role="namesViewer" target="/names/Вильна.html">виль-<lb/>
+       нѣ</placeName> не оказалось и объ отобраніи отъ меня свѣдѣ-</l>
+      <l>нія ссылаюсь ли я на сего превращеннаго изъ Ра-</l>
+      <l>фаловичей въ Давыдовичи во свидѣтельство или</l>
+      <l>нѣтъ?_ На таковое требованіе имѣю честь <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Над-<lb/>
+       ворному суду</orgName> донести: что я ни на Рафаловича</l>
+      <l>ни на Давыдовича не ссылался и нынѣ не ссыла-</l>
+      <l>юсь по причинамъ въ прежнихъ моихъ объясненіяхъ</l>
+      <l>показаннымъ, да и какъ я могу знать, котора-</l>
+      <l>го Лейбу Давыдовича <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName>
+      представ-</l>
+      <l>ляетъ во свидѣтельство, когда таковаго</l>
+      <l>имени евреевъ находится въ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName>
+      нема-</l>
+      <l>ло; ибо лейбы Давыдовичи живутъ здѣсь въ</l>
+      <l>домахъ подъ № 205. 233. 374. и 607. а можетъ</l>
+      <l>быть еще и въ другихъ домахъ сверхъ пока-</l>
+      <l>занныхъ находятся; что жъ принадлежитъ до показанія</l>
+      <pb xml:id="p334-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/334.html#p334-2"/>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>, то якобы Лейбовъ
+      Рафаловичей,</l>
+      <l>на коихъ онъ прежде ссылался въ вильнѣ нѣтъ,</l>
+      <l>то сіе несправедливо, ибо и ихъ сколько я узнать</l>
+      <l>могъ есть въ домахъ подъ № 243. 345. и 1220.</l>
+      <l>А посему и можно <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName> хотя
+      одного изъ сихъ</l>
+      <l>людей склонить на свою сторону и естьли одинъ</l>
+      <l>не согласится показывать ложно, то замѣнить</l>
+      <l>его другимъ, третьимъ и такъ далѣе_. Я</l>
+      <l>прежде доносилъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">суду</orgName>? что
+      перемѣна тако-</l>
+      <l>выхъ имянъ суть одна увертка <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровича</persName></l>
+      <l>и сообщниковъ его къ запутыванію дѣла и из-</l>
+      <l>бѣжанію заслуженнаго наказанія за законо-</l>
+      <l>противныя ихъ дѣяніи и за ложный доносъ;</l>
+      <l>а потому и нынѣ прошу всепокорнѣйше <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >Губерн-<lb/>
+       скій надворный судъ</orgName> здѣлать ему <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошерови-<lb/>
+       чу</persName> преграду къ новымъ безконечнымъ выдум-</l>
+      <l>камъ и проволчкѣ дѣла скорѣйшимъ онаго</l>
+      <l>окончаніемъ. Совѣтникъ <signed><persName role="namesViewer" target="/names/Елиашевич.html">Федоръ
+      Еліашевичъ</persName></signed></l>
+    </p>
   </body></text>
 </TEI>
