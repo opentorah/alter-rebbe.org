@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-01-16">16 января 1800 года</date></creation>
-    <abstract><p>Ответ Палкина Надворному cele о наличии среди виленских жителей евреев с именами и отчествами Лейба Рафалович и Лейба Давыдович</p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Ответ Палкина Надворному cele о наличии среди виленских жителей евреев с именами и отчествами Лейба Рафалович и
+        Лейба Давыдович
+      </p></abstract>
+      <creation><date when="1800-01-16">16 января 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="338-1"/>
@@ -12,32 +19,35 @@
     <fw type="note">Получено <date when="1800-01-17">17<hi rend="superscript">го</hi> генваря 1800 года</date>.</fw>
     <fw type="note" place="left margin">ис-</fw>
     <head>
-    <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Nадворной судъ</orgName></l>
-<l>отъ правящаго камендантскую долж-</l>
-<l>ность виленскаго плацъ маїора под-</l>
-<l>полковника</l>
-</head>
-<p>
-<l>По послѣдовавшему ко мнѣ</l>
-<l>отъ <date when="1800-01-11">11<hi rend="superscript">го</hi> числа сего мца<note place="end">месяца; над словом - титло</note></date> <fw type="docNum">№ 4<hi rend="superscript">м</hi></fw> сообщенію</l>
-<l>чрезъ городовую полицїю чинены выпра:</l>
-<l>вки и оказалось въ домахъ подъ № 233<hi rend="superscript">м</hi></l>
-<l>и 374<hi rend="superscript">м</hi> находются а 205<hi rend="superscript">м</hi> и 607<hi rend="superscript">м</hi> не име-</l>
-<l>ется лейбовъ довидовичемъ, под №</l>
-<l>243<hi rend="superscript">м</hi> и 1220<hi rend="superscript">м</hi> Лѣйбы Рафаловича тоже</l>
-<l>находются изъ коихъ первой мало:</l>
-<l>летной а подъ № 345<hi rend="superscript">м</hi> таковаго Рафало:</l>
-<l>вича не оказалось; о чемъ оной <orgName ref="Литовский_надворный_суд">надво-<lb/>
-рной судъ</orgName> симъ увѣдомляю._</l>
-<l>Плацъ маиоръ подполковникъ Палкинъ</l>
-</p>
-<closer place="left">
-<l><fw type="docNum">№ 33<hi rend="superscript">и</hi></fw></l>
-<l><date when="1800-01-16">16 генваря<lb/>
-1800 года</date></l>
-<l>вилна</l>
-</closer>
-<fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-01-23">23<hi rend="superscript">го</hi> генваря</date></fw>
+      <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Nадворной судъ</orgName></l>
+      <l>отъ правящаго камендантскую долж-</l>
+      <l>ность виленскаго плацъ маїора под-</l>
+      <l>полковника</l>
+    </head>
+    <p>
+      <l>По послѣдовавшему ко мнѣ</l>
+      <l>отъ <date when="1800-01-11">11<hi rend="superscript">го</hi> числа сего мца<note place="end">месяца; над словом
+      - титло</note></date> <fw type="docNum">№ 4<hi rend="superscript">м</hi></fw> сообщенію</l>
+      <l>чрезъ городовую полицїю чинены выпра:</l>
+      <l>вки и оказалось въ домахъ подъ № 233<hi rend="superscript">м</hi></l>
+      <l>и 374<hi rend="superscript">м</hi> находются а 205<hi rend="superscript">м</hi> и 607<hi rend="superscript"
+      >м</hi> не име-</l>
+      <l>ется лейбовъ довидовичемъ, под №</l>
+      <l>243<hi rend="superscript">м</hi> и 1220<hi rend="superscript">м</hi> Лѣйбы Рафаловича тоже</l>
+      <l>находются изъ коихъ первой мало:</l>
+      <l>летной а подъ № 345<hi rend="superscript">м</hi> таковаго Рафало:</l>
+      <l>вича не оказалось; о чемъ оной <orgName ref="Литовский_надворный_суд">надво-<lb/>
+       рной судъ</orgName> симъ увѣдомляю._</l>
+      <l>Плацъ маиоръ подполковникъ Палкинъ</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 33<hi rend="superscript">и</hi></fw></l>
+      <l><date when="1800-01-16">16 генваря<lb/>
+       1800 года</date></l>
+      <l>вилна</l>
+    </closer>
+    <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-01-23">23<hi rend=
+    "superscript">го</hi> генваря</date></fw>
     <pb n="338-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
