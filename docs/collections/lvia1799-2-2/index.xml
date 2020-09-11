@@ -42,6 +42,18 @@
         <cell rendition="transcriber">Расшифровка</cell>
       </row>
       <row>
+        <cell rendition="description"/>
+        <cell rendition="date"/>
+        <cell rendition="author"/>
+        <cell rendition="addressee"/>
+        <cell rendition="language">ru</cell>
+        <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799-2-2/documents/0000.html"
+        >0000</ref></cell>
+        <cell rendition="pages"><ref role="documentViewer" target="/collections/lvia1799-2-2/documents/0000.html#p000-1"
+        rendition="page">000</ref></cell>
+        <cell rendition="transcriber"/>
+      </row>
+      <row>
         <cell rendition="description"><p>
           Докладная записка советника <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName>
           литовскому генерал-губернатору <persName role="namesViewer" target="/names/Лассий.html">Лассию</persName> о
@@ -136,10 +148,10 @@
         <cell rendition="pages">
           <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1019-1" rendition="page"
           >1019</ref>
-          <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1019-2" rendition=
-          "missing-page">1019об</ref>
-          <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1020-1" rendition=
-          "missing-page">1020</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1019-2" rendition="page"
+          >1019об</ref>
+          <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1020-1" rendition="page"
+          >1020</ref>
           <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1020-2" rendition="page"
           >1020об</ref>
           <ref role="documentViewer" target="/collections/lvia1799-2-2/documents/1019.html#p1021-1" rendition="page"
@@ -164,6 +176,6 @@
       </row>
     </table>
     <p>Отсутствуют фотографии 1 пустых страниц: 263об</p>
-    <p>Отсутствуют фотографии 3 непустых страниц: 1019об 1020 1024об</p>
+    <p>Отсутствуют фотографии 1 непустых страниц: 1024об</p>
   </body></text>
 </TEI>
