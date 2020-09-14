@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="РНБ">
-  <title>Российская национальная библиотека (Санкт-Петербург)</title>
-  <abstract><ref target="http://nlr.ru/">Вебсайт</ref></abstract>
+  <title xmlns="http://www.tei-c.org/ns/1.0">Российская национальная библиотека (Санкт-Петербург)</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://nlr.ru/">Вебсайт</ref></abstract>
   <by selector="разряд">
     <store n="РО">
       <by selector="fund">

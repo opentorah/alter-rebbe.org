@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="3140" type="org.opentorah.collector.Manuscript">
-  <title>О <orgName ref="Хасиды">Еврейской секте Каролинов</orgName> и об учителе их <persName ref="alter-rebbe">Раввине
-  Зальмане Боруховиче</persName>, и о доносах <persName ref="Гирш_Давидович">Еврея Гирша Давидовича</persName></title>
-  <abstract>Документы обоих арестов, 1798й и 1800й годы. 376 листов. <ref target=
+  <title xmlns="http://www.tei-c.org/ns/1.0">О <orgName ref="Хасиды">Еврейской секте Каролинов</orgName> и об учителе их
+  <persName ref="alter-rebbe">Раввине Зальмане Боруховиче</persName>, и о доносах <persName ref="Гирш_Давидович">Еврея
+  Гирша Давидовича</persName></title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">Документы обоих арестов, 1798й и 1800й годы. 376 листов. <ref target=
   "http://rgada.info/opisi/7-opis_2m/0089.jpg">[Вебсайт]</ref></abstract>
-  <body>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
     <p>
       Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Материалы следствия, произведённого <orgName ref=
       "Тайная_экспедиция">Тайной Экспедицией</orgName> по доносам <placeName ref="Вильна">виленского</placeName>
@@ -16,13 +17,13 @@
   </body>
   <by selector="document" directory="tei">
     <store n="1" from="000">
-      <title>Первый арест, 1798й год</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Первый арест, 1798й год</title>
     </store>
     <store n="2" from="248">
-      <title>Второй арест, 1800й год</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Второй арест, 1800й год</title>
     </store>
     <store n="9" from="900">
-      <title>Сопроводительная информация</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Сопроводительная информация</title>
     </store>
   </by>
 </store>

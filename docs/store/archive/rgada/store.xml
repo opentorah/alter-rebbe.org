@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="РГАДА">
-  <title>Российский государственный архив древних актов (Москва)</title>
-  <abstract><ref target="http://rgada.info/poisk/index.php">Вебсайт</ref></abstract>
+  <title xmlns="http://www.tei-c.org/ns/1.0">Российский государственный архив древних актов (Москва)</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://rgada.info/poisk/index.php">Вебсайт</ref></abstract>
   <by selector="разряд">
     <store n="VII">
-      <title>Преображенский приказ, Тайная канцелярия и <orgName ref="Тайная_экспедиция">Тайная экспедиция</orgName>;
-      коллекция Государственного архива Российской империи</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Преображенский приказ, Тайная канцелярия и <orgName ref=
+      "Тайная_экспедиция">Тайная экспедиция</orgName>; коллекция Государственного архива Российской империи</title>
       <by selector="опись">
         <store n="2">
-          <title>Дела <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName></title>
-          <abstract><ref target="http://rgada.info/opisi/7-opis_2/0218.jpg">Вебсайт</ref></abstract>
+          <title xmlns="http://www.tei-c.org/ns/1.0">Дела <orgName ref="Тайная_экспедиция">Тайной экспедиции</orgName>
+          </title>
+          <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://rgada.info/opisi/7-opis_2/0218.jpg"
+          >Вебсайт</ref></abstract>
           <by selector="case">
             <store file="3140/rgada.xml"/>
           </by>

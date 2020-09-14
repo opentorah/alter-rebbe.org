@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="Дубнов" type="org.opentorah.collector.Book">
-  <title>"Вмешательство русского правительства в антихасидскую борьбу"</title>
-  <abstract>Анализ материалов второго ареста опубликован в книге "Еврейская старина", том 3, Еврейское И.-Э. общество,
-  <persName ref="Дубнов">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург, 1910.</abstract>
-  <body><p>
+  <title xmlns="http://www.tei-c.org/ns/1.0">"Вмешательство русского правительства в антихасидскую борьбу"</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">Анализ материалов второго ареста опубликован в книге "Еврейская
+  старина", том 3, Еврейское И.-Э. общество, <persName ref="Дубнов">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург,
+  1910.</abstract>
+  <body xmlns="http://www.tei-c.org/ns/1.0"><p>
     Документы от № 1 до № 13 включительно находятся в Сенатском архиве, дело м-ва Юстиции отд. 1800 гг. <ref target=
     "/rgia2213">№ 85</ref> (см. сноску в <ref target="/dubnov/090.1">090.1</ref>). Документы с № 14 и до конца
     скопированы из дела 3-го департамента Сената, I отд. за 1800-1801 гг. (№№ 328 и <ref target="/rgia413">413</ref>)
@@ -11,10 +12,10 @@
   </p></body>
   <by selector="document" directory="tei">
     <store n="1" from="084">
-      <title>Материалы, документы и сообщения</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Материалы, документы и сообщения</title>
     </store>
     <store n="2" from="253.1">
-      <title>Окончаниe</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Окончаниe</title>
     </store>
   </by>
 </store>

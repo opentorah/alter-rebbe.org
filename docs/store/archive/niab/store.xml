@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="НИАБ">
-  <title>Национальный исторический архив Беларуси (Минск)</title>
-  <abstract>
+  <title xmlns="http://www.tei-c.org/ns/1.0">Национальный исторический архив Беларуси (Минск)</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">
     <l>Нацыянальны гістарычны архіў Беларусі</l>
     <l><ref target="https://niab.by/newsite/ru">Вебсайт</ref></l>
   </abstract>
@@ -40,10 +40,10 @@
       </by>
     </store>
     <store n="2096">
-      <title>Оршанская городская дума</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">Оршанская городская дума</title>
       <by selector="опись">
         <store n="1">
-          <title>?</title>
+          <title xmlns="http://www.tei-c.org/ns/1.0">?</title>
           <by selector="case">
             <store file="niab19.xml"/>
             <store file="niab24.xml"/>
@@ -52,10 +52,10 @@
       </by>
     </store>
     <store n="2640">
-      <title>?</title>
+      <title xmlns="http://www.tei-c.org/ns/1.0">?</title>
       <by selector="опись">
         <store n="1">
-          <title>?</title>
+          <title xmlns="http://www.tei-c.org/ns/1.0">?</title>
           <by selector="case">
             <store file="niab57.xml"/>
           </by>

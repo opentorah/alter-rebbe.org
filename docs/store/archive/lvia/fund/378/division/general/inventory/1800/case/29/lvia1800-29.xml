@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="29" type="org.opentorah.collector.Manuscript">
-  <title>жалобы Моше Ошеровича</title>
-  <abstract>жалобы Моше Ошеровича.</abstract>
-  <body><p>Фотографии предоставила Галина Баранова.</p></body>
+  <title xmlns="http://www.tei-c.org/ns/1.0">жалобы Моше Ошеровича</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">жалобы Моше Ошеровича.</abstract>
+  <body xmlns="http://www.tei-c.org/ns/1.0"><p>Фотографии предоставила Галина Баранова.</p></body>
   <by selector="document" directory="tei"/>
 </store>
