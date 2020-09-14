@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение Литовской казенной палаты <orgName ref="Литовский_надворный_суд">Надворному суду</orgName> о том, что
+        из четырех указанных в его запросе отстраненных старшин <orgName ref="Виленский_кагал">виленского
+        кагала</orgName> - свидетелей по делу со стиороны <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> –
+        согласно ревизским данным числится только один
+      </p></abstract>
+      <creation><date when="1800-01-26">26 января 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="342-1"/>
+    <fw type="docNum" place="left">№ 50</fw>
+    <fw type="note">Получено <date when="1800-01-26">26<hi rend="superscript">го</hi> генваря 1800 года</date></fw>
+    <fw type="pageNum" place="right">342.</fw>
+    <fw type="note" place="left margin">№ 166</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l>Изъ Литовской Казенной палаты</l>
+      <l>въ <orgName ref="Литовский_надворный_суд">Литовскій надворный Судъ</orgName></l>
+    </head>
+    <p>
+      <l>Сообщеніемъ <orgName ref="Литовский_надворный_суд">оной Судъ</orgName> требовалъ увѣдомленія,</l>
+      <l>находятся ли записаными по городу <placeName ref="Вильна">вильнѣ</placeName></l>
+      <l>здѣшняго евреискаго кагала служители, еврей</l>
+      <l>абрамъ гиршовичъ; а также и еврей абрамъ</l>
+      <l>нотелевичъ. казенная палата <orgName ref="Литовский_надворный_суд">Литовскій на<lb/>
+       дворныи судъ</orgName> симъ увѣдомляетъ, что по ре</l>
+      <l>визскимъ сказкамъ въ <orgName ref="Виленский_кагал">виленскомъ евреискомъ<lb/>
+       кагалѣ</orgName> изъ прописанныхъ четырехъ евреевъ</l>
+      <l>состоитъ записаннымъ по ревизій одинъ</l>
+      <l>только еврей абрагамъ гиршовичъ, протчіе же</l>
+      <l>еврей по ревизій при <orgName ref="Виленский_кагал">ономъ кагалѣ</orgName> запи</l>
+      <l>санными не числятся. Генваря 25го дня<lb/>
+       1800 года._ <signed>Зенонъ Махвишъ</signed></l>
+      <l>Губернскій секретарь <signed>Людвигъ Грыжинъ</signed></l>
+      <l>Регистраторъ <signed><unclear>??? ???</unclear></signed></l>
+      <fw type="note" place="left margin">слуш<note place="end">слушано</note>: <date when="1800-01-27">27<hi rend=
+      "superscript">го</hi> генваря</date></fw>
+    </p>
     <pb n="342-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
