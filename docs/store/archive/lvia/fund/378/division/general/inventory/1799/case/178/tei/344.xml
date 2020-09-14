@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о приобщении к делу
+        документа, свидетельствующего, что четыре свдетеля, представлленных <persName ref="Мовша_Ошерович">Мовшей
+        Ошеровичем</persName>, не были записаны в ревизских данных <orgName ref="Виленский_кагал">виленского
+        кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="344-1"/>
+    <fw type="pageNum" place="right">344</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1800-01-27">1800<hi rend="superscript">го</hi> года генваря 27<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов<lb/>
+       скаго надворнаго Суда</orgName> записано.</l>
+      <l>№<note place="end">номер не обозначен</note></l>
+    </head>
+    <p>
+      <l>СЛУШАЛИ: Сообщеніе Литовской казенной палаты,</l>
+      <l>коимъ по таковому жъ <orgName ref="Литовский_надворный_суд">сего Надворнаго суда</orgName> увѣ-</l>
+      <l>домляетъ, что по ревизскимъ сказкамъ въ <orgName ref="Виленский_кагал">виленскомъ<lb/>
+       еврейскомъ кагалѣ</orgName> состоитъ записаннымъ въ</l>
+      <l>ревизію еврей Абрагамъ Гиршовичъ; Нисонъ же да-</l>
+      <l>видовичъ, мордухъ цалковичъ и абрамъ нотеле-</l>
+      <l>вичъ не записаны. ПРИКАЗАЛИ: Оное сообщеніе раз</l>
+      <l>смотрясъ предъидущими по предмету сему бу</l>
+      <l>магами, приудствію доложить. Подлинной за</l>
+      <l>подписаніемъ господъ присудствующихъ и за скре</l>
+      <l>пою секретаря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
+    </p>
     <pb n="344-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
