@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Пустая нумерованная страница – вероятно, часть второго или третьего листа неизвестного
+    документа (лл. 345-346), о чем свидетельствует также запись секретаря на левом поле л. 344 "Па" - т.е. для полноты
+    скрепляющей записи "Павелъ Искрицкий" не хватает двух листов</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="347-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">347</del></fw><note place="end">номер записан чернилами и
+    зачеркнут карандашом</note>
+    <fw type="note" place="left margin">криц</fw>
     <pb n="347-2"/>
   </body></text>
 </TEI>
