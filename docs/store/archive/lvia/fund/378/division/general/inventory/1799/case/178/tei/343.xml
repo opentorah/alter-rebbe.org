@@ -1,222 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc>
-    <abstract><p>Список отстраненных членов <orgName ref="Виленский_кагал">виленского кагала</orgName>, выехавших из <placeName ref="Вильна">Вильно</placeName> во время следствия</p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Список отстраненных членов <orgName ref="Виленский_кагал">виленского кагала</orgName>, выехавших из <placeName
+      ref="Вильна">Вильно</placeName> во время следствия
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="343-1"/>
     <fw type="pageNum" place="right">343</fw>
     <fw type="note" place="left margin">тарь</fw>
     <head>
-    <l>Списокъ</l>
-<l>евреямъ кои требованы съ <orgName ref="Литовский_надворный_суд">Надворнаго<lb/>
-Суда</orgName> съ показаніемъ въ отметки койхъ</l>
-<l>нетъ</l>
-</head>
-<table>
-<row>
-<cell>
-<p><l>№</l> 
-</p> 
-</cell>
-<cell>
-<p><l>имѣна и прозванія</l> 
-</p> 
-</cell>
-<cell>
-<p><l>гдѣ въ отлучке</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>1<hi rend="superscript">и</hi></l> 
-</p> 
-</cell>
-<cell>
-<p><l>Гирша Шлїомовичъ</l> 
-</p> 
-</cell>
-<cell>
-<p><l>подъ темъ прозваніемъ</l>
-<l>не известной и не отисканъ</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>2<hi rend="superscript">и</hi></l> 
-</p> 
-</cell>
-<cell>
-<p><l><persName ref="Мовша_Мордохович">Моижешъ Мордуховичъ</persName></l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>3</l> 
-</p> 
-</cell>
-<cell>
-<p><l>Синъ его Леизеръ</l> 
-</p> 
-</cell>
-<cell>
-<p><l>умеръ</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>4</l> 
-</p> 
-</cell>
-<cell>
-<p><l>берка арановичъ</l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>5</l> 
-</p> 
-</cell>
-<cell>
-<p><l><persName ref="Зелман_Лейбович">Зелманъ Леибовичъ</persName></l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>6</l> 
-</p> 
-</cell>
-<cell>
-<p><l>Берка израеловичъ</l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>7</l> 
-</p> 
-</cell>
-<cell>
-<p><l><persName ref="Гирша_Геселевич">Гирша Езеловичъ</persName></l> 
-</p> 
-</cell>
-<cell>
-<p><l>выехалъ въ виленской по</l>
-<l>ветъ</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>8</l> 
-</p> 
-</cell>
-<cell>
-<p><l>б рафала служитель Мортха</l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>9</l> 
-</p> 
-</cell>
-<cell>
-<p><l>синъ Рафала шліома</l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>10</l> 
-</p> 
-</cell>
-<cell>
-<p><l>синъ Рафала Янкель</l> 
-</p> 
-</cell>
-<cell>
-<p><l>выехалъ до <placeName ref="Лиозно">ложни</placeName></l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>11</l> 
-</p> 
-</cell>
-<cell>
-<p><l><persName ref="Лейба_Зеликович">леиба Зеликовичъ</persName></l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>12</l> 
-</p> 
-</cell>
-<cell>
-<p><l>старой новоковскіи</l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-<row>
-<cell>
-<p><l>13</l> 
-</p> 
-</cell>
-<cell>
-<p><l>старой феифка</l> 
-</p> 
-</cell>
-<cell>
-<p><l>посилается</l> 
-</p> 
-</cell>
-</row>
-</table>
-<l>Дежурной надзиратель <signed><unclear>???</unclear></signed></l>
+      <l>Списокъ</l>
+      <l>евреямъ кои требованы съ <orgName ref="Литовский_надворный_суд">Надворнаго<lb/>
+       Суда</orgName> съ показаніемъ въ отметки койхъ</l>
+      <l>нетъ</l>
+    </head>
+    <table>
+      <row>
+        <cell><p><l>№</l></p></cell>
+        <cell><p><l>имѣна и прозванія</l></p></cell>
+        <cell><p><l>гдѣ въ отлучке</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>1<hi rend="superscript">и</hi></l></p></cell>
+        <cell><p><l>Гирша Шлїомовичъ</l></p></cell>
+        <cell><p>
+          <l>подъ темъ прозваніемъ</l>
+          <l>не известной и не отисканъ</l>
+        </p></cell>
+      </row>
+      <row>
+        <cell><p><l>2<hi rend="superscript">и</hi></l></p></cell>
+        <cell><p><l><persName ref="Мовша_Мордохович">Моижешъ Мордуховичъ</persName></l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>3</l></p></cell>
+        <cell><p><l>Синъ его Леизеръ</l></p></cell>
+        <cell><p><l>умеръ</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>4</l></p></cell>
+        <cell><p><l>берка арановичъ</l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>5</l></p></cell>
+        <cell><p><l><persName ref="Зелман_Лейбович">Зелманъ Леибовичъ</persName></l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>6</l></p></cell>
+        <cell><p><l>Берка израеловичъ</l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>7</l></p></cell>
+        <cell><p><l><persName ref="Гирша_Геселевич">Гирша Езеловичъ</persName></l></p></cell>
+        <cell><p>
+          <l>выехалъ въ виленской по</l>
+          <l>ветъ</l>
+        </p></cell>
+      </row>
+      <row>
+        <cell><p><l>8</l></p></cell>
+        <cell><p><l>б рафала служитель Мортха</l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>9</l></p></cell>
+        <cell><p><l>синъ Рафала шліома</l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>10</l></p></cell>
+        <cell><p><l>синъ Рафала Янкель</l></p></cell>
+        <cell><p><l>выехалъ до <placeName ref="Лиозно">ложни</placeName></l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>11</l></p></cell>
+        <cell><p><l><persName ref="Лейба_Зеликович">леиба Зеликовичъ</persName></l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>12</l></p></cell>
+        <cell><p><l>старой новоковскіи</l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>13</l></p></cell>
+        <cell><p><l>старой феифка</l></p></cell>
+        <cell><p><l>посилается</l></p></cell>
+      </row>
+    </table>
+    <l>Дежурной надзиратель <signed><unclear>???</unclear></signed></l>
     <pb n="343-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
