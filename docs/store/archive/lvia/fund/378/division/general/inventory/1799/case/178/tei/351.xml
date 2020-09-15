@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
+    <abstract>Протокол допроса Бера Ароновича, названного в показаниях <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> <orgName ref="Хасиды">хасидом</orgName></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="351-1"/>
+    <fw type="pageNum" place="right">351</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+    <l><date when="1800-01-27">1800 года генваря „27„ дня</date> въ присудствїи</l>
+<l><orgName ref="Литовский_надворный_суд">Литовскаго Надворнаго Суда</orgName> наименованный быв-</l>
+<l>шимъ кагальнымъ членомъ <persName ref="Мовша_Ошерович">Мойжешомъ Ошеровичемъ</persName></l>
+<l>каролиномъ еврей Берка Ароновичъ бывъ</l>
+<l>спрашиванъ показалъ</l>
+</head><p>
+    <l>Что онъ во <date when="1799-02-04">4<hi rend="superscript">й</hi> день февраля 1799<hi rend="superscript">го</hi> года</date> въ</l>
+<l>еврейской школѣ совсѣмъ не былъ. А потому</l>
+<l>и неизвѣстенъ, что какъ въ оной школѣ, такъ</l>
+<l>и въ кагальномъ домѣ происходило, также<note place="end">слово вписано другим почерком</note></l>
+<l>билъ ли господинъ совѣтникъ <persName ref="Елиашевич">Еліа<lb/>
+шевичъ</persName> кого изъ евреевъ ругалъ ли и</l>
+<l>за что. Съ надзирателемъ Гесткою</l>
+<l>не ходилъ онъ Ароновичъ по еврейскимъ</l>
+<l>домамъ и не имѣлъ за оными при-</l>
+<l>смотра. И сіе показалъ по самой</l>
+<l>сущей справедливости безъ</l>
+<l>вской утайки. <signed><unclear>???</unclear></signed><note place="end">полдпись на иврите</note></l>
+</p>
     <pb n="351-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
