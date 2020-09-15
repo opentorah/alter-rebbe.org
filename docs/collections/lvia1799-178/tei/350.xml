@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,57 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Протокол допроса десятского Новаковского об изъятии докуменов <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">виленского кагала</orgName></abstract>
+      <creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Протокол допроса десятского Новаковского об изъятии докуменов <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">виленского кагала</orgName></l>
+      <l>Дата: 1800-01-27</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p350-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/350.html#p350-1"
     />
+    <fw type="pageNum" place="right">350.</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><date when="1800-01-27">1800<hi rend="superscript">го</hi> года генваря 27 дня</date>. въ присудствіи <orgName
+      role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       Надворнаго суда</orgName> десятскій виленскій Новаковскій бывъ</l>
+      <l>спрашиванъ, показалъ:</l>
+    </head>
+    <p>
+      <l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799<hi rend="superscript">го</hi>
+      года</date> онъ новаковскій ни въ еврей-</l>
+      <l>ской школѣ, ни въ кагальномъ домѣ не былъ. Почему</l>
+      <l>и неизвѣстенъ, что тамъ между <persName role="namesViewer" target="/names/Капцевич.html"
+      >комендантомъ</persName>, совѣт-</l>
+      <l>никомъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичемъ</persName> и прочими, также
+      бывшими</l>
+      <l>духовными и кагальными членами происходило и</l>
+      <l>билъ ли господинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>
+      кого изъ</l>
+      <l>евреевъ, или нѣтъ. Съ надзирателемъ Гречемъ и</l>
+      <l>комендантскимъ факторомъ Лейзаромъ, посланъ былъ</l>
+      <l>онъ Новаковскій изъ полиціи къ еврею Мойжешу Хац-</l>
+      <l>келевичу для забранія бумагъ, кои по отпечатаніи</l>
+      <l>шкафа означенной факторъ Лейзаръ взявъ,гдѣ ихъ</l>
+      <l>дѣвалъ неизвѣстенъ. Ибо по таковомъ взятьи объ-</l>
+      <l>явлено ему Новаковскому, что въ немъ нужды нетъ.</l>
+      <l>Въ 4и же день февраля ходилъ онъ Новаковскій съ</l>
+      <l>надзирателемъ Гесткою и другими десятскими по</l>
+      <l>разнымъ еврейскимъ домамъ для запечатенія</l>
+      <l>еврейскихъ бумагъ, изъ коихъ и печатаны были тѣ</l>
+      <l>которыя нужны были. У присмотра же домовъ еврейскихъ</l>
+      <l>онъ Новаковскій не былъ. И сіе показалъ по сущей спра-</l>
+      <l>ведливости и ничего не утаилъ. <signed>Nowakowski</signed></l>
+    </p>
     <pb xml:id="p350-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/350.html#p350-2"/>
   </body></text>
