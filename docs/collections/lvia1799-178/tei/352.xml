@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,65 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Протокол допроса виленского хасида <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мовши
+        Мордоховича</persName> о событиях при отстранении старшин <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Протокол допроса виленского хасида <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мовши
+        Мордоховича</persName> о событиях при отстранении старшин <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1800-01-27</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p352-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/352.html#p352-1"
     />
+    <fw type="pageNum" place="right">352</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+      <l><date when="1800-01-27">1800 года генваря 27 дня</date> въ присудствіи</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надворнаго Суда</orgName>
+      названный</l>
+      <l>бывшимъ кагальнымъ членомъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжешомъ<lb/>
+       Ошеровичемъ</persName> <orgName role="namesViewer" target="/names/Хасиды.html">каролиномъ</orgName> еврей
+      <persName role="namesViewer" target="/names/Мовша_Мордохович.html">мойжешъ Мор-<lb/>
+       духовичъ</persName> бывъ спрашиванъ показалъ:</l>
+    </head>
+    <p>
+      <l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799. года</date> былъ онъ <persName
+      role="namesViewer" target="/names/Мовша_Мордохович.html">мор-<lb/>
+       духовичъ</persName> въ еврейской школѣ по повелѣнію бывшаго</l>
+      <l>въ вильнѣ коменданта господина генералъ-маіора</l>
+      <l>и кавалера <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName> такъ какъ
+      находившійся</l>
+      <l>тогда школьникомъ. Когда въ ту школу собраны</l>
+      <l>были бывшія кагальныя и духовныя старшины,</l>
+      <l>то комендантъ <persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName> объявилъ имъ, что
+      они</l>
+      <l>отъ своихъ должностей удаляются. Господинъ</l>
+      <l>совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> никого изъ евреевъ
+      не билъ</l>
+      <l>и не бранилъ. Онъ <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мордуховичъ</persName>
+      того дни въ ка-</l>
+      <l>гальномъ домѣ не былъ и не знаетъ что тамъ</l>
+      <l>происходило. съ надзирателемъ Гесткою не хо-</l>
+      <l>дилъ по домамъ еврейскимъ для забранія</l>
+      <l>бумагъ и не имѣлъ надъ ними присмотра</l>
+      <l>И сіе показалъ по самой сущей справедли-</l>
+      <l>вости подъ опасеніемъ строгаго въ про-</l>
+      <l>тивномъ случаѣ наказанія.</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb xml:id="p352-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/352.html#p352-2"/>
   </body></text>
