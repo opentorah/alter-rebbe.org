@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,51 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Протокол допроса Бера Ароновича, названного в показаниях <persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> <orgName role="namesViewer" target="/names/Хасиды.html"
+      >хасидом</orgName></abstract>
+      <creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Протокол допроса Бера Ароновича, названного в показаниях <persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName> <orgName role="namesViewer" target="/names/Хасиды.html"
+      >хасидом</orgName></l>
+      <l>Дата: 1800-01-27</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p351-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/351.html#p351-1"
     />
+    <fw type="pageNum" place="right">351</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1800-01-27">1800 года генваря „27„ дня</date> въ присудствїи</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надворнаго Суда</orgName>
+      наименованный быв-</l>
+      <l>шимъ кагальнымъ членомъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжешомъ
+      Ошеровичемъ</persName></l>
+      <l>каролиномъ еврей Берка Ароновичъ бывъ</l>
+      <l>спрашиванъ показалъ</l>
+    </head>
+    <p>
+      <l>Что онъ во <date when="1799-02-04">4<hi rend="superscript">й</hi> день февраля 1799<hi rend="superscript"
+      >го</hi> года</date> въ</l>
+      <l>еврейской школѣ совсѣмъ не былъ. А потому</l>
+      <l>и неизвѣстенъ, что какъ въ оной школѣ, такъ</l>
+      <l>и въ кагальномъ домѣ происходило, также<note place="end">слово вписано другим почерком</note></l>
+      <l>билъ ли господинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліа<lb/>
+       шевичъ</persName> кого изъ евреевъ ругалъ ли и</l>
+      <l>за что. Съ надзирателемъ Гесткою</l>
+      <l>не ходилъ онъ Ароновичъ по еврейскимъ</l>
+      <l>домамъ и не имѣлъ за оными при-</l>
+      <l>смотра. И сіе показалъ по самой</l>
+      <l>сущей справедливости безъ</l>
+      <l>вской утайки. <signed><unclear>???</unclear></signed><note place="end">полдпись на иврите</note></l>
+    </p>
     <pb xml:id="p351-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/351.html#p351-2"/>
   </body></text>
