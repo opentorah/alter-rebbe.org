@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor><profileDesc><creation><date when="1800-01-31">Генваря 31. дня 1800. года</date></creation>
+    <profileDesc><creation><date when="1800-01-31">Генваря 31. дня 1800. года</date></creation>
     <abstract><p>Рапорт Палкина о доставлении в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> свидетеля Лейбы Рафаловича</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
