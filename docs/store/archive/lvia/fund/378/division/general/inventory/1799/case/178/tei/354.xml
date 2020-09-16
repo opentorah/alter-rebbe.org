@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Протокол допроса виленского хасида <persName ref="Лейба_Зеликович">Лейбы Зеликовича о событиях при отстранении
+        старшин <orgName ref="Виленский_кагал">виленского кагала</orgName></persName>
+      </p></abstract>
+      <creation><date when="1800-01-27">1800 года генваря 27 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="354-1"/>
+    <fw type="pageNum" place="right">354</fw>
+    <fw type="note" place="left margin">Ис-</fw>
+    <head>
+      <l><date when="1800-01-27">1800 года генваря 27 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд"
+      >Литов-<lb/>
+       скаго надворнаго Суда</orgName> наимянованный бывшімъ</l>
+      <l>кагальнымъ членомъ <persName ref="Мовша_Ошерович">Мойжешемъ Ошеровичемъ</persName></l>
+      <l><orgName ref="Хасиды">каролиномъ</orgName> еврей <persName ref="Лейба_Зеликович">Лейба Зеликовичъ</persName>
+      бывъ</l>
+      <l>спрашиванъ показалъ:</l>
+    </head>
+    <p>
+      <l>Что онъ въ <date when="1799-02-04">4 день февраля 1799 года</date> ни въ еврей-</l>
+      <l>ской школѣ, ни въ кагальномъ домѣ не былъ.</l>
+      <l>Почему и неизвѣстенъ ни омалѣйшемъ про-</l>
+      <l>изшествіи въ въ оныхъ происходившемъ. Съ над-</l>
+      <l>зирателемъ Гесткою онъ <persName ref="Лейба_Зеликович">Зеликовичъ</persName> по домамъ</l>
+      <l>еврейскимъ для забиранія книгъ посылаемъ</l>
+      <l>не былъ и не имѣлъ за оными присмотра,</l>
+      <l>и того дни никуда изъ своего дома не выхо-</l>
+      <l>дилъ и сіе показалъ по самой сущей спра-</l>
+      <l>ведливости и ничего не утаилъ.</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись <persName ref="Лейба_Зеликович">Лейбы
+      Зеликовича</persName> на иврите</note></l>
+    </p>
     <pb n="354-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
