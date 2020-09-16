@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
-    <abstract><p>Протокол допроса Мордуха Менделевича о событиях при отстранении старшин <orgName ref="Виленский_кагал">виленского кагала</orgName></p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Протокол допроса Мордуха Менделевича о событиях при отстранении старшин <orgName ref="Виленский_кагал"
+        >виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="355-1"/>
     <fw type="pageNum" place="right">355</fw>
     <fw type="note" place="left margin">криц</fw>
     <head>
-    <l><date when="1800-01-27">1800 года генваря 27 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд">Литов-<lb/>
-    скаго надворнаго Суда</orgName> служитель <persName ref="Меер_Рафалович">Меера Рафа-<lb/>
-    ловича</persName> Мордухъ менделевичъ бывъ спраши-</l>
-<l>ванъ показалъ:</l>
-</head>
+      <l><date when="1800-01-27">1800 года генваря 27 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд"
+      >Литов-<lb/>
+       скаго надворнаго Суда</orgName> служитель <persName ref="Меер_Рафалович">Меера Рафа-<lb/>
+       ловича</persName> Мордухъ менделевичъ бывъ спраши-</l>
+      <l>ванъ показалъ:</l>
+    </head>
     <p>
-<l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799 года</date> въ еврейской шко-</l>
-<l>лѣ и въ кагальномъ домѣ не былъ и ни о чемъ тамъ</l>
-<l>происходившемъ не знаетъ, такъ какъ и о томъ</l>
-<l>билъ ли господинъ совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> кого</l>
-<l>кого изъ евреевъ или нѣтъ. Съ надзирателемъ Гест-</l>
-<l>кою по домамъ еврейскимъ и никуда не ходилъ</l>
-<l>и за оными домами присмотра не имѣлъ и</l>
-<l>сіе показалъ по самой сущей справедливости</l>
-<l>безъ вской утайки</l>
-<l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
-</p>
+      <l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799 года</date> въ еврейской
+      шко-</l>
+      <l>лѣ и въ кагальномъ домѣ не былъ и ни о чемъ тамъ</l>
+      <l>происходившемъ не знаетъ, такъ какъ и о томъ</l>
+      <l>билъ ли господинъ совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> кого</l>
+      <l>кого изъ евреевъ или нѣтъ. Съ надзирателемъ Гест-</l>
+      <l>кою по домамъ еврейскимъ и никуда не ходилъ</l>
+      <l>и за оными домами присмотра не имѣлъ и</l>
+      <l>сіе показалъ по самой сущей справедливости</l>
+      <l>безъ вской утайки</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb n="355-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
