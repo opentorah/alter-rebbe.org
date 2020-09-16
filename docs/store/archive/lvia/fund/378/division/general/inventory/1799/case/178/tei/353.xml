@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-01-27">1800 года января 27 дня</date></creation>
+    <abstract><p>Протокол допроса десятского Файбиша о событиях при изъятии приходно-расходных книг <orgName ref="Виленский_кагал">виленского кагала</orgName></p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="353-1"/>
+    <fw type="pageNum" place="right">353</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+    <l><date when="1800-01-27">1800<hi rend="superscript">го</hi> года генваря 27 дня</date>. Въ присудствіи <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
+    Надворнаго суда</orgName> десятскій старый Файвко, или Файбишъ</l>
+<l>Шмуйловичъ бывъ спрашиванъ показалъ:</l>
+</head>
+    <p>
+<l>Что онъ въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799<hi rend="superscript">го</hi> года</date> въ еврейской</l>
+<l>школѣ и въ кагальномъ домѣ не былъ. За симъ и не-</l>
+<l>извѣстенъ, что въ оныхъ между <persName ref="Капцевич">комендантомъ</persName>,</l>
+<l>совѣтникомъ <persName ref="Елиашевич">Еліашевичемъ</persName> и прочими, равно кагаль-</l>
+<l>ными и духовными членами происходило.Съ надзи-</l>
+<l>рателемъ Гесткою по домамъ еврейскимъ для забра-</l>
+<l>нія бумагъ посыланъ не былъ, анаходясь въ поли-</l>
+<l>ціи былъ изъ оной комендантскимъ факторомъ</l>
+<l>Лейзаромъ посыланъ <hi rend="superscript">только</hi> въ домъ еврея Гордона для взятья</l>
+<l>запечатаннаго неизвѣстно ему Файбишу съ чемъ мѣшо-</l>
+<l>чка, которой онъ принесши въ полицію отдалъ оной,</l>
+<l>но не упомнитъ, кому имянно. О прочемъ же ни о чемъ</l>
+<l>неизвѣстенъ и за еврейскими домами присмотра</l>
+<l>не имѣлъ. И сіе показалъ по сущей справедливости</l>
+<l>и ничего не утаилъ. <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+</p>
     <pb n="353-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
