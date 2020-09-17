@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт Палкина о доставлении в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> свидетеля Лейбы
+        Рафаловича
+      </p></abstract>
+      <creation><date when="1800-01-31">Генваря 31. дня 1800. года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="367-1"/>
+    <fw type="docNum">place="left"№ 65</fw>
+    <fw type="note">Получено <date when="1800-02-01">февраля 1<hi rend="superscript">го</hi> 1800<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">367</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Nадворной Судъ</orgName></l>
+      <l>отъ правящаго комендантскую</l>
+      <l>должность виленскаго плацъ маіора</l>
+      <l>подполковника Палкина</l>
+    </head>
+    <p>
+      <l>Требуемаго <orgName ref="Литовский_надворный_суд">онымъ Надворнымъ<lb/>
+       судомъ</orgName> еврея Лейбу Рафаловича</l>
+      <l>при семъ представляю.</l>
+      <l>Плацъ маиоръ подполковникъ Палкинъ</l>
+      <l/>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 123<hi rend="superscript">и</hi></fw></l>
+      <l><date when="1800-01-31">Генваря 31. дня<lb/>
+       1800. года</date></l>
+      <l><placeName ref="Вильна">Вильна</placeName></l>
+    </closer>
+    <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-02-01">1<hi rend=
+    "superscript">го</hi> февраля</date></fw>
     <pb n="367-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
