@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,52 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о допросе доставленных в судебное присутствие Гирша Юделевича и сына <persName role="namesViewer"
+        target="/names/Меер_Рафалович.html">Меера Рафаловича</persName>
+      </p></abstract>
+      <creation><date when="1800-02-08">1800 года февраля 8 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о допросе доставленных в судебное присутствие Гирша Юделевича и сына <persName role="namesViewer"
+        target="/names/Меер_Рафалович.html">Меера Рафаловича</persName>
+      </p></l>
+      <l>Дата: 1800-02-08</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p375-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/375.html#p375-1"
     />
+    <fw type="pageNum" place="right">375</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1800-02-08">1800 года фѣвраля 8<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName role=
+      "namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надвор-<lb/>
+       наго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 1<hi rend="superscript">и</hi></fw>
+      </emph></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго коммендантскую должность</l>
+      <l>виленскаго плацъ маіора подполковника Палкина, при</l>
+      <l>которомъ по требованію <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворнаго
+      Суда</orgName> представ-</l>
+      <l>ляетъ еврея Гиршу Юделевича и сына <persName role="namesViewer" target="/names/Меер_Рафалович.html">Меера
+      Рафало-<lb/>
+       вича</persName> Янкеля. ПРИКАЗАЛИ: Означенныхъ евреевъ пред-</l>
+      <l>ставленныхъ къ слѣдствію по прошенію еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Мойжеша<lb/>
+       Ошеровича</persName> производящемуся въ чемъ слѣдуетъ спро-</l>
+      <l>сить. Подлинной за подписаніемъ господъ присудствующихъ</l>
+      <l>и за скрепою секретаря павла Искрицкаго. _</l>
+      <l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
+    </p>
     <pb xml:id="p375-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/375.html#p375-2"/>
   </body></text>
