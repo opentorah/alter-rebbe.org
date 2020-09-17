@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-02-07">1800 года февраля 7 дня</date></creation>
+    <abstract><p>Протокол допроса Янкеля Мееровича о событиях при отстранении кагальных старшин и изъятии кагальных приходно-расходных книг</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="377-1"/>
+    <fw type="pageNum" place="right">377</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+    <l><date when="1800-02-07">1800 года февраля 7 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд">Литов-<lb/>
+    скаго надворнаго Суда</orgName> виленскій еврей Янкель</l>
+<l>мееровичъ по силѣ резолюціи въ <date when="1799-10-07">7<hi rend="superscript">и</hi> день октя-<lb/>
+бря</date> состоявшейся, показалъ:</l>
+</head>
+<p>
+<l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799 года</date> онъ Мееровичъ</l>
+<l>въ еврейской школѣ и въ кагальномъ домѣ не</l>
+<l>былъ. въ разсужденіи чего и неизвестенъ что</l>
+<l>что въ оныхъ между бывшимъ <persName ref="Капцевич">комендантомъ</persName>, со-</l>
+<l>вѣтникомъ <persName ref="Елиашевич">Еліашевичемъ</persName> и прочими чиновни-</l>
+<l>ками, также кагальными и духовными члена-</l>
+<l>ми происходило, также билъ ли кого изъ евре-</l>
+<l>евъ господинъ совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> и ру-</l>
+<l>галъ ли или нѣтъ. Не былъ равномѣрно онъ</l>
+<l>Янкель посыланъ съ надзирателемъ гесткою</l>
+<l>и ни съ кѣмъ для забора бумагъ изъ домовъ</l>
+<l>еврейскихъ и имѣнія за ними присмотра, словомъ</l>
+<l>по сей части ни о чемъ неизвѣстенъ, и сіе по-</l>
+<l>казалъ по сущей справедливости.</l>
+</p>
     <pb n="377-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
