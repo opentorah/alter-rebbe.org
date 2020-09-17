@@ -1,30 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-02-01">1800 года февраля 1 дня</date></creation>
-    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о допросе Лейба Рафаловича</p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о допросе Лейба Рафаловича
+      </p></abstract>
+      <creation><date when="1800-02-01">1800 года февраля 1 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="368-1"/>
     <fw type="pageNum" place="right">368.</fw>
     <fw type="note" place="left margin">Па</fw>
     <head>
-    <l><date when="1800-02-01">1800 года февраля 1<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
-    Надворнаго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 3<hi rend="superscript">и</hi></fw></emph></l>
+      <l><date when="1800-02-01">1800 года февраля 1<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref=
+      "Литовский_надворный_суд">Литовскаго<lb/>
+       Надворнаго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 3<hi rend="superscript">и</hi>
+      </fw></emph></l>
     </head>
     <p>
-    <l>Слушали сообщеніе правящаго комендантскую дол-</l>
-<l>жность виленскаго плацъ-маіора подполковника</l>
-<l>Палкина, при которомъ по требованію сего <orgName ref="Литовский_надворный_суд">Надворнаго<lb/>
-суда</orgName> представилъ еврея Лейбу Рафаловича. ПРИ-</l>
-<l>КАЗАЛИ: Означеннаго еврея Лейбу Рафловича въ чемъ</l>
-<l>слѣдуетъ спросить. Подлинной за подписаніемъ господъ</l>
-<l>присудствующихъ и за скрепою секретаря Павла Искри-</l>
-<l>цкаго_</l>
-<l>Протоколистъ Иосифъ Волковъ</l>
-</p>
+      <l>Слушали сообщеніе правящаго комендантскую дол-</l>
+      <l>жность виленскаго плацъ-маіора подполковника</l>
+      <l>Палкина, при которомъ по требованію сего <orgName ref="Литовский_надворный_суд">Надворнаго<lb/>
+       суда</orgName> представилъ еврея Лейбу Рафаловича. ПРИ-</l>
+      <l>КАЗАЛИ: Означеннаго еврея Лейбу Рафловича въ чемъ</l>
+      <l>слѣдуетъ спросить. Подлинной за подписаніемъ господъ</l>
+      <l>присудствующихъ и за скрепою секретаря Павла Искри-</l>
+      <l>цкаго_</l>
+      <l>Протоколистъ Иосифъ Волковъ</l>
+    </p>
     <pb n="368-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
