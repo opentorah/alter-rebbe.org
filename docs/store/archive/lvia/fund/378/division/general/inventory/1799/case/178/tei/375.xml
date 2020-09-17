@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о допросе доставленных в
+        судебное присутствие Гирша Юделевича и сына <persName ref="Меер_Рафалович">Меера Рафаловича</persName>
+      </p></abstract>
+      <creation><date when="1800-02-08">1800 года февраля 8 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="375-1"/>
+    <fw type="pageNum" place="right">375</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1800-02-08">1800 года фѣвраля 8<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref=
+      "Литовский_надворный_суд">Литовскаго Надвор-<lb/>
+       наго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 1<hi rend="superscript">и</hi></fw>
+      </emph></l>
+    </head>
+    <p>
+      <l>Слушали сообщеніе правящаго коммендантскую должность</l>
+      <l>виленскаго плацъ маіора подполковника Палкина, при</l>
+      <l>которомъ по требованію <orgName ref="Литовский_надворный_суд">Надворнаго Суда</orgName> представ-</l>
+      <l>ляетъ еврея Гиршу Юделевича и сына <persName ref="Меер_Рафалович">Меера Рафало-<lb/>
+       вича</persName> Янкеля. ПРИКАЗАЛИ: Означенныхъ евреевъ пред-</l>
+      <l>ставленныхъ къ слѣдствію по прошенію еврея <persName ref="Мовша_Ошерович">Мойжеша<lb/>
+       Ошеровича</persName> производящемуся въ чемъ слѣдуетъ спро-</l>
+      <l>сить. Подлинной за подписаніемъ господъ присудствующихъ</l>
+      <l>и за скрепою секретаря павла Искрицкаго. _</l>
+      <l>Протоколистъ <signed>Иосифъ Волковъ</signed></l>
+    </p>
     <pb n="375-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
