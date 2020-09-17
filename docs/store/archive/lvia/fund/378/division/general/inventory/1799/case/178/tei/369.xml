@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-02-01">1800 года февраля 1 дня</date></creation>
+    <abstract><p>Протокол допроса Лейба Рафаловича, заявившего, что не знает, внесены ли сведения о нем в рревизские документы</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="369-1"/>
+    <fw type="pageNum" place="right">369</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+    <l><date when="1800-02-01">1800<hi rend="superscript">го</hi> года февраля 1<hi rend="superscript">го</hi> дня</date>. въ присудствіи <orgName ref="Литовский_надворный_суд">Литовскаго над-<lb/>
+    ворнаго суда</orgName> присланной при сообщеніи отъ правящаго въ</l>
+<l><placeName ref="Вильна">Вильнѣ</placeName> комендантскую должность плацъ-маіора под-</l>
+<l>полковника Палкина живущій въ <placeName ref="Вильна">вильнѣ</placeName> еврей Лейба</l>
+<l>Рафаловичъ, будучи спрашиванъ показалъ:</l>
+</head>
+    <p>
+    <l>Что записанъ ли онъ въ ревизію или нѣтъ не знаетъ. По-</l>
+<l>дати же за него оплачиваетъ, такъ какъ за неимущаго</l>
+<l><orgName ref="Виленский_кагал">виленскій еврейскій кагалъ</orgName>.</l>
+</p>
     <pb n="369-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
