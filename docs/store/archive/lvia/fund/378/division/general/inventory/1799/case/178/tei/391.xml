@@ -2,8 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-04-16">16 апреля 1800 года</date></creation>
-    <abstract>Сообщение в виленский магистрат от городского советника в связи с запросом <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName></abstract></profileDesc>
+    <profileDesc>
+      <abstract>Сообщение в виленский магистрат от городского советника в связи с запросом <orgName ref=
+      "Литовский_надворный_суд">Литовского надворного суда</orgName></abstract>
+      <creation><date when="1800-04-16">16 апреля 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="391-1"/>
