@@ -2,8 +2,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-03-05">5 марта 1800 года</date></creation>
-    <abstract>Рапорт виленского кагала в виленский магистрат в связи с запросом последнего</abstract></profileDesc>
+    <profileDesc>
+      <abstract>Рапорт виленского кагала в виленский магистрат в связи с запросом последнего</abstract>
+      <creation><date when="1800-03-05">5 марта 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="385-1"/>
