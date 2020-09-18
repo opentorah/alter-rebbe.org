@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-03-02">1800 года марта 2 дня</date></creation>
+    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о повторном запросе в виленский магистрат в связи с отстутствием ответа оттуда</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="378-1"/>
+    <fw type="pageNum" place="right">378.</fw>
+    <fw type="note" place="left margin">Ис-</fw>
+    <head>
+    <l><date when="1800-03-02">1800<hi rend="superscript">го</hi> года марта 2<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
+    Надворнаго Суда</orgName> записано. <emph rend="underline"><fw type="docNum">№ 6<hi rend="superscript">и</hi></fw></emph></l>
+    </head>
+    <p>
+    <l>Имѣли разсужденіе, что <orgName ref="Литовский_надворный_суд">сей Надворный судъ</orgName> по</l>
+<l>дѣлу въ ономъ производящемуся по жалобѣ бывшаго</l>
+<l>кагальнаго члена <persName ref="Мовша_Ошерович">Мойжеша Ошеровича</persName>, о притесне-</l>
+<l>ніяхъ и побояхъ въ школѣ евреямъ причиненныхъ,</l>
+<l>посланнымъ въ виленскій магистрать <date when="1800-02-10">сего года фе-<lb/>
+враля 10<hi rend="superscript">го</hi> числа</date> съ <fw type="docNum">№ 51<hi rend="superscript">м</hi></fw> указомъ предписалъ оно-</l>
+<l>му, посредствомъ опроса постронныхъ людей обна-</l>
+<l>ружить состояніе евреевъ Лейбы Рафаловича, Абра</l>
+<l>ма Нотелевича, Абрама Гиршовича, Нисона Дави-</l>
+<l>довича и Мордуха Цалковича; на оной магистратъ</l>
+<l>не только понынѣ по тому указу не учинилъ ис-</l>
+<l>полненія, но даже не прислалъ рапорта о полученіи</l>
+<l>онаго. ПРИКАЗАЛИ: Виленскому магистрату под-</l>
+<l>твердить вторично указомъ, дабы повелѣніе сего</l>
+<l><orgName ref="Литовский_надворный_суд">Надворнаго суда</orgName> выполнилъ въ самой строгости, а для</l>
+<l>чего чего первой указъ не отрапортовалъ, прислалъ бы</l>
+<l>объясненіе. Подлинной за подписаніемъ господъ присуд-</l>
+<l>ствующихъ и за скрепою секретаря Павла Искрицкаго.</l>
+<l>Протоколистъ <signed>иосифъ Волковъ</signed></l>
+</p>
+<fw type="note">исполнено 6 марта № 78</fw><note place="end">пометка на нижнем поле страницы</note>
     <pb n="378-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
