@@ -2,8 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-04-12">12 апреля 1800 года</date></creation>
-    <abstract><p>Сообщение виленского магистрата в городскую полицию о сведениях, касающихся евреев, представленых в качестве свидетелй в <orgName ref="Литовский_надворный_суд">Надворном суде</orgName></p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение виленского магистрата в городскую полицию о сведениях, касающихся евреев, представленых в качестве
+        свидетелй в <orgName ref="Литовский_надворный_суд">Надворном суде</orgName>
+      </p></abstract>
+      <creation><date when="1800-04-12">12 апреля 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="400-1"/>
