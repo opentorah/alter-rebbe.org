@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Елиашевич.html">Федоръ Еліашевичъ</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,96 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Заявление <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> в <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Надворный суд</orgName> о невозможности присутствия
+        при утверждении свидетелей, представленных <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровичем</persName>, т.к. двое из них уличены в воровстве
+      </p></abstract>
+      <creation><date when="1800-05-01">1 мая 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Заявление <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> в <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Надворный суд</orgName> о невозможности присутствия
+        при утверждении свидетелей, представленных <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровичем</persName>, т.к. двое из них уличены в воровстве
+      </p></l>
+      <l>Дата: 1800-05-01</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Елиашевич.html">Федоръ Еліашевичъ</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p416-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/416.html#p416-1"
     />
-    <pb xml:id="p416-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/416.html#p416-2"
-    />
+    <fw type="docNum" place="left">№ 264</fw>
+    <fw type="note">Пол. <date when="1800-05-01">1<hi rend="superscript">го</hi> маія 1800 года</date>.</fw>
+    <fw type="pageNum" place="right">416.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><emph rend="big">Въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскій
+      Надворный Судъ</orgName></emph>._</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго губернскаго
+      правленія</orgName> совѣтникъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName></l>
+    </head>
+    <p>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскій надворный судъ</orgName>
+      сообщилъ въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское<lb/>
+       губернское правленіе</orgName> чтобъ я явился во оной для бытія</l>
+      <l>при присягѣ представленныхъ отъ еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровича</persName></l>
+      <l>свидѣтелей: Еноха, Мойжеша, Копеля, Зельмана Аро-</l>
+      <l>новича, Мордуха Лейзеровича, и Абрама Янкелевича._</l>
+      <l>Исполняя всегда и безъпрекословно требованіи присуд-</l>
+      <l>ственныхъ мѣстъ я выполнилъ бы и сіе повелѣніе</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворнаго суда</orgName> ежели бы не
+      былъ я увѣренъ, что сіи</l>
+      <l>люди которыхъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName> угодно было
+      пріискать во сви</l>
+      <l>дѣтельство не были подозрительны, неизвѣстнаго состоя</l>
+      <l>нія, доброжелателями ему <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName>
+      а нѣкоторые</l>
+      <l>изъ нихъ даже и воры: въ доказательство чего пред-</l>
+      <l>ставляю при семъ два свидѣтельствы, что изъ числа</l>
+      <l>показанныхъ мордухъ Лейзаровичъ уворовалъ у</l>
+      <l>шляхтича Вержаковскаго первястковой мѣхъ, –</l>
+      <l>Енухъ же будучи бегуномъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагальнымъ</orgName>
+      удаленъ</l>
+      <l>1го числа сего апрѣля за воровство. О чемъ свидѣтель-</l>
+      <l>ствуетъ еврейская бумага при семъ прилагаемая, а</l>
+      <l>изъ сихъ обстоятельствъ и можетъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >Губернскій над<lb/>
+       ворный судъ</orgName> удостовѣрится, какого состоянія людей</l>
+      <l>пріискиваетъ во свидѣтелеи <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичъ</persName> къ подтверж</l>
+      <l>денію своей клеветы, и сколько справедливо одобрѣ</l>
+      <l>ніе истребованное отъ магистрата о состояніи</l>
+      <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-05-02">2<hi rend=
+      "superscript">го</hi> маія</date></fw><note place="end">пометка на нижнем поле страницы</note>
+      <pb xml:id="p416-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/416.html#p416-2"/>
+      <l>и поведѣніи представленныхъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичемъ</persName> сви</l>
+      <l>дѣтелей, а какъ я и въ двухъ уже первыхъ моихъ</l>
+      <l>объясненіяхъ обявлялъ причины почему не могу слат</l>
+      <l>ся на таковыхъ свидѣтелей, то нынѣ тѣмъ еще</l>
+      <l>паче на совѣсть явно явно порочныхъ и преданныхъ <persName role="namesViewer" target=
+      "/names/Мовша_Ошерович.html">Оше-<lb/>
+       ровичу</persName> полагаться не могу, естлижъ за всѣмъ симъ</l>
+      <l>угодно <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворному суду</orgName>
+      принять противъ меня таковыхъ</l>
+      <l>свидѣтелей на которыхъ я не слался и нынѣ не сы-</l>
+      <l>лаюсь то въ таковомъ случаѣ и бытность моя при</l>
+      <l>присягѣ имъ кажется не нужна, отъ которой и</l>
+      <l>прошу <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскій надворный
+      судъ</orgName> меня уволить._</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго губернскаго
+      правленія</orgName> совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Федоръ<lb/>
+       Еліашевичъ</persName></l>
+    </p>
   </body></text>
 </TEI>
