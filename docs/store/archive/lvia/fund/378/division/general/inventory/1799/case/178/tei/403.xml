@@ -2,8 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-04-13">13 апреля 1800 года</date></creation>
-    <abstract><p>Сведения о виленских евреях (с подписями каждого из них), предоставленные городским советником в ответ на запрос <orgName ref="Литовский_надворный_суд">Надворного суда</orgName></p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сведения о виленских евреях (с подписями каждого из них), предоставленные городским советником в ответ на запрос
+        <orgName ref="Литовский_надворный_суд">Надворного суда</orgName>
+      </p></abstract>
+      <creation><date when="1800-04-13">13 апреля 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="403-1"/>
