@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,62 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского Надворного
+        суда</orgName> о вызове <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> к
+        присяге свидетелй по делу
+      </p></abstract>
+      <creation><date when="1800-05-01">1800 года маія 1 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского Надворного
+        суда</orgName> о вызове <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> к
+        присяге свидетелй по делу
+      </p></l>
+      <l>Дата: 1800-05-01</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p415-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/415.html#p415-1"
     />
+    <fw type="pageNum" place="right">415</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><date when="1800-05-01">1800<hi rend="superscript">го</hi> года маія 1<hi rend="superscript">го</hi> дня</date>
+      въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       Надворнаго Суда</orgName> записано. № 3<hi rend="superscript">и</hi></l>
+    </head>
+    <p>
+      <l>Слушали прошеніе виленскаго купца еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Мойже-<lb/>
+       ша Ошеровича</persName>, въ которомъ прописывая, что изслѣдо-</l>
+      <l>ваніе по дѣлу его болѣе года продолжается и нынѣ ког-</l>
+      <l>да уже къ концу приближается, то противная сторона</l>
+      <l>день отъ дня отвлекая время, къ выслушанію при семъ</l>
+      <l>свидѣтелей не приступаетъ. Сіе же дѣлаетъ единствен-</l>
+      <l>но для того, чтобъ въ продолженіи того времени чрезъ</l>
+      <l>разныя угрозы свидѣтелей отъ показанія истинны от-</l>
+      <l>страшить посредствомъ <orgName role="namesViewer" target="/names/Хасиды.html">каролиновъ</orgName> или ихъ
+      сообщни-</l>
+      <l>ковъ. Проситъ поспѣшить привесть къ концу помяну-</l>
+      <l>тое слѣдствіе спросомъ свидѣтелей, а потомъ опросить</l>
+      <l>ихъ такъ же, кто имъ чинитъ угрозы и отъ свидѣтель</l>
+      <l>ства отводитъ. ПРИКАЗАЛИ: Въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовское губернское<lb/>
+       правленіе</orgName> сообщить, дабы благоволило объявить онаго</l>
+      <l>правленія господину совѣтнику <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичу</persName>
+      о явкѣ его</l>
+      <l>въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей судъ</orgName> для бытія при
+      присягѣ свидѣтелей. Под-</l>
+      <l>линной за подписаніемъ господх присудствующихъ и</l>
+      <l>за скрепою секретаря Павла Искрицкаго._</l>
+      <l>Протоколистъ <signed>Ј. Волковъ</signed></l>
+    </p>
     <pb xml:id="p415-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/415.html#p415-2"/>
   </body></text>
