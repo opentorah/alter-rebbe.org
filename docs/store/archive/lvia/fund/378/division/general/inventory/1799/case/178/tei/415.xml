@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-05-01">1800 года маія 1 дня</date></creation>
+    <abstract><p>Решение <orgName ref="Литовский_надворный_суд">Литовского Надворного суда</orgName> о вызове <persName ref="Елиашевич">Елиашевича</persName> к присяге свидетелй по делу</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="415-1"/>
+    <fw type="pageNum" place="right">415</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+    <l><date when="1800-05-01">1800<hi rend="superscript">го</hi> года маія 1<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
+    Надворнаго Суда</orgName> записано. № 3<hi rend="superscript">и</hi></l>
+    </head>
+    <p>
+    <l>Слушали прошеніе виленскаго купца еврея <persName ref="Мовша_Ошерович">Мойже-<lb/>
+    ша Ошеровича</persName>, въ которомъ прописывая, что изслѣдо-</l>
+<l>ваніе по дѣлу его болѣе года продолжается и нынѣ ког-</l>
+<l>да уже къ концу приближается, то противная сторона</l>
+<l>день отъ дня отвлекая время, къ выслушанію при семъ</l>
+<l>свидѣтелей не приступаетъ. Сіе же дѣлаетъ единствен-</l>
+<l>но для того, чтобъ въ продолженіи того времени чрезъ</l>
+<l>разныя угрозы свидѣтелей отъ показанія истинны от-</l>
+<l>страшить посредствомъ <orgName ref="Хасиды">каролиновъ</orgName> или ихъ сообщни-</l>
+<l>ковъ. Проситъ поспѣшить привесть къ концу помяну-</l>
+<l>тое слѣдствіе спросомъ свидѣтелей, а потомъ опросить</l>
+<l>ихъ такъ же, кто имъ чинитъ угрозы и отъ свидѣтель</l>
+<l>ства отводитъ. ПРИКАЗАЛИ: Въ <orgName ref="Литовское_губернское_правление">Литовское губернское<lb/>
+правленіе</orgName> сообщить, дабы благоволило объявить онаго</l>
+<l>правленія господину совѣтнику <persName ref="Елиашевич">Еліашевичу</persName> о явкѣ его</l>
+<l>въ <orgName ref="Литовский_надворный_суд">сей судъ</orgName> для бытія при присягѣ свидѣтелей. Под-</l>
+<l>линной за подписаніемъ господх присудствующихъ и</l>
+<l>за скрепою секретаря Павла Искрицкаго._</l>
+<l>Протоколистъ <signed>Ј. Волковъ</signed></l>
+</p>
     <pb n="415-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
