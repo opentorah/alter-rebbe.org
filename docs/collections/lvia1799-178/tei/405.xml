@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,25 +15,88 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> об отводе свидетелей из числа бывших старшин и служителей <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленского кагала</orgName>, о благонадежности которых не имеется свидетельств
+      </p></abstract>
+      <creation><date when="1800-04-16">1800 года апрѣля 16 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> об отводе свидетелей из числа бывших старшин и служителей <orgName role="namesViewer" target=
+        "/names/Виленский_кагал.html">виленского кагала</orgName>, о благонадежности которых не имеется свидетельств
+      </p></l>
+      <l>Дата: 1800-04-16</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p405-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/405.html#p405-1"
     />
-    <pb xml:id="p405-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/405.html#p405-2"
-    />
-    <pb xml:id="p406-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/405.html#p406-1"
-    />
-    <pb xml:id="p406-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/405.html#p406-2"
-    />
+    <fw type="pageNum" place="right">405</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <head>
+      <l><date when="1800-04-16">1800 года апрѣля 16<hi rend="superscript">го</hi> дня</date> въ журналѣ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго Надворнаго Суда</orgName>
+      записано</l>
+      <l><fw type="docNum">№. 12</fw></l>
+    </head>
+    <p>
+      <l>Слушали рапортъ виленскаго городоваго</l>
+      <l>магистрата, при которомъ въ слѣдствіе</l>
+      <l>указа <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сего Надворнаго суда</orgName>
+      представ</l>
+      <l>ляетъ учиненную онаго магистрата</l>
+      <l>членами выправку о состояніи евреевъ</l>
+      <l>Лейбы Рафаловича, Абрагама Ното-</l>
+      <l>левича Абрагама Гиршовича</l>
+      <l>Нисена Давыдовича и Мордуха</l>
+      <l>Цалковича. ПРИКАЗАЛИ:</l>
+      <pb xml:id="p405-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/405.html#p405-2"/>
+      <l>какъ спрашиванные виленскимъ магист-</l>
+      <l>ратомъ сторонніе люди не имѣющіе</l>
+      <l>никакой связи ни родства ни съ быв</l>
+      <l>шими кагальными и духовными членами</l>
+      <l>ниже съ евреями называемыми</l>
+      <l><orgName role="namesViewer" target="/names/Хасиды.html">каролинами</orgName> выбранные нынѣшнимъ <orgName role=
+      "namesViewer" target="/names/Виленский_кагал.html">ви<lb/>
+       ленскимъ кагаломъ</orgName> къ показанію</l>
+      <l>истинны о состояніи евреевъ</l>
+      <l>Леибы Рафаловича и Абрагама</l>
+      <l>Нотеліовича, также кагальныхъ</l>
+      <l>слугъ Абрама Гиршовича</l>
+      <l>Нисона давыдовича и Мордуха</l>
+      <pb xml:id="p406-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/405.html#p406-1"/>
+      <fw type="pageNum" place="right">406.</fw>
+      <fw type="note" place="left margin">Се</fw>
+      <l>Цалковича всѣ почти единогласно отозвались</l>
+      <l>что заслуживаютъ ли они вѣроятїя <hi rend="superscript">и</hi> могутъ ли</l>
+      <l>быть приняты во свидѣтели <del rend="overstrike">они</del> они неизвѣ</l>
+      <l>стны. Воинскаго же процесса 2<hi rend="superscript">й</hi> части</l>
+      <l>3<hi rend="superscript">й</hi> главы 16<hi rend="superscript">м</hi> отдѣленіемъ свидѣтелей о</l>
+      <l>справедливомъ которыхъ житіи подлиннаго</l>
+      <l><choice><sic>житія</sic><corr>извѣстія</corr></choice> не имѣютъ въ судъ принимать</l>
+      <l>не велѣно: то по сходству сего законо</l>
+      <l>положенія помянутыхъ евреевъ Лейбу</l>
+      <l>Рафаловича Абрама Нотелїовича</l>
+      <l>Абрама Гиршовича Нисона Давыдо</l>
+      <l>вича и Мордуха Цалковича</l>
+      <l>яко людей не имѣющихъ за собою</l>
+      <pb xml:id="p406-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/405.html#p406-2"/>
+      <l>удостоверенія о своемъ поведеніи и</l>
+      <l>честности отъ свидѣтельства удалить</l>
+      <l>Подлинной за подписаніемъ господъ</l>
+      <l>присудствующихъ и за скрепою</l>
+      <l>секретаря павла Искрицкаго.</l>
+      <l>Протоколистъ <signed>Ј Волковъ</signed></l>
+    </p>
   </body></text>
 </TEI>
