@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение виленского полицмейстера в магистрат о представлении по его требованию двух евреев города
+      </p></abstract>
+      <creation><date when="1800-04-13">апреля 13 дня 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="401-1"/>
+    <fw type="pageNum" place="right">401.</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 387</fw></fw>
+    <head>
+      <l>Изъ виленской городовой полицїи</l>
+      <l>въ виленской городовой магистратъ</l>
+    </head>
+    <p>
+      <l>Требуемые онымъ магистратомъ евреи</l>
+      <l>Јделіовичъ и Самуель Јоселіовичъ</l>
+      <l>при семъ посылаются <date when="1800-04-13">Апреля 13<lb/>
+       дня 1800<hi rend="superscript">го</hi> года</date>_.</l>
+      <l>виленскій полицмеистер <signed><unclear>???</unclear></signed></l>
+      <l>Городовой секретарь <signed>??? ???</signed></l>
+      <l>Губернскїи регистраторъ <signed>Осипъ Качковскїй</signed></l>
+    </p>
     <pb n="401-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
