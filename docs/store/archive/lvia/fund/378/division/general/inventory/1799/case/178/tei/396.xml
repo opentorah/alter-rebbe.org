@@ -2,10 +2,30 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <profileDesc>
+      <abstract>Сообщение виленского полицмейстера в городовой магистрат о представлении по его требованию евреев,
+      указанных в магистратском запросе</abstract>
+      <creation><date when="1800-03-27">марта 27 дня 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="396-1"/>
+    <fw type="pageNum" place="right">396.</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 237</fw></fw>
+    <head><l>W вилѣнскоя городовая полиція<lb/>
+       <choice><sic>вв</sic><corr>отъ</corr></choice> вилѣнская городовой магистратъ</l></head>
+    <p>
+      <l>Требуемые онымъ во свидетели</l>
+      <l><unclear>???</unclear> евреиского кагала</l>
+      <l>енушъ Јоновичъ аронъ <unclear>???</unclear></l>
+      <l><persName ref="Мовша_Ицкович">мовша ицковичъ</persName>, посылаются при</l>
+      <l>семъ <unclear>??? ???</unclear> до</l>
+      <l><unclear>??? ??? ???</unclear> <date when="1800-03-27">марта<lb/>
+       27 дня. 1800 году</date>_</l>
+      <l>виленскій полицмейстеръ <unclear>???</unclear> <signed><unclear>???</unclear></signed></l>
+      <l>= Городовой секретарь <signed>??? ???</signed></l>
+    </p>
     <pb n="396-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

@@ -11,20 +11,39 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract>Сообщение виленского полицмейстера в городовой магистрат о представлении по его требованию евреев,
+      указанных в магистратском запросе</abstract>
+      <creation><date when="1800-03-27">марта 27 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l>Сообщение виленского полицмейстера в городовой магистрат о представлении по его требованию евреев, указанных в
+      магистратском запросе</l>
+      <l>Дата: 1800-03-27</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p396-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/396.html#p396-1"
     />
+    <fw type="pageNum" place="right">396.</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 237</fw></fw>
+    <head><l>W вилѣнскоя городовая полиція<lb/>
+       <choice><sic>вв</sic><corr>отъ</corr></choice> вилѣнская городовой магистратъ</l></head>
+    <p>
+      <l>Требуемые онымъ во свидетели</l>
+      <l><unclear>???</unclear> евреиского кагала</l>
+      <l>енушъ Јоновичъ аронъ <unclear>???</unclear></l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ицкович.html">мовша ицковичъ</persName>, посылаются при</l>
+      <l>семъ <unclear>??? ???</unclear> до</l>
+      <l><unclear>??? ??? ???</unclear> <date when="1800-03-27">марта<lb/>
+       27 дня. 1800 году</date>_</l>
+      <l>виленскій полицмейстеръ <unclear>???</unclear> <signed><unclear>???</unclear></signed></l>
+      <l>= Городовой секретарь <signed>??? ???</signed></l>
+    </p>
     <pb xml:id="p396-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/396.html#p396-2"/>
   </body></text>
