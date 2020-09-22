@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,50 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Текст присяги, принесенной свидетелями по делу со стороны <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>
+      </p></abstract>
       <langUsage><language ident="pl"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <p rendition="document-header">
-      <l>?</l>
+      <l><p>
+        Текст присяги, принесенной свидетелями по делу со стороны <persName role="namesViewer" target=
+        "/names/Мовша_Ошерович.html">Мовши Ошеровича</persName>
+      </p></l>
       <l>Дата:</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p428-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/428.html#p428-1"
     />
+    <fw type="pageNum" place="right">428.</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <head><l>Rota Przysiegi</l></head>
+    <p><note place="end">текст по-польски</note></p>
+    <p>
+      <l>Секретарь Павелъ Искрицкій</l>
+      <l>По сей присягѣ присягали:</l>
+      <l>Енухъ Янкелевичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Мойжешъ Лейбовичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Копель Нотеліовичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Зельманъ Ароновичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Мордухъ Лейзаровичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Абрамъ Янкелевичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Къ сей присягѣ приводили школьникъ</l>
+      <l>Мойжешъ Ароновичъ <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>Jeremiasz Nochimowicz Syndyk Kahalu Wilensky</l>
+      <l>При приводѣ къ сей присягѣ нахо</l>
+      <l>дился виленскій купецъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Моижешъ<lb/>
+       Ошеровичъ</persName>. <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l>При сей присягѣ присудствовалъ въ еврейской школѣ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго надворнаго суда</orgName>
+      ассесоръ Викентій</l>
+      <l><signed>Тарновскій</signed></l>
+    </p>
     <pb xml:id="p428-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/428.html#p428-2"/>
   </body></text>
