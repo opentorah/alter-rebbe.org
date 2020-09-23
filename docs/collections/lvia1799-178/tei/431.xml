@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,85 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Протокол допроса Енуха Янкелевича о событиях при отстранении кагальных старшин и изъятии приходно-расходных книг
+        <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-05-04">1800 года мая 4 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Протокол допроса Енуха Янкелевича о событиях при отстранении кагальных старшин и изъятии приходно-расходных книг
+        <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1800-05-04</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p431-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/431.html#p431-1"
     />
-    <pb xml:id="p431-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/431.html#p431-2"
-    />
+    <fw type="pageNum" place="right">431.</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><date when="1800-05-04">1800<hi rend="superscript">го</hi> года маія 4<hi rend="superscript">го</hi> дня</date>
+      въ присудствіи <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Ли-<lb/>
+       товскаго надворнаго суда</orgName> еврей бывшій при</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскомъ кагалѣ</orgName> бѣгуномъ Енухъ
+      Янкелевичъ</l>
+      <l>по приведеніи его въ еврейской школѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html"
+      >сего суда</orgName></l>
+      <l>при господинѣ асессорѣ Тарновскомъ къ присягѣ</l>
+      <l>будучи по резолюціи состоявшейся въ <date when="1799-10-26">26<hi rend="superscript">и</hi> день ок-<lb/>
+       тября 1799 года</date> спрашиванъ, показалъ:</l>
+    </head>
+    <p>
+      <l>Что прошлаго <date when="1799-02-04">1799<hi rend="superscript">го</hi> года въ февралѣ мѣсяцѣ</date> былъ</l>
+      <l>онъ въ еврейской школѣ во время нахожденія въ</l>
+      <l>оной бывшаго коменданта <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName>,
+      совѣтника</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>, казначея Сербиновича,
+      надзирателя</l>
+      <l>Гестки и прочихъ, въ которой увидя господинъ</l>
+      <l>совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>, что евреи были въ
+      шапкахъ,</l>
+      <l>приказалъ снять оныя. Когда же кагальный стар-</l>
+      <l>шина <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжешъ Ошеровичъ</persName> хотѣлъ нѣчто
+      къ нему</l>
+      <l>господину <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичу</persName> сказать, то онъ
+      господинъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> толкнулъ его въ грудь рукою.
+      Потомъ</l>
+      <l>посланъ былъ онъ Енухъ не упомнитъ кѣмъ</l>
+      <l>изъ означенныхъ гсподъ къ алтарю съ прика-</l>
+      <l>заніемъ остановить Богомоленіе, которое и</l>
+      <l>остановлено. Затѣмъ поставя господинъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліа-<lb/>
+       шевичъ</persName> рядомъ духовныхъ и кагальныхъ стар-</l>
+      <l>шинъ держалъ въ рукахъ какую то бумагу, го-</l>
+      <l>воря, что они отъ должностей своихъ по прика-</l>
+      <l>занію господина <persName role="namesViewer" target="/names/Лассий.html">генералъ губернатора</persName>
+      удаляют-</l>
+      <l>ся. Наконецъ вышедъ изъ школы зашли въ ка-</l>
+      <l>гальной домъ, но что тамъ происходило, онъ</l>
+      <l>Енухъ не знаетъ, ибо тотчасъ по выходѣ изъ</l>
+      <l>школы посланъ былъ онъ Енухъ съ <hi rend="superscript">гдномъ<note place="end">"господином", сокращенная
+      запись</note></hi> плацъ маіо-</l>
+      <l>ромъ къ еврею Еліокиму Лейбовичу за бама-</l>
+      <l>гами. Сверьхъ того онъ Енухъ Янкелевичъ пока-</l>
+      <l>залъ, что онъ не состоитъ уже нынѣ при кагалѣ</l>
+      <l>бѣгуномъ, а удаленъ отъ той дол-</l>
+      <l>жности за то, что не согласился выдать ев-</l>
+      <l>реямъ <persName role="namesViewer" target="/names/Меер_Рафалович.html">Мееру Рафаловичу</persName>, Юделю
+      Давыдовичу</l>
+      <pb xml:id="p431-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/431.html#p431-2"/>
+      <l>на гербовой бумагѣ свидѣтельства, въ том,</l>
+      <l>что онъ Енухъ якобы о вышеписанныхъ происшест-</l>
+      <l>віяхъ въ школѣ случившихся ничего не знаетъ.</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    </p>
   </body></text>
 </TEI>
