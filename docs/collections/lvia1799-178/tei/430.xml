@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,74 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Показания в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворном суде</orgName>
+        <persName role="namesViewer" target="/names/Мовша_Лейбович.html">Мовши Лейбовича</persName> о событиях при
+        отстранении кагльных старшин
+      </p></abstract>
+      <creation><date when="1800-05-06">1800 года мая 6 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Показания в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворном суде</orgName>
+        <persName role="namesViewer" target="/names/Мовша_Лейбович.html">Мовши Лейбовича</persName> о событиях при
+        отстранении кагльных старшин
+      </p></l>
+      <l>Дата: 1800-05-06</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p430-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/430.html#p430-1"
     />
+    <fw type="pageNum" place="right">430.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l><date when="1800-05-06">1800<hi rend="superscript">го</hi> года маія 6<hi rend="superscript">го</hi>
+      дня</date>. въ присудствіи <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго
+      над-<lb/>
+       ворнаго суда</orgName> <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго
+      кагала</orgName> бѣгунъ <persName role="namesViewer" target="/names/Мовша_Лейбович.html">Мойжешъ
+      Лейбовичъ</persName></l>
+      <l>по привѣденіи къ присягѣ въ еврейской школѣ при господинѣ</l>
+      <l>асессорѣ Тарновскомъ,по силѣ резолюціи въ <date when="1799-10-26">26<hi rend="superscript">и</hi> день
+      октября<lb/>
+       прошлаго 1799<hi rend="superscript">го</hi> года</date> послѣдовавшей будучи спрашиванъ пока-</l>
+      <l>залъ:</l>
+    </head>
+    <p>
+      <l>Что прошлаго 1799<hi rend="superscript">го</hi> года зимнимъ временемъ былъ онъ <persName role="namesViewer"
+      target="/names/Мовша_Лейбович.html">Мой-<lb/>
+       жешъ Лейбовичъ</persName> въ еврейской школѣ то есть тогда, когда въ оной на-</l>
+      <l>ходились бывшій виленскій комендантъ <persName role="namesViewer" target="/names/Капцевич.html"
+      >Капцевичъ</persName>, совѣт-</l>
+      <l>никъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>, казначей Сербиновичъ,
+      надзиратель Гестко</l>
+      <l>и другіе, изъ коихъ господинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевичъ</persName> вошедши</l>
+      <l>въ школу держалъ въ рукахъ какую то бумагу и послалъ</l>
+      <l>бѣгуна Енуха къ алтарю, чтобы было остановлено бого-</l>
+      <l>моленіе, которое потомъ и было прекращено, а потомъ</l>
+      <l>объявилъ, что кагальныя члены удаляются отъ должностей.</l>
+      <l>Билъ же ли онъ господинъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> кого
+      изъ евреевъ и за что,</l>
+      <l>также говорилъ ли что, и что именно, онъ Мойжешъ нахо-</l>
+      <l>дясь въ далекомъ разстояніи отъ того мѣста, гдѣ онъ го-</l>
+      <l>сподинъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> былъ и по
+      многочисленности бывшихъ</l>
+      <l>тогда въ школѣ евреевъ не видалъ. Слышалъ только отъ другихъ,</l>
+      <l>что будто бы <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName>
+      толкнулъ рукою за то,</l>
+      <l>что онъ стоялъ въ шапкѣ. Былъ онъ Мойжешъ и въ кагальномъ</l>
+      <l>домѣ по входѣ означенныхъ господъ изъ школы въ оной, гдѣ</l>
+      <l>видѣлъ,только что забираемы были кагальныя бумаги.</l>
+      <l>И сіе показалъ по сущей справедливости и учиненной при-</l>
+      <l>сягѣ.</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb xml:id="p430-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/430.html#p430-2"/>
   </body></text>
