@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,82 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract>?</abstract>
+      <abstract><p>
+        Протокол допроса в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовском надворном
+        суде</orgName> свидетеля Мордуха Лейзеровича о событиях при отстранении старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-05-04">1800 года мая 4 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l>?</l>
-      <l>Дата:</l>
+      <l><p>
+        Протокол допроса в <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовском надворном
+        суде</orgName> свидетеля Мордуха Лейзеровича о событиях при отстранении старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1800-05-04</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p434-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/434.html#p434-1"
     />
-    <pb xml:id="p434-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/434.html#p434-2"
-    />
+    <fw type="pageNum" place="right">434</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+      <l><date when="1800-05-04">1800<hi rend="superscript">го</hi> года маія 4<hi rend="superscript">го</hi>
+      дня</date>. Въ присудствіи <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литов-<lb/>
+       скаго надворнаго суда</orgName>, виленскій мещанинъ</l>
+      <l>еврей Мордухъ Лейзеровичъ, бывъ спрашиваемъ,</l>
+      <l>показалъ:</l>
+    </head>
+    <p>
+      <l>Что онъ не можетъ ничего на вопросы ему предложенные</l>
+      <l>отвѣтствовать потому, что онъ въ недавномъ</l>
+      <l>времени выдалъ еврею <persName role="namesViewer" target="/names/Нохим_Ицкович.html">Нохиму Ицковичу</persName>
+      свидѣтель-</l>
+      <l>ство въ томъ, что онъ Лейзеровичъ <date when="1799-02-04">4<hi rend="superscript">го</hi> февраля</date> въ</l>
+      <l>еврейской школѣ не былъ и ничего въ оной происходив-</l>
+      <l>шаго не видалъ. А потому естьли бы показалъ</l>
+      <l>противное тому свидѣтельству опасается, дабы</l>
+      <l>за несогласные свои показанія не былъ наказанъ,</l>
+      <l>каковымъ онъ при подписаніи вышеписаннаго сви-</l>
+      <l>дѣтельства былъ спрашиваемъ, будѣ бы переме-</l>
+      <l>нилъ оное. Наконецъ онъ Лейзеровичъ по учиненіи</l>
+      <l>ему увѣщеванія и по внушеніи, что за клятво-</l>
+      <l>преступленіе положено строжайшее наказаніе,</l>
+      <l>нежели за партикулярное свидѣтельство, показалъ:</l>
+      <l>Что въ еврейской школѣ прошедшаго года зимою</l>
+      <l>былъ онъ тогда, когда въ оной находились бывшій</l>
+      <l>виленскій господинъ камендантъ <persName role="namesViewer" target="/names/Капцевич.html"
+      >Капцевичъ</persName>,</l>
+      <l>совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>, казанчей
+      Сербиновичъ,</l>
+      <l>надзиратель Гестко и другіе. Виделъ какъ</l>
+      <l>господинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>
+      кагальнаго</l>
+      <l>старшину <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName> ударилъ
+      ру-</l>
+      <l>кою въ грудь, но за что дѣйствительно</l>
+      <l>не знаетъ, за то ли, что онъ былъ въ шапкѣ?</l>
+      <l>или за что другое. Слышелъ также</l>
+      <pb xml:id="p434-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/434.html#p434-2"/>
+      <l>онъ Лейзеровичъ, какъ господинъ <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевичъ</persName></l>
+      <l>говорилъ въ школѣ, что духовныя и ка-</l>
+      <l>гальныя члены отъ должностей своихъ</l>
+      <l>удаляются, и что будутъ на мѣста ихъ</l>
+      <l>опредѣлены другіе. Остановилъ же ли кто</l>
+      <l>Богомоленіе, или нѣтъ, онъ Лейзеровичъ</l>
+      <l>не знаетъ. Не знаетъ равномѣрно и</l>
+      <l>о томъ, билъ ли господинъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName></l>
+      <l>еще кого, и кого имянно. и сіе показалъ</l>
+      <l>по сущей справѣдливости и учиненной присягѣ.</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    </p>
   </body></text>
 </TEI>
