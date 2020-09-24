@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-05-12">12 мая 1800 года</date></creation>
-    <abstract>Почтовый конверт со следом сургучной печати, в котором находилось письмо <persName ref="Фризель">Фризеля</persName> в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> (см.: https://app.alter-rebbe.org/collections/lvia1799-178/documents/446.html)</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Почтовый конверт со следом сургучной печати, в котором находилось письмо <persName ref="Фризель"
+      >Фризеля</persName> в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> (см.:
+      https://app.alter-rebbe.org/collections/lvia1799-178/documents/446.html)</abstract>
+      <creation><date when="1800-05-12">12 мая 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="449-1"/>
-    <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен чернилами и зачеркнут карандашом архивиста</note>
+    <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен чернилами и зачеркнут карандашом
+    архивиста</note>
     <fw type="note" place="left margin">Па</fw>
     <pb n="449-2"/>
-   <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен карандашом</note> 
-   <head>
-   <l>Отъ <persName ref="Фризель">Литовскаго Гражданскаго Губернатора</persName></l>
-<l><orgName ref="Литовский_надворный_суд">Литовскому Надворному Суду</orgName></l>
-<l>Предложеніе</l>
-<l><fw type="docNum">№ 2509</fw></l>
-</head>
+    <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен карандашом</note>
+    <head>
+      <l>Отъ <persName ref="Фризель">Литовскаго Гражданскаго Губернатора</persName></l>
+      <l><orgName ref="Литовский_надворный_суд">Литовскому Надворному Суду</orgName></l>
+      <l>Предложеніе</l>
+      <l><fw type="docNum">№ 2509</fw></l>
+    </head>
   </body></text>
 </TEI>
