@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,24 +15,135 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> в связи с прошением <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевича</persName> (о привлечении дополнительных свидетелей, которые доказали бы ложнность показаний
+        свидетей, представленных <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName>)
+        об уведомлении <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>
+      </p></abstract>
+      <creation><date when="1800-05-04">1800 года мая 14 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> в связи с прошением <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевича</persName> (о привлечении дополнительных свидетелей, которые доказали бы ложнность показаний
+        свидетей, представленных <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName>)
+        об уведомлении <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>
+      </p></l>
+      <l>Дата: 1800-05-04</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p444-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/444.html#p444-1"
     />
-    <pb xml:id="p444-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/444.html#p444-2"
-    />
-    <pb xml:id="p445-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/444.html#p445-1"
-    />
+    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
+    <fw type="pageNum" place="right">444</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <head>
+      <l><date when="1800-05-04">1800<hi rend="superscript">го</hi> года маія 14<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       надворнаго суда</orgName> записано.</l>
+      <l><fw type="docNum">№ 3<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Слушали прошеніе <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      Губернскаго правленія</orgName></l>
+      <l>господина совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Федора Еліашевича</persName>,
+      въ которомъ</l>
+      <l>прописывая, что онъ хотя преждѣ писалъ противу</l>
+      <l>свидѣтелей евреемъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичемъ</persName>
+      представленныхъ;</l>
+      <l>однако они <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворнымъ судомъ</orgName>
+      приняты уже</l>
+      <l>спрашиваны; а нынѣ онъ господинъ совѣтникъ</l>
+      <l>увѣдомился отъ сторонныхъ людей, что тѣ сви-</l>
+      <l>дѣтели не были въ еврейской школѣ тогда, на</l>
+      <l>ходился въ оной господинъ комендантъ <persName role="namesViewer" target="/names/Капцевич.html"
+      >Капцевичъ</persName></l>
+      <l>съ нимъ <persName role="namesViewer" target="/names/Елиашевич.html">совѣтникомъ</persName> и прочими
+      чиновниками</l>
+      <l>для объявленія удаленнымъ кагальнымъ чле-</l>
+      <l>намъ повелѣнія Его высокопревосходительства</l>
+      <l>бывшаго литовскаго господина генералъ-губер-</l>
+      <l>натора и кавалера <persName role="namesViewer" target="/names/Лассий.html">де Лассія</persName>,
+      слѣдовательно</l>
+      <l>не бывъ въ школѣ, не могли ничего и видѣть, что</l>
+      <l>тамъ происходило; а будѣ показали оно что либо</l>
+      <l>въ допросахъ своихъ о происшествіяхъ въ школѣ по-</l>
+      <l>слѣдовавшихъ, то преступили клятву, и свидѣ</l>
+      <l>тельство ихъ есть сущая ложь. Поелику же во-</l>
+      <l>инскаго процесса 2<hi rend="superscript">й</hi> части 3<hi rend="superscript">й</hi> главы въ 12<hi rend=
+      "superscript">м</hi> пун-</l>
+      <l>ктѣ сказано: ежели случится, что отвѣтчикъ</l>
+      <l>сказку челобитчиковыхъ свидѣтелей чрезъ</l>
+      <pb xml:id="p444-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/444.html#p444-2"/>
+      <l>иныхъ свидѣтелей уличить похочетъ, то ему</l>
+      <l>неможно возбранить своихъ представить свидѣ-</l>
+      <l>телей, и кто изъ нихъ лучшихъ и болѣе свидѣ-</l>
+      <l>телей на своей сторонѣ имѣетъ, которые пра-</l>
+      <l>вду сущую обстоятельствами доказывать мо-</l>
+      <l>гутъ, тѣмъ и повѣрится; то проситъ евреевъ</l>
+      <l>неподозрительнаго поведенія, и имянно: Ицку</l>
+      <l>Марковича, Гиршу сына Еліашевича, бенія-</l>
+      <l>мина Янкелевича и Ицку вульфовича спро-</l>
+      <l>сить подъ присягою въ томъ: были ль пред-</l>
+      <l>ставленныя отъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName> и недавно
+      запра-</l>
+      <l>шиванныя свидѣтелеи Зельманъ Ароновичъ,</l>
+      <l>Абрагамъ Янкелевичъ и Мордухъ Лейзеровичъ,</l>
+      <l>внутри еврейской школы въ то время, въ которое</l>
+      <l>Ошеровичъ показываетъ, будь-то бы онъ госпо-</l>
+      <l>динъ совйтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> обидѣлъ его
+      <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Оше-<lb/>
+       ровича</persName>, а чрезъ сіе обнаружится и совершенно</l>
+      <l>докажется, что они тамъ не были, что послу</l>
+      <l>шествованіе ихъ ложно, и что все ими пока-</l>
+      <l>занное есть есть одно наущеніе <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровича</persName>; а какъ</l>
+      <l>во время бытности его совѣтника съ прочи-</l>
+      <l>ми показанными чиновниками въ школѣ,</l>
+      <l>находились при объявленіи повеленія глав-</l>
+      <l>но начальствующіе и стояли вмѣстѣ съ</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичемъ</persName> сотовариществующіе съ
+      нимъ</l>
+      <pb xml:id="p445-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/444.html#p445-1"/>
+      <l>кагальные старшины, мовша вульфовичъ, <persName role="namesViewer" target="/names/Шимель_Абелевич.html">Ши-<lb
+      />
+       мель Абелевичъ</persName>, Абрамъ Јоселевичъ, Лейба Зелькен-</l>
+      <l>довичъ, берка вульфовичъ и Шмуйлъ Марковичъ</l>
+      <l>которые не могли не видать всего того, что</l>
+      <l>доказываетъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName>, естьлибъ
+      оное въ са-</l>
+      <l>момъ дѣлѣ происходило: почему онъ господинъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">совѣтникъ</persName> проситъ и сихъ евреевъ
+      спросить</l>
+      <l>подъ присягою потому особливо, что показа-</l>
+      <l>ніе ихъ въ разсужденіи наклонности къ нему</l>
+      <l>совѣтнику не можетъ быть пристрастно, ибо они</l>
+      <l>бывъ удалены вмѣстѣ съ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичемъ</persName>,
+      и почитая</l>
+      <l>его совѣтника виновникомъ того ихъ удаленія,</l>
+      <l>конечно не могутъ ему совѣтнику быть добро-</l>
+      <l>желательствующими, а сверхъ сихъ и четырехъ</l>
+      <l>школьниковъ,которые конечно тогда находи-</l>
+      <l>лись въ школѣ, такъ же допросить на законномъ</l>
+      <l>основаніи; Какое жъ по сему его господина <persName role="namesViewer" target="/names/Елиашевич.html">со<lb/>
+       вѣтника</persName> прошенію послѣдуетъ въ надворномъ<lb/>
+       судѣ положеніе, дать ему съ онаго копію._</l>
+      <l>ПРИКАЗАЛИ: Оное прошеніе объявить еврею <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мой<lb
+      />
+       жешу Ошеровичу</persName>. Подлинной за подписаніемъ гос-</l>
+      <l>подъ присудствующихъ и за скрепою секретаря</l>
+      <l>Павла Искрицкаго.</l>
+    </p>
     <pb xml:id="p445-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/444.html#p445-2"/>
   </body></text>
