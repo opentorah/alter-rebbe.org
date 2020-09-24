@@ -4245,9 +4245,15 @@
         <cell rendition="transcriber"/>
       </row>
       <row>
-        <cell rendition="description"/>
-        <cell rendition="date"/>
-        <cell rendition="author"/>
+        <cell rendition="description"><p>
+          Письмо <persName role="namesViewer" target="/names/Фризель.html">Фризеля</persName> в <orgName role=
+          "namesViewer" target="/names/Литовский_надворный_суд.html">Литовский надворный суд</orgName> с требованием
+          ускорить рассмотрение дела по жалобе кагальных старшин в связи с подготовкой доклада <persName role=
+          "namesViewer" target="/names/Обольянинов.html">генерал-прокурору</persName>
+        </p></cell>
+        <cell rendition="date">1800-05-12</cell>
+        <cell rendition="author"><persName role="namesViewer" target="/names/Фризель.html">Иванъ Фризель</persName>
+        </cell>
         <cell rendition="addressee"/>
         <cell rendition="language">ru</cell>
         <cell rendition="document"><ref role="documentViewer" target="/collections/lvia1799-178/documents/446.html"
@@ -4258,7 +4264,8 @@
           <ref role="documentViewer" target="/collections/lvia1799-178/documents/446.html#p446-2" rendition=
           "missing-empty-page">446об</ref>
         </cell>
-        <cell rendition="transcriber"/>
+        <cell rendition="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий
+        Когаловский</persName></cell>
       </row>
       <row>
         <cell rendition="description"/>
