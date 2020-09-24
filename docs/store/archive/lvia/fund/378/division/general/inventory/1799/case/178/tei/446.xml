@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Фризель">Иванъ Фризель</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Письмо <persName ref="Фризель">Фризеля</persName> в <orgName ref="Литовский_надворный_суд">Литовский надворный
+        суд</orgName> с требованием ускорить рассмотрение дела по жалобе кагальных старшин в связи с подготовкой доклада
+        <persName ref="Обольянинов">генерал-прокурору</persName>
+      </p></abstract>
+      <creation><date when="1800-05-12">12 мая 1800</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="446-1"/>
+    <fw type="docNum" place="left">№ 295</fw>
+    <fw type="note">Получено <date when="1800-05-14">14 маія 1800 года</date></fw>
+    <fw type="pageNum" place="right">446</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l>Отъ дѣйствительнаго статскаго совѣтника,</l>
+      <l><persName ref="Фризель">Литовскаго гражданскаго губернатора</persName> и кавалера</l>
+      <l><orgName ref="Литовский_надворный_суд">Литовскому Надворному Суду</orgName></l>
+      <l>Предложеніе._</l>
+    </head>
+    <p>
+      <l>Съ послѣднею почтою получилъ я вновь отъ го-</l>
+      <l>сподина <persName ref="Обольянинов">генерала прокурора</persName> понужденіе, чтобы упо-</l>
+      <l>требилъ я попеченіе свое о скорѣйшемъ окончаніи</l>
+      <l>производящагося въ <orgName ref="Литовский_надворный_суд">Литовскомъ надворномъ судѣ</orgName></l>
+      <l>слѣдствія по жалобамъ отрѣшенныхъ кагальныхъ</l>
+      <l>старшинъ, и чтобы увѣдомилъ его, что по слѣдствіи</l>
+      <l>откроется, и какое заключеніе послѣдуетъ для все-</l>
+      <l>подданнѣйшаго <emph rend="big">Его Императорскомй величеству</emph></l>
+      <l>донесенія. Я сообщаю о семъ <orgName ref="Литовский_надворный_суд">Надворному суду</orgName>, съ тѣмъ</l>
+      <l>дабы благоволилъ, сколь возможно поспѣшилъ проивод-</l>
+      <l>ствомъ сего слѣдствія, и увѣдомилъ меня, что откроет</l>
+      <l>ся и какое сдѣлано будетъ заключеніе, для донесенія</l>
+      <l>Его высокопревосходительству г. генералу прокурору._</l>
+      <l><signed><persName ref="Фризель">Иванъ Фризель</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2509</fw></l>
+      <l><date when="1800-05-12">12. маія 1800</date></l>
+      <l><placeName ref="Вильна">Вильна</placeName></l>
+    </closer>
+    <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-05-15">15<hi rend=
+    "superscript">го</hi> маія</date></fw>
     <pb n="446-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
