@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,40 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract>Почтовый конверт со следом сургучной печати, в котором находилось письмо <persName role="namesViewer"
+      target="/names/Фризель.html">Фризеля</persName> в <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Надворный суд</orgName> (см.:
+      https://app.alter-rebbe.org/collections/lvia1799-178/documents/446.html)</abstract>
+      <creation><date when="1800-05-12">12 мая 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l>Почтовый конверт со следом сургучной печати, в котором находилось письмо <persName role="namesViewer" target=
+      "/names/Фризель.html">Фризеля</persName> в <orgName role="namesViewer" target=
+      "/names/Литовский_надворный_суд.html">Надворный суд</orgName> (см.:
+      https://app.alter-rebbe.org/collections/lvia1799-178/documents/446.html)</l>
+      <l>Дата: 1800-05-12</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p449-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/449.html#p449-1"
     />
+    <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен чернилами и зачеркнут карандашом
+    архивиста</note>
+    <fw type="note" place="left margin">Па</fw>
     <pb xml:id="p449-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/449.html#p449-2"
     />
+    <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен карандашом</note>
+    <head>
+      <l>Отъ <persName role="namesViewer" target="/names/Фризель.html">Литовскаго Гражданскаго Губернатора</persName>
+      </l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскому Надворному Суду</orgName>
+      </l>
+      <l>Предложеніе</l>
+      <l><fw type="docNum">№ 2509</fw></l>
+    </head>
   </body></text>
 </TEI>
