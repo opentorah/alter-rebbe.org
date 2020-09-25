@@ -10,15 +10,13 @@
     <sourceDesc><p>Facsimile</p></sourceDesc>
   </fileDesc></teiHeader>
   <text><body>
-    <head>архив LNA: Национальный архив Латвии (Рига)</head>
-    <span>
-      <l>Latvijas Nacionālais arhīvs, Riga</l>
-      <l><ref target="https://arhivi.gov.lv/">Вебсайт</ref></l>
-    </span>
+    <l>архив <ref role="collectionViewer" target="/by/архив/LNA/index.html">LNA</ref>: Национальный архив Латвии
+    (Рига)</l>
+    <head>фонд 1</head>
     <p>
-      <l>фонд:</l>
-      <list type="bulleted"><item><ref role="collectionViewer" target="/by/архив/LNA/фонд/1/index.html">1</ref></item>
-      </list>
+      <l>опись:</l>
+      <list type="bulleted"><item><ref role="collectionViewer" target="/by/архив/LNA/фонд/1/опись/2/index.html">2</ref>
+      </item></list>
     </p>
   </body></text>
 </TEI>

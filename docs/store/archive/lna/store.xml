@@ -5,11 +5,5 @@
     <l>Latvijas Nacionālais arhīvs, Riga</l>
     <l><ref target="https://arhivi.gov.lv/">Вебсайт</ref></l>
   </abstract>
-  <by selector="fund">
-    <store n="I-2-208">
-      <by selector="case">
-        <store file="208/lna208.xml"/>
-      </by>
-    </store>
-  </by>
+  <by file="fund/by.xml"/>
 </store>
