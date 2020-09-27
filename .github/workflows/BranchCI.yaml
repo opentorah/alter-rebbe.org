@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: "Set up JDK 1.8"
-        uses: actions/setup-java@v1
+        uses: actions/setup-java@master
         with:
           java-version: 1.8
 
@@ -27,12 +27,21 @@ jobs:
       # but no changes get pushed ("Your branch is up to date").
       # When I added `rebase`, I got: "Please tell me who you are. ... user.email ... user.name ..." -
       # looks like defaults do not apply in the `rebase` case, so I set email and name explicitly:
+#      - name: "Commit and push generated changes"
+#        if: success()
+#        uses: github-actions-x/commit@v2.6
+#        with:
+#          commit-message: "Commit and push generated changes"
+#          github-token: ${{ secrets.GITHUB_TOKEN }}
+#          rebase: true
+#          email: "action@github.com"
+#          name: "GitHub Action"
+
+      # this one is from https://github.com/marketplace/actions/git-auto-commit
       - name: "Commit and push generated changes"
         if: success()
-        uses: github-actions-x/commit@v2.6
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit-message: "Commit and push generated changes"
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          rebase: true
-          email: "action@github.com"
-          name: "GitHub Action"
+          commit_message: "Commit and push generated changes"
+          commit_user_name: "GitHub Action"
+          commit_user_email: "action@github.com"
