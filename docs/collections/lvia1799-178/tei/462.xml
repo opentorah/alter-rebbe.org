@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,101 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о повторном требовании у <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевича</persName> не представленных им имен двухъ свидетелей - школьников <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-05-30">1800 года мая 30 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о повторном требовании у <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевича</persName> не представленных им имен двухъ свидетелей - школьников <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1800-05-30</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p462-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/462.html#p462-1"
     />
-    <pb xml:id="p462-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/462.html#p462-2"
-    />
+    <fw type="pageNum" place="right">462.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l><date when="1800-05-30">1800<hi rend="superscript">го</hi> года маія 30<hi rend="superscript">го</hi>
+      дня</date> вжурналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">литовскаго<lb/>
+       Надворнаго суда</orgName> записано,</l>
+      <l><fw type="docNum">№ 3</fw>.</l>
+    </head>
+    <p>
+      <l>Слушали доношеніе господина совѣтника <orgName role="namesViewer" target=
+      "/names/Литовское_губернское_правление.html">литовскаго Гу<lb/>
+       бернскаго правленія</orgName> <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>,
+      въ которомъ прописываетъ,</l>
+      <l>что сей судъ въ сообщеній своемъ присланномъ впомя</l>
+      <l>нутое <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Губернское
+      правленіе</orgName> требовалъ, чтобъ онъ <persName role="namesViewer" target="/names/Елиашевич.html">госпо<lb/>
+       динъ совѣтникъ</persName> изъяснилъ имена двухъ школьниковъ</l>
+      <l>и явился для бытія при приводе свидѣтелей къ присягѣ</l>
+      <l>имъ представленныхъ; а какъ истого сообщенія видно,</l>
+      <l>что не все представленные имъ люди приняты во</l>
+      <l>видетельство, а по какимъ причинамъ въ отношеній над-</l>
+      <l>ворнаго суда не изъяснено, то поелику вѣдать сій</l>
+      <l>причины <persName role="namesViewer" target="/names/Елиашевич.html">ему господину совѣтнику</persName> нужно и
+      законъ</l>
+      <l>не запрещаетъ бявлять подобныхъ положений, для</l>
+      <l>того и просилъ выдать ему копію съ резолюціи о при</l>
+      <l>нятіи или удаленіи всвидетелства людей имъ госпо</l>
+      <l>диномъ совѣтникомъ показанныхъ, также и стакой,</l>
+      <l>которая послѣдуетъ на сие прошение, чтожъ принад-</l>
+      <l>лежитъ до именъ двухъ школниковъ, то поелику онъ</l>
+      <l>сослался на всехъ четырехъ, а болѣе сего числа ихъ</l>
+      <l>въ городѣ <placeName role="namesViewer" target="/names/Вильна.html">вильнѣ</placeName> нѣтъ, то полиция и
+      можетъ</l>
+      <l>ихъ представить хотя бы ей не были изъяснены</l>
+      <l>имена оныхъ которыхъ и самъ онъ господинъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Елишевичъ</persName> не знаетъ. ПРИКАЗАЛИ копію
+      резо</l>
+      <l>люцїи въ семъ судѣ въ 16 день сего майя на прош</l>
+      <l>еніе виленского купца еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">мойжеша оше<lb/>
+       ровича</persName> последовавшей отослать для объявленія</l>
+      <l>оной господину совѣтнику <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевичу</persName>
+      <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">влитов<lb/>
+       ское губернское правленіе</orgName> при сообщеній, <unclear>???</unclear> чтобъ</l>
+      <l>оное благоволило бявить сверхъ онаго господину</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Елиашевичу</persName> <unclear>???</unclear>, дабы
+      онъ о именахъ и прозва</l>
+      <l>нияхъ школниковъ, на которыъ ссылается во свиде</l>
+      <l>тели уведомилъ сей судъ немедленно, <unclear>???</unclear> еже</l>
+      <l>его господина <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName>, что полиция
+      можетъ техъ</l>
+      <l>школниковъ представить хотя бы ей ни былй</l>
+      <pb xml:id="p462-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/462.html#p462-2"/>
+      <fw type="note" place="left margin">кре</fw>
+      <l>изъяснены имена оныхъ, которыхъ и самъ господинъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> не зная ссылается. надворный
+      судъ</l>
+      <l>не можетъ, во первыхъ <unclear>???</unclear>, что допущающіи</l>
+      <l>кого къ присяге и къ свидетелству можетъ и долженъ</l>
+      <l>быть более известенъ о томъ, на кого онъ поло</l>
+      <l>гается, нежели судъ, на которого господинъ совѣ-</l>
+      <l>тникъ <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевичъ</persName> возлагаетъ имена его
+      свиде</l>
+      <l>телей <unclear>??? выправкѣ</unclear>, а во вторыхъ чтобы</l>
+      <l>требуя ихъ высылку отъ полицыи безъ ясного</l>
+      <l>предписания кого именно она должна прислать</l>
+      <l>не сделать въ производствѣ дѣла <unclear>???</unclear> или изъ-</l>
+      <l>лишней переписки, подлинной за подписаниемъ</l>
+      <l>господъ присудствующихъ и за скрепою серетаря</l>
+      <l>павла искрицкого, Секретарь Павелъ <signed>Искрицкий</signed></l>
+    </p>
   </body></text>
 </TEI>
