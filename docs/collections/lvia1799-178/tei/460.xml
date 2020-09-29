@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,73 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу прошения <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровича</persName>, требовавшего отклонить свидетелей, представленных <persName role="namesViewer" target=
+        "/names/Елиашевич.html">Елиашевичем</persName>
+      </p></abstract>
+      <creation><date when="1800-05-23">1800 года мая 23 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о приобщении к делу прошения <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+        >Ошеровича</persName>, требовавшего отклонить свидетелей, представленных <persName role="namesViewer" target=
+        "/names/Елиашевич.html">Елиашевичем</persName>
+      </p></l>
+      <l>Дата: 1800-05-23</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p460-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/460.html#p460-1"
     />
-    <pb xml:id="p460-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/460.html#p460-2"
-    />
+    <fw type="docNum">460</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <head>
+      <l><date when="1800-05-23">1800<hi rend="superscript">го</hi> года маія 23<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Ли-<lb/>
+       товскаго Надворнаго Суда</orgName> записано <emph rend="underline"><fw type="docNum">№ 7<hi rend="superscript"
+      >и</hi></fw></emph></l>
+    </head>
+    <p>
+      <l>Слушали прошеніе виленскаго купца еврея</l>
+      <l><persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName>, въ которомъ
+      прописывая,</l>
+      <l>что евреи къ свидѣтельству со стороны госпо-</l>
+      <l>дина совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>
+      поставляемыя,</l>
+      <l>не могутъ быть къ оному допущены, поелику</l>
+      <l>они послѣ произшествія случившагося въ еврей-</l>
+      <l>ской школѣ, о которомъ въ семъ судѣ произ-</l>
+      <l>водится дѣло, въ пятнадцать месяцовъ</l>
+      <l>отважились, неизвѣстно по чьему наущенію,</l>
+      <l>записать въ канцеляріи виленскаго грод-</l>
+      <l>скаго суда противу свидѣтелей его <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровича</persName></l>
+      <l>явочную жалобу, которая въ доказатель-</l>
+      <l>ство при нынѣшнемъ прошеніи въ копіи пред-</l>
+      <l>ставляется; проситъ по изъясненной при-</l>
+      <l>чинѣ помянутыхъ представляемыхъ со сто-</l>
+      <l>роны совѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> свидѣтелей</l>
+      <l>къ свидѣтельству не допустить. ПРИКАЗАЛИ:</l>
+      <l>какъ односительно упоминаемыхъ въ семъ</l>
+      <l>прошеніи представленныхъ со стороны со-</l>
+      <l>вѣтника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> свидѣтелей
+      сдѣлано</l>
+      <l>уже въ семъ Судѣ въ <date when="1800-05-16">16<hi rend="superscript">и</hi> день текущаго маія</date></l>
+      <pb xml:id="p460-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/460.html#p460-2"/>
+      <fw type="note" place="left margin">Па</fw>
+      <l>положеніе; то и приобщать оное прошеніе</l>
+      <l>вмѣстѣ съ приложенною при немъ явоч-</l>
+      <l>ною жалобою къ дѣлу. Подлинно за</l>
+      <l>подписаніемъ господъ присудствующихъ и</l>
+      <l>за скрепою секретаря Павла искрицкаго.</l>
+    </p>
   </body></text>
 </TEI>
