@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,24 +15,130 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Сообщение <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> в <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Литовский надворный судъ</orgName> о именах
+        свидетелей - кагальных школьников, а также об отказе присутствовать при их приведении к присяге
+      </p></abstract>
+      <creation><date when="1800-06-12">Июня 12 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Сообщение <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> в <orgName role=
+        "namesViewer" target="/names/Литовский_надворный_суд.html">Литовский надворный судъ</orgName> о именах
+        свидетелей - кагальных школьников, а также об отказе присутствовать при их приведении к присяге
+      </p></l>
+      <l>Дата: 1800-06-12</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p474-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/474.html#p474-1"
     />
-    <pb xml:id="p474-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/474.html#p474-2"
-    />
-    <pb xml:id="p475-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/474.html#p475-1"
-    />
+    <fw type="docNum" place="left">№ 350</fw>
+    <fw type="note">Получено <date when="1800-06-12">12<hi rend="superscript">го</hi> јюня 1800<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">474.</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <head>
+      <l>Въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскій губернскій надворный
+      судъ</orgName></l>
+      <l>отъ совѣтника <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго
+      губерн<lb/>
+       скаго правленія</orgName> <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName></l>
+    </head>
+    <p>
+      <l>Нолуча присланную изъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскаго
+      надворнаго<lb/>
+       суда</orgName> копію резолюціи состоявшейся во ономъ</l>
+      <l>касательно свидѣтелей мною представленныхъ</l>
+      <l>я войсполненіе воли <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскаго
+      надворнаго<lb/>
+       суда</orgName> узнавъ имена школьниковъ къ</l>
+      <l>свидѣтельству назначаемыхъ извѣщаю что</l>
+      <l>они называются <persName role="namesViewer" target="/names/Мовша_Мордохович.html">Мовша Мордуховичъ</persName>
+      </l>
+      <l>Герцыкъ Гиршовичъ Моижешъ <hi rend="superscript">Ароновичъ</hi> Сегаль<note place="end">вероятно, от "сеган
+      левия"</note> Ицка</l>
+      <l>Лейбовичъ Чтожъ принадлежитъ до</l>
+      <l>требованія <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Суда</orgName> чтобъ быть
+      мнѣ при</l>
+      <l>приводѣ ихъ къ присягѣ то поелику</l>
+      <l>большая часть свидѣтелей на коихъ я</l>
+      <l>ссылался не допускается уже къ послуше</l>
+      <l>ствованію по подозреніямъ жида ошеровича</l>
+      <l>то и уверенъ я что онъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичъ</persName>
+      конечно</l>
+      <l>наидетъ средствы къ отвлеченію остальныхъ</l>
+      <l>свидѣтелей отъ показанія истинны преклоня</l>
+      <l>ихъ на свою сторону, что учинить</l>
+      <pb xml:id="p474-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/474.html#p474-2"/>
+      <l>ему нетрудно погрозивъ херимнымъ про</l>
+      <l>клятіемъ записаніемъ въ черную книгу</l>
+      <l>и тому подобнымъ. Имѣя къ тому удобное</l>
+      <l>вермя данное отъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскаго
+      надворнаго<lb/>
+       суда</orgName> на представленіе какихъ то дока</l>
+      <l>зательствъ о худыхъ поступкахъ евреевъ</l>
+      <l>Ицки Марковича и прочихъ, кой естлибы</l>
+      <l>у него были то долженъ былъ тотчасъ</l>
+      <l>представить не отвлекая вдаль и не за</l>
+      <l>путывая производства дѣла Но онъ вмѣ</l>
+      <l>сто того стараясь елико возможно отъ</l>
+      <l>далять оное отъ окончанія Клевещетъ</l>
+      <l>будто бы я чрезъ .6. мѣсяцовъ не предста</l>
+      <l>влялъ свидѣтелей пока <orgName role="namesViewer" target="/names/Хасиды.html">каролины</orgName> оныхъ</l>
+      <l>не выискали. Самъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворный
+      судъ</orgName> мо</l>
+      <l>жетъ удостоверить о несправедливости</l>
+      <l>сего <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName> показанія ибо изъ
+      произ</l>
+      <l>водства дѣла въ ономъ имѣющагося</l>
+      <l>видно, что всѣ отъ меня требованное до</l>
+      <l>ставлено въ возможно скорѣйшемъ времени</l>
+      <l>и коль скоро услышалъ я отъ построннихъ</l>
+      <l>и честныхъ особъ что есть люди могущіе</l>
+      <pb xml:id="p475-1" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/474.html#p475-1"/>
+      <fw type="pageNum" place="right">475</fw>
+      <fw type="note" place="left margin">Ис</fw>
+      <l>обнаружить поклепъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName> и
+      лжесвидѣтельство</l>
+      <l>представленныхъ отъ него свидѣтелей тотъ</l>
+      <l>часъ извѣстилъ о томъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскій
+      надворный<lb/>
+       судъ</orgName> А какъ я нынѣ изъ резолюціи онаго</l>
+      <l>суда вижу что еврей Абрамъ Іоселїовичъ,</l>
+      <l>Шмуила Марковичъ давали <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName>
+      какую то</l>
+      <l>довѣренность, то и опасаюсь пристрастія</l>
+      <l>ихъ къ нему <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровичу</persName> Сослался на
+      нихъ я</l>
+      <l>не зная о семъ вовсѣ. Сверъ сего одинъ изъ</l>
+      <l>сихъ людей и имянно Шмоила Марковичъ</l>
+      <l>какъ я увѣдомляюсь находится нынѣ</l>
+      <l>по надобностямъ своймъ за границею, то</l>
+      <l>и прошу <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Губернскій надворный
+      судъ</orgName> поспѣ</l>
+      <l>шить окончаніемъ дѣла, а посему отно</l>
+      <l>сительно присяги можетъ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">судъ</orgName>
+      велѣть</l>
+      <l>учинить оную и безъ бытности моей по</l>
+      <l>елику я не сомневаюсь что они къ присягѣ</l>
+      <l>привѣдены не будутъ, но опасаюсь ухищренія</l>
+      <l>и наговоровъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Ошеровича</persName>, которой
+      примѣтно</l>
+      <l>во всемъ успѣваетъ._</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскаго губернскаго
+      правленія</orgName> совѣтникъ <signed><persName role="namesViewer" target="/names/Елиашевич.html">Федоръ
+      Еліашевичъ</persName></signed></l>
+    </p>
+    <closer place="left"><l><date when="1800-06-12">Июня 12 дня<lb/>
+     1800 года</date>.</l></closer>
     <pb xml:id="p475-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/474.html#p475-2"/>
   </body></text>
