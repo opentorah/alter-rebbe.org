@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,77 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о повторном требовании к <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевичу</persName> явиться для присутствия при присяге представленных им свидетелей и указать имена четырех
+        кагальных школьников
+      </p></abstract>
+      <creation><date when="1800-06-11">1800 года июня 11 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Решение <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> о повторном требовании к <persName role="namesViewer" target="/names/Елиашевич.html"
+        >Елиашевичу</persName> явиться для присутствия при присяге представленных им свидетелей и указать имена четырех
+        кагальных школьников
+      </p></l>
+      <l>Дата: 1800-06-11</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p472-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/472.html#p472-1"
     />
-    <pb xml:id="p472-2" rendition="missing-empty-page" role="facsimileViewer" target=
-    "/collections/lvia1799-178/facs/472.html#p472-2"/>
+    <fw type="pageNum" place="right">472.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1800-06-11">1800<hi rend="superscript">го</hi> года јюня 11<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       Надворнаго Суда</orgName> записано. <fw type="docNum">№ 5<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Имѣли разсужденіе, что <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей Надворный
+      судъ</orgName> по дѣлу</l>
+      <l>въ ономъ производящемуся по жалобѣ еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Мойже-<lb/>
+       ша Ошеровича</persName>, о причиненныхъ якобы въ школѣ ев-</l>
+      <l>реямъ побояхъ, сообщилъ <date when="1800-05-25">25<hi rend="superscript">го</hi> минувшаго маія</date> въ
+      <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Ли-<lb/>
+       товское губернское правленіе</orgName>, объ объявленіи господину</l>
+      <l>совѣтнику <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичу</persName>, дабы онъ явился въ
+      <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей судъ</orgName></l>
+      <l>самъ, или прислалъ повѣреннаго для бытія</l>
+      <l>при приводѣ къ присягѣ представленныхъ имъ го-</l>
+      <l>сподиномъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичемъ</persName> свидѣтелеи, такъ
+      же</l>
+      <l>объяснилъ бы какъ по именамъ и прозваніямъ</l>
+      <l>четырѣ школььника а въ <date when="1800-06-01">1<hi rend="superscript">и</hi> день сего јюня</date>
+      препрово-</l>
+      <l>дилъ въ то Губернское правленіе по требованію го-</l>
+      <l>сподина <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName> копію резолюціи своей
+      въ 16и</l>
+      <l>день маія послѣдовавшей, однако господинъ совѣ-</l>
+      <l>тникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> въ продолженіи столь
+      довольнаго</l>
+      <l>времени, <persName role="namesViewer" target="/names/Елиашевич.html">требованія</persName> <orgName role=
+      "namesViewer" target="/names/Литовский_надворный_суд.html">сего Надворнаго суда</orgName> не выполъ-</l>
+      <l>нилъПРИКАЗАЛИ: въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское
+      губернское<lb/>
+       правленіе</orgName> <hi rend="superscript">вторично</hi> сообщить, чтобы оное благоволило го-</l>
+      <l>сподину совѣтнику <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичу</persName> подтвердить
+      о</l>
+      <l>немеедленной дачѣ свѣденія о школьникахъ, и о явкѣ</l>
+      <pb xml:id="p472-2" rendition="missing-empty-page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/472.html#p472-2"/>
+      <l>его, или его повѣреннаго къ бытію при при-</l>
+      <l>сягѣ свидѣтелей. подлинной за подписаніемъ</l>
+      <l>господъ присудствующихъ и за скрепою секре-</l>
+      <l>таря павла искрицкаго. Протоколистъ <signed>Ј. Волковъ</signed></l>
+      <l>Съ подлиннымъ свѣрялъ переводчикъ <signed>Јосифъ Фалькъ</signed></l>
+    </p>
   </body></text>
 </TEI>

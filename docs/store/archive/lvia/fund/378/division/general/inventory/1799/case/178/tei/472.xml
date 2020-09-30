@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Решение <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> о повторном требовании к
+        <persName ref="Елиашевич">Елиашевичу</persName> явиться для присутствия при присяге представленных им свидетелей
+        и указать имена четырех кагальных школьников
+      </p></abstract>
+      <creation><date when="1800-06-11">1800 года июня 11 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="472-1"/>
-    <pb n="472-2" missing="true" empty="true"/>
+    <fw type="pageNum" place="right">472.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1800-06-11">1800<hi rend="superscript">го</hi> года јюня 11<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
+       Надворнаго Суда</orgName> записано. <fw type="docNum">№ 5<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Имѣли разсужденіе, что <orgName ref="Литовский_надворный_суд">сей Надворный судъ</orgName> по дѣлу</l>
+      <l>въ ономъ производящемуся по жалобѣ еврея <persName ref="Мовша_Ошерович">Мойже-<lb/>
+       ша Ошеровича</persName>, о причиненныхъ якобы въ школѣ ев-</l>
+      <l>реямъ побояхъ, сообщилъ <date when="1800-05-25">25<hi rend="superscript">го</hi> минувшаго маія</date> въ
+      <orgName ref="Литовское_губернское_правление">Ли-<lb/>
+       товское губернское правленіе</orgName>, объ объявленіи господину</l>
+      <l>совѣтнику <persName ref="Елиашевич">Еліашевичу</persName>, дабы онъ явился въ <orgName ref=
+      "Литовский_надворный_суд">сей судъ</orgName></l>
+      <l>самъ, или прислалъ повѣреннаго для бытія</l>
+      <l>при приводѣ къ присягѣ представленныхъ имъ го-</l>
+      <l>сподиномъ <persName ref="Елиашевич">Еліашевичемъ</persName> свидѣтелеи, такъ же</l>
+      <l>объяснилъ бы какъ по именамъ и прозваніямъ</l>
+      <l>четырѣ школььника а въ <date when="1800-06-01">1<hi rend="superscript">и</hi> день сего јюня</date>
+      препрово-</l>
+      <l>дилъ въ то Губернское правленіе по требованію го-</l>
+      <l>сподина <persName ref="Елиашевич">Еліашевича</persName> копію резолюціи своей въ 16и</l>
+      <l>день маія послѣдовавшей, однако господинъ совѣ-</l>
+      <l>тникъ <persName ref="Елиашевич">Еліашевичъ</persName> въ продолженіи столь довольнаго</l>
+      <l>времени, <persName ref="Елиашевич">требованія</persName> <orgName ref="Литовский_надворный_суд">сего Надворнаго
+      суда</orgName> не выполъ-</l>
+      <l>нилъПРИКАЗАЛИ: въ <orgName ref="Литовское_губернское_правление">Литовское губернское<lb/>
+       правленіе</orgName> <hi rend="superscript">вторично</hi> сообщить, чтобы оное благоволило го-</l>
+      <l>сподину совѣтнику <persName ref="Елиашевич">Еліашевичу</persName> подтвердить о</l>
+      <l>немеедленной дачѣ свѣденія о школьникахъ, и о явкѣ</l>
+      <pb n="472-2" missing="true" empty="true"/>
+      <l>его, или его повѣреннаго къ бытію при при-</l>
+      <l>сягѣ свидѣтелей. подлинной за подписаніемъ</l>
+      <l>господъ присудствующихъ и за скрепою секре-</l>
+      <l>таря павла искрицкаго. Протоколистъ <signed>Ј. Волковъ</signed></l>
+      <l>Съ подлиннымъ свѣрялъ переводчикъ <signed>Јосифъ Фалькъ</signed></l>
+    </p>
   </body></text>
 </TEI>
