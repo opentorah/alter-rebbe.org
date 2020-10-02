@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,115 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Решениие <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> затребовать у <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+        >Губернского правления</orgName> оригинал или копию распоряжений генерал-губернатора <persName role=
+        "namesViewer" target="/names/Лассий.html">Лассия</persName> об отстранении кагальных старшин и изъятии
+        приходно-расходных книг <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-06-26">1800 года июня 26 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Решениие <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовского надворного
+        суда</orgName> затребовать у <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+        >Губернского правления</orgName> оригинал или копию распоряжений генерал-губернатора <persName role=
+        "namesViewer" target="/names/Лассий.html">Лассия</persName> об отстранении кагальных старшин и изъятии
+        приходно-расходных книг <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName>
+      </p></l>
+      <l>Дата: 1800-06-26</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p486-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/486.html#p486-1"
     />
-    <pb xml:id="p486-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/486.html#p486-2"
-    />
+    <fw type="pageNum" place="right">486.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l><date when="1800-06-26">1800<hi rend="superscript">го</hi> года јюня 26<hi rend="superscript">го</hi>
+      дня</date> въ Журналѣ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго
+      Надворнаго<lb/>
+       Суда</orgName> записано._</l>
+      <l><fw type="docNum">№ 3<hi rend="superscript">и</hi></fw></l>
+    </head>
+    <p>
+      <l>Имѣли разсужденіе, что при сочиненіи выписки изъ дѣла про-</l>
+      <l>изводящагося въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">семъ судѣ</orgName> по
+      жалобѣ еврея <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мойжеша Ошеровича</persName>,</l>
+      <l>принесенной къ <persName role="namesViewer" target="/names/Беклешов.html">бывшему господину генералъ
+      прокурору</persName> на притѣ</l>
+      <l>сненіи и побой евреямъ причиненныя, оказалось, что <orgName role="namesViewer" target=
+      "/names/Литовское_губернское_правление.html">Литовскаго<lb/>
+       губернскаго правленія</orgName> господинъ совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевичъ</persName> и гу-</l>
+      <l>бернскій казначей Сербиновичъ въ объясненіяхъ о оправданіяхъ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">симъ Надворнымъ судомъ</orgName> отъ
+      нихъ истребованныхъ ссылаются</l>
+      <l>на ордеръ бывшаго въ <placeName role="namesViewer" target="/names/Литва.html">Литовской губерніи</placeName>
+      генералъ губерна-</l>
+      <l>тора господина генерала отъ инфантеріи и кавалера</l>
+      <l><persName role="namesViewer" target="/names/Лассий.html">Лассія</persName>, данный бывшему въ <placeName role=
+      "namesViewer" target="/names/Вильна.html">Вильнѣ</placeName> коменданту господину</l>
+      <l>отъ артиллеріи генералъ маїору <persName role="namesViewer" target="/names/Капцевич.html">Капцевичу</persName>,
+      которымъ назан</l>
+      <l>чены они господа <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> и
+      Сербиновичъ ему <persName role="namesViewer" target="/names/Капцевич.html">Капцевичу</persName> въ</l>
+      <l>помощь къ отправленію поручаемаго въ томъ ордѣрѣ изъ</l>
+      <l>слѣдованія о приходахъ и расходахъ денегъ, собираемыхъ <orgName role="namesViewer" target=
+      "/names/Виленский_кагал.html">ви-<lb/>
+       ленскаго кагала</orgName> старшинами съ общества и прочаго,</l>
+      <l>и по силѣ котораго были они <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> и
+      Сербиновичъ</l>
+      <l>вмѣстѣ съ комендантомъ <persName role="namesViewer" target="/names/Капцевич.html">Капцевичемъ</persName> въ
+      еврейской</l>
+      <l>школѣ. Гдѣ <note type="gloss">|: какъ <persName role="namesViewer" target="/names/Мовша_Ошерович.html"
+      >Ошеровичъ</persName> жалуется :|</note> причинены</l>
+      <l>евреямъ обиды донося, что помянутыи ордеръ не былъ</l>
+      <l>въ школѣ сказанными чиновниками читанъ и не дано</l>
+      <l>съ онаго по прозбѣ евреевъ имъ копій, и что бывшій го-</l>
+      <l>сподинъ генералъ губернаторъ и кавалеръ <persName role="namesViewer" target="/names/Лассий.html"
+      >Лассіи</persName> вто-</l>
+      <l>ричнымъ своимъ даннымъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Литовскому губернскому<lb/>
+       правленію</orgName> <date when="1799-02-04">4<hi rend="superscript">го</hi> февраля</date> Предложеніемъ
+      воздержалъ послѣдо</l>
+      <l>вавшія прежде онаго предложенія предписанія._ ПРИКАЗАЛИ:</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскому губернскому
+      правленію</orgName> сообщить дабы благо-</l>
+      <l>волило учинить у себя выправку, не отыщется ли въ ономъ</l>
+      <pb xml:id="p486-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/486.html#p486-2"/>
+      <l>ордера даннаго бывшему господину коменданту <persName role="namesViewer" target="/names/Капцевич.html"
+      >Капцевичу</persName></l>
+      <l>по предмѣту забора у старшинъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго
+      кагала</orgName> книгъ</l>
+      <l>о приходахъ и расходахъ или не имѣетъ ли съ таковаго ор-</l>
+      <l>дера копіи господинъ совѣтникъ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >онаго Правленія</orgName> <persName role="namesViewer" target="/names/Елиашевич.html">Елїа<lb/>
+       шевичъ</persName>? И естли оной будетъ наиденъ, доставило бы <orgName role="namesViewer" target=
+      "/names/Литовское_губернское_правление.html">Прав<lb/>
+       леніе</orgName> его въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворный
+      судъ</orgName> въ самой скорости, яко</l>
+      <l>нужныи къ поясненію вышеписаннаго дѣла, причемъ</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">оное Губернское
+      правленіе</orgName> не оставило бы и съ предложе-</l>
+      <l>нія <persName role="namesViewer" target="/names/Лассий.html">бывшаго господина генералъ губернатора</persName>
+      касательно</l>
+      <l>воздержанія исполненія по прежде даннымъ предписа-</l>
+      <l>ніямъ какія только въ ономъ въполученій ни состо-</l>
+      <l>ятъ, прислать въ <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">сей судъ</orgName>
+      засвидѣтельствованные копіи.</l>
+      <l>Подлинной за подписаніемъ господъ присудствующихъ</l>
+      <l>и за скрепою секретаря Павла искрицкаго._</l>
+      <l>Протоколистъ <signed>Ј. Волковъ</signed>.</l>
+      <l>Съ подлиннымъ сверялъ переводчикъ <signed>Јосифъ Фалькъ</signed>.</l>
+    </p>
   </body></text>
 </TEI>
