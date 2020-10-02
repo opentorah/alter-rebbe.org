@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-02-04">4 день февраля 1799 года</date></creation>
+    <abstract><p>Протокол допроса свидетеля - кагального школьника Герцика Гиршовича о событиях при отстранении кагальных старшин</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="481-1"/>
+    <fw type="pageNum" place="right">481.</fw>
+    <fw type="note" place="left margin">Па-</fw>
+    <head>
+    <l><date when="1800-06-22">1800<hi rend="superscript">го</hi> года јюня 22<hi rend="superscript">го</hi> дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд">Ли-<lb/>
+    товскаго Надворнаго Суда</orgName> <orgName ref="Виленский_кагал">ев-<lb/>
+    рейскаго кагала</orgName> школьникъ Герцыкъ Гир-</l>
+<l>шовичъ по приведенцѣ резолюціи</l>
+<l>въ <date when="1800-05-16">16<hi rend="superscript">и</hi> день маія</date> послѣдовавшей къ при-</l>
+<l>сягѣ, будучи допрашиванъ показалъ:</l>
+</head>
+    <p>
+    <l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799<hi rend="superscript">го</hi> года</date> въ ев-</l>
+<l>рейской школѣ во время нахожденія тамъ</l>
+<l>господъ коменданта <persName ref="Капцевич">Капцевича</persName>, совѣт-</l>
+<l>ника <persName ref="Елиашевич">Еліашевича</persName>, губернскаго казначея</l>
+<l>Сербиновича и другихъ былъ и я. какъ</l>
+<l>скоро означенные чиновники вошли въ</l>                                    
+<l>ту школу, то кажется мнѣ, что комен-</l>                      
+<l>дантъ <persName ref="Капцевич">Капцевичъ</persName> приказалъ, чтобы бы-</l>
+<l>ло въ оной тихо, но точно ли онъ или</l>
+<l>кто другой, не упомню. Потомъ не знаю,</l>
+<l>которой изъ означенныхъ чиновниковъ</l>
+<l>говорилъ къ бывшимъ кагальнымъ чле-</l>
+<l>намъ, что на на мѣста ихъ выбраны бу-</l>
+<l>дутъ другіе, и господинъ <persName ref="Капцевич">комендантъ</persName></l>
+<l>тотъ же часъ приказалъ мнѣ и моимъ</l>
+<l>товарищамъ школьникамъ, чтобы</l>
+<l>учинить выборъ по еврейскимъ обря-</l>
+<l>дамъ. Билъ же ли господинъ совѣтникъ</l>
+<l><persName ref="Елиашевич">Еліашевичъ</persName> кого изъ евреевъ, за что, и</l>
+<l>чѣмъ, также что притомъ гово-</l>
+<l>рилъ я не видалъ и не слыхалъ. Ибо</l>
+<l>сей часъ вышли изъ школы въ кагаль-</l>
+<l>ной домъ. И сіе показалъ я по су-</l>
+<l>щей справедливости.</l>
+<l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+</p>
     <pb n="481-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
