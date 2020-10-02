@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,66 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Протокол допроса свидетеля - кагального школьника Герцика Гиршовича о событиях при отстранении кагальных старшин
+      </p></abstract>
+      <creation><date when="1799-02-04">4 день февраля 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Протокол допроса свидетеля - кагального школьника Герцика Гиршовича о событиях при отстранении кагальных старшин
+      </p></l>
+      <l>Дата: 1799-02-04</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p481-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/481.html#p481-1"
     />
+    <fw type="pageNum" place="right">481.</fw>
+    <fw type="note" place="left margin">Па-</fw>
+    <head>
+      <l><date when="1800-06-22">1800<hi rend="superscript">го</hi> года јюня 22<hi rend="superscript">го</hi>
+      дня</date> въ присудствіи <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Ли-<lb/>
+       товскаго Надворнаго Суда</orgName> <orgName role="namesViewer" target="/names/Виленский_кагал.html">ев-<lb/>
+       рейскаго кагала</orgName> школьникъ Герцыкъ Гир-</l>
+      <l>шовичъ по приведенцѣ резолюціи</l>
+      <l>въ <date when="1800-05-16">16<hi rend="superscript">и</hi> день маія</date> послѣдовавшей къ при-</l>
+      <l>сягѣ, будучи допрашиванъ показалъ:</l>
+    </head>
+    <p>
+      <l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля 1799<hi rend="superscript">го</hi>
+      года</date> въ ев-</l>
+      <l>рейской школѣ во время нахожденія тамъ</l>
+      <l>господъ коменданта <persName role="namesViewer" target="/names/Капцевич.html">Капцевича</persName>, совѣт-</l>
+      <l>ника <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевича</persName>, губернскаго
+      казначея</l>
+      <l>Сербиновича и другихъ былъ и я. какъ</l>
+      <l>скоро означенные чиновники вошли въ</l>
+      <l>ту школу, то кажется мнѣ, что комен-</l>
+      <l>дантъ <persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName> приказалъ, чтобы бы-</l>
+      <l>ло въ оной тихо, но точно ли онъ или</l>
+      <l>кто другой, не упомню. Потомъ не знаю,</l>
+      <l>которой изъ означенныхъ чиновниковъ</l>
+      <l>говорилъ къ бывшимъ кагальнымъ чле-</l>
+      <l>намъ, что на на мѣста ихъ выбраны бу-</l>
+      <l>дутъ другіе, и господинъ <persName role="namesViewer" target="/names/Капцевич.html">комендантъ</persName></l>
+      <l>тотъ же часъ приказалъ мнѣ и моимъ</l>
+      <l>товарищамъ школьникамъ, чтобы</l>
+      <l>учинить выборъ по еврейскимъ обря-</l>
+      <l>дамъ. Билъ же ли господинъ совѣтникъ</l>
+      <l><persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> кого изъ евреевъ, за что,
+      и</l>
+      <l>чѣмъ, также что притомъ гово-</l>
+      <l>рилъ я не видалъ и не слыхалъ. Ибо</l>
+      <l>сей часъ вышли изъ школы въ кагаль-</l>
+      <l>ной домъ. И сіе показалъ я по су-</l>
+      <l>щей справедливости.</l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+    </p>
     <pb xml:id="p481-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/481.html#p481-2"/>
   </body></text>
