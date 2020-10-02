@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-06-22">1800 года июня 22 дня</date></creation>
-    <abstract><p>Протокол допроса свидетеля Ицки Лейбовича</p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>Протокол допроса свидетеля Ицки Лейбовича</p></abstract>
+      <creation><date when="1800-06-22">1800 года июня 22 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="480-1"/>
     <fw type="pageNum" place="right">480.</fw>
-<fw type="note" place="left margin">тарь</fw>  
-<head>
-<l><date when="1800-06-22">1800<hi rend="superscript">го</hi> года јюня 22<hi rend="superscript">го</hi> дня</date>. въ присудствіи <orgName ref="Литовский_надворный_суд">Литовскаго над-<lb/>
-ворнаго суда</orgName> <orgName ref="Виленский_кагал">виленскаго кагала</orgName> школьникъ Ицка Лейбо-</l>
-<l>вичъ по приведеніи его по силѣ резолюціи въ <date when="1800-05-16">16<hi rend="superscript">и</hi> день маія</date></l>
-<l>послѣдовавшей къ присягѣ, будучи спрашиваемъ показалъ:</l>
-</head>
-<p>
-<l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля прошлаго 1799<hi rend="superscript">го</hi> года</date> въ то время</l>
-<l>когда въ еврейской школѣ находились господа: комендантъ</l>
-<l><persName ref="Капцевич">Капцевичъ</persName>, совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName>, губернскій казначей Серби-</l>
-<l>новичъ и прочіе, былъ и я въ той же школѣ не упомню, такъ</l>
-<l>какъ о произшествіяхъ въ той школѣ случившихся, то</l>
-<l>есть билъ ли господинъ совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> кого изъ</l>
-<l>евреевъ, ругалъ ли, останавливалъ ли богомоленіе</l>
-<l>и что при томъ говорилъ также по старости моихъ</l>
-<l>лѣтъ не упомню. И сіе показалъ я по сущей справед-</l>
-<l>ливости и ничего не утаилъ. <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
-</p>  
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+      <l><date when="1800-06-22">1800<hi rend="superscript">го</hi> года јюня 22<hi rend="superscript">го</hi>
+      дня</date>. въ присудствіи <orgName ref="Литовский_надворный_суд">Литовскаго над-<lb/>
+       ворнаго суда</orgName> <orgName ref="Виленский_кагал">виленскаго кагала</orgName> школьникъ Ицка Лейбо-</l>
+      <l>вичъ по приведеніи его по силѣ резолюціи въ <date when="1800-05-16">16<hi rend="superscript">и</hi> день
+      маія</date></l>
+      <l>послѣдовавшей къ присягѣ, будучи спрашиваемъ показалъ:</l>
+    </head>
+    <p>
+      <l>Что въ <date when="1799-02-04">4<hi rend="superscript">и</hi> день февраля прошлаго 1799<hi rend="superscript"
+      >го</hi> года</date> въ то время</l>
+      <l>когда въ еврейской школѣ находились господа: комендантъ</l>
+      <l><persName ref="Капцевич">Капцевичъ</persName>, совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName>,
+      губернскій казначей Серби-</l>
+      <l>новичъ и прочіе, былъ и я въ той же школѣ не упомню, такъ</l>
+      <l>какъ о произшествіяхъ въ той школѣ случившихся, то</l>
+      <l>есть билъ ли господинъ совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> кого изъ</l>
+      <l>евреевъ, ругалъ ли, останавливалъ ли богомоленіе</l>
+      <l>и что при томъ говорилъ также по старости моихъ</l>
+      <l>лѣтъ не упомню. И сіе показалъ я по сущей справед-</l>
+      <l>ливости и ничего не утаилъ. <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note>
+      </l>
+    </p>
     <pb n="480-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
