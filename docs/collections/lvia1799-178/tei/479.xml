@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,21 +15,69 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Протокол допроса свидетеля Мовши Ароновича Сегаля о событиях при отстранении старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-06-22">1800 года јюня 22 дня</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Протокол допроса свидетеля Мовши Ароновича Сегаля о событиях при отстранении старшин <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1800-06-22</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p479-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/479.html#p479-1"
     />
-    <pb xml:id="p479-2" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/479.html#p479-2"
-    />
+    <fw type="pageNum" place="right">479</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><date when="1800-06-22">1800 года јюня 22<hi rend="superscript">го</hi> дня</date> въ присудствіи <orgName
+      role="namesViewer" target="/names/Литовский_надворный_суд.html">Литовскаго<lb/>
+       Надворнаго Суда</orgName> <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго
+      кагала</orgName> школьникъ</l>
+      <l>Мойжешъ Ароновичъ Сегаль по приведеніи</l>
+      <l>его по силѣ резолюціи въ <date when="1800-05-16">16<hi rend="superscript">й</hi> день маія</date> по-</l>
+      <l>слйѣ, будучи спрашиванъ</l>
+      <l>показалъ</l>
+    </head>
+    <p>
+      <l>Что въ <date when="1799-02-04">4<hi rend="superscript">й</hi> день февраля прошлаго 1799<hi rend="superscript"
+      >го</hi> года</date></l>
+      <l>въ еврейской школѣ, былъ я въ то время ко-</l>
+      <l>гда въ оной находились господа вилен-</l>
+      <l>скій комендантъ <persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName> совѣт-</l>
+      <l>никъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>, губернскій казначей</l>
+      <l>Сербиновичъ и прочіе. Въ той школѣ</l>
+      <l>было тогда остановлено богомоленіе</l>
+      <l>но кѣмъ не знаю. По прекращеніи</l>
+      <l>же онаго комендантъ <persName role="namesViewer" target="/names/Капцевич.html">Капцевичъ</persName></l>
+      <l>и совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName> объявляли</l>
+      <l>бывшимъ кагальнымъ членамъ что</l>
+      <l>по приказанію господина <persName role="namesViewer" target="/names/Лассий.html">генералъ<lb/>
+       губернатора</persName> они кагальные члены</l>
+      <l>удаляются отъ должностей что</l>
+      <pb xml:id="p479-2" rendition="page" role="facsimileViewer" target=
+      "/collections/lvia1799-178/facs/479.html#p479-2"/>
+      <l>на мѣста ихъ будутъ выбраны другіе, и что</l>
+      <l>приказано имъ забрать книги. Билъ</l>
+      <l>же ли сихъ членовъ господинъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичъ</persName>
+      за</l>
+      <l>что и чѣмъ я не видалъ по много</l>
+      <l>людности тогда въ школѣ бывшей</l>
+      <l>а только слышалъ что въ въ сердцахъ</l>
+      <l>ударилъ кагальнаго старшину <persName role="namesViewer" target="/names/Мовша_Ошерович.html">Мой<lb/>
+       жеша Ошеровича</persName> но за что и чѣмъ</l>
+      <l>того мнѣ пересказываемо не было.</l>
+      <l>И сіе показалъ по самой сущей</l>
+      <l>справедливости <signed>???</signed><note place="end">подпись на иврите</note></l>
+    </p>
   </body></text>
 </TEI>
