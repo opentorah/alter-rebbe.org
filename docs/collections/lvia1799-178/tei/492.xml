@@ -2,7 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Лопухин.html">Петр<lb/>
+         Лопухин</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +16,74 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Копия Ордера (распоряжения) <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> о
+        расследовании действий старшин <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName>
+      </p></abstract>
+      <creation><date when="1799-02-18">февраля 18 дня 1799 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Копия Ордера (распоряжения) <persName role="namesViewer" target="/names/Лопухин.html">Лопухина</persName> о
+        расследовании действий старшин <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленского
+        кагала</orgName>
+      </p></l>
+      <l>Дата: 1799-02-18</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Лопухин.html">Петр<lb/>
+       Лопухин</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p492-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/492.html#p492-1"
     />
+    <fw type="note" place="left">Копїя</fw>
+    <fw type="pageNum" place="right">492.</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <head>
+      <l>ОРДЕРЪ</l>
+      <l>Правящему въ <placeName role="namesViewer" target="/names/Литва.html">Литовской губернїи</placeName>
+      должность</l>
+      <l>губернскаго прокурора господину советнику <persName role="namesViewer" target="/names/Елиашевич.html">Елїа<lb/>
+       шевичу</persName>_.</l>
+    </head>
+    <p>
+      <l>Видевъ изъ рапорта вашего, что по извѣтамъ</l>
+      <l>евреевъ на <orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскїй кагалъ</orgName> о утайкѣ
+      большаго</l>
+      <l>количества при подачѣ ревизскихъ сказокъ</l>
+      <l>мужеска пола евреевъ и о недозволенныхъ зборахъ</l>
+      <l>тѣмъ <orgName role="namesViewer" target="/names/Виленский_кагал.html">кагаломъ</orgName> съ съ евреевъ
+      взыскиваемыхъ, прои</l>
+      <l>зводится изъследованїе, я за нужное почитаю</l>
+      <l>предписать вамъ наблюсти, дабы следствїе</l>
+      <l>сїе произведено было самымъ вернѣйшимъ</l>
+      <l>образомъ и ущербъ казною терпимый отъ утаи</l>
+      <l>ки душъ взысканъ былъ въ полной мѣрѣ при</l>
+      <l>неупустительномъ и строгомъ по законамъ взы</l>
+      <l>сканїи съ утаителей; равно какъ и общество</l>
+      <l>стесняемое поборами ограждено было отъ оныхъ;</l>
+      <l>а дабы прокуроръ литовскїй, въ лицѣ котораго</l>
+      <l>вы получаете <choice><sic>отменя</sic><corr>отъ меня</corr></choice> сїе предписанїе объ</l>
+      <l>немъ</l>
+      <l>немъ извѣстенъ былъ, имѣете вы ордеръ сей</l>
+      <l>сообщить ему орегиналомъ по возвращенїи его</l>
+      <l>изъ отпуска, на подлинномъ подписалъ: князь <persName role="namesViewer" target="/names/Лопухин.html">Петръ<lb
+      />
+       Лопухинъ</persName>._</l>
+      <l><note place="end">далее - расписка <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Елиашевича</persName> о соответствии копии документа оригиналу</note>съ отпускомъ вѣрно совѣтникъ</l>
+      <l>Губернскаго правленія <persName role="namesViewer" target="/names/Елиашевич.html">Федоръ Еліашевичъ</persName>
+      </l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 1585</fw></l>
+      <l><date when="1799-02-18">февраля 18 дня<lb/>
+       1799 года</date></l>
+    </closer>
     <pb xml:id="p492-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/492.html#p492-2"/>
   </body></text>
