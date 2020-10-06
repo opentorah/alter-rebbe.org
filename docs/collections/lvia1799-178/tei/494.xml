@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author><persName role="namesViewer" target="/names/Лассий.html">генерал-губернатор Лассий</persName></author>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,62 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Копия Предложения (распоряжения) генерал-губернатора <persName role="namesViewer" target="/names/Лассий.html"
+        >Лассия</persName> о приостановке всех действий по расследованию злоупотреблений <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1799-02-04">Февраля 4 дня 1799</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
-      <l>Кто:</l>
+      <l><p>
+        Копия Предложения (распоряжения) генерал-губернатора <persName role="namesViewer" target="/names/Лассий.html"
+        >Лассия</persName> о приостановке всех действий по расследованию злоупотреблений <orgName role="namesViewer"
+        target="/names/Виленский_кагал.html">виленского кагала</orgName>
+      </p></l>
+      <l>Дата: 1799-02-04</l>
+      <l>Кто: <persName role="namesViewer" target="/names/Лассий.html">генерал-губернатор Лассий</persName></l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p494-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/494.html#p494-1"
     />
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">494</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <fw type="note" place="right margin">Се-</fw>
+    <head>
+      <l>Отъ литовскаго <persName role="namesViewer" target="/names/Лассий.html">генералъ губернатора</persName></l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскому Губернскому
+      Правленїю</orgName></l>
+      <l>Предложенїе</l>
+    </head>
+    <p>
+      <l>По стретевшемся обстоятельствам почитаю</l>
+      <l>я нужнымъ остановить действїе даннаго мною</l>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">сему Правленїю</orgName>
+      Предложенїя сего февраля 2<hi rend="superscript">го</hi> дня</l>
+      <l>касательно злоупотребленїй чинимыхъ старшинами</l>
+      <l><orgName role="namesViewer" target="/names/Виленский_кагал.html">виленскаго кагала</orgName> и духовнаго суда;
+      почему и пред-</l>
+      <l>лагаю <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">литовскому Губернскому
+      правленїю</orgName> все</l>
+      <l>по оному уже зделанное уничтожить и впредь</l>
+      <l>ничего не приводить въ дѣйствїе безъ особаго</l>
+      <l>повеленїя начальства, да и помянутое Предложенїе</l>
+      <l>мое по сему предмету возвратить ко мнѣ. Под-</l>
+      <l>линное подписалъ <persName role="namesViewer" target="/names/Лассий.html">Ласїй</persName></l>
+      <l>Съ подлиннымъ<note place="end">приписка канцеляриста, удостоверяющего копию, не содержит его подписи</note></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 39</fw></l>
+      <l><placeName role="namesViewer" target="/names/Гродно.html">Гродно</placeName></l>
+      <l><date when="1799-02-04">Февраля 4 дня<lb/>
+       1799</date>.</l>
+    </closer>
     <pb xml:id="p494-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/494.html#p494-2"/>
   </body></text>
