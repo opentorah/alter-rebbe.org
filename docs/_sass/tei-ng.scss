@@ -1,0 +1,1130 @@
+@namespace url("http://www.tei-c.org/ns/1.0");
+@namespace xhtml url("http://www.w3.org/1999/xhtml");
+
+// --- CETEIcean ---
+
+/* language support */
+/* render Arabic, Persian, Ottoman, Hebrew and Yiddish  as rtl */
+[lang = "ar"],
+[lang = "ota"],
+[lang = "fa"],
+[lang = "he"],
+[lang = "yi"],
+[lang *="-Arab-AR"]{
+  direction:rtl;
+  text-align:right;
+}
+/* display latin and some other scripts as ltr  */
+[lang = "en"],
+[lang = "fr"],
+[lang = "de"],
+[lang = "it"],
+[lang = "ru"],
+[lang = "pl"],
+[lang *="ar-Latn-"],
+[lang *="ota-Latn-"]{
+  direction:ltr;
+  text-align:left;
+}
+
+/* Choice elements */
+choice abbr + expan:before,
+choice expan + abbr:before,
+choice sic + corr:before,
+choice corr + sic:before,
+choice orig + reg:before,
+choice reg + orig:before {
+  content: " (";
+}
+choice abbr + expan:after,
+choice expan + abbr:after,
+choice sic + corr:after,
+choice corr + sic:after,
+choice orig + reg:after,
+choice reg + orig:after {
+  content: ")";
+}
+
+/* A */
+ab {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+accmat {
+  display: block;
+}
+accmat:before {
+  content: "accompanying materials: ";
+}
+acquisition {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+acquisition:before {
+  font-weight: bold;
+  content: "acquisition";
+}
+activity {
+  display: block;
+}
+activity:before {
+  content: "activity: ";
+}
+add {
+  background-color: #ffcdcd;
+}
+add[place=above] {
+  vertical-align: super;
+}
+add[place=inline]:before {
+  content: "«";
+}
+add[place=inline]:after {
+  content: "»";
+}
+add[place=below] {
+  vertical-align: sub;
+}
+additional {
+  display: block;
+}
+additions {
+  display: block;
+}
+additions:before {
+  content: "Significant additions within the document: ";
+}
+addrline {
+  display: block;
+}
+address[rend~="block"], addresss[rendition~="#block"] {
+  display: block;
+}
+admininfo {
+  display: block;
+}
+app note {
+  display: none;
+}
+appinfo {
+  display: block;
+}
+appinfo:before {
+  content: "Application information: ";
+}
+application {
+  display: block;
+}
+application:after {
+  content: " " attr(version);
+}
+argument {
+  display: block;
+}
+att {
+  font-family: Courier,monospace;
+}
+att:before {
+  content: "@";
+}
+titlestmt > author {
+  display: block;
+  margin-bottom: 1em;
+}
+publicationstmt > availability {
+  font-size: 80%;
+}
+publicationstmt > availability:before {
+  font-weight: bold;
+  content: "Availability: ";
+}
+publicationstmt > availability[status]:before {
+  font-weight: bold;
+  content: "Availability (" attr(status) "): ";
+}
+/* B */
+back {
+  display: block;
+}
+bibl[rend~="block"], bibl[rendition~="#block"] {
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+biblfull {
+  display: block;
+}
+binding {
+  display: block;
+}
+binding:before {
+  content: "Binding: \a";
+  white-space: pre-wrap;
+}
+binding[contemporary]:before {
+  content: "Binding: \A" "Contemporary: " attr(contemporary) "\A";
+  white-space: pre-wrap;
+}
+bindingdesc {
+  display: block;
+}
+bindngdesc:before {
+  content: "Binding description: \A";
+}
+birth {
+  display: block;
+}
+birth:before {
+  content: "Birth: ";
+}
+/* c */
+crefpattern {
+  display: none;
+}
+caption {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+case[value]:before {
+  font-weight: bold;
+  content: attr(value) " ";
+}
+castgroup {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+castitem {
+  display: list-item;
+}
+castlist {
+  display: block;
+  list-style-type: none;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+}
+cb {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+cb:before {
+  content: "[column break]";
+}
+cell {
+  border-right: thin solid black;
+  border-bottom: thin solid black;
+  padding: 2px;
+}
+/* for cell or row with @role = label */
+cell[role=label] {
+  font-weight: bold;
+}
+climate {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+climate:before {
+  font-weight: bold;
+  content: "Climate: ";
+}
+code {
+  font-family: Courier,monospace;
+}
+collation {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+condition {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+constitution {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+constitution:before {
+  font-weight: bold;
+  content: "Constitution: ";
+}
+constitution[type] {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+constitution[type]:before {
+  font-weight: bold;
+  content: "Constitution (" attr(type) "): ";
+}
+constitution[type=frags] {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+constitution[type=frags]:before {
+  font-weight: bold;
+  content: "Constitution (fragments): ";
+}
+corr {
+  background-color: #aaffaa;
+}
+custevent {
+  display: list-item;
+}
+custodialhist {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+/* d */
+date[when]:empty:before {
+  content: attr(when);
+}
+del[rend='overstrike'] {
+  text-decoration: red line-through;
+}
+/* e */
+editionstmt {
+  display:block;
+}
+teieg-egxml {
+  display: block;
+  font-size: 80%;
+  margin-left: 1em;
+  padding-left: 1em;
+  border-left: 1px solid #aaaaaa;
+  margin-top: .75em;
+  margin-bottom: .75em;
+  padding-top: .75em;
+  padding-bottom: .75em;
+  font-family: monospace;
+  white-space: pre;
+}
+emph {
+  font-style: italic;
+}
+emph[rend='underline'] {
+  font-style: normal;
+  text-decoration: underline;
+}
+emph[rend='big'] {
+  font-style: normal;
+  font-size: larger;
+}
+emph[rend='superscript'] {
+  vertical-align: super;
+}
+encodingdesc {
+  display: none;
+}
+epigraph {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+explicit {
+  font-style: italic;
+}
+filedesc > extent {
+  display: none;
+}
+/* f */
+figure {
+  display: inline-block;
+  //text-align: center;
+  //margin-left: auto;
+  //margin-right: auto;
+}
+figure img {
+  vertical-align: top;
+}
+fw[type='pageNum'] {
+  background-color: lightgray;
+  border-radius: 1em;
+}
+/* g */
+gap[reason='lost']:before {
+  content:'[';
+}
+gap[reason='lost']:after {
+  content: attr(data-content) ']';
+}
+gap[reason='illegible']:after {
+  content: attr(data-content);
+}
+gi {
+  font-family: Courier,monospace;
+}
+gi:before {
+  content: "<";
+}
+gi:after {
+  content: ">";
+}
+/* h */
+head {
+  display: block;
+  font-family: Arvo, sans-serif;
+  font-weight: normal;
+}
+/* Style top-level TEI <head> same way Minima styles .post-title */
+body > head {
+  //font-size: 180%;
+  //text-indent: -0.5em;
+  font-size: 36px;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-indent: 0;
+  margin-block-end: 15px;
+  margin-bottom: 15px;
+}
+div.textpart {
+  display: none;
+}
+div > head {
+  font-size: 170%;
+  text-indent: -0.5em;
+}
+div > div > head {
+  font-size: 155%;
+}
+div > div > div > head {
+  font-size: 140%;
+}
+div > div > div > div > head, list > head {
+  font-size: 130%;
+}
+div > div > div > div > div > head {
+  font-size: 120%;
+}
+div > div > div > div > div > div head {
+  font-size: 110%;
+}
+figure > head {
+  display: block;
+  margin: 1.5em auto 1.5em auto;
+  padding: .5em 1.5em 1.5em 1.5em;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 325px;
+  position: relative;
+  border: 1px solid #aaaaaa;
+  background: #fafafa;
+  /* reset text-indent for note with <l> ancestors. */
+  text-indent: 0;
+  font-size: 85%;
+  text-align: justify;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  width: 85%;
+  font-family: Georgia, Serif;
+  font-size: 13pt;
+}
+hi[rend~="caps"] {
+  font-weight:bold;
+}
+hi[rend~="italic"] {
+  font-style: italic;
+}
+hi[rend='underline'] {
+  text-decoration: underline;
+}
+hi[rend='big'] {
+  font-size: larger;
+}
+hi[rend='superscript'] {
+  vertical-align: super;
+}
+ident {
+  font-family: Courier,monospace;
+}
+incipit {
+  font-style: italic;
+}
+item {
+  display: list-item;
+  margin-left: 1em;
+}
+cell item {
+  margin-left: 1em;
+}
+/* j */
+/* l */
+l {
+  display: block;
+  width: auto;
+}
+l[data-lineno]:before {
+  content: attr(data-lineno);
+  position: absolute;
+  left: 2em;
+}
+lb:after {
+  content: '\a';
+  white-space: pre;
+}
+lg {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+list {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  list-style-type: none;
+}
+item > list {
+  margin-top: 0;
+}
+sourcedesc list {
+  list-style-type: none;
+}
+sourcedesc > list > head {
+  font-size: 140%;
+  font-weight: bold;
+}
+sourcedesc list > item {
+  display: list-item;
+}
+/* Match only lists that are descendants of
+text. Otherwise they show up in the header. */
+text list[type=simple] {
+  list-style-type: none;
+}
+text list[type=bulleted] {
+  list-style-type: disc;
+}
+text list[type=ordered] {
+  list-style-type: none;
+  counter-reset: items 0;
+}
+text list[type=ordered] > item {
+  display: list-item;
+  margin-left: 0;
+}
+item > list[type=ordered] {
+  margin-left: 1em;
+}
+text list[type=ordered] > item:before {
+  counter-increment: items 1;
+  content: counter(items, decimal) ". ";
+}
+text list[type=gloss] {
+  list-style-type: none;
+}
+list[type="gloss"] > label {
+  display: block;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+}
+list[type="gloss"] > item {
+  margin-left: 2em;
+}
+item > list[type=ordered] {
+  margin-left: 1em;
+}
+listapp {
+  display: block;
+  margin: 1em;
+  padding: 1em;
+}
+listbibl {
+  display:block;
+  list-style-type: none;
+  margin-left: .5em;
+  margin-top: .5em;
+}
+listbibl > head {
+  font-size: 120%;
+  font-weight: bold;
+}
+listbibl > bibl {
+  display: list-item;
+  margin-left: .5em;
+}
+listwit {
+  display:block;
+  list-style-type: none;
+  margin-left: .5em;
+}
+listwit > head {
+  font-size: 120%;
+  font-weight: bold;
+}
+listwit > witness {
+  display: list-item;
+  margin-left: 2em;
+  text-indent: -1.1em;
+}
+witness > listwit {
+  display: inline;
+}
+witness > listwit > head {
+  display: inline;
+}
+witness > listwit > witness {
+  display: inline;
+}
+locus {
+  display: none;
+}
+/* m */
+milestone {
+  display: none;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+musicnotation {
+  font-weight: bold;
+}
+musicnotation:before {
+  font-weight: bold;
+  content: "Musical Notation: ";
+}
+/* n */
+node {
+  display: none;
+}
+note[place='end'] a {
+  color: red;
+}
+note[type='gloss'] {
+  background-color: gainsboro;
+}
+notesstmt {
+  display: none;
+}
+/* o */
+ovar {
+  font-style: italic;
+}
+origplace {
+  font-weight: bold;
+}
+origplace:before {
+  font-weight: bold;
+  content: "Place of Origin: ";
+}
+/* p */
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: justify;
+}
+*[rendition~="#center"] p {
+  text-align: center;
+}
+availability > p:first-child {
+  margin-top: 0em;
+}
+pb.missing-empty-page a {
+  color: orange;
+}
+pb.missing-page a {
+  color: red;
+}
+performance {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+person {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+persongrp {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+postscript {
+  display: block;
+  margin-top: 2em;
+}
+principal {
+  font-weight: bold;
+}
+principal:before {
+  font-weight: bold;
+  content: "Principal: ";
+}
+profiledesc {
+  display: none;
+}
+publicationstmt > * {
+  display: none;
+}
+publicationstmt {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+publicationstmt > date {
+  display: none;
+}
+publicationstmt > publisher {
+  display: none;
+}
+/* q */
+q {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+q:before {
+  content: "";
+}
+q:after {
+  content: "";
+}
+q[next]:after {
+  content: "" !important;
+}
+q[prev]:before {
+  content: "" !important;
+}
+quote {
+  font-style:italic;
+}
+/* r */
+app rdg {
+  /*perhaps choice */
+  display:none;
+}
+re {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+recordhist {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+ref {
+  color: $text-color;
+  text-decoration: none;
+  cursor: auto;
+  //color: #5f0000;
+  //text-decoration: underline;
+  //cursor: pointer;
+}
+remarks {
+  font-weight: bold;
+}
+remarks:before {
+  font-weight: bold;
+  content: "remarks: ";
+}
+respstmt {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+revisiondesc {
+  display: none;
+}
+row {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
+}
+/* s */
+salute {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+samplingdecl {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+scriptnote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+seal {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+seal:before {
+  font-weight: bold;
+  content: "Seal: ";
+}
+sealdesc {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+secfol:before {
+  font-weight: bold;
+  content: "Second Folio: ";
+}
+secl>*:first-child:before {
+  content: "\a[";
+  white-space: pre;
+}
+secl>*:last-child:after {
+  content: "]\a\a";
+  white-space: pre;
+}
+seg {
+  outline: 0px solid transparent;
+}
+sense {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+seriesstmt {
+  display: none;
+}
+setting {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+sic {
+  text-decoration: #aaffaa underline;
+}
+signed {
+  display: block;
+  margin-top: 2em;
+}
+socalled {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+socalled:before {
+  content: open-quote;
+}
+socalled:after {
+  content: close-quote;
+}
+socalled[next]:after {
+  content: "" !important;
+}
+socalled[prev]:before {
+  content: "" !important;
+}
+sound {
+  font-style: italic;
+}
+source {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+sourcedesc {
+  display: none;
+}
+space:before {
+  font-weight: bold;
+  content: "";
+}
+span[data-n]:before {
+  content: attr(data-n);
+}
+speaker {
+  font-weight: bold;
+  margin-right: 0;
+}
+sponsor {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+sponsor:before {
+  font-weight: bold;
+  content: "Sponsor:";
+}
+stage {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+stamp {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+stamp:before {
+  font-weight: bold;
+  content: "Stamped: ";
+}
+supplied {
+  background-color: #aaffaa;
+}
+surplus>*:first-child:before {
+  content: "\a[";
+  white-space: pre;
+}
+surplus>*:last-child:after {
+  content: "]\a\a";
+  white-space: pre;
+}
+/* t */
+TEI {
+  display: block;
+}
+table {
+  display: block;
+  border-top: thin solid black;
+  border-left: thin solid black;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  font-size: 12pt;
+}
+table > head {
+  text-align: center;
+}
+teiHeader {
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+TEI > text {
+  display: block;
+  line-height: 1.5;
+}
+textclass {
+  display: none;
+}
+textdesc {
+  display: none;
+}
+/* title */
+TEI title {
+  display: inline;
+}
+TEI title[level=a] {
+  quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
+}
+TEI title[level=a]:before {
+  content: open-quote;
+}
+TEI title[level=a]:after {
+  content: close-quote;
+}
+TEI title[level=a][next]:after {
+  content: "" !important;
+}
+TEI title[level=a][prev]:before {
+  content: "" !important;
+}
+title[level=m] {
+  font-style: italic;
+}
+titlestmt > title {
+  display: block;
+  font-family: Arvo, sans-serif;
+  font-weight: normal;
+  font-weight: bold !important;
+  font-size: 150%;
+}
+typedesc {
+  display: none;
+}
+/* u */
+u:before {
+  content: "-";
+}
+unclear {
+  background-color: #aaffaa;
+}
+view {
+  font-style: italic;
+}
+wit {
+  display: inline;
+}
+witdetail {
+  display:none;
+}
+
+
+
+// --- tei ---
+
+xhtml|ol.notes {
+  padding-top: 2em;
+}
+
+/* Lists of people, places and organizations. */
+
+$tei-list-head-font-size: 32px;
+$tei-list-head-text-indent: -0.5em;
+$tei-named-margin-top: 1em;
+$tei-named-margin-bottom: 1em;
+$tei-named-name-font-size: 24px;
+
+listperson > head {
+  font-size: $tei-list-head-font-size;
+  text-indent: $tei-list-head-text-indent;
+}
+listplace > head {
+  font-size: $tei-list-head-font-size;
+  text-indent: $tei-list-head-text-indent;
+}
+listorg > head {
+  font-size: $tei-list-head-font-size;
+  text-indent: $tei-list-head-text-indent;
+}
+
+person {
+  display: block;
+  margin-top: $tei-named-margin-top;
+  margin-bottom: $tei-named-margin-bottom;
+}
+place {
+  display: block;
+  margin-top: $tei-named-margin-top;
+  margin-bottom: $tei-named-margin-bottom;
+}
+org {
+  display: block;
+  margin-top: $tei-named-margin-top;
+  margin-bottom: $tei-named-margin-bottom;
+}
+
+person > persname {
+  display: block;
+  font-size: $tei-named-name-font-size;
+}
+place > placename {
+  display: block;
+  font-size: $tei-named-name-font-size;
+}
+org > orgname {
+  display: block;
+  font-size: $tei-named-name-font-size;
+}
+
+.mentions {
+  font-size: smaller;
+}
+
+
+/* Tables. TODO style table/tr/td! */
+
+table {
+  display: table;
+  margin-bottom: $spacing-unit;
+  width: auto;
+  text-align: $table-text-align;
+  color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: 1px solid $grey-color-light;
+  row {
+    display: table-row;
+    &:nth-child(even) {
+      background-color: lighten($grey-color-light, 6%);
+    }
+
+    cell {
+      display: table-cell;
+      vertical-align: text-top;
+      padding: ($spacing-unit / 3) ($spacing-unit / 2);
+      border: 1px solid $grey-color-light;
+    }
+  }
+}
+
+
+
+/* Collection index. */
+
+table.collection-index {
+  // TEI/CETEIcean do not handle table header, so the first row is it:
+  row:first-child {
+    cell {
+      // Replicate Chrome's and minima's styling of the th
+      // on the td elements of the first row (thead/tr analogue):
+      font-weight: bold;
+      background-color: lighten($grey-color-light, 3%);
+      border: 1px solid darken($grey-color-light, 4%);
+      border-bottom-color: darken($grey-color-light, 12%);
+
+      // Keep header visible
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+    }
+  }
+
+  // Size the columns
+  cell.description { width: 44%; }
+  cell.date        { width:  8%; }
+  cell.author      { width: 10%; }
+  cell.addressee   { width: 10%; }
+  cell.language    { width:  4%; }
+  cell.document    { width:  5%; }
+  cell.pages       { width:  8%; }
+  cell.transcriber {             }
+
+
+  // Part title
+  .part-title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #1614ff;
+  }
+
+  // Missing page links
+  ref.missing-empty-page a {
+    color: orange;
+  }
+  ref.missing-page a {
+    color: red;
+  }
+}
+
+/* Document. */
+
+.document-header {
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+
+/* Document-specific. TODO move into the documents! */
+
+table.rgada-026-table {
+  border: none;
+
+  row {
+    background-color: $background-color;
+    cell { border: none; }
+    cell:nth-child(1) { width: 300px; }
+    cell:nth-child(2) { width: 400px; }
+  }
+}
+
+table.rgada-233-table {
+
+  row {
+    cell:nth-child(1) { width: 30px;  }
+    cell:nth-child(2) { width: 200px; }
+    cell:nth-child(3) { width: 55px;  }
+    cell:nth-child(4) { width: 35px;  }
+  }
+}
+
+signed.lvia1800-816-signed-inline {
+  display: inline;
+}
