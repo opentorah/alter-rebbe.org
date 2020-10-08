@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,63 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract><p>
+        Сообщение <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского губернского
+        правления</orgName> <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворному
+        суду</orgName> о подписи <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> под
+        резолюцией от <date when="1799-02-07">7 февраля 1799 года</date>
+      </p></abstract>
+      <creation><date when="1800-08-14">Августа 14 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l><p>
+        Сообщение <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовского губернского
+        правления</orgName> <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворному
+        суду</orgName> о подписи <persName role="namesViewer" target="/names/Елиашевич.html">Елиашевича</persName> под
+        резолюцией от <date when="1799-02-07">7 февраля 1799 года</date>
+      </p></l>
+      <l>Дата: 1800-08-14</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p510-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/510.html#p510-1"
     />
+    <fw type="pageNum" place="right">510.</fw>
+    <fw type="note" place="left margin">Секретарь</fw>
+    <p>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское губернское
+      правленіе</orgName> благоволитъ</l>
+      <l><orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворный судъ</orgName> подписаніемъ
+      подъ симъ увѣ-</l>
+      <l>домить: состоявшееся въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">ономъ
+      Правленіи</orgName></l>
+      <l><date when="1799-02-07">7<hi rend="superscript">го</hi> числа февраля 1799 года</date> на Предложеніе</l>
+      <l>бывшаго господина литовскаго генерала-<lb/>
+       губернатора и кавалера <persName role="namesViewer" target="/names/Лассий.html">Лассія</persName> резолюція,</l>
+      <l>касательно того, что по первому его</l>
+      <l>господина <persName role="namesViewer" target="/names/Лассий.html">генерала губернатора</persName> отъ <date
+      when="1799-02-04">4<hi rend="superscript">го</hi><lb/>
+       февраля</date> предписанію исполненія еще</l>
+      <l>не послѣдовало, подписана жъ господиномъ</l>
+      <l>совѣтникомъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичем</persName>. <date when=
+      "1800-08-14">Августа<lb/>
+       14<hi rend="superscript">го</hi> дня 1800 года</date>. Секретарь Павелъ Искрицкій</l>
+    </p>
+    <p>
+      <l><note place="end">приписка сделана другим почерком</note>Резолюція отъ <date when="1799-02-07">7<hi rend=
+      "superscript">го</hi> февраля</date> что</l>
+      <l>по предложенію г<hi rend="superscript">на</hi> <persName role="namesViewer" target="/names/Лассий.html"
+      >генералъ гу<lb/>
+       бернатора</persName> въ <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html"
+      >Правленіи</orgName> ниче</l>
+      <l>го не зделано гдномъ<note place="end">господином, слово записано с титлом</note> совѣтни</l>
+      <l>комъ <persName role="namesViewer" target="/names/Елиашевич.html">Еліашевичемъ</persName> подписа</l>
+      <l>на Секретарь <signed><unclear>??? ???</unclear></signed></l>
+    </p>
     <pb xml:id="p510-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/510.html#p510-2"/>
   </body></text>
