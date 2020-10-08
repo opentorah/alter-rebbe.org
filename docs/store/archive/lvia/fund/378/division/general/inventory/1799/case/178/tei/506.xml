@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-07-27">Июля 27 дня 1800 года</date></creation>
+    <abstract>Запрос <orgName ref="Литовский_надворный_суд">Надворного суда</orgName>  <orgName ref="Литовское_губернское_правление">Литовскому губернскому правлению</orgName> о предоставлении копий его резолюций в связи с расследованием злоупотреблений кагальных старшин</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="506-1"/>
+    <fw type="pageNum" place="right">506.</fw>
+    <note place="end">велъ</note>
+    <p>
+<l><orgName ref="Литовское_губернское_правление">Литовское губернское правленіе</orgName> благо-</l>
+<l>волитъ здѣшнему <orgName ref="Литовский_надворный_суд">надворному суду</orgName> до</l>
+<l>ставить въ засвидѣтельствованныхъ копіяхъ</l>
+<l>резолюціи свои послѣдовавшіе на предло</l>
+<l>женіи бывшаго г<hi rend="superscript">на</hi> литовскаго граждан</l>
+<l>скаго губернатора и кавалера <persName ref="Лассий">Лассія</persName>: 1<hi rend="superscript">е</hi></l>
+<l>отъ <date when="1799-02-02">2<hi rend="superscript">го</hi> февраля 1799<hi rend="superscript">го</hi> года</date>, коимъ на</l>
+<l>значены г<hi rend="superscript">нъ</hi> совѣтникъ <persName ref="Елиашевич">Еліашевичъ</persName> и гу</l>
+<l>бернскій казначей Сербиновичъ въ помощь</l>
+<l>къ <persName ref="Капцевич">бывшему коменданту</persName> для отобранія</l>
+<l>у <orgName ref="Виленский_кагал">бывшаго кагала</orgName> книгъ, и 2<hi rend="superscript">е</hi> отъ <date when="1799-02-04">4<hi rend="superscript">го</hi><lb/>
+февраля того же года</date>, которымъ оста</l>
+<l>новлено дѣйствіе вышеписаннаго пред</l>
+<l>писанія. <date when="1800-07-27">Јюля 27<hi rend="superscript">го</hi> дня 1800<hi rend="superscript">го</hi> года</date>.</l>
+<l>= Секретарь <signed>Павелъ Искрицкій</signed></l>
+</p>
+    <p>
+<l><note place="end">Приписка сделана другим почерком</note>Резолюція на последнее предложеніе</l>
+<l>Его высокопревосходительства <persName ref="Лассий">Бориса<lb/>
+Петровича Де лассія</persName> отъ <date when="1799-02-04">4<hi rend="superscript">го</hi> февраля</date></l>
+<l>препровождается на прежнее пре</l>
+<l>дложенїе его таковои чинено</l>
+<l>было что можно видеть изъ копіи</l>
+<l>отсылаемои последнеи резолюціи</l>
+<l>= Секретарь <signed><unclear>??? ???</unclear></signed></l>
+</p>
     <pb n="506-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
