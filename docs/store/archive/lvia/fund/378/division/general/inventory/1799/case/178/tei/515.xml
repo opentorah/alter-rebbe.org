@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><abstract><p>Фрагмент (окончание) неизвестного документа с сообщением об отправке перевода объяснения <persName ref="Мовша_Ошерович">Ошеровича</persName>, представленного в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName></p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Фрагмент (окончание) неизвестного документа с сообщением об отправке перевода объяснения <persName ref=
+      "Мовша_Ошерович">Ошеровича</persName>, представленного в <orgName ref="Литовский_надворный_суд">Надворный
+      суд</orgName>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="515-1"/>
     <fw type="pageNum" place="right">515</fw>
     <p>
-<l>Дабы не остановить отправленіе сего слѣд-</l>
-<l>ственнаго дѣла, посылаетъ переводъ</l>
-<l>поданнаго въ <orgName ref="Литовский_надворный_суд">судъ</orgName> от еврея <persName ref="Мовша_Ошерович">Ошеровича</persName></l>
-<l>объясненія въ такомъ состояніи, какъ</l>
-<l>онъ въ <orgName ref="Литовский_надворный_суд">судѣ</orgName> находится.</l>
-</p>
+      <l>Дабы не остановить отправленіе сего слѣд-</l>
+      <l>ственнаго дѣла, посылаетъ переводъ</l>
+      <l>поданнаго въ <orgName ref="Литовский_надворный_суд">судъ</orgName> от еврея <persName ref="Мовша_Ошерович"
+      >Ошеровича</persName></l>
+      <l>объясненія въ такомъ состояніи, какъ</l>
+      <l>онъ въ <orgName ref="Литовский_надворный_суд">судѣ</orgName> находится.</l>
+    </p>
     <pb n="515-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
