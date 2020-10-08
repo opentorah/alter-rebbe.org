@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-08-14">Августа 14 дня 1800 года</date></creation>
+    <abstract><p>Сообщение <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> <orgName ref="Литовский_надворный_суд">Надворному суду</orgName> о подписи <persName ref="Елиашевич">Елиашевича</persName> под резолюцией от <date when="1799-02-07">7 февраля 1799 года</date></p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="510-1"/>
+    <fw type="pageNum" place="right">510.</fw>
+    <fw type="note" place="left margin">Секретарь</fw>
+    <p>
+<l><orgName ref="Литовское_губернское_правление">Литовское губернское правленіе</orgName> благоволитъ</l>
+<l><orgName ref="Литовский_надворный_суд">Надворный судъ</orgName> подписаніемъ подъ симъ увѣ-</l>
+<l>домить: состоявшееся въ <orgName ref="Литовское_губернское_правление">ономъ Правленіи</orgName></l>
+<l><date when="1799-02-07">7<hi rend="superscript">го</hi> числа февраля 1799 года</date> на Предложеніе</l>
+<l>бывшаго господина литовскаго генерала-<lb/>
+губернатора и кавалера <persName ref="Лассий">Лассія</persName> резолюція,</l>
+<l>касательно того, что по первому его</l>
+<l>господина <persName ref="Лассий">генерала губернатора</persName> отъ <date when="1799-02-04">4<hi rend="superscript">го</hi><lb/>
+февраля</date> предписанію исполненія еще</l>
+<l>не послѣдовало, подписана жъ господиномъ</l>
+<l>совѣтникомъ <persName ref="Елиашевич">Еліашевичем</persName>. <date when="1800-08-14">Августа<lb/>
+14<hi rend="superscript">го</hi> дня 1800 года</date>. Секретарь Павелъ Искрицкій</l>
+</p>
+<p>
+<l><note place="end">приписка сделана другим почерком</note>Резолюція отъ <date when="1799-02-07">7<hi rend="superscript">го</hi> февраля</date> что</l>
+<l>по предложенію г<hi rend="superscript">на</hi> <persName ref="Лассий">генералъ гу<lb/>
+бернатора</persName> въ <orgName ref="Литовское_губернское_правление">Правленіи</orgName> ниче</l>
+<l>го не зделано гдномъ<note place="end">господином, слово записано с титлом</note> совѣтни</l>
+<l>комъ <persName ref="Елиашевич">Еліашевичемъ</persName> подписа</l>
+<l>на Секретарь <signed><unclear>??? ???</unclear></signed></l>
+</p>
     <pb n="510-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
