@@ -1,7 +1,26 @@
 @namespace url("http://www.tei-c.org/ns/1.0");
 @namespace xhtml url("http://www.w3.org/1999/xhtml");
 
-// --- CETEIcean ---
+// Some TEI elements are converted to HTML elements
+// with the original TEI element name added as a 'class' attribute for styling:
+//   pb -> a.pb
+//   persName[ref] -> a.persName
+//   placeName[ref] -> a.placeName
+//   orgName[ref] -> a.orgName
+//   ref -> a.refName
+//   ptr -> a.ptr
+//   graphic -> img.graphic
+//   supplied -> span.supplied
+//   note[place="end"] -> a.note
+//   table -> table.table
+//   row -> tr.row
+//   cell -> td.cell
+//
+// Some TEI elements that are processed by the browsers in a special way
+// (*even* when they are in the TEI namespace!) are renamed:
+//   head -> tei-head
+//   body -> tei-body
+
 
 /* language support */
 /* render Arabic, Persian, Ottoman, Hebrew and Yiddish  as rtl */
@@ -96,22 +115,22 @@ additions {
 additions:before {
   content: "Significant additions within the document: ";
 }
-addrline {
+addrLine {
   display: block;
 }
 address[rend~="block"], addresss[rendition~="#block"] {
   display: block;
 }
-admininfo {
+adminInfo {
   display: block;
 }
 app note {
   display: none;
 }
-appinfo {
+appInfo {
   display: block;
 }
-appinfo:before {
+appInfo:before {
   content: "Application information: ";
 }
 application {
@@ -129,18 +148,18 @@ att {
 att:before {
   content: "@";
 }
-titlestmt > author {
+titleStmt > author {
   display: block;
   margin-bottom: 1em;
 }
-publicationstmt > availability {
+publicationStmt > availability {
   font-size: 80%;
 }
-publicationstmt > availability:before {
+publicationStmt > availability:before {
   font-weight: bold;
   content: "Availability: ";
 }
-publicationstmt > availability[status]:before {
+publicationStmt > availability[status]:before {
   font-weight: bold;
   content: "Availability (" attr(status) "): ";
 }
@@ -153,7 +172,7 @@ bibl[rend~="block"], bibl[rendition~="#block"] {
   padding-left: 2em;
   text-indent: -2em;
 }
-biblfull {
+biblFull {
   display: block;
 }
 binding {
@@ -167,7 +186,7 @@ binding[contemporary]:before {
   content: "Binding: \A" "Contemporary: " attr(contemporary) "\A";
   white-space: pre-wrap;
 }
-bindingdesc {
+bindingDesc {
   display: block;
 }
 bindngdesc:before {
@@ -180,7 +199,7 @@ birth:before {
   content: "Birth: ";
 }
 /* c */
-crefpattern {
+cRefPattern {
   display: none;
 }
 caption {
@@ -192,15 +211,15 @@ case[value]:before {
   font-weight: bold;
   content: attr(value) " ";
 }
-castgroup {
+castGroup {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
 }
-castitem {
+castItem {
   display: list-item;
 }
-castlist {
+castList {
   display: block;
   list-style-type: none;
   margin-top: 1em;
@@ -276,10 +295,10 @@ constitution[type=frags]:before {
 corr {
   background-color: #aaffaa;
 }
-custevent {
+custEvent {
   display: list-item;
 }
-custodialhist {
+custodialHist {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -292,10 +311,10 @@ del[rend='overstrike'] {
   text-decoration: red line-through;
 }
 /* e */
-editionstmt {
+editionStmt {
   display:block;
 }
-teieg-egxml {
+egXML {
   display: block;
   font-size: 80%;
   margin-left: 1em;
@@ -322,7 +341,7 @@ emph[rend='big'] {
 emph[rend='superscript'] {
   vertical-align: super;
 }
-encodingdesc {
+encodingDesc {
   display: none;
 }
 epigraph {
@@ -355,10 +374,10 @@ gap[reason='lost']:before {
   content:'[';
 }
 gap[reason='lost']:after {
-  content: attr(data-content) ']';
+  content: attr(content) ']';
 }
 gap[reason='illegible']:after {
-  content: attr(data-content);
+  content: attr(content);
 }
 gi {
   font-family: Courier,monospace;
@@ -370,13 +389,13 @@ gi:after {
   content: ">";
 }
 /* h */
-head {
+tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
 /* Style top-level TEI <head> same way Minima styles .post-title */
-body > head {
+tei-body > tei-head {
   //font-size: 180%;
   //text-indent: -0.5em;
   font-size: 36px;
@@ -389,26 +408,26 @@ body > head {
 div.textpart {
   display: none;
 }
-div > head {
+div > tei-head {
   font-size: 170%;
   text-indent: -0.5em;
 }
-div > div > head {
+div > div > tei-head {
   font-size: 155%;
 }
-div > div > div > head {
+div > div > div > tei-head {
   font-size: 140%;
 }
-div > div > div > div > head, list > head {
+div > div > div > div > tei-head, list > tei-head {
   font-size: 130%;
 }
-div > div > div > div > div > head {
+div > div > div > div > div > tei-head {
   font-size: 120%;
 }
-div > div > div > div > div > div head {
+div > div > div > div > div > div tei-head {
   font-size: 110%;
 }
-figure > head {
+figure > tei-head {
   display: block;
   margin: 1.5em auto 1.5em auto;
   padding: .5em 1.5em 1.5em 1.5em;
@@ -463,8 +482,8 @@ l {
   display: block;
   width: auto;
 }
-l[data-lineno]:before {
-  content: attr(data-lineno);
+l[lineno]:before {
+  content: attr(lineno);
   position: absolute;
   left: 2em;
 }
@@ -486,14 +505,14 @@ list {
 item > list {
   margin-top: 0;
 }
-sourcedesc list {
+sourceDesc list {
   list-style-type: none;
 }
-sourcedesc > list > head {
+sourceDesc > list > tei-head {
   font-size: 140%;
   font-weight: bold;
 }
-sourcedesc list > item {
+sourceDesc list > item {
   display: list-item;
 }
 /* Match only lists that are descendants of
@@ -534,46 +553,46 @@ list[type="gloss"] > item {
 item > list[type=ordered] {
   margin-left: 1em;
 }
-listapp {
+listApp {
   display: block;
   margin: 1em;
   padding: 1em;
 }
-listbibl {
+listBibl {
   display:block;
   list-style-type: none;
   margin-left: .5em;
   margin-top: .5em;
 }
-listbibl > head {
+listBibl > tei-head {
   font-size: 120%;
   font-weight: bold;
 }
-listbibl > bibl {
+listBibl > bibl {
   display: list-item;
   margin-left: .5em;
 }
-listwit {
+listWit {
   display:block;
   list-style-type: none;
   margin-left: .5em;
 }
-listwit > head {
+listWit > tei-head {
   font-size: 120%;
   font-weight: bold;
 }
-listwit > witness {
+listWit > witness {
   display: list-item;
   margin-left: 2em;
   text-indent: -1.1em;
 }
-witness > listwit {
+witness > listWit {
   display: inline;
 }
-witness > listwit > head {
+witness > listWit > tei-head {
   display: inline;
 }
-witness > listwit > witness {
+witness > listWit > witness {
   display: inline;
 }
 locus {
@@ -586,10 +605,10 @@ milestone {
   margin-right: auto;
   text-align: center;
 }
-musicnotation {
+musicNotation {
   font-weight: bold;
 }
-musicnotation:before {
+musicNotation:before {
   font-weight: bold;
   content: "Musical Notation: ";
 }
@@ -597,23 +616,23 @@ musicnotation:before {
 node {
   display: none;
 }
-note[place='end'] a {
+a.note[place='end'] {
   color: red;
 }
 note[type='gloss'] {
   background-color: gainsboro;
 }
-notesstmt {
+notesStmt {
   display: none;
 }
 /* o */
 ovar {
   font-style: italic;
 }
-origplace {
+origPlace {
   font-weight: bold;
 }
-origplace:before {
+origPlace:before {
   font-weight: bold;
   content: "Place of Origin: ";
 }
@@ -630,10 +649,10 @@ p {
 availability > p:first-child {
   margin-top: 0em;
 }
-pb.missing-empty-page a {
+a.pb[missing="true"][empty="true"] {
   color: orange;
 }
-pb.missing-page a {
+a.pb[missing="true"]:not([empty="true"]) {
   color: red;
 }
 performance {
@@ -646,7 +665,7 @@ person {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-persongrp {
+personGrp {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -662,21 +681,21 @@ principal:before {
   font-weight: bold;
   content: "Principal: ";
 }
-profiledesc {
+profileDesc {
   display: none;
 }
-publicationstmt > * {
+publicationStmt > * {
   display: none;
 }
-publicationstmt {
+publicationStmt {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
 }
-publicationstmt > date {
+publicationStmt > date {
   display: none;
 }
-publicationstmt > publisher {
+publicationStmt > publisher {
   display: none;
 }
 /* q */
@@ -708,12 +727,12 @@ re {
   margin-top: 0;
   margin-bottom: 0;
 }
-recordhist {
+recordHist {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
 }
-ref {
+a.ref {
   color: $text-color;
   text-decoration: none;
   cursor: auto;
@@ -728,12 +747,12 @@ remarks:before {
   font-weight: bold;
   content: "remarks: ";
 }
-respstmt {
+respStmt {
   display: block;
   margin-top: 0;
   margin-bottom: 0;
 }
-revisiondesc {
+revisionDesc {
   display: none;
 }
 row {
@@ -747,12 +766,12 @@ salute {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-samplingdecl {
+samplingDecl {
   display: block;
   margin-top: 0;
   margin-bottom: 0;
 }
-scriptnote {
+scriptNote {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
@@ -766,12 +785,12 @@ seal:before {
   font-weight: bold;
   content: "Seal: ";
 }
-sealdesc {
+sealDesc {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
 }
-secfol:before {
+secFol:before {
   font-weight: bold;
   content: "Second Folio: ";
 }
@@ -791,7 +810,7 @@ sense {
   margin-top: 0;
   margin-bottom: 0;
 }
-seriesstmt {
+seriesStmt {
   display: none;
 }
 setting {
@@ -806,19 +825,19 @@ signed {
   display: block;
   margin-top: 2em;
 }
-socalled {
+soCalled {
   quotes: "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d" "\2018" "\2019" "\201c" "\201d";
 }
-socalled:before {
+soCalled:before {
   content: open-quote;
 }
-socalled:after {
+soCalled:after {
   content: close-quote;
 }
-socalled[next]:after {
+soCalled[next]:after {
   content: "" !important;
 }
-socalled[prev]:before {
+soCalled[prev]:before {
   content: "" !important;
 }
 sound {
@@ -829,15 +848,15 @@ source {
   margin-top: 0;
   margin-bottom: 0;
 }
-sourcedesc {
+sourceDesc {
   display: none;
 }
 space:before {
   font-weight: bold;
   content: "";
 }
-span[data-n]:before {
-  content: attr(data-n);
+span[n]:before {
+  content: attr(n);
 }
 speaker {
   font-weight: bold;
@@ -867,7 +886,7 @@ stamp:before {
   font-weight: bold;
   content: "Stamped: ";
 }
-supplied {
+span.supplied {
   background-color: #aaffaa;
 }
 surplus>*:first-child:before {
@@ -890,22 +909,20 @@ table {
   margin-bottom: 2em;
   font-size: 12pt;
 }
-table > head {
+table > tei-head {
   text-align: center;
 }
 teiHeader {
-  display: block;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  display: none;
 }
 TEI > text {
   display: block;
   line-height: 1.5;
 }
-textclass {
+textClass {
   display: none;
 }
-textdesc {
+textDesc {
   display: none;
 }
 /* title */
@@ -930,14 +947,14 @@ TEI title[level=a][prev]:before {
 title[level=m] {
   font-style: italic;
 }
-titlestmt > title {
+titleStmt > title {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
   font-weight: bold !important;
   font-size: 150%;
 }
-typedesc {
+typeDesc {
   display: none;
 }
 /* u */
@@ -953,15 +970,12 @@ view {
 wit {
   display: inline;
 }
-witdetail {
+witDetail {
   display:none;
 }
 
 
-
-// --- tei ---
-
-xhtml|ol.notes {
+xhtml|ol.endnotes {
   padding-top: 2em;
 }
 
@@ -973,15 +987,15 @@ $tei-named-margin-top: 1em;
 $tei-named-margin-bottom: 1em;
 $tei-named-name-font-size: 24px;
 
-listperson > head {
+listPerson > tei-head {
   font-size: $tei-list-head-font-size;
   text-indent: $tei-list-head-text-indent;
 }
-listplace > head {
+listPlace > tei-head {
   font-size: $tei-list-head-font-size;
   text-indent: $tei-list-head-text-indent;
 }
-listorg > head {
+listOrg > tei-head {
   font-size: $tei-list-head-font-size;
   text-indent: $tei-list-head-text-indent;
 }
@@ -1002,15 +1016,15 @@ org {
   margin-bottom: $tei-named-margin-bottom;
 }
 
-person > persname {
+person > persName {
   display: block;
   font-size: $tei-named-name-font-size;
 }
-place > placename {
+place > placeName {
   display: block;
   font-size: $tei-named-name-font-size;
 }
-org > orgname {
+org > orgName {
   display: block;
   font-size: $tei-named-name-font-size;
 }
@@ -1096,7 +1110,7 @@ table.collection-index {
 
 /* Document. */
 
-.document-header {
+ab[rendition="document-header"] {
   background-color: #f0f0f0;
   padding: 10px;
 }
