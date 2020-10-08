@@ -2,7 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
-      <titleStmt><author/></titleStmt>
+      <titleStmt>
+        <author/>
+        <editor role="transcriber"><persName role="namesViewer" target="/names/VK.html">Василий Когаловский</persName>
+        </editor>
+      </titleStmt>
       <publicationStmt>
         <publisher><ptr target="www.alter-rebbe.org"/></publisher>
         <availability status="free"><licence><ab><ref n="license" target="http://creativecommons.org/licenses/by/4.0/"
@@ -11,20 +15,63 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
     </fileDesc>
     <profileDesc>
-      <abstract/>
+      <abstract>Запрос <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворного
+      суда</orgName> <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскому
+      губернскому правлению</orgName> о предоставлении копий его резолюций в связи с расследованием злоупотреблений
+      кагальных старшин</abstract>
+      <creation><date when="1800-07-27">Июля 27 дня 1800 года</date></creation>
       <langUsage><language ident="ru"/></langUsage>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <p rendition="document-header">
-      <l/>
-      <l>Дата:</l>
+      <l>Запрос <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">Надворного суда</orgName>
+      <orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовскому губернскому
+      правлению</orgName> о предоставлении копий его резолюций в связи с расследованием злоупотреблений кагальных
+      старшин</l>
+      <l>Дата: 1800-07-27</l>
       <l>Кто:</l>
       <l>Кому:</l>
     </p>
     <pb xml:id="p506-1" rendition="page" role="facsimileViewer" target="/collections/lvia1799-178/facs/506.html#p506-1"
     />
+    <fw type="pageNum" place="right">506.</fw>
+    <note place="end">велъ</note>
+    <p>
+      <l><orgName role="namesViewer" target="/names/Литовское_губернское_правление.html">Литовское губернское
+      правленіе</orgName> благо-</l>
+      <l>волитъ здѣшнему <orgName role="namesViewer" target="/names/Литовский_надворный_суд.html">надворному
+      суду</orgName> до</l>
+      <l>ставить въ засвидѣтельствованныхъ копіяхъ</l>
+      <l>резолюціи свои послѣдовавшіе на предло</l>
+      <l>женіи бывшаго г<hi rend="superscript">на</hi> литовскаго граждан</l>
+      <l>скаго губернатора и кавалера <persName role="namesViewer" target="/names/Лассий.html">Лассія</persName>: 1<hi
+      rend="superscript">е</hi></l>
+      <l>отъ <date when="1799-02-02">2<hi rend="superscript">го</hi> февраля 1799<hi rend="superscript">го</hi>
+      года</date>, коимъ на</l>
+      <l>значены г<hi rend="superscript">нъ</hi> совѣтникъ <persName role="namesViewer" target="/names/Елиашевич.html"
+      >Еліашевичъ</persName> и гу</l>
+      <l>бернскій казначей Сербиновичъ въ помощь</l>
+      <l>къ <persName role="namesViewer" target="/names/Капцевич.html">бывшему коменданту</persName> для отобранія</l>
+      <l>у <orgName role="namesViewer" target="/names/Виленский_кагал.html">бывшаго кагала</orgName> книгъ, и 2<hi rend=
+      "superscript">е</hi> отъ <date when="1799-02-04">4<hi rend="superscript">го</hi><lb/>
+       февраля того же года</date>, которымъ оста</l>
+      <l>новлено дѣйствіе вышеписаннаго пред</l>
+      <l>писанія. <date when="1800-07-27">Јюля 27<hi rend="superscript">го</hi> дня 1800<hi rend="superscript">го</hi>
+      года</date>.</l>
+      <l>= Секретарь <signed>Павелъ Искрицкій</signed></l>
+    </p>
+    <p>
+      <l><note place="end">Приписка сделана другим почерком</note>Резолюція на последнее предложеніе</l>
+      <l>Его высокопревосходительства <persName role="namesViewer" target="/names/Лассий.html">Бориса<lb/>
+       Петровича Де лассія</persName> отъ <date when="1799-02-04">4<hi rend="superscript">го</hi> февраля</date></l>
+      <l>препровождается на прежнее пре</l>
+      <l>дложенїе его таковои чинено</l>
+      <l>было что можно видеть изъ копіи</l>
+      <l>отсылаемои последнеи резолюціи</l>
+      <l>= Секретарь <signed><unclear>??? ???</unclear></signed></l>
+    </p>
     <pb xml:id="p506-2" rendition="missing-empty-page" role="facsimileViewer" target=
     "/collections/lvia1799-178/facs/506.html#p506-2"/>
   </body></text>
