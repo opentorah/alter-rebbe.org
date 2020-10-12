@@ -138,6 +138,8 @@ layout: page
   - полный комплект фотографий документов из РГАДА, которые предоставила Елена Волк;
   - новые расшифровки документов, которые выполнил Василий Когаловский.
 
+- 2020: документы TEI преобразуются в HTML при помощи кода; CETEIcean удален.   
+
 ## Colophon ##
 
 Documents are in a GitHub <a href="https://github.com/opentorah/alter-rebbe.org">
@@ -156,7 +158,7 @@ Code that generates the site is in a GitHub <a href="https://github.com/opentora
 
 Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
 
-TEI documents are displayed with [CETEIcean](https://github.com/TEIC/CETEIcean) ([license](/licenses/LICENSE-CETEIcean.md)).
+TEI documents are transformed to HTML for display in the browser.
 
 Static site generated with [Jekyll](https://jekyllrb.com/) using customized
 [Minima](https://github.com/jekyll/minima) theme ([license](/licenses/LICENSE-minima.txt)).
@@ -175,16 +177,3 @@ The site can be served locally by running the following command in `docs`:
 ```
   $ bundle exec jekyll serve
 ```
-
-To update CETEIcean to the current repository version:
-
-```
-  $ git clone git@github.com:TEIC/CETEIcean.git
-  $ cd CETEIcean
-  $ npm clean-install
-  $ npm run-script build
-```
-
-Merge into the archive project:
-- `/test/CETEIcean.css` into `/docs/_sass/CETEIcean.scss`
-- `/dist/CETE.js` into /docs/js/CETEI.js` taking local changes into account
