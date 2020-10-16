@@ -1,18 +1,12 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+// Inspired by Jekyll's Minima
+
+// Reset some basic elements
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
 
-
-
-/**
- * Basic styling
- */
+// Basic styling
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
@@ -28,59 +22,36 @@ body {
   flex-direction: column;
 }
 
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
+// Set `margin-bottom` to maintain vertical rhythm
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
 
-
-
-/**
- * `main` element
- */
+// `main` element
 main {
   display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
-
-
-/**
- * Images
- */
+// Images
 img {
   max-width: 100%;
   vertical-align: middle;
 }
 
-
-
-/**
- * Figures
- */
+// Figures
 figure > img {
   display: block;
 }
-
 figcaption {
   font-size: $small-font-size;
 }
 
 
 
-/**
- * Lists
- */
+// Lists
 ul, ol {
   margin-left: $spacing-unit;
 }
-
 li {
   > ul,
   > ol {
@@ -88,20 +59,23 @@ li {
   }
 }
 
-
-
-/**
- * Headings
- */
+// Headings
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
 }
 
+// Paragraph
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: justify;
+}
+*[rendition~="#center"] p {
+  text-align: center;
+}
 
-
-/**
- * Links
- */
+// Links
 a {
   color: $brand-color;
   text-decoration: none;
@@ -122,6 +96,19 @@ a {
       text-decoration: underline;
     }
   }
+}
+// Page links
+a.pb[missing="true"][empty="true"] {
+  color: orange;
+}
+a.pb[missing="true"]:not([empty="true"]) {
+  color: red;
+}
+a.ref[missing="true"][empty="true"] {
+  color: orange;
+}
+a.ref[missing="true"]:not([empty="true"]) {
+  color: red;
 }
 
 
@@ -224,17 +211,23 @@ pre {
 }
 
 
-
-/**
- * Tables
- */
+//Tables (HTML and TEI)
 table {
   margin-bottom: $spacing-unit;
-  width: 100%;
+  //  width: 100%;
+  width: auto;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
+  //margin-top: 2em;
+  //margin-bottom: 2em;
+  //font-size: 12pt;
+
+  tei-head {
+    text-align: center;
+  }
+
   tr {
     &:nth-child(even) {
       background-color: lighten($grey-color-light, 6%);
@@ -248,7 +241,22 @@ table {
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
+  // Replicate Chrome's and minima's styling of the <th> on the TEI table header row (role="label").
+  tr.row[role=label] td.cell {
+    font-weight: bold;
+    background-color: lighten($grey-color-light, 3%);
+    border: 1px solid darken($grey-color-light, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
+
+    // Keep header visible
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
   td {
     border: 1px solid $grey-color-light;
+  }
+  td.cell {
+    vertical-align: text-top;
   }
 }
