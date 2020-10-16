@@ -253,3 +253,56 @@
     }
   }
 }
+
+// Collection index
+table[rendition="collection-index"] {
+  // Size the columns
+  td.cell[rendition="description"] { width: 44%; }
+  td.cell[rendition="date"       ] { width:  8%; }
+  td.cell[rendition="author"     ] { width: 10%; }
+  td.cell[rendition="addressee"  ] { width: 10%; }
+  td.cell[rendition="language"   ] { width:  4%; }
+  td.cell[rendition="document"   ] { width:  5%; }
+  td.cell[rendition="pages"      ] { width:  8%; }
+  td.cell[rendition="transcriber"] {             }
+
+
+  // Part title
+  [rendition="part-title"] {
+    font-weight: 700;
+    font-size: 32px;
+    color: #1614ff;
+  }
+}
+
+// Document header
+div[rendition="document-header"] {
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+// Facsimile viewer
+div.facsimileViewer {
+  width: 1060px;
+  height: 1586px;
+  overflow: hidden;
+  padding-right: 1em;
+  resize: both;
+
+  div.facsimileScroller {
+    width: 100%;
+    height: 98%;
+    overflow-y: scroll;
+    border: 1px solid black;
+    padding: .25em;
+
+    a:last-child {
+      // TODO make caption of the last picture visible!     padding-bottom: 1em;
+    }
+  }
+}
+
+// Mentions
+[rendition="mentions"] {
+  font-size: smaller;
+}

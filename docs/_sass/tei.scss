@@ -1,37 +1,3 @@
-// Some TEI elements are converted to HTML elements
-// with the original TEI element name added as a 'class' attribute for styling:
-//   pb -> a.pb
-//   persName[ref] -> a.persName
-//   placeName[ref] -> a.placeName
-//   orgName[ref] -> a.orgName
-//   ref -> a.refName
-//   ptr -> a.ptr
-//   graphic -> img.graphic
-//   supplied -> span.supplied
-//   note[place="end"] -> a.note
-//   table -> table.table
-//   row -> tr.row
-//   cell -> td.cell
-//
-// Some TEI elements that are processed by the browsers in a special way
-// (*even* when they are in the TEI namespace!) are renamed:
-//   head -> tei-head
-//   body -> tei-body
-
-// TODO merge stules for p, div, table, a with the ones in minima.
-
-/* language support */
-/* render Arabic, Persian, Ottoman, Hebrew and Yiddish  as rtl */
-[lang = "ar"], [lang = "ota"], [lang = "fa"], [lang = "he"], [lang = "yi"], [lang *="-Arab-AR"]{
-  direction:rtl;
-  text-align:right;
-}
-/* display latin and some other scripts as ltr  */
-[lang = "en"], [lang = "fr"], [lang = "de"], [lang = "it"], [lang = "ru"], [lang = "pl"], [lang *="ar-Latn-"], [lang *="ota-Latn-"]{
-  direction:ltr;
-  text-align:left;
-}
-
 /* Choice elements */
 choice abbr + expan:before,
 choice expan + abbr:before,
@@ -134,15 +100,6 @@ cb {
 cb:before {
   content: "[column break]";
 }
-//td.cell {
-//  border-right: thin solid black;
-//  border-bottom: thin solid black;
-//  padding: 2px;
-//}
-/* for cell or row with @role = label */
-td.cell[role=label] {
-  font-weight: bold;
-}
 corr {
   background-color: #aaffaa;
 }
@@ -177,6 +134,7 @@ explicit {
   font-style: italic;
 }
 /* f */
+// TODO merge into base
 figure {
   display: inline-block;
   //text-align: center;
@@ -186,6 +144,7 @@ figure {
 figure img {
   vertical-align: top;
 }
+
 fw[type='pageNum'] {
   background-color: lightgray;
   border-radius: 1em;
@@ -294,9 +253,6 @@ item {
   display: list-item;
   margin-left: 1em;
 }
-td.cell item {
-  margin-left: 1em;
-}
 /* j */
 /* l */
 l {
@@ -380,22 +336,6 @@ listBibl > bibl {
 }
 /* m */
 /* n */
-a.note[place='end'] {
-  color: red;
-}
-// TODO insert ~1em of space before notes after the first one - when it is not at the beginning of the line!
-.endnote {
-  padding-left: 0;
-}
-.endnote:first-child {
-  padding-left: 0;
-}
-a.endnote-backlink {
-  color: red;
-}
-note[type='gloss'] {
-  background-color: gainsboro;
-}
 /* o */
 ovar {
   font-style: italic;
@@ -408,33 +348,8 @@ origPlace:before {
   content: "Place of Origin: ";
 }
 /* p */
-p {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  text-align: justify;
-}
-*[rendition~="#center"] p {
-  text-align: center;
-}
 availability > p:first-child {
   margin-top: 0em;
-}
-a.pb[missing="true"][empty="true"] {
-  color: orange;
-}
-a.pb[missing="true"]:not([empty="true"]) {
-  color: red;
-}
-person {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-personGrp {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
 }
 postscript {
   display: block;
@@ -476,11 +391,6 @@ remarks:before {
   font-weight: bold;
   content: "remarks: ";
 }
-//row {
-//  display: grid;
-//  grid-auto-flow: column;
-//  grid-auto-columns: 1fr;
-//}
 /* s */
 salute {
   display: block;
@@ -584,17 +494,6 @@ surplus>*:last-child:after {
 TEI {
   display: block;
 }
-table {
-  display: block;
-  border-top: thin solid black;
-  border-left: thin solid black;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  font-size: 12pt;
-}
-table > tei-head {
-  text-align: center;
-}
 teiHeader {
   display: none;
 }
@@ -639,140 +538,40 @@ wit {
 }
 
 
+// Notes
+a.note[place='end'] {
+  color: red;
+}
 div.endnotes {
   padding-top: 2em;
 }
-
-/* Lists of people, places and organizations. */
-
-$tei-list-head-font-size: 32px;
-$tei-list-head-text-indent: -0.5em;
-$tei-named-margin-top: 1em;
-$tei-named-margin-bottom: 1em;
-$tei-named-name-font-size: 24px;
-
-listPerson > tei-head {
-  font-size: $tei-list-head-font-size;
-  text-indent: $tei-list-head-text-indent;
+// TODO insert ~1em of space before notes after the first one - when it is not at the beginning of the line!
+.endnote {
+  padding-left: 0;
 }
-listPlace > tei-head {
-  font-size: $tei-list-head-font-size;
-  text-indent: $tei-list-head-text-indent;
+.endnote:first-child {
+  padding-left: 0;
 }
-listOrg > tei-head {
-  font-size: $tei-list-head-font-size;
-  text-indent: $tei-list-head-text-indent;
+a.endnote-backlink {
+  color: red;
+}
+note[type='gloss'] {
+  background-color: gainsboro;
 }
 
-person {
+// Entities, entity lists, entity names.
+listPerson > tei-head, listPlace > tei-head, listOrg > tei-head {
+  font-size: 32px;
+  text-indent: -0.5em;
+}
+person, place, org, personGrp {
   display: block;
-  margin-top: $tei-named-margin-top;
-  margin-bottom: $tei-named-margin-bottom;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
-place {
+person > persName, place > placeName, org > orgName {
   display: block;
-  margin-top: $tei-named-margin-top;
-  margin-bottom: $tei-named-margin-bottom;
-}
-org {
-  display: block;
-  margin-top: $tei-named-margin-top;
-  margin-bottom: $tei-named-margin-bottom;
-}
-
-person > persName {
-  display: block;
-  font-size: $tei-named-name-font-size;
-}
-place > placeName {
-  display: block;
-  font-size: $tei-named-name-font-size;
-}
-org > orgName {
-  display: block;
-  font-size: $tei-named-name-font-size;
-}
-
-.mentions {
-  font-size: smaller;
-}
-
-
-/* Tables. */
-
-table {
-  margin-bottom: $spacing-unit;
-  width: auto;
-  text-align: $table-text-align;
-  color: lighten($text-color, 18%);
-  border-collapse: collapse;
-  border: 1px solid $grey-color-light;
-  tr.row {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
-    }
-
-    td.cell {
-      vertical-align: text-top;
-      padding: ($spacing-unit / 3) ($spacing-unit / 2);
-      border: 1px solid $grey-color-light;
-    }
-  }
-}
-
-
-
-/* Collection index. */
-
-table[rendition="collection-index"] {
-  // TEI/CETEIcean do not handle table header, so the first row is it:
-  tr.row:first-child {
-    td.cell {
-      // Replicate Chrome's and minima's styling of the th
-      // on the td elements of the first row (thead/tr analogue):
-      font-weight: bold;
-      background-color: lighten($grey-color-light, 3%);
-      border: 1px solid darken($grey-color-light, 4%);
-      border-bottom-color: darken($grey-color-light, 12%);
-
-      // Keep header visible
-      position: -webkit-sticky;
-      position: sticky;
-      top: 0;
-    }
-  }
-
-  // Size the columns
-  td.cell[rendition="description"] { width: 44%; }
-  td.cell[rendition="date"       ] { width:  8%; }
-  td.cell[rendition="author"     ] { width: 10%; }
-  td.cell[rendition="addressee"  ] { width: 10%; }
-  td.cell[rendition="language"   ] { width:  4%; }
-  td.cell[rendition="document"   ] { width:  5%; }
-  td.cell[rendition="pages"      ] { width:  8%; }
-  td.cell[rendition="transcriber"] {             }
-
-
-  // Part title
-  [rendition="part-title"] {
-    font-weight: 700;
-    font-size: 32px;
-    color: #1614ff;
-  }
-
-  a.ref[missing="true"][empty="true"] {
-    color: orange;
-  }
-  a.ref[missing="true"]:not([empty="true"]) {
-    color: red;
-  }
-}
-
-/* Document. */
-
-ab[rendition="document-header"] {
-  background-color: #f0f0f0;
-  padding: 10px;
+  font-size: 24px;
 }
 
 
