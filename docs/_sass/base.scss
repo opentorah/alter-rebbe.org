@@ -97,6 +97,10 @@ a {
     }
   }
 }
+// Names with no references
+a:not([href]) {
+  color: lighten($brand-color, 15%);
+}
 // Page links
 a.pb[missing="true"][empty="true"] {
   color: orange;

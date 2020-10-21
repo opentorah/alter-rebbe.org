@@ -479,9 +479,16 @@ stamp:before {
   font-weight: bold;
   content: "Stamped: ";
 }
-span.supplied {
+supplied {
   background-color: #aaffaa;
 }
+supplied:before {
+  content: '[';
+}
+supplied:after {
+  content: ']';
+}
+
 surplus>*:first-child:before {
   content: "\a[";
   white-space: pre;
@@ -545,12 +552,8 @@ a.note[place='end'] {
 div.endnotes {
   padding-top: 2em;
 }
-// TODO insert ~1em of space before notes after the first one - when it is not at the beginning of the line!
-.endnote {
-  padding-left: 0;
-}
-.endnote:first-child {
-  padding-left: 0;
+.endnote + .endnote {
+  padding-left: 1em;
 }
 a.endnote-backlink {
   color: red;
