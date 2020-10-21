@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store n="5580" type="org.opentorah.collector.Manuscript">
-  <title xmlns="http://www.tei-c.org/ns/1.0"/>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0"/>
+  <title xmlns="http://www.tei-c.org/ns/1.0">Рижские первой гильдии купцы Шнеерсон 
+  8 декабря 1838 г.</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">
+   <p>
+      <l><ref target="http://rgia.su/object/3650585">Вебсайт</ref></l>
+      <l><ref target=
+      "https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/rgia/fund/1343/inventory/39/case/5580/p230.jpg"
+      >Запись в описи на 230 стр.</ref></l>
+    </p>
+  </abstract>
   <body xmlns="http://www.tei-c.org/ns/1.0"><p>Фотографии предоставил Константин Пименов.</p></body>
   <by selector="document" directory="tei"/>
 </store>
