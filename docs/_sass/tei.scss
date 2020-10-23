@@ -572,7 +572,7 @@ person, place, org, personGrp {
   margin-top: 1em;
   margin-bottom: 1em;
 }
-person > persName, place > placeName, org > orgName {
+person > a.persName, place > a.placeName, org > a.orgName {
   display: block;
   font-size: 24px;
 }
