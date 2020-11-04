@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-06-28">28 июня 1799 года</date></creation>
-    <abstract>Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> <orgName ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> - развернутый ответ на возражения, поданные к судебному процессу советником <persName ref="Елиашевич">Елиашевичем</persName> и иными участниками</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> <orgName ref=
+      "Литовский_надворный_суд">Литовскому надворному суду</orgName> - развернутый ответ на возражения, поданные к
+      судебному процессу советником <persName ref="Елиашевич">Елиашевичем</persName> и иными участниками</abstract>
+      <creation><date when="1799-06-28">28 июня 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="516-1"/>
@@ -12,7 +18,8 @@
     <fw type="note">Подано <date when="1799-06-28">28 јюня 1799 года</date>.</fw>
     <fw type="pageNum" place="right"><del rend="overstrike">12</del></fw>
     <fw type="pageNum" place="right">516.</fw>
-    <fw type="note" place="left margin"><date when="1799-05-30">Маія 30 числа</date></fw><note place="end">пометка карандашом</note>
+    <fw type="note" place="left margin"><date when="1799-05-30">Маія 30 числа</date></fw><note place="end">пометка
+    карандашом</note>
     <head>
       <l>въ <orgName ref="Литовский_надворный_суд">Литовскій Надворный судъ</orgName></l>
       <l>виленскаго купца еврея <persName ref="Мовша_Ошерович">Мойжеша Ошеровича</persName></l>
@@ -3078,72 +3085,82 @@
       <l>нужденъ былъ прїискивать знающихъ</l>
       <l>оныя людей, кои могли бы всѣ тѣ бу-</l>
       <l>маги перевесть на еврейской языкъ,</l>
-<pb n="567-2"/>
-<l>и написать на нѣсколько десяткахъ ли-</l>
-<l>стовъ объясненїе; <del rend="overstrike">не менѣе</del> <hi rend="superscript">къ тому жъ</hi> <del rend="overstrike">для вящ-</del></l>
-<l><del rend="overstrike">шаго доказательства</del> пока подалъ</l>
-<l>я въ <orgName ref="Литовское_губернское_правление">Губернское правленїе</orgName> прозбы о выдачѣ</l>
-<l>мнѣ <hi rend="superscript">для вящшаго доказательства</hi> нѣкоторыхъ копїй <del rend="overstrike">прозбы</del> и</l>
-<l>пока получилъ на таковыя <hi rend="superscript">прозбы</hi> резолю-</l>
-<l>цїи, <hi rend="superscript">то</hi> должно было продлиться время</l>
-<l><hi rend="superscript">а сихъ</hi> ради <del rend="overstrike">каковыхъ</del> причинъ, да не по-</l>
-<l>ставитъ мнѣ <hi rend="superscript">Надворный</hi> <orgName ref="Литовский_надворный_суд">судъ</orgName> таковой прово-</l>
-<l>лочки въ преступленїе, <hi rend="superscript">каковаго я опасаюсь</hi> Имѣлъ бы <del rend="overstrike">я</del></l>
-<l>и еще во многомъ объясняться каса-</l>
-<l>тельно состоявшихся <date when="1798-04-28">1798 года апре-<lb/>
-ля 28 числа</date>, <date when="1799-02-15">1799 года февраля 15<lb/>
-числа</date> и прочихъ <orgName ref="Литовское_губернское_правление">Литовскаго губерн-<lb/>
-скаго правленїя</orgName> резолюцїй и въ опра-</l>
-<l>вданїе себя моихъ жалобъ  представить</l>
-<l>доводы; но по скудости времени при-</l>
-<l>нужденъ <del rend="overstrike">былъ</del> <hi rend="superscript">себя нахожу</hi> все то оставить. <del rend="overstrike">Осо-</del></l>
-<l><del rend="overstrike">бо жъ</del> <hi rend="superscript">наконецъ и</hi> на возраженїе <del rend="overstrike">Его Превосходи-</del></l>
-<l><del rend="overstrike">тельства</del> г<hi rend="superscript">на</hi> <persName ref="Капцевич">коменданта</persName> и совѣт-</l>
-<l>ника <persName ref="Елиашевич">Елїяшевича</persName> касательно утайки</l>
-<l>якобы кагаломъ въ ревизїи мужеска</l>
-<l><hi rend="superscript">пола</hi> душъ, ничего <hi rend="superscript">не отвѣтствовалъ я</hi> въ семъ объясненїи <del rend="overstrike">я не</del></l>
-<l>отвѣтствовалъ по причинѣ, что ни о-</l>
-<l>динъ изъ <choice><sic>кальныхъ</sic><corr>кагальныхъ</corr></choice> подписавшихся</l>
-<l>у меня на довѣренности въ 1798 году,</l>
-<l>когда списывана была <orgName ref="Виленский_кагал">кагаломъ</orgName></l>
-<l><hi rend="superscript">та</hi> ревизїя душъ, кагальнымъ <hi rend="superscript">членомъ</hi> не былъ; <del rend="overstrike">но</del></l>
-<l>то только для предосторожности <hi rend="superscript">доношу</hi>, что</l>
-<l>ту ревизїю та ревизїя учиненная по-</l>
-<l>лицїею не можетъ быть правильна</l>
-<l>потому, что записаны въ ней нездѣшнїе</l>
-<pb n="568-1"/>
-<fw type="pageNum" place="right">568</fw>
-<l>и во время первой ревизїи не нахо-</l>
-<l>дившїеся въ <placeName ref="Вильна">вильнѣ</placeName> люди. А какъ</l>
-<l>для учиненїя объясненїя <del rend="overstrike">на все то</del> <hi rend="superscript">противу всего того</hi>,</l>
-<l>что только <del rend="overstrike">изъ противныхъ сторонъ</del> <hi rend="superscript">противными сторонами</hi></l>
-<l>на <orgName ref="Виленский_кагал">кагалъ</orgName> выискано и напастно выработано,</l>
-<l>потребно имѣть по крайней мѣрѣ</l>
-<l>имѣть полтора года времени;</l>
-<l><hi rend="superscript">то</hi> <del rend="overstrike">почему</del> ежели войдетъ <hi rend="superscript">Надворный</hi> <orgName ref="Литовский_надворный_суд">судъ</orgName> въ раз-</l>
-<l>смотренїе всѣхъ <orgName ref="Литовское_губернское_правление">правленїя</orgName> резолю-</l>
-<l>цїй, по дѣлу <orgName ref="Виленский_кагал">виленскаго кагала</orgName> со-</l>
-<l>стоявшихся, и поправитъ оныхъ не</l>
-<l>правильности, <del rend="overstrike">почту себя</del> въ то вре-</l>
-<l>мя <hi rend="superscript">почту я себя</hi> обязаннымъ во всѣхъ подробныхъ</l>
-<l>пунктахъ объясниться, <del rend="overstrike">и</del> показать</l>
-<l>неправильное понынѣ поступанїе</l>
-<l>съ <orgName ref="Виленский_кагал">виленскимъ кагаломъ</orgName>, и на всѣ</l>
-<l>выработанные возраженїя предста-</l>
-<l>вить ясныя объясненїя и доказа-</l>
-<l>тельствы. Подлинное по еврейс-</l>
-<l>ки подписано.</l>
- </p>
-<closer place="left">
-<l><date when="1799-06-28">Јюня 28/ Јюля 9 1799 года</date>.</l>
-</closer>
-<pb n="568-2"/>
-<p>
-<l>Въ семъ дѣлѣ номерованныхъ</l>
-<l>листовъ пятьсотъ восемдесятъ шесдѣсятъ</l>
-<l>восемь № 568.= <signed><unclear>???</unclear></signed></l>
-<l>8 класса совѣтникъ</l>
-</p>
- <note place="end">далее следуют архивные пометки 1977 г. о числе имеющихся и пропущенных листов и номере дела</note>  
- </body></text>
+      <pb n="567-2"/>
+      <l>и написать на нѣсколько десяткахъ ли-</l>
+      <l>стовъ объясненїе; <del rend="overstrike">не менѣе</del> <hi rend="superscript">къ тому жъ</hi> <del rend=
+      "overstrike">для вящ-</del></l>
+      <l><del rend="overstrike">шаго доказательства</del> пока подалъ</l>
+      <l>я въ <orgName ref="Литовское_губернское_правление">Губернское правленїе</orgName> прозбы о выдачѣ</l>
+      <l>мнѣ <hi rend="superscript">для вящшаго доказательства</hi> нѣкоторыхъ копїй <del rend="overstrike">прозбы</del>
+      и</l>
+      <l>пока получилъ на таковыя <hi rend="superscript">прозбы</hi> резолю-</l>
+      <l>цїи, <hi rend="superscript">то</hi> должно было продлиться время</l>
+      <l><hi rend="superscript">а сихъ</hi> ради <del rend="overstrike">каковыхъ</del> причинъ, да не по-</l>
+      <l>ставитъ мнѣ <hi rend="superscript">Надворный</hi> <orgName ref="Литовский_надворный_суд">судъ</orgName> таковой
+      прово-</l>
+      <l>лочки въ преступленїе, <hi rend="superscript">каковаго я опасаюсь</hi> Имѣлъ бы <del rend="overstrike">я</del>
+      </l>
+      <l>и еще во многомъ объясняться каса-</l>
+      <l>тельно состоявшихся <date when="1798-04-28">1798 года апре-<lb/>
+       ля 28 числа</date>, <date when="1799-02-15">1799 года февраля 15<lb/>
+       числа</date> и прочихъ <orgName ref="Литовское_губернское_правление">Литовскаго губерн-<lb/>
+       скаго правленїя</orgName> резолюцїй и въ опра-</l>
+      <l>вданїе себя моихъ жалобъ представить</l>
+      <l>доводы; но по скудости времени при-</l>
+      <l>нужденъ <del rend="overstrike">былъ</del> <hi rend="superscript">себя нахожу</hi> все то оставить. <del rend=
+      "overstrike">Осо-</del></l>
+      <l><del rend="overstrike">бо жъ</del> <hi rend="superscript">наконецъ и</hi> на возраженїе <del rend="overstrike"
+      >Его Превосходи-</del></l>
+      <l><del rend="overstrike">тельства</del> г<hi rend="superscript">на</hi> <persName ref="Капцевич"
+      >коменданта</persName> и совѣт-</l>
+      <l>ника <persName ref="Елиашевич">Елїяшевича</persName> касательно утайки</l>
+      <l>якобы кагаломъ въ ревизїи мужеска</l>
+      <l><hi rend="superscript">пола</hi> душъ, ничего <hi rend="superscript">не отвѣтствовалъ я</hi> въ семъ объясненїи
+      <del rend="overstrike">я не</del></l>
+      <l>отвѣтствовалъ по причинѣ, что ни о-</l>
+      <l>динъ изъ <choice><sic>кальныхъ</sic><corr>кагальныхъ</corr></choice> подписавшихся</l>
+      <l>у меня на довѣренности въ 1798 году,</l>
+      <l>когда списывана была <orgName ref="Виленский_кагал">кагаломъ</orgName></l>
+      <l><hi rend="superscript">та</hi> ревизїя душъ, кагальнымъ <hi rend="superscript">членомъ</hi> не былъ; <del rend=
+      "overstrike">но</del></l>
+      <l>то только для предосторожности <hi rend="superscript">доношу</hi>, что</l>
+      <l>ту ревизїю та ревизїя учиненная по-</l>
+      <l>лицїею не можетъ быть правильна</l>
+      <l>потому, что записаны въ ней нездѣшнїе</l>
+      <pb n="568-1"/>
+      <fw type="pageNum" place="right">568</fw>
+      <l>и во время первой ревизїи не нахо-</l>
+      <l>дившїеся въ <placeName ref="Вильна">вильнѣ</placeName> люди. А какъ</l>
+      <l>для учиненїя объясненїя <del rend="overstrike">на все то</del> <hi rend="superscript">противу всего
+      того</hi>,</l>
+      <l>что только <del rend="overstrike">изъ противныхъ сторонъ</del> <hi rend="superscript">противными сторонами</hi>
+      </l>
+      <l>на <orgName ref="Виленский_кагал">кагалъ</orgName> выискано и напастно выработано,</l>
+      <l>потребно имѣть по крайней мѣрѣ</l>
+      <l>имѣть полтора года времени;</l>
+      <l><hi rend="superscript">то</hi> <del rend="overstrike">почему</del> ежели войдетъ <hi rend="superscript"
+      >Надворный</hi> <orgName ref="Литовский_надворный_суд">судъ</orgName> въ раз-</l>
+      <l>смотренїе всѣхъ <orgName ref="Литовское_губернское_правление">правленїя</orgName> резолю-</l>
+      <l>цїй, по дѣлу <orgName ref="Виленский_кагал">виленскаго кагала</orgName> со-</l>
+      <l>стоявшихся, и поправитъ оныхъ не</l>
+      <l>правильности, <del rend="overstrike">почту себя</del> въ то вре-</l>
+      <l>мя <hi rend="superscript">почту я себя</hi> обязаннымъ во всѣхъ подробныхъ</l>
+      <l>пунктахъ объясниться, <del rend="overstrike">и</del> показать</l>
+      <l>неправильное понынѣ поступанїе</l>
+      <l>съ <orgName ref="Виленский_кагал">виленскимъ кагаломъ</orgName>, и на всѣ</l>
+      <l>выработанные возраженїя предста-</l>
+      <l>вить ясныя объясненїя и доказа-</l>
+      <l>тельствы. Подлинное по еврейс-</l>
+      <l>ки подписано.</l>
+    </p>
+    <closer place="left"><l><date when="1799-06-28">Јюня 28/ Јюля 9 1799 года</date>.</l></closer>
+    <pb n="568-2"/>
+    <p>
+      <l>Въ семъ дѣлѣ номерованныхъ</l>
+      <l>листовъ пятьсотъ восемдесятъ шесдѣсятъ</l>
+      <l>восемь № 568.= <signed><unclear>???</unclear></signed></l>
+      <l>8 класса совѣтникъ</l>
+    </p>
+    <note place="end">далее следуют архивные пометки 1977 г. о числе имеющихся и пропущенных листов и номере дела</note>
+  </body></text>
 </TEI>
