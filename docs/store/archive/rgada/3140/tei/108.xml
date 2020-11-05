@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Рафаил_Шлиомович">Рафаила Шлиомовича</persName>; перевод:
@@ -14,6 +17,56 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="108-1"/>
-    <pb n="108-2"/>
+    <fw type="docNum">№ 8</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">20</del>.</fw>
+    <fw type="pageNum" place="right">108.</fw>
+    <p>
+      <l>Zowią mnie <persName ref="Рафаил_Шлиомович">Rafałem Szlomowi<lb/>
+       czem</persName>, od urodzenia mam Lat 36.</l>
+      <l>Żonaty mam Dzieci Synow Judę Ley</l>
+      <l>bowicza, Bejomina y Lewi Córek</l>
+      <l>dwuch Urodziłemsię w miasteczku</l>
+      <l><placeName ref="Видзы">Widzach</placeName> bawięsię Przedażą Trunkow,</l>
+      <l><orgName ref="Хасиды">DoSekty Karolinow</orgName> jak przyłączyłem</l>
+      <l>się Lat Dwadzieścia <placeName ref="Видзы">wwidzach</placeName>,</l>
+      <l>Rok temu mija Dziewąty jak by</l>
+      <l>łem <placeName ref="Лиозно">uLozenskiego</placeName> <persName ref="alter-rebbe">Rabina Zelma<lb/>
+       na Boruchowicza</persName> y takową Podroż</l>
+      <l>odprawiłem iedynie dla tego abym</l>
+      <l>mogł co kolwiek Profitować znauk</l>
+      <l>iego; terazniejszego zas Lata był przy</l>
+      <l>słany do <persName ref="alter-rebbe">Lozenskiego Rabina</persName></l>
+      <l>Żyd, ajak iego zowią niewiem,</l>
+      <l>dla zebrania Pieniędzy na ubogich</l>
+      <l>u <persName ref="alter-rebbe">Rabina</persName> zostających. <orgName ref="Хасиды">Sektaz Karo<lb/>
+       linska</orgName> ufundowana na Hebrey</l>
+      <l>skim Zwyczaju atylko się Rożni</l>
+      <l>wCeremoniach ─ y nie</l>
+      <l>ktore Modlitwy Przemienione, Zwierz</l>
+      <l>chnikiem <placeName ref="Литва">Litewskich</placeName> <orgName ref="Хасиды">Ƶydow Karo<lb/>
+       linow</orgName> iest <persName ref="alter-rebbe">Lozenski Rabin Zelman<lb/>
+       Boruchowicz</persName> adalszych <placeName ref="Ляховичи">Lachowicki</placeName></l>
+      <l><persName ref="Мордух">Rabin Morduch</persName>, Berdyczewski</l>
+      <l><persName ref="Леви_Ицхак_из_Бердичева">Leyba</persName>, Kowienicki Rabin Srol</l>
+      <l>y miasteczka <placeName ref="Нескиза">Nichochiza</placeName> Rabin</l>
+      <l>Mordchol ─ Plenipotęcyą <persName ref="Гирш_Иоселиович">Hir<lb/>
+       szowi Jesielowiczowi</persName> dla podania</l>
+      <l>prozby do <orgName ref="Литовское_губернское_правление">Rządu</orgName> dalismy dlatego</l>
+      <l>że między Ƶydami a <orgName ref="Хасиды">Sektą Karolinską</orgName></l>
+      <l>był Spor o wyslaniu Dwuch Deputatow</l>
+      <pb n="108-2"/>
+      <fw type="pageNum" place="right">108 об.</fw>
+      <l>do <placeName ref="Вильна">wilna</placeName> Potrzebowanych Przez</l>
+      <l><orgName ref="Виленский_кагал">Kahał wilenski</orgName> ─ Listy zas</l>
+      <l>ktore były pisane <persName ref="Нохим_Ицкович">doNochima<lb/>
+       Jckowicza</persName> y <persName ref="Борух_Мордухович">Borucha Morduchowi<lb/>
+       cza</persName> odemnie. Pisał one <persName ref="Мовша_Ицкович">mowsza<lb/>
+       Jckowicz</persName> a ia podpisywałem Tenzas</l>
+      <l>List ktory był pisany do <orgName ref="Виленский_кагал">Kahała<lb/>
+       Wilenskiego</orgName> nie jest złym wmojm</l>
+      <l>Rozumieniu lecz tylko przeciwnym</l>
+      <l><orgName ref="Хасиды">Karolinom</orgName>.</l>
+      <signed><persName ref="Рафаил_Шлиомович">???</persName></signed><note place="end">подпись на иврите</note>
+    </p>
   </body></text>
 </TEI>
