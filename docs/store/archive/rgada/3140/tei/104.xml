@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt><editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName>; перевод:
@@ -14,6 +15,21 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="104-1"/>
+    <fw type="pageNum" place="right">104</fw>
+    <p><l>Zowią mnie <persName ref="Зелман_Янкелевич">Zelmanem Jankielowiczem</persName></l>
+<l>od urodzenia mam Lat 30 bawięsię</l>
+<l>mieszczanskim przemysłem urodziłemsię</l>
+<l>w miasteczku <placeName ref="Оникшты">Oniksztach</placeName> w <placeName ref="Вильна">wilnie</placeName></l>
+<l>jak mieszkam więcey dwudziestu</l> 
+<l>Lat Żonaty iestem mam Dzieci Sy</l>
+<l>now Hirszę yChaykę, Do <orgName ref="Хасиды">Sekty Karo<lb/>
+linow</orgName> jaksię przyłączyłrm trzeci Rok</l>
+<l>y wten czas byłem w <placeName ref="Лиозно">Loznie</placeName> u <persName ref="alter-rebbe">Ra<lb/>
+bina</persName> a także w <placeName ref="Ляховичи">Lachowiczach</placeName> utamecz</l>
+<l>nego <persName ref="Мордух">Rabina</persName> ytakową podroz od</l>
+<l>prawiłem zpowodztwa Handlu o dal</l>
+<l>szym niczym niewiem.</l></p>
+<l><signed><persName ref="Зелман_Янкелевич">???</persName></signed><note place="end">Подпись на иврите</note></l>
     <pb n="104-2"/>
   </body></text>
 </TEI>
