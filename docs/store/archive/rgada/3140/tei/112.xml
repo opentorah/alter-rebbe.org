@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Михель_Файбишович">Михеля Файбишовича</persName>; перевод:
@@ -14,6 +16,21 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="112-1"/>
-    <pb n="112-2"/>
+    <fw type="docNum" place="left">№ 10</fw>						<fw type="pageNum" place="right"><del rend="overstrike">9</del></fw>
+<fw type="pageNum" place="right">112</fw>
+<p>
+<l>Zowią mnie <persName ref="Михель_Файбишович">michelem Fajbiszowiczem</persName></l>
+<l>od urodzenia mam Lat 20 bawięsię</l>
+<l>mliwem urodziłem się wmieście <placeName ref="Вильна">wilnie</placeName></l>
+<l>Żonaty mam Syna Eliasza y Corkę</l>
+<l>Rochę, do <orgName ref="Хасиды">Sekty Karolinow</orgName> mieszkaiąc</l> 
+<l>wdomu <persName ref="Меер_Рафалович">mejera Rafałowicza</persName> przyłą</l>
+<l>czyłemsię Lat dwie, <persName ref="Мордух">uRabina</persName> <placeName ref="Ляховичи">Lacho<lb/>
+wickiego</placeName> byłem iedynie dla tego że</l>
+<l>słyszałem o iego doskonałościach</l>
+<l>o dalszym niczym niewiem.</l>
+<l><signed><persName ref="Михель_Файбишович">???</persName></signed><note place="end">подпись на иврите</note></l>
+</p>		
+  <pb n="112-2"/>
   </body></text>
 </TEI>
