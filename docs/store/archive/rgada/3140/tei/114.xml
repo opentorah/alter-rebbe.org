@@ -2,8 +2,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Зелман_Леизерович">Зелмана Лейзеровича</persName>; перевод:
@@ -16,29 +17,31 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="114-1"/>
-<fw type="docNum" place="left">№ 11</fw>							<fw type="pageNum" place="right"><del rend="overstrike">14.</del></fw>
-<fw type="pageNum" place="right">114.</fw>
-<p>
-<l>Zowią mnie <persName ref="Зелман_Леизерович">Zelmanem Leyzarowiczem</persName></l>
-<l>od urodzenia mam Lat 43. bawięsię</l>
-<l>przedażą trunkow iztąd mam sposob</l>
-<l>do życia. Rodem Z <placeName ref="Минск">Zaminska</placeName> zmia</l>
-<l>steczka Tukory jestem żonaty na Cur</l>
-<l>ce <persName ref="Меер_Рафалович">Rafałowicza</persName> Dzieci mam Czte</l>
-<l>rech Synow Chaima, Rafała, Judela</l>
-<l>y Berkę, curek dwóch Szeynę yEster</l>
-<l>bele jak mieszkam w <placeName ref="Вильна">wilnie</placeName> 29 Rok</l>
-<l>ja do <orgName ref="Хасиды">Sekty</orgName> niełączyłemsię a chociasz</l>
-<l>y iezdziłem do <placeName ref="Лиозно">Lozna</placeName> lecznie dla czego</l> 
-<l>innego jak tylo dla odzyskania</l> 
-<l>Pieniędzy  lokowanych u <persName ref="alter-rebbe">niego</persName> prze</l>
-<l>zemnie yŻyda Połockiego wexlarza</l>
-<l>Neacha na posak maiącysię  dać</l> 
-<l>dla moiey Corki a Neacha Syna</l>
-<l>takową podroz odprawiłem ja wRo</l>
-<l>ku 1797 woktobrze miesiącu.</l>
-<signed><unclear><persName ref="Зелман_Леизерович">???</persName></unclear></signed><note place="end">подпись на иврите</note>
-</p>
+    <fw type="docNum" place="left">№ 11</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">14.</del></fw>
+    <fw type="pageNum" place="right">114.</fw>
+    <p>
+      <l>Zowią mnie <persName ref="Зелман_Леизерович">Zelmanem Leyzarowiczem</persName></l>
+      <l>od urodzenia mam Lat 43. bawięsię</l>
+      <l>przedażą trunkow iztąd mam sposob</l>
+      <l>do życia. Rodem Z <placeName ref="Минск">Zaminska</placeName> zmia</l>
+      <l>steczka Tukory jestem żonaty na Cur</l>
+      <l>ce <persName ref="Меер_Рафалович">Rafałowicza</persName> Dzieci mam Czte</l>
+      <l>rech Synow Chaima, Rafała, Judela</l>
+      <l>y Berkę, curek dwóch Szeynę yEster</l>
+      <l>bele jak mieszkam w <placeName ref="Вильна">wilnie</placeName> 29 Rok</l>
+      <l>ja do <orgName ref="Хасиды">Sekty</orgName> niełączyłemsię a chociasz</l>
+      <l>y iezdziłem do <placeName ref="Лиозно">Lozna</placeName> lecznie dla czego</l>
+      <l>innego jak tylo dla odzyskania</l>
+      <l>Pieniędzy lokowanych u <persName ref="alter-rebbe">niego</persName> prze</l>
+      <l>zemnie yŻyda Połockiego wexlarza</l>
+      <l>Neacha na posak maiącysię dać</l>
+      <l>dla moiey Corki a Neacha Syna</l>
+      <l>takową podroz odprawiłem ja wRo</l>
+      <l>ku 1797 woktobrze miesiącu.</l>
+      <signed><unclear><persName ref="Зелман_Леизерович">???</persName></unclear></signed><note place="end">подпись на
+      иврите</note>
+    </p>
     <pb n="114-2"/>
   </body></text>
 </TEI>
