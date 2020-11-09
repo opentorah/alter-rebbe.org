@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Шая_Ицкович">Шая Ицковича</persName>; перевод: <ref target=
@@ -14,6 +17,26 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="119-1"/>
-    <pb n="119-2"/>
+<fw type="docNum">№ 14</fw>     						<fw type="pageNum" place="right"><del rend="overstrike">12.</del></fw>	
+<fw type="pageNum" place="right">119</fw>		
+<fw type="pageNum" place="right"><del rend="overstrike">120.</del></fw>
+<p>										
+<l>Zowią mnie Szaią Jckowiczem</l>
+<l>od urodzenia mam Lat 36 bawię</l>
+<l>się mieszczanskim przemysłem, uro</l>
+<l>dziłemsię wmieście <placeName ref="Вильна">wilnie</placeName>. Żonaty</l>
+<l>Curek mam czterech trzeci Rok jak</l> 
+<l>się Przyłączyłem do <orgName ref="Хасиды">Sekty Karolinskiey</orgName></l>
+<l>ylat temu siedem jak będąć w <placeName ref="Лиозно">Lo<lb/>
+znie</placeName> widӡiałem tamecznego Rabi<lb/>
+na — do <orgName ref="Хасиды">Sekta Karolinow</orgName> przyłą</l>
+<l>czyłem się dla tego że onych Liczą</l>
+<l>Zanabożnych o <persName ref="Арон">aronie</persName> niesłyszałem</l>
+<l><persName ref="Соломон">Salomona</persName> widziałem <placeName ref="Минск">wminsku</placeName></l>
+<l>apotym słyszałem że zabity odal</l>
+<l>szym nic niewiem.</l>
+<l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+</p>		
+  <pb n="119-2"/>
   </body></text>
 </TEI>
