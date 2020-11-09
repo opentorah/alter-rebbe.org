@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><editor role="transcriber">
-    <persName ref="AW">Alina Wolska</persName></editor>
-<editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Ицко_Сайович">Ицка Сайовича</persName>; перевод: <ref
@@ -15,26 +15,15 @@
       </date></creation>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="pl"><body>
-    <pb n="118-1"/>
-    <fw type="docNum" place="left">№ 13</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">11</del></fw>	<fw type="pageNum" place="right">118.</fw>
-<p>
-<l>Zowią mnie Jckiem Sajowiczem</l>
-<l>Od urodzenia Lat mam 19 bawię</l>
-<l>się przedaniem trunkow urodziłemsię</l>
-<l>wmiasteczku <placeName ref="Оникшты">Oniksztach</placeName> w <placeName ref="Вильна">wilnie</placeName></l>
-j<l>ak mieszkam Szosty Rok, żonaty</l>
-<l>mam Syna Saję Przyłączyłemsię</l>
-<l>do <orgName ref="Хасиды">Sekty Karolinow</orgName> trzeci Rok ydla</l>
-<l>tego to uczyniłem że sposob modle</l>
-<l>niasię Ich podobał. względem Ƶyda</l>
-<l><persName ref="Орлик_Мовшович">Orlika</persName> wyznał zgodnie z <persName ref="Вулф_Шимелиович">Wulfem<lb/>
-Symelowiczem</persName> aodalszym nic</l>
-<l>niewiem.</l>
-<signed><unclear>???</unclear></signed><note place="end">Подпись на иврите</note>
-	</p>	(własnoręczny podpis)
-
-    <pb n="118-2"/>
-  </body></text>
+  <text xml:lang="pl"><body><pb n="118-1"/> <fw type="docNum" place="left">№ 13</fw> <fw type="pageNum" place="right">
+  <del rend="overstrike">11</del></fw> <fw type="pageNum" place="right">118.</fw> <p>
+    <l>Zowią mnie Jckiem Sajowiczem</l> <l>Od urodzenia Lat mam 19 bawię</l> <l>się przedaniem trunkow urodziłemsię</l>
+    <l>wmiasteczku <placeName ref="Оникшты">Oniksztach</placeName> w <placeName ref="Вильна">wilnie</placeName></l> j<l
+    >ak mieszkam Szosty Rok, żonaty</l> <l>mam Syna Saję Przyłączyłemsię</l> <l>do <orgName ref="Хасиды">Sekty
+    Karolinow</orgName> trzeci Rok ydla</l> <l>tego to uczyniłem że sposob modle</l> <l>niasię Ich podobał. względem
+    Ƶyda</l> <l><persName ref="Орлик_Мовшович">Orlika</persName> wyznał zgodnie z <persName ref="Вулф_Шимелиович"
+    >Wulfem<lb/>
+     Symelowiczem</persName> aodalszym nic</l> <l>niewiem.</l> <signed><unclear>???</unclear></signed><note place="end"
+    >Подпись на иврите</note>
+  </p> (własnoręczny podpis) <pb n="118-2"/></body></text>
 </TEI>
