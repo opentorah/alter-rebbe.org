@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Борух_Мордухович">Боруха Мордуховича</persName>; перевод:
@@ -14,6 +17,27 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="124-1"/>
+ <fw type="docNum" place="left">№ 16.</fw>							<fw type="pageNum" place="right"><del rend="overstrike">15</del></fw>
+<fw type="pageNum" place="right">124</fw>
+<p>  
+<l>Zowią mnie <persName ref="Борух_Мордухович">Boruchiem Mordu<lb/>
+chiem</persName> od Urodzenia mam Lat 26</l>
+<l>Bawięsię przdażą Trunkow Ro</l>
+<l>dem Ze Lwowa w <placeName ref="Вильна">wilnie</placeName> jak miesz</l>
+<l>kam czwarty Rok y przedtym Już</l>
+<l>Lat dziewięć jak byłem <placeName ref="Вильна">wwilnie</placeName>.</l>
+<l>Żonaty Dzieci mam. Dwuch Synow</l>
+<l>Samuela y Leybę, chociasz ja <orgName ref="Хасиды">zSektą<lb/>
+Karolinow</orgName> yżyłem wprzyjaźni lecz</l>
+<l>dooney nielączyłemsię do <placeName ref="Лиозно">Lozna</placeName> Lubo</l>
+<l>y Jeździłem lecz nie do <persName ref="alter-rebbe">Rabina</persName> ado</l> 
+<l>nauczyciela Jakuba Szymanowicza</l>
+<l>gdzie ybyłem przez cały Rok aztam</l>
+<l>tąd jak przybyłem piąty miesiąc odal</l>
+<l>szym nie niewiem.</l>
+<signed><unclear><persName ref="Борух_Мордухович">???</persName></unclear></signed>
+</p>		
+    
     <pb n="124-2"/>
   </body></text>
 </TEI>
