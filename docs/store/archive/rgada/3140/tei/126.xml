@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Иосель_Мовшович">Иоселя Мовшовича</persName>; перевод: <ref
@@ -14,6 +17,23 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="126-1"/>
+<fw type="docNum" place="left">№ 17</fw>
+<fw type="pageNum" place="right"><del rend="overstrike">16</del></fw>		<fw type="pageNum" place="right">126.</fw>
+<p>
+<l>Zowią mnie <persName ref="Иосель_Мовшович">Josielem mowszo<lb/>
+wiczem</persName> od urodzenia Lat mam</l>
+<l>22. jestem żonaty dzieci niemam</l>
+<l>Handluje Przemysłem mieszczan</l>
+<l>skim uRodziłemsię na Przed</l>
+<l>mieściu <placeName ref="Антоколь">antokolskim</placeName> do <orgName ref="{fcbls">Sekty<lb/> 
+Karolinow</orgName> ja nie łączyłemsię y na</l>
+<l>jakim fundamencie ona niewiem</l>
+<l>chociasz ja yBywałem u <persName ref="Нохим_Ицкович">Nochima<lb/>
+Jckowicza</persName> lecz nie dla naradzenia</l> 
+<l>się Przeciwko wiary a dla dora</l>
+<l>dzenia wJnteresach.</l>
+<l><signed><unclear><persName ref="Иосель_Мовшович">???</persName></unclear></signed><note place="end">подпись на иврите</note></l>
+</p>
     <pb n="126-2"/>
   </body></text>
 </TEI>
