@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName>; перевод: <ref
@@ -14,6 +17,51 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="136-1"/>
-    <pb n="136-2"/>
+    <fw type="docNum" place="left">№ 22.</fw>
+    <fw type="pageNum" place="right">136.</fw>
+    <p>
+      <l>Zowią mnie <persName ref="Шмуил_Хаимович">Szmóyłą Chaymo<lb/>
+       wiczem</persName> od urodzenia Lat mam</l>
+      <l>32. jestem żonaty mam dwuch</l>
+      <l>Synow Chaima y mowszę arona,</l>
+      <l>bawięsię mieszczanskim przemysłem,</l>
+      <l>Urodziłemsię w <placeName ref="Индура">Jndurze</placeName> — do <orgName ref="Хасиды">Sekty<lb/>
+       Karolinow</orgName> jak przyłączyłemsię lat</l>
+      <l>dwanaście ytakowe przyłączenie</l>
+      <l>uczyniłem <placeName ref="Индура">wJndurze</placeName> — do <persName ref="alter-rebbe">Rabina</persName><lb/>
+       <placeName ref="Лиозно">Lozenskiego</placeName> ja Jeźdʒiłem trzy Razy</l>
+      <l>dla tego abym mogł Słyszeć iego</l>
+      <l>nauki, gdzie będąc widziałem z Ro</l>
+      <l>Znych miejsc przybyłych Ƶydow</l>
+      <l>więcej Szesciuset y <persName ref="alter-rebbe">uniego</persName> wypro</l>
+      <l>siłem List okolny do wszystkich</l>
+      <l>aby wpotrzebach mojch czyniły</l>
+      <l>wsparcie u onegoz <persName ref="alter-rebbe">Rabina</persName> jak by</l>
+      <l>łem pierwszy raz mija Dziewięć</l>
+      <l>Lat powtornie pięć apotrzecie</l>
+      <l>tego Roku y ony kiedy byłem</l>
+      <l>powtornie dałmi pięć Rubli apo</l>
+      <l>trʒecie 20 Rubli y ostatni raz ja</l>
+      <l>dąc byłem u <placeName ref="Видзы">widzkich</placeName> <orgName ref="Хасиды">Karolinow</orgName>.</l>
+      <l>aLat temu mija dwie pisałem</l>
+      <l><persName ref="alter-rebbe">do niego</persName> uwiadamjając że <persName ref="Орлик_Мовшович">Orlik</persName>
+      </l>
+      <l>zbierał dla <placeName ref="Иерусалим">Jerozolimskich</placeName> ubo</l>
+      <l>gich pieniądze które podostarczeniu</l>
+      <l>doniego bywają odsyłanemi do <placeName ref="Иерусалим">Je<lb/>
+       ruzalemu</placeName> zkąd do niego Ƶydzi przy</l>
+      <l>iezdzaią — Karteczki które są w</l>
+      <l>mojch papierach ja nalazłem jadąc</l>
+      <l>do Cesaryi w tym Roku wprusach</l>
+      <pb n="136-2"/>
+      <fw type="pageNum" place="right">136 об.</fw>
+      <l>a co oni znaczą ja nierozumiem.</l>
+      <l>Jezdziłem zas do Cesaryi dla</l>
+      <l>tego abym mogłem widzieć</l>
+      <l>się Zmoimi Krewnemi miesz</l>
+      <l>kającemi w mieście <placeName ref="Козенице">Kozenicy</placeName>.</l>
+      <signed><unclear><persName ref="Шмуил_Хаимович">???</persName></unclear></signed><note place="end">подпись на
+      иврите</note>
+    </p>
   </body></text>
 </TEI>
