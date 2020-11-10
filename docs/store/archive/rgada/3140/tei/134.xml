@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Гирш_Иоселиович">Гирши Иоселиовича</persName>; перевод: <ref
@@ -14,6 +17,47 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="134-1"/>
+    <fw type="docNum" place="left">№ 21</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">21.</del></fw>
+    <fw type="pageNum" place="right">134.</fw>
+    <p>
+      <l>Zowią mnie <persName ref="Гирш_Иоселиович">Hirszą Josielowiczem</persName></l>
+      <l>od urodzenia Lat mam 19 bawięsię</l>
+      <l>Przemysłem Kupieckim. Żonaty mam</l>
+      <l>Curek dwóch urodziłemsię wmia</l>
+      <l>steczku <placeName ref="Видзы">widzach</placeName>, do <orgName ref="Хасиды">Sekty Karolinow</orgName></l>
+      <l>jak przyłączyłem się w <placeName ref="Видзы">widzach</placeName> Szosty</l>
+      <l>Rok yto uczyniłem dla tego że wuy</l>
+      <l>moy moyzesz aBramowicz iest</l>
+      <l><orgName ref="Хасиды">Karolinem</orgName> ydla tego że ci Ƶydzi</l>
+      <l>Którzysię zowią <orgName ref="Хасиды">Karolinami</orgName> przepę</l>
+      <l>dzaią nayweselsze życie, Ciż <orgName ref="Хасиды">Karo<lb/>
+       linii</orgName> wniczym nierożniosię odda</l>
+      <l>wnych Ƶydow a tylko wtym ze mo</l>
+      <l>dlitwy odprawiaią nie cichą. Ja dla</l>
+      <l>Zapisaniasię do <orgName ref="Хасиды">Sekty Karolinskiey</orgName></l>
+      <l>nigdzie nieiezdziłem a jak Słysza</l>
+      <l>łem Jezdził do <placeName ref="Лиозно">Lozna</placeName> <persName ref="Мовша_Иосиелиович">mowsza<lb/>
+       Josielowicz</persName>. Zwierzchnikiem <orgName ref="Хасиды">Karoli<lb/>
+       now</orgName> jest <placeName ref="Лиозно">Lozenski</placeName> <persName ref="alter-rebbe">Rabin
+      Zelman</persName>.</l>
+      <l><placeName ref="Индура">Jndurski</placeName> zas Rabin <persName ref="Шмуил_Хаимович">Szmuył Chaykę</persName>
+      </l>
+      <l>był <placeName ref="Видзы">wwidzach</placeName> przeszłego Roku yba</l>
+      <l>wiłsię Pułtora czyli dwa Tugodnie</l>
+      <l>y naywięcey miał Rozmowy <persName ref="Мовша_Ицкович">zmo<lb/>
+       wszą Jakowiczem</persName> — Letnią zas porą</l>
+      <l><persName ref="Мовша_Ицкович">mowsza Jakowicz</persName> wręczywszy mi</l>
+      <l>plenipotęcyę Posłał abym ja Podał</l>
+      <l>memoriał <orgName ref="Литовское_губернское_правление">doRządu</orgName> yPrzytym Przy</l>
+      <l>łączył List <orgName ref="Виленский_кагал">wilenskiego Kahała</orgName>;</l>
+      <l>Plenipotęcya zas takowa Czy aktu</l>
+      <l>alnie lub nie tymi była podpisa</l>
+      <l>na, którzy na niey zostawali ozna</l>
+      <l>czonemi ja niewiem.</l>
+      <signed><unclear><persName ref="Гирш_Иоселиович">???</persName></unclear></signed><note place="end">подпись на
+      иврите</note>
+    </p>
     <pb n="134-2"/>
   </body></text>
 </TEI>
