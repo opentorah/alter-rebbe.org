@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><editor role="fragment-transcriber"><persName ref="MF">Mendel Feller</persName></editor>
+    <fileDesc><titleStmt>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      <editor role="fragment-transcriber"><persName ref="MF">Mendel Feller</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
@@ -16,6 +19,27 @@
   <text xml:lang="pl"><body>
     <pb n="130-1"/>
     <p xml:lang="he">נאום צפורית במה"ר זרח זקס‎</p>
+    <fw type="docNum" place="left">№ 19.</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">18</del>.</fw>
+    <fw type="pageNum" place="right">130.</fw>
+    <p>
+      <l>Zowią mnie <persName ref="Хлиовна_Зорухович">Chlowną Zoruchowi<lb/>
+       czem</persName> od urodzenia lat mam 55</l>
+      <l>bawięsię Handlem Kupieckim.</l>
+      <l>Rodem jestem zeZmuydzi <placeName ref="Видзы">wwi<lb/>
+       dzach</placeName> jak mieszkam więcey trzy</l>
+      <l>dziestu Lat. Żonaty mam Dzie</l>
+      <l>ci Syna Jankiela y Curkę Rywkę,</l>
+      <l>Do <orgName ref="Хасиды">Sekty karolinow</orgName> ja niełączyłem</l>
+      <l>się, a powracając z <placeName ref="Рига">Rygi</placeName> byłem</l>
+      <l>wmiescie <placeName ref="Вильна">wilnie</placeName> gdzie powziołem</l>
+      <l>wiadomosć że jakoby ymoie Jmie</l>
+      <l>było podpisane pod memoryałem</l>
+      <l>podanym do <orgName ref="Литовское_губернское_правление">Rządu</orgName> przez <placeName ref="Видзы">widz<lb/>
+       kich</placeName> Żydow, Czego ja nieuczyniłem.</l>
+      <signed><unclear><persName ref="Хлиовна_Зорухович">???</persName></unclear></signed><note place="end">подпись на
+      иврите</note>
+    </p>
     <pb n="130-2"/>
   </body></text>
 </TEI>

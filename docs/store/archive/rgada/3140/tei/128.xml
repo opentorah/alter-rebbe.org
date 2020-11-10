@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Мовша_Иосиелиович">Мовши Иосиеловича</persName>; перевод:
@@ -14,6 +17,33 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="128-1"/>
+    <fw type="docNum">№ 18/</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">17</del></fw>
+    <fw type="pageNum" place="right">128</fw>
+    <p>
+      <l>Zowią mnie <persName ref="Мовша_Иосиелиович">mowszą Josielowi<lb/>
+       czem</persName> od urodzenia lat mam</l>
+      <l>45 urodziłemsię naprzedmieściu</l>
+      <l><placeName ref="Антоколь">antokolskim</placeName>. Żonaty mam</l>
+      <l>dzieci Synow <persName ref="Иосель_Мовшович">Josiela</persName> y Boru</l>
+      <l>cha a Curek trzech, bawięsię</l>
+      <l>mieszczanskim Przemysłem, <orgName ref="Хасиды">doSekty<lb/>
+       Karolinow</orgName> nigdy ja niełączyłemsię</l>
+      <l>a <orgName ref="Хасиды">Karolini</orgName> nazywali mnie dlatego</l>
+      <l>że <orgName ref="Виленский_кагал">Kahał wilenski</orgName> sztrofował</l>
+      <l>mnie 300 Rublami Czyli odda</l>
+      <l>lił od wiernikowstwa Kahała</l>
+      <l><placeName ref="Антоколь">anatolskiego</placeName> y Ja natakową Czyn</l>
+      <l>nosć Kahała nieuzalałem</l>
+      <l>się, lecz Karolini bez wiedzy mo</l>
+      <l>iey wmiescili do Prozby <orgName ref="Литовское_губернское_правление">wRząd<lb/>
+       Guberski Litewski</orgName> podawaney</l>
+      <l>najakim zas Fundamencie Reli</l>
+      <l>gia <orgName ref="Хасиды">Karolinow</orgName> ja nie jestem</l>
+      <l>wiadomy.</l>
+      <l><signed><unclear><persName ref="Мовша_Иосиелиович">???</persName></unclear></signed><note place="end">подпись
+      на иврите</note></l>
+    </p>
     <pb n="128-2"/>
   </body></text>
 </TEI>
