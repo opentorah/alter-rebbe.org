@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt/></fileDesc>
+    <fileDesc><titleStmt>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Протокол (на польском языке) допроса <persName ref="Зелман_Лейбович">Зелмана Лейбовича</persName>; перевод: <ref
@@ -14,6 +17,24 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="132-1"/>
+ <fw type="docNum">№ 20.</fw>   						<fw type="pageNum" place="right"><del rend="overstrike">19</del></fw>
+<fw type="pageNum" place="right">132</fw>					<p>			
+<l>Zowią mnie <persName ref="Зелман_Лейбович">Zelmanem Leybowi<lb/>
+czem</persName> od urodzenia Lat mam 24.</l>
+<l>Żonaty mam Corkę iedną Handlu</l>
+<l>ie Szkłem urodziłemsię wmiescie</l>
+<l><placeName ref="Вильна">wilnie</placeName> do <orgName ref="Хасиды">Sekty Karolinow</orgName> ja nie</l>
+<l>łączyłemsię aJuż temu mija Lat</l>
+<l>Szesć byłem <persName ref="alter-rebbe">uRabina Lozenskiego</persName></l>
+<l>ieden tydzien który uczył mnie</l>
+<l>biblij apotym poiechawszy od niego</l>
+<l>byłem także <placeName ref="Ляховичи">uLachowickiego</placeName>  Rabi<lb/>
+na <persName ref="Мордух">morducha</persName> dwa Lata ydo oby</l>
+<l>dwuch tych rabinow Ludzi co nie</l>
+<l>miara Zroznych  mieysc Ziezdza</l>
+<l>się.</l>
+<signed><unclear><persName ref="Зелман_Лейбович">???</persName></unclear></signed><note place="end">подпись на иврите</note>
+   </p>
     <pb n="132-2"/>
   </body></text>
 </TEI>
