@@ -1,51 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
-    <profileDesc>
-<abstract><p>Перевод на польский язык письма виленских <orgName ref="Хасиды">хасидов</orgName> к представителям хасидского движения с
-  просьбой о помощи в связи с арестом <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract>  
-      </profileDesc>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Перевод на польский язык письма виленских <orgName ref="Хасиды">хасидов</orgName> к представителям хасидского
+      движения с просьбой о помощи в связи с арестом <persName ref="alter-rebbe">Шнеура Залмана</persName>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="145-1"/>
-<fw type="note" place="left margin">Kopia</fw>  
-<fw type="docNum" place="left">№ 1</fw>  
-    <salute><l>Naszym Przyjacielom Bogoboynym wzłączeniu, Niech</l> 
-<l>Bóg będzie nad nimi</l></salute>
-<fw type="pageNum" place="right">145.</fw>					<p>				
-<l>Gdy my posyłamy dzisiey naszego Przyjaciela okaziciela te</l>
-<l>go listu winteresie którego on wam opowie prosimy bar</l>
-<l>dzo być mu wpomocy, y uczynić wszelka możność y</l> 
-<l>wszystkie sposoby, do uskuteczniania iego Czynności,</l>
-<l>gdyż to iest nam bardzo potrzebne, wiadomo wam</l>
-<l>że nie nas iednych Bóg oswobodził lecz y was razem</l>
-<l>znami y gdyby nie Imię Boskie nam wyszłoby</l>
-<l>na zgubę wszystkich ktotylko podiął się do usług Boskich</l>
-<l>y niegodziłobysię Imię Boskie wzmiankować. Chwa</l>
-<l>ła Bogu że niedał nas na Jadło w Ich Zębach, y oka</l>
-<l>zał przez Cudy łaski swoiye w wielkim Mieście a</l>
-<l>by uznali y widzieli każdy patrzący Czynności Bos</l>
-<l>kie że on iest straszny a przez to naywyższy bę</l>
-<l>dzie uwielbiony. Zapewne uczyniliśmy staranie na</l>
-<l>wszysktie strony aby wam żadne niebyło uszko</l>
-<l>dzenie y hanby, Przeto waszym iest obowiąz</l>
-<l>kiem uczynić to dla Boga przez wszelkie usilnoś</l>
-<l>ci a Bóg dobry niech pokory ustanowi y niech</l>
-<l>poświeci oczy zaslepione stu. My Przyiaciele</l> 
-<l>Wasze Zgromadzenie tuteysze <placeName ref="Вильна">wilenskie</placeName>.</l>
-<persName ref="Меер_Рафалович">Meier Rafałowicz</persName>
-<persName ref="Лейба_Зеликович">Leyba Zelikowicz</persName>
-Chaim Jochelewicz
-Jankiel Meierowicz
-<persName ref="Зелман_Янкелевич">Zelman Jankielewicz</persName>
-<persName ref="Нохим_Ицкович">Nochim Jckowicz</persName>
-Roma Morduch Sytynk
-<persName ref="Лейба_Меиерович">Leyba Kroz Meierowicz</persName>
-</p>
+    <fw type="note" place="left margin">Kopia</fw>
+    <fw type="docNum" place="left">№ 1</fw>
+    <salute>
+      <l>Naszym Przyjacielom Bogoboynym wzłączeniu, Niech</l>
+      <l>Bóg będzie nad nimi</l>
+    </salute>
+    <fw type="pageNum" place="right">145.</fw>
+    <p>
+      <l>Gdy my posyłamy dzisiey naszego Przyjaciela okaziciela te</l> <l>go listu winteresie którego on wam opowie
+      prosimy bar</l> <l>dzo być mu wpomocy, y uczynić wszelka możność y</l> <l>wszystkie sposoby, do uskuteczniania
+      iego Czynności,</l> <l>gdyż to iest nam bardzo potrzebne, wiadomo wam</l> <l>że nie nas iednych Bóg oswobodził
+      lecz y was razem</l> <l>znami y gdyby nie Imię Boskie nam wyszłoby</l> <l>na zgubę wszystkich ktotylko podiął się
+      do usług Boskich</l> <l>y niegodziłobysię Imię Boskie wzmiankować. Chwa</l> <l>ła Bogu że niedał nas na Jadło w
+      Ich Zębach, y oka</l> <l>zał przez Cudy łaski swoiye w wielkim Mieście a</l> <l>by uznali y widzieli każdy
+      patrzący Czynności Bos</l> <l>kie że on iest straszny a przez to naywyższy bę</l> <l>dzie uwielbiony. Zapewne
+      uczyniliśmy staranie na</l> <l>wszysktie strony aby wam żadne niebyło uszko</l> <l>dzenie y hanby, Przeto waszym
+      iest obowiąz</l> <l>kiem uczynić to dla Boga przez wszelkie usilnoś</l> <l>ci a Bóg dobry niech pokory ustanowi y
+      niech</l> <l>poświeci oczy zaslepione stu. My Przyiaciele</l> <l>Wasze Zgromadzenie tuteysze <placeName ref=
+      "Вильна">wilenskie</placeName>.</l> <persName ref="Меер_Рафалович">Meier Rafałowicz</persName> <persName ref=
+      "Лейба_Зеликович">Leyba Zelikowicz</persName> Chaim Jochelewicz Jankiel Meierowicz <persName ref=
+      "Зелман_Янкелевич">Zelman Jankielewicz</persName> <persName ref="Нохим_Ицкович">Nochim Jckowicz</persName> Roma
+      Morduch Sytynk <persName ref="Лейба_Меиерович">Leyba Kroz Meierowicz</persName>
+    </p>
     <pb n="145-2"/>
   </body></text>
 </TEI>
