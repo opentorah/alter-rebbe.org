@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author>?</author>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+    <creation><date when="1798-10-08">8 октября 1798 года</date></creation>
+      <abstract><p>Конверт с указанаием адресата - Шмуэля Элиаса Коэна в <placeName ref="Вильна">Вильне</placeName> и места отправления</p></abstract>
+</profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="147-1"/>
+    <fw type="pageNum" place="right">147</fw>
+ <p>   
+<l>Samuel Elias Kohen</l>
+<l>pod: №.349. w <placeName ref="Вильна">wilna</placeName></l>
+<unclear>???</unclear><note place="end">налдпись на иврите</note>
+</p>
+<p>
+<l>№ 37 Koen</l>
+<l>№ 9</l>
+<l>Beysagoty<note place="end">место отправления письма, упомянутое также на л. 146-2; возможно, нынешний город Висагинас (Visaginas) в Литве, впервые упомянутый в XVI в. как имение  Vaitiekus Goštautas; См: https://en.wikipedia.org/wiki/Visaginas</note></l>
+<l>Беисаготі отъ <date when="1798-10-08">8<hi rend="superscript">го</hi> о<lb/>
+ктября</date></l>
+<p><l><unclear>???</unclear><note place="end">надпись на иврите</note></l></p>
+</p>
     <pb n="147-2"/>
   </body></text>
 </TEI>
