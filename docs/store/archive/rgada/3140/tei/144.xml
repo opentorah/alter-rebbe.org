@@ -1,57 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
-    <profileDesc><creation><date when="1798-10-09">9 октября 1798 года</date></creation>
-    <abstract><p>Письмо семи евреев, вероятно, представителей хасидского течения, связанное с первым арестом <persName ref="alter-rebbe">Шнеура Залмана</persName></p></abstract></profileDesc>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Письмо семи евреев, вероятно, представителей хасидского течения, связанное с первым арестом <persName ref=
+        "alter-rebbe">Шнеура Залмана</persName>
+      </p></abstract>
+      <creation><date when="1798-10-09">9 октября 1798 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="144-1"/>
-<fw type="note" place="right">Łotwa dn. <date when="1798-10-09">9 oktobra</date></fw>
-<fw type="pageNum" place="right">144.</fw>				 
-<p>
-<l>Pokoj życzenia sławetnym Kahalnym <placeName ref="Вильна">Wilna</placeName></l>
-<l>Donaszam Wam ja przez ukaz z <placeName ref="Петербург">Petersburga</placeName> wzięty został</l> 
-<l>w przeszły wtorek <persName ref="alter-rebbe">Raby</persName> od naszey <orgName ref="Хасиды">Sekty</orgName> z <placeName ref="Лиозно">Łozna</placeName> na</l> 
-<l>Imie <persName ref="alter-rebbe">Zelman</persName> niespodziewanie do <placeName ref="Петербург">Petersburga</placeName>,</l> 
-<l>niewiemy skąd to wyszło Czy to przez</l> 
-<l>wasze staranie czy tez Doszło to do ust Jego Imperatoskiey</l>
-<l>Mosci: niech Bog podwyższa Jego potę</l>
-<l>gi y z innych miejsc; bądz iak iest on iest dopie</l>
-<l>ro w <placeName ref="Петербург">Petersburgu</placeName> nie na Jego Dobroci, a jeżeli Bóg</l> 
-<l>wszechmocny da przez wielkie miłosierdzie Jego Im</l>
-<l>peratorskiey Mości może przyjsć wspomożenie dla całey</l>
-<l>Powszedności Jzraelskiey aby iuż niesłyszane było</l> 
-<l>ani takich osob ani takiey czynności iak tey naszey</l> 
-<l><orgName ref="Хасиды">Sekty</orgName> to wszystko uwiadamiami abyście wiedzieli</l> 
-<l>co czynić zawsze należałoby abyście wysłali</l> 
-<l>odonych osob do <placeName ref="Петербург">Petersburga</placeName> dla przełożenia tam tey</l> 
-<l><orgName ref="Хасиды">Sekty</orgName> czynności abysię nadal nieumacniali gdyż</l> 
-<l>oni wielkie czynią starania y w dniu wczoray</l>
-<l>szym wyiechali z tey <orgName ref="Хасиды">Sekty</orgName> osoby z naszego miasta</l>
-<l>do Petersburga y tak z innych miast a zatym wiecie</l> 
-<l>co czynić  gdyż dopiero Czas prosić y żebrzeć od</l> 
-<l>Jego Imperatoskiey Mości o Ukaz aby nie</l> 
-<l>czyniono potey ich czynności i aby się nikt nie odwro</l>
-<l>cił za nimi tak iak oni dotąd czynili — Niedziwuy</l>
-<l>cie się na nasze miasto żesmy  ztąd niewysyłami</l> 
-<l>osób gdyż wam wiadomo wielkiej wagi In</l>
-<l>teresu którego my mamy z naszym Panem przez</l> 
-<l>któren nie możemy zmieysca ruszyć na Was ten Inte</l>
-<l>res zawrzeć dopiero do wystarania się to co</l> 
-<l>potrzeba  wystarać się wiemy Że to łatwo wys</l>
-<l>taracsię można prośby nasze przeciwko Jm ma</l>
-<l>cie razem iesteśmy_  Icko Faywiszewicz</l>
-<l>Berko Leykowicz</l>
-<l>Beniamin Zelmanowicz</l>
-<l>Nochman Mowszowicz</l>
-<l>Rumiel Mowszowicz</l>
-<l>Michel Herszowicz</l>
-<l>Mowsza Berkowicz</l>
-</p>    
+    <fw type="note" place="right">Łotwa dn. <date when="1798-10-09">9 oktobra</date></fw>
+    <fw type="pageNum" place="right">144.</fw>
+    <p>
+      <l>Pokoj życzenia sławetnym Kahalnym <placeName ref="Вильна">Wilna</placeName></l>
+      <l>Donaszam Wam ja przez ukaz z <placeName ref="Петербург">Petersburga</placeName> wzięty został</l>
+      <l>w przeszły wtorek <persName ref="alter-rebbe">Raby</persName> od naszey <orgName ref="Хасиды">Sekty</orgName> z
+      <placeName ref="Лиозно">Łozna</placeName> na</l>
+      <l>Imie <persName ref="alter-rebbe">Zelman</persName> niespodziewanie do <placeName ref="Петербург"
+      >Petersburga</placeName>,</l>
+      <l>niewiemy skąd to wyszło Czy to przez</l>
+      <l>wasze staranie czy tez Doszło to do ust Jego Imperatoskiey</l>
+      <l>Mosci: niech Bog podwyższa Jego potę</l>
+      <l>gi y z innych miejsc; bądz iak iest on iest dopie</l>
+      <l>ro w <placeName ref="Петербург">Petersburgu</placeName> nie na Jego Dobroci, a jeżeli Bóg</l>
+      <l>wszechmocny da przez wielkie miłosierdzie Jego Im</l>
+      <l>peratorskiey Mości może przyjsć wspomożenie dla całey</l>
+      <l>Powszedności Jzraelskiey aby iuż niesłyszane było</l>
+      <l>ani takich osob ani takiey czynności iak tey naszey</l>
+      <l><orgName ref="Хасиды">Sekty</orgName> to wszystko uwiadamiami abyście wiedzieli</l>
+      <l>co czynić zawsze należałoby abyście wysłali</l>
+      <l>odonych osob do <placeName ref="Петербург">Petersburga</placeName> dla przełożenia tam tey</l>
+      <l><orgName ref="Хасиды">Sekty</orgName> czynności abysię nadal nieumacniali gdyż</l>
+      <l>oni wielkie czynią starania y w dniu wczoray</l>
+      <l>szym wyiechali z tey <orgName ref="Хасиды">Sekty</orgName> osoby z naszego miasta</l>
+      <l>do Petersburga y tak z innych miast a zatym wiecie</l>
+      <l>co czynić gdyż dopiero Czas prosić y żebrzeć od</l>
+      <l>Jego Imperatoskiey Mości o Ukaz aby nie</l>
+      <l>czyniono potey ich czynności i aby się nikt nie odwro</l>
+      <l>cił za nimi tak iak oni dotąd czynili — Niedziwuy</l>
+      <l>cie się na nasze miasto żesmy ztąd niewysyłami</l>
+      <l>osób gdyż wam wiadomo wielkiej wagi In</l>
+      <l>teresu którego my mamy z naszym Panem przez</l>
+      <l>któren nie możemy zmieysca ruszyć na Was ten Inte</l>
+      <l>res zawrzeć dopiero do wystarania się to co</l>
+      <l>potrzeba wystarać się wiemy Że to łatwo wys</l>
+      <l>taracsię można prośby nasze przeciwko Jm ma</l>
+      <l>cie razem iesteśmy_ Icko Faywiszewicz</l>
+      <l>Berko Leykowicz</l>
+      <l>Beniamin Zelmanowicz</l>
+      <l>Nochman Mowszowicz</l>
+      <l>Rumiel Mowszowicz</l>
+      <l>Michel Herszowicz</l>
+      <l>Mowsza Berkowicz</l>
+    </p>
     <pb n="144-2"/>
   </body></text>
 </TEI>
