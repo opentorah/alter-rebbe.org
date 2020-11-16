@@ -13,7 +13,7 @@
       <creation><date when="1799-02-08">8 (19 по н.ст.) февраля 1799 года</date></creation>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="pl"><body><pb n="049-1"/></body></text>
+  <text xml:lang="pl"><body><pb n="049-1"/>
  <fw type="pageNum" place="right">49</fw> 
 <fw type="note" place="left margin">		
 <l><date when="1799-03-23">Ru.1799, marca 23 vs. A 3. aprila ns</date><note place="end">приведена дата по старому (официальному в России) и новому (общеевропейскому) стилю</note>: przed Sądem Grodz.Pttu Wilenskago<note place="end">Grodzki Powiatu Wilenskiego</note> stawaiąc u Sądu</l>
@@ -34,7 +34,7 @@ Oszerowiczowi</persName> do Podawania Prośb, gdzie się</l>
 <l>wezwyczajone zdawna, oraz względem</l>
 <l>Excesa w Szkole dopełnione … wdowod</l> 
 <l>podpisujemy się. Dato we Wtorek Dn.</l>
-<date when="1799-05-08">8/19 Męa Februarij 1799</date>._
+	<l><date when="1799-05-08">8/19 Męa Februarij 1799</date>._</l>
  		<l>Jzrael Lewkowicz</l>
 		<l>Fiszel Peysachowicz</l>
 		<l>Jeremiasz Mejerowicz</l>
@@ -60,4 +60,5 @@ Oszerowiczowi</persName>, do podawania Prośb, gdzie się podług</l>
 <l>Zgodnie z Hebreyskim</l>
 <l>przyświadczam Jeremiasz</l>
 <l>Nochim. Syndyk <unclear>Kw.</unclear></l>
+	  </body></text>
 </TEI>
