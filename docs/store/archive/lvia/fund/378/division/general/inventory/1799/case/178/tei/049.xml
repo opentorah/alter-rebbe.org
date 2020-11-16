@@ -1,14 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Перевод на польский язык довереннности отстраненных старшин <orgName ref="Виленский_кагал">виленского
-        кагала</orgName>, выданная <persName ref="Мовша_Ошерович">Мовше Ошеровичу</persName> на подачу жалоб от их имени
+        кагала</orgName>, выданной <persName ref="Мовша_Ошерович">Мовше Ошеровичу</persName> на подачу жалоб от их имени
       </p></abstract>
       <creation><date when="1799-02-08">8 (19 по н.ст.) февраля 1799 года</date></creation>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="pl"><body><pb n="049-1"/></body></text>
+  <text xml:lang="pl"><body>
+    <pb n="049-1"/>
+    <fw type="pageNum" place="right">49</fw>
+    <fw type="note" place="left margin">
+      <l><date when="1799-03-23">Ru.1799, marca 23 vs. A 3. aprila ns</date><note place="end">приведена дата по старому
+      (официальному в России) и новому (общеевропейскому) стилю</note>: przed Sądem Grodz.Pttu Wilenskago<note place=
+      "end">Grodzki Powiatu Wilenskiego</note> stawaiąc u Sądu</l>
+      <l>WP Stefan Wasilewski Regent Brzesławski tę Plenipotęcyą czyli tłumaczenie do akt podał</l>
+      <l>Krzysztoff Koziełł Marcian N Gedroyć Jan Gieczemez Paweł Pomarowski Kanutt Seybutt Romanowicz</l>
+      <l>Prezydentt GroMWilen Sędzia Grodzki Wilenski Sędzia Grodz.Pttu Wilenskiego<note place="end">Grodzki Powiatu
+      Wilenskiego</note> Sędzia GW Pisarz Grodzki Wilenski</l>
+      <l>Concordattum ActioVXię<note place="end">Xięgi</note> Worłodka LyRGW</l>
+    </fw>
+    <head>Tłumaczenie</head>
+    <l>My nizey piszący się Dajemy moc</l>
+    <l>y pozwolenie Zacnemu <persName ref="Мовша_Ошерович">Moyzeszow<lb/>
+     Oszerowiczowi</persName> do Podawania Prośb, gdzie się</l>
+    <l>podług zwyczaju Krajowego należec będzie</l>
+    <l>względem ogulnego Narodu Jzraelskiego y</l>
+    <l>o dobra ogulnego zgromadzenia tuteyszego</l>
+    <l>wezwyczajone zdawna, oraz względem</l>
+    <l>Excesa w Szkole dopełnione … wdowod</l>
+    <l>podpisujemy się. Dato we Wtorek Dn.</l>
+    <l><date when="1799-05-08">8/19 Męa Februarij 1799</date>._</l>
+    <l>Jzrael Lewkowicz</l>
+    <l>Fiszel Peysachowicz</l>
+    <l>Jeremiasz Mejerowicz</l>
+    <l>Abraham Josielowicz</l>
+    <l>Samuel Markowicz</l>
+    <l>Marko Biniominowicz</l>
+    <l>Item my Sedziowie Sądu Synagogi Wilen.<note place="end">Wilenskiey</note> Daiemy</l>
+    <l>moc y pozwolenie wyż pomienionemu <persName ref="Мовша_Ошерович">Moyzeszowi<lb/>
+     Oszerowiczowi</persName>, do podawania Prośb, gdzie się podług</l>
+    <l>ustawy Krajowego należec będzie, względem ogul-</l>
+    <l>nego Narodu Jzraelskiego dobra, y dobra tuteyszego</l>
+    <l>ogulnego <orgName ref="Виленский_кагал">Kahału</orgName> zdawna wezwyczajone. ora wzglę</l>
+    <l>dem Excessa w Szkole dopelnionych podpisujemy</l>
+    <l>się Datt iako weyzey</l>
+    <l>Jzrael Markowicz</l>
+    <l>Eljasz Markowi Pisarz Synagogi</l>
+    <l>Aron Szlomowicz</l>
+    <l>Salimon Berkowicz</l>
+    <l>Hirsz Mejerowicz</l>
+    <l>Nisan Mendelowicz</l>
+    <l>Wolf Jzerowicz</l>
+    <l>Salimon Hirsz Czemachowicz.</l>
+    <l>Zgodnie z Hebreyskim</l>
+    <l>przyświadczam Jeremiasz</l>
+    <l>Nochim. Syndyk <unclear>Kw.</unclear></l>
+  </body></text>
 </TEI>
