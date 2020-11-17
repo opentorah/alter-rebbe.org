@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, поданное в <orgName ref=
@@ -18,81 +19,63 @@
   <text xml:lang="pl"><body>
     <pb n="071-1"/>
     <fw type="docNum" place="left">№ 228</fw>
-    <fw type="note">Подано <date when="1799-04-07">7<hi rend="superscript">го</hi> апрѣля 1799<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="note">Подано <date when="1799-04-07">7<hi rend="superscript">го</hi> апрѣля 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
     <fw type="pageNum" place="right">71.</fw>
     <fw type="note" place="left margin">криц</fw>
- <head>   
-<l>Do</l> 
-<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
-<l>od</l>
-<l><persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName> kupca Wilenskiego</l>
-<l>Objaśnienie._</l>
-</head>
-<p>
-<l>Naskutek Rezolucyi <orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littgo</orgName>, Mnie</l>
-  <l>na Dnju wczorayszym objawioney, składam Opisa-</l>
-  <l>nie, o Akcyi w Szkole Jzraelskiey przez Oso-</l>
-  <l>by powyzey wyrażone dopełnioney, na Dnju <date when="1799-02-04">4<hi rend="superscript">m</hi> Febru-<lb/>
-  aryi vs.</date>: aNayprzód  - Nie widzę przyczyny, dla którey</l>
-  <l>JWny<note place="end">Jaśnie Wielmożny</note> Generał Major Wiln<note place="end">Wilenski</note> Komendant, y Kawaler <persName ref="Капцевич">Kapce-<lb/>
-  wicz</persName> wespół zW<note place="end">Wielmożnym</note> : Sowietnikiem <persName ref="Елиашевич">Eliaszewiczem</persName>, y Gubernskim</l>
-  <l>Kasierem Serbinowiczem Sami osobiście przybyli wDnju</l>
-  <l>powyżey opisanym, to jest w Dzień Tabelny do Szkoły</l>
-  <l>Wilenskiey, z <orgName ref="Хасиды">Karolinami</orgName>, y Policyiskimi Dziesiątnikami,</l>
-  <l>a ieszcze pod czas Samego Nabożenstwa przeszkadzając</l>
-  <l>one. Jeżeli tylko dla oznaymienia o Dyspozycyi —</l>
-  <l>JWgo<note place="end">Jaśnie Wielmożnego</note> <persName ref="Лассий">Generał Gubernatora</persName>, toć nie iedne takie, ale y</l>
-  <l>Senatskie, oraz y Jmienne Monarsze ukazy Publikują-</l>
-  <l>się wSzkole zawsze, iednak do takowey Publikaty nie-</l>
-<pb n="071-2"/> 
-<l>nie przybywa do Szkoły żadna Rządowa Osoba; Lecz one Publi-</l>
-<l>kują się przez Szkolnikow yto po skączonym Nabożen-</l>
-<l>stwie; A zaś w Jnteresie gdzie Szło o dogodzenie woli <orgName ref="Хасиды">Ka-<lb/>
-rolinów</orgName>, y gdzie W<note place="end">Wielmożny</note>: <persName ref="Елиашевич">Sowietnik</persName> ledwo doczekał się wypełnienia</l>
-<l>nad Kahalnymi y Duchownymi swą Zemstę; nie-</l>
-<l>uważając na Dzień Uroczystości Narodzenia Nayiaśniej-</l>
-<l>szey Wielkiey Księniczki Anny fiedorowny y Anny <hi rend="superscript">Pawłowny</hi> y nieczeka-</l>
-<l>jąc do Kąca Nabożenstwa w Szkole będącego, przybywszy</l>
-<l>z osobami wyżey Opisanemi, do teyże Szkoły; Zaczeli Ka-</l>
-<l>halnych y Duchownych rozstawować w równe rzędy rzu-</l>
-<l>cając iednego wiedną Stronę, adrugiego w drugą, poczym</l>
-<l>ogłosili, że nie ma Kahału ySądu Duchownego /: Co</l> 
-<l>zdajesię bydz nie prawnym uczynkiem:/ Po wtóre</l> 
-<l>chodząc na Schodach Szkolnych /:Jak dobrze pamiętam:/ uderzy</l>ł
-<l>Mnie W<note place="end">Wielmożny</note>: Sowietnik <persName ref="Елиашевич">Eliaszewicz</persName> pięścią w Piersi tak-</l>
-<l>że Mnie Czapka zpadła, aDuch we mnie Całkie odcię-</l>
-<l>tym został, że potym kilka tygodni Chorowałem, przez</l>
-<l>Co yKrew puścić musiałem. Po trzeie: z Chodząc z tych</l> 
-<l>Schodow w Samey że Szkole uderzył W<note place="end">Wielmożny</note>: <persName ref="Елиашевич">Sowietnik</persName> Ƶyda</l>
-<l>Eliasza Morduchowicza Pisarza Sądu Duchownego, nie</l>
-<l>jakązaś Pałką takoż w Piersi, y Dalszych Sądziow trącał</l> 
-<l>to kułakiem y pałką według upodobanja swego ydo-</l> 
-<pb n="072-1"/>									<fw type="pageNum" place="right">72.</fw>
-<l>do godzenia Swemu Zamiarowi, o czym ponizsze Osoby przy-</l>
-<l>świadczą, a w niektórych punktach dla wielkiego przelęknie-</l>
-<l>nia Sami pamiętać nie mogą, Co się z nimi w Szkole dzia-</l>
-<l>ło, Dość na tym, Ƶe wszyscy iedne ztaymi wyznać powinni</l>
-<l>że rowney Akcyi ieszcze niepraktykowaney w Szkole nigdy-</l>
-<l>się niedziała — Po Czwarte. Kiedy Jeremiasz Mejerowicz czło-</l>
-<l>nek <orgName ref="Виленский_кагал">Kahału</orgName>, prosił o Kopię Zalecenia  JWgo<note place="end">Jaśnie Wielmożnego</note> <persName ref="Лассий">Generał<lb/>
-Gubernatora</persName>, w owczas Wny<note place="end">Wielmożny</note> Sowietnik <persName ref="Елиашевич">Eliaszewicz</persName> głośno</l>
-<l>odezwał się w Słowach „Szelmy, Bestyi, Złodzieje, jawas</l> 
-<l>nauczę ; aJW<note place="end">Jaśnie Wielmożny</note> <persName ref="Капцевич">Komendant</persName> łajał Takoż Słowami tkli-</l>
-<l>wemi Kahalnych y Duchownych tam będących — Na do-</l>
-<l>kazanje tego wszystkiego, raczy <orgName ref="Литовский_надворный_суд">Sąd</orgName> wyexaminować Staro-</l>
-<l>zakonnych, Jzraela Leybowicza, Jeremiasza Mejerowicza, y</l>
-<l>Fidela Peysechowicza Kahalnych, Jzraela Morduchowicza</l>
-<l>Eliasza Morduchowicza, Arona Zelmanowicza, Szlomy Ber-</l>
-<l>kowicza, Hirszy Mejerowicza, y Nisona Mendelowicza</l>
-<l>Duchownych; Ci zaś zapewno wiedzieć muszą, kto więcey</l> 
-<l>zpospólstwa w Szkole bądącego przyswiadczyć o tym wszy-</l>
-<l>stkim moze. A jeżeli Sąd będzie potrzebować owięcey Swia-</l>
-<l>dectw zatym raczy Mnie uwiadomić otym, gdzie Ja Sam</l>
-<l>uwszystiego Pospólstwa tamze znayduiącego się wypy</l>
-<l>tywać się będę o wszystkim; ydobrze u niach mych Swiadectw</l>
-<pb n="072-2"/>
-<l>Swiadectw do Sądu przysłanie</l>
-<signed><unclear><persName ref="Мовша_Ошерович">??? ???</persName></unclear></signed><note place="end">подпись на иврите</note>
-</p>			 
-</body></text>
+    <head>
+      <l>Do</l>
+      <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
+      <l>od</l>
+      <l><persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName> kupca Wilenskiego</l>
+      <l>Objaśnienie._</l>
+    </head>
+    <p>
+      <l>Naskutek Rezolucyi <orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littgo</orgName>, Mnie</l> <l>na Dnju
+      wczorayszym objawioney, składam Opisa-</l> <l>nie, o Akcyi w Szkole Jzraelskiey przez Oso-</l> <l>by powyzey
+      wyrażone dopełnioney, na Dnju <date when="1799-02-04">4<hi rend="superscript">m</hi> Febru-<lb/>
+       aryi vs.</date>: aNayprzód - Nie widzę przyczyny, dla którey</l> <l>JWny<note place="end">Jaśnie Wielmożny</note>
+      Generał Major Wiln<note place="end">Wilenski</note> Komendant, y Kawaler <persName ref="Капцевич">Kapce-<lb/>
+       wicz</persName> wespół zW<note place="end">Wielmożnym</note> : Sowietnikiem <persName ref="Елиашевич"
+      >Eliaszewiczem</persName>, y Gubernskim</l> <l>Kasierem Serbinowiczem Sami osobiście przybyli wDnju</l> <l>powyżey
+      opisanym, to jest w Dzień Tabelny do Szkoły</l> <l>Wilenskiey, z <orgName ref="Хасиды">Karolinami</orgName>, y
+      Policyiskimi Dziesiątnikami,</l> <l>a ieszcze pod czas Samego Nabożenstwa przeszkadzając</l> <l>one. Jeżeli tylko
+      dla oznaymienia o Dyspozycyi —</l> <l>JWgo<note place="end">Jaśnie Wielmożnego</note> <persName ref="Лассий"
+      >Generał Gubernatora</persName>, toć nie iedne takie, ale y</l> <l>Senatskie, oraz y Jmienne Monarsze ukazy
+      Publikują-</l> <l>się wSzkole zawsze, iednak do takowey Publikaty nie-</l> <pb n="071-2"/>  <l>nie przybywa do
+      Szkoły żadna Rządowa Osoba; Lecz one Publi-</l> <l>kują się przez Szkolnikow yto po skączonym Nabożen-</l> <l
+      >stwie; A zaś w Jnteresie gdzie Szło o dogodzenie woli <orgName ref="Хасиды">Ka-<lb/>
+       rolinów</orgName>, y gdzie W<note place="end">Wielmożny</note>: <persName ref="Елиашевич">Sowietnik</persName>
+      ledwo doczekał się wypełnienia</l> <l>nad Kahalnymi y Duchownymi swą Zemstę; nie-</l> <l>uważając na Dzień
+      Uroczystości Narodzenia Nayiaśniej-</l> <l>szey Wielkiey Księniczki Anny fiedorowny y Anny <hi rend="superscript"
+      >Pawłowny</hi> y nieczeka-</l> <l>jąc do Kąca Nabożenstwa w Szkole będącego, przybywszy</l> <l>z osobami wyżey
+      Opisanemi, do teyże Szkoły; Zaczeli Ka-</l> <l>halnych y Duchownych rozstawować w równe rzędy rzu-</l> <l>cając
+      iednego wiedną Stronę, adrugiego w drugą, poczym</l> <l>ogłosili, że nie ma Kahału ySądu Duchownego /: Co</l> <l
+      >zdajesię bydz nie prawnym uczynkiem:/ Po wtóre</l> <l>chodząc na Schodach Szkolnych /:Jak dobrze pamiętam:/
+      uderzy</l>ł <l>Mnie W<note place="end">Wielmożny</note>: Sowietnik <persName ref="Елиашевич"
+      >Eliaszewicz</persName> pięścią w Piersi tak-</l> <l>że Mnie Czapka zpadła, aDuch we mnie Całkie odcię-</l> <l>tym
+      został, że potym kilka tygodni Chorowałem, przez</l> <l>Co yKrew puścić musiałem. Po trzeie: z Chodząc z tych</l>
+      <l>Schodow w Samey że Szkole uderzył W<note place="end">Wielmożny</note>: <persName ref="Елиашевич"
+      >Sowietnik</persName> Ƶyda</l> <l>Eliasza Morduchowicza Pisarza Sądu Duchownego, nie</l> <l>jakązaś Pałką takoż w
+      Piersi, y Dalszych Sądziow trącał</l> <l>to kułakiem y pałką według upodobanja swego ydo-</l>  <pb n="072-1"/> <fw
+      type="pageNum" place="right">72.</fw> <l>do godzenia Swemu Zamiarowi, o czym ponizsze Osoby przy-</l> <l>świadczą,
+      a w niektórych punktach dla wielkiego przelęknie-</l> <l>nia Sami pamiętać nie mogą, Co się z nimi w Szkole
+      dzia-</l> <l>ło, Dość na tym, Ƶe wszyscy iedne ztaymi wyznać powinni</l> <l>że rowney Akcyi ieszcze
+      niepraktykowaney w Szkole nigdy-</l> <l>się niedziała — Po Czwarte. Kiedy Jeremiasz Mejerowicz czło-</l> <l>nek
+      <orgName ref="Виленский_кагал">Kahału</orgName>, prosił o Kopię Zalecenia JWgo<note place="end">Jaśnie
+      Wielmożnego</note> <persName ref="Лассий">Generał<lb/>
+       Gubernatora</persName>, w owczas Wny<note place="end">Wielmożny</note> Sowietnik <persName ref="Елиашевич"
+      >Eliaszewicz</persName> głośno</l> <l>odezwał się w Słowach „Szelmy, Bestyi, Złodzieje, jawas</l> <l>nauczę ;
+      aJW<note place="end">Jaśnie Wielmożny</note> <persName ref="Капцевич">Komendant</persName> łajał Takoż Słowami
+      tkli-</l> <l>wemi Kahalnych y Duchownych tam będących — Na do-</l> <l>kazanje tego wszystkiego, raczy <orgName
+      ref="Литовский_надворный_суд">Sąd</orgName> wyexaminować Staro-</l> <l>zakonnych, Jzraela Leybowicza, Jeremiasza
+      Mejerowicza, y</l> <l>Fidela Peysechowicza Kahalnych, Jzraela Morduchowicza</l> <l>Eliasza Morduchowicza, Arona
+      Zelmanowicza, Szlomy Ber-</l> <l>kowicza, Hirszy Mejerowicza, y Nisona Mendelowicza</l> <l>Duchownych; Ci zaś
+      zapewno wiedzieć muszą, kto więcey</l> <l>zpospólstwa w Szkole bądącego przyswiadczyć o tym wszy-</l> <l>stkim
+      moze. A jeżeli Sąd będzie potrzebować owięcey Swia-</l> <l>dectw zatym raczy Mnie uwiadomić otym, gdzie Ja Sam</l>
+      <l>uwszystiego Pospólstwa tamze znayduiącego się wypy</l> <l>tywać się będę o wszystkim; ydobrze u niach mych
+      Swiadectw</l> <pb n="072-2"/> <l>Swiadectw do Sądu przysłanie</l> <signed><unclear><persName ref="Мовша_Ошерович"
+      >??? ???</persName></unclear></signed><note place="end">подпись на иврите</note>
+    </p>
+  </body></text>
 </TEI>
