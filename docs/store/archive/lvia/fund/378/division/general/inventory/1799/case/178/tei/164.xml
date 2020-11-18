@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-    </fileDesc>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract>Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке в <orgName ref=
       "Литовский_надворный_суд">литовский надворный суд</orgName></abstract>
@@ -14,38 +14,41 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="164-1"/>
- <fw type="docNum" place="left">N 364</fw>		
- <fw type="note">Подано <date when="1799-06-03">3<hi rend="superscript">го</hi> июня 1799<hi rend="superscript">го</hi> года</date></fw>			<fw type="pageNum" place="right">164</fw>
-<fw type="note" place="left margin">Се-</fw>
-<head>
-<l>Do</l> 
-<l><orgName ref="Литовский_надворный_суд">Sadu Nadwornego Littewskiego</orgName></l>
-<l>od</l>
-<l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Obywatela Wilenskiego</l>
-<l>Prozba</l>
-</head>
-<p>
-<l>Ponieważw odebranych z Kancellaryi <orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littew-<lb/>
-skiego</orgName> Obiasnieniach przez JWgo<note place="end">Jaśnie Wielmożnego</note> <persName ref="Капцевич">Kommendanta</persName> Wilenskiego</l>
-<l>y Dalszych Osob do <orgName ref="Литовский_надворный_суд">Sądu</orgName> przesłanych, oraz z prozby przez</l> 
-<l>Moyżesza Wólfowicza Imieniem Dalszych Kolegow Swoich</l>
-<l>do <orgName ref="Литовское_губернское_правление">Rządu Gubernskiego</orgName> podaney, a <orgName ref="Литовский_надворный_суд">Sądowi</orgName> przesłaney, wyczy-</l>
-<l>tałem ze Jnno ieszcze są do nich przyłączone od róznych Ƶy-</l>
-<l>dow doniesienia y Opisy do których się odwołują w</l>
-<l>pismach swoich niemogąc zatym Onych per Synifi-</l>
-<l>cum wypisać yo Kommunikacyi Onych prosić; Skła-</l>
-<l>dam ogulną wtymProzbę, aby <orgName ref="Литовский_надворный_суд">Sąd</orgName> raczył Kancellaryi</l> 
-<l>Swoiey dozwolic wydać mi Copiatim ze wszystkich</l>
-<l>Sądowi nadesłanych Dokumentow, oraz wszelkich dowo-</l>
-<l>dow z przeciwney Stony Złozonych, niemniey Plenipo-</l>
-<l>tęcyi Moyzeszowi Wólfowiczowi do podawania Prozby Służą-</l>
-<l>cey. — O co upraszaiąc piszę się.</l>
-<signed><unclear><persName ref="Мовша_Ошерович">??? ???</persName></unclear></signed><note place="end">подпись на иврите</note>
-</p>					 
-<closer place="left">
-<l><date when="1799-06-03">1799 Junij 3/14. Dnia</date></l>
-</closer>
-<fw type="note" place="left">Слуш <date when="1799-06-07">7<hi rend="superscript">го</hi> Июня</date></fw>
- <pb n="164-2" missing="true" empty="true"/>
+    <fw type="docNum" place="left">N 364</fw>
+    <fw type="note">Подано <date when="1799-06-03">3<hi rend="superscript">го</hi> июня 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">164</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l>Do</l>
+      <l><orgName ref="Литовский_надворный_суд">Sadu Nadwornego Littewskiego</orgName></l>
+      <l>od</l>
+      <l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Obywatela Wilenskiego</l>
+      <l>Prozba</l>
+    </head>
+    <p>
+      <l>Ponieważw odebranych z Kancellaryi <orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littew-<lb/>
+       skiego</orgName> Obiasnieniach przez JWgo<note place="end">Jaśnie Wielmożnego</note> <persName ref="Капцевич"
+      >Kommendanta</persName> Wilenskiego</l>
+      <l>y Dalszych Osob do <orgName ref="Литовский_надворный_суд">Sądu</orgName> przesłanych, oraz z prozby przez</l>
+      <l>Moyżesza Wólfowicza Imieniem Dalszych Kolegow Swoich</l>
+      <l>do <orgName ref="Литовское_губернское_правление">Rządu Gubernskiego</orgName> podaney, a <orgName ref=
+      "Литовский_надворный_суд">Sądowi</orgName> przesłaney, wyczy-</l>
+      <l>tałem ze Jnno ieszcze są do nich przyłączone od róznych Ƶy-</l>
+      <l>dow doniesienia y Opisy do których się odwołują w</l>
+      <l>pismach swoich niemogąc zatym Onych per Synifi-</l>
+      <l>cum wypisać yo Kommunikacyi Onych prosić; Skła-</l>
+      <l>dam ogulną wtymProzbę, aby <orgName ref="Литовский_надворный_суд">Sąd</orgName> raczył Kancellaryi</l>
+      <l>Swoiey dozwolic wydać mi Copiatim ze wszystkich</l>
+      <l>Sądowi nadesłanych Dokumentow, oraz wszelkich dowo-</l>
+      <l>dow z przeciwney Stony Złozonych, niemniey Plenipo-</l>
+      <l>tęcyi Moyzeszowi Wólfowiczowi do podawania Prozby Służą-</l>
+      <l>cey. — O co upraszaiąc piszę się.</l>
+      <signed><unclear><persName ref="Мовша_Ошерович">??? ???</persName></unclear></signed><note place="end">подпись на
+      иврите</note>
+    </p>
+    <closer place="left"><l><date when="1799-06-03">1799 Junij 3/14. Dnia</date></l></closer>
+    <fw type="note" place="left">Слуш <date when="1799-06-07">7<hi rend="superscript">го</hi> Июня</date></fw>
+    <pb n="164-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
