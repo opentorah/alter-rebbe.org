@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author></titleStmt>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt>
     </fileDesc>
     <profileDesc>
       <abstract><p>
@@ -14,6 +17,35 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="208-1"/>
-    <pb n="208-2" missing="true" empty="true"/>
+<fw type="pageNum" place="right">208.</fw>
+<fw type="note" place="left margin">велъ</fw>
+<head>
+<l>Regestr składaiących się przy tey</l>
+<l>Explikacyi Dokumentow</l>                    
+</head>
+<p>
+<l>1<hi rend="superscript">mo</hi>  <date when="1799-02-27">1799. Februarij 27 Dnia</date>  Obiasnie</l>
+      <l>nie od Kahału Wilens<hi rend="superscript">o</hi><note place="end">Wilenskiego</note> przez <persName ref="Еремиаш_Нохимович">Jaremiasza</persName></l>
+	<l>Syndyka podpisana, dla Podania JWu<note place="end">Jaśnie Wielmożnemu</note></l>  
+	<l>Gubernatorowi przygotowana_</l>
+<l>2<hi rend="superscript">do</hi>  <date when="1798-07-25">1798 Julij 25</date> Zaswiadczenie od Kaha</l>
+	<l>łu Widzkiego w Hebreyskim Języku</l>
+	<l>pisane z Kopią Ruską</l>
+<l>3<hi rend="superscript">tio</hi>  Zalecenie JWo<note place="end">Jaśnie Wielmożnego</note> <persName ref="Фризель">Gubernatora</persName> do <orgName ref="Виленский_кагал">Kaha<lb/>
+	łu Wilen<hi rend="superscript">u</hi></orgName><note place="end">Wilenskiego</note> <date when="1799-02-09">1799. Februarij 9. Dnia</date></l>
+<l>4<hi rend="superscript">to</hi>  <date when="1799-06-08">1799. Junij 8<hi rend="superscript">o</hi></date> Rezolucya <orgName ref="Литовское_губернское_правление">Rządu Gubern<lb/>
+	skiego Littgo</orgName><note place="end">Littewskiego</note></l> 
+<l>5<hi rend="superscript">to</hi>  <date when="1799-07-16">1799. Juli 16<hi rend="superscript">o</hi> Dnia</date> Rezolucya</l> 
+	<l><orgName ref="Литовское_губернское_правление">Rządu Gubernskiego Littgo</orgName><note place="end">Littewskiego</note></l> 
+<l>6<hi rend="superscript">to</hi>  <date when="1799-02-09">1799 Februarij 10 D.</date> Dokument</l>
+<l>Kwietacyiny od Gminu Wilenskiego</l>
+<l>Kahałowy wydany</l>
+</p>
+<p>
+<l>Takowy Regestr własną Ręką podpisu</l>
+<l>ię <date when="1799-06-28">1799 Mca<note place="end">Miesiąca</note> Junij 28/Julij 9 Dnia</date>.</l>
+<signed><unclear><persName ref="person">??? ???</persName></unclear></signed><note place="Мовша_Ошерович">подпись на иврите</note>			 
+</p>	     
+<pb n="208-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
