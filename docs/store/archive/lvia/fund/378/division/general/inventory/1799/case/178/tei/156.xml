@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract>Просьба <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, поданная <orgName
       ref="Литовский_надворный_суд">Литовскому надворному суду</orgName></abstract>
@@ -14,35 +15,42 @@
   <text xml:lang="pl"><body>
     <pb n="156-1"/>
     <fw type="docNum">N 325</fw>
-  <fw type="note" place="left">Подано 23<hi rend="superscript">го</hi> маiя 1799<hi rend="superscript">го</hi>  года</fw>						<fw type="pageNum" place="right">156.</fw>
-<fw type="note" place="left margin">Се-</fw>  					<head>										
-<l>Do</l> 
-<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
-<l>od</l>
-<l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Obywatela Wilenskiego</l> 
-<l>Prozba._</l>
-</head>
-<p>
-<l>Odebrawszy <date when="1799-05-20">naDnju 20<hi rend="superscript">m</hi>. vs:</date> od <orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littew-<lb/>
-skiego</orgName> Kopją Objasnienja Wo  Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName>, razem</l>
-<l>z Rezolucyą  tegoż <orgName ref="Литовский_надворный_суд">Sądu</orgName>; gdy dla lepszego usprawiedliwieniasię</l> 
-<l>y do kazania prawdy, o do pełnionych uciskach, w poprzed-</l>
-<l>niczych Prozbach wyrazonych; Zdaiemi się mieć potrzebę wie-</l>
-<l>dzieć razem, o wyrazach objaśnienja tak JWgo  <persName ref="Капцевич">Kommendanta</persName></l>
-<l>iakotez Wo Plac Majora, y ImPana Nadzyratela Kwartalnego Estki,</l>
-<l>niemniey W : Serbinowicza Kaznoczeja — Mam Honor Składać</l>
-<l><orgName ref="Литовский_надворный_суд">uSądu</orgName> Prozbę, aby dla lepszego usprawiedliwieniasię mogło bydz</l>
-<l>mnie komunikowane Objasnienie JWo Kommendantta</l>
-<l>y Kawalera <persName ref="Капцевич">Kapcewicza</persName>, Wo  Plac=Plac Majora Pałkina, Nadzyratela</l>
-<l>Estki, y Wo  Kaznoczeja Serbinowicza. O Co Naypokorniey</l> 
-<l>upraszając piszę się._</l>
-<signed><unclear><persName ref="Мовша_Ошерович">??? ???</persName></unclear></signed><note place="end">подпись на иврите</note>
-</p>
-<closer place="left">
-<l><date when="1799-05-23">Miesiąca Maja 23 Dnia<lb/>
-1799 Roku</date></l>
-<l>Cлуш: <date when="1799-05-24">24<hi rend="superscript">гo</hi> маія</date></l>
-</closer>
-  <pb n="156-2" missing="true" empty="true"/>
+    <fw type="note" place="left">Подано 23<hi rend="superscript">го</hi> маiя 1799<hi rend="superscript">го</hi>
+    года</fw>
+    <fw type="pageNum" place="right">156.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l>Do</l>
+      <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
+      <l>od</l>
+      <l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Obywatela Wilenskiego</l>
+      <l>Prozba._</l>
+    </head>
+    <p>
+      <l>Odebrawszy <date when="1799-05-20">naDnju 20<hi rend="superscript">m</hi>. vs:</date> od <orgName ref=
+      "Литовский_надворный_суд">Sądu Nadwornego Littew-<lb/>
+       skiego</orgName> Kopją Objasnienja Wo Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName>, razem</l>
+      <l>z Rezolucyą tegoż <orgName ref="Литовский_надворный_суд">Sądu</orgName>; gdy dla lepszego
+      usprawiedliwieniasię</l>
+      <l>y do kazania prawdy, o do pełnionych uciskach, w poprzed-</l>
+      <l>niczych Prozbach wyrazonych; Zdaiemi się mieć potrzebę wie-</l>
+      <l>dzieć razem, o wyrazach objaśnienja tak JWgo <persName ref="Капцевич">Kommendanta</persName></l>
+      <l>iakotez Wo Plac Majora, y ImPana Nadzyratela Kwartalnego Estki,</l>
+      <l>niemniey W : Serbinowicza Kaznoczeja — Mam Honor Składać</l>
+      <l><orgName ref="Литовский_надворный_суд">uSądu</orgName> Prozbę, aby dla lepszego usprawiedliwieniasię mogło
+      bydz</l>
+      <l>mnie komunikowane Objasnienie JWo Kommendantta</l>
+      <l>y Kawalera <persName ref="Капцевич">Kapcewicza</persName>, Wo Plac=Plac Majora Pałkina, Nadzyratela</l>
+      <l>Estki, y Wo Kaznoczeja Serbinowicza. O Co Naypokorniey</l>
+      <l>upraszając piszę się._</l>
+      <signed><unclear><persName ref="Мовша_Ошерович">??? ???</persName></unclear></signed><note place="end">подпись на
+      иврите</note>
+    </p>
+    <closer place="left">
+      <l><date when="1799-05-23">Miesiąca Maja 23 Dnia<lb/>
+       1799 Roku</date></l>
+      <l>Cлуш: <date when="1799-05-24">24<hi rend="superscript">гo</hi> маія</date></l>
+    </closer>
+    <pb n="156-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
