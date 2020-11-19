@@ -4,7 +4,7 @@
 ## Подача материала ##
 
  Содержимое сайта находится в GitHub <a href="https://github.com/opentorah/alter-rebbe.org">
-      <svg class="svg-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/minima-social-icons.svg#github"></use></svg>
+      <svg class="svg-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons.svg#github"></use></svg>
       <span class="username">repository</span>
     </a> <a href="https://github.com/opentorah/alter-rebbe.org/actions">
   <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg" alt="CI badge"/>
