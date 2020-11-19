@@ -2,6 +2,7 @@ plugins {
   id 'com.github.ben-manes.versions'
   id 'idea'
   id 'java'
+  id 'io.miret.etienne.sass'
 }
 
 final String opentorahVersion = '0.1.55'
@@ -28,8 +29,27 @@ dependencies {
 }
 
 task postprocess(type: JavaExec) {
-  classpath = sourceSets.main.runtimeClasspath
   main = 'org.opentorah.collector.Main'
   args = ["$rootDir/docs"]
+  classpath = sourceSets.main.runtimeClasspath
 }
+
+compileSass {
+//  sourceDir = project.file ("${projectDir}/src/main/sass")
+  outputDir = project.file ("${projectDir}/docs/assets")
+//
+//  // Watch sass files in sourceDir for changes
+//  watch ()
+//
+//  // Source map style:
+//  //  - file: output source map in a separate file (default)
+//  //  - embed: embed source map in CSS
+//  //  - none: do not emit source map.
+//  sourceMap = file
+//
+//  // How to link source maps to source files [relative (default) or absolute]:
+//  sourceMapUrls = relative
+}
+
 build.dependsOn(postprocess)
+build.dependsOn(compileSass)
