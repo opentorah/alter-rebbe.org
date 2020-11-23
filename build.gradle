@@ -53,3 +53,9 @@ compileSass {
 
 build.dependsOn(postprocess)
 build.dependsOn(compileSass)
+
+task localService(type: JavaExec) {
+  main = 'org.opentorah.collector.Service'
+  environment "STORE", "file://$projectDir/docs/"
+  classpath = sourceSets.main.runtimeClasspath
+}
