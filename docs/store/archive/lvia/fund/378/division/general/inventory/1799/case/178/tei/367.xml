@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author/>
+      <author><persName>Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -15,7 +15,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="367-1"/>
-    <fw type="docNum">place="left"№ 65</fw>
+    <fw type="docNum" place="left">№ 65</fw>
     <fw type="note">Получено <date when="1800-02-01">февраля 1<hi rend="superscript">го</hi> 1800<hi rend="superscript"
     >го</hi> года</date></fw>
     <fw type="pageNum" place="right">367</fw>
