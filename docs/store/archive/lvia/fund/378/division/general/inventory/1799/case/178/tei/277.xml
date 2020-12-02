@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Донесение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> в <orgName ref="Литовский_надворный_суд"
@@ -12,6 +13,7 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="277-1"/>
+    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-10-17">17<hi rend="superscript">го</hi> октября</date></fw>
     <pb n="277-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
