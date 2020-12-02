@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    </titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-08-31">Августа 31 дня 1799 года</date></creation>
-    <abstract>Сообщение <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> об отправке второго объяснения (показания) <persName ref="Елиашевич">Елиашевича</persName></abstract></profileDesc>
+    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Сообщение <orgName ref="Литовское_губернское_правление">Литовского губернского правления</orgName> в
+      <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> об отправке второго объяснения (показания)
+      <persName ref="Елиашевич">Елиашевича</persName></abstract>
+      <creation><date when="1799-08-31">Августа 31 дня 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="245-1"/>
@@ -13,22 +16,23 @@
     <fw type="pageNum" place="right">245</fw>
     <fw type="note" place="left margin">Се-</fw>
     <head>
-    <l>Изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName></l>
-<l>въ <orgName ref="Литовский_надворный_суд">Литовскій Надворный судъ</orgName>.</l>
-</head>
-<p>
-<l>По сообщенію онаго <orgName ref="Литовский_надворный_суд">суда</orgName> и приложенной</l>
-<l>при немъ изъ поданныхъ отъ еврея <persName ref="Мовша_Ошерович">Мойже-<lb/>
-ша Ошеровича</persName> доказательствъ, касающихся</l>
-<l>до господина совѣтника сего Правленія <persName ref="Елиашевич">Елі-<lb/>
-ашевича</persName> выписки, какое господинъ совѣт-</l>
-<l>никъ <persName ref="Елиашевич">Еліашевичъ</persName> далъ вторичное объясне-</l>
-<l>ніе, таковое въ подлинномъ оному <orgName ref="Литовский_надворный_суд">суду</orgName></l>
-<l>при семъ препровождается_. <date when="1799-08-31">Августа<lb/>
-31 дня 1799<hi rend="superscript">го</hi> года</date>_.</l>
-<l><persName>Фердинандъ Контримъ</persName></l>
-</p>
-<fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-09-06">6<hi rend="superscript">го</hi> сентября</date>.</fw>
+      <l>Изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName></l>
+      <l>въ <orgName ref="Литовский_надворный_суд">Литовскій Надворный судъ</orgName>.</l>
+    </head>
+    <p>
+      <l>По сообщенію онаго <orgName ref="Литовский_надворный_суд">суда</orgName> и приложенной</l>
+      <l>при немъ изъ поданныхъ отъ еврея <persName ref="Мовша_Ошерович">Мойже-<lb/>
+       ша Ошеровича</persName> доказательствъ, касающихся</l>
+      <l>до господина совѣтника сего Правленія <persName ref="Елиашевич">Елі-<lb/>
+       ашевича</persName> выписки, какое господинъ совѣт-</l>
+      <l>никъ <persName ref="Елиашевич">Еліашевичъ</persName> далъ вторичное объясне-</l>
+      <l>ніе, таковое въ подлинномъ оному <orgName ref="Литовский_надворный_суд">суду</orgName></l>
+      <l>при семъ препровождается_. <date when="1799-08-31">Августа<lb/>
+       31 дня 1799<hi rend="superscript">го</hi> года</date>_.</l>
+      <l><persName>Фердинандъ Контримъ</persName></l>
+    </p>
+    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-09-06">6<hi rend=
+    "superscript">го</hi> сентября</date>.</fw>
     <pb n="245-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
