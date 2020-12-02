@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><creation><date when="1800-02-06">Февраля 6 дня 1800 года</date></creation>
+    <fileDesc><titleStmt>
     <author>
     <persName>Палкин</persName></author>
     <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract>Сообщение исполнявшего комендантскую должность <persName>Палкина</persName> <orgName ref="Литовский_надворный_суд">Надворному суду</orgName> о представлении разыскиваемых для допроса свидетелей</abstract></profileDesc>
+    <profileDesc><abstract>Сообщение исполнявшего комендантскую должность <persName>Палкина</persName> <orgName ref="Литовский_надворный_суд">Надворному 
+      суду</orgName> о представлении разыскиваемых для допроса свидетелей</abstract>
+    <creation><date when="1800-02-06">Февраля 6 дня 1800 года</date></creation></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="374-1"/>
