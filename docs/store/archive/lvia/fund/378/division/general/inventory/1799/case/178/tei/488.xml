@@ -6,12 +6,6 @@
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-    <correspDesc>
-    <correspAction>
-      <persName ref="Капцевич" role="addressee">Капцевичу</persName>
-    </correspAction>
-  </correspDesc>
-
       <abstract><p>
         Копия распоряжения (ордера), выданного литовским генерал-убернатором <persName ref="Лассий">де Ласси</persName>
         виленскому коменданту <persName ref="Капцевич">Капцевичу</persName> об отстранении старшин <orgName ref=
@@ -19,6 +13,8 @@
         приходно-расходных книг и их изучению для уточнения объемов и характера злоупотреблений
       </p></abstract>
       <creation><date when="1799-02-02">2 февраля 1799 года</date></creation>
+      <correspDesc><correspAction><persName ref="Капцевич" role="addressee">Капцевичу</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
