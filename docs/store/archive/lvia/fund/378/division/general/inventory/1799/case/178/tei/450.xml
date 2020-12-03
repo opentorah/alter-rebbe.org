@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> в <orgName ref="Литовский_надворный_суд"
@@ -9,7 +10,7 @@
         привлечении дополнительных свидетелй и ложных показаниях свидетелей, представленных <persName ref=
         "Мовша_Ошерович">Ошеровичем</persName>
       </p></abstract>
-      <creation><date when="1800-05-14">14 vfz 1800 года</date></creation>
+      <creation><date when="1800-05-14">14 мая 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
