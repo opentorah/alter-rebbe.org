@@ -5,14 +5,13 @@ plugins {
   id 'io.miret.etienne.sass'
 }
 
-final String opentorahVersion = '0.1.55'
+final String opentorahVersion = '0.1.56'
 
 description = '19 Kislev Archive'
 
 repositories {
   jcenter()
   mavenCentral()
-  mavenLocal()
 }
 
 idea {
