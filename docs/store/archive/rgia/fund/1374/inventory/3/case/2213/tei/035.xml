@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Авигдор">Авигдор</persName></author>
-    <editor role="transcriber"><persName>Александра Белкинд</persName></editor>
-    <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc><correspDesc>
-    <correspAction>
-      <persName ref="Павел_I" role="addressee">Павлу I</persName>
-    </correspAction>
-  </correspDesc>
- <creation><date when="1800-04-23">не позднее 23 апреля 1800</date></creation>
- <abstract><p>Обращение <persName ref="Авигдор">Авигдора</persName> к <persName ref="Павел_I">Павлу I</persName>, приложенное к прошению на высочайшее имя. Русский перевод - л. 2-2 об. документа <ref target="https://app.alter-rebbe.org/collections/rgia2213/documents/002.html">002</ref> в настоящем деле</p></abstract>
+    <fileDesc><titleStmt>
+      <author><persName ref="Авигдор">Авигдор</persName></author>
+      <editor role="transcriber"><persName>Александра Белкинд</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Обращение <persName ref="Авигдор">Авигдора</persName> к <persName ref="Павел_I">Павлу I</persName>, приложенное
+        к прошению на высочайшее имя. Русский перевод - л. 2-2 об. документа <ref target=
+        "https://app.alter-rebbe.org/collections/rgia2213/documents/002.html">002</ref> в настоящем деле
+      </p></abstract>
+      <creation><date when="1800-04-23">не позднее 23 апреля 1800</date></creation>
+      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="de"><body>
@@ -20,13 +24,13 @@
       <l><persName ref="Павел_I">Großmächtiger <emph rend="big">Kaiser</emph></persName>.</l>
     </salute>
     <p>
-      <l>Unterthänig und demüthig falle ich zu süßen, <persName ref="Павел_I">Großmächtiger <emph rend="big">Kaiser</emph></persName></l>
+      <l>Unterthänig und demüthig falle ich zu süßen, <persName ref="Павел_I">Großmächtiger <emph rend="big"
+      >Kaiser</emph></persName></l>
       <l>dero Großen Thron, und bitte mir mit Gnaden-blicke zu verzeihen, die große</l>
       <l>Freiheit, welche ich mir nehme Ihro Kaiserliche Majestät, mit meine viele Schrif_</l>
       <l>ten zu bemühen. Zwar brachte ich selbige in Gottes lehre ein, um daß Sie nicht so viel</l>
-      <l>Mühe veruhrsachen mögen: Aber dem die große Bedrängniße, von welche ich in <placeName ref="Пинск">Pin
-      <lb/>
-      sky</placeName>, und von die Neuentstandne Sekte gedrückt worden bin, wie der Verfolg von</l>
+      <l>Mühe veruhrsachen mögen: Aber dem die große Bedrängniße, von welche ich in <placeName ref="Пинск">Pin <lb/>
+       sky</placeName>, und von die Neuentstandne Sekte gedrückt worden bin, wie der Verfolg von</l>
       <l>meinen Schreiben auszeugt_ geben mir Hoffnung Huldreiche Gnade von <emph rend="big">Ihro Kaiserliche</emph></l>
       <l><emph rend="big">Majestät</emph> zu erwarten. Den ich dachte in meine Unglücksumstände, so wie König</l>
       <l>Dawid einst sagte._ Als Ihm die gegeben wurde, wegen seine Sünde Buße</l>
@@ -38,13 +42,17 @@
       <l>zu wählen, so sagte er_ „Ich will lieber fallen in Gottes Hand, daß er mir rich-</l>
       <l>ten soll, denn seine Barmhertzigkeit ist groß, nur in Menschen hände will ich</l>
       <l>nicht fallen._ „ des gleichen mein größter Wunsch ist, daß <emph rend="big">Ihro Kaiserliche</emph></l>
-      <l><emph rend="big">Majestät</emph> meine bey gelegte Schriften, <sic>mit Gnade durch lesen mechten</sic>. Denn durch</l>
-      <l>Gott, steht mein Urtheil in Ihro <emph rend="big">Kaiserliche Majestät</emph> höchst eigen <emph rend="big">Gewalt</emph>._</l>
+      <l><emph rend="big">Majestät</emph> meine bey gelegte Schriften, <sic>mit Gnade durch lesen mechten</sic>. Denn
+      durch</l>
+      <l>Gott, steht mein Urtheil in Ihro <emph rend="big">Kaiserliche Majestät</emph> höchst eigen <emph rend="big"
+      >Gewalt</emph>._</l>
       <l>Wo durch ich daß große Glück habe mich zu nennen</l>
       <l>Allerdurchlauchtigster</l>
       <l>Großmachtiger Kaiser</l>
-      <l><signed><unclear><persName ref="Авигдор">??? ???</persName></unclear></signed><note place="end">подпись на иврите</note></l>
-      <l>der Unterthänigste Knecht <persName ref="Авигдор">Abigdor Chaim</persName> gewesner Oberrabbiener in <placeName ref="Пинск">Pinsky</placeName></l>
+      <l><signed><unclear><persName ref="Авигдор">??? ???</persName></unclear></signed><note place="end">подпись на
+      иврите</note></l>
+      <l>der Unterthänigste Knecht <persName ref="Авигдор">Abigdor Chaim</persName> gewesner Oberrabbiener in <placeName
+      ref="Пинск">Pinsky</placeName></l>
       <l>Uebersetzt aus Hebräischen, von d<unclear>em</unclear> Unterthänigsten Knecht, der hiesige Bürger</l>
     </p>
     <pb n="035-2" missing="true"/>
