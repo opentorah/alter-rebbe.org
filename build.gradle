@@ -5,7 +5,7 @@ plugins {
   id 'io.miret.etienne.sass'
 }
 
-final String opentorahVersion = '0.1.56'
+final String opentorahVersion = '0.1.58'
 
 description = '19 Kislev Archive'
 
@@ -27,34 +27,31 @@ dependencies {
   runtimeOnly "org.opentorah:opentorah-collector:$opentorahVersion"
 }
 
-task postprocess(type: JavaExec) {
+task generateSite(type: JavaExec) {
   main = 'org.opentorah.collector.Main'
   args = ["$rootDir/docs"]
   classpath = sourceSets.main.runtimeClasspath
 }
 
-compileSass {
-//  sourceDir = project.file ("${projectDir}/src/main/sass")
-  outputDir = project.file ("${projectDir}/docs/assets")
-//
-//  // Watch sass files in sourceDir for changes
-//  watch ()
-//
-//  // Source map style:
-//  //  - file: output source map in a separate file (default)
-//  //  - embed: embed source map in CSS
-//  //  - none: do not emit source map.
-//  sourceMap = file
-//
-//  // How to link source maps to source files [relative (default) or absolute]:
-//  sourceMapUrls = relative
-}
+compileSass.outputDir = project.file ("${projectDir}/docs/assets")
 
-build.dependsOn(postprocess)
+build.dependsOn(generateSite)
 build.dependsOn(compileSass)
+
+final String gcloudServiceAccountKey =
+        findProperty('gcloudServiceAccountKey') ?:
+        System.getenv('gcloudServiceAccountKey') ?:
+        "nokey"
+task uploadSite(type: JavaExec) {
+  main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
+  args = [gcloudServiceAccountKey, "$rootDir/docs/"]
+  classpath = sourceSets.main.runtimeClasspath
+}
+uploadSite.dependsOn(build)
 
 task localService(type: JavaExec) {
   main = 'org.opentorah.collector.Service'
   environment "STORE", "file://$projectDir/docs/"
   classpath = sourceSets.main.runtimeClasspath
 }
+localService.dependsOn(build)
