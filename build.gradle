@@ -5,7 +5,7 @@ plugins {
   id 'io.miret.etienne.sass'
 }
 
-final String opentorahVersion = '0.1.58'
+final String opentorahVersion = '0.1.59'
 
 description = '19 Kislev Archive'
 
@@ -19,12 +19,12 @@ idea {
     excludeDirs += [
       file('.idea'),
       file('gradle'),
-      file('/docs/by'),
-      file('/docs/collections'),
-      file('/docs/names'),
-      file('/docs/notes'),
-      file('/docs/reports'),
-      file('/docs/*.html'),
+      file('/by'),
+      file('/collections'),
+      file('/names'),
+      file('/notes'),
+      file('/reports'),
+      file('/*.html'),
       file('gradle')
     ]
   }
@@ -34,33 +34,51 @@ dependencies {
   runtimeOnly "org.opentorah:opentorah-collector:$opentorahVersion"
 }
 
-task generateSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
-  args = ["$rootDir/docs"]
+compileSass {
+  sourceDir = project.file ("${projectDir}/sass")
+  outputDir = project.file ("${projectDir}/assets")
+}
+
+task verifySite(type: JavaExec) {
+  main = 'org.opentorah.collector.Build'
+  args = ["verify", rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
+verifySite.dependsOn(compileSass)
 
-compileSass {
-  sourceDir = project.file ("${projectDir}/src/main/sass")
-  outputDir = project.file ("${projectDir}/docs/assets")
+task generateSite(type: JavaExec) {
+  main = 'org.opentorah.collector.Build'
+  args = ["generate", rootDir]
+  classpath = sourceSets.main.runtimeClasspath
 }
+generateSite.dependsOn(compileSass)
 
-build.dependsOn(generateSite)
-build.dependsOn(compileSass)
+task buildSite(type: JavaExec) {
+  main = 'org.opentorah.collector.Build'
+  args = ["build", rootDir]
+  classpath = sourceSets.main.runtimeClasspath
+}
+buildSite.dependsOn(compileSass)
+
+final String gcloudServiceAccountKey = findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey"
 
 task uploadSite(type: JavaExec) {
-  main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
-  args = [
-    findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey",
-    "$rootDir/docs/"
-  ]
+  main = 'org.opentorah.collector.Build'
+  args = ["upload", rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSite.dependsOn(build)
+uploadSite.dependsOn(generateSite)
 
-task localService(type: JavaExec) {
-  main = 'org.opentorah.collector.Service'
-  environment "STORE", "file://$projectDir/docs/"
+task uploadSiteDryRun(type: JavaExec) {
+  main = 'org.opentorah.collector.Build'
+  args = ["upload", rootDir, gcloudServiceAccountKey, "dryRun"]
   classpath = sourceSets.main.runtimeClasspath
 }
-localService.dependsOn(build)
+uploadSite.dependsOn(generateSite)
+
+task serveSite(type: JavaExec) {
+  main = 'org.opentorah.collector.Service'
+  environment "STORE", "file://$projectDir/"
+  classpath = sourceSets.main.runtimeClasspath
+}
+serveSite.dependsOn(generateSite)
