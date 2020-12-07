@@ -40,18 +40,20 @@ task generateSite(type: JavaExec) {
   classpath = sourceSets.main.runtimeClasspath
 }
 
-compileSass.outputDir = project.file ("${projectDir}/docs/assets")
+compileSass {
+  sourceDir = project.file ("${projectDir}/src/main/sass")
+  outputDir = project.file ("${projectDir}/docs/assets")
+}
 
 build.dependsOn(generateSite)
 build.dependsOn(compileSass)
 
-final String gcloudServiceAccountKey =
-        findProperty('gcloudServiceAccountKey') ?:
-        System.getenv('gcloudServiceAccountKey') ?:
-        "nokey"
 task uploadSite(type: JavaExec) {
   main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
-  args = [gcloudServiceAccountKey, "$rootDir/docs/"]
+  args = [
+    findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey",
+    "$rootDir/docs/"
+  ]
   classpath = sourceSets.main.runtimeClasspath
 }
 uploadSite.dependsOn(build)
