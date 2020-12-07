@@ -20,4 +20,6 @@ jobs:
           java-version: 1.8
 
       - name: "Build and upload to Google Storage bucket"
+        env:
+          gcloudServiceAccountKey: ${{secrets.gcloudServiceAccountKey}}
         run: ./gradlew --no-daemon --console=plain build uploadSite
