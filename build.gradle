@@ -18,6 +18,13 @@ idea {
   module {
     excludeDirs += [
       file('.idea'),
+      file('gradle'),
+      file('/docs/by'),
+      file('/docs/collections'),
+      file('/docs/names'),
+      file('/docs/notes'),
+      file('/docs/reports'),
+      file('/docs/*.html'),
       file('gradle')
     ]
   }
