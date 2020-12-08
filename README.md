@@ -1,1 +1,1 @@
-See the project's website: [http://www.alter-rebbe.org/about.html](http://www.alter-rebbe.org/about.html).
+See the project's website: [https://www.alter-rebbe.org/notes/about.html](https://www.alter-rebbe.org/notes/about.html).
