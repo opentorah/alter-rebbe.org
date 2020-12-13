@@ -5,13 +5,20 @@ plugins {
   id 'io.miret.etienne.sass'
 }
 
-final String opentorahVersion = '0.1.59'
+final String opentorahVersion = '0.1.60'
 
 description = '19 Kislev Archive'
 
 repositories {
   jcenter()
   mavenCentral()
+
+  // TODO around 2020-12-13 two packages from the second page of my Bintray listing
+  // dropped off JCenter, and since the paths already exist (duh!) I can't request re-inclusion.
+  // Is there some way of asking Bintray for help?
+  maven {
+    url 'https://dl.bintray.com/dubinsky/org.opentorah'
+  }
 }
 
 idea {
@@ -35,27 +42,27 @@ dependencies {
 }
 
 compileSass {
-  sourceDir = project.file ("${projectDir}/sass")
-  outputDir = project.file ("${projectDir}/assets")
+  sourceDir = project.file ("$rootDir/sass")
+  outputDir = project.file ("$rootDir/assets")
 }
 
 task verifySite(type: JavaExec) {
-  main = 'org.opentorah.collector.Build'
-  args = ["verify", rootDir]
+  main = 'org.opentorah.collector.Main'
+  args = ['verify', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 verifySite.dependsOn(compileSass)
 
 task generateSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Build'
-  args = ["generate", rootDir]
+  main = 'org.opentorah.collector.Main'
+  args = ['generate', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 generateSite.dependsOn(compileSass)
 
 task buildSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Build'
-  args = ["build", rootDir]
+  main = 'org.opentorah.collector.Main'
+  args = ['build', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 buildSite.dependsOn(compileSass)
@@ -63,22 +70,27 @@ buildSite.dependsOn(compileSass)
 final String gcloudServiceAccountKey = findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey"
 
 task uploadSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Build'
-  args = ["upload", rootDir, gcloudServiceAccountKey]
+  main = 'org.opentorah.collector.Main'
+  args = ['upload', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSite.dependsOn(generateSite)
+uploadSite.dependsOn(buildSite)
 
 task uploadSiteDryRun(type: JavaExec) {
-  main = 'org.opentorah.collector.Build'
-  args = ["upload", rootDir, gcloudServiceAccountKey, "dryRun"]
+  main = 'org.opentorah.collector.Main'
+  args = ['upload', rootDir, gcloudServiceAccountKey, 'dryRun']
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSite.dependsOn(generateSite)
+uploadSite.dependsOn(buildSite)
 
 task serveSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Service'
-  environment "STORE", "file://$projectDir/"
+  main = 'org.opentorah.collector.Main'
+  args = ['serve', "file://$rootDir/"]
   classpath = sourceSets.main.runtimeClasspath
 }
-serveSite.dependsOn(generateSite)
+serveSite.dependsOn(buildSite)
+
+task serveRemoteSite(type: JavaExec) {
+  main = 'org.opentorah.collector.Main'
+  classpath = sourceSets.main.runtimeClasspath
+}
