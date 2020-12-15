@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Авигдор">Авигдор</persName></author>
-    <editor role="transcriber"><persName ref="AB">Александра Белькинд</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Авигдор">Авигдор</persName></author>
+      <editor role="transcriber"><persName ref="AB">Александра Белькинд</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
-    <creation><date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date></creation>
-      <correspDesc>
-    <correspAction>
-      <persName ref="Павел_I" role="addressee">Павлу I</persName>
-    </correspAction>
-  </correspDesc>
-    <abstract><p>Прошение Авигдора на высочайшее имя на французском языке. Перевод на русский - см. документ 002: https://app.alter-rebbe.org/collections/rgia2213/documents/002.html</p></abstract>
+      <abstract><p>
+        Прошение Авигдора на высочайшее имя на французском языке. Перевод на русский - см. документ 002:
+        https://app.alter-rebbe.org/collections/rgia2213/documents/002.html
+      </p></abstract>
+      <creation><date when="1800-04-23">начало 1800, не позднее 23 апреля 1800</date></creation>
+      <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="de"><body>
@@ -1100,164 +1102,169 @@
       <fw type="note" place="left margin"><l>2<hi rend="superscript">tes</hi> buch</l> <l>Moses</l> 22 Ca 23.v.</fw> <l
       >geschrieben._ „Wird mann Sie beleidigen, so werden. Sie zu mir schreyen</l> <l>und ich werde Ihr schreyen
       erhören„_ sondern ich dachte, wir haben ja</l> <l>noch Gottlob Höhre Gesetze, wo der unterdrückte Recht kriegen
-      kann. Und</l>
-        <pb n="045-2"/>
-    <l><unclear>???</unclear><note place="end">верхний и левый края листа заклеены при реставрации и малочитабельны</note> kann wohl größer sein als unser Großmächtiger Kaiser <persName ref="Павел_I">Paul der Erste</persName></l>
-		<l><unclear>???</unclear>lchen Gott uns auf erden eingesetzt hat um zu sein Herr über alle Herrn</l>
-		<l><unclear>???</unclear>ßen Hertz für eine jede Gerechte Sache offen steht, als die Thöre des Himmels</l>
-		<l>und von Ihm ist die Quelle von die Gerechtigkeit, Klugheit, und Furcht._ Denn</l>
-<fw type="note" place="left margin">
-<l>Daniel</l>
-<l>2. Ca: 21.v:</l>
-</fw>                 
-		<l>Er liebt was gerecht ist_. Eben so wie wir finden._ „daß Gott giebt</l>
-		<l>von seine Weiseheit, dem Klugen: und verständiget Ihrem Verstand_„ Und bey nahe</l>
-		<l>konnte Er rathen ein jeden Menschen seine Gedancken: welches ein jeder der nur</l>
-		<l>Verstand hat, einsehen kann._ _ Hiedurch nähe ich mich mit mein betrübten</l>
-		<l>schweren Herzen: Ihro <emph rend="big">Kaiserliche Majestät</emph>, unterthänigst und demüthigst</l>
-		<l>zu bitten_. Da ich in ehege Zeiten Reich und vermögend war, jetzt auf mein</l>
-		<l>Alter, durch Anstiftung der <orgName ref="Хасиды">Seckte</orgName>, ich mit meine ganze Familie in die gröste</l>
-		<l>Armuth gestürzt worden bin: Daß ich bloß wünsche mein Urtheil zu haben,</l>
-		<l>von ihro Hohe Ausspruch: denn mir ist unmöglich mit Zeugen zu beweisen,</l>
-		<l>den Schaden welchen mir die Seckte veruhrsacht hat. Denn dem Schaden welchen</l>
-		<l>Sie mir beybrachten, der besteht unter sie, welche ich in meiner Oberrab-</l>
-		<l>biener schaft in alle Städte unter mir hatte, welche wohl über Zehntausend</l>
-	<l>Menschen sein._ daß prophezeihte auch König Salomon_ „Ein König der <unclear>???</unclear></l>
-<fw type="note" place="left margin">
-<l>Sprüche</l>
-<l><unclear>???</unclear></l>
-<l>Salomon</l>
-<l>23. Ca: 14<hi rend="superscript">ter</hi> v:</l>
-</fw>
-	<l>die Armen treulich richtet: deßen Thron wird ewiglich bestehn_„ da mit meint</l>
-		<l>er daß ein jeder Regierender ohne Zeugen richten kann.</l>
-</p>
-<p>
-		<l>Abe waren die <orgName ref="Хасиды">Seckte</orgName> mit mein Stürtz noch nicht zu frieden, sondern da Sie</l>
-		<l>wußten daß in „<placeName ref="Вильна">Wilna</placeName>„ Ihre Freynbücher durch mir verbrannt worden sein, ma<unclear>ch</unclear></l>
-		<l>ten Sie auch da ein Bund untersich gegen die Gelehrte Jüdische Richter, und</l>
-		<l>Stadt Vorsteher, wählten sich von Ihre Seckte Zwey mit Nahmen „<persName ref="Меер_Рафалович">Meyer Ra-<lb/>
-                phels</persName>„ und <persName ref="Нохим_Ицкович">„Nachum„</persName> selbige klagten die Stadt Vorsteher mit falsche klagen</l>
-		<l>bey solche, da Sie Ihr Vorhaben Sie entdeckten, und selbige es vor gut befan-</l>
-		<l><unclear>dent</unclear> stunden Sie der Seckte noch bey: daß die beyden benannte Älteste Vor-</l>
-		<l><unclear>???</unclear> aus „<placeName ref="Вильна">Wilna</placeName>„ wurden: wo durch die welche gegen die <orgName ref="Хасиды">Seckte</orgName> sein, wegen</l>
-		<l>die <orgName ref="Хасиды">Seckte</orgName> Ihr immer während. Falsche Anklagen, mehr als 10000, dukaten ver-</l>
-		<l>lohren haben: wo durch hauptsächlich die Armen, welche gegen die <orgName ref="Хасиды">Seckte</orgName> Ihre</l>
-		<l>Gesinnungen sein gelitten haben._ – Dies der <orgName ref="Хасиды">Seckte</orgName> Ihr verfahren mit frey-</l>
-		<l>heiten, und dero mehr bestehend in dem untersich habenden Bündniß; sahe auch</l>
-		<l>zur letzt ein der in <placeName ref="Вильна">Wilna</placeName> gewesnen ,Goubrener, welches er auch hieher de-</l>
-		<l><unclear>mühtigte</unclear>. Darauf wurde der <orgName ref="Хасиды">Seckte</orgName> Ihr Älteste Vorsteher – <persName ref="alter-rebbe">Salomon</persName> aus <placeName ref="Лиозно">Loschno</placeName></l>
-		<l>hieher gefodert. Als mann Ihm unter andere befrug, weßen Uhrsache, er von</l>
-		<l>die <orgName ref="Хасиды">Seckte</orgName> Jährlich so viel Geld haben thut, und er nach die <placeName ref="Турция">Türkey</placeName> schickt?</l> 
-
-    <pb n="046-1"/>
-    <fw type="pageNum" place="right">46</fw>
-    <l>Antwortete er! Daß dieser Gebrauch von jeher unter die Juden eingeführt <unclear>ist</unclear><note place="end">верхний край листа заклеен при реставрации и малочитабелен</note> Wel-</l>
-		<l>ches aber das Gegentheil <unclear>???</unclear> <unclear>Zwar</unclear> ist von jeher eingeführt, daß alle <unclear>???</unclear></l>
-		<l>aus eine Stadt wo Juden wohnen, etwas hin geschickt wird: weil in die</l>
- <fw type="note" place="left margin">
- <l>5<hi rend="superscript">tes</hi> buch</l>
- <l>Moses</l>
- <l>5. Ca: 11<hi rend="superscript">ter</hi> v:</l>
- </fw>   
-		<l>Heiligeschrift steht_. „du sollst Mildreich sein, gegen Arme, Notdürftige</l>
-    	<l>	und bedrängte in deinem lande._» welches aber deuten will, daß mann erst</l>
-		<l>diejenigen Hilfe leisten muß, welche um uns sein, und dann die welche da</l>
-		<l>sein_ – welches auch nie mehr ausmachte, als von eine Ansehnliche Stadt</l>
-		<l>Jährlich, 5, oder 6. rubel: Aber der Seckte Ihr Vorsteher hebt Jährlich von jede</l>
-		<l>Familie .10. oder 15. rubel, um nach die Türkey zu schicken: beweilen allda</l>
-		<l>der wahre Ursprung von Ihre Seckte ist; und sich jetzt besonders viele</l>
-		<l>von Sie da befinden._ Aber die um Sie sein Arme: wann Sie nicht</l>
-		<l>mit in Ihre <orgName ref="Хасиды">Seckte</orgName> sein, helfen Sie selbige nicht mit daß mindeste._</l>
-		<l>Jn welcher handlung Sie noch immer fortfahren._ Denn vorhero, war jeder</l>
-		<l>Zeit bey unsre Nation eingeführt, daß blos von unsre Gelehrte, welche ge-</l>
-		<l>setzt waren, um die Rechts=sachen unter sich zu schlichten: welches auch nie-</l>
-		<l>mahlen, in die länge verzögert werden konnte: beweilen alles laut die</l>
-		<l>Heiligschrift gericht worden ist, so ist die größte Sache höchstens in drey</l>
-		<l>tage geendigt worden._ Welches auch die Hochseelige Kaiserin bey</l>
-		<l>Ihr besteigung den Thron bekräftigte: dass Jüdische Rechts-sachen, bloß</l>
-		<l>von die Vorgesetzte gelehrte Juden, geschlichtet werden sollen._ – Aber die</l> 
-		<l>Reichen, welche dies mißfiel, brachten es durch Vorbitte so weit, daß die</l>
-		<l>Kraft von Jüdische Richtung in Rechts-sachen wegfiel_. Denn weil es aus-</l>
-		<l>führlich bey uns anbefohlen ist_ „Ihr sollt nicht unrecht handlen am Gericht, weder</l>
-  <fw type="note" place="left margin">
-  <l>3<hi rend="superscript">tes</hi> buch</l>
-  <l>Moses</l>
-  <l>19 Ca: 15<hi rend="superscript">ter</hi> v.</l>
-  </fw>  
-	<l>	den Armen vorziehen noch den Reichen ehren _ – sondern du sollst dein Nächsten recht</l>
-	<l>richten.„ daß deutet so viel daß mann nicht in mindesten den Reichen, vor den Ar-</l>
-		<l>men vorziehen darf. Und was da anbetrift Jüdische Rechts-sachen, kann niemand</l>
-		<l>beßer richten, außer der, welcher ein Mitbruder von Sie ist, beweilen er gleich</l>
-		<l>unter die Richtende verstehn kann, welcher mit Falschheit bey der Sache umgeht, und</l>
-		<l>welcher wahrhaft redet._ – Und in der That, wann jetzt noch sollte sein, so wie</l>
-		<l>es ehe dem waren, daß Juden Ihre Rechts-sachen bloß von einem Gelehrten un-</l>
-		<l>ter Sie sollte geschlichtet werden, und was anbelangt Landesbefehle laut Hohe</l>
-		<l>vorgeschriebne Gesetze: so hätte mann gewiß gewußt zu zernichten, wann sich</l>
-		<l>einzelne mit Ihre Aufwerfung, gegen Gott, und seinen Gesalbten aufwerfen</l>
-		<l>thun._ Ich aber habe bloß meine Hoffnung auf Ihro <emph rend="big">Kaiserliche Majestät</emph></l>
-		<l>große Gnade. Da dero größter Wunsch blos ist, alles mit der größte</l>
-    <pb n="046-2"/>
-  <l>Ordnung, und Rechtheit zu vollführen. Und dies muß desto eher geschehn, w<unclear>???</unclear></l>
-		<l>auf dero Hohes-Befehl, Nahmentlich Richter eingesetzt werden: gegen welche</l>
-		<l>die Gemeinde, schon mehr Gehorstam leisten muß, als gegen diejenige die durch</l>
-		<l>andre Ihre Wahl gewählt werden._ – Auf diesen prophezeihte auch König</l>
- <fw type="note" place="left margin">
- <l>Sprüch</l>
- <l><unclear>???</unclear></l>
- <l>Salomon</l>
- <l>16.Ca:12.v.</l>
- </fw>   
-		<l>Salomon, da er sagt._ <note place="end">начало цитаты</note>Vor den Königen unrecht thun ist ein Greul: Denn durch</l>
-	<l>Gerechtigkeit wird der Thron bestättigt. Recht rathen gefällt den Königen: und</l>
-		<l>wer gleich zu räth, wird geliebt._<note place="end">конец цитаты</note></l>
-</p>
-<p>
-		<l>Es ist mir sicherlich bewußt, daß ich nicht in Stande bin zu schreiben,</l>
-		<l>wie es gebührend ist vor Ihro <emph rend="big">Kaiserliche Majestät</emph>. Und über dem</l>
-		<l>da ich mir die große Freyheit bedient habe, mit so vieles Schrei-</l>
-		<l>ben Ihro <emph rend="big">Kaiserliche Majestät</emph> zu bemühen: und wie sollte nicht</l>
-		<l>möglich sein, daß durch vielen reden mann ein Fehler begeht?_ Doch durch</l>
-		<l>Gottes Hilfe bin ich versichert auf die große Gnade unsers <emph rend="big">Großen</emph></l>
-		<l><emph rend="big">Kaiser</emph> <persName ref="Павел_I"><emph rend="big">Paul</emph> den Ersten</persName>, der Herr ist über alle Herre auf Erde, gleich</l>
-		<l>ein Engel Gottes; daß er einsehn wird, daß meine Reden treulich gemeint</l>
-		<l>sein. Und wann ich dero große Gnade besitze, fürchte ich mich vor niemand auf</l>
-		<l>Erde._ Auch bin ich nicht mit mein Schreiben etwa gekommen, um Ihro</l>
-		<l><emph rend="big">Kaiserliche Majestät</emph> zu belehren? Wie konnte ich das: da ich nur bin der</l>
-		<l>Niedrigste von alle niedrigen, einer der allernärrischten, und Menschen Ver-</l>
-		<l>stand ist nicht bey mir: Ich habe keine Weisheit gelernt, und was heilig ist</l>
-		<l>weis ich nicht: da durch weis ich nicht wie mann sich recht bey so ein Schr<unclear>ei</unclear>-</l>
-		<l>ben verhalten soll._ Sollte ich etwa nicht recht getroffen haben, die Ehre</l>
-		<l>welche so einen <emph rend="big">Großmächtigen Kaiser</emph> gebührt: so ist auf dero Großen</l>
- <fw type="note" place="left margin">
- <l>Psalm</l>
- <l>106 Ca. 2.v.</l>
- </fw>   
-		<l>Ruhm gezeigt, wie König Dawid, sagte gegen Gott: „Wer kann die großen</l>
-		<l>Thaten des Herrn aus reden, und alle seine Ehre preisen_.„ Des gleichen</l>
-		<l>ist auf keine Art nicht möglich aus zu drücken, die große Ehre und Ruhm</l>
-		<l>von Ihro <emph rend="big">Kaiserliche Majestät</emph>_.</l>
-  </p>
-  <p>
-  <l>Verfaßt in Hebräischen von den unterthänigsten Knecht „<persName ref="Авигдор">Abigdor</persName>„ gewesner Ober-</l>
-			<l>rabbiener in <placeName ref="Пинск">Pinsky</placeName>, der Sohn „<persName ref="Хаим">Chaim</persName>„ Rabbiener in <placeName ref="Калич">Kalisch</placeName>, zur Zeit in <placeName ref="Петербург">St. Petersburg</placeName></l>
-			<l>wo er hofft zu sehen daß lebendige Licht. Denn bey Dir ist die Quelle des Lebens</l>
-<fw type="note" place="left margin">
-<l>Spruch</l>
-<l><unclear>???</unclear></l>
-<l>Salomon</l>
-<l>10.Ca. 11<hi rend="superscript">ter</hi> v:</l>
-</fw>         
-			<l>denn daß gerechtens Mund ist ein Quelle des lebens. Und in Dein Licht sehen</l>	
-			<l>wir das Licht._</l>
-</p>
- <p>
- <signed><unclear>??? ??? ???</unclear><note place="end">развернутая подпись на иврите</note></signed>									
-</p>
-<p>
-	<l>Übersetzt aus den Hebräischen, von den unterthänigste</l>
-	<l>Knecht, den hiesigen Bürger – <persName ref="Бернгард">Peter Bernhard</persName>._</l>
-</p>
-  
+      kann. Und</l> <pb n="045-2"/> <l><unclear>???</unclear><note place="end">верхний и левый края листа заклеены при
+      реставрации и малочитабельны</note> kann wohl größer sein als unser Großmächtiger Kaiser <persName ref="Павел_I"
+      >Paul der Erste</persName></l> <l><unclear>???</unclear>lchen Gott uns auf erden eingesetzt hat um zu sein Herr
+      über alle Herrn</l> <l><unclear>???</unclear>ßen Hertz für eine jede Gerechte Sache offen steht, als die Thöre des
+      Himmels</l> <l>und von Ihm ist die Quelle von die Gerechtigkeit, Klugheit, und Furcht._ Denn</l> <fw type="note"
+      place="left margin">
+        <l>Daniel</l>
+        <l>2. Ca: 21.v:</l>
+      </fw> <l>Er liebt was gerecht ist_. Eben so wie wir finden._ „daß Gott giebt</l> <l>von seine Weiseheit, dem
+      Klugen: und verständiget Ihrem Verstand_„ Und bey nahe</l> <l>konnte Er rathen ein jeden Menschen seine Gedancken:
+      welches ein jeder der nur</l> <l>Verstand hat, einsehen kann._ _ Hiedurch nähe ich mich mit mein betrübten</l> <l
+      >schweren Herzen: Ihro <emph rend="big">Kaiserliche Majestät</emph>, unterthänigst und demüthigst</l> <l>zu
+      bitten_. Da ich in ehege Zeiten Reich und vermögend war, jetzt auf mein</l> <l>Alter, durch Anstiftung der
+      <orgName ref="Хасиды">Seckte</orgName>, ich mit meine ganze Familie in die gröste</l> <l>Armuth gestürzt worden
+      bin: Daß ich bloß wünsche mein Urtheil zu haben,</l> <l>von ihro Hohe Ausspruch: denn mir ist unmöglich mit Zeugen
+      zu beweisen,</l> <l>den Schaden welchen mir die Seckte veruhrsacht hat. Denn dem Schaden welchen</l> <l>Sie mir
+      beybrachten, der besteht unter sie, welche ich in meiner Oberrab-</l> <l>biener schaft in alle Städte unter mir
+      hatte, welche wohl über Zehntausend</l> <l>Menschen sein._ daß prophezeihte auch König Salomon_ „Ein König der
+      <unclear>???</unclear></l> <fw type="note" place="left margin">
+        <l>Sprüche</l>
+        <l><unclear>???</unclear></l>
+        <l>Salomon</l>
+        <l>23. Ca: 14<hi rend="superscript">ter</hi> v:</l>
+      </fw> <l>die Armen treulich richtet: deßen Thron wird ewiglich bestehn_„ da mit meint</l> <l>er daß ein jeder
+      Regierender ohne Zeugen richten kann.</l>
+    </p>
+    <p>
+      <l>Abe waren die <orgName ref="Хасиды">Seckte</orgName> mit mein Stürtz noch nicht zu frieden, sondern da Sie</l>
+      <l>wußten daß in „<placeName ref="Вильна">Wilna</placeName>„ Ihre Freynbücher durch mir verbrannt worden sein,
+      ma<unclear>ch</unclear></l>
+      <l>ten Sie auch da ein Bund untersich gegen die Gelehrte Jüdische Richter, und</l>
+      <l>Stadt Vorsteher, wählten sich von Ihre Seckte Zwey mit Nahmen „<persName ref="Меер_Рафалович">Meyer Ra-<lb/>
+       phels</persName>„ und <persName ref="Нохим_Ицкович">„Nachum„</persName> selbige klagten die Stadt Vorsteher mit
+      falsche klagen</l>
+      <l>bey solche, da Sie Ihr Vorhaben Sie entdeckten, und selbige es vor gut befan-</l>
+      <l><unclear>dent</unclear> stunden Sie der Seckte noch bey: daß die beyden benannte Älteste Vor-</l>
+      <l><unclear>???</unclear> aus „<placeName ref="Вильна">Wilna</placeName>„ wurden: wo durch die welche gegen die
+      <orgName ref="Хасиды">Seckte</orgName> sein, wegen</l>
+      <l>die <orgName ref="Хасиды">Seckte</orgName> Ihr immer während. Falsche Anklagen, mehr als 10000, dukaten
+      ver-</l>
+      <l>lohren haben: wo durch hauptsächlich die Armen, welche gegen die <orgName ref="Хасиды">Seckte</orgName>
+      Ihre</l>
+      <l>Gesinnungen sein gelitten haben._ – Dies der <orgName ref="Хасиды">Seckte</orgName> Ihr verfahren mit frey-</l>
+      <l>heiten, und dero mehr bestehend in dem untersich habenden Bündniß; sahe auch</l>
+      <l>zur letzt ein der in <placeName ref="Вильна">Wilna</placeName> gewesnen ,Goubrener, welches er auch hieher
+      de-</l>
+      <l><unclear>mühtigte</unclear>. Darauf wurde der <orgName ref="Хасиды">Seckte</orgName> Ihr Älteste Vorsteher –
+      <persName ref="alter-rebbe">Salomon</persName> aus <placeName ref="Лиозно">Loschno</placeName></l>
+      <l>hieher gefodert. Als mann Ihm unter andere befrug, weßen Uhrsache, er von</l>
+      <l>die <orgName ref="Хасиды">Seckte</orgName> Jährlich so viel Geld haben thut, und er nach die <placeName ref=
+      "Турция">Türkey</placeName> schickt?</l>
+      <pb n="046-1"/>
+      <fw type="pageNum" place="right">46</fw>
+      <l>Antwortete er! Daß dieser Gebrauch von jeher unter die Juden eingeführt <unclear>ist</unclear><note place="end"
+      >верхний край листа заклеен при реставрации и малочитабелен</note> Wel-</l>
+      <l>ches aber das Gegentheil <unclear>???</unclear> <unclear>Zwar</unclear> ist von jeher eingeführt, daß alle
+      <unclear>???</unclear></l>
+      <l>aus eine Stadt wo Juden wohnen, etwas hin geschickt wird: weil in die</l>
+      <fw type="note" place="left margin">
+        <l>5<hi rend="superscript">tes</hi> buch</l>
+        <l>Moses</l>
+        <l>5. Ca: 11<hi rend="superscript">ter</hi> v:</l>
+      </fw>
+      <l>Heiligeschrift steht_. „du sollst Mildreich sein, gegen Arme, Notdürftige</l>
+      <l>und bedrängte in deinem lande._» welches aber deuten will, daß mann erst</l>
+      <l>diejenigen Hilfe leisten muß, welche um uns sein, und dann die welche da</l>
+      <l>sein_ – welches auch nie mehr ausmachte, als von eine Ansehnliche Stadt</l>
+      <l>Jährlich, 5, oder 6. rubel: Aber der Seckte Ihr Vorsteher hebt Jährlich von jede</l>
+      <l>Familie .10. oder 15. rubel, um nach die Türkey zu schicken: beweilen allda</l>
+      <l>der wahre Ursprung von Ihre Seckte ist; und sich jetzt besonders viele</l>
+      <l>von Sie da befinden._ Aber die um Sie sein Arme: wann Sie nicht</l>
+      <l>mit in Ihre <orgName ref="Хасиды">Seckte</orgName> sein, helfen Sie selbige nicht mit daß mindeste._</l>
+      <l>Jn welcher handlung Sie noch immer fortfahren._ Denn vorhero, war jeder</l>
+      <l>Zeit bey unsre Nation eingeführt, daß blos von unsre Gelehrte, welche ge-</l>
+      <l>setzt waren, um die Rechts=sachen unter sich zu schlichten: welches auch nie-</l>
+      <l>mahlen, in die länge verzögert werden konnte: beweilen alles laut die</l>
+      <l>Heiligschrift gericht worden ist, so ist die größte Sache höchstens in drey</l>
+      <l>tage geendigt worden._ Welches auch die Hochseelige Kaiserin bey</l>
+      <l>Ihr besteigung den Thron bekräftigte: dass Jüdische Rechts-sachen, bloß</l>
+      <l>von die Vorgesetzte gelehrte Juden, geschlichtet werden sollen._ – Aber die</l>
+      <l>Reichen, welche dies mißfiel, brachten es durch Vorbitte so weit, daß die</l>
+      <l>Kraft von Jüdische Richtung in Rechts-sachen wegfiel_. Denn weil es aus-</l>
+      <l>führlich bey uns anbefohlen ist_ „Ihr sollt nicht unrecht handlen am Gericht, weder</l>
+      <fw type="note" place="left margin">
+        <l>3<hi rend="superscript">tes</hi> buch</l>
+        <l>Moses</l>
+        <l>19 Ca: 15<hi rend="superscript">ter</hi> v.</l>
+      </fw>
+      <l>den Armen vorziehen noch den Reichen ehren _ – sondern du sollst dein Nächsten recht</l>
+      <l>richten.„ daß deutet so viel daß mann nicht in mindesten den Reichen, vor den Ar-</l>
+      <l>men vorziehen darf. Und was da anbetrift Jüdische Rechts-sachen, kann niemand</l>
+      <l>beßer richten, außer der, welcher ein Mitbruder von Sie ist, beweilen er gleich</l>
+      <l>unter die Richtende verstehn kann, welcher mit Falschheit bey der Sache umgeht, und</l>
+      <l>welcher wahrhaft redet._ – Und in der That, wann jetzt noch sollte sein, so wie</l>
+      <l>es ehe dem waren, daß Juden Ihre Rechts-sachen bloß von einem Gelehrten un-</l>
+      <l>ter Sie sollte geschlichtet werden, und was anbelangt Landesbefehle laut Hohe</l>
+      <l>vorgeschriebne Gesetze: so hätte mann gewiß gewußt zu zernichten, wann sich</l>
+      <l>einzelne mit Ihre Aufwerfung, gegen Gott, und seinen Gesalbten aufwerfen</l>
+      <l>thun._ Ich aber habe bloß meine Hoffnung auf Ihro <emph rend="big">Kaiserliche Majestät</emph></l>
+      <l>große Gnade. Da dero größter Wunsch blos ist, alles mit der größte</l>
+      <pb n="046-2"/>
+      <l>Ordnung, und Rechtheit zu vollführen. Und dies muß desto eher geschehn, w<unclear>???</unclear></l>
+      <l>auf dero Hohes-Befehl, Nahmentlich Richter eingesetzt werden: gegen welche</l>
+      <l>die Gemeinde, schon mehr Gehorstam leisten muß, als gegen diejenige die durch</l>
+      <l>andre Ihre Wahl gewählt werden._ – Auf diesen prophezeihte auch König</l>
+      <fw type="note" place="left margin">
+        <l>Sprüch</l>
+        <l><unclear>???</unclear></l>
+        <l>Salomon</l>
+        <l>16.Ca:12.v.</l>
+      </fw>
+      <l>Salomon, da er sagt._ <note place="end">начало цитаты</note>Vor den Königen unrecht thun ist ein Greul: Denn
+      durch</l>
+      <l>Gerechtigkeit wird der Thron bestättigt. Recht rathen gefällt den Königen: und</l>
+      <l>wer gleich zu räth, wird geliebt._<note place="end">конец цитаты</note></l>
+    </p>
+    <p>
+      <l>Es ist mir sicherlich bewußt, daß ich nicht in Stande bin zu schreiben,</l>
+      <l>wie es gebührend ist vor Ihro <emph rend="big">Kaiserliche Majestät</emph>. Und über dem</l>
+      <l>da ich mir die große Freyheit bedient habe, mit so vieles Schrei-</l>
+      <l>ben Ihro <emph rend="big">Kaiserliche Majestät</emph> zu bemühen: und wie sollte nicht</l>
+      <l>möglich sein, daß durch vielen reden mann ein Fehler begeht?_ Doch durch</l>
+      <l>Gottes Hilfe bin ich versichert auf die große Gnade unsers <emph rend="big">Großen</emph></l>
+      <l><emph rend="big">Kaiser</emph> <persName ref="Павел_I"><emph rend="big">Paul</emph> den Ersten</persName>, der
+      Herr ist über alle Herre auf Erde, gleich</l>
+      <l>ein Engel Gottes; daß er einsehn wird, daß meine Reden treulich gemeint</l>
+      <l>sein. Und wann ich dero große Gnade besitze, fürchte ich mich vor niemand auf</l>
+      <l>Erde._ Auch bin ich nicht mit mein Schreiben etwa gekommen, um Ihro</l>
+      <l><emph rend="big">Kaiserliche Majestät</emph> zu belehren? Wie konnte ich das: da ich nur bin der</l>
+      <l>Niedrigste von alle niedrigen, einer der allernärrischten, und Menschen Ver-</l>
+      <l>stand ist nicht bey mir: Ich habe keine Weisheit gelernt, und was heilig ist</l>
+      <l>weis ich nicht: da durch weis ich nicht wie mann sich recht bey so ein Schr<unclear>ei</unclear>-</l>
+      <l>ben verhalten soll._ Sollte ich etwa nicht recht getroffen haben, die Ehre</l>
+      <l>welche so einen <emph rend="big">Großmächtigen Kaiser</emph> gebührt: so ist auf dero Großen</l>
+      <fw type="note" place="left margin">
+        <l>Psalm</l>
+        <l>106 Ca. 2.v.</l>
+      </fw>
+      <l>Ruhm gezeigt, wie König Dawid, sagte gegen Gott: „Wer kann die großen</l>
+      <l>Thaten des Herrn aus reden, und alle seine Ehre preisen_.„ Des gleichen</l>
+      <l>ist auf keine Art nicht möglich aus zu drücken, die große Ehre und Ruhm</l>
+      <l>von Ihro <emph rend="big">Kaiserliche Majestät</emph>_.</l>
+    </p>
+    <p>
+      <l>Verfaßt in Hebräischen von den unterthänigsten Knecht „<persName ref="Авигдор">Abigdor</persName>„ gewesner
+      Ober-</l>
+      <l>rabbiener in <placeName ref="Пинск">Pinsky</placeName>, der Sohn „<persName ref="Хаим">Chaim</persName>„
+      Rabbiener in <placeName ref="Калич">Kalisch</placeName>, zur Zeit in <placeName ref="Петербург">St.
+      Petersburg</placeName></l>
+      <l>wo er hofft zu sehen daß lebendige Licht. Denn bey Dir ist die Quelle des Lebens</l>
+      <fw type="note" place="left margin">
+        <l>Spruch</l>
+        <l><unclear>???</unclear></l>
+        <l>Salomon</l>
+        <l>10.Ca. 11<hi rend="superscript">ter</hi> v:</l>
+      </fw>
+      <l>denn daß gerechtens Mund ist ein Quelle des lebens. Und in Dein Licht sehen</l>
+      <l>wir das Licht._</l>
+    </p>
+    <p><signed><unclear>??? ??? ???</unclear><note place="end">развернутая подпись на иврите</note></signed></p>
+    <p>
+      <l>Übersetzt aus den Hebräischen, von den unterthänigste</l>
+      <l>Knecht, den hiesigen Bürger – <persName ref="Бернгард">Peter Bernhard</persName>._</l>
+    </p>
   </body></text>
 </TEI>
