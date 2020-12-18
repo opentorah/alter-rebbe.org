@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="alter-rebbe">Шнеур Залман</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="alter-rebbe">Шнеур Залман</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Перевод с иврита на французский язык показаний <persName ref="alter-rebbe">Шнеура Залмана</persName>
-      </p></abstract>
+        Перевод с иврита на французский язык показаний <persName ref="alter-rebbe">Шнеура Залмана</persName>; имеются расхождения с черновиком перевода на русский язык в документе 289 (см.: https://app.alter-rebbe.org/collections/rgada/documents/289.html) и, в меньшей степени, свободным переводом на русский язык собственноручных показаний <persName ref="alter-rebbe">Шнеура Залмана</persName> https://www.alter-rebbe.org/collections/rgada/documents/059-ru.html</p></abstract>
       <creation><date when="1798-11-01">1 ноября 1798 года</date></creation>
     </profileDesc>
   </teiHeader>
@@ -175,7 +175,7 @@
       <choice><corr>temps</corr> <sic>tems</sic></choice>
       <l>Isrqel, d'avoit de ville en ville deux</l>
       <l>grandes maisons destinées pour les</l>
-      <l>prieres, sous les noms: de <emph rend="underline">Beth Hae<lb/>
+      <l>prieres, sous les noms: de <emph rend="underline">Beth Haс<lb/>
        neset</emph> temple, maison à prier, et</l>
       <l><emph rend="underline">Beth Hamedrach</emph>, maison de recherche,</l>
       <l>ou de contemplation. Le temple étoit</l>
@@ -191,7 +191,7 @@
       <l>selon ce qu'où chacun est porté</l>
       <l>par son esprit et par son coeur.</l>
       <pb n="065-2"/>
-      <fw type="pageNum" place="left">65.об</fw>
+      <fw type="pageNum" place="left">65 об.</fw>
       <l>Et dans les livres écrits, il y a déjà</l>
       <l>plus de deux siecles passés, il est dit</l>
       <l>qu'a ce <sic>tems</sic> là chaque jous on passait</l>
@@ -258,8 +258,8 @@
       <l>que le dernier de Rois monta sur le</l>
       <l>trône, elle commença d'abattre peu-</l>
       <l>à-peu le pouvoir des Rabins tomba tout</l>
-      <l>à fait, surtout dans la Russie</l>
-      <l>blanche, par un ordre severe, qu'on</l>
+      <l>à fait, surtout dans la <placeName ref="Белоруссия">Russie<lb/>
+      blanche</placeName>, par un ordre severe, qu'on</l>
       <pb n="066-2"/>
       <fw type="pageNum" place="left">66 об.</fw>
       <l>nomme <emph rend="underline">ukaz</emph> pour restreindre et defondre</l>
@@ -354,7 +354,7 @@
       <l>pas tant que leurs predecesseurs.</l>
     </p>
     <p>
-      <l>10. Seulement les juifs de Wilna et ceux</l>
+      <l>10. Seulement les juifs de <placeName ref="Вильна">Wilna</placeName> et ceux</l>
       <l>qui se trainent après eux, nous ont</l>
       <l>donné le sobriquel de <emph rend="underline"><orgName ref="Хасиды">Carolins</orgName></emph> et non</l>
       <l>pas <orgName ref="Хасиды">Hasidim</orgName> à cause d'inimitié et de</l>
@@ -402,7 +402,7 @@
       <l>dans chaque ville et ville un homme</l>
       <l>sous le titre <persName ref="maggid">Magid</persName> <note>|: predicateur :|</note></l>
       <pb n="068-2"/>
-      <fw type="pageNum" place="left">68.об</fw>
+      <fw type="pageNum" place="left">68 об.</fw>
       <l>pour qu'il preche et explique dans la</l>
       <l>maison d'assemblée au peuple la bible,</l>
       <l>la crainte de Dieu et un peu de morale,</l>
@@ -468,7 +468,7 @@
        raine</placeName>, <placeName ref="Волынская_губерния">Volhynie</placeName>, et autres provinces et</l>
       <l>je n'ai rien écouté de leurs sermons,</l>
       <pb n="069-2"/>
-      <fw type="pageNum" place="left">69.об</fw>
+      <fw type="pageNum" place="left">69 об.</fw>
       <l>pourtant me semble-t-il, que le sujet</l>
       <l>en roule sur la pureté du coeur envers</l>
       <l>Dieu et son prochain, comme le sont nos</l>
@@ -606,7 +606,7 @@
        aggrandir leur gloire :|</note> parce que</l>
       <l>c'est deja depuis longtems que</l>
       <pb n="071-2"/>
-      <fw type="pageNum" place="left">71.об</fw>
+      <fw type="pageNum" place="left">71 об.</fw>
       <l>les livres à prieres suivant la cabale</l>
       <l>sont imprimés: deux éditions à Ams-</l>
       <l>terdam sous la censure et avec le con-</l>
@@ -645,7 +645,7 @@
       <l>durant le tems que j'ai demeuré à <placeName ref="Витебск">Witebsk</placeName>,</l>
       <l>je voyagois à <placeName ref="Мезеричи">Meseritz</placeName>, et là j'avois fait</l>
       <l>le premier pas pour apprendre la cabale</l>
-      <l>chez le feu Rabin Ber, mort depuis</l>
+      <l>chez le feu <persName ref="maggid">Rabin Ber</persName>, mort depuis</l>
       <l>plus de 25 ans; et depuis ce tems j'ai</l>
       <l>étudié moi seul quantité de livres cu-</l>
       <l>rieux, composés tant de premiers que</l>
@@ -683,7 +683,7 @@
     </p>
     <p>
       <l>17. La science de la cabale que j'ai étudié</l>
-      <l>chez le dit rabin, et dont j'ai depuis fait</l>
+      <l>chez le dit <persName ref="maggid">rabin</persName>, et dont j'ai depuis fait</l>
       <l>l'étude seulement dans les livres, c'étoient</l>
       <l>les suivants:</l>
     </p>
@@ -717,7 +717,7 @@
       <l>j'ai oui dire, que les premieres generations,</l>
       <pb n="073-1"/>
       <fw type="pageNum" place="right">73.</fw>
-      <l>le savoient; aussi le feu rabin ci-dessus men-</l>
+      <l>le savoient; aussi le feu <persName ref="maggid">rabin</persName> ci-dessus men-</l>
       <l>tionné n'a rien <unclear>sçu</unclear> de cela; aussi cette</l>
       <l>science n'aboutit-elle à rien au service</l>
       <l>de Dieu.</l>
@@ -728,7 +728,7 @@
       <l>en l'année au jour de Sabath, soit dans</l>
       <l>la maison d'assemblée, soit dans le Beth</l>
       <l>Hamendrach; depuis le tems que je suis</l>
-      <l>nommé predicateur à Lozna il y a quinze</l>
+      <l>nommé predicateur à <placeName ref="Лиозно">Lozna</placeName> il y a quinze</l>
       <l>ans, tout ce mondeest obligé de partir</l>
       <l>d'abord que le Sabath finit, car je ne</l>
       <l>leur permets par l'entrée de ma chambre</l>
@@ -747,16 +747,15 @@
       <l>moi, je ne prends jamais ni argent ni</l>
       <l>la moindre chose precieuse; mais il est</l>
       <l>possible, que les gens que je reconcilie</l>
-      <l>et accorde entr'eux, dès qu'ils-</l>
+      <l>et accorde entr'eux, dès qu'ils_</l>
       <l>retournent dans leurs domicile,</l>
-    </p>
-    <pb n="073-2"/>
-    <fw type="pageNum" place="left">73.об</fw>
+        <pb n="073-2"/>
+    <fw type="pageNum" place="left">73 об.</fw>
     <l>m'envoyent selon leur bon plaisir, et</l>
     <l>sans que je le leur demande; je gagne</l>
     <l>ma vie par le negoce, car je paye au</l>
-    <l>corps des marchands <emph rend="underline"><unclear>Guilis</unclear>, soures ou<lb/>
-     sores</emph> et ma femme trafique en grains</l>
+    <l>corps des marchands <note type="gloss">|: <emph rend="underline"><unclear>Guilis</unclear>, soures ou<lb/>
+     sores</emph> :|</note> et ma femme trafique en grains</l>
     <l>tant sur le marché de cette ville qu'en</l>
     <l>d'autres villes et places; encore a-t-elle</l>
     <l>une maison en propre sur le marché,</l>
@@ -765,11 +764,11 @@
     <l>d'autres boissons, du sel etc; cela porte</l>
     <l>assez de roubles par semaine, selon qu'il</l>
     <l>plait à Dieu. Eussi ai-je du fond</l>
-    <l>public à Lozna un revenu fixé de</l>
+    <l>public à <placeName ref="Лиозно">Lozna</placeName> un revenu fixé de</l>
     <l>quelques roubles par semaine, comme</l>
-    <l>c'est la coutu,e de toutes les villes</l>
+    <l>c'est la coutue de toutes les villes</l>
     <l>de payer le predicateur, et cela suffit</l>
-    <l>à mes depenses ordinaires; car Lozna</l>
+    <l>à mes depenses ordinaires; car <placeName ref="Лиозно">Lozna</placeName></l>
     <l>est petite ville, où tout est à bon mar-</l>
     <l>ché, aussi cela est-il une raison, pour-</l>
     <l>quoi j'y demeure et non dans une</l>
@@ -801,7 +800,7 @@
     <l>qui me connoissent depuis ma tendre</l>
     <l>jeunesses, temoigneront que je ne suis</l>
     <l>point avide d'argent, et que je ne</l>
-    <l>accumule qu'autant et pas plus</l>
+    <l>l'accumule qu'autant et pas plus</l>
     <l>qu'il est necessaire pour la vie hu-</l>
     <l>maine; et pour le necessaire j'en ai</l>
     <l>suffisament sans prendre de la jeu-</l>
@@ -814,12 +813,13 @@
     <l>quant ils l'affiremeront par devant la</l>
     <l>justice selon la coutume usuelle</l>
     <pb n="074-2"/>
-    <fw type="pageNum" place="left">74.об</fw>
+    <fw type="pageNum" place="left">74 об.</fw>
     <l>parmi les Juifs, car je sais que mes mains</l>
     <l>sont pures et devant Dieu et devant</l>
     <l>Israel.</l>
+    </p>
     <p>
-      <l>19. Les pauvres qui arrivent souvent pour</l>
+      <l>19 Les pauvres qui arrivent souvent pour</l>
       <l>ouir mes sermons les jours du Sabath,</l>
       <l>et qui n'ont de quoi payer leur nour-</l>
       <l>riture, mandient auprès de riches de</l>
@@ -828,30 +828,29 @@
       <l>et retournent chez eux.</l>
     </p>
     <p>
-      <l>20. Il y a en Palestine quatre grandes com-</l>
-      <l>munités des Juifs à Jerusalem, Tiberias,</l>
+      <l>20 Il y a en <placeName ref="Палестина">Palestine</placeName> quatre grandes com-</l>
+      <l>munités des Juifs à <placeName ref="Иерусалим">Jerusalem</placeName>, Tiberias,</l>
       <l>Zephas et Hebron, outre ceux qui de</l>
       <l>meurent dans la campagne; ce sont</l>
       <l>des gens assemblés de tous les pays;</l>
       <l>ils n'ont aucun negoce ni travail, ne</l>
       <l>font que prier et étudier, et n'ont</l>
-      <l>d'autre moyen pour vivre qu'en envoyant</l>
-      <l>messages dans tous les pays pour</l>
+      <l>d'autre moyen pour vivre qu'en <hi rend="superscript">en</hi>voyant</l>
+      <l>des messages dans tous les pays pour</l>
       <l>faire des collectes, et pour demander</l>
       <l>des dons gratuits à chacun des riches,</l>
       <l>qui a le coeur assez magnanime pour</l>
       <l>les assister selon sa bonté. Ces messages</l>
       <l>portent des temoignages signés et</l>
       <l>scellés par les plus celebres qui de</l>
-      <l>meurent en Palestine, et dont la si-</l>
+      <l>meurent en <placeName ref="Палестина">Palestine</placeName>, et dont la si-</l>
       <l>gnature est connue dans les pays</l>
       <l>où ils vont, et c'est la coutume des</l>
       <l>pais tout tems, et telle est chez nous</l>
       <l>la loi de nourrir et soutenir le pauvres</l>
-    </p>
-    <pb n="075-1"/>
+        <pb n="075-1"/>
     <fw type="pageNum" place="right">75.</fw>
-    <l>en Palestine pour qu'ils prient là pour</l>
+    <l>en <placeName ref="Палестина">Palestine</placeName> pour qu'ils prient là pour</l>
     <l>tout Israel. Ces messagers en quittant</l>
     <l>la Palestine se separent pour aller dans</l>
     <l>les divers pays. Il y en a qui vont en</l>
@@ -859,30 +858,30 @@
     <l>par les Allemands et les Hollandois, qui</l>
     <l>s'y trouvent, car quand même qu'en partant</l>
     <l>de leur patrie ils avoient apporté des</l>
-    <l>richesses en Palestine, mais les ayant</l>
+    <l>richesses en <placeName ref="Палестина">Palestine</placeName>, mais les ayant</l>
     <l>distribuées aux autres, et comme</l>
     <l>depuis ils ne pouvoient plus rien ga-</l>
     <l>gner, ils sont devenus pauvres aussi.</l>
-    <l>D'autres vont dans <unclear>lo</unclear> ci-devant Po-</l>
-    <l>logne; dès qu'ils arrivent en quelque</l>
+    <l>D'autres vont dans <unclear>lo</unclear> ci-devant <placeName ref="Польша">Po-<lb/>
+    logne</placeName>; dès qu'ils arrivent en quelque</l>
     <l>ville ces messagers, ils produisent</l>
     <l>leurs attestats aux rabins et aux</l>
-    <l>premiers Rabitans; alors le rabin</l>
+    <l>premiers habitans; alors le rabin</l>
     <l>écrit aussi une supplique qu'on nomme</l>
     <l><emph rend="underline">interception</emph>, pour eveillir grande mi-</l>
     <l>sericorde dqns les coeurs des riches</l>
-    <l>pour les pauvres en Palestine, pour</l>
+    <l>pour les pauvres en <placeName ref="Палестина">Palestine</placeName>, pour</l>
     <l>faire valoir dans les yeyx du peuple</l>
     <l>cet oeuvre pieux en ce que tout Israel</l>
     <l>dans tous les lieux où ils sont établis</l>
     <l>adressent leurs prieres et s'inclinent</l>
-    <l>absolument du côté de la Palestine,</l>
+    <l>absolument du côté de la <placeName ref="Палестина">Palestine</placeName>,</l>
     <l>car là est la porte du ciel; aussi</l>
     <l>trouve-t-on beaucoup de livres qui</l>
     <l>traitent sur les preferences de la</l>
     <pb n="075-2"/>
-    <fw type="pageNum" place="left">75.об</fw>
-    <l>Palestine et sur la louange de ceux,</l>
+    <fw type="pageNum" place="left">75 об.</fw>
+    <l><placeName ref="Палестина">Palestine</placeName> et sur la louange de ceux,</l>
     <l>qui soutiennent et nourrissent ses habi-</l>
     <l>tans; ainsi chaque rabin écrit dans</l>
     <l>un stile selon sa capacité, selon son</l>
@@ -893,27 +892,27 @@
     <l>tre sur sa route un autre rabin, on lui</l>
     <l>donne encore un tel billet, et ainsi</l>
     <l>il fait de cette façon le tout des provinces</l>
-    <l>jusqu'à ce qu'il retourne en Palestine.</l>
+    <l>jusqu'à ce qu'il retourne en <placeName ref="Палестина">Palestine</placeName>.</l>
+    </p>
     <p>
       <l>21. Tout cela je l'ai vu de mes propres</l>
       <l>yeux chez un de ces messagers, passant</l>
       <l>par notre province sur son retour en</l>
-      <l>Palestine, qui avoit plusieurs pareils</l>
+      <l><placeName ref="Палестина">Palestine</placeName>, qui avoit plusieurs pareils</l>
       <l>écrits des rabins allemands et Hollan-</l>
-      <l>dois, comme de ceux de Berlin, Ham-</l>
-      <l>bourg, Francfort sur le Mayn et aussi</l>
-      <l>des rabins de la ci-devant Pologne</l>
+      <l>dois, comme de ceux de Berlin, <placeName ref="Гамбург">Ham-<lb/>
+      bourg</placeName>, Francfort sur le Mayn et aussi</l>
+      <l>des rabins de la ci-devant <placeName ref="Польша">Pologne</placeName></l>
       <l>entière et d'autres pays, comme tout</l>
       <l>cela est un fait connu et sçu publi-</l>
-      <l>quement dans la Russie blanche.</l>
+      <l>quement dans la <placeName ref="Белоруссия">Russie blanche</placeName>.</l>
       <l>Ainsi moi aussi je n'ai pas manqué</l>
       <l>d'écrire quelques fois de tels livres</l>
       <l>ou écrits d'interception au messager</l>
       <l>qui faisoit le tour dans cette province</l>
       <l>et aux environs pour eveiller la mise-</l>
       <l>ricorde, la bonne volonté et les grâces</l>
-    </p>
-    <pb n="076-1"/>
+        <pb n="076-1"/>
     <fw type="pageNum" place="right">76.</fw>
     <l>du public sur nos freres qui sont en</l>
     <l>Palestine, mais non point comme des</l>
@@ -926,51 +925,52 @@
     <l>que c'est un devoir suivan nos loix</l>
     <l>que de s'en point exclure; car plu-</l>
     <l>sieurs proches et parents des habitants</l>
-    <l>de la Russie blanche et de ses envi-</l>
-    <l>rons, se trouvent en Palestine, ayant</l>
+    <l>de la <placeName ref="Белоруссия">Russie blanche</placeName> et de ses envi-</l>
+    <l>rons, se trouvent en <placeName ref="Палестина">Palestine</placeName>, ayant</l>
     <l>quitté le pays étant encore sous la do-</l>
-    <l>mination de la Pologne; après ce tems</l>
+    <l>mination de la <placeName ref="Польша">Pologne</placeName>; après ce tems</l>
     <l>beaucoup di district de <emph rend="underline">Bisziçxowiez</emph></l>
-    <l>du tems qu'il étoit à la Pologne,</l>
-    <l>partirent pour la Palestine, et suivant</l>
+    <l>du tems qu'il étoit à la <placeName ref="Польша">Pologne</placeName>,</l>
+    <l>partirent pour la <placeName ref="Палестина">Palestine</placeName>, et suivant</l>
     <l>notre loi c'est un grand devoir pour</l>
     <l>nous de nourrir ses proches comme</l>
-    <l>écrivit le Prophete Isaia:"et tu ne te</l>
+    <l>écrivit le Prophete Isaia: „et tu ne te</l>
     <l>cacheras point de ton parent", et dans</l>
-    <l>les livres de Moyse il est écrit: "quand</l>
+    <l>les livres de Moyse il est écrit: „quand</l>
     <l>"il sera parmi vous un pauvre de</l>
-    <l>"vos parents etc." et encore: "tu ouvri-</l>
+    <l>"vos parents etc." et encore: „tu ouvri-</l>
     <l>"ras et reouvriras ta main" etc. Et</l>
     <l>par ses graces et sa misericorde notre</l>
     <l>très gracieux Empereur nous a confir-</l>
     <l>mé la permission d'observer nos</l>
     <pb n="076-2"/>
-    <fw type="pageNum" place="left">76.об</fw>
+    <fw type="pageNum" place="left">76 об.</fw>
     <l>loix dans leurs forces sans relaxations.</l>
     <l>Tous les Juifs sont dans l'assurance</l>
     <l>de pouvoir observer la loi en toute sa</l>
     <l>vigueur.</l>
+    </p>
     <p>
-      <l>22. C'est la coutume depuis tout tems</l>
+      <l>22 C'est la coutume depuis tout tems</l>
       <l>et même a present qu'il arrive deux</l>
-      <l>messages de la Palestine dans la ci-devant</l>
-      <l>Pologne, dont l'un fait le tour en Volhy-</l>
-      <l>nie; en L'ukraine et dans ses environs,</l>
-      <l>l'autre fait le tour de la Russie blanche</l>
-      <l>et dans une partie voisine de la Lithua-</l>
-      <l>nie; mais ppour les autres parties de</l>
-      <l>la Lithuanie, comme Sluck, Pinsk, Minsk</l>
+      <l>messages de la <placeName ref="Палестина">Palestine</placeName> dans la ci-devant</l>
+      <l><placeName ref="Польша">Pologne</placeName>, dont l'un fait le tour en <placeName ref="Волынская_губерния">Volhy-<lb/>
+      nie</placeName>; en <placeName ref="Украина">L'ukraine</placeName> et dans ses environs,</l>
+      <l>l'autre fait le tour de la <placeName ref="Белоруссия">Russie blanche</placeName></l>
+      <l>et dans une partie voisine de la <placeName ref="Литва">Lithua-<lb/>
+      nie</placeName>; mais ppour les autres parties de</l>
+      <l>la <placeName ref="Литва">Lithuanie</placeName>, comme <placeName ref="Слуцк">Sluck</placeName>, <placeName ref="Пинск">Pinsk</placeName>, <placeName ref="Минск">Minsk</placeName></l>
       <l>Slonim, et autres villes tant grandes que</l>
-      <l>petites, le messager destiné pour la Volhy-</l>
-      <l>nie y envoiye un commissaire pour</l>
+      <l>petites, le messager destiné pour la <placeName ref="Волынская_губерния">Volhy-<lb/>
+      nie</placeName> y envoiye un commissaire pour</l>
       <l>faire la quête qui la lui apporte à Brody.</l>
-      <l>Les habitants de Wilna envoyent aussi</l>
-      <l>leurs offrandes en Palestine semblable</l>
+      <l>Les habitans de <placeName ref="Вильна">Wilna</placeName> envoyent aussi</l>
+      <l>leurs offrandes en <placeName ref="Палестина">Palestine</placeName> semblable</l>
       <l>aux autres Israelites; seulement je ne</l>
       <l>sais pas s'ils les donnent à ce commis-</l>
       <l>ssaire, ou s'ils l'envoyent directement</l>
-      <l>en mains du messager de la Palestine,</l>
-      <l>ou s'ils l'envoyent par les <note>|:banquiers:|</note></l>
+      <l>en mains du messager de la <placeName ref="Палестина">Palestine</placeName>,</l>
+      <l>ou s'ils l'envoyent par les <note>|: banquiers :|</note></l>
       <l>negociants à Brody et de là à Con-</l>
       <l>stantinople.</l>
     </p>
@@ -978,7 +978,7 @@
       <l>Avec tout cela je ne sais, en quoi</l>
       <l>j'ai peché ou suis devenu plus cou-</l>
       <l>pable que les autres Israelites, qu'ont</l>
-    </p>
+    
     <pb n="077-1"/>
     <fw type="pageNum" place="right">77.</fw>
     <l>la coutume de faire le même depuis tout</l>
@@ -999,6 +999,7 @@
     <l>bourser au double; mais moi, et toute</l>
     <l>la province sait que ce n'est pas le</l>
     <l>cas.</l>
+    </p>
     <p>
       <l>Si cela est contraire aux volontés</l>
       <l>de notre très gracieux Empereur, je</l>
@@ -1012,7 +1013,7 @@
       <l>donner.</l>
     </p>
     <pb n="077-2"/>
-    <fw type="pageNum" place="left">77.об</fw>
+    <fw type="pageNum" place="left">77 об.</fw>
     <p>
       <l>Le quidam de la ville Wolpe est</l>
       <l>connu et celebre à tout le monde</l>
@@ -1021,14 +1022,14 @@
       <l>les villes pour ouir ses sermons et</l>
       <l>qu'on lui donne beaucoup d'argent,</l>
       <l>disant qu'il preche mieux que son</l>
-      <l>collegue et citoyen le rabin Solomon.</l>
+      <l>collegue et citoyen le rabin <persName ref="Соломон">Solomon</persName>.</l>
       <l>Il a fait le tour en plusieurs villes,</l>
       <l>où il a beaucoup preché et pretendoit</l>
       <l>de grandes sommes; mais à cause</l>
       <l>qu'on le recevoit rabin et qu'on ne</l>
       <l>lui donnoit tant qu'il vouloit, son</l>
       <l>coeur se pervertit en haine, il alla</l>
-      <l>à Wilna. Avec flatterie et douces</l>
+      <l>à <placeName ref="Вильна">Wilna</placeName>. Avec flatterie et douces</l>
       <l>paroles il a cru attraper beaucoup</l>
       <l>d'argent, mais comme aussi là on</l>
       <l>ne lui donnoit pas selon sa volonté, il</l>
@@ -1036,8 +1037,8 @@
       <l>l'ame chagrinée et n'y revenoit plus.</l>
     </p>
     <p>
-      <l>Rabin Aaron deceda passé 25 ans.</l>
-      <l>Rabin Solomon de même il y a long-</l>
+      <l>Rabin <persName ref="Арон">Aaron</persName> deceda passé 25 ans.</l>
+      <l>Rabin <persName ref="Соломон">Solomon</persName> de même il y a long-</l>
       <l>tems, et je ne sais pourquoi on fait</l>
       <l>mention d'eux à moi, qui n'étois</l>
       <l>jamais chez eux.</l>
@@ -1045,10 +1046,11 @@
     <p>
       <l>Les autres points, j'y repondrai</l>
       <l>de vive voix</l>
-      <l>Salomon fils Baruch</l>
+      <l><persName ref="alter-rebbe">Salomon fils Baruch</persName></l>
     </p>
     <pb n="078-1"/>
     <fw type="pageNum" place="right">78.</fw>
+    <p>
     <l>Memoire très abregé pour les sei-</l>
     <l>gneurs, par lequel je les supplie de</l>
     <l>me traiter avec grace et misericorde</l>
@@ -1056,6 +1058,7 @@
     <l>en langue Russe, de me faire lire</l>
     <l>le brouillon avant qu'il soit presenté</l>
     <l>en blanc.</l>
+    </p>
     <pb n="078-2"/>
   </body></text>
 </TEI>
