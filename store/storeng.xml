@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootStore n="by">
+  <title xmlns="http://www.tei-c.org/ns/1.0">Архив 19 кислева</title>
+  <entities selectorPlural="names" selectorSingular="name" directory="names">
+    <listPerson xml:id="jews" role="jew"><head>Жиды (они же Евреи)</head></listPerson>
+    <listPerson xml:id="officials" role="official"><head>Начальство</head></listPerson>
+    <listPerson xml:id="unknown"><head>Неизвестно кто</head></listPerson>
+    <listPlace xml:id="places"><head>Места</head></listPlace>
+    <listOrg xml:id="organizations"><head>Организации</head></listOrg>
+    <listPerson xml:id="transcribers" role="transcriber"><head>Расшифровщики</head></listPerson>
+  </entities>
+  <by file="archive/by.xml"/>
+</rootStore>
