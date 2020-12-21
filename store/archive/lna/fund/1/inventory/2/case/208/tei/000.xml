@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
-    <profileDesc>
-    <abstract>титульный лист дела</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>титульный лист дела</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
     <fw type="docNum" place="left margin">№. 2446.</fw>
     <head>
-    <l>Секретное</l>
-    <l>о препровожденїи в <placeName ref="Вильна">Вильну</placeName> семерыхъ</l>
-    <l>арестантов евреевъ</l>
+      <l>Секретное</l>
+      <l>о препровожденїи в <placeName ref="Вильна">Вильну</placeName> семерыхъ</l>
+      <l>арестантов евреевъ</l>
     </head>
     <fw type="note" place="left margin"><del rend="overstrike">8</del>/<del rend="overstrike">98 г.</del></fw>
     <l><fw type="docNum">№ 371.</fw></l>
     <l><date when="1798-11-07">1798<hi rend="superscript">го</hi> года<lb/>
-    ноября 7<hi rend="superscript">го</hi></date></l>
+     ноября 7<hi rend="superscript">го</hi></date></l>
     <pb n="000-2"/>
   </body></text>
 </TEI>
