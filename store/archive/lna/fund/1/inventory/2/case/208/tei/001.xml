@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1798-11-17">17 ноября 1798 года</date></creation>
+    <abstract>
+    Рапорт Лифляндскому и Эстляндскому гражданскому губернатору <persName>Ивану Рихтеру</persName> с требованием предоставить конвойных для сопровождения в <placeName ref="Петербург">Санкт-Петербург</placeName> отправленных из <placeName ref="Вильна">Вильно</placeName> арествоанных <orgName ref="Хасиды">хасидов</orgName> </abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
+    <fw type="docNum" place="left">№ 19.</fw>
+    <fw type="pageNum" place="right">1</fw>
+    <fw type="note">Получено <date when="1798-11-17">17 ноября 798 года</date></fw>
+    <fw type="note" place="right">Секретно</fw>
+    <salute>
+<l>Высокопревосходителны Г<hi rend="superscript">нъ</hi> деиствителны</l>
+<l>тайны советникъ лифляндски и Эстля</l>
+<l>ндскі гражданскі губернаторъ и ковалеръ</l>
+<l>Милостивой государь_.</l>
+</salute>
+<p>
+<l>Для препровождения <placeName ref="Вильна">ввилну</placeName> семерхъ</l>
+<l>арестантовъ евреевъ прошу вашего</l>
+<l>высокопревосходительства вконвои</l>
+<l>приказать откомандировать пристоиное</l>
+<l>число изъ ригскоі штатной команды</l>
+<l>и чтобъ оныя явились у командированнаго</l>
+<l>сними <placeName ref="Вильна">извилны</placeName> надзирателю Греча.</l>
+</p>
+<p>
+<l>Пребываю впротчемъ съ истиннымъ моимъ</l>
+<l>квамъ почтениемъ и преданностию</l>
+<l>Милостивый государь_</l>
+<l>вашего высокопревосходителства</l>
+<l>покорнеишій слуга</l>
+<l><signed><unclear>???</unclear></signed></l>
+</p>
+<closer place="left">
+<l><fw type="docNum">№ 827<hi rend="superscript">и</hi></fw>.</l>
+<l>Его высокопр. <unclear>???</unclear></l>
+<l><date when="1798-11-17">17<hi rend="superscript">го</hi> ноября 1798<hi rend="superscript">го</hi></date></l>
+<l></l>
+<l></l>
+</closer>
     <pb n="001-2"/>
   </body></text>
 </TEI>
