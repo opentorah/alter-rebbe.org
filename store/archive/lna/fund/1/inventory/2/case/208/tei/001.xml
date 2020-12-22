@@ -6,9 +6,12 @@
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <abstract>Рапорт Лифляндскому и Эстляндскому гражданскому губернатору <persName>Ивану Рихтеру</persName> с
-      требованием предоставить конвойных для сопровождения арестованных виленских <orgName ref="Хасиды"
-      >хасидов</orgName> обратно в<placeName ref="Вильна">Вильно</placeName></abstract>
+      <abstract>Рапорт <placeName>Лифляндскому</placeName> и <persName>Эстляндскому</persName> гражданскому губернатору
+        <persName>Ивану
+        Рихтеру</persName> с
+        требованием предоставить конвойных для сопровождения арестованных <placeName ref="Вильна">виленских</placeName> <orgName
+          ref="Хасиды"
+      >хасидов</orgName> обратно в <placeName ref="Вильна">Вильно</placeName></abstract>
       <creation><date when="1798-11-17">17 ноября 1798 года</date></creation>
     </profileDesc>
   </teiHeader>
@@ -20,8 +23,8 @@
     <fw type="note" place="right">Секретно</fw>
     <salute>
       <l>Высокопревосходителны Г<hi rend="superscript">нъ</hi> деиствителны</l>
-      <l>тайны советникъ лифляндски и Эстля</l>
-      <l>ндскі гражданскі губернаторъ и ковалеръ</l>
+      <l>тайны советникъ <placeName>лифляндски</placeName> и <placeName>Эстля<lb/>
+        ндскі</placeName> гражданскі губернаторъ и ковалеръ</l>
       <l>Милостивой государь_.</l>
     </salute>
     <p>
@@ -48,6 +51,6 @@
       <l/>
       <l/>
     </closer>
-    <pb n="001-2"/>
+    <pb n="001-2" empty="true"/>
   </body></text>
 </TEI>
