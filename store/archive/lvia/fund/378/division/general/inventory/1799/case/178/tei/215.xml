@@ -6,10 +6,8 @@
       <abstract><p>
         Копия (на польском языке) требования <placeName ref="Литва">литовского</placeName> гражданского губернатора
         <persName ref="Фризель">Фризеля</persName>, адресованное <orgName ref="Виленский_кагал">виленскому
-        кагалу</orgName>, предоставить документы, подтверждающие <placeName ref="Польша">польские</placeName> привилегии
-        <orgName ref="Виленский_кагал">кагалу</orgName> и <placeName ref="Вильна">виленской</placeName> общине, в
-        переводе на русский язык
-      </p></abstract>
+        кагалу</orgName>, с требованием предоставить документы, подтверждающие <placeName ref="Польша">польские</placeName> привилегии
+        <orgName ref="Виленский_кагал">кагалу</orgName> и <placeName ref="Вильна">виленской</placeName> общине</p></abstract>
       <creation><date when="1799-01-09">января 9 дня / 20 дня по н. стилю 1799 года</date></creation>
     </profileDesc>
   </teiHeader>
@@ -18,7 +16,38 @@
     <fw type="pageNum" place="right">215</fw>
     <fw type="note" place="right">btw</fw><note place="end">пометка в правом верхнем углу</note>
     <fw type="note" place="left">Kopie</fw>
+    <fw type="note" place="right">3tw</fw>
     <fw type="note" place="left margin">Па</fw>
+<head>
+<l>Zalecenie</l> 
+<l>Aktualnego Stanu Konsyliarza Littgo</l> 
+<l><persName ref="Фризель">Gubernatora</persName> y Kawalera.</l>
+<l><orgName ref="Виленский_кагал">Kahałowi  Ƶydowskiemu Wilens</orgName></l>  
+</head>
+<p>
+<l>Gdy <orgName ref="Виленский_кагал">Kahał Wilenski</orgName> wpodaney Roku y Mie</l>
+<l>siąca idącego JW<hi rend="superscript">u</hi> <persName ref="Лассий">Generał Gubernatorowi<lb/> 
+Littmu</persName> Proźbie wyraził, że <orgName ref="Литовское_губернское_правление">Rząd Gubern<lb/>
+ski Littski</orgName> wydał Jakoby Rezolucyją Pra</l>
+<l>wom y Przywilejom <orgName ref="Виленский_кагал">Kahału</orgName> sprzeciwia</l>
+<l>iącą się, Przeto dla uznania Jakoby tako</l>
+ <l>wego doniesienia. Zalecam rzeczonemu <orgName ref="Виленский_кагал">Wi<lb/>
+lenskiemu Kahałowi</orgName>, aby po odebraniu te</l>
+<l>go niezwłócznie takowe Przywileja y Pra</l>
+<l>wa, do których odwołuje się w Proźbie, ory-</l>
+<l>ginalne, lub też w legalizowanych Jurys-</l>
+<l>dycznie Kopiach ztłomaczeniem naRos-</l>
+<l>syiski Język mnie prezentował.</l>
+		       <l><persName ref="Фризель">Jan Fryzel</persName></l> 
+		         <l>Gub: Litt.</l>
+                              <signed><unclear>???</unclear></signed><note place="end">подпись на иврите - вероятно, адресата – получателя письма</note>
+</p>
+<closer place="left">
+<l><fw type="docNum">N<hi rend="superscript">ro</hi> 31.</fw></l>
+<l><date when="1799-01-09">Dnia 9/20 Januarij<lb/>
+1799 Roku</date></l>
+<l><placeName ref="Вильна">wWilnie</placeName></l>
+</closer>
     <pb n="215-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
