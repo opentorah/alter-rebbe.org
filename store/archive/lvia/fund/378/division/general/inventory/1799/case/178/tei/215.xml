@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Фризель">Фризель</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="Фризель">Фризель</persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Копия (на польском языке) требования <placeName ref="Литва">литовского</placeName> гражданского губернатора
