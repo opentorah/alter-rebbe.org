@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         <orgName ref="Виленский_кагал">Кагальная</orgName> ухвала (постановление) <orgName ref="Виленский_кагал"
@@ -13,10 +15,174 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="255-1"/>
-    <pb n="255-2"/>
-    <pb n="256-1"/>
-    <pb n="256-2"/>
+    <fw type="pageNum" place="right">255</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>B:</head>
+    <table><row><cell><unclear>???</unclear><note place="end">Текст на иврите</note></cell>
+    <cell>
+    <head><l>Tłómaczenie Uchwały <date when="1798-02-28">Dnia 28 Februarij<lb/> 
+    1798. Roku nastałey</date>, względem Exakcyi</l></head>
+<p>
+<l>w Zględem zabronienia dawnieyszego, że nie wolno</l>
+<l>żadney człowieczey Osobie Arędowania Dochodow</l>	
+<l><placeName ref="Вильна">Miasta tuteyszego</placeName> bez pozwolenia Siedmo komple-</l>
+<l>towego <orgName ref="Виленский_кагал">kahału</orgName>. Teraz zaś, gdy się zblizają Dni</l>
+<l>bycia Licytacyi Exakcyi Miasta tuteyszego, za-</l>
+<l>czym stanowisię Uchwała od <orgName ref="Виленский_кагал">Kahału</orgName> Siedmo</l>
+<l>kompletowego, y przedaiesię takie pozwolenie</l>
+</p>
+<p>
+<l>w Warunkach po niżey wyrażonych, ato</l> 
+<l>iest: że od czasu ninieyszego należy czwarta część</l>
+<l>z kontraktu, któren będzie teraz uczyniony, pomie-</l>
+<l>nionemu nabywcy y umocowanemu od onego — ato iest:</l>
+<l>że bądź iedna Osoba abądź wielu, którzy ze-</l>
+<l>chcą Arędować y brać kontrakt na Exakcyą</l>
+<l>tuteyszą bądź całkowitą, a bądź w części, obowiąza-</l>
+<l>ny dać czwartą część pomienionemu nabywcy</l>
+<l>y następcy onego. A Nabywca obowiązany będzie</l>
+<l>dać biorącemu kontrakt czwartą część Expen-</l>
+<l>sow iego, nawzaiem zać biorący kontrakt po-</l>
+<l>winien będzie dać pomienionemu nabywcy trzy</l>
+<l>czwierci z ilosci Sumy którą daie teraz pomie-</l>
+<l>niony nabywca za takie pozwolenie do kassy ka-</l>
+<l>halney. Y takowy bydź ma porządek: wyżpomieniony</l>
+<l>nabywca y umocowany od niego obwiesci każdego —</l>
+<l>chcącego isć do Licytacyi y brać kontrakt, pod</l> 
+<l>wszelką Srogoscią Jnstygatora Sekretnego, iż nie wol</l>
+<l>no przychodzić, powinien więc biorący kon-</l>
+<l>trakt, spólność z onym zawrać, iako wyżey wyra-</l>
+<l>żono, a ieżeliby zaś niechciał bydź skłonnym, tedy</l>
+<l>będzie w mocy nabywcy y umocowanych iego uczynić</l>
+<l>mu wszelki przymus, choćby włożeniem do Xię-</l>
+<l>gi czarney, y dalszemi przyciśnieniami wszakże ieżeli</l>
+</p>
+</cell></row>
+<pb n="255-2"/>
+<row><cell><unclear>???</unclear><note place="end">Текст на иврите</note></cell>
+<cell><p>
+<l>zechce biorący kontrakt dać mu czwartą część y za-</l>
+<l>płacić mu iak wyżey udeterminowano, lecz by nie-</l>
+<l>zgodzilisię o Expensa w tedy maią przyiść przed</l>	
+<l>wiadomych Sędziow. Tudzież ieżeliby wyż pomieniony</l>                              <l>nabywca nie uwierzył biorącemu kontrakt o ilość</l>
+<l>Schedy iego, również przychodzić będą przed Sędziow</l>
+<l>wiadomych y będzie przysięgać biorący kontrakt</l>
+<l>trzymaiąc Sprzęt czyli Xięgę  w ręku na realność</l>	
+<l>Schedy Swoiey._ Jeżeli zaś przez żaden sposob nie</l>
+<l>mogli by wiadomi Sądziowie między onemi ukoń-</l>
+<l>czyć, tedy w mocy Sędziow będzie uczynić zgo-</l>
+<l>dę wiele ma powrócic biorący kontrakt dla -</l>
+<l>nabywcy pomienionego naddatku nad to, co dał</l>
+<l>do kassy kahalney._ a Jeżeliby nie chciał do-</l>
+<l>pełnić podług Decyzyi Sądziow, bądź przez Dekret</l>	
+<l>bądź przez ugodę, więc uzna się za Sprzecznego y Są-</l>
+<l>dzony będzie wszelkim Rygorem y Jnstygatorem</l> 
+<l>taiemnym y czarną Xięgę przez pomienionego naby-</l>
+<l>wcy y następcow iego aż poki się nie ujsci._</l>
+<l>Jeżeliby zaś nabywca y następca iego nie chcieli</l>
+<l>wyiawiać się przed biorącym kontrakt, rownie te-</l>
+<l>dyż Sędziowie w tą w zierać będą, czy słuszne</l>
+<l>nabywca okaże przyczyny tedy uczynią zgodę, wiele</l>
+<l>dawać ma dla nabywcy, a ieśli nie dopełni ugody,</l>
+<l>posądzony będzie iako nie posłuszny podług po-</l>
+<l>wyższego wyrazu. Zaktóre takowe pozwolenie za-</l>
+<l>płacił wyż pomieniony nabywca Trzysta-</l>
+<l>Czerwonych Złotych. od tąd zaś nie wolno żadnemu</l>	
+<l>człowiekowi mieć Sobie iakiey częstki w kontra-</l>
+<l>kcie bądź to iawnie, abądź to podstępnie. J tem nie</l>
+<l>wolno żadnemu człowiekowi do Licytowania przychodzić!</l>
+</p>
+</cell></row>
+  <pb n="256-1"/>
+  <fw type="pageNum" place="right">256.</fw>
+  <fw type="note" place="left margin">Па</fw>
+  <row><cell><unclear>???</unclear><note place="end">Текст на иврите</note></cell>
+  <cell><p>
+<l>chodzić bez pozwolenia nabywcy y nastęcy iego</l>
+<l>dla uskutecznienia iak wyżey wyrażono, y chociaż-</l>
+<l>by dostał się <note type="gloss">|: uchoway Boże :|</note> całkowity kontrakt</l> 
+<l>do Rąk takiego, któren nie iest Ƶydem, nie wolno</l>
+<l>będzie żadnemu Człowiekowi bydź z onemi</l>
+<l>w radzie ani też bynaymniey dotknąć się do tegoż</l>
+<l>Dochodu, ani też nawet bydź wiernikiem, ani</l>
+<l>pod żadnym nazwiskiem czynnym, pod żadnym</l>
+<l>pretekstem, bądź u Chrzścianina abądź to u żyda</l>
+<l>nie posłusznego, bez pozwolenia nabywcy y nastę-</l>
+<l>pcy iego, pod rygorem wyż opisanym. Ogółem</l>
+<l>się rzecz Stanowi, że odtąd wszelki rygor Srogo-</l> 
+<l>sci wmocy nabywcy y następcy iego do uczynie-</l>
+<l>nia każdemu przestępuiącemu na iakikolwiek</l>
+<l>punkt z punktow wyż wyrażonych wszelkie przy-</l>
+<l>naglenie aż do mieysca poki moc Jzraelska ścią-</l>
+<l>gać może._ Pisarz y Pisarze Sądowe, Szkolnicy</l>
+<l>y Szkolnicy Sądowe wszyscy powinne bydź po-</l>
+<l>słuszni Dellatorowi y nastęcy iego względem De-</l>
+<l>lacyi czyli prześladowania tego, któryby prze-</l>
+<l>stąpił z powyższych wyrazow albo naszczegul-</l>
+<l>ne punkta tey Uchwały od początku aż</l> 
+<l>do ostatku, bądź o Jnstygacyi tayney, abądź o wpi-</l>
+<l>sywanie onego do czarney Xięgi bądź też Jn-</l>
+<l>szych uciskow y znaglenia dla każdego doty-</l>
+<l>kaiącego się ku umnieyszeniu ażeby naymnieyszego</l> 
+<l>punktu z uchwały ninieyszey od początku aż-</l>
+<l>do końca, y że nie iest w mocy żadnego Sądu</l>
+<l>wielkiego <hi rend="superscript">y małego, Congregacyi wielkiey y małey oraz Siedmo</hi> kompletowego kahału ani żadnego na-</l>
+<l>zwiska Starszyzna kassować ninieyszą Uchwałę</l>
+<l>wewszystkich warunkach wyż opisanych ani —</l>
+<l>całkowicie ani też w naymnieyszey części,</l>
+</p>
+  </cell></row>
+    <pb n="256-2"/><row><cell><unclear>???</unclear><note place="end">Текст на иврите</note></cell>
+    <cell><p>
+ <l>atym pewniey że mocni nie będą oswobodzić</l>
+<l>wzgardziciela z czarney Xięgi y dalszych przy-</l>
+<l>nagleń, w żadnym czasie lecz tylko nabywca</l> 
+<l>y następca z mocy iego będą go uwalnić z czar-</l>
+<l>ney Xięgi, a tym <choice><sic>barziey</sic><corr>bardziey</corr></choice>   że żaden z nich mo-</l>                                    <l>cnym nie będzie dawać pozwolenie y rozgrzesze-</l>
+<l>szenie naymnieysze lecz owszem dopełnić się konie-</l>
+<l>nie ma podług powyższych wyrazow._ a Je-</l>
+<l>żeliby pomieniony Dochod nikomu za arędo-</l>
+<l>wany niebył, wtedy rzeczony nabywca y nastę-</l>
+<l>pca iego ma mieć pewność na kassę kahalną</l>
+<l>y będącey Starszyzny, <hi rend="superscript">y Ewikcyonalnie należeć będą do niego y następcy iego-</hi> wszystkie dochody kahalne</l> 
+<l>ilości Summy iego odpowiadaiącey, aż poki mu</l>
+<l>zapłacone będzie, nie wolno zaś będzie Szkol-</l>
+<l>nikom akceptować żadney uchwały kahalney</l>                                         <l>y Starszyzny przyszłey, aż poki nie uczynią</l>
+<l>w przódy Uchwałę ku utwierdzeniu Uchwały</l>
+<l>ninieyszey, z uczynieniem pewności okazuiącey miey</l>
+<l>sca ku opłaceniu wyż wymienioney Summy ku-</l>
+<l>picielowi y następcom iego w zdarzeniu nie za-</l>
+<l>arędowaniu zgoła tegoż Dochodu jak wyżey</l>
+<l>opisano. Dopióro zaś wyraźnie zabezpieczasię</l>
+<l>y lokuie się takowa Summa na karbonie krop-</l>
+<l>ki od koszernego mięsa, ato iest: że ieżeli</l>
+<l>za Arędowany Dochód pomieniony nie będzie</l>
+<l>tedy opłacona ma być mu z karbony po-</l>
+<l>mienioney._ Na takowe wszystkie opisane wa-</l>
+<l>runki rosciąga się wszelki rygor Srogosci iżby-</l>
+<l>ztego wszystkiego nie uięto naymnieyszey makuły</l>
+<l>podobnież, w każdym czasie obowiązany będzie</l>
+ </p></cell></row>
+    </table>
     <pb n="257-1"/>
+ <fw type="pageNum" place="right">257</fw>
+ <fw type="note" place="left margin">велъ</fw>
+ <p>
+<l>Pisarz kahalny ma za akceptować wszystkie baspieczęstwo Srogie</l>
+<l>które podawać będzie pomieniony kupiciel y następca iego bądź</l>
+<l>na <orgName ref="Виленский_кагал">kahał</orgName>, czyli na Wodzow lub też na zgromadzaiącego do skasso-</l>
+<l>wania ninieyszey Uchwały lub usłabić oney, lecz w zupełnosci</l>
+<l>ma bydź uskuteczniona. Sędziowie zaś Synagogi tuteyszey maią</l>
+<l>za aprobować to wszystko co uczynionym zostało w zględem prze</l>
+<l>daży pozwolenia powyższe iżby w naymnieyszym punkcie Uchwa-</l>
+<l>ła Siedmo kompletowego kahału nie odpadała._</l> 
+	<l><signed>Jcko Szkolnik Leybowicz._ Moyżesz Markowicz mayzł Szkolnik</signed></l> 
+	  <l>Zgodno z Authentykiem Hebreyskim_</l>                                                <l><signed><persName ref="Еремиаш_Нохимович">Jeremiasz Noch<hi rend="superscript">im</hi>owicz</persName> Syndyk <orgName ref="Виленский_кагал">Kahału Wilenskiego</orgName>_</signed></l>
+             <l>Te Tłumaczenie z moiey ręki przepisane ze jest zgodne</l> 
+             <l>z Autentykiem poswiadczam <persName ref="Еремиаш_Нохимович">Jeremiasz Nochimowicz</persName></l> 
+					   <l>Syndyk <orgName ref="Виленский_кагал">Kahału Wilen<note place="end">Wilenskiego</note></orgName></l> 
+ </p>
+   
     <pb n="257-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
