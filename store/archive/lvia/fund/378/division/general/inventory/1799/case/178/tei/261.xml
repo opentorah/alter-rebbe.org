@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
+    </titleStmt></fileDesc>
     <profileDesc><abstract><p>
       Записки <orgName ref="Виленский_кагал">кагальных</orgName> старшин <orgName ref="Виленский_кагал">Виленского
       кагала</orgName> за разные даты 1796 г. об отпуске средств из кагальных денег, с указанием целей расходов; на
@@ -18,110 +19,97 @@
     <head>D:</head>
     <fw type="note" place="left margin">Се-</fw>
     <table>
-    <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell><l>Tłómaczenie Kahalnych Karteczek w liczbie 317. Sztuk</l>
-<l>z nayduiącychsię, za któremi były wydawane pieniądze</l>
-<l>na potrzebę Lustracyi.</l>
-</cell>
-    </row>
-    <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
-    <emph rend="big">№ 2</emph><hi rend="superscript">do</hi> 
-<l>Pisarz wyda z pieniędzy wybranych ku potrzebie</l>
-<l>Lustracyi, dwóm Starszym, Sumę trzysta Ru-</l>
-<l>bli dla zniesienia oskarzenia. Lubo też że</l>
-<l>Gmin ten wybor ustanowił, iżby niewydat-</l>
-<l>kować na inną rzecz, wszelak wyda Pisarz</l> 
-<l>ztych pieniędzy dwóm starszym, gdyż dotyka</l>
-<l>oskarzenia temuż Jnterssowi także, iże ta-</l>
-<l>kowa Suma przyięta będzie w porachu-</l>
-<l>nek podpisuiemy się Datt <date when="1796-02-26">w Niedziele Dnia 22.<lb/>
-Fbra<note place="end">Februarij</note> 1796. R<hi rend="superscript">u</hi></date>.</l>
-<persName>Dawid Lewkowicz</persName>
-<persName>Eliasz Markowicz</persName>
-<persName>Jcko Judelowicz</persName>
-<persName>Jakob Leyb Judelowicz</persName>
-<persName>Jcko Josiel Faywiszowicz</persName>
-<persName>Salimon Hirsz Czemachowicz</persName>
-<persName>Salimon Moyżeszowicz</persName>.
-    </cell>
-    </row>
-    <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
-  <emph rend="underline">№ 3</emph><hi rend="superscript">tio</hi> Przetłumaczono
-<l>Pisarz kahalny wyda z pieniędzy wybranych</l>
-<l>ku potrzebie Lustracyi do Rąk starszego <persName>Moyżesza<lb/>
-Jankielowicza</persName> y Starszego <persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName></l>
-<l>Sumę Sto piędziesiąt Rubli._ Chociaż wyrażono</l> 
-<l>w uchwale od Gminu, od <orgName ref="Виленский_кагал">Kahału</orgName> y od nas Są-</l>
-<l>du Synagogi, ażeby niedawać na żaden Expens</l>
-<l>z tych pieniędzy, jednak ponieważ dotyka oskarzenie</l>
-<l>rownie względem Lustracyi przeto wyda Pisarz po</l>
-<l>mienioną Sumę, a przyięto będzie w porachunku</l>
-<l>podpisuiemy się. Datt <date when="1796-07-12">wPoniedziałek dnia 12. Julij 1796 Roku</date></l>
-<l><persName>Dawid Lewkowicz</persName>_   <persName>Eliasz Markowicz</persName></l>
-<l><persName>Jcko Judelowicz</persName></l>
-<l><persName>Jakob Leyb Judelowicz</persName></l>
- <l>z</l>
-<l><persName>Salimon Berkowicz</persName></l>				
-<l><persName>Salimon Hirsz Czemachowicz</persName></l>
-<l><persName>Salimon Moyżeszowicz</persName>.</l> 
-			<l>Zgodnie</l>
-      </cell>
-    </row>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell>
+          <l>Tłómaczenie Kahalnych Karteczek w liczbie 317. Sztuk</l>
+          <l>z nayduiącychsię, za któremi były wydawane pieniądze</l>
+          <l>na potrzebę Lustracyi.</l>
+        </cell>
+      </row>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell><emph rend="big">№ 2</emph> <hi rend="superscript">do</hi> <l>Pisarz wyda z pieniędzy wybranych ku
+        potrzebie</l> <l>Lustracyi, dwóm Starszym, Sumę trzysta Ru-</l> <l>bli dla zniesienia oskarzenia. Lubo też
+        że</l> <l>Gmin ten wybor ustanowił, iżby niewydat-</l> <l>kować na inną rzecz, wszelak wyda Pisarz</l> <l>ztych
+        pieniędzy dwóm starszym, gdyż dotyka</l> <l>oskarzenia temuż Jnterssowi także, iże ta-</l> <l>kowa Suma przyięta
+        będzie w porachu-</l> <l>nek podpisuiemy się Datt <date when="1796-02-26">w Niedziele Dnia 22.<lb/>
+         Fbra<note place="end">Februarij</note> 1796. R<hi rend="superscript">u</hi></date>.</l> <persName>Dawid
+        Lewkowicz</persName> <persName>Eliasz Markowicz</persName> <persName>Jcko Judelowicz</persName> <persName>Jakob
+        Leyb Judelowicz</persName> <persName>Jcko Josiel Faywiszowicz</persName> <persName>Salimon Hirsz
+        Czemachowicz</persName> <persName>Salimon Moyżeszowicz</persName>.</cell>
+      </row>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell><emph rend="underline">№ 3</emph> <hi rend="superscript">tio</hi> Przetłumaczono <l>Pisarz kahalny wyda z
+        pieniędzy wybranych</l> <l>ku potrzebie Lustracyi do Rąk starszego <persName>Moyżesza<lb/>
+         Jankielowicza</persName> y Starszego <persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName></l> <l>Sumę
+        Sto piędziesiąt Rubli._ Chociaż wyrażono</l> <l>w uchwale od Gminu, od <orgName ref="Виленский_кагал"
+        >Kahału</orgName> y od nas Są-</l> <l>du Synagogi, ażeby niedawać na żaden Expens</l> <l>z tych pieniędzy,
+        jednak ponieważ dotyka oskarzenie</l> <l>rownie względem Lustracyi przeto wyda Pisarz po</l> <l>mienioną Sumę, a
+        przyięto będzie w porachunku</l> <l>podpisuiemy się. Datt <date when="1796-07-12">wPoniedziałek dnia 12. Julij
+        1796 Roku</date></l> <l><persName>Dawid Lewkowicz</persName>_ <persName>Eliasz Markowicz</persName></l> <l>
+        <persName>Jcko Judelowicz</persName></l> <l><persName>Jakob Leyb Judelowicz</persName></l> <l>z</l> <l><persName
+        >Salimon Berkowicz</persName></l> <l><persName>Salimon Hirsz Czemachowicz</persName></l> <l><persName>Salimon
+        Moyżeszowicz</persName>.</l> <l>Zgodnie</l></cell>
+      </row>
     </table>
     <pb n="261-2"/>
     <fw type="note" place="right margin">Па</fw>
-     <table>
-    <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
-    <emph rend="big">№ 4</emph><hi rend="superscript">to</hi> 
-<l>Pisarz Kahalny wyda z pieniędzy wybranych ku po-</l>
-<l>trzebie Lustracyi Summę którą opowiedzą Starsi <persName>Moyżesz<lb/>
-Jankielowicz</persName> y <persName ref="Мовша_Ошерович">Moyżesz Oszerowicz</persName> do 150 Rubli gdyż</l>
-<l>potrzebuią na Expensa względem skargi na <orgName ref="Виленский_кагал">Kahał</orgName> poda</l>
-<l>ne o Składkę na tęż potrzebę uczynioną._ Co przyię</l>
-<l>to będzie w Rachunku_ Chociaż wyrażono w Uchwa-</l>
-<l>le Gminowey pod Cheyrymem item zaaprobowa-</l>
-<l>no czyli zatwierdzono Sądowym Synagogskim Chey-</l>
-<l>rymem żeby niebrano ztych pieniędzy, jak tylko ku</l>
-<l>potrzebie wyż wyrażoney, ied nak wyda Pisarz, po-</l>
-<l>nieważ wyswieciłosię przed nami Sądu Synagogi</l>
-<l>iż potrzebuią na Expens ku potrzebie tegż Jnteressu._</l> 
-<l>podpisuiemy się <date when="1796-06-29">dnia 29. Junij 1796 Roku</date>.</l>
-<l><persName>Dawid Lewkowicz</persName>_  <persName>Eliasz Morduchowicz</persName></l>
-<l><persName>Jcko Judelowicz</persName>_  <persName>Jakob Leyb Judelowicz</persName></l>
-<l><persName>Salimon Berkowicz</persName></l>
-<l><persName>Jcko Josiel Faywiszowicz</persName></l>
-<l><persName>Salimon Moyżeszowicz</persName></l>                           
-<l><persName>Salimon Hirsz Czemachowicz</persName></l>
-			         <l>zuautentykiem</l>
-    </cell>
-    </row>
-    <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
-  <emph rend="big">№ 5</emph><hi rend="superscript">to</hi> <emph rend="big">Pisano Charakterem Szymela</emph>
-<l>Pisarz wyda z Karbony offiary przez Gmin Kresko-</l>
-<l>ku potrzebie dania Panu wiadomemu, Syndy</l>
-<l>kowi, za Jnteres wiadomy temuż Syndykowi, Sum-</l>
-<l>mę Sto Rubli. y będzie przyięto w Rachunku pod</l>
-<l>pisuiemy się w dowod delegowani od Gminu Kre</l>
-<l>skowego. <date when="1796-09-14">Dnia 14. Sbra<note place="end">Septembra</note> 1796. R<hi rend="superscript">u</hi></date></l> 
-<l><persName>Dawid Jankielowicz_</persName>  <persName ref="Мовша_Ошерович">Moyżesz Oszerowicz</persName></l>
-<l><persName>Jzaak Azik Lewit</persName></l>
-<l><persName>Aria Leyb</persName></l> 
-	      <l>Poswiadczam</l>
-      </cell>
-    </row>
-      </table>
+    <table>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell>
+          <emph rend="big">№ 4</emph>
+          <hi rend="superscript">to</hi>
+          <l>Pisarz Kahalny wyda z pieniędzy wybranych ku po-</l>
+          <l>trzebie Lustracyi Summę którą opowiedzą Starsi <persName>Moyżesz<lb/>
+           Jankielowicz</persName> y <persName ref="Мовша_Ошерович">Moyżesz Oszerowicz</persName> do 150 Rubli gdyż</l>
+          <l>potrzebuią na Expensa względem skargi na <orgName ref="Виленский_кагал">Kahał</orgName> poda</l>
+          <l>ne o Składkę na tęż potrzebę uczynioną._ Co przyię</l>
+          <l>to będzie w Rachunku_ Chociaż wyrażono w Uchwa-</l>
+          <l>le Gminowey pod Cheyrymem item zaaprobowa-</l>
+          <l>no czyli zatwierdzono Sądowym Synagogskim Chey-</l>
+          <l>rymem żeby niebrano ztych pieniędzy, jak tylko ku</l>
+          <l>potrzebie wyż wyrażoney, ied nak wyda Pisarz, po-</l>
+          <l>nieważ wyswieciłosię przed nami Sądu Synagogi</l>
+          <l>iż potrzebuią na Expens ku potrzebie tegż Jnteressu._</l>
+          <l>podpisuiemy się <date when="1796-06-29">dnia 29. Junij 1796 Roku</date>.</l>
+          <l><persName>Dawid Lewkowicz</persName>_ <persName>Eliasz Morduchowicz</persName></l>
+          <l><persName>Jcko Judelowicz</persName>_ <persName>Jakob Leyb Judelowicz</persName></l>
+          <l><persName>Salimon Berkowicz</persName></l>
+          <l><persName>Jcko Josiel Faywiszowicz</persName></l>
+          <l><persName>Salimon Moyżeszowicz</persName></l>
+          <l><persName>Salimon Hirsz Czemachowicz</persName></l>
+          <l>zuautentykiem</l>
+        </cell>
+      </row>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell>
+          <emph rend="big">№ 5</emph>
+          <hi rend="superscript">to</hi>
+          <emph rend="big">Pisano Charakterem Szymela</emph>
+          <l>Pisarz wyda z Karbony offiary przez Gmin Kresko-</l>
+          <l>ku potrzebie dania Panu wiadomemu, Syndy</l>
+          <l>kowi, za Jnteres wiadomy temuż Syndykowi, Sum-</l>
+          <l>mę Sto Rubli. y będzie przyięto w Rachunku pod</l>
+          <l>pisuiemy się w dowod delegowani od Gminu Kre</l>
+          <l>skowego. <date when="1796-09-14">Dnia 14. Sbra<note place="end">Septembra</note> 1796. R<hi rend=
+          "superscript">u</hi></date></l>
+          <l>
+            <persName>Dawid Jankielowicz_</persName>
+            <persName ref="Мовша_Ошерович">Moyżesz Oszerowicz</persName>
+          </l>
+          <l><persName>Jzaak Azik Lewit</persName></l>
+          <l><persName>Aria Leyb</persName></l>
+          <l>Poswiadczam</l>
+        </cell>
+      </row>
+    </table>
     <pb n="262-1"/>
     <fw type="pageNum" place="right">262.</fw>
     <fw type="note" place="left margin">кре</fw>
-       <pb n="262-2"/>
-   </body></text>
+    <pb n="262-2"/>
+  </body></text>
 </TEI>
