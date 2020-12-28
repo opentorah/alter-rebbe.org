@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         <orgName ref="Виленский_кагал">Кагальная</orgName> ухвала (постановление) <orgName ref="Виленский_кагал"
@@ -16,46 +17,44 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="259-1"/>
-    		<fw type="pageNum" place="right">259</fw>
-                 <head>C:</head>
-<fw type="note" place="left margin">криц</fw>
-<table><row>
-<cell><note place="end"><unclear>???</unclear>текст на иврите</note></cell>
-<cell>
-<head><l>Tłomaczenie uchwały KahałuWilenskiego pod</l>
-<l><date when="1795-07-05">Rokiem 1795. Julij 5. Dnia</date> nastałey względem</l>
-		    <l>Lustracyi.</l>
-                    </head>
-<p>
-<l>Uchwalono od Siedmokompletowego <orgName ref="Виленский_кагал">Kahału</orgName>,</l>
-<l>y nadano moc Starszym y radnym  Kahalnym</l>
-<l>którzyby chcieli Jść z Akomodacyą małą do</l>
-<l>Sekretarza Brygadyrskiego, a pomówić wzglę-</l>
-<l>dem Lustracyi, yże wolno onym wtey mie-</l>
-<l>rze podawać Memoryał, a ieżeliby można</l>
-<l>jakim sposobem wyiednać iżby była uczy-</l>
-<l>niona nowa Lustracya przez Wóyskowych</l>
-<l>Rossyiskich y przez Ƶydow gdyby ulżyć ra-</l>
-<l>chunek, wolno tedy Jm będzie przy obiecać</l>
-<l>zato podług zdania trzech Starszych Ka-</l>
-<l>halnych, a w tym wszystkim moc Jch jak</l>
-<l>by móc 7<hi rend="superscript">mo</hi>  Kompletowego Kahału. Moyżesz</l>
-<l><persName>Mayzl Szkolnik</persName>, <persName>Moyżesz Segal</persName> Szkolnik</l>
-</p>
-<p>
- <l>Pisarz nie ma wydawać ztey uchwały Kopij.</l>
-			<l><persName>Moyżesz Wyż</persName>  podpisany.</l>
-			<l><persName>Naftol Hercik</persName> Szkolnik.</l>
-</p>
-
-<l>Z Kopią z autentyku wypisanо zgodnie</l>
-<l>przetłumaczono poswiadczam_</l>
-			<l><persName ref="Еремиаш_Нохимович">Jeremiasz Nochimowicz</persName></l> 
-			<l>Syndyk <orgName ref="Виленский_кагал">Kahału Wilenskiego</orgName></l> 
-</cell></row></table>
-  
-							 
-
+    <fw type="pageNum" place="right">259</fw>
+    <head>C:</head>
+    <fw type="note" place="left margin">криц</fw>
+    <table><row>
+      <cell><note place="end"><unclear>???</unclear>текст на иврите</note></cell>
+      <cell>
+        <head>
+          <l>Tłomaczenie uchwały KahałuWilenskiego pod</l>
+          <l><date when="1795-07-05">Rokiem 1795. Julij 5. Dnia</date> nastałey względem</l>
+          <l>Lustracyi.</l>
+        </head>
+        <p>
+          <l>Uchwalono od Siedmokompletowego <orgName ref="Виленский_кагал">Kahału</orgName>,</l>
+          <l>y nadano moc Starszym y radnym Kahalnym</l>
+          <l>którzyby chcieli Jść z Akomodacyą małą do</l>
+          <l>Sekretarza Brygadyrskiego, a pomówić wzglę-</l>
+          <l>dem Lustracyi, yże wolno onym wtey mie-</l>
+          <l>rze podawać Memoryał, a ieżeliby można</l>
+          <l>jakim sposobem wyiednać iżby była uczy-</l>
+          <l>niona nowa Lustracya przez Wóyskowych</l>
+          <l>Rossyiskich y przez Ƶydow gdyby ulżyć ra-</l>
+          <l>chunek, wolno tedy Jm będzie przy obiecać</l>
+          <l>zato podług zdania trzech Starszych Ka-</l>
+          <l>halnych, a w tym wszystkim moc Jch jak</l>
+          <l>by móc 7<hi rend="superscript">mo</hi> Kompletowego Kahału. Moyżesz</l>
+          <l><persName>Mayzl Szkolnik</persName>, <persName>Moyżesz Segal</persName> Szkolnik</l>
+        </p>
+        <p>
+          <l>Pisarz nie ma wydawać ztey uchwały Kopij.</l>
+          <l><persName>Moyżesz Wyż</persName> podpisany.</l>
+          <l><persName>Naftol Hercik</persName> Szkolnik.</l>
+        </p>
+        <l>Z Kopią z autentyku wypisanо zgodnie</l>
+        <l>przetłumaczono poswiadczam_</l>
+        <l><persName ref="Еремиаш_Нохимович">Jeremiasz Nochimowicz</persName></l>
+        <l>Syndyk <orgName ref="Виленский_кагал">Kahału Wilenskiego</orgName></l>
+      </cell>
+    </row></table>
     <pb n="259-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
