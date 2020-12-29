@@ -1,161 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Документы <orgName ref="Виленский_кагал">виленского кагала</orgName> на иврите с переводом на польский язык о
         расходовании собранных средств, подписанные <orgName ref="Виленский_кагал">кагальными</orgName> школьниками
       </p></abstract>
-      <creation><date when="1796-01-24">24 января 1796 года</date><date when="1796-01-26">26 января 1796 года</date></creation>
+      <creation>
+        <date when="1796-01-24">24 января 1796 года</date>
+        <date when="1796-01-26">26 января 1796 года</date>
+      </creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="265-1"/>
     <fw type="note" place="left margin">велъ</fw>
-    <fw type="pageNum" place="right">265 </fw>
-    				     <head>F</head>                              	<table>
- <row>
- <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
- <p>   
-<l>Tłomaczenie uchwały o składkę przez Gmin Kreskowy</l>
-<l>czyli Kongressowy na potrzebę Lustracyi nastałey, zprze</l> 
-<l>znaczeniem aby każdy Gospodarz opłacaiący Krob</l>
-<l>kę pryncypalną przez Symplarzow rozłożoną po-</l>
-<l>łowę teyże swey Krobki na rzecz składki zapotrze</l>
-<l>bowaney opłacał. A jeżeliby Gospodarz znał</l>
-<l>że jedna Cwierc procenta od Sta z Majątku</l>
-<l>swego więcey wynosić może niżeli połowę Krob-</l>
-<l>ki tedy nie już połowę Krobki lecz Cwierć pro</l>
-<l>centu opłacać obowiązanym będzie._ Gospodarz</l>
-<l>zaś płacący Krobkę górą Złotych trzydzieście może</l>
-<l>się uwolnić od płacenia procentu ato zaopłace</l>
-<l>niem całkowitey swey Krobki._ Amniey niżeli trzy-</l>
-<l>dzieście Złły<note place="end">złotych (сокращение)</note> płacący Krobki za opłaceniem tyle ile pół</l>
-<l>tory Krobki Jego wynoszą wolnym będzie od płace</l>
-<l>nia Procentu._ Gospodarzezaś w regestrze Krobcza</l>
-<l>nym nie wpisane albo młodzież żonata będąca na Stole</l> 
-<l>Rodzicow swojch jeżeli mają Majątku swego 400 Złł<note place="end">złotych (сокращение)</note></l> 
-<l>y wyżey, również opłaty Cwierc procenta od sta podpa</l>
-<l>dać maią._</l>
-</p>
-<p>
-<l><date when="1796-01-24">Dnia 24. Januarij. 1796 Roku</date>. uchwalono zgodnie od Siedmio</l>
-<l>kompletowego <orgName ref="Виленский_кагал">Kahału</orgName>, względem Lustracyi z policzenia</l>
-<l>męszczyzn Miasta tuteyszego Starcow y Młodzieży nie</l>
-<l>mówląt y Niewiast, ażeby obwołać dnia Jutrzeyszego</l>
-<l>we wszytkich Szkołach y przyszkołkach <orgName ref="Виленский_кагал">Kahału</orgName> tutey</l>
-<l>szego. Jż każdy należący dokongressu Kreskowego,</l>
-<l>ściągasię na niego Charym ciężki że powinien przyiść</l>
-<l>koniecznie do Jzby Kahalney dla opowiadania zdania</l>
-<l>swoie a każdy niegomagaiący y stary powinien przy-</l>
-<l>słać kąpert. Azaś każdy słyszący takowe obwołanie</l> 
-<l>powinien przychodzić wraz do Jzby Kahalney Nim</l>
-<l>pójdzie do Domu swego y zapytywać  się u osob Kon</l>
-<l>greskowych o uczynieniu Składki ze wszystkich Oby-</l>
-<l>wateli tuteyszego <orgName ref="Виленский_кагал">Kahału</orgName> umieszczonych w Regestrze</l>
-<l>Krobki pryncypalney podług teraznieyszey Xięgi wy</l>
-<l>szłey, gdyby każdy był zobowiązany płacić niemniey</l>
-<l>jak połowę Krobki swoiey._ A jeżeli wiadomy będzie</l>
-<l>iż Cwierć procenta od sta Maiątku swego więcey</l>
-<l>wynosić będzie więc na onym Cheyrym ciężki y nayu</l>
-<l>ciążliwszy aby opłacił koniecznie Cwierć Procentu._</l>
-   </p>
-    </cell>
- </row>                                      
-</table>		
+    <fw type="pageNum" place="right">265</fw>
+    <head>F</head>
+    <table><row>
+      <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+      <cell>
+        <p>
+          <l>Tłomaczenie uchwały o składkę przez Gmin Kreskowy</l>
+          <l>czyli Kongressowy na potrzebę Lustracyi nastałey, zprze</l>
+          <l>znaczeniem aby każdy Gospodarz opłacaiący Krob</l>
+          <l>kę pryncypalną przez Symplarzow rozłożoną po-</l>
+          <l>łowę teyże swey Krobki na rzecz składki zapotrze</l>
+          <l>bowaney opłacał. A jeżeliby Gospodarz znał</l>
+          <l>że jedna Cwierc procenta od Sta z Majątku</l>
+          <l>swego więcey wynosić może niżeli połowę Krob-</l>
+          <l>ki tedy nie już połowę Krobki lecz Cwierć pro</l>
+          <l>centu opłacać obowiązanym będzie._ Gospodarz</l>
+          <l>zaś płacący Krobkę górą Złotych trzydzieście może</l>
+          <l>się uwolnić od płacenia procentu ato zaopłace</l>
+          <l>niem całkowitey swey Krobki._ Amniey niżeli trzy-</l>
+          <l>dzieście Złły<note place="end">złotych (сокращение)</note> płacący Krobki za opłaceniem tyle ile pół</l>
+          <l>tory Krobki Jego wynoszą wolnym będzie od płace</l>
+          <l>nia Procentu._ Gospodarzezaś w regestrze Krobcza</l>
+          <l>nym nie wpisane albo młodzież żonata będąca na Stole</l>
+          <l>Rodzicow swojch jeżeli mają Majątku swego 400 Złł<note place="end">złotych (сокращение)</note></l>
+          <l>y wyżey, również opłaty Cwierc procenta od sta podpa</l>
+          <l>dać maią._</l>
+        </p>
+        <p>
+          <l><date when="1796-01-24">Dnia 24. Januarij. 1796 Roku</date>. uchwalono zgodnie od Siedmio</l>
+          <l>kompletowego <orgName ref="Виленский_кагал">Kahału</orgName>, względem Lustracyi z policzenia</l>
+          <l>męszczyzn Miasta tuteyszego Starcow y Młodzieży nie</l>
+          <l>mówląt y Niewiast, ażeby obwołać dnia Jutrzeyszego</l>
+          <l>we wszytkich Szkołach y przyszkołkach <orgName ref="Виленский_кагал">Kahału</orgName> tutey</l>
+          <l>szego. Jż każdy należący dokongressu Kreskowego,</l>
+          <l>ściągasię na niego Charym ciężki że powinien przyiść</l>
+          <l>koniecznie do Jzby Kahalney dla opowiadania zdania</l>
+          <l>swoie a każdy niegomagaiący y stary powinien przy-</l>
+          <l>słać kąpert. Azaś każdy słyszący takowe obwołanie</l>
+          <l>powinien przychodzić wraz do Jzby Kahalney Nim</l>
+          <l>pójdzie do Domu swego y zapytywać się u osob Kon</l>
+          <l>greskowych o uczynieniu Składki ze wszystkich Oby-</l>
+          <l>wateli tuteyszego <orgName ref="Виленский_кагал">Kahału</orgName> umieszczonych w Regestrze</l>
+          <l>Krobki pryncypalney podług teraznieyszey Xięgi wy</l>
+          <l>szłey, gdyby każdy był zobowiązany płacić niemniey</l>
+          <l>jak połowę Krobki swoiey._ A jeżeli wiadomy będzie</l>
+          <l>iż Cwierć procenta od sta Maiątku swego więcey</l>
+          <l>wynosić będzie więc na onym Cheyrym ciężki y nayu</l>
+          <l>ciążliwszy aby opłacił koniecznie Cwierć Procentu._</l>
+        </p>
+      </cell>
+    </row></table>
     <pb n="265-2"/>
- <table>
- <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
-<l>Lecz jeżeliby chciał opłacać ilość całkowitey swey Krob-</l>
-<l>ki tedy wolny będzie od płacenia Cwierci procentu._</l>
-<l>Ato koniecznie tacy obywatele których Krobka wię</l>
-<l>cey trzydziestu Złotych przenasza lecz Ci którzy mniey</l>
-<l>trzydziestu Złotych płacą niemogą się uwolnić od płace</l>
-<l>nia Cwierci procentu aż poki niezapłacą całkowi</l>
-<l>tą Krobkę swoią y połowy oney; akażdy zaś chcą-</l>
-<l>cy opłacać połowę lub całę lub też połtorazo-</l>
-<l>wę Krobkę jak wyżey wyrażono, obowiązany bę</l>
-<l>dzie Zaliczyć y oddać do Rąk Pisarza y <persName>Judela<lb/>
-Bonarskiego</persName> któren przy Pisarzu siedzieć będzie,</l>                         
-<l>aktoby chciał opłacić Cwierć procentu, tedy</l> 
-<l>pozapłaceniu połowy Krobki do Rąk tychże weydzie</l>
-<l>do udzielney Komory w Mieszkaniu Pisarza będącey,</l>
-<l>w którey Karbona zamknięta stać będzie do ktorey</l> 
-<l>wrzuci reszty pieniędzy, a maiątek swóy obliczyć</l> 
-<l>ma wszelki tak Domy Dziedziczne rzetelnie, jako</l>
-<l>też Złota, Srebra, Kleynoty, Perły, naczynia domo</l>
-<l>we, y mieysce w ławkach Szkołach y Przyszkołkach;</l>
-<l>słowem się mówi że wszystko oprócz Sukień ydłu</l>
-<l>gow od siebie należnych które detrunkowane być</l>
-<l>maią azaś długi sobie należne bądz pewne bądz</l>
-<l>niepewne ztych wydetrunkować jedno trzecie a</l>
-<l>dwie trzeciny za maiątek policzony być ma <unclear>???</unclear></l>
-<l>Obywatele zaś którzy nie są wprowadzeni do Xięgi</l>
-<l>Krobczaney bez Exсepcyi obowiązany y ostrzegany</l>
-<l>iest pod nayciążliwszym Cheyrymem opłacać</l>
-<l>Cwierć procentu od każdego sta maiące czy-</l>
-<l>to wgotowiznie czyto zinnych rzeczy jak to wyżey</l> 
-<l>wyrażono, szczególnie którego całkowity maiątek</l>
-<l>do czterechset złotych niewynosi, takowy mabyć</l>
-<l>wolny od wszystkiego._ Ci zaś, którzy gotowy</l>
-<l>Stoł maią przy Rodzicach swoich a Krobki nie</l>
-<l>opłacaią, powinni opłacać również Cwierć</l> 
-<l>procentu z gotowego grosza wzawiedywaniuswo-</l>
-im maiącego aniewięcey <hi rend="superscript">аniewięcey</hi>._ A zaś ci którzy krobkę płacą —
- </cell>
-    </row>
- </table>   
+    <table><row>
+      <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+      <cell><l>Lecz jeżeliby chciał opłacać ilość całkowitey swey Krob-</l> <l>ki tedy wolny będzie od płacenia Cwierci
+      procentu._</l> <l>Ato koniecznie tacy obywatele których Krobka wię</l> <l>cey trzydziestu Złotych przenasza lecz
+      Ci którzy mniey</l> <l>trzydziestu Złotych płacą niemogą się uwolnić od płace</l> <l>nia Cwierci procentu aż poki
+      niezapłacą całkowi</l> <l>tą Krobkę swoią y połowy oney; akażdy zaś chcą-</l> <l>cy opłacać połowę lub całę lub
+      też połtorazo-</l> <l>wę Krobkę jak wyżey wyrażono, obowiązany bę</l> <l>dzie Zaliczyć y oddać do Rąk Pisarza y
+      <persName>Judela<lb/>
+       Bonarskiego</persName> któren przy Pisarzu siedzieć będzie,</l> <l>aktoby chciał opłacić Cwierć procentu,
+      tedy</l> <l>pozapłaceniu połowy Krobki do Rąk tychże weydzie</l> <l>do udzielney Komory w Mieszkaniu Pisarza
+      będącey,</l> <l>w którey Karbona zamknięta stać będzie do ktorey</l> <l>wrzuci reszty pieniędzy, a maiątek swóy
+      obliczyć</l> <l>ma wszelki tak Domy Dziedziczne rzetelnie, jako</l> <l>też Złota, Srebra, Kleynoty, Perły,
+      naczynia domo</l> <l>we, y mieysce w ławkach Szkołach y Przyszkołkach;</l> <l>słowem się mówi że wszystko oprócz
+      Sukień ydłu</l> <l>gow od siebie należnych które detrunkowane być</l> <l>maią azaś długi sobie należne bądz pewne
+      bądz</l> <l>niepewne ztych wydetrunkować jedno trzecie a</l> <l>dwie trzeciny za maiątek policzony być ma <unclear
+      >???</unclear></l> <l>Obywatele zaś którzy nie są wprowadzeni do Xięgi</l> <l>Krobczaney bez Exсepcyi obowiązany y
+      ostrzegany</l> <l>iest pod nayciążliwszym Cheyrymem opłacać</l> <l>Cwierć procentu od każdego sta maiące czy-</l>
+      <l>to wgotowiznie czyto zinnych rzeczy jak to wyżey</l> <l>wyrażono, szczególnie którego całkowity maiątek</l> <l
+      >do czterechset złotych niewynosi, takowy mabyć</l> <l>wolny od wszystkiego._ Ci zaś, którzy gotowy</l> <l>Stoł
+      maią przy Rodzicach swoich a Krobki nie</l> <l>opłacaią, powinni opłacać również Cwierć</l> <l>procentu z gotowego
+      grosza wzawiedywaniuswo-</l> im maiącego aniewięcey <hi rend="superscript">аniewięcey</hi>._ A zaś ci którzy
+      krobkę płacą —</cell>
+    </row></table>
     <pb n="266-1"/>
- <fw type="pageNum" place="right">266.</fw>
- <fw type="note" place="left margin">Ис-</fw>
-   <table>
-   <row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
- <l>maią dopełnić iak wyżey wyrażono._ Też pieniądze le</l>
-<l>żeć maią u Pisarza do których żadna ręka dotykaćsię</l> 
-<l>nie ma, y na onego rozciągasię wszystkie nazwiska prze</l>
-<l>klęstwa któryby używał tych pieniędzy na jaką in</l>
-<l>szą potrzebę oprócz przez wyżey wyrażonych wyzna</l>
-<l>czonych y na Jnteress Lustracyiny koniecznie; apie</l>
-<l>niądze maią być Expensowane przez dwóch z nich ko-</l>
-<l>niecznie, y że przyioł na Siebie cały <orgName ref="Виленский_кагал">Kahał</orgName> pod</l>
-<l>przysięgę realną aby nieprzeistaczać determina</l>
-<l>cyi o tych pieniądzach równie też bronno jest-</l>
-<l>Pisarzowi ulegać tey uchwały któraby przei-</l>
-staczała na inszyJnteress, tudzież niewolno  będzie 
-<l>Szkolnikom akceptować żadney takowey uchwa</l>
-<l>ły; przeklęstwem  y przysięgą zastrzega się star</l>
-<l>szego Kahalnego aby niezgromadzał dla uczy</l>
-<l>nienia jakiey uchwały aby nieprzistaczaćopie</l>
-<l>pieniądzach determinacyi uczynioney._</l>
-
-				<l><persName>Jcko Szkolnik Leybowicz</persName></l>
-				<l><persName>Moyżesz Mayzl Szkolnik</persName></l>
-				<l><persName>Nawtol Hercyk Szkolnik</persName></l>
-    </cell>
-    </row>
-<row>
-    <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
-    <cell>
-<l><date when="1796-01-26">We Czwartek dnia 26 Januarij 1796 Roku</date></l>
-<l>zapytalismy u osob kongressowych podług powyższey</l>
-<l>uchwały na wszystkie wyszczególnione warunki po-</l>
-<l>wyżey wyrażone y że zgodnie uchwalili aże</l>
-<l>bysię dopiłnilo wszystko jak wyżey wyrażono</l>
-<l>bez naymnieyszgo ucięcia._</l>
-			<l><persName>Jcko Szkolnik Leybowicz</persName></l>
-				<l><persName>Moyżesz Mayzl Szkolnik</persName></l>
- </cell>
-    </row>
-   </table> 
+    <fw type="pageNum" place="right">266.</fw>
+    <fw type="note" place="left margin">Ис-</fw>
+    <table>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell><l>maią dopełnić iak wyżey wyrażono._ Też pieniądze le</l> <l>żeć maią u Pisarza do których żadna ręka
+        dotykaćsię</l> <l>nie ma, y na onego rozciągasię wszystkie nazwiska prze</l> <l>klęstwa któryby używał tych
+        pieniędzy na jaką in</l> <l>szą potrzebę oprócz przez wyżey wyrażonych wyzna</l> <l>czonych y na Jnteress
+        Lustracyiny koniecznie; apie</l> <l>niądze maią być Expensowane przez dwóch z nich ko-</l> <l>niecznie, y że
+        przyioł na Siebie cały <orgName ref="Виленский_кагал">Kahał</orgName> pod</l> <l>przysięgę realną aby
+        nieprzeistaczać determina</l> <l>cyi o tych pieniądzach równie też bronno jest-</l> <l>Pisarzowi ulegać tey
+        uchwały któraby przei-</l> staczała na inszyJnteress, tudzież niewolno będzie <l>Szkolnikom akceptować żadney
+        takowey uchwa</l> <l>ły; przeklęstwem y przysięgą zastrzega się star</l> <l>szego Kahalnego aby niezgromadzał
+        dla uczy</l> <l>nienia jakiey uchwały aby nieprzistaczaćopie</l> <l>pieniądzach determinacyi uczynioney._</l> <l
+        ><persName>Jcko Szkolnik Leybowicz</persName></l> <l><persName>Moyżesz Mayzl Szkolnik</persName></l> <l>
+        <persName>Nawtol Hercyk Szkolnik</persName></l></cell>
+      </row>
+      <row>
+        <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
+        <cell>
+          <l><date when="1796-01-26">We Czwartek dnia 26 Januarij 1796 Roku</date></l>
+          <l>zapytalismy u osob kongressowych podług powyższey</l>
+          <l>uchwały na wszystkie wyszczególnione warunki po-</l>
+          <l>wyżey wyrażone y że zgodnie uchwalili aże</l>
+          <l>bysię dopiłnilo wszystko jak wyżey wyrażono</l>
+          <l>bez naymnieyszgo ucięcia._</l>
+          <l><persName>Jcko Szkolnik Leybowicz</persName></l>
+          <l><persName>Moyżesz Mayzl Szkolnik</persName></l>
+        </cell>
+      </row>
+    </table>
     <pb n="266-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
