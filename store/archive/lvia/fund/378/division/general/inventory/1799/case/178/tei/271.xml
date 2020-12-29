@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение виленского магистрата в <orgName ref="Литовский_надворный_суд">Литовский надворный суд - на польском
+        Сообщение виленского магистрата в <orgName ref="Литовский_надворный_суд">Литовский надворный суд о получении судебного приказа определить пригодность служителей <orgName ref="Виленский_кагал">виленского кагала</orgName> к свидетельству в ходе процесса - на польском
         языке</orgName>
       </p></abstract>
       <creation><date when="1799-10-12">12 октября 1799 года</date></creation>
@@ -12,6 +15,35 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="271-1"/>
+    <fw type="docNum" place="left">№ 814</fw>
+    <fw type="note">Полученъ <date when="1799-10-13">13<hi rend="superscript">го</hi> октября 1799<hi rend="superscript">го</hi>  года</date> Записавъ приобщить къ дѣлу.</fw>
+    <fw type="pageNum" place="right">271.</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <head>
+    <l>Do</l>
+<l><orgName ref="Литовский_надворный_суд">Litewskiego Gubernskiego Nadwornego Sądu</orgName></l> 
+		<l>od</l>
+<l>Magistratu Miasta <placeName ref="Вильна">Wilna</placeName> Raportt</l>
+    </head>
+    <p>
+<l> Magistrat wilenski przedstawia tym raportem <orgName ref="Литовский_надворный_суд">Litt<note place="end">Littewskiemu</note> Gubern<lb/>
+skiemu Nadwornemu Sądowi</orgName> Jz Ukaz Jego Jmperatorskiey</l>
+<l>Mości Samowładnącego Całą Rossyą z <orgName ref="Литовский_надворный_суд">onego Sądu</orgName> <date when="1799-10-13">w Dniu<lb/>
+dzisieyszym</date> <fw type="docNum">Nr 409</fw> wyszły nakazuiący Magistratowi aby</l>
+<l>zpomiędzy siebie wyznaczył dwoch Członkow dla wyexamino-</l>
+<l>wania Osiadłosci, Konduity y dobrym sprawowaniu się</l>
+<l>Zydow Strużow Kahalnych <persName>Enocha</persName>, <persName>Moyżesza</persName>, z <persName>Kopyla</persName> y Miesz</l>
+<l>kancow <persName>Zelmana Aronowicza</persName>_ <persName>Morducha Leyzerowicza</persName> y <persName>Abrah<lb/>
+ama Jankielowicza</persName>. Czy warci są zaufania y bydz użytemi</l>
+<l>do Swiadectwa, doszedł do Magistratu y na Skutek one</l>
+<l>go dla spełnienia poruczonego dzieła, wyznaczani zosta</l>
+<l>li Radce Bazyli Artecki y Kazimierz Paszkiewicz D<note place="end">Dnia</note></l> 
+<l><date when="1799-10-12">12 Obra<note place="end">Oktobra</note> 1799 Ru<note place="end">Roku</note></date></l> 
+<l><signed><persName>Jan Müller</persName> Bu<note place="end">Burmistrz</note> Miasta <persName ref="Вильна">Wilna</persName></signed></l>
+						<l><signed>Kazimierz Sidorowicz<lb/>
+						MW<note place="end">Miasta Wilna</note> Regent</signed></l>
+       </p>
+ <fw type="note" place="left margin"><fw type="docNum">Nr 739</fw></fw>      
     <pb n="271-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
