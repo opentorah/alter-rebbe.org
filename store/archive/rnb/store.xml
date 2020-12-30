@@ -2,24 +2,5 @@
 <store n="РНБ">
   <title xmlns="http://www.tei-c.org/ns/1.0">Российская национальная библиотека (Санкт-Петербург)</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://nlr.ru/">Вебсайт</ref></abstract>
-  <by selector="разряд">
-    <store n="РО">
-      <by selector="fund">
-        <store n="Евр IV">
-          <by selector="case">
-            <store file="203/rnb203.xml"/>
-          </by>
-        </store>
-        <store n="152">
-          <by selector="опись">
-            <store n="1">
-              <by selector="case">
-                <store file="211/rnb211.xml"/>
-              </by>
-            </store>
-          </by>
-        </store>
-      </by>
-    </store>
-  </by>
+  <by file="category/by.xml"/>
 </store>

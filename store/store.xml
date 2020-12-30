@@ -21,7 +21,10 @@
     <name n="фонд" lang="ru"/>
     <name n="fund" lang="en"/>
   </selector>
-  <selector><name n="разряд" lang="ru"/></selector>
+  <selector>
+    <name n="разряд" lang="ru"/>
+    <name n="category" lang="en"/>
+  </selector>
   <selector>
     <name n="отдел" lang="ru"/>
     <name n="division" lang="en"/>
