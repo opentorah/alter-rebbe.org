@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
+    <profileDesc><creation><date when="1799-10-12">12 октября 1799 года</date></creation>
+    <abstract><p>Донесение виленского бургомистра <orgName ref="Литовский_надворный_суд">Надворному суду</orgName> о приемлемости кагальных сторожей в качестве свидетелей</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="285-1"/>
-    <pb n="285-2" missing="true" empty="true"/>
+   <fw type="pageNum" place="right">285</fw>
+   <fw type="note" place="left margin"><fw type="docNum">№ 133.</fw></fw>
+   <fw type="note" place="left margin">Се-</fw>
+		<head>
+                <l>Działo się na Ratuszu wilen</l>
+		<l>skim <date when="1799-10-12">Roku Tysiąc Siedemset<lb/>										Dziewiędziesiąt Dziewiątego<lb/>
+		Męca<note place="end">Miesiąca</note> Oktobra Dwonastego<lb/>
+		veteris stili<note place="end">Według starego stylu (по старому стилю)</note> D<note place="end">Dnia</note></date></l>
+                </head>
+  <p>              
+<l>Magistrat Wilenski w Celu wypełnienia Ukazu Jego Jm-</l>
+<l>peratorskiey Mosci Samowładnącego Całą Rossyą z <orgName ref="Литовский_надворный_суд">Na<lb/>
+dwornego Gubernskiego Litt<note place="end">Littewskiego</note> Sądu</orgName> w dniu dzisieyszym</l>
+<l><fw type="docNum">Nr 409</fw> wyszłego dla wyexaminowania Ustronnnych Ludzi –</l>  
+<l>wilenskich ktorzyby zadney Konekcyi y Jnteressu nie-</l>
+<l>mieli ani z bywszemi Członkami Kahalnemi, y Ducho-</l>
+<l>wnemi, anitez <orgName ref="Хасиды">Karlinami</orgName>  y dokładnego wyśledzenia, tak</l>
+ <l>o działalnosci Konduicie y dobrym sprawowaniu się Zydow –</l> 
+<l>Struzow Kahalnych <persName>Enocha</persName>, y <persName>Moyżesza</persName> <persName>Kopela</persName> oraz Miesz-</l>
+<l>kańcow <persName>Zelmana Aronowicza</persName> – <persName>Morducha Leyzerowicza</persName>,</l>
+<l>y <persName>Abraama Jankielowicza</persName>, Jakotez czywarci Są Zaufa-</l>
+<l>nia bydz użytemi do Swiadectwa – eʼmedio Sui Radcow</l>
+<l><persName>Bazylego Arteckiego</persName>, y <persName>Kazimierza Paszkiewicza</persName> wspól-</l>
+<l>nie z Kancellaryą wyznacza – ktorym Jchnią wyznaczo</l>
+<l>nym Urzędnikom niezwłocznie takowe dzieło uskute-</l>
+<l>cznic y one Magistratowi dla dostawienia przy Ra-</l>
+<l>porcie <orgName ref="Литовский_надворный_суд">Nadwornemu Gubernskiemu Litt<note place="end">Littewskiemu</note> Sądowi</orgName> przy-</l>
+ <l>nieść porucza_</l>
+<l><signed><persName>Jan Müller</persName> Bu<note place="end">Burmistrz</note> miasta wilna</signed></l>
+</p>
+   <pb n="285-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
