@@ -4,13 +4,48 @@
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообшение Виленского магистрата в <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName>
+        Сообшение Виленского магистрата в <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName> о представлении последнему ранее запрошенных сведений о кагальных служителях для их участия в процессе в качестве свидетелей
       </p></abstract>
       <creation><date when="1799-10-19">19 октября 1799 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="283-1"/>
-    <pb n="283-2" missing="true" empty="true"/>
+    
+    <fw type="docNum" place="left">N 833</fw>
+             <fw type="note">Полученъ <date when="1799-10-20">20<hi rend="superscript">го</hi> октября 1799<hi rend="superscript">го</hi> года</date></fw>                              <fw type="pageNum" place="right">283.</fw>
+<fw type="note" place="left margin">криц</fw>
+<head>
+<l>Do</l>
+<l><orgName ref="Литовский_надворный_суд">Littewskiego Gubernskiego Nadwornego<lb/> 
+Sądu</orgName></l>
+<l>od</l>
+<l>Magistratu Miasta <placeName ref="Вильна">Wilna</placeName></l>
+		                 <l>Raportt</l>
+                                 </head>
+<p>
+<l>Magistrat Wilenski przyniesioną przez wyznaczo</l>
+<l>nych z Magistratu Członkow na Skutek Ukazu</l>
+<l>Jego Jmрeratorskiey Mosci Władnącego Carą</l> 
+<l>Rossyą z <orgName ref="Литовский_надворный_суд">Litt<note place="end">Littewskiego</note> Gubernskiego Nadwornego Sądu</orgName> <date when="1799-10-12">w<lb/>
+Dniu 12<hi rend="superscript">m</hi></date> praesentis <fw type="docNum">Nr 409</fw> wyszłego Jndegacyą</l>
+<l>względem Konduity y dobrym Sprawowaniu</l>
+<l>się Zydow Struzow Kahalnych <persName>Henocha</persName> – <persName>Moy<lb/>
+zesza</persName> – y <persName>Kopyla</persName> – oraz Mieszkańcow <persName>Zelma-<lb/>
+na Aronowicza</persName> – <persName>Morducha Leyzerowicza</persName> – y</l>   
+<l><persName>Abrahama Jankielowicza</persName> – przy nineyszym</l>
+ <l>Raporcie <orgName ref="Литовский_надворный_суд">Litt<note place="end">Littewskiemu</note> Gubernskiemu Nadwornemu<lb/>
+ Sądowi</orgName> Magistrat przedstawia <date when="1799-10-19">Dn 19 Obra<note place="end">Oktobra</note><lb/> 
+1799 Roku</date></l>
+<l><persName>Wincenty Zahorowa Mińkiewicz</persName>,</l>
+<l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Prezyduiący <unclear><signed>???</signed></unclear></l> 
+				<l><persName>Franciszek Sidorowicz</persName></l> 
+				       <l>MW<note place="end">Miasta Wilna</note> Regent</l>
+</p>
+<closer place="left">
+<fw type="docNum">Nr 755.</fw>
+</closer>
+<fw type="note" place="lower margin">Слуш: <date when="1799-10-21">21. октября</date></fw>
+   <pb n="283-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
