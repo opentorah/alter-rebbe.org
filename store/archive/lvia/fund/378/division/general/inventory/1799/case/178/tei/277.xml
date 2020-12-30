@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt>
-    </fileDesc>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Донесение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> в <orgName ref="Литовский_надворный_суд"
@@ -16,33 +16,36 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="277-1"/>
-    
-   <fw type="docNum" place="left">№ 818</fw>
-   <fw type="note">Подано <date when="1799-10-13">13<hi rend="superscript">го</hi> октября 1799<hi rend="superscript">го</hi> года</date></fw>					<fw type="pageNum" place="right">277</fw>
-   <fw type="note" place="left margin">Се-</fw>
-
-						<head><l>Do</l> 
-				<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornrgo Littewskiego</orgName></l>
-						<l>od</l>
-			<l><persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName> Kupca Wilenskiego</l> 
-				<l>Doniesienie</l></head>
-<p>
-<l>W obiasnieniu Naz wWyspecyfikowaniu Swiatkow</l>  
-  <l>ze strony moiey teraz dowiaduie się ze przez</l>
-  <l>Piszącego <choice><sic>obmiłka</sic><corr>omyłka</corr></choice> — w trzech mieyscach – w</l> 
-  <l>Przezwiskach znayduie się – Jakoto Namieyscu</l>
-  <l><persName>Leybi Dowidowicza</persName> napisana <persName>Rafelowicza</persName> — a</l>
-  <l>na mieyscu <persName>Abrahama Jzakowicza</persName> napisano -</l> 
-  <l><persName>Notelowicza</persName> oraz na mieyscu <persName>Elokina Mo-<lb/> 
-  wszowicza</persName> napisano <persName>Leybowicza</persName> Jakowe <choice><sic>obmi-</sic><corr>omy</corr></choice>-<lb/>
-  łki przez piszącego popełnione mam</l>
-  <l>sobie za obowiązek Sądowi doniesc –</l>
-  <l>aby <orgName ref="Литовский_надворный_суд">Sąd</orgName> raczył Takowe doniesienie w-</l>
-  <l>obiasnieniu przezemnie podanym Za odnoto</l>
-  <l>wac y wspomnione <choice><sic>obmiłki</sic><corr>omyłki</corr></choice> poprawic</l>
-  <signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed>
-	</p>				 
-<fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-10-17">17<hi rend=
+    <fw type="docNum" place="left">№ 818</fw>
+    <fw type="note">Подано <date when="1799-10-13">13<hi rend="superscript">го</hi> октября 1799<hi rend="superscript"
+    >го</hi> года</date></fw>
+    <fw type="pageNum" place="right">277</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l>Do</l>
+      <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornrgo Littewskiego</orgName></l>
+      <l>od</l>
+      <l><persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName> Kupca Wilenskiego</l>
+      <l>Doniesienie</l>
+    </head>
+    <p>
+      <l>W obiasnieniu Naz wWyspecyfikowaniu Swiatkow</l>
+      <l>ze strony moiey teraz dowiaduie się ze przez</l>
+      <l>Piszącego <choice><sic>obmiłka</sic><corr>omyłka</corr></choice> — w trzech mieyscach – w</l>
+      <l>Przezwiskach znayduie się – Jakoto Namieyscu</l>
+      <l><persName>Leybi Dowidowicza</persName> napisana <persName>Rafelowicza</persName> — a</l>
+      <l>na mieyscu <persName>Abrahama Jzakowicza</persName> napisano -</l>
+      <l><persName>Notelowicza</persName> oraz na mieyscu <persName>Elokina Mo-<lb/>
+       wszowicza</persName> napisano <persName>Leybowicza</persName> Jakowe <choice><sic>obmi-</sic><corr
+      >omy</corr></choice>-<lb/>
+       łki przez piszącego popełnione mam</l>
+      <l>sobie za obowiązek Sądowi doniesc –</l>
+      <l>aby <orgName ref="Литовский_надворный_суд">Sąd</orgName> raczył Takowe doniesienie w-</l>
+      <l>obiasnieniu przezemnie podanym Za odnoto</l>
+      <l>wac y wspomnione <choice><sic>obmiłki</sic><corr>omyłki</corr></choice> poprawic</l>
+      <signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed>
+    </p>
+    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-10-17">17<hi rend=
     "superscript">го</hi> октября</date></fw>
     <pb n="277-2" missing="true" empty="true"/>
   </body></text>
