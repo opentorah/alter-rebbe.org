@@ -5,13 +5,49 @@
     <profileDesc>
       <abstract><p>
         Сообщение старшин <orgName ref="Виленский_кагал">виленского кагала</orgName>, направленное в <placeName ref=
-        "Вильна">виленский</placeName> магистрат - на польском языке
+        "Вильна">виленский</placeName> магистрат о кагальных сторожах, привлеченных к судебному процессу в качестве свидетелей - на польском языке
       </p></abstract>
       <creation><date when="1799-09-12">12 сентября 1799 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="286-1"/>
-    <pb n="286-2" missing="true" empty="true"/>
+ <fw type="pageNum" place="right">286.</fw>
+ <fw type="note" place="left margin">кре</fw>
+<head>
+<l>Do</l>
+<l>Szlachetnego Magistratu Miasta Gubernskiego</l>
+<l><placeName ref="Вильна">Wilna</placeName></l>
+<l>od</l> 
+<l>Starszych <orgName ref="Виленский_кагал">Kahału Wilen</orgName> nizey piszących</l> 
+<l>się</l>
+</head>
+<p>
+<l>Na ustne ządanie urzędnikow Magistratowych JchmP:P:</l>  
+<l><persName>Bazylego Arteckiego</persName> y <persName>Kazimierza Paszkiewicza</persName> razem</l>
+<l>z Kancellaryą od Magistratu do uskutecznienia uka</l>
+<l>zu Jego Jmperatorskiey Mosci z <orgName ref="Литовский_надворный_суд">Nadwornego<lb/> 
+ Gubernskiego Litt Sądu</orgName> wyszłego, wyznaczonych, w <orgName ref="Виленский_кагал">Ka<lb/>
+hale</orgName> czynione aby <orgName ref="Виленский_кагал">Kahał</orgName> Kilko Osob ustronnych</l>
+<l>dla dokładnieyszego wysledzenia o Struzow Kahalnych</l>
+<l>Jtem Niektorych Mieszkancow względem Jch osiadłosci y</l>
+<l>sprowaniu  się Ettc. — na Skutek takowę</l>
+<l>Ządanie <orgName ref="Виленский_кагал">Kahał</orgName> naznacza Starozakonnych P: <persName>Libo-<lb/>
+szyca</persName> Doktora, <persName>Samszona Abrahamowicza</persName> y</l>
+<l><persName>Beynesza Aronowicza</persName> Aszey Gildy Kupcow Wilen</l> 
+<l>Jtem <persName>Dawida Leybowicza</persName> Obywatela Wilenskiego</l>
+<l>który na Zapotrzebowania wyznaczonych Członkow</l>
+<l>Magistratowych Wilenskich mają bydz uzywani</l> 
+<l>dla Zaskutecznienia Dzieła Ukazem Zalecone: Do Czego</l>
+<l>podpisuiemy się</l>
+<l><signed>???</signed><note place="end">подпись на иврите</note></l>
+<l><signed>???</signed><note place="end">подпись на иврите</note></l>
+<l><signed>???</signed><note place="end">подпись на иврите</note></l>
+</p>
+<closer place="left">
+<l><date when="1799-10-12">Dnia 12 Obra<lb/>
+1799 Roku</date></l>
+</closer>
+  <pb n="286-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
