@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rootStore n="by">
+<site
+  n="by"
+  siteUrl="www.alter-rebbe.org"
+  favicon="alter-rebbe"
+  licenseName = "Creative Commons Attribution 4.0 International License"
+  licenseUrl = "http://creativecommons.org/licenses/by/4.0/"
+  googleAnalyticsId="UA-154490117-1"
+  email="dub@opentorah.org"
+  githubUserName="opentorah"
+  twitterUserName="opentorah"
+>
   <title xmlns="http://www.tei-c.org/ns/1.0">Архив 19 кислева</title>
-  <entities>
-    <by selector="name" directory="names"/>
-    <by selector="names">
-      <store n="jews" entityType="person" role="jew"><title>Жиды (они же Евреи)</title></store>
-      <store n="officials" entityType="person" role="official"><title>Начальство</title></store>
-      <store n="unknown" entityType="person"><title>Неизвестно кто</title></store>
-      <store n="places" entityType="place"><title>Места</title></store>
-      <store n="organizations" entityType="org"><title>Организации</title></store>
-      <store n="transcribers" entityType="person" role="transcriber"><title>Расшифровщики</title></store>
-    </by>
-  </entities>
+  <sourceDesc><p>Facsimile</p></sourceDesc>
+  <navigationLink url="/names"/>
+  <navigationLink url="/collections"/>
+  <navigationLink url="/notes/help"/>
+  <navigationLink url="/notes/about"/>
+  <footer>
+    documents related to early Chabad history<br/>
+    🄯 <a href="http://www.opentorah.org/">the Open Torah Project</a>
+    <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+  </footer>
+  <byEntity selector="name" directory="names"/>
+  <byEntityList selector="names">
+    <listPerson n="jews" role="jew"><title>Жиды (они же Евреи)</title></listPerson>
+    <listPerson n="officials" role="official"><title>Начальство</title></listPerson>
+    <listPerson n="unknown"><title>Неизвестно кто</title></listPerson>
+    <listPlace n="places"><title>Места</title></listPlace>
+    <listOrg n="organizations"><title>Организации</title></listOrg>
+    <listPerson n="transcribers" role="transcriber"><title>Расшифровщики</title></listPerson>
+  </byEntityList>
+  <byNote selector="name" directory="notes"/>
   <by file="archive/by.xml"/>
-</rootStore>
+</site>
