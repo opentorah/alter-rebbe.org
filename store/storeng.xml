@@ -7,19 +7,23 @@
   licenseUrl = "http://creativecommons.org/licenses/by/4.0/"
   googleAnalyticsId="UA-154490117-1"
   email="dub@opentorah.org"
-  githubUserName="opentorah"
-  twitterUserName="opentorah"
 >
-  <title xmlns="http://www.tei-c.org/ns/1.0">Архив 19 кислева</title>
+  <!-- TODO githubUsername="opentorah" twitterUsername="the?opentorah" -->
+  <!-- TODO title: Архив 19 кислева -->
+  <title xmlns="http://www.tei-c.org/ns/1.0">Документы</title>
   <sourceDesc><p>Facsimile</p></sourceDesc>
-  <navigationLink url="/names"/>
-  <navigationLink url="/collections"/>
-  <navigationLink url="/notes/help"/>
-  <navigationLink url="/notes/about"/>
+  <page url="/names"/>
+  <page url="/archive"/>
+  <page url="/note/help"/>
+  <page url="/note/about"/>
+  <!-- TODO when I use <p> instead of <span>, it gets styled by the TEI CSS - although it is in the XHTML namespace?!
+       trying without anything... -->
   <footer>
-    documents related to early Chabad history<br/>
-    🄯 <a href="http://www.opentorah.org/">the Open Torah Project</a>
-    <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+    <span>
+      documents related to early Chabad history<br/>
+      🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
+      <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
+    </span>
   </footer>
   <byEntity selector="name" directory="names"/>
   <byEntityList selector="names">
