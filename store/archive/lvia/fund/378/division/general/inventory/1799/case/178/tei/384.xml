@@ -1,15 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract>Рапорт <placeName ref="Вильна">виленского</placeName> магистрата в <orgName ref=
-      "Литовский_надворный_суд">Литовский надворный суд</orgName> (на польском языке)</abstract>
+      "Литовский_надворный_суд">Литовский надворный суд</orgName> о допустимости привлечения кагальных служителей в качестве свидетелей к судебному делу (на польском языке)</abstract>
       <creation><date when="1800-03-07">7 марта 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="384-1"/>
-    <pb n="384-2"/>
+    <fw type="docNum" place="left">№ 154</fw>
+    <fw type="note">Полученъ <date when="1800-03-07">7<hi rend="superscript">го</hi> марта 1800<hi rend="superscript">го</hi> года</date></fw>
+    <fw type="pageNum" place="right">384</fw>
+    <fw type="note" place="left margin">Па</fw>
+    <head>
+    <l>Do</l> 
+<l><orgName ref="Литовский_надворный_суд">Litewskiego Nadwornego Sądu</orgName></l>
+<l>od</l>
+<l>Magistratu Miasta Wilna</l>
+ <l>Rapport</l>
+ </head>
+<p> 
+<l>W Skutku odebranego ukazu <emph rend="big">Jego Imperatorskiey Mości Samo-<lb/>
+władnącego Całą Rossyą</emph> z <orgName ref="Литовский_надворный_суд">Litewskiego nadwornego Sądu</orgName> za <fw type="docNum">№<lb/>
+78</fw>. wyszłego, Magistrat Wileński przedstawia tym Rapportem <orgName ref="Литовский_надворный_суд">Litew-<lb/>
+skiemu Nadwornemu Sądowi</orgName>, Jż iak tylko Magistrat odebrał onego <orgName ref="Литовский_надворный_суд">Sądu</orgName></l> 
+<l>ukaz <date when="1800-02-10">w dniu 10. Februarij</date> za Nr 51, względem wyexaminowania Ustron-</l>
+<l>nych Ludzi, którzyby żadengo związku, ani z Kahalnemi, ani też z Ducho-</l>
+<l>wnemi oraz z tak zwanemi <orgName ref="Хасиды">Karolinami</orgName> niemieli – względem Konduity</l>
+<l>Ƶydow <persName>Leyby Rafałowicza</persName>, <persName>Abrahama Notelowicza</persName>, <persName>Abrahama Hir-<lb/>
+szowicza</persName>, <persName>Nisona Dawidowicza</persName> y <persName>Morducha Całkowicza</persName> – tak na-</l>
+<l>tychmiast spomiędzy Siebie wyznaczył Członkow Radziec <persName>Rehfel-<lb/>
+ da</persName> y <persName>Lewandowskiego</persName> wespoł z Kancellaryą, dla wyciągnienia po-</l>
+<l>trzebnego wtem Sledztwie_ Ci wyznaczeni codziennie prawie o-</l>
+<l>sobiscie chodzili do Kahału dla wyciągnienia śledztwa w celu-</l> 
+<l>spełnienia Ukazu onego <orgName ref="Литовский_надворный_суд">Sądu</orgName>, y ustawicznie posyłany był Sądowy</l> 
+<l>Sługa do <orgName ref="Виленский_кагал">Kahału</orgName>, aby dostawił doSledztwa Osob słusznych: lecz</l>
+<l><orgName ref="Виленский_кагал">Kahał</orgName> dzień odednia wybor y naznaczenie ustronnych y niein-</l>
+<l>teressowanych Ludzi , aż dodnia 5go <date when="1800-03-05">teraznieyszego Miesiąca</date> odkła-</l>
+<l>daiąc, wkoncu <date when="1800-03-06">nadniu 6m tegoż Miesiąca</date> przysłał – do Magistratu</l> 
+<l>Rapport – Jż nieznayduie on Starozakonnych maiących <hi rend="superscript">possesye</hi> – a do prze-</l>
+<l>swiadczenia nieinteressowanych osob; którzyby niebyli w związku</l>
+<l>z Kahalnemi albo <orgName ref="Хасиды">Karolinami</orgName> – Magistrat zaś z powodu czy-</l>
+<l>nioney przez <orgName ref="Виленский_кагал">Kahał</orgName> przewłóki codzienney w wybraniu osob słu-</l>
+<l>sznych y nieinteressowanych doSledztwa, bez ukończenia Dzie-</l>
+<l>ła, niemogł donieść oOnym <orgName ref="Литовский_надворный_суд">Sądowi</orgName>, mając w zamiarze ukoń-</l>
+<l>czywszy iak nayrychley poruczone Dzieło przy Rapporcie do-</l>
+<l>stawić – Lecz kiedy <orgName ref="Виленский_кагал">Kahał</orgName> teraznieyszy niepokazał y niepokazuie</l>
+<l>odSledztwa ludzi słusznych nieinteressowanych, kórymby wia-</l>
+<l>rę dać można było, a Magistrat kiedy Ƶydow w tym Mieście ży-</l>
+<l>iących którzyby niebyli w związku lub pokrewieństwie z Kahalnemi</l>
+				<unclear><signed>???</signed></unclear><note place="end">роспись канцеляриста</note>
+<fw type="note" place="lower margin">Cлуш: <date when="1800-03-12">12<hi rend="superscript">го</hi> марта</date></fw>
+   <pb n="384-2"/>
+<fw type="note" place="right margin">Се-</fw>    
+ <l>z Kahalnemi, Duchownemi y Karolinami niezna, y dla tego kie-</l>
+<l>dy ukończyć Dzieła poruczonego niemoże – Zatem o tem Ni-</l>
+<l>nieyszym Rapportem Sądowi donosząc, y <orgName ref="Виленский_кагал">Kahału</orgName> tuteyszego</l>
+<l>Wiadomość wOryginale przyłączaiąc; iak ma w tem Dziele</l>
+<l>postąpić, czeka od <orgName ref="Литовский_надворный_суд">Sądu</orgName> Rozkazu – <date when="1800-03-07">Dnia 7go Marca 1800<lb/>
+Roku</date>_</l> 
+<l><persName>Wincenty Zaharowa Mińkiewicz</persName></l>
+<l>Burmistrz Miasta <placeName ref="Вильна">Wilnа</placeName> Prezyduiący</l>
+<l><signed><unclear>???</unclear></signed></l>
+</p>				    
+				<l><signed><persName>Franciszek Sidorowicz</persName><lb/>
+				            <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Regent</signed></l>
+  <fw type="note" place="lower margin"><fw type="docNum">№ 252</fw></fw>
   </body></text>
 </TEI>
