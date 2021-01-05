@@ -30,6 +30,6 @@
     <listOrg n="organizations"><title>Организации</title></listOrg>
     <listPerson n="transcribers" role="transcriber"><title>Расшифровщики</title></listPerson>
   </byEntityList>
-  <byNote selector="name" directory="notes"/>
+  <byNote selector="note" directory="notes"/>
   <by file="archive/by.xml"/>
 </site>
