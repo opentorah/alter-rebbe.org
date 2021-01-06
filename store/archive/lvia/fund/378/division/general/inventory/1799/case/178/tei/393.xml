@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Донесение <orgName ref="Виленский_кагал">виленского кагала</orgName> в городской магистрат в связи с
-        запрошенными сведениями о евреях, представенных в качестве свидетелй по делу в <orgName ref=
+        Донесение <orgName ref="Виленский_кагал">виленского кагала</orgName> в городской магистрат в неисполнением свидетелями, представленными кагалом, своих обязанностей в <orgName ref=
         "Литовский_надворный_суд">Литовском надворном суде</orgName>
       </p></abstract>
       <creation><date when="1800-03-22">22 марта 1800 года</date></creation>
@@ -13,6 +15,32 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="393-1"/>
-    <pb n="393-2" missing="true" empty="true"/>
+    <fw type="pageNum" place="right">393.</fw>
+    <fw type="note" place="left margin">велъ</fw>							<head>					
+		<l>Do</l> 
+                <l>Szlachetnego Magistratu Miasta Gubernskiego <placeName ref="Вильна">Wilna</placeName></l>  
+		<l>od</l> 
+		<l><orgName ref="Виленский_кагал">Kahału Wilenskiego</orgName></l>
+		<l><emph rend="underline">Doniesienie</emph></l>
+</head>
+<p>
+<l>Poniewaz <orgName ref="Виленский_кагал">Kahał</orgName> dosyłał Biegunow Swojch do <persName ref="Мовша_Ицкович"><emph rend="underline">Jony</emph> <hi rend="superscript">Mowszy</hi><lb/>  
+Jckowicza</persName> <persName>Hirszy Jonowicza</persName> <persName>Arona Szepszelowicza</persName></l> 
+<l>y dalszych azeby dla spełnienia Ukazu Stawilisię</l> 
+<l>na Ratusz do Jzby Sądowey przed Magistratem</l>
+<l>aże rozni roznie się wymowkami Exkuzuią y</l>
+<l>posłuszni nie są, o takowe Jch nieposłuszenstwo</l>
+ <l>donosi <orgName ref="Виленский_кагал">Kahał</orgName> Magistratowi Wilenskiemu y</l>
+<l>prosi Sobie dodania pomocy dla znaglenia</l>
+<l>onych dopowinnego posłuszenstwa._ <date when="1800-03-22">Datt
+Dnia 22. Marca 1800 roku</date>._</l>
+ <l><signed><unclear>???</unclear><note place="end">подпись на иврите и польском языке</note></signed></l>                                                                     </p>
+<p>
+<l>Przytym donosi się Szlachetnemu Magistrowi ze w</l>
+<l>pierszym Raporcie przez Omyłkę zamiast <persName ref="Мовша_Ицкович">Mowszy<lb/>
+Jckowicza</persName> napisano zostało <persName ref="Мовша_Ицкович">Jona Jckowicz</persName>, a zatem</l>
+<l>trzeba odmienic Jmie Jona na Jmie Mowszy._</l>  
+</p>
+  <pb n="393-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
