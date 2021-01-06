@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-  <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>      </titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
-      <abstract><p>Распоряжение <placeName ref="Вильна">виленского</placeName> магистрата городской полиции о розыске уклонившихся от явки в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> свидетелей</p>
-      </abstract>
+      <abstract><p>
+        Распоряжение <placeName ref="Вильна">виленского</placeName> магистрата городской полиции о розыске уклонившихся
+        от явки в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> свидетелей
+      </p></abstract>
       <creation><date when="1800-03-22">22 марта 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
@@ -15,37 +19,37 @@
     <fw type="pageNum" place="right">394</fw>
     <fw type="note" place="left margin">Ис-</fw>
     <fw type="note" place="left margin">№ 312.</fw>
-        <salute>
-    <l>Do Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
-   <l>Od Magistratu Wilenskiego</l>
-   </salute>
-  <p> 
-<l>Ukazem <emph rend="big">Jego Cesarskiey Mości Samo-<lb/>
-władnącego Całą Rossyą</emph> z <orgName ref="Литовский_надворный_суд">Littewskiego Na<lb/>
-dwornego Sądu</orgName> wyszłym nakazanym zostało</l>
-<l>Magistratowi względem Konduity Staroza</l>
-<l>konnych <persName>Leyby Rafałowicza</persName>, <persName>Abrahama Noto<lb/>
-lowicza</persName>, <persName>Abrahama Hirszowicza</persName>, <persName>Nisona Dawi<lb/>
-dowicza</persName> y <persName>Morducha Całkowicza</persName> uczynić Sledz</l>
-<l>two zosob, ktorzyby ani z Członkami Kahalne</l>
-<l>mi, Duchownemi y <orgName ref="Хасиды">Karolinami</orgName> Ƶadnego nie</l> 
-<l>mieli związku do którego Aktu <orgName ref="Виленский_кагал">Kahał Wileński</orgName></l>
- <l>dostawił za Swiadków <persName ref="Мовша_Ицкович">Mowszę Jckowicza</persName>, <persName>Hirsza Jo<lb/>
-nowicza</persName>, <persName>Arona Szapszelowicza</persName>, <persName>Jonę Judelowicza</persName></l>
- <l><persName>Leybę Wulfowicza</persName> y <persName>Samuela Josielowicza</persName>; Lecz gdy</l>
-<l>ciz wybrani Swiadkowie do potrzebney Jndegacyi</l>
-<l>niestawaią, a przeto spełnienie ukazu opoznionym</l>
-<l>zostaie; Zatem Magistrat obliguie Pollicyą Miasta,</l>
-<l>aby raczyła przez kogo należy przykazać pomienio</l>
-<l>nym Ƶydom w Dniu Jutrzeyszyn na Godzinę dru</l>
-<l>gą po południu stawić się niezwłocznie na Ratuszu</l>
-<l>dla ukończenia poruczonego <orgName ref="Литовский_надворный_суд">Sądem Nadwornym</orgName></l>
-<l>Dzieła. <date when="1800-03-22">Dnia 22 Marca 1800 Roku</date></l>
-<l><signed><persName>Wincenty Zahorowa Mińkiewicz</persName><lb/>
-Burmistrz Miasta Wilna Prezyduiący</signed></l>
-<l><signed><unclear>???</unclear><note place="end">подпись по-польски</note></signed></l>				 
-			<l><signed><persName>Franciszek Sidorowicz</persName><lb/> 
-			                <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Rezydent</signed></l>
+    <salute>
+      <l>Do Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
+      <l>Od Magistratu Wilenskiego</l>
+    </salute>
+    <p>
+      <l>Ukazem <emph rend="big">Jego Cesarskiey Mości Samo-<lb/>
+       władnącego Całą Rossyą</emph> z <orgName ref="Литовский_надворный_суд">Littewskiego Na<lb/>
+       dwornego Sądu</orgName> wyszłym nakazanym zostało</l>
+      <l>Magistratowi względem Konduity Staroza</l>
+      <l>konnych <persName>Leyby Rafałowicza</persName>, <persName>Abrahama Noto<lb/>
+       lowicza</persName>, <persName>Abrahama Hirszowicza</persName>, <persName>Nisona Dawi<lb/>
+       dowicza</persName> y <persName>Morducha Całkowicza</persName> uczynić Sledz</l>
+      <l>two zosob, ktorzyby ani z Członkami Kahalne</l>
+      <l>mi, Duchownemi y <orgName ref="Хасиды">Karolinami</orgName> Ƶadnego nie</l>
+      <l>mieli związku do którego Aktu <orgName ref="Виленский_кагал">Kahał Wileński</orgName></l>
+      <l>dostawił za Swiadków <persName ref="Мовша_Ицкович">Mowszę Jckowicza</persName>, <persName>Hirsza Jo<lb/>
+       nowicza</persName>, <persName>Arona Szapszelowicza</persName>, <persName>Jonę Judelowicza</persName></l>
+      <l><persName>Leybę Wulfowicza</persName> y <persName>Samuela Josielowicza</persName>; Lecz gdy</l>
+      <l>ciz wybrani Swiadkowie do potrzebney Jndegacyi</l>
+      <l>niestawaią, a przeto spełnienie ukazu opoznionym</l>
+      <l>zostaie; Zatem Magistrat obliguie Pollicyą Miasta,</l>
+      <l>aby raczyła przez kogo należy przykazać pomienio</l>
+      <l>nym Ƶydom w Dniu Jutrzeyszyn na Godzinę dru</l>
+      <l>gą po południu stawić się niezwłocznie na Ratuszu</l>
+      <l>dla ukończenia poruczonego <orgName ref="Литовский_надворный_суд">Sądem Nadwornym</orgName></l>
+      <l>Dzieła. <date when="1800-03-22">Dnia 22 Marca 1800 Roku</date></l>
+      <l><signed><persName>Wincenty Zahorowa Mińkiewicz</persName><lb/>
+       Burmistrz Miasta Wilna Prezyduiący</signed></l>
+      <l><signed><unclear>???</unclear><note place="end">подпись по-польски</note></signed></l>
+      <l><signed><persName>Franciszek Sidorowicz</persName><lb/>
+       <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Rezydent</signed></l>
     </p>
     <pb n="394-2" missing="true" empty="true"/>
   </body></text>
