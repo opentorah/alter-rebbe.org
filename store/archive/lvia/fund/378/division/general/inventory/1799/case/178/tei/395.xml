@@ -1,60 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
-      <abstract><p>Запрос <placeName ref="Вильна">виленского</placeName> магистрата в городскую полицию о розыске уклонившихся свидетелей и их доставлении в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName></p></abstract>
+      <abstract><p>
+        Запрос <placeName ref="Вильна">виленского</placeName> магистрата в городскую полицию о розыске уклонившихся
+        свидетелей и их доставлении в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName>
+      </p></abstract>
       <creation><date when="1800-03-22">22 марта 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="395-1"/>
-  <fw type="pageNum" place="right">395</fw>
-  <fw type="note" place="left margin">№ 329</fw>
-  <fw type="note" place="left margin">криц</fw>  
- <head>   											
-<l>Do Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
-<l>od Magistratu Wilenskiego</l>
-	               <l>Rezolucya</l>
-                    </head>
-<p>                               
-<l>Magistrat Wileński na Rezolucyją <date when="1800-03-22">w Dniu 22.Teraz-<lb/>
-nieyszego Miesiąca</date> za <fw type="docNum">N=312</fw> do oney Pollicyi uczy</l>
-<l>nioną względem przykazania Ƶydom od <orgName ref="Виленский_кагал">Kahału</orgName> za</l>
-<l>Swiadkow wyznaczonym iako to: <persName ref="Мовша_Ицкович">Mowszy Jcko<lb/>
-wiczowi</persName>, <persName>Hirszowi Jonowiczowi</persName>, <persName>Aronowi Szepszelowi<lb/>
-czowi</persName>, <persName>Jonowi Judelowiczowi</persName>, <persName>Leybie Wulfowiczowi</persName></l>
-<l>y <persName>Samuelowi Josielowiczowi</persName> aby stawali w Magi</l>
-<l>stracie na Ratuszu, dla wzięcia od Jch przyswiad</l>
-<l>czenia, ato w celu spełnienia ukazu <emph rend="big">Jego Jm</emph></l> 
- <l><emph rend="big">peratorskiey Mości</emph> z <orgName ref="Литовский_надворный_суд">Littewskiego Nadwor<lb/>
-nego Sądu</orgName> wyszłego, od Pollicyi Ƶadnego nie odbiera-</l>  
-<l>iąc uwiadomienia, czy przykazanym, lub nie</l>   
-<l>zostało, tym Ƶydom stawić się w Magistracie do</l>
-<l>naznaczonego <orgName ref="Литовский_надворный_суд">Sądem Nadwornym</orgName> Dzieła. Zatem</l>
-<l>Magistrat powturnie rekwiruie Pollicyą, aby raczy</l>
-<l>ła rozkazać przez kogo należy pomienionym Ƶy</l>
-<l>dom aby niezmiennie y nieodwłocznie  wDniu</l>                                             <l>Jutrzeyszym z rana na godzinę ósmą w Ratuszu</l>
-<l>stawili się. Dla wiadomości zaś gdzie który</l>
-<l>ztych Ƶydow mieszka Magistrat y o tem Pol</l>                                         <l>licyi donosi:</l>
-</p>
- <p>   
-<l><persName ref="Мовша_Ицкович">Mowsza Jckowicz</persName> mieszka na Zarzeczu pod N<hi rend="superscript">m</hi> 1337.</l>  
-<l><persName>Hirsz Jonowicz</persName> na  Ƶydowskiey ulicy pod N<hi rend="superscript">m</hi> 249.</l> 
-<l><persName>Aron Szepszelowicz</persName> na Jatkowey ulicy pod N<hi rend="superscript">m</hi> 235.</l>
-<l><persName>Jona Judelowicz</persName> na Szklanney ulicy pod N<hi rend="superscript">m</hi> 220</l>
-<l>Leyba_</l>
-   <pb n="395-2"/>
-<l><persName>Leyba Wulfowicz</persName> przy Cekauzie pod N<hi rend="superscript">m</hi> 499.</l>
-<l><persName>Samuel Josielowicz</persName> na Snipiszkach pod N<hi rend="superscript">m</hi> 955.</l>
-<l><date when="1800-03-22">Dnia 22 Marca 1800 Roku</date></l>    
-<l><persName>Wincenty Zahorowa Mińkiewicz</persName></l>
-<l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Rezyduiący</l>
-<l><signed><unclear>???</unclear><note place="end">подпись бургомистра</note></signed></l>			             
-			<l><persName>Franciszek Sidorowicz</persName><lb/>
-				  <placeName ref="Вильна">MW</placeName> Regent</l>
-</p>
- </body></text>
+    <fw type="pageNum" place="right">395</fw>
+    <fw type="note" place="left margin">№ 329</fw>
+    <fw type="note" place="left margin">криц</fw>
+    <head>
+      <l>Do Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
+      <l>od Magistratu Wilenskiego</l>
+      <l>Rezolucya</l>
+    </head>
+    <p>
+      <l>Magistrat Wileński na Rezolucyją <date when="1800-03-22">w Dniu 22.Teraz-<lb/>
+       nieyszego Miesiąca</date> za <fw type="docNum">N=312</fw> do oney Pollicyi uczy</l>
+      <l>nioną względem przykazania Ƶydom od <orgName ref="Виленский_кагал">Kahału</orgName> za</l>
+      <l>Swiadkow wyznaczonym iako to: <persName ref="Мовша_Ицкович">Mowszy Jcko<lb/>
+       wiczowi</persName>, <persName>Hirszowi Jonowiczowi</persName>, <persName>Aronowi Szepszelowi<lb/>
+       czowi</persName>, <persName>Jonowi Judelowiczowi</persName>, <persName>Leybie Wulfowiczowi</persName></l>
+      <l>y <persName>Samuelowi Josielowiczowi</persName> aby stawali w Magi</l>
+      <l>stracie na Ratuszu, dla wzięcia od Jch przyswiad</l>
+      <l>czenia, ato w celu spełnienia ukazu <emph rend="big">Jego Jm</emph></l>
+      <l><emph rend="big">peratorskiey Mości</emph> z <orgName ref="Литовский_надворный_суд">Littewskiego Nadwor<lb/>
+       nego Sądu</orgName> wyszłego, od Pollicyi Ƶadnego nie odbiera-</l>
+      <l>iąc uwiadomienia, czy przykazanym, lub nie</l>
+      <l>zostało, tym Ƶydom stawić się w Magistracie do</l>
+      <l>naznaczonego <orgName ref="Литовский_надворный_суд">Sądem Nadwornym</orgName> Dzieła. Zatem</l>
+      <l>Magistrat powturnie rekwiruie Pollicyą, aby raczy</l>
+      <l>ła rozkazać przez kogo należy pomienionym Ƶy</l>
+      <l>dom aby niezmiennie y nieodwłocznie wDniu</l>
+      <l>Jutrzeyszym z rana na godzinę ósmą w Ratuszu</l>
+      <l>stawili się. Dla wiadomości zaś gdzie który</l>
+      <l>ztych Ƶydow mieszka Magistrat y o tem Pol</l>
+      <l>licyi donosi:</l>
+    </p>
+    <p>
+      <l><persName ref="Мовша_Ицкович">Mowsza Jckowicz</persName> mieszka na Zarzeczu pod N<hi rend="superscript">m</hi>
+      1337.</l>
+      <l><persName>Hirsz Jonowicz</persName> na Ƶydowskiey ulicy pod N<hi rend="superscript">m</hi> 249.</l>
+      <l><persName>Aron Szepszelowicz</persName> na Jatkowey ulicy pod N<hi rend="superscript">m</hi> 235.</l>
+      <l><persName>Jona Judelowicz</persName> na Szklanney ulicy pod N<hi rend="superscript">m</hi> 220</l>
+      <l>Leyba_</l>
+      <pb n="395-2"/>
+      <l><persName>Leyba Wulfowicz</persName> przy Cekauzie pod N<hi rend="superscript">m</hi> 499.</l>
+      <l><persName>Samuel Josielowicz</persName> na Snipiszkach pod N<hi rend="superscript">m</hi> 955.</l>
+      <l><date when="1800-03-22">Dnia 22 Marca 1800 Roku</date></l>
+      <l><persName>Wincenty Zahorowa Mińkiewicz</persName></l>
+      <l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Rezyduiący</l>
+      <l><signed><unclear>???</unclear><note place="end">подпись бургомистра</note></signed></l>
+      <l><persName>Franciszek Sidorowicz</persName><lb/>
+       <placeName ref="Вильна">MW</placeName> Regent</l>
+    </p>
+  </body></text>
 </TEI>
