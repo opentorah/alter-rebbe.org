@@ -1,46 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение <placeName ref="Вильна">виленского</placeName> магистрата  городской полиции о доставлении в <orgName ref="Литовский_надворный_суд">Надворный суд свидетелей, утвержденных <orgName ref="Виленский_кагал">кагалом</orgName>, но уклонившихся от явки</orgName>
+        Распоряжение <placeName ref="Вильна">виленского</placeName> магистрата городской полиции о доставлении в
+        <orgName ref="Литовский_надворный_суд">Надворный суд свидетелей, утвержденных <orgName ref="Виленский_кагал"
+        >кагалом</orgName>, но уклонившихся от явки</orgName>
       </p></abstract>
       <creation><date when="1800-03-27">марта 27 дня 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="397-1"/>
- 	<fw type="pageNum" place="right">397.</fw>
-  <fw type="note" place="left margin">№ 333</fw>
-  <fw type="note" place="left margin">Се-</fw>
-  <head>
-  <l>Do</l> 
-  <l>Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
-  <l>od Magistratu Wilenskiego</l>
-</head>
-<p>
-  <l>Magistrat Wilenski wCelu spełnienia Ukazu <orgName ref="Литовский_надворный_суд">Litt<note place="end">Littewskiego</note><lb/> 
-  Nadwornego Sądu</orgName> potrzeci raz rekwiruie Pollicyą <placeName ref="Вильна">Mia<lb/>
-  sta</placeName>, aby raczyła ona Pollicya przez Kogo należy przy-</l>
-   <l>kazać Ƶydom <persName>Jonie Judelowiczowi</persName> pod №<hi rend="superscript">m</hi> 228, <persName>Ley-<lb/>
-  bie Wolfowiczowi</persName> pod № 999. <persName>Samuelowi Josielo-<lb/>
-  wiczowi</persName> na Snipiszkach pod N 995<hi rend="big">m</hi> Mieszkaiącym</l>
-  <l>Jako za Swiadkow przez <orgName ref="Виленский_кагал">Kahał</orgName> wybranym, aby <date when="1800-03-28">w Dniu<lb/>
-  Jutrzeyszym</date> zrania o Godzinie osmey na Ratuszu dla</l>
-  <l>ukonczenia Sledztwa, y uczynienia sądowego Examinu</l>
-   <l>Zonych w Magistracie Staneli – <date when="1800-03-27">Dnia 27. Meca<note place="end">Miesiąca</note> Marca<lb/>
-  1800. Roku</date>_</l>
-<l><persName>Wincenty Zahorowa Mińkiewicz</persName></l>
-<l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Prezyduiący</l>
-<signed><unclear>???</unclear><note place="end">подпись бургомистра</note></signed>
-	                  
-                             <l><persName>Franciszek Sidorowicz</persName><lb/>
-		             <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Regent</l>
-                           </p>         
- <pb n="397-2" missing="true" empty="true"/>
+    <fw type="pageNum" place="right">397.</fw>
+    <fw type="note" place="left margin">№ 333</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l>Do</l>
+      <l>Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
+      <l>od Magistratu Wilenskiego</l>
+    </head>
+    <p>
+      <l>Magistrat Wilenski wCelu spełnienia Ukazu <orgName ref="Литовский_надворный_суд">Litt<note place="end"
+      >Littewskiego</note><lb/>
+       Nadwornego Sądu</orgName> potrzeci raz rekwiruie Pollicyą <placeName ref="Вильна">Mia<lb/>
+       sta</placeName>, aby raczyła ona Pollicya przez Kogo należy przy-</l>
+      <l>kazać Ƶydom <persName>Jonie Judelowiczowi</persName> pod №<hi rend="superscript">m</hi> 228, <persName>Ley-<lb
+      />
+       bie Wolfowiczowi</persName> pod № 999. <persName>Samuelowi Josielo-<lb/>
+       wiczowi</persName> na Snipiszkach pod N 995<hi rend="big">m</hi> Mieszkaiącym</l>
+      <l>Jako za Swiadkow przez <orgName ref="Виленский_кагал">Kahał</orgName> wybranym, aby <date when="1800-03-28">w
+      Dniu<lb/>
+       Jutrzeyszym</date> zrania o Godzinie osmey na Ratuszu dla</l>
+      <l>ukonczenia Sledztwa, y uczynienia sądowego Examinu</l>
+      <l>Zonych w Magistracie Staneli – <date when="1800-03-27">Dnia 27. Meca<note place="end">Miesiąca</note> Marca<lb
+      />
+       1800. Roku</date>_</l>
+      <l><persName>Wincenty Zahorowa Mińkiewicz</persName></l>
+      <l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Prezyduiący</l>
+      <signed><unclear>???</unclear><note place="end">подпись бургомистра</note></signed>
+      <l><persName>Franciszek Sidorowicz</persName><lb/>
+       <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Regent</l>
+    </p>
+    <pb n="397-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
