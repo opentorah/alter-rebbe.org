@@ -1,24 +1,8 @@
 plugins {
-  id 'com.github.ben-manes.versions'
   id 'idea'
-  id 'java'
+  id 'com.github.ben-manes.versions'
+  id 'scala'
   id 'io.miret.etienne.sass'
-}
-
-final String opentorahVersion = '0.1.62'
-
-description = '19 Kislev Archive'
-
-repositories {
-  jcenter()
-  mavenCentral()
-
-  // TODO around 2020-12-13 two packages from the second page of my Bintray listing
-  // dropped off JCenter, and since the paths already exist (duh!) I can't request re-inclusion.
-  // Is there some way of asking Bintray for help?
-  maven {
-    url 'https://dl.bintray.com/dubinsky/org.opentorah'
-  }
 }
 
 idea {
@@ -37,8 +21,38 @@ idea {
   }
 }
 
+final String opentorahVersion = '0.1.63'
+
+description = '19 Kislev Archive'
+
+repositories {
+  jcenter()
+  mavenCentral()
+
+  // TODO around 2020-12-13 two packages from the second page of my Bintray listing
+  // dropped off JCenter, and since the paths already exist (duh!) I can't request re-inclusion.
+  // Is there some way of asking Bintray for help?
+  maven {
+    url 'https://dl.bintray.com/dubinsky/org.opentorah'
+  }
+}
+
 dependencies {
-  runtimeOnly "org.opentorah:opentorah-collector:$opentorahVersion"
+  implementation "org.opentorah:opentorah-collector:$opentorahVersion"
+  implementation "org.opentorah:opentorah-util:$opentorahVersion"
+
+  // TODO fixopentorah so that I do not need to manually add dependencies:
+  implementation "org.opentorah:opentorah-metadata:$opentorahVersion"
+  implementation "org.opentorah:opentorah-xml:$opentorahVersion"
+  implementation "dev.zio:zio_2.12:1.0.3"
+
+  implementation 'org.scala-lang:scala-library:2.12.12'
+  implementation 'com.google.cloud:google-cloud-storage:1.113.8'
+  compileOnly    'org.slf4j:slf4j-api:1.7.30'
+}
+
+tasks.withType(ScalaCompile) {
+  targetCompatibility = '1.8'
 }
 
 compileSass {
@@ -51,6 +65,7 @@ task verifySite(type: JavaExec) {
   args = ['verify', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
+verifySite.dependsOn(classes)
 verifySite.dependsOn(compileSass)
 
 task generateSite(type: JavaExec) {
@@ -58,6 +73,7 @@ task generateSite(type: JavaExec) {
   args = ['generate', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
+generateSite.dependsOn(classes)
 generateSite.dependsOn(compileSass)
 
 task buildSite(type: JavaExec) {
@@ -65,6 +81,7 @@ task buildSite(type: JavaExec) {
   args = ['build', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
+buildSite.dependsOn(classes)
 buildSite.dependsOn(compileSass)
 
 final String gcloudServiceAccountKey = findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey"
@@ -74,6 +91,7 @@ task uploadSite(type: JavaExec) {
   args = ['upload', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
+uploadSite.dependsOn(classes)
 uploadSite.dependsOn(buildSite)
 
 task uploadSiteDryRun(type: JavaExec) {
@@ -81,6 +99,7 @@ task uploadSiteDryRun(type: JavaExec) {
   args = ['upload', rootDir, gcloudServiceAccountKey, 'dryRun']
   classpath = sourceSets.main.runtimeClasspath
 }
+uploadSite.dependsOn(classes)
 uploadSite.dependsOn(buildSite)
 
 task serveSite(type: JavaExec) {
@@ -88,9 +107,11 @@ task serveSite(type: JavaExec) {
   args = ['serve', "file://$rootDir/"]
   classpath = sourceSets.main.runtimeClasspath
 }
+serveSite.dependsOn(classes)
 serveSite.dependsOn(buildSite)
 
 task serveRemoteSite(type: JavaExec) {
   main = 'org.opentorah.collector.Main'
   classpath = sourceSets.main.runtimeClasspath
 }
+serveRemoteSite.dependsOn(classes)
