@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
-      <abstract>Сообщение в <placeName ref="Вильна">виленский</placeName> магистрат от городского советника в связи с
-      запросом <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName></abstract>
+      <abstract>Сообщение виленских городских советников в магистрат (для представления в дальнейшие инстанции) справки о положении и благонадежности представленных свидетелей </abstract>
       <creation><date when="1800-04-16">16 апреля 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="391-1"/>
-    <pb n="391-2" missing="true" empty="true"/>
+    <fw type="pageNum" place="right">391.</fw>
+    <fw type="note" place="left margin">тарь</fw>					<head>							
+<l>Do</l> 
+<l>Magistratu Miasta <placeName ref="Вильна">Wilna</placeName></l>
+</head>
+<p>
+<l>Nizey podpisani ukonczywszy dzieło Jndygacyi o Kondu</l>
+<l>icie Ƶydow <persName>Leyby Rafałowicza</persName> – <persName>Abrahama Notelo-<lb/> 
+wicza</persName> – <persName>Abrahama Hirczovicza</persName> – <persName>Nisona Dawidowiza</persName></l>
+<l>y <persName>Morducha Całkowicza</persName> one obsygillowawszy Pieczę-</l>
+<l>ciami Naszemi dla przedstawienia gdzie nalezy</l> 
+<l>Magistratowi wilen<note place="end">Wilenskiemu</note> przy ninieyszym Raporcie</l>
+<l>dołączamy – <date when="1800-04-16">Dn 16. apryla 1800 R</date></l>
+     <l><persName>Wilhelm Rehfeld</persName> Radny Miasta <placeName ref="Вильна">Wilna</placeName>.</l>
+     <l><persName>Konstantyn Lewandowski</persName> Radny Miasta <placeName ref="Вильна">wilna</placeName></l> 
+</p>
+ <pb n="391-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
