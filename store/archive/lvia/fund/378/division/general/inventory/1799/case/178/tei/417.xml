@@ -1,58 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
-    <profileDesc><creation><date when="1799-10-01">1 октября 1799 года</date></creation>
-    <abstract><p>
-      Документ на польском языке, свидетельствующий о кражах, совершенных <persName>Мордухом Лейзеровичем</persName> - свидетелем по делу в <orgName ref="Литовский_надворный_суд">Литовском надворном
-      суде</orgName>, представленным <persName ref="Мовша_Ошерович">Мовшей Ошеровичем</persName>
-    </p></abstract></profileDesc>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Документ на польском языке, свидетельствующий о кражах, совершенных <persName>Мордухом Лейзеровичем</persName> -
+        свидетелем по делу в <orgName ref="Литовский_надворный_суд">Литовском надворном суде</orgName>, представленным
+        <persName ref="Мовша_Ошерович">Мовшей Ошеровичем</persName>
+      </p></abstract>
+      <creation><date when="1799-10-01">1 октября 1799 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="417-1"/>
-   <fw type="pageNum" place="right">417</fw> 
-   <fw type="note" place="left margin">Па-</fw> 					<p>						
-<l>Niżey wyrażony zaswiadczam, iż od Lat</l>  			    	            
-<l>kilku w Stancyi moyey zginoł Błam Fu</l>
-<l>tra Pierwiastek; Posledniey Za Starszeństwem</l>    
-<l><persName>Wulfa</persName> w owczas Kahalengo, to Futro nazad odesła</l>
-<l>ne mi Zostało: autorem tey Kradzieży został <persName>Mor-<lb/>
-duch Leyzerowicz</persName>, a będąc w Szkodzie moiey zaspo</l>
-<l>koiony, Konwinkować tegoż Ƶyda niechciałem.</l>
-<l>Wiernie przyswiadczaiąc podpisuięsię. Pisan w</l>
-<l><placeName ref="Вильна">wilnie</placeName> <date when="1799-10-01">Roku 1799 mca<note place="end">Miesiąca</note> Obra<note place="end">Oktobra</note> pierwszego DNS<note place="end">Dnia – według nowego stylu (дня по новому стилю)</note></date></l>      
-<l><persName>Michał Wyrzykowski</persName></l>
-	<l>Podcz Jnflandz<note place="end">Podczaszy Jnflandzi (лифляндский подчаший)</note></l></p>
-        <table>
-        <row>
-        <cell>
-        <p><l>Ustnie y oczywisto proszony Pie:</l>        
- <l>czętarz od Wo Jgm<note place="end">Wielmożnego Jegomości</note> Pana <persName>Michała<lb/>
-Wyrzykowskiego</persName> Podczaszego Jnfl</l>        
-<l>do tego Testymonialnego Skryptu</l>
-<l>na Ukradzienie Błamu Pierwiastek</l>
-<l>przez Ƶyda <persName>Morducha Leyzerowicza</persName></l> 
-<l>Powszechności wydanego podpisuie się</l> 
-		<l><persName>Jan Filipowicz</persName></l>
-		<l>Rgnt Ziem Witk<note place="end">Regent Ziemski Witkowski</note></l></p>
-        </cell>
-        <cell>
-        <p><l>Ustnie Proszony Pieczęta</l>                                                     <l>od Wo Jms Pana <persName>Mi-<lb/>
-chała Werzykowskiego</persName></l> 
-<l>Podczaszego Jnflandzkiego</l>
-<l>na Rzecz wesrze</l>
-<l>dzinie znaczącą do tego Testymoni-</l>                                               <l>alnego Skryptu iako</l> 
-<l>Prawo mieć chcę</l>
-<l>podpisuię się_</l>
-	<l><persName>Jgnacy Snarski</persName></l>
-	<l>Mostow. Brasła<note place="end">вероятно, Brasławski</note></l></p> 
-        </cell>
-        </row>
-        </table>
-                  <pb n="417-2"/>
+    <fw type="pageNum" place="right">417</fw>
+    <fw type="note" place="left margin">Па-</fw>
+    <p>
+      <l>Niżey wyrażony zaswiadczam, iż od Lat</l>
+      <l>kilku w Stancyi moyey zginoł Błam Fu</l>
+      <l>tra Pierwiastek; Posledniey Za Starszeństwem</l>
+      <l><persName>Wulfa</persName> w owczas Kahalengo, to Futro nazad odesła</l>
+      <l>ne mi Zostało: autorem tey Kradzieży został <persName>Mor-<lb/>
+       duch Leyzerowicz</persName>, a będąc w Szkodzie moiey zaspo</l>
+      <l>koiony, Konwinkować tegoż Ƶyda niechciałem.</l>
+      <l>Wiernie przyswiadczaiąc podpisuięsię. Pisan w</l>
+      <l>
+        <placeName ref="Вильна">wilnie</placeName>
+        <date when="1799-10-01">Roku 1799 mca<note place="end">Miesiąca</note> Obra<note place="end">Oktobra</note>
+        pierwszego DNS<note place="end">Dnia – według nowego stylu (дня по новому стилю)</note></date>
+      </l>
+      <l><persName>Michał Wyrzykowski</persName></l>
+      <l>Podcz Jnflandz<note place="end">Podczaszy Jnflandzi (лифляндский подчаший)</note></l>
+    </p>
+    <table><row>
+      <cell><p>
+        <l>Ustnie y oczywisto proszony Pie:</l>
+        <l>czętarz od Wo Jgm<note place="end">Wielmożnego Jegomości</note> Pana <persName>Michała<lb/>
+         Wyrzykowskiego</persName> Podczaszego Jnfl</l>
+        <l>do tego Testymonialnego Skryptu</l>
+        <l>na Ukradzienie Błamu Pierwiastek</l>
+        <l>przez Ƶyda <persName>Morducha Leyzerowicza</persName></l>
+        <l>Powszechności wydanego podpisuie się</l>
+        <l><persName>Jan Filipowicz</persName></l>
+        <l>Rgnt Ziem Witk<note place="end">Regent Ziemski Witkowski</note></l>
+      </p></cell>
+      <cell><p>
+        <l>Ustnie Proszony Pieczęta</l>
+        <l>od Wo Jms Pana <persName>Mi-<lb/>
+         chała Werzykowskiego</persName></l>
+        <l>Podczaszego Jnflandzkiego</l>
+        <l>na Rzecz wesrze</l>
+        <l>dzinie znaczącą do tego Testymoni-</l>
+        <l>alnego Skryptu iako</l>
+        <l>Prawo mieć chcę</l>
+        <l>podpisuię się_</l>
+        <l><persName>Jgnacy Snarski</persName></l>
+        <l>Mostow. Brasła<note place="end">вероятно, Brasławski</note></l>
+      </p></cell>
+    </row></table>
+    <pb n="417-2"/>
     <fw type="note">Литовской Казенной Палаты</fw>
-      </body></text>
+  </body></text>
 </TEI>
