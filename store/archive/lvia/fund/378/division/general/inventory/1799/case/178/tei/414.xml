@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-     <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt>
-    </fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> в <orgName ref="Литовский_надворный_суд"
@@ -15,33 +16,35 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="414-1"/>
- <fw type="note" place="right">Подано <date when="1800-04-30">30. апреля 1800 года</date>.</fw>
-<fw type="pageNum" place="right">414</fw>
-<fw type="note" place="left margin">Се-</fw>
-<head>					
-<l>Do</l>                                                                   
-<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Litewskiego</orgName></l>
-<l>od</l>
-<l><persName ref="Мовша_Ошерович">Moyzesza oszerowicza</persName> Кupca wilens<note place="end">Wilenskiego</note></l>  
-<l>Proźba</l>					 
- </head>  
-<p>               
-<l>Wiadomo <orgName ref="Литовский_надворный_суд">Sądowi</orgName>, że Sledztwo już się więcey Roku przewlek</l>
-<l>ło y teraz Kiedy juz Przybliza się Do Konca, Strona Prze-</l>
-<l>ciwna zwleka od Dnia do Dnia y do wysłuchania Jura-</l>
-<l>mentu Swiadkow nie Przystempuie a to Czyni Jedynie</l>
-<l>dla tego aby <hi rend="superscript">w</hi> tym przeciągu Czasu przez rozne pogrozki</l>
-<l>Swiadkow wyznania Prawdy od Straszyc Przez Samych</l> 
-<l>Karolinow y Jch partyzantow; a zatym Smiem Pro-</l>
-<l>sic u <orgName ref="Литовский_надворный_суд">Sądu</orgName> o przyspieszenie Konkluzyi tego Sledztwa</l>
-<l>w Prętkim wysłuchaniu Swiadkow a <choice><sic>prz</sic><corr>przy</corr></choice> wy Exami-</l>
-<l>nowania onych raczy Sąd nie Zapomnic Zapitacsię</l>
-<l>onych Przez kogo były roznemi pogrozkami Stra-</l>
-<l>szonemi y od Swiadectwo od Strąconemi_</l>
-<l>O co prosząc piszą się Datt. <date when="1800-04-30">30. apryla 1800 Roku</date></l>
-<l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
-   </p>       
-<fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-05-01">1<hi rend="superscript">го</hi> маiя</date></fw> 
-   <pb n="414-2" missing="true" empty="true"/>
+    <fw type="note" place="right">Подано <date when="1800-04-30">30. апреля 1800 года</date>.</fw>
+    <fw type="pageNum" place="right">414</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>
+      <l>Do</l>
+      <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Litewskiego</orgName></l>
+      <l>od</l>
+      <l><persName ref="Мовша_Ошерович">Moyzesza oszerowicza</persName> Кupca wilens<note place="end">Wilenskiego</note>
+      </l>
+      <l>Proźba</l>
+    </head>
+    <p>
+      <l>Wiadomo <orgName ref="Литовский_надворный_суд">Sądowi</orgName>, że Sledztwo już się więcey Roku przewlek</l>
+      <l>ło y teraz Kiedy juz Przybliza się Do Konca, Strona Prze-</l>
+      <l>ciwna zwleka od Dnia do Dnia y do wysłuchania Jura-</l>
+      <l>mentu Swiadkow nie Przystempuie a to Czyni Jedynie</l>
+      <l>dla tego aby <hi rend="superscript">w</hi> tym przeciągu Czasu przez rozne pogrozki</l>
+      <l>Swiadkow wyznania Prawdy od Straszyc Przez Samych</l>
+      <l>Karolinow y Jch partyzantow; a zatym Smiem Pro-</l>
+      <l>sic u <orgName ref="Литовский_надворный_суд">Sądu</orgName> o przyspieszenie Konkluzyi tego Sledztwa</l>
+      <l>w Prętkim wysłuchaniu Swiadkow a <choice><sic>prz</sic><corr>przy</corr></choice> wy Exami-</l>
+      <l>nowania onych raczy Sąd nie Zapomnic Zapitacsię</l>
+      <l>onych Przez kogo były roznemi pogrozkami Stra-</l>
+      <l>szonemi y od Swiadectwo od Strąconemi_</l>
+      <l>O co prosząc piszą się Datt. <date when="1800-04-30">30. apryla 1800 Roku</date></l>
+      <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
+    </p>
+    <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-05-01">1<hi rend=
+    "superscript">го</hi> маiя</date></fw>
+    <pb n="414-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
