@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>
-    
-    <persName><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></persName></author>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author><persName><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></persName></author>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
+    </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> в <orgName ref="Литовский_надворный_суд"
@@ -20,49 +19,53 @@
   <text xml:lang="pl"><body>
     <pb n="450-1"/>
     <fw type="docNum" place="left">№ 300</fw>
-    <fw type="note" place="right">Под. <date when="1800-05-14">14<hi rend="superscript">го</hi> маiя 1800</date>.</fw>					                      <fw type="pageNum" place="right">450.</fw> 
+    <fw type="note" place="right">Под. <date when="1800-05-14">14<hi rend="superscript">го</hi> маiя 1800</date>.</fw>
+    <fw type="pageNum" place="right">450.</fw>
     <fw type="note" place="left margin">велъ</fw>
-                    <p>
-                    <l>Do</l> 
-<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
-<l>od</l> 
-<l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Kupca Wilenskiego od powiednie –</l> 
-			<l>Obiasnienio_</l> 
-         </p>
-<p>         
-<l>Na Skutek Rezolucyi <orgName ref="Литовский_надворный_суд">tegoz Sądu</orgName> <date when="1800-05-11">pod Dniem 11. maja teraznieysze-<lb/>
-     go 1800 Roku</date>, daię odpowiedz na Prozbę w tymze Dniu od</l> 
-     <l>W:<note place="end">Wielmożnego</note> Gubernskiego Litt.<note place="end">Littewskiego</note> Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName> do <orgName ref="Литовский_надворный_суд">Sądu</orgName> podaną</l> 
-     <l>w następnym Rzecz obiasnieniu_</l>
-    </p> 
-    <p> 
-<l>Nietayno to iest przed <orgName ref="Литовский_надворный_суд">Sądem Nadwornym Litt<hi rend="superscript">m</hi><note place="end">Littewskim</note></orgName> Ze Dzieło czyli Sledztwo –</l>
-     <l>w tym <orgName ref="Литовский_надворный_суд">Sądzie</orgName> od chodzące, o dopełnione krzywdy <date when="1799-02-04">w Dniu 4<hi rend="superscript">m</hi><lb/> 
-     Februarij 1799.</date> przez W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName>, ydalszych dotego</l>
-     <l>wchodzących Osob, trwa już blisko 15 miesięcy, nie-</l>
-     <l>wchodził żaden Dokument, ani tez żadna, odktórey kolwiek Stro-</l>
-     <l>ny Prozba, któraby nie była Kommunikowaną Stronie prze-</l>
-     <l>ciwney, W:<note place="end">Wielmożny</note> zaś <persName ref="Елиашевич">Sowietnik</persName> otym wszystkim Zapomniał, yw-</l>
-     <l>tenczas kiedy Regestr Swiadkow był nieraz W:<note place="end">Wielmożnemu</note> <persName ref="Елиашевич">Sowietnikowi</persName></l> 
-     <l>Kommunikowany, kiedy W:<note place="end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> wzglendem Onych</l> 
-     <l>nie yedno krotnie, dał napismie odpowiedno obiasnienie,</l>
-     <l>y kiedy <orgName ref="Литовский_надворный_суд">Sąd</orgName> Swoiemi Rezolucyami kwestye Stron wzglendem</l>
-     <l>Swiadkow załatwił, Liczbę Onych rozdystyngwował, Niektórych</l>
-     <l>jako wSpolnikow Sprawy, od Swiadectwa usunął, Niektorych Stro</l>-
-     <l>nie okazania pewnosci dostoienstwa Onych wzglendem dopusz-</l>
-     <l>czenia Jchże do Swiadectwa zaSwiadkow nieprzyioł – Osob tylo</l>
-     <l>Szesc przez ustronnych nie parcyalnych Obywateli zawartych</l> 
-     bydz do Swiadectwa dopuszczonych ogłoszonych przyioł, zażą-
-     <l>dał oraz <orgName ref="Литовский_надворный_суд">Sąd Nadworny</orgName> od W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName>, o przytomnosci One-</l>
-     <l>go, przy wykonaniu Juramentow, przez Swiadkow nawiernym</l>
-     <l>ySprawiedliwym wyznaniu w tey Sprawie, y po kilkodnio-</l> 
-     <l>wym odciąganiu się przez W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName>, Sąd zaakceptowawszy</l> 
-     <l>Onych Jurament Jm wykonać kazał, y onyсhze wyexаmi-</l>
-     <l>nował_ Miał zatym W:<note place="end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> Czasu dosyć w tak przeciągłym</l>
-		</p>					 
-<fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-05-16">16 маiя</date></fw>
-<signed place="right"><unclear>???</unclear></signed>
-  <pb n="450-2"/>
+    <p>
+      <l>Do</l>
+      <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
+      <l>od</l>
+      <l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Kupca Wilenskiego od powiednie –</l>
+      <l>Obiasnienio_</l>
+    </p>
+    <p>
+      <l>Na Skutek Rezolucyi <orgName ref="Литовский_надворный_суд">tegoz Sądu</orgName> <date when="1800-05-11">pod
+      Dniem 11. maja teraznieysze-<lb/>
+       go 1800 Roku</date>, daię odpowiedz na Prozbę w tymze Dniu od</l>
+      <l>W:<note place="end">Wielmożnego</note> Gubernskiego Litt.<note place="end">Littewskiego</note> Sowietnika
+      <persName ref="Елиашевич">Eliaszewicza</persName> do <orgName ref="Литовский_надворный_суд">Sądu</orgName>
+      podaną</l>
+      <l>w następnym Rzecz obiasnieniu_</l>
+    </p>
+    <p>
+      <l>Nietayno to iest przed <orgName ref="Литовский_надворный_суд">Sądem Nadwornym Litt<hi rend="superscript"
+      >m</hi><note place="end">Littewskim</note></orgName> Ze Dzieło czyli Sledztwo –</l> <l>w tym <orgName ref=
+      "Литовский_надворный_суд">Sądzie</orgName> od chodzące, o dopełnione krzywdy <date when="1799-02-04">w Dniu 4<hi
+      rend="superscript">m</hi><lb/>
+       Februarij 1799.</date> przez W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич"
+      >Sowietnika</persName>, ydalszych dotego</l> <l>wchodzących Osob, trwa już blisko 15 miesięcy, nie-</l> <l
+      >wchodził żaden Dokument, ani tez żadna, odktórey kolwiek Stro-</l> <l>ny Prozba, któraby nie była Kommunikowaną
+      Stronie prze-</l> <l>ciwney, W:<note place="end">Wielmożny</note> zaś <persName ref="Елиашевич"
+      >Sowietnik</persName> otym wszystkim Zapomniał, yw-</l> <l>tenczas kiedy Regestr Swiadkow był nieraz W:<note
+      place="end">Wielmożnemu</note> <persName ref="Елиашевич">Sowietnikowi</persName></l> <l>Kommunikowany, kiedy
+      W:<note place="end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> wzglendem Onych</l> <l>nie
+      yedno krotnie, dał napismie odpowiedno obiasnienie,</l> <l>y kiedy <orgName ref="Литовский_надворный_суд"
+      >Sąd</orgName> Swoiemi Rezolucyami kwestye Stron wzglendem</l> <l>Swiadkow załatwił, Liczbę Onych rozdystyngwował,
+      Niektórych</l> <l>jako wSpolnikow Sprawy, od Swiadectwa usunął, Niektorych Stro</l>- <l>nie okazania pewnosci
+      dostoienstwa Onych wzglendem dopusz-</l> <l>czenia Jchże do Swiadectwa zaSwiadkow nieprzyioł – Osob tylo</l> <l
+      >Szesc przez ustronnych nie parcyalnych Obywateli zawartych</l> bydz do Swiadectwa dopuszczonych ogłoszonych
+      przyioł, zażą- <l>dał oraz <orgName ref="Литовский_надворный_суд">Sąd Nadworny</orgName> od W:<note place="end"
+      >Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName>, o przytomnosci One-</l> <l>go, przy wykonaniu
+      Juramentow, przez Swiadkow nawiernym</l> <l>ySprawiedliwym wyznaniu w tey Sprawie, y po kilkodnio-</l> <l>wym
+      odciąganiu się przez W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName>, Sąd
+      zaakceptowawszy</l> <l>Onych Jurament Jm wykonać kazał, y onyсhze wyexаmi-</l> <l>nował_ Miał zatym W:<note place=
+      "end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> Czasu dosyć w tak przeciągłym</l>
+    </p>
+    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-05-16">16 маiя</date>
+    </fw>
+    <signed place="right"><unclear>???</unclear></signed>
+    <pb n="450-2"/>
     <pb n="451-1"/>
     <pb n="451-2"/>
     <pb n="452-1"/>
