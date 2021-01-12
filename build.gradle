@@ -21,7 +21,7 @@ idea {
   }
 }
 
-final String opentorahVersion = '0.1.63'
+final String opentorahVersion = '0.1.64'
 
 description = '19 Kislev Archive'
 
@@ -40,11 +40,6 @@ repositories {
 dependencies {
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
   implementation "org.opentorah:opentorah-util:$opentorahVersion"
-
-  // TODO fixopentorah so that I do not need to manually add dependencies:
-  implementation "org.opentorah:opentorah-metadata:$opentorahVersion"
-  implementation "org.opentorah:opentorah-xml:$opentorahVersion"
-  implementation "dev.zio:zio_2.12:1.0.3"
 
   implementation 'org.scala-lang:scala-library:2.12.12'
   implementation 'com.google.cloud:google-cloud-storage:1.113.8'
