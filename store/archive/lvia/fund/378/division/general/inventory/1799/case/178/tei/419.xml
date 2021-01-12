@@ -1,90 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt>
-      <author/>
-      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
-      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-    </titleStmt></fileDesc>
-    <profileDesc>
-      <abstract><p>
-        Перевод с иврита на польский язык документа, свидетельствующего о воровстве <orgName ref="Виленский_кагал">
-        кагального</orgName> бегуна <persName>Еноха</persName>; в документе упоминается также бегун <persName ref=
-        "Мовша_Лейбович">Мовша Лейбович</persName>
-      </p></abstract>
-      <creation><date when="1800-04-04">4 апреля 1800 года</date></creation>
-    </profileDesc>
+    <fileDesc><titleStmt><author/>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor></titleStmt></fileDesc>
+    <profileDesc><creation><date when="1800-04-04">4 апреля 1800 года</date></creation>
+    <abstract><p>
+      Перевод с иврита на польский язык документа, свидетельствующего о воровстве <orgName ref="Виленский_кагал">
+      кагального</orgName> бегуна <persName>Еноха</persName>; в документе упоминается также бегун <persName ref=
+      "Мовша_Лейбович">Мовша Лейбович</persName>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="419-1"/>
     <fw type="pageNum" place="right">419</fw>
-    <fw type="note" place="left margin">Ис-</fw>
-    <head>
-      <l>Tłumaczenie Jnkwizycyi Expedyowaney w Hebrey</l>
-      <l>skim Języku Następne w Sobie Wyrazy maiącey</l>
-    </head>
-    <p>
-      <l>Zasiadłszy Samotrzec wjednym Komplecie, gdzie obecnie stanowszy przed</l>
-      <l>nami <persName>Kopel</persName> Biegun, y rzekł nam, temi Słowy – Ja już kilko razy</l>
-      <l>przypominałem ze <persName>Enoch</persName> Biegun ktoren się Jnteressuie wdostar-</l>
-      <l>czeniu Rekwizytow jako to Koni, swiecy, y dalszych</l>
-      <l>potrzeb pozytkuie na wszystkich Cenach, Teraz opowiem Waszeciom</l>
-      <l>w szczegulnosci kilka rzeczy Com sobie zakonotował co ja pewnie</l>
-      <l>wiedziałem. Podobniez kilka rzeczy których niemogłem tak dostate</l>
-      <l>cznie wywiedziec się, jednak wiem o tym ze on awantażował,</l>
-      <l>y <persName ref="Мовша_Лейбович">Mowsza Leybowcz</persName> Biegun także wie o niektore rzeczy – ato</l>
-      <l>jest Konotatka co mnie jest dostatecznie wiadomo y otym mozno</l>
-      <l>pytac ufurmanow ktorzy rownie Pamiętac będą – a to jest: od</l>
-      <l>Pierwszych Koni ktore się potrzebowali naprzejazd Nayiasnieyszey</l>
-      <l>Krolowey korzystował od Leyby Kominarza złłtych 17 gr. 10. od</l>
-      <l><persName>Josiela Furmana</persName> złłch 9.— od <persName>Szlomy Furmana</persName> złłych 40._</l>
-      <l>od <persName>Szymchy Furmana</persName> Złłch 24 gr. 16. — Jtem od tegoz <persName>Szymchy</persName></l>
-      <l>złłch 14. — od <persName>Jewela Furmana</persName> złłch 12. — w Ogule była ta</l>
-      <l>utayka Złłch 116. gr. 26. — Powtornie od Koni zapotrzebo-</l>
-      <l>wanych dla _ _ _ _ _ _ _<note place="end">пробел, выделенный подчеркиваниями</note> on ze pozytkował od</l>
-      <l><persName>Leyby Kominarza</persName> 21. złłch Jterum od tegoz złłch 6. — od <persName>Abra<lb/>
-       hama Furmana</persName> złłch 6.— od <persName>Jewela</persName> złłch 3. iterum od</l>
-      <l><persName>Abrahama</persName> złłch 13. gr.15. Od <persName>Mowszy Furmana</persName> złłch 3.</l>
-      <l>od <persName>Szymchy Furmana</persName> złłch 4.gr.15. Od <persName>Szlomy Furmana</persName></l>
-      <l>złłch 10. Tudziez podawał on do Rachunku Siano y owsa</l>
-      <l>dla Koni <note type="gloss">|: Co w samey rzeczy nie dawał :|</note> złłch 46. a w oguł</l>
-      <l>złłch 113._ Oraz Co był potrzebował Pan Suchocki powrocic</l>
-      <l>Pryhonu od kazdego Konia po Jednym Talaru y ze nalezało</l>
-      <l>od onego azeby ten pryhon powrocił do Kassy Kahalney, a</l>
-      <l><orgName ref="Виленский_кагал">Kahał</orgName> otym nie wiedział ze potrzeba powrocic pryhonu,</l>
-      <l>wzioł tedy Enoch od P. Suchockiego Sumę 290 złłch a</l>
-      <l>Reszta przy P<hi rend="superscript">u</hi> Suchockim została — Daley tez skoro już</l>
-      <l>obiawiłem ze <persName>Enoch</persName> korzystuie pusciłem tedy od 22 Koni</l>
-      <l>ktorych ja Sam przystawiłem azeby korzystał — z których</l>
-      <l>Zyskał 68 złłch y dał mnie kilka Rubli gdybym to nie</l>
-      <l>wyiawił a ja jednak obiawiłem. y Teraz opowiadam wszy</l>
-      <l>stko w szczagulnosci_ Niemniey z Swiec dostarczonych</l>
-      <l>brał od Swiecniarza naddatku na kazdy złłty po Gr. 6._ anigdy do</l>
-      <pb n="419-2"/>
-      <l>A nigdy do porachunku nie podawał – Co wszystko jak</l>
-      <l>wyzey wyrazono opowiedział przed nami Prawem Swiadectwa</l>
-      <l>Koleyno obecnie stanowszy przed nami <persName>Mowsza Biegun</persName> a</l>
-      <l>Opowiedział takiemy Słowy. Ja sam nie umiem pisac – Lecz</l>
-      <l>wiem Jz Kopel wszystko co można było dostatecznie wywie-</l>
-      <l>dziec się, Konotował, y jest to wszystko Prawda jak wyzey</l>
-      <l><persName>Kopel</persName> opowiedział._ Co wszystko jak wyzey wyrazono</l>
-      <l>Słyszelismy od obudwóch Biegunow y podług zwyczaiu do</l>
-      <l>tąd trwałego iz wszystkie Expedycye Jnkwizycyine odpra-</l>
-      <l>wuią się przez Szkolnikow za Zaleceniem Starszego Kahal-</l>
-      <l>nego prezyduiącego Zaczym podpisuiemy się Datt <date when="1800-04-04">Dnia 4<hi rend="superscript">o</hi><lb/>
-       Miesiący Apryla 1800 Roku</date>.</l>
-      <table><row>
-        <cell><emph rend="underline">podpisano</emph></cell>
-        <cell>
-          <l><persName ref="Мовша_Мордохович">Moyzesz Morduchowicz Mayzel</persName> Szkolnik <orgName ref=
-          "Виленский_кагал">Kah: Wilen.</orgName></l>
-          <l><persName>Naftol Hercyk Hirszowicz</persName> Szkolnik <orgName ref="Виленский_кагал">Kah: Wilen.</orgName>
-          </l>
-          <l><persName>Zyskin Berkowicz</persName></l>
-        </cell>
-      </row></table>
-      <l>Tłumaczył Syndyk <orgName ref="Виленский_кагал">Kahału Wilen</orgName> <persName ref="Еремиаш_Нохимович"
-      >Jeremiasz Nochimowicz</persName></l>
-    </p>
+    <fw type="note" place="left margin">Ис-</fw>									<head>			
+				<l>Tłumaczenie Jnkwizycyi Expedyowaney w Hebrey</l>
+				  <l>skim Języku Następne w Sobie Wyrazy maiącey</l>
+</head>
+<p>
+<l>Zasiadłszy Samotrzec wjednym Komplecie, gdzie obecnie stanowszy przed</l>
+    <l>nami <persName>Kopel</persName> Biegun, y rzekł nam, temi Słowy – Ja już kilko razy</l>
+    <l>przypominałem ze <persName>Enoch</persName> Biegun ktoren się Jnteressuie wdostar-</l>
+    <l>czeniu Rekwizytow jako to Koni, swiecy, y dalszych</l> 
+    <l>potrzeb pozytkuie  na wszystkich Cenach, Teraz opowiem Waszeciom</l>
+    <l>w szczegulnosci kilka rzeczy Com sobie zakonotował co ja pewnie</l>
+    <l>wiedziałem. Podobniez kilka  rzeczy których niemogłem tak dostate</l>
+    <l>cznie wywiedziec się, jednak wiem o tym ze on awantażował,</l>
+    <l>y <persName ref="Мовша_Лейбович">Mowsza Leybowcz</persName> Biegun także wie o niektore rzeczy – ato</l> 
+    <l>jest Konotatka co mnie jest dostatecznie wiadomo y otym mozno</l>
+    <l>pytac ufurmanow ktorzy rownie Pamiętac będą – a to jest: od</l>
+    <l>Pierwszych Koni ktore się potrzebowali naprzejazd Nayiasnieyszey</l>
+    <l>Krolowey korzystował od Leyby Kominarza złłtych<note place="end">здесь и далее - Złotych</note> 17 gr.<note place="end">здесь и далее - Groszy</note> 10. od</l>
+    <l><persName>Josiela Furmana</persName> złłch 9.— od <persName>Szlomy Furmana</persName> złłych 40._</l>
+     <l>od <persName>Szymchy Furmana</persName> Złłch 24 gr. 16. — Jtem<note place="end">item (лат.) - "также"</note> od tegoz <persName>Szymchy</persName></l>
+    <l>złłch 14. — od <persName>Jewela Furmana</persName> złłch 12. — w Ogule była ta</l>
+    <l>utayka Złłch 116. gr. 26. — Powtornie od Koni zapotrzebo-</l>
+    <l>wanych dla _ _ _ _ _ _ _<note place="end">пробел, выделенный подчеркиваниями</note> on ze pozytkował od</l>
+    <l><persName>Leyby Kominarza</persName> 21. złłch Jterum<note place="end">iterum (лат.) – "снова", "то же самое"</note> od tegoz złłch 6. — od <persName>Abra<lb/>
+    hama Furmana</persName>  złłch 6.— od <persName>Jewela</persName> złłch 3. iterum od</l>  
+    <l><persName>Abrahama</persName> złłch 13. gr.15. Od <persName>Mowszy Furmana</persName> złłch 3.</l>
+    <l>od <persName>Szymchy Furmana</persName> złłch 4.gr.15. Od <persName>Szlomy Furmana</persName></l>
+    <l>złłch 10. Tudziez podawał on do Rachunku Siano y owsa</l>
+    <l>dla Koni <note type="gloss">|: Co w samey rzeczy nie dawał :|</note> złłch 46. a w oguł</l>
+    <l>złłch 113._ Oraz Co był potrzebował Pan Suchocki powrocic</l>
+    <l>Pryhonu od kazdego Konia po Jednym Talaru y ze nalezało</l> 
+    <l>od onego azeby ten pryhon powrocił do Kassy Kahalney, a</l>
+    <l><orgName ref="Виленский_кагал">Kahał</orgName> otym nie wiedział ze potrzeba powrocic pryhonu,</l>
+    <l>wzioł tedy Enoch od P. Suchockiego Sumę 290 złłch a</l>
+    <l>Reszta przy P<hi rend="superscript">u</hi><note place="end">Panu</note> Suchockim została — Daley tez skoro już</l>
+    <l>obiawiłem ze <persName>Enoch</persName> korzystuie pusciłem tedy od 22 Koni</l>
+    <l>ktorych ja Sam przystawiłem azeby korzystał — z których</l>
+    <l>Zyskał 68 złłch y dał mnie kilka Rubli gdybym to nie</l>
+    <l>wyiawił a ja jednak obiawiłem. y Teraz opowiadam wszy</l>
+    <l>stko w szczagulnosci_ Niemniey z Swiec dostarczonych</l>
+    <l>brał od Swiecniarza naddatku na kazdy złłty po Gr. 6._ anigdy do</l>
+ <pb n="419-2"/>
+    
+        <l>A nigdy do porachunku nie podawał – Co wszystko jak</l>
+    <l>wyzey wyrazono opowiedział przed nami Prawem Swiadectwa</l>
+    <l>Koleyno obecnie stanowszy przed nami <persName>Mowsza Biegun</persName> a</l>
+    <l>Opowiedział takiemy Słowy. Ja sam nie umiem pisac – Lecz</l>
+    <l>wiem Jz Kopel wszystko co można było dostatecznie wywie-</l>
+    <l>dziec się, Konotował, y jest to wszystko Prawda jak wyzey</l>
+    <l><persName>Kopel</persName> opowiedział._ Co wszystko jak wyzey wyrazono</l>
+    <l>Słyszelismy od obudwóch Biegunow y podług zwyczaiu do</l>
+    <l>tąd trwałego iz wszystkie Expedycye Jnkwizycyine odpra-</l>
+    <l>wuią się przez Szkolnikow za Zaleceniem Starszego Kahal-</l>
+    <l>nego prezyduiącego Zaczym podpisuiemy się Datt <date when="1800-04-04">Dnia 4<hi rend="superscript">o</hi><lb/> 
+    Miesiący Apryla 1800 Roku</date>.</l>
+    <table><row><cell><emph rend="underline">podpisano</emph></cell>
+    <cell>
+    <l><persName ref="Мовша_Мордохович">Moyzesz Morduchowicz Mayzel</persName> Szkolnik <orgName ref="Виленский_кагал">Kah: Wilen.</orgName><note place="end">Kahału Wilenskiego</note></l> 
+	  <l><persName>Naftol Hercyk Hirszowicz</persName> Szkolnik <orgName ref="Виленский_кагал">Kah: Wilen.</orgName><note place="end">Kahału Wilenskiego</note></l> 
+	                  <l><persName>Zyskin Berkowicz</persName></l>
+    </cell></row></table>
+              <l>Tłumaczył Syndyk <orgName ref="Виленский_кагал">Kahału Wilen<note place="end">Wilenskiego</note></orgName> <persName ref="Еремиаш_Нохимович">Jeremiasz Nochimowicz</persName></l>
+              <l><signed><unclear>???</unclear></signed></l> 
+			</p>			   	           
   </body></text>
 </TEI>
