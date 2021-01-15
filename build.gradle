@@ -21,7 +21,7 @@ idea {
   }
 }
 
-final String opentorahVersion = '0.1.64'
+final String opentorahVersion = '0.1.66'
 
 description = '19 Kislev Archive'
 
@@ -41,8 +41,8 @@ dependencies {
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
   implementation "org.opentorah:opentorah-util:$opentorahVersion"
 
-  implementation 'org.scala-lang:scala-library:2.12.12'
-  implementation 'com.google.cloud:google-cloud-storage:1.113.8'
+  implementation 'org.scala-lang:scala-library:2.13.4'
+  implementation 'com.google.cloud:google-cloud-storage:1.113.9'
   compileOnly    'org.slf4j:slf4j-api:1.7.30'
 }
 

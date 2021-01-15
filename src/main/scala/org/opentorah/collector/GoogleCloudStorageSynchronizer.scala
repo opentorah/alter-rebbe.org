@@ -11,7 +11,7 @@ import java.io.File
 import java.net.URLConnection
 import java.nio.ByteBuffer
 import scala.annotation.tailrec
-import scala.collection.JavaConverters.iterableAsScalaIterableConverter
+import scala.jdk.CollectionConverters.IterableHasAsScala
 
 // documentation: https://github.com/googleapis/java-storage
 final class GoogleCloudStorageSynchronizer private(
@@ -85,7 +85,7 @@ final class GoogleCloudStorageSynchronizer private(
       .filter { case (_   , file) => !file.isDirectory }
       .filter { case (blob, file) => file.lastModified() > blob.getUpdateTime }
       .filter { case (blob, file) => blob.getCrc32cToHexString !=
-        Strings.bytes2hex(Hashing.crc32c.hashBytes(Files.readFile(file)).asBytes.reverse)
+        Strings.bytes2hex(Hashing.crc32c.hashBytes(Files.readFile(file)).asBytes.toIndexedSeq.reverse)
       }
       .sortBy { case (blob, _   ) => blob.getName }
     log(s"Found ${toUpdate.length} blobs to update")

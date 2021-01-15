@@ -45,6 +45,7 @@ object Main {
 
     info("Writing New Generation Site.")
     siteNg.writeLists()
+    siteNg.verify()
 
     if (doPrettyPrint) {
       info("Pretty-printing store.")
