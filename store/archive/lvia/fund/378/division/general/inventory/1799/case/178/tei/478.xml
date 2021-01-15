@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-      </titleStmt></fileDesc>
-    <profileDesc><creation><date when="1800-06-22">Между 13 и 22 июня 1800 года</date></creation>
-    <abstract>Текст присяги, принесенной свидетелями по делу - на польском языке</abstract></profileDesc>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract>Текст присяги, принесенной свидетелями по делу - на польском языке</abstract>
+      <creation><date when="1800-06-22">Между 13 и 22 июня 1800 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="478-1"/>
     <fw type="pageNum" place="right">478.</fw>
-    <fw type="note" place="left margin">Се-</fw>							<head>Rota Przysięgi._</head>
-<p>
-<l>Ja nizey mianowany, przysięgam Panu Bogu wszechmogącemu, któ-</l>
-<l>ry stworzył Niebo, Ziemie y wszystkie Ƶywioły na swiecie, oraz</l> 
-<l>nasz zakon Ƶydowski ustanowił, natym że w tey sprawie, do któ-</l>
-<l>rey zwokowany iestem na swiadectwo, mam wyznać samą istotną</l>
-<l>prawdę, com tylko sam widział, lub słyszał, nic nietaiąc, ni dla –</l> 
-<l>pokrewieństwa, ni przyjazni, ni dla uszkodzenia, lub korzyści,</l>
-<l>ani dla iakich kolwiek datkow. Naczem jako sprawiedliwie</l>
-<l>przysięgam, tak mi Boże dopomoż, aieżeli niesprawiedliwie</l>
-<l>przysięgam, Boże mię Ubij na Duszy y Ciele._ Секретарь</l>
-					<l>= <persName>Павелъ Искрицкий</persName></l>
- Посей присягѣ присягали      
-<l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
-<l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
-<l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
-<l>był przytomny przy prowadzeniu Szkolnikow do przysięgi, Syndyk <orgName ref="Виленский_кагал">Kahału<lb/>
-				           Wilen<note place="end">Wilenskiego</note></orgName> <persName ref="Еремиаш_Нохимович">Jeremiasz Nochimowicz</persName></l>
-<l>При приводѣ къ сей присягѣ находился_</l>
-<l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
- </p>
-<fw type="note" place="lower margin">
-<l>При приводѣ къ сей присягѣ находился_</l>
-  <l>Aсессоръ   францишекъ Верещакa</l></fw>  
-<pb n="478-2" missing="true" empty="true"/>
+    <fw type="note" place="left margin">Се-</fw>
+    <head>Rota Przysięgi._</head>
+    <p>
+      <l>Ja nizey mianowany, przysięgam Panu Bogu wszechmogącemu, któ-</l> <l>ry stworzył Niebo, Ziemie y wszystkie
+      Ƶywioły na swiecie, oraz</l> <l>nasz zakon Ƶydowski ustanowił, natym że w tey sprawie, do któ-</l> <l>rey
+      zwokowany iestem na swiadectwo, mam wyznać samą istotną</l> <l>prawdę, com tylko sam widział, lub słyszał, nic
+      nietaiąc, ni dla –</l> <l>pokrewieństwa, ni przyjazni, ni dla uszkodzenia, lub korzyści,</l> <l>ani dla iakich
+      kolwiek datkow. Naczem jako sprawiedliwie</l> <l>przysięgam, tak mi Boże dopomoż, aieżeli niesprawiedliwie</l> <l
+      >przysięgam, Boże mię Ubij na Duszy y Ciele._ Секретарь</l> <l>= <persName>Павелъ Искрицкий</persName></l> Посей
+      присягѣ присягали <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l> <l>
+      <signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l> <l><signed><unclear
+      >???</unclear><note place="end">подпись на иврите</note></signed></l> <l>był przytomny przy prowadzeniu Szkolnikow
+      do przysięgi, Syndyk <orgName ref="Виленский_кагал">Kahału<lb/>
+       Wilen<note place="end">Wilenskiego</note></orgName> <persName ref="Еремиаш_Нохимович">Jeremiasz
+      Nochimowicz</persName></l> <l>При приводѣ къ сей присягѣ находился_</l> <l><signed><unclear>???</unclear><note
+      place="end">подпись на иврите</note></signed></l>
+    </p>
+    <fw type="note" place="lower margin">
+      <l>При приводѣ къ сей присягѣ находился_</l>
+      <l>Aсессоръ францишекъ Верещакa</l>
+    </fw>
+    <pb n="478-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
