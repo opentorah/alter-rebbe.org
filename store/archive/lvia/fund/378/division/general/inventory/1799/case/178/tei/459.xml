@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/>
-    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -18,45 +19,54 @@
   <text xml:lang="pl"><body>
     <pb n="459-1"/>
     <fw type="pageNum" place="right">459</fw>
- <head>                                                                                  <p>                                                                                    <l>Excerpt Oswiadczenja<note place="end">слово записано поверх вымаранного</note> z Protokołu Grodz Poll. Wilen.<note place="end">Grodzkiey Pollicyi Wilenskiey</note></l> <l>wdacie nizey piszącey się uczynionego tegoz Czasu pod-</l>
-<l>pieczęcią Grodzką Poll. Wilen.<note place="end">Pollicyi Wilenskiey</note> iest wydan._</l>
-</p>
-<p>
-<l><date when="1800-05-04">Roku Tysiąc Osmsetnego Maia Czwartego<lb/>
-Dnia._</date></l>
-</p>
-</head>
-<p>
-<l>Oswiadczenie niżey własnymi Rękoma po Hebreysku pod</l>
-<l>pisuiących się na Starozakonnych <persName>Zelmana Aronowicza</persName>, <persName>Abrahama<lb/>
-Jankielowicza</persName> y <persName>Morducha Leyzerowicza</persName> oraz dalszych w tym sposobie.</l>
-<l>Jż wczasie przybycia JW<note place="end">Jaśnie Wielmożnego</note> <persName ref="Капцевич">Kapcewicza</persName> Generała y Komendanta Wilen:<note place="end">Wilenskiego</note></l> 
-<l>oraz WW:<note place="end">Wielmożnych</note> <persName ref="Елиашевич">Eliaszewicza</persName> Sowietnika Gubernij Litkiey<note place="end">Littewskiey</note> y Kaznoczeja</l>
-<l>Serbinowicza do Szkoły Ƶydowskiey Wielkiey<note place="end">Wilenskiey</note> Wilen dla uczynienia</l>
-<l>zadość swoiey Dellegacyi <date when="1799-02-??">w Miesiącu Februaryi Tysiąc Siedemset Dziewię<lb/>
-dziesiątt Dziewiątego Roku</date> wowczac Obtlnj<note place="end">Obywatele</note> stali razem z niżey piszą</l>
-<l><unclear>ce</unclear>mi się ydalszemi Ƶydami na Szkolnym Dworze aż dowyiścia y roz</l>
-<l>iechania się wyż<note place="end">wyżey</note> wyrażonych JW<note place="end">Jaśnie Wielmożnego</note> <persName ref="Капцевич">Kapcewicza</persName> Generała y Komendanta</l>
-<l>WW:<note place="end">Wielmożnych</note> <persName ref="Елиашевич">Eliaszewicza</persName> Sowietnika y Kaznoczeja, Serbinowicza, po</l>
-<l>roziechaniusię Których Obtlni<note place="end">Obywatele</note> zniżey piszącemi się y dalszemi Ƶydami</l>
-<l>porozchodzili się do swoich mieszkań_ Dopiero gdy zpowodu</l>
-<l>ciągnącego się Sledztwa <orgName ref="Литовский_надворный_суд">w Sądzie Nadwornym Littm<note place="end">Littewskim</note></orgName> ciż Obtl<note place="end">Obywatele</note></l> 
-<l>są użyci do przyswiadczenia jakoby w czasie znaydowaniasię</l>
-<l>W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Eliaszewicza</persName> Sowietnika w Szkole Ƶydowskiey miało Stać się</l>
-<l>pokrzywdzenie Ƶydowi <persName ref="Мовша_Ошерович">Moyzeszowi Oszerowiczowi</persName> Obywatelowi</l>
-<l>Willen:<note place="end">Wilenskiemu</note> Przeto ninieyszym Oswiadczeniem niżey podpisani ogła</l>
-<l>szamy Jż Obl<note place="end">Obywatele</note> niemogą bydz przyięci za Swiadkow dlatego,</l>
-<l>co się działo wtenczas w Szkole Ƶydowskiey gdy Oblt:<note place="end">Obywatele</note> razem</l>
-<l>zniżey piszącemi się ydalszemi Ƶydami znaydowali się na Dwo-</l>
-<l>rze Szkolnym y wtym porządku one do zapisania w Akta pub-</l>
-<l>ljczne podaią_ Utego Oswiadczenia podpisy Aktorow po hebray</l>
-<l>sku takowe_ <persName>Jcko Markowicz</persName> <persName>Hirsz Syn Eliasza</persName> <persName>Beniamin Jan<lb/>
-kielowicz</persName> <persName>Jcko Wollfowicz</persName>._</l>
-                                    <l>Posz y Pieczę Kop 52</l>
-		<l><signed>Conundatum Xię. Wołłodko SyRGw</signed></l>
+    <head>
+      <p>
+        <l>Excerpt Oswiadczenja<note place="end">слово записано поверх вымаранного</note> z Protokołu Grodz Poll.
+        Wilen.<note place="end">Grodzkiey Pollicyi Wilenskiey</note></l>
+        <l>wdacie nizey piszącey się uczynionego tegoz Czasu pod-</l>
+        <l>pieczęcią Grodzką Poll. Wilen.<note place="end">Pollicyi Wilenskiey</note> iest wydan._</l>
+      </p>
+      <p><l><date when="1800-05-04">Roku Tysiąc Osmsetnego Maia Czwartego<lb/>
+         Dnia._</date></l></p>
+    </head>
+    <p>
+      <l>Oswiadczenie niżey własnymi Rękoma po Hebreysku pod</l>
+      <l>pisuiących się na Starozakonnych <persName>Zelmana Aronowicza</persName>, <persName>Abrahama<lb/>
+       Jankielowicza</persName> y <persName>Morducha Leyzerowicza</persName> oraz dalszych w tym sposobie.</l>
+      <l>Jż wczasie przybycia JW<note place="end">Jaśnie Wielmożnego</note> <persName ref="Капцевич"
+      >Kapcewicza</persName> Generała y Komendanta Wilen:<note place="end">Wilenskiego</note></l>
+      <l>oraz WW:<note place="end">Wielmożnych</note> <persName ref="Елиашевич">Eliaszewicza</persName> Sowietnika
+      Gubernij Litkiey<note place="end">Littewskiey</note> y Kaznoczeja</l>
+      <l>Serbinowicza do Szkoły Ƶydowskiey Wielkiey<note place="end">Wilenskiey</note> Wilen dla uczynienia</l>
+      <l>zadość swoiey Dellegacyi <date when="1799-02-??">w Miesiącu Februaryi Tysiąc Siedemset Dziewię<lb/>
+       dziesiątt Dziewiątego Roku</date> wowczac Obtlnj<note place="end">Obywatele</note> stali razem z niżey piszą</l>
+      <l><unclear>ce</unclear>mi się ydalszemi Ƶydami na Szkolnym Dworze aż dowyiścia y roz</l>
+      <l>iechania się wyż<note place="end">wyżey</note> wyrażonych JW<note place="end">Jaśnie Wielmożnego</note>
+      <persName ref="Капцевич">Kapcewicza</persName> Generała y Komendanta</l>
+      <l>WW:<note place="end">Wielmożnych</note> <persName ref="Елиашевич">Eliaszewicza</persName> Sowietnika y
+      Kaznoczeja, Serbinowicza, po</l>
+      <l>roziechaniusię Których Obtlni<note place="end">Obywatele</note> zniżey piszącemi się y dalszemi Ƶydami</l>
+      <l>porozchodzili się do swoich mieszkań_ Dopiero gdy zpowodu</l>
+      <l>ciągnącego się Sledztwa <orgName ref="Литовский_надворный_суд">w Sądzie Nadwornym Littm<note place="end"
+      >Littewskim</note></orgName> ciż Obtl<note place="end">Obywatele</note></l>
+      <l>są użyci do przyswiadczenia jakoby w czasie znaydowaniasię</l>
+      <l>W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Eliaszewicza</persName> Sowietnika w Szkole
+      Ƶydowskiey miało Stać się</l>
+      <l>pokrzywdzenie Ƶydowi <persName ref="Мовша_Ошерович">Moyzeszowi Oszerowiczowi</persName> Obywatelowi</l>
+      <l>Willen:<note place="end">Wilenskiemu</note> Przeto ninieyszym Oswiadczeniem niżey podpisani ogła</l>
+      <l>szamy Jż Obl<note place="end">Obywatele</note> niemogą bydz przyięci za Swiadkow dlatego,</l>
+      <l>co się działo wtenczas w Szkole Ƶydowskiey gdy Oblt:<note place="end">Obywatele</note> razem</l>
+      <l>zniżey piszącemi się ydalszemi Ƶydami znaydowali się na Dwo-</l>
+      <l>rze Szkolnym y wtym porządku one do zapisania w Akta pub-</l>
+      <l>ljczne podaią_ Utego Oswiadczenia podpisy Aktorow po hebray</l>
+      <l>sku takowe_ <persName>Jcko Markowicz</persName> <persName>Hirsz Syn Eliasza</persName> <persName>Beniamin
+      Jan<lb/>
+       kielowicz</persName> <persName>Jcko Wollfowicz</persName>._</l>
+      <l>Posz y Pieczę Kop 52</l>
+      <l><signed>Conundatum Xię. Wołłodko SyRGw</signed></l>
     </p>
     <fw type="note" place="lower margin">Excerpt Oswadczenia Ut Supra_</fw>
-  <pb n="459-2"/>
-    <fw type="note" place="right">виленский уѣздный казначей</fw> 
-   </body></text>
+    <pb n="459-2"/>
+    <fw type="note" place="right">виленский уѣздный казначей</fw>
+  </body></text>
 </TEI>
