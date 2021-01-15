@@ -2,6 +2,7 @@ package org.opentorah.collector
 
 import org.slf4j.{Logger, LoggerFactory}
 import java.io.File
+import java.net.URL
 
 object Main {
 
@@ -35,7 +36,7 @@ object Main {
     doPrettyPrint: Boolean,
     doWrite: Boolean
   ): Unit = {
-    val baseUrl = new File(siteRootPath).toURI.toURL
+    val baseUrl: URL = new File(siteRootPath).toURI.toURL
 
     info("Reading store.")
     val site: Site = new Site(baseUrl)
