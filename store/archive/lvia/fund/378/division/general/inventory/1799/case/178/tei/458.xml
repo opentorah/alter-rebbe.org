@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt>
-      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
-      <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+    <fileDesc><titleStmt><author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
-    </titleStmt></fileDesc>
+      </titleStmt>
+    </fileDesc>
     <profileDesc>
       <abstract><p>
         Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> в <orgName ref="Литовский_надворный_суд"
-        >Литовский надворный суд</orgName> об отводе свидетелей, представленных <persName ref="Елиашевич"
-        >Елиашевичем</persName>
+        >Литовский надворный суд</orgName> об отводе свидетелей, представленных <persName ref="Елиашевич">Елиашевичем</persName>
       </p></abstract>
       <creation><date when="1800-05-22">22 мая 1800 года</date></creation>
     </profileDesc>
@@ -18,39 +17,37 @@
   <text xml:lang="pl"><body>
     <pb n="458-1"/>
     <fw type="docNum" place="left">N 317</fw>
-    <fw type="note">Подано <date when="1800-05-22">22<hi rend="superscript">го</hi> маiя 1800<hi rend="superscript"
-    >го</hi> года</date>.</fw>
-    <fw type="pageNum" place="right">458.</fw>
-    <head>
-      <l>Do</l>
-      <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
-      <l>od</l>
-      <l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Kupca Wilenskiego</l>
-      <l>Prozba.</l>
-    </head>
-    <p>
-      <l>Dla lepszego okazania Jntryg przeciwko mnie czynią-</l>
-      <l>cychsię Oraz dla przekazania <orgName ref="Литовский_надворный_суд">Sądowego</orgName> ze Osoby do</l>
-      <l>Swiadectwa przez W. Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName> wezwani</l>
-      <l>nie jako Swiadkowie <note type="gloss">|: którzy wedla Prawa Zadney Par-<lb/>
-       cyalności zSiebie okazać nie powinni :|</note> Lecz jako Stro-</l>
-      <l>na postępuią – Gdyż niewiedząc zczyiego nufomento-</l>
-      <l>wania, w piętnascie miesięcy po Akcyi, Osmielilisię</l>
-      <l>Sami niby przez się Obmanifestować Swiadkow ze Stro-</l>
-      <l>ny moiey Stawjonych, aztego y parcyalność Onych</l>
-      <l>Swiadkow z Strony W. <persName ref="Елиашевич">Sowietnika</persName> wezwa-</l>
-      <l>nych powodu Ƶadnego do Manifestu niemaiących</l>
-      <l>wywiązuie się. Przeto Wyiowszy z Kancellaryi Grodzkiey</l>
-      <l>Wilen takowego Manifestu Excerpt: którego pod Datą</l>
-      <l>wnim wyrazoną Składam, Smiem prosić <orgName ref="Литовский_надворный_суд">uSądu</orgName></l>
-      <l>o usunienie tych partyzantów niezaś Swiadkow</l>
-      <l>od Swiadectwa jako własnym Manifestu parcy-</l>
-      <l>alność zSiebie okazujących, oCo prosząc podpisu</l>
-      <l>ię się <date when="1800-05-22">22: maja 1800 roku</date>_</l>
-      <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
-    </p>
-    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-05-23">23<hi rend=
-    "superscript">го</hi> маiя</date></fw>
-    <pb n="458-2" missing="true" empty="true"/>
+           		<fw type="note">Подано <date when="1800-05-22">22<hi rend="superscript">го</hi> маiя 1800<hi rend="superscript">го</hi> года</date>.</fw>	<fw type="pageNum" place="right">458.</fw>
+ <fw type="note" place="left margin">велъ</fw>              
+<head>
+                                     <l>Do</l> 
+<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
+		<l>od</l> 
+<l><persName ref="Мовша_Ошерович">Moyzesza Oszerowicza</persName> Kupca Wilenskiego</l>
+				           <l>Prozba.</l>
+                                           </head>
+<p>                                                      
+<l>Dla lepszego okazania Jntryg przeciwko mnie czynią-</l>
+<l>cychsię Oraz dla przekazania <orgName ref="Литовский_надворный_суд">Sądowego</orgName> ze Osoby do</l> 
+<l>Swiadectwa przez W.<note place="end">Wielmożnego</note> Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName> wezwani</l> 
+<l>nie jako Swiadkowie <note type="gloss">|: którzy wedla Prawa Zadney Par-<lb/>
+cyalności zSiebie okazać nie powinni :|</note> Lecz jako Stro-</l>
+<l>na postępuią – Gdyż niewiedząc zczyiego nufomento-</l>
+ <l>wania, w piętnascie miesięcy po Akcyi, Osmielilisię</l> 
+<l>Sami niby przez się Obmanifestować Swiadkow ze Stro-</l>
+<l>ny moiey Stawjonych, aztego y parcyalność Onych</l> 
+<l>Swiadkow z Strony W.<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName> wezwa-</l>
+<l>nych powodu Ƶadnego do Manifestu niemaiących</l>
+<l>wywiązuie się. Przeto Wyiowszy z Kancellaryi Grodzkiey</l>
+<l>Wilen<note place="end">Wilenskiey</note> takowego Manifestu Excerpt: którego pod Datą</l>
+<l>wnim wyrazoną Składam, Smiem prosić <orgName ref="Литовский_надворный_суд">uSądu</orgName></l> 
+<l>o usunienie tych partyzantów niezaś Swiadkow</l> 
+<l>od Swiadectwa jako własnym Manifestu parcy-</l>
+<l>alność zSiebie okazujących, oCo prosząc podpisu</l>
+<l>ię się <date when="1800-05-22">22: maja 1800 roku</date>_</l>
+  <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>                                                        
+</p>
+<fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-05-23">23<hi rend="superscript">го</hi> маiя</date></fw>    
+  <pb n="458-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
