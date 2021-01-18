@@ -2,7 +2,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author><persName><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></persName></author>
-    </titleStmt></fileDesc>
+    <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
+      </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
         Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName>, поданное в <orgName ref=
@@ -13,8 +15,114 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="468-1"/>
+    
+    <fw type="docNum" place="left">N 3??<note place="end">обрыв листа, номер нечитабелен</note></fw>                                               <fw type="note">Подано <date when="1800-05-31">31 маiя 1800 года</date>.</fw> 
+    <fw type="pageNum" place="right">468.</fw>
+    <fw type="note" place="left margin">криц</fw>
+ <head>   
+<l>Do</l>
+<l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
+<l>od</l> 
+<l><persName ref="Мовша_Ошерович">Moyżesza Oszerowicza</persName> Obywatela Wileńskiego</l>
+<l>Odpowiednia Explikacya</l>
+</head>
+<p>
+<l>Ponieważ <date when="1800-05-22">w Dniu 25<hi rend="superscript">m </hi>Maja</date> odebrałem Zalecenie w Kancellaryi</l>
+   <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego</orgName>, abym dalsze dowody względem niemożności</l>
+   <l>do puszczenia do Swiadectwa Czterech Osob, idg <persName>Jcki Mordu-<lb/>
+   chowicza</persName>, <persName>Hirszy Syna Eliasza</persName>, <persName>Beniamina Jankielowicza</persName></l>
+   <l>y <persName>Jcki Wolfowicza</persName>, przez W:<note place="end">Wielmożnego</note> Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName> do Swia-</l>
+   <l>dectwa wezwanych Złozył: Skutkiem czego odwołując się do po-</l>
+   <l>przedniego Obiasnienia Co do Tego Jnteresu podanego, nie-</l>   
+   <l>mogę wewszytkim przeciw ko tym Czterem Osobom Zło-</l>
+    <l>żyć dowodow, gdyż opisałem w poprzedniczym Obja-</l>
+   <l>snieniu, że <persName>Jckow Morduchowiczow</persName> iest w Wilnie dosyć; trzeba</l>
+   <l>zatym aby W:<note place="end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> fixe napisał; ktoren <persName>Jcko</persName> pod-</l>
+   <l>którym Nm On teraz mieszka, w owczas będąc zupełnie</l>
+   <l>powiadomionym którego do Swiadectwa wzywa y będę</l> 
+   <l>miał Zręczność przeciwto takowey Osobie Złożyć pewne</l>
+   <l>dowody iesli te dowody Do Onego Stosowaćsię będą_</l>
+    </p>
+    <p>
+<l>Drugi zaś <persName>Hirsz Syn Eliasza</persName> takoż nie jeden <note type="gloss">|: jak w poprzed-<lb/>
+   niczym Obiasnieniu Opisałem :|</note> w Mieście znajduie się, po</l> 
+   <l>Opisaniu przez W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName> takoż gdzie pod którym</l> 
+   <l>Nm mieszka, złożę Co do Jego Osoby Stosowne dowody_</l>
+   </p>
+    <p>
+<l>Co do <persName>Beniamina Jankielowicza</persName> y <persName>Jcki Wólfowicza</persName> dowie-</l>
+   <l>dziawszysię niedawno że <persName>Boniaminow Jankielowiczow</persName></l>
+   <l><persName>yJckow Wólfowiczow</persName> jest takoż kilku w Wilnie, albowiem</l>
+   <l>ieden <persName>Beniamin Jankielowicz</persName> mieszka przy Oyen w Kamie-</l>
+   <l>nicy W:<note place="end">Wielmożney</note> Czuchowiczowey Sendziny Ziemskiey Oszmion<note place="end">Oszmianey</note> na</l> 
+   <l>Ƶmudzkiey Ulicy, Drugi mieszka w Kamienicy Prezydenta</l> 
+   <l><persName>Koziełła</persName> obok <persName>Ogińskiego</persName> Pałacu, y więcey takich w mie-</l>
+   <l>ście znaleźć się może; <persName>Jcko zaś Wólfowicz</persName> ieden przemieszkiwa</l>  
+<fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-06-04">4<hi rend="superscript">го</hi> июня</date></fw>
     <pb n="468-2"/>
-    <pb n="469-1"/>
+   <l>przemieszkiwa niedawno w <placeName ref="Вильна">Wilnie</placeName>, Rodem z <placeName ref="Ляховичи">Lachowicz</placeName>, Drugi</l>
+   <l><persName>Jcko Wólfowicz</persName> Krawiec_ Skoro zatym W:<note place="end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> Obiasni</l> 
+   <l><orgName ref="Литовский_надворный_суд">Sąd</orgName>, którego z nich do Swiadectwa wzywa, nieomieszkam w</l>
+   <l>Owczas przeciwko Onym złożyć Dowody – Tym Czasem raczy</l> 
+   <l><orgName ref="Литовский_надворный_суд">Sąd Nadworny</orgName> Finalną Dać Rezolucyę, czy mogą Osoby</l>
+   <l>w takim przezwisku bydz w tey Sprawie do puszczonemi</l> 
+   <l>Do  Swiadectwa, kiedy Oni <date when="1800-05-04">w Dniu 4. Maja 1800 Roku</date></l>
+   <l>Okazali się bydz Stroną, anie Swiadkami gdyż nie ma</l>
+   <l>tey Praktyki naSwiecie żeby iedney Strony Swiadkowie obma-</l>
+   <l>nifestowali Swiadakow ze Strony Drugiey podanych, NaCoż tu</l>
+   <l>lepszego Dowodu trzeba? Jak złożony Manifest przez któren</l>
+   <l>Cała Jntryga już się wyświeciła, y czy możesz taki Swiadek</l>
+   <l>do puszczony, któren pierwiey to, o Co ma Swiadczyć, wAk-</l>
+   <l>tach Publicznych Ojawił, Jesliby nie miał wtym pry-</l>
+   <l>watnego Jnteresu, albo z cudzego nafomentowania; to –</l> 
+   <l>Opisawszy Smiem prosić uSądu o wyrezalwowanie Prozby</l> 
+   <l>przeze mnie podaney <date when="1800-05-22">wDniu 22. Maja</date> względem wspomnjo-</l>
+   <l>nych Swiadkow; aJezlibysię <orgName ref="Литовский_надворный_суд">Sądowi</orgName> zdało <note type="gloss">|: czegosię nie-<lb/>
+   spodziewam :|</note> ten Obich uchylić, zechce <orgName ref="Литовский_надворный_суд">Sąd</orgName> zarekwiro-</l>
+   <l>wać od W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName> o przedstawienie Sądowi w</l> 
+   <l>pewnym Opisaniu pod którym Nm wezwani przez</l>
+   <l>Onego Swiadkowie mieszkają apo Objawieniu mnie</l> 
+   <l>złożę przeciwko Onym jakie będę miał Dowody_</l> 
+   </p>
+   <p>
+<l>Co się tyczy do przezwisk dwuch Szkolnikow, o którch</l>
+   <l>odebrałem Zalecenie o do niesieniu Onych, naSkutek</l> 
+   <l>czego opisuię teraz Jmiona y Przezwiska wszystkich</l> 
+   <l>Czterech Kahalnych Szkolnikow. 1<hi rend="superscript">o</hi> <persName>Jcko Leybowicz</persName></l> 
+   <l>2<hi rend="superscript">o</hi> <persName ref="Мовша_Ошерович">Moyżesz Oszerowicz</persName>, 3<hi rend="big">o</hi> <persName>Moyżesz Morduchowicz</persName>, 4<hi rend="superscript">o</hi> <persName>Hercyk<lb/>
+   Hirszowicz</persName>. – To zaś mam Sobie za Obowiązek przypo-</l>
+   <l>mnieć <orgName ref="Литовский_надворный_суд">Sądowi</orgName> że Ja tych Szkolnkow do Swiadectwa ze</l> 
+<pb n="469-1"/>
+    <fw type="pageNum" place="right">469</fw>
+     <fw type="note" place="left margin">кій</fw> 
+     <fw type="note" place="left margin"><l>Maja 31<hi rend="superscript">o</hi><lb/>
+    1800. Roku</l></fw>
+   <l>ze Strony Moiey nie wzywałem y nie wzywam, Bu-</l>
+   <l>rzyć zaś <persName>Moyżesza Aronowicza</persName>, y <persName>Jcki Leybowicza</persName></l>
+   <l>niemam przyczyny, <persName>Hercyka Hirszowicza</persName> nie-</l>
+   <l>burzyłbym takoż gdyby ten do Swiadectwa prze-</l>
+   <l>ciwko <persName>Enochowi</persName> Swiadkiem moiem nie pisał się</l>
+   <l>razem <persName ref="Мовша_Мордохович">zMoyżeszem Morduchowiczem</persName> <orgName ref="Хасиды">Karolinem</orgName></l>
+   <l>Lecz y to mówić nie przestaię, Co w poprzedniczym</l> 
+   <l>Obiasnieniu Opisałem, że W:<note place="end">Wielmożny</note> <persName ref="Елиашевич">Sowietnik</persName> wezwał</l>
+   <l>tylko te Osoby, dla zwłóki y zamitrężenia w</l> 
+   <l>Ukonczeniu Sledztwa, Wczym wszystkim czekam</l>
+   <l>Sądowego wyroku y Rezolucyi; Formalney_ Tako-</l> 
+   <l>wą  odpowiednią Explikacya</l>
+   </p>
+   <p>
+ <l>Powyżey wymieniony <persName ref="Герцык">Hercyk Hirszowicz</persName> mając wDomie</l> 
+   <l>moim Stancyą przearendowaną, wktórey przemiesz-</l>
+   <l>kiwał lat 2. Lecz skoro tylko zabrał znajomość</l> 
+   <l><persName ref="Мовша_Мордохович">zmoyzeszem Morduchowiczem</persName> <orgName ref="Хасиды">Karolinem</orgName> ydalszemi</l> 
+   <l><orgName ref="Хасиды">Karolinami</orgName> oraz całą <orgName ref="Хасиды">Kumpanią Karolinską</orgName> na-</l>
+   <l>tenczas JaOnego po skonczonym terminie z iego</l>
+   <l>mieszkania wyrugować nakazałem <note type="gloss">|: Chociaż on<lb/>
+    wyzszą Akcyą nadawał, :|</note> któren dopiero</l>
+   <l>nakrzywdę moją za Swiadka zeStrony</l> 
+   <l>W:<note place="end">Wielmożnego</note> <persName ref="Елиашевич">Sowietnika</persName> przeciwko mnie podał się, jako</l>
+   <l>wkondykcie <orgName ref="Хасиды">zKarolinami</orgName> Jdący._–</l> 
+    <l><signed><persName ref="Мовша_Ошерович"><unclear>???</unclear><note place="end">подпись на иврите</note></persName></signed></l>                                        </p>
     <pb n="469-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
