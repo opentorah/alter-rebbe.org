@@ -216,10 +216,14 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
+// Style top-level TEI <head> same way Minima styles .post-title
+.post-title, tei-head[rendition="post-title"] {
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  // text-indent: 0;
+  //  margin-block-end: 15px;
+  //  margin-bottom: 15px;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -255,20 +259,19 @@
 }
 
 // Collection index
-table[rendition="collection-index"] {
+.collection-index {
   // Size the columns
-  td.cell[rendition="description"] { width: 44%; }
-  td.cell[rendition="date"       ] { width:  8%; }
-  td.cell[rendition="author"     ] { width: 10%; }
-  td.cell[rendition="addressee"  ] { width: 10%; }
-  td.cell[rendition="language"   ] { width:  4%; }
-  td.cell[rendition="document"   ] { width:  5%; }
-  td.cell[rendition="pages"      ] { width:  8%; }
-  td.cell[rendition="transcriber"] {             }
-
+  .description { width: 44%; }
+  .date        { width:  8%; }
+  .author      { width: 10%; }
+  .addressee   { width: 10%; }
+  .language    { width:  4%; }
+  .document    { width:  5%; }
+  .pages       { width:  8%; }
+  .transcriber {             }
 
   // Part title
-  [rendition="part-title"] {
+  .part-title {
     font-weight: 700;
     font-size: 32px;
     color: #1614ff;
@@ -276,7 +279,7 @@ table[rendition="collection-index"] {
 }
 
 // Document header
-div[rendition="document-header"] {
+.document-header {
   background-color: #f0f0f0;
   padding: 10px;
 }
@@ -303,6 +306,19 @@ div.facsimileViewer {
 }
 
 // Mentions
-[rendition="mentions"] {
+.mentions {
   font-size: smaller;
+}
+
+// Tree index
+.tree-index {
+  ul {
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-left: 0;
+
+    li {
+      margin-left: 1em;
+    }
+  }
 }

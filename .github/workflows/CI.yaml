@@ -22,4 +22,4 @@ jobs:
       - name: "Generate and upload to Google Storage bucket"
         env:
           gcloudServiceAccountKey: ${{secrets.gcloudServiceAccountKey}}
-        run: ./gradlew --no-daemon --console=plain generateSite uploadSite
+        run: ./gradlew --no-daemon --console=plain uploadSite

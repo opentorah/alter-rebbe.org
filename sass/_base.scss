@@ -46,6 +46,17 @@ figcaption {
   font-size: $small-font-size;
 }
 
+// from TEI
+figure {
+  display: inline-block;
+  //text-align: center;
+  //margin-left: auto;
+  //margin-right: auto;
+}
+figure img {
+  vertical-align: top;
+}
+
 
 
 // Lists
@@ -97,21 +108,17 @@ a {
     }
   }
 }
+
 // Names with no references
 a:not([href]) {
   color: lighten($brand-color, 15%);
 }
+
 // Page links
-a.pb[missing="true"][empty="true"] {
+a[missing="true"][empty="true"] {
   color: orange;
 }
-a.pb[missing="true"]:not([empty="true"]) {
-  color: red;
-}
-a.ref[missing="true"][empty="true"] {
-  color: orange;
-}
-a.ref[missing="true"]:not([empty="true"]) {
+a[missing="true"]:not([empty="true"]) {
   color: red;
 }
 
@@ -215,7 +222,7 @@ pre {
 }
 
 
-//Tables (HTML and TEI)
+// Tables (HTML and TEI);
 table {
   margin-bottom: $spacing-unit;
   //  width: 100%;
@@ -240,14 +247,10 @@ table {
   th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
-  th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
-  }
-  // Replicate Chrome's and minima's styling of the <th> on the TEI table header row (role="label").
-  tr.row[role=label] td.cell {
+  // Row with role="label" is the header row of the TEI.
+  th, tr.row[role=label] td.cell {
     font-weight: bold;
+
     background-color: lighten($grey-color-light, 3%);
     border: 1px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
@@ -259,8 +262,6 @@ table {
   }
   td {
     border: 1px solid $grey-color-light;
-  }
-  td.cell {
     vertical-align: text-top;
   }
 }

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="6" type="org.opentorah.collector.Book">
+<collection pageType="book" n="6" alias="derzhavin6">
   <title xmlns="http://www.tei-c.org/ns/1.0">Переписка (1794-1816) и "Записки"</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0">Из записок <persName ref="Державин">Державина</persName>.</abstract>
   <body xmlns="http://www.tei-c.org/ns/1.0">
@@ -13,5 +13,4 @@
       <l>стр. 749-751: Жалоба еврейки из <placeName ref="Лиозно">Лиозно</placeName></l>
     </p>
   </body>
-  <by selector="document" directory="tei"/>
-</store>
+</collection>

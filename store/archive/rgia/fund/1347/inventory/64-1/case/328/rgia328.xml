@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="328" type="org.opentorah.collector.Manuscript">
+<collection n="328" alias="rgia328">
   <title xmlns="http://www.tei-c.org/ns/1.0">О виленских кагальных старшинах</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0"><p>
-    1799 год. Жалоба <persName ref="Мовша_Ошерович">Моше Ошеровича</persName> <persName ref="Павел_I">императору Павлу
-    I</persName> и реакция на нее.
-  </p></abstract>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">1799 год. Жалоба <persName ref="Мовша_Ошерович">Моше
+  Ошеровича</persName> <persName ref="Павел_I">императору Павлу I</persName> и реакция на нее.</abstract>
   <body xmlns="http://www.tei-c.org/ns/1.0">
     <p>
       <l><ref target="https://rgia.su/object/3632501">Вебсайт</ref></l>
@@ -14,5 +12,4 @@
     </p>
     <p>Фотографии предоставил Константин Пименов.</p>
   </body>
-  <by selector="document" directory="tei"/>
-</store>
+</collection>

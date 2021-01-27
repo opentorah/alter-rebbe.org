@@ -21,7 +21,8 @@ idea {
   }
 }
 
-final String opentorahVersion = '0.1.67'
+// There is no Java in the project :)
+project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
 description = '19 Kislev Archive'
 
@@ -41,9 +42,9 @@ dependencies {
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
   implementation "org.opentorah:opentorah-util:$opentorahVersion"
 
-  implementation 'org.scala-lang:scala-library:2.13.4'
-  implementation 'com.google.cloud:google-cloud-storage:1.113.9'
-  compileOnly    'org.slf4j:slf4j-api:1.7.30'
+  implementation "org.scala-lang:scala-library:$scalaVersion"
+  implementation "com.google.cloud:google-cloud-storage:$gcloudStorageVersion"
+  compileOnly    "org.slf4j:slf4j-api:$slf4jVersion"
 }
 
 tasks.withType(ScalaCompile) {
@@ -54,59 +55,69 @@ compileSass {
   sourceDir = project.file ("$rootDir/sass")
   outputDir = project.file ("$rootDir/assets")
 }
+compileSass.group = 'publishing'
+
+final String mainClass = 'org.opentorah.collector.Main'
 
 task verifySite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   args = ['verify', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 verifySite.dependsOn(classes)
 verifySite.dependsOn(compileSass)
+verifySite.group = 'publishing'
 
 task generateSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   args = ['generate', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 generateSite.dependsOn(classes)
 generateSite.dependsOn(compileSass)
+generateSite.group = 'publishing'
 
 task buildSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   args = ['build', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 buildSite.dependsOn(classes)
 buildSite.dependsOn(compileSass)
+buildSite.group = 'publishing'
 
 final String gcloudServiceAccountKey = findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey"
 
 task uploadSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   args = ['upload', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
 uploadSite.dependsOn(classes)
 uploadSite.dependsOn(buildSite)
+uploadSite.group = 'publishing'
 
 task uploadSiteDryRun(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   args = ['upload', rootDir, gcloudServiceAccountKey, 'dryRun']
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSite.dependsOn(classes)
-uploadSite.dependsOn(buildSite)
+uploadSiteDryRun.dependsOn(classes)
+uploadSiteDryRun.dependsOn(buildSite)
+uploadSiteDryRun.group = 'publishing'
 
 task serveSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   args = ['serve', "file://$rootDir/"]
   classpath = sourceSets.main.runtimeClasspath
 }
 serveSite.dependsOn(classes)
-serveSite.dependsOn(buildSite)
+//serveSite.dependsOn(buildSite)
+serveSite.group = 'publishing'
 
 task serveRemoteSite(type: JavaExec) {
-  main = 'org.opentorah.collector.Main'
+  main = mainClass
   classpath = sourceSets.main.runtimeClasspath
 }
 serveRemoteSite.dependsOn(classes)
+serveRemoteSite.group = 'publishing'

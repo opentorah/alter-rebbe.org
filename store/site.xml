@@ -13,8 +13,9 @@
   <!-- TODO title: Архив 19 кислева -->
   <title xmlns="http://www.tei-c.org/ns/1.0">Документы</title>
   <sourceDesc><p>Facsimile</p></sourceDesc>
-  <page url="/names"/>
-  <page url="/archive"/>
+  <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+  <page url="/names.html"/>
+  <page url="/collections.html"/>
   <page url="/note/help"/>
   <page url="/note/about"/>
   <!-- TODO when I use <p> instead of <span>, it gets styled by the TEI CSS - although it is in the XHTML namespace?!
@@ -26,15 +27,15 @@
       <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
     </span>
   </footer>
-  <byEntity selector="name" directory="names"/>
-  <byEntityList selector="names">
+  <entities selector="name" directory="names"/>
+  <entityLists selector="names">
     <listPerson n="jews" role="jew"><title>Жиды (они же Евреи)</title></listPerson>
     <listPerson n="officials" role="official"><title>Начальство</title></listPerson>
     <listPerson n="unknown"><title>Неизвестно кто</title></listPerson>
     <listPlace n="places"><title>Места</title></listPlace>
     <listOrg n="organizations"><title>Организации</title></listOrg>
     <listPerson n="transcribers" role="transcriber"><title>Расшифровщики</title></listPerson>
-  </byEntityList>
-  <byNote selector="note" directory="notes"/>
+  </entityLists>
+  <notes selector="note" directory="notes"/>
   <by file="archive/by.xml"/>
 </site>

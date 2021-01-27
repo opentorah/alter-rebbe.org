@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="413" type="org.opentorah.collector.Manuscript">
+<collection n="413" alias="rgia413">
   <title xmlns="http://www.tei-c.org/ns/1.0">О <orgName ref="Хасиды">каролинской секте</orgName>. 1801 год</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0">. Копии избранных документов второго ареста. Материалы следствия,
+  <abstract xmlns="http://www.tei-c.org/ns/1.0">Копии избранных документов второго ареста. Материалы следствия,
   произведённого в <orgName ref="Сенат">Сенате</orgName> по доносам <placeName ref="Пинск">пинского</placeName> раввина
   <persName ref="Авигдор">Авигдора Хаймовича</persName>.</abstract>
   <body xmlns="http://www.tei-c.org/ns/1.0">
@@ -19,5 +19,4 @@
     </p>
     <p>Фотографии предоставил Константин Пименов.</p>
   </body>
-  <by selector="document" directory="tei"/>
-</store>
+</collection>
