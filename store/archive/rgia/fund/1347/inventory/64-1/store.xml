@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="64 ч I">
+<store>
+  <name n="64 ч I" lang="ru"/>
+  <name n="64-1" lang="en"/>
   <title xmlns="http://www.tei-c.org/ns/1.0">1797-1828 гг.</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"/>
   <body xmlns="http://www.tei-c.org/ns/1.0">
     <ref target="https://rgia.su/object/2838437">Вебсайт</ref>
     <ref target="https://rgia.su/imageViewer/img?url=nouLjcLOz8nKztmMmo2WnpPCztmQnZWanIvCzcjIx8jOy8/ZmI2Qio/Czw=="
     >Вебсайт</ref>
+    <figure>
     <ref target=
     "https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/rgia/fund/1347/inventory/64-1/p00.jpg"
     >Опись</ref>
+      <graphic url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/rgia/fund/1347/inventory/64-1/p00.jpg"
+      width="150"/>
+    </figure>
   </body>
   <by file="case/by.xml"/>
 </store>

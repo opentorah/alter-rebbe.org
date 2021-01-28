@@ -4,12 +4,19 @@
   <body xmlns="http://www.tei-c.org/ns/1.0">
     <l>том (часть) 1</l>
     <l>Крайние даты дела 1790-1843</l>
-    <ref target=
-    "https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/niab/fund/1781/inventory/3-1/p00.jpeg"
+    <figure>
+    <ref target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/niab/fund/1781/inventory/3-1/p00.jpeg"
     >Опись</ref>
+    <graphic url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/niab/fund/1781/inventory/3-1/p00.jpeg"
+   width="150"/>
+    </figure>
+    <figure>
     <ref target=
     "https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/niab/fund/1781/inventory/3-1/p01.jpeg"
     >Опись</ref>
+    <graphic url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/facsimiles/niab/fund/1781/inventory/3-1/p01.jpeg"
+               width="150"/>
+    </figure>
   </body>
   <by file="case/by.xml"/>
 </store>
