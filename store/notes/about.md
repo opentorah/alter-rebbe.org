@@ -174,12 +174,12 @@ and are retrievable only using exact URLs.
 
 To rebuild collection indices and verify name references:
 ```
-  $ ./gradlew clean build
+  $ ./gradlew clean buildSite
 ```
 
 To serve the site locally:
 ```
-  $ ./gradlew localService
+  $ ./gradlew serveSite
 ```
 
 To recompile the SCSS stylesheets:
