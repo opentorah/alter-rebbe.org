@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+  <name n="РГИА" lang="ru"/>
+  <name n="rgia" lang="en"/>
+  <title xmlns="http://www.tei-c.org/ns/1.0">Российский государственный исторический архив (Санкт-Петербург)</title>
+  <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="https://rgia.su">Вебсайт</ref></abstract>
+  <by selector="fund">
+    <store file="rgia/fund/468.xml"/>
+    <store file="rgia/fund/1309.xml"/>
+    <store file="rgia/fund/1343.xml"/>
+    <store file="rgia/fund/1347.xml"/>
+    <store file="rgia/fund/1374.xml"/>
+  </by>
+</store>

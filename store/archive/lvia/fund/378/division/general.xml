@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+  <name n="общий" lang="ru"/>
+  <name n="general" lang="en"/>
+  <name n="bendrasis" lang="lt"/>
+  <title xmlns="http://www.tei-c.org/ns/1.0">???</title>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+    <l>общий отдел - O.O.</l>
+    <l>bendrasis skyrius - BS</l>
+  </body>
+  <by selector="inventory">
+    <store file="general/inventory/1799.xml"/>
+    <store file="general/inventory/1800.xml"/>
+    <store file="general/inventory/1824.xml"/>
+    <store file="general/inventory/1868.xml"/>
+  </by>
+</store>

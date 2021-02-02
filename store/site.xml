@@ -37,5 +37,15 @@
     <listPerson n="transcribers" role="transcriber"><title>Расшифровщики</title></listPerson>
   </entityLists>
   <notes selector="note" directory="notes"/>
-  <by file="archive/by.xml"/>
+  <by selector="archive">
+    <store file="archive/books.xml"/>
+    <store file="archive/garf.xml"/>
+    <store file="archive/lna.xml"/>
+    <store file="archive/lvia.xml"/>
+    <store file="archive/niab.xml"/>
+    <store file="archive/rgada.xml"/>
+    <store file="archive/rgia.xml"/>
+    <store file="archive/rnb.xml"/>
+    <store file="archive/cahjp.xml"/>
+  </by>
 </site>
