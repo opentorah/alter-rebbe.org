@@ -280,6 +280,13 @@
 .document-header {
   background-color: #f0f0f0;
   padding: 10px;
+
+  width: 100%;
+
+  .heading {
+    width: 18%;
+    font-style: italic;
+  }
 }
 
 // Facsimile viewer
