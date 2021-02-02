@@ -298,3 +298,8 @@ table {
     vertical-align: text-top;
   }
 }
+
+// do not let superscript alter line spacing
+sup {
+  line-height: 0;
+}

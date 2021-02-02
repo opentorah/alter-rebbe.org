@@ -115,6 +115,7 @@ del[rend='overstrike'] {
   text-decoration: red line-through;
 }
 /* e */
+// TODO merge em and hi!
 emph {
   font-style: italic;
 }
@@ -128,6 +129,8 @@ emph[rend='big'] {
 }
 emph[rend='superscript'] {
   vertical-align: super;
+  // do not let superscript alter line spacing
+  line-height: 0;
 }
 epigraph {
   display: block;
@@ -205,6 +208,8 @@ hi[rend='big'] {
 }
 hi[rend='superscript'] {
   vertical-align: super;
+  // do not let superscript alter line spacing
+  line-height: 0;
 }
 ident {
   font-family: Courier,monospace;
