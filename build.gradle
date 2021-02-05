@@ -27,15 +27,7 @@ project.gradle.startParameter.excludedTaskNames.add('compileJava')
 description = '19 Kislev Archive'
 
 repositories {
-  jcenter()
   mavenCentral()
-
-  // TODO around 2020-12-13 two packages from the second page of my Bintray listing
-  // dropped off JCenter, and since the paths already exist (duh!) I can't request re-inclusion.
-  // Is there some way of asking Bintray for help?
-  maven {
-    url 'https://dl.bintray.com/dubinsky/org.opentorah'
-  }
 }
 
 dependencies {

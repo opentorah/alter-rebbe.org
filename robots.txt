@@ -1,3 +1,7 @@
-User-agent: AhrefsBot
+# we'll let Googlebot in later, but for now shoo them all away
+User-agent: *
 Disallow: /
+
+#User-agent: AhrefsBot
+#Disallow: /
 
