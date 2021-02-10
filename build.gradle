@@ -9,13 +9,6 @@ idea {
   module {
     excludeDirs += [
       file('.idea'),
-      file('gradle'),
-      file('/by'),
-      file('/collections'),
-      file('/names'),
-      file('/notes'),
-      file('/reports'),
-      file('/*.html'),
       file('gradle')
     ]
   }
@@ -25,10 +18,6 @@ idea {
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
 description = '19 Kislev Archive'
-
-repositories {
-  mavenCentral()
-}
 
 dependencies {
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
@@ -51,24 +40,6 @@ compileSass.group = 'publishing'
 
 final String mainClass = 'org.opentorah.collector.Main'
 
-task verifySite(type: JavaExec) {
-  main = mainClass
-  args = ['verify', rootDir]
-  classpath = sourceSets.main.runtimeClasspath
-}
-verifySite.dependsOn(classes)
-verifySite.dependsOn(compileSass)
-verifySite.group = 'publishing'
-
-task generateSite(type: JavaExec) {
-  main = mainClass
-  args = ['generate', rootDir]
-  classpath = sourceSets.main.runtimeClasspath
-}
-generateSite.dependsOn(classes)
-generateSite.dependsOn(compileSass)
-generateSite.group = 'publishing'
-
 task buildSite(type: JavaExec) {
   main = mainClass
   args = ['build', rootDir]
@@ -85,7 +56,6 @@ task uploadSite(type: JavaExec) {
   args = ['upload', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSite.dependsOn(classes)
 uploadSite.dependsOn(buildSite)
 uploadSite.group = 'publishing'
 
@@ -94,7 +64,6 @@ task uploadSiteDryRun(type: JavaExec) {
   args = ['upload', rootDir, gcloudServiceAccountKey, 'dryRun']
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSiteDryRun.dependsOn(classes)
 uploadSiteDryRun.dependsOn(buildSite)
 uploadSiteDryRun.group = 'publishing'
 
@@ -104,7 +73,6 @@ task serveSite(type: JavaExec) {
   classpath = sourceSets.main.runtimeClasspath
 }
 serveSite.dependsOn(classes)
-//serveSite.dependsOn(buildSite)
 serveSite.group = 'publishing'
 
 task serveRemoteSite(type: JavaExec) {

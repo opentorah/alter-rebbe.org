@@ -5,6 +5,12 @@ pluginManagement {
   }
 }
 
+dependencyResolutionManagement {
+  repositories {
+    mavenCentral()
+  }
+}
+
 //includeBuild ('../opentorah.org') {
 //  dependencySubstitution {
 //    substitute module("org.opentorah:opentorah-collector:$opentorahVersion") with project(':collector')

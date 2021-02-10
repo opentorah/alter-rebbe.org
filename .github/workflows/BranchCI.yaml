@@ -20,7 +20,7 @@ jobs:
           java-version: 11
 
       - name: "Verify"
-        run: ./gradlew --no-daemon --console=plain verifySite
+        run: ./gradlew --no-daemon --console=plain buildSite
 
       # Something changed in GitHub Actions recently; for instance, there is now " Post Check out the code";
       # github-actions-x/commit@v2.2 started craching; @2.6 does not crash,
