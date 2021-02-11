@@ -27,6 +27,6 @@ jobs:
       - name: "Notify the Cloud Run service"
         uses: fjogeleit/http-request-action@master
         with:
-          url: 'https://app.alter-rebbe.org/reset-cached-site'
+          url: 'https://www.alter-rebbe.org/reset-cached-site'
           method: 'GET'
           preventFailureOnNoResponse: 'true'
