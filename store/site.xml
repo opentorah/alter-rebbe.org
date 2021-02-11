@@ -14,8 +14,8 @@
   <title xmlns="http://www.tei-c.org/ns/1.0">Документы</title>
   <sourceDesc><p>Facsimile</p></sourceDesc>
   <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-  <page url="/names.html"/>
-  <page url="/collections.html"/>
+  <page url="/names"/>
+  <page url="/collections"/>
   <page url="/note/help"/>
   <page url="/note/about"/>
   <!-- TODO when I use <p> instead of <span>, it gets styled by the TEI CSS - although it is in the XHTML namespace?!

@@ -196,17 +196,11 @@ final class GoogleCloudStorageSynchronizer private(
 
 object GoogleCloudStorageSynchronizer {
 
-  def sync(
-    serviceAccountKey: String,
-    bucketName: String,
-    bucketPrefix: String,
-    directoryPath: String,
-    dryRun: Boolean
-  ): Unit = new GoogleCloudStorageSynchronizer(
-    serviceAccountKey,
-    bucketName,
-    bucketPrefix,
-    directoryPath,
-    dryRun
+  def main(args: Array[String]): Unit = new GoogleCloudStorageSynchronizer(
+    serviceAccountKey = args(1),
+    bucketName = Service.bucketName,
+    bucketPrefix = "",
+    directoryPath = args(0) + "/",
+    dryRun = (args.length > 2) && (args(2) == "dryRun")
   ).sync()
 }

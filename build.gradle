@@ -17,6 +17,10 @@ idea {
 // There is no Java in the project :)
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
+tasks.withType(ScalaCompile) {
+  targetCompatibility = '1.8'
+}
+
 description = '19 Kislev Archive'
 
 dependencies {
@@ -28,56 +32,66 @@ dependencies {
   compileOnly    "org.slf4j:slf4j-api:$slf4jVersion"
 }
 
-tasks.withType(ScalaCompile) {
-  targetCompatibility = '1.8'
-}
-
 compileSass {
+  group = 'publishing'
+
   sourceDir = project.file ("$rootDir/sass")
   outputDir = project.file ("$rootDir/assets")
 }
-compileSass.group = 'publishing'
-
-final String mainClass = 'org.opentorah.collector.Main'
 
 task buildSite(type: JavaExec) {
-  main = mainClass
-  args = ['build', rootDir]
+  group = 'publishing'
+  dependsOn(compileSass)
+
+  main = 'org.opentorah.collector.Site'
+  args = [rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
-buildSite.dependsOn(classes)
-buildSite.dependsOn(compileSass)
-buildSite.group = 'publishing'
 
-final String gcloudServiceAccountKey = findProperty('gcloudServiceAccountKey') ?: System.getenv('gcloudServiceAccountKey') ?: "nokey"
+task buildAndPrettyPrintSite(type: JavaExec) {
+  group = 'publishing'
+  dependsOn(compileSass)
+
+  main = 'org.opentorah.collector.Site'
+  args = [rootDir, 'prettyPrint']
+  classpath = sourceSets.main.runtimeClasspath
+}
+
+final String gcloudServiceAccountKey =
+  findProperty('gcloudServiceAccountKey') ?:
+  System.getenv('gcloudServiceAccountKey') ?:
+  "nokey"
 
 task uploadSite(type: JavaExec) {
-  main = mainClass
-  args = ['upload', rootDir, gcloudServiceAccountKey]
+  group = 'publishing'
+  dependsOn(buildSite)
+
+  main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
+  args = [rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSite.dependsOn(buildSite)
-uploadSite.group = 'publishing'
 
 task uploadSiteDryRun(type: JavaExec) {
-  main = mainClass
-  args = ['upload', rootDir, gcloudServiceAccountKey, 'dryRun']
+  group = 'publishing'
+  dependsOn(buildSite)
+
+  main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
+  args = [rootDir, gcloudServiceAccountKey, 'dryRun']
   classpath = sourceSets.main.runtimeClasspath
 }
-uploadSiteDryRun.dependsOn(buildSite)
-uploadSiteDryRun.group = 'publishing'
 
 task serveSite(type: JavaExec) {
-  main = mainClass
-  args = ['serve', "file://$rootDir/"]
+  group = 'publishing'
+
+  main = 'org.opentorah.collector.Service'
+  args = ["file://$rootDir/"]
   classpath = sourceSets.main.runtimeClasspath
 }
-serveSite.dependsOn(classes)
-serveSite.group = 'publishing'
 
 task serveRemoteSite(type: JavaExec) {
-  main = mainClass
+  group = 'publishing'
+
+  main = 'org.opentorah.collector.Service'
+  args = []
   classpath = sourceSets.main.runtimeClasspath
 }
-serveRemoteSite.dependsOn(classes)
-serveRemoteSite.group = 'publishing'

@@ -8,12 +8,12 @@ pluginManagement {
 dependencyResolutionManagement {
   repositories {
     mavenCentral()
+
+    maven {
+      name = 'mavenCentralSnapshots'
+      url = 'https://oss.sonatype.org/content/repositories/snapshots'
+    }
   }
 }
 
-//includeBuild ('../opentorah.org') {
-//  dependencySubstitution {
-//    substitute module("org.opentorah:opentorah-collector:$opentorahVersion") with project(':collector')
-//    substitute module("org.opentorah:opentorah-util:$opentorahVersion") with project(':util')
-//  }
-//}
+//includeBuild '../opentorah.org'
