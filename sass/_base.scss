@@ -41,6 +41,7 @@ img {
 // Figures
 figure > img {
   display: block;
+  vertical-align: top;
 }
 figcaption {
   font-size: $small-font-size;
@@ -49,13 +50,8 @@ figcaption {
 // from TEI
 figure {
   display: inline-block;
-  //text-align: center;
-  //margin-left: auto;
-  //margin-right: auto;
 }
-figure img {
-  vertical-align: top;
-}
+
 figure > tei-head {
   display: block;
   margin: 1.5em auto 1.5em auto;
@@ -258,15 +254,11 @@ pre {
 // Tables (HTML and TEI);
 table {
   margin-bottom: $spacing-unit;
-  //  width: 100%;
   width: auto;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
   border: 1px solid $grey-color-light;
-  //margin-top: 2em;
-  //margin-bottom: 2em;
-  //font-size: 12pt;
 
   tei-head {
     text-align: center;

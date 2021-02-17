@@ -290,22 +290,26 @@
 }
 
 // Facsimile viewer
-div.facsimileViewer {
+div.facsimileWrapper {
   width: 1060px;
-  height: 1586px;
-  overflow: hidden;
-  padding-right: 1em;
-  resize: both;
 
-  div.facsimileScroller {
+  div.facsimileViewer {
     width: 100%;
-    height: 98%;
-    overflow-y: scroll;
-    border: 1px solid black;
-    padding: .25em;
+    height: 1586px;
+    overflow: hidden;
+    padding-right: 1em;
+    resize: both;
 
-    a:last-child {
-      // TODO make caption of the last picture visible!     padding-bottom: 1em;
+    div.facsimileScroller {
+      width: auto;
+      height: 98%;
+      overflow-y: scroll;
+      border: 1px solid black;
+      padding: .25em;
+
+      a:last-child {
+        // TODO make caption of the last picture visible!     padding-bottom: 1em;
+      }
     }
   }
 }
