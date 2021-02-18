@@ -291,6 +291,15 @@ table {
   }
 }
 
+table[rendition="borderless"] {
+  border: none;
+
+  tr.row {
+    background-color: $background-color;
+    td.cell { border: none; }
+  }
+}
+
 // do not let superscript alter line spacing
 sup {
   line-height: 0;

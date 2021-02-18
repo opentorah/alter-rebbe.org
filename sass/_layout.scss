@@ -331,27 +331,3 @@ div.facsimileWrapper {
     }
   }
 }
-
-
-/* Document-specific. TODO move into the documents! */
-
-table[rendition="rgada-026-table"] {
-  border: none;
-
-  tr.row {
-    background-color: $background-color;
-    td.cell { border: none; }
-    td.cell:nth-child(1) { width: 300px; }
-    td.cell:nth-child(2) { width: 400px; }
-  }
-}
-
-table[rendition="rgada-233-table"] {
-
-  tr.row {
-    td.cell:nth-child(1) { width: 30px;  }
-    td.cell:nth-child(2) { width: 200px; }
-    td.cell:nth-child(3) { width: 55px;  }
-    td.cell:nth-child(4) { width: 35px;  }
-  }
-}
