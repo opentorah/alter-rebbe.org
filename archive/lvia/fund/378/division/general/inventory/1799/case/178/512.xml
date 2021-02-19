@@ -5,10 +5,13 @@
       <author>?</author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>
-      Перечень документов следствия 1799 г. в <orgName ref="Литовский_надворный_суд">Литовском надворном суде</orgName>
-      по жалобам отстраненных членов <orgName ref="Виленский_кагал">виленского кагала</orgName>
-    </p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перечень документов следствия 1799 г. в <orgName ref="Литовский_надворный_суд">Литовском надворном
+        суде</orgName> по жалобам отстраненных членов <orgName ref="Виленский_кагал">виленского кагала</orgName>
+      </p></abstract>
+      <creation><date when="1800-05-04">не ранее 4 мая 1800 г.</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="512-1"/>
@@ -369,7 +372,7 @@
     </table>
     <pb n="513-1"/>
     <fw type="pageNum" place="right">513</fw>
-    <fw type="note" place="left">чернильная запись продублирована карандашной из-за повреждения листа - подтека</fw>
+    <note place="end">чернильная запись продублирована карандашной из-за повреждения листа - подтека</note>
     <table>
       <row>
         <cell>№</cell>
