@@ -8,9 +8,12 @@
     <profileDesc>
       <abstract><p>
         Рапорт <persName ref="Бенкендорф">Бенкендорфу</persName> об отправке конвоя для сопровождения арестованных
-        хасидов из <placeName ref="Рига">Риги</placeName> обратно в <placeName ref="Вильна">Вильно</placeName>
+        <orgName ref="Хасиды">хасидов</orgName> из <placeName ref="Рига">Риги</placeName> обратно в <placeName ref=
+        "Вильна">Вильно</placeName>
       </p></abstract>
-      <creation><date when="1798-11 18-XX">Ноября 18 дня 1798 года</date></creation>
+      <creation><date when="1798-11-18">Ноября 18 дня 1798 года</date></creation>
+      <correspDesc><correspAction><persName ref="Бенкендорф" role="addressee">Бенкендорфу</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -26,7 +29,7 @@
       <l>къ командированному съ ними надзирателю</l>
       <l><persName>Гречу</persName> явились, о чемъ увѣдомляя съ истин-</l>
       <l>нымъ почтеніемъ остаюсь.</l>
-      <l><date when="1798-11 18-XX">Ноября 18<hi rend="superscript">го</hi>. дня. 1798<hi rend="superscript">го</hi>.
+      <l><date when="1798-11-18">Ноября 18<hi rend="superscript">го</hi>. дня. 1798<hi rend="superscript">го</hi>.
       года</date>.</l>
     </p>
     <pb n="002-2" missing="true" empty="true"/>

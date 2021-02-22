@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author/>
+      <author><persName ref="Бенкендорф">Бенкендорф</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -11,6 +11,7 @@
       ref="Вильна">виленских</placeName> <orgName ref="Хасиды">хасидов</orgName> обратно в <placeName ref="Вильна"
       >Вильно</placeName></abstract>
       <creation><date when="1798-11-17">17 ноября 1798 года</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Рихтеру</persName></correspAction></correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
