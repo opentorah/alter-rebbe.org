@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Незаполненный лист дела со штампом архива</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <l>Нацыянальны гістаричны</l>
+    <l>архіу Беларусі</l>
+    <l>Фонду 1430</l>
+    <l>№ вопісу 1</l>
+    <l>Справы 53912</l>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
