@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>Титульный лист дела с пометками архивистов</p></abstract>
+      <creation><date when="1797-07-02">2 июля 1797 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000a-1"/>
+    <fw type="docNum" place="left">14/1911 г.</fw><note place="end">Поздняя пометка, цвет чернил отличается от
+    использованного ниже</note>
+    <fw type="note"><fw type="docNum">№ 308.</fw></fw>
+    <fw type="pageNum" place="right">149</fw>
+    <head>
+      <l>ДЕЛО</l>
+      <l>По рапорту витебскаго нижны<choice><sic>нижны</sic><corr>нижняго</corr></choice> Земскаго Суда</l>
+      <l>дворянскаго заседателя Коссова о учиненїи</l>
+      <l>ему <unclear>ослушанія</unclear> въ мѣстечкѣ <placeName ref="Лиозно">Ліознѣ</placeName></l>
+      <l>тамошними евреями содержащими въ арендѣ</l>
+      <l>карчемства <date when="1797-07-02">2<hi rend="superscript">го</hi> јюля 1797<hi rend="superscript">го</hi>
+      года</date><note place="end">В тексте расставлены поздние пометки, судя по цвету чернил, выполненные архивистами:
+      цифра "3" над "витебскаго", "1" над "дворянскаго", "2" над "засѣдателяхъ", вставлены две буквы "і" в неразборчивое
+      слово, которое, вероятно, читается как "ослушанія" или "отъслушанія", крупными скобками выделены два смысловых
+      фрагмента заголовка дела</note></l>
+    </head>
+    <p>
+      <l>О представлении сведении о количестве</l>
+      <l>евреев проживающих в м. <placeName ref="Лиозно">Лиозно</placeName>.<note place="end">поздняя архивная пометка
+      советского периода</note></l>
+    </p>
+    <p><l>на 3. листахъ</l></p>
+    <p>
+      <l>Нач. <date when="1797-04-14">14/IV 1797</date></l>
+      <l>Кон. <date when="1797-07-02">2/VII -</date><note place="end">Поздняя архивная пометка</note></l>
+    </p>
     <pb n="000a-2" missing="true"/>
   </body></text>
 </TEI>
