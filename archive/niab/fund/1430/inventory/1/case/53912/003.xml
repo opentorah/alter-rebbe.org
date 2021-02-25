@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Добрынин</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Приложения к рапорту земского комиссара <persName>Добрынина</persName> губернатору <persName ref="Жегулин"
+        >Жегулину</persName>: регистры евреев, проживавших в <placeName ref="Лиозно">Лиозно</placeName>не указанных в
+        ревизских данных, живших по билетам магистратов и фрагмент записки, объяснявшей действия дворянского заседателя
+        <persName>Коссова</persName>
+      </p></abstract>
+      <creation><date when="1797-08-14">14 августа 1797 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
@@ -157,6 +168,175 @@
        Добрынинъ</persName></l>
     </p>
     <pb n="003-2"/>
+    <head>
+      <l>Евреи живущія въ мѣстечкѣ <placeName ref="Лиозно">ліознѣ</placeName></l>
+      <l>по билетамъ отъ магистратовъ и</l>
+      <l>казначеевъ</l>
+    </head>
+    <table>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l>на сколько мѣся</l>
+          <l>цовъ имѣеть</l>
+          <l>отпускъ</l>
+        </cell>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row><cell>изъ города Невля</cell></row>
+      <row>
+        <cell>1</cell>
+        <cell><persName>Лейба Янкелевичъ</persName> отъ маія на –</cell>
+        <cell>5 мѣсяцовъ</cell>
+      </row>
+      <row>
+        <cell>2</cell>
+        <cell><persName>Абрамъ Лейбовичъ</persName> отъ апрѣля на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>3</cell>
+        <cell><persName>Ицка Афроимовичъ</persName> отъјюня на –</cell>
+        <cell>6.</cell>
+      </row>
+      <row>
+        <cell>4</cell>
+        <cell><persName>Елля Янкелевичъ</persName> отъ маія на –</cell>
+        <cell>
+          <l>3 высланъ</l>
+          <l>за просро-</l>
+          <l>чку.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>5</cell>
+        <cell><persName>Донъ Азиковичъ</persName> отъ марта на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>6</cell>
+        <cell><persName>Янкель шмуйловичъ</persName> от јюля на –</cell>
+        <cell>12</cell>
+      </row>
+      <row><cell>изъ Городка</cell></row>
+      <row>
+        <cell>7</cell>
+        <cell><persName>Симонъ Евелевичъ</persName> отъ маія на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>8</cell>
+        <cell><persName>Лейба мордуховичъ</persName> отъ февраля на –</cell>
+        <cell>
+          <l>6 высла-</l>
+          <l>ны за</l>
+          <l>просрочку</l>
+        </cell>
+      </row>
+      <row>
+        <cell>9</cell>
+        <cell><persName>Арій Янкелевичъ</persName> отъ марта на –</cell>
+        <cell>
+          <l>3 высла-</l>
+          <l>ны за</l>
+          <l>просрочку</l>
+        </cell>
+      </row>
+      <row>
+        <cell>10</cell>
+        <cell><persName>шая Янкелевичъ</persName> отъ маія на –</cell>
+        <cell>4</cell>
+      </row>
+      <row>
+        <cell>11</cell>
+        <cell><persName>Афроимъ Янкелевичъ</persName> отъ маія на –</cell>
+        <cell>12</cell>
+      </row>
+      <row><cell>Изъ Черекова</cell></row>
+      <row>
+        <cell>12</cell>
+        <cell><persName>Сосхоръ израелевичъ</persName> отъ генваря на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>13</cell>
+        <cell><persName>ицка ореликовичъ</persName> отъ февраля на –</cell>
+        <cell>8</cell>
+      </row>
+      <row>
+        <cell>14</cell>
+        <cell><persName>Симонъ лейбовичъ</persName> отъ генваря на –</cell>
+        <cell>10</cell>
+      </row>
+      <row>
+        <cell>15</cell>
+        <cell><persName>Гирша Израелевичъ</persName> отъ марта на</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>16</cell>
+        <cell><persName>Елля лейзеровичъ</persName> отъ марта на–</cell>
+        <cell>7</cell>
+      </row>
+      <row>
+        <cell>17</cell>
+        <cell><persName>Мовша Янкелевич</persName> отъ февраля на</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>18</cell>
+        <cell><persName>Хаимъ лейбовичъ</persName> отъ апрѣля на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>19</cell>
+        <cell><persName>Берка янкелевичъ</persName> отъ маія на –</cell>
+        <cell>8</cell>
+      </row>
+      <row>
+        <cell>20</cell>
+        <cell><persName>Абрамъ лейзеровичъ</persName> отъ марта на –</cell>
+        <cell>
+          <l>5 высланъ</l>
+          <l>за просро-</l>
+          <l>чку</l>
+        </cell>
+      </row>
+      <row><cell>изъ лепли.</cell></row>
+      <row>
+        <cell>21</cell>
+        <cell><persName>Симонъ Янкелевичъ</persName> отъ маія на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>22</cell>
+        <cell><persName>Файбишъ Симоновъ</persName> отъ маія на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>23</cell>
+        <cell><persName>Кушель Абрамовичъ</persName> отъ апрѣля на –</cell>
+        <cell>12</cell>
+      </row>
+      <row>
+        <cell>24</cell>
+        <cell><persName>вульфъ Яновичъ</persName> отъ маія на –</cell>
+        <cell>12</cell>
+      </row>
+      <row><cell>Изъ Орши.</cell></row>
+      <row>
+        <cell>25</cell>
+        <cell><persName>Донъ мордуховичъ</persName> отъ февраля на</cell>
+        <cell>12.</cell>
+      </row>
+    </table>
+    <signed><l>Земскій комисаръ <persName>Гаврило<lb/>
+     Добрынинъ</persName></l></signed>
     <pb n="003a-1" missing="true"/>
     <pb n="003a-2"/>
     <p>
