@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc><abstract><p>обложка с названием дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="docNum">По Столу № 33._ По Архиву № 3470</fw>
+    <head>
+      <l>Канцелярія</l>
+      <l>виленскаго генералъ-губернатора</l>
+      <l>ОТОтдлене І</l>
+      <l>Столъ І. Еврейскихъ дѣлъ.</l>
+      <l>ДѢЛО</l>
+      <l><emph rend="underline">Секретное.</emph></l>
+      <l>О проискахъ евреевъ по поводу предполагаемыхъ</l>
+      <l>у нихъ нововведеній._</l>
+      <l>Началось <date when="1868-10-19">19 октября 1868 г.</date></l>
+      <l>Кончено<note place="end">дата не проставлена</note></l>
+      <l>на<note place="end">число листов не указано</note> листахъ</l>
+      <l>Перед. въ Арх.<note place="end">дата не проставлена</note></l>
+    </head>
+    <fw type="note" place="left">
+      <l>ISTORI<unclear>???</unclear></l>
+      <l>F. Nr378 в/д</l>
+      <l>Ap. Nr. 1868</l>
+      <l>B. Nr. 3470</l><note place="end">заполненный штамп архива</note>
+    </fw>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
