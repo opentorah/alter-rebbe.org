@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Первая страница справки о готовившихся реформах российского правительства при <persName ref="Павел_I">Павле
+      I</persName> по еврейскому вопросу
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
+    <fw type="pageNum" place="right">6.</fw>
+    <fw type="note" place="right">Безличное<note place="end">карандашная архивная пометка</note></fw>
+    <p>
+      <l>Попеченіе Правительства объ улучшеніи</l>
+      <l>гражданскаго быта евреевъ - относится ко временамъ</l>
+      <l>царствованія <emph rend="big">Государя Императора</emph></l>
+      <l><emph rend="big"><persName ref="Павел_I">Павла Петровича</persName></emph>._ Еще тогда Правительство</l>
+      <l>видѣло необходимость изслѣдовать положеніе евре-</l>
+      <l>евъ и отношенія ихъ съ христианскимъ населеніемъ.</l>
+      <l>Съ этою цѣлью еще въ 1798 году командированъ былъ</l>
+      <l>въ <placeName ref="Белоруссия">Бѣлорусію</placeName> и <placeName ref="Польша">Польшу</placeName> сенаторъ
+      <persName ref="Державин">Гавріилъ<lb/>
+       Романовичъ Державинъ</persName>.</l>
+    </p>
+    <p>
+      <l>Изъ записокъ <persName ref="Державин">Г.Р. Державина</persName> <note type="gloss">|: стр. 474 :|</note> видно,
+      </l>
+      <l>что собранныя имъ свѣдѣнія о евреяхъ и его лич-</l>
+      <l>ное мнѣніе, по <emph rend="big">высочайшему</emph> повелѣнію,</l>
+      <l>были переданы на разсмотрѣніе Правительствую-</l>
+      <l>щаго <orgName ref="Сенат">Сената</orgName>,_ но по разнымъ интригамъ членовъ</l>
+      <l>Особаго Комитета и проискамъ евреевъ,_ дѣло это</l>
+      <l>не получило удовлетворительнаго исхода.</l>
+    </p>
+    <p>
+      <l>Насколько усиленны были тогда происки евре-</l>
+      <l>td] противъ предполагавшагося нововведенія, <del rend="overstrike">Г.Р.</del> <hi rend="superscript">видно</hi>
+      </l>
+      <l>
+        <hi rend="superscript">изъ слѣдующаго обстоятельства, изложеннаго въ за-</hi>
+        <del rend="overstrike"><persName ref="Державин">Державинъ</persName> ссылается на слѣдующія обсто-</del>
+      </l>
+      <l><hi rend="superscript">пискахъ <persName ref="Державин">Державина</persName>:</hi> <del rend="overstrike"
+      >ятельства:</del> Бѣлорускій помѣщикъ Г. Гурко</l>
+      <l>доставилъ ему перехваченное письмо отъ</l>
+    </p>
     <pb n="006-2" missing="true"/>
   </body></text>
 </TEI>
