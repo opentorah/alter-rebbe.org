@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>Титульный лист дела с архивными пометками и, вероятно, поздними вставками</p></abstract>
+      <creation><date when="1825-10-02">2 октября 1825</date></creation>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body><pb n="000-1"/></body></text>
+  <text xml:lang="ru"><body>
+    <pb n="000-1"/>
+    <fw type="docNum">№ 140/170</fw>
+    <fw type="docNum"><del rend="overstrike">№ 137</del></fw>
+    <fw type="note" place="right">по <placeName ref="Могилевская_губерния">Могилевской губерніи</placeName></fw>
+    <fw type="note">
+      <l>Витебское отд. Госархивов</l>
+      <l>Фонд № – Дело № 215 Сп. 49</l><note place="end">штамп госархива</note>
+    </fw>
+    <head>
+      <l>О слѣдствіи произведенномъ</l>
+      <l>Г.Г. Логиновымъ и Марковымъ</l>
+      <l>надъ <hi rend="superscript">витебским</hi><note place="end">вероятно, поздняя вставка</note> <persName ref=
+      "мителер_ребе">раввиномъ Шнейеромъ</persName> о</l>
+      <l>непозволительныхъ поборахъ денегъ.</l>
+      <l>с целью увеличения доходов<note place="end">строка вписана в советское время, другим почерком и с учетом
+      современной орфографии</note></l>
+      <l><date when="1825-10-02">2 октября 1825</date>._</l>
+      <l>Кончено. <date when="1826-08-25">25|VIII 1826<note place="end">год, вероятно, вписан позднее</note></date></l>
+    </head>
+    <fw type="note" place="left margin">
+      <l>Центр. Гос. Исторический</l>
+      <l>Архив МВД СССР</l>
+      <l>Фонд № 1297</l>
+      <l>Инв. № 611</l>
+      <l>Справа<note place="end">"дело" на белорусском языке</note> <unclear>???</unclear> 44</l><note place="end">штамп
+      госархива</note>
+    </fw>
+    <fw type="note" place="left margin">На 122 листахъ.</fw>
+  </body></text>
 </TEI>
