@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Симха Кисинъ</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Отредактированная первая страница доноса <persName>Симхи Кисина</persName></p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
+    <fw type="pageNum" place="right">3.</fw>
+    <fw type="note" place="left margin">никъ</fw>
+    <salute>
+      <l>Ваше Сіятельство._</l>
+      <l>Милостивой Государь._</l>
+    </salute>
+    <p>
+      <l>Усилившаяся въ наемъ народѣ <orgName ref="Хасиды">секта каролин<lb/>
+       ская</orgName> чрезъ умершаго ихъ равина <persName ref="alter-rebbe">Залмана шней-<lb/>
+       ера</persName> а нынѣ чрезъ сына его <persName ref="мителер_ребе">Берку Шнейера</persName> кото</l>
+      <l>рой поступилъ равиномъ на мѣста отца своего,</l>
+      <l>старается умножить къ своей секте легко мы</l>
+      <l>сленныхъ людей и темъ умножить себе <emph rend="underline">денежной</emph></l>
+      <l>приходъ, и такимъ образомъ разпространить</l>
+      <l>силу свою надъ настоящими евреями, когда же</l>
+      <l><emph rend="big">Высочайше утвержденнымъ</emph> положеніемъ о евре</l>
+      <l>яхъ позволено имъ имѣть особыя свои пришколки</l>
+      <l><emph rend="underline">и равиновъ и на оное</emph> сделались столь дерзки что</l>
+      <l>приняли себе пришколокъ въ округе нашихъ дворовъ</l>
+      <l>а въ шклове даже и въ самой Большой Синагоге</l>
+      <l>комнату, и тамъ вопреки нашихъ настоящихъ</l>
+      <l>еврѣевъ <emph rend="underline">отправляютъ Богуслуженіе по принятому</emph></l>
+      <l><emph rend="underline">ими азіятскому обряду</emph>, и завладѣвши типо-</l>
+      <l>графіями учрежденными въ сдешнихъ губерніяхъ</l>
+      <l><emph rend="underline">печатаютъ книги для ежедневнаго Богу служенія</emph></l>
+      <l><emph rend="underline">по азіятскому обряду а нѣпо европейскому, а нашимъ</emph></l>
+      <l>настоящимъ евреямъ настоитъ большое затру</l>
+      <l>дненіе достать книгъ печатныхъ по европей-</l>
+      <l>скому обряду, свѣрхъ того принуждаютъ насъ</l>
+      <l>настоящихъ еврѣевъ <emph rend="underline">употреблять говядину</emph></l>
+      <l>не иначе какъ съ резьбы изобретенной <orgName ref="Хасиды">сею сектою</orgName></l>
+      <l>чемъ крайнѣ стесняютъ настоящихъ еврѣевъ,</l>
+    </p>
     <pb n="003-2" missing="true"/>
   </body></text>
 </TEI>
