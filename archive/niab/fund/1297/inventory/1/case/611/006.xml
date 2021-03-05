@@ -1,20 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Распоряжение (вероятно, подписанное губернатором) о расследовании в отношении <persName ref="мителер_ребе"
+        >Дов-Бера Шнеерсона</persName> по доносу <persName ref="Кисин_Симха">Симхи Кисина</persName>
+      </p></abstract>
+      <creation><date when="1825-10-02">2 октября 1825</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
-    <pb n="006a-1"/>
+    <fw type="pageNum" place="right">6.</fw>
+    <fw type="note" place="left margin">
+      <l><date when="1825-10-02">2 октября 1825</date></l>
+      <l><fw type="docNum">№ 4831<hi rend="superscript">и</hi></fw></l>
+    </fw>
+    <fw type="note" place="left margin">пи</fw>
+    <salute>
+      <l>Состоящимъ при мнѣ чиновникамъ</l>
+      <l>по особымъ порученіямъ, ГГ. полков</l>
+      <l>нику Логинову <del rend="overstrike">и</del> надворному совѣт-</l>
+      <l>нику Маркову, и <hi rend="superscript"><unclear>???</unclear> Марозову</hi> <del rend="overstrike">просителю
+      <unclear>моей</unclear></del></l>
+      <l>канцеляріи надворному совѣтнику</l>
+      <l><unclear>Форшицину</unclear></l>
+    </salute>
+    <p>
+      <l>Жительствующій въ <placeName ref="Витебск">Витебскѣ</placeName></l>
+      <l>еврей <persName ref="Кисин_Симха">Симха Кисинъ</persName> въ <date when="1825-06-??">јюне<lb/>
+       мѣсяцѣ сего года</date> подалъ мнѣ проситель-</l>
+      <l>ное письмо, въ коемъ жалуясь на</l>
+      <l>усилив<del rend="overstrike">ающуюся</del> <hi rend="superscript">шихся</hi> между еврей-</l>
+      <l>скимъ обществомъ <orgName ref="Хасиды">секту, назы-<lb/>
+       ваемую каролинскою или хосо-<lb/>
+       довъ</orgName>, притѣсняющую разными</l>
+      <l>способами настоящихъ или старо-</l>
+      <l>законныхъ евреевъ, между прочимъ</l>
+      <l>изъясняетъ, что раввинъ означен</l>
+      <l>ной <orgName ref="Хасиды">секты</orgName> <persName ref="мителер_ребе">Берка Шнейеръ</persName>, <del rend=
+      "overstrike">къ</del></l>
+      <l>распростран<del rend="overstrike">енію</del> <hi rend="superscript">яя</hi> сил<del rend="overstrike">ы</del>у
+      сво<del rend="overstrike">ю</del> <hi rend="superscript">и</hi>, умно</l>
+      <l>жаетъ свой доходъ, который <hi rend="superscript">для прихотей его</hi> соби-</l>
+      <l>рается съ его послѣдователей въ</l>
+      <l>значительномъ количествѣ особо</l>
+      <l>посылаемыми отъ него людьми.</l>
+      <l>Въ удостовѣреніе сего, <persName ref="Кисин_Симха">Кисинъ</persName></l>
+      <l>представилъ мнѣ подлиникъ <hi rend="superscript">на еврейскомъ языкѣ</hi> пи-</l>
+      <l>санный в 1813 году и подписанный <persName ref="мителер_ребе">Шнейеромъ</persName></l>
+      <l>денежный документъ съ <unclear>переводомъ</unclear><note place="end">фрагмент текста на краю листа утрачен,
+      восстановлено по смыслу</note></l>
+      <l>на р<unclear>???</unclear>ой.<note place="end">вероятно, "русской": фрагмент текста утрачен</note></l>
+    </p>
+    <fw type="note" place="lower margin"><unclear><del rend="overstrike">10.</del></unclear></fw>
     <pb n="006-2"/>
+    <fw type="pageNum" place="right">6об<note place="end">номер вписан карандашом</note></fw>
+    <p>
+      <l>Изъ документа сего видно,</l>
+      <l>что раввинъ <persName ref="мителер_ребе">Шнейеръ</persName> по смер</l>
+      <l>ти отца своего <persName ref="alter-rebbe">Залмана</persName> изъ</l>
+      <l>числа собранной суммы чет-</l>
+      <l>вертую часть; 35/т рублей со-</l>
+      <l>составляющую разделивъ между</l>
+      <l>своимъ семействомъ и родст-</l>
+      <l>венниками на одну только</l>
+      <l>половину года, на расходы и</l>
+      <l>въ видѣ подарковъ. Доку-</l>
+      <l>ментъ сей, по изъясненію</l>
+      <l><persName ref="Кисин_Симха">Кисина</persName>, достался ему</l>
+      <l>въ 1822<hi rend="superscript">м</hi> году слѣдующимъ</l>
+      <l>образомъ: когда онъ <persName ref="Кисин_Симха">Кисинъ</persName></l>
+      <l>нашелъ въ Шкловѣ большое разстройство</l>
+      <l>чрезъ завладѣніе каролинскою <orgName ref="Хасиды">сек<lb/>
+       тою</orgName> комнаты въ синагогѣ,</l>
+      <l>и старозаконные евреи намѣ-</l>
+      <l>рены были принести на то</l>
+      <l>жалобу начальству; тогда близ-</l>
+      <l>сcrq приятель <persName ref="мителер_ребе">Шнейдера</persName>, шклов-</l>
+      <l>сcrq житель <persName>Пинхусъ Шикъ</persName></l>
+      <l>упросилъ <persName ref="Кисин_Симха">Кисина</persName>, чтобъ онъ</l>
+      <l>отвлекъ ихъ от сего, а самъ</l>
+      <l>удостовѣрясь, что онъ уговоритъ</l>
+      <l><unclear>???</unclear> не притѣснять ихъ и</l>
+      <pb n="007-1"/>
+      <fw type="pageNum" place="right">7.</fw>
+      <fw type="note" place="left margin">ръ</fw>
+      <l>и въ залогъ сего оставилъ</l>
+      <l>у его сей документъ, кото-</l>
+      <l>рый въ послѣдствіи времени</l>
+      <l>лишъ перерведенъ на руской</l>
+      <l>языкъ. Но послѣ того <persName>Пин<lb/>
+       хусъ Шикъ</persName> умеръ, а рав-</l>
+      <l>винъ не только <hi rend="superscript">не</hi> пересталъ</l>
+      <l>притѣснять старозакон-</l>
+      <l>ныхъ евреевъ, но сдѣлался</l>
+      <l>еще дерзновеннѣе.</l>
+    </p>
+    <p>
+      <l>Принимая въ соображе-</l>
+      <l>ніе вышеизъясненныя <hi rend="superscript">доводы</hi> <del rend="overstrike">об</del></l>
+      <l><del rend="overstrike">стоятельства,</del> <hi rend="superscript"><persName ref="Кисин_Симха"
+      >Кисина</persName></hi><note place="end">далее следует вставка на левом поле листа</note> въ высочайше</l>
+      <closer place="left">
+        <l>коими обнаруживается,</l>
+        <l>что еврейской раввинъ</l>
+        <l><orgName ref="Хасиды">каролинской секты</orgName><note place="end">строка вписана между ранее
+        написанными</note></l>
+        <l>
+          <persName ref="мителер_ребе">Берка Шнейеръ</persName>
+          <del rend="overstrike">для</del>
+        </l>
+        <l><del rend="overstrike">прихотей своихъ</del> соби</l>
+        <l>раетъ чрезъ особо дове</l>
+        <l>ренныхъ людей <del rend="overstrike">соби</del>-</l>
+        <l><del rend="overstrike">раетъ</del> съ собратіи</l>
+        <l>своей значительныя</l>
+        <l>суммы на собствен-</l>
+        <l>ныя прихоти,</l>
+      </closer>
+      <l>утвержденнаго въ 9<hi rend="superscript">и</hi> день декаб<lb/>
+       ря 1804 года положенія о</l>
+      <l>евреяхъ коего въ 5<hi rend="superscript">й</hi> статье</l>
+      <l>сказано: „поелику раввинство</l>
+      <l>есть должность почетная,</l>
+      <l>а не доходная: то раввинамъ</l>
+      <l>строго запрещается за</l>
+      <l>раввинство налагать поборы</l>
+      <l>или требовать себѣ воз-</l>
+      <l>мездія какого бы роду</l>
+      <l>оно ни бьло, а должны</l>
+      <l>довольствоваться опредѣ-</l>
+      <l>леннымъ отъ обще<unclear>ства</unclear><note place="end">часть текста утрачена</note></l>
+      <l><unclear>жалованьем.„</unclear><note place="end">текст поврежден и не читается, восстановлен по тексту
+      "Положения" 1804 г.</note></l>
+      <pb n="007-2"/>
+      <fw type="pageNum" place="right">7об<note place="end">номер страницы вписан карандашом</note></fw>
+      <l>Обязанностію моею поста-</l>
+      <l>вилъ обстоятельства сіи при</l>
+      <l>вести въ надлежащую ясность</l>
+      <l>посредствомъ формальнаго</l>
+      <l>изысканія; и для того приз-</l>
+      <l>вавъ сюда <del rend="overstrike">и</del> раввина</l>
+      <l><persName ref="мителер_ребе">Шнейера</persName>, поручаю произвести</l>
+      <l>оное <hi rend="superscript">вамъ въ совокупности.</hi> <del rend="overstrike">вашимъ высокоблаго-</del></l>
+      <l><del rend="overstrike">родіямъ.</del></l>
+    </p>
+    <p>
+      <l>На сей конецъ препрово-</l>
+      <l>ждаю у сего означенный</l>
+      <l>денежный документъ въ</l>
+      <l>подлинникѣ, <del rend="overstrike">и его</del> переводъ</l>
+      <l><del rend="overstrike">на</del> онаго на руской языкъ</l>
+      <l>и два <hi rend="superscript">партикулярныхъ</hi> письма раввина</l>
+      <l><persName ref="мителер_ребе">Шнейера</persName> <del rend="overstrike">на</del> по еврейски</l>
+      <l>писанныя къ <persName ref="Кисин_Симха">Кисину</persName>, въ</l>
+      <l>удостовѣреніе, что тотъ до-</l>
+      <l>кументъ <del rend="overstrike">на</del> дѣйствительно пи</l>
+      <l>санъ его рукою, предлагаю</l>
+      <l>вамъ удостовѣрясь въ дѣйстви</l>
+      <l>тельности, <hi rend="superscript">что</hi> тотъ документъ, <del rend="overstrike">доз</del>-</l>
+      <l><del rend="overstrike">нать: какія суммы <unclear>???</unclear></del></l>
+      <l>писанъ и подписанъ раввиномъ</l>
+      <l><persName ref="мителер_ребе">Шнейеромъ</persName>, дознать какія</l>
+      <l>суммы въ ономъ значущіяся,</l>
+      <pb n="008-1"/>
+      <fw type="pageNum" place="right">8.</fw>
+      <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+      канцеляриста</note></fw>
+      <l>раздѣлены имъ между родствен</l>
+      <l>никами его, ежели оной</l>
+      <l>суть изъ числа поборовъ</l>
+      <l>съ еврейскаго общества, то</l>
+      <l>кѣмъ деньги сіи собирались,</l>
+      <l>на <del rend="overstrike">какомъ</del> основаніи какого</l>
+      <l>закона, до какого количества</l>
+      <l>въ годъ, по уравнительной ли</l>
+      <l>раскладкѣ съ душъ или</l>
+      <l>по состоянію каждаго, <del rend="overstrike">и по</del></l>
+      <l>сіи даются ли въ израсхо-</l>
+      <l>дованіи ихъ отчеты, когда</l>
+      <l>и кому именно?_ <del rend="overstrike">Въ</del></l>
+      <l><del rend="overstrike">настоящемъ случаѣ или <unclear>хотя</unclear></del></l>
+      <l>
+        <del rend="overstrike">вытребовать отъ</del>
+        <del rend="overstrike"><persName ref="Кисин_Симха">Симхи<lb/>
+         Кисина</persName></del>
+        <del rend="overstrike">доказательствъ</del>
+      </l>
+      <l><del rend="overstrike">къ подкрепленію <del rend="overstrike">имъ</del></del></l>
+      <l><del rend="overstrike">его доноса</del></l>
+    </p>
+    <p>
+      <l>Если же въ чемъ либо най-</l>
+      <l>дете нужнымъ имѣть яс-</l>
+      <l>нѣйшія доказательства или</l>
+      <l>улики , имѣете требовать</l>
+      <l>оныхъ отъ <persName ref="Кисин_Симха">Симхи Кисина</persName></l>
+      <l>и отъ техъ свидѣтелей, кото</l>
+      <l>рые имъ будутъ по<unclear>требны</unclear><note place="end">текст в конце строки поврежден и не читается</note>
+      </l>
+      <pb n="008-2"/>
+      <fw type="pageNum" place="right">8 об<note place="end">номер вписан карандашом</note></fw>
+      <l>и объ оказавшемся съ представ</l>
+      <l>леніемъ подлиннаго свѣденія</l>
+      <l><del rend="overstrike">обо вс</del> мнѣ донести.</l>
+    </p>
+    <pb n="006a-1"/>
     <pb n="006a-2"/>
-    <pb n="007-1"/>
     <pb n="007a-1"/>
-    <pb n="007-2"/>
     <pb n="007a-2"/>
-    <pb n="008-1"/>
     <pb n="008a-1"/>
-    <pb n="008-2"/>
   </body></text>
 </TEI>
