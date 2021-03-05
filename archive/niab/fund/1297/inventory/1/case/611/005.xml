@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName ref="Кисин_Симха">Симха Кисин</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Второй донос <persName ref="Кисин_Симха">Симхи Кисина</persName> – о денежных сборах, якобы поступавших к
+        <persName ref="мителер_ребе">Дов-Беру Шнеерсону</persName>
+      </p></abstract>
+      <creation><date when="1825-07-??">июль 1825 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="005-1"/>
+    <fw type="pageNum" place="right">5.</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l>Ваше Сіятельство!_</l>
+      <l>Милостивый Государь</l>
+    </head>
+    <p>
+      <l>По приказанію Вашего Сіятельства имѣю</l>
+      <l>щастіе симъ въ дополненіе поданной мною</l>
+      <l>просьбы изъяснить: докумѣнтъ о дележе <orgName ref="Хасиды">хосид<lb/>
+       ской королинской секты</orgName> равина <persName ref="мителер_ребе">Берки шнейера</persName> со</l>
+      <l>ставленъ въ прошломъ 1813<hi rend="superscript">м</hi> году, Собираемые</l>
+      <l>деньги какъ отцомъ его умершаго <persName ref="alter-rebbe">Залмана Бору-<lb/>
+       ховича Шнейера</persName> такъ же имъ <persName ref="мителер_ребе">Беркою Шнѣйеромъ</persName></l>
+      <l>собираемые суть ни для чего инаго какъ только</l>
+      <l>для собственной его <persName ref="мителер_ребе">Шнейера</persName> пользы и прихоти,</l>
+      <l>въ оной же суммы мы настоящіе евреи не токмо</l>
+      <l>не участвуемъ но и оне собираются отъ людей</l>
+      <l>оной <orgName ref="Хасиды">секты</orgName> чрезъ посылаемыя отъ его <persName ref="мителер_ребе"
+      >Шнейера</persName></l>
+      <l>людей мимо вѣдома и воли настоящихъ еврѣ-</l>
+      <l>евъ._</l>
+    </p>
+    <p>
+      <l>О чемъ имѣю честь Вашему Сіятельству</l>
+      <l>довѣсти къ сведенію и благоуваженію._</l>
+      <l>Вашего Сіятельства</l>
+      <l>Милостиваго Государя</l>
+      <l><signed>всенижайшій Слуга<lb/>
+       <persName ref="Кисин_Симха">Симха Кисинъ</persName></signed></l>
+    </p>
+    <closer place="left"><l><date when="1825-07-??">Јюля дня<note place="end">число не проставлено</note><lb/>
+     1825 года</date></l></closer>
     <pb n="005-2" missing="true"/>
   </body></text>
 </TEI>
