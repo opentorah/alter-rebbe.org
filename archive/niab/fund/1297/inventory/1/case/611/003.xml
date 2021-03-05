@@ -2,11 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Симха Кисинъ</persName></author>
+      <author><persName ref="Кисин_Симха">Симха Кисин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>Отредактированная первая страница доноса <persName>Симхи Кисина</persName></p></abstract>
-    </profileDesc>
+    <profileDesc><abstract><p>
+      Отредактированная первая страница доноса <persName ref="Кисин_Симха">Симхи Кисина</persName>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
