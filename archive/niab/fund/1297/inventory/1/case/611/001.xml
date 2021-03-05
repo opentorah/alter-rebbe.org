@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Симха Кисин</persName></author>
+      <author><persName ref="Кисин_Симха">Симха Кисин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Донос, подписанный именем <persName>Симхи Кисина</persName> на <persName ref="мителер_ребе">Дов-Бера
-        Шнеерсона</persName>
+        Донос, подписанный именем <persName ref="Кисин_Симха">Симхи Кисина</persName> на <persName ref="мителер_ребе"
+        >Дов-Бера Шнеерсона</persName>
       </p></abstract>
       <creation><date when="1824-05-??">маія дня</date></creation>
     </profileDesc>
@@ -164,7 +164,7 @@
       <l>Вашего Сіятельства</l>
       <l>Милостивого Государя</l>
       <l>всенижаишій слуга</l>
-      <l><persName>Симха Кисинъ</persName></l>
+      <l><signed><persName ref="Кисин_Симха">Симха Кисинъ</persName></signed></l>
     </p>
     <fw type="note" place="left margin"><date when="1824-05-??">маія дня</date></fw><note place="end">поврежденный текст
     на нижнем поле листа</note>
