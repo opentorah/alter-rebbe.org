@@ -1,11 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>вице-губернатор <persName>Могучий</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Донесение генерал-губернатору Хованскому о расходах на доставку <persName ref="мителер_ребе">Дов-Бера
+        Шнеерсона</persName> в <placeName ref="Витебск">Витебск</placeName> для допроса
+      </p></abstract>
+      <creation><date when="1825-10-17">17 октября 1825</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="012-1"/>
-    <pb n="012-2"/>
+    <fw type="pageNum" place="right">12</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">13</del>.</fw>
+    <fw type="docNum">№ 9379.</fw>
+    <fw type="note" place="right"><date when="1825-10-17">17<hi rend="superscript">го</hi> октября 1825</date>.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <fw type="note" place="left margin">Къ свѣденію и дѣлу</fw>
+    <head>
+      <l><emph rend="big">Его Сіятельству</emph></l>
+      <l>Господину генералъ губернатору витеб-</l>
+      <l>скому Могилевскому Смоленскому и</l>
+      <l>Калужскому генералъ лейтенанту</l>
+      <l>сенатору и кавалеру князю <persName>Николаю<lb/>
+       Николаевичу Хованскому</persName></l>
+    </head>
+    <head>
+      <l>Витебской казенной палаты</l>
+      <l>Донесеніе</l>
+    </head>
+    <p>
+      <l>Въ слѣдствїе предложенїя Вашего</l>
+      <l>Сїятельства отъ 7. числа сего октяб<lb/>
+       ря Казенная палата предписала витеб</l>
+      <l>скому уѣздному казначею употребленные</l>
+      <l>изъ собственныхъ на прогоны деньги адъю-</l>
+      <l>тантомъ Вашего <emph rend="big">Сїятельства</emph></l>
+      <pb n="012-2"/>
+      <fw type="pageNum" place="right">12 об<note place="end">номер проставлен карандашом после помещения дела в
+      архив</note></fw>
+      <l>лейбъ-гвардїи поручикомъ <persName>Чевкинымъ</persName> по-</l>
+      <l>командировкѣ его вмѣстѣ съ частнымъ приста-</l>
+      <l>вомъ здѣшней городской полицїи <persName>Курбацкимъ</persName></l>
+      <l>и жандармомъ въ некоторыя мѣста <placeName ref="Могилевская_губерния">Могилев-<lb/>
+       ской губернїи</placeName> по дѣламъ службы, отъ <placeName ref="Витебск">Витебска</placeName></l>
+      <l>до Орѣховъ<note place="end">деревня Орехи, ныне г. Ореховск Витебской обл. <placeName ref="Белоруссия"
+      >Белоруссии</placeName></note> за 65. верстъ по 8<hi rend="superscript">ко</hi> на 6. лошадей 31. руб.;</l>
+      <l>20<hi rend="superscript">ко</hi> отъ Орѣховъ чрезъ Дубровку до мѣстечка</l>
+      <l><placeName ref="Любавичи">Любавичъ</placeName> и отътоль до Бабиновичъ<note place="end">Бабиновичи - город,
+      уездный центр Могилевской губернии, впоследствии – деревня</note> за 77½ по 5<hi rend="superscript">ко</hi></l>
+      <l>23. руб: 25<hi rend="superscript">ко</hi> отъ Бабиновичъ до Шклова за 77½ по</l>
+      <l>8<hi rend="superscript">ко</hi> 37. руб: 20<hi rend="superscript">ко</hi> отъ Шклова до <placeName ref=
+      "Витебск">Витебска</placeName> за</l>
+      <l>124½ по 8<hi rend="superscript">ко</hi> за 9. лошадей 89. рублей 64<hi rend="superscript">ко</hi> всего 181
+      руб:</l>
+      <l>29 копѣекъ отпустить подъ росписку порут-</l>
+      <l>чика <persName>Чевкина</persName>; о чемъ Вашему Сїятельству</l>
+      <l>честь имѣетъ донести.</l>
+      <l><signed>Вицѣ губернаторъ <persName>Могучій</persName>_</signed></l>
+      <l><signed>Губернскій казначей <unclear>???</unclear></signed></l>
+      <l><signed>Губернскій контролеръ <unclear>???</unclear></signed></l>
+      <l><signed>Писецъ <unclear>???</unclear></signed></l>
+      <l><unclear>Столоначальникъ <unclear>???</unclear></unclear></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 11124</fw>.</l>
+      <l><date when="1825-10-13">Октября 13 дня<lb/>
+       1825. года</date></l>
+    </closer>
   </body></text>
 </TEI>
