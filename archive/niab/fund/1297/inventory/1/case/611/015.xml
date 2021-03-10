@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName ref="мителер_ребе">Дов-Бер Шнеерсон</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Прошение <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> о скорейшем завершении следствия
+      </p></abstract>
+      <creation><date when="1825-11-04">Ноября 4 дня 1825 года</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="015-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">16</del>.</fw>
+    <fw type="pageNum" place="right">15</fw>
+    <fw type="note" place="right">
+      <l>МП<note place="end">место печати</note></l>
+      <l>цѣна одинъ</l>
+      <l>рубль</l><note place="end">три строки обведены по окружности, символизирующей место печати</note>
+    </fw>
+    <head>
+      <l>Записка</l>
+      <l>отъ <persName ref="мителер_ребе">рабина Шнеера</persName></l>
+    </head>
+    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <p>
+      <l>Всевышнимъ Создателемъ дарен-</l>
+      <l>ное Вашему Сіятельству право</l>
+      <l>судіе ободряетъ меня имѣть твердую</l>
+      <l>надежду, что правота моя побе-</l>
+      <l>дитъ несправедливо учиненныхъ на</l>
+      <l>меня клеветъ въ чемъ я въ безъ</l>
+      <l>прерывномъ ожиданіи, но совершенно</l>
+      <l>слабое мое здоровье ежечасто отъ сего</l>
+      <l>боліе разстроивающее понуждаетъ</l>
+      <l>меня взять смѣлость утруж-</l>
+      <l>дать Ваше Сіятельство, и всени</l>
+      <l>жайше просить о скорѣйшемъ окон-</l>
+      <l>чаніи моей участи.</l>
+    </p>
+    <closer place="left"><l><date when="1825-11-04">Ноября 4 дня<lb/>1825 года</date></l></closer>
     <pb n="015a-1"/>
     <pb n="015-2" missing="true"/>
   </body></text>
