@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Соглашение о передаче дела о долге витебского еврея местному помещику на рассмотрение <persName ref=
+        "мителер_ребе">Дов-Бера Шнеерсона</persName> как третейского судьи
+      </p></abstract>
+      <creation><date when="1817-05-24">1817 года мая 24 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="033-1"/>
+    <fw type="pageNum" place="right">33</fw>
+    <fw type="pageNum" place="right">34.</fw>
+    <fw type="note" place="right">Копія</fw>
+    <head><emph rend="underline">E.</emph></head>
+    <p>
+      <l><date when="1817-05-24">1817 года мајя 24 дня</date> <placeName ref="Витебская_губерния">Витебской гу-<lb/>
+       берніи</placeName> Суражскаго повѣта нижеподписавшіеся</l>
+      <l>помѣщикъ <persName>Иванъ Nитославскій</persName> и <persName>Шайко<lb/>
+       Берковичъ Аварба</persName>. Имѣя я <persName>Nитославскій</persName> на</l>
+      <l>сказанномъ <persName>Шайкѣ Берковичѣ</persName> денежнаго</l>
+      <l>долга суммою семь тысячъ рублей ассигна-</l>
+      <l>ціями <note type="gloss">|: которымъ деньгамъ уже сроки ми-<lb/>
+       нули :|</note> не хотя имѣть съ нимъ <persName>Шайкомъ</persName></l>
+      <l>по судѣбнымъ мѣстамъ тяжбы <choice><sic>согласися</sic><corr>согласилися</corr></choice></l>
+      <l>мы обѣ между собою стороны миролюбиво</l>
+      <l>третейскимъ судомъ кончить, а имянно:</l>
+      <l>на раввина любавицкаго <persName ref="мителер_ребе">Берку Залмано-<lb/>
+       вича Шнеера</persName>, а что отъ него раввина</l>
+      <l>приговорено въ семъ дѣле будетъ: то мы</l>
+      <l>обѣ стороны за ненарушимо принимая,</l>
+      <l>спорить и прекословить не будемъ,</l>
+      <l>въ чемъ при упрошенныхъ свидѣтеляхъ</l>
+      <l>собственноручно подписуемся. <placeName ref="Любавичи">Мѣстечко<lb/>
+       Любавичь</placeName>.</l>
+    </p>
+    <p>
+      <l>На подлинномъ подписались</l>
+      <l>
+        <signed><persName>А<unclear>???</unclear> <unclear>Б???</unclear> Дризинскій</persName> подсудокъ<note place=
+        "end">помощник судьи</note></signed>
+        <persName>Иванъ Nитославскій</persName>
+      </l>
+      <l>При семъ миролюбивомъ документѣ былъ свидѣте</l>
+      <l>лемъ велижскій купецъ <persName>Шмерко Бельямино-<lb/>
+       вичъ Берковичъ</persName></l>
+    </p>
     <pb n="033a-1"/>
     <pb n="033-2" missing="true"/>
   </body></text>
