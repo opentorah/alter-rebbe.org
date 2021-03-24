@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Михаль Шлиомович</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>Сообщение Михаэля Шлиомовича Дов-Беру Шнеерсону о пересылке 1 тыс. рублей ассигнациями</p></abstract>
+      <creation><date when="1825-01-26">26 января (18 числа месяца Шват) 1825 года</date></creation>
+      <correspDesc><correspAction><persName ref="мителер_ребе" role="addressee">Дов-Беру Шнеерсону</persName>
+      </correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="044-1"/>
+    <fw type="pageNum" place="right">44</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">45.</del></fw>
+    <fw type="note" place="right">Копія</fw>
+    <head>
+      <l><emph rend="big">L</emph>.</l>
+      <l><emph rend="underline">Переводъ съ еврейскаго</emph></l>
+    </head>
+    <p>
+      <l>Божіею помощію, <date when="1825-01-26">18 еврейскаго генваря,<lb/>
+       прозываемаго Шватъ 1825 года</date>. Nиколаевъ<note place="end">возможно, местечко Николаев Виленской губернии,
+      ныне дер. Миколаево Гродненской обл. Белоруссии</note>.</l>
+      <l>Господину равину и nаставнику</l>
+      <l>нашему, публикѣ извѣстному, его Чести</l>
+      <l><persName ref="мителер_ребе">Беру</persName>, вложенныя здѣсь тысячу рублей</l>
+      <l>ассигнаціями посылаю чести Вашей;</l>
+      <l>и Божіею волею достальныхъ по желанію</l>
+      <l>Вашему пришлю по почтѣ въ продолже</l>
+      <l>нји времени прежде Пасхальнаго праз</l>
+      <l>дника. Кромѣ же того новостей нѣтъ.</l>
+      <l>Сіе говоритъ <persName>Михоель Шліомовичъ</persName></l>
+      <l>изъ <placeName ref="Лиозно">Лосни</placeName>.</l>
+    </p>
+    <p>
+      <l>Сіе переводилъ и подлинникъ помѣ-</l>
+      <l>тилъ <persName>Исай Финкелштейнъ</persName> пере-</l>
+      <l>водчикъ.</l>
+    </p>
+    <fw type="note" place="right">
+      <l>мѣсто</l>
+      <l>печати</l>
+    </fw>
     <pb n="044-2" missing="true"/>
   </body></text>
 </TEI>
