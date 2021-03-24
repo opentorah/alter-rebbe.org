@@ -1,12 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Два протокла допросов <persName>Аарона Мовшевича Левина</persName> о денежных сборах, поступающих к <persName
+        ref="мителер_ребе">Дов-Беру Шнеерсону</persName>
+      </p></abstract>
+      <creation><date when="1825-10-28">1825 года октября 28 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="045-1"/>
+    <fw type="pageNum" place="right">45</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">46</del>.</fw>
+    <fw type="note" place="left margin">Се</fw>
+    <head><l>Ј.</l></head>
+    <p>
+      <l><persName>Ааронъ Мовшовичъ Левинъ</persName>, Дризин</l>
+      <l>скій мѣщанинъ<note place="end">состоявший в мещанском сословии г. Дриссны <placeName ref="Витебская_губерния"
+      >Витебской губернии</placeName></note>, отъ роду имѣетъ 58 лѣтъ,</l>
+      <l>женатъ, дѣтей имѣетъ, подъ судомъ не бывалъ,</l>
+      <l>показалъ: предъявленную ему бумагу, заклю-</l>
+      <l>чающую въ себѣ росписаніе сборовъ съ евреевъ</l>
+      <l>въ пользу <persName ref="мителер_ребе">раввина</persName>, онъ не знаетъ; что тор-</l>
+      <l>торговли и промышленности никакой не имѣетъ,</l>
+      <l>а содержитъ себя и свое семейство сборами</l>
+      <l>съ евреевъ, простирающимися до трехъ тысячъ</l>
+      <l>рублей въ годъ, а прежде и до пяти тысячъ</l>
+      <l>рублей, кои собираетъ самъ, ѣздивши по евреямъ,</l>
+      <l>или черезъ брата своего <persName>Боруха</persName>; что покойный</l>
+      <l>раввинъ <persName ref="alter-rebbe">Зальманъ Боруховичъ</persName>, у котораго онъ</l>
+      <l><persName>Ааронъ</persName> учился, принималъ на себя разбирать</l>
+      <l>тяжбы между евреями и между евреями</l>
+      <l>и помѣщиками въ денежныхъ и другихъ</l>
+      <l>расчетахъ и дѣлахъ; но что онъ <persName>Ааронъ</persName></l>
+      <l>никогда не принималъ ни малѣйшаго участія</l>
+      <l>въ общественныхъ еврейскихъ выборахъ. <date when="1825-10-21">1825<lb/>
+       года октября 21 дня</date></l>
+    </p>
+    <p>
+      <l>При допросѣ <date when="1825-10-28">1825 года октября 28<lb/>
+       дня</date> оный <persName>Ааронъ</persName> показалъ: 1<hi rend="superscript">е</hi>) что</l>
+      <pb n="045-2"/>
+      <fw type="pageNum" place="right">45 об<note place="end">номер записан карандашом</note></fw>
+      <l>нѣкоторыхъ особъ, коихъ имена</l>
+      <l>написаны въ вышеупомянутомъ</l>
+      <l>росписаніи сборовъ съ евреевъ въ</l>
+      <l>пользу <persName ref="мителер_ребе">раввина</persName> онъ знаетъ и отъ</l>
+      <l>нихъ деньги получалъ. 2<hi rend="superscript">е</hi>) что</l>
+      <l>письмо, представленное отъ <persName>Симхи<lb/>
+       Кисина</persName> и писанное къ нему <persName>Киси-<lb/>
+       ну</persName> отъ <persName ref="мителер_ребе">Берки Шнеера</persName> и Аарона</l>
+      <l>Мовшовича, дѣйствительно</l>
+      <l>писано рукою <persName ref="мителер_ребе">Берки Шнеера</persName></l>
+      <l>и его <persName>Аарона Мовшовича</persName>,</l>
+      <l>въ чемъ и подписался.</l>
+    </p>
     <pb n="045a-1"/>
-    <pb n="045-2"/>
   </body></text>
 </TEI>
