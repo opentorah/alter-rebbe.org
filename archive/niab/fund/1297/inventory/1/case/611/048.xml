@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Копия доверенности могилевской хасидской общины, выданной группе ее членов - вероятно, дополнение к документу
+        <ref target="https://www.alter-rebbe.org/niab611/046">[46]</ref>
+      </p></abstract>
+      <creation><date when="1822-07-17">1822 года июля 17 дня</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="048-1"/>
+    <fw type="pageNum" place="right">48.</fw>
+    <fw type="note" place="left margin">рь</fw>
+    <p>
+      <l><date when="1822-07-17">1822 года јюля 17 дня</date> сія довѣренность</l>
+      <l>отъ <orgName ref="Хасиды">общества хосода</orgName> <persName ref="мителер_ребе">любавицкаго рабина</persName>
+      </l>
+      <l>отъ имени всего братства собратіевъ города</l>
+      <l>Могилева жителей евреевъ въ Могилевскомъ</l>
+      <l>городовомъ магистратѣ явлена и въ книгу</l>
+      <l>подъ <fw type="docNum">№ 51</fw> записана, а что онаго съ воли</l>
+      <l>и согласія Могилевскихъ мѣщанъ <persName>Литмана<lb/>
+       Абрамовича Ліокревича</persName>, <persName>Лейбы Пеузнера</persName></l>
+      <l><persName>Хайма Шимановича Быховскаго</persName> <persName>Шимеля<lb/>
+       Мовшовича Шейнина</persName> и протчихъ въ оной</l>
+      <l>подписавшихся писаны и собственными ихъ</l>
+      <l>руками подписаны, въ томъ сей магистратъ</l>
+      <l>подписалъ присутствующимъ съ приложе-</l>
+      <l>ніемъ казенной печати свидѣтельствует</l>
+      <l><signed>Бургомистр <persName><unclear>Мизлон</unclear></persName>_</signed></l>
+      <l><signed>ратманъ <persName>нахманъ Лахманъ</persName></signed></l>
+    </p>
+    <fw type="note" place="left">МП<note place="end">буквы обведены по окружности, изображая место печати в оригинальном
+    документе</note></fw>
     <pb n="048-2" missing="true"/>
   </body></text>
 </TEI>
