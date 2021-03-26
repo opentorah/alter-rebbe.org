@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Переводы на русский язык удостоверяющего документа о получении следствием предоставленного <persName ref=
+        "мителер_ребе">Дов-Бером Шнеерсоном</persName> пояснения и расписки переводчика об ответственности за точность
+        перевода
+      </p></abstract>
+      <creation><date when="1825-10-13">1825 октября 13</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="054-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">55</del></fw>
+    <fw type="pageNum" place="right">54</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <p><l><emph rend="underline">писано по еврейски</emph></l></p>
+    <p><l>въ концѣ онаго написано:</l></p>
+    <p>
+      <l>Сіи слова выписанныя съ подлиннаго</l>
+      <l>документа имѣешъ ты равинъ <persName ref="мителер_ребе">Берка<lb/>
+       Шнееръ</persName> представить въ коммисію съ пере-</l>
+      <l>водомъ на русскій языкъ за подписью</l>
+      <l>твоею и переводчика и съ обязательствомъ</l>
+      <l>обѣихъ васъ, что естьли переводъ не-</l>
+      <l>вѣренъ то отвѣтствуете вы оба по</l>
+      <l>законамъ</l>
+      <l>подписалъ надворный совѣтникъ <signed><persName><unclear>Марковъ</unclear></persName></signed></l>
+    </p>
+    <closer place="left"><l><date when="1825-10-13">1825 октября 13</date>.</l></closer>
     <pb n="054-2"/>
+    <fw type="pageNum" place="right">54 об<note place="end">номер записан карандашом</note></fw>
+    <p>
+      <l>На оборотѣ сего еврейскія слова заклю</l>
+      <l>чаютъ на россійскій языкъ слѣдующее:</l>
+    </p>
+    <p>
+      <l>сей раздѣлъ дененгъ, коихъ далъ Господь</l>
+      <l>чрезъ стараніе равина <persName ref="мителер_ребе">Берки</persName> обще съ</l>
+      <l>собранными постоянными деньгами при-</l>
+      <l>мѣрно четвертой части только изъ всей</l>
+      <l>общей сей суммы; Переводилъ и въ случаѣ</l>
+      <l>окажется невѣрно обязуюсь отвѣтство</l>
+      <l>вать по законамъ копыскій мѣщанинъ</l>
+      <l><persName>Юда Јофа</persName>.</l>
+    </p>
+    <p>
+      <l>Сіи же слова съ переводомъ и поясненіемъ</l>
+      <l>равина такожде съ переводомъ, написаны</l>
+      <l>на особомъ листѣ который при семъ</l>
+      <l>же представляется</l>
+      <l>подпись по еврейскій</l>
+      <l>копыскій мѣщанинъ <persName>Юда Јофа</persName></l>
+    </p>
   </body></text>
 </TEI>
