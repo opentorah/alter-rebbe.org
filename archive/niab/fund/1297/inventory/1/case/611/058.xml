@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Недатированный документ без указания составителя – справка о денежных средствах, собранных в пользу неизвестного
+      раввина и обязательста евреев из разных городов о ежегодном перечислении ему таковых средств
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="058-1"/>
@@ -109,14 +115,218 @@
       <l>въ удостовѣреніе подписуюсь <persName>Арья-Лейба Шліомовичъ</persName></l>
       <l>изъ левитовъ</l>
     </p>
+    <pb n="059-1"/>
+    <fw type="pageNum" place="right">59</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">60</del>.</fw>
+    <fw type="note" place="left margin">мощ</fw>
+    <p>
+      <l>13.) Далъ я оному посланному почтен-</l>
+      <l>ному <persName>Евсею Шадору</persName> десять рублей ассиг-</l>
+      <l>націями подписанъ <persName>Ицка Шабсовичъ<lb/>
+       Тарбаковъ</persName> изъ беличахъ изъ Жуковскаго</l>
+      <l>завода.</l>
+    </p>
+    <p>
+      <l>14. Получилъ я отъ <persName>Гдальи Песаховича</persName></l>
+      <l>изъ Алексѣевскаго завода 20 руб. подпи-</l>
+      <l>санъ <persName>Гдалья Пейсаховичъ <unclear>Калышковъ</unclear></persName>.</l>
+    </p>
+    <p>
+      <l>15. Взялъ я на себя не принимая от-</l>
+      <l>вѣтственности предъ богомъ въ испол-</l>
+      <l>неніи дать равину <persName>А.</persName> ежегодно по</l>
+      <l>десяти рублей ассигнаціями во увереніе</l>
+      <l>подписуюсь <persName>Мееръ Наумовичъ бобров<lb/>
+       ской</persName> изъ <unclear>Сибирска</unclear>.</l>
+      <l/>
+    </p>
+    <p><l>Городъ <unclear>Сибирскъ</unclear>.</l></p>
+    <p>
+      <l>16 Получилъ я у <persName>Пинхуса</persName> витебскаго два</l>
+      <l>рубля серебромъ. Получилъ я отъ <persName>Шмуйлы<lb/>
+       партнаго</persName> изъ <unclear>Сибирска</unclear> два рубля сереб</l>
+      <l>ромъ, отъ <persName>Ицки</persName> зятя <persName>Писуна</persName> рещика</l>
+      <l>два рубля серебромъ, И<persName>цка Лейбовичъ</persName></l>
+      <l>золотыхъ дѣлъ мастеръ одинъ рубль</l>
+      <l>серебромъ, а всего восемь рублей серебромъ</l>
+      <l/>
+    </p>
+    <p>
+      <l>17. Подъ литерами <persName>П.Н.</persName> одного рубля ас-</l>
+      <l>сигнаціями два рубля резникъ <persName>Фаивелъ</persName></l>
+      <l>изъ Мстислава. Семь рублей <persName>Хаимъ</persName> водоч-</l>
+      <l>никъ изъ Калуги 25 рублей дѣти доктора</l>
+      <l>докторъ <persName>богатырь Ицка</persName><note place="end">Богатырь - фамилия представителей одного или
+      нескольких еврейских семейств в 1869 г. в г. Городке <placeName ref="Витебская_губерния">Витебской
+      губернии</placeName> проживали Янкель Богатырь, Ицка Богатырь, Хаим Богатырь; см. <ref target=
+      "https://forum.j-roots.info/viewtopic.php?t=5970&start=240">j-roots</ref></note> 250 руб. ассигна-</l>
+      <l>ціями два рубля серебромъ <persName>Хаимъ Пар<lb/>
+       тной</persName>изъ Тулы <persName>Ицка</persName> водочникъ изъ</l>
+      <l>Рязани 10 рублей ассигнаціями <persName>Путатинъ</persName></l>
+    </p>
+    <pb n="059-2"/>
+    <fw type="pageNum" place="right">59 об<note place="end">номер записан карандашом</note></fw>
+    <p>
+      <l>двадцать рублей ассигнаціями <persName>Шоломъ</persName></l>
+      <l>изъ Лосьма, <persName>Янкель</persName> изъ <unclear>Милинксокъ</unclear></l>
+      <l><persName>Янкель Довдовъ</persName> <persName>Лейбы</persName> витебскаго</l>
+      <l>53 рубля ассигнаціями</l>
+      <l>40<note place="end">далее следует надстрочный символический знак рубля</note> серебромъ 25 рублей <persName
+      >Е.Х.</persName></l>
+      <l>_____________</l>
+      <l>476=92</l>
+    </p>
+    <p>
+      <l>Деньги на очищеніе</l>
+      <l>души и постановленныхъ</l>
+    </p>
+    <table>
+      <row>
+        <cell><persName>Модель</persName> резникъ изъ Дубровна</cell>
+        <cell>5</cell>
+      </row>
+      <row>
+        <cell><persName>Мовша Лейзаровичъ</persName></cell>
+        <cell>10</cell>
+      </row>
+      <row>
+        <cell><persName>Шевель Шевелевичъ</persName></cell>
+        <cell>10</cell>
+      </row>
+      <row>
+        <cell><persName>Јосель</persName> изъ Могилева</cell>
+        <cell>5.</cell>
+      </row>
+      <row>
+        <cell><persName>Мендель Мабарь</persName></cell>
+        <cell>5.</cell>
+      </row>
+      <row>
+        <cell>еще</cell>
+        <cell>15</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>50</cell>
+      </row>
+    </table>
+    <p><l>подъ литерами в. р. б и д.</l></p>
+    <table>
+      <row>
+        <cell><persName>Нохимъ</persName> резникъ</cell>
+        <cell>25.</cell>
+      </row>
+      <row>
+        <cell><persName>Михель Гиршовичъ</persName></cell>
+        <cell>50</cell>
+      </row>
+      <row>
+        <cell><persName>Лейба летнинъ</persName></cell>
+        <cell>25</cell>
+      </row>
+      <fw type="note" place="right">
+        <l>еще 10<note place="end">далее следует надстрочный символический знак рубля</note> изъ</l>
+        <l>денегъ р. м.</l>
+        <l>б. н.</l>
+      </fw>
+      <row>
+        <cell>еще получилъ отъ того <persName>Леибы</persName></cell>
+        <cell>50</cell>
+      </row>
+      <row>
+        <cell>
+          <l>С: въ заводѣ боровляенскомъ<note place="end">вероятно, по названию деревни Боровляны в нынешней Минской
+          области <placeName ref="Белоруссия">Белоруссии</placeName></note> полу</l>
+          <l>ченъ до ращета</l>
+        </cell>
+        <cell>975.)</cell>
+      </row>
+    </table>
+    <p>
+      <l>Получилъ я отъ <persName>Менделя</persName> резника изъ</l>
+      <l>Дубровна 16 руб. съ половиною въ заводѣ То</l>
+      <l>лицкомъ</l>
+    </p>
+    <p>
+      <l>Такъже далъ я нижеподписавшійся десять</l>
+      <l>рублей асигнаціями <persName>Абрамъ Мееровичъ<lb/>
+       Рузбургъ</persName>.</l>
+    </p>
+    <pb n="060-1"/>
+    <fw type="pageNum" place="right">60</fw>
+    <fw type="note" place="left margin">никъ</fw>
+    <p>
+      <l>далъ я тридцать рублей ассигнаціями</l>
+      <l>вышесказанный <persName>изроиль Шукевичъ</persName></l>
+    </p>
+    <p>
+      <l>Далъ я сто рублей ассигнаціями</l>
+      <l><persName>Ицка докторъ</persName> и отослалъ по почтѣ, далъ</l>
+      <l>я двадцать пять рублей ассигнаціями</l>
+      <l><persName>Ицка Зусьмановичъ</persName> изъ завода <persName>панина</persName></l>
+      <l>далъ я 25<note place="end">далее следует надстрочный символический знак рубля</note> ассигнаціями <persName
+      >Евзоль Пинха<lb/>
+       совичъ</persName> <unclear>агрумовской</unclear>. Далъ я восемь рублей</l>
+      <l>ассигнаціями <persName>Беръ Давидовичъ</persName> часовой ма-</l>
+      <l>стеръ изъ Тулы, далъ я пять рублей</l>
+      <l>ассигнациями <persName>Вульфъ Евсеевичъ</persName> изъ завода</l>
+      <l><persName>Грушовскаго</persName>. Далъ я 10 рублей ассигнаціями</l>
+      <l>подъ литерами <persName>М.Н. / Менахемъ</persName> сынъ</l>
+      <l><persName><unclear>Баса</unclear></persName> <unclear>изовпенка</unclear>. далъ я пять рублей ассиг-</l>
+      <l>націями <persName>беръ Евеневичъ</persName>, изъ происхожденія</l>
+      <l>священниковъ изъ Могилева изъ завода</l>
+      <l><persName>Грушовскаго</persName> <note type="gloss">|: далъ я десять рублей ассиг-<lb/>
+       націями <persName>Нахмонъ Нохимовичъ</persName> изъ произ-<lb/>
+       хожденія левитовъ, :|</note> почтенный <persName>Аб-<lb/>
+       рамъ Арьевичъ</persName> изъ Тулы 150 руб. асси-</l>
+      <l>гнаціями, еще пять рублей ассигнаціями</l>
+      <l><persName>Ицка Ароновичъ</persName> изъ произхожденія</l>
+      <l>священниковъ одного рубля серебромъ</l>
+      <l>изъ <placeName ref="Витебск">Витебска</placeName>, далъ я 22 рубли ассигна-</l>
+      <l>ціями <persName>довидъ абрамовичъ</persName>. Получилъ я</l>
+      <l>въ городѣ сумму 73 рубли ассиг</l>
+      <l>націями. <persName>Лейзаръ</persName> изъ Дубровна. Получилъ</l>
+      <l>я отъ <persName>Пинхоса</persName> изъ <placeName ref="Ляды">Лядахъ</placeName>, 25 руб. <persName
+      >Пинхосъ</persName></l>
+      <l>Получилъ я отъ изроеля 81 рубль. <unclear>Посланъ</unclear></l>
+      <l>Дуровской 10 руб. ассигнаціями. Получилъ</l>
+      <l>я отъ <persName>Ельи</persName> <persName>Абрама Абелевича</persName> изъ <placeName ref="Ляды"
+      >Лядахъ</placeName></l>
+      <l>восемь рублей ассигнаціями упомянутый <persName>Елья</persName></l>
+      <pb n="060-2"/>
+      <fw type="pageNum" place="right">60 об<note place="end">номер записан карандашом</note></fw>
+      <l>получилъ я отъ <persName>Мордуха Иссахаро<lb/>
+       вича</persName> изъ <unclear>Дурвяцкина</unclear> восемь рублей ассиг-</l>
+      <l>націями, получилъ я отъ почтеннаго</l>
+      <l><persName>Арьи Лейбы</persName> изъ <placeName ref="Витебск">Витебска</placeName> сумму 25 руб.</l>
+      <l>ассигнаціями <persName>Арья-Лейба Пейсаховичъ</persName>.</l>
+      <l>Изъ денегъ даваемыхъ для очищенія души</l>
+      <l>всемнадцать гривень серебромъ. полу-</l>
+      <l>чилъ я отъ почтеннаго <persName>Шевеля хаймо<lb/>
+       вича</persName> изъ произхожденія священниковъ</l>
+      <l>изъ Шклова 25 руб. ассигнаціями.</l>
+      <l><persName>Хаимъ Добинъ</persName> далъ 25 руб. ассигнаціями.</l>
+      <l>Получилъ я отъ <persName>Јоселя Муханенкаго</persName></l>
+      <l>10 руб. ассигнаціями. Получилъ я</l>
+      <l>отъ почтеннаго <persName>Лейзера Абрама Бое-<lb/>
+       зовича</persName> изъ Шклова 10 руб. ассигнаціями</l>
+      <l><persName>Лейзаръ боезовичъ Ланцбургъ</persName>. <persName>Кусыель<lb/>
+       Гершоновичъ</persName> Полоцкой живущій въ</l>
+      <l>городѣ (а далѣе <choice><sic>розорано</sic><corr>разорвано</corr></choice>) а на концѣ</l>
+      <l>того разодранія написнао подъ литерою</l>
+      <l>А. восемъ рублей и тѣмъ сія бумага</l>
+      <l>переводомъ окончена.</l>
+    </p>
+    <p>
+      <l>На подлинникѣ подписалъ переводилъ сіе перевод-</l>
+      <l>чикъ <persName>Јсай Финкелштеинъ</persName></l>
+    </p>
+    <fw type="note" place="right">м.п.<note place="end">буквы обведены по окружности для обозначения места печати на
+    оригинале документа</note></fw>
     <pb n="058a-1"/>
     <pb n="058a-2"/>
-    <pb n="059-1"/>
     <pb n="059a-1"/>
-    <pb n="059-2"/>
     <pb n="059a-2"/>
-    <pb n="060-1"/>
     <pb n="060a-1"/>
-    <pb n="060-2"/>
   </body></text>
 </TEI>
