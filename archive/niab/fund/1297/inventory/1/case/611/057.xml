@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName ref="мителер_ребе">Дов-Бер Шнеерсон</persName></author></titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Ответ <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> на письменный запрос следствия о количестве
+        средств, затраченных на строительство синагоги в <placeName ref="Любавичи">Любавичах</placeName> и приобретение
+        книг для нее
+      </p></abstract>
+      <creation><date when="1825-10-15">октября 15 дня 1825 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="057-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">58</del></fw>
+    <fw type="pageNum" place="right">57</fw>
+    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+    канцеляриста</note></fw>
+    <head>
+      <l>D</l>
+      <l>Въ коммисію составленную по предписанію</l>
+      <l>Его Сіятельства г. генералъ губернатора и</l>
+      <l>кавалера</l>
+      <l>раввина <persName ref="мителер_ребе">Берки Шнеера</persName></l>
+      <l>Объясненіе</l>
+    </head>
+    <p>
+      <l>На запросъ оной коммисіи сего числа <fw type="docNum">№2</fw></l>
+      <l>честь иbv. объяснить что знатнымъ для</l>
+      <l>синагоги приготовленіемъ разумѣлъ я въ данномъ</l>
+      <l>предъ симъ отвѣтѣ то: что на постройку</l>
+      <l>въ мѣстечкѣ <placeName ref="Любавичи">Любавичахъ</placeName> синагоги употреблено</l>
+      <l>6/т руб.на четыре экземпляра пяти томовъ</l>
+      <l>книгъ моисеевыхъ заповѣдей на паргаминѣ</l>
+      <l>выписанныхъ 1500 руб. на внутренній приборъ</l>
+      <l>синагоги какъ то: на крустальные шан-</l>
+      <l>далы<note place="end">полонизм (в данном случае) - люстры, подсвечники</note>, шкафы и прочее 500 рублей,_
+      и</l>
+      <l>на разные религійные книги до 3000 рублей</l>
+      <l>ассигнаціями а какъ постройка всего</l>
+      <l>не вдругъ произведена то и не могу утвер</l>
+      <l>дительно сказать сколько въ число пока-</l>
+      <l>занныхъ расходовъ употреблено изъ раздѣль</l>
+      <l>ной суммы, и сколько изъ поступившаго</l>
+      <l>послѣ того дохода</l>
+      <l>подписалъ по еврейскій</l>
+    </p>
+    <closer place="left"><l><date when="1825-10-15">октября 15 дня<lb/>
+     1825 года</date></l></closer>
     <pb n="057a-1"/>
     <pb n="057-2" missing="true"/>
   </body></text>
