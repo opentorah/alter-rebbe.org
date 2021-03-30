@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Запрос <persName ref="мителер_ребе">Дов-Беру Шнеерсону</persName> в рамках следствия о сумме собранных им
+        средств, направленных на строительство синагоги в <placeName ref="Любавичи">Любавичах</placeName>
+      </p></abstract>
+      <creation><date when="1825-10-15">1825 года октября 15</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="056-1"/>
+    <fw type="pageNum" place="right">56</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">57</del></fw>
+    <fw type="note" place="left margin">рь</fw>
+    <head>
+      <l>E.</l>
+      <l>Раввину <persName ref="мителер_ребе">Беркѣ Шнееру</persName></l>
+      <l>Запросъ</l>
+    </head>
+    <p>
+      <l>Поелику изъ здѣланнаго тобою отвѣта</l>
+      <l>на запросъ коммисіи во 2<hi rend="superscript">мъ</hi> пунктѣ упомя-</l>
+      <l>нуто тобою, что изъ собранной суммы раздѣ</l>
+      <l>лено на знатное приготовленіе для постро</l>
+      <l>енія большой Синагоги и для покупки книгъ,</l>
+      <l>то имѣешь ты донести, какъ велика</l>
+      <l>сумма, употребленная на сіи предметы,</l>
+      <l>въ чемъ состоятъ приготовленія для</l>
+      <l>синагогѣ и гдѣ оныя а равно куленны<unclear>е</unclear><note place="end">обрыв строки</note></l>
+      <l>книги находятся</l>
+      <l>подлинной подписали:</l>
+      <l>полковникъ Логиновъ</l>
+      <l>надворный совѣтникъ Марковъ</l>
+      <l>маіоръ Морозовъ.</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2</fw></l>
+      <l><date when="1825-10-15">1825 года<lb/>
+       октября 15</date>.</l>
+    </closer>
     <pb n="056-2" missing="true"/>
   </body></text>
 </TEI>
