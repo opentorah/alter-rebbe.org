@@ -37,7 +37,21 @@ object Cutter {
     29 -> 400, 46 -> 700, 78 -> 200, 392 -> 500
   )
 
-  def main(args: Array[String]): Unit = cut(392, 568)
+  def main(args: Array[String]): Unit = {
+    //cut(392, 568)
+
+    val n = "418"
+    val directory = new File(s"/home/dub/OpenTorah/BUCKETS/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/case/$n")
+    for (file <- directory.listFiles().sorted) {
+      val (name, extension) = Files.nameAndExtension(file.getName)
+      if (extension.contains("jpg")) {
+        val newName = if (name.endsWith("b")) name.substring(0, name.length - 1) + "-2" else name + "-1"
+        val newFile = new File(directory, newName + ".jpg")
+        println(s"$name -> $newName")
+        file.renameTo(newFile)
+      }
+    }
+  }
 
   private val leftOverlaps: Map[Int, Int] = lvia1799LeftOverlaps
 
