@@ -6,10 +6,14 @@
       <author><persName>Арон Мовшевич Левит</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>
-      Перевод на русский язык переписки <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> и <persName>Арона
-      Мовшевича Левита</persName>
-    </p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод на русский язык письма от<persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> и <persName>Арона
+        Мовшевича Левита</persName> к <persName>Симхе Хананье Литмановичу</persName>
+      </p></abstract>
+      <correspDesc><correspAction><persName role="addressee"><persName>Симхе Хананье Литмановичу</persName></persName>
+      </correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="034-1"/>
@@ -27,7 +31,7 @@
       <l>Господь да умножитъ міръ и благосло</l>
       <l>венія любезному родственнику моему понят-</l>
       <l>ному, умному, публикѣ извѣстному и дѣ-</l>
-      <l>лателю милосердія его чести Симхѣ, свѣча</l>
+      <l>лателю милосердія его чести <persName>Симхѣ</persName>, свѣча</l>
       <l>его свѣтила бы изобіліемъ.</l>
     </p>
     <p>
@@ -76,7 +80,7 @@
     <p>
       <l>Равно и я желаю міръ любимому прі</l>
       <l>ятелю моему почтенному и публикѣ из-</l>
-      <l>вѣстному Симхѣ съ виду вашего письма</l>
+      <l>вѣстному <persName>Симхѣ</persName> съ виду вашего письма</l>
       <l>оказалась ваша любовь и цѣлость сердца</l>
       <l>вашего къ намъ, почему такъ равно и мы</l>
       <l>яко зритель въ водѣ видитъ свое же лицо</l>
@@ -135,8 +139,21 @@
       <l>Подъ симъ на оригиналѣ подписано:</l>
       <l>вышерѣченный <persName>Аронъ</persName>.</l>
     </p>
+    <pb n="035-2"/>
+    <fw type="pageNum" place="right">35 об<note place="end">номер записан карандашом</note></fw>
+    <p>
+      <l>Надпись на оригинальномъ еврейскомъ</l>
+      <l>письмѣ слѣдующая:</l>
+    </p>
+    <p>
+      <l>Любимому моему родственнику почтен-</l>
+      <l>ному публикѣ извѣстному его чести <persName>Симхѣ<lb/>
+       Хананье_ Литмановичу</persName>. Изъ <placeName ref="Ляды">Лядахъ</placeName></l>
+      <l>въ городъ <placeName ref="Витебск">витебскъ</placeName></l>
+      <l>переводилъ переводчикъ <persName>Финкелштейнъ</persName></l>
+      <l/>
+    </p>
     <pb n="034a-1"/>
     <pb n="034a-2"/>
-    <pb n="035-2"/>
   </body></text>
 </TEI>
