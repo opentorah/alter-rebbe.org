@@ -40,8 +40,8 @@ object Cutter {
   def main(args: Array[String]): Unit = {
     //cut(392, 568)
 
-    val n = "418"
-    val directory = new File(s"/home/dub/OpenTorah/BUCKETS/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/case/$n")
+    val directory = new File("/home/dub/OpenTorah/BUCKETS/facsimiles.alter-rebbe.org/archive/" +
+      "niab/fund/1297/inventory/1/case/611/new")
     for (file <- directory.listFiles().sorted) {
       val (name, extension) = Files.nameAndExtension(file.getName)
       if (extension.contains("jpg")) {
