@@ -1,11 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт могилевского губернского прокурора генерал-губернатору о получении от него предложения (предписания)
+        передать дело <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> в суд и контролировать его производство
+      </p></abstract>
+      <creation><date when="1825-12-02">2 декабря 1825 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="067-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">68</del></fw>
+    <fw type="pageNum" place="right">67</fw>
+    <fw type="note" place="right">5<hi rend="superscript">го</hi> декабря 1825</fw>
+    <fw type="docNum">№ 11139</fw>
+    <fw type="note" place="left margin">Къ свѣденію</fw>
+    <fw type="note" place="left margin">мощ</fw>
+    <head>
+      <l>Его Сіятельству!</l>
+      <l>Господину генералъ-леитенанту сенатору витебскому,</l>
+      <l>могилевскому, смоленскому и калужскому генералъ</l>
+      <l>губернатору и разныхъ орденовъ кавалеру, князю</l>
+      <l><persName>Николаю Николаевичу Хованскому</persName>._</l>
+      <l>Могилевскаго губернскаго прокурора</l>
+      <l><emph rend="big">Рапортъ</emph>.</l>
+    </head>
+    <p>
+      <l>Предложеніе вашего Сіятельства отъ 17<hi rend="superscript">го</hi> про-<lb/>
+       шедшаго ноября № 5850<hi rend="superscript">и</hi>, коимъ предписать мнѣ</l>
+      <l>изволили наблюсти за исполненіемъ Губернскимъ</l>
+      <l>правленіемъ предложенія Вашего Сіятельства,</l>
+      <l>касательно отсылки въ надлѣжащее судебное мѣ-</l>
+      <l>сто, слѣдствія о дѣлаемыхъ раввиномъ <persName ref="мителер_ребе">Беркою<lb/>
+       Шнейеромъ</persName> въ пользу свою поборахъ съ еврейскаго</l>
+      <l>общества, для разсмотренія и поступленія съ винов-</l>
+      <l>ными по законамъ, такъже за правильнымъ</l>
+      <l>и съ законами согласнымъ производствомъ дѣла</l>
+      <l>сего, въ томъ присутственномъ мѣстѣ, въ которое</l>
+      <l>оно изъ Губернскаго правленія поступитъ, къ долж-</l>
+      <l>ному исполненію я имѣлъ честь получить, о чемъ</l>
+      <l>вашему Сіятельству почтѣннѣйше доношу.</l>
+      <l>Губернскій прокуроръ <signed><unclear>???</unclear></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2292.</fw></l>
+      <l><date when="1825-12-02">Декабря „2<hi rend="superscript">го</hi>" дня<lb/>
+       1825. года</date></l>
+    </closer>
     <pb n="067a-1"/>
     <pb n="067-2" missing="true"/>
   </body></text>
