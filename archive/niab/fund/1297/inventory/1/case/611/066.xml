@@ -1,12 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Предложение (предписание) генерал-губернатора <persName>Хованского</persName> могилевскому губернскому прокурору
+      передать дело <persName ref="мителер_ребе">Дов-Бер Шнеерсона</persName> для рассмотрения в суд
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="066-1"/>
-    <pb n="066a-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">67</del>.</fw>
+    <fw type="pageNum" place="right">66</fw>
+    <fw type="note" place="left margin">По</fw>
+    <fw type="docNum">№ 5850</fw>
+    <head>
+      <l>Господину могилевскому</l>
+      <l>губернскому прокурору:</l>
+    </head>
+    <l>Препроводивъ съ симъ</l>
+    <l>вмѣстѣ въ въ Могилевское</l>
+    <l>губернское правленіе слѣдст-</l>
+    <l>віе, произведенное</l>
+    <l>слѣдующими при мнѣ по</l>
+    <l>особымъ порученіямъ, гг.</l>
+    <l>полковникомъ Логиновымъ</l>
+    <l>и надворнымъ совѣтникомъ</l>
+    <l>Марковымъ, о дѣлаемыхъ</l>
+    <l>раввиномъ Беркою Шней-<lb/>
+     еромъ <hi rend="superscript">въ пользу свою</hi> поборовъ съ еврей-</l>
+    <l>скаго общества, я предложилъ</l>
+    <l>оному*<note place="end">символ, указывающий на приписку на левом поле</note> <del rend="overstrike">по
+    внимательномъ</del></l>
+    <fw type="note" place="left margin">
+      <l>представить означенное</l>
+      <l>свѣденіе разсмотренію</l>
+      <l>надлежащаго судебнаго</l>
+      <l>мѣста для поступле-</l>
+      <l>нія съ виновными</l>
+      <l>по законамъ;</l>
+    </fw>
+    <l><del rend="overstrike">разсмотрѣніе съ заключаю-</del></l>
+    <l><del rend="overstrike">щимися въ ономъ обстоя-</del></l>
+    <l><del rend="overstrike">тельствъ, <hi rend="superscript">немедленно</hi> учинитьь законное</del></l>
+    <l><del rend="overstrike">положеніе;</del> а Вшему Высоко</l>
+    <l>благородію поручаю наблю-</l>
+    <l>сти какъ поспѣшнымъ</l>
+    <l>выполненіемъ сего предложе-</l>
+    <l>нія моего, такъ и за пра-</l>
+    <l>вильнымъ и съ законами</l>
+    <l>согласнымъ производствомъ</l>
+    <l>дѣла сего въ томъ присудствен-</l>
     <pb n="066-2"/>
+    <fw type="pageNum" place="right">66 об<note place="end">номер записан карандашом</note></fw>
+    <l>номъ мѣстѣ, въ кото-</l>
+    <l>рое оно изъ Губернскаго</l>
+    <l>правленія поступить.</l>
+    <pb n="066a-1"/>
   </body></text>
 </TEI>
