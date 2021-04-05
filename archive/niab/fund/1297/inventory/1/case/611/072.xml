@@ -1,11 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Курбацкий</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Прошение частного пристава генерал-губернатору о компенсации расходов на проезд по следственным делам в
+        <placeName ref="Любавичи">Любавичи</placeName>
+      </p></abstract>
+      <creation><date when="1826-02-08">не позднее 8 февраля 1826</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="072-1"/>
+    <fw type="pageNum" place="right">72</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">73</del></fw>
+    <fw type="note" place="left margin">рь</fw>
+    <fw type="docNum" place="left">№ 1070.</fw>
+    <fw type="note" place="right"><date when="1826-02-08">8<hi rend="superscript">го</hi> февраля 1826</date></fw>
+    <head>
+      <l><emph rend="big">Его Сїятельству</emph>._С</l>
+      <l>Господину генералъ лейтенанту, сенатору генералъ-</l>
+      <l>губернатору витебскому, могилевскому, смоленскому и</l>
+      <l>калужскому и ковалеру князю <persName>Nиколаю Nиколаевичу Хо-<lb/>
+       ванскому</persName>._</l>
+      <l>Витебской городской полицїи</l>
+      <l>частнаго пристава <persName>Курбацкаго</persName></l>
+      <l><emph rend="big">Рапортъ</emph>._</l>
+      <p>
+        <l>По предписанїямъ <emph rend="big">Вашего Сїятельства</emph> отъ</l>
+        <l><date when="1825-09-30">30<hi rend="superscript">го</hi> сентября</date> и <date when="1825-10-19">19<hi
+        rend="superscript">го</hi> октября прошедшаго 1825<hi rend="superscript">го</hi> года</date> два</l>
+        <l>раза отправлялся я чрезъ городъ Бабиновичи въ мѣстечко</l>
+        <l><placeName ref="Любавичи">Любавичи</placeName>. Въ первый разъ за проживающимъ тамъ бабиновец-</l>
+        <l>кимъ равиномъ <persName ref="мителер_ребе">Шнееромъ</persName>, а во второй для узнанїя о</l>
+        <l>существованїи тамъ въ <placeName ref="Любавичи">Любавичахъ</placeName> еврейской синагоги,</l>
+        <l>по случаю каковыхъ туда и обратно въ два раза на почтовыхъ</l>
+        <l>лошадяхъ переѣздовъ издѣржалъ я на прогоны собствен-</l>
+        <l>ные мои деньги. Почему прїемлю смелость <emph rend="big">Ваше</emph></l>
+        <l>Сїятельство всепокорнѣйше просить о предписанїи кому</l>
+        <l>надлѣжитъ причитающееся число денегъ на прогоны</l>
+        <l>мною употребленныхъ возвратить мнѣ изъ казны._</l>
+        <l>Частный приставъ <signed><persName>Курбацкій</persName></signed></l>
+      </p>
+      <closer place="left">
+        <l><emph rend="underline"><fw type="docNum">№. 176</fw></emph></l>
+        <l><date when="1826-02-??">февраля дня<note place="end">число не указано</note><lb/>
+         1826<hi rend="superscript">го</hi> года</date></l>
+      </closer>
+    </head>
     <pb n="072a-1"/>
     <pb n="072-2" missing="true"/>
   </body></text>
