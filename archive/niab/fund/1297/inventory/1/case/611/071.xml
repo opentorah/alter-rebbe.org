@@ -1,11 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт могилевского губернского прокурора генерал-губернатору о передаче дела <persName ref="мителер_ребе"
+        >Дов-Бера Шнеерсона</persName> в суд при Бабиновицком магистрате
+      </p></abstract>
+      <creation><date when="1826-01-09">Января 9 дня 1826 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="071-1"/>
-    <pb n="071-2"/>
+    <fw type="pageNum" place="right">71</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">72.</del></fw>
+    <fw type="docNum" place="left">№ 287.</fw>
+    <fw type="note" place="right"><date when="1826-01-12">12<hi rend="superscript">го</hi> генваря <emph rend=
+    "underline">1826</emph></date>.</fw>
+    <fw type="note" place="left margin">та</fw>
+    <fw type="note" place="left margin">Къ свѣденію</fw>
+    <head>
+      <l><emph rend="big">Его Сіятельству</emph>.</l>
+      <l>господину генералъ лѣйтенанту, сенатору</l>
+      <l>витебскому, могилевскому, смоленскому, и калужскому</l>
+      <l>генералъ губернатору и разныхъ орденовъ кавалеру</l>
+      <l>князю, Николаю Николаевичу Хованскому._</l>
+      <l>Могилевскаго губернскаго пркурора</l>
+      <l><emph rend="big">Рапортъ</emph>.</l>
+    </head>
+    <p>
+      <l>Во исполненіе предложенія Вашего Сіятельства</l>
+      <l>отъ <date when="1825-11-17">17. ноября прошлаго года</date> <fw type="docNum">№ 5850</fw>. ко мнѣ</l>
+      <l>послѣдовавшаго, имею честь почтеннѣйше симъ</l>
+      <l>донести: Что произведенное по предписанїю Ваше</l>
+      <l>го Сіятельства г.г. полковникомъ <persName>Логиновымъ</persName></l>
+      <l>и надворнымъ совѣтникомъ <persName>Марковымъ</persName> слѣдствіе,</l>
+      <l>о противузаконныхъ поступкахъ Бабиновицкаго</l>
+      <l>уезда мѣстечка Любавичъ раввина <persName ref="мителер_ребе">Берки Шнее<lb/>
+       ра</persName>, отослано изъ здешняго Губернскаго правленія</l>
+      <l>въ бабиновицкой городовой магистратъ, для раз-</l>
+      <l>смотренія и поступленія съ виновными по зако</l>
+      <l>намъ; и о наблюденіи за правильнымъ ходомъ</l>
+      <pb n="071-2"/>
+      <fw type="pageNum" place="right">71 об<note place="end">номер записан карандашом</note></fw>
+      <l>и скорѣйшимъ рѣшеніемъ онаго дѣла</l>
+      <l>на точномъ основаніи законовъ, я ныне</l>
+      <l>же предписалъ бабиновицкому уездному</l>
+      <l>стряпчему<note place="end">помощнику прокурора, отвечавшему за ведение дел в уезде</note>._</l>
+      <l>Губернскій прокуроръ <signed><unclear>???</unclear></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 10<hi rend="superscript">и</hi></fw></l>
+      <l><date when="1826-01-09">Генваря 9<hi rend="superscript">го</hi> дня<lb/>
+       1826. года</date></l>
+    </closer>
   </body></text>
 </TEI>
