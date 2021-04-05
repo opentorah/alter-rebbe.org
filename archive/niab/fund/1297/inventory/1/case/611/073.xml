@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Хованский</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Распоряжение генерал-губернатора о компенсации дорожных расходов частному приставу, участвовавшему в следствии
+      </p></abstract>
+      <creation><date when="1826-02-08">8 февраля 1826</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="073-1"/>
+    <fw type="pageNum" place="right">73</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">74</del>.</fw>
+    <fw type="note" place="left margin"><signed>???</signed><note place="end">подпись канцеляриста</note></fw>
+    <fw type="note" place="left">По <fw type="docNum">№ 1070</fw></fw>
+    <fw type="note" place="left"><date when="1826-02-08">8<hi rend="superscript">го</hi> февраля 1826</date></fw>
+    <fw type="note" place="right">Зе</fw>
+    <fw type="note" place="left"><fw type="docNum">№ 704</fw></fw>
+    <head><l>Витебской казенной палатѣ.</l></head>
+    <p>
+      <l>Здѣшней градской полиціи</l>
+      <l>Частный приставъ <persName>Курбацкій</persName></l>
+      <l>былъ посыланъ мною по дѣламъ</l>
+      <l>службы два раза чрезъ городъ Ба</l>
+      <l>биновичи въ мѣстечко <placeName ref="Любавичи">Любавичи</placeName>;</l>
+      <l><del rend="overstrike">съ жандармомъ</del>, на проѣздъ <del rend="overstrike">коего</del></l>
+      <l>туда <del rend="overstrike">съ жандармомъ</del>, и обратно</l>
+      <l>въ <placeName ref="Витебск">Витебскъ</placeName> <del rend="overstrike">съ жандармомъ и бу-</del></l>
+      <l><del rend="overstrike">дущемъ</del> употребленныя имъ</l>
+      <l>Курбацкимъ собственныя деньги,</l>
+      <l><hi rend="superscript">почему</hi> предлагаю Казенной палатѣ</l>
+      <l>выдать ему <hi rend="superscript"><unclear>столько</unclear>, сколько причитаться будетъ</hi> <del rend=
+      "overstrike"><persName>Курбацкому</persName></del> безъ</l>
+      <l>возврата <del rend="overstrike">оныхъ</del> въ казну и меня</l>
+      <l>увѣдомить.</l>
+    </p>
     <pb n="073-2" missing="true"/>
   </body></text>
 </TEI>
