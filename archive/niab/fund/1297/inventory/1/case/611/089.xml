@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Киликовский</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт бабиновицкого уездного стряпчего генерал-губернатору о приостановке следствия по делу <persName ref=
+        "мителер_ребе">Дов-Бера Шнеерсона</persName>, в связи с отстутствием ответа от уездных судов двух уездов
+      </p></abstract>
+      <creation><date when="1826-04-07">7 апреля 1826</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="089-1"/>
+    <fw type="docNum" place="left">№ 2972.</fw>
+    <fw type="note" place="right"><date when="1826-04-07">7<hi rend="superscript">го</hi> апрѣля 1826</date>.</fw>
+    <fw type="pageNum" place="right">89.</fw>
+    <fw type="note" place="left margin">Къ свѣденію</fw>
+    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+    секретаря</note></fw>
+    <head>
+      <l><emph rend="big">Его Сїятельству!</emph></l>
+      <l>Господину витебскому могилевскому смо-</l>
+      <l>ленскому и калужскому генералъ губернатору</l>
+      <l>и квавлеру</l>
+      <l>Рапортъ</l>
+      <l>Бабиновицкаго</l>
+      <l>уезднаго стряпчаго</l>
+    </head>
+    <opener place="left">
+      <l><fw type="docNum">№ 101<hi rend="superscript">и</hi></fw></l>
+      <l><date when="1826-03-31">Марта 31<hi rend="superscript">го</hi> дня<lb/>
+       1826<hi rend="superscript">го</hi> года</date>.</l>
+    </opener>
+    <p>
+      <l><emph rend="big">Вашему Сїятельству</emph> симъ честь</l>
+      <l>имею донести, что Дело въ здешнемъ Городовомъ</l>
+      <l>магистрате производящееся о противузаконныхъ</l>
+      <l>поступкахъ любавицкаго раввина <persName ref="мителер_ребе">Берки Шнеера</persName>,</l>
+      <l>теченїемъ приостановилось, за недоставленїемъ</l>
+      <l>оршанскимъ и могилевскимъ земскими судами</l>
+      <l>изысканїя, по требованїямъ отъ <date when="1826-02-12">12<hi rend="superscript">го</hi> прошедшаго<lb/>
+       февраля</date> посланнымъ, о безотложномъ коихъ удовле-</l>
+      <l>творенїи; учинено Могилевскимъ губернскимъ пра-</l>
+      <l>вленіемъ отъ <date when="1826-03-03">3<hi rend="superscript">го</hi> сего марта</date> предписанїе, и о
+      насто-</l>
+      <l>янїи за симъ сообщено отъ меня къ тамошнимъ</l>
+      <l>уезднымъ стряпчимъ отъ <date when="1826-02-24">24<hi rend="superscript">го</hi> февраля</date> и <date when=
+      "1826-03-17">17<hi rend="superscript">го</hi> сего марта</date></l>
+      <l><signed>Уѣздный стряпчій <persName>Киликовскій</persName></signed></l>
+    </p>
     <pb n="089a-1"/>
     <pb n="089-2" missing="true"/>
   </body></text>
