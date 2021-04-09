@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Киликовскій</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт бабиновицкого уездного стряпчего генерал-губернатору о получении из трех городов ответов на посланные в
+        феврале 1826 г. запросы
+      </p></abstract>
+      <creation><date when="1826-05-15">15 мая 1826</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="093-1"/>
+    <fw type="docNum" place="left">№ 4077/</fw>
+    <fw type="note" place="right"><date when="1826-05-15">15<hi rend="superscript">го</hi> мая 1826</date>.</fw>
+    <fw type="note" place="right">Къ свѣденію</fw>
+    <fw type="pageNum" place="right">93</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">94</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">1</del></fw>
+    <fw type="note" place="left margin">Се</fw>
+    <opener place="left">
+      <l><emph rend="big">Его Сїятельству!</emph></l>
+      <l>Господину витебскому, могилевскому, смо-</l>
+      <l>ленскому и калужскому генералъ губерна-</l>
+      <l>тору и кавалеру._</l>
+      <l><emph rend="big">Рапортъ</emph>.</l>
+      <l>бабиновицкаго</l>
+      <l>уезднаго стря-</l>
+      <l>пчаго</l>
+    </opener>
+    <head>
+      <l><fw type="docNum">№ 153<hi rend="superscript">и</hi></fw></l>
+      <l><date when="1826-05-12">Маія 12. дня<lb/>
+       1826<hi rend="superscript">го</hi> года.</date></l>
+    </head>
+    <p>
+      <l>Вашему Сіятельству симъ честь</l>
+      <l>имею донесть, что по делу о судящемся</l>
+      <l>за противузаконные поступки, любавиц</l>
+      <l>комъ равине <persName ref="мителер_ребе">Берке Шнеере</persName> требуемые</l>
+      <l>здешнимъ городовымъ магистратомъ</l>
+      <l>изысканіи съ разныхъ местъ присланы;</l>
+      <l>кои къ делу приложены: и изъ онаго сочиня-</l>
+      <l>ется выписка._</l>
+      <l><signed>Уездный стряпчіи <persName>Киликовскій</persName></signed></l>
+    </p>
     <pb n="093-2" missing="true"/>
   </body></text>
 </TEI>
