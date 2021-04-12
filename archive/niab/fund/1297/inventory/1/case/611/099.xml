@@ -1,12 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение Витебской казенной палаты генерал-губернатору о взыскании в казну прогонных денег, начисленых за
+        проезд представителей следствия с <persName ref="мителер_ребе">Дов-Бером Шнеерсоном</persName>
+      </p></abstract>
+      <creation><date when="1826-05-25">25 мая 1826 года</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="099-1"/>
+    <fw type="docNum" place="left">№ 4370</fw>
+    <fw type="note" place="right"><date when="1826-05-26">28 маія 1826</date></fw>
+    <fw type="pageNum" place="right">99</fw>
+    <fw type="note" place="left margin">мощ</fw>
+    <head>
+      <l><emph rend="big">Его Сїятельству</emph>.</l>
+      <l>господину генералъ-губернатору витебскому,</l>
+      <l>могилевскому, смоленскому икалужскому генералъ</l>
+      <l>лейтенанту, сенатору и кавалеру князю <persName>Николаю<lb/>
+       Николаевичу Хованскому</persName></l>
+      <l>Витебской казенной палаты</l>
+      <l><emph rend="big">донѣсеніе</emph>._</l>
+    </head>
+    <p>
+      <l>Департаментъ Государственнаго казначейства</l>
+      <l>отъ 5. истекшаго апрѣля предписалъ сей палатѣ о</l>
+      <l>взысканїи съ виновныхъ всѣхъ выданныхъ прогонныхъ</l>
+      <l>денегъ гвардїи капитану <persName>Власенкѣ</persName> командированно-</l>
+      <l>му Вашимъ Сїятельствомъ въ мѣстечко Старосѣлье</l>
+      <l>съ жандармомъ и еврѣйскимъ <persName ref="мителер_ребе">раввиномъ</persName>, а оттуда</l>
+      <l>съ евреемъ, взятымъ по дѣлу о сборѣ <persName ref="мителер_ребе">раввиномъ</persName> съ еврѣй</l>
+      <pb n="099-2"/>
+      <fw type="pageNum" place="right">99 об<note place="end">номер записан карандашом</note></fw>
+      <l>въ пользу свою денегъ, а до поступленїя въ казну за-</l>
+      <l>писать оныхъ въ недоимку слѣдующую ко взысканїю.</l>
+      <l>А по справкѣ оказалось: означенному гвардїи</l>
+      <l>капитану <persName>Власенкѣ</persName> выдано прогоновъ по коман-</l>
+      <l>дировкѣ его въ мѣстечко Старосѣлье и обратно</l>
+      <l>119 рублей 52 копѣйки. Для того <emph rend="big">опредѣлено</emph>: пред-</l>
+      <l>ставивъ о семъ Вашему Сїятельству просить,</l>
+      <l>согласно требованїю департамента Государствен-</l>
+      <l>наго казначейства о взысканїи помянутыхъ</l>
+      <l>прогонныхъ денегъ 119 рублей 52 копѣекъ, съ</l>
+      <l>виновныхъ, и объ отсылкѣ по принадлежности</l>
+      <l>въ уѣздное казначейство для обращенїя въ</l>
+      <l>казну; учинить кому слѣдуетъ свое предпи-</l>
+      <l>санїе, и о послѣдующемъ почтить сїю па-</l>
+      <l>лату увѣдомленїемъ._</l>
+      <l><signed>Вице-губернаторъ <persName>Филиповъ</persName></signed></l>
+      <l><signed>Губернскій казначей <persName>Коровинъ</persName></signed></l>
+      <l><signed>Совѣтникъ <unclear>Лемъ</unclear></signed></l>
+      <l><signed>Губернскій контролеръ <unclear>???</unclear></signed></l>
+      <l><signed>Бухгалтера помощникъ <persName>Бахаловичъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum"><emph rend="underline">№ 5535.</emph></fw></l>
+      <l><date when="1826-05-25">Маїя „25„ дня<lb/>
+       1826 года</date></l>
+    </closer>
     <pb n="099a-1"/>
-    <pb n="099-2"/>
   </body></text>
 </TEI>
