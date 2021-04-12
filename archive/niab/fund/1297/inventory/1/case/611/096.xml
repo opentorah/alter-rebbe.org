@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Смольянинов</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение могилевского губернского прокурора о передаче дела <persName ref="мителер_ребе">Дов-Бера
+        Шнеерсона</persName> на ревизию в губернский суд
+      </p></abstract>
+      <creation><date when="1826-08-04">Августа 4 дня 1826 года</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="096-1"/>
+    <fw type="docNum" place="left">№ 6661.</fw>
+    <fw type="note" place="right"><date when="1826-08-07">7<hi rend="superscript">го</hi> августа 1826</date>.</fw>
+    <fw type="note" place="right">Къ дѣлу<note place="end">пометка сделана карандашом</note></fw>
+    <fw type="pageNum" place="right">96</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">97</del>.</fw>
+    <fw type="note" place="left margin">рь</fw>
+    <fw type="note" place="left margin">Къ свѣденію.</fw>
+    <head>
+      <l><emph rend="big">Его Сіятельству!</emph></l>
+      <l>Господину генералъ губернатору витебскому,</l>
+      <l>могилевскому, смоленскому. и калужскому, генералъ</l>
+      <l>лейтенанту, сенатору и разныхъ орденовъ кавалеру,</l>
+      <l>князю <persName>Николаю Николаевичу Хованскому</persName>.</l>
+      <l>могилевскаго губернскаго прокурора</l>
+      <l><emph rend="big">рапортъ</emph>.</l>
+    </head>
+    <p>
+      <l>Бабиновицкій уѣздный стряпчій рапортомъ отъ</l>
+      <l><date when="1826-07-31">31<hi rend="superscript">го</hi> минувшаго јюля</date> донесъ мнѣ: что дѣло о су-</l>
+      <l>дящемся за противузаконные поступки любавицкомъ</l>
+      <l>раввинѣ <persName ref="мителер_ребе">Беркѣ Шнеерѣ</persName> тамошнимъ городовымъ</l>
+      <l>магистратомъ рѣшено и представлено на ревизію</l>
+      <l>могилевскаго главнаго суда въ 1<hi rend="superscript">й</hi> департаментъ.</l>
+    </p>
+    <p>
+      <l>Сдѣлавъ сегожъ числа въ оный департаментъ</l>
+      <l>мое отношеніе, о скорѣйшемъ разсмотрѣніи</l>
+      <l>и рѣшеніи помянутого дѣла, я долгомъ почелъ,</l>
+      <l>вашему Сіятельству, во исполненіе предложенія</l>
+      <l>отъ <date when="1825-11-17">17 ноября 1825 года</date> за <fw type="docNum">№ 3850</fw>. ко мнѣ послѣ-</l>
+      <l>довавшаго, почтеннѣйше симъ донести._</l>
+      <l><signed>Губернскій прокуроръ <persName>Смольяниновъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2157</fw>.</l>
+      <l><date when="1826-08-04">Августа 4.дня<lb/>
+       1826. года</date></l>
+    </closer>
     <pb n="096a-1"/>
     <pb n="096-2" missing="true"/>
   </body></text>
