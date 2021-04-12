@@ -1,0 +1,1249 @@
+@charset "UTF-8";
+@namespace tei   url("http://www.tei-c.org/ns/1.0");
+@namespace xhtml url("http://www.w3.org/1999/xhtml");
+/* render Arabic, Persian, Ottoman, Hebrew and Yiddish  as rtl */
+[lang=ar], [lang=ota], [lang=fa], [lang=he], [lang=yi], [lang*=-Arab-AR] {
+  direction: rtl;
+  text-align: right;
+}
+
+/* display latin and some other scripts as ltr  */
+[lang=en], [lang=fr], [lang=de], [lang=it], [lang=ru], [lang=pl], [lang*=ar-Latn-], [lang*=ota-Latn-] {
+  direction: ltr;
+  text-align: left;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #111;
+  background-color: #fdfdfd;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-feature-settings: "kern" 1;
+  -moz-font-feature-settings: "kern" 1;
+  -o-font-feature-settings: "kern" 1;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+  margin-bottom: 15px;
+}
+
+main {
+  display: block;
+  /* Default value of `display` of `main` element is 'inline' in IE 11. */
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+figure > img {
+  display: block;
+  vertical-align: top;
+}
+
+figcaption {
+  font-size: 14px;
+}
+
+figure {
+  display: inline-block;
+}
+
+figure > tei-head {
+  display: block;
+  margin: 1.5em auto 1.5em auto;
+  padding: 0.5em 1.5em 1.5em 1.5em;
+  border: 1px solid black;
+  border-radius: 15px;
+  width: 325px;
+  position: relative;
+  border: 1px solid #aaaaaa;
+  background: #fafafa;
+  /* reset text-indent for note with <l> ancestors. */
+  text-indent: 0;
+  font-size: 85%;
+  text-align: justify;
+  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  width: 85%;
+  font-family: Georgia, Serif;
+  font-size: 13pt;
+}
+
+ul, ol {
+  margin-left: 30px;
+}
+
+li > ul,
+li > ol {
+  margin-bottom: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+p, tei|p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+*[rendition~="#center"] p {
+  text-align: center;
+}
+
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+a:visited {
+  color: #1756a9;
+}
+a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+.social-media-list a:hover {
+  text-decoration: none;
+}
+.social-media-list a:hover .username {
+  text-decoration: underline;
+}
+
+a:not([href]) {
+  color: #6da4eb;
+}
+
+a[missing=true][empty=true] {
+  color: orange;
+}
+
+a[missing=true]:not([empty=true]) {
+  color: red;
+}
+
+a.note[place=end] {
+  color: red;
+}
+
+div.endnotes {
+  padding-top: 2em;
+}
+
+.endnote + .endnote {
+  padding-left: 1em;
+}
+
+a.endnote-backlink {
+  color: red;
+}
+
+/**
+ * Blockquotes
+ */
+blockquote {
+  color: #828282;
+  border-left: 4px solid #e8e8e8;
+  padding-left: 15px;
+  font-size: 18px;
+  letter-spacing: -1px;
+  font-style: italic;
+}
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+  font-size: 15px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+  background-color: #eef;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+}
+pre > code {
+  border: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+/**
+ * Wrapper
+ */
+.wrapper {
+  max-width: -webkit-calc(800px - (30px * 2));
+  max-width: calc(800px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: -webkit-calc(800px - (30px));
+    max-width: calc(800px - (30px));
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+/**
+ * Clearfix
+ */
+.footer-col-wrapper:after, .wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/**
+ * Icons
+ */
+.svg-icon {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+  fill: #828282;
+  padding-right: 5px;
+  vertical-align: text-top;
+}
+
+.social-media-list li + li {
+  padding-top: 5px;
+}
+
+table {
+  margin-bottom: 30px;
+  width: auto;
+  text-align: left;
+  color: #3f3f3f;
+  border-collapse: collapse;
+  border: 1px solid #e8e8e8;
+}
+table tei-head {
+  text-align: center;
+}
+table tr:nth-child(even) {
+  background-color: #f7f7f7;
+}
+table th, table td {
+  padding: 10px 15px;
+}
+table th, table tr.row[role=label] td.cell {
+  font-weight: bold;
+  background-color: #f0f0f0;
+  border: 1px solid #dedede;
+  border-bottom-color: #c9c9c9;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+table td {
+  border: 1px solid #e8e8e8;
+  vertical-align: text-top;
+}
+
+table[rendition=borderless] {
+  border: none;
+}
+table[rendition=borderless] tr.row {
+  background-color: #fdfdfd;
+}
+table[rendition=borderless] tr.row td.cell {
+  border: none;
+}
+
+sup {
+  line-height: 0;
+}
+
+/**
+ * Site header
+ */
+.site-header {
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 55.95px;
+  position: relative;
+}
+
+.site-title {
+  font-size: 26px;
+  font-weight: 300;
+  line-height: 54px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+}
+.site-title, .site-title:visited {
+  color: #424242;
+}
+
+.site-nav {
+  float: right;
+  line-height: 54px;
+}
+.site-nav .nav-trigger {
+  display: none;
+}
+.site-nav .menu-icon {
+  display: none;
+}
+.site-nav .page-link {
+  color: #111;
+  line-height: 1.5;
+}
+.site-nav .page-link:not(:last-child) {
+  margin-right: 20px;
+}
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: #fdfdfd;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    text-align: right;
+  }
+  .site-nav label[for=nav-trigger] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
+  }
+  .site-nav .menu-icon {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 10px;
+    text-align: center;
+  }
+  .site-nav .menu-icon > svg {
+    fill: #424242;
+  }
+  .site-nav input ~ .trigger {
+    clear: both;
+    display: none;
+  }
+  .site-nav input:checked ~ .trigger {
+    display: block;
+    padding-bottom: 5px;
+  }
+  .site-nav .page-link {
+    display: block;
+    padding: 5px 10px;
+    margin-left: 20px;
+  }
+  .site-nav .page-link:not(:last-child) {
+    margin-right: 0;
+  }
+}
+
+/**
+ * Site footer
+ */
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 30px 0;
+}
+
+.footer-heading {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+
+.footer-col-wrapper {
+  font-size: 15px;
+  color: #828282;
+  margin-left: -15px;
+}
+
+.footer-col {
+  float: left;
+  margin-bottom: 15px;
+  padding-left: 15px;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (30px / 2));
+  width: calc(35% - (30px / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (30px / 2));
+  width: calc(20% - (30px / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(45% - (30px / 2));
+  width: calc(45% - (30px / 2));
+}
+
+@media screen and (max-width: 800px) {
+  .footer-col-1,
+.footer-col-2 {
+    width: -webkit-calc(50% - (30px / 2));
+    width: calc(50% - (30px / 2));
+  }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2));
+  }
+}
+@media screen and (max-width: 600px) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (30px / 2));
+    width: calc(100% - (30px / 2));
+  }
+}
+/**
+ * Page content
+ */
+.page-content {
+  padding: 30px 0;
+  flex: 1;
+}
+
+.page-heading {
+  font-size: 32px;
+}
+
+.post-list-heading {
+  font-size: 28px;
+}
+
+.post-list {
+  margin-left: 0;
+  list-style: none;
+}
+.post-list > li {
+  margin-bottom: 30px;
+}
+
+.post-meta {
+  font-size: 14px;
+  color: #828282;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px;
+}
+
+/**
+ * Posts
+ */
+.post-header {
+  margin-bottom: 30px;
+}
+
+.post-title, tei-head {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-indent: -0.5em;
+}
+@media screen and (max-width: 800px) {
+  .post-title, tei-head {
+    font-size: 36px;
+  }
+}
+
+.post-content {
+  margin-bottom: 30px;
+}
+.post-content h2 {
+  font-size: 32px;
+}
+@media screen and (max-width: 800px) {
+  .post-content h2 {
+    font-size: 28px;
+  }
+}
+.post-content h3 {
+  font-size: 26px;
+}
+@media screen and (max-width: 800px) {
+  .post-content h3 {
+    font-size: 22px;
+  }
+}
+.post-content h4 {
+  font-size: 20px;
+}
+@media screen and (max-width: 800px) {
+  .post-content h4 {
+    font-size: 18px;
+  }
+}
+
+.collection-index .description {
+  width: 44%;
+}
+.collection-index .date {
+  width: 8%;
+}
+.collection-index .author {
+  width: 10%;
+}
+.collection-index .addressee {
+  width: 10%;
+}
+.collection-index .language {
+  width: 4%;
+}
+.collection-index .document {
+  width: 5%;
+}
+.collection-index .pages {
+  width: 8%;
+}
+.collection-index .part-title {
+  font-weight: 700;
+  font-size: 32px;
+  color: #1614ff;
+}
+
+.document-header {
+  background-color: #f0f0f0;
+  padding: 10px;
+  width: 100%;
+}
+.document-header .heading {
+  width: 18%;
+  font-style: italic;
+}
+
+div.facsimileWrapper {
+  width: 1060px;
+}
+div.facsimileWrapper div.facsimileViewer {
+  width: 100%;
+  height: 1586px;
+  overflow: hidden;
+  padding-right: 1em;
+  resize: both;
+}
+div.facsimileWrapper div.facsimileViewer div.facsimileScroller {
+  width: auto;
+  height: 98%;
+  overflow-y: scroll;
+  border: 1px solid black;
+  padding: 0.25em;
+}
+.mentions {
+  font-size: smaller;
+}
+
+.tree-index ul {
+  list-style-type: none;
+  margin-bottom: 1em;
+  margin-left: 0;
+}
+.tree-index ul li {
+  margin-left: 1em;
+}
+
+/* a */
+ab {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+abstract {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+add {
+  background-color: #ffcdcd;
+}
+
+add[place=above] {
+  vertical-align: super;
+}
+
+add[place=inline]:before {
+  content: "«";
+}
+
+add[place=inline]:after {
+  content: "»";
+}
+
+add[place=below] {
+  vertical-align: sub;
+}
+
+additional {
+  display: block;
+}
+
+additions {
+  display: block;
+}
+
+additions:before {
+  content: "Significant additions within the document: ";
+}
+
+addrLine {
+  display: block;
+}
+
+address[rend~=block], addresss[rendition~="#block"] {
+  display: block;
+}
+
+app note {
+  display: none;
+}
+
+argument {
+  display: block;
+}
+
+att {
+  font-family: Courier, monospace;
+}
+
+att:before {
+  content: "@";
+}
+
+/* b */
+back {
+  display: block;
+}
+
+bibl[rend~=block], bibl[rendition~="#block"] {
+  display: block;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+biblFull {
+  display: block;
+}
+
+birth {
+  display: block;
+}
+
+birth:before {
+  content: "Birth: ";
+}
+
+/* c */
+caption {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+case[value]:before {
+  font-weight: bold;
+  content: attr(value) " ";
+}
+
+cb {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+cb:before {
+  content: "[column break]";
+}
+
+/* Choice elements */
+choice abbr + expan:before,
+choice expan + abbr:before,
+choice sic + corr:before,
+choice corr + sic:before,
+choice orig + reg:before,
+choice reg + orig:before {
+  content: " (";
+}
+
+choice abbr + expan:after,
+choice expan + abbr:after,
+choice sic + corr:after,
+choice corr + sic:after,
+choice orig + reg:after,
+choice reg + orig:after {
+  content: ")";
+}
+
+corr {
+  background-color: #aaffaa;
+}
+
+/* d */
+date[when]:empty:before {
+  content: attr(when);
+}
+
+del[rend=overstrike] {
+  text-decoration: red line-through;
+}
+
+/* e */
+emph {
+  font-style: italic;
+}
+
+emph[rend=underline] {
+  font-style: normal;
+  text-decoration: underline;
+}
+
+emph[rend=big] {
+  font-style: normal;
+  font-size: larger;
+}
+
+emph[rend=superscript] {
+  vertical-align: super;
+  line-height: 0;
+}
+
+epigraph {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+explicit {
+  font-style: italic;
+}
+
+/* f */
+fw[type=pageNum] {
+  background-color: lightgray;
+  border-radius: 1em;
+}
+
+/* g */
+gap[reason=lost]:before {
+  content: "[";
+}
+
+gap[reason=lost]:after {
+  content: attr(content) "]";
+}
+
+gap[reason=illegible]:after {
+  content: attr(content);
+}
+
+gi {
+  font-family: Courier, monospace;
+}
+
+gi:before {
+  content: "<";
+}
+
+gi:after {
+  content: ">";
+}
+
+/* h */
+tei-head {
+  display: block;
+}
+
+div.textpart {
+  display: none;
+}
+
+/* LMD: since divs are used in HTML (at least by me:)) for purposes other than to structure the *text*,
+  only TEI divs are matched here. */
+tei|div > tei-head {
+  font-size: 170%;
+  text-indent: -0.5em;
+}
+
+tei|div > tei|div > tei-head {
+  font-size: 155%;
+}
+
+tei|div > tei|div > tei|div > tei-head {
+  font-size: 140%;
+}
+
+tei|div > tei|div > tei|div > tei|div > tei-head, list > tei-head {
+  font-size: 130%;
+}
+
+tei|div > tei|div > tei|div > tei|div > tei|div > tei-head {
+  font-size: 120%;
+}
+
+tei|div > tei|div > tei|div > tei|div > tei|div > tei|div tei-head {
+  font-size: 110%;
+}
+
+hi[rend~=caps] {
+  font-weight: bold;
+}
+
+hi[rend~=italic] {
+  font-style: italic;
+}
+
+hi[rend=underline] {
+  text-decoration: underline;
+}
+
+hi[rend=big] {
+  font-size: larger;
+}
+
+hi[rend=superscript] {
+  vertical-align: super;
+  line-height: 0;
+}
+
+ident {
+  font-family: Courier, monospace;
+}
+
+incipit {
+  font-style: italic;
+}
+
+item {
+  display: list-item;
+  margin-left: 1em;
+}
+
+/* j */
+/* l */
+/* LMD: I use it without namespace to augment HTML :) */
+l {
+  display: block;
+  width: auto;
+}
+
+l[lineno]:before {
+  content: attr(lineno);
+  position: absolute;
+  left: 2em;
+}
+
+lb:after {
+  content: "\a";
+  white-space: pre;
+}
+
+lg {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+list {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  list-style-type: none;
+}
+
+item > list {
+  margin-top: 0;
+}
+
+/* Match only lists that are descendants of
+text. Otherwise they show up in the header. */
+/* LMD: not sure what is that about, but since I have an HTML/TEI mix, and TEI text element may not be present,
+I disabled it. */
+/*text*/
+list[type=simple] {
+  list-style-type: none;
+}
+
+/*text*/
+list[type=bulleted] {
+  list-style-type: disc;
+}
+
+/*text*/
+list[type=ordered] {
+  list-style-type: none;
+  counter-reset: items 0;
+}
+
+/*text*/
+list[type=ordered] > item {
+  display: list-item;
+  margin-left: 0;
+}
+
+item > list[type=ordered] {
+  margin-left: 1em;
+}
+
+/*text*/
+list[type=ordered] > item:before {
+  counter-increment: items 1;
+  content: counter(items, decimal) ". ";
+}
+
+/*text*/
+list[type=gloss] {
+  list-style-type: none;
+}
+
+list[type=gloss] > label {
+  display: block;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  font-weight: bold;
+}
+
+list[type=gloss] > item {
+  margin-left: 2em;
+}
+
+item > list[type=ordered] {
+  margin-left: 1em;
+}
+
+listBibl {
+  display: block;
+  list-style-type: none;
+  margin-left: 0.5em;
+  margin-top: 0.5em;
+}
+
+listBibl > tei-head {
+  font-size: 120%;
+  font-weight: bold;
+}
+
+listBibl > bibl {
+  display: list-item;
+  margin-left: 0.5em;
+}
+
+/* m */
+/* n */
+note[type=gloss] {
+  background-color: gainsboro;
+}
+
+/* o */
+ovar {
+  font-style: italic;
+}
+
+origPlace {
+  font-weight: bold;
+}
+
+origPlace:before {
+  font-weight: bold;
+  content: "Place of Origin: ";
+}
+
+/* p */
+availability > p:first-child {
+  margin-top: 0em;
+}
+
+postscript {
+  display: block;
+  margin-top: 2em;
+}
+
+/* q */
+q {
+  quotes: "“" "”" "‘" "’" "“" "”" "‘" "’" "“" "”" "‘" "’" "“" "”";
+}
+
+q:before {
+  content: "";
+}
+
+q:after {
+  content: "";
+}
+
+q[next]:after {
+  content: "" !important;
+}
+
+q[prev]:before {
+  content: "" !important;
+}
+
+quote {
+  font-style: italic;
+}
+
+/* r */
+app rdg {
+  /*perhaps choice */
+  display: none;
+}
+
+re {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+remarks {
+  font-weight: bold;
+}
+
+remarks:before {
+  font-weight: bold;
+  content: "remarks: ";
+}
+
+/* s */
+salute {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+scriptNote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+seal {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+seal:before {
+  font-weight: bold;
+  content: "Seal: ";
+}
+
+sealDesc {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+secFol:before {
+  font-weight: bold;
+  content: "Second Folio: ";
+}
+
+secl > *:first-child:before {
+  content: "\a[";
+  white-space: pre;
+}
+
+secl > *:last-child:after {
+  content: "]\a\a";
+  white-space: pre;
+}
+
+seg {
+  outline: 0px solid transparent;
+}
+
+sense {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+setting {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+sic {
+  text-decoration: #aaffaa underline;
+}
+
+soCalled {
+  quotes: "“" "”" "‘" "’" "“" "”" "‘" "’" "“" "”" "‘" "’" "“" "”";
+}
+
+soCalled:before {
+  content: open-quote;
+}
+
+soCalled:after {
+  content: close-quote;
+}
+
+soCalled[next]:after {
+  content: "" !important;
+}
+
+soCalled[prev]:before {
+  content: "" !important;
+}
+
+space:before {
+  font-weight: bold;
+  content: "";
+}
+
+span[n]:before {
+  content: attr(n);
+}
+
+stamp {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+stamp:before {
+  font-weight: bold;
+  content: "Stamped: ";
+}
+
+supplied {
+  background-color: #aaffaa;
+}
+
+supplied:before {
+  content: "[";
+}
+
+supplied:after {
+  content: "]";
+}
+
+surplus > *:first-child:before {
+  content: "\a[";
+  white-space: pre;
+}
+
+surplus > *:last-child:after {
+  content: "]\a\a";
+  white-space: pre;
+}
+
+/* t */
+TEI {
+  display: block;
+}
+
+teiHeader {
+  display: none;
+}
+
+TEI > text {
+  display: block;
+  line-height: 1.5;
+}
+
+/* title */
+TEI title {
+  display: inline;
+}
+
+TEI title[level=a] {
+  quotes: "“" "”" "‘" "’" "“" "”" "‘" "’" "“" "”" "‘" "’" "“" "”";
+}
+
+TEI title[level=a]:before {
+  content: open-quote;
+}
+
+TEI title[level=a]:after {
+  content: close-quote;
+}
+
+TEI title[level=a][next]:after {
+  content: "" !important;
+}
+
+TEI title[level=a][prev]:before {
+  content: "" !important;
+}
+
+title[level=m] {
+  font-style: italic;
+}
+
+/* u */
+u:before {
+  content: "-";
+}
+
+unclear {
+  background-color: #aaffaa;
+}
+
+view {
+  font-style: italic;
+}
+
+wit {
+  display: inline;
+}
+
+listPerson > tei-head, listPlace > tei-head, listOrg > tei-head {
+  font-size: 32px;
+  text-indent: -0.5em;
+}
+
+person, place, org, personGrp {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+person > a.persName, place > a.placeName, org > a.orgName {
+  display: block;
+  font-size: 24px;
+}
+
+/*# sourceMappingURL=main.css.map */

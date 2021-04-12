@@ -25,8 +25,7 @@ description = '19 Kislev Archive'
 
 dependencies {
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
-  implementation "org.opentorah:opentorah-util:$opentorahVersion"
-
+  implementation "org.opentorah:opentorah-base:$opentorahVersion"
   implementation "org.scala-lang:scala-library:$scalaVersion"
   implementation "com.google.cloud:google-cloud-storage:$gcloudStorageVersion"
   compileOnly    "org.slf4j:slf4j-api:$slf4jVersion"
@@ -36,7 +35,7 @@ compileSass {
   group = 'publishing'
 
   sourceDir = project.file ("$rootDir/sass")
-  outputDir = project.file ("$rootDir/assets")
+  outputDir = project.file ("$rootDir/css")
 }
 
 task buildSite(type: JavaExec) {

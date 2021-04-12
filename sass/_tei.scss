@@ -174,7 +174,7 @@ div.textpart {
   display: none;
 }
 /* LMD: since divs are used in HTML (at least by me:)) for purposes other than to structure the *text*,
-  inly TEI divs are matched here. */
+  only TEI divs are matched here. */
 tei|div > tei-head {
   font-size: 170%;
   text-indent: -0.5em;
