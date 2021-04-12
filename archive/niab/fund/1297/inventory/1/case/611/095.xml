@@ -1,11 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Киликовский</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Сообщение уездного стряпчего генерал-губернатору о передаче дела <persName ref="мителер_ребе">Дов-Бера
+        Шнеерсона</persName> на ревизию в могилевский губернский суд
+      </p></abstract>
+      <creation><date when="1826-07-31">31јюля 1826<hi rend="superscript">го</hi> года</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="095-1"/>
+    <fw type="docNum" place="left">№ 6576</fw>
+    <fw type="note" place="right"><date when="1826-08-03">3<hi rend="superscript">го</hi> августа 1826</date></fw>
+    <fw type="note" place="right">къ дѣлу.</fw>
+    <fw type="pageNum" place="right">95</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">96</del>.</fw>
+    <fw type="note" place="left margin">та</fw>
+    <head>
+      <l><emph rend="big">Его Сіятельству!</emph></l>
+      <l>Господину витебскому могилевскому</l>
+      <l>смоленскому и калужскому генералъ</l>
+      <l>губернатору и кавалеру._</l>
+      <l><emph rend="big">Рапорт</emph>.</l>
+      <l>бабиновицкаго</l>
+      <l>уезднаго стряп-</l>
+      <l>чаго</l>
+    </head>
+    <opener place="left">
+      <l>№ 254<hi rend="superscript">и</hi></l>
+      <l><date when="1826-07-31">31<hi rend="superscript">го</hi> јюля<lb/>
+       1826<hi rend="superscript">го</hi> года</date>.</l>
+    </opener>
+    <p>
+      <l><emph rend="big">Вашему Сіятельству</emph> симъ</l>
+      <l>честь имею донести, что дело о су-</l>
+      <l>дящемся за противузаконные пос-</l>
+      <l>тупки любавицомъ равине</l>
+      <l><persName ref="мителер_ребе">беркѣ Шнеере</persName>, здешнимъ горо-</l>
+      <l>довымъ магистратомъ решено</l>
+      <l>и представлено <date when="1826-07-30">30<hi rend="superscript">го</hi> числа сего<lb/>
+       теченія</date> на ревизію могилевскаго</l>
+      <l>главнаго суда въ 1<hi rend="superscript">и</hi> департаментъ.</l>
+      <l><signed>Уездный стряпчій <persName>Киликовскій</persName></signed></l>
+    </p>
     <pb n="095-2" missing="true"/>
   </body></text>
 </TEI>
