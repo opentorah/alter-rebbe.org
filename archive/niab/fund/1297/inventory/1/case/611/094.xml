@@ -1,11 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Смольяниновъ</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт могилевского губернского прокурора генерал-губернатору о получении донесений из Орши и Могилева в ответ
+        на запросы по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+      <creation><date when="1826-05-22">22 маія 1826</date></creation>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="094-1"/>
-    <pb n="094-2"/>
+    <fw type="docNum" place="left">№ 4264.</fw>
+    <fw type="note" place="right"><date when="1826-05-22">22<hi rend="superscript">го</hi> маія 1826</date></fw>
+    <fw type="note" place="right">Къ свѣденію.</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">95</del></fw>
+    <fw type="pageNum" place="right">94</fw>
+    <fw type="note" place="left margin">кре</fw>
+    <head>
+      <l><emph rend="big">Его Сіятельству!</emph></l>
+      <l>Господину генералъ губернатору витебскому,</l>
+      <l>могилевскому, смоленскому и калужскому генералъ</l>
+      <l>лейтенанту сенатору и разныхъ орденовъ</l>
+      <l>кавалеру князю <persName>Николаю Николевичу Хованскому</persName>.</l>
+      <l>Могилевскаго губернскаго прокурора</l>
+      <l><emph rend="big">Рапортъ</emph>.</l>
+    </head>
+    <p>
+      <l>Здѣшнѣе губернское правлѣніе получивъ отъ ор-</l>
+      <l>шанскаго и копыскаго городовыхъ магистратовъ</l>
+      <l>и могилевскаго нижнего земскаго суда донесенія,</l>
+      <l>что требованные бабиновицкимъ городовымъ</l>
+      <l>магистратомъ отъ кагаловъ и шкловскихъ</l>
+      <l>еврѣевъ <orgName ref="Хасиды">хосыдовъ</orgName> показаніи, нужные къ дѣлу</l>
+      <l>о любавицкомъ раввинѣ <persName ref="мителер_ребе">Беркѣ Шнейерѣ</persName>, ото-</l>
+      <l>сланы въ тотъ магистратъ; по настоянію</l>
+      <l>моему съ сею почтою строго подтвѣрждаетъ</l>
+      <l>бабиновицкому магистрату, чтобы произво-</l>
+      <l>дящееся въ ономъ дѣло о противузаконныхъ</l>
+      <l>поступкахъ помянутого раввина <persName ref="мителер_ребе">Шнейера</persName></l>
+      <l>рѣшилъ въ поспешнейшемъ врѣмени; о усугублѣ</l>
+      <l>ніи же за симъ настоянія, я съ своей сторо-</l>
+      <l>ны подтвердилъ тамошнему уездному</l>
+      <pb n="094-2"/>
+      <fw type="pageNum" place="right">94 об<note place="end">номер записан карандашом</note></fw>
+      <l>стряпчему, о чемъ Вашему Сіятельству</l>
+      <l>долгомъ поставляю въ дополненіе рапорта</l>
+      <l>моего отъ 10. минувшаго марта за <fw type="docNum">№ 740<hi rend="superscript">м</hi></fw></l>
+      <l>почтеннѣйше симъ донѣсти.</l>
+      <l><signed>Губернскій прокуроръ <persName>Смольяниновъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 1316.</fw></l>
+      <l><date when="1826-05-19">Маія 19. дня<lb/>
+       1826. года</date>.</l>
+    </closer>
   </body></text>
 </TEI>
