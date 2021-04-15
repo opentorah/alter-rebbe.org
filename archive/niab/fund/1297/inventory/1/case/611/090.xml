@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="090-1"/>
-    <fw type="docNum" place="left">№ 3259.</fw>
-    <fw type="note" place="right"><date when="1826-04-12">12 апрѣля 1826</date>._</fw>
-    <fw type="note" place="right">къ свѣденію</fw>
-    <fw type="pageNum" place="right">90</fw>
-    <fw type="note" place="left margin">Секретарь</fw>
+    <fw place="left" type="docNum">№ 3259.</fw>
+    <fw place="right" type="note"><date when="1826-04-12">12 апрѣля 1826</date>._</fw>
+    <fw place="right" type="note">къ свѣденію</fw>
+    <fw place="right" type="pageNum">90</fw>
+    <fw place="left margin" type="note">Секретарь</fw>
     <head>
       <l>Его Сіятельству.</l>
       <l>Господину генералъ лейтенанту, витебскому,</l>
@@ -42,7 +42,7 @@
       <l>оного равина командированнымъ ратма-</l>
       <l>номъ объясненїя, объ отобранїи подприсягою</l>
       <pb n="090-2"/>
-      <fw type="pageNum" place="right">90 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">90 об<note place="end">номер записан карандашом</note></fw>
       <l>Показанія отъ кагаловъ подвѣдомственныхъ</l>
       <l>оршанскому, и копыскому магистратамъ,</l>
       <l>и отъ шкловскихъ еврѣевъ, нащетъ того, точ-</l>
@@ -65,9 +65,9 @@
       <l>предписать оршанскому, и копыскому ма-</l>
       <l>гистратом, равно могилевскому нижнему</l>
       <pb n="091-1"/>
-      <fw type="pageNum" place="right">91</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">92</del>.</fw>
-      <fw type="note" place="left margin">Савиц</fw>
+      <fw place="right" type="pageNum">91</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">92</del>.</fw>
+      <fw place="left margin" type="note">Савиц</fw>
       <l>суду немедленно въ точности выполнить тре-</l>
       <l>бованія бабиновицкаго магистрата, въменивъ</l>
       <l>сему послѣднему подстрогою ответственностью</l>
@@ -90,7 +90,7 @@
       <l>которому онъ преданъ суду, а въ отступ-</l>
       <l>леніе узаконеннаго порядка посылали</l>
       <pb n="091-2"/>
-      <fw type="pageNum" place="right">91 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">91 об<note place="end">номер записан карандашом</note></fw>
       <l>неподлежаще къ нему на мѣсто житель</l>
       <l>ства его запросы чрезъ нарочнаго своего сто</l>
       <l>рожа, какъ видно въ явное для него послабле-</l>
@@ -114,9 +114,9 @@
       <l>читъ: что при отступленіи городовымъ</l>
       <l>магистратомъ отпорядка произошелъ</l>
       <pb n="092-1"/>
-      <fw type="pageNum" place="right">92</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">93</del>.</fw>
-      <fw type="note" place="left margin">кій</fw>
+      <fw place="right" type="pageNum">92</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">93</del>.</fw>
+      <fw place="left margin" type="note">кій</fw>
       <l>другой поступокъ со стороны посланнаго отъ</l>
       <l>него сторожа, который полученное отъ рави-</l>
       <l>на <persName ref="мителер_ребе">шнеера</persName> объясненіе утерялъ, но какъ за по</l>
@@ -140,7 +140,7 @@
       <l>естьли члены оного сверхъ положенного губерн-</l>
       <l>скимъ правленіемъ штрафа подлежать</l>
       <pb n="092-2"/>
-      <fw type="pageNum" place="right">92 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">92 об<note place="end">номер записан карандашом</note></fw>
       <l>будутъ отвѣтственности, предоставить раз</l>
       <l>смотренію тому мѣсту, вкоторое означенное</l>
       <l>дѣло о равинѣ <persName ref="мителер_ребе">шнеуре</persName> поступитъ на ревизїю,</l>
@@ -162,7 +162,7 @@
       <l><signed>Совѣтникъ <unclear>???</unclear></signed></l>
       <l><signed>секретарь <unclear>???</unclear></signed></l>
     </p>
-    <fw type="note" place="left margin">
+    <fw place="left margin" type="note">
       <l>Съ донесеніемъ озделанномъ</l>
       <l>распоряженіи къ решенію</l>
       <l>дела оравинѣ <persName ref="мителер_ребе">шнеерѣ</persName>._</l>

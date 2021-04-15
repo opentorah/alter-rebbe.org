@@ -18,8 +18,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="128-1"/>
-    <fw type="pageNum" place="right">128.</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">128.</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <p>
       <l><date when="1799-05-20">1799<hi rend="superscript">го</hi> года маія 20<hi rend="superscript">го</hi>
       дня</date> я ниже</l>
@@ -36,6 +36,6 @@
       <l>и десятскихъ. <signed>???</signed><note place="end">подпись на иврите <persName ref="Мовша_Ошерович">Мовши
       Ошеровича</persName></note></l>
     </p>
-    <pb n="128-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="128-2"/>
   </body></text>
 </TEI>

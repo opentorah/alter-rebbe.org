@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
-    <fw type="pageNum" place="right">6.</fw>
-    <fw type="note" place="right">Безличное<note place="end">карандашная архивная пометка</note></fw>
+    <fw place="right" type="pageNum">6.</fw>
+    <fw place="right" type="note">Безличное<note place="end">карандашная архивная пометка</note></fw>
     <p>
       <l>Попеченіе Правительства объ улучшеніи</l>
       <l>гражданскаго быта евреевъ - относится ко временамъ</l>
@@ -49,6 +49,6 @@
       >ятельства:</del> Бѣлорускій помѣщикъ Г. Гурко</l>
       <l>доставилъ ему перехваченное письмо отъ</l>
     </p>
-    <pb n="006-2" missing="true"/>
+    <pb missing="true" n="006-2"/>
   </body></text>
 </TEI>

@@ -12,10 +12,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000a-1"/>
-    <fw type="docNum" place="left">14/1911 г.</fw><note place="end">Поздняя пометка, цвет чернил отличается от
+    <fw place="left" type="docNum">14/1911 г.</fw><note place="end">Поздняя пометка, цвет чернил отличается от
     использованного ниже</note>
     <fw type="note"><fw type="docNum">№ 308.</fw></fw>
-    <fw type="pageNum" place="right">149</fw>
+    <fw place="right" type="pageNum">149</fw>
     <head>
       <l>ДЕЛО</l>
       <l>По рапорту витебскаго нижны<choice><sic>нижны</sic><corr>нижняго</corr></choice> Земскаго Суда</l>
@@ -38,6 +38,6 @@
       <l>Нач. <date when="1797-04-14">14/IV 1797</date></l>
       <l>Кон. <date when="1797-07-02">2/VII -</date><note place="end">Поздняя архивная пометка</note></l>
     </p>
-    <pb n="000a-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="000a-2"/>
   </body></text>
 </TEI>

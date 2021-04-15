@@ -20,8 +20,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="026-1"/>
-    <fw type="docNum" place="left">№ 11023/1319</fw>
-    <fw type="pageNum" place="right">26</fw>
+    <fw place="left" type="docNum">№ 11023/1319</fw>
+    <fw place="right" type="pageNum">26</fw>
     <date when="1800-07-02">2</date>
     <p><salute><l>Его высокопревосходительству, Господину Генералу<lb/>
          отъ инфантеріи, Генералу Прокурору, Генералъ про-<lb/>
@@ -49,9 +49,9 @@
       <l><signed><placeName ref="Литва">Литовскій</placeName> Губернскій Прокуроръ <persName ref="Тормасов">
       Тормасовъ</persName>.</signed></l>
     </p>
-    <fw type="docNum" place="left">№ 99<hi rend="superscript">й</hi></fw>
+    <fw place="left" type="docNum">№ 99<hi rend="superscript">й</hi></fw>
     <date when="1800-06-21"><l>Іюня 21<hi rend="superscript">го</hi> дня<lb/>
      1800ю Года.</l></date>
-    <pb n="026-2" missing="true"/>
+    <pb missing="true" n="026-2"/>
   </body></text>
 </TEI>

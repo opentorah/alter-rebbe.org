@@ -10,9 +10,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="061-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">62</del></fw>
-    <fw type="pageNum" place="right">61</fw>
-    <fw type="note" place="left margin">Се</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">62</del></fw>
+    <fw place="right" type="pageNum">61</fw>
+    <fw place="left margin" type="note">Се</fw>
     <head>
       <l>опись дѣлу о поборахъ равина <persName ref="мителер_ребе">Шнейера</persName></l>
       <l>съ еврейскаго общества.</l>
@@ -68,7 +68,7 @@
       rend="superscript"><del rend="overstrike">двухъ</del> 2</hi> листахъ</l>
     </p>
     <pb n="061-2"/>
-    <fw type="pageNum" place="right">61 об<note place="end">номер записан карандашом</note></fw>
+    <fw place="right" type="pageNum">61 об<note place="end">номер записан карандашом</note></fw>
     <p>
       <l>15.) Мировой документъ помѣщика</l>
       <l><persName>Nитославскаго</persName> съ евреемъ <persName>Шайкомъ</persName></l>
@@ -111,10 +111,10 @@
       "superscript">на 1</hi></l>
       <l>листѣ.</l>
     </p>
-    <fw type="note" place="right">/28</fw>
+    <fw place="right" type="note">/28</fw>
     <pb n="062-1"/>
-    <fw type="pageNum" place="right">62/</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="pageNum">62/</fw>
+    <fw place="left margin" type="note">кре</fw>
     <p>
       <l>24 Объясненіе равина <persName ref="мителер_ребе">Шнеера</persName> по еврейски</l>
       <l>съ переводомъ на россійскій языкъ на</l>
@@ -131,7 +131,7 @@
       <l>26 Записки равина <persName ref="мителер_ребе">Берки Шнеера</persName></l>
       <l>на <del rend="overstrike">двухъ</del> <hi rend="superscript">2</hi> листахъ</l>
     </p>
-    <fw type="note" place="right">
+    <fw place="right" type="note">
       <l>36</l>
       <l>56</l>
       <l>____</l>
@@ -140,6 +140,6 @@
     </fw>
     <pb n="061a-1"/>
     <pb n="061a-2"/>
-    <pb n="062-2" missing="true"/>
+    <pb missing="true" n="062-2"/>
   </body></text>
 </TEI>

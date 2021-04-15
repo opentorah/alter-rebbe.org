@@ -18,12 +18,12 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="003-1"/>
-    <fw type="docNum" place="left">№ 236</fw>
-    <fw type="pageNum" place="right">3.</fw>
-    <fw type="pageNum" place="right">3</fw>
+    <fw place="left" type="docNum">№ 236</fw>
+    <fw place="right" type="pageNum">3.</fw>
+    <fw place="right" type="pageNum">3</fw>
     <fw type="note">Подана <date when="1799-02-09">9 февраля 1799 года</date></fw>
-    <fw type="pageNum" place="right">3</fw>
-    <fw type="note" place="left margin">тарь</fw>
+    <fw place="right" type="pageNum">3</fw>
+    <fw place="left margin" type="note">тарь</fw>
     <salute>
       <l>Najwspanialszy Najpotężniejszy Wielki</l>
       <l>Monarcho <persName ref="Павел_I">Imperatorze Pawle Ro-<lb/>
@@ -72,7 +72,7 @@
     <p>
       <l>Na tey to twierdzy zapadłe rozne Saneyta ywyroki w Kommisyach oraz</l>
       <pb n="003-2"/>
-      <fw type="note" place="right">виленскій уѣздный казначей<note place="end">пометка, удостоверяющая текст</note>
+      <fw place="right" type="note">виленскій уѣздный казначей<note place="end">пометка, удостоверяющая текст</note>
       </fw>
       <l>Skarbowych oraz y w Sądach Assesorskich Porządek przepisano</l>
       <l>jakim Sposobem y na iaki przeciąg Czasu ludny Gmin</l>
@@ -115,8 +115,8 @@
       <l>ciwko oney podał natychmiast <orgName ref="Виленский_кагал">Kahał</orgName> <persName ref="Булгаков">bywszemu
       JW Gubernatorowi</persName></l>
       <pb n="004-1"/>
-      <fw type="note" place="left margin">Па</fw>
-      <fw type="pageNum" place="right">4</fw>
+      <fw place="left margin" type="note">Па</fw>
+      <fw place="right" type="pageNum">4</fw>
       <l>Gubernatorowi obiasnienie posledniej oskarżył</l>
       <l>onychże u JW<note place="end">сокращенный вариант записи слова Jaśnie Wielmożnego</note> teraznieyszego
       <persName ref="Лассий">Generał Guber-<lb/>
@@ -206,9 +206,9 @@
       <l>byłym <orgName ref="Хасиды">Sekty Karolinskiey</orgName> pierwszym Członkiem yieszcze wie-</l>
       <l>le Osób <orgName ref="Хасиды">Karolinami</orgName> do Elekcyi wcale nienależącemi uformował</l>
       <pb n="005-1"/>
-      <fw type="pageNum" place="right">5</fw>
-      <fw type="note" place="left margin">велъ</fw>
-      <fw type="note" place="left"><persName>Јосифъ Ейсымонтъ</persName><note place="end">Пометка губернского казначея
+      <fw place="right" type="pageNum">5</fw>
+      <fw place="left margin" type="note">велъ</fw>
+      <fw place="left" type="note"><persName>Јосифъ Ейсымонтъ</persName><note place="end">Пометка губернского казначея
       Иосифа Эйсмонта, вероятно, подтверждавшего комплектность листов в документе</note></fw>
       <l>uformował niby Elekcyę lecz kto został naniey ykto</l>
       <l>znaydował się, a to żaden z wiernych Izraelitow y Gminu</l>

@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="369-1"/>
-    <fw type="pageNum" place="right">369</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">369</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <p>
       <l><date when="1800-02-01">1800<hi rend="superscript">го</hi> года февраля 1<hi rend="superscript">го</hi>
       дня</date>. въ присудствіи <orgName ref="Литовский_надворный_суд">Литовскаго над-<lb/>
@@ -30,6 +30,6 @@
       <l>дати же за него оплачиваетъ, такъ какъ за неимущаго</l>
       <l><orgName ref="Виленский_кагал">виленскій еврейскій кагалъ</orgName>.</l>
     </p>
-    <pb n="369-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="369-2"/>
   </body></text>
 </TEI>

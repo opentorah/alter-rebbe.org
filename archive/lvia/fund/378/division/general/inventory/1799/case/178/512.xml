@@ -15,7 +15,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="512-1"/>
-    <fw type="pageNum" place="right">512</fw>
+    <fw place="right" type="pageNum">512</fw>
     <table>
       <row><cell cols="3"><head>
         <l>Опись слѣдствію произведенному въ <orgName ref="Литовский_надворный_суд">Литовскомъ Надворномъ<lb/>
@@ -371,7 +371,7 @@
       </row>
     </table>
     <pb n="513-1"/>
-    <fw type="pageNum" place="right">513</fw>
+    <fw place="right" type="pageNum">513</fw>
     <note place="end">чернильная запись продублирована карандашной из-за повреждения листа - подтека</note>
     <table>
       <row>
@@ -794,7 +794,7 @@
       </row>
     </table>
     <pb n="514-1"/>
-    <fw type="pageNum" place="right">514</fw>
+    <fw place="right" type="pageNum">514</fw>
     <table>
       <row>
         <cell>№</cell>
@@ -989,6 +989,6 @@
       </row>
     </table>
     <l><signed>Секретарь <persName>Павелъ Искрицкій</persName></signed></l>
-    <pb n="514-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="514-2"/>
   </body></text>
 </TEI>

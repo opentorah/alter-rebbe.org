@@ -16,9 +16,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="490-1"/>
-    <fw type="note" place="left"><emph rend="underline">Копія</emph>.</fw>
-    <fw type="pageNum" place="right">490.</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="left" type="note"><emph rend="underline">Копія</emph>.</fw>
+    <fw place="right" type="pageNum">490.</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <head>
       <l>Отъ литовскаго <persName ref="Лассий">генералъ губернатора</persName></l>
       <l>и кавалера_</l>
@@ -81,8 +81,8 @@
       <l>время - <emph rend="underline">во вторыхъ</emph> на имѣнїи выше</l>
       <l>показанныхъ старшинъ въ обезъпеченїе казеннаго</l>
       <pb n="491-1"/>
-      <fw type="pageNum" place="right">491.</fw>
-      <fw type="note" place="left margin">Ис-</fw>
+      <fw place="right" type="pageNum">491.</fw>
+      <fw place="left margin" type="note">Ис-</fw>
       <l>иску здѣлать на недвижимыя ихъ имѣнїи поз-</l>
       <l>дешнеи <placeName ref="Литва">губернїи</placeName> запрещенїе <emph rend="underline">и въ третьихъ</emph> по
       отно</l>
@@ -94,6 +94,6 @@
     </p>
     <closer place="left"><l><date when="1799-02-02">Февраля 2<hi rend="underline">го</hi> дня<lb/>
      1799<hi rend="superscript">го</hi> года</date></l></closer>
-    <pb n="491-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="491-2"/>
   </body></text>
 </TEI>

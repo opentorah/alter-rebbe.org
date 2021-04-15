@@ -20,8 +20,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="023-1"/>
-    <fw type="pageNum" place="right">23</fw>
-    <fw type="docNum" place="right">№. 4722</fw>
+    <fw place="right" type="pageNum">23</fw>
+    <fw place="right" type="docNum">№. 4722</fw>
     <salute>Милостивый Государь <persName ref="Кутузов">Михайло Илларионовичъ!</persName></salute>
     <p>
       <l>Имѣя высочайшее Его Императорскаго</l>
@@ -41,8 +41,8 @@
       <l>вашимъ увѣдомленіемъ., Съ совр-</l>
       <l>шенннейшимъ почтеніемъ есмь</l>
     </p>
-    <l><date when="1800-06-07" place="left">июня 7 дня <lb/>1800 года</date></l>
+    <l><date place="left" when="1800-06-07">июня 7 дня <lb/>1800 года</date></l>
     <l><persName ref="Кутузов">Голенищеву Кутузову</persName></l>
-    <pb n="023-2" missing="true"/>
+    <pb missing="true" n="023-2"/>
   </body></text>
 </TEI>

@@ -23,8 +23,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="403-1"/>
-    <fw type="pageNum" place="right">403.</fw>
-    <fw type="note" place="left margin">Ис-</fw>
+    <fw place="right" type="pageNum">403.</fw>
+    <fw place="left margin" type="note">Ис-</fw>
     <p>
       <l>Jndegacya o Konduicie Starozakonnych <persName>Leyby Rafałowicza</persName>, <persName>Abra-<lb/>
        hama Notelowicza</persName> – <persName>Abrahama Hirszowicza</persName> – <persName>Nisona Dawidowi-<lb/>
@@ -91,7 +91,7 @@
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
     <pb n="403-2"/>
-    <fw type="note" place="right"><date when="1800-03-28">Dnia 28 Marca 1800 Ru</date></fw>
+    <fw place="right" type="note"><date when="1800-03-28">Dnia 28 Marca 1800 Ru</date></fw>
     <p>
       <l>4<hi rend="superscript">y</hi> <persName>Leyba Wolfowicz</persName> Lat 55 wieku liczący ma Swoy Dom nad
       Wilią</l>
@@ -109,7 +109,7 @@
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
     <p>
-      <fw type="note" place="right"><date when="1800-04-13">Dnia 13 Mca Apryla 1800 Ru</date></fw>
+      <fw place="right" type="note"><date when="1800-04-13">Dnia 13 Mca Apryla 1800 Ru</date></fw>
       <l>5<hi rend="superscript">y</hi> <persName>Samuel Josielowicz</persName> Lat 39 wieku maiący ma Swoy Dom pod</l>
       <l>Nr 955 na Snipiszkach sytuowany po wykonaniu na wierności</l>
       <l>wyznania Swego w Szkole Ƶydowskiey na Rodale przysięgi exa-</l>
@@ -152,14 +152,14 @@
     <p>
       <l>Jakowe Examina wiernie przez nas z powyzszych osob wzięte <signed><unclear>???</unclear></signed></l>
       <pb n="404-1"/>
-      <fw type="pageNum" place="right">404.</fw>
-      <fw type="note" place="left margin">криц</fw>
+      <fw place="right" type="pageNum">404.</fw>
+      <fw place="left margin" type="note">криц</fw>
       <l>wzięte y zapisane własnymi podpisuiemy Rękoma</l>
       <l>w <placeName ref="Вильна">wilnie</placeName> na Ratuszu Wilen <date when="1800-04-13">Ru 1800 Msca Apryla 13
       Dni</date>a</l>
       <l><persName>Wilhelm Rehfeld</persName> Radny Miasta <placeName ref="Вильна">Wilna</placeName></l>
       <l><persName>Konstantyn Lewandowski</persName> Radny miasta <placeName ref="Вильна">wilna</placeName></l>
     </p>
-    <pb n="404-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="404-2"/>
   </body></text>
 </TEI>

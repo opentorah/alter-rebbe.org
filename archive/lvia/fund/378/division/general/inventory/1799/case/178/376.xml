@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="376-1"/>
-    <fw type="pageNum" place="right">376.</fw>
-    <fw type="note" place="left margin">Па-</fw>
+    <fw place="right" type="pageNum">376.</fw>
+    <fw place="left margin" type="note">Па-</fw>
     <head>
       <l><date when="1800-02-07">1800<hi rend="superscript">го</hi> года февраля 7 дня</date>. въ присудствіи <orgName
       ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -50,6 +50,6 @@
       <l>домовъ, и сіе показалъ по самой сущей справедливости</l>
       <l>и ничего не утаилъ. <signed>Гиршъ Юделевичъ</signed></l>
     </p>
-    <pb n="376-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="376-2"/>
   </body></text>
 </TEI>

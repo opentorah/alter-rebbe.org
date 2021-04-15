@@ -16,13 +16,13 @@
         >Литовской губернии</placeName>
       </p></abstract>
       <creation><date when="1798-09-15">15го сентября 1798</date></creation>
-      <correspDesc><correspAction><persName role="addressee" ref="Жегулин">Жегулину</persName></correspAction>
+      <correspDesc><correspAction><persName ref="Жегулин" role="addressee">Жегулину</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="028-1"/>
-    <fw type="pageNum" place="right">28.</fw>
+    <fw place="right" type="pageNum">28.</fw>
     <salute>Мил. Г. мой Семенъ Семеновичъ!</salute>
     <p>
       <l>Его ІВ<hi rend="superscript">о</hi><note place="end">Его Императорское Величество</note> высочайше повелѣть</l>
@@ -95,7 +95,7 @@
       <l>вашей исполненію высокомо</l>
       <l>наршія воли, и буду ожи</l>
       <pb n="028a-1"/>
-      <fw type="pageNum" place="right">28а.</fw>
+      <fw place="right" type="pageNum">28а.</fw>
       <l>дать надлежащаго въ свое</l>
       <l>время увѣдомленія, какъ</l>
       <l>и присылки главнѣйшихъ</l>
@@ -112,7 +112,7 @@
         <l><persName ref="Булгаков">булгакову</persName></l>
       </closer>
     </del>
-    <fw type="pageNum" place="right"><del rend="overstrike">29а.</del></fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">29а.</del></fw>
     <pb n="028a-2"/>
   </body></text>
 </TEI>

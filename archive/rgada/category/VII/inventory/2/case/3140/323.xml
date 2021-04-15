@@ -19,13 +19,13 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="323-1"/>
-    <fw type="pageNum" place="right">323</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">326</del></fw><note place="end">номер записан чернилами и
+    <fw place="right" type="pageNum">323</fw><note place="end">номер вписан карандашом</note>
+    <fw place="right" type="pageNum"><del rend="overstrike">326</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
     <l>
       <fw type="docNum">№ 1614.</fw>
       <date when="1800-11-16">16 ноября 1800</date>
-      <fw type="note" place="right">къ отпуску</fw>
+      <fw place="right" type="note">къ отпуску</fw>
     </l>
     <salute><l>Милостивый Государь мой<lb/>
        <persName ref="Обольянинов">петръ Хрисанфовичъ</persName>!</l></salute>

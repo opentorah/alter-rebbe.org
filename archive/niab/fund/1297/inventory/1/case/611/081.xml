@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="081-1"/>
-    <fw type="pageNum" place="right">81</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">82</del>.</fw>
-    <fw type="docNum" place="left">№ 1821.</fw>
-    <fw type="note" place="right"><date when="1826-03-02">2 марта 1826</date>.</fw>
-    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+    <fw place="right" type="pageNum">81</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">82</del>.</fw>
+    <fw place="left" type="docNum">№ 1821.</fw>
+    <fw place="right" type="note"><date when="1826-03-02">2 марта 1826</date>.</fw>
+    <fw place="left margin" type="note"><signed><unclear>???</unclear></signed><note place="end">подпись
     секретаря</note></fw>
     <opener place="left">
       <l>Бабиновицкаго</l>
@@ -51,7 +51,7 @@
       <l>къ <persName ref="мителер_ребе">раввину</persName> и въ еврейскіе прикагалки</l>
       <l>сторожъ того мангистрата 8<hi rend="superscript">го</hi> сего</l>
       <pb n="081-2"/>
-      <fw type="pageNum" place="right">81 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">81 об<note place="end">номер записан карандашом</note></fw>
       <l>февраля возвратясь объявилъ, что онъ полу-</l>
       <l>ченный ответъ отъ <persName ref="мителер_ребе">раввина</persName> утерялъ на пути</l>
       <l>отъ <placeName ref="Любавичи">любавичъ</placeName> къ городу Бабиновичамъ, по ка-</l>
@@ -72,7 +72,7 @@
       <l><persName ref="alter-rebbe">покойнаго отца</persName> раввиномъ съ обещаниемъ</l>
       <l>вознагражденія за разорение неприятелемъ.</l>
       <pb n="082-1"/>
-      <fw type="note" place="left margin">По</fw>
+      <fw place="left margin" type="note">По</fw>
       <l>и на содержаніе его со всею фамиліею; сообщить</l>
       <l>въ оршанскій и копыскій городовые магистраты</l>
       <l>и въ могилевскій нижнїй земскій судъ, и такимъ</l>
@@ -94,6 +94,6 @@
       <l>Уездный стряпчій <persName>Киликовскїй</persName>._</l>
     </p>
     <pb n="081a-1"/>
-    <pb n="082-2" missing="true"/>
+    <pb missing="true" n="082-2"/>
   </body></text>
 </TEI>

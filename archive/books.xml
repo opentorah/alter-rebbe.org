@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store>
-  <name n="книги" lang="ru"/>
-  <name n="books" lang="en"/>
+  <name lang="ru" n="книги"/>
+  <name lang="en" n="books"/>
   <title xmlns="http://www.tei-c.org/ns/1.0"/>
   <by selector="book">
     <store file="books/book/derzhavin.xml"/>

@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="349-1"/>
-    <fw type="pageNum" place="right">349</fw>
-    <fw type="note" place="left margin">Се-</fw>
+    <fw place="right" type="pageNum">349</fw>
+    <fw place="left margin" type="note">Се-</fw>
     <head>
       <l><date when="1800-01-27">1800 года генваря 27 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд"
       >Литовскаго<lb/>
@@ -43,6 +43,6 @@
       <l>справедливости безъ всякой</l>
       <l>утайки. <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
     </p>
-    <pb n="349-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="349-2"/>
   </body></text>
 </TEI>

@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="447-1"/>
-    <fw type="pageNum" place="right">447</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="pageNum">447</fw>
+    <fw place="left margin" type="note">кре</fw>
     <head>
       <l><date when="1800-05-15">1800<hi rend="superscript">го</hi> года маія 15<hi rend="superscript">го</hi>
       дня</date> въ журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -46,6 +46,6 @@
     </p>
     <fw type="note">Съ подлиннымъ – списалъ – канцеляристъ Скоробогатый</fw>
     <pb n="447-2"/>
-    <fw type="note" place="right margin">тарь</fw>
+    <fw place="right margin" type="note">тарь</fw>
   </body></text>
 </TEI>

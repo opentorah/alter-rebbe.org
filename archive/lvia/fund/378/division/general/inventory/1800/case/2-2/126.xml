@@ -19,10 +19,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="126-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">166</del></fw>
-    <fw type="pageNum" place="right">126</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">185</del></fw>
-    <fw type="note" place="left margin">Про</fw><note place="end">Продолжающаяся надпись на первых страницах листов
+    <fw place="right" type="pageNum"><del rend="overstrike">166</del></fw>
+    <fw place="right" type="pageNum">126</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">185</del></fw>
+    <fw place="left margin" type="note">Про</fw><note place="end">Продолжающаяся надпись на первых страницах листов
     документа образует надпись "про/то/колист/~"</note>
     <salute>
       <l><emph rend="big">Его высокопревосходительству</emph>–</l>
@@ -77,10 +77,10 @@
       <l>тѣхъ же правилъ избрали по волѣ своей</l>
       <l>всѣхъ кагальныхъ служителей и школьниковъ</l>
       <pb n="127-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">167</del></fw>
-      <fw type="pageNum" place="right">127</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">186</del></fw>
-      <fw type="note" place="left margin">то</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">167</del></fw>
+      <fw place="right" type="pageNum">127</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">186</del></fw>
+      <fw place="left margin" type="note">то</fw>
       <l>для лучшаго жъ во всемъ по желанію ихъ</l>
       <l>успѣха, писаря <persName ref="Уриаш_Габриелович">Уріаша Габріеліовича</persName>, на</l>
       <l>котораго общество всю свою надежду пола-</l>
@@ -132,10 +132,10 @@
       <l>дили посредствомъ гминоваго обще-</l>
       <l>ства, а другіе предполагаютъ тому</l>
       <pb n="128-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">168</del></fw>
-      <fw type="pageNum" place="right">128</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">187</del></fw>
-      <fw type="note" place="left margin">колистъ</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">168</del></fw>
+      <fw place="right" type="pageNum">128</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">187</del></fw>
+      <fw place="left margin" type="note">колистъ</fw>
       <l>иной порядокъ называемый кресковый,</l>
       <l>подобно однако жъ первому не имѣющій осно-</l>
       <l>ванія; то дабы успокоить и согласить</l>
@@ -188,9 +188,9 @@
       <l>обстоятельствахъ до выборовъ относящихся</l>
       <l>совершенно объяснивъ представили</l>
       <pb n="129-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">169</del></fw>
-      <fw type="pageNum" place="right">129</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">188</del></fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">169</del></fw>
+      <fw place="right" type="pageNum">129</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">188</del></fw>
       <l>таковое мнѣніе какъ найскорѣе Правле-</l>
       <l>нію. А какъ въ городѣ <placeName ref="Вильна">вильнѣ</placeName> находится</l>
       <l>въ числѣ первостатейныхъ евреевъ докторъ</l>
@@ -209,6 +209,6 @@
       <l><date when="1800-03-31">Марта 31. дня<lb/>
        1800<hi rend="superscript">го</hi> года</date>.</l>
     </closer>
-    <pb n="129-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="129-2"/>
   </body></text>
 </TEI>

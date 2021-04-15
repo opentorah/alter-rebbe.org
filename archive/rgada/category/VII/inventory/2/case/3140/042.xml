@@ -18,10 +18,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="042-1"/>
-    <fw type="docNum" place="left">№. 2697.</fw>
-    <fw type="note" place="right">Секретно</fw>
+    <fw place="left" type="docNum">№. 2697.</fw>
+    <fw place="right" type="note">Секретно</fw>
     <fw><date when="1798-10-29">29. окт. 1798.</date></fw>
-    <fw type="pageNum" place="right">42</fw>
+    <fw place="right" type="pageNum">42</fw>
     <salute>
       <l>Высокородному и высокопревосходительному господину дѣйстви-</l>
       <l>тельному тайному совѣтнику генералу прокурору и раз-</l>
@@ -32,7 +32,7 @@
        кого</placeName> губернатора</l>
       <l>Донесенїе</l>
     </head>
-    <fw type="note" place="left margin">къ дѣлу.</fw>
+    <fw place="left margin" type="note">къ дѣлу.</fw>
     <p>
       <l>Господинъ дѣйствительный тайный совѣтникъ <placeName ref="Литва">литов-<lb/>
        скїй</placeName> губернаторъ <persName ref="Булгаков">Булгаковъ</persName> отношеніемъ его ко мнѣ отъ <date when=

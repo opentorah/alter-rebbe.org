@@ -20,8 +20,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="286-1"/>
-    <fw type="pageNum" place="right">286.</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="pageNum">286.</fw>
+    <fw place="left margin" type="note">кре</fw>
     <head>
       <l>Do</l>
       <l>Szlachetnego Magistratu Miasta Gubernskiego</l>
@@ -58,6 +58,6 @@
     </p>
     <closer place="left"><l><date when="1799-10-12">Dnia 12 Obra<note place="end">Oktobra</note><lb/>
      1799 Roku</date></l></closer>
-    <pb n="286-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="286-2"/>
   </body></text>
 </TEI>

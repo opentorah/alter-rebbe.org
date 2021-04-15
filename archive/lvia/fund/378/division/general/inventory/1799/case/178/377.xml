@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="377-1"/>
-    <fw type="pageNum" place="right">377</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">377</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <head>
       <l><date when="1800-02-07">1800 года февраля 7 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд"
       >Литов-<lb/>
@@ -43,6 +43,6 @@
       <l>казалъ по сущей справедливости.</l>
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
-    <pb n="377-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="377-2"/>
   </body></text>
 </TEI>

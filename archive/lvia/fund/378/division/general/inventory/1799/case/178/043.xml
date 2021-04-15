@@ -12,9 +12,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="043-1"/>
-    <fw type="pageNum" place="right">43.</fw>
-    <fw type="note" place="left margin">тарь</fw>
+    <fw place="right" type="pageNum">43.</fw>
+    <fw place="left margin" type="note">тарь</fw>
     <signed><l>Секретарь Михаил <unclear>???</unclear></l></signed>
-    <pb n="043-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="043-2"/>
   </body></text>
 </TEI>

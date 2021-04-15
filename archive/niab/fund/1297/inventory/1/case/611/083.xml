@@ -15,10 +15,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="083-1"/>
-    <fw type="pageNum" place="right">83</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">84</del>.</fw>
-    <fw type="note" place="left">По <fw type="docNum">№ 1821/</fw></fw>
-    <fw type="note" place="left margin">мощ</fw>
+    <fw place="right" type="pageNum">83</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">84</del>.</fw>
+    <fw place="left" type="note">По <fw type="docNum">№ 1821/</fw></fw>
+    <fw place="left margin" type="note">мощ</fw>
     <opener place="left">
       <l><date when="1826-03-04">4<hi rend="superscript">го</hi> марта 1826</date></l>
       <l><fw type="docNum">№ 1067</fw></l>
@@ -59,7 +59,7 @@
       <l>упомянутые магистраты и въ</l>
       <l>могилевскій нижній земскій судъ;</l>
       <pb n="083-2"/>
-      <fw type="pageNum" place="right">83 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">83 об<note place="end">номер записан карандашом</note></fw>
       <l>каковую резолюцію исполнилъ <date when="1826-02-12">12<hi rend="superscript">го</hi><lb/>
        февраля</date>; о чемъ <hi rend="superscript">отъ магистрата</hi> донесено Губерн-</l>
       <l>скому правленію <date when="1826-02-19">19<hi rend="superscript">го</hi> тогожѣ<lb/>
@@ -97,9 +97,9 @@
       <l>раввинѣ <persName ref="мителер_ребе">Шнейерѣ</persName> въ возмож-</l>
       <l>ной поспешности, и съ тѣмъ</l>
       <pb n="084-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">85</del>.</fw>
-      <fw type="pageNum" place="right">84</fw>
-      <fw type="note" place="left margin">никъ</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">85</del>.</fw>
+      <fw place="right" type="pageNum">84</fw>
+      <fw place="left margin" type="note">никъ</fw>
       <l>вмѣстѣ озаботиться опредѣле-</l>
       <l>ніемъ въ оный магистратъ сек-</l>
       <l>ретарю, согласно предложенію моему</l>
@@ -136,6 +136,6 @@
     <pb n="083a-1"/>
     <pb n="083a-2"/>
     <pb n="084a-1"/>
-    <pb n="084-2" missing="true"/>
+    <pb missing="true" n="084-2"/>
   </body></text>
 </TEI>

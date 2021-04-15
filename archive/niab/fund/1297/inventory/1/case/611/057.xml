@@ -14,9 +14,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="057-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">58</del></fw>
-    <fw type="pageNum" place="right">57</fw>
-    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+    <fw place="right" type="pageNum"><del rend="overstrike">58</del></fw>
+    <fw place="right" type="pageNum">57</fw>
+    <fw place="left margin" type="note"><signed><unclear>???</unclear></signed><note place="end">подпись
     канцеляриста</note></fw>
     <head>
       <l>D</l>
@@ -50,6 +50,6 @@
     <closer place="left"><l><date when="1825-10-15">октября 15 дня<lb/>
      1825 года</date></l></closer>
     <pb n="057a-1"/>
-    <pb n="057-2" missing="true"/>
+    <pb missing="true" n="057-2"/>
   </body></text>
 </TEI>

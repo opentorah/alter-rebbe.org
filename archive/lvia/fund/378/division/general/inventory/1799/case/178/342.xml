@@ -17,11 +17,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="342-1"/>
-    <fw type="docNum" place="left">№ 50</fw>
+    <fw place="left" type="docNum">№ 50</fw>
     <fw type="note">Получено <date when="1800-01-26">26<hi rend="superscript">го</hi> генваря 1800 года</date></fw>
-    <fw type="pageNum" place="right">342.</fw>
-    <fw type="note" place="left margin">№ 166</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="pageNum">342.</fw>
+    <fw place="left margin" type="note">№ 166</fw>
+    <fw place="left margin" type="note">кре</fw>
     <head>
       <l>Изъ Литовской Казенной палаты</l>
       <l>въ <orgName ref="Литовский_надворный_суд">Литовскій надворный Судъ</orgName>._</l>
@@ -42,9 +42,9 @@
        1800 года</date>._ <signed><unclear>Зенонъ Махвишъ</unclear></signed></l>
       <l>Губернскій секретарь <signed>Людвигъ Грыжинъ</signed></l>
       <l>Регистраторъ <signed><unclear>??? ???</unclear></signed></l>
-      <fw type="note" place="left margin">слуш<note place="end">слушано</note>: <date when="1800-01-27">27<hi rend=
+      <fw place="left margin" type="note">слуш<note place="end">слушано</note>: <date when="1800-01-27">27<hi rend=
       "superscript">го</hi> генваря</date></fw>
     </p>
-    <pb n="342-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="342-2"/>
   </body></text>
 </TEI>

@@ -16,12 +16,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="095-1"/>
-    <fw type="docNum" place="left">№ 6576</fw>
-    <fw type="note" place="right"><date when="1826-08-03">3<hi rend="superscript">го</hi> августа 1826</date></fw>
-    <fw type="note" place="right">къ дѣлу.</fw>
-    <fw type="pageNum" place="right">95</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">96</del>.</fw>
-    <fw type="note" place="left margin">та</fw>
+    <fw place="left" type="docNum">№ 6576</fw>
+    <fw place="right" type="note"><date when="1826-08-03">3<hi rend="superscript">го</hi> августа 1826</date></fw>
+    <fw place="right" type="note">къ дѣлу.</fw>
+    <fw place="right" type="pageNum">95</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">96</del>.</fw>
+    <fw place="left margin" type="note">та</fw>
     <head>
       <l><emph rend="big">Его Сіятельству!</emph></l>
       <l>Господину витебскому могилевскому</l>
@@ -49,6 +49,6 @@
       <l>главнаго суда въ 1<hi rend="superscript">и</hi> департаментъ.</l>
       <l><signed>Уездный стряпчій <persName>Киликовскій</persName></signed></l>
     </p>
-    <pb n="095-2" missing="true"/>
+    <pb missing="true" n="095-2"/>
   </body></text>
 </TEI>

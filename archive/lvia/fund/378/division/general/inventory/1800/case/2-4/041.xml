@@ -13,7 +13,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="041-1"/>
-    <fw type="pageNum" place="right">41.</fw>
+    <fw place="right" type="pageNum">41.</fw>
     <head>
       <l>Реестръ</l>
       <l><orgName ref="Хасиды">Евреямъ Каролинамъ</orgName> бывшимъ изъ</l>
@@ -38,6 +38,6 @@
     <l>7_ <persName ref="Шмуил_Хаимович">Шмуйло Хаймовичъ</persName>.</l>
     <l><signed><placeName ref="Литва">Литовскій</placeName> Гражданскій Губернаторъ <persName ref="Фризель"
     >Фризель</persName></signed></l>
-    <pb n="041-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="041-2"/>
   </body></text>
 </TEI>

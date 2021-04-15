@@ -22,9 +22,9 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="400-1"/>
-    <fw type="pageNum" place="right">400.</fw>
-    <fw type="note" place="left margin">№ 361</fw>
-    <fw type="note" place="left margin">тарь</fw>
+    <fw place="right" type="pageNum">400.</fw>
+    <fw place="left margin" type="note">№ 361</fw>
+    <fw place="left margin" type="note">тарь</fw>
     <head>
       <l>Do</l>
       <l>Pollicyi Miasta <placeName ref="Вильна">Wilna</placeName></l>
@@ -49,6 +49,6 @@
     <l><signed><unclear>???</unclear><note place="end">подпись бургомистра</note></signed></l>
     <l><persName>Franciszek Sidorowicz</persName><lb/>
      <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Regent</l>
-    <pb n="400-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="400-2"/>
   </body></text>
 </TEI>

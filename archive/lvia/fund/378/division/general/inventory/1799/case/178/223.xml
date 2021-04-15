@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="223-1"/>
-    <fw type="pageNum" place="right">223.</fw>
-    <fw type="note" place="left margin">тарь</fw>
+    <fw place="right" type="pageNum">223.</fw>
+    <fw place="left margin" type="note">тарь</fw>
     <head>
       <l><date when="1799-07-04">1799<hi rend="superscript">го</hi> года Јюля 4<hi rend="superscript">го</hi> дня</date>
       въ журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго Надворнаго Суда</orgName></l>
@@ -87,8 +87,8 @@
       <l>дантъ въ <placeName ref="Вильна">вильну</placeName> не прибудетъ, для того дабы не ос-</l>
       <l>тановить окончанія онаго дѣла, не откладывать</l>
       <pb n="224-1"/>
-      <fw type="pageNum" place="right">224</fw>
-      <fw type="note" place="left margin">Па</fw>
+      <fw place="right" type="pageNum">224</fw>
+      <fw place="left margin" type="note">Па</fw>
       <l>послѣ подачи требуемыхъ нынешнею резолюціею</l>
       <l>объясненій, и отобранія какъ отъ оныхъ <orgName ref="Хасиды">каролиновъ</orgName>,</l>
       <l>такъ и отдѣсятскихъ показаніи. Подлинной за</l>
@@ -96,6 +96,6 @@
       <l>скрепою секретаря <persName>Павла Искрицкаго</persName>._</l>
       <l>Протоколистъ <signed><persName>Јосифъ Волковъ</persName></signed></l>
     </p>
-    <pb n="224-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="224-2"/>
   </body></text>
 </TEI>

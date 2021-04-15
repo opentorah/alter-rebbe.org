@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="048-1"/>
-    <fw type="pageNum" place="right">48.</fw>
-    <fw type="note" place="left margin">рь</fw>
+    <fw place="right" type="pageNum">48.</fw>
+    <fw place="left margin" type="note">рь</fw>
     <p>
       <l><date when="1822-07-17">1822 года јюля 17 дня</date> сія довѣренность</l>
       <l>отъ <orgName ref="Хасиды">общества хосода</orgName> <persName ref="мителер_ребе">любавицкаго рабина</persName>
@@ -36,8 +36,8 @@
       <l><signed>Бургомистр <persName><unclear>Мизлон</unclear></persName>_</signed></l>
       <l><signed>ратманъ <persName>нахманъ Лахманъ</persName></signed></l>
     </p>
-    <fw type="note" place="left">МП<note place="end">буквы обведены по окружности, изображая место печати в оригинальном
+    <fw place="left" type="note">МП<note place="end">буквы обведены по окружности, изображая место печати в оригинальном
     документе</note></fw>
-    <pb n="048-2" missing="true"/>
+    <pb missing="true" n="048-2"/>
   </body></text>
 </TEI>

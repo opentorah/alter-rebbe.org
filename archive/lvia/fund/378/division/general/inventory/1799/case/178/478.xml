@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="478-1"/>
-    <fw type="pageNum" place="right">478.</fw>
-    <fw type="note" place="left margin">Се-</fw>
+    <fw place="right" type="pageNum">478.</fw>
+    <fw place="left margin" type="note">Се-</fw>
     <head>Rota Przysięgi._</head>
     <p>
       <l>Ja nizey mianowany, przysięgam Panu Bogu wszechmogącemu, któ-</l>
@@ -37,10 +37,10 @@
       <l>При приводѣ къ сей присягѣ находился_</l>
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
-    <fw type="note" place="lower margin">
+    <fw place="lower margin" type="note">
       <l>При приводѣ къ сей присягѣ находился_</l>
       <l>Aсессоръ францишекъ Верещакa</l>
     </fw>
-    <pb n="478-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="478-2"/>
   </body></text>
 </TEI>

@@ -16,10 +16,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="330-1"/>
-    <fw type="docNum" place="left">???</fw><note place="end">номер заклеен при реставрации листа</note>
+    <fw place="left" type="docNum">???</fw><note place="end">номер заклеен при реставрации листа</note>
     <fw type="note">Получено <date when="1800-01-04">4<hi rend="superscript">го</hi> генваря 1800<hi rend="superscript"
     >го</hi> года</date>.</fw>
-    <fw type="pageNum" place="right">330</fw>
+    <fw place="right" type="pageNum">330</fw>
     <head>
       <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной Судъ</orgName></l>
       <l>отъ правящаго комендантскую должность вилен</l>
@@ -46,6 +46,6 @@
       <fw type="note">слуш.<note place="end">слушано</note> <date when="1800-01-05">5<hi rend="superscript">го</hi>
       генваря</date></fw><note place="end">пометка на нижнем поле страницы</note>
     </p>
-    <pb n="330-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="330-2"/>
   </body></text>
 </TEI>

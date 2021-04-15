@@ -16,9 +16,9 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="285-1"/>
-    <fw type="pageNum" place="right">285</fw>
-    <fw type="note" place="left margin"><fw type="docNum">№ 133.</fw></fw>
-    <fw type="note" place="left margin">Се-</fw>
+    <fw place="right" type="pageNum">285</fw>
+    <fw place="left margin" type="note"><fw type="docNum">№ 133.</fw></fw>
+    <fw place="left margin" type="note">Се-</fw>
     <head>
       <l>Działo się na Ratuszu wilen</l>
       <l>skim <date when="1799-10-12">Roku Tysiąc Siedemset<lb/>
@@ -50,6 +50,6 @@
       <l>nieść porucza_</l>
       <l><signed><persName>Jan Müller</persName> Bu<note place="end">Burmistrz</note> miasta wilna</signed></l>
     </p>
-    <pb n="285-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="285-2"/>
   </body></text>
 </TEI>

@@ -14,9 +14,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="147-1"/>
-    <fw type="note" place="left">Копія</fw>
-    <fw type="pageNum" place="right">147</fw>
-    <fw type="note" place="left margin">кій</fw>
+    <fw place="left" type="note">Копія</fw>
+    <fw place="right" type="pageNum">147</fw>
+    <fw place="left margin" type="note">кій</fw>
     <head>
       <l>Въ <orgName ref="Литовское_губернское_правление">Литовское Губернское правленіе</orgName></l>
       <l>отъ артиллеріи генералъ маіора вилѣнска-</l>
@@ -54,6 +54,6 @@
        1799 года</date></l>
       <l><placeName ref="Вильна">Вильно</placeName>.</l>
     </closer>
-    <pb n="147-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="147-2"/>
   </body></text>
 </TEI>

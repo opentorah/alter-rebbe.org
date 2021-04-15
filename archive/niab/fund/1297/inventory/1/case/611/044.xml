@@ -14,9 +14,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="044-1"/>
-    <fw type="pageNum" place="right">44</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">45.</del></fw>
-    <fw type="note" place="right">Копія</fw>
+    <fw place="right" type="pageNum">44</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">45.</del></fw>
+    <fw place="right" type="note">Копія</fw>
     <head>
       <l><emph rend="big">L</emph>.</l>
       <l><emph rend="underline">Переводъ съ еврейскаго</emph></l>
@@ -41,10 +41,10 @@
       <l>тилъ <persName>Исай Финкелштейнъ</persName> пере-</l>
       <l>водчикъ.</l>
     </p>
-    <fw type="note" place="right">
+    <fw place="right" type="note">
       <l>мѣсто</l>
       <l>печати</l>
     </fw>
-    <pb n="044-2" missing="true"/>
+    <pb missing="true" n="044-2"/>
   </body></text>
 </TEI>

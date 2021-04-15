@@ -12,8 +12,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="020-1"/>
-    <fw type="pageNum" place="right">20</fw>
-    <fw type="note" place="left margin">симъ</fw>
+    <fw place="right" type="pageNum">20</fw>
+    <fw place="left margin" type="note">симъ</fw>
     <head><l>Переводъ съ еврейскаго</l></head>
     <p>
       <l>Божіею помощїю.</l>
@@ -47,7 +47,7 @@
       <l>вѣчныя времена къ очищенію всѣхъ погреш-</l>
       <l>ностей его, и чтобы душа его связана была</l>
       <pb n="020-2"/>
-      <fw type="pageNum" place="right">20 об<note place="end">номер проставлен карандашом</note></fw>
+      <fw place="right" type="pageNum">20 об<note place="end">номер проставлен карандашом</note></fw>
       <l>съ душею и святымъ духомъ <persName ref="alter-rebbe">отца</persName> его от</l>
       <l>нюдь безъотдѣльно для того чтобы онъ пред</l>
       <l>стательствовалъ за него къ благу его, что</l>
@@ -80,9 +80,9 @@
       <l>и должны получить отъ каждаго въ полученіи</l>
       <l>принадлежащихъ денегъ квитанціи для</l>
       <pb n="021-1"/>
-      <fw type="pageNum" place="right">21</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">22</del>.</fw>
-      <fw type="note" place="left margin">Се-</fw>
+      <fw place="right" type="pageNum">21</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">22</del>.</fw>
+      <fw place="left margin" type="note">Се-</fw>
       <l>вѣчной памяти предъ Богомъ слугамъ лю-</l>
       <l>бимомъ и избраннымъ его покойнаго отца</l>
       <l>блаженной памяти <persName ref="alter-rebbe">Залмана Шнеера</persName></l>
@@ -118,7 +118,7 @@
       <l>домашній ея расходъ, а 1000 руб. въ настоящ.</l>
       <l>подарокъ. Брату моему почтенному <persName>Хаиму</persName></l>
       <pb n="021-2"/>
-      <fw type="pageNum" place="right">21 об<note place="end">номер проставлен карандашом</note></fw>
+      <fw place="right" type="pageNum">21 об<note place="end">номер проставлен карандашом</note></fw>
       <l><persName>Абраму</persName> женѣ и дочерямъ его недорослымъ</l>
       <l>на построеніе дома, домашній сосудъ и</l>
       <l>расходовъ на сей полгодъ 5000 руб. а 1000</l>
@@ -149,9 +149,9 @@
       <l>сходы, а швагеръ мой оной <persName>Елья</persName> дол-</l>
       <l>женъ дать на то свою росписку такъ какъ</l>
       <pb n="022-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">23</del>.</fw>
-      <fw type="pageNum" place="right">22</fw>
-      <fw type="note" place="left margin">кре</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">23</del>.</fw>
+      <fw place="right" type="pageNum">22</fw>
+      <fw place="left margin" type="note">кре</fw>
       <l>изъяснено будетъ въ особомъ документѣ</l>
       <l>между нами предъ вышесказанными</l>
       <l>тремя любимыми пріятелями.</l>
@@ -188,7 +188,7 @@
       <l>направо ли или налѣво, непремѣнно. и</l>
       <l>запрещено сомневаться по немъ хотя въ ма-</l>
       <pb n="022-2"/>
-      <fw type="pageNum" place="right">22 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">22 об<note place="end">номер записан карандашом</note></fw>
       <l>лѣйшемъ сомнѣніи, или же въ томъ</l>
       <l>если надбавилъ въ которомъ мѣстѣ, или</l>
       <l>убавилъ, то сіе послѣдовало по Божіей</l>
@@ -221,9 +221,9 @@
       <l>кто чужой не могъ его видить и былъ</l>
       <l>бы запечатанъ и потомъ чрезъ трехъ</l>
       <pb n="023-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">24</del>.</fw>
-      <fw type="pageNum" place="right">23</fw>
-      <fw type="note" place="left margin">им</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">24</del>.</fw>
+      <fw place="right" type="pageNum">23</fw>
+      <fw place="left margin" type="note">им</fw>
       <l>вышесказанныхъ любимыхъ при</l>
       <l>ятелей, и существовалъ бы долго</l>
       <l>времянно подъ веденіемъ онаго</l>
@@ -251,6 +251,6 @@
     <pb n="020a-1"/>
     <pb n="020a-2"/>
     <pb n="021a-1"/>
-    <pb n="023-2" missing="true"/>
+    <pb missing="true" n="023-2"/>
   </body></text>
 </TEI>

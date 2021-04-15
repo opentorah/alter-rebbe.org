@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="375-1"/>
-    <fw type="pageNum" place="right">375</fw>
-    <fw type="note" place="left margin">тарь</fw>
+    <fw place="right" type="pageNum">375</fw>
+    <fw place="left margin" type="note">тарь</fw>
     <head>
       <l><date when="1800-02-08">1800 года фѣвраля 8<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref=
       "Литовский_надворный_суд">Литовскаго Надвор-<lb/>
@@ -36,6 +36,6 @@
       <l>и за скрепою секретаря <persName>павла Искрицкаго</persName>. _</l>
       <l>Протоколистъ <signed><persName>Иосифъ Волковъ</persName></signed></l>
     </p>
-    <pb n="375-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="375-2"/>
   </body></text>
 </TEI>

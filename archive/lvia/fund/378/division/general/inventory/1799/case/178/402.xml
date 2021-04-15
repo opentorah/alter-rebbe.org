@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="402-1"/>
-    <fw type="pageNum" place="right">402.</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">402.</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <p>
       <l>Punkta Jnterrogatorium do Jndegacyi względem Kon-</l>
       <l>duity Ƶydow <persName>Leyby Rafałowicza</persName> – <persName>Abrahama Note-<lb/>
@@ -70,6 +70,6 @@
       <l><signed><persName>Konstantyn Lewandowski</persName> Radny miasta <placeName ref="Вильна">wilna</placeName>
       </signed></l>
     </p>
-    <pb n="402-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="402-2"/>
   </body></text>
 </TEI>

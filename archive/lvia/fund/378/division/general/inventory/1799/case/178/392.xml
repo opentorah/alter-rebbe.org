@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="392-1"/>
-    <fw type="pageNum" place="right">392.</fw>
-    <fw type="note" place="left margin">Па-</fw>
+    <fw place="right" type="pageNum">392.</fw>
+    <fw place="left margin" type="note">Па-</fw>
     <p>
       <l>Do</l>
       <l>Szlachetnego Magistratu Miasta</l>
@@ -46,6 +46,6 @@
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
-    <pb n="392-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="392-2"/>
   </body></text>
 </TEI>

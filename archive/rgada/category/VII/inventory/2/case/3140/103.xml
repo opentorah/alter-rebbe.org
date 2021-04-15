@@ -18,9 +18,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="103-1"/>
-    <fw type="docNum" place="left">№6</fw>
-    <fw type="note" place="right"><ref target="/rgada/104">переводъ</ref></fw>
-    <fw type="pageNum" place="right">103</fw>
+    <fw place="left" type="docNum">№6</fw>
+    <fw place="right" type="note"><ref target="/rgada/104">переводъ</ref></fw>
+    <fw place="right" type="pageNum">103</fw>
     <head>
       <l>Допросъ</l>
       <l>жида <persName ref="Зелман_Янкелевич">Зелмана Янкелевича</persName></l>
@@ -40,6 +40,6 @@
       <l>прочемъ ничего не знаю.</l>
     </p>
     <l><signed>Подписалъ <persName ref="Зелман_Янкелевич">Зелманъ Янкелевичъ</persName>.</signed></l>
-    <pb n="103-2" empty="true"/>
+    <pb empty="true" n="103-2"/>
   </body></text>
 </TEI>

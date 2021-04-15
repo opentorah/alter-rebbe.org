@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="354-1"/>
-    <fw type="pageNum" place="right">354</fw>
-    <fw type="note" place="left margin">Ис-</fw>
+    <fw place="right" type="pageNum">354</fw>
+    <fw place="left margin" type="note">Ис-</fw>
     <head>
       <l><date when="1800-01-27">1800 года генваря 27 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд"
       >Литов-<lb/>
@@ -40,6 +40,6 @@
       <l><signed><unclear>???</unclear></signed><note place="end">подпись <persName ref="Лейба_Зеликович">Лейбы
       Зеликовича</persName> на иврите</note></l>
     </p>
-    <pb n="354-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="354-2"/>
   </body></text>
 </TEI>

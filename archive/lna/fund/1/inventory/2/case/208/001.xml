@@ -16,10 +16,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
-    <fw type="docNum" place="left">№ 19.</fw>
-    <fw type="pageNum" place="right">1</fw>
+    <fw place="left" type="docNum">№ 19.</fw>
+    <fw place="right" type="pageNum">1</fw>
     <fw type="note">Получено <date when="1798-11-17">17 ноября 798 года</date></fw>
-    <fw type="note" place="right">Секретно</fw>
+    <fw place="right" type="note">Секретно</fw>
     <salute>
       <l>Высокопревосходителны Г<hi rend="superscript">нъ</hi> деиствителны</l>
       <l>тайны советникъ <placeName>лифляндски</placeName> и <placeName>Эстля<lb/>
@@ -50,6 +50,6 @@
       <l/>
       <l/>
     </closer>
-    <pb n="001-2" empty="true"/>
+    <pb empty="true" n="001-2"/>
   </body></text>
 </TEI>

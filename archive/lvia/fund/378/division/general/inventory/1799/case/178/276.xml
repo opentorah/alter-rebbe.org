@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="276-1"/>
-    <fw type="pageNum" place="right">276.</fw>
-    <fw type="note" place="left margin">кій</fw>
+    <fw place="right" type="pageNum">276.</fw>
+    <fw place="left margin" type="note">кій</fw>
     <p>
       <l><date when="1799-10-13">1799<hi rend="superscript">го</hi> года октября 13<hi rend="superscript">го</hi>
       дня</date> въ присудствіи</l>
@@ -40,6 +40,6 @@
       <l>припомнитъ можетъ Гречемъ.</l>
       <l><signed>???</signed><note place="end">подпись на иврите</note></l>
     </p>
-    <pb n="276-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="276-2"/>
   </body></text>
 </TEI>

@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="267-1"/>
-    <fw type="pageNum" place="right">267.</fw>
-    <fw type="note" place="left margin">криц</fw>
+    <fw place="right" type="pageNum">267.</fw>
+    <fw place="left margin" type="note">криц</fw>
     <head>
       <l><date when="1799-09-06">1799<hi rend="superscript">го</hi> года сентября 6<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
@@ -37,6 +37,6 @@
       <l>и за скрепою секретаря <persName>Павла Искрицкаго</persName>._</l>
       <l>Протоколистъ <signed><persName>Јосифъ Волковъ</persName></signed></l>
     </p>
-    <pb n="267-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="267-2"/>
   </body></text>
 </TEI>

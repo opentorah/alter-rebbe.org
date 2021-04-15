@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
-    <fw type="pageNum" place="right">3.</fw>
-    <fw type="note" place="left margin">никъ</fw>
+    <fw place="right" type="pageNum">3.</fw>
+    <fw place="left margin" type="note">никъ</fw>
     <salute>
       <l>Ваше Сіятельство._</l>
       <l>Милостивой Государь._</l>
@@ -47,7 +47,7 @@
       <l>чемъ крайнѣ стесняютъ настоящихъ еврѣевъ,</l>
     </p>
     <pb n="003-2"/>
-    <fw type="pageNum" place="right">3 об<note place="end">номер записан карандашом</note></fw>
+    <fw place="right" type="pageNum">3 об<note place="end">номер записан карандашом</note></fw>
     <p>
       <l>Когдажъ въ прошломъ 1822<hi rend="superscript">м</hi> году въ Шклове имелъ я</l>
       <l>большое разстройство чрезъ завладеніе <orgName ref="Хасиды">сею сектою</orgName></l>
@@ -88,8 +88,8 @@
       </l>
     </p>
     <pb n="004-1"/>
-    <fw type="pageNum" place="right">4.</fw>
-    <fw type="note" place="left margin">Се</fw>
+    <fw place="right" type="pageNum">4.</fw>
+    <fw place="left margin" type="note">Се</fw>
     <p>
       <l>рукою прилагаю егоже <emph rend="underline">два письма</emph> ко мнѣ изъ</l>
       <l>сей бумаги ясно видно корыстолюбіе <persName ref="мителер_ребе">равина</persName> и что со-</l>
@@ -111,6 +111,6 @@
     </p>
     <closer place="left"><l><date when="1825-06-??">јюня дня<lb/>
      1825 года</date></l></closer>
-    <pb n="004-2" missing="true"/>
+    <pb missing="true" n="004-2"/>
   </body></text>
 </TEI>

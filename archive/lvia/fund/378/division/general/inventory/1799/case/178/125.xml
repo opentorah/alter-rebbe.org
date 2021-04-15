@@ -19,8 +19,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="125-1"/>
-    <fw type="note" place="left">125</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="left" type="note">125</fw>
+    <fw place="left margin" type="note">кре</fw>
     <head>
       <l><emph rend="big">Его превосходительству</emph></l>
       <l>артильлеріи господину генералъ маіору виленскому</l>
@@ -100,8 +100,8 @@
       <l>раздора и наглыхъ отъ кого поступковъ; но соблюдено</l>
       <l>было отъ всѣхъ благочиніе тишина и спокойствіе</l>
       <pb n="126-1"/>
-      <fw type="note" place="left">126</fw>
-      <fw type="note" place="left margin">тарь</fw>
+      <fw place="left" type="note">126</fw>
+      <fw place="left margin" type="note">тарь</fw>
       <l>Однако г<hi rend="superscript">нъ</hi> плацъ маіоръ не вмѣшивался ни малѣйше</l>
       <l>въ порядокъ ихъ выбора; но предоставилъ обществу</l>
       <l>по ихъ обрядамъ и волѣ выборъ учинить кого захотятъ;</l>
@@ -125,6 +125,6 @@
     </p>
     <closer place="left"><l><date when="1799-05-03">Маія 3<hi rend="superscript">го</hi> дня<lb/>
      1799<hi rend="superscript">го</hi> года</date></l></closer>
-    <pb n="126-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="126-2"/>
   </body></text>
 </TEI>

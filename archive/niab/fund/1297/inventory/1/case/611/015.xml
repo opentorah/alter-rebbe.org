@@ -15,9 +15,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="015-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">16</del>.</fw>
-    <fw type="pageNum" place="right">15</fw>
-    <fw type="note" place="right">
+    <fw place="right" type="pageNum"><del rend="overstrike">16</del>.</fw>
+    <fw place="right" type="pageNum">15</fw>
+    <fw place="right" type="note">
       <l>МП<note place="end">место печати</note></l>
       <l>цѣна одинъ</l>
       <l>рубль</l><note place="end">три строки обведены по окружности, символизирующей место печати</note>
@@ -26,7 +26,7 @@
       <l>Записка</l>
       <l>отъ <persName ref="мителер_ребе">рабина Шнеера</persName></l>
     </head>
-    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <fw place="left margin" type="note"><unclear>???</unclear></fw>
     <p>
       <l>Всевышнимъ Создателемъ дарен-</l>
       <l>ное Вашему Сіятельству право</l>
@@ -44,6 +44,6 @@
     </p>
     <closer place="left"><l><date when="1825-11-04">Ноября 4 дня<lb/>1825 года</date></l></closer>
     <pb n="015a-1"/>
-    <pb n="015-2" missing="true"/>
+    <pb missing="true" n="015-2"/>
   </body></text>
 </TEI>

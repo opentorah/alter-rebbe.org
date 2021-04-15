@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="499-1"/>
-    <fw type="pageNum" place="right">499</fw>
-    <fw type="note" place="left margin">Ис-</fw>
+    <fw place="right" type="pageNum">499</fw>
+    <fw place="left margin" type="note">Ис-</fw>
     <head>
       <l><date when="1800-07-06">1800<hi rend="superscript">го</hi> года јюля 6<hi rend="superscript">го</hi> дня</date>
       въ журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго надворнаго<lb/>
@@ -58,6 +58,6 @@
       <l><persName>Павла Искрицкаго</persName>._</l>
       <l>Съ подлиннымъ сверялъ переводчикъ <persName>Јосифъ Фалькъ</persName></l>
     </p>
-    <pb n="499-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="499-2"/>
   </body></text>
 </TEI>

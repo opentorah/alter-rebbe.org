@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="165-1"/>
-    <fw type="pageNum" place="right">165</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="pageNum">165</fw>
+    <fw place="left margin" type="note">кре</fw>
     <head>
       <l><date when="1799-06-07">1799<hi rend="superscript">го</hi> года Јюня 7<hi rend="superscript">го</hi> дня</date>
       въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -59,9 +59,9 @@
        дѣ не имѣется, ибо оная изъ <orgName ref="Литовское_губернское_правление">Губернскаго прав<lb/>
        ленія</orgName> не доставлена, и чтобы онъ <persName ref="Мовша_Ошерович">ошеровичъ</persName></l>
       <pb n="166-1"/>
-      <fw type="pageNum" place="right">166</fw><note place="end">номер записан карандашом</note>
-      <fw type="pageNum" place="right">160.</fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
-      <fw type="note" place="left margin">тарь</fw>
+      <fw place="right" type="pageNum">166</fw><note place="end">номер записан карандашом</note>
+      <fw place="right" type="pageNum">160.</fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
+      <fw place="left margin" type="note">тарь</fw>
       <l>безъ малейшаго продолженія времени представилъ</l>
       <l>въ <orgName ref="Литовский_надворный_суд">сей надворный судъ</orgName> требуемыя отъ него дока-</l>
       <l>зательства и свидѣтелей. Подлинной за подписа</l>
@@ -71,6 +71,6 @@
     </p>
     <note place="end">дата и место написания прошения заклеены при реставрации листа и не читаются; дата восстановлена
     по док. 164 данного дела: "слуш. 7<hi rend="superscript">го</hi> јюня"</note>
-    <pb n="166-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="166-2"/>
   </body></text>
 </TEI>
