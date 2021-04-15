@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="100-1"/>
-    <fw type="docNum" place="left">№ 2142.</fw>
+    <fw place="left" type="docNum">№ 2142.</fw>
     <fw type="note"><date when="1828-03-06">6 марта 1828</date>.</fw>
-    <fw type="note" place="left">Взыскать съ<lb/>виновныхъ<note place="end">пометка сделана карандашом</note></fw>
-    <fw type="pageNum" place="right">100</fw>
-    <fw type="note" place="left">
+    <fw place="left" type="note">Взыскать съ<lb/>виновныхъ<note place="end">пометка сделана карандашом</note></fw>
+    <fw place="right" type="pageNum">100</fw>
+    <fw place="left" type="note">
       <l>Справясь съ дѣломъ</l>
       <l>и предметомъ <unclear>???</unclear></l>
       <l>наказавъ виновныхъ</l>
@@ -54,10 +54,10 @@
       <l>писанїемъ департамента велено</l>
       <l>всѣ помянутые деньги 119 р. 52<hi rend="superscript">к</hi> взы-</l>
       <l>скать съ виновныхъ; то Палата сїя</l>
-      <fw type="note" place="left margin">31 октября <fw type="docNum">№ 4968</fw><note place="end">XXX</note>рометка на
-      нижнем поле страницы сделана карандашом</fw>
+      <fw place="left margin" type="note">31 октября <fw type="docNum">№ 4968</fw><note place="end">XXX</note>-пометка
+      на нижнем поле страницы сделана карандашом</fw>
       <pb n="100-2"/>
-      <fw type="pageNum" place="right">100 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">100 об<note place="end">номер записан карандашом</note></fw>
       <l>24 числа маїя представ</l>
       <l>ляла вашему Сіятельству и проси-</l>
       <l>ла учинить кому слѣдуетъ предписа-</l>
@@ -84,7 +84,7 @@
       <l>О взысканїи про</l>
       <l>гоновъ</l>
     </closer>
-    <fw type="note" place="left margin">никъ</fw>
+    <fw place="left margin" type="note">никъ</fw>
     <pb n="100a-1"/>
     <pb n="100a-2"/>
   </body></text>

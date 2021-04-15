@@ -17,9 +17,9 @@
   <text xml:lang="pl"><body>
     <pb n="390-1"/>
     <fw type="docNum">N 225</fw>
-    <fw type="note" place="right">Полученъ <date when="1800-04-16">16 апреля 1800 года</date></fw>
-    <fw type="pageNum" place="right">390.</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="note">Полученъ <date when="1800-04-16">16 апреля 1800 года</date></fw>
+    <fw place="right" type="pageNum">390.</fw>
+    <fw place="left margin" type="note">кре</fw>
     <l>Do</l>
     <l><orgName ref="Литовский_надворный_суд">Littewskiego Nadwornego Sądu</orgName></l>
     <l>od</l>
@@ -44,10 +44,10 @@
        <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Regent</signed></l>
     </p>
     <l>
-      <fw type="note" place="left margin"><fw type="docNum">N. 371.</fw></fw>
-      <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-04-16">16<hi rend=
+      <fw place="left margin" type="note"><fw type="docNum">N. 371.</fw></fw>
+      <fw place="left margin" type="note">Слуш<note place="end">слушано</note>: <date when="1800-04-16">16<hi rend=
       "superscript">го</hi> Апрѣля</date></fw>
     </l>
-    <pb n="390-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="390-2"/>
   </body></text>
 </TEI>

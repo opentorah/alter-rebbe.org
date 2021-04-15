@@ -18,8 +18,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="054-1"/>
-    <fw type="pageNum" place="right">54</fw>
-    <fw type="note" place="left margin">ис-</fw>
+    <fw place="right" type="pageNum">54</fw>
+    <fw place="left margin" type="note">ис-</fw>
     <head>
       <l>Копія съ предписанія Генерала отъ инфантеріи <persName ref="Лассий">Лас<lb/>
        сія</persName> къ Генералъ Маіору отъ артилеріи <persName ref="Капцевич">Капцевичу</persName> отъ</l>
@@ -38,6 +38,6 @@
      старшины</persName>, ему представлено._</l>
     <l>вѣрно адьютантъ Корнѣевъ._</l>
     <l>Съ копіею вѣрно: Секретарь Иванъ Журавлевъ</l>
-    <pb n="054-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="054-2"/>
   </body></text>
 </TEI>

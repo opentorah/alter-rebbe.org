@@ -16,10 +16,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
-    <fw type="note" place="right">совершенно секретно</fw>
+    <fw place="right" type="note">совершенно секретно</fw>
     <date when="1868-10-19">19 октября 1868</date>
     <fw type="docNum">№ 110</fw>
-    <fw type="note" place="left">
+    <fw place="left" type="note">
       <l><fw type="docNum">№ 111.</fw></l>
       <l><emph rend="underline">соверш. секр.</emph></l>
       <l>Г. Ал. Губернатору</l>
@@ -76,6 +76,6 @@
       <l>ВЫс. увѣд въ <unclear>???</unclear> и пр_</l>
       <l><unclear>Подписалъ</unclear> Александръ <unclear>Потаповъ</unclear></l>
     </p>
-    <pb n="001-2" missing="true"/>
+    <pb missing="true" n="001-2"/>
   </body></text>
 </TEI>

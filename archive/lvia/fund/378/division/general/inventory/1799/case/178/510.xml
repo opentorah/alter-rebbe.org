@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="510-1"/>
-    <fw type="pageNum" place="right">510.</fw>
-    <fw type="note" place="left margin">Секретарь</fw>
+    <fw place="right" type="pageNum">510.</fw>
+    <fw place="left margin" type="note">Секретарь</fw>
     <p>
       <l><orgName ref="Литовское_губернское_правление">Литовское губернское правленіе</orgName> благоволитъ</l>
       <l><orgName ref="Литовский_надворный_суд">Надворный судъ</orgName> подписаніемъ подъ симъ увѣ-</l>
@@ -42,6 +42,6 @@
       <l>комъ <persName ref="Елиашевич">Еліашевичемъ</persName> подписа</l>
       <l>на Секретарь <signed><unclear>??? ???</unclear></signed></l>
     </p>
-    <pb n="510-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="510-2"/>
   </body></text>
 </TEI>

@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="344-1"/>
-    <fw type="pageNum" place="right">344</fw>
-    <fw type="note" place="left margin">Па</fw>
+    <fw place="right" type="pageNum">344</fw>
+    <fw place="left margin" type="note">Па</fw>
     <head>
       <l><date when="1800-01-27">1800<hi rend="superscript">го</hi> года генваря 27<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов<lb/>
@@ -39,6 +39,6 @@
       <l>пою секретаря <persName>Павла Искрицкаго</persName>._</l>
       <l>Протоколистъ <signed>Јосифъ Волковъ</signed></l>
     </p>
-    <pb n="344-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="344-2"/>
   </body></text>
 </TEI>

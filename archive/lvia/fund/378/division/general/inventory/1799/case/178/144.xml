@@ -13,9 +13,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="144-1"/>
-    <fw type="pageNum" place="right">144</fw>
-    <fw type="note" place="left">Копія</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">144</fw>
+    <fw place="left" type="note">Копія</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <p>
       <l><date when="1799-02-04">1799 года февраля 4. дня</date> въ вилѣнской комендантской</l>
       <l>канцеляріи при г<hi rend="superscript">хъ</hi> Его превосходительствѣ генералѣ</l>
@@ -81,8 +81,8 @@
       <l>Читалъ повытчикъ <signed><persName>Семенъ Дмитревскій</persName></signed></l>
     </p>
     <pb n="145-1"/>
-    <fw type="pageNum" place="right">145</fw>
-    <fw type="note" place="left">Ис-</fw>
+    <fw place="right" type="pageNum">145</fw>
+    <fw place="left" type="note">Ис-</fw>
     <p>
       <l>А равномѣрно и четвертой старшина <orgName ref="Виленский_кагал">вилѣн-<lb/>
        скаго кагала</orgName> <persName ref="Шимель_Абелевич">шимель Абелїовичъ</persName> такъже и</l>
@@ -101,6 +101,6 @@
       <l>Протоколистъ <signed><persName>Алексей Бутовичъ</persName></signed></l>
       <l>Читалъ повытчикъ <signed><persName>Семенъ Дмитревскій</persName></signed></l>
     </p>
-    <pb n="145-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="145-2"/>
   </body></text>
 </TEI>

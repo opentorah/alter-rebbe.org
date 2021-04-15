@@ -14,8 +14,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="274-1"/>
-    <fw type="pageNum" place="right">274</fw><note place="end">номер записан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">277</del></fw><note place="end">номер записан чернилами и
+    <fw place="right" type="pageNum">274</fw><note place="end">номер записан карандашом</note>
+    <fw place="right" type="pageNum"><del rend="overstrike">277</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
     <p>
       <l>1800 года Ноября 2<hi rend="superscript">го</hi> дня въ принятiи посланныхъ при</l>
@@ -126,7 +126,7 @@
     <l>Нѣкихъ пакетовъ только тритцат</l>
     <l>Девять принѣлъ <signed><unclear>???</unclear></signed></l>
     <pb n="274-2"/>
-    <fw type="pageNum" place="left">274 об.</fw>
+    <fw place="left" type="pageNum">274 об.</fw>
     <l><date when="1800-11-03">1800 года Ноября 3 дня</date> въ принятiи пос-</l>
     <l>ланныхъ при семъ от господина генерала</l>
     <l>прокурора <persName ref="Обольянинов">Обольнянинова</persName> секретныхъ паке-</l>

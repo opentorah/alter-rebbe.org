@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="010-1"/>
-    <fw type="pageNum" place="right">10.</fw>
-    <fw type="note" place="left margin">лиц</fw>
+    <fw place="right" type="pageNum">10.</fw>
+    <fw place="left margin" type="note">лиц</fw>
     <head>
       <l>Витебской городской полиціи</l>
       <l>частному приставу <persName>Курбацкому</persName>.</l>
@@ -41,6 +41,6 @@
       <l>ко мнѣ въ <placeName ref="Витебск">Витебскъ</placeName> вмѣстѣ</l>
       <l>съ вами</l>
     </p>
-    <pb n="010-2" missing="true"/>
+    <pb missing="true" n="010-2"/>
   </body></text>
 </TEI>

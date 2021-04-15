@@ -21,8 +21,8 @@
     <pb n="087-1"/>
     <fw type="docNum">№ 3037.<hi rend="superscript">й</hi></fw>
     <fw><date when="1798-12-05">5<hi rend="superscript">го</hi> декабря 1798<hi rend="superscript">го</hi></date></fw>
-    <fw type="note" place="right"><emph rend="underline">Секретно</emph></fw>
-    <fw type="pageNum" place="right">87.</fw>
+    <fw place="right" type="note"><emph rend="underline">Секретно</emph></fw>
+    <fw place="right" type="pageNum">87.</fw>
     <salute><l>Милостивой Государь <persName ref="Лопухин">Петръ Васильевичъ</persName>!</l></salute>
     <p>
       <l>На послѣдней почтѣ имѣлъ я честь получить</l>
@@ -46,6 +46,6 @@
       <l><fw><placeName ref="Вильна">Вилна</placeName></fw></l>
       <l><fw>Его высокопревосходительству Г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName></fw></l>
     </closer>
-    <pb n="087-2" empty="true"/>
+    <pb empty="true" n="087-2"/>
   </body></text>
 </TEI>

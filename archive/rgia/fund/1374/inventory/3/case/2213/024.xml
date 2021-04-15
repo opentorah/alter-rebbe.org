@@ -20,8 +20,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="024-1"/>
-    <fw type="pageNum" place="right">24</fw>
-    <fw type="docNum" place="right">№. 4723</fw>
+    <fw place="right" type="pageNum">24</fw>
+    <fw place="right" type="docNum">№. 4723</fw>
     <p>
       <l><placeName ref="Литва">Литовскому</placeName> Прокурору Ордеръ</l>
       <l>Имѣя высочайшее Его императорскаго</l>
@@ -44,8 +44,8 @@
       </l>
       <l><del rend="overstrike">ностію</del> и о успѣхѣ онаго меня увѣдомлять.</l>
     </p>
-    <date when="1800-06-07" place="left"><l>іюня 7 дня<lb/>
+    <date place="left" when="1800-06-07"><l>іюня 7 дня<lb/>
      1800 года</l></date>
-    <pb n="024-2" missing="true"/>
+    <pb missing="true" n="024-2"/>
   </body></text>
 </TEI>

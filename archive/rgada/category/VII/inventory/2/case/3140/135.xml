@@ -18,10 +18,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="135-1"/>
-    <fw type="docNum" place="left">№22.</fw>
-    <fw type="note" place="right"><ref target="/rgada/136">переводъ</ref></fw>
-    <fw type="pageNum" place="right">135</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">125.</del></fw>
+    <fw place="left" type="docNum">№22.</fw>
+    <fw place="right" type="note"><ref target="/rgada/136">переводъ</ref></fw>
+    <fw place="right" type="pageNum">135</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">125.</del></fw>
     <head>
       <l>Допросъ</l>
       <l>жида <persName ref="Шмуил_Хаимович">Шмуила Хаимовича</persName>, <placeName ref="Индура">Индурскаго</placeName>
@@ -61,7 +61,7 @@
       <l>Записки, находящіеся въ моихъ бу-</l>
       <pb n="135-2"/>
       <fw type="pageNum">135об</fw>
-      <l><note type="gloss" place="left margin">|: Прилагаются при семъ, и суть или<lb/>
+      <l><note place="left margin" type="gloss">|: Прилагаются при семъ, и суть или<lb/>
        талисманы, или кабалистическіе<lb/>
        характеры, а может быть только<lb/>
        стихи :|</note></l>

@@ -17,11 +17,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="283-1"/>
-    <fw type="docNum" place="left">N 833</fw>
+    <fw place="left" type="docNum">N 833</fw>
     <fw type="note">Полученъ <date when="1799-10-20">20<hi rend="superscript">го</hi> октября 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw type="pageNum" place="right">283.</fw>
-    <fw type="note" place="left margin">криц</fw>
+    <fw place="right" type="pageNum">283.</fw>
+    <fw place="left margin" type="note">криц</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Littewskiego Gubernskiego Nadwornego<lb/>
@@ -53,7 +53,7 @@
       <l>MW<note place="end">Miasta Wilna</note> Regent</l>
     </p>
     <closer place="left"><fw type="docNum">Nr 755.</fw></closer>
-    <fw type="note" place="lower margin">Слуш: <date when="1799-10-21">21. октября</date></fw>
-    <pb n="283-2" missing="true" empty="true"/>
+    <fw place="lower margin" type="note">Слуш: <date when="1799-10-21">21. октября</date></fw>
+    <pb empty="true" missing="true" n="283-2"/>
   </body></text>
 </TEI>

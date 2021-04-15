@@ -14,8 +14,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="391-1"/>
-    <fw type="pageNum" place="right">391.</fw>
-    <fw type="note" place="left margin">тарь</fw>
+    <fw place="right" type="pageNum">391.</fw>
+    <fw place="left margin" type="note">тарь</fw>
     <head>
       <l>Do</l>
       <l>Magistratu Miasta <placeName ref="Вильна">Wilna</placeName></l>
@@ -31,6 +31,6 @@
       <l><persName>Wilhelm Rehfeld</persName> Radny Miasta <placeName ref="Вильна">Wilna</placeName>.</l>
       <l><persName>Konstantyn Lewandowski</persName> Radny Miasta <placeName ref="Вильна">wilna</placeName></l>
     </p>
-    <pb n="391-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="391-2"/>
   </body></text>
 </TEI>

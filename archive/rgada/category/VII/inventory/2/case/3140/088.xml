@@ -20,8 +20,8 @@
     <pb n="088-1"/>
     <fw type="docNum">№ 3038</fw>
     <fw><date when="1798-12-05">5<hi rend="superscript">го</hi> декабря 1798.</date></fw>
-    <fw type="note" place="right">Секретно.</fw>
-    <fw type="pageNum" place="right">88.</fw>
+    <fw place="right" type="note">Секретно.</fw>
+    <fw place="right" type="pageNum">88.</fw>
     <salute><l>Милостивой Государь Петръ Васильевичъ!</l></salute>
     <p>
       <l>По написаніи всепокорнѣйшаго моего севоднишнаго</l>
@@ -56,6 +56,6 @@
       <l><placeName ref="Вильна">вилна</placeName></l>
       <l>Его высокопревосходительству г. Генералу Прокурору <persName ref="Лопухин">Лопухину</persName>.</l>
     </closer>
-    <pb n="088-2" empty="true"/>
+    <pb empty="true" n="088-2"/>
   </body></text>
 </TEI>

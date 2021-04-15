@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="115-1"/>
-    <fw type="pageNum" place="right">115</fw><note place="end">чернильная запись продублирована карандашом</note>
-    <fw type="note" place="left margin">кій</fw>
+    <fw place="right" type="pageNum">115</fw><note place="end">чернильная запись продублирована карандашом</note>
+    <fw place="left margin" type="note">кій</fw>
     <head>
       <l><date when="1799-05-03">1799<hi rend="superscript">го</hi> года маія 3<hi rend="superscript">го</hi> дня</date>
       въ журналѣ</l>
@@ -42,6 +42,6 @@
       <l>таря <persName>Павла Искрицкаго</persName>._</l>
       <l><signed>протоколистъ <persName>Jосифъ Волковъ</persName></signed></l>
     </p>
-    <pb n="115-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="115-2"/>
   </body></text>
 </TEI>

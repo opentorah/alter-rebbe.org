@@ -16,7 +16,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="246-1"/>
-    <fw type="pageNum" place="right">246</fw>
+    <fw place="right" type="pageNum">246</fw>
     <head>
       <l><emph rend="big">Въ <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословіе презренія разорен<lb/>
        ныхъ отъ непріятеля</orgName></emph></l>
@@ -34,7 +34,7 @@
       <l>со всею движимостію по нашествіи непрія</l>
       <l>теля въ прошломъ 1812<hi rend="superscript">м</hi> году въ предѣлы</l>
       <l>россійской <emph rend="big">имперіи</emph> по приверженности къ</l>
-      <fw type="note" place="right margin">свѣрить</fw><note place="end">вписано между строк справа другим почерком
+      <fw place="right margin" type="note">свѣрить</fw><note place="end">вписано между строк справа другим почерком
       </note>
       <l>подданству россійской державы желая покой</l>
       <l>ный <persName ref="alter-rebbe">мужъ мой</persName> быть изторгнуту отъ не</l>
@@ -87,7 +87,7 @@
       <l>стра для устройства порядковъ и ка</l>
       <l>валера <persName ref="Левицкий">левицкаго</persName> и со свидѣтельства</l>
       <pb n="247-1"/>
-      <fw type="pageNum" place="right">247</fw>
+      <fw place="right" type="pageNum">247</fw>
       <l>Смоленскаго господина Гражданскаго губернато</l>
       <l>ра Аша<note place="end">К.И. Аш - губернатор в 1807-1822 гг.</note>, каковое мое съ семействомъ пока</l>
       <l>заніе и присягою утвердить могу; о чемъ по</l>
@@ -107,7 +107,7 @@
       <l>что показанные убытки дѣйствитель</l>
       <l>но чрезъ непріятеля на означенную</l>
       <l>сумму въ томъ свидетельствуемъ</l>
-      <l><fw type="note" place="right margin"><unclear>???</unclear></fw></l>
+      <l><fw place="right margin" type="note"><unclear>???</unclear></fw></l>
       <l>сендеръ геселіовичъ <unclear>???</unclear></l>
       <l>Кагалный Гиль <unclear>???</unclear> райнер</l>
       <l>нисанъ абрамовичъ гуровичъ</l>
@@ -126,6 +126,6 @@
        1814<hi rend="superscript">го</hi> года</date></l>
       <note place="end">приложена печать "П. Бабиновецкаго нижняго земскаго суда" с гербом уездного города</note>
     </p>
-    <pb n="247-2" missing="true"/>
+    <pb missing="true" n="247-2"/>
   </body></text>
 </TEI>

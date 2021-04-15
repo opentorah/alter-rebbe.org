@@ -18,12 +18,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="025-1"/>
-    <fw type="note" place="left">№ 57<hi rend="superscript">ой</hi></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">62</del></fw>
-    <fw type="pageNum" place="right">25</fw>
-    <fw type="note" place="left"><unclear><note place="end">Строка на иврите</note></unclear></fw>
-    <fw type="note" place="center"><emph rend="underline">Копія</emph></fw>
-    <fw type="note" place="center"><l>Получено <date when="1800-01-25">генваря 25<hi rend="superscript">го</hi> 1800<hi
+    <fw place="left" type="note">№ 57<hi rend="superscript">ой</hi></fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">62</del></fw>
+    <fw place="right" type="pageNum">25</fw>
+    <fw place="left" type="note"><unclear><note place="end">Строка на иврите</note></unclear></fw>
+    <fw place="center" type="note"><emph rend="underline">Копія</emph></fw>
+    <fw place="center" type="note"><l>Получено <date when="1800-01-25">генваря 25<hi rend="superscript">го</hi> 1800<hi
     rend="superscript">го</hi> года</date></l></fw>
     <head>
       <l><emph rend="big">ПРЕДЛОЖЕНІЕ</emph></l>
@@ -69,13 +69,13 @@
        зали</emph>: оному <persName ref="Меер_Рафалович">рафаловичу</persName> просимую имъ сію</l>
       <l>копію выдать. на подлинной подписалъ <signed>частный<lb/>
        приставъ Иванъ тарновскій</signed></l>
-      <fw type="note" place="center">
+      <fw place="center" type="note">
         <l>У сей копіи <emph rend="big">его императорскаго<lb/>
          величества</emph> <placeName ref="Вильна">виленской</placeName> городовой</l>
         <l>полиціи пѣчать пошлинъ 54 ½ взято</l>
       </fw>
     </p>
-    <fw type="note" place="right">МП</fw>
+    <fw place="right" type="note">МП</fw>
     <l>подпись Городовой Секретарь <unclear>пети…</unclear></l>
     <l>Съ предоставленными выписями читалъ <signed>надворный совѣтникъ –<lb/>
      <unclear>рябининъ</unclear></signed></l>

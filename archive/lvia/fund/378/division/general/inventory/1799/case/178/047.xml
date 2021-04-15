@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="047-1"/>
-    <fw type="docNum" place="left">№ 206</fw>
+    <fw place="left" type="docNum">№ 206</fw>
     <fw type="note">Подано <date when="1799-03-29">29<hi rend="superscript">го</hi> марта 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw type="pageNum" place="right">47.</fw>
-    <fw type="note" place="left margin">криц</fw>
+    <fw place="right" type="pageNum">47.</fw>
+    <fw place="left margin" type="note">криц</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
@@ -80,8 +80,8 @@
        wa</persName>, oraz do teraznieyszego Gubernatora JW<note place="end">Jaśnie Wielmożnego</note> <persName ref=
       "Фризель">Fryzala</persName> ypodpisywane</l>
       <pb n="048-1"/>
-      <fw type="pageNum" place="right">48.</fw>
-      <fw type="note" place="left margin">кій</fw>
+      <fw place="right" type="pageNum">48.</fw>
+      <fw place="left margin" type="note">кій</fw>
       <l>przez <persName ref="Еремиаш_Нохимович">Jeremiasza Nochimowicza</persName> Syndyka Jmieniem <orgName ref=
       "Виленский_кагал">Wilens<note place="end">Wilenskiego</note> Kahału</orgName></l>
       <l>naMocy Dwóch Uchwał Kahalnych, Na Sessyi Generalney</l>
@@ -98,6 +98,6 @@
       <l>y oną Za akceptuie. O Co Naypoddaniey proszę._</l>
       <signed><unclear>??? ???</unclear></signed><note place="end">подпись на иврите</note>
     </p>
-    <pb n="048-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="048-2"/>
   </body></text>
 </TEI>

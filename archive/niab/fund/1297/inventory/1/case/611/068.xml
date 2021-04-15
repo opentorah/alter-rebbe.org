@@ -15,11 +15,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="068-1"/>
-    <fw type="pageNum" place="right">68.</fw>
-    <fw type="docNum" place="left">№ 11610.</fw>
-    <fw type="note" place="left">никъ</fw>
-    <fw type="note" place="left">Секретарь</fw>
-    <fw type="note" place="left">Къ свѣденію.</fw>
+    <fw place="right" type="pageNum">68.</fw>
+    <fw place="left" type="docNum">№ 11610.</fw>
+    <fw place="left" type="note">никъ</fw>
+    <fw place="left" type="note">Секретарь</fw>
+    <fw place="left" type="note">Къ свѣденію.</fw>
     <head>
       <l><emph rend="big">Его Сіятельству</emph></l>
       <l>господину генералъ лейтенанту витебскому</l>
@@ -60,10 +60,10 @@
       <l>тогда какъ обязанность рав-</l>
       <l>виновъ есть только надзирать</l>
       <pb n="069-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">70.</del></fw>
-      <fw type="pageNum" place="right">69</fw>
-      <fw type="note" place="left">Се</fw>
-      <fw type="note" place="left">Савицкій.</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">70.</del></fw>
+      <fw place="right" type="pageNum">69</fw>
+      <fw place="left" type="note">Се</fw>
+      <fw place="left" type="note">Савицкій.</fw>
       <l>за обрядами вѣры и судить споры</l>
       <l>относящіяся до религіи каковыя</l>
       <l>действія раввина <persName ref="мителер_ребе">Шнеера</persName> Ваше</l>
@@ -81,7 +81,7 @@
       <l>ВАшему Сіятельству донести. Опре-</l>
       <l>дѣлено: Во исполненїе предложенїя</l>
       <pb n="069-2"/>
-      <fw type="pageNum" place="right">69 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">69 об<note place="end">номер записан карандашом</note></fw>
       <l>Вашего Сіятельства съ копїею онаго</l>
       <l>и съ приложенїемъ произведенного</l>
       <l>по предписанію Вашего Сіятельства</l>
@@ -98,8 +98,8 @@
       <l>городовому магистрату послать</l>
       <l>въ оный магистратъ указъ, и велеть</l>
       <pb n="070-1"/>
-      <fw type="pageNum" place="right">70</fw>
-      <fw type="note" place="left">кре</fw>
+      <fw place="right" type="pageNum">70</fw>
+      <fw place="left" type="note">кре</fw>
       <l>разсмотря таковое дѣло безъ от-</l>
       <l>лагательства, поступивъ съ винов-</l>
       <l>ными по законамъ безъ малейшаго</l>
@@ -123,6 +123,6 @@
     </closer>
     <pb n="068a-1"/>
     <pb n="070a-1"/>
-    <pb n="070-2" missing="true"/>
+    <pb missing="true" n="070-2"/>
   </body></text>
 </TEI>

@@ -16,9 +16,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="334-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">337</del></fw><note place="end">номер записан чернилами и
+    <fw place="right" type="pageNum"><del rend="overstrike">337</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">334</fw><note place="end">номер вписан карандашом</note>
+    <fw place="right" type="pageNum">334</fw><note place="end">номер вписан карандашом</note>
     <p>
       <l><salute>М:Г: мой <persName ref="Тарбеев">Петръ Матфѣевъ</persName>.</salute></l>
       <l>Еврей <persName ref="alter-rebbe"><sic>Зальбанъ</sic> боруховичъ</persName> бывшій здѣсь</l>
@@ -31,7 +31,7 @@
       вашему прев<hi rend="superscript">у</hi>.<note place="end">превосходительству</note></l>
       <l>сообщаю, пребывая впрочемъ съ истиннымъ</l>
       <l>почтеніемъ.</l>
-      <fw type="note" place="left margin">
+      <fw place="left margin" type="note">
         <l>= и о доставле</l>
         <l>ніи полной ему</l>
         <l>по прежнему въ его</l>

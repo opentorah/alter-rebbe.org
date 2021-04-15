@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="393-1"/>
-    <fw type="pageNum" place="right">393.</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">393.</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <head>
       <l>Do</l>
       <l>Szlachetnego Magistratu Miasta Gubernskiego <placeName ref="Вильна">Wilna</placeName></l>
@@ -45,6 +45,6 @@
        Jckowicza</persName> napisano zostało <persName ref="Мовша_Ицкович">Jona Jckowicz</persName>, a zatem</l>
       <l>trzeba odmienic Jmie Jona na Jmie Mowszy._</l>
     </p>
-    <pb n="393-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="393-2"/>
   </body></text>
 </TEI>

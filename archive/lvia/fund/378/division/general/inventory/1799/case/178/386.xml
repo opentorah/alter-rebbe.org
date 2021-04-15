@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="386-1"/>
-    <fw type="pageNum" place="right">386.</fw>
-    <fw type="note" place="left margin">Ис</fw>
+    <fw place="right" type="pageNum">386.</fw>
+    <fw place="left margin" type="note">Ис</fw>
     <head>
       <l><date when="1800-03-12">1800<hi rend="superscript">го</hi> года марта 12<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
@@ -73,14 +73,14 @@
       <l>вленіемъ къ порученному оному магистрату дѣлу</l>
       <l>людей вѣры достойныхъ, опасаясь за пустыя отговорки</l>
       <pb n="387-1"/>
-      <fw type="pageNum" place="right">387</fw>
-      <fw type="note" place="left margin">криц</fw>
+      <fw place="right" type="pageNum">387</fw>
+      <fw place="left margin" type="note">криц</fw>
       <l>взысканія по законамъ. Подлинной за подписаніемъ</l>
       <l>господъ присудствующихъ и за скрепою секретаря</l>
       <l><persName>Павла Искрицкаго</persName>._ Протоколистъ <persName>Јосифъ Волковъ</persName></l>
     </p>
     <fw type="note">исполнено <date when="1800-03-15">15 марта</date> <fw type="docNum">№ 98<hi rend="superscript"
     >и</hi></fw></fw><note place="end">пометка на нижнем поле страницы</note>
-    <pb n="387-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="387-2"/>
   </body></text>
 </TEI>

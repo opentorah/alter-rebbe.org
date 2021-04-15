@@ -18,8 +18,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="290-1"/>
-    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
-    <fw type="pageNum" place="right">290</fw><note place="end">номер продублирован чернилами и карандашом</note>
+    <fw place="left" type="note"><emph rend="underline">Копія</emph></fw>
+    <fw place="right" type="pageNum">290</fw><note place="end">номер продублирован чернилами и карандашом</note>
     <salute>Милостивой Государь мой <persName ref="Фризель">Иванъ Григорьевичъ</persName>!</salute>
     <p>
       <l>Болезнь моя не дозволила мнѣ тотчасъ отвѣчать</l>
@@ -90,7 +90,7 @@
       <l>знаю, и о семъ дѣлѣ никогда говорено не было,</l>
     </p>
     <pb n="307-1"/>
-    <fw type="pageNum" place="right">307</fw>
+    <fw place="right" type="pageNum">307</fw>
     <p>
       <l>а сказалъ я, дѣло жидовъ должно разсмотрѣ</l>
       <l>но быть съ прилѣжаніемъ и не на скорую руку;</l>

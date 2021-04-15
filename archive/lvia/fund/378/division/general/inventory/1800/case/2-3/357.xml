@@ -20,7 +20,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="357-1"/>
-    <fw type="pageNum" place="right">357</fw>
+    <fw place="right" type="pageNum">357</fw>
     <head>
       <l>Его высокопревосходительству</l>
       <l>Господину Генералу отъ Инфантеріи Литовской ди-</l>
@@ -77,7 +77,7 @@
       <l>и фальшивое показаніе въ нихъ количества до-</l>
       <l>ходовъ и расходовъ._ и хотя по заготовленнымъ</l>
       <pb n="358-1"/>
-      <fw type="pageNum" place="right">358</fw>
+      <fw place="right" type="pageNum">358</fw>
       <l>вопросамъ отъ большаго числа евреевъ не отобра-</l>
       <l>ны еще показаніи, поелику велѣно всѣ бу-</l>
       <l>маги разсмотренію нашему порученные пред-</l>
@@ -100,6 +100,6 @@
     </p>
     <closer place="left"><l><date when="1800-06-14">Јюня 14 дня<lb/>
      1800. года.</date></l></closer>
-    <pb n="358-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="358-2"/>
   </body></text>
 </TEI>

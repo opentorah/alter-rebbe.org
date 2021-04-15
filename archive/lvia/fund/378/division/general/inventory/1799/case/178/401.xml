@@ -21,9 +21,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="401-1"/>
-    <fw type="pageNum" place="right">401.</fw>
-    <fw type="note" place="left margin">Па</fw>
-    <fw type="note" place="left margin"><fw type="docNum">№ 387</fw></fw>
+    <fw place="right" type="pageNum">401.</fw>
+    <fw place="left margin" type="note">Па</fw>
+    <fw place="left margin" type="note"><fw type="docNum">№ 387</fw></fw>
     <head>
       <l>Изъ виленской городовой полицїи</l>
       <l>въ виленской городовой магистратъ.</l>
@@ -37,6 +37,6 @@
       <l>Городовой секретарь <signed>??? ???</signed></l>
       <l>Губернскїи регистраторъ <signed>Осипъ Качковскїй</signed></l>
     </p>
-    <pb n="401-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="401-2"/>
   </body></text>
 </TEI>

@@ -23,11 +23,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="458-1"/>
-    <fw type="docNum" place="left">N 317</fw>
+    <fw place="left" type="docNum">N 317</fw>
     <fw type="note">Подано <date when="1800-05-22">22<hi rend="superscript">го</hi> маiя 1800<hi rend="superscript"
     >го</hi> года</date>.</fw>
-    <fw type="pageNum" place="right">458.</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">458.</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
@@ -58,8 +58,8 @@
       <l>ię się <date when="1800-05-22">22: maja 1800 roku</date>_</l>
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
-    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-05-23">23<hi rend=
+    <fw place="lower margin" type="note">Слуш<note place="end">слушано</note>: <date when="1800-05-23">23<hi rend=
     "superscript">го</hi> маiя</date></fw>
-    <pb n="458-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="458-2"/>
   </body></text>
 </TEI>

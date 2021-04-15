@@ -12,10 +12,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="079-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">80</del></fw>
-    <fw type="pageNum" place="right">79</fw>
-    <fw type="note" place="right">по <fw type="docNum">№ 1178</fw></fw>
-    <fw type="note" place="left margin">та</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">80</del></fw>
+    <fw place="right" type="pageNum">79</fw>
+    <fw place="right" type="note">по <fw type="docNum">№ 1178</fw></fw>
+    <fw place="left margin" type="note">та</fw>
     <head>
       <l>Могилевскому губернскому прав-</l>
       <l>ленію.</l>
@@ -57,7 +57,7 @@
       <l>онъ стряпчій <del rend="overstrike">далъ</del> <hi rend="superscript">сдѣлавъ въ</hi> магистратъ</l>
       <l>отношеніе, но отвѣта никакого</l>
       <pb n="079-2"/>
-      <fw type="pageNum" place="right">79 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">79 об<note place="end">номер записан карандашом</note></fw>
       <l>не получилъ, и командиро-</l>
       <l>ванный <hi rend="superscript">съ 1<hi rend="superscript">го</hi> генваря</hi> къ раввину и</l>
       <l>въ прикагалки <del rend="overstrike">съ</del> сторожъ</l>
@@ -93,9 +93,9 @@
       <l>истребовать отъ него объясне-</l>
       <l>ніе въ оныхъ, подвергнувъ</l>
       <pb n="080-1"/>
-      <fw type="pageNum" place="right">80</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">81</del>.</fw>
-      <fw type="note" place="left margin">рь</fw>
+      <fw place="right" type="pageNum">80</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">81</del>.</fw>
+      <fw place="left margin" type="note">рь</fw>
       <l>взысканію <del rend="overstrike">отъ за</del> за</l>
       <l>отступленіе отъ законнаго</l>
       <l>порядка и послабленіе,</l>
@@ -119,6 +119,6 @@
     </p>
     <pb n="079a-1"/>
     <pb n="079a-2"/>
-    <pb n="080-2" missing="true"/>
+    <pb missing="true" n="080-2"/>
   </body></text>
 </TEI>

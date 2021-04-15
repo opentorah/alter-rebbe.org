@@ -19,8 +19,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="288-1"/>
-    <fw type="pageNum" place="right">288.</fw>
-    <fw type="note" place="left margin">Па</fw>
+    <fw place="right" type="pageNum">288.</fw>
+    <fw place="left margin" type="note">Па</fw>
     <head>
       <l>Na skutek Ukazu Jego Jmperatorskiey Mosci Sa-</l>
       <l>mowładnącego Całą Rossyą z <orgName ref="Литовский_надворный_суд">Litt<note place="end">Litewskiego</note>
@@ -86,7 +86,7 @@
       <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
     </p>
     <pb n="288-2"/>
-    <fw type="note" place="left margin">Се-</fw>
+    <fw place="left margin" type="note">Се-</fw>
     <p>
       <l>2gi_ <persName>Jankiel Szlomowicz</persName>_ Lat 60 wieku maiący mieszka</l>
       <l>wnaiętym Domie na Zarzeczu przedmiesciu_ da-</l>
@@ -154,8 +154,8 @@
        Jankielowicza</persName> od lat 12 zna –</l>
     </p>
     <pb n="289-1"/>
-    <fw type="pageNum" place="right">289</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">289</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <p>
       <l>3 wyznał ze ci Zydzi Domow Swych niemaią</l>
       <l>lecz zyią w naiętych – Zna zas Jch bydz poczciwemi</l>
@@ -225,7 +225,7 @@
       <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
     </p>
     <pb n="289-2"/>
-    <fw type="note" place="left margin">кій</fw>
+    <fw place="left margin" type="note">кій</fw>
     <p>
       <l>5ty <persName>Joziff Leybowicz</persName> Lat 42 wieku maiący ma Swoy</l>
       <l>Dom pod Nr 371. na ulicy Niemieckiey – po wy</l>
@@ -296,8 +296,8 @@
       <l>2 Wyznał Jz Biegunow Kahalnych <persName>Henocha</persName> – <persName>Moyzesza</persName> y <persName
       >Kopyla</persName></l>
       <pb n="290-1"/>
-      <fw type="pageNum" place="right">290.</fw>
-      <fw type="note" place="left margin">Ис-</fw>
+      <fw place="right" type="pageNum">290.</fw>
+      <fw place="left margin" type="note">Ис-</fw>
       <l>y <persName>Kopyla</persName> zna z małych Swych Lat_ azas <persName>Zelma-<lb/>
        na Aronowicza</persName> od Lat 20 – <persName>Morducha Leyzerowicza</persName></l>
       <l>z dziecinnych Lat – a <persName>Abrahama Jankielowicza</persName></l>
@@ -424,8 +424,8 @@
       <l>minowany_</l>
     </p>
     <p>
-      <l>1 wyznał Jz nigdy niebył Kahalnym anitez</l>   <pb n="291-1"/> <fw type="pageNum" place="right">291.</fw> <fw
-      type="note" place="left margin">криц</fw> <l>niemiał y nie ma zadnych związkow ani</l> <l>z byłemi anitez z
+      <l>1 wyznał Jz nigdy niebył Kahalnym anitez</l>   <pb n="291-1"/> <fw place="right" type="pageNum">291.</fw> <fw
+      place="left margin" type="note">криц</fw> <l>niemiał y nie ma zadnych związkow ani</l> <l>z byłemi anitez z
       teraznieyszemi Kahalnemi –</l> <l>z Duchownemi, y <orgName ref="Хасиды">Karolinami</orgName>_</l>
     </p>
     <p>
@@ -465,6 +465,6 @@
     <l><persName>Kazimierz Paszkiewicz</persName> Radny miasta <placeName ref="Вильна">Wilna</placeName></l>
     <l><signed><persName>Franciszek Sidorowicz</persName><lb/>
      <placeName ref="Вильна">MW<note place="end">XXX</note></placeName> Regent</signed></l>
-    <pb n="291-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="291-2"/>
   </body></text>
 </TEI>

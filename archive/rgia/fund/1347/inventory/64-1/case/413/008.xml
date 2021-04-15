@@ -23,14 +23,14 @@
   <text xml:lang="ru"><body>
     <l>
       <pb n="008-1"/>
-      <date when="1800-11-24" place="center">24 ноября 1800<hi rend="superscript">го</hi></date>
+      <date place="center" when="1800-11-24">24 ноября 1800<hi rend="superscript">го</hi></date>
     </l>
     <l>
-      <fw type="docNumber" place="left">№1665</fw>
-      <l><fw type="note" place="center">къ дѣлу</fw></l>
-      <l><fw type="note" place="right">Секретно</fw></l>
-      <fw type="pageNum" place="right"><del rend="overstrike">44</del></fw>
-      <fw type="pageNum" place="right">8</fw>
+      <fw place="left" type="docNumber">№1665</fw>
+      <l><fw place="center" type="note">къ дѣлу</fw></l>
+      <l><fw place="right" type="note">Секретно</fw></l>
+      <fw place="right" type="pageNum"><del rend="overstrike">44</del></fw>
+      <fw place="right" type="pageNum">8</fw>
     </l>
     <salute>
       <l>Ваше высокопревосходительство</l>
@@ -107,7 +107,7 @@
     </p>
     <l><date when="1800-11-13">ноября 13.<hi rend="superscript">го</hi> дня<lb/>
      1800<hi rend="superscript">го</hi> года</date></l>
-    <fw type="note" place="left">
+    <fw place="left" type="note">
       <l>Его высокопревосходительству</l>
       <l>Г<hi rend="superscript">ну</hi> Генералъ іинфантеріи, Генералъ</l>
       <l>прокурору и кавалеру <persName ref="Обольянинов">Петру<lb/>

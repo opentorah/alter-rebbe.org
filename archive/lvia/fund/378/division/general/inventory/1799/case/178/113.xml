@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="113-1"/>
-    <fw type="pageNum" place="right">113</fw>
-    <fw type="note" place="left margin">Ис-</fw>
+    <fw place="right" type="pageNum">113</fw>
+    <fw place="left margin" type="note">Ис-</fw>
     <head>
       <l>Въ Литовскую Казенную Палату</l>
       <l>отъ губернскаго ея казначея <persName>Сербиновича</persName>.</l>
@@ -100,9 +100,9 @@
       <l>шины указали мѣста и людей, подъ вѣдомствомъ ко-</l>
       <l>ихъ хранились тѣ книги, а особянно еврей <persName>Юнашевичъ</persName></l>
       <pb n="114-1"/>
-      <fw type="pageNum" place="right">114</fw>
-      <fw type="note" place="left margin">копія</fw>
-      <fw type="note" place="left margin">криц</fw>
+      <fw place="right" type="pageNum">114</fw>
+      <fw place="left margin" type="note">копія</fw>
+      <fw place="left margin" type="note">криц</fw>
       <l>упорствовалъ въ показаніи и отдачѣ имѣющихся у него</l>
       <l>регистровъ или книгъ; Однако и при семъ случаѣ не видѣлъ</l>
       <l>я, чтобъ господинъ <persName ref="Елиашевич">совѣтникъ</persName> кого билъ рукою или палкою.</l>
@@ -129,6 +129,6 @@
     </p>
     <closer place="left"><l><date when="1799-04-29">Апреля 29<hi rend="superscript">го</hi> дня<lb/>
      1799 года</date>.</l></closer>
-    <pb n="114-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="114-2"/>
   </body></text>
 </TEI>

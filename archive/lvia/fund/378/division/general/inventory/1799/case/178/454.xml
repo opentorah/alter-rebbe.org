@@ -22,8 +22,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="454-1"/>
-    <fw type="pageNum" place="right">454</fw>
-    <fw type="note" place="left margin">Се-</fw>
+    <fw place="right" type="pageNum">454</fw>
+    <fw place="left margin" type="note">Се-</fw>
     <head>
       <l><date when="1800-05-16">1800<hi rend="superscript">го</hi> года маія 16<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго Надворнаго Суда</orgName></l>
@@ -144,8 +144,8 @@
       <l><persName>Мордуху перцовичу</persName>, которои, какъ <orgName ref="Литовский_надворный_суд">сему надворному
       суду</orgName> извѣстно,</l>
       <pb n="455-1"/>
-      <fw type="pageNum" place="right">455</fw>
-      <fw type="note" place="left margin">кре</fw>
+      <fw place="right" type="pageNum">455</fw>
+      <fw place="left margin" type="note">кре</fw>
       <l>подавалъ къ бывшему въ <placeName ref="Вильна">Вильнѣ</placeName> коменданту <date when="1799-02-25">1799<hi
       rend="superscript">го</hi> года февраля<lb/>
        25<hi rend="superscript">го</hi> дня</date> прозьбу, буть-то бы изъ Ковни писанную, въ коей свидѣтель-</l>
@@ -263,8 +263,8 @@
       <l>ціею своею во <date when="1800-05-02">2<hi rend="superscript">и</hi> день сего маія</date> учиненную призналъ
       оное только</l>
       <pb n="456-1"/>
-      <fw type="pageNum" place="right">456.</fw>
-      <fw type="note" place="left margin">тарь</fw>
+      <fw place="right" type="pageNum">456.</fw>
+      <fw place="left margin" type="note">тарь</fw>
       <l>недостаточнымъ: слѣдовательно онъ Гиршовичъ ежели не объявитъ</l>
       <l>на него <persName ref="Мовша_Ошерович">Ошеровича</persName> ничего болѣе, кромѣ сего подозренія, и можетъ</l>
       <l>допущенъ быть къ присягѣ, особливо, что онъ спрашиванъ будетъ</l>
@@ -322,6 +322,6 @@
       <l>крицкаго. Протоколистъ <signed>Јосифъ Волковъ</signed>.</l>
       <l>Съ подлиннымъ сверялъ переводчикъ <signed>Јосифъ Фалькъ</signed></l>
     </p>
-    <pb n="456-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="456-2"/>
   </body></text>
 </TEI>

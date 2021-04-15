@@ -19,9 +19,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="037-1"/>
-    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
-    <fw type="pageNum" place="right">36</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="left" type="note"><emph rend="underline">Копія</emph></fw>
+    <fw place="right" type="pageNum">36</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <salute>
       <l>Господину отъ инфантеріи литовскому генералу и кавалеру <persName ref="Лассий">лассію</persName>.</l>
       <l>Отъ артиллеріи генералъ-маіора виленскаго комменданта кавалера <persName ref="Капцевич">капцевича</persName>
@@ -94,8 +94,8 @@
       <l><signed><persName ref="Капцевич">Капцевичъ</persName></signed></l>
     </p>
     <pb n="038-1"/>
-    <fw type="pageNum" place="right">38</fw>
-    <fw type="note" place="left margin">ис</fw>
+    <fw place="right" type="pageNum">38</fw>
+    <fw place="left margin" type="note">ис</fw>
     <p>
       <l>Съкладочныхъ денѣгъ <persName ref="Шимель_Вульфович">шимелю вульфовичу</persName> что какъ сами они приз-</l>
       <l>наются было причинною многихъ злоупотребленіи а посему видя явныя</l>
@@ -112,6 +112,6 @@
     </p>
     <closer place="left"><l><date when="1799-02-09">февраля 9<hi rend="superscript">го</hi> дня<lb/>
      1799 года</date></l></closer>
-    <pb n="038-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="038-2"/>
   </body></text>
 </TEI>

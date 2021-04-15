@@ -14,15 +14,15 @@
         </p>
         <p>Документ <ref target="/dubnov/262.1">№ 11-а</ref> у Дубнова</p>
       </abstract>
-      <creation><date when="1800-10-07" calendar="#julian">1800-10-07</date></creation>
+      <creation><date calendar="#julian" when="1800-10-07">1800-10-07</date></creation>
       <correspDesc><correspAction><persName ref="Авигдор" role="addressee">Авигдору</persName></correspAction>
       </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="048-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">51</del></fw>
-    <fw type="pageNum" place="right">48</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">51</del></fw>
+    <fw place="right" type="pageNum">48</fw>
     <fw type="docNum">въ акад. - №: 9315</fw>
     <fw type="docNum">универ – 9316.</fw>
     <p>
@@ -51,6 +51,6 @@
     </p>
     <l><date when="1800-10-07">.7. октября<lb/>
      1800</date></l>
-    <pb n="048-2" missing="true"/>
+    <pb missing="true" n="048-2"/>
   </body></text>
 </TEI>

@@ -14,10 +14,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="046-1"/>
-    <fw type="pageNum" place="right">46</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">47</del>.</fw>
-    <fw type="note" place="left margin">кре</fw>
-    <fw type="note" place="right">
+    <fw place="right" type="pageNum">46</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">47</del>.</fw>
+    <fw place="left margin" type="note">кре</fw>
+    <fw place="right" type="note">
       <l>цѣна три</l>
       <l>рубли<note place="end">надпись обведена по окружности, указывая место печати, и отражает стоимость гербовой
       бумаги оригинала</note></l>
@@ -53,7 +53,7 @@
       <l>уполномоченныхъ, и ихъ покупной суммы покуп-</l>
       <l>щикъ ни кому другому за таковые мѣста</l>
       <pb n="046-2"/>
-      <fw type="pageNum" place="right">46 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">46 об<note place="end">номер записан карандашом</note></fw>
       <l>не долженъ давать, какъ только подъ росписки</l>
       <l>за подписаніемъ тѣхъ старостъ. 3. Въ разсуж-</l>
       <l>деніи жъ недостающей суммы со всехъ вышепи-</l>
@@ -84,9 +84,9 @@
       <l>доставляется симъ старостамъ полная</l>
       <l>власть сію баню съ жилищемъ кому</l>
       <pb n="047-1"/>
-      <fw type="pageNum" place="right">47</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">48</del></fw>
-      <fw type="note" place="left margin">та</fw>
+      <fw place="right" type="pageNum">47</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">48</del></fw>
+      <fw place="left margin" type="note">та</fw>
       <l>заблагоразсудятъ заарендовать, продать</l>
       <l>заложить и во всякія крѣпости укрѣпить</l>
       <l>и что они не учинятъ, то должно быть</l>
@@ -103,6 +103,6 @@
     </p>
     <pb n="046a-1"/>
     <pb n="046a-2"/>
-    <pb n="047-2" missing="true"/>
+    <pb missing="true" n="047-2"/>
   </body></text>
 </TEI>

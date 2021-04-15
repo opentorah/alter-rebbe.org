@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="227-1"/>
-    <fw type="pageNum" place="right">227</fw>
-    <fw type="note" place="left margin">криц</fw>
+    <fw place="right" type="pageNum">227</fw>
+    <fw place="left margin" type="note">криц</fw>
     <head>
       <l>Записка.</l>
       <l>о дѣлѣ производящемся въ <orgName ref="Литовский_надворный_суд">Литовскомъ Надворномъ Судѣ</orgName> по</l>
@@ -95,8 +95,8 @@
       <l>при своемъ сообщеніи поданное</l>
       <l>въ оное прошеніе отъ шести</l>
       <pb n="228-1"/>
-      <fw type="pageNum" place="right">228.</fw>
-      <fw type="note" place="left margin">кій</fw>
+      <fw place="right" type="pageNum">228.</fw>
+      <fw place="left margin" type="note">кій</fw>
       <l>человѣкъ бывшихъ кагальныхъ</l>
       <l>членовъ, что <persName ref="Мовша_Ошерович">Ошеровичъ</persName> жало</l>
       <l>вался оному <orgName ref="Литовское_губернское_правление">Правленію</orgName> на</l>
@@ -169,8 +169,8 @@
       <l>генерала отъ инфантеріи и</l>
       <l>кавалера <persName ref="Лассий">Лассія</persName> предписаніемъ</l>
       <pb n="229-1"/>
-      <fw type="pageNum" place="right">229</fw>
-      <fw type="note" place="left margin">Се-</fw>
+      <fw place="right" type="pageNum">229</fw>
+      <fw place="left margin" type="note">Се-</fw>
       <l>Хотя же <orgName ref="Литовский_надворный_суд">судъ</orgName> и получилъ оныя</l>
       <l>объясненія во <date when="1799-05-02">2<hi rend="superscript">и</hi></date> и <date when="1799-05-16">16<hi
       rend="superscript">и</hi> день маія</date>,</l>
@@ -247,8 +247,8 @@
       <l>встрѣтиться и другія обсто</l>
       <l>ятельства, коихъ теперь</l>
       <pb n="230-1"/>
-      <fw type="pageNum" place="right">230</fw>
-      <fw type="note" place="left margin">кре-</fw>
+      <fw place="right" type="pageNum">230</fw>
+      <fw place="left margin" type="note">кре-</fw>
       <l>еще видеть не можно, но</l>
       <l>кои долженствуютъ быть</l>
       <l>обнаружены для объясненія</l>
@@ -258,6 +258,6 @@
       <l>безъ замедленія свое окон-</l>
       <l>чаніе._ Секретарь <signed><persName>Павелъ Искрицкій</persName></signed></l>
     </p>
-    <pb n="230-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="230-2"/>
   </body></text>
 </TEI>

@@ -17,9 +17,9 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="095-1"/>
-    <fw type="docNum" place="left">№ 2.</fw>
-    <fw type="pageNum" place="right">95</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">94</del></fw>
+    <fw place="left" type="docNum">№ 2.</fw>
+    <fw place="right" type="pageNum">95</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">94</del></fw>
     <p>
       <l><persName ref="Нохим_Ицкович">Nochim Jckowicz</persName> odurodzenia Lat ─</l>
       <l>mam 36 bawię się roznemi Przemy</l>
@@ -106,14 +106,14 @@
       <l>sa jakie kolwiek z tego zrodla mo</l>
       <l>gły wyniknąć y nagrodzć zafatygę.</l>
       <pb n="096-1"/>
-      <fw type="pageNum" place="right">96</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">95.</del></fw>
+      <fw place="right" type="pageNum">96</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">95.</del></fw>
       <l>Te zas Listy, które były pisane od Ra <lb/>
        bina znayduią się tu <placeName ref="Вильна">wwilnie</placeName> między</l>
       <l>moiemi papierami_.</l>
       <l>Nochim Jckowicz <signed>???</signed><note place="end">Подпись <persName ref="Нохим_Ицкович">Нохима
       Ицковича</persName> на иврите</note></l>
     </p>
-    <pb n="096-2" empty="true"/>
+    <pb empty="true" n="096-2"/>
   </body></text>
 </TEI>

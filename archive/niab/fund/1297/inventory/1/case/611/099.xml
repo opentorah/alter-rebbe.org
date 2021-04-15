@@ -16,10 +16,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="099-1"/>
-    <fw type="docNum" place="left">№ 4370</fw>
-    <fw type="note" place="right"><date when="1826-05-26">28 маія 1826</date></fw>
-    <fw type="pageNum" place="right">99</fw>
-    <fw type="note" place="left margin">мощ</fw>
+    <fw place="left" type="docNum">№ 4370</fw>
+    <fw place="right" type="note"><date when="1826-05-26">28 маія 1826</date></fw>
+    <fw place="right" type="pageNum">99</fw>
+    <fw place="left margin" type="note">мощ</fw>
     <head>
       <l><emph rend="big">Его Сїятельству</emph>.</l>
       <l>господину генералъ-губернатору витебскому,</l>
@@ -38,7 +38,7 @@
       <l>съ жандармомъ и еврѣйскимъ <persName ref="мителер_ребе">раввиномъ</persName>, а оттуда</l>
       <l>съ евреемъ, взятымъ по дѣлу о сборѣ <persName ref="мителер_ребе">раввиномъ</persName> съ еврѣй</l>
       <pb n="099-2"/>
-      <fw type="pageNum" place="right">99 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">99 об<note place="end">номер записан карандашом</note></fw>
       <l>въ пользу свою денегъ, а до поступленїя въ казну за-</l>
       <l>писать оныхъ въ недоимку слѣдующую ко взысканїю.</l>
       <l>А по справкѣ оказалось: означенному гвардїи</l>

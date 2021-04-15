@@ -14,10 +14,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="245-1"/>
-    <fw type="docNum" place="left">№ 679</fw>
+    <fw place="left" type="docNum">№ 679</fw>
     <fw type="note">получено <date when="1799-09-02">сентября 2. дня 1799. года</date>.</fw>
-    <fw type="pageNum" place="right">245</fw>
-    <fw type="note" place="left margin">Се-</fw>
+    <fw place="right" type="pageNum">245</fw>
+    <fw place="left margin" type="note">Се-</fw>
     <head>
       <l>Изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName></l>
       <l>въ <orgName ref="Литовский_надворный_суд">Литовскій Надворный судъ</orgName>.</l>
@@ -34,8 +34,8 @@
        31 дня 1799<hi rend="superscript">го</hi> года</date>_.</l>
       <l><persName>Фердинандъ Контримъ</persName></l>
     </p>
-    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-09-06">6<hi rend=
+    <fw place="lower margin" type="note">Слуш<note place="end">слушано</note>: <date when="1799-09-06">6<hi rend=
     "superscript">го</hi> сентября</date>.</fw>
-    <pb n="245-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="245-2"/>
   </body></text>
 </TEI>

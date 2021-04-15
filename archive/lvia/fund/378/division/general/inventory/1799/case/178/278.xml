@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="278-1"/>
-    <fw type="pageNum" place="right">278.</fw>
-    <fw type="note" place="left margin">кре</fw>
+    <fw place="right" type="pageNum">278.</fw>
+    <fw place="left margin" type="note">кре</fw>
     <head>
       <l><date when="1799-10-17">1799<hi rend="superscript">го</hi> года октября 17<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -44,6 +44,6 @@
        каго</persName>.</l>
       <l>Протоколистъ <signed><persName>Јосифъ Волковъ</persName></signed></l>
     </p>
-    <pb n="278-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="278-2"/>
   </body></text>
 </TEI>

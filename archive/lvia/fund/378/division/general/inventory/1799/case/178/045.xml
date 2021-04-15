@@ -21,10 +21,10 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="045-1"/>
-    <fw type="docNum" place="left">№ 205</fw>
+    <fw place="left" type="docNum">№ 205</fw>
     <fw type="note">Подана <date when="1799-03-28">28 марта 1799<hi rend="superscript">го</hi> года</date></fw>
-    <fw type="pageNum" place="right">45</fw>
-    <fw type="note" place="left margin">велъ</fw>
+    <fw place="right" type="pageNum">45</fw>
+    <fw place="left margin" type="note">велъ</fw>
     <salute>
       <l>Nayiaśnieyszy Naypotężnieyszy</l>
       <l>Wielki Monarcho Imperatorze <persName ref="Павел_I" role="addressee">Pawle<lb/>
@@ -82,9 +82,9 @@
       <l>Datowane od JW<note place="end">Jaśnie Wielmożnego</note> <persName ref="Лассий">Genarała
       Gubernatora</persName> <orgName ref="Литовское_губернское_правление">Rządu Gubern<hi rend="superscript"
       >u</hi><note place="end">Gubernskiego</note></orgName></l>
-      <fw type="note" place="left">Слуш: <date when="1799-03-29">29<hi rend="superscript">го</hi> марта</date></fw>
+      <fw place="left" type="note">Слуш: <date when="1799-03-29">29<hi rend="superscript">го</hi> марта</date></fw>
       <pb n="045-2"/>
-      <fw type="note" place="left">виленскій уѣздный казначей</fw>
+      <fw place="left" type="note">виленскій уѣздный казначей</fw>
       <l>przesłany. 4<hi rend="superscript">to</hi>. Przedłożenie JWo<note place="end">Jaśnie Wielmożnego</note>
       teraznieyszego <persName ref="Фризель">Gubern<hi rend="superscript">a</hi></persName><note place="end"
       >Gubernatora</note> do <orgName ref="Литовское_губернское_правление">Rządu<lb/>
@@ -142,12 +142,12 @@
       <l>ПРИКАЗАЛИ: Оное прошеніе приобщить къ</l>
       <l>дѣлу. Подлинной за подписаніемъ господъ</l>
       <pb n="046-1"/>
-      <fw type="pageNum" place="right">46.</fw>
-      <fw type="note" place="left">начей <persName>Јосифъ Ейсымонтъ</persName></fw>
+      <fw place="right" type="pageNum">46.</fw>
+      <fw place="left" type="note">начей <persName>Јосифъ Ейсымонтъ</persName></fw>
       <l>присудствующихъ и за скрепою секретаря</l>
       <l><persName>Павла Искрицкаго</persName>._</l>
       <l>Протоколистъ <persName>Јосифъ Волковъ</persName></l>
     </p>
-    <pb n="046-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="046-2"/>
   </body></text>
 </TEI>

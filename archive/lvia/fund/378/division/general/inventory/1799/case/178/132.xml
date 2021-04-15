@@ -16,12 +16,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="132-1"/>
-    <fw type="docNum" place="left">№ 299</fw>
+    <fw place="left" type="docNum">№ 299</fw>
     <fw type="note">Получено <date when="1799-05-16">16<hi rend="superscript">го</hi> маія 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw type="pageNum" place="right">132.</fw>
-    <fw type="note" place="left margin">Се-</fw>
-    <fw type="note" place="left margin">№ 4212</fw>
+    <fw place="right" type="pageNum">132.</fw>
+    <fw place="left margin" type="note">Се-</fw>
+    <fw place="left margin" type="note">№ 4212</fw>
     <head>
       <l>Изъ <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго Правленія</orgName></l>
       <l>въ <orgName ref="Литовский_надворный_суд">Литовскій Губернскій Надворный Судъ</orgName>.</l>
@@ -41,9 +41,9 @@
       <l>Фердинандъ Контримъ</l>
       <l>Протоколистъ Алексей Булавинъ</l>
       <l>Повытчикъ Семенъ Дмитревскій</l>
-      <l><fw type="note" place="left">слуш<note place="end">слушано</note>: <date when="1799-05-17">17<hi rend=
+      <l><fw place="left" type="note">слуш<note place="end">слушано</note>: <date when="1799-05-17">17<hi rend=
       "superscript">го</hi> маія</date></fw></l>
     </p>
-    <pb n="132-2" missing="true" empty="true"/>
+    <pb empty="true" missing="true" n="132-2"/>
   </body></text>
 </TEI>

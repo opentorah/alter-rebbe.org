@@ -17,10 +17,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="498-1"/>
-    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
-    <fw type="pageNum" place="right">498.</fw>
-    <fw type="note" place="left margin">велъ</fw>
-    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <fw place="left" type="note"><emph rend="underline">Копія</emph></fw>
+    <fw place="right" type="pageNum">498.</fw>
+    <fw place="left margin" type="note">велъ</fw>
+    <fw place="left margin" type="note"><unclear>???</unclear></fw>
     <head>
       <l><date when="1799-02-15">1799<hi rend="superscript">го</hi> года февраля 15<hi rend="superscript">го</hi>
       дня</date>, въ журналѣ</l>
@@ -52,7 +52,7 @@
       <l>прежнихъ <orgName ref="Виленский_кагал">виленскаго кагала</orgName> старшинъ книгъ,</l>
       <l>регистровъ и протчихъ бумагъ съ означенїемъ отъ кого име</l>
       <l>нно изъ числа прежнихъ кагальныхъ какая бумага</l>
-      <fw type="note" place="lower margin">Регистраторъ</fw>
+      <fw place="lower margin" type="note">Регистраторъ</fw>
       <pb n="498-2"/>
       <l>взята, также и описания учиненнаго о живущихъ</l>
       <l>по домамъ здешняго города евреевъ отъкрываю-</l>

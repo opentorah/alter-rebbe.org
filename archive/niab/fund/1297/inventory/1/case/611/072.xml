@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="072-1"/>
-    <fw type="pageNum" place="right">72</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">73</del></fw>
-    <fw type="note" place="left margin">рь</fw>
-    <fw type="docNum" place="left">№ 1070.</fw>
-    <fw type="note" place="right"><date when="1826-02-08">8<hi rend="superscript">го</hi> февраля 1826</date></fw>
+    <fw place="right" type="pageNum">72</fw>
+    <fw place="right" type="pageNum"><del rend="overstrike">73</del></fw>
+    <fw place="left margin" type="note">рь</fw>
+    <fw place="left" type="docNum">№ 1070.</fw>
+    <fw place="right" type="note"><date when="1826-02-08">8<hi rend="superscript">го</hi> февраля 1826</date></fw>
     <head>
       <l><emph rend="big">Его Сїятельству</emph>._С</l>
       <l>Господину генералъ лейтенанту, сенатору генералъ-</l>
@@ -53,6 +53,6 @@
       </closer>
     </head>
     <pb n="072a-1"/>
-    <pb n="072-2" missing="true"/>
+    <pb missing="true" n="072-2"/>
   </body></text>
 </TEI>

@@ -12,8 +12,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="052-1"/>
-    <fw type="pageNum" place="right">52</fw>
-    <fw type="note" place="left margin">никъ</fw>
+    <fw place="right" type="pageNum">52</fw>
+    <fw place="left margin" type="note">никъ</fw>
     <p><l><emph rend="underline">Писано по еврейскій</emph></l></p>
     <p><l>съ онаго переводъ на російской языкъ.</l></p>
     <p>
@@ -50,7 +50,7 @@
       <l>что безъпрерывно продолжаютъ свое дѣйствіе</l>
       <l>хотя на то нѣтъ имяннаго постановленія</l>
       <pb n="052-2"/>
-      <fw type="pageNum" place="right">52 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">52 об<note place="end">номер записан карандашом</note></fw>
       <l>и на сіе не нужны старанія, а первый родъ</l>
       <l>денегъ которые собраны чрезъ стараніи только</l>
       <l>времянно, въ то время только, въ новые мѣ</l>
@@ -96,9 +96,9 @@
       <l>присягаю силььною присягою, со всѣмъ, что свято</l>
       <l>по духовному образу, что у меня больше</l>
       <pb n="053-1"/>
-      <fw type="pageNum" place="right">53</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">54</del>.</fw>
-      <fw type="note" place="left margin">се</fw>
+      <fw place="right" type="pageNum">53</fw>
+      <fw place="right" type="pageNum"><del rend="overstrike">54</del>.</fw>
+      <fw place="left margin" type="note">се</fw>
       <l>не было какъ сумма 35/т<note place="end">далее помещен надстрочный символический знак рубля</note> и кромѣ
       сего</l>
       <l>не осталась малѣйшая монета, да</l>
@@ -122,6 +122,6 @@
     </p>
     <pb n="052a-1"/>
     <pb n="052a-2"/>
-    <pb n="053-2" missing="true"/>
+    <pb missing="true" n="053-2"/>
   </body></text>
 </TEI>
