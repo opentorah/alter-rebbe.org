@@ -17,9 +17,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="101-1"/>
-    <fw type="note" place="left"><emph rend="underline">26 марта.</emph></fw>
-    <fw type="pageNum" place="right">101</fw>
-    <fw type="note" place="left margin">Се</fw>
+    <fw place="left" type="note"><emph rend="underline">26 марта.</emph></fw>
+    <fw place="right" type="pageNum">101</fw>
+    <fw place="left margin" type="note">Се</fw>
     <p>
       <l>По производящемуся въ III<hi rend="superscript">м</hi> отдѣленіи</l>
       <l>дѣлу канцеляріи Его Сіятельства г. генералъ</l>
@@ -48,7 +48,7 @@
       <l>деніе: кто по рѣшенію оказался</l>
       <l>виновнымъ и съ кого слѣдуетъ</l>
       <pb n="101-2"/>
-      <fw type="pageNum" place="right">101 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum">101 об<note place="end">номер записан карандашом</note></fw>
       <l>взыскать употребленныя адъютантомъ</l>
       <l>прогонныя деньги 119 руб. 52 коп. <placeName ref="Витебск">Витебскъ</placeName></l>
       <l><date when="1828-03-17">Марта „17„ дня 1828 года</date>.</l>
