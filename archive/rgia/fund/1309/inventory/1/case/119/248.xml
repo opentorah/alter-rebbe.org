@@ -12,15 +12,15 @@
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb missing="true" n="248-1"/>
+    <pb n="248-1" missing="true"/>
     <pb n="248-2"/>
-    <fw place="left" type="note">Копія</fw>
+    <fw type="note" place="left">Копія</fw>
     <head>
       <l>Бабиновецкаго Нижняго земскаго суда</l>
       <l>откритой Листъ:</l>
     </head>
     <p>
-      <fw place="left margin" type="note"><fw type="docNum">№ 282<hi rend="superscript">й</hi></fw></fw>
+      <fw type="note" place="left margin"><fw type="docNum">№ 282<hi rend="superscript">й</hi></fw></fw>
       <l>По указу Его императорскаго величества</l>
       <l>Данъ сей <placeName ref="Могилевская_губерния">могилевской губерніи</placeName> местечка</l>
       <l><placeName ref="Ляды">Лядовъ</placeName> еврею рабину <persName ref="alter-rebbe">Зельману шнѣеру</persName>
@@ -50,7 +50,7 @@
       <l>ной отъ военнаго министра для</l>
       <l>устройства порядковъ части</l>
       <l>кавалеръ <persName ref="Левицкий">левицкій</persName></l>
-      <fw place="right margin" type="note">М: П:</fw><note place="end">"Место печати", сама печать отсутствует</note>
+      <fw type="note" place="right margin">М: П:</fw><note place="end">"Место печати", сама печать отсутствует</note>
     </p>
     <p>
       <l><date when="1812-10-22">1812<hi rend="superscript">го</hi> года октября 22<hi rend="superscript">го</hi> дня
@@ -61,7 +61,7 @@
     </p>
     <p>
       <l><head>Свидетельства</head></l>
-      <fw place="left margin" type="note"><fw type="docNum">№ 2575<hi rend="superscript">й</hi></fw></fw>
+      <fw type="note" place="left margin"><fw type="docNum">№ 2575<hi rend="superscript">й</hi></fw></fw>
       <l>Объявитель сего <placeName ref="Могилевская_губерния">могилевской губерніи</placeName> местеч-</l>
       <l>ка <placeName ref="Ляды">Лядовъ</placeName> еврей рабинъ <persName ref="alter-rebbe">Зальманъ шнѣеровъ
       </persName></l>
@@ -70,7 +70,7 @@
       <l>ству доказанную откритіемъ места нахо</l>
       <l>жденія неприятельскихъ войскъ имели отъ</l>
       <pb n="249-1"/>
-      <fw place="right" type="pageNum">249</fw>
+      <fw type="pageNum" place="right">249</fw>
       <l>отъ господина командовавшаго въ красномъ от-</l>
       <l>рядомъ войскъ господина генералъ майора <persName ref="Неверовский">Не-<lb/>
        вѣровскаго</persName> видъ дозволяющій слѣдовать внутрь</l>
@@ -83,7 +83,7 @@
       </date> Съ подлинном</l>
       <l>подписано тако Смоленскій губернаторъ Ашъ</l>
     </p>
-    <fw place="right margin" type="note">М: П:</fw><note place="end">"Место печати", сама печать отсутствует</note>
+    <fw type="note" place="right margin">М: П:</fw><note place="end">"Место печати", сама печать отсутствует</note>
     <p>
       <l>1812<hi rend="superscript">го</hi> года августа 14<hi rend="superscript">го</hi> дня сей откритой листъ</l>
       <l>отъ проезжающаго чрезъ <choice><sic>Жатскъ</sic><corr>Гжатскъ</corr></choice> еврея рабина</l>
@@ -102,7 +102,7 @@
       <l>ческомъ правленіи явленъ городничій <unclear>Пысервскій</unclear></l>
     </p>
     <p>
-      <fw place="right margin" type="note"><unclear>Копія</unclear></fw>
+      <fw type="note" place="right margin"><unclear>Копія</unclear></fw>
       <l><date when="1812-08-23">1812<hi rend="superscript">го</hi> года августа 23<hi rend="superscript">го</hi> дня
       </date> сіе свидетельство ра-</l>
       <l>туши Сергіевскаго посада по части полиціи во время</l>
@@ -130,7 +130,7 @@
       <l>копіи Городничій Зиверъ.</l>
     </p>
     <pb n="249-2"/>
-    <fw place="left" type="note">Копія</fw>
+    <fw type="note" place="left">Копія</fw>
     <p>
       <l><date when="1812-10-06">1812<hi rend="superscript">го</hi> года октября 6<hi rend="superscript">го</hi> дня
       </date> сіе свидетельство</l>
@@ -166,7 +166,7 @@
     <l>свидетельствуетъ на подлинномъ подписано</l>
     <l>тако Заседатель Круковичъ Секретарь шведовъ</l>
     <l>Свидетельствовалъ секретарь <signed>шведовъ</signed></l>
-    <fw place="left margin" type="note">М: П:</fw><note place="end">"Место печати", сама печать отсутствует</note>
+    <fw type="note" place="left margin">М: П:</fw><note place="end">"Место печати", сама печать отсутствует</note>
     <l>Съ подлиннимъ верно канцеляристъ <signed><unclear>???</unclear></signed></l>
   </body></text>
 </TEI>

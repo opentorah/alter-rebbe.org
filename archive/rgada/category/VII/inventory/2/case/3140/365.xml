@@ -15,10 +15,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="365-1"/>
-    <fw place="left" type="docNum">№ 1837.</fw>
+    <fw type="docNum" place="left">№ 1837.</fw>
     <date when="1800-12-24">24 декабря 1800</date>
-    <fw place="right" type="note">Секретно</fw>
-    <fw place="right" type="pageNum">365</fw><note place="end">номер записан чернилами</note>
+    <fw type="note" place="right">Секретно</fw>
+    <fw type="pageNum" place="right">365</fw><note place="end">номер записан чернилами</note>
     <p>
       <l><salute>Милостивый Государь<lb/>
          <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</salute></l>

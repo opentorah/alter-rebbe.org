@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="255-1"/>
-    <fw place="right" type="pageNum">255</fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="pageNum" place="right">255</fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>B:</head>
     <table>
       <row>
@@ -99,8 +99,8 @@
         </p></cell>
       </row>
       <pb n="256-1"/>
-      <fw place="right" type="pageNum">256.</fw>
-      <fw place="left margin" type="note">Па</fw>
+      <fw type="pageNum" place="right">256.</fw>
+      <fw type="note" place="left margin">Па</fw>
       <row>
         <cell><unclear>???</unclear><note place="end">Текст на иврите</note></cell>
         <cell><p>
@@ -178,8 +178,8 @@
       </row>
     </table>
     <pb n="257-1"/>
-    <fw place="right" type="pageNum">257</fw>
-    <fw place="left margin" type="note">велъ</fw>
+    <fw type="pageNum" place="right">257</fw>
+    <fw type="note" place="left margin">велъ</fw>
     <p>
       <l>Pisarz kahalny ma za akceptować wszystkie baspieczęstwo Srogie</l>
       <l>które podawać będzie pomieniony kupiciel y następca iego bądź</l>
@@ -197,6 +197,6 @@
       <l>z Autentykiem poswiadczam <persName ref="Еремиаш_Нохимович">Jeremiasz Nochimowicz</persName></l>
       <l>Syndyk <orgName ref="Виленский_кагал">Kahału Wilen<note place="end">Wilenskiego</note></orgName></l>
     </p>
-    <pb empty="true" missing="true" n="257-2"/>
+    <pb n="257-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

@@ -20,11 +20,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="384-1"/>
-    <fw place="left" type="docNum">№ 154</fw>
+    <fw type="docNum" place="left">№ 154</fw>
     <fw type="note">Полученъ <date when="1800-03-07">7<hi rend="superscript">го</hi> марта 1800<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw place="right" type="pageNum">384</fw>
-    <fw place="left margin" type="note">Па</fw>
+    <fw type="pageNum" place="right">384</fw>
+    <fw type="note" place="left margin">Па</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Litewskiego Nadwornego Sądu</orgName></l>
@@ -69,10 +69,10 @@
       <l>rę dać można było, a Magistrat kiedy Ƶydow w tym Mieście ży-</l>
       <l>iących którzyby niebyli w związku lub pokrewieństwie z Kahalnemi</l>
       <unclear><signed>???</signed></unclear><note place="end">роспись канцеляриста</note>
-      <fw place="lower margin" type="note">Cлуш: <date when="1800-03-12">12<hi rend="superscript">го</hi> марта</date>
+      <fw type="note" place="lower margin">Cлуш: <date when="1800-03-12">12<hi rend="superscript">го</hi> марта</date>
       </fw>
       <pb n="384-2"/>
-      <fw place="right margin" type="note">Се-</fw>
+      <fw type="note" place="right margin">Се-</fw>
       <l>z Kahalnemi, Duchownemi y Karolinami niezna, y dla tego kie-</l>
       <l>dy ukończyć Dzieła poruczonego niemoże – Zatem o tem Ni-</l>
       <l>nieyszym Rapportem Sądowi donosząc, y <orgName ref="Виленский_кагал">Kahału</orgName> tuteyszego</l>
@@ -86,6 +86,6 @@
     </p>
     <l><signed><persName>Franciszek Sidorowicz</persName><lb/>
      <placeName ref="Вильна">MW<note place="end">Miasta Wilna</note></placeName> Regent</signed></l>
-    <fw place="lower margin" type="note"><fw type="docNum">№ 252</fw></fw>
+    <fw type="note" place="lower margin"><fw type="docNum">№ 252</fw></fw>
   </body></text>
 </TEI>

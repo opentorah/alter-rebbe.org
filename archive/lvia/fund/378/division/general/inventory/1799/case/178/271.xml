@@ -17,11 +17,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="271-1"/>
-    <fw place="left" type="docNum">№ 814</fw>
+    <fw type="docNum" place="left">№ 814</fw>
     <fw type="note">Полученъ <date when="1799-10-13">13<hi rend="superscript">го</hi> октября 1799<hi rend="superscript"
     >го</hi> года</date> Записавъ приобщить къ дѣлу.</fw>
-    <fw place="right" type="pageNum">271.</fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="pageNum" place="right">271.</fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Litewskiego Gubernskiego Nadwornego Sądu</orgName></l>
@@ -51,7 +51,7 @@
       <l><signed>Kazimierz Sidorowicz<lb/>
        MW<note place="end">Miasta Wilna</note> Regent</signed></l>
     </p>
-    <fw place="left margin" type="note"><fw type="docNum">Nr 739</fw></fw>
-    <pb empty="true" missing="true" n="271-2"/>
+    <fw type="note" place="left margin"><fw type="docNum">Nr 739</fw></fw>
+    <pb n="271-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

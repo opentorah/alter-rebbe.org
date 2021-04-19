@@ -10,9 +10,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="1019-1"/>
-    <fw place="left" type="note"><emph rend="underline">Копія</emph></fw>
-    <fw place="right" type="pageNum">1019</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">1264</del></fw>
+    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
+    <fw type="pageNum" place="right">1019</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">1264</del></fw>
     <head>
       <l>Выписки</l>
       <l>изъ доставленныхъ въ <placeName ref="Вильна">виленскую</placeName> цензуру отъ разныхъ мѣстъ</l>
@@ -55,7 +55,7 @@
     <pb n="1019-2"/>
     <pb n="1020-1"/>
     <pb n="1020-2"/>
-    <fw place="left" type="pageNum">1.020 об</fw>
+    <fw type="pageNum" place="left">1.020 об</fw>
     <p>
       <l>или другія таможни, гдѣ пропускъ книгъ позволенъ,</l>
       <l>но въ оныхъ не будутъ разсматриваемы, а при</l>
@@ -93,8 +93,8 @@
       <l>людать тѣ же самыя правила и въ разсужденіи приво-</l>
       <l>зимыхъ книгъ изъ чужихъ краевъ, такъ что никакая</l>
       <pb n="1021-1"/>
-      <fw place="right" type="pageNum">1.021</fw>
-      <fw place="right" type="pageNum"><del rend="overstrike">1266.</del></fw>
+      <fw type="pageNum" place="right">1.021</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">1266.</del></fw>
       <l>книга не можетъ быть ввезена безъ подробнаго</l>
       <l><hi rend="superscript">отъ ценсуры</hi> осмотра, подвергая сожженію тѣ изъ нихъ,</l>
       <l>кои найдутся <sic>притивными</sic> закону божію, вер-</l>
@@ -138,7 +138,7 @@
       <l>разсмотрѣнія въ <placeName ref="Рига">Рижскую</placeName> ценсуру не въ пакетахъ, но книгами</l>
     </p>
     <pb n="1021-2"/>
-    <fw place="left" type="pageNum">1021 об</fw>
+    <fw type="pageNum" place="left">1021 об</fw>
     <p>
       <l>Предписанія Генерала Прокурора князя <persName>Куракина</persName>:</l>
       <l>2<hi rend="superscript">е</hi> отъ <date when="1797-07-04">4<hi rend="superscript">го</hi> Іюля 1797
@@ -190,8 +190,8 @@
     <p>
       <l>9<hi rend="superscript">е</hi> Въ сообщеніи изъ Московской въ рижскую ценсуру</l>
       <pb n="1022-1"/>
-      <fw place="right" type="pageNum">1022</fw>
-      <fw place="right" type="pageNum"><del rend="overstrike">1267.</del></fw>
+      <fw type="pageNum" place="right">1022</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">1267.</del></fw>
       <l>отъ <date when="1798-01-18">18<hi rend="superscript">го</hi> генваря 1798. года</date> прописано слѣдую-</l>
       <l>щее высочайшее повелѣніе: „впредь каталоги</l>
       <l>о книгахъ не пропускать безъ разсматриванія</l>
@@ -226,7 +226,7 @@
       <l>гербовой бумагѣ и по законамъ точно такъ</l>
       <l>какъ и въ другія присутственныя мѣста.</l>
       <pb n="1022-2"/>
-      <fw place="left" type="pageNum">1022 об</fw>
+      <fw type="pageNum" place="left">1022 об</fw>
       <l>4<hi rend="superscript">е</hi> Свидѣтельства отъ ценсуры даваемыя, прошенія</l>
       <l>отъ книжнихъ хозяевъ и типографщиковъ, сооб-</l>
       <l>щеніи изъ присутственныхъ мѣстъ и таможенъ</l>
@@ -267,8 +267,8 @@
        маія 1798<hi rend="superscript">го</hi></date>: „Его императорскому величеству</l>
       <l>благоугодно, чтобы всѣ театральныя піесы</l>
       <pb n="1023-1"/>
-      <fw place="right" type="pageNum">1023</fw>
-      <fw place="right" type="pageNum"><del rend="overstrike">1268</del></fw>
+      <fw type="pageNum" place="right">1023</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">1268</del></fw>
       <l>входящія на россійскомъ языкѣ были прочи-</l>
       <l>таемы статс-секретаремъ <persName>Неледанскимъ-<lb/>
        Мелецкимъ</persName><note place="end">Нелединский-Милецкий – статс-секретарь <persName ref="Павел_I">Павла
@@ -313,7 +313,7 @@
       <l>и не сдѣлавъ оной католога._</l>
     </p>
     <pb n="1023-2"/>
-    <fw place="left" type="pageNum">1023 об</fw>
+    <fw type="pageNum" place="left">1023 об</fw>
     <p>
       <l>Чтобъ при вскрытіи кипъ не только книги,</l>
       <l>тетради, но и всякія находящіяся тутъ бумаги</l>
@@ -351,8 +351,8 @@
       <l>караблей, на коихъ привезены будутъ запрещен-</l>
       <l>ныя книги, корабельщиковъ и тѣхъ, къ кому</l>
       <pb n="1024-1"/>
-      <fw place="right" type="pageNum">1024</fw>
-      <fw place="right" type="pageNum"><del rend="overstrike">1269.</del></fw>
+      <fw type="pageNum" place="right">1024</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">1269.</del></fw>
       <l>оныя адресованы, и испросить повелѣніе.</l>
       <l>А какъ на представленіе <placeName>Лифляндскаго</placeName></l>
       <l>генерала губернатора <persName>Нагеля</persName> воспослѣдо-</l>
@@ -388,6 +388,6 @@
       <l>жащаго таможнямъ предписанія сообщено</l>
       <l>отъ меня президенту коммерц-кольлегіи</l>
     </p>
-    <pb missing="true" n="1024-2"/>
+    <pb n="1024-2" missing="true"/>
   </body></text>
 </TEI>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection alias="dubnov" directory="dubnov" pageType="book">
-  <name lang="ru" n="Дубнов"/>
-  <name lang="en" n="dubnov"/>
+<collection pageType="book" alias="dubnov" directory="dubnov">
+  <name n="Дубнов" lang="ru"/>
+  <name n="dubnov" lang="en"/>
   <title xmlns="http://www.tei-c.org/ns/1.0">"Вмешательство русского правительства в антихасидскую борьбу"</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0">Анализ материалов второго ареста опубликован в книге "Еврейская
   старина", том 3, Еврейское И.-Э. общество, <persName ref="Дубнов">С. М. Дубнов</persName>, ISBN-10(13), С.-Петербург,
@@ -12,6 +12,6 @@
     скопированы из дела 3-го департамента Сената, I отд. за 1800-1801 гг. (№№ 328 и <ref target="/rgia413">413</ref>)
     (см. сноску в <ref target="/dubnov/263.2">263.2</ref>).
   </p></body>
-  <part from="084" n="1"><title xmlns="http://www.tei-c.org/ns/1.0">Материалы, документы и сообщения</title></part>
-  <part from="253.1" n="2"><title xmlns="http://www.tei-c.org/ns/1.0">Окончаниe</title></part>
+  <part n="1" from="084"><title xmlns="http://www.tei-c.org/ns/1.0">Материалы, документы и сообщения</title></part>
+  <part n="2" from="253.1"><title xmlns="http://www.tei-c.org/ns/1.0">Окончаниe</title></part>
 </collection>

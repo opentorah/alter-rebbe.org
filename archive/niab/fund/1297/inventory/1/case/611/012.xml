@@ -16,12 +16,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="012-1"/>
-    <fw place="right" type="pageNum">12</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">13</del>.</fw>
+    <fw type="pageNum" place="right">12</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">13</del>.</fw>
     <fw type="docNum">№ 9379.</fw>
-    <fw place="right" type="note"><date when="1825-10-17">17<hi rend="superscript">го</hi> октября 1825</date>.</fw>
-    <fw place="left margin" type="note">Се-</fw>
-    <fw place="left margin" type="note">Къ свѣденію и дѣлу</fw>
+    <fw type="note" place="right"><date when="1825-10-17">17<hi rend="superscript">го</hi> октября 1825</date>.</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <fw type="note" place="left margin">Къ свѣденію и дѣлу</fw>
     <head>
       <l><emph rend="big">Его Сіятельству</emph></l>
       <l>Господину генералъ губернатору витеб-</l>
@@ -42,7 +42,7 @@
       <l>изъ собственныхъ на прогоны деньги адъю-</l>
       <l>тантомъ Вашего <emph rend="big">Сїятельства</emph></l>
       <pb n="012-2"/>
-      <fw place="right" type="pageNum">12 об<note place="end">номер проставлен карандашом после помещения дела в
+      <fw type="pageNum" place="right">12 об<note place="end">номер проставлен карандашом после помещения дела в
       архив</note></fw>
       <l>лейбъ-гвардїи поручикомъ <persName>Чевкинымъ</persName> по-</l>
       <l>командировкѣ его вмѣстѣ съ частнымъ приста-</l>

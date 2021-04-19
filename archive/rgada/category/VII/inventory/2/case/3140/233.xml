@@ -13,8 +13,8 @@
   <text xml:lang="ru"><body>
     <pb n="233-1"/>
     <fw type="docNum">№ 29.</fw>
-    <fw place="right" type="pageNum">233</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">235</del></fw>
+    <fw type="pageNum" place="right">233</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">235</del></fw>
     <head>
       <l>Щетъ</l>
       <l>отправленныхъ <choice><sic>о</sic><corr>отъ</corr></choice> <placeName ref="Видзы">Видзскихъ</placeName>
@@ -221,7 +221,7 @@
       </row>
     </table>
     <pb n="233-2"/>
-    <fw place="right" type="pageNum">233 об.</fw>
+    <fw type="pageNum" place="right">233 об.</fw>
     <table rendition="rgada-233-table">
       <row>
         <cell/>

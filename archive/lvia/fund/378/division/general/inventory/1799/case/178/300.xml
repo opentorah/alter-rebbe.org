@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="300-1"/>
-    <fw place="left" type="docNum">№ 835</fw>
+    <fw type="docNum" place="left">№ 835</fw>
     <fw type="note">Пол.<note place="end">получено</note> <date when="1799-10-24">24<hi rend="superscript">го</hi>
     октября 1799 года</date></fw>
-    <fw place="right" type="pageNum">300</fw>
-    <fw place="left margin" type="note">кій</fw>
+    <fw type="pageNum" place="right">300</fw>
+    <fw type="note" place="left margin">кій</fw>
     <head>
       <l><orgName ref="Литовский_надворный_суд">Литовскому Губернскому Nадворному Суду</orgName>.</l>
       <l><orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго правленія</orgName></l>
@@ -80,8 +80,8 @@
       <l>въ прозванїяхъ изъясненныхъ имъ въ до-</l>
       <l>казательствахъ своихъ свидѣтелей, а видно</l>
       <pb n="301-1"/>
-      <fw place="right" type="pageNum">301</fw>
-      <fw place="left margin" type="note">Се</fw>
+      <fw type="pageNum" place="right">301</fw>
+      <fw type="note" place="left margin">Се</fw>
       <l>что и сихъ не могъ онъ согласить ни лѣстїю,</l>
       <l>ни страхомъ хейрима и черною книгою</l>
       <l>къ толь беззаконному свидѣтельствованїю,</l>
@@ -106,6 +106,6 @@
     </p>
     <closer place="left"><l><date when="1799-10-24">Октября 24 дня<lb/>
      1799 года</date>.</l></closer>
-    <pb empty="true" missing="true" n="301-2"/>
+    <pb n="301-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

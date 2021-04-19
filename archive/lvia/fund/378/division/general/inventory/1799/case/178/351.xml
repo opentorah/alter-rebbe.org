@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="351-1"/>
-    <fw place="right" type="pageNum">351</fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="pageNum" place="right">351</fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>
       <l><date when="1800-01-27">1800 года генваря „27„ дня</date> въ присудствїи</l>
       <l><orgName ref="Литовский_надворный_суд">Литовскаго Надворнаго Суда</orgName> наименованный быв-</l>
@@ -37,6 +37,6 @@
       <l>сущей справедливости безъ</l>
       <l>вской утайки. <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
     </p>
-    <pb empty="true" missing="true" n="351-2"/>
+    <pb n="351-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

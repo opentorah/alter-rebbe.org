@@ -17,9 +17,9 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="112-1"/>
-    <fw place="left" type="docNum">№ 10</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">9</del></fw>
-    <fw place="right" type="pageNum">112</fw>
+    <fw type="docNum" place="left">№ 10</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">9</del></fw>
+    <fw type="pageNum" place="right">112</fw>
     <p>
       <l>Zowią mnie <persName ref="Михель_Файбишович">michelem Fajbiszowiczem</persName></l>
       <l>od urodzenia mam Lat 20 bawięsię</l>

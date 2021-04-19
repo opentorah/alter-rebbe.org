@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="378-1"/>
-    <fw place="right" type="pageNum">378.</fw>
-    <fw place="left margin" type="note">Ис-</fw>
+    <fw type="pageNum" place="right">378.</fw>
+    <fw type="note" place="left margin">Ис-</fw>
     <head>
       <l><date when="1800-03-02">1800<hi rend="superscript">го</hi> года марта 2<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -47,6 +47,6 @@
     </p>
     <fw type="note">исполнено <date when="1800-03-06">6 марта</date> <fw type="docNum">№ 78</fw></fw><note place="end"
     >пометка на нижнем поле страницы</note>
-    <pb empty="true" missing="true" n="378-2"/>
+    <pb n="378-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

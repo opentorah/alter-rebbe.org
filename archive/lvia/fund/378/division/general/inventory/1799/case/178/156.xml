@@ -20,10 +20,10 @@
   <text xml:lang="pl"><body>
     <pb n="156-1"/>
     <fw type="docNum">N 325</fw>
-    <fw place="left" type="note">Подано 23<hi rend="superscript">го</hi> маiя 1799<hi rend="superscript">го</hi>
+    <fw type="note" place="left">Подано 23<hi rend="superscript">го</hi> маiя 1799<hi rend="superscript">го</hi>
     года</fw>
-    <fw place="right" type="pageNum">156.</fw>
-    <fw place="left margin" type="note">Се-</fw>
+    <fw type="pageNum" place="right">156.</fw>
+    <fw type="note" place="left margin">Се-</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
@@ -57,6 +57,6 @@
        1799 Roku</date></l>
       <l>Cлуш: <date when="1799-05-24">24<hi rend="superscript">гo</hi> маія</date></l>
     </closer>
-    <pb empty="true" missing="true" n="156-2"/>
+    <pb n="156-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

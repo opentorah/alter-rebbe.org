@@ -15,14 +15,14 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="009-1"/>
-    <fw place="right" type="pageNum">9.</fw>
+    <fw type="pageNum" place="right">9.</fw>
     <opener place="right">
       <l><fw type="note">III Отдѣленіе</fw></l>
       <l><date when="1825-10-16">16<hi rend="superscript">го</hi> октября 1825</date></l>
       <l><fw type="docNum">№ 5150.</fw></l>
       <l><placeName ref="Витебск">Витебскъ</placeName>.</l>
     </opener>
-    <fw place="left" type="note"><persName>Логинову</persName> и <persName>Маркову</persName>.</fw>
+    <fw type="note" place="left"><persName>Логинову</persName> и <persName>Маркову</persName>.</fw>
     <p>
       <l>Назначеннный мною для совмѣстнаго съ вами произведенія</l>
       <l>слѣдствія надъ раввиномъ касательно непозволительнаго</l>
@@ -36,7 +36,7 @@
       <l>настоящую истинну; <note type="gloss">|: и о семъ распоряженіи моемъ<lb/>
        г. <persName>Морозову</persName> объявить. :|</note></l>
     </p>
-    <fw place="left margin" type="note">по</fw>
-    <pb missing="true" n="009-2"/>
+    <fw type="note" place="left margin">по</fw>
+    <pb n="009-2" missing="true"/>
   </body></text>
 </TEI>

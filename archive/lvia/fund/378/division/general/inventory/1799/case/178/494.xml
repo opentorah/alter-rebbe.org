@@ -15,10 +15,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="494-1"/>
-    <fw place="left" type="note">Копія</fw>
-    <fw place="right" type="pageNum">494</fw>
-    <fw place="left margin" type="note">Се-</fw>
-    <fw place="right margin" type="note">Се-</fw>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">494</fw>
+    <fw type="note" place="left margin">Се-</fw>
+    <fw type="note" place="right margin">Се-</fw>
     <head>
       <l>Отъ литовскаго <persName ref="Лассий">генералъ губернатора</persName></l>
       <l><orgName ref="Литовское_губернское_правление">Литовскому Губернскому Правленїю</orgName></l>
@@ -45,6 +45,6 @@
       <l><date when="1799-02-04">Февраля 4 дня<lb/>
        1799</date>.</l>
     </closer>
-    <pb empty="true" missing="true" n="494-2"/>
+    <pb n="494-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

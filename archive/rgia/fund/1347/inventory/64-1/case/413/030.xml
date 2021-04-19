@@ -15,9 +15,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="030-1"/>
-    <fw place="left" type="docNum">№497</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">40</del></fw>
-    <fw place="right" type="pageNum">30</fw>
+    <fw type="docNum" place="left">№497</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">40</del></fw>
+    <fw type="pageNum" place="right">30</fw>
     <fw type="note">Подана <date when="1799-03-21">21 марта 1799 года</date></fw>
     <p><emph rend="big">
         <l>Всепресвѣтлейшій державнѣйшій великій</l>
@@ -30,7 +30,7 @@
       <l><persName ref="Мовша_Ошерович">Мовша Ошеровичъ</persName>, а о чемъ тому слѣдуютъ пункты.</l>
     </p>
     <p>
-      <fw place="center" type="paragraph">1<hi rend="superscript">е</hi></fw>
+      <fw type="paragraph" place="center">1<hi rend="superscript">е</hi></fw>
       <l>По поданному отъ меня прошлаго <date when="1799-02-09">февраля 9<hi rend="superscript">го</hi> числа</date> въ
       <orgName ref="Литовское_губернское_правление">Литовское Губернское<lb/>
        правлѣніе</orgName> прошенію, коимъ просилъ я о пришествіи въ школу Г<hi rend="superscript">на</hi> Совѣтника
@@ -51,7 +51,7 @@
       <l>торымъ же допросы, которые показали разнообразно.</l>
     </p>
     <p>
-      <fw place="center" type="paragraph">2<hi rend="superscript">е</hi></fw>
+      <fw type="paragraph" place="center">2<hi rend="superscript">е</hi></fw>
       <fw type="note">???<note place="end">слово на иврите</note></fw>
       <l>Я яко Старшій и повѣренный уничтоженнаго <orgName ref="Виленский_кагал">кагала виленскаго</orgName> и духовнаго
       </l>

@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="262-1"/>
-    <fw place="left" type="note">Копія</fw>
-    <fw place="right" type="pageNum">262</fw><note place="end">исправлена запись "261"</note>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">262</fw><note place="end">исправлена запись "261"</note>
     <head>
       <l>Предложенїе</l>
       <l>Дѣйствительнаго Статскаго Совѣтника <placeName ref="Литва">Литовскаго</placeName></l>
@@ -56,7 +56,7 @@
       <l>немаловажными следствїями заниматься безъ сумненїя</l>
       <l>крайнѣ обремѣнительно, а съ другой само по сѣбѣ явствуетъ</l>
       <pb n="262-2"/>
-      <fw place="left" type="pageNum">262 об</fw>
+      <fw type="pageNum" place="left">262 об</fw>
       <l>что нетъ возможности г<hi rend="superscript">ну</hi> совѣтнику <persName ref="Елиашевич">Елїашевичу</persName>
       при всей</l>
       <l>его дѣятельности произъвѣсти оныя съ желаемымъ</l>
@@ -87,8 +87,8 @@
       <l>отрешенныхъ старшинъ, а двухъ другихъ назна</l>
       <l>чить изъ нынешнихъ кагальныхъ старшинъ</l>
       <pb n="263-1"/>
-      <fw place="right" type="pageNum">263</fw>
-      <fw place="right" type="pageNum"><del rend="overstrike">264</del></fw>
+      <fw type="pageNum" place="right">263</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">264</del></fw>
       <l>болѣе же ни кого изъ постороннихъ евреевъ къ то-</l>
       <l>му не употреблять._ подлинное подписано <persName ref="Фризель">Иванъ<lb/>
        Фризель</persName></l>
@@ -98,6 +98,6 @@
       <l><date when="1799-07-19">19<hi rend="superscript">го</hi> июля<lb/>
        1799<hi rend="superscript">го</hi> года</date></l>
     </closer>
-    <pb empty="true" missing="true" n="263-2"/>
+    <pb n="263-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

@@ -17,10 +17,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="257-1"/>
-    <fw place="right" type="pageNum">257</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">444</del></fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">265</del></fw>
-    <p><fw place="left margin" type="note">
+    <fw type="pageNum" place="right">257</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">444</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">265</del></fw>
+    <p><fw type="note" place="left margin">
         <head><l>О евреи Хаимѣ.</l></head>
         <l>высочайше</l>
         <l>повелено</l>
@@ -74,7 +74,7 @@
     <l>что <orgName ref="Хасиды">секта</orgName> сiя нечто иное есть</l>
     <l>какъ старинный обрядъ Шадимского</l>
     <pb n="257-2"/>
-    <fw place="left" type="pageNum">2578 об.</fw>
+    <fw type="pageNum" place="left">2578 об.</fw>
     <l>моленія съ величайшимъ иступле</l>
     <l>ніемъ, основаннаго на библіи, тал-</l>
     <l>мудѣ, кабалистикѣ и нравстве-</l>
@@ -105,8 +105,8 @@
     <l>вѣтѣ на отношеніе генералъ про-</l>
     <l>курора подтверждаетъ все вышеозна</l>
     <pb n="258-1"/>
-    <fw place="right" type="pageNum">258</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">265</del></fw>
+    <fw type="pageNum" place="right">258</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">265</del></fw>
     <l>ченное до существа той <orgName ref="Хасиды">секты</orgName> ка-</l>
     <l>сающееся, присовокупляя, что пре-</l>
     <l>тензiи <persName ref="Авигдор">Хаима</persName> суть слѣдующiе:</l>
@@ -137,7 +137,7 @@
     <l>венныя подати платятъ равно</l>
     <l>съ другими. 2.<hi rend="superscript">е</hi> что по отрѣшенiи</l>
     <pb n="258-2"/>
-    <fw place="left" type="pageNum">258 об.</fw>
+    <fw type="pageNum" place="left">258 об.</fw>
     <l/>
     <l>Его <persName ref="Авигдор">хаима</persName> отъ оберъ рабинства</l>
     <l>надъ тридцатью городами считаетъ</l>

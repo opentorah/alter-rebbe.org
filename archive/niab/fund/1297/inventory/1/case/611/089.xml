@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="089-1"/>
-    <fw place="left" type="docNum">№ 2972.</fw>
-    <fw place="right" type="note"><date when="1826-04-07">7<hi rend="superscript">го</hi> апрѣля 1826</date>.</fw>
-    <fw place="right" type="pageNum">89.</fw>
-    <fw place="left margin" type="note">Къ свѣденію</fw>
-    <fw place="left margin" type="note"><signed><unclear>???</unclear></signed><note place="end">подпись
+    <fw type="docNum" place="left">№ 2972.</fw>
+    <fw type="note" place="right"><date when="1826-04-07">7<hi rend="superscript">го</hi> апрѣля 1826</date>.</fw>
+    <fw type="pageNum" place="right">89.</fw>
+    <fw type="note" place="left margin">Къ свѣденію</fw>
+    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
     секретаря</note></fw>
     <head>
       <l><emph rend="big">Его Сїятельству!</emph></l>
@@ -54,6 +54,6 @@
       <l><signed>Уѣздный стряпчій <persName>Киликовскій</persName></signed></l>
     </p>
     <pb n="089a-1"/>
-    <pb missing="true" n="089-2"/>
+    <pb n="089-2" missing="true"/>
   </body></text>
 </TEI>

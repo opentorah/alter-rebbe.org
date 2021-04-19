@@ -15,12 +15,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="074-1"/>
-    <fw place="right" type="pageNum">74</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">75</del>.</fw>
-    <fw place="left margin" type="note">По</fw>
-    <fw place="left margin" type="note">Къ свѣденію.</fw>
-    <fw place="left" type="docNum">№ 1350.</fw>
-    <fw place="right" type="note"><date when="1826-02-13">13 февраля 1826</date>.</fw>
+    <fw type="pageNum" place="right">74</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">75</del>.</fw>
+    <fw type="note" place="left margin">По</fw>
+    <fw type="note" place="left margin">Къ свѣденію.</fw>
+    <fw type="docNum" place="left">№ 1350.</fw>
+    <fw type="note" place="right"><date when="1826-02-13">13 февраля 1826</date>.</fw>
     <head>
       <l><emph rend="big">Его Сїятельству</emph></l>
       <l>Господину генералъ губернатору витебскому</l>
@@ -47,7 +47,7 @@
       <l>число и всего двойныхъ прогоновъ 60<note place="end">приведен надстрочный символический знак рубля</note> 40<hi
       rend="superscript">ко</hi></l>
       <pb n="074-2"/>
-      <fw place="right" type="pageNum">74<hi rend="superscript">об</hi><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right">74<hi rend="superscript">об</hi><note place="end">номер записан карандашом</note>
       </fw>
       <l>предписала витебскому уѣздному казначею</l>
       <l>выдать подъ росписку означеннаго частнаго</l>

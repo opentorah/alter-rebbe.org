@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="335-1"/>
-    <fw place="right" type="pageNum">335</fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="pageNum" place="right">335</fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>
       <l><date when="1800-01-10">1800 года генваря 10<hi rend="superscript">го</hi> дня</date> въ Журналѣ <orgName ref=
       "Литовский_надворный_суд">Литов-<lb/>
@@ -78,8 +78,8 @@
       <l>увѣдомить коль можно скорѣе. Причемъ не оставилъ</l>
       <l>бы онъ господинъ плацъ маіоръ дать своего приказанія</l>
       <pb n="336-1"/>
-      <fw place="right" type="pageNum">336.</fw>
-      <fw place="left margin" type="note">Па</fw>
+      <fw type="pageNum" place="right">336.</fw>
+      <fw type="note" place="left margin">Па</fw>
       <l>о учиненіи выправки и о томъ, точно ли и <persName>Лейбы Да-<lb/>
        выдовичи</persName> живутъ въ домахъ подъ №<hi rend="superscript">ми</hi> 205<hi rend="superscript">м</hi> 233<hi
       rend="superscript">м</hi></l>
@@ -90,6 +90,6 @@
       >и</hi></fw></fw><note place="end">пометка ниже текста выписки из журнала сделана другим почерком - видимо, Павла
       Искрицкого</note></l>
     </p>
-    <pb empty="true" missing="true" n="336-2"/>
+    <pb n="336-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

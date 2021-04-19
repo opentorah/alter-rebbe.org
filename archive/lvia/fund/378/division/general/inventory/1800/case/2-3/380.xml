@@ -14,7 +14,7 @@
     </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
-    <pb missing="true" n="380-1"/>
+    <pb n="380-1" missing="true"/>
     <pb n="380-2"/>
     <l>Уріашу Юделевичу.</l>
     <l><persName ref="Шимель_Абелевич">Шимелю Абелевичу</persName>.</l>
@@ -22,8 +22,8 @@
     <l>Ицковичу<note place="end">Шмуйло Ицковичу</note> арендовавшему въ 1797<hi rend="superscript">м</hi> году до-</l>
     <l>имку рекрутскихъ складочныхъ денегъ._</l>
     <pb n="381-1"/>
-    <fw place="right" type="pageNum">381</fw>
-    <fw place="right" type="note"><emph rend="underline">Копїя</emph></fw>
+    <fw type="pageNum" place="right">381</fw>
+    <fw type="note" place="right"><emph rend="underline">Копїя</emph></fw>
     <head>
       <l><emph rend="big">Въ <orgName ref="Литовское_губернское_правление">Литовское Губернское Правленіе</orgName>
       </emph></l>
@@ -33,7 +33,7 @@
       <l>шинъ._</l>
     </head>
     <p>
-      <fw place="left margin" type="note">Сію</fw><note place="end">Начало служебной записи, продолжающейся на нечетных
+      <fw type="note" place="left margin">Сію</fw><note place="end">Начало служебной записи, продолжающейся на нечетных
       страницах и предназначенной для удостоверения подлинности и целостности всех его листов: "Сию/ выписку/ из/ бумаг/
       еврейских/ по переводу/ кагальным/ синдиком/ Еремиашем/ Нохимо/ вичем/ на/ польский/ язык/ сделал/ ?"<note place=
       "end">слово неизвестно, вероятно "Губернский секретарь" - лист пропущен</note>/ Литовской/ губернии/ Иван/
@@ -90,8 +90,8 @@
       <l>ли къ приходу и расходу всѣхъ поступившихъ</l>
       <l>въ 1797<hi rend="superscript">м</hi> и 1798<hi rend="superscript">м</hi> годахъ сборовъ, или были свѣдущи</l>
       <pb n="382-1"/>
-      <fw place="right" type="pageNum">382</fw>
-      <fw place="left margin" type="note">выписку</fw>
+      <fw type="pageNum" place="right">382</fw>
+      <fw type="note" place="left margin">выписку</fw>
       <l>о таковыхъ зборахъ вопросные пункты._</l>
       <l>По каковымъ и спрашиваны во первыхъ кагаль-</l>
       <l>ные школьники кои на здѣланные имъ запро</l>
@@ -155,8 +155,8 @@
     <l>1343. злотыхъ, что утверждается книгою или</l>
     <l>регистромъ писаря <persName ref="Уриаш_Габриелович">Уріаша</persName>, который одинъ</l>
     <pb n="383-1"/>
-    <fw place="right" type="pageNum">383</fw>
-    <fw place="left margin" type="note">изъ</fw>
+    <fw type="pageNum" place="right">383</fw>
+    <fw type="note" place="left margin">изъ</fw>
     <l>только къ сему збору принадлежалъ._ 7<hi rend="superscript">е</hi></l>
     <l>Доходъ за дачу позволенія отправлять богомо-</l>
     <l>леніе въ парафіяхъ за арендовалъ <orgName ref="Виленский_кагал">кагалъ</orgName></l>
@@ -214,8 +214,8 @@
     <l>либо дѣло о томъ, на что оная хазака дана;</l>
     <l>Естили жъ кто сіе преступилъ, то такого</l>
     <pb n="384-1"/>
-    <fw place="right" type="pageNum">384</fw>
-    <fw place="left margin" type="note">бумагъ</fw>
+    <fw type="pageNum" place="right">384</fw>
+    <fw type="note" place="left margin">бумагъ</fw>
     <l>кагалъ и духовной судъ наказываетъ стро-</l>
     <l>жайшимъ образомъ, употребляя къ тому</l>
     <l>тайнаго инстигатора<note place="end">обвинителя, прокурора, по аналогии сгосударственным прокурором в Полььше;
@@ -275,8 +275,8 @@
     <l>гается съ тѣмъ, на кого проклятіе возложено,</l>
     <l>можетъ такожъ всякъ на него дѣлать доносы</l>
     <pb n="385-1"/>
-    <fw place="right" type="pageNum">385</fw>
-    <fw place="left margin" type="note">еврейскихъ</fw>
+    <fw type="pageNum" place="right">385</fw>
+    <fw type="note" place="left margin">еврейскихъ</fw>
     <l>хотя бы ложные и употреблять свидѣтелей</l>
     <l>а даже и присягать противъ таковаго не</l>
     <l>справедливо; по смерти же его не позволяется</l>
@@ -336,8 +336,8 @@
     <l>сываніе тѣхъ обывателей, на которыхъ зборщи</l>
     <l>ки учинили раскладку и оной заключалъ въ себѣ</l>
     <pb n="386-1"/>
-    <fw place="right" type="pageNum">386</fw>
-    <fw place="left margin" type="note">по переводу</fw>
+    <fw type="pageNum" place="right">386</fw>
+    <fw type="note" place="left margin">по переводу</fw>
     <l>сумму 2780<hi rend="superscript">т</hi> рублей; а протчіе таковые ре-</l>
     <l>гистры два находились у зборщиковъ <persName ref="Арон_Беркович">Арона<lb/>
      Берковича</persName>, Михеля Јоселевича Шмуйлы Ицко</l>
@@ -395,8 +395,8 @@
     <l>наго инстыгатора, регистръ же таковой</l>
     <l>складки долженъ находится между бумагами</l>
     <pb n="387-1"/>
-    <fw place="right" type="pageNum">387</fw>
-    <fw place="left margin" type="note">кагальнымъ</fw>
+    <fw type="pageNum" place="right">387</fw>
+    <fw type="note" place="left margin">кагальнымъ</fw>
     <l>писаря <persName ref="Уриаш_Габриелович">Уріаша</persName> и на таковую <choice><sic>сладку</sic><corr
     >складку</corr></choice> была</l>
     <l>кагальная ухвала апробованная сынагогою</l>
@@ -459,8 +459,8 @@
     <l>но той поголовной подати 207,000 злотыхъ.</l>
     <l>22<hi rend="superscript">е</hi> Дѣйствительно какъ и по двумъ книгамъ,</l>
     <pb n="388-1"/>
-    <fw place="right" type="pageNum">388</fw>
-    <fw place="left margin" type="note">сындыкомъ</fw>
+    <fw type="pageNum" place="right">388</fw>
+    <fw type="note" place="left margin">сындыкомъ</fw>
     <l>одной шофарской а другой подъ литерою H.</l>
     <l>Значитъ взялъ <orgName ref="Виленский_кагал">кагалъ</orgName> въ 1798<hi rend="superscript">м</hi> году съ
     кар-</l>
@@ -484,7 +484,7 @@
     <l>зоватся изъ суммы на уплату кагальныхъ</l>
     <l>прежнихъ долговъ <emph rend="underline">ликвидаціею</emph>#<note place="end">отсылка к примечанию на левом поле
     листа</note> назначенной;</l>
-    <fw place="left margin" type="note"><l><note type="gloss">|: судъ назна-<lb/>
+    <fw type="note" place="left margin"><l><note type="gloss">|: судъ назна-<lb/>
      ченный для ис-<lb/>
      численія долговъ :|</note></l></fw>
     <l>что же дѣйствительно вышеозначенная сумма</l>
@@ -528,8 +528,8 @@
     <l>собранныхъ имъ <persName ref="Мовша_Мордохович">мойжешомъ мордуховичемъ</persName></l>
     <l>съ школьникомъ <persName ref="Герцык">Герцыкомъ</persName> по два отъ ста</l>
     <pb n="389-1"/>
-    <fw place="right" type="pageNum">389</fw>
-    <fw place="left margin" type="note">Ереміашемъ</fw>
+    <fw type="pageNum" place="right">389</fw>
+    <fw type="note" place="left margin">Ереміашемъ</fw>
     <l>процентовъ по здѣланной на то ухвалѣ,</l>
     <l>поступило въ <orgName ref="Виленский_кагал">кагалъ</orgName> въ вѣдомство писаря</l>
     <l><persName ref="Уриаш_Габриелович">Уріаша</persName> по крайнѣй мѣрѣ 1998. злотыхъ</l>
@@ -593,8 +593,8 @@
     <l>и вписать во оные то только, что скажетъ ему</l>
     <l><persName ref="Шимель_Вульфович">Шимель вульфовичъ</persName>, когда же онъ въ томъ не хотѣлъ</l>
     <pb n="391-1"/>
-    <fw place="right" type="pageNum">391</fw>
-    <fw place="left margin" type="note">вичемъ</fw>
+    <fw type="pageNum" place="right">391</fw>
+    <fw type="note" place="left margin">вичемъ</fw>
     <l>ихъ послушать о чемъ зналъ и мойжешъ</l>
     <l>вульфовичъ то вышеупомянутые <persName ref="Левин_Беркович">Левинъ</persName> и <persName ref="Мовша_Ошерович"
     >Мой<lb/>
@@ -655,8 +655,8 @@
     <l>литерою B. показано только оной подати 3119.</l>
     <l>злот: то сіе есть несправедливо и та книга какъ</l>
     <pb n="392-1"/>
-    <fw place="right" type="pageNum">392</fw>
-    <fw place="left margin" type="note">на</fw>
+    <fw type="pageNum" place="right">392</fw>
+    <fw type="note" place="left margin">на</fw>
     <l>выше сказано есть поддѣлана._ равнымъ</l>
     <l>образомъ должна быть особенная книга на</l>
     <l>поголовную подать за мартовской срокъ ко</l>
@@ -717,8 +717,8 @@
     <l>взялъ онъ <persName ref="Зыскинд">Зыскиндъ</persName> на заплату поголовной</l>
     <l>подати за мартовской срокъ 1798<hi rend="superscript">го</hi> года 7000. злотыхъ</l>
     <pb n="393-1"/>
-    <fw place="right" type="pageNum">393</fw>
-    <fw place="left margin" type="note">польской</fw>
+    <fw type="pageNum" place="right">393</fw>
+    <fw type="note" place="left margin">польской</fw>
     <l>собранныхъ съ евреевъ за тотъ же срокъ и</l>
     <l>сверхъ того на дополненіе 9000 злотыхъ взялъ</l>
     <l>отъ того жъ писаря изъ числа складочныхъ</l>
@@ -783,8 +783,8 @@
       <l>составляетъ 7333 злот: о чемъ здѣлано было</l>
       <l>условіе въ <orgName ref="Виленский_кагал">кагалѣ</orgName> въ бытность его, и протчихъ</l>
       <pb n="394-1"/>
-      <fw place="right" type="pageNum">394</fw>
-      <fw place="left margin" type="note">языкъ</fw>
+      <fw type="pageNum" place="right">394</fw>
+      <fw type="note" place="left margin">языкъ</fw>
       <l>кагальныхъ старшинъ и школьниковъ._ Записы</l>
       <l>валъ онъ для памяти себѣ всѣ кагальные до</l>
       <l>ходы бывшіе въ 1797<hi rend="superscript">м</hi> году, дабы могъ знать,</l>
@@ -848,8 +848,8 @@
       <l>Сіе же должно быть въ тайнѣ такъ чтобъ о</l>
       <l>томъ никто не зналъ._ По причинѣ таковаго</l>
       <pb n="395-1"/>
-      <fw place="right" type="pageNum">395</fw>
-      <fw place="left margin" type="note">сдѣлалъ</fw>
+      <fw type="pageNum" place="right">395</fw>
+      <fw type="note" place="left margin">сдѣлалъ</fw>
       <l>самовластія принужденъ всякой еврей или</l>
       <l>что либо дать, или же подписатся къ та-</l>
       <l>кой даже бумагѣ про которую хотя бы зналъ</l>
@@ -912,11 +912,11 @@
     <pb n="396-1"/>
     <pb n="396-2"/>
     <pb n="397-1"/>
-    <pb missing="true" n="397-2"/>
+    <pb n="397-2" missing="true"/>
     <p>
       <pb n="398-1"/>
-      <fw place="right" type="pageNum">398</fw>
-      <fw place="left margin" type="note">губерніи</fw>
+      <fw type="pageNum" place="right">398</fw>
+      <fw type="note" place="left margin">губерніи</fw>
       <l>а почти всѣ евреи вѣдая вредныя послѣдст</l>
       <l>вія Черной книги, страшатся существова-</l>
       <l>нія ея и хотятъ чтобъ она была уничтоже</l>
@@ -980,8 +980,8 @@
       <l>при описи отъ бывшаго виленскаго комендан-</l>
       <l>та господина генералъ маіора и кавалера <persName ref="Капцевич">Капцевича</persName></l>
       <pb n="399-1"/>
-      <fw place="right" type="pageNum">399</fw>
-      <fw place="left margin" type="note">Иванъ</fw>
+      <fw type="pageNum" place="right">399</fw>
+      <fw type="note" place="left margin">Иванъ</fw>
       <l>отданы и хранятся въ вѣдомствѣ и за пе-</l>
       <l>чатью перваго изъ насъ совѣтника <persName ref="Елиашевич">Еліа<lb/>
        шевича</persName>._ Изъ таковыхъ представ-</l>
@@ -1047,8 +1047,8 @@
       <l>господина коменданта <persName ref="Капцевич">Капцевича</persName> и имянно:</l>
       <l>регистромъ старшины <persName ref="Арон_Беркович">Арона берковича</persName> зборщика</l>
       <pb n="400-1"/>
-      <fw place="right" type="pageNum">400</fw>
-      <fw place="left margin" type="note"><unclear>Гоменовичъ</unclear></fw>
+      <fw type="pageNum" place="right">400</fw>
+      <fw type="note" place="left margin"><unclear>Гоменовичъ</unclear></fw>
       <l>рекрутскихъ денегъ въ которомъ оказалось,</l>
       <l>что изъ числа 400. хозяевъ въ томъ регист-</l>
       <l>рѣ показанныхъ собрано 2780. руб: въ числѣ</l>
@@ -1111,8 +1111,8 @@
       rend="superscript">и</hi></l>
       <l>подъ № 17<hi rend="superscript">м</hi> за снятіе проклятія и вымазаніе</l>
       <pb n="401-1"/>
-      <fw place="right" type="pageNum">401</fw>
-      <fw place="left margin" type="note">сію</fw>
+      <fw type="pageNum" place="right">401</fw>
+      <fw type="note" place="left margin">сію</fw>
       <l>изъ Черной книги вульфа Пейсаховича,</l>
       <l>Гиршу Зеликовича и Шмуйлу Јоселевича</l>
       <l>5,400 злот: что и показаніями школь-</l>
@@ -1172,8 +1172,8 @@
       <l>ной говядины отъ штрафовъ и за проданные</l>
       <l>хозаки было дохода 45.361. злот: а въ послѣднѣй</l>
       <pb n="402-1"/>
-      <fw place="right" type="pageNum">402</fw>
-      <fw place="left margin" type="note">выписку</fw>
+      <fw type="pageNum" place="right">402</fw>
+      <fw type="note" place="left margin">выписку</fw>
       <l>книгѣ по показанію тѣхъ же школьниковъ</l>
       <l>и вѣрника <persName ref="Зыскинд">Зыскинда</persName> поддѣланной подъ бук-</l>
       <l>вою B. показано всѣхъ разнообразныхъ при</l>
@@ -1236,8 +1236,8 @@
       <l>шейся по видимому <orgName ref="Виленский_кагал">кагаломъ</orgName> обращенъ на неизвѣс</l>
       <l>тные вовсе надобности. _ да и въ числѣ записанныхъ</l>
       <pb n="403-1"/>
-      <fw place="right" type="pageNum">403</fw><note place="end">чернильная запись продублирована карандашом</note>
-      <fw place="left margin" type="note">сдѣлалъ</fw>
+      <fw type="pageNum" place="right">403</fw><note place="end">чернильная запись продублирована карандашом</note>
+      <fw type="note" place="left margin">сдѣлалъ</fw>
       <l>издержекъ по вышеписанной называемой</l>
       <l>справедливой книгѣ подъ буквою A: Сколько</l>
       <l>видѣть можно показано таковыхъ расхо</l>

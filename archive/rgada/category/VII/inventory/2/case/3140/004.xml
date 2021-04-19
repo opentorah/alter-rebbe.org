@@ -19,13 +19,13 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="004-1"/>
-    <fw place="right" type="pageNum"><del rend="overstrike">37в</del></fw>
-    <fw place="right" type="pageNum">4.</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">37в</del></fw>
+    <fw type="pageNum" place="right">4.</fw>
     <head>
       <l>О трехъ письмахъ, полученныхъ</l>
       <l>из <placeName ref="Вильна">Вильны</placeName> с доносами.</l>
     </head>
-    <fw place="left margin" type="note">
+    <fw type="note" place="left margin">
       <l>1 <unclear>??? ???</unclear> на ево</l>
       <l>и протчихъ</l>
       <l>2, Что городничій ви-</l>
@@ -55,10 +55,10 @@
        1798</date>.</l>
     </fw>
     <p>
-      <l><fw place="right" type="pageNum"><del rend="overstrike"><unclear>378</unclear></del></fw> <fw place="right"
-      type="pageNum">4.</fw> На имя предмѣстника моего<note place="end">Анонимные письма были получены
-      генерал-прокурором А.Б. Куракиным незадолго до его отставки, последовавшей 8 августа 1798 г., после чего к ним
-      обратился занявший этот пост его преемник <persName ref="Лопухин">П.В. Лопухин</persName></note> получены</l>
+      <l><fw type="pageNum" place="right"><del rend="overstrike"><unclear>378</unclear></del></fw> <fw type="pageNum"
+      place="right">4.</fw> На имя предмѣстника моего<note place="end">Анонимные письма были получены генерал-прокурором
+      А.Б. Куракиным незадолго до его отставки, последовавшей 8 августа 1798 г., после чего к ним обратился занявший
+      этот пост его преемник <persName ref="Лопухин">П.В. Лопухин</persName></note> получены</l>
       <l>три писма надписанные по секрету два</l>
       <l>изъ <placeName ref="Вильна">вильны</placeName> отъ <date when="1798-05-08">8</date> и <date when="1798-05-10">
       10 маія</date> подписанные</l>
@@ -112,7 +112,7 @@
       <l>князя Репнина присудствовавшіе, —</l>
       <l>Фризель, Волковъ, Багмевской секре-</l>
       <l>тари Тарновской и Манковской за решеніе</l>
-      <l><pb n="005-1"/> <fw place="right" type="pageNum">5.</fw> онаго дѣла в пользу Доминикановъ взяли</l>
+      <l><pb n="005-1"/> <fw type="pageNum" place="right">5.</fw> онаго дѣла в пользу Доминикановъ взяли</l>
       <l>болѣе 12,000.<hi rend="superscript">руб</hi> но какъ въ <orgName ref="Сенат">Сенатѣ</orgName> решеніе</l>
       <l>ихъ опровергнуто, то и проситъ о изслѣдо-</l>
       <l>ваніи и взысканіи денегъ хотя пополамъ</l>

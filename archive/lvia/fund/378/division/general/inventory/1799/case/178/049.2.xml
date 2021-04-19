@@ -13,7 +13,7 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="049-2"/>
-    <fw place="right" type="note">виленскій уѣздный казначей</fw>
+    <fw type="note" place="right">виленскій уѣздный казначей</fw>
     <head>
       <l>Wypis z Ksiąg Grodzkich</l>
       <l>Powiatu Wilenskiego</l>
@@ -37,9 +37,9 @@
       <l>ną do akt podał wtreści następuiący tłumaczenie —</l>
       <l>My niżey piszący się dajemy moc y pozwolenie</l>
       <pb n="050-1"/>
-      <fw place="right" type="pageNum">50</fw>
-      <fw place="left" type="note">Јосифъ Ейсымонтъ</fw>
-      <fw place="left margin" type="note">кре</fw>
+      <fw type="pageNum" place="right">50</fw>
+      <fw type="note" place="left">Јосифъ Ейсымонтъ</fw>
+      <fw type="note" place="left margin">кре</fw>
       <l>Zacnemu <persName ref="Мовша_Ошерович">Moyzeszowi Oszerowiczowi</persName> do podawania</l>
       <l>Proźb, gdzie się podług zwyczaju kraiowey należeć będzie</l>
       <l>względem ogulnego Narodu Jzraelskiego y dobra ogólne</l>
@@ -74,6 +74,6 @@
       <l>Estni Actes</l>
       <l>Akt Plenipotencyi czyli tłumaczenia ideSyna-</l>
     </p>
-    <pb empty="true" missing="true" n="050-2"/>
+    <pb n="050-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

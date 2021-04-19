@@ -11,9 +11,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="347-1"/>
-    <fw place="right" type="pageNum"><del rend="overstrike">347</del></fw><note place="end">номер записан чернилами и
+    <fw type="pageNum" place="right"><del rend="overstrike">347</del></fw><note place="end">номер записан чернилами и
     зачеркнут карандашом</note>
-    <fw place="left margin" type="note">криц</fw>
-    <pb empty="true" missing="true" n="347-2"/>
+    <fw type="note" place="left margin">криц</fw>
+    <pb n="347-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

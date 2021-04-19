@@ -19,12 +19,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="261-1"/>
-    <fw place="left" type="docNum">№ 1401</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">266</del></fw>
-    <fw place="right" type="pageNum">261</fw>
-    <fw place="right" type="note">тайное</fw>
+    <fw type="docNum" place="left">№ 1401</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">266</del></fw>
+    <fw type="pageNum" place="right">261</fw>
+    <fw type="note" place="right">тайное</fw>
     <date when="1800-10-10">10 октября 1800</date>
-    <fw place="right" type="note">къ дѣлу</fw>
+    <fw type="note" place="right">къ дѣлу</fw>
     <salute><l>Милостивой государь<lb/>
        <persName ref="Обольянинов">Петръ Хрисанфовичь</persName></l></salute>
     <p>
@@ -55,7 +55,7 @@
       <l>тчихъ разгаворахъ сказалъ мне какъ каза-</l>
       <l>лось от искренности что онъ въ месте</l>
       <pb n="261-2"/>
-      <fw place="left" type="pageNum">261 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="left">261 об.</fw><note place="end">номер вписан карандашом</note>
       <l>с симъ <persName ref="alter-rebbe">борковичѣмъ</persName> воспитывался и<note place="end">край листа оборван –
       вероятно, "и равно"</note></l>
       <l>мерно ево хвалилъ и что ани почита<note place="end">край листа оборван – вероятно, "ютъ"</note></l>
@@ -79,15 +79,15 @@
       <l>тъ! я кончил чтобъ онъ не имѣлъ подо-</l>
       <l>зрения! Положилъ предоставить насие время</l>
       <pb n="262-1"/>
-      <fw place="right" type="pageNum">
+      <fw type="pageNum" place="right">
         <del rend="overstrike">366</del>
         <hi rend="superscript">а</hi>
       </fw>
-      <fw place="right" type="pageNum"><del rend="overstrike">266а</del></fw><note place="end">номер вписан и вычеркнут
+      <fw type="pageNum" place="right"><del rend="overstrike">266а</del></fw><note place="end">номер вписан и вычеркнут
       карандашом</note>
-      <fw place="right" type="pageNum"><del rend="overstrike">368</del></fw><note place="end">номер вписан чернилами и
+      <fw type="pageNum" place="right"><del rend="overstrike">368</del></fw><note place="end">номер вписан чернилами и
       зачеркнут карандашом</note>
-      <fw place="right" type="pageNum">262</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right">262</fw><note place="end">номер записан карандашом</note>
       <l>остѣрегаяся хитрости евреискои не хотя</l>
       <l>пропустить сей первой почты чтобъ</l>
       <l>не известить что я по повелѣнию вашего вы-</l>

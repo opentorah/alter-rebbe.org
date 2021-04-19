@@ -17,11 +17,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="075-1"/>
-    <fw place="right" type="pageNum">75</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">76</del>.</fw>
-    <fw place="right" type="note"><date when="1826-02-27">17<hi rend="superscript">го</hi> февраля 1826</date>.</fw>
-    <fw place="left margin" type="note">мощ</fw>
-    <fw place="left margin" type="note">Къ свѣденію</fw>
+    <fw type="pageNum" place="right">75</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">76</del>.</fw>
+    <fw type="note" place="right"><date when="1826-02-27">17<hi rend="superscript">го</hi> февраля 1826</date>.</fw>
+    <fw type="note" place="left margin">мощ</fw>
+    <fw type="note" place="left margin">Къ свѣденію</fw>
     <opener place="left">
       <l><fw type="docNum">№ 1519</fw></l>
       <l><date when="1826-02-12">февраля 12. дня<lb/>
@@ -56,7 +56,7 @@
       <l>а во всѣ еврейскіе приакгалки указы чрезъ своего</l>
       <l>служителя; и таковую резолюцію исполнилъ</l>
       <pb n="075-2"/>
-      <fw place="right" type="pageNum">75 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right">75 об<note place="end">номер записан карандашом</note></fw>
       <l>Тѣмъже порядкомъ 16<hi rend="superscript">го</hi> генваря. Отряженный же воз--</l>
       <l>вращаясь уже съ отвѣтами въ магистратъ, первой</l>
       <l>то есть <persName ref="мителер_ребе">равина</persName> отвѣтъ неизвѣстно какимъ образомъ</l>
@@ -87,13 +87,13 @@
       <l><emph rend="big">Сїятельству</emph> симъ почтеннѣйше донести, съ тѣмъ,</l>
       <l>что о скорѣйшемъ доставленіи вышепоказанными</l>
       <pb n="076-1"/>
-      <fw place="right" type="pageNum">76.</fw>
-      <fw place="left margin" type="note">никъ</fw>
+      <fw type="pageNum" place="right">76.</fw>
+      <fw type="note" place="left margin">никъ</fw>
       <l>присудственными мѣстами требуемыхъ свѣденіи,</l>
       <l>я обязаннымъ себя поставляю чинить по должности</l>
       <l>уѣзднаго стряпчаго съ уѣмъ слѣдуетъ сношеніе._</l>
       <l>За стряпчаго секретарь <persName>Добровольскій</persName>._</l>
     </p>
-    <pb missing="true" n="076-2"/>
+    <pb n="076-2" missing="true"/>
   </body></text>
 </TEI>

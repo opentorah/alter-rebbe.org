@@ -18,11 +18,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="008-1"/>
-    <fw place="left" type="docNum">№ 15990./2028</fw>
-    <fw place="right" type="pageNum">8</fw>
-    <date place="right" when="1800-09-03">3. сентября 1800.</date><note place="end">Дата вписана другим почерком и
+    <fw type="docNum" place="left">№ 15990./2028</fw>
+    <fw type="pageNum" place="right">8</fw>
+    <date when="1800-09-03" place="right">3. сентября 1800.</date><note place="end">Дата вписана другим почерком и
     другими чернилами</note>
-    <fw place="right" type="pageNum"><del rend="overstrike">36</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">36</del></fw>
     <salute><l>Милостивый Государь<lb/>
        <persName ref="Обольянинов">Петръ Хрисанфовичъ</persName>!</l></salute>
     <p>
@@ -75,8 +75,8 @@
       <l>обязанностію своею поставляю представить</l>
       <l>вашему высокопревосходительству слѣдую-</l>
       <l>щее мое замѣчаніе:</l>
-      <l><pb n="009-1"/> <fw place="right" type="pageNum">9</fw> <fw place="right" type="pageNum"><del rend="overstrike"
-      >41</del></fw> <fw place="right" type="pageNum"><del rend="overstrike">102</del></fw> Къ тому присовокупить еще
+      <l><pb n="009-1"/> <fw type="pageNum" place="right">9</fw> <fw type="pageNum" place="right"><del rend="overstrike"
+      >41</del></fw> <fw type="pageNum" place="right"><del rend="overstrike">102</del></fw> Къ тому присовокупить еще
       должно, что</l>
       <l>для разбора до религіи касающихся дѣлъ</l>
       <l>совсѣмъ не нуженъ духовной судъ, поелику</l>

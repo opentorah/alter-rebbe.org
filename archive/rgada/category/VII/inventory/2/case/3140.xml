@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<collection alias="rgada" directory="3140" n="3140">
+<collection n="3140" alias="rgada" directory="3140">
   <title xmlns="http://www.tei-c.org/ns/1.0">О <orgName ref="Хасиды">Еврейской секте Каролинов</orgName> и об учителе их
   <persName ref="alter-rebbe">Раввине Зальмане Боруховиче</persName>, и о доносах <persName ref="Гирш_Давидович">Еврея
   Гирша Давидовича</persName></title>
@@ -15,7 +15,7 @@
     </p>
     <p>Фотографии предоставила Ф.З. Швайгер; новые - Елена Волк.</p>
   </body>
-  <part from="000" n="1"><title xmlns="http://www.tei-c.org/ns/1.0">Первый арест, 1798й год</title></part>
-  <part from="248" n="2"><title xmlns="http://www.tei-c.org/ns/1.0">Второй арест, 1800й год</title></part>
-  <part from="900" n="9"><title xmlns="http://www.tei-c.org/ns/1.0">Сопроводительная информация</title></part>
+  <part n="1" from="000"><title xmlns="http://www.tei-c.org/ns/1.0">Первый арест, 1798й год</title></part>
+  <part n="2" from="248"><title xmlns="http://www.tei-c.org/ns/1.0">Второй арест, 1800й год</title></part>
+  <part n="9" from="900"><title xmlns="http://www.tei-c.org/ns/1.0">Сопроводительная информация</title></part>
 </collection>

@@ -18,9 +18,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="272-1"/>
-    <fw place="right" type="pageNum">272</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">270</del></fw>
-    <fw place="right" type="note"><l>секретно</l></fw>
+    <fw type="pageNum" place="right">272</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">270</del></fw>
+    <fw type="note" place="right"><l>секретно</l></fw>
     <p>
       <l>Милостивый Государь мой <persName ref="Кутузов">Михайла Ларiоновичъ</persName></l>
       <l>По высочайшему Его императорскаго величества</l>
@@ -49,7 +49,7 @@
       <l>Его Высоко пр<hi rend="superscript">ву</hi> <persName ref="Кутузов">Коленищеву-Кутузову.</persName></l>
     </closer>
     <pb n="272-2"/>
-    <fw place="left" type="pageNum">272 об.</fw><note place="end">номер обозначен карандашом</note>
+    <fw type="pageNum" place="left">272 об.</fw><note place="end">номер обозначен карандашом</note>
     <p>
       <l>P:S: По случаю состоявшагося <date when="1800-11-01">1<hi rend="superscript">го</hi>/ сего м-ца</date>
       всемилости-</l>
@@ -74,8 +74,8 @@
       <l>Оренбургскому Бахметеву_____________891.</l>
     </p>
     <pb n="273-1"/>
-    <fw place="right" type="pageNum">273</fw><note place="end">номер записан карандашом</note>
-    <fw place="right" type="pageNum"><del rend="overstrike">217</del></fw><note place="end">номер записан чернилами и
+    <fw type="pageNum" place="right">273</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">217</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
     <l>Смоленскому Князю Гику под № <del rend="overstrike">892</del>.</l><note place="end">номер записан карандашом -
     вероятно, по ошибке, т.к. был принят за номер листа</note>

@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="308-1"/>
-    <fw place="right" type="pageNum">308.</fw>
-    <fw place="left margin" type="note">кій</fw>
+    <fw type="pageNum" place="right">308.</fw>
+    <fw type="note" place="left margin">кій</fw>
     <head>
       <l><date when="1799-11-15">799<hi rend="superscript">го</hi> года ноября 15<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Ли-<lb/>
@@ -41,6 +41,6 @@
       <l>судствующихъ и за скрепою секретаря <persName>Па-<lb/>
        вла Искрицкаго</persName>._ Секретарь <persName>Павелъ Искрицкій</persName></l>
     </p>
-    <pb empty="true" missing="true" n="308-2"/>
+    <pb n="308-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
