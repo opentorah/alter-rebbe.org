@@ -13,10 +13,10 @@
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
     <l>
-      <fw place="left" type="docNum">VII</fw>
-      <date place="right" when="1798-??-??">1798 года</date>
+      <fw type="docNum" place="left">VII</fw>
+      <date when="1798-??-??" place="right">1798 года</date>
     </l>
-    <l><fw place="left" type="docNum">№ 3140</fw></l>
+    <l><fw type="docNum" place="left">№ 3140</fw></l>
     <head>
       <l><emph rend="big">Дѣло</emph></l>
       <l>О еврейской сектѣ <orgName ref="Хасиды">Каролиновъ</orgName></l>
@@ -30,7 +30,7 @@
     <pb n="000a-1"/>
     <l><del rend="overstrike"><fw type="docNum">№ 12</fw></del></l>
     <l><fw type="docNum">№ 211</fw></l>
-    <l><fw place="right" type="note">II</fw></l>
+    <l><fw type="note" place="right">II</fw></l>
     <l>По доносам: <emph rend="underline">еврея <persName ref="Гирш_Давидович">Гирша Давыдовича</persName></emph></l>
     <l>1<hi rend="superscript">е</hi>, о виленскомъ городничемъ <emph rend="underline">Меншѣ</emph></l>
     <l>имѣющемъ при себѣ секретаремъ</l>
@@ -47,7 +47,7 @@
     <l>и секретарями <emph rend="underline">12,000: рублей</emph></l>
     <l><date when="1798-08-11">11 августа 1798 года</date></l>
     <l>решено <date when="1798-11-16">16 ноября________</date></l>
-    <l><fw place="right" type="docNum">№ 368 <unclear>листъ</unclear></fw></l>
+    <l><fw type="docNum" place="right">№ 368 <unclear>листъ</unclear></fw></l>
     <l>Тутъ же и о сектѣ называемой</l>
     <l><orgName ref="Хасиды">Каролины или хосады</orgName>, евреями</l>
     <l>заведенной.</l>

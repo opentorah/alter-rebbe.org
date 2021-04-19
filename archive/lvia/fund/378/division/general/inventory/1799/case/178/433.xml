@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="433-1"/>
-    <fw place="right" type="pageNum">433.</fw>
-    <fw place="left margin" type="note">Па</fw>
+    <fw type="pageNum" place="right">433.</fw>
+    <fw type="note" place="left margin">Па</fw>
     <p>
       <l><date when="1800-05-04">1800 года маія 4 дня</date> въ присудствіи <orgName ref="Литовский_надворный_суд"
       >Литовска-<lb/>
@@ -55,6 +55,6 @@
       <l>по сущей справедливости и учиненной присягѣ.</l>
       <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
     </p>
-    <pb empty="true" missing="true" n="433-2"/>
+    <pb n="433-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

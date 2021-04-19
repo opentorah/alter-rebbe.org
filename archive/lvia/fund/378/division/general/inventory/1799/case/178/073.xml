@@ -17,8 +17,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="073-1"/>
-    <fw place="right" type="pageNum">73.</fw>
-    <fw place="left margin" type="note">Се-</fw>
+    <fw type="pageNum" place="right">73.</fw>
+    <fw type="note" place="left margin">Се-</fw>
     <p>
       <l><date when="1799-04-08">1799<hi rend="superscript">го</hi> года апрѣля 8<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ</l>
@@ -44,6 +44,6 @@
       <l>крицкаго./ Протоколистъ <signed><persName>јосифъ Волковъ</persName></signed></l>
       <l/>
     </p>
-    <pb empty="true" missing="true" n="073-2"/>
+    <pb n="073-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

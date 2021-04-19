@@ -14,8 +14,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="287-1"/>
-    <fw place="right" type="pageNum">287</fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="pageNum" place="right">287</fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>
       <l>Jnterrogatorya wedle których Swiadkowie</l>
       <l>byli słuchani</l>
@@ -66,6 +66,6 @@
       <l><persName>Franciszek Sidorowicz</persName></l>
       <l>MW<note place="end">Miasta Wilna</note> Regent</l>
     </p>
-    <pb empty="true" missing="true" n="287-2"/>
+    <pb n="287-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

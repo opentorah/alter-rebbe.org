@@ -16,9 +16,9 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="414-1"/>
-    <fw place="right" type="note">Подано <date when="1800-04-30">30. апреля 1800 года</date>.</fw>
-    <fw place="right" type="pageNum">414</fw>
-    <fw place="left margin" type="note">Се-</fw>
+    <fw type="note" place="right">Подано <date when="1800-04-30">30. апреля 1800 года</date>.</fw>
+    <fw type="pageNum" place="right">414</fw>
+    <fw type="note" place="left margin">Се-</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Litewskiego</orgName></l>
@@ -43,8 +43,8 @@
       <l>O co prosząc piszą się Datt. <date when="1800-04-30">30. apryla 1800 Roku</date></l>
       <l><signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed></l>
     </p>
-    <fw place="left margin" type="note">Слуш<note place="end">слушано</note>: <date when="1800-05-01">1<hi rend=
+    <fw type="note" place="left margin">Слуш<note place="end">слушано</note>: <date when="1800-05-01">1<hi rend=
     "superscript">го</hi> маiя</date></fw>
-    <pb empty="true" missing="true" n="414-2"/>
+    <pb n="414-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

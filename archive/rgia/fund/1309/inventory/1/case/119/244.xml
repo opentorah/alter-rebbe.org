@@ -18,8 +18,8 @@
     <pb n="244-1"/>
     <fw type="docNum"><emph rend="underline">№ 1143</emph></fw>
     <date when="1815-02-16">16 фев 1815</date>
-    <fw place="right" type="pageNum">244</fw>
-    <fw place="right" type="note">
+    <fw type="pageNum" place="right">244</fw>
+    <fw type="note" place="right">
       <l><unclear>представить</unclear></l>
       <l>въ <orgName ref="Сословие_призрения_разоренных_от_неприятеля">Сословіе</orgName></l>
     </fw>
@@ -92,7 +92,7 @@
       <l>ныне скитаться по чужимъ угламъ.</l>
     </p>
     <pb n="245-1"/>
-    <fw place="right" type="pageNum">245</fw>
+    <fw type="pageNum" place="right">245</fw>
     <p>
       <l>Потеря имения нашего, и цена разоренному</l>
       <l>состоянию, что действительно простирается</l>
@@ -129,6 +129,6 @@
       <l><signed>???</signed><note place="end">подпись на иврите</note></l>
       <l><date when="1815-02-??">февраля дня<lb/>1815 года</date></l>
     </p>
-    <pb missing="true" n="245-2"/>
+    <pb n="245-2" missing="true"/>
   </body></text>
 </TEI>

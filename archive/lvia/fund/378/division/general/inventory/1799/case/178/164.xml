@@ -19,11 +19,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="164-1"/>
-    <fw place="left" type="docNum">N 364</fw>
+    <fw type="docNum" place="left">N 364</fw>
     <fw type="note">Подано <date when="1799-06-03">3<hi rend="superscript">го</hi> июня 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw place="right" type="pageNum">164</fw>
-    <fw place="left margin" type="note">Се-</fw>
+    <fw type="pageNum" place="right">164</fw>
+    <fw type="note" place="left margin">Се-</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sadu Nadwornego Littewskiego</orgName></l>
@@ -53,7 +53,7 @@
       иврите</note>
     </p>
     <closer place="left"><l><date when="1799-06-03">1799 Junij 3/14. Dnia</date></l></closer>
-    <fw place="left" type="note">Слуш <date when="1799-06-07">7<hi rend="superscript">го</hi> Июня</date></fw>
-    <pb empty="true" missing="true" n="164-2"/>
+    <fw type="note" place="left">Слуш <date when="1799-06-07">7<hi rend="superscript">го</hi> Июня</date></fw>
+    <pb n="164-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

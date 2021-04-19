@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="015-1"/>
-    <fw place="left" type="docNum">№ 147</fw>
+    <fw type="docNum" place="left">№ 147</fw>
     <fw type="note">Подано <date when="1799-03-24">24<hi rend="superscript">го</hi> марта 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw place="right" type="pageNum">15</fw>
-    <fw place="left margin" type="note">криц</fw>
+    <fw type="pageNum" place="right">15</fw>
+    <fw type="note" place="left margin">криц</fw>
     <salute><l><orgName ref="Литовский_надворный_суд">Литовскому надворному суду</orgName></l></salute>
     <head>
       <l>Виленскаго купца <persName ref="Мовша_Ошерович">Мойжеша Оше-<lb/>
@@ -44,6 +44,6 @@
     <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
     <closer place="left"><l>Дня <date when="1799-03-24">24 марта<lb/>
      1799<hi rend="superscript">го</hi> Года</date></l></closer>
-    <pb empty="true" missing="true" n="015-2"/>
+    <pb n="015-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

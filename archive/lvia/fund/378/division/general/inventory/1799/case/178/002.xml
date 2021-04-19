@@ -17,7 +17,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="002-1"/>
-    <fw place="right" type="pageNum">2</fw>
+    <fw type="pageNum" place="right">2</fw>
     <head>
       <l>Копія отношенія Его Свѣтлости Господина Генерала</l>
       <l>Прокурора и кавалѣра Князя <persName ref="Лопухин">Лопухина</persName> къ Литовскому</l>
@@ -53,6 +53,6 @@
        1799. года</date></l>
       <l>Его пре<hi rend="superscript">ву</hi> <persName ref="Фризель">Фризелю</persName></l>
     </closer>
-    <pb empty="true" missing="true" n="002-2"/>
+    <pb n="002-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

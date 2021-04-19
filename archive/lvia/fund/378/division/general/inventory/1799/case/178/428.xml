@@ -16,8 +16,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="428-1"/>
-    <fw place="right" type="pageNum">428.</fw>
-    <fw place="left margin" type="note">криц</fw>
+    <fw type="pageNum" place="right">428.</fw>
+    <fw type="note" place="left margin">криц</fw>
     <head><l>Rota Przysięgi._</l></head>
     <p>
       <l>My <persName>Enoch Jankielowicz</persName>, <persName ref="Мовша_Лейбович">Moyzesz Leybowicz</persName>,
@@ -75,6 +75,6 @@
       <l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> ассесоръ Викентій</l>
       <l><signed>Тарновскій</signed></l>
     </p>
-    <pb empty="true" missing="true" n="428-2"/>
+    <pb n="428-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

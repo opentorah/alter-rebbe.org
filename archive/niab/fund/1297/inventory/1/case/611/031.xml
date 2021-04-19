@@ -16,9 +16,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="031-1"/>
-    <fw place="right" type="pageNum">31</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">32</del>.</fw>
-    <fw place="left margin" type="note">Пе</fw>
+    <fw type="pageNum" place="right">31</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">32</del>.</fw>
+    <fw type="note" place="left margin">Пе</fw>
     <head>B</head>
     <p>
       <l><date when="1825-10-05">1825 года октября 5 дня</date> <persName>Залманъ Лейзаро<lb/>
@@ -55,7 +55,7 @@
       <l>сказать не можетъ, но ему извѣстно, что</l>
       <l>всякій <orgName ref="Хасиды">хосидъ</orgName> жертвуетъ по возможности</l>
       <pb n="031-2"/>
-      <fw place="right" type="pageNum">31 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right">31 об<note place="end">номер записан карандашом</note></fw>
       <l>буде кто изъ нихъ въ состояніи дать. Ду-</l>
       <l>ховная же власть равина <persName ref="мителер_ребе">Берки Шнеера</persName></l>
       <l>простирается на всѣхъ хосидовъ <placeName ref="Витебская_губерния">Витебской</placeName></l>
@@ -85,9 +85,9 @@
       предыдущем документе</note></l>
     </p>
     <pb n="032-1"/>
-    <fw place="right" type="pageNum">32</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">33</del>.</fw>
-    <fw place="left margin" type="note">ре</fw>
+    <fw type="pageNum" place="right">32</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">33</del>.</fw>
+    <fw type="note" place="left margin">ре</fw>
     <p>
       <l><persName>Шліома Фридманъ</persName> шкловскій житель</l>
       <l>еврей 40 лѣтъ, женатъ, имѣетъ детей, подъ</l>
@@ -121,6 +121,6 @@
        Фридманъ</persName> руку приложилъ.</l>
     </p>
     <pb n="031a-1"/>
-    <pb missing="true" n="032-2"/>
+    <pb n="032-2" missing="true"/>
   </body></text>
 </TEI>

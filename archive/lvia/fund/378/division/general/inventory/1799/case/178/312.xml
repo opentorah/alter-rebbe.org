@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="312-1"/>
-    <fw place="right" type="pageNum">312.</fw>
-    <fw place="left margin" type="note">Па</fw>
+    <fw type="pageNum" place="right">312.</fw>
+    <fw type="note" place="left margin">Па</fw>
     <p>
       <l><date when="1799-11-15">1799 года ноября 15<hi rend="superscript">го</hi> дня</date> въ присудствіи <orgName
       ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -31,6 +31,6 @@
       <l>всегда уплачиваетъ <orgName ref="Виленский_кагал">кагалу</orgName>.</l>
       <l><signed>???</signed><note place="end">подпись на иврите</note></l>
     </p>
-    <pb empty="true" missing="true" n="312-2"/>
+    <pb n="312-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

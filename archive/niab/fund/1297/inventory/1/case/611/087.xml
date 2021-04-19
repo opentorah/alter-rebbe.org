@@ -17,12 +17,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="087-1"/>
-    <fw place="left" type="docNum">№ 2489.</fw>
-    <fw place="right" type="note"><date when="1826-03-24">24<hi rend="superscript">го</hi> марта 1826</date></fw>
-    <fw place="right" type="pageNum">87</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">88</del></fw>
-    <fw place="left margin" type="note">Къ свѣденію.</fw>
-    <fw place="left margin" type="note">та</fw>
+    <fw type="docNum" place="left">№ 2489.</fw>
+    <fw type="note" place="right"><date when="1826-03-24">24<hi rend="superscript">го</hi> марта 1826</date></fw>
+    <fw type="pageNum" place="right">87</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">88</del></fw>
+    <fw type="note" place="left margin">Къ свѣденію.</fw>
+    <fw type="note" place="left margin">та</fw>
     <head>
       <l><emph rend="big">Его Сїятельству</emph></l>
       <l>господину генреалъ лѣйтенанту витебскому, могилевскому,</l>
@@ -45,7 +45,7 @@
       <l>равина <persName ref="мителер_ребе">шнеера</persName> для объяснѣнїя по дѣлу, по которому онъ</l>
       <l>преданъ суду, и въ отступленїе узаконеннаго порядка</l>
       <pb n="087-2"/>
-      <fw place="right" type="pageNum">87 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right">87 об<note place="end">номер записан карандашом</note></fw>
       <l>посылали неподлежаще къ нему на мѣсто жительства</l>
       <l>его запросы чрезъ нарочнаго своего сторожа, какъ видно</l>
       <l>въ явное для него послабленїе и продолженїе самого</l>
@@ -68,8 +68,8 @@
       <l>надлежащаго предписанїя, передать съ сей резолю-</l>
       <l>цїи копїю къ дѣламъ гна<note place="end">господина; слово записано с титлом</note> губернскаго прокурора.</l>
       <pb n="088-1"/>
-      <fw place="right" type="pageNum">88</fw>
-      <fw place="left margin" type="note">рь</fw>
+      <fw type="pageNum" place="right">88</fw>
+      <fw type="note" place="left margin">рь</fw>
       <l>причемъ магистрату вѣлеть на мѣсто удаленнаго</l>
       <l>бывшаго секретаря <persName>Журавковича</persName>, дабы въ производствѣ</l>
       <l>по магистрату дѣлъ не могло быть остановки и мѣд</l>
@@ -83,7 +83,7 @@
       <l><signed>секретарь <unclear>???</unclear></signed></l>
       <l><signed>Секретарь <persName>Савицкїй</persName></signed></l>
     </p>
-    <fw place="left margin" type="note">
+    <fw type="note" place="left margin">
       <l>съ донесеніемъ о здѣланномъ</l>
       <l>распоряженіи къ решенію</l>
       <l>дѣла любавицкаго равина</l>
@@ -94,6 +94,6 @@
       <l><date when="1826-03-17">Марта 17 дня<lb/>
        1826<hi rend="superscript">го</hi> года</date></l>
     </closer>
-    <pb missing="true" n="088-2"/>
+    <pb n="088-2" missing="true"/>
   </body></text>
 </TEI>

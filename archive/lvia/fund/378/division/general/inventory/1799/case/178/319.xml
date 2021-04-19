@@ -16,11 +16,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="319-1"/>
-    <fw place="left" type="docNum">№ <emph rend="underline">956</emph></fw>
+    <fw type="docNum" place="left">№ <emph rend="underline">956</emph></fw>
     <fw type="note">Получено <date when="1799-12-20">20<hi rend="superscript">го</hi> декабря 1799 года</date></fw>
-    <fw place="right" type="pageNum">319</fw>
-    <fw place="left margin" type="note">тарь</fw>
-    <fw place="left margin" type="note"><fw type="docNum">№ 1238</fw></fw>
+    <fw type="pageNum" place="right">319</fw>
+    <fw type="note" place="left margin">тарь</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 1238</fw></fw>
     <head>
       <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной Судъ</orgName></l>
       <l>Отъ правящаго въ <placeName ref="Вильна">Вильнѣ</placeName> коменданта долж-</l>
@@ -41,6 +41,6 @@
      1799<hi rend="superscript">го</hi> года</date></l></closer>
     <fw type="note">Слуш<note place="end">слушано</note> <date when="1799-12-20">20 декабря</date></fw><note place="end"
     >запись на нижнем поле страницы</note>
-    <pb empty="true" missing="true" n="319-2"/>
+    <pb n="319-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

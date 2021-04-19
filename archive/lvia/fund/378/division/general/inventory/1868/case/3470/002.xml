@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="002-1"/>
-    <fw place="right" type="pageNum">2/</fw>
-    <fw place="right margin" type="note"><signed><unclear>???</unclear></signed><note place="end">Подпись
+    <fw type="pageNum" place="right">2/</fw>
+    <fw type="note" place="right margin"><signed><unclear>???</unclear></signed><note place="end">Подпись
     канцеляриста</note></fw>
     <p>
       <l>Попеченія Правительства</l>
@@ -77,7 +77,7 @@
       <l>мецкомъ языкахъ и передаваемы</l>
       <l>были на разсмотреніе Особаго комите-</l>
       <pb n="003-1"/>
-      <fw place="right" type="pageNum">3.</fw>
+      <fw type="pageNum" place="right">3.</fw>
       <l>та при <orgName ref="Сенат">Правительствующемъ Сена-<lb/>
        тѣ</orgName>. Мѣжду тѣмъ еврей <persName ref="Нота_Ноткин">Нотко</persName>,</l>
       <l>бывшій въ качествѣ довѣреннаго лица у</l>
@@ -106,7 +106,7 @@
       "https://ru.wikisource.org/wiki/ЕЭБЕ/Еврейские_комитеты">ухудшило положение еврейского населения России из-за
       введения ряда ограничительных мер</ref></note></l>
     </p>
-    <fw place="left margin" type="note">
+    <fw type="note" place="left margin">
       <l>Изложенное въ запискахъ</l>
       <l><persName ref="Державин">Г.Р. Державина</persName> противо-</l>
       <l>дѣйствіе еврейскаго</l>
@@ -123,6 +123,6 @@
       <l><del rend="overstrike">свидѣтельствуетъ,</del> <hi rend="superscript">из котораго видно,</hi> что для
       подкупа</l>
     </p>
-    <pb missing="true" n="003-2"/>
+    <pb n="003-2" missing="true"/>
   </body></text>
 </TEI>

@@ -13,8 +13,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="275-1"/>
-    <fw place="right" type="pageNum">275</fw>
-    <fw place="left margin" type="note">криц</fw>
+    <fw type="pageNum" place="right">275</fw>
+    <fw type="note" place="left margin">криц</fw>
     <p>
       <l><date when="1799-10-13">1799 года октября 13<hi rend="superscript">го</hi> дня</date> въ присудствіи</l>
       <l><orgName ref="Литовский_надворный_суд">Литовскаго надворнаго суда</orgName> виленскій жи-</l>
@@ -35,6 +35,6 @@
       <l>онъ <persName>Нисонъ</persName> въ <placeName ref="Вильна">вильнѣ</placeName> около двадцати</l>
       <l>лѣтъ. <signed>???</signed><note place="end">подпись Давыдовича на иврите</note></l>
     </p>
-    <pb empty="true" missing="true" n="275-2"/>
+    <pb n="275-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

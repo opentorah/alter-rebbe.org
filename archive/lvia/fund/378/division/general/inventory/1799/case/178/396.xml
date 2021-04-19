@@ -13,9 +13,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="396-1"/>
-    <fw place="right" type="pageNum">396.</fw>
-    <fw place="left margin" type="note">кій</fw>
-    <fw place="left margin" type="note"><fw type="docNum">№ 237</fw></fw>
+    <fw type="pageNum" place="right">396.</fw>
+    <fw type="note" place="left margin">кій</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 237</fw></fw>
     <head><l>W вилѣнскоя городовая полиція<lb/>
        <choice><sic>вв</sic><corr>отъ</corr></choice> вилѣнская городовой магистратъ</l></head>
     <p>
@@ -32,6 +32,6 @@
       <l>виленскій полицмейстеръ <unclear>???</unclear> <signed><unclear>???</unclear></signed></l>
       <l>= Городовой секретарь <signed>??? ???</signed></l>
     </p>
-    <pb empty="true" missing="true" n="396-2"/>
+    <pb n="396-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

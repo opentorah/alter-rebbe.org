@@ -18,7 +18,7 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <salute>
-      <l><pb n="250-1"/> <fw place="right" type="pageNum">250</fw> <fw place="left margin" type="note">№ „40„<hi rend=
+      <l><pb n="250-1"/> <fw type="pageNum" place="right">250</fw> <fw type="note" place="left margin">№ „40„<hi rend=
       "superscript">и</hi></fw> Господину отъ инфантеріи генералу <placeName ref="Литва">литовскому</placeName> генералъ
       губер-<lb/>
        натору и кавалеру <persName ref="Лассий">лассе</persName></l>
@@ -85,8 +85,8 @@
       <l>да вырученныхъ за продажу четвертой части Екзакцїйнова</l>
       <l>збора отъданнаго <persName ref="Шимель_Вульфович">шимелу вульфовичу</persName> на откупъ</l>
       <pb n="265-1"/>
-      <fw place="right" type="pageNum">265<note place="end">надпись карандашом</note></fw>
-      <fw place="right" type="pageNum">265<note place="end">запись чернилами</note></fw>
+      <fw type="pageNum" place="right">265<note place="end">надпись карандашом</note></fw>
+      <fw type="pageNum" place="right">265<note place="end">запись чернилами</note></fw>
       <l>Три тысячи сто пядѣсятъ рублѣй № 3150. протчіе</l>
       <l>бумаги изъ найденныхъ въ погребу, и отысканные у школь-</l>
       <l>наго писаря о протчихъ таковыхъ <orgName ref="Виленский_кагал">кагала</orgName> деяніяхъ, еще не</l>
@@ -118,6 +118,6 @@
        1799 года.</date></l>
       <l><placeName ref="Вильна">г. вильна</placeName></l>
     </closer>
-    <pb empty="true" missing="true" n="265-2"/>
+    <pb n="265-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

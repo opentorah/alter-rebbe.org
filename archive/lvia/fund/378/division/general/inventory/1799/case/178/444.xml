@@ -17,9 +17,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="444-1"/>
-    <fw place="left" type="note"><emph rend="underline">Копія</emph></fw>
-    <fw place="right" type="pageNum">444</fw>
-    <fw place="left margin" type="note">криц</fw>
+    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
+    <fw type="pageNum" place="right">444</fw>
+    <fw type="note" place="left margin">криц</fw>
     <head>
       <l><date when="1800-05-04">1800<hi rend="superscript">го</hi> года маія 14<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литовскаго<lb/>
@@ -78,8 +78,8 @@
       <l>но начальствующаго и стояли вмѣстѣ съ</l>
       <l><persName ref="Мовша_Ошерович">Ошеровичемъ</persName> сотовариществующіе съ нимъ</l>
       <pb n="445-1"/>
-      <fw place="right" type="pageNum">445</fw>
-      <fw place="left margin" type="note">кій</fw>
+      <fw type="pageNum" place="right">445</fw>
+      <fw type="note" place="left margin">кій</fw>
       <l>кагальные старшины, <persName>мовша вульфовичъ</persName>, <persName ref="Шимель_Абелевич">Ши-<lb/>
        мель Абелевичъ</persName>, <persName>Абрамъ Јоселевичъ</persName>, <persName>Лейба Зелькен-<lb/>
        довичъ</persName>, <persName>берка вульфовичъ</persName> и <persName>Шмуилъ Марковичъ</persName></l>
@@ -104,6 +104,6 @@
       <l>подъ присудствующихъ и за скрепою секретаря</l>
       <l><persName>Павла Искрицкаго</persName>.</l>
     </p>
-    <pb empty="true" missing="true" n="445-2"/>
+    <pb n="445-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

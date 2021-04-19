@@ -16,9 +16,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="108-1"/>
-    <fw place="right" type="pageNum">108.</fw>
-    <fw place="left margin" type="note">???</fw>
-    <fw place="left margin" type="note">Се-</fw>
+    <fw type="pageNum" place="right">108.</fw>
+    <fw type="note" place="left margin">???</fw>
+    <fw type="note" place="left margin">Се-</fw>
     <head>
       <l/>
       <l><date when="1799-04-25">1799<hi rend="superscript">го</hi> года апреля 25<hi rend="superscript">го</hi>
@@ -81,9 +81,9 @@
       <l>тивный, изъ коихъ одного каролинскаго члена <persName ref="Меер_Рафалович">Меера<lb/>
        рафаловича</persName> поставили кагальнымъ старшиною, другихъ</l>
       <pb n="109-1"/>
-      <fw place="right" type="pageNum">109.</fw>
-      <fw place="left margin" type="note">???</fw>
-      <fw place="left margin" type="note">кре</fw>
+      <fw type="pageNum" place="right">109.</fw>
+      <fw type="note" place="left margin">???</fw>
+      <fw type="note" place="left margin">кре</fw>
       <l>ихъ же фамиліи, а иныхъ тоже не по правиламъ и обрядамъ</l>
       <l>еврейскимъ здѣлали старшими; Словомъ: что <persName ref="Нохим_Ицкович">нохимъ Иц-<lb/>
        ковичъ</persName> и <persName ref="Мовша_Мордохович">Мойжешъ Мордуховичъ</persName> <orgName ref="Хасиды"
@@ -143,8 +143,8 @@
       <l><persName ref="Капцевич">капцевичу</persName>; съ тѣмъ, дабы благоволилъ какъ отъ госпо-</l>
       <l>дина <persName>Палкина</persName> и <persName>Гестки</persName> освѣдомится, такъ и съ своей</l>
       <pb n="110-1"/>
-      <fw place="right" type="pageNum">110.</fw>
-      <fw place="left margin" type="note">тарь</fw>
+      <fw type="pageNum" place="right">110.</fw>
+      <fw type="note" place="left margin">тарь</fw>
       <l/>
       <l>стороны <orgName ref="Литовский_надворный_суд">Надворный судъ</orgName> извѣстить какъ по имя-</l>
       <l>намъ тѣ <orgName ref="Хасиды">каролины</orgName> и полицейскія десятскіе которыя</l>
@@ -162,7 +162,7 @@
       <l>за подписаніемъ господъ присудствующихъ и за</l>
       <l>скрепою секретаря <persName>Павла Искрицкаго</persName>._</l>
       <l><signed><persName>Јосифъ Волковъ</persName></signed></l>
-      <pb empty="true" missing="true" n="110-2"/>
+      <pb n="110-2" missing="true" empty="true"/>
     </p>
   </body></text>
 </TEI>

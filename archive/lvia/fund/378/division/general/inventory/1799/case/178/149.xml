@@ -14,8 +14,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="149-1"/>
-    <fw place="right" type="pageNum">149</fw>
-    <fw place="left margin" type="note">кре</fw>
+    <fw type="pageNum" place="right">149</fw>
+    <fw type="note" place="left margin">кре</fw>
     <head>
       <l><date when="1799-05-17">1799<hi rend="superscript">го</hi> года маія 17<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовский_надворный_суд">Литов-<lb/>
@@ -41,6 +41,6 @@
       <l>присудствующихъ из скрепою секретаря <persName>Павла<lb/>
        Искрицкаго</persName>. Протоколисть <signed><persName>Јосифъ Волковъ</persName></signed></l>
     </p>
-    <pb empty="true" missing="true" n="149-2"/>
+    <pb n="149-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

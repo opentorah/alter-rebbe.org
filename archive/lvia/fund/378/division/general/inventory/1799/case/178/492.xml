@@ -15,9 +15,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="492-1"/>
-    <fw place="left" type="note"><emph rend="underline">Копїя</emph></fw>
-    <fw place="right" type="pageNum">492.</fw>
-    <fw place="left margin" type="note">криц</fw>
+    <fw type="note" place="left"><emph rend="underline">Копїя</emph></fw>
+    <fw type="pageNum" place="right">492.</fw>
+    <fw type="note" place="left margin">криц</fw>
     <head>
       <l>ОРДЕРЪ</l>
       <l>Правящему въ <placeName ref="Литва">Литовской губернїи</placeName> должность</l>
@@ -54,6 +54,6 @@
       <l><date when="1799-02-18">февраля 18 дня<lb/>
        1799 года</date></l>
     </closer>
-    <pb empty="true" missing="true" n="492-2"/>
+    <pb n="492-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

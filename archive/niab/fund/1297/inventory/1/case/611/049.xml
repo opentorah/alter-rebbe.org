@@ -15,11 +15,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="049-1"/>
-    <fw place="right" type="pageNum"><del rend="overstrike">50</del></fw>
-    <fw place="right" type="pageNum">49</fw>
-    <fw place="left margin" type="note"><signed><unclear>???</unclear></signed><note place="end">подпись
+    <fw type="pageNum" place="right"><del rend="overstrike">50</del></fw>
+    <fw type="pageNum" place="right">49</fw>
+    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
     канцеляриста</note></fw>
-    <fw place="right" type="note"><emph rend="underline">Копія</emph></fw>
+    <fw type="note" place="right"><emph rend="underline">Копія</emph></fw>
     <head>
       <l>Ј.</l>
       <l><emph rend="underline">Переводъ съ еврейскаго</emph></l>
@@ -53,7 +53,7 @@
       <l>ихъ тамъ въ такомъ великомъ городѣ</l>
       <l>и Богъ знаетъ сколько можетъ продолжаться</l>
       <pb n="049-2"/>
-      <fw place="right" type="pageNum">49 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right">49 об<note place="end">номер записан карандашом</note></fw>
       <l>время и какія издержки издержаны на все</l>
       <l>вышеупомянутое могутъ быть на значитель-</l>
       <l>ную сумму. Того рода всѣ мы нижеподпи-</l>
@@ -83,8 +83,8 @@
       <l>хосыда и публикѣ извѣстнаго <persName ref="мителер_ребе">Бера</persName> изъ <placeName ref="Любавичи"
       >Любавичъ</placeName>,</l>
       <pb n="050-1"/>
-      <fw place="right" type="pageNum">50.</fw>
-      <fw place="left margin" type="note">По</fw>
+      <fw type="pageNum" place="right">50.</fw>
+      <fw type="note" place="left margin">По</fw>
       <l>А въ <placeName ref="Витебская_губерния">Витебской губерніи</placeName> избраны вѣрники <note type="gloss">|:
       къ которымъ<lb/>
        имѣютъ всѣ деньги изъ ихъ уѣздовъ отсылаемы быть :|</note></l>
@@ -132,7 +132,7 @@
        двухъ нашихъ <placeName ref="Могилевская_губерния">Могилевской</placeName> и <placeName ref="Витебская_губерния"
       >Витебской губерній</placeName> :|</note></l>
       <pb n="050-2"/>
-      <fw place="right" type="pageNum">50 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right">50 об<note place="end">номер записан карандашом</note></fw>
       <l>выше сего значущаго, то есть: для учиненія раскладокъ</l>
       <l>на надобности тамо изображенныя изъ <placeName ref="Могилевская_губерния">губерніи Моги-<lb/>
        левской</placeName> шестьдесятъ процентовъ, а <placeName ref="Витебская_губерния">Витебская губер-<lb/>
@@ -164,8 +164,8 @@
       <l>его нарядить почтеннаго и въ публикѣ</l>
       <l>извѣстнаго чашницкаго жителя (<persName>Янкеля</persName></l>
       <pb n="051-1"/>
-      <fw place="right" type="pageNum"><del rend="overstrike">52.</del> 51</fw>
-      <fw place="left margin" type="note">мощ</fw>
+      <fw type="pageNum" place="right"><del rend="overstrike">52.</del> 51</fw>
+      <fw type="note" place="left margin">мощ</fw>
       <l>Кусыеля) <persName>Берки Рапопорта</persName> и люцинскаго жителя</l>
       <l><persName>Янкеля Кусыеля Зыскиндовича</persName>, имѣютъ</l>
       <l>упоминаемые деньги отпускаемы быть</l>
@@ -210,7 +210,7 @@
       </row>
     </table>
     <pb n="051-2"/>
-    <fw place="right" type="pageNum">51 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right">51 об<note place="end">номер записан карандашом</note></fw>
     <table>
       <row>
         <cell>Бѣлица.</cell>
@@ -258,7 +258,7 @@
       <l>Сіе переводилъ и подлинникъ помѣтилъ</l>
       <l>переводчикъ <persName>Исай Финкелштейнъ</persName></l>
     </p>
-    <fw place="left" type="note">
+    <fw type="note" place="left">
       <l>мѣсто</l>
       <l>печати</l><note place="end">надпись обведена по окружности и обозначает место печати в оригинале
       документа</note>

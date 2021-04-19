@@ -18,12 +18,12 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="118-1"/>
-    <fw place="left" type="docNum">№ 280</fw>
+    <fw type="docNum" place="left">№ 280</fw>
     <fw type="note">Получено <date when="1799-05-06">6<hi rend="superscript">го</hi> маія 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw place="right" type="pageNum">118.</fw>
-    <fw place="left margin" type="note"><fw type="docNum">№ 3896<hi rend="superscript">и</hi></fw></fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="pageNum" place="right">118.</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 3896<hi rend="superscript">и</hi></fw></fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>
       <l>Из <orgName ref="Литовское_губернское_правление">Литовскаго Губернскаго правленія</orgName></l>
       <l>въ <orgName ref="Литовский_надворный_суд">Литовскій Губернскій Надворный судъ</orgName>.</l>
@@ -50,6 +50,6 @@
       <l>Переводчикъ <signed><unclear>??? ???</unclear></signed></l>
       <l>Повытчикъ <signed>Семенъ Дмитревской</signed></l>
     </p>
-    <pb empty="true" missing="true" n="118-2"/>
+    <pb n="118-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

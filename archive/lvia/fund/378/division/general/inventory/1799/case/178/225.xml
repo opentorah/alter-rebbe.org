@@ -14,11 +14,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="225-1"/>
-    <fw place="left" type="note">cis</fw>
+    <fw type="note" place="left">cis</fw>
     <fw type="note">Получено <date when="1799-07-18">18<hi rend="superscript">го</hi> јюля 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw place="right" type="pageNum">225</fw>
-    <fw place="left margin" type="note">велъ</fw>
+    <fw type="pageNum" place="right">225</fw>
+    <fw type="note" place="left margin">велъ</fw>
     <head>
       <l>Предложеніе</l>
       <l>Дѣйствительнаго статскаго совѣтника</l>
@@ -47,8 +47,8 @@
       <l><date when="1799-07-15">15 Іюля 1799</date></l>
       <l><placeName ref="Вильна">вильна</placeName></l>
     </closer>
-    <fw place="left margin" type="note"><l>слуш<note place="end">слушано</note>: <date when="1799-07-18">18<hi rend=
+    <fw type="note" place="left margin"><l>слуш<note place="end">слушано</note>: <date when="1799-07-18">18<hi rend=
     "superscript">го</hi> јюля 1799</date></l></fw><note place="end">пометка на нижнем поле страницы</note>
-    <pb empty="true" missing="true" n="225-2"/>
+    <pb n="225-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

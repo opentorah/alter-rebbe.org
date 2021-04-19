@@ -19,9 +19,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="488-1"/>
-    <fw place="left" type="note">Копія</fw>
-    <fw place="right" type="pageNum">488.</fw>
-    <fw place="left margin" type="note">тарь</fw>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">488.</fw>
+    <fw type="note" place="left margin">тарь</fw>
     <head>
       <l>Отъ инфантеріи генерала, литовскои</l>
       <l>девизїи инспектора и <persName ref="Лассий">литовскаго гене<lb/>
@@ -85,8 +85,8 @@
       <l>вертыхъ забравъ достовѣныя справки по какимъ пра</l>
       <l>вамъ они тѣ зборы и расходъ изъ оныхъ производили</l>
       <pb n="489-1"/>
-      <fw place="right" type="pageNum">489</fw>
-      <fw place="left margin" type="note">Па</fw>
+      <fw type="pageNum" place="right">489</fw>
+      <fw type="note" place="left margin">Па</fw>
       <l>и что по окончательномъ изъслѣдованїи откроется</l>
       <l>въ подробности донести мнѣ для поступленїя какъ</l>
       <l>следовать будѣтъ по законамъ, но дабы нынѣшнїе чле</l>
@@ -125,6 +125,6 @@
     </p>
     <closer place="left"><l><date when="1799-02-02">2<hi rend="superscript">го</hi> февраля<lb/>
      1799 года</date></l></closer>
-    <pb empty="true" missing="true" n="489-2"/>
+    <pb n="489-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

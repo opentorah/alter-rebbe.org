@@ -18,11 +18,11 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="253-1"/>
-    <fw place="right" type="pageNum"><del rend="overstrike">422</del></fw>
-    <fw place="right" type="pageNum">253</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">258</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">422</del></fw>
+    <fw type="pageNum" place="right">253</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">258</del></fw>
     <fw>О <orgName ref="Хасиды">сектѣ Каролиновъ</orgName></fw>
-    <fw place="left margin" type="note"><p>
+    <fw type="note" place="left margin"><p>
       <l>докладовано</l>
       <l>повелено оста</l>
       <l>вить на прежнемъ</l>
@@ -60,7 +60,7 @@
       <l>сколька тысячъ для таковыхъ посыла-</l>
       <l>етъ во <placeName ref="Иерусалим">Iерусалимъ</placeName>. Корреспонденцiю</l>
       <l>имѣетъ онъ по большей части</l>
-      <l><pb n="253-2"/> <fw place="left" type="pageNum">253 об.</fw> съ нарочными, впрочемъ чтобы могло</l>
+      <l><pb n="253-2"/> <fw type="pageNum" place="left">253 об.</fw> съ нарочными, впрочемъ чтобы могло</l>
       <l>способствовать къ разрушенію спокойствія,</l>
       <l>къ неповиновенію законной власти и</l>
       <l>вольнодумству, того и въ мысляхъ у</l>
@@ -86,8 +86,8 @@
       <l>біи; но бывшій въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> губер-</l>
       <l>наторъ <persName ref="Жегулин">Жегулинъ</persName> къ предосужденію</l>
       <l>и обвиненію <persName ref="alter-rebbe">Боруховича</persName> ничего открыть</l>
-      <l><pb n="254-1"/> <fw place="right" type="pageNum">254</fw><note place="end">номер вписан карандашом</note> <fw
-      place="right" type="pageNum"><del rend="overstrike">259</del></fw><note place="end">номер проставлен чернилами,
+      <l><pb n="254-1"/> <fw type="pageNum" place="right">254</fw><note place="end">номер вписан карандашом</note> <fw
+      type="pageNum" place="right"><del rend="overstrike">259</del></fw><note place="end">номер проставлен чернилами,
       зачеркнут карандашом</note> не могъ. При всеподданѣйшемъ о</l>
       <l>семъ <date when="1799-11-16">16 ноября</date><note place="end">не исключено, что 1798 г., когда проводилось
       первое следствие по доносам на <orgName ref="Хасиды">хасидов</orgName></note> отъ Князя <persName ref="Лопухин">

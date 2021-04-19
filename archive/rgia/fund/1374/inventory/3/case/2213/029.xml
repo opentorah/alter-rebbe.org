@@ -21,10 +21,10 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="029-1"/>
-    <fw place="left" type="docNum">№ 1279/1562</fw>
+    <fw type="docNum" place="left">№ 1279/1562</fw>
     <date when="1800-07-22">22 Іюля 1800.</date>
-    <fw place="right" type="pageNum">29</fw>
-    <fw place="left margin" type="note">ожидать на послѣднее отношеніе отвѣтствія.</fw>
+    <fw type="pageNum" place="right">29</fw>
+    <fw type="note" place="left margin">ожидать на послѣднее отношеніе отвѣтствія.</fw>
     <salute><l>Милостивый Государь мой <persName ref="Обольянинов">Петръ Хрисан-<lb/>фовичъ!</persName></l></salute>
     <p>
       <l>Въ слѣдствіе почтеннѣйшаго отношенія</l>
@@ -73,7 +73,7 @@
       <l>рабинства доходовъ заключается, то и остает-</l>
       <l>ся сомнительнымъ. _ и на 3<hi rend="superscript">ю</hi> чтобы одни</l>
       <l>ученѣйшія евреи судили во всѣхъ дѣлахъ</l>
-      <l><pb n="030-1"/> <fw place="right" type="pageNum">30</fw> евреевъ, а не иной кто изъ другаго закона,</l>
+      <l><pb n="030-1"/> <fw type="pageNum" place="right">30</fw> евреевъ, а не иной кто изъ другаго закона,</l>
       <l>таковое желаніе противно устроенному</l>
       <l>порядку правленія съ симъ мнѣніемъ</l>
       <l><placeName ref="Минская_губерния">минскаго</placeName> гражданскаго губернатора бывъ</l>
@@ -102,6 +102,6 @@
        1800 года</date></l>
       <l>Его Высокопр<hi rend="superscript">у</hi> <persName ref="Обольянинов">Обольянинову</persName></l>
     </closer>
-    <pb missing="true" n="030-2"/>
+    <pb n="030-2" missing="true"/>
   </body></text>
 </TEI>

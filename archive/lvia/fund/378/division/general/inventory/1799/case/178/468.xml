@@ -22,10 +22,10 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="468-1"/>
-    <fw place="left" type="docNum">N 3??<note place="end">обрыв листа, номер нечитабелен</note></fw>
+    <fw type="docNum" place="left">N 3??<note place="end">обрыв листа, номер нечитабелен</note></fw>
     <fw type="note">Подано <date when="1800-05-31">31 маiя 1800 года</date>.</fw>
-    <fw place="right" type="pageNum">468.</fw>
-    <fw place="left margin" type="note">криц</fw>
+    <fw type="pageNum" place="right">468.</fw>
+    <fw type="note" place="left margin">криц</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
@@ -70,7 +70,7 @@
       <l>Ƶmudzkiey Ulicy, Drugi mieszka w Kamienicy Prezydenta</l>
       <l><persName>Koziełła</persName> obok <persName>Ogińskiego</persName> Pałacu, y więcey takich w mie-</l>
       <l>ście znaleźć się może; <persName>Jcko zaś Wólfowicz</persName> ieden przemieszkiwa</l>
-      <fw place="lower margin" type="note">Слуш<note place="end">слушано</note>: <date when="1800-06-04">4<hi rend=
+      <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1800-06-04">4<hi rend=
       "superscript">го</hi> июня</date></fw>
       <pb n="468-2"/>
       <l>przemieszkiwa niedawno w <placeName ref="Вильна">Wilnie</placeName>, Rodem z <placeName ref="Ляховичи"
@@ -112,9 +112,9 @@
        Hirszowicz</persName>. – To zaś mam Sobie za Obowiązek przypo-</l>
       <l>mnieć <orgName ref="Литовский_надворный_суд">Sądowi</orgName> że Ja tych Szkolnkow do Swiadectwa ze</l>
       <pb n="469-1"/>
-      <fw place="right" type="pageNum">469</fw>
-      <fw place="left margin" type="note">кій</fw>
-      <fw place="left margin" type="note"><l>Maja 31<hi rend="superscript">o</hi><lb/>
+      <fw type="pageNum" place="right">469</fw>
+      <fw type="note" place="left margin">кій</fw>
+      <fw type="note" place="left margin"><l>Maja 31<hi rend="superscript">o</hi><lb/>
        1800. Roku</l></fw>
       <l>ze Strony Moiey nie wzywałem y nie wzywam, Bu-</l>
       <l>rzyć zaś <persName>Moyżesza Aronowicza</persName>, y <persName>Jcki Leybowicza</persName></l>
@@ -149,6 +149,6 @@
       <l><signed><persName ref="Мовша_Ошерович"><unclear>???</unclear><note place="end">подпись на иврите</note>
       </persName></signed></l>
     </p>
-    <pb empty="true" missing="true" n="469-2"/>
+    <pb n="469-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

@@ -15,14 +15,14 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="063-1"/>
-    <fw place="right" type="pageNum">63</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">64</del>.</fw>
+    <fw type="pageNum" place="right">63</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">64</del>.</fw>
     <opener place="left">
       <l>III отдѣленіе</l>
       <l><date when="1825-11-17">17<hi rend="superscript">го</hi> ноября 1825</date></l>
       <l><fw type="docNum">№ 5849</fw></l>
     </opener>
-    <fw place="left margin" type="note">та</fw>
+    <fw type="note" place="left margin">та</fw>
     <head>
       <l>по <fw type="docNum">№ 10265</fw></l>
       <l>Могилевскому губернскому прав-</l>
@@ -92,9 +92,9 @@
       <l>переведенъ на руской языкъ.</l>
       <l>Но послѣ того <persName>Пинхусъ Шикъ</persName></l>
       <pb n="064-1"/>
-      <fw place="left" type="pageNum">64<note place="end">номер записан карандашом на необычном месте: верхний правый
+      <fw type="pageNum" place="left">64<note place="end">номер записан карандашом на необычном месте: верхний правый
       край листа, видимо, поврежден и утрачен</note></fw>
-      <fw place="left margin" type="note">рь</fw>
+      <fw type="note" place="left margin">рь</fw>
       <l>умеръ, и <persName ref="мителер_ребе">раввинъ</persName> не только</l>
       <l>не пересталъ притѣснять</l>
       <l>старозаконныхъ евреевъ, но сдѣ-</l>
@@ -111,7 +111,7 @@
       <l>ренныхъ людей съ своей собра-</l>
       <l>тіи значительныя суммы</l>
       <l>на собственныя прихоти,*<note place="end">пометка о приписке на левом поле листа</note></l>
-      <fw place="left margin" type="note">
+      <fw type="note" place="left margin">
         <l>* и вызовъ <hi rend="superscript">его</hi> <persName ref="мителер_ребе">раввина</persName></l>
         <l>въ <placeName ref="Витебск">Витебскъ</placeName>,</l>
       </fw>
@@ -131,7 +131,7 @@
       <l>съ еврейскаго общества, то</l>
       <l>кѣмъ деньги сіи собираются,</l>
       <pb n="064-2"/>
-      <fw place="right" type="pageNum">64 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right">64 об<note place="end">номер записан карандашом</note></fw>
       <l>на основаніи какого закона,</l>
       <l>до какого количества въ</l>
       <l>годъ, по уравнительной ли</l>
@@ -160,7 +160,7 @@
       <l>ребляя къ сему довѣренныхъ</l>
       <l>людей.(*)<note place="end">пометка о вставке на левом поле листа</note></l>
     </p>
-    <fw place="left margin" type="note">
+    <fw type="note" place="left margin">
       <l>(*) Сверхъ того окрылось,</l>
       <l>что <persName ref="мителер_ребе">Шнейеръ</persName> какъ самъ</l>
       <l>онъ сознался, принимаетъ</l>
@@ -179,9 +179,9 @@
       <l>Находя таковые поборы</l>
       <l>раввина <persName ref="мителер_ребе">Шнейера</persName> противными</l>
       <l>52<hi rend="superscript">и</hi> статье <emph rend="big">Высочайше</emph> утвержден-</l>
-      <fw place="right" type="pageNum"><del rend="overstrike">66</del>.</fw>
-      <fw place="right" type="pageNum">65</fw>
-      <fw place="left margin" type="note"><signed><unclear>???</unclear></signed><note place="end">подпись
+      <fw type="pageNum" place="right"><del rend="overstrike">66</del>.</fw>
+      <fw type="pageNum" place="right">65</fw>
+      <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
       канцеляриста</note></fw>
       <l>кого въ 9<hi rend="superscript">и</hi> декабрѣ 1804<hi rend="superscript">го</hi></l>
       <l>года положенія о евреяхъ</l>
@@ -211,10 +211,10 @@
       <l>ніяхъ своихъ по сему пред-</l>
       <l>мету мнѣ донести.</l>
     </p>
-    <fw place="lower" type="note"><emph rend="underline">на оборотѣ.</emph></fw>
+    <fw type="note" place="lower"><emph rend="underline">на оборотѣ.</emph></fw>
     <pb n="065-1"/>
     <pb n="063a-1"/>
     <pb n="064a-2"/>
-    <pb missing="true" n="065-2"/>
+    <pb n="065-2" missing="true"/>
   </body></text>
 </TEI>

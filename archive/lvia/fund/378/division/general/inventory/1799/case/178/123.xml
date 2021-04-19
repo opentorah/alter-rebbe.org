@@ -19,8 +19,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="123-1"/>
-    <fw place="right" type="pageNum">123.</fw>
-    <fw place="left margin" type="note">кій</fw>
+    <fw type="pageNum" place="right">123.</fw>
+    <fw type="note" place="left margin">кій</fw>
     <head>
       <l>Его Превосходительству</l>
       <l>Господину отъ артиллеріи генералъ маїору,</l>
@@ -91,8 +91,8 @@
       <l>выборе разговаривали между собою по евреи</l>
       <l>ски и были въ единообразной обыкновеннои</l>
       <pb n="124-1"/>
-      <fw place="right" type="pageNum">124</fw>
-      <fw place="left margin" type="note">Со-</fw>
+      <fw type="pageNum" place="right">124</fw>
+      <fw type="note" place="left margin">Со-</fw>
       <l>евреискои одеждѣ: Напоследокъ имею</l>
       <l>честь и то донести что находились</l>
       <l>десяцкия въ <date when="1799-02-04">4<hi rend="superscript">е</hi> число февраля</date> вшколе</l>
@@ -118,6 +118,6 @@
        1799<hi rend="superscript">го</hi> года</date></l>
       <l>Городъ <placeName ref="Вильна">вилна</placeName>.</l>
     </closer>
-    <pb empty="true" missing="true" n="124-2"/>
+    <pb n="124-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

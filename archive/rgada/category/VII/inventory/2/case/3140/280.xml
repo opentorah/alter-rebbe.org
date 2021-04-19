@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="280-1"/>
-    <fw place="right" type="pageNum">280</fw><note place="end">номер вписан карандашом</note>
-    <fw place="right" type="pageNum"><del rend="overstrike">284</del></fw><note place="end">номер записан чернилами и
+    <fw type="pageNum" place="right">280</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">284</del></fw><note place="end">номер записан чернилами и
     вычеркнут карандашом</note>
     <p>
       <l><date when="1800-11-15">1800<hi rend="superscript">го</hi> года ноября 15<hi rend="superscript">го</hi></date>
@@ -200,9 +200,9 @@
         </p></cell>
       </row>
       <pb n="281-1"/>
-      <fw place="right" type="pageNum"><del rend="overstrike">285</del></fw><note place="end">номер записан чернилами и
+      <fw type="pageNum" place="right"><del rend="overstrike">285</del></fw><note place="end">номер записан чернилами и
       зачеркнут карандашом</note>
-      <fw place="right" type="pageNum">281</fw><note place="end">номер обозначен карандашом</note>
+      <fw type="pageNum" place="right">281</fw><note place="end">номер обозначен карандашом</note>
       <row>
         <cell><p>
           <l>9<hi rend="superscript">е</hi></l>
@@ -311,7 +311,7 @@
         </p></cell>
       </row>
       <pb n="281-2"/>
-      <l><fw place="right" type="pageNum">281 об</fw></l><note place="end">номер записан карандашом</note>
+      <l><fw type="pageNum" place="right">281 об</fw></l><note place="end">номер записан карандашом</note>
       <row>
         <cell><p/></cell>
         <cell><p>

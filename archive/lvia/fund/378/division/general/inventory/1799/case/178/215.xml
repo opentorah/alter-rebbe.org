@@ -19,11 +19,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="215-1"/>
-    <fw place="right" type="pageNum">215</fw>
-    <fw place="right" type="note">btw</fw><note place="end">пометка в правом верхнем углу</note>
-    <fw place="left" type="note">Kopie</fw>
-    <fw place="right" type="note">3tw</fw>
-    <fw place="left margin" type="note">Па</fw>
+    <fw type="pageNum" place="right">215</fw>
+    <fw type="note" place="right">btw</fw><note place="end">пометка в правом верхнем углу</note>
+    <fw type="note" place="left">Kopie</fw>
+    <fw type="note" place="right">3tw</fw>
+    <fw type="note" place="left margin">Па</fw>
     <head>
       <l>Zalecenie</l>
       <l>Aktualnego Stanu Konsyliarza Littgo<note place="end">Littewskiego</note></l>
@@ -56,6 +56,6 @@
        1799 Roku</date></l>
       <l><placeName ref="Вильна">wWilnie</placeName></l>
     </closer>
-    <pb empty="true" missing="true" n="215-2"/>
+    <pb n="215-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

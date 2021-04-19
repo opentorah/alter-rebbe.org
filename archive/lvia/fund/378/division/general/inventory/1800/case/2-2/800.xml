@@ -18,9 +18,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="800-1"/>
-    <fw place="right" type="pageNum"><del rend="overstrike">474</del></fw>
-    <fw place="right" type="pageNum">800</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">1181</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">474</del></fw>
+    <fw type="pageNum" place="right">800</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">1181</del></fw>
     <salute>
       <l>Его высокопревосходительству</l>
       <l>Господину Генералу отъ инфантеріи, Литовской</l>
@@ -80,9 +80,9 @@
     <l>и по надлежащемъ оныхъ разчисленіи между</l>
     <l>прочимъ предназначилъ коробку еврейскихъ</l>
     <pb n="801-1"/>
-    <fw place="right" type="pageNum"><del rend="overstrike">475</del></fw>
-    <fw place="right" type="pageNum">801</fw>
-    <fw place="right" type="pageNum"><del rend="overstrike">1182</del></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">475</del></fw>
+    <fw type="pageNum" place="right">801</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">1182</del></fw>
     <l>доходовъ, отдать съ публичнаго торгу на откупъ, ко-</l>
     <l>торую и взяли докторъ Яковъ Лейбощицъ<note place="end">врач, в 1809 г. - главный надзиратель виленского
     еврейского госпиталя, см.: https://proza.ru/2019/10/14/216</note> и евреи: Сам-</l>
@@ -139,6 +139,6 @@
        1800 года</date></l>
       <l><placeName ref="Вильна">Вильна</placeName></l>
     </closer>
-    <fw place="left" type="note"><l>Исполнено <date when="1800-05-12">12 маія</date></l></fw>
+    <fw type="note" place="left"><l>Исполнено <date when="1800-05-12">12 маія</date></l></fw>
   </body></text>
 </TEI>

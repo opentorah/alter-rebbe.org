@@ -19,11 +19,11 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="277-1"/>
-    <fw place="left" type="docNum">№ 818</fw>
+    <fw type="docNum" place="left">№ 818</fw>
     <fw type="note">Подано <date when="1799-10-13">13<hi rend="superscript">го</hi> октября 1799<hi rend="superscript"
     >го</hi> года</date></fw>
-    <fw place="right" type="pageNum">277</fw>
-    <fw place="left margin" type="note">Се-</fw>
+    <fw type="pageNum" place="right">277</fw>
+    <fw type="note" place="left margin">Се-</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornrgo Littewskiego</orgName></l>
@@ -48,8 +48,8 @@
       <l>wac y wspomnione <choice><sic>obmiłki</sic><corr>omyłki</corr></choice> poprawic</l>
       <signed><unclear>???</unclear><note place="end">подпись на иврите</note></signed>
     </p>
-    <fw place="lower margin" type="note">Слуш<note place="end">слушано</note>: <date when="1799-10-17">17<hi rend=
+    <fw type="note" place="lower margin">Слуш<note place="end">слушано</note>: <date when="1799-10-17">17<hi rend=
     "superscript">го</hi> октября</date></fw>
-    <pb empty="true" missing="true" n="277-2"/>
+    <pb n="277-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

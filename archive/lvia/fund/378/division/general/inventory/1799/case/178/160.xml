@@ -21,8 +21,8 @@
     <pb n="160-1"/>
     <fw type="docNum">№ 326</fw>
     <fw type="note">Подано 23<hi rend="superscript">го</hi> маiя 1799<hi rend="superscript">го</hi> года</fw>
-    <fw place="right" type="pageNum">160</fw>
-    <fw place="left margin" type="note">велъ</fw>
+    <fw type="pageNum" place="right">160</fw>
+    <fw type="note" place="left margin">велъ</fw>
     <head>
       <l>Do</l>
       <l><orgName ref="Литовский_надворный_суд">Sądu Nadwornego Littewskiego</orgName></l>
@@ -71,6 +71,6 @@
       <l><date when="1799-05-23">1799 Maja 23 Dnia</date></l>
       <l>Cлуш: <date when="1799-05-24">24<hi rend="superscript">го</hi> маiя</date></l>
     </closer>
-    <pb empty="true" missing="true" n="160-2"/>
+    <pb n="160-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

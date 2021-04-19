@@ -17,9 +17,9 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="507-1"/>
-    <fw place="left" type="note"><emph rend="underline">Копія</emph></fw>
-    <fw place="right" type="pageNum">507</fw>
-    <fw place="left margin" type="note">Ис-</fw>
+    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
+    <fw type="pageNum" place="right">507</fw>
+    <fw type="note" place="left margin">Ис-</fw>
     <head>
       <l><date when="1799-02-07">1799<hi rend="superscript">го</hi> года февраля 7<hi rend="superscript">го</hi>
       дня</date> въ Журналѣ <orgName ref="Литовское_губернское_правление">литов<lb/>
@@ -51,8 +51,8 @@
       <l>санїемъ господъ присудствующихъ и за скрепою секре-</l>
       <l>таря Кирилы Серебреникова:_. Протоколистъ</l>
       <l><signed>Алексей <unclear>???</unclear></signed></l>
-      <fw place="lower margin" type="note">Съ журналомъ читалъ коллегскій регистраторъ Дмитревскій</fw>
+      <fw type="note" place="lower margin">Съ журналомъ читалъ коллегскій регистраторъ Дмитревскій</fw>
     </p>
-    <pb empty="true" missing="true" n="507-2"/>
+    <pb n="507-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

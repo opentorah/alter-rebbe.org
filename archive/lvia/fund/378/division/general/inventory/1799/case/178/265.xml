@@ -19,8 +19,8 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="265-1"/>
-    <fw place="left margin" type="note">велъ</fw>
-    <fw place="right" type="pageNum">265</fw>
+    <fw type="note" place="left margin">велъ</fw>
+    <fw type="pageNum" place="right">265</fw>
     <head>F</head>
     <table><row>
       <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
@@ -116,8 +116,8 @@
       </cell>
     </row></table>
     <pb n="266-1"/>
-    <fw place="right" type="pageNum">266.</fw>
-    <fw place="left margin" type="note">Ис-</fw>
+    <fw type="pageNum" place="right">266.</fw>
+    <fw type="note" place="left margin">Ис-</fw>
     <table>
       <row>
         <cell><unclear>???</unclear><note place="end">текст на иврите</note></cell>
@@ -158,6 +158,6 @@
         </cell>
       </row>
     </table>
-    <pb empty="true" missing="true" n="266-2"/>
+    <pb n="266-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

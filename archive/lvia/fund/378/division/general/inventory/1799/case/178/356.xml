@@ -15,8 +15,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="356-1"/>
-    <fw place="right" type="pageNum">356</fw>
-    <fw place="left margin" type="note">кій</fw>
+    <fw type="pageNum" place="right">356</fw>
+    <fw type="note" place="left margin">кій</fw>
     <head>
       <l><date when="1800-01-27">1800<hi rend="superscript">го</hi> года генваря 27 дня</date>. въ присудствіи <orgName
       ref="Литовский_надворный_суд">Литов-<lb/>
@@ -39,6 +39,6 @@
       <l>И сіе показалъ по самой сущей справедливости и</l>
       <l>ничего не утаилъ</l>
     </p>
-    <pb empty="true" missing="true" n="356-2"/>
+    <pb n="356-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
