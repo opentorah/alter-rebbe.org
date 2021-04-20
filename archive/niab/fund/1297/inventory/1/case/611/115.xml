@@ -1,13 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1829-10-05">5 октября 1829</date></creation>
+      <abstract><p>
+        Донесение Витебской казенной палаты о неуплате в казну излишне начисленных прпогонных средств во время следствия
+        по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="115-1"/>
+    <fw type="docNum" place="left"># 8438.</fw>
+    <fw type="note"><date when="1829-10-09">9 октября 1829</date>./</fw>
+    <fw type="pageNum" place="right">115</fw>
+    <fw type="note">
+      <l>Написать справку что по 3 <unclear>???</unclear></l>
+      <l><unclear>??? ??? ???</unclear> деньги <unclear>???</unclear></l><note place="end">плохо читаемая резолюция,
+      записанная карандашом</note>
+    </fw>
+    <fw type="note" place="left margin">мощ</fw>
+    <head>
+      <l><emph rend="big">Его Сїятельству</emph>.</l>
+      <l>господину генералъ губернатору витебскому,</l>
+      <l>могилевскому, смоленскому и калужскому гене-</l>
+      <l>ралу отъ Инфантерїи, Сенатору и кавалеру кня-</l>
+      <l>зю <persName>Nиколаю Nиколаевичу Хованскому</persName></l>
+      <l>Витебской казенной палаты</l>
+      <l><emph rend="big">Донесенїе</emph></l>
+    </head>
+    <p>
+      <l>Въслѣдствїе предписанїя Департамента</l>
+      <l>Государственнаго казначейства отъ <date when="1826-04-05">5. апрѣля 1826.<lb/>
+       года</date> <fw type="docNum">№ 6.180</fw> Казенная палата положивъ въ недо-</l>
+      <l>имку выданные <date when="1825-10-20">1825. года октября 20<hi rend="superscript">го</hi> дня</date></l>
+      <l>по предложенїю Вашего Сїятельства гвардїи</l>
+      <l>капитану <persName>Власенкѣ</persName> проготнные деньги 119. руб:</l>
+      <l>52 коп. до мѣстечка Староселья и обратно на шесть</l>
+      <l>лошадѣй по казенной надобности, о учиненїи</l>
+      <l>разпоряженїя на счетъ взысканїя оныхъ денегъ</l>
+      <l>съ виновныхъ и объ отсылкѣ въ Казначейство,</l>
+      <l>троекратно представляла Вашему Сїятель-</l>
+      <l>ству, то есть <date when="1826-05-24">24. маїя 1826<hi rend="superscript">го</hi></date>, <date when=
+      "1828-03-03">3. марта</date> и <date when="1828-08-21">августа<lb/>
+       21 числъ 1828. года</date>; Но какъ таковые деньги по</l>
+      <pb n="115-2"/>
+      <fw type="pageNum" place="right">115 об<note place="end">номер записан карандашом</note></fw>
+      <l>нынѣ въ казну не поступили и считаются</l>
+      <l>въ Nедоимкѣ для того опре: преддѣлено</l>
+      <l>ставить вновь Вашему Сїятельству и про-</l>
+      <l>сить по прежнимъ сей Палаты представле-</l>
+      <l>ніямъ зависящаго разпоряженїя</l>
+      <l><signed>Вице губернаторъ <unclear>???</unclear></signed></l>
+      <l><signed>Губернскій казначей <persName>Коровинъ</persName></signed></l>
+      <l><signed>Совѣтникъ <persName>Соколовъ</persName></signed></l>
+      <l><signed>Губернскій контролеръ <unclear>???</unclear><lb/>
+       <signed>??? ???</signed></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 13.308.</fw></l>
+      <l><date when="1829-10-05">5. октября 1829</date></l>
+    </closer>
+    <fw type="note" place="lower margin">объ учиненіи распоряже <signed>Столоначальникъ <persName>Бахаловичъ</persName>
+    </signed></fw>
     <pb n="115a-1"/>
-    <pb n="115-2"/>
     <pb n="115a-2"/>
   </body></text>
 </TEI>
