@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Служебная пометка архивного дела канценлярии генерал-губернатора</p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="123-1"/>
+    <fw type="pageNum" place="right">123</fw>
+    <p>
+      <l>Въ семъ дѣле переномерованныхъ</l>
+      <l>сто двадцать два листа.</l>
+      <l>Коллежскій совѣтникъ<note place="end">подпись отсутствует</note></l>
+      <l>Секретарь <signed><unclear>???</unclear></signed></l>
+    </p>
     <pb missing="true" n="123-2"/>
   </body></text>
 </TEI>
