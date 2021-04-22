@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Хованский</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1829-10-31">31 октября 1829</date></creation>
+      <abstract><p>
+        Черновик письма генерал-губернатора в Государственное казначейство необходимости принятия на счет казны неверно
+        начисленных прогонных денег во время следствя по делу <persName ref="мителер_ребе">Дов-Бера
+        Шнеерсона</persName>, а также об обстоятельствах следствия
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="120-1"/>
@@ -96,11 +106,149 @@
       <l>ливости таковаго доно</l>
       <l>са еврея <persName ref="Кисин_Симха">Кисина</persName>, посылалъ</l>
       <l>я по сему предмету въ м.</l>
+      <pb n="121-1"/>
+      <fw type="pageNum" place="right">121</fw>
+      <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">поддпись
+      секретаря</note></fw>
+      <l>Сатросельѣ <hi rend="superscript">означеннаго</hi> адьютанта</l>
+      <l>
+        <del rend="overstrike">своего</del>
+        <hi rend="superscript">моего</hi>
+        <persName>Власенко</persName>
+        <del rend="overstrike">и въ</del>
+        <hi rend="superscript">и</hi>
+      </l>
+      <l>
+        <del rend="overstrike">слѣдствіе сего 19 октября</del>
+        <hi rend="superscript">о выдачѣ ему прогонныхъ</hi>
+      </l>
+      <l><del rend="overstrike">1825 года</del> <hi rend="superscript">денегъ безъ возврата и на<unclear>???</unclear>
+      </hi> предложилъ</l>
+      <l>Казенной палатѣ <del rend="overstrike">объ</del></l>
+      <l><del rend="overstrike">ассигнованіи <persName>Власенкѣ</persName></del></l>
+      <l><del rend="overstrike">слѣдующихъ ему по числу</del></l>
+      <l>
+        <del rend="overstrike">верстъ и лошадей</del>
+        <hi rend="superscript"><del rend="overstrike">безъ возврата</del></hi>
+        <del rend="overstrike">изъ</del>
+      </l>
+      <l><del rend="overstrike">казны денегъ безъ возвра-</del></l>
+      <l><del rend="overstrike">та,</del> которыхъ <del rend="overstrike">и выдано</del> <hi rend="superscript">и
+      получилъ</hi></l>
+      <l><del rend="overstrike">Ему Казенною палатою</del></l>
+      <l><del rend="overstrike">всего</del> <hi rend="superscript">онъ</hi> 119 руб. 52 коп. Г<note place="end">пометка
+      о соноске на левом поле страницы</note>. <del rend="overstrike">По</del></l>
+      <fw type="note" place="left margin">
+        <l>Г<note place="end">знак сноски</note> означенное же дѣло,</l>
+        <l>по извѣту Кисина</l>
+        <l>по произведеніи из-</l>
+        <l>слѣдованія, <unclear>???</unclear></l>
+        <l>по порядку разсмат</l>
+        <l>триваемо въ Бабино</l>
+        <l>вецкомъ городовомъ</l>
+        <l>магистратѣ, могилев-</l>
+        <l>скаго главнаго 1мъ Де-</l>
+        <l>партаментѣ и Прави-</l>
+        <l>тельствующемъ Сенатѣ,</l>
+        <l>и по оному</l>
+      </fw>
+      <l><del rend="overstrike">разсмотрѣніи же въ Пра-</del></l>
+      <l><del rend="overstrike">вительствующемъ Сенатѣ</del></l>
+      <l><del rend="overstrike">во всей подробности про</del></l>
+      <l>и<del rend="overstrike">зведеннаго по сему дѣлу</del></l>
+      <l>
+        <del rend="overstrike">изслѣдованію, хотя</del>
+        <del rend="overstrike">евре</del>
+      </l>
+      <l>раввинъ <persName ref="мителер_ребе">Шнееръ</persName> ни въ ка-</l>
+      <l>комъ уголовномъ престу</l>
+      <l>пленіи виновнымъ не</l>
+      <l>оказался, <del rend="overstrike">и въ слѣдствіе</del> <hi rend="superscript">а потому</hi></l>
+      <l>сего оставленъ отъ сего</l>
+      <l>дѣла свободнымъ, но въ про</l>
+      <l>чемъ предположеніи мои,</l>
+      <l>относящіяся къ откло-</l>
+      <l>неніи на будущее время</l>
+      <pb n="121-2"/>
+      <fw type="pageNum" place="right">121 об<note place="end">номер записан карандашом</note></fw>
+      <l>подобныхъ дѣйствій еврей</l>
+      <l>скихъ раввиновъ, предо</l>
+      <l>ставлены разсмотрѣнію</l>
+      <l>по принадлежности 1<hi rend="superscript">му</hi></l>
+      <l>Департаменту <orgName ref="Сенат">Правитель<lb/>
+       ствующаго Сената</orgName></l>
+      <l>Усмартивая изъ сего, что</l>
+      <l>по рѣшеніи въ <orgName ref="Сенат">правитель<lb/>
+       ствующемъ Сенатѣ</orgName> дѣла</l>
+      <l>о поборахъ раввина <persName ref="мителер_ребе">Шнеера</persName></l>
+      <l>съ евреевъ по которому <persName>Вла<lb/>
+       сенко</persName> былъ мною команди-</l>
+      <l>рованъ въ м. Старосельѣ,</l>
+      <l>виновнымъ никто не приз-</l>
+      <l>нанъ; я нужнымъ нахожу</l>
+      <l>о таковомъ обстоятель</l>
+      <l>ствѣ дѣла сего довести до</l>
+      <l>свѣденія Вашего Сіятель</l>
+      <l>ства на тотъ конецъ, не</l>
+      <l>угодно ли будетъ Вамъ, мило</l>
+      <l>стивый государь предписать</l>
+      <l>Витебской казенной палатѣ,</l>
+      <l>дабы она выданные по упо</l>
+      <l>мянутому дѣлу состояв-</l>
+      <l>шему при мнѣ адьютан-</l>
+      <l>томъ капитану <persName>Власенкѣ</persName></l>
+      <l>прогонныя деньги 119 руб. 52 ко</l>
+      <l>зачислила <hi rend="superscript">расходомъ</hi> согласно предложе-</l>
+      <l>нію моему 19 октября 1825</l>
+      <l>года безъ возврата, такъ</l>
+      <l>какъ по дошедшему до меня</l>
+      <l>свѣденію посланъ былъ мною</l>
+      <l>адъютантъ в м. Староселѣ</l>
+      <l>единственно для открытія, не</l>
+      <l>существуетъ ли со стороны евреевъ</l>
+      <l>злоупотребленія во вредъ общій</l>
     </p>
+    <fw type="note" place="left margin">
+      <l>Хотя еврейскій рав-</l>
+      <l>винъ <persName ref="мителер_ребе">Шнейеръ</persName> <orgName ref="Сенат">Прав. Се-<lb/>
+       натомъ</orgName> не признанъ ви-</l>
+      <l>новнымъ ни въ какомъ</l>
+      <l>уголовномъ преступленіи,</l>
+      <l>и потому оставленъ <hi rend="superscript">отъ дѣла</hi> сво-</l>
+      <l>боднымъ: но поелику</l>
+      <l>адьютантъ мой <persName>Власенко</persName></l>
+      <l>командированъ былъ</l>
+      <l>мною для открытія</l>
+      <l>не существуетъ ли <del rend="overstrike">со</del></l>
+      <l><del rend="overstrike">стороны евреевъ</del> въ</l>
+      <l>отношеніи къ евре-</l>
+      <l>ямъ какихъ либо</l>
+      <l>злоупотребленій во</l>
+      <l>вредъ общій или част-</l>
+      <l>ный, причемъ дѣйстви-</l>
+      <l>тельно оказалось, что</l>
+      <l>означенный раввинъ</l>
+      <l>получилъ отъ евреевъ</l>
+      <l>въ пользу свою болѣе</l>
+      <l>30/т рублей, но сіе причтено</l>
+      <l>къ роду добровольнаго <unclear>???</unclear></l>
+      <l>приношенія; то въ уваже</l>
+      <l>ніе сего я признаю, что</l>
+      <l>оныя прогонныя деньги</l>
+      <l><hi rend="superscript">119 руб. 52. коп</hi> выданныя адьютанту моему</l>
+      <l>Власенкѣ слѣдуетъ <unclear>причесть</unclear></l>
+      <l>на щетъ казны<del rend="overstrike">,</del>. <del rend="overstrike">а потому</del></l>
+      <l><del rend="overstrike">покорнѣйше прошу ваше</del></l>
+      <l><del rend="overstrike">Сіятельство предписать Витеб. Каз.</del></l>
+      <l><del rend="overstrike">Палатѣ</del></l>
+      <l>Доводя о томъ до свѣдѣ-</l>
+      <l>нія Вашего Сі<hi rend="superscript">ва</hi> покорнейше прошу <del rend="overstrike">частный</del> вас, М.Г., о
+      распоря-</l>
+      <l>женіи какое <hi rend="superscript"><unclear>???</unclear></hi> угодно будетъ вамъ учинить, почтивъ меня
+      благосклоннымъ<note place="end">вероятно, утрачено несколько строк в нижней части листа</note></l>
+    </fw>
     <pb n="120a-1"/>
-    <pb n="121-1"/>
     <pb n="121a-1"/>
-    <pb n="121-2"/>
     <pb n="121a-2"/>
   </body></text>
 </TEI>
