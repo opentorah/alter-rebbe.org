@@ -1,12 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Канкрин</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1829-12-12">12 декабря 1829 года</date></creation>
+      <abstract><p>
+        Сообщение министра финансов генерал-губернатору о разрешении отнести к расходам казны прогонные деньги, выданные
+        во время следствия по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="122-1"/>
+    <fw type="docNum"><emph rend="underline">№ 10451<hi rend="superscript">й</hi>.</emph></fw>
+    <fw type="note"><date when="1829-12-16">16 декабря 1829</date>.</fw>
+    <fw type="note">Къ свѣденію<note place="end">карандашная резолюция</note></fw>
+    <fw type="pageNum" place="right">122</fw>
+    <fw type="note" place="left margin">/Помощникъ</fw>
+    <fw type="note" place="left margin">
+      <l><emph rend="big">Министерство</emph></l>
+      <l><emph rend="big">Финансовъ</emph></l>
+      <l>Департаментъ</l>
+      <l>Государственнаго</l>
+      <l>казначейства</l>
+      <l>часть/ распоряд.</l>
+      <l>Отдѣленіе III:</l>
+      <l>Столъ I.<note place="end">заполненный бланк с пятью верхними печатными строками</note></l>
+      <l><date when="1829-12-12">12 декабря 1829 года</date></l>
+      <l><fw type="docNum">№ 26980.</fw></l>
+      <head>
+        <l>Отвѣтъ на <fw type="docNum">№ 4968<hi rend="superscript">й</hi></fw>.</l>
+        <l>Касательно принятія на</l>
+        <l>счет казны 119 р. 52 к. выдан-</l>
+        <l>ныхъ на прогоны адьютанту</l>
+        <l>капитану <persName>Власенкѣ</persName>._</l>
+      </head>
+    </fw>
+    <salute>
+      <l>Господину витебскому, могилевскому,</l>
+      <l>смоленскому и калужскому генералъ</l>
+      <l>губернатору.</l>
+    </salute>
+    <p>
+      <l>На отношеніе Вашего Сіятель-</l>
+      <l>ства ко мнѣ отъ <date when="1829-10-31">31 ч. прошедшаго<lb/>
+       октября</date>, честь имѣю увѣдомить, что</l>
+      <l>согласно съ заключеніемъ Вашимъ,</l>
+      <l>приказалъ я Департаменту Государ-</l>
+      <l>ственнаго казначества разрѣшить</l>
+      <l>Витебскую казенную палату, чтобы</l>
+      <l>выданные адьютанту капитану</l>
+      <l><persName>Власенкѣ</persName>, командированному Вами</l>
+      <l>въ мѣстечко Староселье для изслѣ-</l>
+      <l>дованія по доносу о противозакон-</l>
+      <l>номъ якобы сборѣ раввинами съ ев-</l>
+      <l>рейскаго народа въ свою пользу денегъ</l>
+      <l>на прогоны 119 р. 52 к. отнесены были</l>
+      <l>расходомъ на счетъ казны, такъ какъ</l>
+      <l>рѣшеніемъ Правительствующаго<lb/>
+       Сената, изъясненнымъ: въ помяну-</l>
+      <l>томъ отношеніи Вашемъ, раввинъ</l>
+      <fw type="note" place="lower margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+      канцеляриста</note></fw>
+      <pb n="122-2"/>
+      <fw type="pageNum" place="right">122 об.<note place="end">номер записан карандашом</note></fw>
+      <l><persName ref="мителер_ребе">Шнеерѣ</persName>, на коего собственно сдѣланъ былъ</l>
+      <l>тотъ доносъ, выновнымъ по оному не приз-</l>
+      <l>нанъ.</l>
+      <l>Министръ финансовъ</l>
+      <l>Генералъ отъ инфантеріи <signed><persName>Канкринъ</persName></signed></l>
+      <l>Директоръ <signed>И.: Рогин<unclear>???</unclear></signed></l>
+    </p>
     <pb n="122a-1"/>
-    <pb n="122-2"/>
   </body></text>
 </TEI>
