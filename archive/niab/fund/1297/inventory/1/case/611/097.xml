@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1826-08-04">4 августа 1826 года</date></creation>
+      <abstract><p>
+        Сообщение Могилевского губернского правления генерал-губернатору о принятии бабиновицким магистратом решения по
+        делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="097-1"/>
@@ -25,11 +35,11 @@
       <l><emph rend="big">рапортъ</emph>.</l>
     </head>
     <p>
-      <l>Раортомъ Бабиновицкїй городовый</l>
+      <l>Рапортомъ Бабиновицкїй городовый</l>
       <l>магистратъ, вследствіе предписанїй сего</l>
       <l>правленїя, во исполненіе предложенїй</l>
       <l>Вашего Сїятельства последовавшихъ,</l>
-      <l>доность, что дѣло о любавицкомъ ра-</l>
+      <l>доносить, что дѣло о любавицкомъ ра-</l>
       <l>винѣ <persName ref="мителер_ребе">Беркѣ Шнеерѣ</persName>, о противозакон-</l>
       <l>ныхъ съ своей собратїи сборахъ, <date when="1826-07-20">20<hi rend="superscript">го</hi> ис-<lb/>
        текшаго јюля</date> решено и представле-</l>
@@ -38,7 +48,7 @@
       <pb n="097-2"/>
       <fw type="pageNum" place="right">97 об<note place="end">номер записан карандашом</note></fw>
       <l>объ ономъ Вашему Сїятельству, во ис-</l>
-      <l>полненія предложенїя отъ <date when="1825-11-17">17<hi rend="superscript">го</hi> ноября<lb/>
+      <l>полненіе предложенїя отъ <date when="1825-11-17">17<hi rend="superscript">го</hi> ноября<lb/>
        1825<hi rend="superscript">го</hi> года</date> подъ <fw type="docNum">№ 5849<hi rend="superscript">мъ</hi></fw>
       полученнаго, поч-</l>
       <l>теннейше донести. <signed>Гражданскій<lb/>
