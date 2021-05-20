@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1843-04-17">17 апреля 17 1843 года</date></creation>
+      <abstract><p>
+        Свидетельство, выданное <persName ref="Цемах_Цедек">Цемах-Цедеку</persName>, его сыну и переводчику на проезд в
+        <placeName ref="Петербург">Санкт-Петербург</placeName> для участия в комиссии
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="017-1"/>
+    <fw type="pageNum" place="right">17.</fw>
+    <fw type="docNum" place="left margin">№ 1660</fw>
+    <fw type="note" place="left margin">Nесмѣловъ<note place="end">подпись канцеляриста</note></fw>
+    <head><l>Свидѣтельство</l></head>
+    <p>
+      <l>Предъявитель сего <placeName ref="Могилевская_губерния">Могилевской губерніи</placeName></l>
+      <l>еврейскій раввинъ <persName ref="Цемах_Цедек">Мендель Шнеер-<lb/>
+       сонъ</persName> по вызову г. министра народнаго</l>
+      <l>просещенія слѣдуетъ въ <placeName ref="Петербург">С-петер<lb/>
+       бургъ</placeName> для заседаніі въ особо-учреж-</l>
+      <l>денномъ по Высочайшему повелѣнію Комитетѣ по дѣламъ</l>
+      <l>еврейскаго народа, при немъ</l>
+      <l>находятся для услугъ сынъ</l>
+      <l>его <persName>Лейба Шнеерсонъ</persName></l>
+      <l>и перерводчикъ лепельскій мѣ-</l>
+      <l>щанинъ <persName>Шмерка Фительсонъ</persName></l>
+      <l>у которыхъ имѣются особыя</l>
+      <l>плакатные паспорта, въ чемъ</l>
+      <l>и на свободное слѣдованіе до</l>
+      <l><placeName ref="Петербург">С петербурга</placeName> и обратно, дано</l>
+      <l>сіе свидѣтельство за <unclear>подписью</unclear></l>
+      <l><unclear>моею</unclear>, съ приложеніемъ печати.</l>
+      <l>Въ <placeName ref="Витебск">Витебскѣ</placeName> <date when="1843-04-17">апрѣля 17 дня<lb/>
+       1843 года</date></l>
+      <l><signed>П.Г. <unclear>???</unclear> Г.А.</signed><note place="end">подпись неизвестного чиновника, не
+      являвшегося ни генерал-губернатором, ни гражданским губернатором, ни вице-губернатором</note></l>
+    </p>
     <pb n="017-2" missing="true"/>
   </body></text>
 </TEI>
