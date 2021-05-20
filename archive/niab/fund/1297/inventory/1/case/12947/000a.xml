@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист архивного дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000a-1"/>
+    <fw type="note" place="right">
+      <l>Витебское отд. Госархивов</l>
+      <l>Фонд № 1 Дело № 528 Св. 648</l><note place="end">заполненный бланк в оттиске архивного штампа</note>
+    </fw>
+    <fw type="docNum">609</fw>
+    <fw type="docNum">№ 107<note place="end">номер записан синим карандашом</note></fw>
+    <fw type="note" place="right">
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретный</l>
+    </fw>
+    <head>
+      <l><fw type="docNum">№ 10<hi rend="superscript">й</hi></fw></l>
+      <l><emph rend="big">Дѣло</emph></l>
+      <l>по отношенію графа <persName>Бенкендорфа</persName>,</l>
+      <l>о <hi rend="superscript">доставлении сведений</hi><note place="end">архивная пометка, сделанная в советское
+      время</note> евреѣ <persName ref="Цемах_Цедек">Менделѣ <emph rend="underline">Любовицерѣ</emph>,<lb/>
+       или <emph rend="underline">Шнеерсонѣ</emph></persName></l>
+      <l>принадлежащемъ къ <orgName ref="Хасиды">cектѣ хоссидимовъ</orgName></l>
+      <l>Началъ <date when="1841-04-10">10 апрѣля 1841<hi rend="superscript">го</hi></date></l>
+      <l>Конч. <date when="1843-04-17">17 апрѣля 1843</date></l>
+      <l>еа 17 листахъ</l>
+    </head>
+    <fw type="note" place="left">
+      <l>Центр. Гос. Исторический</l>
+      <l>Архив МВД БССР</l>
+      <l>Фонд № 1297</l>
+      <l>Инв. № 12947</l>
+      <l><unclear>???</unclear> № <del rend="overstrike">728</del><note place="end">заполненный архивный бланк в оттиске
+      штампа госархива</note></l>
+    </fw>
     <pb n="000a-2" missing="true"/>
   </body></text>
 </TEI>
