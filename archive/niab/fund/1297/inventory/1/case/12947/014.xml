@@ -1,11 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Дьяков</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Уварову</persName></correspAction></correspDesc>
+      <creation><date when="1843-03-24">24 марта 1843</date></creation>
+      <abstract><p>
+        Черновик ответа белорусского генерал-губернатора министру просвещения о приемлемости кандидатуры <persName ref=
+        "Цемах_Цедек">Цемах-Цедека</persName> в состав комиссии по образованию евреев
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="014-1"/>
-    <pb n="014-2"/>
+    <fw type="pageNum" place="right">14/</fw>
+    <fw type="note" place="left margin">Nе-</fw>
+    <opener place="left">
+      <l>Министерство</l>
+      <l>народнаго просвещенія</l>
+      <l>Департаментъ</l>
+      <l>Отдѣленіе 14</l>
+      <l>Столъ 1.</l>
+      <l><date when="1843-03-24">24 марта 1843</date></l>
+      <l><fw type="docNum">№ 47</fw></l>
+      <l>въ <placeName ref="Витебск">Витебскѣ</placeName></l>
+      <l>Отъ генералъ-губернатора</l>
+      <l>смоленскаго, витебскаго</l>
+      <l>и могилевскаго</l>
+    </opener>
+    <head><l>По <fw type="docNum">№ 34</fw></l></head>
+    <p>
+      <l>Господину министру</l>
+      <l>народнаго просвещенія</l>
+      <l>На отношеніе ко</l>
+      <l>мнѣ Вашего Высокопре-</l>
+      <l>восходительства отъ <date when="1841-03-14">14<lb/>
+       текущаго марта</date> за <fw type="docNum">№ 2785</fw></l>
+      <l>долгомъ поставляю увѣ-</l>
+      <l>домить Васъ, милости-</l>
+      <l>вый<note place="end">далеее подразумевается пропущенное слово "государь"</note>, что по основаніи имѣ-</l>
+      <l>ющихся у меня въ виду</l>
+      <l>свѣденій о проживающемъ</l>
+      <l>въ мѣстечкѣ <placeName ref="Любавичи">Любавичахъ</placeName></l>
+      <l>еврейскаго раввина</l>
+      <l>секты хасидимовъ</l>
+      <l><persName ref="Цемах_Цедек"><emph rend="underline">Менделя Шнеерсона</emph></persName>,</l>
+      <l>признавая съ моей сто-</l>
+      <l>роны раввина сего какъ</l>
+      <l>дѣйствительно пользую-</l>
+      <l>щагося всеобщимъ уваже-</l>
+      <l>ніемъ собратій своихъ за</l>
+      <l>свою добрую нравственность</l>
+      <l>и здравый образъ мыслей</l>
+      <l>способнымъ <del rend="overstrike">и достойнымъ</del> <hi rend="superscript">занять</hi></l>
+      <l>предназначаемое</l>
+      <l>ему Вами мѣсто члена</l>
+      <l>Коммиссіи, Высочайше</l>
+      <pb n="014-2"/>
+      <l>учреждаемой въ С.Пе-</l>
+      <l>тербургѣ для образованія</l>
+      <l>еврейскаго народа, – я</l>
+      <l>вмѣстѣ съ тѣмъ пред-</l>
+      <l>ложилъ г. могилевскому</l>
+      <l>гражданскому губернатору</l>
+      <l>объявить немедленно чрезъ</l>
+      <l>кого слѣдуетъ <persName ref="Цемах_Цедек">Шнеерсону</persName></l>
+      <l>о таковомъ назначеніи его,</l>
+      <l>съ тѣмъ, чтобъ онъ при-</l>
+      <l>былъ въ <placeName ref="Петербург">С.Петербургъ</placeName></l>
+      <l>непремѣнно къ 25<hi rend="superscript">му</hi><lb/>
+       числу будущаго апрѣ-</l>
+      <l>ля мца<note place="end">"месяца - слово записано с титлом над ним</note>: на каковой</l>
+      <l>конецъ и снабдить его,</l>
+      <l>согласно требованію</l>
+      <l>Вашего Высокопревва</l>
+      <l>казенною подорожною</l>
+      <l>и прогонами на три</l>
+      <l>лошади.</l>
+    </p>
   </body></text>
 </TEI>
