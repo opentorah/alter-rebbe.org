@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Обложкеа архивного дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <p>
+      <l>Центральный государственный</l>
+      <l>исторический <unclear>архив</unclear><note place="end">слово не читается</note> БССР</l>
+      <l>№ фонд 1297</l>
+      <l>Опись <note place="end">номер описи пропущен</note></l>
+      <l>дело <fw type="docNum">12947</fw></l>
+    </p>
+    <p>
+      <l>Центральный государственный</l>
+      <l>исторический <unclear>архив</unclear><note place="end">слово не читается</note> БССР</l>
+      <l>№ фонд 1297</l>
+      <l>Опись <note place="end">номер описи пропущен</note></l>
+      <l>дело <fw type="docNum">12947</fw></l>
+    </p>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
