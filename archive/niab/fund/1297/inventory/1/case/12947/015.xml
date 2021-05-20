@@ -1,11 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Дьяков</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Энгельгардту</persName></correspAction></correspDesc>
+      <creation><date when="1843-03-24">24 марта 1843</date></creation>
+      <abstract><p>
+        Распоряжение белоорусского генерал-губернатора могилевскому гражданскому губернатору оо направлении <persName
+        ref="Цемах_Цедек">Цемах-Цедека</persName> в <placeName ref="Петербург">Санкт-Петербург</placeName> для участия в
+        комиссии по образованию евреев
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="015-1"/>
-    <pb n="015-2"/>
+    <fw type="pageNum" place="right">15</fw>
+    <fw type="note" place="left margin">смѣ-</fw>
+    <opener place="left">
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретный</l>
+      <l><fw type="docNum">№ 46</fw></l>
+      <l><date when="1843-03-24">24 марта 1843</date></l>
+      <l>въ <placeName ref="Витебск">Витебскѣ</placeName></l>
+    </opener>
+    <head><l>по <fw type="docNum">№ 34</fw></l></head>
+    <salute>
+      <l>Господину могилев-</l>
+      <l>скому гражданскому</l>
+      <l>губернатору</l>
+    </salute>
+    <p>
+      <l>По поводу <del rend="overstrike">вступив-</del> <hi rend="superscript">полученнаго</hi></l>
+      <l>
+        <del rend="overstrike">шаго ко мнѣ требованія</del>
+        <hi rend="superscript">мною письма</hi>
+      </l>
+      <l>г<hi rend="superscript">на</hi> министра народнаго</l>
+      <l>просвещенія и основываясь</l>
+      <l>на имѣющихся у меня</l>
+      <l>въ виду свѣденіяхъ – о про-</l>
+      <l>живающемъ Оршанскаго</l>
+      <l>уѣзда въ мѣстечкѣ <placeName ref="Любавичи">Лю-<lb/>
+       бавичахъ</placeName> еврейскомъ</l>
+      <l>раввине секты <orgName ref="Хасиды">хаси-<lb/>
+       димовъ</orgName> <persName ref="Цемах_Цедек">
+        <emph rend="underline">Менделѣ</emph><lb/>
+        
+        <emph rend="underline">Шнеерсонѣ</emph>
+      </persName>, – призна-</l>
+      <l>вая сего раввина способ-</l>
+      <l>нымъ къ занятію мѣста</l>
+      <l>члена Коммиссіи, <emph rend="big">Вы-</emph></l>
+      <l><emph rend="big">сочайше</emph> учрежденной</l>
+      <l>въ <placeName ref="Петербург">С.-Петербургѣ</placeName> для</l>
+      <l>образованія еврейскаго</l>
+      <l>народа, – покорнѣйше про-</l>
+      <l>шу Ваше Превосхо-</l>
+      <l>дительство приказать</l>
+      <l><hi rend="superscript">немедленно</hi> объявить чрезъ кого слѣдуетъ</l>
+      <pb n="015-2"/>
+      <l>помянутому <persName ref="Цемах_Цедек">Шнеер-<lb/>
+       сону</persName> о таковомъ назна-</l>
+      <l>ченіи его, съ тѣмъ, чтобъ</l>
+      <l>онъ прибылъ въ <placeName ref="Петербург">С. Петер-<lb/>
+       бургъ</placeName> непремѣнно къ <date when="1843-04-25">25<lb/>
+       числу будущаго апрѣ-<lb/>
+       ля мѣсяца</date>, такъ какъ</l>
+      <l>кл времени тому</l>
+      <l>Правительствомъ предпо-</l>
+      <l>ложено открыть <hi rend="superscript">засѣданіе</hi> сказанной</l>
+      <l>Коммиссіи. На проездъ</l>
+      <l>его <persName ref="Цемах_Цедек">Шнеерсона</persName>, не</l>
+      <l>оставьте Ваше Прев.</l>
+      <l>выдать ему подорожную</l>
+      <l>по казенной надобности</l>
+      <l>и снабдить прогон<del rend="overstrike">ами</del> <hi rend="superscript">ными</hi></l>
+      <l>на три лошади день-</l>
+      <l>гами, о возвратѣ</l>
+      <l>коихъ отъ Министерства</l>
+      <l>народнаго просвещенія</l>
+      <l>сдѣлано будетъ надле-</l>
+      <l>жащее распоряженіе</l>
+      <l>впослѣдствіи и Вы</l>
+      <l>объ ономъ получите</l>
+      <l>тогда особое увѣдомленіе.</l>
+    </p>
+    <p>
+      <l>О послѣдующемъ же</l>
+      <l>равно и о томъ (х)<note place="end">указание на продолжение текста на левом поле страницы</note></l>
+      <fw type="note" place="left margin">
+        <l>(х) Когда именно</l>
+        <l><persName ref="Цемах_Цедек">Шнеерсонъ</persName> отпра-</l>
+        <l>вится въ <placeName ref="Петербург">С. Петер-<lb/>
+         бургъ</placeName>, я буду ожидать</l>
+        <l>Вашего донесенія.</l>
+      </fw>
+      <l>P.S.<note place="end">зачеркнутое указание на постскриптум, обведенное по кругу</note></l>
+    </p>
   </body></text>
 </TEI>
