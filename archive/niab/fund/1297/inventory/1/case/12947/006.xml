@@ -1,11 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Клементьев</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <creation><date when="1841-05-20">20 мая 1841 года</date></creation>
+      <abstract><p>
+        Сообщение витебского гражданского губернатора генерал-губернатору о месте жительства и роли в <persName ref=
+        "Цемах_Цедек">Цемах-Цедека</persName> в еврейском мире
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
-    <pb n="006-2"/>
+    <fw type="docNum" place="left">№ 89</fw>
+    <fw type="note"><date when="1841-05-22">22 маія 1841</date>.</fw>
+    <fw type="pageNum" place="right">6.</fw>
+    <fw type="note" place="right"><unclear>???</unclear><note place="end">карандашная пометка</note></fw>
+    <fw type="note" place="left margin">Nе-</fw>
+    <opener place="left">
+      <l><emph rend="big">У.Г.Г.</emph></l>
+      <l>Канцелярія</l>
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретный</l>
+      <l><head>О евреѣ <persName ref="Цемах_Цедек">Любовицерѣ</persName></head></l>
+      <l><fw type="docNum">№ 558</fw>.</l>
+      <l><date when="1841-05-20">20 мая 1841 года</date></l>
+      <l><placeName ref="Витебск">г. Витебскъ</placeName></l>
+      <l>Состоящаго въ должнос-</l>
+      <l>ти витебскаго</l>
+      <l>гражданскаго губерна-</l>
+      <l>тора.</l>
+    </opener>
+    <fw type="note" place="left margin">
+      <l>Подтвердить</l>
+      <l>мог. губ.</l>
+      <l>чтобы <unclear>???</unclear></l>
+      <l><unclear>???</unclear></l>
+    </fw>
+    <salute>
+      <l>Господину генералъ-губер-</l>
+      <l>натору смоленскму, витебско-</l>
+      <l>му и могилевскому</l>
+    </salute>
+    <p>
+      <l>Въ дополненіе къ предста-</l>
+      <l>вленію моему отъ <date when="1841-04-15">15 апрѣ-<lb/>
+       ля</date> за <fw type="docNum">№ 416</fw> о евреѣ <persName ref="Цемах_Цедек">Менделѣ<lb/>
+       Любовицерѣ</persName> честь имѣю пред-</l>
+      <l>ставить Вашему Высоко-</l>
+      <l>превосходительству свѣденія</l>
+      <l>о немъ полученныя мною вновь</l>
+      <l>отъ военно-уѣзднаго началь-</l>
+      <l>ника полковника <persName>Агатоно-<lb/>
+       ва</persName>.</l>
+    </p>
+    <p>
+      <l>1). Еврей <persName ref="Цемах_Цедек">Мендель Любови-<lb/>
+       церъ</persName> купецъ 3= гильдіи, имѣетъ</l>
+      <l>постоянное свое жительство</l>
+      <l><placeName ref="Могилевская_губерния">Могилевской губерніи</placeName> Оршан-</l>
+      <l>скаго уѣзда въ м. <placeName ref="Любавичи">Любавичахъ</placeName></l>
+      <l>онъ внукъ покойнаго еврейскаго</l>
+      <l>раввина <placeName ref="Лиозно">ложинскаго</placeName>, который</l>
+      <l>при жизни своей будто бы</l>
+      <l>извѣстенъ былъ по какому-</l>
+      <l>то случаю въ <placeName ref="Петербург">С. Петербургѣ</placeName>.</l>
+    </p>
+    <p>
+      <l>2.) Еврей <persName ref="Цемах_Цедек">Мендель Любовицеръ</persName></l>
+      <l>принадлежитъ къ классу ев-</l>
+      <l>реевъ такъ называемыхъ <orgName ref="Хасиды">хос-<lb/>
+       сидимовъ</orgName>; человѣкъ онъ по своей</l>
+      <l>вѣрѣ набожной, и всѣ евреи</l>
+      <l><orgName ref="Хасиды">хоссиды</orgName> весьма его уважаютъ</l>
+      <fw type="note" place="lower margin"><unclear>???</unclear> <date when="1841-05-24">24 маія</date> <fw type=
+      "docNum">№ 94</fw>.</fw>
+      <pb n="006-2"/>
+      <l>и почитаютъ.</l>
+    </p>
+    <p>
+      <l>3) Евреи <orgName ref="Хасиды">хоссиды</orgName> живущіе въ губерніяхъ</l>
+      <l>Могилевской, Витебской, Черниговской, Пол-</l>
+      <l>тавкой, Минской и Виленской въ еврей-</l>
+      <l>скіе праздники ѣздятъ къ нему еврею</l>
+      <l>Менделю Любовицеру въ мѣстечко Лю-<lb/>
+       бавичи, и тогда онъ говоритъ имъ по-</l>
+      <l>ученія, чтобъ они соблюдали законъ</l>
+      <l>свой и были въ ономъ тверды!</l>
+      <l><signed>Дѣйствительный статскій соѣтникъ <persName>N. Клементьевъ</persName></signed></l>
+    </p>
   </body></text>
 </TEI>
