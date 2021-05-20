@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Дьяков</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1841-05-24">24 мая 1841</date></creation>
+      <abstract><p>
+        Требование генерал-губернатора могилевскому гражданскому губернатору ускорить предоставление сведений о
+        <persName ref="Цемах_Цедек">Цемах-Цедеке</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="007-1"/>
-    <pb n="007-2"/>
+    <fw type="note" place="right"><emph rend="underline">Секретно</emph></fw>
+    <fw type="pageNum" place="right">7.</fw>
+    <fw type="note" place="left margin">стѣ</fw>
+    <opener place="left">
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретный</l>
+      <l><fw type="docNum">№ 94</fw></l>
+      <l><date when="1841-05-24">24<hi rend="superscript">е</hi> маія 1841</date></l>
+      <l>въ <placeName ref="Витебск">Витебскѣ</placeName></l>
+    </opener>
+    <head><emph rend="underline">по № 89</emph></head>
+    <salute>
+      <l>Господину исправляющему</l>
+      <l>должность могилевскаго</l>
+      <l>гражданскаго губернатора.</l>
+    </salute>
+    <p>
+      <l>Nа два секретныя предложенія</l>
+      <l>мои, данныя г. могилев-</l>
+      <l>скому гражданскому</l>
+      <l>губернатору отъ <date when="1841-04-14">14 <del rend="overstrike">апрѣля</del></date></l>
+      <l>и <date when="1841-04-29">29 апрѣля сего года</date></l>
+      <l>за <fw type="docNum">№№ 54</fw> и <fw type="docNum">70<hi rend="superscript">мъ</hi></fw></l>
+      <l>не получа доселѣ <del rend="overstrike">ни-</del></l>
+      <l>какого свѣденій, требу-</l>
+      <l>ющихъ шефомъ Кор-</l>
+      <l>пуса жандармовъ о евреѣ</l>
+      <l><orgName ref="Хасиды">хоссидимской секты</orgName></l>
+      <l><persName ref="Цемах_Цедек">Менделѣ Любовицерѣ</persName>,</l>
+      <l>вынуждаюсь <unclear>приказать</unclear></l>
+      <l>Вамъ , чтобъ</l>
+      <l><unclear>??? ???</unclear></l>
+      <l>озаботиться достав-</l>
+      <l>леніемъ мнѣ означенныхъ</l>
+      <l>свѣденій безъ дальнѣйшаго</l>
+      <l>отлагательства, объяснивъ</l>
+      <l>при томъ и о причинѣ</l>
+      <pb n="007-2"/>
+      <l>произошедшей въ семъ</l>
+      <l>дѣлѣ медленности</l>
+    </p>
   </body></text>
 </TEI>
