@@ -1,11 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Уваров</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <creation><date when="1843-03-14">14 марта 1843 года</date></creation>
+      <abstract><p>
+        Запрос министра народного просвещения к генерал-губернатору о возможности включения <persName ref="Цемах_Цедек"
+        >Цемах-Цедека</persName> в состав комиссии по образованию евреев
+      </p> как представителя <orgName ref="Хасиды">хасидов</orgName></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="013-1"/>
-    <pb n="013-2"/>
+    <fw type="docNum">№ 1639.</fw>
+    <fw type="docNum">№ 34 секр.</fw>
+    <fw type="note"><date when="1843-03-19">19 марта 1843</date>.</fw>
+    <fw type="pageNum" place="right">13.</fw>
+    <fw type="note" place="left margin">сессоръ</fw>
+    <opener place="left">
+      <l><emph rend="big">Министерство</emph></l>
+      <l><emph rend="big">народнаго просвѣщенія</emph></l>
+      <l>Департаментъ</l>
+      <l>Отдѣленіе III</l>
+      <l>Столъ I</l>
+      <l><date when="1843-03-14">14<hi rend="superscript">го</hi> марта 1843<hi rend="superscript">го</hi> года</date>
+      </l>
+      <l><fw type="docNum">№ 2785</fw>.</l>
+      <l>О назначеніи члена.</l>
+    </opener>
+    <fw type="note" place="left margin">
+      <l>По справкѣ съ <hi rend="superscript">секретнымъ</hi> дѣломъ</l>
+      <l><unclear>??? ???</unclear> благо-</l>
+      <l>надеджен ли сей еврей</l>
+      <l>и можетъ <unclear>??? ???</unclear></l>
+      <l>отправить по</l>
+      <l><unclear>???</unclear><note place="end">резолюция записана карандашом</note></l>
+    </fw>
+    <p>
+      <l>Приступая къ исполненію</l>
+      <l>Высочайшей воли объ открытіи</l>
+      <l>Коммиссіи для образованія евре-</l>
+      <l>евъ въ Россіи, я считаю необходи-</l>
+      <l>мымъ имѣть членомъ въ Ком-</l>
+      <l>миссіи одного изъ раввиновъ <orgName ref="Хасиды">секты<lb/>
+       хасидимовъ</orgName>, которая составляетъ</l>
+      <l>значительнѣйшую часть народо-</l>
+      <l>населенія евреевъ въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName></l>
+      <l>и <placeName ref="Литва">Литвѣ</placeName>.</l>
+    </p>
+    <p>
+      <l>Изъ дѣлъ ввереннаго мнѣ</l>
+      <l>министерства видно, что <orgName ref="Хасиды">хаси-<lb/>
+       димы</orgName> признаютъ главою своею</l>
+      <l>раввина <persName ref="Цемах_Цедек">Менделя Шнеерсона</persName>,</l>
+      <l>проживающаго <placeName ref="Могилевская_губерния">Могилевской<lb/>
+       губерніи</placeName> Оршанскаго уѣзда въ</l>
+      <l>мѣстечкѣ <placeName ref="Любавичи">Любавичахъ</placeName>, кото-</l>
+      <l>рый съ хорошею нравственностію</l>
+      <fw type="note" place="left margin">Дѣло о <persName ref="Цемах_Цедек">Любовицерѣ</persName><note place="end"
+      >карандашная пометка</note></fw>
+      <fw type="note" place="lower margin"><unclear>Подпис</unclear> <date when="1843-03-24">24 марта</date> <fw type=
+      "docNum">№№ 46</fw> и <fw type="docNum">47</fw></fw>
+      <pb n="013-2"/>
+      <l>соединяетъ здравый образъ мыслей.</l>
+    </p>
+    <p>
+      <l>Побуждаясь просьбами самихъ же евреевъ, и</l>
+      <l>озабочиваясь назначеніемъ въ члены Коммиссіи</l>
+      <l>человѣка, имѣющаго вліяніе на общество, я</l>
+      <l>покорнѣйше прошу Ваше Превосходитель-</l>
+      <l>ство почтить меня увѣдомленіемъ, не находи-</l>
+      <l>те ли со своей стороны препятствія къ на-</l>
+      <l>значенію <persName ref="Цемах_Цедек">Менделя Шнеерсона</persName> членомъ Ком-</l>
+      <l>миссіи, Высочайше утвержденной для образо-</l>
+      <l>ванія евреевъ въ Россіи, и если одобряете этотъ</l>
+      <l>выборъ, то приказать ему прибыть въ <placeName ref="Петербург">С.Пе-<lb/>
+       тербургъ</placeName> къ <date when="1843-04-25">25 апрѣля сего года</date>, къ которому</l>
+      <l>времени я намѣренъ открыть Коммиссію, снаб-</l>
+      <l>дивъ его казенною подорожною и прогонами</l>
+      <l>на три лошади. О возвратѣ употребленныхъ</l>
+      <l>по сему предмету денегъ, я не оставлю сдѣ-</l>
+      <l>лать распоряженіе, по полученіи о томъ отъ</l>
+      <l>Вашего Превосходительства увѣдомленія.</l>
+      <l>Министръ народнаго просвѣщенія <signed><persName>Уваровъ</persName></signed></l>
+      <l>Управляющій департаментомъ</l>
+      <l>Товарищъ министра кн. <signed><persName>Ширинскій-Шихматовъ</persName></signed></l>
+    </p>
   </body></text>
 </TEI>
