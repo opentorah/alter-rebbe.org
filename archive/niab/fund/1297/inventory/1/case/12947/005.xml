@@ -1,11 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Дьяков</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1841-04-29">29 апреля 1841</date></creation>
+      <abstract><p>
+        Указания генерал-губернатора могилевскому граждансмкому губернатору о дознании в отношении <persName ref=
+        "Цемах_Цедек">Цемах-Цедека</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="005-1"/>
-    <pb n="005-2"/>
+    <fw type="note"><emph rend="underline">Секретно</emph></fw>
+    <fw type="pageNum" place="right">5.</fw>
+    <fw type="note" place="left margin">ссоръ</fw>
+    <opener place="left">
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретн</l>
+      <l><fw type="docNum">№ 70</fw></l>
+      <l><date when="1841-04-29">29<hi rend="superscript">е</hi> апрѣля 1841</date></l>
+      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+    </opener>
+    <salute>
+      <l>Господину моги-</l>
+      <l>левскому гражданскому</l>
+      <l>губернатору</l>
+    </salute>
+    <p>
+      <l>Для лучшаго успѣха</l>
+      <l>въ собраніи <hi rend="superscript">свѣденій</hi> требуемыхъ</l>
+      <l><del rend="overstrike">требуемыхъ</del> <hi rend="superscript">секретнымъ</hi> предложені-</l>
+      <l>емъ моимъ Ввашему Пре-</l>
+      <l>восходительству отъ <date when="1841-04-14">14<hi rend="superscript">го</hi><lb/>
+       текщаго апрѣля</date> за</l>
+      <l><fw type="docNum">№ 55</fw>, касательно</l>
+      <l>еврея <persName ref="Цемах_Цедек">Менделя<lb/>
+       <emph rend="underline">Любовицера</emph></persName>, – нужнымъ</l>
+      <l>считаю препроводить</l>
+      <l><unclear>у сего въ</unclear> засвидѣтельст-</l>
+      <l>вованномъ <unclear>нынѣ</unclear> доне-</l>
+      <l>сеніе ко мнѣ г. состоя-</l>
+      <l>щаго въ должности ви-</l>
+      <l>тебскаго гражд. губерна-</l>
+      <l>тора за № 116<hi rend="superscript">мъ</hi></l>
+      <l>съ тѣмъ, чтобъ по ука-</l>
+      <l>заніямъ, въ этомъ доне-</l>
+      <l>сеніи дѣлаемымъ, не оста-</l>
+      <l>вили Вы приказать</l>
+      <pb n="005-2"/>
+      <l>кому слѣдуетъ, точнѣе</l>
+      <l>удостовѣриться подъ ру-</l>
+      <l>кою: дѣйствительно ли</l>
+      <l>помянутый еврей жи-</l>
+      <l>тельствуетъ ввѣренной</l>
+      <l>Вамъ губерніи въ мѣ-</l>
+      <l>стечкѣ <placeName ref="Любавичи">Любавичахъ</placeName></l>
+      <l>и можетъ <hi rend="superscript">несомнѣнно</hi> почитаться</l>
+      <l>за то <del rend="overstrike"><unclear>???</unclear></del> <unclear>???</unclear>,</l>
+      <l>о которомъ въ вышеупо-</l>
+      <l>мянутомъ предложеніи</l>
+      <l>моемъ <del rend="overstrike">Вамъ</del> сказано.</l>
+      <l>По дознаніи же всего</l>
+      <l>этого <del rend="overstrike"><unclear>???</unclear></del></l>
+      <l>не оставьте Ваше Пре-</l>
+      <l>восходительство безъ вся-</l>
+      <l>каго замедленія со-</l>
+      <l>общить мнѣ о <persName ref="Цемах_Цедек">Лю-<lb/>
+       бовицерѣ</persName> точныя</l>
+      <l>свѣденія, для представ-</l>
+      <l>ленія ихъ по принад-</l>
+      <l>лежности г. шефу</l>
+      <l>корпуса жандармовъ</l>
+    </p>
   </body></text>
 </TEI>
