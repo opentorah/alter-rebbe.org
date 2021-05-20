@@ -1,11 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Бенкендорф</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <creation><date when="1841-04-05">5 апрѣля 1841</date></creation>
+      <abstract><p>
+        Письмо главного начальника III отделения императорской канцелярии <persName>А.Х. Бенкендорфа</persName><note
+        place="end"><ref target="https://ru.wikipedia.org/wiki/Бенкендорф,_Александр_Христофорович">[Википедия]</ref>
+        </note> генерал-губернатору с требованием навести справки о <persName ref="Цемах_Цедек">Цемах-Цедеке</persName>
+        в связи с противодействием последнего правительственным мерам в отношении евреев
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
-    <pb n="001-2"/>
+    <fw type="docNum" place="left"># 45</fw>
+    <fw type="note"><date when="1841-04-10">10 апрѣля 1841</date></fw>
+    <fw type="note" place="right">Секретно.</fw>
+    <fw type="pageNum" place="right">1.</fw>
+    <fw type="note" place="left margin">Кол-</fw>
+    <opener place="left">
+      <l><emph rend="big">III ОТдѣленіе</emph></l>
+      <l>собственной</l>
+      <l>его императорскаго</l>
+      <l>величества</l>
+      <l>канцелярии</l>
+      <l>Экспедиція</l>
+      <l><placeName ref="Петербург">С. Петербургъ</placeName></l>
+      <l><date when="1841-04-05">5 апрѣля 1841</date></l>
+      <l><fw type="docNum">№ 2006</fw></l>
+      <l><emph rend="underline"><head>О <persName ref="Цемах_Цедек">Менделѣ Лобовицерѣ</persName></head></emph><note
+      place="end">заполненный бланк Канцелярии III Отделения</note></l>
+    </opener>
+    <fw type="note" place="left margin">
+      <l>Поручить губернатору</l>
+      <l>разузнать частнымъ</l>
+      <l>образомъ гдѣ этотъ</l>
+      <l>еврей живетъ чтобы</l>
+      <l><unclear>??? ???</unclear></l>
+      <l><unclear>??? ???</unclear></l>
+      <l>а потомъ собрать</l>
+      <l>и требуемое объ немъ</l>
+      <l>свѣденіе<note place="end">резолюция записана карандашом</note></l>
+    </fw>
+    <salute>
+      <l>Милостивый Государь</l>
+      <l><persName>Петръ Николаевичъ</persName><note place="end">П.Н. Дьяков - с 1836 г. генерал-губернатор смоленский,
+      витебский и могилевский <ref target="https://ru.wikipedia.org/wiki/Дьяков,_Пётр_Николаевич"
+      >[Википедия]</ref></note>.</l>
+    </salute>
+    <p>
+      <l>До меня дошло свѣденіе,</l>
+      <l>что главою существующей</l>
+      <l>въ <placeName ref="Витебск">Витебскѣ</placeName> и Могилевѣ</l>
+      <l>еврейской секты, подъ назва-</l>
+      <l>ніемъ <orgName ref="Хасиды">хоссидимовъ</orgName>, проти-</l>
+      <l>вудѣйствующей мѣрамъ</l>
+      <l>Правительства въ отно-</l>
+      <l>шеніи къ евреямъ, считается</l>
+      <l>нѣкто <persName ref="Цемах_Цедек">Мендель Лобовицеръ</persName>.</l>
+      <l>Сообщая о семъ Ваше-</l>
+      <l>му Превосходительству,</l>
+      <l>покорнѣйше прошу Васъ,</l>
+      <l>Милоствый государь,</l>
+      <l>приказать собрать подъ</l>
+      <l>рукою подробныя свѣдѣ-</l>
+      <l>нія объ означенномъ</l>
+      <l><persName ref="Цемах_Цедек">Лобовицерѣ</persName>: что онъ за</l>
+      <l>человѣкъ, какого поведенія,</l>
+      <l>образа мыслей и нрав-</l>
+      <fw type="note" place="left margin"><l>Его Пре<hi rend="superscript">ву</hi> <persName>П.Н.<lb
+      />Дьякову</persName>._</l></fw>
+      <fw type="note" place="lower margin"><unclear>???</unclear> <date when="1841-04-14">14 апрѣля</date> <fw type=
+      "docNum">№№ 55</fw> и <fw type="docNum">54</fw>.</fw>
+      <pb n="001-2"/>
+      <l>ственности, какія имѣетъ связи и</l>
+      <l>до какой степени простироится влія</l>
+      <l>ніе его на своихъ единовѣрцевъ? о послѣ</l>
+      <l>дующемъ же не оставьте почтить</l>
+      <l>меня Вашимъ увѣдомленіемъ._</l>
+      <l>Съ совершеннымъ почтеніемъ и пре</l>
+      <l>данностіяю иbv. честь быть,</l>
+      <l>Вашего превосходительства</l>
+      <l>покорнѣйшій слуга</l>
+      <l>Графъ <persName ref="Бенкендорф">Бенкендорфъ</persName></l>
+    </p>
   </body></text>
 </TEI>
