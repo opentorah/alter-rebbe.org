@@ -2,11 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Уваров</persName></author>
+      <author><persName ref="Уваров">Уваров</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Дьяков" role="addressee">Дьякову</persName></correspAction>
+      </correspDesc>
       <creation><date when="1843-03-14">14 марта 1843 года</date></creation>
       <abstract><p>
         Запрос министра народного просвещения к генерал-губернатору о возможности включения <persName ref="Цемах_Цедек"
@@ -35,11 +36,16 @@
     <fw type="note" place="left margin">
       <l>По справкѣ съ <hi rend="superscript">секретнымъ</hi> дѣломъ</l>
       <l><unclear>??? ???</unclear> благо-</l>
-      <l>надеджен ли сей еврей</l>
+      <l>надежен ли сей еврей</l>
       <l>и можетъ <unclear>??? ???</unclear></l>
-      <l>отправить по</l>
+      <l>отправиться по</l>
       <l><unclear>???</unclear><note place="end">резолюция записана карандашом</note></l>
     </fw>
+    <salute>
+      <l>Господину витебскому, смоленско-</l>
+      <l>му и могилевскому генералъ-гу-</l>
+      <l>бернатору</l>
+    </salute>
     <p>
       <l>Приступая къ исполненію</l>
       <l>Высочайшей воли объ открытіи</l>
@@ -50,7 +56,7 @@
        хасидимовъ</orgName>, которая составляетъ</l>
       <l>значительнѣйшую часть народо-</l>
       <l>населенія евреевъ въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName></l>
-      <l>и <placeName ref="Литва">Литвѣ</placeName>.</l>
+      <l>и <placeName ref="Литва">Литвѣ</placeName>.</l><note place="end">резолюция записана карандашом</note>
     </p>
     <p>
       <l>Изъ дѣлъ ввереннаго мнѣ</l>
@@ -59,7 +65,8 @@
       <l>раввина <persName ref="Цемах_Цедек">Менделя Шнеерсона</persName>,</l>
       <l>проживающаго <placeName ref="Могилевская_губерния">Могилевской<lb/>
        губерніи</placeName> Оршанскаго уѣзда въ</l>
-      <l>мѣстечкѣ <placeName ref="Любавичи">Любавичахъ</placeName>, кото-</l>
+      <l>мѣстечкѣ <placeName ref="Любавичи">Любавичахъ</placeName>, которо-</l>
+      <l>му они повинуются, и кото-</l>
       <l>рый съ хорошею нравственностію</l>
       <fw type="note" place="left margin">Дѣло о <persName ref="Цемах_Цедек">Любовицерѣ</persName><note place="end"
       >карандашная пометка</note></fw>
@@ -86,7 +93,7 @@
       <l>по сему предмету денегъ, я не оставлю сдѣ-</l>
       <l>лать распоряженіе, по полученіи о томъ отъ</l>
       <l>Вашего Превосходительства увѣдомленія.</l>
-      <l>Министръ народнаго просвѣщенія <signed><persName>Уваровъ</persName></signed></l>
+      <l>Министръ народнаго просвѣщенія <signed><persName ref="Уваров">Уваровъ</persName></signed></l>
       <l>Управляющій департаментомъ</l>
       <l>Товарищъ министра кн. <signed><persName>Ширинскій-Шихматовъ</persName></signed></l>
     </p>
