@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site n="by">
-  <information
-    siteUrl="www.alter-rebbe.org"
+<site>
+  <common
+    url="www.alter-rebbe.org"
     favicon="alter-rebbe.jpg"
-    licenseName="Creative Commons Attribution 4.0 International License"
-    licenseUrl="http://creativecommons.org/licenses/by/4.0/"
     googleAnalyticsId="UA-154490117-1"
     email="dub@opentorah.org"
-    githubUsername="opentorah"
-    twitterUsername="theopentorah"
   >
     <!-- TODO title: Архив 19 кислева -->
     <title>Документы</title>
+    <license
+      name="Creative Commons Attribution 4.0 International License"
+      url="http://creativecommons.org/licenses/by/4.0/"
+    />
+    <social
+      github="opentorah"
+      twitter="theopentorah"
+    />
     <footer>
-    documents related to early Chabad history<br/>
-    🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
-    <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
+      documents related to early Chabad history<br/>
+      🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
+      <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
     </footer>
     <page url="/names"/>
     <page url="/collections"/>
     <page url="/note/help"/>
     <page url="/note/about"/>
-  </information>
-  <tei facsimilesUrl="https://storage.googleapis.com/facsimiles.alter-rebbe.org/">
-    <sourceDesc><p>Facsimile</p></sourceDesc>
-    <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
-  </tei>
+    <tei facsimilesUrl="https://storage.googleapis.com/facsimiles.alter-rebbe.org/">
+      <sourceDesc><p>Facsimile</p></sourceDesc>
+      <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
+    </tei>
+    <highlighter isEnabled="true" usePrism="false"/>
+  </common>
   <entities selector="name" directory="names"/>
   <entityLists selector="names">
     <listPerson n="jews" role="jew"><title>Жиды (они же Евреи)</title></listPerson>

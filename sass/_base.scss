@@ -148,6 +148,12 @@ div.endnotes {
 .endnote + .endnote {
   padding-left: 1em;
 }
+// TODO try emulating blog tags:
+//.endnote {
+//  display: inline-block;
+//  padding: 0 1em;
+//  margin-right: 1em;
+//}
 a.endnote-backlink {
   color: red;
 }
