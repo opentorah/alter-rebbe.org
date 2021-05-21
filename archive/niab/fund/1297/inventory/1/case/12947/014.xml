@@ -2,11 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Дьяков</persName></author>
+      <author><persName ref="Дьяков">Дьяков</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Уварову</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Уваров" role="addressee">Уварову</persName></correspAction>
+      </correspDesc>
       <creation><date when="1843-03-24">24 марта 1843</date></creation>
       <abstract><p>
         Черновик ответа белорусского генерал-губернатора министру просвещения о приемлемости кандидатуры <persName ref=
@@ -16,13 +17,13 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="014-1"/>
-    <fw type="pageNum" place="right">14/</fw>
+    <fw type="pageNum" place="right">14.</fw>
     <fw type="note" place="left margin">Nе-</fw>
     <opener place="left">
       <l>Министерство</l>
       <l>народнаго просвещенія</l>
       <l>Департаментъ</l>
-      <l>Отдѣленіе 14</l>
+      <l>Отдѣленіе III</l>
       <l>Столъ 1.</l>
       <l><date when="1843-03-24">24 марта 1843</date></l>
       <l><fw type="docNum">№ 47</fw></l>
@@ -32,9 +33,11 @@
       <l>и могилевскаго</l>
     </opener>
     <head><l>По <fw type="docNum">№ 34</fw></l></head>
-    <p>
+    <salute>
       <l>Господину министру</l>
       <l>народнаго просвещенія</l>
+    </salute>
+    <p>
       <l>На отношеніе ко</l>
       <l>мнѣ Вашего Высокопре-</l>
       <l>восходительства отъ <date when="1841-03-14">14<lb/>
@@ -46,7 +49,7 @@
       <l>свѣденій о проживающемъ</l>
       <l>въ мѣстечкѣ <placeName ref="Любавичи">Любавичахъ</placeName></l>
       <l>еврейскаго раввина</l>
-      <l>секты хасидимовъ</l>
+      <l><orgName ref="Хасиды">секты хасидимовъ</orgName></l>
       <l><persName ref="Цемах_Цедек"><emph rend="underline">Менделя Шнеерсона</emph></persName>,</l>
       <l>признавая съ моей сто-</l>
       <l>роны раввина сего какъ</l>
