@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Дьяков</persName></author>
+      <author><persName ref="Дьяков">Дьяков</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1841-04-29">29 апреля 1841</date></creation>
       <abstract><p>
-        Указания генерал-губернатора могилевскому граждансмкому губернатору о дознании в отношении <persName ref=
+        Указания генерал-губернатора могилевскому гражданскому губернатору о дознании в отношении <persName ref=
         "Цемах_Цедек">Цемах-Цедека</persName>
       </p></abstract>
     </profileDesc>
@@ -30,18 +30,19 @@
       <l>левскому гражданскому</l>
       <l>губернатору</l>
     </salute>
+    <head><l>По <fw type="docNum">№ 58</fw></l></head>
     <p>
       <l>Для лучшаго успѣха</l>
       <l>въ собраніи <hi rend="superscript">свѣденій</hi> требуемыхъ</l>
       <l><del rend="overstrike">требуемыхъ</del> <hi rend="superscript">секретнымъ</hi> предложені-</l>
-      <l>емъ моимъ Ввашему Пре-</l>
+      <l>емъ моимъ Вашему Пре-</l>
       <l>восходительству отъ <date when="1841-04-14">14<hi rend="superscript">го</hi><lb/>
-       текщаго апрѣля</date> за</l>
+       текущаго апрѣля</date> за</l>
       <l><fw type="docNum">№ 55</fw>, касательно</l>
       <l>еврея <persName ref="Цемах_Цедек">Менделя<lb/>
        <emph rend="underline">Любовицера</emph></persName>, – нужнымъ</l>
       <l>считаю препроводить</l>
-      <l><unclear>у сего въ</unclear> засвидѣтельст-</l>
+      <l><unclear>у сего</unclear> въ засвидѣтельст-</l>
       <l>вованномъ <unclear>нынѣ</unclear> доне-</l>
       <l>сеніе ко мнѣ г. состоя-</l>
       <l>щаго въ должности ви-</l>
@@ -60,7 +61,7 @@
       <l>Вамъ губерніи въ мѣ-</l>
       <l>стечкѣ <placeName ref="Любавичи">Любавичахъ</placeName></l>
       <l>и можетъ <hi rend="superscript">несомнѣнно</hi> почитаться</l>
-      <l>за то <del rend="overstrike"><unclear>???</unclear></del> <unclear>???</unclear>,</l>
+      <l>за то <del rend="overstrike"><unclear>???</unclear></del> лицо,</l>
       <l>о которомъ въ вышеупо-</l>
       <l>мянутомъ предложеніи</l>
       <l>моемъ <del rend="overstrike">Вамъ</del> сказано.</l>
