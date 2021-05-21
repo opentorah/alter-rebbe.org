@@ -6,10 +6,11 @@
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Дьяков" role="addressee">Дьякову</persName></correspAction>
+      </correspDesc>
       <creation><date when="1841-05-20">20 мая 1841 года</date></creation>
       <abstract><p>
-        Сообщение витебского гражданского губернатора генерал-губернатору о месте жительства и роли в <persName ref=
+        Сообщение витебского гражданского губернатора генерал-губернатору о месте жительства и роли <persName ref=
         "Цемах_Цедек">Цемах-Цедека</persName> в еврейском мире
       </p></abstract>
     </profileDesc>
@@ -19,6 +20,7 @@
     <fw type="docNum" place="left">№ 89</fw>
     <fw type="note"><date when="1841-05-22">22 маія 1841</date>.</fw>
     <fw type="pageNum" place="right">6.</fw>
+    <fw type="note">секретно.</fw>
     <fw type="note" place="right"><unclear>???</unclear><note place="end">карандашная пометка</note></fw>
     <fw type="note" place="left margin">Nе-</fw>
     <opener place="left">
@@ -43,7 +45,7 @@
     </fw>
     <salute>
       <l>Господину генералъ-губер-</l>
-      <l>натору смоленскму, витебско-</l>
+      <l>натору смоленскому, витебско-</l>
       <l>му и могилевскому</l>
     </salute>
     <p>
@@ -74,7 +76,7 @@
       <l>2.) Еврей <persName ref="Цемах_Цедек">Мендель Любовицеръ</persName></l>
       <l>принадлежитъ къ классу ев-</l>
       <l>реевъ такъ называемыхъ <orgName ref="Хасиды">хос-<lb/>
-       сидимовъ</orgName>; человѣкъ онъ по своей</l>
+       седимовъ</orgName>; человѣкъ онъ по своей</l>
       <l>вѣрѣ набожной, и всѣ евреи</l>
       <l><orgName ref="Хасиды">хоссиды</orgName> весьма его уважаютъ</l>
       <fw type="note" place="lower margin"><unclear>???</unclear> <date when="1841-05-24">24 маія</date> <fw type=
@@ -87,10 +89,10 @@
       <l>Могилевской, Витебской, Черниговской, Пол-</l>
       <l>тавкой, Минской и Виленской въ еврей-</l>
       <l>скіе праздники ѣздятъ къ нему еврею</l>
-      <l>Менделю Любовицеру въ мѣстечко Лю-<lb/>
-       бавичи, и тогда онъ говоритъ имъ по-</l>
+      <l><persName ref="Цемах_Цедек">Менделю Любовицеру</persName> въ мѣстечко <placeName ref="Любавичи">Лю-<lb/>
+       бавичи</placeName>, и тогда онъ говоритъ имъ по-</l>
       <l>ученія, чтобъ они соблюдали законъ</l>
-      <l>свой и были въ ономъ тверды!</l>
+      <l>свой и были въ ономъ тверды.</l>
       <l><signed>Дѣйствительный статскій соѣтникъ <persName>N. Клементьевъ</persName></signed></l>
     </p>
   </body></text>
