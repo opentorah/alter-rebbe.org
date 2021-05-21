@@ -2,14 +2,15 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Дьяков</persName></author>
+      <author><persName ref="Дьяков">Дьяков</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1841-04-14">14 апреля 1841</date></creation>
       <abstract><p>
         Требование генерал-губернатора к гражданским витебскому и могилевскому губернаторам о дознании в отношении
-        <persName ref="Цемах_Цедек">Цемах-Цедека</persName> по распоряжению <persName>Бенкендорфа</persName>
+        <persName ref="Цемах_Цедек">Цемах-Цедека</persName> по распоряжению <persName ref=
+        "Бенкендорф_Александр_Христофорович">Бенкендорфа</persName>
       </p></abstract>
     </profileDesc>
   </teiHeader>
@@ -24,20 +25,20 @@
       <l><fw type="docNum">>№ 54<hi rend="superscript">й</hi></fw></l>
       <l><date when="1841-04-14">14. апрѣля 1841</date></l>
       <l>въ <placeName ref="Витебск">Витебскѣ</placeName></l>
-      <l>Такого же содержанія</l>
-      <l>могилевскому гражд.</l>
-      <l>губернатору <fw type="docNum">№ 55<hi rend="superscript">й</hi></fw></l>
     </opener>
     <head>По <fw type="docNum">№ 45</fw></head>
-    <salute>
-      <l>Господину состоящему</l>
-      <l>въ должности витебскаго</l>
-      <l>гражданскаго губернатора</l>
-    </salute>
+    <salute><fw type="note" place="left margin">
+        <l>Господину состоящему</l>
+        <l>въ должности витебскаго</l>
+        <l>гражданскаго губернатора (х)<note place="end">ссылка на дополнительные строки на левом поле страницы</note></l>
+      </fw></salute>
+    <l>(х)Такого же содержанія</l>
+    <l>могилевскому гражд.</l>
+    <l>губернатору <fw type="docNum">№ 55<hi rend="superscript">й</hi></fw></l>
     <p>
       <l>Шефъ корпуса жан-</l>
       <l>дармовъ, г. генералъ-адъ-</l>
-      <l>ютантъ графъ Бенкендорфъ</l>
+      <l>ютантъ графъ <persName ref="Бенкендорф_Александр_Христофорович">Бенкендорфъ</persName></l>
       <l><del rend="overstrike">отзывомъ отъ <date when="1841-04-05">5<hi rend="superscript">го</hi> текущаго<lb/>
        апрѣля</date> увѣдомляетъ меня,</del></l>
       <l><del rend="overstrike">что</del> <del rend="overstrike">полученнымъ</del> получивъ</l>
@@ -45,7 +46,7 @@
       <l>ществующей въ <placeName ref="Витебск"><emph rend="underline">Витебскѣ</emph></placeName></l>
       <l>и <emph rend="underline">Могилевѣ</emph> секты подъ</l>
       <l>названіемъ хоссидимовъ, ко</l>
-      <l>торый противудѣйствуетъ</l>
+      <l>торая противудѣйствуетъ</l>
       <l>мѣрамъ Правительства</l>
       <l>въ отношеніи къ евреямъ,</l>
       <l>почитается нѣкто</l>
@@ -67,11 +68,11 @@
     </p>
     <p>
       <l>О таковомъ требованіи</l>
-      <l>графа Александра Христо-<lb/>
-       форовича <hi rend="superscript">поспѣшу</hi> сообщить Вашему</l>
+      <l><persName ref="Бенкендорф_Александр_Христофорович">графа Александра Христо-<lb/>
+       форовича</persName> <hi rend="superscript">поспѣшу</hi> сообщить Вашему</l>
       <l>преву<note place="end">превосходительству</note>, <del rend="overstrike"><unclear>???</unclear></del> <hi rend=
       "superscript">съ тѣмъ,</hi> чтобъ</l>
-      <l>r] исполненію онаго учи-</l>
+      <l>къ исполненію онаго учи-</l>
       <l>нить немедленно по</l>
       <l><del rend="overstrike">вверенной Вамъ</del> <hi rend="superscript"><placeName ref="Витебская_губерния"
       >Витебской</placeName>/<placeName ref="Могилевская_губерния">Могилевской</placeName></hi> губерніи</l>
