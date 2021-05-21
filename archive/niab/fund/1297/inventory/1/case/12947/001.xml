@@ -2,23 +2,25 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Бенкендорф</persName></author>
+      <author><persName ref="Бенкендорф_Александр_Христофорович">Бенкендорф</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Дьяков" role="addressee">Дьякову</persName></correspAction>
+      </correspDesc>
       <creation><date when="1841-04-05">5 апрѣля 1841</date></creation>
       <abstract><p>
-        Письмо главного начальника III отделения императорской канцелярии <persName>А.Х. Бенкендорфа</persName><note
-        place="end"><ref target="https://ru.wikipedia.org/wiki/Бенкендорф,_Александр_Христофорович">[Википедия]</ref>
-        </note> генерал-губернатору с требованием навести справки о <persName ref="Цемах_Цедек">Цемах-Цедеке</persName>
-        в связи с противодействием последнего правительственным мерам в отношении евреев
+        Письмо главного начальника III отделения императорской канцелярии <persName ref=
+        "Бенкендорф_Александр_Христофорович">А.Х. Бенкендорфа</persName><note place="end"><ref target=
+        "https://ru.wikipedia.org/wiki/Бенкендорф,_Александр_Христофорович">[Википедия]</ref></note> генерал-губернатору
+        с требованием навести справки о <persName ref="Цемах_Цедек">Цемах-Цедеке</persName> в связи с противодействием
+        последнего правительственным мерам в отношении евреев
       </p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
-    <fw type="docNum" place="left"># 45</fw>
+    <fw type="docNum" place="left">№ 45</fw>
     <fw type="note"><date when="1841-04-10">10 апрѣля 1841</date></fw>
     <fw type="note" place="right">Секретно.</fw>
     <fw type="pageNum" place="right">1.</fw>
@@ -32,7 +34,7 @@
       <l>Экспедиція</l>
       <l><placeName ref="Петербург">С. Петербургъ</placeName></l>
       <l><date when="1841-04-05">5 апрѣля 1841</date></l>
-      <l><fw type="docNum">№ 2006</fw></l>
+      <l><fw type="docNum">№ 2006</fw>.</l>
       <l><emph rend="underline"><head>О <persName ref="Цемах_Цедек">Менделѣ Лобовицерѣ</persName></head></emph><note
       place="end">заполненный бланк Канцелярии III Отделения</note></l>
     </opener>
@@ -49,8 +51,8 @@
     </fw>
     <salute>
       <l>Милостивый Государь</l>
-      <l><persName>Петръ Николаевичъ</persName><note place="end">П.Н. Дьяков - с 1836 г. генерал-губернатор смоленский,
-      витебский и могилевский <ref target="https://ru.wikipedia.org/wiki/Дьяков,_Пётр_Николаевич"
+      <l><persName ref="Дьяков">Петръ Николаевичъ</persName><note place="end">П.Н. Дьяков - с 1836 г. генерал-губернатор
+      смоленский, витебский и могилевский<ref target="https://ru.wikipedia.org/wiki/Дьяков,_Пётр_Николаевич"
       >[Википедия]</ref></note>.</l>
     </salute>
     <p>
@@ -58,7 +60,7 @@
       <l>что главою существующей</l>
       <l>въ <placeName ref="Витебск">Витебскѣ</placeName> и Могилевѣ</l>
       <l>еврейской секты, подъ назва-</l>
-      <l>ніемъ <orgName ref="Хасиды">хоссидимовъ</orgName>, проти-</l>
+      <l>ніемъ <orgName ref="Хасиды">хассидимовъ</orgName>, проти-</l>
       <l>вудѣйствующей мѣрамъ</l>
       <l>Правительства въ отно-</l>
       <l>шеніи къ евреямъ, считается</l>
@@ -84,10 +86,10 @@
       <l>дующемъ же не оставьте почтить</l>
       <l>меня Вашимъ увѣдомленіемъ._</l>
       <l>Съ совершеннымъ почтеніемъ и пре</l>
-      <l>данностіяю иbv. честь быть,</l>
+      <l>данностіяю имѣю честь быть,</l>
       <l>Вашего превосходительства</l>
       <l>покорнѣйшій слуга</l>
-      <l>Графъ <persName ref="Бенкендорф">Бенкендорфъ</persName></l>
+      <l>Графъ <persName ref="Бенкендорф_Александр_Христофорович">Бенкендорфъ</persName></l>
     </p>
   </body></text>
 </TEI>
