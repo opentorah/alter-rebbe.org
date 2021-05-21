@@ -6,7 +6,8 @@
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Дьякову</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Дьяков" role="addressee">Дьякову</persName></correspAction>
+      </correspDesc>
       <creation><date when="1841-04-27">27 апреля 1841</date></creation>
       <abstract><p>
         Сообщение витебского гражданского губернатора генерал-губернатору о статусе и месте жительства <persName ref=
@@ -23,7 +24,7 @@
     <fw type="note">Секретно</fw>
     <fw type="note">Къ <unclear>свѣденію</unclear></fw>
     <opener place="left">
-      <l><emph rend="big">У.Г.Г.</emph></l>
+      <l><emph rend="big">У.Г.Г.</emph><note place="end">Управленіе генералъ-губернатора</note></l>
       <l>Канцелярія</l>
       <l>Отдѣленіе III</l>
       <l>столъ секретный</l>
@@ -45,13 +46,13 @@
       <l>На предлложеніе Вашего Высокопревос-</l>
       <l>ходительства отъ <date when="1841-04-13">13<hi rend="superscript">го</hi> апрѣля</date> за</l>
       <l>№ 54мъ о еврѣе <persName ref="Цемах_Цедек">Менделѣ Любовицерѣ</persName></l>
-      <l>честь иbv. доложить, что по здѣ-</l>
+      <l>честь имѣю доложить, что по здѣ-</l>
       <l>ланному мною распоряженію узналъ</l>
       <l>я чрезъ витебскаго полицмейстера</l>
       <l><persName>Авринскаго</persName>, что <persName ref="Цемах_Цедек">Мендель Любовицеръ</persName></l>
       <l>есть главный раввинъ синагоги</l>
       <l>надъ тремя губерніями еврейскаго</l>
-      <l>общества <orgName ref="Хасиды">хоссидимовъ</orgName> <placeName ref="Витебская_губерния"
+      <l>общества <orgName ref="Хасиды">хосседимовъ</orgName> <placeName ref="Витебская_губерния"
       >Витебской</placeName>,</l>
       <l><placeName ref="Могилевская_губерния">Могилевской</placeName> и <placeName ref="Минская_губерния"
       >Минской</placeName>, проживаетъ</l>
@@ -59,15 +60,15 @@
       <l>Бабиновицкаго уѣзда, въ мѣстечкѣ</l>
       <l><placeName ref="Любавичи">Любавичахъ</placeName>, отъ котораго</l>
       <l>и называется <persName ref="Цемах_Цедек">Любовицеремъ</persName>,</l>
-      <l>настоящее же имя его <persName ref="Цемах_Цедек">Мендель</persName></l>
+      <l>Настоящее же имя его <persName ref="Цемах_Цедек">Мендель</persName></l>
       <pb n="004-2"/>
       <l><persName ref="Цемах_Цедек">Шнеерсонъ</persName>, и какъ видно изъ собранныхъ объ немъ</l>
       <l>изъ подъ руки свѣденій – онъ строгой послѣдова-</l>
       <l>тель <orgName ref="Хасиды">секты хосседовъ</orgName>, слыветъ въ своемъ сословіи</l>
       <l>ученымъ, имѣетъ вліяніе на общество и предпр<note place="end">край листа подрезан</note></l>
       <l>чивый человѣкъ</l>
-      <l>ДLqcndbntkmysq статск. совѣтникъ <signed><persName>N. Клементьевъ</persName></signed><note place="end"
-      >витебский губернатор Н.М. Клементьев</note></l>
+      <l>Дѣйствительный статск. совѣтникъ <signed><persName>N. Клементьевъ</persName></signed><note place="end"
+      >витебский гражданский губернатор Н.М. Клементьев</note></l>
     </p>
   </body></text>
 </TEI>
