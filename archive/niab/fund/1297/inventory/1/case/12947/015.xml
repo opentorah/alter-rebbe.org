@@ -2,15 +2,15 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Дьяков</persName></author>
+      <author><persName ref="Дьяков">Дьяков</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <correspDesc><correspAction><persName role="addressee">Энгельгардту</persName></correspAction></correspDesc>
       <creation><date when="1843-03-24">24 марта 1843</date></creation>
       <abstract><p>
-        Распоряжение белоорусского генерал-губернатора могилевскому гражданскому губернатору оо направлении <persName
-        ref="Цемах_Цедек">Цемах-Цедека</persName> в <placeName ref="Петербург">Санкт-Петербург</placeName> для участия в
+        Распоряжение белорусского генерал-губернатора могилевскому гражданскому губернатору о направлении <persName ref=
+        "Цемах_Цедек">Цемах-Цедека</persName> в <placeName ref="Петербург">Санкт-Петербург</placeName> для участия в
         комиссии по образованию евреев
       </p></abstract>
     </profileDesc>
@@ -30,7 +30,7 @@
     <salute>
       <l>Господину могилев-</l>
       <l>скому гражданскому</l>
-      <l>губернатору</l>
+      <l>губернатору.</l>
     </salute>
     <p>
       <l>По поводу <del rend="overstrike">вступив-</del> <hi rend="superscript">полученнаго</hi></l>
@@ -69,7 +69,7 @@
        бургъ</placeName> непремѣнно къ <date when="1843-04-25">25<lb/>
        числу будущаго апрѣ-<lb/>
        ля мѣсяца</date>, такъ какъ</l>
-      <l>кл времени тому</l>
+      <l>ко времени тому</l>
       <l>Правительствомъ предпо-</l>
       <l>ложено открыть <hi rend="superscript">засѣданіе</hi> сказанной</l>
       <l>Коммиссіи. На проездъ</l>
