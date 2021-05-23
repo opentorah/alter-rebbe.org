@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="left">
+      <l>3.926</l>
+      <l>Д 5</l><note place="end">архивная пометка</note>
+    </fw>
+    <fw type="note" place="right">
+      <l>Фонд № 1</l>
+      <l>Звязка № 787</l>
+      <l><unclear>???</unclear> № 1041</l>
+      <l>Витебская адзяления</l>
+      <l>дзяржауных <unclear>архивов</unclear></l><note place="end">заполненный архивный бланк</note>
+    </fw>
+    <opener>
+      <l>Канцелярія генералъ-губернатора</l>
+      <l>витебскаго, могилевскаго и смолоенскаго.</l>
+      <l>Отдѣленіе II<hi rend="superscript">е</hi></l>
+      <l>Столъ 3<hi rend="superscript">й</hi></l>
+      <l><fw type="docNum">№ 70</fw></l>
+    </opener>
+    <head>
+      <l><emph rend="big">ДѢЛО</emph></l>
+      <l>По просьбѣ содержателя Оршанскаго пите-</l>
+      <l>наго откупа 3<hi rend="superscript">й</hi> гильдіи купца Боруха Шнер-<lb/>
+       сона о воспрещеніи продавать водку <unclear>близъ города</unclear></l>
+    </head>
+    <closer place="left">
+      <l>Началось <date when="1846-07-18">1846<hi rend="superscript">го</hi> года. 18/VII</date></l>
+      <l>Кончено <date when="1847-11-27">1847 27/XI</date></l>
+      <l>Сдано въ архивъ</l>
+      <l>На 9 листахъ</l>
+    </closer>
+    <fw type="note" place="left">
+      <l>Фонд № 1297</l>
+      <l>Инв. № 16589</l>
+      <l><unclear>???</unclear> № <del rend="overstrike">901</del> Оп1</l>
+    </fw>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
