@@ -13,7 +13,7 @@ pluginManagement {
 enableFeaturePreview('VERSION_CATALOGS')
 enableFeaturePreview('TYPESAFE_PROJECT_ACCESSORS') // doesn't work with project names like 'opentorah-XXX' :(
 
-final String scalaVersion      = '2.13.5'
+final String scalaVersion      = '2.13.6'
 //final String scalaVersionMajor = '2.13'
 final String scalaLibrary      = 'org.scala-lang:scala-library'
 final String opentorahVersion  = '0.2.6-SNAPSHOT'
@@ -30,7 +30,7 @@ dependencyResolutionManagement {
 
   versionCatalogs {libs {
     alias('scala-library').to("$scalaLibrary:$scalaVersion")
-    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:1.113.16')
+    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:1.114.0')
     alias('slf4j').to('org.slf4j:slf4j-api:1.7.30')
     alias('opentorah-collector').to("org.opentorah:opentorah-collector:$opentorahVersion")
     alias('opentorah-site').to("org.opentorah:opentorah-site:$opentorahVersion")
