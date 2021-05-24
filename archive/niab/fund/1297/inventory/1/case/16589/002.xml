@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Голицын</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Гамалее</persName><note place="end">М.М. Гамалея -
+      могилевский гражданский губернатор в 1845-1854 гг.</note></correspAction></correspDesc>
+      <abstract><p>
+        Сообщение белорусского генерал-губернатора могилевскому гражданскому губернатору с указанием отреагировать на
+        прошение <persName>Боруха Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="002-1"/>
+    <fw type="pageNum" place="right">2</fw>
+    <salute>
+      <l>Господину состоящему въ долж-</l>
+      <l>ности могилев. гражданскаго губерна-</l>
+      <l>тора.</l>
+    </salute>
+    <p>
+      <l>Препровождая при семъ къ</l>
+      <l>Вашему Преву<note place="end">превосходительству - слово записано с титлом над ним</note> просьбу
+      содержателя</l>
+      <l>оршанскаго питейнаго откупа 3<hi rend="superscript">й</hi></l>
+      <l>гильдіи купца <persName>Боруха Шнеерсона</persName></l>
+      <l>о воспрещеніи продавать водку</l>
+      <l>вблизи города по дешевымъ</l>
+      <l>цѣнамъ, предлагаю Вамъ, М.Г.<note place="end">милостивый государь</note></l>
+      <l>о томъ распоряженіи, какое по</l>
+      <l>просьбе этой будетъ Вами сдѣ</l>
+      <l>лано мнѣ донести съ возвра-</l>
+      <l>щеніемъ прошенія а просителю</l>
+      <l>отвѣтить</l>
+    </p>
     <pb n="002-2" missing="true"/>
   </body></text>
 </TEI>
