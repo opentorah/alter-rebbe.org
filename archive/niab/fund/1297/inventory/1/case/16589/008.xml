@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Голицын</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Гамалее</persName></correspAction></correspDesc>
+      <creation><date when="1847-07-10">10 июля 1847</date></creation>
+      <abstract><p>
+        Распоряжение белоорусского генерал-губернатора могилевскому гражданскому губернатору с требованием о принятии
+        мер по прошению <persName>Боруха Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="008-1"/>
+    <fw type="pageNum" place="right">8</fw>
+    <opener place="left">
+      <l><head>По <fw type="docNum">№ 455</fw></head></l>
+      <l><date when="1847-07-10">10 јюля 1847</date></l>
+      <l><fw type="docNum">№ 7529</fw></l>
+      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+    </opener>
+    <salute>
+      <l>Господину могилевскому граж-</l>
+      <l>данскому губеру.</l>
+    </salute>
+    <p>
+      <l>Препровождая при семъ къ Ва-</l>
+      <l>шему Преву<note place="end">превосходительству</note> просьбу содержателя</l>
+      <l>оршанскаго питеинаго откупа</l>
+      <l>3 гильдіи купца <persName>Боруха Шнеерсона</persName></l>
+      <l>о воспрещеніи продавать водку</l>
+      <l>вблизи города по дешевымъ цѣнамъ</l>
+      <l>предлагаю Вамъ сообразить просьбу</l>
+      <l>эту съ донесеніемъ своимъ ко</l>
+      <l>мнѣ отъ <date when="1847-05-17">17 мая сего года</date> <fw type="docNum">№ 22</fw>, учи-</l>
+      <l>нивъ къ удовлетворенію домога-</l>
+      <l>тельствъ просителя надлежащихъ</l>
+      <l>распоряженій и <unclear>???</unclear> о послѣдующемъ</l>
+      <l>донести съ возвращеніемъ проше-</l>
+      <l>нія</l>
+    </p>
     <pb n="008-2" missing="true"/>
   </body></text>
 </TEI>
