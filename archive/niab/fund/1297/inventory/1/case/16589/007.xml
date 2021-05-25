@@ -1,11 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Боборыкин</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Голицыну</persName></correspAction></correspDesc>
+      <creation><date when="1847-05-17">17 мая 1847 года</date></creation>
+      <abstract><p>
+        Сообщение могилевского вице-губернатора генерал-губернатору о принятых по прошению Боруха Шнеерсона мерах –
+        обязании соответствующих должностных лиц не допускать снижения цен на алкогольные напитки
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="007-1"/>
-    <pb n="007-2"/>
+    <fw type="docNum">№ 6647.</fw>
+    <fw type="note" place="right"><date when="1847-05-21">21 маія</date></fw>
+    <fw type="pageNum" place="right">7</fw>
+    <opener place="left">
+      <l>Министерство</l>
+      <l>внутреннихъ дѣлъ</l>
+      <l>Начальника</l>
+      <l><placeName ref="Могилевская_губерния">Могилевской губерніи</placeName></l>
+      <l>По</l>
+      <l>Комитету о продаже</l>
+      <l>горячихъ напитковъ</l>
+      <l><fw type="docNum">№ 22</fw></l>
+      <l><date when="1847-05-17">17. мая 1847 года</date></l>
+    </opener>
+    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+    канцеляриста</note></fw>
+    <salute>
+      <l>Господину генералъ-губернатору</l>
+      <l>витебскому могилевскому и</l>
+      <l>смоленскому</l>
+    </salute>
+    <p>
+      <l>По предложенію Вашего</l>
+      <l>Сіятельства отъ <date when="1847-04-27">27<hi rend="superscript">го</hi> апрѣля</date></l>
+      <l>за <fw type="docNum">№ 4397</fw>, я предложилъ копыс-</l>
+      <l>кому и оршанскому уѣзднымъ</l>
+      <l>комитетамъ принять самыя</l>
+      <l>строгія мѣры, чтобы продажа</l>
+      <l>горячихъ напитковъ производилась</l>
+      <l>не дѣшевлѣ установленныхъ гу-</l>
+      <l>бернскимъ Комитетомъ цѣнъ,</l>
+      <l>а депутатамъ подтвердить что</l>
+      <l>если въ участкѣ котораго бу-</l>
+      <l>детъ допущена незаконная</l>
+      <l>продажа питій то съ нимъ</l>
+      <l>поступлено будетъ по всей</l>
+      <l>строгости законовъ.</l>
+      <fw type="note" place="lower margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+      канцеляриста</note></fw>
+      <pb n="007-2"/>
+      <l>Донося о семъ <emph rend="big">Вашему Сіятель</emph>-</l>
+      <l><emph rend="big">ству</emph> имѣю честь предоставить просьбу</l>
+      <l><persName>Боруха Шнеерсона</persName></l>
+      <l>За губернатора вице губернаторъ <signed>Боборыкинъ</signed></l>
+    </p>
   </body></text>
 </TEI>
