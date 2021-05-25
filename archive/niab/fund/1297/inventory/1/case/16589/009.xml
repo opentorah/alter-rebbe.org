@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Голицын</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Гамалее</persName></correspAction></correspDesc>
+      <creation><date when="1847-11-27">27 ноября 1847</date></creation>
+      <abstract><p>
+        Требование генерал-губернатора к могилевскому гражданскому губернатору сообщить о предпринятых действиях по
+        прошению <persName>Боруха Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="009-1"/>
+    <fw type="pageNum" place="right">9</fw>
+    <opener place="left">
+      <l><head>По <fw type="docNum">№ 1118</fw></head></l>
+      <l><date when="1847-11-27">27 ноября 1847</date></l>
+      <l><fw type="docNum">№ 13437</fw></l>
+    </opener>
+    <salute>
+      <l>Г. могилев. гражданскому гу-</l>
+      <l>бернатору.</l>
+    </salute>
+    <p>
+      <l>Въ дополненіе къ предложенію</l>
+      <l>моему отъ <date when="1847-07-10">10 јюня сего года</date> <fw type="docNum">№ 7529</fw></l>
+      <l>препровождая при семъ къ Вашему</l>
+      <l>Преву<note place="end">превосходительству; слово записано с титлом над ним</note> просьбу содержателя ор-</l>
+      <l>шанскаго питейнаго откупа</l>
+      <l><persName>Боруха Шнеерсона</persName> о воспреще-</l>
+      <l>ніи продавать водку близъ</l>
+      <l>города по дешевымъ ценам</l>
+      <l>предлагаю Вамъ, М.Г., о томъ</l>
+      <l>распоряженіи какое Вами по</l>
+      <l>просьбе этой будетъ сдѣлано</l>
+      <l>мнѣ донести съ возвраще-</l>
+      <l>ніемъ приложенія</l>
+    </p>
     <pb n="009-2" missing="true"/>
   </body></text>
 </TEI>
