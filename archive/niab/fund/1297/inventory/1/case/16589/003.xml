@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Голицын</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Гамалее</persName></correspAction></correspDesc>
+      <creation><date when="1847-01-04">4 января 1847</date></creation>
+      <abstract><p>
+        Требоване генерал-губернатора могилевскому гражданскому губернатору сообщить о реакции последнего на прошение
+        <persName>Боруха Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
+    <fw type="pageNum" place="right">3</fw>
+    <opener place="left">
+      <l><head>По <fw type="docNum">№ 12</fw></head>.</l>
+      <l><date when="1847-01-04">4 генваря 1847</date></l>
+      <l><fw type="docNum">№ 131</fw></l>
+      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+    </opener>
+    <salute>
+      <l>Г. могилевскому гражданскому</l>
+      <l>губер-у</l>
+    </salute>
+    <p>
+      <l>Въ дополненіе къ предложенію</l>
+      <l>моему отъ <date when="1846-07-24">24 истекшаго јюля</date></l>
+      <l><fw type="docNum">№ 7353</fw> препровождаю при семъ къ</l>
+      <l>Вашему Преву<note place="end">превосходительству - слово записано с титлом над ним</note> просьбу
+      содержателя</l>
+      <l>оршанскаго питейнаго окупа</l>
+      <l><persName>Боруха Шнеерсона</persName> о воспрещеніи</l>
+      <l>продавать водку <del rend="overstrike">въ</del> вблизи города</l>
+      <l>по дешевымъ ценамъ, предлагаю</l>
+      <l>Вамъ, М.Г. о томъ распоряже-</l>
+      <l>ніи какое вами по просьбе</l>
+      <l>этой будетъ сдѣлано мнѣ до-</l>
+      <l>нести съ возвращеніемъ <unclear>приложеннаго</unclear></l>
+      <l>Помощникъ секретаря <signed>Лав<unclear>???</unclear></signed></l>
+    </p>
     <pb n="003-2" missing="true"/>
   </body></text>
 </TEI>
