@@ -1,11 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Орлов</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Голицыну</persName></correspAction></correspDesc>
+      <creation><date when="1847-01-24">24 янв 1847</date></creation>
+      <abstract><p>
+        Запрос главноуправляющего III Отделением белорусскому генерал-губернатору о возможности снятия секретного
+        жандармского надзора за <persName ref="Цемах_Цедек">Цемах-Цедеком</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
-    <pb n="001-2"/>
+    <fw type="docNum" place="left">№ 41.</fw>
+    <fw type="note"><date when="1847-01-24">24 янв 1847</date>.</fw>
+    <fw type="note" place="right"><emph rend="underline">Секретно.</emph></fw>
+    <fw type="pageNum" place="right">1.</fw>
+    <opener place="left">
+      <l>
+        <emph rend="big">III</emph>
+        <hi rend="superscript">е</hi>
+        <emph rend="big">Отдѣленіе</emph>
+      </l>
+      <l>собственной</l>
+      <l><emph rend="big">его императорскаго</emph></l>
+      <l><emph rend="big">величества</emph></l>
+      <l>канцеляріи</l>
+      <l>/Экспедиція</l>
+      <l><date when="1847-01-??">января 1847</date>.</l>
+      <l><fw type="docNum">№ 121</fw></l>
+    </opener>
+    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <fw type="note" place="left margin">Над</fw>
+    <salute>
+      <l>Милостивый государь</l>
+      <l>князь <persName>Андрей Михайлович</persName></l>
+    </salute>
+    <p>
+      <l>Въ 1841 г. по полученно-</l>
+      <l>му свѣденію, что житель-</l>
+      <l>ствующій въ <placeName ref="Могилевская_губерния">Могилевской<lb/>
+       губерніи</placeName> раввинъ <persName ref="Цемах_Цедек">Мендель<lb/>
+       Шнеерсонъ</persName> противодѣй-</l>
+      <l>ствовалъ мѣрамъ Пра-</l>
+      <l>вительства въ отноше-</l>
+      <l>ніи къ евреямъ, пред-</l>
+      <l>мѣстникомъ моимъ<note place="end"><persName ref="Бенкендорф_Александр_Христофорович">Бенкендорфом</persName>
+      </note></l>
+      <l>сдѣлано было распо-</l>
+      <l>ряженіе объ учрежденіи</l>
+      <l>надъ упомянутымъ</l>
+      <l>евреемъ секретнаго над-</l>
+      <l>зора со стороны Корпу-</l>
+      <l>са жандармовъ.</l>
+    </p>
+    <p>
+      <l>Нынѣ получено доне-</l>
+      <l>сеніе, что <persName ref="Цемах_Цедек">Шнеерсонъ</persName> ведетъ</l>
+      <l>тихую жизнь, ни во что</l>
+      <fw type="note" place="left margin">
+        <l>Его Сія<hi rend="superscript">ву</hi> князю</l>
+        <l><persName>А.М. Голицыну</persName></l>
+      </fw>
+      <pb n="001-2"/>
+      <l>не вмѣшивается, удостоенъ званія</l>
+      <l>почетнаго гражданина и вообще</l>
+      <l>поведеніемъ своимъ заслуживаетъ</l>
+      <l>освобожденія отъ продолжаю-</l>
+      <l>щагося за нимъ надзора._</l>
+    </p>
+    <p>
+      <l>Сообщая о семъ Вашему Сія-</l>
+      <l>тельству, долгомъ считаю по-</l>
+      <l>корнѣйше просить Васъ, мило-</l>
+      <l>стивый государь, почтить меня</l>
+      <l>увѣдомленіемъ какія свѣденія</l>
+      <l>имѣются у васъ насчетъ <persName ref="Цемах_Цедек">Шнеер-<lb/>
+       сона</persName>, и заслуживаетъ ли онъ,</l>
+      <l>по Вашему мнѣнію, означен-</l>
+      <l>наго снисхожденія._</l>
+    </p>
+    <p>
+      <l>Примите увѣреніе въ совершен</l>
+      <l>номъ къ Вамъ почтеніи и ис-</l>
+      <l>тинной преданности._</l>
+      <l>Графъ <persName>Орловъ</persName><note place="end"><note place="end">граф А.Ф. Орлов был главноуправляющим III
+      Отделением в 1845 – 1856 гг.<ref target="https://ru.wikipedia.org/wiki/Орлов,_Алексей_Фёдорович">[Википедия]</ref>
+      </note></note></l>
+    </p>
   </body></text>
 </TEI>
