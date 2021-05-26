@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="docNum" place="left margin">811</fw>
+    <fw type="note" place="left">
+      <l>Св 969.</l>
+      <l>д.112</l><note place="end">архивная пометка</note>
+    </fw>
+    <fw type="note" place="left margin">
+      <l>Витебское отд. Госархивов</l>
+      <l>Фонд № 1 дело № 1112 Св 857</l><note place="end">заполненный бланк архивного штампа</note>
+    </fw>
+    <fw type="note" place="left margin">
+      <l><unclear>Центр.</unclear> гос. исторический</l>
+      <l>архив МВД БССР</l>
+      <l>Фонд № 1297</l>
+      <l><unclear>???</unclear> № 18896</l>
+      <l><unclear>???</unclear> № 1004 <unclear>???</unclear><note place="end">заполненный бланк архивного штампа</note>
+      </l>
+    </fw>
+    <opener place="left">
+      <l>канцеляріи генералъ-губернатора</l>
+      <l>витебскаго, могилевскаго и смоленскаго</l>
+      <l>отдѣленіе III</l>
+      <l>Столъ секретный</l>
+      <l><fw type="docNum">№ 5</fw> 338</l>
+    </opener>
+    <head>
+      <l><emph rend="big">Дѣло</emph></l>
+      <l>по отношенію графа <persName>Орлова</persName>,</l>
+      <l><hi rend="superscript">о доставлении сведений</hi><note place="end">поздняя архивная вставка</note> о
+      жительствующемъ въ <placeName ref="Могилевская_губерния">Моги-<lb/>
+       левской губерніи</placeName> раввинѣ <emph rend="underline"><persName><emph rend="big">Шнеер-<lb/>
+       сонѣ</emph></persName></emph>.</l>
+      <l>Началось 1847 года генваря 24.</l>
+      <l>Кончено 1847. арѣля 14.</l>
+      <l>Сдано въ архивъ<note place="end">дата не вписана</note></l>
+      <l>На 7<hi rend="superscript">и</hi> листахъ.</l>
+    </head>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
