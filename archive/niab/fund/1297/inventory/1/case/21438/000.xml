@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="left">
+      <l>Витебское отд. Госархивов</l>
+      <l>Фонд № 1 Дело № <del rend="overstrike">550</del> 551 Св. 948</l><note place="end">заполненный бланк архивного
+      штампа</note>
+    </fw>
+    <fw type="note" place="left">
+      <l>Центр. Гос. Исторический</l>
+      <l>Архив МВД БССР</l>
+      <l>Фонд № 1297</l>
+      <l>Инв № 21438</l>
+      <l><unclear>???</unclear> № <del rend="overstrike">1122</del> оп 1</l><note place="end">заполненный бланк
+      архивного штампа</note>
+    </fw>
+    <opener>
+      <l>канцелярія генералъ-губернатора</l>
+      <l>витебскаго, могилевскаго и смоленскаго</l>
+      <l>Отдѣленіе II</l>
+      <l>Столъ I</l>
+      <l><fw type="docNum">№ 26<hi rend="superscript">й</hi></fw></l>
+    </opener>
+    <head>
+      <l><emph rend="big">ДѢЛО</emph></l>
+      <l>по отношенію г. министра вн. дѣлъ</l>
+      <l>о возведеніи еврея <emph rend="underline"><persName ref="Цемах_Цедек">Шнеерсона</persName></emph> въ потом-</l>
+      <l>ственное почетное гражданство</l>
+    </head>
+    <closer>
+      <l>Началось <date when="1850-08-23">1850 года 23 августа</date></l>
+      <l>Кончено <date when="1850-09-29">1850 – 29 сентября</date></l>
+      <l>Сдано въ архивъ<note place="end">дата не проставлена</note></l>
+      <l>На трехъ листахъ.</l>
+    </closer>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
