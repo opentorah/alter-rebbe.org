@@ -1,11 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Гамалея</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Голицыну</persName></correspAction></correspDesc>
+      <creation><date when="1847-02-25">25 февраля 1847 г.</date></creation>
+      <abstract><p>
+        Ответ могилевского гражданского губернатора генерал-губернатору с согласием снять секретный жанджармский надзор
+        с <persName ref="Цемах_Цедек">Цемах-Цедека</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="004-1"/>
+    <fw type="docNum" place="left"># 98</fw>
+    <fw type="note" place="right"><date when="1847-03-01">1 мар 1847</date></fw>
+    <fw type="note" place="right">
+      <emph rend="underline">Секретно.</emph>
+      <fw type="pageNum" place="right">4.</fw>
+    </fw>
+    <opener place="left">
+      <l><emph rend="big">министерство</emph></l>
+      <l><emph rend="big">внутреннихъ дѣлъ.</emph></l>
+      <l>Начальника</l>
+      <l><placeName ref="Могилевская_губерния">Могилевской губерніи</placeName></l>
+      <l>канцелярія</l>
+      <l><fw type="docNum">№ 143</fw>.</l>
+      <l><date when="1847-02-25">25 февраля 1847 г.</date></l>
+      <l>О паввинѣ <persName ref="Цемах_Цедек">Менделѣ<lb/>
+       Шнеерсонѣ</persName>.</l>
+    </opener>
+    <fw type="note" place="left margin">для гр. <persName>Орлова</persName><note place="end">резолюция на полях</note>
+    </fw>
+    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <salute>
+      <l>Господину генералъ-гу-</l>
+      <l>бернатору витебскому,</l>
+      <l>могилевскому и смолен-</l>
+      <l>скому.</l>
+      <p>
+        <l>По полученному удосто-</l>
+        <l>вѣренію оказалось, что жи-</l>
+        <l>тельствующій въ <placeName ref="Могилевская_губерния">Могилев-<lb/>
+         ской губерніи</placeName> раввинъ <persName ref="Цемах_Цедек">Мен-<lb/>
+         дель Шнеерсонъ</persName>, удостоенный</l>
+        <l>почетнаго гражданства, по</l>
+        <l>всегдашнему съ 1841 года на-</l>
+        <l>блюденію со стороны Корпуса</l>
+        <l>жандармовъ за поведеніемъ</l>
+        <l>его, образомъ жизни и всѣми</l>
+        <l>поступками, заслуживаетъ</l>
+        <l>быть освобожденнымъ изъ-</l>
+        <l>подъ надзора.</l>
+      </p>
+      <p>
+        <l>О чемъ иbv. честь донести</l>
+        <l>Вашему Сіятельству, въ ис-</l>
+        <l>полненіе предложенія отъ</l>
+        <l><date when="1847-01-25">25 января</date> за <fw type="docNum">№ 37</fw>.</l>
+        <l><signed>Гражданскій губернаторъ <persName>Гамалея</persName></signed></l>
+        <l><signed>Правитель канцеляріи <unclear>???</unclear></signed></l>
+      </p>
+    </salute>
     <pb n="004-2" missing="true"/>
   </body></text>
 </TEI>
