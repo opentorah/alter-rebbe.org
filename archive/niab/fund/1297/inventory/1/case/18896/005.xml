@@ -1,11 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Голицын</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Орлову</persName></correspAction></correspDesc>
+      <creation><date when="1847-03-28">28 марта 1847</date></creation>
+      <abstract><p>
+        Ответ белорусского генерал-губернатора главноуправляющему III Отделением о возможности снятия секретного
+        жандармского надзора за <persName ref="Цемах_Цедек">Цемах-Цедеком</persName> с учетом сведений, предоставленных
+        могилевским губернатором
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="005-1"/>
-    <pb n="005-2"/>
+    <fw type="docNum" place="left">№ <del rend="overstrike">41</del></fw>
+    <fw type="note" place="right">Секретно.</fw>
+    <fw type="pageNum" place="right">5</fw>
+    <opener place="left">
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретный</l>
+      <l><fw type="docNum">№ 89</fw></l>
+      <l><date when="1847-03-28">Марта 28 47</date></l>
+      <l><fw type="docNum">№ 89</fw></l>
+      <l><placeName ref="Витебск">Витебскъ</placeName></l>
+      <l><head>О раввинѣ <persName ref="Цемах_Цедек">Менделѣ Шне<lb/>
+         ерсонѣ</persName></head></l>
+    </opener>
+    <fw type="note" place="left margin">Се-</fw>
+    <salute>
+      <l>Господину командующему</l>
+      <l>императорскою главною</l>
+      <l>квартирою, шефу корпуса</l>
+      <l>жандармовъ</l>
+    </salute>
+    <p>
+      <l>Получивъ въ генварѣ</l>
+      <l>мѣсяцѣ сего года отзывъ</l>
+      <l>Вашего Сіятельства подъ</l>
+      <l>№ 121 о жительствую-</l>
+      <l>щемъ въ <placeName ref="Могилевская_губерния">Могилевской<lb/>
+       губерніи</placeName> раввинѣ <persName ref="Цемах_Цедек">Меделѣ<lb/>
+       Шнеерсонѣ</persName>, я предложилъ</l>
+      <l>могилевскому граждан-</l>
+      <l>скому губернатору увѣдо-</l>
+      <l>мить меня – какія свѣденія</l>
+      <l>имѣются у него въ виду</l>
+      <l>нащетъ <persName ref="Цемах_Цедек">Шнеерсона</persName> и</l>
+      <l>заслуживаетъ ли он,</l>
+      <l>по мнvyy. его, освобожденія</l>
+      <l>учрежденнаго надъ нимъ</l>
+      <l>въ 1841 секретнаго надзора</l>
+      <l>со стороны корпуса жан-</l>
+      <l>дармовъ, за противодѣйствіе</l>
+      <pb n="005-2"/>
+      <l>его мѣрамъ правительства</l>
+      <l>въ отношеніи къ евреямъ.</l>
+    </p>
+    <p>
+      <l>Въ слѣдствіе сего дѣйстви</l>
+      <l>тельный статскій совѣтникъ</l>
+      <l><persName>Гамалѣя</persName> нынѣ увѣдомилъ</l>
+      <l>меня, что раввинъ <persName ref="Цемах_Цедек">Мендель<lb/>
+       Шнеерсонъ</persName>, удостоенный по</l>
+      <l>четнаго гражданства, какъ</l>
+      <l>по полученному удостовѣренію</l>
+      <l>оказалось, по всегдашнему</l>
+      <l>съ 1841 года наблюденію <unclear>со</unclear><note place="end">слово не читается из-за подгиба листа,
+      восстановлено по смыслу</note></l>
+      <l>стороны Корпуса жандармовъ</l>
+      <l>за поведеніемъ его, образомъ</l>
+      <l><hi rend="superscript">жизни</hi> и всѣми поступками, зас</l>
+      <l>луживаетъ быть освобожден-</l>
+      <l>нымъ <hi rend="superscript">отъ продолжающагося за нимъ</hi> <del rend="overstrike">изъ-подъ</del> надзора.</l>
+    </p>
+    <p>
+      <l><del rend="overstrike">О чемъ имѣю честь</del></l>
+      <l><del rend="overstrike">Ваше Сіятельство увѣдомить</del></l>
+      <l>Таковыя свѣденія о раввинѣ</l>
+      <l><persName ref="Цемах_Цедек">Шнеерсонѣ</persName> основываются</l>
+      <l>на удостовѣреніи мѣстнаго</l>
+      <l>губернскаго начальства</l>
+      <l>Честь имѣю сообщить</l>
+      <l>Вашему Сіятельству в</l>
+      <l>послѣдствіе вышеозначеннаго</l>
+      <l>отзыва ко мнѣ Вашего</l>
+      <l>М.Г. подъ № 121<hi rend="superscript">мъ</hi></l>
+    </p>
   </body></text>
 </TEI>
