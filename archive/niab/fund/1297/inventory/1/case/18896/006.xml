@@ -1,11 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Орлов</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee"><persName>Голицыну</persName></persName></correspAction>
+      </correspDesc>
+      <creation><date when="1847-03-22">22 марта 1847</date></creation>
+      <abstract><p>
+        Сообщение главноуправляющего III Отдѣлением белорусскому генерал-губернатору о снятии секретного жандармского
+        надзора, установленно над <persName ref="Цемах_Цедек">Цемах-Цедеком</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
+    <fw type="docNum">№ 128.</fw>
+    <fw type="pageNum" place="right">6.</fw>
+    <fw type="note" place="right"><emph rend="underline">Секретно</emph></fw>
+    <fw type="note">
+      <l>
+        <unclear>???</unclear>
+        <date when="1847-03-23">23 марта 1847</date>
+      </l>
+      <l><date when="1847-03-28">28 марта</date> въ <unclear>???</unclear></l>
+    </fw>
+    <opener place="left">
+      <l><emph rend="big">III Отдѣленіе</emph></l>
+      <l>собственной</l>
+      <l><emph rend="big">его императорскаго</emph></l>
+      <l><emph rend="big">величества</emph></l>
+      <l>канцеляріи</l>
+      <l>/Экспедиція</l>
+      <l><date when="1847-03-22">22 марта 1847</date>.</l>
+      <l><fw type="docNum">№ 455</fw>.</l>
+    </opener>
+    <fw type="note" place="left margin">Мог. губеру<note place="end">резолюция на левом поле</note></fw>
+    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <fw type="note" place="lower margin"><l>Его Сія<hi rend="superscript">ву</hi> кн. <persName>А.М.<lb
+    />ГОлицыну</persName>.</l></fw>
+    <salute>
+      <l>Милостивый государь</l>
+      <l>князь Андрей Михайловичъ.</l>
+    </salute>
+    <p>
+      <l>Въ слѣдствіе изъясненна-</l>
+      <l>го въ отношеніи вашего Сія-</l>
+      <l>тельства отъ <date when="1847-03-07">7<hi rend="superscript">го</hi> марта</date></l>
+      <l><fw type="docNum">№ 89</fw>, одобрительнаго отзыва</l>
+      <l>о жительствующемъ въ <placeName ref="Могилевская_губерния">Мо-<lb/>
+       гилевской губерніи</placeName> раввинѣ</l>
+      <l><persName ref="Цемах_Цедек"><emph rend="underline">Шнеерсонѣ</emph></persName>, я съ симъ вмѣ-</l>
+      <l>стѣ сдѣлалъ надлежащее</l>
+      <l>распоряженіе, дабы учрежден-</l>
+      <l>ный за <persName ref="Цемах_Цедек">Шнеерсономъ</persName> со сто-</l>
+      <l>роны Корпуса жандармовъ</l>
+      <l>секретный надзоръ, былъ</l>
+      <l>прекращенъ.</l>
+    </p>
+    <p>
+      <l>Увѣдомляя о семъ ваше</l>
+      <l>Сіятельство, имѣю честь</l>
+      <l>удостовѣрить васъ въ совер-</l>
+      <l>шенномъ моемъ почтеніи</l>
+      <l>и преданности.</l>
+      <l><signed><persName>Графъ Орловъ</persName></signed></l>
+      <fw type="note" place="lower margin"><l>писано <date when="1847-04-14">14 апрѣля</date> <fw type="docNum">№
+      3931</fw>.</l></fw>
+    </p>
     <pb n="006-2" missing="true"/>
   </body></text>
 </TEI>
