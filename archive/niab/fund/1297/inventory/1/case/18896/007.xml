@@ -1,11 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Голицын</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Гамалее</persName></correspAction></correspDesc>
+      <creation><date when="1847-04-14">14 апреля 1847</date></creation>
+      <abstract><p>
+        Сообщение белорусского генерал-губернатора могилевскому гражданскому губернатору о прекращении секретного
+        жандармского надзора за <persName ref="Цемах_Цедек">Цемах-Цедеком</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="007-1"/>
-    <pb n="007-2"/>
+    <fw type="note" place="right"><emph rend="underline">Секретно</emph></fw>
+    <fw type="pageNum" place="right">7.</fw>
+    <head>по № 128<hi rend="superscript">му</hi></head>
+    <opener place="left">
+      <l>Отдѣленіе III</l>
+      <l>Столъ секретный</l>
+      <l><fw type="docNum">№ 3931</fw>.</l>
+      <l><date when="1847-04-14">14 апрѣля 1847</date></l>
+      <l>въ <placeName ref="Петербург">Санктъ-Петербургѣ</placeName></l>
+      <l>о прекращеніи над-</l>
+      <l>зора за раввиномъ</l>
+      <l><persName ref="Цемах_Цедек">Шнеерсономъ</persName></l>
+    </opener>
+    <fw type="note" place="left margin"><unclear>??? ???</unclear><note place="end">нечитабельная резолюция на левом
+    поле страницы</note></fw>
+    <salute>
+      <l>Господину могилевскому</l>
+      <l>гражданскому губернатору</l>
+    </salute>
+    <p>
+      <l>О содержаніи изло-</l>
+      <l>женнаго въ предложеніи</l>
+      <l>ко мнѣ Вашего Превва<note place="end">превосходительства</note></l>
+      <l>отъ <date when="1847-03-22">22 минувшаго марта</date></l>
+      <l>за <fw type="docNum">№ 143<hi rend="superscript">мъ</hi></fw> одобри-</l>
+      <l>тельнаго засвидѣтельст-</l>
+      <l>вованія, о жительствуюю-</l>
+      <l>щемъ въ <placeName ref="Могилевская_губерния">Могилевской гу-<lb/>
+       берніи</placeName> раввинѣ <emph rend="underline"><persName ref="Цемах_Цедек">Шнеерсонѣ</persName></emph>,</l>
+      <l>я сообщилъ тогда же</l>
+      <l>гну шефу Корпуса жан-</l>
+      <l>дармовъ, который нынѣ</l>
+      <l><del rend="overstrike">отзываясь на сіе</del> <hi rend="superscript">увѣдомляетъ</hi> меня,</l>
+      <l>что по уваженіи ска-</l>
+      <l>заннаго засвидѣтельство-</l>
+      <l>ванія Вашего о <persName ref="Цемах_Цедек">Шнеер-<lb/>
+       сонѣ</persName>, онъ сдѣлалъ за-</l>
+      <l>висящее <del rend="overstrike">съ своей стороны</del> <hi rend="superscript">отъ него</hi> распоряженіе</l>
+      <pb n="007-2"/>
+      <l>дабы учрежденный за</l>
+      <l><persName ref="Цемах_Цедек">раввиномъ</persName> со стороны</l>
+      <l>Корпуса жандармовъ секрет-</l>
+      <l>ный надзоръ былъ пре-</l>
+      <l>кращенъ.</l>
+    </p>
+    <p>
+      <l>Объ этомъ отзывѣ</l>
+      <l>графа <persName>Александра Федоровича<lb/>
+       Орлова</persName>, я нужнымъ</l>
+      <l>считаю извѣстить Васъ</l>
+      <l>М.Г. въпослѣдствіи</l>
+      <l>вышеозначеннаго <unclear>предста</unclear>-</l>
+      <l>вленія Вашего ко</l>
+      <l>мнѣ.</l>
+    </p>
   </body></text>
 </TEI>
