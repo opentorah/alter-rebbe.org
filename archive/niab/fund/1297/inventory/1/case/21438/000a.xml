@@ -1,11 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Опись бумаг, входящих в состав дела – заполненный архивный бланк дореволюционного периода
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000a-1"/>
+    <fw type="pageNum" place="right">I</fw>
+    <p>
+      <l>Опись бумагамъ, составляющимъ производящееся въ канцеляріи генералъ-</l>
+      <l>губернатора витебскаго, могилевскаго и смоленскаго дѣло о возведеніи</l>
+      <l>еврея <persName ref="Цемах_Цедек">Шнеерсона</persName> въ почетное потом. граждан-</l>
+      <l>ство</l>
+    </p>
+    <table>
+      <row>
+        <cell><p>
+          <l>Число</l>
+          <l>бумагъ.</l>
+        </p></cell>
+        <cell><p>
+          <l>Какого мѣста или лица бумага, отъ котораго числа и</l>
+          <l>за какимъ №.</l>
+        </p></cell>
+        <cell><p>
+          <l>На ка-</l>
+          <l>кой стра-</l>
+          <l>ницѣ.</l>
+        </p></cell>
+      </row>
+      <row>
+        <cell><p><l>1</l></p></cell>
+        <cell><p><l>Г министра В.Д. <date when="1850-08-17">17 августа</date> <fw type="docNum">№ 3435</fw></l></p>
+        </cell>
+        <cell><p><l>1</l></p></cell>
+      </row>
+      <row>
+        <cell><p><l>2</l></p></cell>
+        <cell><p><l>Ему же <date when="1850-09-29">29 сентября</date> <fw type="docNum">№ 10779</fw></l></p></cell>
+        <cell><p><l>2</l></p></cell>
+      </row>
+    </table>
     <pb n="000a-2" missing="true"/>
   </body></text>
 </TEI>
