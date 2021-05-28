@@ -1,11 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Перовский</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Голицыну</persName></correspAction></correspDesc>
+      <creation><date when="1850-08-23">23 августа 1850</date></creation>
+      <abstract><p>
+        Распоряжение министра внутренних дел белорусскому генерал-губернатору представить заключение о возможности
+        возведения <persName ref="Цемах_Цедек">Цемах-Цедека</persName> в потомственное почетное гражданство
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
+    <fw type="docNum"># 1716.</fw>
+    <fw type="note" place="right"><date when="1850-08-23">23 августа</date></fw>
+    <fw type="pageNum" place="right">1</fw>
+    <opener place="left">
+      <l><emph rend="big">Министерство</emph></l>
+      <l>внутреннихъ дѣлъ.</l>
+      <l>Департаментъ</l>
+      <l><emph rend="big">общихъ дѣлъ</emph></l>
+      <l>министерства.</l>
+      <l>Отдѣленіе 1.</l>
+      <l>Столъ 2</l>
+      <l><date when="1850-08-17">17 августа 1850</date>.</l>
+      <l><fw type="docNum">№ 3435</fw>.</l>
+      <l>Съ препровожденіемъ дѣла ка</l>
+      <l>сательно возведенія купца еврея</l>
+      <l><persName ref="Цемах_Цедек">Шнеерсона</persName> въ потомственное по-</l>
+      <l>четное гражданство.</l>
+    </opener>
+    <fw type="note" place="left margin"><unclear>???</unclear><note place="end">нечитаемая резолюция на левом поле
+    страницы</note></fw>
+    <salute>
+      <l>Господину витебскому, могилевскому</l>
+      <l>и смоленскому генералъ-губернатору.</l>
+    </salute>
+    <p>
+      <l>Г. министръ финансовъ препроводилъ</l>
+      <l>ко мнѣ на заключеніе дѣло <orgName ref="Сенат">Правительству-<lb/>
+       ющаго Сената</orgName> по представленію могилев-</l>
+      <l>скаго гражданскаго губернатора, о возведе-</l>
+      <l>ніи личнаго почетнаго гражданина, ор-</l>
+      <l>шанскаго 2 гильдіи купца еврея <persName ref="Цемах_Цедек">Менделя<lb/>
+       Шнеерсона</persName> съ семействомъ въ потом-</l>
+      <l>ственное почетное гражданство.</l>
+    </p>
+    <p>
+      <l>Сказанное дѣло имѣю честь препрово-</l>
+      <l>дить у сего къ Вашему Сіятельству, покор-</l>
+      <l>нѣйше прося Васъ, милостивый государь, съ</l>
+      <l>возвращеніемъ сего дѣла почтить меня</l>
+      <l>увѣдомленіемъ о Вашемъ по оному заключеніи.</l>
+      <l>Министръ внутреннихъ дѣлъ <signed>графъ <persName>Перовскій</persName></signed></l>
+      <l>Въ должности директора <signed><unclear>???</unclear></signed></l>
+      <l>Помощникъ <signed><unclear>???</unclear></signed></l>
+    </p>
     <pb n="001-2" missing="true"/>
   </body></text>
 </TEI>
