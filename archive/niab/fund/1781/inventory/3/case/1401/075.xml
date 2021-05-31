@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="075-1"/>
+    <fw type="docNum"><emph rend="underline">№ 5.</emph></fw>
+    <fw type="pageNum" place="right">75.<note place="end">номер записан карандашом</note></fw>
+    <head>
+      <l><emph rend="big">Дѣло</emph>.</l>
+      <l>О еврее <persName ref="Моше_Шнеерсон">Мовше Шнеере</persName> пожелавшемъ</l>
+      <l>принять христіанскую римско-като-</l>
+      <l>лическую вѣру</l>
+    </head>
+    <fw type="note" place="right">
+      <l><date when="1820-08-20">1820. года августа 20. дня</date></l>
+      <l>начатое – а <date when="1820-11-15">15 Nоября тогожъ<lb/>
+       года</date> рѣшенное._</l>
+    </fw>
+    <fw type="note"><l><emph rend="underline">По архиву <fw type="docNum">№ 1,401</fw>._</emph></l></fw>
     <pb n="075-2" missing="true"/>
   </body></text>
 </TEI>
