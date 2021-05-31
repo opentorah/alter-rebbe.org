@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      </correspDesc>
+      <creation><date when="1820-08-20">1820 года августа 20 дня</date></creation>
+      <abstract><p>
+        Решение римсок-католической губернской консистории об участии еее представителя в медицинском
+        освидетельствовании <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="077-1"/>
+    <fw type="pageNum" place="right">2<note place="end">номер записан чернилами</note></fw>
+    <fw type="pageNum" place="right">77<note place="end">номер записан карандашом</note></fw>
+    <p>
+      <l><date when="1820-08-20">1820 года августа 20 дня</date> въ журналѣ митрополитской мо-</l>
+      <l>гилевской римско-католической духовной консисторїи за-</l>
+      <l>писано. по выслушаніи сего сообщенія <emph rend="big">Опредѣлили</emph>: согла-</l>
+      <l>сно требованію Его превосходительства, назначить къ та-</l>
+      <l>ковому свидѣтельствованїю за депутата сей Консисторіи</l>
+      <l>г. ассесора каноника <persName>Добровольскаго</persName> съ тѣмъ, дабы для про-</l>
+      <l>писанной надобности явился лично <sic>въ рачебную</sic> здѣшную</l>
+      <l>управу._ О чемъ и г. губернатора увѣдомить._ Подлин-</l>
+      <l>ной за подписами господъ присудствующихъ и скрепою секретаря._</l>
+      <l>Вѣрно: // Секретарь 10. класса <persName>Яцентій Заремба</persName></l>
+    </p>
     <pb n="077-2"/>
   </body></text>
 </TEI>
