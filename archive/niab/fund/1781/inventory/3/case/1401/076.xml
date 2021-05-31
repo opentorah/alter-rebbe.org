@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Меллер-Закомельский</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1820-08-19">19 августа 1820 года</date></creation>
+      <abstract><p>
+        Сообщение могилевского гражданского губернатора римско-католической духовной консистории о необходимости участия
+        ее представителя в медицинском (психиатрическом) освидетельствовании <persName ref="Моше_Шнеерсон">Моше
+        Шнеерсона</persName>, пожелавшего перейти в католичество
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="076-1"/>
-    <pb n="076-2"/>
+    <fw type="docNum" place="left"><emph rend="underline">№. 1237</emph></fw>
+    <fw type="note" place="right">Получ: <date when="1820-08-20">20. августа 1820. года</date>.</fw>
+    <fw type="note" place="right"><emph rend="underline">Секретно</emph></fw>
+    <fw type="pageNum" place="right">1<note place="end">номер записан чернилами</note></fw>
+    <fw type="pageNum" place="right">76<note place="end">номер записан карандашом</note></fw>
+    <head>
+      <l>Отъ могилевскаго гражданскаго губернатора</l>
+      <l/>
+      <l>Могилевской римско-католической духов-</l>
+      <l>ной консисторіи.</l>
+    </head>
+    <p>
+      <l>По случаю освидѣтельствованїя объявив-</l>
+      <l>шаго преждѣ желанїе принять христїан-</l>
+      <l>скую римско-каѳолическую вѣру еврея <persName ref="Моше_Шнеерсон">Мов-<lb/>
+       шу Шнеера</persName>, вздравомъ ли онъ разсудкѣ нахо-</l>
+      <l>дится, я за благо призналъ, произвѣсть та-</l>
+      <l>ковое свидѣтельство въ присудствіи здѣшней</l>
+      <l>Врачебной управы, при депутатѣ со стороны</l>
+      <l>духовной, о командированїи котораго въ управу</l>
+      <l>и прошу симъ оную Консисторїю, и при здѣш-</l>
+      <l>немъ г. полицмейстерѣ, о чемъ ему и предписа-</l>
+      <l>но, а Врачебной управѣ о томъ далъ во извѣ-</l>
+      <l>стїе знать съ тѣмъ, чтобы свидѣ-</l>
+      <fw type="note" place="left">Слуш. <date when="1820-08-20">20. того жъ</date>.</fw>
+      <pb n="076-2"/>
+      <l>тельство за общимъ подписанїемъ было</l>
+      <l>ко мнѣ представлено.</l>
+      <l>Баронъ <signed><persName>Мел-Закомельскій</persName></signed><note place="end">Ф.И. Меллер-Закомельский</note>
+      </l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 465</fw>.</l>
+      <l><emph rend="underline"><date when="1820-08-19">19. августа 1820 года</date></emph></l>
+      <l>Могилевъ</l>
+    </closer>
   </body></text>
 </TEI>
