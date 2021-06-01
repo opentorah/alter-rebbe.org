@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Павел Сидоров</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Письменное свидетельство дворянина Павла Сидорова о том, что он сопровождал Моше Шнеерсона к крещению, но при
+      самом этом акте не присутствовал
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="094-1"/>
+    <fw type="pageNum" place="right">94<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right">18_<note place="end">номер записан чернилами, черта - карандашом; вероятно, номер
+    должен был быть зачеркнут</note></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">8</del>номер записан и зачеркнут чернилами</fw>
+    <fw type="note" place="left margin">фонта-</fw>
+    <p>
+      <l>На сей запросъ честь имею объясниться</l>
+      <l>что я при крещеніи въ Уле улянскаго</l>
+      <l><persName ref="Моше_Шнеерсон">Мовшы рабина</persName> ни к<unclear>???</unclear>комъ ни свидете</l>
+      <l>лемъ не былъ; и чтобы таковой <persName ref="Моше_Шнеерсон">мовша<lb/>
+       рабинъ</persName> былъ кемъ окрещенъ того</l>
+      <l>не знаю и не видалъ, а подписывалъся въ</l>
+      <l>разные времена два раза на <unclear>бумахахъ</unclear></l>
+      <l>ксендзомъ <persName>Седловскимъ</persName> <hi rend="superscript">и другими</hi> составленными</l>
+      <l>въ томъ только что я какъ веденъ</l>
+      <l>былъ рабинъ съ своего дома въ пле-</l>
+      <l>банію для принятія християнской</l>
+      <l>веры, то я онаго проводилъ въ</l>
+      <l>плебанію ко крещенію где <persName ref="Моше_Шнеерсон">рабиномъ</persName></l>
+      <l>прошенъ былъ подписаться во свидетели</l>
+      <l>въ томъ что онъ желаетъ креститься</l>
+      <l>въ чемъ и удовлетворили его желаніе</l>
+      <l>и о томъ какъ выше сказано подпису</l>
+      <l>юсь своеручно Дворянинъ <persName>Павелъ Сидоровъ</persName></l>
+    </p>
     <pb n="094-2" missing="true"/>
   </body></text>
 </TEI>
