@@ -1,11 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Зраницкому</persName></correspAction></correspDesc>
+      <creation><date when="1820-10-23">23 октября 1820 года</date></creation>
+      <abstract><p>
+        Запрсо лепельского земского исправника лепельскому католическому декану о предоставлении свидетельства ксендза
+        <persName>Сиодловского</persName> о крещении <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>; в запросе
+        указано, что в книге крещений уллянского католического костела сведений об этом крещении нет
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="097-1"/>
-    <pb n="097-2"/>
+    <fw type="pageNum" place="right">22<note place="end">номер записан чернилами</note></fw>
+    <fw type="pageNum" place="right">97<note place="end">номер записан карандашом</note></fw>
+    <fw type="note">П. <date when="1820-10-23">1820. года октября 23во д.</date></fw>
+    <fw type="note" place="right"><emph rend="underline">Секретно</emph></fw>
+    <opener place="left">
+      <l>Л: З: И:</l>
+      <l><date when="1820-10-29">Октября 29.<lb/>
+       1820</date>.</l>
+      <l><fw type="docNum">№ 672<hi rend="superscript">и</hi></fw></l>
+    </opener>
+    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <salute>
+      <l>Господину лепельскому де-</l>
+      <l>кану с<hi rend="superscript">го</hi> богословия доктору</l>
+      <l>
+        <unclear>???</unclear>
+        <persName>Зраницкому</persName>
+      </l>
+    </salute>
+    <p>
+      <l>По производимому мною</l>
+      <l>во исполнение предписания</l>
+      <l>начальства секретному</l>
+      <l>изысканию о учиненнымъ яко</l>
+      <l>бы крещеніи въ Уле сума</l>
+      <l>шедшему еврею <persName ref="Моше_Шнеерсон">Мовше<lb/>
+       Шнееру</persName> делалъ я сего числа</l>
+      <l>въ Крестной книгѣ улянска</l>
+      <l>го католическаго костела</l>
+      <l>выпарвку, и по оной въ кни-</l>
+      <l>гѣ съ <date when="1820-07-01">1<hi rend="superscript">го</hi> июля сего года</date></l>
+      <l>по сие время сказаннаго</l>
+      <l>еврея <persName ref="Моше_Шнеерсон">мовши Шнеера</persName></l>
+      <l>крещения записаннаго не</l>
+      <l>нашелъ, кроме другихъ</l>
+      <l>съ того же времени въ зна-</l>
+      <l>чительномъ количестве</l>
+      <l>по той же книге запи-</l>
+      <l>санныхъ крещенїи._</l>
+      <pb n="097-2"/>
+      <l>Ныне же за проездомъ моимъ въ Улу отъ</l>
+      <l>разговоровъ викарнаго ксенза Седлов-<lb/>
+       скаго <unclear>носится новый</unclear> слухъ дошед-</l>
+      <l>шей до моего сведения что якобы</l>
+      <l>онъ того еврея окрестилъ водою,</l>
+      <l>о чемъ и ваше высокопреподобие</l>
+      <l>находясь въ Уле изволите произво-</l>
+      <l>дить изследование_ То нужнымъ</l>
+      <l>щитаю симъ покорнейше про-</l>
+      <l>сить у уведомленїи меня, чемъ</l>
+      <l>ксензъ <persName>Седловский</persName> отзывается</l>
+      <l>нащетъ крещения сказаннаго еврея</l>
+      <l><persName ref="Моше_Шнеерсон">Мовши Шнеера</persName>, ежели таковое</l>
+      <l>съ своей стороны вознамерился ут-</l>
+      <l>верждать? И когда и при комъ</l>
+      <l>производилъ крещение? Дабы я</l>
+      <l>по сему предмету могъ изыска-</l>
+      <l>ниемъ моимъ достигнуть настоя-</l>
+      <l>щей истины и донести обстоятель</l>
+      <l>но и справедливо моему начальству._</l>
+      <l><signed>Лепельскїй земскїй исправникъ <unclear>???</unclear></signed></l>
+    </p>
+    <fw type="note" place="lower margin">1820_<unclear>???</unclear></fw>
   </body></text>
 </TEI>
