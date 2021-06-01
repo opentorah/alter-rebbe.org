@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName>Сиодловский</persName></author></titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
+      <abstract><p>
+        Объяснение ксендза <persName>Сиодловского</persName>, данное лепельскому католическому декану <persName
+        >Зраницкому</persName> - на польском языке
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="089-1"/>
