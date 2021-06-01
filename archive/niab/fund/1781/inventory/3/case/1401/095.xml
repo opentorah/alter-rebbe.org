@@ -1,11 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Пузанов</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Зраницкому</persName></correspAction></correspDesc>
+      <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
+      <abstract><p>
+        Ответ свидетеля на запрос лепельского декана об обстоятельствах крещения <persName ref="Моше_Шнеерсон">Моше
+        Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="095-1"/>
+    <fw type="pageNum" place="right"><emph rend="underline">20</emph><note place="end">номер записан чернилами и
+    подчеркнут карандашом</note></fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">7<hi rend="superscript">е</hi></del><note place="end">номер
+    записан и зачеркнут чернилами</note></fw>
+    <fw type="pageNum" place="right">95<note place="end">номер записан карандашом</note></fw>
+    <fw type="note">П. <date when="1820-10-29">1820. года октября 29<hi rend="superscript">го</hi></date>.</fw>
+    <salute>
+      <l>Лепельскому декану и святой богосло-</l>
+      <l>віи доктору <persName>Зраницкому_</persName></l>
+    </salute>
+    <opener place="left">
+      <l>3<hi rend="superscript">и</hi> артиллеріи</l>
+      <l>ской бригады ко</l>
+      <l>мандира легкой</l>
+      <l>№ 2 роты подпо</l>
+      <l>лковника <persName>Пузанова</persName></l>
+      <l>№ <unclear>632</unclear> <hi rend="superscript">й</hi></l>
+      <l><date when="1820-10-28">октября 28 дня<lb/>
+       1820 года</date>.</l>
+      <l>М: улла<note place="end">Местечко Улла</note></l>
+    </opener>
+    <fw type="note" place="left margin">- <unclear>???</unclear> -</fw>
+    <p>
+      <l>По отношеніи вашего Преподобія <date when="1820-10-28">октября<lb/>
+       отъ 28 числа</date> за <fw type="docNum">№ 590<hi rend="superscript">м</hi></fw> мною полученнаго</l>
+      <l>о крещеніи ульскаго равина <persName ref="Моше_Шнеерсон">моисея шнеер-<lb/>
+       сона</persName> и моемъ его воспрїемничествѣ и какъ</l>
+      <l>вы пишитѣ тронутаго умомъ и гражданскимъ</l>
+      <l>начальствомъ учиненномъ въ томъ свое распо-</l>
+      <l>ряженїя – для открытїя истинны возникшихъ</l>
+      <l>по сему крещенїю сомненїи – производитъ след-</l>
+      <l>ствіе ваше Преподобїе – я полагая что ни</l>
+      <l>одна особа изъ духовнагшо сану сама собой след-</l>
+      <l>ственнаго дѣла производить не можетъ и то</l>
+      <l>въ томъ мѣстѣ гдѣ оное произходило; а долженъ</l>
+      <l>быть какой либо къ оному назначенъ чиновникъ</l>
+      <l>земской полицїи или нарочито отряженной отъ</l>
+      <l>гражданскаго начальства – то ежели есть</l>
+      <l>отреженный къ вамъ чиновникъ долженъ такъ</l>
+      <l>же подписаться на присланномъ вами ко мнѣ</l>
+      <l>отношенїи или по крайней мѣрѣ быть поя-</l>
+      <l>сненъ въ ономъ, да и то въ какой силѣ; полученъ</l>
+      <l>вами указъ изъ канстысторіи и что вы по оному</l>
+      <l>должны действовать приложена должна быть</l>
+      <l>при отношенїи копїя для моего по сему дѣлу сооб-</l>
+      <l>раженія_ будѣ вы всѣ мною объясненныя обстоя</l>
+      <l>тельства мне сообщитѣ – долгомъ поставлю</l>
+      <l>зделать вашему Преподобїю удовлетворительной</l>
+      <l>по вашему отношенію о крещеніи равина <persName ref="Моше_Шнеерсон">моисея</persName></l>
+      <l>отзывъ._</l>
+      <l><signed>Подполковникъ <persName>Пузановъ</persName></signed></l>
+    </p>
     <pb n="095-2" missing="true"/>
   </body></text>
 </TEI>
