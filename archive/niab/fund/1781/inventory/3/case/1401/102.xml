@@ -1,11 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Грабовский</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Меллеру-Закомельскому</persName></correspAction>
+      </correspDesc>
+      <creation><date when="1820-11-15">15 ноября 1820 года</date></creation>
+      <abstract><p>
+        Сообщение Могилевской римско-католической консистории могилевскому гражданскому губернатору с подтверждением
+        сведений о крещении <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="102-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">27</del><note place="end">номер записан чернилами и
+    зачеркнут карандашом</note></fw>
+    <fw type="pageNum" place="right">102<note place="end">номер записан карандашом</note></fw>
+    <opener place="left">
+      <l><emph rend="big">М. Ю.</emph></l>
+      <l>Митрополитская</l>
+      <l>могилевская римско-ка-</l>
+      <l>толическая духовная</l>
+      <l>консисторія</l>
+      <l><fw type="docNum">№. 1959</fw>.</l>
+      <l><date when="1820-11-15">Мѣсяца Nоября 15<hi rend="superscript">го</hi> дня<lb/>
+       1820<hi rend="superscript">го</hi> года</date></l>
+      <l>Могилевъ Бѣлоруской</l>
+    </opener>
+    <salute>
+      <l>Его превосходительству!</l>
+      <l>Господину дѣйствительному статскому совѣтни</l>
+      <l>ку могилевскому гражданскому губернатору</l>
+      <l>и кавалеру барону <choice><sic>Миллеру Закомельскомуs</sic><corr>Меллеру-Закомельскому</corr></choice></l>
+    </salute>
+    <p>
+      <l>Сїя консисторїя <date when="1820-11-15">сего числа</date> за предварительнымъ</l>
+      <l>разсмотренїемъ слѣдственнаго дѣла по сообщенїю</l>
+      <l>здѣшней греко-россійской консисторїи произве-</l>
+      <l>деннаго, найдя совершенное въ <date when="1820-07-04">4<hi rend="superscript">й</hi> день јюля сего года</date>
+      </l>
+      <l>въ мѣстечкѣ Улѣ чрезъ приходскаго улянской рим-</l>
+      <l>ско-католической церкви священника <persName>Сїодловскаго</persName></l>
+      <l>надъ пожелавшимъ съ евреевъ принять хриятїян-</l>
+      <l>скую вѣру Ізраелитою улянскимъ, рабиномъ <persName ref="Моше_Шнеерсон">Мой-<lb/>
+       сеемъ Шнеерсономъ</persName>, нареченнымъ на святомъ кре-</l>
+      <l>щенїи <persName ref="Моше_Шнеерсон">„Леонъ Юлевичъ„</persName> окрещеніе дѣйствительнымъ</l>
+      <l>и показанїями свидѣтелей утвержденнымъ; тре-</l>
+      <l>бованную о томъ крещенїи метрической записки вы-</l>
+      <l>писку сказанную греко-россійскую консисторїю</l>
+      <l>при отношенїи препроводила, а въ дальнѣйшемъ испол</l>
+      <l>ненїи своего по сему дѣлу опредѣленїя, о томъ и</l>
+      <l>Ваше превосходительство! симъ увѣдомляетъ.</l>
+      <l><signed>Офицїелъ <persName><unclear>Прокопъ</unclear> Јоахимъ Грабовскій</persName></signed></l>
+      <l><signed>Секретарь 10. класса Яцентій Заремба</signed></l>
+    </p>
     <pb n="102-2" missing="true"/>
   </body></text>
 </TEI>
