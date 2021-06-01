@@ -27,13 +27,15 @@ dependencies {
   implementation libs.scala.library
   implementation libs.opentorah.collector
   implementation libs.opentorah.site // TODO why?
-  implementation libs.opentorah.base
+  implementation libs.opentorah.base // TODO why?
   implementation libs.google.cloud.storage
   compileOnly    libs.slf4j
 }
 
 compileSass {
   group = 'publishing'
+
+  version = '1.34.0'
 
   sourceDir = project.file ("$rootDir/sass")
   outputDir = project.file ("$rootDir/css")
@@ -43,8 +45,8 @@ task buildSite(type: JavaExec) {
   group = 'publishing'
   dependsOn(compileSass)
 
-  main = 'org.opentorah.collector.Site'
-  args = [rootDir, 'buildSite']
+  mainClass = 'org.opentorah.collector.Service'
+  args = ['buildSite', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 
@@ -52,8 +54,8 @@ task buildAndPrettyPrintSite(type: JavaExec) {
   group = 'publishing'
   dependsOn(compileSass)
 
-  main = 'org.opentorah.collector.Site'
-  args = [rootDir, 'buildAndPrettyPrintSite']
+  mainClass = 'org.opentorah.collector.Service'
+  args = ['buildAndPrettyPrintSite', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
 
@@ -66,8 +68,8 @@ task uploadSite(type: JavaExec) {
   group = 'publishing'
   dependsOn(buildSite)
 
-  main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
-  args = [rootDir, gcloudServiceAccountKey]
+  mainClass = 'org.opentorah.collector.Service'
+  args = ['uploadSite', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
 
@@ -75,23 +77,23 @@ task uploadSiteDryRun(type: JavaExec) {
   group = 'publishing'
   dependsOn(buildSite)
 
-  main = 'org.opentorah.collector.GoogleCloudStorageSynchronizer'
-  args = [rootDir, gcloudServiceAccountKey, 'dryRun']
+  mainClass = 'org.opentorah.collector.Service'
+  args = ['uploadSiteDryRun', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
 
 task serveSite(type: JavaExec) {
   group = 'publishing'
 
-  main = 'org.opentorah.collector.Service'
-  args = ["file://$rootDir/"]
+  mainClass = 'org.opentorah.collector.Service'
+  args = ['serveSite', "file://$rootDir/"]
   classpath = sourceSets.main.runtimeClasspath
 }
 
 task serveRemoteSite(type: JavaExec) {
   group = 'publishing'
 
-  main = 'org.opentorah.collector.Service'
-  args = []
+  mainClass = 'org.opentorah.collector.Service'
+  args = ['serveRemoteSite']
   classpath = sourceSets.main.runtimeClasspath
 }
