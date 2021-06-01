@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName>Зраницкий</persName></author></titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1820-10-30">30 октября 1820 года</date></creation>
+      <abstract><p>
+        Рапорт католического декана <persName>Зраницкого</persName> в Могилевскую духовную римско-католическую
+        консисторию в связи с обстоятельствами крещения <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="101-1"/>
