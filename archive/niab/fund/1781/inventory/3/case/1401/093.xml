@@ -2,7 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <profileDesc>
+      <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
+      <abstract><p>
+        Вопросы на польском языке, адресованные неизвестному лицу, для характеристики жителя м. Уллы <persName>Павла
+        Сидоровича</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="093-1"/>
