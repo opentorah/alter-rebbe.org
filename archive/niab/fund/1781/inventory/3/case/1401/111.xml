@@ -1,11 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Меллер-Закомельский</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1820-11-17">17 ноября 1820 года</date></creation>
+      <abstract><p>
+        Сообщение могилевского граждланского губернатора об отправке обратно в римско-католическую консисторию
+        невостребованного им документа
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="111-1"/>
+    <fw type="docNum">№ 1742._</fw>
+    <fw type="note" place="left">получено <date when="1820-11-19">1820 г. Nоября 19<hi rend="superscript">д</hi></date>
+    </fw>
+    <fw type="note" place="left"><emph rend="underline">Секретно</emph></fw>
+    <fw type="pageNum" place="right">111</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">36</del><note place="end">номер записан чернилами и
+    зачеркнут карандашом</note></fw>
     <pb n="111-2" missing="true"/>
+    <head>
+      <l>Отъ могилевскаго гражданскаго губернатора</l>
+      <l>Въ Могилевскую римско-католическую духовную консисторїю._</l>
+    </head>
+    <p>
+      <l>Присланное ко мнѣ изъ оной Консисторіи подъ</l>
+      <l><date when="1820-11-15">15<hi rend="superscript">мъ</hi> числомъ ноября</date> за <fw type="docNum">№ 1959<hi
+      rend="superscript">м</hi></fw> увѣдомленїе,</l>
+      <l>какъ мною отъ нея не стребованное, и мнѣ не</l>
+      <l>нужное, препровождаю при семъ во оную Кон-</l>
+      <l>систорію обратно._</l>
+      <l><signed>Баронъ <persName>Меллеръ-Закомельскій</persName></signed></l>
+      <l>Опрѣделили: таковое отношенїе приобщить къ дѣлу</l>
+      <l>Слушали <date when="1820-11-26">26. Nоября</date>.</l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 572</fw></l>
+      <l><date when="1820-11-17">17 ноября 1820<hi rend="superscript">го</hi></date>.</l>
+    </closer>
   </body></text>
 </TEI>
