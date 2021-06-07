@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="alter-rebbe">Шнеур Залман</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="alter-rebbe">Шнеур Залман</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc><abstract><p>
       Перевод на русский язык письма <persName ref="alter-rebbe">Шнеура Залмана</persName>, направленного <orgName ref=
       "Хасиды">хасидам</orgName> во время войны 1812 г.<note place="end">вероятно, около 12 августа 1812 г или вскоре
