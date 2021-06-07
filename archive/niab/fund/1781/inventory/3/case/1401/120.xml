@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Конверт от письма с документом, адресованнным Могилевской римско-католической консистории. Возможно, связан с
+      документом <ref target="/niab1401/103">103 данного дела</ref>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="120-1" missing="true"/>
     <pb n="120-2"/>
+    <fw type="note" place="right">Секретно</fw>
+    <p>
+      <l>Въ Могилевскую римско-като-</l>
+      <l>лическую духовную консисторїю</l>
+      <l><fw type="docNum">№ 572</fw>.</l>
+    </p>
   </body></text>
 </TEI>
