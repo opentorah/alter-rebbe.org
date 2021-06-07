@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Конверт от письма, адресованного католическому декану <persName>Зраницкому</persName> – к документу <ref target=
+      "https://www.alter-rebbe.org/niab1401/095">095</ref>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="123-1" missing="true"/>
     <pb n="123-2"/>
+    <p>
+      <l>Лепельскому декану и Святой Богословїи</l>
+      <l>доктору господину <persName>Зраницкому</persName></l>
+      <l><fw type="docNum">№ 632</fw></l>
+      <l><emph rend="underline">Въ Лусбергѣ</emph></l>
+    </p>
   </body></text>
 </TEI>
