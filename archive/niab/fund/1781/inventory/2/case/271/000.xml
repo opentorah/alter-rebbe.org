@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист архивного дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="left"><emph rend="underline">по архиву № 271.</emph></fw>
+    <fw type="note" place="left">по старой описи съ буквы Н. 2. № 19.</fw>
+    <fw type="note" place="right">
+      <l>Центральный государственный</l>
+      <l>исторический архив БССР</l>
+      <l>№ фонда 1781</l>
+      <l>№ описи 2</l>
+      <l>ед. хр. 271<note place="end">заполненный бланк архивного штампа</note></l>
+    </fw>
+    <head>
+      <l><emph rend="underline"><emph rend="big">Дѣло</emph></emph></l>
+      <l>о рабинѣ <persName ref="Моше_Шнеерсон">Леонѣ Шнеерѣ</persName> <del rend="overstrike"><unclear>???</unclear>
+      </del></l>
+      <l>желающимъ присоединится къ хри-</l>
+      <l>стіянской церкви отъ евреевъ._</l>
+      <l>начатое <date when="1820-08-20">1820 года августа 20 дня</date></l>
+      <l>кончено <date when="1820-12-23">1820 г. декабря 23<hi rend="superscript">го</hi></date></l>
+    </head>
+    <fw type="note" place="left">
+      <l>Центральный государственный</l>
+      <l>исторический архив БССР</l>
+      <l>№ фонда 1781</l>
+      <l>№ описи 2</l>
+      <l>ед. хр. 271<note place="end">заполненный бланк архивного штампа</note></l>
+    </fw>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
