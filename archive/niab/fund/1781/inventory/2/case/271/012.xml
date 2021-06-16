@@ -2,9 +2,15 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <profileDesc>
+      <creation><date when="1820-07-16">16 июля 1820 года</date></creation>
+      <abstract><p>
+        Рапорт полоцкого католического декана в митрополию римско-католической церкви в Росси об обстоятельствах,
+        связанных с <persName ref="Моше_Шнеерсон">Моше Шнеерсоном</persName> - на польском языке
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body>
+  <text xml:lang="pl"><body>
     <pb n="012-1"/>
     <pb n="012-2"/>
   </body></text>
