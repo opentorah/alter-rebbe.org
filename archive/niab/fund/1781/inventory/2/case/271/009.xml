@@ -1,12 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Голицын</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee"><persName>Сестренцевичу-Богушу</persName></persName>
+      </correspAction></correspDesc>
+      <creation><date when="1821-09-05">5 сентября 1821 года</date></creation>
+      <abstract><p>
+        Сообщение министра духовных дел и народного просвещения Российской империи главе католической церкви в России о
+        возможности перевода <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName> из дома адресата в иное место
+        вследствие усилившихся "припадков"
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="009-1"/>
-    <pb n="009-2"/>
+    <fw type="docNum" place="left">№ 1010</fw>
+    <fw type="pageNum" place="right">9.<note place="end">номер записан карандашом</note></fw>
+    <fw type="note" place="right">Получено <date when="1821-09-06">6 сентября 1821</date>.</fw>
+    <salute>
+      <l>Высокопреосвященнѣйшій Владыко.</l>
+      <l>Милостивый государь</l>
+    </salute>
+    <p>
+      <l>Упоминая въ отношеніи <date when="1821-07-31">31<hi rend="superscript">го</hi> минувшаго јюля</date></l>
+      <l>въ разсужденіи принимаемаго медикомъ <persName>Орлаемъ</persName></l>
+      <l>попеченія о больномъ, по обряду римско-католической</l>
+      <l>церкви крещенномъ евреѣ, <persName ref="Моше_Шнеерсон">Леонѣ Шнеерѣ</persName>, вы, ми-</l>
+      <l>лостивый государь, увѣдомляете меня, въ отноше-</l>
+      <l>ніи <date when="1821-08-29">29 минувшаго августа</date>, что припадки его бо-</l>
+      <l>лѣзни становятся сильнѣе, и просите, чтобы онъ</l>
+      <l>былъ взятъ изъ дому вашего высокопреосвящен-</l>
+      <l>ства.</l>
+    </p>
+    <p>
+      <l>Изъ моего отношенія <date when="1821-08-28">28 минувшаго августа</date></l>
+      <l>Ваше высокопреосвященство усмотрите, что я до-</l>
+      <l>носилъ Государю Императору о обстоятельствахъ</l>
+      <l>дѣла, касающихся до <persName ref="Моше_Шнеерсон">Шнеера</persName>, и что <emph rend="big">Его
+      Вели</emph>-</l>
+      <l><emph rend="big">чество</emph>, согласно съ мнѣніемъ вашимъ, мило-</l>
+      <l>стивый государь, признавая его принадлежащимъ</l>
+      <l>къ римско-католической церкви, изъявилъ свое</l>
+      <l>соизволеніе, чтобы г. <persName>Орлай</persName> имѣлъ попеченіе о</l>
+      <l>его болѣзни, отъ медицинскаго искуства зависящее.</l>
+    </p>
+    <p>
+      <l>Я полагаю, что, на основаніи сего высочайшаго</l>
+      <l>соизволенія, ваше высокопреосвященство можете</l>
+      <fw type="note" place="left margin">
+        <l>Его высокопревос<hi rend="superscript">ву</hi> митрополиту</l>
+        <l>р. католическихъ церквей <persName>Сестренцевичу-Богушу</persName>.</l>
+      </fw>
+      <fw type="note" place="lower margin">pisano do <unclear>??? ???</unclear> <fw type="docNum">№ 630</fw></fw>
+      <pb n="009-2"/>
+      <l>сдѣлать распоряженіе о переводѣ <persName ref="Моше_Шнеерсон">Шнеера</persName> изъ свое</l>
+      <l>го дома въ такое мѣсто, какое г. <persName>Орлай</persName> най-</l>
+      <l>детъ приличнымъ его здоровью и удобнымъ для</l>
+      <l>его леченія.</l>
+    </p>
+    <p>
+      <l>Естьли при семъ случаѣ будутъ нужны из-</l>
+      <l>держки, то, въслѣдствіе высочайшаго соизволе-</l>
+      <l>ні<date when="1821-08-28">я, сообщеннаго въ моемъ отношеніи</date>28<hi rend="superscript">го</hi> же ав<lb/>
+       густа, – они должны быть удовлетворены посред-</l>
+      <l>ствомъ складки благотворительныхъ христіанъ.</l>
+    </p>
+    <p>
+      <l>Имѣю честь быть съ истиннымъ почтеніемъ и</l>
+      <l>преданностію</l>
+      <l>Вашего высокопреосвященства</l>
+      <l>милостиваго государя</l>
+      <l><signed>покорнѣйшій слуга<lb/>
+       князь <persName>Александръ Гоицынъ</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 2720</fw></l>
+      <l><date when="1821-09-05">5<hi rend="superscript">го</hi> сентября 1821<hi rend="superscript">го</hi></date></l>
+    </closer>
     <pb n="010-1" missing="true"/>
     <pb n="010-2" missing="true"/>
   </body></text>
