@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName ref="Моше_Шнеерсон">Моше Шнеерсон</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Сиодловскому</persName></correspAction></correspDesc>
+      <creation><date when="1820-07-01">1 июля 1820 года</date></creation>
+      <abstract><p>
+        Копия заявления <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName> о готовности перейти в католичество
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="013-1"/>
-    <pb n="013-2"/>
+    <fw type="note" place="left"><emph rend="underline">Копія</emph></fw>
+    <fw type="note">Получ: <date when="1820-07-01">1<hi rend="superscript">го</hi> јюля 1820. года</date></fw>
+    <fw type="pageNum" place="right">13.</fw>
+    <head>
+      <l>Улянскому римско-католическаго костела</l>
+      <l>ксендзу <persName>Сядлоскому</persName></l>
+      <l>Улянскаго равина <persName ref="Моше_Шнеерсон">Мойсея Зельмано-<lb/>
+       вича Шнеерсона</persName>._</l>
+      <l><emph rend="big">Объявленіе</emph>.</l>
+    </head>
+    <p>
+      <l>Возымѣвъ желаніе отъ несколькихъ лѣтъ</l>
+      <l>принять христіянскую римско-католическаго</l>
+      <l>исполвѣданія вѣру, о семъ приметя, еврѣй дѣр-</l>
+      <l>жа меня подкарауломъ дѣлали разные угнѣ-</l>
+      <l>тенія и даже телесные <sic>назаканіи</sic>, я не</l>
+      <l>отступая никогда отъ своего намѣренія</l>
+      <l>въ принятіи истиннаго Христа вѣры</l>
+      <l>удостовѣряю изъ ссвященнаго писанія и всѣхъ</l>
+      <l>пророковъ о его истинномъ пришествіи</l>
+      <l>искалъ удобнаго случая симъ благоденяніемъ</l>
+      <l>возпользоватся и потому прибѣгая подъ</l>
+      <l>покровительство ваше прошу изъ требо-</l>
+      <l>вавъ откуда слѣдуетъ законной защиты</l>
+      <l>и имѣть меня въ плебаніи до изученія</l>
+      <l>догматовъ вѣры и святаго крещенія</l>
+      <l>подъ своимъ покровительствомъ._ въ чемъ</l>
+      <l>при свидѣтеляхъ своеручно по россійски</l>
+      <pb n="013-2"/>
+      <l>и по еврѣйскѣ и подписуюсь._</l>
+    </p>
+    <p>
+      <l><persName ref="Моше_Шнеерсон">Моисѣя Зельмановичъ</persName> уленскаго рабину</l>
+      <l>Согласенъ. и проч._ и на еврейскомъ тоже</l>
+    </p>
+    <p>
+      <l>При желаніи означеннаго равина принять</l>
+      <l>римско-католическую вѣру свидѣтелями</l>
+      <l>были – Подполковникъ <persName>Пузановъ</persName>.</l>
+      <l>- Коллежскій асесоръ <unclear>Татневъ</unclear></l>
+      <l>– титулярный совѣтникъ <unclear>Калуковскій</unclear></l>
+      <l>– Штабъ капитанъ <persName>Семеновъ</persName></l>
+      <l>– Подпорутчикъ <persName>Падалка</persName></l>
+      <l>– Прапорщикъ <persName>Богдановичъ</persName></l>
+      <l>– Дворянинъ <persName>Павелъ Сидоровичъ</persName>. Дворянинъ</l>
+      <l><persName>Кублицкій</persName>.– вмѣсто улянскаго ключъ войта</l>
+      <l>Дементья <unclear>Сицянка</unclear> за неуменіемъ грамоты</l>
+      <l>по личному его прошенію дворянинъ <persName>Павелъ<lb/>
+       Сидоровичъ</persName> росписался и руку приложилъ</l>
+      <l>– Мѣстечка Улы управитель <persName>Алѣксей <emph rend="underline">Бородичъ</emph></persName></l>
+      <l>– При его трезвомъ сознаніи и желаніи</l>
+      <l>принять вѣру христіянскую римско-като</l>
+      <l>лическую вышеупомянутаго еврѣя ульскаго</l>
+      <l>рабина <persName ref="Моше_Шнеерсон">Моисея Зельмановича</persName> лично по спросу</l>
+      <l>моему свидѣтельствую священникъ прихо-</l>
+      <l>да ульскаго <persName>Григорїй <emph rend="underline">Елліашевичъ</emph></persName></l>
+    </p>
+    <closer place="left">
+      <l><date when="1820-07-01">Јюля 1<hi rend="superscript">го</hi> дня<lb/>
+       1820<hi rend="superscript">го</hi> года</date></l>
+      <l>м Улла</l>
+    </closer>
     <pb n="014-1" missing="true"/>
     <pb n="014-2" missing="true"/>
     <pb n="015-1" missing="true"/>
