@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author>Одынец-Добровольский</author></titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Богушу-Сестренцевичу</persName></correspAction>
+      </correspDesc>
+      <creation><date when="1799-02-11">1 октября 1820 года</date><note place="end">не позднее указанного числа: на
+      рапорте обозначена дата его получения</note></creation>
+      <abstract><p>
+        Рапорт каноника католическому митрополиту об обстоятельствах, связанных с крещением <persName ref=
+        "Моше_Шнеерсон">Моше Шнеерсона</persName> - на польском языке
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body>
+  <text xml:lang="pl"><body>
     <pb n="018-1"/>
     <pb n="018-2"/>
   </body></text>
