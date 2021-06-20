@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Полоньски</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Богушу-Сестренцевичу</persName></correspAction>
+      </correspDesc>
+      <creation><date when="1820-09-24">24 сентября 1820 года</date></creation>
+      <abstract><p>
+        Рапорт служителя католической церкви в России об отказе в рассмотрении жалобы братьев <persName ref=
+        "Моше_Шнеерсон">Моше Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="028-1"/>
+    <fw type="docNum"># 845</fw>
+    <fw type="note" place="right"><unclear>???</unclear>: <date when="1820-10-29">29. okt: 1820. r.</date></fw>
+    <fw type="pageNum" place="right">28.</fw>
+    <fw type="note" place="left margin">За извѣстіе</fw>
+    <salute>
+      <l>Его высоко-преосвященству митрополиту римскихъ въ Россїи церквей архі-</l>
+      <l>епискому Могилевскому. Администратору виленской епархїи Андрея Апостола</l>
+      <l>и другихъ россїйскихъ и польскихъ орденов и С<hi rend="superscript">го</hi> Јоанна Јерусалимского большаго
+      кре-</l>
+      <l>ста кавалеру <persName>Сестренцевичу Богушу</persName></l>
+    </salute>
+    <head>
+      <l>Витебскаго декана полоньскаго</l>
+      <l>рапортъ.</l>
+    </head>
+    <p>
+      <l>Исполняя повеленїе вашего высокопреосвященства отъ <date when="1820-09-09">9<hi rend="superscript">го</hi> сего
+      сентября</date></l>
+      <l>за <fw type="docNum">№. 543</fw>. ко мнѣ последовавшее, объявилъ я въ <placeName ref="Могилевская_губерния"
+      >Могилевской губернїи</placeName> Бабиновецкаго по-</l>
+      <l>вѣта мѣстечка <placeName ref="Любавичи">Любавичь</placeName> жителямъ <persName ref="мителер_ребе"
+      >Беркѣ</persName> и <persName>Абраму Залмановичевымъ Шнеерамъ</persName></l>
+      <l>что по дѣлу о помѣшательствѣ въ умѣ брата ихъ улянскаго равина <persName ref="Моше_Шнеерсон">Мовши
+      Шнеера</persName></l>
+      <l>входить въ разсмотренїе обстоятельствъ изясненныхъ въ ихъ прошенїи, вашему высоко</l>
+      <l>преосвященству не есть угодно.</l>
+      <l><signed>Ксензъ <persName>Михайло Полоньски</persName>.</signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 401</fw>.</l>
+      <l><date when="1820-09-24">24<hi rend="superscript">го</hi> сентября<lb/>
+       1820<hi rend="superscript">го</hi> года</date>.</l>
+      <l><placeName ref="Витебск">Витебскъ</placeName>.</l>
+    </closer>
     <pb n="028-2" missing="true"/>
     <pb n="029-1" missing="true"/>
     <pb n="029-2" missing="true"/>
