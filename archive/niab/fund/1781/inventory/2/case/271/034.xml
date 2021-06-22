@@ -1,13 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt><author><persName>Antoni Majewsky (Антоний Маевский)</persName></author></titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Сестренцевичу-Богушу</persName></correspAction>
+      </correspDesc>
+      <creation><date when="1820-10-11">11 октября 1820 года</date></creation>
+      <abstract><p>
+        Рапорт прелата главе римско-католической церкви в России о дебатах и решении по делу о крещении <persName ref=
+        "Моше_Шнеерсон">Моше Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="034-1"/>
-    <pb n="034-2"/>
-    <pb n="035-1"/>
-    <pb n="035-2"/>
+    <fw type="docNum">№ 1148</fw>
+    <fw type="note" place="right"><unclear>???</unclear>: <date when="1820-10-23">23 xbr: 1820. r.</date></fw>
+    <fw type="note" place="left margin">№ 785. <unclear>???</unclear> 23 ok 1820 r. <unclear>??? ??? ???</unclear><note
+    place="end">запись по-польски</note></fw>
+    <fw type="pageNum" place="right">34.</fw>
+    <salute>
+      <l>Do Jsnie Wielmoznego Metropolity Rzymsko-Kato-</l>
+      <l>lickich Kosciolow w Rossyi, Arcy Biscupa Mohilewzkiego,</l>
+      <l>Administratora wilenskiego Biskupstwa, Orderow Rozlyznich,</l>
+      <l>Polskich, i S. Jana Jerozolimskiego wielkiego Knyza, Kawalera,</l>
+      <l><persName>Stanislawa <emph rend="big">Siestrzencewicza</emph> Bohusza</persName>_</l>
+    </salute>
+    <head>
+      <l>Od nizey podpisane<unclear>???</unclear></l>
+      <l><emph rend="big">Raport</emph>._</l>
+    </head>
+    <p>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>???</unclear><note place="end">текст на польском языке</note> „Ниже писанный по выслушанїи въ полномъ
+      при-</l>
+      <l>судствїи доклада о <persName ref="Моше_Шнеерсон">Мойсеѣ Шнеерѣ</persName>, при сомнительныхъ доказатель-</l>
+      <l>ствахъ, разногласіи свидѣтелей, и несходствіи показанія самаго</l>
+      <l><persName ref="Моше_Шнеерсон">Шнеера</persName>, съ объявленіемъ ксенза <persName>Сїодловскаго</persName>, и
+      запискою ме-</l>
+      <l>трическою, не находя основанїя <hi rend="superscript">къ признанїю <persName ref="Моше_Шнеерсон"
+      >Шнеера</persName> настоящимъ христїяниномъ, и –</hi> на коемъ можно бы было утвердиться,</l>
+      <l>къ обвиненію безъ суда, и слѣдствїя, лепельскаго декана <persName>Зраниц-<lb/>
+       каго</persName>, изыскивавшаго истинну, настоящаю о евреѣ Мойсеѣ</l>
+      <pb n="034-2"/>
+      <l><persName ref="Моше_Шнеерсон">Моисеѣ Шнеерѣ</persName>, произшествїя, а къ оправданїю улянскаго викар-</l>
+      <l>наго ксенза <persName>Сіодловскаго</persName>, утаившаго чрезъ три мѣсяца, крещенїе</l>
+      <l>того <persName ref="Моше_Шнеерсон">Шнеера</persName>, чрезъ недонесенїе своему начальству, и необъявленїе</l>
+      <l>объ ономъ, прибывшему въ мѣстечко Улу въ то же самое время лепельскому исправ-</l>
+      <l>нику <persName>Рылевичу</persName>, полагая мненіемъ, съ прописаніемъ вышеизъ-</l>
+      <l>ясненнаго доклада, и съ приложеніемъ въ подлинникѣ слѣдственнаго</l>
+      <l>акта, и самой метрики <persName>Шнеера</persName>, для разсмотренїя, и законнаго поло-</l>
+      <l>женїя по предмѣту окрещенія якобы <persName ref="Моше_Шнеерсон">Мойсея Шнеера</persName>, сообщить</l>
+      <l>въ Грекороссіскую духовную консисторію, съ требованіемъ о послѣ-</l>
+      <l>дующемъ увѣдомленїи, и возвращенїи въ сію Консисторїю всего дѣла;</l>
+      <l>причемъ къ тому присовокупляю и то, что г. каноникъ <unclear>ассессоръ</unclear></l>
+      <l><persName>Добровольскій</persName>, по прочтеніии отъ г. секретаря <persName>Зарембы</persName>, по сему
+      дѣлу</l>
+      <l>доклада, вынувъ изъ пазухи, приготовленной уже собою на</l>
+      <l>листѣ голосъ, или мненїе выработанное по видимому пар-</l>
+      <l>тикулярно въ своей кельи, прочелъ самъ онон, и тѣмъ самымъ</l>
+      <l>въ дачѣ своего голоса, поступилъ въ противность 6<hi rend="superscript">и</hi>, 7<hi rend="superscript">и</hi>
+      18<hi rend="superscript">и</hi> главъ</l>
+      <l>генеральнаго регламента,воинскихъ процессовъ 3. части 1. главы,</l>
+      <l>1<hi rend="superscript">го</hi> пункта, и также вопреки указовъ <date when="1714-04-04">1714<hi rend=
+      "superscript">го</hi> апреля 4<hi rend="superscript">го</hi></date>, и 1722<hi rend="superscript">го</hi>
+      годовъ</l>
+      <l>8го пункта, о голосахъ.„ Въ <unclear>???</unclear> же журнала господинъ</l>
+      <l>ассессоръ каноникъ К<unclear>???</unclear>ій написалъ слѣдующее</l>
+      <l>„съ тѣмъ</l>
+      <pb n="035-1"/>
+      <fw type="pageNum" place="right">35</fw>
+      <l>тѣмъ мненіемъ, что покуда присяжныя показаніи не будутъ отобраны</l>
+      <l>отъ воспріемниковъ бывшихъ при крещеніи <persName ref="Моше_Шнеерсон">Мойсея Шнеера</persName>, потуда</l>
+      <l>метрики крещенія его, при дѣлѣ имѣющеися, за подлинную при-</l>
+      <l>знать не могу„</l>
+    </p>
+    <p>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l><note place="end">текст на польском языке</note>
+    </p>
+    <p>
+      <fw type="note" place="lower margin">2<hi rend="superscript">е</hi>/</fw>
+      <pb n="035-2"/>
+      <l>2<hi rend="superscript">е</hi>/.</l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ??? ???</unclear></l>
+      <l><unclear>??? ??? ???</unclear>._// <persName>Antoni Majewsky</persName> Pralat mohil.</l>
+    </p>
+    <p>
+      <l>Въ семъ дѣле перенумерованно</l>
+      <l>тридцать пять листов_</l>
+      <l><signed>Архиваріусъ <unclear>???</unclear></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 125</fw>.„</l>
+      <l><date when="1820-10-11">1820. Roku Xbra<lb/>
+       11. dnia</date>.</l>
+      <l>w Mohilewіe</l>
+    </closer>
   </body></text>
 </TEI>
