@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист архивного дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="docNum">235</fw>
+    <fw type="note">1827<hi rend="superscript">го</hi> февр<note place="end">обрыв листа. Видимо, 1827<hi rend=
+    "superscript">го</hi> февраля 9<hi rend="superscript">го</hi> дня"</note></fw>
+    <head>
+      <l><emph rend="big">Дѣло</emph></l>
+      <l>По представленному<note place="end">обрыв листа</note></l>
+      <l>левского<note place="end">вероятно, "Могилевского"</note> главнаго суда 1<hi rend="superscript">го</hi>
+      депертамен-</l>
+      <l>та рѣшенію, о незаконныхъ денежныхъ</l>
+      <l>сборахъ любавицкимъ раввиномъ <persName ref="мителер_ребе">Бер-<lb/>
+       кою <emph rend="underline"><emph rend="big">Шнееромъ</emph></emph></persName> съ своей <hi rend="superscript"
+      >своих</hi><note place="end">поздняя вставка, сделанная архивистами советского периода</note> (собратіи)</l>
+      <l>отечественников<note place="end">слово вписано архивистами советского времени</note></l>
+    </head>
+    <fw type="note" place="right">
+      <l>рѣшено <date when="1827-05-15">15. мая 1827</date>.</l>
+      <l>на 19 листахъ. <hi rend="superscript"><date when="1834-01-17">17 января 1834</date></hi><note place="end"
+      >поздняя вставка, сделанная архивистами советского периода</note></l>
+    </fw>
+    <fw type="note" place="left">
+      <l>Центр. Гос. Исторический</l>
+      <l>Архив МВД БССР</l>
+      <l>Фонд № 1297</l>
+      <l>Инв. № 25207</l>
+      <l>Связка № <del rend="overstrike">1277</del><note place="end">заполненный бланк архивного штампа</note></l>
+    </fw>
+    <fw type="note" place="left">
+      <l>Віцебская аддзяления</l>
+      <l>архів</l>
+      <l>державных актов</l>
+      <l><unclear>???</unclear> № 1</l>
+      <l><unclear>???</unclear> № 97</l>
+      <l>оп 1</l>
+      <l><unclear>???</unclear> № 138</l>
+    </fw>
+    <fw type="note" place="right margin">
+      <l><emph rend="underline">кончено</emph></l>
+      <l>на 16. листахъ</l><note place="end">заполненный бланк архивного штампа</note>
+    </fw>
     <pb n="000-2" missing="true"/>
   </body></text>
 </TEI>
