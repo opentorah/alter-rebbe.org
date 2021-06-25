@@ -1,11 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1827-02-09">9 февраля 1827 года</date></creation>
+      <abstract><p>
+        Рапорт могилевского суда генерал-губернатору о вынесении приговора по делу <persName ref="мителер_ребе">Дов-Бера
+        Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
+    <fw type="docNum">№ 899</fw>
+    <fw type="pageNum" place="right">1<note place="end">номер записан карандашом</note></fw>
+    <fw type="note" place="left margin">помощ</fw>
+    <salute>
+      <l><emph rend="big">Его Сїятельству</emph></l>
+      <l>господину генералъ губернатору <placeName ref="Витебская_губерния">Витебской</placeName></l>
+      <l><placeName ref="Могилевская_губерния">Могилевской</placeName> Смоленской и Калужской губернїи</l>
+      <l>генералъ лейтенанту сенатору и разныхъ орде</l>
+      <l>новъ кавалеру князю <persName>Николаю Николаевичу<lb/>
+       Хованскому</persName>.</l>
+    </salute>
+    <head>
+      <l>Могилевскаго Главнаго суда 1<hi rend="superscript">го</hi></l>
+      <l>департамента</l>
+      <l><emph rend="big">Рапортъ</emph>.</l>
+    </head>
+    <p>
+      <l>Состоявшійся въ семъ депрартмаентѣ приговоръ по</l>
+      <l>дѣлу: о противозаконныхъ якобы денежныхъ сборахъ</l>
+      <l>любавцикимъ раввиномъ <persName ref="мителер_ребе">Беркою Шнееромъ</persName> съ своей</l>
+      <l>собратїи, при семъ подтвержденїе <emph rend="big">Вашему</emph></l>
+      <l><emph rend="big">Сїятельству</emph> почтеннѣйше представляется</l>
+      <l>съ донесенїемъ, что по сему дѣлу протеста губерн-</l>
+      <l>скаго прокурора не было, а подсудимый <persName ref="мителер_ребе">Берка<lb/>
+       Шнееръ</persName> находится на свободѣ.</l>
+      <l>Председатель <persName>Феликсъ <unclear>???</unclear></persName></l>
+      <l>Совѣтникъ <persName>Порфирій Корниловъ</persName></l>
+      <l>Засѣдатель <persName>Матвѣй Декиф<unclear>???</unclear></persName></l>
+      <l>протоколистъ <persName>Семенъ Малаховскій</persName></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 267</fw>.</l>
+      <l><date when="1827-02-09">февраля 9 дня<lb/>
+       1827 года</date></l>
+    </closer>
     <pb n="001-2" missing="true"/>
   </body></text>
 </TEI>
