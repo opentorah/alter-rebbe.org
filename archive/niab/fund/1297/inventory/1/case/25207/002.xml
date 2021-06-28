@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1827-03-02">2 марта 1827 года</date>
+        <date when="1827-03-29">,29, марта 1827</date>
+      </creation>
+      <abstract><p>
+        Два распоряжения белорусского генерал-губернатора Первому депертаменту Могилевского губернского суда о доставке
+        решения и сопутствующих документов по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="002-1"/>
+    <opener place="left">
+      <fw type="pageNum" place="right">2</fw>
+      <l>отдѣленіе 1.</l>
+      <l><fw type="docNum">№ 698</fw></l>
+      <l><date when="1827-03-02">2 <del rend="overstrike">февраля</del> <hi rend="superscript">марта</hi> 1827<hi rend=
+      "superscript">го</hi></date></l>
+      <l>въ <placeName ref="Витебск">Витебскѣ</placeName>.</l>
+      <l/>
+    </opener>
+    <fw type="note" place="left margin">никъ</fw>
+    <salute>
+      <l>Могилевскаго Главнаго Суда<note place="end">обрыв листа</note></l>
+      <l>партаменту</l>
+    </salute>
+    <p>
+      <l>Возвращая при семъ представленное</l>
+      <l>мнѣ онымъ Департаментомъ</l>
+      <l>отъ <date when="1827-02-09">9<hi rend="superscript">го</hi> <del rend="overstrike">сего</del> <hi rend=
+      "superscript">прошедшаго</hi> февраля</date> за <fw type="docNum">№ 267<hi rend="superscript">м</hi></fw></l>
+      <l>рѣшеніе по дѣлу о незаконныхъ</l>
+      <l>денежныхъ сборахъ Любавицкимъ</l>
+      <l>раввиномъ <persName ref="мителер_ребе">Беркою Шнееромъ</persName></l>
+      <l>съ своей собратіи предлагаю оно-</l>
+      <l>му Департаменту доставить</l>
+      <l>ко мнѣ сіе рѣшеніе съ подлиннымъ</l>
+      <l>дѣломъ, выпискою изъ онаго и</l>
+      <l>краткою запискою въ непродол</l>
+      <l>жительномъ времяни.</l>
+    </p>
     <pb n="002-2"/>
+    <opener place="left">
+      <l>отдѣленіе 1</l>
+      <l>№ 1167.</l>
+      <l><date when="1827-03-29">,29, марта 1827</date>.</l>
+      <l><placeName ref="Витебск">Витебскъ</placeName>.</l>
+    </opener>
+    <salute>
+      <l>Могилевскаго главнаго суда</l>
+      <l>1<hi rend="superscript">му</hi> департаменту</l>
+    </salute>
+    <p>
+      <l>ОТъ <date when="1827-03-02">2<hi rend="superscript">го</hi> сего марта</date> за <fw type="docNum">№ 898<hi
+      rend="superscript">м</hi></fw></l>
+      <l>возвратилъ во оный <hi rend="superscript">департаментъ</hi> рѣшеніе его</l>
+      <l>по дѣлу о незаконныхъ денежныхъ</l>
+      <l>сборахъ <hi rend="superscript">чинимыхъ</hi> любавицкимъ раввиномъ</l>
+      <l><persName ref="мителер_ребе">Беркою Шнееромъ</persName> съ своей собра-</l>
+      <l>тіи, предл<del rend="overstrike">ожилъ</del> <hi rend="superscript">агаю</hi> я сему Департа-</l>
+      <l>менту доставить ко мнѣ оное</l>
+      <l>съ подлиннымъ дѣломъ, экстрак-</l>
+      <l>томъ <del rend="overstrike">изъ онаго</del> и краткою за-</l>
+      <l>пискою, но не получивъ <del rend="overstrike">оныхъ</del> <hi rend="superscript">того</hi> донынѣ</l>
+      <l>подтверждаю <del rend="overstrike"><unclear>???</unclear></del> Департаменту,</l>
+      <l><del rend="overstrike">означенное дѣло</del> согласно первому <del rend="overstrike">моему</del></l>
+      <l>предписанію <hi rend="superscript">моему представить</hi> <del rend="overstrike"><unclear>??? ???</unclear>
+      </del> мнѣ</l>
+      <l>всї то<note place="end">два слова вписаны на левом поле при начале строки</note> сколь можно поспѣшнѣе.</l>
+      <l>П.Г.Г.Л</l>
+    </p>
+    <fw type="pageNum" place="right">2об<note place="end">номер записан карандашом</note></fw>
   </body></text>
 </TEI>
