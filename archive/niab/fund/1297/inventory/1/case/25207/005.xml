@@ -1,11 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1827-04-13">13 апрѣля 1827 года</date></creation>
+      <abstract><p>
+        Рапорт Могилевского губернского суда генерал-губернатору о направлении последнему следственного дела с
+        приложенными дополнительными материалами
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="005-1"/>
+    <fw type="note">по дѣлу <unclear>???</unclear><note place="end">верхний край листа поврежден, часть текста
+    утрачена</note></fw>
+    <fw type="pageNum" place="right">5<note place="end">номер записан карандашом</note></fw>
+    <salute>
+      <l>Его Сїятельству,</l>
+      <l>Господину генерал-губернатору <placeName ref="Витебская_губерния">Витебской</placeName>, <placeName ref=
+      "Могилевская_губерния">Могилевской</placeName>,</l>
+      <l>Смоленской и Калужской губернїй, генералъ-лейтенан-</l>
+      <l>ту, сенатору и разныхъ орденовъ кавалѣру, князю <persName>Нико-<lb/>
+       лаю Николаевичу Хованскому</persName>.</l>
+    </salute>
+    <head>
+      <l>Могилевскаго Главнаго суда 1<hi rend="superscript">го</hi> де-</l>
+      <l>партамента</l>
+      <l><emph rend="big">Рапортъ</emph>.</l>
+    </head>
+    <fw type="note" place="left margin">Коллеж-</fw>
+    <p>
+      <l>На предложеніе Вашего Сїятельства отъ <date when="1827-03-29">29 истекшаго<lb/>
+       марта</date> за <fw type="docNum">№ 11,67</fw> последовавшее, Департаментъ сей честь имѣ</l>
+      <l>етъ симъ почтеннѣйше донести, что дѣло обще съ <unclear>???</unclear></l>
+      <l>краткою запискою и обстоятельною из онаго выпискою</l>
+      <l>о незаконныхъ денежныхъ сборахъ, чинимыхъ любавицкимъ</l>
+      <l>раввиномъ <persName ref="мителер_ребе">Беркою Шнееромъ</persName> съ своей собратїи, Вашему</l>
+      <l>Сїятельству представлѣно того мца<note place="end">месяца, слово записано с титлом над ним</note> <date when=
+      "1827-03-22">марта 22 числа</date></l>
+      <l>за <fw type="docNum">№ 553</fw> <hi rend="superscript">м</hi></l>
+      <l><signed>Председатель <persName>Феликсъ <unclear>???</unclear></persName></signed></l>
+      <l><signed>Совѣтникъ <persName>Порфирій Корниловъ</persName></signed></l>
+      <l><signed>Засѣдатель <persName>Матвѣй Дек<unclear>???</unclear></persName></signed></l>
+      <l><signed>Секретаря помощникъ <persName>Комаровскій</persName></signed></l>
+      <l>За повытчика <signed><unclear>???</unclear></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 666</fw>.</l>
+      <l><date when="1827-04-13">Апрѣля 13. дня<lb/>
+       1827 года</date></l>
+    </closer>
     <pb n="005-2" missing="true"/>
   </body></text>
 </TEI>
