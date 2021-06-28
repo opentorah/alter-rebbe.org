@@ -1,13 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1827-03-22">22 марта 1827 года</date></creation>
+      <abstract><p>
+        Рапорт Могилевского губернского суда генерал-губернатору, связывающий данное дело с делом 1825 г. по доносу
+        <persName ref="Кисин_Симха">Симхи Кисина</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
-    <pb n="003-2"/>
-    <pb n="004-1"/>
+    <fw type="pageNum" place="right">3<note place="end">номер записан карандашом</note></fw>
+    <fw type="note" place="left margin">Секре-</fw>
+    <salute>
+      <l>Его Сіятельству</l>
+      <l>господину генералъ-губернатору витебскому,</l>
+      <l>могилевскому, смоленскому и калужскому, гене-</l>
+      <l>рал-лейтенанту сенатору и разныхъ орденовъ ка-</l>
+      <l>валеру князю <persName>Николаю Николаевичу Хованскому</persName></l>
+    </salute>
+    <head>
+      <l>Могилевскаго главнаго суда 1<hi rend="superscript">го</hi></l>
+      <l>департамента</l>
+      <l>Рапортъ.</l>
+    </head>
+    <p>
+      <l>При предложеніи Вашего Сіятельства полученномъ</l>
+      <l>въ семъ Департаментѣ <date when="1827-03-08">8<hi rend="superscript">го</hi> числа текущаго мар<lb/>
+       та мѣсяца</date> возвращенъ приговоръ онаго по дѣлу <unclear>о</unclear><note place="end">край листа поврежлен,
+      слово не читается</note></l>
+      <l>незаконныхъ денежныхъ сборахъ любавицкимъ равви</l>
+      <l>номъ <persName ref="мителер_ребе">Беркою Шнееромъ</persName> съ своей собратіи;_ съ тѣмъ,</l>
+      <l>чтобы сей приговоръ съ подлиннымъ дѣломъ, выпискою <unclear>изъ</unclear><note place="end">край листа
+      поврежлен, слово не читается</note></l>
+      <l>онаго и краткою запискою доставить къ <emph rend="big">Вашему</emph></l>
+      <l><emph rend="big">Сіятельству</emph> обратно въ непродолжительномъ времени.</l>
+    </p>
+    <p>
+      <l>Во исполненіе чего составленную изъ вышеписан</l>
+      <l>наго дѣла выписку и краткую записку, обще съ воз</l>
+      <l>вращеннымъ приговоромъ и онымъ дѣломъ по надле</l>
+      <l>жащей скрепе, номераціи и описи – при семъ <emph rend="big">Вашему</emph></l>
+      <l>Сіятельству Департаментъ честь имѣетъ предс</l>
+      <l>тавить съ объясненіемъ постепеннаго хода того дѣла</l>
+      <fw type="note" place="left margin"><unclear>???</unclear><note place="end">канцелярская пометка неясного
+      характера в левом нижнем углу страницы, выполненная чернилами</note></fw>
+      <pb n="003-2"/>
+      <l><unclear>??? ???</unclear><note place="end">верхний край листа поврежден, часть текста утрачена</note> теченіе
+      слѣдующимъ порядкомъ:</l>
+      <l>когда Вашему Сіятельству <date when="1825-06-??">1825<hi rend="superscript">го</hi> года въ јюне<lb/>
+       мѣсяце</date> еврей <persName ref="Кисин_Симха">Симха Кисинъ</persName> донесъ на раввина</l>
+      <l><persName ref="мителер_ребе">Берку Шнеера</persName> о чинимыхъ имъ съ своей собратіи де-</l>
+      <l>нежныхъ сборахъ, то <emph rend="big">Вашимъ Сіятельствомъ</emph> о</l>
+      <l>семъ предметѣ <date when="1825-10-02">2<hi rend="superscript">го</hi> числа октября мѣсяца то-<lb/>
+       го же 1825<hi rend="superscript">го</hi> года</date> предписано было изслѣдовать</l>
+      <l>полковнику <persName>Логгинову</persName> и надворному совѣтнику</l>
+      <l><persName>Маркову</persName>, кои произведя таковое изслѣдованіе, предс-</l>
+      <l>тавили <emph rend="big">Вашему Сіятельству</emph> <date when="1825-11-10">10<hi rend="superscript">го</hi>
+      ноября то-<lb/>
+       го же года</date>. По разсмотреніи онаго изслѣдованія</l>
+      <l>Ваше Сіятельство изволили таковое препрово-</l>
+      <l>дить <date when="1825-11-14">того мѣсяца ноября 14<hi rend="superscript">го</hi> числа</date> въ Могилевс-</l>
+      <l>кое губернское правленіе, а сіе для законнаго поста-</l>
+      <l>новленія <date when="1825-12-19">19<hi rend="superscript">го</hi> декабря 1825<hi rend="superscript">го</hi>
+      года</date> отослало въ Ба-</l>
+      <l>биновицкій городовый магистратъ, въ которомъ</l>
+      <l>вышеписанное дѣло съ <date when="1826-01-13">13<hi rend="superscript">го</hi> генваря 1826<hi rend=
+      "superscript">го</hi> года</date></l>
+      <l>находясь въ производствѣ, возымело окончательное</l>
+      <l>рѣшеніе <date when="1826-07-20">того года јюля 20 дня</date>; а прислано на</l>
+      <l>ревизію въ сей Департаментъ <date when="1826-08-03">3<hi rend="superscript">го</hi> августа</date>; въ</l>
+      <pb n="004-1"/>
+      <fw type="note" place="left margin">тарь</fw>
+      <fw type="pageNum" place="right">4<note place="end">номер записан карандашом</note></fw>
+      <l>семъ Департаментѣ между <unclear>??? ???</unclear><note place="end">верхний край листа поврежден, часть текста
+      утрачена</note></l>
+      <l>прочихъ дѣлъ рѣшено <date when="1826-11-29">29<hi rend="superscript">го</hi> ноября того же<lb/>
+       1826<hi rend="superscript">го</hi> года</date> – и по просмотрѣ приговора <date when="1827-02-01">1<hi rend=
+      "superscript">го</hi> февра<lb/>
+       ля сего 1827<hi rend="superscript">го</hi> года</date> губернскимъ прокуроромъ,</l>
+      <l>отосланъ таковый <date when="1827-02-09">того жъ мѣсяца 9<hi rend="superscript">го</hi> числа</date></l>
+      <l>на утвержденіе Вашему Сіятельству._</l>
+      <l><signed>Председатель <unclear>???</unclear></signed></l>
+      <l><signed>Совѣтникъ <persName>Порфирій Корниловъ</persName></signed></l>
+      <l><signed>Засѣдатель <persName>Матвѣй Дектер<unclear>???</unclear></persName></signed></l>
+      <l><signed>Секретарь <persName>Петръ Буличе<unclear>???</unclear></persName></signed></l>
+      <l><signed>Повытчикъ <persName>Василїй Бучинскїй</persName></signed></l>
+    </p>
+    <closer place="left">
+      <l><fw type="docNum">№ 553</fw></l>
+      <l><date when="1827-03-22">Марта 22 дня<lb/>
+       1827<hi rend="superscript">го</hi> года</date></l>
+    </closer>
     <pb n="004-2" missing="true"/>
   </body></text>
 </TEI>
