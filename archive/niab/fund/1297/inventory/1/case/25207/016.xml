@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>Хованский</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1827-05-31">31 мая 1827</date></creation>
+      <abstract><p>
+        Сопроводительная записка к доккументам, представленным генерал-губернатором в Сенат по делу <persName ref=
+        "мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="016-1"/>
+    <fw type="pageNum" place="right">16<note place="end">номер записан карандашом</note></fw>
+    <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
+    канцеляриста</note></fw>
+    <opener place="left">
+      <l>Отдѣленіе 1.</l>
+      <l><date when="1827-05-31">31 маія 1827</date>.</l>
+      <l><fw type="docNum">№ 2037</fw>.</l>
+      <l>въ Калугѣ.</l>
+      <head><l>о представленіи<lb/>
+         дѣла о поборахъ<lb/>
+         производимыхъ<lb/>
+         раввиномъ <persName ref="мителер_ребе">Шне-<lb/>
+         еромъ</persName> въ <orgName ref="Сенат">Прави-<lb/>
+         тельствующій Сенатъ</orgName></l></head>
+    </opener>
+    <salute>
+      <l>Могилевскаго Главнаго</l>
+      <l>суда 1<hi rend="superscript">му</hi> департаменту.</l>
+    </salute>
+    <p>
+      <l>Извѣщаю сей Депар</l>
+      <l>таментъ, что предста-</l>
+      <l>вленное <del rend="overstrike">мно</del> <hi rend="superscript"><unclear>???</unclear></hi> <date when=
+      "1827-08-22">22 августа<lb/>
+       сего года</date> съ <fw type="docNum">№ 553</fw> подлин</l>
+      <l>ное дѣло съ выпискою</l>
+      <l>изъ онаго и краткою</l>
+      <l>запискою, о незаконныхъ</l>
+      <l>денежныхъ сборахъ <placeName ref="Могилевская_губерния">Моги-<lb/>
+       левской губерній</placeName> мѣстечка</l>
+      <l><placeName ref="Любавичи">Любавичъ</placeName> еврейскимъ</l>
+      <l>раввиномъ <persName ref="мителер_ребе">Беркою Шне-<lb/>
+       еромъ</persName> съ своей собратіи</l>
+      <l>представлено мною</l>
+      <l>съ мнѣніемъ на</l>
+      <l>разсмотреніе въ <orgName ref="Сенат">Правитель<lb/>
+       ствующцй Сенатъ</orgName></l>
+    </p>
     <pb n="016-2" missing="true"/>
   </body></text>
 </TEI>
