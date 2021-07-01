@@ -1,11 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <creation><date when="1828-01-11">11 января 1828 года</date></creation>
+      <abstract><p>
+        Рапорт Могилевского губернского ("Главного") суда белорусскому генерал-губернатору о представлении ему
+        сенатского решения по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="017-1"/>
+    <fw type="docNum">№ 45<unclear>1</unclear>.</fw>
+    <fw type="pageNum" place="right">17<note place="end">номер записан карандашом</note></fw>
+    <fw type="note">Къ дѣлу</fw>
+    <salute>
+      <l><emph rend="big">Его Сїятельству!</emph></l>
+      <l>Господину генералъ губернатору витебскому, могилевскому,</l>
+      <l>смоленскому и калужскому генералъ лейтенанту, сена-</l>
+      <l>тору и разныхъ орденовъ кавалеру, князю <persName>Николаю<lb/>
+       Николаевичу Хованскому</persName></l>
+    </salute>
+    <head>
+      <l>Могилевскаго Главнаго суда 1</l>
+      <l>департамента</l>
+      <l><emph rend="big">Рапортъ.</emph></l>
+    </head>
+    <p>
+      <l>Во исполненїе предложенїя <emph rend="big">Вашего Сїятельства</emph></l>
+      <l>отъ <date when="1825-09-18">18. сентября 1825<hi rend="superscript">го</hi> года</date> <fw type="docNum">№
+      4425<hi rend="superscript">го</hi></fw>, сей департа-</l>
+      <l>ментъ честь имѣетъ при семъ почтеннейше пред-</l>
+      <l>ставить, копію указа изъ <orgName ref="Сенат">Правительствующаго<lb/>
+       Сената</orgName> Могилевскому губернскому правленїю</l>
+      <l>последовавшаго, а въ сей департаментъ сего <date when="1826-01-02">2<hi rend="superscript">го</hi><lb/>
+       генваря</date> въ спискѣ сообщеннаго, по дѣлу о незаконномъ</l>
+      <l>якобы денежномъ зборѣ, чинимомъ местечка</l>
+      <l><placeName ref="Любавичи">Любавичъ</placeName> еврейскимъ раввиномъ <persName ref="мителер_ребе">Беркою
+      Шнееромъ</persName></l>
+      <l>съ своей собратїи.</l>
+      <l><signed>Предсѣдатель <persName>Феликсъ М<unclear>???</unclear>вскїй</persName></signed></l>
+      <l><signed>Совѣтникъ <persName>Порфирій Корниловъ</persName></signed></l>
+      <l><signed>Засѣдатель <persName>Јосифъ в<unclear>???</unclear></persName></signed></l>
+      <l><signed>Секретарь <persName>Петръ Буличъ</persName></signed></l>
+      <l><signed>Повытчикъ <unclear>???</unclear></signed></l>
+    </p>
+    <fw type="note" place="lower margin">1.<unclear>???</unclear> въ 1.</fw>
+    <closer place="left">
+      <l><fw type="docNum">№ 54</fw>.</l>
+      <l><date when="1828-01-11">Генваря 11. дня<lb/>
+       1828 года</date></l>
+      <l>съ представленіемъ копіи</l>
+      <l>уваза <orgName ref="Сенат">правительствующаго<lb/>
+       сената</orgName> по дѣлу: о любавицкомъ рав-</l>
+      <l>винѣ <persName ref="мителер_ребе">Беркѣ Шнеерѣ</persName>._</l>
+    </closer>
     <pb n="017-2" missing="true"/>
   </body></text>
 </TEI>
