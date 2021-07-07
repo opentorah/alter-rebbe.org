@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Титульный лист архивного дела</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="left">К.66<note place="end">поздняя карандашная архивная пометка</note></fw>
+    <fw type="note" place="left">
+      <l>к99</l>
+      <l>15/XII 26<note place="end">карандашная архивная пометка</note></l>
+    </fw>
+    <fw type="note" place="left"><emph rend="underline">Е.</emph></fw>
+    <fw type="note" place="right">
+      <l><emph rend="underline">Секретно.</emph></l>
+      <l><fw type="docNum">№.1</fw></l>
+    </fw>
+    <head>
+      <l><emph rend="big"><emph rend="underline">№ 29.</emph></emph></l>
+      <l>По повѣленію Его Император-</l>
+      <l>скаго Высочества цесаревича</l>
+      <l>о узнаніи по <placeName ref="Литва">Литвскимъ губерніямъ</placeName></l>
+      <l>безъ огласки, о свѣденіяхъ нащетъ</l>
+      <l>еврейскаго народа</l>
+    </head>
+    <fw type="note" place="right"><date when="1824-01-12">12. генваря 1824. года</date></fw>
+    <fw type="note" place="left">
+      <l>Центр. гос. исторический</l>
+      <l>архив Литовской ССР</l>
+      <l>338 ф. 1824 г.</l>
+      <l>29</l><note place="end">заполненный бланк архивного штампа</note>
+    </fw>
     <pb n="000-2"/>
   </body></text>
 </TEI>
