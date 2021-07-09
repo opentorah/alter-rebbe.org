@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>Заполненные бланки архивных штампов советского периода</p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="008-1"/>
+    <p>
+      <l>В данной единице хранения прошито и пронумеровано</l>
+      <l>„7 семь листов</l>
+      <l/>
+      <l/>
+      <l>„<date when="1968-03-18">18.III.1968 г.</date> подпись <unclear>???</unclear></l><note place="end">заполненный
+      бланк архивного штампа</note>
+    </p>
+    <p>
+      <l>Возвращено в хранилище</l>
+      <l>-7- листов</l>
+      <l><date when="1968-03-19">19 III 68</date></l>
+      <l>зав. чит. залом - <unclear>???</unclear><note place="end">подпись</note> -</l><note place="end">заполненный
+      бланк архивного штампа</note>
+    </p>
     <pb n="008-2" missing="true"/>
   </body></text>
 </TEI>
