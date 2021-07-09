@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1824-01-20">20 января 1824 года</date></creation>
+      <abstract><p>
+        Черновик рапорта неизвестного виленского чиновника (вероятно, гражданского губернатора об отданных распоряжениях
+        по выяснению источника слухов в еврейской среде, касающихся разработки правительством нового Положения о евреях
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="007-1"/>
+    <fw type="docNum">№ 225.</fw>
+    <fw type="note"><date when="1824-01-20">20 генваря 1824</date>.</fw>
+    <fw type="pageNum" place="right">7</fw>
+    <salute><l>Государю Цесаревичу</l></salute>
+    <head>
+      <l>Рапортъ</l>
+      <l>по даваніи мною разпоряженія</l>
+    </head>
+    <l>Во исполненіе повѣленїя Вашего Высва<note place="end">высочества; слово записано с титлом</note> отъ <date when=
+    "1824-01-04">4 сего<lb/>
+     генваря</date> за <fw type="docNum">№ 4</fw>. <del rend="overstrike">здѣлавъ разпоряженіе о <unclear>???</unclear>
+    </del></l>
+    <l>о розысканіи насчетъ происходимыхъ между евреями</l>
+    <l>слуховъ что якобы правительство дѣлаетъ</l>
+    <l>объ нихъ какое-то новое положенїе приводящее</l>
+    <l>ихъ въ страхъ и что по сему поводу раввины</l>
+    <l>еврейскія налагаютъ посты и просходитъ</l>
+    <l>денежный зборъ въ предосудительныхъ намеренїяхъ,</l>
+    <l><del rend="overstrike">я приказалъ тогда</del> виленскїй<del rend="overstrike">ому</del> полицмейстеръ<del rend=
+    "overstrike">у</del></l>
+    <l><del rend="overstrike">развѣдать о семъ которая</del> <hi rend="superscript">въ рапортѣ ко мнѣ отъ <date when=
+    "1824-01-17">17 сего генваря</date></hi> за <fw type="docNum">№ 87</fw>.</l>
+    <l>прописывалъ что разнесшіяся о семъ слухи</l>
+    <l>во всѣхъ тѣхъ мѣстахъ гдѣ имѣютъ пребы-</l>
+    <l>ваніе евреи достигли и въ здешнїй <del rend="overstrike">губерніи</del></l>
+    <l>городъ. <unclear>Начально</unclear> писалъ о семъ <unclear>сюда</unclear>.....</l>
+    <l>до <unclear>конца рапортѣ</unclear> полицмейстера.</l>
+    <l>О чемъ вашему имперскому<note place="end">императорскому; сокращенная запись слова с титлом</note> высоч.</l>
+    <l>имѣю <unclear>честь</unclear> донести.</l>
     <pb n="007-2"/>
+    <l>Въ семъ дѣлѣ переноме-</l>
+    <l>рованныхъ семь листовъ</l>
+    <l><signed>Тит. совѣт. <unclear>???</unclear><note place="end">подпись</note></signed></l>
   </body></text>
 </TEI>
