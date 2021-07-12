@@ -1,11 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Титульный лист дела и опись включенных в него документов</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="docNum">
+      <l>Настольнаго</l>
+      <l>реэстра. № 111/1851.</l>
+    </fw>
+    <head>
+      <l><orgName ref="Сенат">правительствующаго сената</orgName></l>
+      <l>департамента</l>
+      <l>герольдіи</l>
+      <l><emph rend="big">дѣло</emph></l>
+      <l>О возведеніи личнаго почет-</l>
+      <l>наго гражданина <persName ref="Цемах_Цедек">Менделя<lb/>
+       Шнеерсона</persName> съ семействомъ</l>
+      <l>въ потомственное почетное</l>
+      <l>гражданство.</l>
+    </head>
+    <p>
+      <l>Вступило <date when="1850-05-01">1 маія 1850 года</date></l>
+      <l>Рѣшено 31 ––</l>
+      <l>Вступило <date when="1851-01-15">15 января 1851</date> -</l>
+      <l>Рѣшено 25 марта -</l>
+      <l>Рѣшено <date when="1852-04-10">10 апрѣля 1852</date> -</l>
+      <l>Архива №<note place="end">номер не проставлен</note></l>
+    </p>
     <pb n="000-2"/>
+    <head>Опись бумагамъ, въ дѣлѣ заключающимся.</head>
+    <table>
+      <row>
+        <cell>Число бумагъ.</cell>
+        <cell>
+          <l>Какого мѣста или лица бумага,</l>
+          <l>отъ котораго числа и за какимъ №.</l>
+        </cell>
+        <cell>На сколькихъ листахъ.</cell>
+      </row>
+      <row>
+        <cell>1.</cell>
+        <cell>
+          <l>Рапортъ могилевскаго гражданскаго гу-</l>
+          <l>бернатора отъ <date when="1850-04-14">14 апрѣля 1850 года</date> за</l>
+          <l><fw type="docNum">№ 7859</fw> съ приложеніемъ___</l>
+        </cell>
+        <cell>37.</cell>
+      </row>
+      <row>
+        <cell>2.</cell>
+        <cell>Копія съ опредѣленія <orgName ref="Сенат">Сената</orgName> <date when="1850-05-31">31 мая 1850 года</date>
+        </cell>
+        <cell>24.</cell>
+      </row>
+      <row>
+        <cell>3.</cell>
+        <cell><l>Рапортъ министра финансовъ <date when="1851-01-12">12 января<lb/>1851 г.</date> за <fw type="docNum">№
+        155</fw>._______</l></cell>
+        <cell>XXX</cell>
+      </row>
+      <row>
+        <cell>4.</cell>
+        <cell>Копія съ опредѣленія <orgName ref="Сенат">Сената</orgName> <date when="1851-01-25">25 января 1851
+        года</date></cell>
+        <cell>46._</cell>
+      </row>
+      <row>
+        <cell>5.</cell>
+        <cell>
+          <l>Прошеніе купца <persName ref="Цемах_Цедек">Шнеерсона</persName> <date when="1851-02-22">22 февраля
+          1851</date>.</l>
+          <l>съ приложеніемъ._____</l>
+        </cell>
+        <cell>9.</cell>
+      </row>
+      <row>
+        <cell>6.</cell>
+        <cell>Отношеніе казначея <date when="1851-02-27">27 февраля 1851 г.</date> <fw type="docNum">№ 29</fw>._</cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>7.</cell>
+        <cell>Копія съ опредѣленія <orgName ref="Сенат">Сената</orgName> <date when="1851-03-08">8 марта 1851
+        г.</date>_</cell>
+        <cell>6.</cell>
+      </row>
+      <row>
+        <cell>8.</cell>
+        <cell><l>Прошеніе повѣреннаго <persName>Госевдина</persName> отъ <date when="1851-04-03">3<lb/>
+         апрѣля 1851 г.</date> съ приложеніемъ__</l></cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell>9.</cell>
+        <cell>Несостоявшееся опредѣленіе <date when="1851-04-26">26 апрѣля 1851 года</date></cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell>10.</cell>
+        <cell>Копія съ опредѣленія <orgName ref="Сенат">Сената</orgName> <date when="1851-05-31">31 мая 1851 года</date>
+        </cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>11.</cell>
+        <cell>отпускъ съ граматы____</cell>
+        <cell>2.-</cell>
+      </row>
+      <row>
+        <cell>12.</cell>
+        <cell><l>Отношеніе казначея Герольдіи <date when="1851-08-18">18 августа<lb/>1851 года</date> за <fw type=
+        "docNum">№ 144</fw>.____</l></cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>13.</cell>
+        <cell><l>Рапортъ министра финансовъ отъ <date when="1851-09-06">6<lb/>сентября 1851 года</date> за <fw type=
+        "docNum">№ 4471</fw>.__</l></cell>
+        <cell>2._</cell>
+      </row>
+      <row>
+        <cell>14.</cell>
+        <cell>Тожъ министра внутреннихъ дѣлъ за <fw type="docNum">№ 4046</fw>.</cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>15.</cell>
+        <cell>
+          <l>Тожъ Могилевскаго губернскаго правленія</l>
+          <l>за <fw type="docNum">№ 20191</fw>._____</l>
+        </cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>16.</cell>
+        <cell>Тожъ С. Петербург. управы благочинія № 48454</cell>
+        <cell>2.</cell>
+      </row>
+      <row>
+        <cell>17.</cell>
+        <cell><l>Прошеніе почетнаго гражданина <persName ref="Цемах_Цедек">Мен-<lb/>деля Шнеерсона</persName> <date
+        when="1852-03-14">14 марта 1852 года</date>._</l></cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>18.</cell>
+        <cell><l>Журнальная статья Д. герольдіи <date when="1852-04-10">10 апрѣля<lb/>1852 года</date>._____</l></cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell>19.</cell>
+        <cell>
+          <l>Рапортъ могилевскаго граждан. губер-</l>
+          <l>натора <date when="1852-06-19">19 јюня 1852 года</date> <fw type="docNum">№ 10364</fw>._</l>
+        </cell>
+        <cell>6.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>Итого.</cell>
+        <cell>149.</cell>
+      </row>
+    </table>
+    <p>Исправляющій дол. помощ. секретаря <persName>Н. Даниловъ</persName>.</p>
   </body></text>
 </TEI>
