@@ -1,11 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Указатель документов дела</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="005-1"/>
-    <pb n="005-2"/>
+    <fw type="pageNum" place="right">5</fw>
+    <table>
+      <row>
+        <cell>№.</cell>
+        <cell>Опись документамъ</cell>
+        <cell>
+          <l>На</l>
+          <l>какой</l>
+          <l>стра-</l>
+          <l>ницѣ</l>
+        </cell>
+      </row>
+      <row>
+        <cell>1.</cell>
+        <cell>
+          <l>Списокъ съ опредѣленія Минскаго гу-</l>
+          <l>бернскаго правленія, отъ <date when="1850-02-06">6 февраля 1850 года</date></l>
+        </cell>
+        <cell>1.</cell>
+      </row>
+      <row>
+        <cell>2.</cell>
+        <cell>
+          <l>Прошеніе оршанскаго 2 гильдіи купца</l>
+          <l>и почетнаго гражданина <persName ref="Цемах_Цедек">Менделя Шах-<lb/>нова Шнеерсона</persName> къ минскому
+          граж-</l>
+          <l>данскому губернатору отъ <date when="1849-11-27">27 ноября<lb/>
+           1849 года</date></l>
+        </cell>
+        <cell>14</cell>
+      </row>
+      <row>
+        <cell>3.</cell>
+        <cell>
+          <l>Выписка изъ книгъ Бобруйскаго</l>
+          <l>уѣзднаго суда за 1846 годъ</l>
+        </cell>
+        <cell>18.</cell>
+      </row>
+      <row>
+        <cell>4.</cell>
+        <cell>
+          <l>Копія указа Минской гражданской</l>
+          <l>палаты Бобруйскому земскому</l>
+          <l>суду, отъ <date when="1847-01-16">16 генваря 1847 года</date> <fw type="docNum">№ 121</fw>–</l>
+        </cell>
+        <cell>22.</cell>
+      </row>
+      <row>
+        <cell>5.</cell>
+        <cell>Квитанція отъ <date when="1848-03-24">24 марта 1848 года</date></cell>
+        <cell>26.</cell>
+      </row>
+      <row>
+        <cell>6.</cell>
+        <cell>Тоже отъ <date when="1847-07-29">29 јюля 1847 года</date></cell>
+        <cell>28.</cell>
+      </row>
+      <row>
+        <cell>7.</cell>
+        <cell>
+          <l>Копія указа Минскаго губернскаго</l>
+          <l>правленія Бобруйскому земскому</l>
+          <l>суду, отъ <date when="1847-10-07">7 октября 1847 года</date> <fw type="docNum">№ 11.520</fw></l>
+        </cell>
+        <cell>30.</cell>
+      </row>
+      <row>
+        <cell>8.</cell>
+        <cell>Контрактъ купца <persName ref="Цемах_Цедек">Шнеерсона</persName></cell>
+        <cell>37.</cell>
+      </row>
+      <row>
+        <cell>9.</cell>
+        <cell>
+          <l>Свидѣтельство Боруйскаго земскаго</l>
+          <l>суда, отъ <date when="1849-08-10">10 августа 1849 года</date> <fw type="docNum">№ 6.484</fw>.</l>
+        </cell>
+        <cell>41.</cell>
+      </row>
+      <row>
+        <cell>10.</cell>
+        <cell>
+          <l>Свидѣтельство Оршанской городской</l>
+          <l>думы отъ <date when="1849-11-24">24 ноября 1849 года</date> <fw type="docNum">№ 1628</fw></l>
+        </cell>
+        <cell>44</cell>
+      </row>
+      <row>
+        <cell>11.</cell>
+        <cell>Списокъ семейству 2 гильдіи купца <persName ref="Цемах_Цедек">Шнеерсона</persName></cell>
+        <cell>46.</cell>
+      </row>
+      <pb n="005-2"/>
+      <row>
+        <cell>12.</cell>
+        <cell>
+          <l>Копія свидѣтельства <orgName ref="Сенат">Правительствующаго<lb/>Сената</orgName> купцу <persName ref=
+          "Цемах_Цедек">Шнеерсону</persName> на званіе лич-</l>
+          <l>наго почетнаго гражданина</l>
+        </cell>
+        <cell>47.</cell>
+      </row>
+      <row>
+        <cell>13.</cell>
+        <cell>
+          <l>Копія прошенія 2 гильдіи купца <persName ref="Цемах_Цедек">Мен-<lb/>деля Шнеерсона</persName> въ Минское
+          губернское</l>
+          <l>правленіе</l>
+        </cell>
+        <cell>49.</cell>
+      </row>
+      <row>
+        <cell>14.</cell>
+        <cell>Пршеніе <persName ref="Цемах_Цедек">его же</persName> къ минскому губернатору 20 марта 1850 года.</cell>
+        <cell>53.</cell>
+      </row>
+      <row>
+        <cell>15.</cell>
+        <cell>АКтъ земледѣльцевъ купцу <persName ref="Цемах_Цедек">Шнеерсону</persName></cell>
+        <cell>57.</cell>
+      </row>
+    </table>
+    <l><signed>Правитель канцеляріи <unclear>???</unclear></signed></l>
   </body></text>
 </TEI>
