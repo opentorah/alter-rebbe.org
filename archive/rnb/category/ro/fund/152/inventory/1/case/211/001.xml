@@ -5,12 +5,16 @@
       <author><persName ref="alter-rebbe">Шнеур Залман</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>
-      Перевод на русский язык письма <persName ref="alter-rebbe">Шнеура Залмана</persName>, направленного <orgName ref=
-      "Хасиды">хасидам</orgName> во время войны 1812 г.<note place="end">вероятно, около 12 августа 1812 г или вскоре
-      после этой даты - см. <ref target="/rgia119/248">открытый лист, выданный <persName ref="alter-rebbe">Шнеуру
-      Залману</persName> для выезда во внутренние губернии</ref>; автор и время перевода не указаны</note>
-    </p></abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод на русский язык письма <persName ref="alter-rebbe">Шнеура Залмана</persName>, направленного <orgName
+        ref="Хасиды">хасидам</orgName> во время войны 1812 г.<note place="end">вероятно, около 12 августа 1812 г или
+        вскоре после этой даты - см. <ref target="/rgia119/248">открытый лист, выданный <persName ref="alter-rebbe"
+        >Шнеуру Залману</persName> для выезда во внутренние губернии</ref>; автор и время перевода не указаны</note>
+      </p></abstract>
+      <handNotes><handNote xml:id="pencilHand" medium="pencil">written in pencil, probably during archive
+      inventorization</handNote></handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
@@ -40,7 +44,7 @@
       <l>чего недоставало? Трудолюбія промыслы</l>
       <l>дѣятельныхъ, доставляли преизрядные</l>
       <l>способы r] содержанію нашихъ семействъ.</l>
-      <l>1<note place="end">номер страницы вписан карандашом – вероятно, в ходе архивного учета</note></l>
+      <l><fw type="pageNum" place="center" hand="#pencilHand">1</fw></l>
       <pb n="001-2"/>
       <l>Мы не только охранялись закономъ наравнѣ</l>
       <l>съ природными русскими, но и допущены</l>
@@ -85,7 +89,7 @@
       <l>(302<hi rend="superscript">Межъ</hi>) Между тѣмъ какъ оный <persName>Наполеонъ</persName></l>
       <l>ложными разглашеніями о разныхъ</l>
       <l>выгодахъ старается прельщать народы</l>
-      <l>2<note place="end">номер вписан карандашом</note></l>
+      <l><fw type="pageNum" place="center" hand="#pencilHand">2</fw></l>
       <pb n="002-2"/>
       <fw type="pageNum" place="right">4</fw>
       <l>страшусь я дабы изъ васъ, мои любез-</l>
@@ -130,7 +134,7 @@
       <l>подкрѣплять Васъ совѣтами</l>
       <l>въ духе Вашемъ мужайтесь крепи-</l>
       <l>тесь и усердствуйте всѣми</l>
-      <l>1<note place="end">номер страницы вписан карандашом</note></l>
+      <l><fw type="pageNum" place="center" hand="#pencilHand">3</fw></l>
       <pb n="003-2"/>
       <l>силами услуживайте Рос-</l>
       <l>сийскимъ военнымъ командирамъ</l>

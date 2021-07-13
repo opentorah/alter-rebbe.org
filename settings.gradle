@@ -30,7 +30,7 @@ dependencyResolutionManagement {
 
   versionCatalogs {libs {
     alias('scala-library').to("$scalaLibrary:$scalaVersion")
-    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:1.114.0')
+    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:1.117.1')
     alias('slf4j').to('org.slf4j:slf4j-api:1.7.30')
     alias('opentorah-collector').to("org.opentorah:opentorah-collector:$opentorahVersion")
     alias('opentorah-site').to("org.opentorah:opentorah-site:$opentorahVersion")
@@ -40,4 +40,4 @@ dependencyResolutionManagement {
 
 rootProject.name = 'alter-rebbe'
 
-//includeBuild '../opentorah.org'
+// includeBuild '../opentorah.org'
