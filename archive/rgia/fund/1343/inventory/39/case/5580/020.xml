@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1847-07-29">29 июля 1847 года</date></creation>
+      <abstract><p>
+        Квитанция об уплате половинной суммы пошлин за часть земли, приобретенной<persName ref="Цемах_Цедек">Менахемом
+        Менделем Шнеерсоном</persName>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="020-1"/>
-    <pb n="020-2"/>
+    <fw type="pageNum" place="right">20</fw>
+    <fw type="note">28.</fw>
+    <fw type="note" place="right">Къ лит Б</fw>
+    <head><l>Квитанція</l></head>
+    <p>
+      <l><date when="1847-07-29">1847 года јюля 29. дня</date> дана сія квитанція</l>
+      <l>отъ пристава 2 стана Бобруйского уѣзда, боб-</l>
+      <l>руйскому 3<hi rend="superscript">й</hi> гильдіи купцу <persName>Янкелю Шевеліе<lb/>
+       вичу Дубровенскому</persName> въ том, что онъ <persName>Дубровен-<lb/>
+       скій</persName> <unclear>сходно</unclear> указа Минской палаты граждан</l>
+      <l>скаго суда отъ <date when="1847-01-16">16 генваря сего года</date> за <fw type="docNum">№ 121</fw>.</l>
+      <l>представилъ недобранные слѣдуемые казнѣ</l>
+      <l>пошлины отъ 30. уволокъ 3 дѣсятинъ и 2200.</l>
+      <l>саженей купленной отъ помѣщика <persName>Пруша<lb/>
+       новскаго</persName> съ мѣщаниномъ <persName>Шевелемъ Гане<lb/>
+       линымъ</persName>, по измеренію землемеромъ <persName>Русиц-<lb/>
+       кимъ</persName> оказавшейся более причитающейся</l>
+      <l>на оную половинную часть взысканіе – какъ</l>
+      <l>то: гербовыхъ <emph rend="underline">четыре</emph> рубля <emph rend="underline">пятьдѣсятъ</emph></l>
+      <l>копеекъ и 4 процентныхъ <emph rend="underline">восемдѣсятъ</emph> <emph rend="underline">дѣвять</emph></l>
+      <l>рублей <emph rend="underline">восемдѣсятъ пять копеекъ</emph> копеекъ, а такъже</l>
+      <pb n="020-2"/>
+      <fw type="note">29</fw>
+      <l>гербовыхъ пошлинъ <emph rend="underline">шестьдѣсятъ</emph> копеекъ</l>
+      <l>а всего девяносто четыре рубля, <emph rend="underline">дѣвя-</emph></l>
+      <l><emph rend="underline">носто пять</emph> копеекъ серебромъ съ п<unclear>???</unclear>-</l>
+      <l>ными – о взысканіи же второй половинной</l>
+      <l>части денегъ причитающейся на евреѣ Шевелѣ<lb/>
+       Ганелинѣ по жительству его въ Щадринѣ</l>
+      <l>въ 1м станѣ, порученіе вмѣстѣ съ симъ</l>
+      <l>представлено въ земскій судъ__</l>
+      <l><signed>Становый приставъ <unclear>???</unclear></signed></l>
+    </p>
   </body></text>
 </TEI>
