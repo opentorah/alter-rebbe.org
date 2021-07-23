@@ -1,11 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1849-12-22">22 декабря 1849 года</date></creation>
+      <abstract><p>
+        Благодарственное письмо еврееев-земледельцев <persName ref="Цемах_Цедек">Менахему Меделю Шнеерсону</persName>
+        для предоставления этого документа властям с целью получения им статуса потомственного почетного гражданина
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="036-1"/>
-    <pb n="036-2"/>
+    <fw type="note">57.</fw>
+    <fw type="pageNum" place="right">36</fw>
+    <p>
+      <l><date when="1849-12-22">1849<hi rend="superscript">о</hi> года декабря 22 дня</date>, <placeName ref=
+      "Минская_губерния">Минской<lb/>
+       губерніи</placeName> Бобруйскаго уѣзда, евреи земле-</l>
+      <l>дельцы слободы Щодринъ, будучи въ общемъ</l>
+      <l>собраніи, имѣли разсужденіе, что владѣлецъ</l>
+      <l>нашей земли оршанскій второй гильдіи купецъ</l>
+      <l>и почетный гражданинъ <persName ref="Цемах_Цедек">Мендель Шахновъ сынъ<lb/>
+       Шнеерсонъ</persName>, съ время посѣленія насъ на выше</l>
+      <l>означенной пріобретенной имъ въ покупкѣ</l>
+      <l>землѣ, съ 1846<hi rend="superscript">о</hi> года по настоящее время</l>
+      <l>кромѣ что не получая отъ насъ никакого</l>
+      <l>дохода отъ земли, онъ <persName ref="Цемах_Цедек">Шнеерсонъ</persName> ежегодно и</l>
+      <l>во всякое время оказывалъ намъ вспомощество-</l>
+      <l>ваніе, въ засѣвѣ полей, покупки скота, и другихъ</l>
+      <l>всякихъ нужныхъ хозяйственныхъ обзавѣденіи, и</l>
+      <l>во время свирѣпствованіи болѣзни холѣріи, оказы-</l>
+      <l>валъ разные вспомоществованіи жертвамъ, ни</l>
+      <l>малой суииы на мѣдикаменты и собственно</l>
+      <l>пропитаніи больныхъ; и потому нужнымъ почли</l>
+      <l>составить сей благодарственный актъ, поднесть</l>
+      <l>ему г: <persName ref="Цемах_Цедек">Шнеерсону</persName>, посредствомъ нашихъ стар-</l>
+      <l>шинъ, на тотъ предмѣтъ, чтобы онъ г: <persName ref="Цемах_Цедек">Шнеер-<lb/>
+       сонъ</persName> представилъ сей актъ къ начальству, и</l>
+      <l>просилъ бы закономъ установленную за то награду,</l>
+      <l>дабы онъ <persName ref="Цемах_Цедек">Шнеерсонъ</persName> получа таковую, дѣлалъ бы</l>
+      <pb n="036-2"/>
+      <fw type="note">-58-</fw>
+      <l>и на будущее время подобные намъ воспомо-</l>
+      <l>ществованіи, поддержки и попечительство,</l>
+      <l>къ удержанію навсегда <sic>нашее</sic> заселеніе въ исправ-</l>
+      <l>ности, подобно какъ досѣли на общую пользу на-</l>
+      <l>шихъ поселенцевъ, и тѣмъ предоставить намъ</l>
+      <l>воспользоватся <emph rend="big">монаршею милостію</emph> навсѣгда</l>
+      <l>въ настоящемъ нашемъ бытѣ._ и въ томъ подпи-</l>
+      <l>сами свидѣтельствуемъ._</l>
+      <l><signed>Старейна <persName>Јосль янкельовъ <unclear>Вельинн</unclear></persName></signed></l>
+      <l>
+        <persName>Шевель <unclear>Логовічевицъ</unclear> Ганельинъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName><unclear>Унацитъ</unclear> Јосль Гиршовицъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Унацитъ Зальмонъ Довидовицъ Сендаровиц</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <fw type="note" place="left margin">Значитъ</fw><note place="end">вертикальная надпись против трех следующих
+      строк</note>
+      <l>
+        <persName>Шмая Финкельштейнъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Изрель Берка Шліомовичъ Дубровенскій</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Гирша Сымановичъ Каганъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l><signed><persName>Шая Окунь</persName></signed>.</l>
+      <l>Значитъ <persName>Идель Викторовичъ Верткинъ</persName> <unclear>???</unclear><note place="end">подпись на
+      иврите</note></l>
+      <l>
+        <persName>Мовша Волфовичъ вертикинъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l><signed><persName>Лейба Ункелевъ малій</persName></signed></l>
+      <fw type="note" place="left margin">Значитъ</fw><note place="end">вертикальная надпись против семи следующих
+      строк</note>
+      <l>
+        <persName>Биняминъ Давидовичъ Капланъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Гирша Михеловичъ Гореликъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Левикъ <unclear>Светоновичъ</unclear> Финкелштеин</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Фишель Лейбовичъ Нишенбаумъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>
+        <persName>Јосель <unclear>моеровичъ</unclear> Айзинштатъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l><persName>Лейзеръ Матусовъ Динабургъ</persName>_ <unclear>???</unclear><note place="end">подпись на
+      иврите</note></l>
+      <l>
+        <persName>Бенціонъ абрамовъ Яринбурхъ</persName>
+        <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+      <l>Залминъ залминовичъ <unclear>Зелнинъ</unclear> <unclear>???</unclear><note place="end">подпись на иврите</note>
+      </l>
+    </p>
   </body></text>
 </TEI>
