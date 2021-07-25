@@ -1,13 +1,336 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1851-02-05">5 февраля 1851 года</date></creation>
+      <abstract><p>
+        Прошение <persName ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName> на высочайшее имя об учете всех его
+        потомков, включенных в ревизскую сказку 1850 года, в список членов семейства, на которых должно распространяться
+        право потомственного почетного гражданства
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="110-1"/>
-    <pb n="110-2"/>
+    <fw type="note" place="left"><emph rend="underline">Л</emph> <emph rend="underline"><del rend="overstrike">3</del>
+    </emph> 4.</fw>
+    <fw type="docNum" place="left">188./22.</fw>
+    <fw type="note">Получ <date when="1851-02-22">22 февраля 1851</date></fw>
+    <fw type="note" place="left">24</fw>
+    <fw type="pageNum" place="right">110</fw>
+    <fw type="note" place="left margin"><l>Въ прошеніи оказалось триста тридцать рук<note place="end">вероятно, 330 руб.
+    пошлины, что следует из пометки на ниржнем поле страницы</note> <unclear>???</unclear> Главный<lb/>
+     <signed>дежурный</signed> <unclear>???</unclear></l></fw>
+    <fw type="note" place="left">
+      <l>Доложить</l>
+      <l>8 марта</l><note place="end">резолюция записана карандашом</note>
+    </fw>
+    <opener>
+      <l>Всепресвѣтлѣйшій, державнѣйшій</l>
+      <l>великий государь императоръ</l>
+      <l><emph rend="big">Николай Павловичъ</emph></l>
+      <l>самодержецъ всероссійскій, государь всемилостивѣйшій!</l>
+    </opener>
+    <head>
+      <l>Проситъ <placeName ref="Могилевская_губерния">Могилевской губерніи</placeName> оршанскій 2<hi rend=
+      "superscript">и</hi> гильдіи</l>
+      <l>купецъ и почетный гражданинъ <persName ref="Цемах_Цедек">Мендель Шахновъ<lb/>
+       сынъ Шнеерсонъ</persName> о нижеслѣдующемъ</l>
+    </head><note place="end">шапка печатного бланка – листа гербовой бумаги</note>
+    <p>
+      <l>О возведеніи меня съ семействомъ въ потомственное</l>
+      <l>почетное гражданство за поселеніе своихъ единоверцовъ</l>
+      <l>60<hi rend="superscript">ти</hi> семѣйствъ на купленную мною въ Бобруйскомъ уѣздѣ</l>
+      <l>землю, Дѣло производится въ <orgName ref="Сенат">Правительствующемъ<lb/>
+       Сенатѣ</orgName> по герольдію, и хотя о семѣйствѣ моемъ</l>
+      <l>при этомъ дѣлѣ имѣется списокъ выданный въ <date when="1849-11-??">ноябрѣ<lb/>
+       мцѣ<note place="end">месяце; слово записано с титлом</note> 1849 года</date> изъ Оршанской городской думы, но
+      въ</l>
+      <l>ономъ спискѣ пояснено только вообще что сыновя мои</l>
+      <l>имѣютъ детей новорожденныхъ, а по имени не пропи</l>
+      <l>саны, потому что тотъ списокъ составленъ по 8<hi rend="superscript">и</hi> ревизіи</l>
+      <l>1834 года, а поименованы только два новорожденныхъ млад-</l>
+      <l>шей мой сынъ <persName>Шмуйла</persName> и внукъ <del rend="overstrike">оставшейся отъ</del><note place="end"
+      >зачеркнуто карандашом</note> умер</l>
+      <l>шаго сына моего <persName>Янкеля</persName> <del rend="overstrike">сынъ</del><note place="end">зачеркнуто
+      карандашом</note> <persName>Залманъ</persName>, прочіе же внуки</l>
+      <l>послѣ 8<hi rend="superscript">и</hi> ревизіи въ теченіи 17 лѣтъ рожденные не по</l>
+      <l>мѣщены; а потому прилагая у сего о семѣиствѣ</l>
+      <l>моемъ состоящимъ по 9<hi rend="superscript">и</hi> ревизіи копіи списка изъ</l>
+      <l>Оршанской городской думы за надлежащею скрепою</l>
+      <l><date when="1851-02-05">5 февраля сего 1851 года</date> выданный и удостовереніе о томъ же</l>
+      <l>исправляющаго должность любавицкаго еврейскаго равина</l>
+      <l>и старшинъ сего мѣстечка съ засвидетельствованіемъ</l>
+      <fw type="note" place="left margin">
+        <l>160 Триста тридцать рублей серебромъ принялъ</l>
+        <l>экзекуторъ и казначей <persName>Ф. Петровъ</persName> <date when="1851-02-24">24 февраля</date></l>
+        <l>дѣло пред <date when="1851-02-26">26 фев 1851</date></l>
+      </fw>
+      <pb n="110-2"/>
+      <l>пристава Оршанскаго уѣзда 4 стана._ Почему все-</l>
+      <l>подданнѣйше прошу <signed>2<hi rend="superscript">и</hi> гилду купецъ и почетной<lb/>
+       гразданинъ <persName ref="Цемах_Цедек">Мендель шахновъ шнеирсонъ</persName></signed></l>
+    </p>
+    <p>
+      <l>Дабы повелено было прилагаемые при семъ</l>
+      <l>копіи списка о наличныхъ душъ мужескаго и женскаго пола</l>
+      <l>семѣиства моего по 9<hi rend="superscript">и</hi> ревизіи состоящіе, равно удостовереніе</l>
+      <l>равина пріобщить къ дѣлу; возвѣсти меня съ семѣйст-</l>
+      <l>вомъ въ потомственное почетное гражданство и при</l>
+      <l>дорованіе мнѣ правъ потомство не оставить помѣстить</l>
+      <l>въ этомъ званіивсехъ значущихся по прилагаемномъ</l>
+      <l>при семъ спискамъ._ А для вписанія меня съ семѣист-</l>
+      <l>вомъ въ грамотѣ на основаніи ста:<note place="end">статей</note> 610 и 611. то.<note place="end">тома</note>
+      9<hi rend="superscript">го</hi></l>
+      <l><note type="gloss">|: изданія 1842 года :|</note> прилагаю при семъ наличныхъ денегъ</l>
+      <l>тристо тридцать рублей серебромъ, <date when="1851-02-15">февраля 15 дня<lb/>
+       1851 года</date>, къ подачѣ принадлежитъ въ 1<hi rend="superscript">и</hi> департаментъ</l>
+      <l><orgName ref="Сенат">Правительствующаго Сената</orgName> по гирольдіи, Сіе прошеніе</l>
+      <l>писалъ съ словъ просителя бабиновецкій мѣщанинъ</l>
+      <l>Янкель Израелевъ Нехамкинъ.</l>
+      <l>руку проложилъ<note place="end">слова, записанные рукой <persName ref="Цемах_Цедек">Менахема Менделя
+      Шнеерсона</persName></note></l>
+      <fw type="note" place="left margin">
+        <l>Жительство имею <placeName ref="Могилевская_губерния">Моги<lb/>
+         левской губерніи</placeName> Оршанскаго</l>
+        <l>уѣзда въ м. <placeName ref="Любавичи">Любавичахъ</placeName></l>
+      </fw>
+    </p>
     <pb n="111-1"/>
+    <fw type="pageNum" place="right">111</fw>
+    <fw type="note" place="left margin"><fw type="docNum">№ 115</fw></fw>
+    <p>
+      <l><emph rend="big">По указу Его Императорскаго</emph></l>
+      <l><emph rend="big">Величества</emph> и по состоявшейся въ Ор-</l>
+      <l>шанской городской Думѣ на поданное оршанскимъ</l>
+      <l>2<hi rend="superscript">и</hi> гильдіи купцомъ и почетнымъ гражданиномъ</l>
+      <l><persName ref="Цемах_Цедек">Менделемъ Шнеерсономъ</persName> объявленіе по дѣлу про-</l>
+      <l>изводящемуся въ <orgName ref="Сенат">Правительствующемъ Сенатѣ</orgName></l>
+      <l>по герольдію, о возвѣденіи его съ семѣйствомъ въ</l>
+      <l>потомственное почетное гражданство, резолюціи</l>
+      <l>значущейся на оборотѣ сего копія девятой ревизіи</l>
+      <l>съ семѣйства его <persName ref="Цемах_Цедек">Менделя</persName> и сторшаго сына его <persName>Боруха<lb/>
+       Шолом</persName>а состоящаго въ особомъ 3<hi rend="superscript">и</hi> гильдіи купечествѣ</l>
+      <l>За подлежащимъ подписомъ съ приложеніемъ казен-</l>
+      <l>ной печати выдается <date when="1851-02-05">февраля 5. дня 1851. года</date></l>
+      <l><signed>Городскій глава <persName>Курасинъ</persName></signed></l>
+      <l><signed>Гласный <persName>Толстикъ</persName></signed></l>
+      <l><signed>Гласный <persName>Яворский</persName></signed></l>
+      <l><signed>Секретарь <persName>Кучинъ</persName></signed></l>
+    </p>
+    <fw type="note" place="left margin">
+      <l><emph rend="big">У сего Его Императорскаго</emph></l>
+      <l><emph rend="big">Величества</emph> Оршанской</l>
+      <l>городской думы печать</l>
+    </fw>
     <pb n="111-2"/>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="note" place="right">Оршанской го<note place="end">сквозная надпись на развороте; на следующей странице
+    продолжение - родской думы</note></fw>
+    <head>
+      <l><emph rend="big">Ревизская сказка</emph></l>
+      <l>
+        <date when="1850-10-27">1850 года октября 27 дня</date>
+        <placeName ref="Могилевская_губерния">Могилевской губерніи</placeName>
+      </l>
+      <l>Оршанскаго уѣзда Любавицкаго общества</l>
+    </head>
+    <table>
+      <row>
+        <cell>семьи</cell>
+        <cell>мужескій полъ</cell>
+        <cell>
+          <l>по послѣдней</l>
+          <l>ревизіи состо</l>
+          <l>яло и послѣ</l>
+          <l>оной прибы-</l>
+          <l>ло_</l>
+        </cell>
+        <cell>
+          <l>Изъ того</l>
+          <l>числа</l>
+          <l>выбыло</l>
+        </cell>
+        <cell>
+          <l>нынѣ</l>
+          <l>на</l>
+          <l>лицо</l>
+        </cell>
+      </row>
+      <row>
+        <cell>№</cell>
+        <cell>2. гильдіи купцы</cell>
+        <cell>лѣтъ</cell>
+        <cell>когда именно</cell>
+        <cell>лѣтъ</cell>
+      </row>
+      <row>
+        <cell>1</cell>
+        <cell>
+          <l>Почетный личный гражданинъ</l>
+          <l><persName ref="Цемах_Цедек">Мендель Шахновъ Шнеерсонъ</persName>_</l>
+        </cell>
+        <cell>49</cell>
+        <cell>____</cell>
+        <cell>66.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>Его сыновья 1. <persName>Лейба</persName> _ _ _</cell>
+        <cell>25</cell>
+        <cell>____</cell>
+        <cell>42.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName>Лейбы</persName> сыновья 1. <persName>Залманъ</persName>__</cell>
+        <cell>4</cell>
+        <cell>____</cell>
+        <cell>21.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>2. <persName>Шоломъ</persName>___</cell>
+        <cell>новорожден</cell>
+        <cell>____</cell>
+        <cell>15</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>3. <persName>Шмерка</persName>___</cell>
+        <cell>новорожден</cell>
+        <cell>____</cell>
+        <cell>3.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 2<hi rend="superscript">и</hi> сынъ <persName
+        >Залманъ_</persName></cell>
+        <cell>21</cell>
+        <cell>____</cell>
+        <cell>38</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName>Залмана</persName> сынъ <persName>Берка_</persName> _ _</cell>
+        <cell>1.</cell>
+        <cell>____</cell>
+        <cell>18</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 3 сынъ <persName>Израель</persName>__</cell>
+        <cell>18</cell>
+        <cell>____</cell>
+        <cell>35</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName>Изроеля</persName> сынъ отъ первой жены <persName>Шнееръ</persName></cell>
+        <cell>новорожд</cell>
+        <cell>____</cell>
+        <cell>17</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 4<hi rend="superscript">и</hi> сынъ <persName
+        >Есель</persName>_</cell>
+        <cell>16</cell>
+        <cell>____</cell>
+        <cell>33.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName>Еселя</persName> сыновья 1. <persName>Залманъ</persName>_</cell>
+        <cell>новорожденные</cell>
+        <cell>____</cell>
+        <cell>13</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>2. <persName>Нохимъ</persName>_</cell>
+        <cell>новорожденные</cell>
+        <cell>____</cell>
+        <cell>8</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>3. <persName>Аронъ</persName>_</cell>
+        <cell>новорожденные</cell>
+        <cell>____</cell>
+        <cell>8</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 5 сынъ <persName>Янкель</persName>____</cell>
+        <cell>15</cell>
+        <cell>умре 1848</cell>
+        <cell>____</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName>Янкеля</persName> сынъ <persName>Залманъ</persName></cell>
+        <cell>новорожд</cell>
+        <cell>____</cell>
+        <cell>12.</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 6<hi rend="superscript">и</hi> сынъ <persName
+        >Шмуйла</persName></cell>
+        <cell>новорож:</cell>
+        <cell>____</cell>
+        <cell>17</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>итого мужеска пола</cell>
+        <cell>налицо</cell>
+        <cell>____</cell>
+        <cell>15</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>
+          <l><persName ref="Цемах_Цедек">Менделя</persName> старшій сынъ</l>
+          <l>3<hi rend="superscript">и</hi> гильдіи купецъ <persName>Борухъ Шоломъ</persName></l>
+        </cell>
+        <cell>29</cell>
+        <cell>____</cell>
+        <cell>45</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>Его <persName>Боруха Шолома</persName> сыновья 1. <persName>Левикъ</persName></cell>
+        <cell>новорожденные</cell>
+        <cell>____</cell>
+        <cell>17</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>2. <persName>Мордухъ</persName></cell>
+        <cell>новорожденные</cell>
+        <cell>____</cell>
+        <cell>13</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>3. <persName>Лейба</persName></cell>
+        <cell>новорожденные</cell>
+        <cell>____</cell>
+        <cell>8</cell>
+      </row>
+      <row>
+        <cell/>
+        <cell>итого мужескаго пола</cell>
+        <cell>налицо</cell>
+        <cell>___</cell>
+        <cell>4</cell>
+      </row>
+    </table>
   </body></text>
 </TEI>
