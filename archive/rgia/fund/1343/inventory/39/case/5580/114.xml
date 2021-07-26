@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1851-02-15">15 февраля 1851 года</date></creation>
+      <abstract><p>
+        Свидетельство раввина м. <placeName ref="Любавичи">Любавичи</placeName> о происхождении семьи <persName ref=
+        "Цемах_Цедек">Менахема Менделя Шнеерсона</persName> и его благотворительности
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="114-1"/>
+    <fw type="pageNum" place="right">114</fw>
+    <head>Удостовереніе</head>
+    <p>
+      <l><date when="1851-02-15">1851. года февраля 15 дня</date> дано сіе <placeName ref="Могилевская_губерния"
+      >Могилевской<lb/>
+       губерніи</placeName> Оршанскаго уѣзда отъ заступающаго</l>
+      <l>должность любавицкаго еврейскаго равина – <unclear>Штаршит</unclear></l>
+      <l>мѣстечка онаго, оршанскому 2<hi rend="superscript">и</hi> гильдіи купцу и</l>
+      <l>почетному гражданину жителю мѣстечка <placeName ref="Любавичи">Люба-<lb/>
+       вичь</placeName> еврею Менделю Шахнову сыну Шнеерсону</l>
+      <l>въ томъ что онъ <persName ref="Цемах_Цедек">Мендель Шнеерсонъ</persName> съ женою</l>
+      <l><persName>Мушкаю Берковой</persName> дочь дѣиствительно съ почет</l>
+      <l>нѣйшихъ и достойнѣйшихъ евреевъ, происхож-</l>
+      <l>денія ихъ Шнеерсоновъ съ предковъ евреискихъ</l>
+      <l>равиновъ, оказываютъ бѣднымъ всякое вспо</l>
+      <l>моществованіе, что дѣти ихъ по списку</l>
+      <l>на оборотѣ сего значущихся есть законорожден-</l>
+      <l>ныя честнаго и добропорядочнаго поведенія,_</l>
+      <l>въ томъ надлежащимъ подписомъ удостове</l>
+      <l>ряетъ_ <signed>въ долзности любавецкаго раввина <persName>Залманъ <unclear>Зардонъ</unclear></persName>
+      </signed></l>
+      <l>Старшины <signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l><signed><unclear>???</unclear></signed><note place="end">подпись на иврите</note></l>
+      <l><persName>Леизаръ <unclear>Якивовъ</unclear> Блинцикъ</persName>, <persName>Абрамъ Леибовъ<lb/>
+       Ришкинъ</persName>, а вмѣсто ихъ яко незнающихъ</l>
+      <l>россійской грамоты по личной просьбѣ бабино</l>
+      <l>вецкій мѣщанинъ <persName>Янкель Нохимкинъ</persName> расписался</l>
+    </p>
     <pb n="114-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
