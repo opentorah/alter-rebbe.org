@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1851-02-15">15 февраля 1851 года</date></creation>
+      <abstract><p>
+        Копия свидетельства (см. предыдущий документ), выданного <persName ref="Цемах_Цедек">Менахему Менделю
+        Шнеерсону</persName> раввином и старшинами м. <placeName ref="Любавичи">Любавичи</placeName> - без подписей
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="117-1"/>
+    <fw type="note" place="left">Копія</fw>
+    <fw type="pageNum" place="right">117</fw>
+    <head>Удостовереніе</head>
+    <p>
+      <l><date when="1851-02-15">1851. года февраля 15 дня</date> дано сіе</l>
+      <l><placeName ref="Могилевская_губерния">Могилевской губерніи</placeName> Оршанскаго уѣзда</l>
+      <l>отъ заступающаго должность любавицкаго евреискаго</l>
+      <l>равина и старшинъ мѣстечка онаго, оршанскому 2<hi rend="superscript">и</hi> гильдіи</l>
+      <l>купцу и почетному гражданину жителю мѣстечка <placeName ref="Любавичи">Любавици</placeName><note place="end"
+      >поверх буквы "ц" вписана "ч"</note></l>
+      <l>еврею <persName ref="Цемах_Цедек">Менделю Шахнову сыну Шнеерсону</persName> въ томъ что онъ</l>
+      <l><persName ref="Цемах_Цедек">Мендель Шнеерсонъ</persName> съ женою <persName>Мушкою Берковой</persName> дочь
+      дѣисви-</l>
+      <l>тельно съ почетнѣйшихъ и достойнѣйшихъ евреевъ</l>
+      <l>происхождения ихъ Шнеерсонѣихъ съ предковъ евреискихъ</l>
+      <l>равиновъ, Аказываютъ бѣднымъ всякое вспомощество</l>
+      <l>ванія, и что дѣти ихъ по списку на оборотѣ сего</l>
+      <l>значущихся есть законорожденные честного и добро</l>
+      <l>парядочнаго поведенія въ томъ надлежащимъ</l>
+      <l>подписомъ удостоверяемъ, на подлинномъ подпи-</l>
+      <l>сано, въ должности любавицкаго равина <persName>Залманъ<lb/>
+       Зархинъ</persName>, старшины <persName>Леизаръ Якивовъ блинщикъ</persName></l>
+      <l><persName>Абрамъ Леибовъ Ришкинъ</persName>_ А вмѣсто ихъ яко не</l>
+      <l>знающихъ россійской грамоты по личной просьбѣ</l>
+      <l>бабиновецкій мѣщанинъ <persName>Янкель Нехамкинъ</persName> роспи-</l>
+      <l>сался</l>
+    </p>
     <pb n="117-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
