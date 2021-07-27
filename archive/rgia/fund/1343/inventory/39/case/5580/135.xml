@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1851-08-02">2 августа 1851 года</date></creation>
+      <abstract><p>
+        Отпечатанная грамота о возведении <persName ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName> со всеми
+        потомками в потомственное почетное гражданство
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body><pb n="135-1"/></body></text>
+  <text xml:lang="ru"><body>
+    <pb n="135-1"/>
+    <fw type="pageNum" place="left">134 об</fw><note place="end">поздняя карандашная архивная пометка</note>
+    <fw type="pageNum" place="right">135</fw>
+    <p>
+      <l>Божіею милостію,</l>
+      <l><emph rend="big">Мы, Николай Первый,</emph></l>
+      <l>императоръ и самодержецъ</l>
+      <l>всероссійскій,</l>
+      <l>и проч. и проч. и проч.</l><note place="end">шапка печатного текста грамоты</note>
+    </p>
+    <p>
+      <l>Манифестомъ <emph rend="big">нашимъ</emph> въ <date when="1832-04-10">10-й день апрѣля 1832 года</date>
+      установлено <ref target="https://ru.wikipedia.org/wiki/Почётные_граждане_(сословие)">сословіе почетныхъ
+      гражданъ</ref>, на правахъ, въ ономъ предначертанныхъ;</l>
+      <l>а какъ вѣрноподданный <emph rend="big">нашъ</emph> личный почетный гражданинъ, оршанскій второй гильдіи купецъ
+      еврей <persName ref="Цемах_Цедек">Мендель Шахновъ Шнеерсонъ</persName>, представ-</l>
+      <l>ленными актами доказалъ право на потомственное почетное гражданство; то возводя онаго личнаго почетнаго
+      гражданина, оршанскаго второй</l>
+      <l>гильдіи купца еврея <persName ref="Цемах_Цедек">Менделя Шахнова Шнеерсона</persName> съ женою его <persName
+      >Мушкою</persName> и дѣтьми: сыновьями: 1.) <persName>Лейбом</persName>ъ, съ женою его <persName>Сорою</persName>,
+      и дѣтьми: сыновьями: <persName>Залма-<lb/>
+       номъ</persName>, съ женою его <persName>Ханою</persName>, <persName>Шоломомъ</persName>, <persName
+      >Шмеркомъ</persName> и дочерью <persName>Рывкою</persName>; 2.) <persName>Залманомъ</persName>, съ женою <persName
+      >Хаіею</persName>, и дѣтьми ихъ: сыномъ <persName>Беркомъ</persName> и дочерью <persName>Родою</persName>; 3.)</l>
+      <l><persName>Израелем</persName> съ женою <persName>Златою</persName>, и дѣтьми: сыномъ <persName
+      >Шнееромъ</persName> и дочерьми: <persName>Перлою</persName>, <persName><unclear>???</unclear>ерою<note place=
+      "end">подгиб листа, часть букв не видна</note></persName> и <persName>Естрою-Либою</persName>; 4.)<persName
+      >Еселемъ</persName>, съ женою его <persName>Ханою</persName> и сыновьями: <persName>Зал-<lb/>
+       маномъ</persName>, <persName>Нохимомъ</persName> и <persName>Арономъ</persName>; 5.) <persName
+      >Шмуйломъ</persName>; 6.) вдовою сына <persName ref="Цемах_Цедек">Шнеерсона</persName>, <persName
+      >Янкеля</persName>, <persName>Фрейдою</persName> съ сыномъ <persName>Залманомъ</persName> и 7.) <persName
+      >Борухомъ-Шоломомъ</persName> съ женою <persName>Родою</persName> и</l>
+      <l>дѣтьми ихъ: сыновьями: <persName>Левикомъ</persName>, <persName>Мордухомъ</persName>, <persName
+      >Лейбомъ</persName> и дочерьми: <persName>Бейлею</persName> и <persName>Леею-<unclear>???</unclear>рою<note place=
+      "end">подгиб листа, часть букв не видна</note></persName>, въ сословіе почетныхъ гражданъ, Всемилостивѣйше
+      повелѣваемъ поль-</l>
+      <l>зоваться какъ ему, такъ и его потомству всѣми правами и преимуществами, манифестомъ <emph rend="big"
+      >нашимъ</emph> сему сословію дарованными. Во свидѣтельство чего повелѣли</l>
+      <l><emph rend="big">мы</emph> сію грамоту <orgName ref="Сенат">Правительствующему Сенату</orgName> подписать и
+      государственною <emph rend="big">нашею</emph> печатью укрепить. Дана въ <placeName ref="Петербург"
+      >Санктпетербургѣ</placeName> <date when="1851-08-02">Авгу 2 дня<note place="end">месяц и число вписаны от
+      руки</note> 1851 года</date>.</l>
+      <l>Сенаторъ и кавалеръ <persName>Сергѣй <unclear>Чебитовъ</unclear></persName></l>
+      <l>Сенаторъ и кавалеръ <persName>Александръ Мордвиновъ</persName></l>
+      <l>Сенаторъ и кавалеръ <persName>Аркадій Кочубей</persName></l>
+      <l>Сенаторъ и кавалеръ <persName>Елпидифор Зуровъ</persName></l>
+      <l>Исправляющій должность герольдмейстера и кавалеръ <persName>Философовъ</persName></l>
+    </p>
+  </body></text>
 </TEI>
