@@ -1,13 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1845-02-07">7 февраля 1845 года</date></creation>
+      <abstract><p>
+        Сенатское решение о возведении евреев - членов Комиссии по образованию евреев в России – в т.ч. <persName ref=
+        "Цемах_Цедек">Менахема Менделя Шнеерсона</persName> в личное почетное гражданство
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
-    <pb n="006-2"/>
-    <pb n="007-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">2</del></fw><note place="end">номер записан чернилами и
+    зачеркнут карандашом</note>
+    <fw type="pageNum" place="right">6</fw><note place="end">номер записан карандашом</note>
+    <p>
+      <l><date when="1845-02-07">1845 года февраля 7<hi rend="superscript">го</hi> дня</date> по имян-</l>
+      <l>ному <emph rend="big">Его Императорскаго Вели</emph>-</l>
+      <l><emph rend="big">чества высочайшему</emph> указу,</l>
+      <l>данному <orgName ref="Сенат">Правительствующему Се-<lb/>
+       нату</orgName> <date when="1845-01-29">минувшаго января въ 29<hi rend="superscript">й</hi><lb/>
+       день</date> за собственноручнымъ <emph rend="big">Его</emph></l>
+      <l><emph rend="big">Величества</emph> подписаніемъ, въ ко-</l>
+      <l>торомъ изображено: „Членовъ быв-</l>
+      <l>шей Коммисіи для образованія евре-</l>
+      <l>евъ въ Россіи раввиновъ <persName ref="Цемах_Цедек">Менделя<lb/>
+       Шнейерсона</persName> и <persName>Ицку Ицхакина</persName>, и</l>
+      <l>ученаго еврея, бердичевскаго 1. гиль-</l>
+      <l>діи купца <persName>израиля Гальперина</persName>,</l>
+      <l>въ воздаяніе благонамѣреннаго и</l>
+      <l>усерднаго участія ихъ въ трудахъ</l>
+      <l>Коммисіи, <emph rend="big">Всемилостивѣйше</emph></l>
+      <l>повелѣваемъ возвести въ личное по-</l>
+      <l>четное гражданство," <emph rend="big">Приказали</emph>:</l>
+      <l>о объявленіи означеннаго Высо-</l>
+      <l>чайшаго указа членамъ бывшей</l>
+      <l>Коммисіи для образованія евреевъ</l>
+      <l>въ Россіи раввинамъ <persName ref="Цемах_Цедек">Менделю Шнейер-<lb/>
+       <pb n="006-2"/> сону</persName> и <persName>Ицкѣ Ицхакину</persName> и ученому</l>
+      <l>еврею бердичевскому 1. гильдіи куп-</l>
+      <l>we <persName>Израилю Гальперину</persName> предо-</l>
+      <l>ставить господину мини-</l>
+      <l>стру внутреннихъ дѣлъ</l>
+      <l>сдѣлать надлежащее распо-</l>
+      <l>ряженіе; о чемъ къ нему</l>
+      <l>господину министру вну-</l>
+      <l>треннихъ дѣлъ послать</l>
+      <l>указъ, каковымъ увѣдо-</l>
+      <l>мить и господина упра-</l>
+      <l>вляющаго Министерст-</l>
+      <l>вомъ финансовъ, героль-</l>
+      <l>діи же предоставить по</l>
+      <l>представленіи означенными</l>
+      <l>лицами пошлинъ по пят-</l>
+      <l>надцати рублей серебромъ,</l>
+      <l>выдать имъ свидѣтель-</l>
+      <l>ства на личное почетное</l>
+      <l>гражданство; а о припечатаніи</l>
+      <pb n="007-1"/>
+      <fw type="pageNum" place="right"><del rend="overstrike">3</del></fw><note place="end">номер записан чернилами и
+      зачеркнут карандашом</note>
+      <fw type="pageNum" place="right">7</fw><note place="end">номер записан карандашом</note>
+      <fw type="note" place="left margin">
+        <l>читалъ</l>
+        <l><date when="1845-02-08">8 февр</date></l>
+      </fw>
+      <l>сего въ Сенатскихъ вѣдомостяхъ</l>
+      <l>въ контору сенатской типогра-</l>
+      <l>фи послать извѣстіе.</l>
+      <l><signed><persName>Сергїй Ланской</persName></signed></l>
+      <l><date when="1845-02-08">8 февраля</date></l>
+      <l>
+        <signed><persName>Михаилъ Муравьевъ</persName></signed>
+        <date when="1845-02-08">8 фев</date>
+      </l>
+      <l>
+        <signed>Ф. Ж<unclear>???</unclear></signed>
+        <date when="1845-02-08">8 фев</date>
+      </l>
+      <l>Исполнилъ</l>
+      <l><date when="1845-02-08">8 февр. 1845</date></l>
+      <l><signed>Герольдмейстеръ <unclear>???</unclear></signed></l>
+      <l><signed>Товарищъ герольдмейстера <unclear>???</unclear></signed></l>
+      <l>Исполнено <date when="1845-02-08">8 февраля 1845 г.</date></l>
+    </p>
+    <closer place="left">
+      <l>По <emph rend="big">высочайшему</emph></l>
+      <l>повелѣнію</l>
+      <l>О возведеніи въ личное почет-</l>
+      <l>ное гражданство <persName ref="Цемах_Цедек">Менделя Шней-<lb/>
+       ерсона</persName>, <persName>Ицку Ицхакина</persName> и <persName>Изра-<lb/>
+       иля Гальперина</persName>.</l>
+    </closer>
     <pb n="007-2" missing="true"/>
   </body></text>
 </TEI>
