@@ -1,11 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Цемах_Цедек">Менахем Мендель Шнеерсон</persName></author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1845-07-15">15 июля 1845 года</date></creation>
+      <abstract><p>
+        Прошение <persName ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName> на высочайшее имя о выдаче грамоты на
+        возведение в личное почетное гражданство
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="015-1"/>
-    <pb n="015-2"/>
+    <fw type="docNum" place="left">1569/№ 101.</fw>
+    <fw type="note" place="left">Итого</fw>
+    <fw type="note">
+      <l><date when="1845-07-15">јюля 15. 1845</date></l>
+      <l><date when="1845-07-17">јюля 17 1845</date></l>
+    </fw>
+    <fw type="pageNum" place="right">11<del rend="overstrike">номер записан чернилами и зачеркнут карандашом</del></fw>
+    <fw type="pageNum" place="right">15</fw><note place="end">номер записан карандашом</note>
+    <fw type="note" place="left margin">15 руб. сер <signed><unclear>???</unclear></signed></fw>
+    <opener>
+      <l>всепресвѣтлѣйшій, державнѣйшій</l>
+      <l>великій государь императоръ</l>
+      <l><emph rend="big">Николай Павловичъ,</emph></l>
+      <l>самодержецъ всероссійскій, государь всемилостивѣйшій!</l>
+    </opener><note place="end">печатная шапка листа для прошений на гербоой бумаге</note>
+    <head>
+      <l>Проситъ Оршанскаго уѣзда мѣстечко</l>
+      <l><placeName ref="Любавичи">Любавичь</placeName> равинъ <persName ref="Цемах_Цедек">Мендель Шахновъ сынъ<lb/>
+       Шнеурсонъ</persName> а о чемъ тому следуютъ пункты</l>
+    </head>
+    <p><l>1<hi rend="superscript">е</hi>)</l></p>
+    <p>
+      <l>Посредствомъ управляющаго <placeName ref="Могилевская_губерния">Могилев-<lb/>
+       скою губерніею</placeName> объявленъ мнѣ <emph rend="big">Высочайшій</emph></l>
+      <l><emph rend="big">Вашего Императорскаго Величества</emph></l>
+      <l>указъ данный <orgName ref="Сенат">Правительствующему Сенату</orgName></l>
+      <l>29 минувшаго генваря мсца<note place="end">месяца; слово записано с титлом</note> сего года за соб-</l>
+      <l>ственноручнымъ <emph rend="big">Вашего Императорскаго</emph></l>
+      <l><emph rend="big">Величества</emph> подписаніемъ, что я въ числѣ</l>
+      <l>протчихъ возведенъ въ личное почетное</l>
+      <l>гражданство въ воздаяніе благонамерен-</l>
+      <l>наго и усерднаго участія въ трудахъ</l>
+      <l>бывшей коммиссіи для образованія евреевъ въ</l>
+      <l>Россіи и потому руководствуясь Свода за-</l>
+      <l>коновъ 9. тома 618. статьи представляю</l>
+      <l>при семъ 15<hi rend="superscript">р</hi> сереб <emph rend="big">всеподданнѣйше</emph></l>
+      <l>прошу._ <signed>Къ сему прошенію любавицкои равинъ</signed><note place="end">вероятно, записано рукой <persName
+      ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName>; продолжение подписи на обороте</note></l>
+    </p>
+    <p>
+      <l>Дабы повелено было на возведеніе</l>
+      <l>меня въ почетные гражданѣ снабдить меня</l>
+      <l>грамотою которою не оставить переслать</l>
+      <fw type="note" place="left margin">391</fw>
+      <pb n="015-2"/>
+      <l>для врученія мнѣ посредствомъ могилевскаго</l>
+      <l>гражданскаго губернатора 1845 года<lb/>
+       јюня дня<note place="end">число не проставлено</note> къ подаче надлежитъ <orgName ref="Сенат">Пра-<lb/>
+       вительствующаго Сената</orgName> въ 1<hi rend="superscript">й</hi> департа-</l>
+      <l>ментъ по герольдіи. Сіе прошеніе сочи-</l>
+      <l>нялъ со словъ просителя и оное пере-</l>
+      <l>писывалъ могилевскій мещанинъ <signed>Мендель <unclear>???</unclear></signed></l>
+      <l><persName ref="Цемах_Цедек">Мендель Шахновъ шнеиурсонъ</persName> руку приложилъ<note place="end">подпись
+      <persName ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName></note></l>
+    </p>
   </body></text>
 </TEI>
