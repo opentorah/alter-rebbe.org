@@ -1,11 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1845-10-30">октября 30 дня 1845 года</date></creation>
+      <abstract><p>
+        Печатный текст решения <orgName ref="Сенат">Сената</orgName> о аозведении <persName ref="Цемах_Цедек">Менахема
+        Менделя Шнеерсона</persName> в личное почетное гражданство
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="009-1"/>
+    <fw type="pageNum" place="left">8 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right"><del rend="overstrike">5</del></fw><note place="end">номер вписан чернилами и
+    зачеркнут карандашом</note>
+    <fw type="pageNum" place="right">9</fw><note place="end">номер вписан карандашом</note>
+    <head>
+      <l><emph rend="big">свидѣтельство</emph></l>
+      <l>на званіе личнаго почетнаго гражданина.</l>
+    </head>
+    <p>
+      <l><orgName ref="Сенат">Правительствующій Сенатъ</orgName> по выслушаніи Именнаго Высочайшаго указа, даннаго
+      <orgName ref="Сенат">Прави-<lb/>
+       тельствующему Сенату</orgName> въ <date when="1845-01-29">29 день января 1845 года</date>, за собственноручнымъ
+      <emph rend="big">его величества</emph></l>
+      <l>подписаніемъ, въ коемъ изображено: „Члена бывшей коммисіи для образованія евреевъ въ</l>
+      <l>Россіи, равина <persName ref="Цемах_Цедек">Менделя Шнейерсона</persName>, въ воздаяніе благонамѣреннаго и
+      усерднаго участія</l>
+      <l>его въ трудахъ коммисіи, Всемилоствѣйше повлѣваемъ возвести въ линое почетное</l>
+      <l>гражданство," – заключилъ: означенному <persName ref="Цемах_Цедек">Менделю Шнейерсону</persName> дать, съ
+      прописаніемъ онаго</l>
+      <l>Высочайшаго указа, сіе свидѣтельство, почему и дано сіе за подписаніемъ <orgName ref="Сенат">Правительствую-<lb
+      />
+       щаго Сената</orgName> и приложеніемъ печати. Въ <placeName ref="Петербург">Санктпетербургѣ</placeName> <date
+      when="1845-10-30">октября 30 дня 1845 года</date>.</l>
+      <l>Сенаторъ и кавалеръ</l>
+      <l>Сенаторъ и кавалеръ</l>
+      <l>Сенаторъ и кавалеръ</l>
+      <l>Герольдмейстеръ и кавалеръ</l><note place="end">подписи не проставлены</note>
+    </p>
     <pb n="009-2" missing="true"/>
   </body></text>
 </TEI>
