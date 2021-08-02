@@ -1,11 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1845-01-29">29 января 1845 года</date></creation>
+      <abstract><p>
+        Черновик высочайшего указа о возведении <persName ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName> в
+        личное почетное гражданство
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="005-1"/>
+    <fw type="note" place="right">Копія</fw>
+    <fw type="pageNum" place="right"><del rend="overstrike">1</del><note place="end">номер записан чернилами и зачеркнут
+    карандашом</note></fw>
+    <fw type="pageNum" place="right">5<note place="end">номер вписан карандашом</note></fw>
+    <fw type="note" place="left margin">Подлинный въ <unclear>??? ??? ???</unclear></fw>
+    <head><l>Указъ <orgName ref="Сенат">Правительствующему Сенату</orgName>.</l></head>
+    <p>
+      <l><del rend="overstrike">Членовъ</del><note place="end">зачеркнуто карандашом</note> бывшей коммиссіи для
+      образо</l>
+      <l>ванія евреевъ<note place="end">на последних трех буквах слова сделана нерзаборчивая карандашная пометка</note>
+      въ Россіи раввин<del rend="overstrike">овъ</del>а<note place="end">зачеркивание и вписанная буква выполнены
+      карандашом</note> <persName ref="Цемах_Цедек">Мендел<del rend="overstrike">ю</del>ь<note place="end">зачеркивание
+      и вписанная буква выполнены карандашом</note><lb/>
+       Шнеерсон<del rend="overstrike">а</del>ъ<note place="end">зачеркивание и вписанная буква выполнены
+      карандашом</note></persName> <del rend="overstrike">и <persName>Ицку Ицхакина</persName>, и ученаго</del></l>
+      <l><del rend="overstrike">еврея, бердичевскаго 1 гильдіи купца <persName>Изра-<lb/>
+       иля Гальперина</persName></del>, въ воздаяніе благона-</l>
+      <l>мѣраннаго и усерднаго участія ихъ въ</l>
+      <l>трудахъ коммиссіи, <emph rend="big">всемилости</emph>-</l>
+      <l><emph rend="big">вѣйше</emph> повелелѣ<del rend="overstrike">ваемъ</del> <hi rend="superscript">ено</hi><note
+      place="end">зачеркивание и вписанная буква выполнены карандашом</note> возвести въ</l>
+      <l>личное почетное гражданство.</l>
+    </p>
+    <p>
+      <l>На подлинномъ собственною <emph rend="big">Его</emph></l>
+      <l><emph rend="big">Императорскаго Величества</emph></l>
+      <l>рукою написано тако: „Николай."</l>
+      <l>вѣрно. <signed><unclear>???</unclear> секретарь <unclear>???</unclear></signed></l>
+      <l>Столоначальникъ помощникъ секретаря <signed>П. Ш<unclear>???</unclear></signed></l>
+    </p>
+    <closer place="left">
+      <l><placeName ref="Петербург">С. Петербургъ</placeName></l>
+      <l><date when="1845-01-29">29. генваря 1845 года</date></l>
+      <l>Поученъ <date when="1845-02-01">1 февраля 1845 года</date>.</l>
+      <l>Слуш. въ общ. <orgName ref="Сенат">Сен.</orgName> соб.<note place="end">вероятно: "слушано в общем Сената
+      собрании</note> <date when="1845-02-05">5 февраля 1845 года</date>.</l>
+      <l>Слуш. въ 1 Деп <orgName ref="Сенат">Сената</orgName> <date when="1845-02-07">7 февраля 1845</date>.</l>
+    </closer>
     <pb n="005-2" missing="true"/>
   </body></text>
 </TEI>
