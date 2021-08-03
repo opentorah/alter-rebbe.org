@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Резолюция министра внутренних дел о задаче привлечь <persName ref="Цемах_Цедек">Менахема
+    Менделя Шнеерсона</persName> и других влиятельных раввинов к проектам внедрения светского образования в еврейской
+    среде</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
+    <p>
+      <l>По докладу Департамента духовныхъ дѣлъ иностран-</l>
+      <l>ныхъ исповѣданій, Его Высокопревосходительство господинъ</l>
+      <l>министръ внутреннихъ дѣлъ<note place="end">С. Ланской</note>, приказать изволилъ открыть</l>
+      <l>засѣданія раввинской коммисіи и поручить Вамъ предло-</l>
+      <l>жить оной исполнить, по мѣрѣ возможности, слѣдующіе</l>
+      <l>порученія:</l>
+    </p>
+    <p>
+      <l>......Воити въ соображеніе въ какой степени можно бу-</l>
+      <l>детъ употребить вліяніе <persName ref="Цемах_Цедек">Шнеерсона</persName> и друггихъ раввиновъ</l>
+      <l>и цадиковъ, пользующихся общимъ уваженіемъ евреевъ на</l>
+      <l>пользу просвѣщенія и устройства религіозной части евреевъ...</l>
+    </p>
+    <p>
+      <l>Вѣрно: письмоводитель раввинской коммисіи <signed><persName>Градовскій</persName><note place="end">Скорее
+      всего, <ref target="https://www.biografija.ru/biography/gradovskij-nikolaj-dmitrievich.htm">А.Д. Градовский</ref>
+      – заведующий делами нехристианских исповеданий в Департаменте духовных дел</note></signed></l>
+    </p>
     <pb n="001-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
