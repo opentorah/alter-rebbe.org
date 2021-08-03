@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Титульный лист, который, веротяно, находился под обложкой дела</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000a-1"/>
+    <fw type="pageNum" place="right">II</fw>
+    <head>
+      <l><fw type="docNum">5</fw></l>
+      <l><fw type="docNum">№ 6</fw>.</l>
+      <l>Дѣдл</l>
+      <l>раввинской коммисіи</l>
+      <l>о хасидскихъ раввинахъ и цадикахъ.</l>
+    </head>
+    <p>
+      <l>Началось <date when="1857-05-15">15 мая 1857 г.</date></l>
+      <l>Кончено <date when="1857-06-30">30 јюня 1857 г.</date></l>
+      <l>на 8 листахъ.</l>
+    </p>
     <pb n="000a-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
