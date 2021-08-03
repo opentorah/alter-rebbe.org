@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1857-06-30">30 июня 1857 г.</date></creation>
+      <abstract><p>
+        Сопроводительное письмо раввинской комиссии к копии журнала ее заседания, направляемой министру внутренних дел
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="004-1"/>
+    <fw type="note" place="left">X<note place="end">буква записана карандашом</note></fw>
+    <fw type="pageNum" place="right">4</fw>
+    <salute>
+      <l>Его Высокопревосходительству,</l>
+      <l>господину министру внутреннихъ дѣлъ</l>
+    </salute>
+    <head>
+      <l><emph rend="big">Высочайше</emph> утвержденной при Ми-</l>
+      <l>нистерствѣ внутреннихъ дѣлъ, по Де-</l>
+      <l>партаменту духовныхъ дѣлъ иностран-</l>
+      <l>ныхъ исповѣданій, раввинской коммисіи</l>
+      <l>Представленіе.</l>
+    </head>
+    <l>На основаніи ст. 18<hi rend="superscript">й</hi> Положенія о Раввинской</l>
+    <l>коммисіи, Коммисія сего имѣетъ честь пред-</l>
+    <l>ставить на благоусмотрѣніе Вашего Высокопре-</l>
+    <l>восходительства копію съ журнала ея заседанія</l>
+    <l><date when="1857-05-15">15 прошлаго мая</date></l>
+    <l>Подписали: председатель раввинъ д<hi rend="superscript">ръ</hi> <persName>А Неиманъ</persName><note place="end"
+    >рижский раввин, доктор философии <ref target="https://ru.wikisource.org/wiki/ЕЭБЕ/Раввинская_комиссия">Нейман</ref>
+    </note></l>
+    <l>члены: <persName>Зинкель Раппопортъ</persName></l>
+    <l><persName>Янкель Баритъ</persName></l>
+    <l><persName>Абрамъ Членовъ</persName></l>
+    <l>Вѣрно: письмоводитель Рав-</l>
+    <l>винской комисіи <signed><persName>Градовскій</persName></signed></l>
+    <closer place="left">
+      <l><fw type="docNum">№ 18</fw></l>
+      <l><date when="1857-06-30">30 јюня 1857 г.</date></l>
+      <l/>
+    </closer>
     <pb n="004-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
