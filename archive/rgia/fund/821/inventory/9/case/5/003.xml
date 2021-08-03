@@ -2,10 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <profileDesc><abstract>Карандашная записка на немецком языке о деятельности раввинской комиссии</abstract>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body>
+  <text xml:lang="de"><body>
     <pb n="003-1"/>
+    <fw type="pageNum" place="right">3</fw>
     <pb n="003-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
