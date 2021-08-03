@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Обложка архивного дела</abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="right">I</fw>
+    <head>
+      <l><fw type="docNum">№ 5</fw></l>
+      <l><emph rend="big">дѣло</emph></l>
+      <l>раввинской коммисіи</l>
+      <l>1857 г.</l>
+      <l>О хасидскихъ раввинахъ</l>
+      <l>и цадикахъ</l>
+    </head>
+    <p>
+      <l>началось 15 мая 1857 года.</l>
+      <l>рѣшено 30 јюня 1857 года.</l><note place="end">Вероятно, папка дела была заменена в 1890-х гг.: дл обеих дат
+      типографский бланк обложки предлагал датировки "189 года", где требовалось вписать последнюю цифру; дата "1857"
+      вписана поверх напечатанных цифр</note>
+      <l>На лист<note place="end">число листов не указано</note></l>
+    </p>
+    <fw type="note" place="left margin">
+      <l>ЦГИА СССР</l>
+      <l>Фонд № 821 Опись 9</l>
+      <l>Ед. хр. № 5</l><note place="end">заполненный бланк архивного штампа</note>
+    </fw>
+    <fw type="note" place="left margin"><l><unclear>???</unclear><note place="end">неразборчивый текст архивного
+    штампа</note></l></fw>
     <pb n="000-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
