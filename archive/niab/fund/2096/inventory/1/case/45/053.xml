@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc><abstract><p/></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract>Подборка документов, связанных с призывом на военную службу еврейского населения в ряде
+    населенных пунктов Оршанского уезда <placeName ref="Могилевская_губерния">Могилевской губернии</placeName>
+    </abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="053-1"/>
@@ -72,8 +77,84 @@
     </head><note place="end">титульный лист архивного дела, заполненный в советское время</note>
     <fw type="note" place="lower">От</fw>
     <pb n="055-1"/>
+    <fw type="docNum" place="left">№ 926</fw>
+    <fw type="docNum">45/1875.</fw>
+    <fw type="note"><date when="1875-03-18">18 3/III 75</date></fw>
+    <fw type="note" place="right">34</fw>
+    <fw type="pageNum" place="right">70</fw>
+    <fw type="pageNum" place="right">55</fw><note place="end">номер записан карандашом</note>
+    <head>
+      <l>Въ Оршанскую городскую думу.</l>
+      <l>оршанскаго мѣщанина м.</l>
+      <l>
+        <placeName ref="Любавичи">Любавичъ</placeName>
+        <persName>Мейлаха Михеля<lb/>
+         Хаимова Скобло</persName>
+      </l>
+      <l>Прошеніе</l>
+    </head>
+    <p>
+      <l>Нужно симъ имѣть для представленія</l>
+      <l>г. оршанскому уѣздному исправнику къ дѣлу</l>
+      <l>о воинской повинности удостовѣреніе въ томъ</l>
+      <l>что я дѣйствительно состою записаннымъ</l>
+      <l>по X народной переписи при любавиц</l>
+      <l>комъ еврейскомъ обществѣ а такъ-же и по</l>
+      <l>очередной книгѣ и подъ какими имѣнно</l>
+      <l>номерами и какихъ лѣтъ и что на</l>
+      <l>призывѣ къ отбытіи воинской повин-</l>
+      <l>ности не состоялъ и напредь не подлежу._</l>
+      <l><signed><persName>Мейлахъ Михель <unclear>Скобловъ</unclear></persName></signed></l>
+      <fw type="note" place="left margin"><date when="1875-03-03">Марта 3<hi rend="superscript">го</hi> дня</date></fw>
+    </p>
     <pb n="056-1"/>
     <pb n="057-1"/>
+    <head>
+      <l>Оршанскаго мѣщанина м.</l>
+      <l>
+        <placeName ref="Любавичи">Любавичъ</placeName>
+        <persName>Мейлаха Михеля<lb/>
+         Хаимова Скобло</persName>
+      </l>
+      <l>Прошеніе._</l>
+    </head>
+    <p>
+      <l>Нужно симъ имѣть для представленія</l>
+      <l>г. оршанскому уѣздному исправнику къ дѣлу</l>
+      <l>о воинской повинности удостовѣреніе въ томъ</l>
+      <l>что я дѣйствительно состою записаннымъ</l>
+      <l>по X народной переписи при любавиц</l>
+      <l>комъ еврейскомъ обществѣ а такъ-же и по</l>
+      <l>очередной книгѣ и подъ какими имѣнно</l>
+      <l>номерами и какихъ лѣтъ и что на</l>
+      <l>призывѣ къ отбытію воинской повин-</l>
+      <l>ности не состоялъ и напредь не подлежу._</l>
+      <l><signed><persName>Мейлахъ Михель <unclear>Скобловъ</unclear></persName></signed></l>
+    </p>
+    <closer place="left"><l><date when="1875-03-03">Марта 3<hi rend="superscript">го</hi> дня<lb/>
+     1875 года</date>._</l></closer>
     <pb n="058-1"/>
+    <fw type="docNum">№ 921.</fw>
+    <fw type="docNum">45/1875.</fw>
+    <fw type="note"><date when="1875-03-18">18 3/III 75</date></fw>
+    <fw type="pageNum" place="right">43</fw>
+    <fw type="pageNum" place="right">78</fw>
+    <head>
+      <l>Въ Оршанскую город-</l>
+      <l>скую думу</l>
+      <l>казеннаго раввина</l>
+      <l>любавичскаго уча-</l>
+      <l>стка Оршанскаго</l>
+      <l>уѣзда <persName>Соркина</persName></l>
+    </head>
+    <p>
+      <l>Имѣю честь при семъ пред-</l>
+      <l>ставить въ Городскую ду-</l>
+      <l>му тетроды метрическихъ</l>
+      <l>книгъ по м. <placeName ref="Любавичи">Любавичи</placeName> Рудни</l>
+      <l>Микулина, <placeName ref="Лиозно">Ліозны</placeName>, Добро-</l>
+      <l><unclear>мисліи</unclear> и заштатного г. Баби-</l>
+      <l>новичи за 1871 и 1872 годы</l>
+    </p>
   </body></text>
 </TEI>
