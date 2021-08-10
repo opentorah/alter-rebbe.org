@@ -1,12 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Фрагмент именного списка купцов Оршанского уезда <placeName ref="Могилевская_губерния">Могилевской
+      губернии</placeName> и членов их семейств, относящийся к <persName ref="Цемах_Цедек">Менахему Менделю
+      Шнеерсону</persName>, его детям и внуку
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="138-1"/>
+    <fw type="pageNum" place="right">136</fw><note place="end">номер записан чернилами и зачеркнут карандашом</note>
+    <fw type="pageNum" place="right">163</fw><note place="end">номер записан чернилами и зачеркнут карандашом</note>
+    <fw type="pageNum" place="right">188</fw><note place="end">номер записан карандашом</note>
+    <head>
+      <l><emph rend="big">Имяный списокъ</emph></l>
+      <l>Оршанской городской думы купцамъ города</l>
+      <l>Орши и уѣзда выданымъ свидѣтельствамъ</l>
+      <l>на право торговли съ <date when="1865-01-01">1<hi rend="superscript">го</hi> генваря 1865 года</date> по <date
+      when="1866-01-01">1<hi rend="superscript">е</hi> ге-<lb/>
+       нваря 1866 года</date>.</l>
+    </head>
     <pb n="138-2"/>
+    <table>
+      <row>
+        <cell>№ по порядку</cell>
+        <cell>
+          <l>Когда выдано свидѣте</l>
+          <l>льство</l>
+        </cell>
+        <cell>
+          <l>Кто имено и съ</l>
+          <l>какимъ семейст</l>
+          <l>вомъ записа</l>
+          <l>лся</l>
+        </cell>
+        <cell>
+          <l>число</l>
+          <l>душъ и</l>
+          <l>лета</l>
+        </cell>
+        <cell>
+          <l>сколько объявлено копи</l>
+          <l>тала</l>
+        </cell>
+        <cell>
+          <l>выдано</l>
+          <l>свидѣ</l>
+          <l>тельство</l>
+        </cell>
+        <cell>
+          <l>выдано билетовъ на ла</l>
+          <l>вки</l>
+        </cell>
+        <cell>
+          <l>получе-</l>
+          <l>но</l>
+          <l>денегъ</l>
+        </cell>
+        <cell>ИТОГО</cell>
+        <cell>
+          <l>Записавшіеся въ купцы</l>
+          <l>гдѣ записаны по ре-</l>
+          <l>визіи и подъ какимъ</l>
+          <l>№<hi rend="superscript">мъ</hi></l>
+        </cell>
+      </row>
+      <row>
+        <cell>№ по порядку</cell>
+        <cell>
+          <l>Когда выдано свидѣте</l>
+          <l>льство</l>
+        </cell>
+        <cell>
+          <l>Кто имено и съ</l>
+          <l>какимъ семейст</l>
+          <l>вомъ записа</l>
+          <l>лся</l>
+        </cell>
+        <cell>Мужеского</cell>
+        <cell>Женского</cell>
+        <cell>
+          <l>сколько объявлено копи</l>
+          <l>тала</l>
+        </cell>
+        <cell>На торговлю</cell>
+        <cell>
+          <l>членамъ дости</l>
+          <l>гшихъ 17 лѣтъ</l>
+        </cell>
+        <cell>
+          <l>выдано билетовъ на ла</l>
+          <l>вки</l>
+        </cell>
+        <cell>
+          <l>За свидетельст</l>
+          <l>во</l>
+        </cell>
+        <cell>За билеты</cell>
+        <cell>ИТОГО</cell>
+        <cell>
+          <l>Записавшіеся въ купцы</l>
+          <l>гдѣ записаны по ре-</l>
+          <l>визіи и подъ какимъ</l>
+          <l>№<hi rend="superscript">мъ</hi></l>
+        </cell>
+      </row>
+    </table>
     <pb n="139-1"/>
     <pb n="139-2"/>
     <pb n="140-1"/>
@@ -19,7 +122,602 @@
     <pb n="143-2"/>
     <pb n="144-1"/>
     <pb n="144-2"/>
+    <table>
+      <row>Декабря</row>
+      <row>
+        <cell>24</cell>
+        <cell>30-</cell>
+        <cell>
+          <l>Оршанскій 2<hi rend="superscript">й</hi> гиль</l>
+          <l>діи купецъ <persName ref="Цемах_Цедек">Мѣндель<lb/>
+           Шахновъ Шнеерсо<lb/>
+           нъ</persName>_______</l>
+        </cell>
+        <cell>75.</cell>
+        <cell>-</cell>
+        <cell>6000.</cell>
+        <cell>1</cell>
+        <cell>13.</cell>
+        <cell>1.</cell>
+        <cell>90</cell>
+        <cell>5</cell>
+        <cell>95.</cell>
+        <cell>
+          <l>въ купцахъ</l>
+          <l>при мѣс</l>
+          <l>тѣчкѣ</l>
+          <l><placeName ref="Любавичи">Любовичахъ</placeName></l>
+          <l>подъ №<note place="end">номер не указан</note></l>
+        </cell>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его сынъ 1<hi rend="superscript">й</hi> <persName>Лейба</persName></cell>
+        <cell>51.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Лейбы жена <persName>Сора</persName></cell>
+        <cell>-</cell>
+        <cell>44.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Лейбы сынъ 1<hi rend="superscript">й</hi> <persName>Залманъ</persName></cell>
+        <cell>30.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Залмана жена <persName>Хана</persName></cell>
+        <cell>-</cell>
+        <cell>28.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Лейбы дочь <persName>Рохля</persName></cell>
+        <cell>-</cell>
+        <cell>8.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Залмана дочь <persName>Альта</persName></cell>
+        <cell>-</cell>
+        <cell>4.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>2<hi rend="superscript">й</hi> сынъ <persName>Шоломъ</persName></cell>
+        <cell>24.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Шолома жена <persName>Фрейда</persName></cell>
+        <cell>-</cell>
+        <cell>24.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>3<hi rend="superscript">й</hi> <persName>Шмерка</persName></cell>
+        <cell>12.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 2<hi rend="superscript">й</hi> сынъ <persName
+        >Залманъ</persName></cell>
+        <cell>47.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его жена <persName>Хая</persName></cell>
+        <cell>-</cell>
+        <cell>46.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+    </table>
     <pb n="145-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">169</del></fw><note place="end">номер записан чернилами и
+    зачеркнут карандашом</note>
+    <fw type="pageNum" place="right">145</fw><note place="end">номер записан карандашом</note>
+    <table>
+      <row>января</row>
+      <row>
+        <cell/>
+        <cell>30.</cell>
+        <cell><persName>Залмана</persName> сынъ <persName>Берка</persName></cell>
+        <cell>27.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его жена <persName>Двера</persName></cell>
+        <cell>-</cell>
+        <cell>25.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell><persName>Берки</persName> сыны 1<hi rend="superscript">й</hi> <persName>Шахна</persName></cell>
+        <cell>7.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>2<hi rend="superscript">й</hi> <persName>Лейба</persName></cell>
+        <cell>5.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l><persName ref="Цемах_Цедек">Менделя</persName> 3<hi rend="superscript">й</hi> сынъ</l>
+          <l><persName>Изроиль</persName></l>
+        </cell>
+        <cell>44.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l>Его второбрачная</l>
+          <l>жена <persName>Дыня</persName></l>
+        </cell>
+        <cell>-</cell>
+        <cell>36.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell><l>Его дочери 1<hi rend="superscript">я</hi> <persName>Естра Либа</persName></l></cell>
+        <cell>-</cell>
+        <cell>15.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell><l>2<hi rend="superscript">я</hi> <persName>Шейна</persName></l></cell>
+        <cell>-</cell>
+        <cell>5.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l><persName>Изроиля</persName> сынъ отъ</l>
+          <l>1<hi rend="superscript">й</hi> жены <persName>Шнееръ</persName></l>
+        </cell>
+        <cell>26.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его жена <persName>Перла</persName></cell>
+        <cell>-</cell>
+        <cell>26</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его дочь <persName>Шейна</persName></cell>
+        <cell>-</cell>
+        <cell>3.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell><persName ref="Цемах_Цедек">Менделя</persName> 4<hi rend="superscript">й</hi> сынъ <persName
+        >Есель</persName></cell>
+        <cell>42.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его жена <persName>Хана</persName></cell>
+        <cell>-</cell>
+        <cell>42.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Еселя сыны 1<hi rend="superscript">й</hi> <persName>Залманъ</persName></cell>
+        <cell>22.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>2 <persName>Нохимъ</persName></cell>
+        <cell>19.</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>3<hi rend="superscript">й</hi> <persName>Аронъ</persName></cell>
+        <cell>17</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Еселя дочь <persName>Шейна</persName></cell>
+        <cell>-</cell>
+        <cell>6.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell><l>Залмана жена <persName>Пе<lb/>рла</persName></l></cell>
+        <cell>-</cell>
+        <cell>21.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его дочь <persName>Ривка</persName></cell>
+        <cell>-</cell>
+        <cell>3.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l><persName ref="Цемах_Цедек">Мѣнделя</persName> 5<hi rend="superscript">й</hi> сынъ</l>
+          <l><persName>Шмерка</persName></l>
+        </cell>
+        <cell>33</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его жена <persName>Ривка</persName></cell>
+        <cell>-</cell>
+        <cell>25</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>Его дочь <persName>Двера</persName></cell>
+        <cell>-</cell>
+        <cell>5.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l><persName ref="Цемах_Цедек">Мѣнделя</persName> внукъ</l>
+          <l><persName>Залманъ Янкелевъ</persName></l>
+        </cell>
+        <cell>21</cell>
+        <cell>-</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell>
+          <l><persName>Залмана</persName> жена</l>
+          <l><persName>Рода</persName></l>
+        </cell>
+        <cell>-</cell>
+        <cell>5.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+      <row>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell>17</cell>
+        <cell>19.</cell>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+        <cell/>
+      </row>
+    </table>
     <pb n="145-2"/>
     <pb n="146-1"/>
     <pb n="146-2"/>
