@@ -1,12 +1,319 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Фрагмент ведомостей и относящихся к ним распоряжений Могилевской казенной палаты, относящийся к семейному
+      состоянию евреев-купцов Орши и Оршанского уезда <placeName ref="Могилевская_губерния">Могилевской
+      губернии</placeName>; приведены данные по семьям трех сыновей <persName ref="Цемах_Цедек">Менахема Менделя
+      Шнеерсона</persName>
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="179-2"/>
+    <table>
+      <row><l><emph rend="underline">Евреевъ по г. Оршѣ</emph></l></row>
+      <row><l><emph rend="underline">1<hi rend="superscript">й</hi> гильдіи</emph></l></row>
+      <row>
+        <cell>10.</cell>
+        <cell><persName>Поляковъ Яковъ Самуйловъ</persName>.</cell>
+        <cell>4</cell>
+        <cell>
+          <l>Перечислить изъ 2<hi rend="superscript">й</hi> гильдіи въ 1 гильдію</l>
+          <l>со второй половины 1867 года.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>11.</cell>
+        <cell>
+          <l>Бохреръ Ошеръ Гиршовъ.–</l>
+          <l>из купцовъ Чаусовского уѣзда.</l>
+        </cell>
+        <cell>2.</cell>
+        <cell>
+          <l>Причислить въ купцы 1<hi rend="superscript">й</hi> гилдьдіи г.</l>
+          <l>Орши съ начала 1867 года.</l>
+        </cell>
+      </row>
+      <row><l><emph rend="underline">2<hi rend="superscript">й</hi> гильдіи.</emph></l></row>
+      <row>
+        <cell>12.</cell>
+        <cell><persName>Ольшевскій Шмуйла Лейбовъ</persName></cell>
+        <cell>2</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>13.</cell>
+        <cell><persName>Топалеръ Залманъ Гдалевъ</persName>.</cell>
+        <cell>4.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>14.</cell>
+        <cell><persName>Дынинова Дыня Довыдова</persName>.</cell>
+        <cell>6.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>15.</cell>
+        <cell><persName>Канторъ Зеликъ Янкелевъ</persName>.-</cell>
+        <cell>2.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>16.</cell>
+        <cell><persName>Гофманъ Абрамъ Лейзаровъ</persName></cell>
+        <cell>2.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>17.</cell>
+        <cell><persName>Магалифъ Залманъ Изроилевъ</persName></cell>
+        <cell>14.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>18.</cell>
+        <cell><persName>Лурья Юда Евновъ</persName>.-</cell>
+        <cell>2.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>19.</cell>
+        <cell><persName>Лурья Шмуйла Юдовъ</persName>.</cell>
+        <cell>3.</cell>
+        <cell>
+          <l>Семейства эти остались безъ переменъ и</l>
+          <l><l>затѣмъ считать таковыя на 1867 годъ въ преж-</l>немъ составѣ оныхъ.</l>
+        </cell>
+      </row>
+    </table>
     <pb n="180-2"/>
+    <table>
+      <row><emph rend="underline">Города Орши.</emph></row>
+      <row>
+        <cell>35.</cell>
+        <cell>
+          <l><persName>Мирская Двора Абрамова</persName></l>
+          <l>вдова <persName>Мовши Абрамова</persName>.-</l>
+        </cell>
+        <cell>11.</cell>
+        <cell>
+          <l>О причинѣ недопоказаніявъ</l>
+          <l>семействѣ этомъ <persName>Мовши Иц-<lb/>кова</persName> обязывается Дума немед-</l>
+          <l>ленно донести Палатѣ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>36.</cell>
+        <cell><l><persName>Шнеерсонъ Залманъ Менде-<lb/>левъ</persName>.-</l></cell>
+        <cell>6.</cell>
+        <cell>
+          <l>Объ исключеніи <persName>Шмуйлы Шне-<lb/>
+           ерсона</persName> за переходомъ въ купцы</l>
+          <l><placeName ref="Витебская_губерния">Витебской губерніи</placeName> предписано</l>
+          <l>Городской думѣ и казначейству <date when="1867-06-07">7<hi rend="superscript">го</hi><lb/>
+           јюня 1867 г.</date> за <fw type="docNum">№ 3202</fw>. и <fw type="docNum">3201</fw>, 5 д. запи-</l>
+          <l>салось въ особыхъ семействахъ, а о</l>
+          <l>причинѣ недопоказанія въ семействѣ</l>
+          <l>этомъ бывшаго начальникомъ онаго</l>
+          <l><persName ref="Цемах_Цедек">Менделя Шахнева</persName> обязывается</l>
+          <l>Дума немедленно донести Па-</l>
+          <l>латѣ, а до того семейство счи-</l>
+          <l>тать въ 6 душахъ.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>37.</cell>
+        <cell><persName>Сангиръ Изроиль Изидоровъ</persName>.</cell>
+        <cell>3</cell>
+        <cell>
+          <l>Неподлежаще присоединенный</l>
+          <l>къ этому семейству <persName>Изроиля</persName> внукъ</l>
+          <l><persName>Нохимъ</persName> Палатою исключенъ, о</l>
+          <l>коемъ обязана дума доставить</l>
+          <l>Палатѣ свѣденіе затребованное</l>
+          <l>предписаніемъ отъ <date when="1865-12-17">17 декабря 1865 г.</date></l>
+          <l>за <fw type="docNum">№ 4498</fw>.</l>
+        </cell>
+      </row>
+      <row>
+        <l>Вновь возобновившіе гильдѣй-</l>
+        <l>скіе свидѣтельства.</l>
+      </row>
+      <row>
+        <cell>38.</cell>
+        <cell><persName>Ефштейнъ Мовша Таихелевъ</persName>.</cell>
+        <cell>4.</cell>
+        <cell>
+          <l>О причисленіи со 2<hi rend="superscript">й</hi> пол. 1867 г. въ</l>
+          <l>купцы г. Орши съ личными пра-</l>
+          <l>вами предписано Городской думѣ</l>
+          <l>и казначейству <date when="1867-09-27">27 сентября 1867 года</date></l>
+          <l>за <fw type="docNum">№ 7395</fw> и <fw type="docNum">7394</fw>.</l>
+        </cell>
+      </row>
+    </table>
     <pb n="181-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">204</del></fw><note place="end">номер записан чернилами и
+    зачеркнут карандашом</note>
+    <fw type="pageNum" place="right">181</fw><note place="end">номер записан карандашом</note>
+    <table>
+      <row>
+        <cell>39.</cell>
+        <cell><persName>Китай Борухъ</persName>.-</cell>
+        <cell>2.</cell>
+        <cell>
+          <l>О причисленіи въ купцы съ 1867 г. съ</l>
+          <l>личными правами предписано Го-</l>
+          <l>родской думѣ и казначейству <date when="1867-06-30">30 јюня<lb/>
+           1867 г.</date> за <fw type="docNum">№ 3792</fw> и <fw type="docNum">3791</fw>.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>40.</cell>
+        <cell><persName>Палыковскій Мовша Абрамовъ</persName></cell>
+        <cell>1.</cell>
+        <cell>
+          <l>О причисленіи въ купцы съ 1867 г. съ</l>
+          <l>личными правами предписано Го-</l>
+          <l>родской думѣ и казначейству <date when="1867-06-30">30 јюня<lb/>
+           1867 г.</date> за <fw type="docNum">№ 3792</fw> и <fw type="docNum">3791</fw>.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>41.</cell>
+        <cell><persName>Шнеерсонъ Јосель Менделевъ</persName>.</cell>
+        <cell>3.</cell>
+        <cell>
+          <l>Семейства эти считать на 1867 г.</l>
+          <l>въ особыхъ семействахъ, какъ от-</l>
+          <l>дѣлившихся отъ <persName ref="Цемах_Цедек">отца</persName> и въ семей-</l>
+          <l>ствѣ <persName>Јоселя Шнеерсона</persName> сына его</l>
+          <l><persName>Арона</persName> по вѣдомостямъ о купцахъ</l>
+          <l>доставляемыхъ въ Палату пока</l>
+          <l>psdfnm съ отмѣткою умершимъ</l>
+          <l>въ 1866 году.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>42.</cell>
+        <cell>Шнеерсонъ Изроиль Менделевъ.</cell>
+        <cell>2.</cell>
+        <cell>
+          <l>Семейства эти считать на 1867 г.</l>
+          <l>въ особыхъ семействахъ, какъ от-</l>
+          <l>дѣлившихся отъ <persName ref="Цемах_Цедек">отца</persName> и въ семей-</l>
+          <l>ствѣ <persName>Јоселя Шнеерсона</persName> сына его</l>
+          <l><persName>Арона</persName> по вѣдомостямъ о купцахъ</l>
+          <l>доставляемыхъ въ Палату пока</l>
+          <l>psdfnm съ отмѣткою умершимъ</l>
+          <l>въ 1866 году.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>43.</cell>
+        <cell>
+          <l><persName>Кониковъ Хацкель Арьевъ</persName>.-</l>
+          <l>изъ горѣцкихъ купцовъ.</l>
+        </cell>
+        <cell>7.</cell>
+        <cell>
+          <l>Причислить съ начала</l>
+          <l>1867 года въ купцы г. Ор-</l>
+          <l>ши съ личными пра-</l>
+          <l>вами по 2<hi rend="superscript">й</hi> гильдіи.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>44.</cell>
+        <cell>
+          <l><persName>Халфинъ Сендеръ Мовшевъ</persName>.-</l>
+          <l>изъ могилев. купцовъ</l>
+        </cell>
+        <cell>4.</cell>
+        <cell>
+          <l>Причислить съ начала</l>
+          <l>1867 года въ купцы г. Ор-</l>
+          <l>ши съ личными пра-</l>
+          <l>вами по 2<hi rend="superscript">й</hi> гильдіи.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>45.</cell>
+        <cell>
+          <l><persName>Балтеръ Бенціанъ Еселевъ</persName>.-</l>
+          <l>изъ могилев. купцовъ.</l>
+        </cell>
+        <cell>5.</cell>
+        <cell>
+          <l>Причислить съ начала</l>
+          <l>1867 года въ купцы г. Ор-</l>
+          <l>ши съ личными пра-</l>
+          <l>вами по 2<hi rend="superscript">й</hi> гильдіи.</l>
+        </cell>
+      </row>
+      <row><emph rend="underline">безъ личныхъ правъ.</emph></row>
+      <row>
+        <cell>46.</cell>
+        <cell><l><persName>Этингофъ Янкель Довыдъ<lb/>Лейбовъ</persName>._</l></cell>
+        <cell>1.</cell>
+        <cell>
+          <l>Считать въ купцахъ</l>
+          <l>на 1867 г. для торговли.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>47.</cell>
+        <cell><persName>Волкинштейнъ Исакъ Осиповъ</persName>.</cell>
+        <cell>1.</cell>
+        <cell>
+          <l>Считать въ купцахъ</l>
+          <l>на 1867 г. для торговли.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>48.</cell>
+        <cell><persName>Хаскинъ Есель Мовшевъ</persName>.-</cell>
+        <cell>1.</cell>
+        <cell>
+          <l>Считать въ купцахъ</l>
+          <l>на 1867 г. для торговли.</l>
+        </cell>
+      </row>
+      <row>
+        <cell>49.</cell>
+        <cell><persName>Выгодскій Лейба Литмановъ</persName>.</cell>
+        <cell>1.</cell>
+        <cell>
+          <l>Считать въ купцахъ</l>
+          <l>на 1867 г. для торговли.</l>
+        </cell>
+      </row>
+    </table>
   </body></text>
 </TEI>
