@@ -6,7 +6,7 @@ pluginManagement {
 
   plugins {
     id 'com.github.ben-manes.versions' version '0.39.0'
-    id 'io.miret.etienne.sass' version '1.1.1'
+    id 'io.miret.etienne.sass' version '1.1.2'
   }
 }
 
@@ -30,8 +30,8 @@ dependencyResolutionManagement {
 
   versionCatalogs {libs {
     alias('scala-library').to("$scalaLibrary:$scalaVersion")
-    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:1.117.1')
-    alias('slf4j').to('org.slf4j:slf4j-api:1.7.30')
+    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:2.0.1')
+    alias('slf4j').to('org.slf4j:slf4j-api:1.7.32')
     alias('opentorah-collector').to("org.opentorah:opentorah-collector:$opentorahVersion")
     alias('opentorah-site').to("org.opentorah:opentorah-site:$opentorahVersion")
     alias('opentorah-base').to("org.opentorah:opentorah-base:$opentorahVersion")
