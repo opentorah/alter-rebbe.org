@@ -16,7 +16,7 @@ enableFeaturePreview('TYPESAFE_PROJECT_ACCESSORS') // doesn't work with project 
 final String scalaVersion      = '2.13.6'
 //final String scalaVersionMajor = '2.13'
 final String scalaLibrary      = 'org.scala-lang:scala-library'
-final String opentorahVersion  = '0.2.6-SNAPSHOT'
+final String opentorahVersion  = '0.2.7-SNAPSHOT'
 
 dependencyResolutionManagement {
   repositories {
