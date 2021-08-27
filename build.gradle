@@ -45,7 +45,7 @@ task buildSite(type: JavaExec) {
   group = 'publishing'
   dependsOn(compileSass)
 
-  mainClass = 'org.opentorah.collector.Service'
+  mainClass = 'org.opentorah.collector.CollectorService'
   args = ['buildSite', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
@@ -54,7 +54,7 @@ task buildAndPrettyPrintSite(type: JavaExec) {
   group = 'publishing'
   dependsOn(compileSass)
 
-  mainClass = 'org.opentorah.collector.Service'
+  mainClass = 'org.opentorah.collector.CollectorService'
   args = ['buildAndPrettyPrintSite', rootDir]
   classpath = sourceSets.main.runtimeClasspath
 }
@@ -68,7 +68,7 @@ task uploadSite(type: JavaExec) {
   group = 'publishing'
   dependsOn(buildSite)
 
-  mainClass = 'org.opentorah.collector.Service'
+  mainClass = 'org.opentorah.collector.CollectorService'
   args = ['uploadSite', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
@@ -77,7 +77,7 @@ task uploadSiteDryRun(type: JavaExec) {
   group = 'publishing'
   dependsOn(buildSite)
 
-  mainClass = 'org.opentorah.collector.Service'
+  mainClass = 'org.opentorah.collector.CollectorService'
   args = ['uploadSiteDryRun', rootDir, gcloudServiceAccountKey]
   classpath = sourceSets.main.runtimeClasspath
 }
@@ -85,7 +85,7 @@ task uploadSiteDryRun(type: JavaExec) {
 task serveSite(type: JavaExec) {
   group = 'publishing'
 
-  mainClass = 'org.opentorah.collector.Service'
+  mainClass = 'org.opentorah.collector.CollectorService'
   args = ['serveSite', "file://$rootDir/"]
   classpath = sourceSets.main.runtimeClasspath
 }
@@ -93,7 +93,7 @@ task serveSite(type: JavaExec) {
 task serveRemoteSite(type: JavaExec) {
   group = 'publishing'
 
-  mainClass = 'org.opentorah.collector.Service'
+  mainClass = 'org.opentorah.collector.CollectorService'
   args = ['serveRemoteSite']
   classpath = sourceSets.main.runtimeClasspath
 }
