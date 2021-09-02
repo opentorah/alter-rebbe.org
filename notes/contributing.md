@@ -273,6 +273,10 @@
 
 ## Ресурсы ##
 
+Порождаются списки <a href="/report/index.html" target="collectionViewer">шероховатостей</a> в кодировке.
+
+Можно посмотреть различные <a href="/note/index.html" target="collectionViewer">заметки</a>.
+
 Исходные документы из репозитории GitHub обрабатываются и публикуются на сайте `store.alter-rebbe.org`.
 HTML дляпоказа в браузерах порождается динамически сайтом `www.alter=rebbe.org`.
 
