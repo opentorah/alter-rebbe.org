@@ -26,10 +26,7 @@ description = '19 Kislev Archive'
 dependencies {
   implementation libs.scala.library
   implementation libs.opentorah.collector
-  implementation libs.opentorah.site // TODO why?
-  implementation libs.opentorah.base // TODO why?
-  implementation libs.google.cloud.storage
-  compileOnly    libs.slf4j
+  implementation libs.opentorah.base // for the Cutter
 }
 
 compileSass {

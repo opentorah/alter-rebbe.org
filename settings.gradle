@@ -13,15 +13,8 @@ pluginManagement {
 enableFeaturePreview('VERSION_CATALOGS')
 enableFeaturePreview('TYPESAFE_PROJECT_ACCESSORS') // doesn't work with project names like 'opentorah-XXX' :(
 
-// Scala2:
-//final String scalaVersion      = '2.13.6'
-//final String scalaVersionMajor = '2.13'
-//final String scalaLibrary      = 'org.scala-lang:scala-library'
-
-// Scala3:
-final String scalaVersion       = '3.1.1-RC1-bin-20210908-8e92478-NIGHTLY'
-final String scalaVersionMajor  = '3'
-final String scalaLibrary       = 'org.scala-lang:scala3-library_3'
+final String scalaVersion = '3.1.1-RC1-bin-20210910-82677da-NIGHTLY'
+final String scalaLibrary = 'org.scala-lang:scala3-library_3'
 
 final String opentorahVersion  = '0.2.7-SNAPSHOT'
 
@@ -37,14 +30,11 @@ dependencyResolutionManagement {
 
   versionCatalogs {libs {
     alias('scala-library').to("$scalaLibrary:$scalaVersion")
-    alias('google.cloud.storage').to('com.google.cloud:google-cloud-storage:2.1.1')
-    alias('slf4j').to('org.slf4j:slf4j-api:1.7.32')
     alias('opentorah-collector').to("org.opentorah:opentorah-collector:$opentorahVersion")
-    alias('opentorah-site').to("org.opentorah:opentorah-site:$opentorahVersion")
     alias('opentorah-base').to("org.opentorah:opentorah-base:$opentorahVersion")
   }}
 }
 
 rootProject.name = 'alter-rebbe'
 
-//includeBuild '../opentorah.org'
+includeBuild '../opentorah.org'

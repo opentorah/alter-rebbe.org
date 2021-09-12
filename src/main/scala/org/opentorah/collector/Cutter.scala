@@ -5,7 +5,7 @@ import org.opentorah.util.Files
 import scala.sys.process._
 
 // TODO move into the alter-rebbe repository:
-object Cutter {
+object Cutter:
 
   val uncutDirectory: File = new File("/home/dub/OpenTorah/lvia1799/uncut")
 
@@ -37,21 +37,18 @@ object Cutter {
     29 -> 400, 46 -> 700, 78 -> 200, 392 -> 500
   )
 
-  def main(args: Array[String]): Unit = {
+  def main(args: Array[String]): Unit =
     //cut(392, 568)
 
     val directory = new File("/home/dub/OpenTorah/BUCKETS/facsimiles.alter-rebbe.org/archive/" +
       "niab/fund/1297/inventory/1/case/611/new")
-    for (file <- directory.listFiles().sorted) {
+    for file <- directory.listFiles().sorted do
       val (name, extension) = Files.nameAndExtension(file.getName)
-      if (extension.contains("jpg")) {
+      if extension.contains("jpg") then
         val newName = if (name.endsWith("b")) name.substring(0, name.length - 1) + "-2" else name + "-1"
         val newFile = new File(directory, newName + ".jpg")
         println(s"$name -> $newName")
         file.renameTo(newFile)
-      }
-    }
-  }
 
   private val leftOverlaps: Map[Int, Int] = lvia1799LeftOverlaps
 
@@ -64,52 +61,43 @@ object Cutter {
   private def inUncut(fileName: String): String =
     new File(uncutDirectory, fileName + ".jpg").getAbsolutePath
 
-  private def spread(fileName: String): Either[String, Int] = {
+  private def spread(fileName: String): Either[String, Int] =
     val v = fileName.indexOf("об-")
-    if (v == -1) Left(fileName) else {
-      try {
+    if v == -1 then Left(fileName) else
+      try
         val left: Int = fileName.substring(0, v).toInt
         val right: Int = fileName.substring(v + 3).toInt
-        if (right == left + 1) Right(left) else Left(fileName)
-      } catch {
+        if right == left + 1 then Right(left) else Left(fileName)
+      catch
         case _: NumberFormatException => Left(fileName)
-      }
-    }
-  }
 
   private def unspread(spread: Int): String = inUncut(spread.toString + "об-" + (spread+1).toString)
 
-  private def page(number: Int, verso: Boolean): String = {
+  private def page(number: Int, verso: Boolean): String =
     val fileName = toStr(number) + (if (verso) "-2" else "-1")
     new File(cutDirectory, fileName + ".jpg").getAbsolutePath
-  }
 
-  private def toStr(number: Int): String = {
+  private def toStr(number: Int): String =
     val numberStr = number.toString
     "000".take(3-numberStr.length) ++ numberStr
-  }
 
-  private def cut(spread: Int, number: Int): Unit = {
+  private def cut(spread: Int, number: Int): Unit =
     val leftOverlap: Int = leftOverlaps.getOrElse(spread, defaultOverlap)
     val rightOverlap: Int = rightOverlaps.getOrElse(spread, defaultOverlap)
 
     val toCut = inUncut(toStr(spread)) //unspread(spread)
 
-    if (leftOverlap == rightOverlap) {
+    if leftOverlap == rightOverlap then
       execute(s"convert $toCut -crop 2x1+$leftOverlap@ ${inUncut("x-%d")}")
       execute(s"mv ${inUncut("x-0")} ${page(number, verso = true)}")
       execute(s"mv ${inUncut("x-1")} ${page(number + 1, verso = false)}")
-    } else {
+    else
       execute(s"convert $toCut -crop 2x1+$leftOverlap@ ${inUncut("x-%d")}")
       execute(s"mv ${inUncut("x-0")} ${page(number, verso = true)}")
 
       execute(s"convert $toCut -crop 2x1+$rightOverlap@ ${inUncut("x-%d")}")
       execute(s"mv ${inUncut("x-1")} ${page(number + 1, verso = false)}")
-    }
-  }
 
-  private def execute(command: String): Unit = {
+  private def execute(command: String): Unit =
     println(s"running $command")
     command.!!
-  }
-}
