@@ -2,7 +2,7 @@ package org.opentorah.collector
 
 import java.io.File
 import org.opentorah.util.Files
-import scala.sys.process._
+import scala.sys.process.*
 
 // TODO move into the alter-rebbe repository:
 object Cutter:
@@ -45,7 +45,7 @@ object Cutter:
     for file <- directory.listFiles().sorted do
       val (name, extension) = Files.nameAndExtension(file.getName)
       if extension.contains("jpg") then
-        val newName = if (name.endsWith("b")) name.substring(0, name.length - 1) + "-2" else name + "-1"
+        val newName = if name.endsWith("b") then name.substring(0, name.length - 1) + "-2" else name + "-1"
         val newFile = new File(directory, newName + ".jpg")
         println(s"$name -> $newName")
         file.renameTo(newFile)
@@ -74,7 +74,7 @@ object Cutter:
   private def unspread(spread: Int): String = inUncut(spread.toString + "об-" + (spread+1).toString)
 
   private def page(number: Int, verso: Boolean): String =
-    val fileName = toStr(number) + (if (verso) "-2" else "-1")
+    val fileName = toStr(number) + (if verso then "-2" else "-1")
     new File(cutDirectory, fileName + ".jpg").getAbsolutePath
 
   private def toStr(number: Int): String =

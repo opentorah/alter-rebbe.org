@@ -18,7 +18,20 @@ idea {
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
 tasks.withType(ScalaCompile) {
+  scalaCompileOptions.with {
 //  targetCompatibility = '1.8'
+    additionalParameters = [
+      '-new-syntax',
+      '-feature',
+      '-language:strictEquality',
+      //'-source:future',
+      //'-deprecation',
+      //'-unchecked',
+      //'-Xsemanticdb',
+      //'-Ysafe-init',
+      //'-explain',
+    ]
+  }
 }
 
 description = '19 Kislev Archive'
