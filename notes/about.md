@@ -35,8 +35,8 @@
 Некоторые из этих документов были опубликованы. Вот [дела](/collections) которыми мы занимаемся.
 
 Имеются также:
-- <a href="/names.html" target="namesViewer">список людей и мест</a> упомянутых в документах;
-- <a href="/names#transcribers" target="namesViewer">список людей</a> предоставивших расшифровки документов;
+- <a href="/names.html" target="apparatusViewer">список людей и мест</a> упомянутых в документах;
+- <a href="/names#transcribers" target="apparatusViewer">список людей</a> предоставивших расшифровки документов;
 
 [Фотографии документов](https://drive.google.com/drive/folders/1hCfbEyTlt4UqLjqWOOr0yr11vZw-4KwQ?usp=sharing)
 были (если надо) переименованы, разрезаны, переведены в формат JPEG и сжаты.

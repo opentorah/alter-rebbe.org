@@ -14,7 +14,7 @@
   Изд-во: Новое литературное обозрение. ISBN: 978-5-4448-0302-8.
   Высказано предположение, что Гирш Давыдович, написавший донос на Алтер Ребе, идентичен еврейскому
   депутату Виленской и Гродненской губерний Гиршу Давидовичу.
-  См. <a href="/note/Гирша_Давыдовичъ.html" target="namesViewer">наш анализ</a>.
+  См. <a href="/note/Гирша_Давыдовичъ.html" target="apparatusViewer">наш анализ</a>.
 
 - 2013 Assaf D., Sagiv D.. Hasidism in Tsarist Russia. Historical and Social Aspects:
   The appeal to the authorities led, among other things, to the interrogation
