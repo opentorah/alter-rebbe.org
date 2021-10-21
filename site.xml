@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
   <common
+    n="Chabad History"
     url="www.alter-rebbe.org"
     favicon="alter-rebbe.jpg"
     googleAnalyticsId="UA-154490117-1"
@@ -43,7 +44,7 @@
   <notes selector="note" directory="notes"/>
   <by selector="archive">
     <store file="archive/books.xml"/>
-    <store file="archive/cgia.xml"/>
+<!--   <store file="archive/cgia.xml"/>-->
     <store file="archive/garf.xml"/>
     <store file="archive/lna.xml"/>
     <store file="archive/lvia.xml"/>
@@ -53,4 +54,52 @@
     <store file="archive/rnb.xml"/>
     <store file="archive/cahjp.xml"/>
   </by>
+  <alias n="derzhavin6" to="archive/books/book/derzhavin/volume/6"/>
+  <alias n="derzhavin7" to="archive/books/book/derzhavin/volume/7"/>
+  <alias n="dubnov" to="archive/books/book/dubnov"/>
+  <alias n="garf14" to="archive/garf/fund/109/inventory/16/case/14"/>
+  <alias n="lna208" to="archive/lna/fund/1/inventory/2/case/208"/>
+  <alias n="lvia1799-2" to="archive/lvia/fund/378/division/general/inventory/1799/case/2"/>
+  <alias n="lvia1799-2-2" to="archive/lvia/fund/378/division/general/inventory/1799/case/2-2"/>
+  <alias n="lvia1799-178" to="archive/lvia/fund/378/division/general/inventory/1799/case/178"/>
+  <alias n="lvia1800-2" to="archive/lvia/fund/378/division/general/inventory/1800/case/2"/>
+  <alias n="lvia1800-2-2" to="archive/lvia/fund/378/division/general/inventory/1800/case/2-2"/>
+  <alias n="lvia1800-2-3" to="archive/lvia/fund/378/division/general/inventory/1800/case/2-3"/>
+  <alias n="lvia1800-2-4" to="archive/lvia/fund/378/division/general/inventory/1800/case/2-4"/>
+  <alias n="lvia1800-29" to="archive/lvia/fund/378/division/general/inventory/1800/case/29"/>
+  <alias n="lvia1824-29" to="archive/lvia/fund/378/division/general/inventory/1824/case/29"/>
+  <alias n="lvia1868-3470" to="archive/lvia/fund/378/division/general/inventory/1868/case/3470"/>
+  <alias n="niab611" to="archive/niab/fund/1297/inventory/1/case/611"/>
+  <alias n="niab12947" to="archive/niab/fund/1297/inventory/1/case/12947"/>
+  <alias n="niab16589" to="archive/niab/fund/1297/inventory/1/case/16589"/>
+  <alias n="niab18896" to="archive/niab/fund/1297/inventory/1/case/18896"/>
+  <alias n="niab21438" to="archive/niab/fund/1297/inventory/1/case/21438"/>
+  <alias n="niab25207" to="archive/niab/fund/1297/inventory/1/case/25207"/>
+  <alias n="niab53912" to="archive/niab/fund/1430/inventory/1/case/53912"/>
+  <alias n="niab271" to="archive/niab/fund/1781/inventory/2/case/271"/>
+  <alias n="niab1401" to="archive/niab/fund/1781/inventory/3/case/1401"/>
+  <alias n="niab19" to="archive/niab/fund/2096/inventory/1/case/19"/>
+  <alias n="niab24" to="archive/niab/fund/2096/inventory/1/case/24"/>
+  <alias n="niab45" to="archive/niab/fund/2096/inventory/1/case/45"/>
+  <alias n="niab144" to="archive/niab/fund/2273/inventory/1/case/144"/>
+  <alias n="niab145" to="archive/niab/fund/2273/inventory/1/case/145"/>
+  <alias n="niab205" to="archive/niab/fund/2273/inventory/1/case/205"/>
+  <alias n="niab231" to="archive/niab/fund/2273/inventory/1/case/231"/>
+  <alias n="niab240" to="archive/niab/fund/2273/inventory/1/case/240"/>
+  <alias n="niab241" to="archive/niab/fund/2273/inventory/1/case/241"/>
+  <alias n="niab283" to="archive/niab/fund/2273/inventory/1/case/283"/>
+  <alias n="niab400" to="archive/niab/fund/2273/inventory/1/case/400"/>
+  <alias n="niab418" to="archive/niab/fund/2273/inventory/1/case/418"/>
+  <alias n="niab57" to="archive/niab/fund/2640/inventory/1/case/57"/>
+  <alias n="rgada" to="archive/rgada/category/VII/inventory/2/case/3140"/>
+  <alias n="rgia529" to="archive/rgia/fund/468/inventory/43/case/529"/>
+  <alias n="rgia5" to="archive/rgia/fund/821/inventory/9/case/5"/>
+  <alias n="rgia119" to="archive/rgia/fund/1309/inventory/1/case/119"/>
+  <alias n="rgia5580" to="archive/rgia/fund/1343/inventory/39/case/5580"/>
+  <alias n="rgia73" to="archive/rgia/fund/1343/inventory/41/case/73"/>
+  <alias n="rgia328" to="archive/rgia/fund/1347/inventory/64-1/case/328"/>
+  <alias n="rgia413" to="archive/rgia/fund/1347/inventory/64-1/case/413"/>
+  <alias n="rgia2213" to="archive/rgia/fund/1374/inventory/3/case/2213"/>
+  <alias n="rnb203" to="archive/rnb/category/ro/fund/IV/inventory/UNKNOWN/case/203"/>
+  <alias n="rnb211" to="archive/rnb/category/ro/fund/152/inventory/1/case/211"/>
 </site>
