@@ -278,7 +278,7 @@
 Можно посмотреть различные <a href="/note/index.html" target="collectionViewer">заметки</a>.
 
 Исходные документы из репозитории GitHub обрабатываются и публикуются на сайте `store.alter-rebbe.org`.
-HTML дляпоказа в браузерах порождается динамически сайтом `www.alter=rebbe.org`.
+HTML для показа в браузерах порождается динамически сайтом `www.alter=rebbe.org`.
 
 Факсимиле документов опубликованы на сайте `facsimiles.alter-rebbe.org`. Туда ведут ссылки из страниц сайта `www.alter-rebbe.org`.
 Этот сайт на самом деле - Google Storage [Bucket](https://console.cloud.google.com/storage/browser/facsimiles.alter-rebbe.org).

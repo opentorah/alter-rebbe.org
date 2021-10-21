@@ -16,7 +16,7 @@ enableFeaturePreview('TYPESAFE_PROJECT_ACCESSORS') // doesn't work with project 
 final String scalaVersion = '3.1.1-RC1'
 final String scalaLibrary = 'org.scala-lang:scala3-library_3'
 
-final String opentorahVersion  = '0.2.7.1-SNAPSHOT'
+final String opentorahVersion  = '0.4.0'
 
 dependencyResolutionManagement {
   repositories {
@@ -29,7 +29,7 @@ dependencyResolutionManagement {
   }
 
   versionCatalogs {libs {
-    alias('scala-library').to("$scalaLibrary:$scalaVersion")
+    alias('scala-library').to("org.scala-lang:scala3-library_3:$scalaVersion")
     alias('opentorah-collector').to("org.opentorah:opentorah-collector:$opentorahVersion")
     alias('opentorah-base').to("org.opentorah:opentorah-base:$opentorahVersion")
   }}
