@@ -3,20 +3,7 @@ pluginManagement {
     mavenCentral()
     gradlePluginPortal()
   }
-
-  plugins {
-    id 'com.github.ben-manes.versions' version '0.39.0'
-    id 'io.miret.etienne.sass' version '1.1.2'
-  }
 }
-
-enableFeaturePreview('VERSION_CATALOGS')
-enableFeaturePreview('TYPESAFE_PROJECT_ACCESSORS') // doesn't work with project names like 'opentorah-XXX' :(
-
-final String scalaVersion = '3.1.1-RC1'
-final String scalaLibrary = 'org.scala-lang:scala3-library_3'
-
-final String opentorahVersion  = '0.4.0'
 
 dependencyResolutionManagement {
   repositories {
@@ -27,12 +14,6 @@ dependencyResolutionManagement {
       url = 'https://oss.sonatype.org/content/repositories/snapshots'
     }
   }
-
-  versionCatalogs {libs {
-    alias('scala-library').to("org.scala-lang:scala3-library_3:$scalaVersion")
-    alias('opentorah-collector').to("org.opentorah:opentorah-collector:$opentorahVersion")
-    alias('opentorah-base').to("org.opentorah:opentorah-base:$opentorahVersion")
-  }}
 }
 
 rootProject.name = 'alter-rebbe'

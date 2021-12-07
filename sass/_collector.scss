@@ -1,0 +1,76 @@
+// TODO move into collector-specific file
+// Collection index
+.collection-index {
+  // Size the columns
+  .description { width: 44%; }
+  .date        { width:  8%; }
+  .author      { width: 10%; }
+  .addressee   { width: 10%; }
+  .language    { width:  4%; }
+  .document    { width:  5%; }
+  .pages       { width:  8%; }
+  .transcriber {             }
+
+  // Part title
+  .part-title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #1614ff;
+  }
+}
+
+// Document header
+.document-header {
+  background-color: #f0f0f0;
+  padding: 10px;
+
+  width: 100%;
+
+  .heading {
+    width: 18%;
+    font-style: italic;
+  }
+}
+
+// Facsimile viewer
+div.facsimileWrapper {
+  width: 1060px;
+
+  div.facsimileViewer {
+    width: 100%;
+    height: 1586px;
+    overflow: hidden;
+    padding-right: 1em;
+    resize: both;
+
+    div.facsimileScroller {
+      width: auto;
+      height: 98%;
+      overflow-y: scroll;
+      border: 1px solid black;
+      padding: .25em;
+
+      a:last-child {
+        // TODO make caption of the last picture visible!     padding-bottom: 1em;
+      }
+    }
+  }
+}
+
+// Mentions
+.mentions {
+  font-size: smaller;
+}
+
+// Tree index
+.tree-index {
+  ul {
+    list-style-type: none;
+    margin-bottom: 1em;
+    margin-left: 0;
+
+    li {
+      margin-left: 1em;
+    }
+  }
+}

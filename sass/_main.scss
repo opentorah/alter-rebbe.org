@@ -1,35 +1,11 @@
 @charset "utf-8";
 
-// Some TEI elements are converted to HTML elements
-// with the original TEI element name added as a 'class' attribute:
-//   pb -> a.pb
-//   persName[ref] -> a.persName
-//   placeName[ref] -> a.placeName
-//   orgName[ref] -> a.orgName
-//   ref -> a.refName
-//   ptr -> a.ptr
-//   graphic -> img.graphic
-//   supplied -> span.supplied
-//   note[place="end"] -> a.note
-//   table -> table.table
-//   row -> tr.row
-//   cell -> td.cell
-//
-// Some TEI elements that are processed by the browsers in a special way
-// (*even* when they are in the TEI namespace!) are renamed:
-//   head -> tei-head
-//   body -> tei-body
-
-// TODO merge styles for div/headers and figures.
-
-@namespace tei   url("http://www.tei-c.org/ns/1.0");
-@namespace xhtml url("http://www.w3.org/1999/xhtml");
-
-
 // Define defaults for each variable.
 
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
-"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+//$base-font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !default;
+
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -49,7 +25,6 @@ $table-text-align: left !default;
 
 // Width of the content area
 $content-width:    800px !default;
-
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
@@ -70,19 +45,8 @@ $on-laptop:        800px !default;
   font-size: $base-font-size * $ratio;
 }
 
-// language support
-/* render Arabic, Persian, Ottoman, Hebrew and Yiddish  as rtl */
-[lang = "ar"], [lang = "ota"], [lang = "fa"], [lang = "he"], [lang = "yi"], [lang *="-Arab-AR"]{
-  direction:rtl;
-  text-align:right;
-}
-/* display latin and some other scripts as ltr  */
-[lang = "en"], [lang = "fr"], [lang = "de"], [lang = "it"], [lang = "ru"], [lang = "pl"], [lang *="ar-Latn-"], [lang *="ota-Latn-"]{
-  direction:ltr;
-  text-align:left;
-}
-
 // Import partials.
-@import "base";
 @import "layout";
+@import "base";
 @import "tei";
+@import "collector";

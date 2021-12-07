@@ -1,8 +1,8 @@
 plugins {
   id 'idea'
-  id 'com.github.ben-manes.versions'
+  id 'com.github.ben-manes.versions' version '0.39.0'
   id 'scala'
-  id 'io.miret.etienne.sass'
+  id 'io.miret.etienne.sass' version '1.1.2'
 }
 
 idea {
@@ -36,10 +36,12 @@ tasks.withType(ScalaCompile) {
 
 description = '19 Kislev Archive'
 
+final String opentorahVersion  = '0.4.1-SNAPSHOT'
+
 dependencies {
-  implementation libs.scala.library
-  implementation libs.opentorah.collector
-  implementation libs.opentorah.base // for the Cutter
+  implementation 'org.scala-lang:scala3-library_3:3.1.1-RC1'
+  implementation "org.opentorah:opentorah-collector:$opentorahVersion"
+  implementation "org.opentorah:opentorah-base:$opentorahVersion" // for the Cutter
 }
 
 compileSass {
