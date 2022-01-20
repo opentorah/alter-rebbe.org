@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-  <common
-    n="Chabad History"
-    url="www.alter-rebbe.org"
-    favicon="alter-rebbe.jpg"
-    googleAnalyticsId="UA-154490117-1"
-    email="dub@opentorah.org"
-  >
-    <!-- TODO title: Архив 19 кислева -->
-    <title>Документы</title>
+  <common n="Chabad History">
+    <html
+      url="www.alter-rebbe.org"
+      favicon="alter-rebbe.jpg"
+      googleAnalyticsId="UA-154490117-1"
+      email="dub@opentorah.org"
+    >
+      <!-- TODO title: Архив 19 кислева -->
+      <title>Документы</title>
+      <social
+        github="opentorah"
+        twitter="theopentorah"
+      />
+      <footer>
+        documents related to early Chabad history<br/>
+        🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
+        <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
+      </footer>
+      <highlighter isEnabled="true" usePrism="false"/>
+    </html>
     <license
       name="Creative Commons Attribution 4.0 International License"
       url="http://creativecommons.org/licenses/by/4.0/"
     />
-    <social
-      github="opentorah"
-      twitter="theopentorah"
-    />
-    <footer>
-      documents related to early Chabad history<br/>
-      🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
-      <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
-    </footer>
     <page url="/names"/>
     <page url="/collections"/>
     <page url="/note/help"/>
@@ -30,7 +32,6 @@
       <sourceDesc><p>Facsimile</p></sourceDesc>
       <calendarDesc><calendar xml:id="julian"><p>Julian calendar</p></calendar></calendarDesc>
     </tei>
-    <highlighter isEnabled="true" usePrism="false"/>
   </common>
   <entities selector="name" directory="names"/>
   <entityLists selector="names">
