@@ -22,7 +22,7 @@ jobs:
 
       - name: "Build and upload site to Google Storage bucket"
         env:
-          gcloudServiceAccountKey: ${{secrets.gcloudServiceAccountKey}}
+          gcloudServiceAccountKey: ${{secrets.CLOUD_RUN_DEPLOY_ALTER_REBBE}}
         run: ./gradlew --no-daemon --console=plain uploadSite
 
       - name: "Notify the Cloud Run service"
