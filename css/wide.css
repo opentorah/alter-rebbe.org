@@ -181,7 +181,6 @@ social-media-list a:hover .username {
     width: -webkit-calc(50% - (30px / 2));
     width: calc(50% - (30px / 2));
   }
-
   .footer-col-3 {
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2));
@@ -278,8 +277,7 @@ h1, h2, h3, h4, h5, h6, p, tei-p, para, blockquote, pre, ul, ol, dl, figure, div
 }
 
 main {
-  display: block;
-  /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -591,33 +589,28 @@ listitem > itemizedlist, listitem > simplelist {
   margin-bottom: 0;
 }
 
-/*text*/
-/*tei|*/
+/*text*/ /*tei|*/
 list, list[type=simple], list[type=ordered], listBibl, simplelist {
   list-style-type: none;
 }
 
-/*text*/
-/*tei|*/
+/*text*/ /*tei|*/
 list[type=bulleted] {
   list-style-type: disc;
 }
 
-/*text*/
-/*tei|*/
+/*text*/ /*tei|*/
 list[type=ordered] {
   counter-reset: items 0;
 }
 
-/*text*/
-/*tei|*/
+/*text*/ /*tei|*/
 list[type=ordered] > item:before {
   counter-increment: items 1;
   content: counter(items, decimal) ". ";
 }
 
-/*text*/
-/*tei|*/
+/*text*/ /*tei|*/
 list[type=ordered] > item {
   margin-left: 0;
 }
@@ -627,8 +620,7 @@ item > list[type=ordered] {
   margin-left: 1em;
 }
 
-/*text*/
-/*tei|*/
+/*text*/ /*tei|*/
 list[type=gloss] {
   list-style-type: none;
 }
