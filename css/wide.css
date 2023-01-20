@@ -471,14 +471,16 @@ a[missing=true]:not([empty=true]) {
   color: red;
 }
 
-a.footnote-link, a.footnote-backlink {
-  color: red;
-}
-
 .footnote-link {
+  color: red;
   vertical-align: super;
   font-size: smaller;
   line-height: 0;
+}
+
+a.footnote-backlink {
+  color: red;
+  padding-right: 0.25em;
 }
 
 hr.footnotes-line {
