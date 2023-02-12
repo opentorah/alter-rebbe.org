@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="1343">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="1343">
   <title xmlns="http://www.tei-c.org/ns/1.0">ТРЕТИЙ ДЕПАРТАМЕНТ СЕНАТА (Департамент герольдии Сената).</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="https://rgia.su/object/439271">Вебсайт</ref></abstract>
   <by selector="inventory">
-    <store file="1343/inventory/39.xml"/>
-    <store file="1343/inventory/41.xml"/>
+    <xi:include href="1343/inventory/39.xml"/>
+    <xi:include href="1343/inventory/41.xml"/>
   </by>
 </store>

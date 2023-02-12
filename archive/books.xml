@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="книги"/>
   <name lang="en" n="books"/>
-  <title xmlns="http://www.tei-c.org/ns/1.0"/>
+  <tei:title/>
   <by selector="book">
-    <store file="books/book/derzhavin.xml"/>
-    <store file="books/book/dubnov.xml"/>
+    <xi:include href="books/book/derzhavin.xml"/>
+    <xi:include href="books/book/dubnov.xml"/>
   </by>
 </store>

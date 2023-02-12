@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:xi="http://www.w3.org/2001/XInclude">
   <name n="РО" lang="ru"/>
   <name n="ro" lang="en"/>
   <title xmlns="http://www.tei-c.org/ns/1.0">???</title>
   <by selector="fund">
-    <store file="ro/fund/IV.xml"/>
-    <store file="ro/fund/152.xml"/>
+    <xi:include href="ro/fund/IV.xml"/>
+    <xi:include href="ro/fund/152.xml"/>
   </by>
 </store>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="cahjp">
-  <title xmlns="http://www.tei-c.org/ns/1.0">Центральный архив истории еврейского народа (Иерусалим)</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0">
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" n="cahjp">
+  <tei:title>Центральный архив истории еврейского народа (Иерусалим)</tei:title>
+  <tei:abstract>
     <l>The Central Archives for the History of the Jewish People (Jerusalem)</l>
     <l><ref target="http://cahjp.nli.org.il/">Вебсайт</ref></l>
-  </abstract>
+  </tei:abstract>
   <by selector="case"/>
 </store>

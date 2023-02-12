@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:xi="http://www.w3.org/2001/XInclude">
   <name n="64 ч I" lang="ru"/>
   <name n="64-1" lang="en"/>
   <title xmlns="http://www.tei-c.org/ns/1.0">1797-1828 гг.</title>
@@ -18,7 +18,7 @@
     </figure>
   </body>
   <by selector="case">
-    <store file="64-1/case/328.xml"/>
-    <store file="64-1/case/413.xml"/>
+    <xi:include href="64-1/case/328.xml"/>
+    <xi:include href="64-1/case/413.xml"/>
   </by>
 </store>

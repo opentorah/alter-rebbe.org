@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="3">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="3">
   <title xmlns="http://www.tei-c.org/ns/1.0">1797-1800 гг.</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0">О пожаловании дворянам земель и крестьян; о земельных спорах; о
   рассмотрении жалоб крестьян на притеснения помещиков; о крестьянских волнениях; о торговле с иностранными
@@ -16,6 +16,6 @@
     </figure>
   </body>
   <by selector="case">
-    <store file="3/case/2213.xml"/>
+    <xi:include href="3/case/2213.xml"/>
   </by>
 </store>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="1347">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="1347">
   <title xmlns="http://www.tei-c.org/ns/1.0">ТРЕТИЙ (АПЕЛЛЯЦИОННЫЙ) ДЕПАРТАМЕНТ СЕНАТА.</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="https://rgia.su/object/439279">Вебсайт</ref></abstract>
   <by selector="inventory">
-    <store file="1347/inventory/64-1.xml"/>
+    <xi:include href="1347/inventory/64-1.xml"/>
   </by>
 </store>

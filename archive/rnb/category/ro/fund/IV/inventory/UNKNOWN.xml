@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="UNKNOWN">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="UNKNOWN">
   <title xmlns="http://www.tei-c.org/ns/1.0">???</title>
   <by selector="case">
-    <store file="UNKNOWN/case/203.xml"/>
+    <xi:include href="UNKNOWN/case/203.xml"/>
   </by>
 </store>

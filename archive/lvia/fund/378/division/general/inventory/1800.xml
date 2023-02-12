@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="1800">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="1800">
   <title xmlns="http://www.tei-c.org/ns/1.0"/>
   <body xmlns="http://www.tei-c.org/ns/1.0">
     <p>Номер описи в фонде: 8</p>
@@ -32,10 +32,10 @@
     </p>
   </body>
   <by selector="case">
-    <store file="1800/case/2.xml"/>
-    <store file="1800/case/2-2.xml"/>
-    <store file="1800/case/2-3.xml"/>
-    <store file="1800/case/2-4.xml"/>
-    <store file="1800/case/29.xml"/>
+    <xi:include href="1800/case/2.xml"/>
+    <xi:include href="1800/case/2-2.xml"/>
+    <xi:include href="1800/case/2-3.xml"/>
+    <xi:include href="1800/case/2-4.xml"/>
+    <xi:include href="1800/case/29.xml"/>
   </by>
 </store>

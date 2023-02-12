@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:xi="http://www.w3.org/2001/XInclude">
   <name n="Евр IV" lang="ru"/>
   <name n="IV" lang="en"/>
   <title xmlns="http://www.tei-c.org/ns/1.0">???</title>
   <by selector="inventory">
-    <store file="IV/inventory/UNKNOWN.xml"/>
+    <xi:include href="IV/inventory/UNKNOWN.xml"/>
   </by>
 </store>

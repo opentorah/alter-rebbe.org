@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="lna">
-  <title xmlns="http://www.tei-c.org/ns/1.0">Национальный архив Латвии (Рига)</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0">
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" n="lna">
+  <tei:title>Национальный архив Латвии (Рига)</tei:title>
+  <tei:abstract>
     <l>Latvijas Nacionālais arhīvs, Riga</l>
     <l><ref target="https://arhivi.gov.lv/">Вебсайт</ref></l>
-  </abstract>
+  </tei:abstract>
   <by selector="fund">
-    <store file="lna/fund/1.xml"/>
+    <xi:include href="lna/fund/1.xml"/>
   </by>
 </store>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="16">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="16">
   <title xmlns="http://www.tei-c.org/ns/1.0">1-я экспедиция. 1841г.</title>
   <by selector="case">
-    <store file="16/case/14.xml"/>
+    <xi:include href="16/case/14.xml"/>
   </by>
 </store>

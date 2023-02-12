@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="9">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="9">
   <title xmlns="http://www.tei-c.org/ns/1.0">1857-1914 гг.</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0">
     <ref target="https://rgia.su/object/2848375">Вебсайт</ref>
@@ -9,6 +9,6 @@
     </p>
   </abstract>
   <by selector="case">
-    <store file="9/case/5.xml"/>
+    <xi:include href="9/case/5.xml"/>
   </by>
 </store>

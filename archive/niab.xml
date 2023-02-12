@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="НИАБ"/>
   <name lang="en" n="niab"/>
-  <title xmlns="http://www.tei-c.org/ns/1.0">Национальный исторический архив Беларуси (Минск)</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0">
+  <tei:title>Национальный исторический архив Беларуси (Минск)</tei:title>
+  <tei:abstract>
     <l>Нацыянальны гістарычны архіў Беларусі</l>
     <l><ref target="https://niab.by/newsite/ru">Вебсайт</ref></l>
-  </abstract>
+  </tei:abstract>
   <by selector="fund">
-    <store file="niab/fund/1297.xml"/>
-    <store file="niab/fund/1430.xml"/>
-    <store file="niab/fund/1781.xml"/>
-    <store file="niab/fund/2096.xml"/>
-    <store file="niab/fund/2273.xml"/>
-    <store file="niab/fund/2640.xml"/>
+    <xi:include href="niab/fund/1297.xml"/>
+    <xi:include href="niab/fund/1430.xml"/>
+    <xi:include href="niab/fund/1781.xml"/>
+    <xi:include href="niab/fund/2096.xml"/>
+    <xi:include href="niab/fund/2273.xml"/>
+    <xi:include href="niab/fund/2640.xml"/>
   </by>
 </store>

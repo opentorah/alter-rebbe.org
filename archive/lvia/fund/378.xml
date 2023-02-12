@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="378">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="378">
   <title xmlns="http://www.tei-c.org/ns/1.0">Канцелярия Виленского военного генерал-губернатора</title>
   <body xmlns="http://www.tei-c.org/ns/1.0">
     <p>
@@ -68,6 +68,6 @@
     </l>
   </body>
   <by selector="division">
-    <store file="378/division/general.xml"/>
+    <xi:include href="378/division/general.xml"/>
   </by>
 </store>

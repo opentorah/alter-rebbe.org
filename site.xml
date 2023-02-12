@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site>
+<site xmlns:xi="http://www.w3.org/2001/XInclude">
   <common n="Chabad History">
     <html
       url="www.alter-rebbe.org"
@@ -18,7 +18,6 @@
         🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
         <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
       </footer>
-      <highlighter isEnabled="true" usePrism="false"/>
     </html>
     <license
       name="Creative Commons Attribution 4.0 International License"
@@ -44,16 +43,16 @@
   </entityLists>
   <notes selector="note" directory="notes"/>
   <by selector="archive">
-    <store file="archive/books.xml"/>
-<!--   <store file="archive/cgia.xml"/>-->
-    <store file="archive/garf.xml"/>
-    <store file="archive/lna.xml"/>
-    <store file="archive/lvia.xml"/>
-    <store file="archive/niab.xml"/>
-    <store file="archive/rgada.xml"/>
-    <store file="archive/rgia.xml"/>
-    <store file="archive/rnb.xml"/>
-    <store file="archive/cahjp.xml"/>
+    <xi:include href="archive/books.xml"/>
+<!--   <xi:include href"archive/cgia.xml"/>-->
+    <xi:include href="archive/garf.xml"/>
+    <xi:include href="archive/lna.xml"/>
+    <xi:include href="archive/lvia.xml"/>
+    <xi:include href="archive/niab.xml"/>
+    <xi:include href="archive/rgada.xml"/>
+    <xi:include href="archive/rgia.xml"/>
+    <xi:include href="archive/rnb.xml"/>
+    <xi:include href="archive/cahjp.xml"/>
   </by>
   <alias n="derzhavin6" to="archive/books/book/derzhavin/volume/6"/>
   <alias n="derzhavin7" to="archive/books/book/derzhavin/volume/7"/>

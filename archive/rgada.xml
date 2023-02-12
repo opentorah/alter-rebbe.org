@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="РГАДА"/>
   <name lang="en" n="rgada"/>
-  <title xmlns="http://www.tei-c.org/ns/1.0">Российский государственный архив древних актов (Москва)</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://rgada.info/poisk/index.php">Вебсайт</ref></abstract>
+  <tei:title>Российский государственный архив древних актов (Москва)</tei:title>
+  <tei:abstract><ref target="http://rgada.info/poisk/index.php">Вебсайт</ref></tei:abstract>
   <by selector="category">
-    <store file="rgada/category/VII.xml"/>
+    <xi:include href="rgada/category/VII.xml"/>
   </by>
 </store>

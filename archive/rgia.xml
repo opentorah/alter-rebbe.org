@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="РГИА"/>
   <name lang="en" n="rgia"/>
-  <title xmlns="http://www.tei-c.org/ns/1.0">Российский государственный исторический архив (Санкт-Петербург)</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="https://rgia.su">Вебсайт</ref></abstract>
+  <tei:title>Российский государственный исторический архив (Санкт-Петербург)</tei:title>
+  <tei:abstract><ref target="https://rgia.su">Вебсайт</ref></tei:abstract>
   <by selector="fund">
-    <store file="rgia/fund/468.xml"/>
-    <store file="rgia/fund/821.xml"/>
-    <store file="rgia/fund/1309.xml"/>
-    <store file="rgia/fund/1343.xml"/>
-    <store file="rgia/fund/1347.xml"/>
-    <store file="rgia/fund/1374.xml"/>
+    <xi:include href="rgia/fund/468.xml"/>
+    <xi:include href="rgia/fund/821.xml"/>
+    <xi:include href="rgia/fund/1309.xml"/>
+    <xi:include href="rgia/fund/1343.xml"/>
+    <xi:include href="rgia/fund/1347.xml"/>
+    <xi:include href="rgia/fund/1374.xml"/>
   </by>
 </store>

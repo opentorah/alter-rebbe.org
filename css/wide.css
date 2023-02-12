@@ -252,7 +252,7 @@ social-media-list a:hover .username {
   text-align: left;
 }
 
-body, h1, h2, h3, h4, h5, h6, p, tei-p, para, blockquote, pre, hr, dl, dd, ol, ul, figure {
+body, h1, h2, h3, h4, h5, h6, p, tei-p, blockquote, pre, hr, dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
@@ -272,7 +272,7 @@ body {
   flex-direction: column;
 }
 
-h1, h2, h3, h4, h5, h6, p, tei-p, para, blockquote, pre, ul, ol, dl, figure, div.footnotes, glossentry, biblioentry {
+h1, h2, h3, h4, h5, h6, p, tei-p, blockquote, pre, ul, ol, dl, figure, div.footnotes {
   margin-bottom: 15px;
 }
 
@@ -285,8 +285,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-title,
-book > db-title,
-book > info > db-title,
 .store-header > tei-head {
   font-size: 42px;
   letter-spacing: -1px;
@@ -295,8 +293,6 @@ book > info > db-title,
 }
 @media screen and (max-width: 800px) {
   .post-title,
-book > db-title,
-book > info > db-title,
 .store-header > tei-head {
     font-size: 36px;
   }
@@ -313,41 +309,24 @@ tei-div > tei-head {
   }
 }
 
-preface > db-title,
-part > db-title,
-glossary > db-title,
-bibliography > db-title {
-  font-size: 170%;
-}
-
-chapter > db-title,
-glossdiv > db-title,
-bibliodiv > db-title {
-  font-size: 165%;
-}
-
 h3,
-tei-div > tei-div > tei-head,
-section > db-title {
+tei-div > tei-div > tei-head {
   font-size: 26px;
 }
 @media screen and (max-width: 800px) {
   h3,
-tei-div > tei-div > tei-head,
-section > db-title {
+tei-div > tei-div > tei-head {
     font-size: 22px;
   }
 }
 
 h4,
-tei-div > tei-div > tei-div > tei-head,
-section > section > db-title {
+tei-div > tei-div > tei-div > tei-head {
   font-size: 20px;
 }
 @media screen and (max-width: 800px) {
   h4,
-tei-div > tei-div > tei-div > tei-head,
-section > section > db-title {
+tei-div > tei-div > tei-div > tei-head {
     font-size: 18px;
   }
 }
@@ -391,11 +370,10 @@ tei-title[level=m] {
   font-style: italic;
 }
 
-tei-head, db-title, book, info, author, glossentry, biblioentry {
+tei-head {
   display: block;
 }
 
-/*db|*/
 img {
   max-width: 100%;
   vertical-align: middle;
@@ -433,14 +411,10 @@ figure > tei-head {
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
 }
 
-p, tei-p, para {
+p, tei-p {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-}
-
-span.footnote para {
-  display: inline;
 }
 
 *[rendition~="#center"] tei-p {
@@ -471,15 +445,17 @@ a[missing=true]:not([empty=true]) {
   color: red;
 }
 
-.footnote-link {
+a.footnote-link, a.footnote-backlink {
   color: red;
+}
+
+.footnote-link {
   vertical-align: super;
   font-size: smaller;
   line-height: 0;
 }
 
 a.footnote-backlink {
-  color: red;
   padding-right: 0.25em;
 }
 
@@ -567,12 +543,12 @@ table[rendition=borderless] tr.row td.cell {
   border: none;
 }
 
-ul, ol, list, listBibl, simplelist, itemizedlist {
+ul, ol, list, listBibl {
   display: block;
 }
 
 /*tei|*/
-item, listBibl > bibl, listitem, member {
+item, listBibl > bibl {
   display: list-item;
   margin-left: 1em;
 }
@@ -586,13 +562,8 @@ item > list, item > listBibl {
   margin-bottom: 0;
 }
 
-/*db|*/
-listitem > itemizedlist, listitem > simplelist {
-  margin-bottom: 0;
-}
-
 /*text*/ /*tei|*/
-list, list[type=simple], list[type=ordered], listBibl, simplelist {
+list, list[type=simple], list[type=ordered], listBibl {
   list-style-type: none;
 }
 
@@ -649,33 +620,6 @@ listBibl {
 /*tei|*/
 listBibl > bibl {
   margin-left: 0.5em;
-}
-
-/*db|*/
-biblioentry author {
-  display: inline;
-}
-
-/*db|*/
-biblioentry > db-title {
-  display: inline;
-  font-style: italic;
-}
-
-/*db|*/
-biblioentry[xreflabel]:before {
-  content: "[" attr(xreflabel) "]";
-}
-
-/*db|*/
-glossterm {
-  display: inline;
-  font-style: italic;
-}
-
-/*db|*/
-glossdef {
-  text-indent: 1em;
 }
 
 /* a */

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="VII">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="VII">
   <title xmlns="http://www.tei-c.org/ns/1.0">Преображенский приказ, Тайная канцелярия и <orgName ref="Тайная_экспедиция"
   >Тайная экспедиция</orgName>; коллекция Государственного архива Российской империи</title>
   <by selector="inventory">
-    <store file="VII/inventory/2.xml"/>
+    <xi:include href="VII/inventory/2.xml"/>
   </by>
 </store>

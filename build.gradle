@@ -36,7 +36,7 @@ tasks.withType(ScalaCompile).configureEach {
 
 description = '19 Kislev Archive'
 
-final String opentorahVersion  = '0.10.5'
+final String opentorahVersion  = '0.10.8'
 
 dependencies {
   implementation 'org.scala-lang:scala3-library_3:3.2.2'

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="1297">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="1297">
   <title xmlns="http://www.tei-c.org/ns/1.0">Канцелярия генерал-губернатора витебского, могилевского и смоленского,
   город Витебск Витебского уезда Витебской губернии</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://fk.archives.gov.by/fond/115329/">Вебсайт</ref>
   </abstract>
   <by selector="inventory">
-    <store file="1297/inventory/1.xml"/>
+    <xi:include href="1297/inventory/1.xml"/>
   </by>
 </store>

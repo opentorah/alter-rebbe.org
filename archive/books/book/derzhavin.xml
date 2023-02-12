@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:xi="http://www.w3.org/2001/XInclude">
   <name n="derzhavin" lang="en"/>
   <name n="Державин" lang="ru"/>
   <title xmlns="http://www.tei-c.org/ns/1.0">Сочиненія <persName ref="Державин">Державина</persName> съ объяснительными
   примѣчаніями Я. Грота. Издание Императорской академіи наукъ</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"/>
   <by selector="volume">
-    <store file="derzhavin/volume/6.xml"/>
-    <store file="derzhavin/volume/7.xml"/>
+    <xi:include href="derzhavin/volume/6.xml"/>
+    <xi:include href="derzhavin/volume/7.xml"/>
   </by>
 </store>

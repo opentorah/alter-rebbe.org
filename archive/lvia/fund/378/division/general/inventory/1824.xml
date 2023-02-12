@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="1824">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="1824">
   <title xmlns="http://www.tei-c.org/ns/1.0"/>
   <body xmlns="http://www.tei-c.org/ns/1.0"><p>
     <p>Страницы из описи:</p>
@@ -37,6 +37,6 @@
     </figure>
   </p></body>
   <by selector="case">
-    <store file="1824/case/29.xml"/>
+    <xi:include href="1824/case/29.xml"/>
   </by>
 </store>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:xi="http://www.w3.org/2001/XInclude">
   <name n="общий" lang="ru"/>
   <name n="general" lang="en"/>
   <name n="bendrasis" lang="lt"/>
@@ -9,9 +9,9 @@
     <l>bendrasis skyrius - BS</l>
   </body>
   <by selector="inventory">
-    <store file="general/inventory/1799.xml"/>
-    <store file="general/inventory/1800.xml"/>
-    <store file="general/inventory/1824.xml"/>
-    <store file="general/inventory/1868.xml"/>
+    <xi:include href="general/inventory/1799.xml"/>
+    <xi:include href="general/inventory/1800.xml"/>
+    <xi:include href="general/inventory/1824.xml"/>
+    <xi:include href="general/inventory/1868.xml"/>
   </by>
 </store>

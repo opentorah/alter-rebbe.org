@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="ГАРФ"/>
   <name lang="en" n="garf"/>
-  <title xmlns="http://www.tei-c.org/ns/1.0">Государственный архив российской федерации</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0"><l><ref target="http://statearchive.ru/383">Вебсайт</ref></l></abstract>
+  <tei:title>Государственный архив российской федерации</tei:title>
+  <tei:abstract><l><ref target="http://statearchive.ru/383">Вебсайт</ref></l></tei:abstract>
   <by selector="fund">
-    <store file="garf/fund/109.xml"/>
+    <xi:include href="garf/fund/109.xml"/>
   </by>
 </store>

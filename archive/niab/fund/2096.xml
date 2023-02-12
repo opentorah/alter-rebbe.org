@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="2096">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="2096">
   <title xmlns="http://www.tei-c.org/ns/1.0">Оршанская городская дума, город Орша Оршанского уезда Могилевского
   наместничества, с 12.12.1796 - Белорусской губернии, с 27.02.1802 - Могилевской губернии</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://fk.archives.gov.by/fond/98723/">Вебсайт</ref>
   </abstract>
   <by selector="inventory">
-    <store file="2096/inventory/1.xml"/>
+    <xi:include href="2096/inventory/1.xml"/>
   </by>
 </store>

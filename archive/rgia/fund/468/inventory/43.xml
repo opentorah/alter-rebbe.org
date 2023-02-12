@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store n="43">
+<store xmlns:xi="http://www.w3.org/2001/XInclude" n="43">
   <title xmlns="http://www.tei-c.org/ns/1.0">1713-1918 гг.</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0">Исполнительное, Камеральное, Хозяйственное, Горное, Административное и
   Счетное отделения - материалы из россыпи - см. описи соответствующих структурных частей</abstract>
@@ -14,6 +14,6 @@
     </figure>
   </body>
   <by selector="case">
-    <store file="43/case/529.xml"/>
+    <xi:include href="43/case/529.xml"/>
   </by>
 </store>

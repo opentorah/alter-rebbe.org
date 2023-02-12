@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<store>
+<store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="РНБ"/>
   <name lang="en" n="rnb"/>
-  <title xmlns="http://www.tei-c.org/ns/1.0">Российская национальная библиотека (Санкт-Петербург)</title>
-  <abstract xmlns="http://www.tei-c.org/ns/1.0"><ref target="http://nlr.ru/">Вебсайт</ref></abstract>
+  <tei:title>Российская национальная библиотека (Санкт-Петербург)</tei:title>
+  <tei:abstract><ref target="http://nlr.ru/">Вебсайт</ref></tei:abstract>
   <by selector="category">
-    <store file="rnb/category/ro.xml"/>
+    <xi:include href="rnb/category/ro.xml"/>
   </by>
 </store>
