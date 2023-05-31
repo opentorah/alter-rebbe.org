@@ -36,10 +36,10 @@ tasks.withType(ScalaCompile).configureEach {
 
 description = '19 Kislev Archive'
 
-final String opentorahVersion  = '0.10.8'
+final String opentorahVersion  = '0.10.10'
 
 dependencies {
-  implementation 'org.scala-lang:scala3-library_3:3.2.2'
+  implementation 'org.scala-lang:scala3-library_3:3.3.0'
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
   implementation "org.opentorah:opentorah-util:$opentorahVersion" // for the Cutter
 }
