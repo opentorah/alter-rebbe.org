@@ -2,7 +2,7 @@ plugins {
   id 'idea'
   id 'com.github.ben-manes.versions' version '0.44.0'
   id 'scala'
-  id 'io.miret.etienne.sass' version '1.5.0'
+  id 'io.miret.etienne.sass' version '1.5.1'
 }
 
 idea {
@@ -19,27 +19,20 @@ project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
 tasks.withType(ScalaCompile).configureEach {
   scalaCompileOptions.with {
-//  targetCompatibility = '1.8'
     additionalParameters = [
       '-new-syntax',
       '-feature',
-      '-language:strictEquality',
-      //'-source:future',
-      //'-deprecation',
-      //'-unchecked',
-      //'-Xsemanticdb',
-      //'-Ysafe-init',
-      //'-explain',
+      '-language:strictEquality'
     ]
   }
 }
 
 description = '19 Kislev Archive'
 
-final String opentorahVersion  = '0.10.11'
+final String opentorahVersion  = '0.10.13'
 
 dependencies {
-  implementation 'org.scala-lang:scala3-library_3:3.3.1'
+  implementation 'org.scala-lang:scala3-library_3:3.6.2'
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
   implementation "org.opentorah:opentorah-util:$opentorahVersion" // for the Cutter
 }
