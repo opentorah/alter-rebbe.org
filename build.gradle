@@ -1,8 +1,8 @@
 plugins {
   id 'idea'
-  id 'com.github.ben-manes.versions' version '0.44.0'
+  id 'com.github.ben-manes.versions' version '0.53.0'
   id 'scala'
-  id 'io.miret.etienne.sass' version '1.5.1'
+  id 'io.miret.etienne.sass' version '1.6.0'
 }
 
 idea {
@@ -14,6 +14,10 @@ idea {
   }
 }
 
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+scala.scalaVersion = '3.7.4'
+
 // There is no Java in the project :)
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
@@ -22,19 +26,32 @@ tasks.withType(ScalaCompile).configureEach {
     additionalParameters = [
       '-new-syntax',
       '-feature',
-      '-language:strictEquality'
+      '-language:strictEquality',
+      '-source:future'
     ]
   }
 }
 
 description = '19 Kislev Archive'
 
-final String opentorahVersion  = '0.10.13'
+final String opentorahVersion  = '0.10.16'
 
 dependencies {
-  implementation 'org.scala-lang:scala3-library_3:3.6.2'
   implementation "org.opentorah:opentorah-collector:$opentorahVersion"
   implementation "org.opentorah:opentorah-util:$opentorahVersion" // for the Cutter
+}
+
+def isNonStable = { String version ->
+  boolean stableKeyword = ['RELEASE', 'FINAL', 'GA'].any { it -> version.toUpperCase().contains(it) }
+  String regex = /^[0-9,.v-]+(-r)?$/
+  return !stableKeyword && !(version ==~ regex)
+}
+
+// dependencyUpdates.revision = 'release'
+tasks.named("dependencyUpdates").configure {
+  rejectVersionIf {
+    isNonStable(it.candidate.version)
+  }
 }
 
 compileSass {
