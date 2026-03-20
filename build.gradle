@@ -16,7 +16,7 @@ idea {
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
-scala.scalaVersion = '3.7.4'
+scala.scalaVersion = '3.8.2'
 
 // There is no Java in the project :)
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
