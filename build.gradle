@@ -1,6 +1,6 @@
 plugins {
   id 'idea'
-  id 'com.github.ben-manes.versions' version '0.53.0'
+  id 'com.github.ben-manes.versions' version '0.54.0'
   id 'scala'
   id 'io.miret.etienne.sass' version '1.6.0'
 }
@@ -16,7 +16,7 @@ idea {
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
-scala.scalaVersion = '3.8.2'
+scala.scalaVersion = '3.8.4'
 
 // There is no Java in the project :)
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
