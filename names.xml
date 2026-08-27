@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entityLists xmlns="http://www.tei-c.org/ns/1.0" selector="names">
+    <title>Имена</title>
+    <listPerson n="jews" role="jew"><title>Жиды (они же Евреи)</title></listPerson>
+    <listPerson n="officials" role="official"><title>Начальство</title></listPerson>
+    <listPerson n="unknown"><title>Неизвестно кто</title></listPerson>
+    <listPlace n="places"><title>Места</title></listPlace>
+    <listOrg n="organizations"><title>Организации</title></listOrg>
+    <listPerson n="transcribers" role="transcriber"><title>Расшифровщики</title></listPerson>
+</entityLists>
