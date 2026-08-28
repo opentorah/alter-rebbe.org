@@ -54,6 +54,7 @@
     <xi:include href="archive/rnb.xml"/>
     <xi:include href="archive/cahjp.xml"/>
   </by>
+  <!-- Publisher reads `alias` on the collection/store XML. Keep these for the live collector until cutover. -->
   <alias n="derzhavin6" to="archive/books/book/derzhavin/volume/6"/>
   <alias n="derzhavin7" to="archive/books/book/derzhavin/volume/7"/>
   <alias n="dubnov" to="archive/books/book/dubnov"/>
