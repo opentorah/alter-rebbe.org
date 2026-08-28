@@ -40,6 +40,16 @@ jobs:
         with:
           path: ${{ steps.site.outputs.site-path }}
 
+      - name: Deploy collection-alias Worker
+        uses: dubinsky/site-publisher/.github/actions/deploy-alias-worker@master
+        with:
+          site-path: ${{ steps.site.outputs.site-path }}
+          hostname: ng.alter-rebbe.org
+          zone-name: alter-rebbe.org
+          account-id: d69a5ee09b435e24288432ec02f45629
+          api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          worker-name: ng-alter-rebbe-aliases
+
   # Deployment job
   deploy:
     environment:
