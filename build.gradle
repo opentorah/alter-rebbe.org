@@ -2,7 +2,6 @@ plugins {
   id 'idea'
   id 'com.github.ben-manes.versions' version '0.54.0'
   id 'scala'
-  id 'io.miret.etienne.sass' version '1.6.0'
 }
 
 idea {
@@ -14,9 +13,9 @@ idea {
   }
 }
 
-java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+java.toolchain.languageVersion = JavaLanguageVersion.of(25)
 
-scala.scalaVersion = '3.8.4'
+scala.scalaVersion = '3.9.0'
 
 // There is no Java in the project :)
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
@@ -34,13 +33,6 @@ tasks.withType(ScalaCompile).configureEach {
 
 description = '19 Kislev Archive'
 
-final String opentorahVersion  = '0.10.16'
-
-dependencies {
-  implementation "org.opentorah:opentorah-collector:$opentorahVersion"
-  implementation "org.opentorah:opentorah-util:$opentorahVersion" // for the Cutter
-}
-
 def isNonStable = { String version ->
   boolean stableKeyword = ['RELEASE', 'FINAL', 'GA'].any { it -> version.toUpperCase().contains(it) }
   String regex = /^[0-9,.v-]+(-r)?$/
@@ -52,70 +44,4 @@ tasks.named("dependencyUpdates").configure {
   rejectVersionIf {
     isNonStable(it.candidate.version)
   }
-}
-
-compileSass {
-  group = 'publishing'
-
-  version = '1.34.0'
-
-  sourceDir = project.file ("$rootDir/sass")
-  outputDir = project.file ("$rootDir/css")
-}
-
-tasks.register('buildSite', JavaExec) {
-  group = 'publishing'
-  dependsOn(compileSass)
-
-  mainClass.set('org.opentorah.collector.Collector')
-  args = ['buildSite', rootDir]
-  classpath = sourceSets.main.runtimeClasspath
-}
-
-tasks.register('buildAndPrettyPrintSite', JavaExec) {
-  group = 'publishing'
-  dependsOn(compileSass)
-
-  mainClass.set('org.opentorah.collector.Collector')
-  args = ['buildAndPrettyPrintSite', rootDir]
-  classpath = sourceSets.main.runtimeClasspath
-}
-
-final String gcloudServiceAccountKey =
-  findProperty('cloud-run-deploy_alter-rebbe-2') ?:
-  System.getenv('gcloudServiceAccountKey') ?:
-  "nokey"
-
-tasks.register('uploadSite', JavaExec) {
-  group = 'publishing'
-  dependsOn(buildSite)
-
-  mainClass.set('org.opentorah.collector.Collector')
-  args = ['uploadSite', rootDir, gcloudServiceAccountKey]
-  classpath = sourceSets.main.runtimeClasspath
-}
-
-tasks.register('uploadSiteDryRun', JavaExec) {
-  group = 'publishing'
-  dependsOn(buildSite)
-
-  mainClass.set('org.opentorah.collector.Collector')
-  args = ['uploadSiteDryRun', rootDir, gcloudServiceAccountKey]
-  classpath = sourceSets.main.runtimeClasspath
-}
-
-tasks.register('serveSite', JavaExec) {
-  group = 'publishing'
-
-  mainClass.set('org.opentorah.collector.Collector')
-  args = ['serveSite', "file://$rootDir/"]
-  classpath = sourceSets.main.runtimeClasspath
-}
-
-tasks.register('serveRemoteSite', JavaExec) {
-  group = 'publishing'
-
-  mainClass.set('org.opentorah.collector.Collector')
-  args = ['serveRemoteSite']
-  classpath = sourceSets.main.runtimeClasspath
 }

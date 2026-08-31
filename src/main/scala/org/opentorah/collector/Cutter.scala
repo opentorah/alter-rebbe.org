@@ -1,11 +1,16 @@
 package org.opentorah.collector
 
 import java.io.File
-import org.opentorah.util.Files
 import scala.sys.process.*
 
 // TODO move into the alter-rebbe repository:
 object Cutter:
+
+  def nameAndExtension(fullName: String): (String, Option[String]) = split(fullName, '.')
+
+  def split(what: String, on: Char): (String, Option[String]) = what.lastIndexOf(on) match
+    case -1 => (what, None)
+    case index => (what.substring(0, index), Some(what.substring(index + 1)))
 
   val uncutDirectory: File = new File("/home/dub/OpenTorah/lvia1799/uncut")
 
@@ -43,7 +48,7 @@ object Cutter:
     val directory = new File("/home/dub/OpenTorah/BUCKETS/facsimiles.alter-rebbe.org/archive/" +
       "niab/fund/1297/inventory/1/case/611/new")
     for file <- directory.listFiles().sorted do
-      val (name, extension) = Files.nameAndExtension(file.getName)
+      val (name, extension) = nameAndExtension(file.getName)
       if extension.contains("jpg") then
         val newName = if name.endsWith("b") then name.substring(0, name.length - 1) + "-2" else name + "-1"
         val newFile = new File(directory, newName + ".jpg")
