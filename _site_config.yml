@@ -1,4 +1,5 @@
 title: "Документы"
+# TODO title: Архив 19 кислева
 description: "documents related to early Chabad history"
 url: "ng.alter-rebbe.org"
 author: "Leonid Dubinsky"
@@ -16,3 +17,33 @@ header-pages:
 social:
   github:  opentorah
   twitter: theopentorah
+
+# TODO
+#  <footer>
+#  documents related to early Chabad history<br/>
+#  🄯 <a href="http://www.opentorah.org/" target="collectionViewer">the Open Torah Project</a>
+#  <a href="http://creativecommons.org/licenses/by/4.0/" target="collectionViewer">CC BY 4.0</a>
+#  </footer>
+
+#     <license
+#      name="Creative Commons Attribution 4.0 International License"
+#      url="http://creativecommons.org/licenses/by/4.0/"
+#    />
+
+#    <page url="/names"/>
+#    <page url="/collections"/>
+#    <page url="/note/help"/>
+#    <page url="/note/about"/>
+
+#  <by selector="archive">
+#    <xi:include href="archive/books.xml"/>
+#<!--   <xi:include href"archive/cgia.xml"/>-->
+#    <xi:include href="archive/garf.xml"/>
+#    <xi:include href="archive/lna.xml"/>
+#    <xi:include href="archive/lvia.xml"/>
+#    <xi:include href="archive/niab.xml"/>
+#    <xi:include href="archive/rgada.xml"/>
+#    <xi:include href="archive/rgia.xml"/>
+#    <xi:include href="archive/rnb.xml"/>
+#    <xi:include href="archive/cahjp.xml"/>
+#  </by>
