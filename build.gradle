@@ -66,31 +66,12 @@ def siteArgs(boolean serve) {
   args
 }
 
-def siteSourceTree = fileTree(layout.projectDirectory) {
-  exclude '_site'
-  exclude '_site/**'
-  exclude 'build'
-  exclude 'build/**'
-  exclude '.gradle'
-  exclude '.gradle/**'
-  exclude '.git'
-  exclude '.git/**'
-  exclude '.idea'
-  exclude '.idea/**'
-  exclude 'out'
-  exclude 'out/**'
-  exclude 'src'
-  exclude 'src/**'
-}
-
 tasks.register('generateSite', JavaExec) {
   group = 'documentation'
   description = 'Generate the static site into _site'
   classpath = configurations.sitePublisher
   mainClass = 'org.podval.tools.publish.site.Site'
   args = siteArgs(false)
-  inputs.files(siteSourceTree)
-  outputs.dir(layout.projectDirectory.dir('_site'))
 }
 
 tasks.register('serveSite', JavaExec) {
