@@ -1,8 +1,10 @@
 plugins {
   id 'idea'
-  id 'com.github.ben-manes.versions' version '0.61.0'
+  id 'io.github.ben-manes.versions' version '0.61.0'
   id 'scala'
 }
+
+description = '19 Kislev Archive'
 
 idea {
   module {
@@ -15,7 +17,7 @@ idea {
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(25)
 
-scala.scalaVersion = '3.9.0'
+scala.scalaVersion = providers.gradleProperty('scalaVersion').get()
 
 // There is no Java in the project :)
 project.gradle.startParameter.excludedTaskNames.add('compileJava')
@@ -23,6 +25,8 @@ project.gradle.startParameter.excludedTaskNames.add('compileJava')
 tasks.withType(ScalaCompile).configureEach {
   scalaCompileOptions.with {
     additionalParameters = [
+      // Scala 3.9 requires JDK 17+; emit 25 to match the Java toolchain.
+      '-release:25',
       '-new-syntax',
       '-feature',
       '-language:strictEquality',
@@ -31,7 +35,71 @@ tasks.withType(ScalaCompile).configureEach {
   }
 }
 
-description = '19 Kislev Archive'
+configurations {
+  sitePublisher
+}
+
+dependencies {
+  sitePublisher "org.podval.tools:org.podval.tools.publisher:${providers.gradleProperty('sitePublisherVersion').get()}"
+}
+
+// JDK 22+ compatibility flags for transitive / ecosystem native & Unsafe use:
+// - AsciidoctorJ → JRuby → jffi calls System.load (restricted native access)
+// - scala.runtime.LazyVals$ (old lazy-val bytecode on the classpath) uses sun.misc.Unsafe
+ext.jdkCompatJvmArgs = [
+  '--enable-native-access=ALL-UNNAMED',
+  '--sun-misc-unsafe-memory-access=allow',
+]
+
+tasks.withType(JavaExec).configureEach {
+  jvmArgs jdkCompatJvmArgs
+  environment 'PLAYWRIGHT_SKIP_VALIDATE_HOST_REQUIREMENTS', '1'
+  environment 'PLAYWRIGHT_BROWSERS_PATH', "${gradle.gradleUserHomeDir}/ms-playwright"
+}
+
+def siteArgs(boolean serve) {
+  def args = [
+    layout.projectDirectory.asFile.absolutePath,
+    '--treat-errors-as-warnings',
+  ]
+  if (serve) args.add('--serve')
+  args
+}
+
+def siteSourceTree = fileTree(layout.projectDirectory) {
+  exclude '_site'
+  exclude '_site/**'
+  exclude 'build'
+  exclude 'build/**'
+  exclude '.gradle'
+  exclude '.gradle/**'
+  exclude '.git'
+  exclude '.git/**'
+  exclude '.idea'
+  exclude '.idea/**'
+  exclude 'out'
+  exclude 'out/**'
+  exclude 'src'
+  exclude 'src/**'
+}
+
+tasks.register('generateSite', JavaExec) {
+  group = 'documentation'
+  description = 'Generate the static site into _site'
+  classpath = configurations.sitePublisher
+  mainClass = 'org.podval.tools.publish.site.Site'
+  args = siteArgs(false)
+  inputs.files(siteSourceTree)
+  outputs.dir(layout.projectDirectory.dir('_site'))
+}
+
+tasks.register('serveSite', JavaExec) {
+  group = 'documentation'
+  description = 'Generate the static site and serve it locally'
+  classpath = configurations.sitePublisher
+  mainClass = 'org.podval.tools.publish.site.Site'
+  args = siteArgs(true)
+}
 
 def isNonStable = { String version ->
   boolean stableKeyword = ['RELEASE', 'FINAL', 'GA'].any { it -> version.toUpperCase().contains(it) }
@@ -39,9 +107,14 @@ def isNonStable = { String version ->
   return !stableKeyword && !(version ==~ regex)
 }
 
-// dependencyUpdates.revision = 'release'
+// Maven has zio-blocks-schema_3:0.017 (a padded 0.0.17), which both Maven and Gradle
+// rank above 0.0.x because the second component is 17.
+def hasPaddedNumericComponent = { String version ->
+  version.tokenize('.-').any { it.length() > 1 && it ==~ /0\d+/ }
+}
+
 tasks.named("dependencyUpdates").configure {
   rejectVersionIf {
-    isNonStable(it.candidate.version)
+    isNonStable(it.candidate.version) || hasPaddedNumericComponent(it.candidate.version)
   }
 }
