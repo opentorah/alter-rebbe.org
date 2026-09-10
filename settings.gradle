@@ -1,19 +1,22 @@
-pluginManagement {
-  repositories {
-    mavenCentral()
-    gradlePluginPortal()
-  }
+plugins {
+  // Auto-provision JDKs for the Java toolchain (e.g. 25 when only 21 is installed).
+  id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
 }
+
+rootProject.name = 'alter-rebbe'
 
 dependencyResolutionManagement {
   repositories {
     mavenCentral()
-
-    maven {
-      name = 'mavenCentralSnapshots'
-      url = 'https://oss.sonatype.org/content/repositories/snapshots'
-    }
   }
 }
 
-rootProject.name = 'alter-rebbe'
+// Composite: substitute org.podval.tools:org.podval.tools.publisher from a local
+// checkout. Override with -PsitePublisherDir=. If the directory is missing,
+// Gradle resolves the artifact from Maven Central (CI).
+final File publisherDir = file(
+  providers.gradleProperty('sitePublisherDir').getOrElse('../../Podval/site-publisher')
+)
+if (publisherDir.isDirectory() && new File(publisherDir, 'settings.gradle').isFile()) {
+  includeBuild(publisherDir)
+}
