@@ -25,7 +25,7 @@
 просто интересующихся.
 Для желающих помочь имеется <a href="/note/contributing.html" target="collectionViewer">инструкция</a>.    
 
-Новости сайта публикуются в [блоге OpenTorah.org](http://www.opentorah.org/tags/#alter-rebbe-org).
+Новости сайта публикуются в [блоге](/posts.html).
 
 ## Что мы имеем
 
