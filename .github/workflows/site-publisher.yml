@@ -48,7 +48,7 @@ jobs:
         uses: dubinsky/site-publisher/.github/actions/deploy-alias-worker@master
         with:
           site-path: ${{ github.workspace }}/_site
-          hostname: ng.alter-rebbe.org
+          hostname: www.alter-rebbe.org
           zone-name: alter-rebbe.org
           account-id: d69a5ee09b435e24288432ec02f45629
           api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
