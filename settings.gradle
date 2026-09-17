@@ -1,19 +1,31 @@
+pluginManagement {
+  repositories {
+    mavenCentral()
+    gradlePluginPortal()
+  }
+  // String path: a File would call Settings.includeBuild (not a plugin build).
+  final String conventionsDir =
+    providers.gradleProperty('podvalGradleDir').getOrElse('../../Podval/podval-gradle')
+  if (file(conventionsDir).isDirectory() && file("${conventionsDir}/settings.gradle").isFile()) {
+    includeBuild conventionsDir
+  }
+  // Composite: plugin id. Library substitution is the settings-body includeBuild below.
+  // Override with -PsitePublisherDir=. Missing directory (CI): resolve both from Maven Central.
+  final String publisherDir =
+    providers.gradleProperty('sitePublisherDir').getOrElse('../../Podval/site-publisher')
+  if (file(publisherDir).isDirectory() && file("${publisherDir}/settings.gradle").isFile()) {
+    includeBuild publisherDir
+  }
+}
+
 plugins {
-  // Auto-provision JDKs for the Java toolchain (e.g. 25 when only 21 is installed).
-  id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+  id 'org.podval.conventions.settings' version '0.1.0'
 }
 
 rootProject.name = 'alter-rebbe'
 
-dependencyResolutionManagement {
-  repositories {
-    mavenCentral()
-  }
-}
-
-// Composite: substitute org.podval.tools:org.podval.tools.publisher from a local
-// checkout. Override with -PsitePublisherDir=. If the directory is missing,
-// Gradle resolves the artifact from Maven Central (CI).
+// Composite: substitute org.podval.tools:org.podval.tools.publisher (library child).
+// Same directory as pluginManagement includeBuild; required now that the library is not the root.
 final File publisherDir = file(
   providers.gradleProperty('sitePublisherDir').getOrElse('../../Podval/site-publisher')
 )
