@@ -2,7 +2,7 @@ plugins {
   id 'idea'
   id 'scala'
   id 'org.podval.conventions'
-  id 'org.podval.tools.site-publisher' version '0.2.0'
+  id 'org.podval.tools.site-publisher' version '0.3.0'
 }
 
 description = '19 Kislev Archive'
