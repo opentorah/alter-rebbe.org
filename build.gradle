@@ -5,6 +5,9 @@ plugins {
   id 'org.podval.tools.site-publisher' version '0.4.0'
 }
 
+// Gradle 9.8.1 still defaults Zinc to 1.12.0.
+scala.zincVersion = '1.12.1'
+
 description = '19 Kislev Archive'
 
 idea {
@@ -21,4 +24,5 @@ project.gradle.startParameter.excludedTaskNames.add('compileJava')
 
 site {
   treatErrorsAsWarnings = true
+  production = true
 }
