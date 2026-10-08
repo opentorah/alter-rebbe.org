@@ -12,15 +12,19 @@
         Ответ свидетеля на запрос лепельского декана об обстоятельствах крещения <persName ref="Моше_Шнеерсон">Моше
         Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="inkStrike" medium="ink">зачёркнуто чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="095-1"/>
     <fw type="pageNum" place="right"><emph rend="underline">20</emph><note place="end">номер записан чернилами и
     подчеркнут карандашом</note></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">7<hi rend="superscript">е</hi></del><note place="end">номер
-    записан и зачеркнут чернилами</note></fw>
-    <fw type="pageNum" place="right">95<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">7<hi rend="superscript">е</hi></del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">95</fw>
     <fw type="note">П. <date when="1820-10-29">1820. года октября 29<hi rend="superscript">го</hi></date>.</fw>
     <salute>
       <l>Лепельскому декану и святой богосло-</l>

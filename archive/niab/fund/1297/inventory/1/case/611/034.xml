@@ -13,6 +13,9 @@
       </p></abstract>
       <correspDesc><correspAction><persName role="addressee"><persName>Симхе Хананье Литмановичу</persName></persName>
       </correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -61,7 +64,7 @@
       <l>ленїя, а здѣсь приказано будетъ съ яснымъ</l>
       <l>выраженіемъ для исполненія Вашего же-</l>
       <pb n="034-2"/>
-      <fw type="pageNum" place="right">34 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">34 об</fw>
       <l>ланія къ благу. Сіе же да будетъ міръ</l>
       <l>и истинная любовь. Отъ меня родствен-</l>
       <l>ника вашего желающаго вамъ всегда ду-</l>
@@ -140,7 +143,7 @@
       <l>вышерѣченный <persName>Аронъ</persName>.</l>
     </p>
     <pb n="035-2"/>
-    <fw type="pageNum" place="right">35 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">35 об</fw>
     <p>
       <l>Надпись на оригинальномъ еврейскомъ</l>
       <l>письмѣ слѣдующая:</l>

@@ -13,6 +13,9 @@
         начисленных денег за прогоны во время следствия по делу <persName ref="мителер_ребе">Дов-Бера
         Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -52,7 +55,7 @@
         <fw type="docNum">№ 4968</fw>
       </fw>
       <pb n="113-2"/>
-      <fw type="pageNum" place="right">113 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">113 об</fw>
       <l>время въ доимкѣ записать по по-перво составляемымъ</l>
       <l>для Департамента вѣдомостямъ, и о скорѣйшемъ</l>
       <l>взысканїи употребить свою заботу._ А по справкѣ ока-</l>
@@ -110,7 +113,7 @@
       <l>домостямъ за јюнь мѣсяцъ 1825<hi rend="superscript">о</hi> года заключаютъ</l>
       <l>въ той же статье въ суммѣ оставшейся <hi rend="superscript">къ</hi> јюлю</l>
       <pb n="114-2"/>
-      <fw type="pageNum" place="right">114 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">114 об</fw>
       <l>мѣсяцу изъ доимки 3931 ру. 84<hi rend="superscript">ко</hi> о учиненіижъ распоряже</l>
       <l>нія о взысканїи оныхъ денегъ съ виновныхъ и объ отсылкѣ</l>
       <l>въ казначейство представляла Вашему Сїятельству</l>

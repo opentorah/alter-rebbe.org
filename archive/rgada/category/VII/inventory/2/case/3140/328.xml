@@ -13,15 +13,18 @@
       <creation><date when="1800-11-24">ноября 24 дня 1800 года</date></creation>
       <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="328-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">331</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">511</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">328</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">331</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">511</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">328</fw>
     <head><head place="left"><l>Объ освобожденіи <persName ref="alter-rebbe">Боруховича</persName><lb/>
          и съ переводчикомъ</l></head></head>
     <fw type="note" place="left margin">

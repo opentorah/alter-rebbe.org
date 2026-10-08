@@ -14,11 +14,15 @@
         <p>Документ <ref target="/dubnov/269">№ 19</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-12">декабрь 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="363-1"/>
-    <fw type="pageNum" place="right">363</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">363</fw>
     <head>
       <l>Регистр <hi rend="superscript">писмамъ</hi> по номер</l>
       <l><unclear>и соде</unclear></l>
@@ -73,7 +77,7 @@
       <l>касательно еврейскаго обряда</l>
     </p>
     <pb n="363-2"/>
-    <fw type="pageNum">363 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">363 об.</fw>
     <p>
       <l>№ 13. Краткія сочиненія объ обрядахъ еврейскаго закона</l>
       <l>выбранныя изъ древныхъ еврейскихъ разныхъ книгъ</l>
@@ -88,9 +92,9 @@
     <p>
       <l>по сему рестѣр они писми <unclear>подъ №</unclear><note place="end">ч</note> 14<note place="end">по смыслу -
       "числом 14"</note>евре</l>
-      <gap reason="обрыв правого края листа">___</gap>
+      <gap reason="обрыв правого края листа"/>
       <l><persName ref="alter-rebbe">брухович</persName> принял и стем что если они испро</l>
-      <gap reason="обрыв правого края листа, вероятно, 'испрошены'">____</gap>
+      <gap reason="обрыв правого края листа, вероятно, 'испрошены'"/>
       <l>шини будут то приставит<note place="end">представить</note> должин –</l>
       <l>писол виленем<note place="end">возможно, "вильнер", житель или уроженец Вильны</note> <unclear>
       яко</unclear><note place="end">возможно, роспись поручителя, составившего расписку за <persName ref="alter-rebbe"

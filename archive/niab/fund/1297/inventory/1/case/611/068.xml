@@ -11,6 +11,9 @@
         >Дов-Бера Шнеерсона</persName> в суд при Бабиновицком магистрате
       </p></abstract>
       <creation><date when="1825-12-16">Декабря 16 дня 1825 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -81,7 +84,7 @@
       <l>Вашему Сіятельству донести. Опре-</l>
       <l>дѣлено: Во исполненїе предложенїя</l>
       <pb n="069-2"/>
-      <fw type="pageNum" place="right">69 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">69 об</fw>
       <l>Вашего Сіятельства съ копїею онаго</l>
       <l>и съ приложенїемъ произведенного</l>
       <l>по предписанію Вашего Сіятельства</l>

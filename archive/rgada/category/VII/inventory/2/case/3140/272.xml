@@ -14,6 +14,11 @@
       <creation><date when="1800-11-02">ноябрь 2-го дня 1800</date></creation>
       <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -49,7 +54,7 @@
       <l>Его Высоко пр<hi rend="superscript">ву</hi> <persName ref="Кутузов">Коленищеву-Кутузову.</persName></l>
     </closer>
     <pb n="272-2"/>
-    <fw type="pageNum" place="left">272 об.</fw><note place="end">номер обозначен карандашом</note>
+    <fw type="pageNum" place="left" hand="#pencilHand">272 об.</fw>
     <p>
       <l>P:S: По случаю состоявшагося <date when="1800-11-01">1<hi rend="superscript">го</hi>/ сего м-ца</date>
       всемилости-</l>
@@ -74,9 +79,8 @@
       <l>Оренбургскому Бахметеву_____________891.</l>
     </p>
     <pb n="273-1"/>
-    <fw type="pageNum" place="right">273</fw><note place="end">номер записан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">217</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">273</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">217</del></fw>
     <l>Смоленскому Князю Гику под № <del rend="overstrike">892</del>.</l><note place="end">номер записан карандашом -
     вероятно, по ошибке, т.к. был принят за номер листа</note>
     <l>Кiевскому Феньшу_____________893.</l>

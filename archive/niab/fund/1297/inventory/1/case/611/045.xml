@@ -11,6 +11,9 @@
         ref="мителер_ребе">Дов-Беру Шнеерсону</persName>
       </p></abstract>
       <creation><date when="1825-10-28">1825 года октября 28 дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -47,7 +50,7 @@
       <l>При допросѣ <date when="1825-10-28">1825 года октября 28<lb/>
        дня</date> оный <persName>Ааронъ</persName> показалъ: 1<hi rend="superscript">е</hi>) что</l>
       <pb n="045-2"/>
-      <fw type="pageNum" place="right">45 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">45 об</fw>
       <l>нѣкоторыхъ особъ, коихъ имена</l>
       <l>написаны въ вышеупомянутомъ</l>
       <l>росписаніи сборовъ съ евреевъ въ</l>

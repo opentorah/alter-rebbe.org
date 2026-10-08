@@ -11,6 +11,9 @@
         >Дов-Бера Шнеерсона</persName> по доносу <persName ref="Кисин_Симха">Симхи Кисина</persName>
       </p></abstract>
       <creation><date when="1825-10-02">2 октября 1825</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -59,7 +62,7 @@
     </p>
     <fw type="note" place="lower margin"><unclear><del rend="overstrike">10.</del></unclear></fw>
     <pb n="006-2"/>
-    <fw type="pageNum" place="right">6об<note place="end">номер вписан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">6об</fw>
     <p>
       <l>Изъ документа сего видно,</l>
       <l>что раввинъ <persName ref="мителер_ребе">Шнейеръ</persName> по смер</l>
@@ -201,7 +204,7 @@
       <l>рые имъ будутъ по<unclear>требны</unclear><note place="end">текст в конце строки поврежден и не
       читается</note></l>
       <pb n="008-2"/>
-      <fw type="pageNum" place="right">8 об<note place="end">номер вписан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">8 об</fw>
       <l>и объ оказавшемся съ представ</l>
       <l>леніемъ подлиннаго свѣденія</l>
       <l><del rend="overstrike">обо вс</del> мнѣ донести.</l>

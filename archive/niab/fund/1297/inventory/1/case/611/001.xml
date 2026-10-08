@@ -11,6 +11,9 @@
         >Дов-Бера Шнеерсона</persName>
       </p></abstract>
       <creation><date when="1824-05">маія дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -146,7 +149,7 @@
       <l>ее а мѣжду темъ повелѣть согласно положенію о ев</l>
       <l><note place="end">утрачена строка, следы которой видны</note></l>
       <pb n="002-2"/>
-      <fw type="pageNum" place="right">2<hi rend="superscript">й</hi><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">2<hi rend="superscript">й</hi>
       </fw>
       <l>статей чтобы школки ихъ не были въ округе школъ</l>
       <l>настоящихъ еврѣевъ а найпаче въ одной связе боль-</l>

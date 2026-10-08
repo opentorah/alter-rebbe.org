@@ -14,6 +14,11 @@
       <creation><date when="1800-09-10">10 сентября 1800</date></creation>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -21,9 +26,8 @@
     <fw type="docNum" place="left">№ 1294.</fw>
     <date when="1800-09-18">18 сентября 1800</date>
     <fw type="note" place="right"><emph rend="underline">тайное</emph></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">256</del></fw><note place="end">номер записан чернилами,
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">251</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">256</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">251</fw>
     <salute>
       <l>Ваше высокопревосходитѣлство</l>
       <l>Милостивой Государь</l>
@@ -97,9 +101,8 @@
     <l>ния выполнятъ Словомъ ето приказание</l>
     <l>исполняется какъ святова! Прошлаго году</l>
     <pb n="252-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">257</del></fw><note place="end">номер проставлен чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">252</fw><note place="end">номер проставлен карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">257</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">252</fw>
     <l>какъ возили ево въ <placeName ref="Петербург">питербургъ</placeName> то тчасъ со-</l>
     <l>брали сколко могли денегъ ему надарогу! И чрезъ</l>
     <l>мерно сокрушалися что ево лишилися дагоняли на</l>
@@ -136,7 +139,7 @@
     <l>иное что какъ толко обманъ молодымъ людямъ</l>
     <l>каторыхъ много атвелъ отъ отцовъ и разорилъ</l>
     <pb n="252-2"/>
-    <fw type="pageNum" place="left">252 об.</fw><note place="end">номер проставлен карандашом</note>
+    <fw type="pageNum" place="left" hand="#pencilHand">252 об.</fw>
     <l>чрезъ ихъ домы! чтобъ ползоватся интересо</l>
     <l>мъ отъ нихъ! Я какъ былъ въ <placeName ref="Лиозно">лозне</placeName> ходилъ къ <persName ref="alter-rebbe"
     >нему</persName></l>

@@ -11,15 +11,19 @@
         Запрос Могилевской духовной консистории (православной) в Могилевскую римско-католическую консисторию о
         необходимости подтверждения обстоятельств крещения <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="103-1"/>
     <fw type="docNum"># 1736.</fw>
     <fw type="note" place="right">Полу: <date when="1820-11-15">15. ноября. 1820 года</date></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">28</del><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note></fw>
-    <fw type="pageNum" place="right">103<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">28</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">103</fw>
     <fw type="note" place="left margin"><fw type="docNum">№ 2955<hi rend="superscript">й</hi></fw></fw>
     <salute>
       <l>Изъ Могилевской духовной консисторіи,</l>
@@ -68,9 +72,8 @@
       <l>католическую консисторію съ требованіемъ, по отысканїи</l>
       <l>подлинной метрики крещенія онаго <persName ref="Моше_Шнеерсон">Шнеера</persName> въ католиче-</l>
       <pb n="104-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">29</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
-      <fw type="pageNum" place="right">104<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">29</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">104</fw>
       <l>скую вѣру, и по свидѣтельствованіи оной, доставить</l>
       <l>выписку съ той метрики за надлежащею оной Консисто-</l>
       <l>рїи скрѣпою въ сію консисторію; и притомъ по выправкѣ</l>

@@ -13,6 +13,9 @@
         средства за прогоны в ходе следствия по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> – с
         указанием, что в дальнейшем оно рассматривалось <orgName ref="Сенат">Сенатом</orgName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -48,7 +51,7 @@
       <l>деніе: кто по рѣшенію оказался</l>
       <l>виновнымъ и съ кого слѣдуетъ</l>
       <pb n="101-2"/>
-      <fw place="right" type="pageNum">101 об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum" hand="#pencilHand">101 об</fw>
       <l>взыскать употребленныя адъютантомъ</l>
       <l>прогонныя деньги 119 руб. 52 коп. <placeName ref="Витебск">Витебскъ</placeName></l>
       <l><date when="1828-03-17">Марта „17„ дня 1828 года</date>.</l>

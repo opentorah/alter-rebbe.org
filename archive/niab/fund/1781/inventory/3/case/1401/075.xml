@@ -5,12 +5,16 @@
       <author/>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>Титульный лист дела</p></abstract></profileDesc>
+    <profileDesc><abstract><p>Титульный лист дела</p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="075-1"/>
     <fw type="docNum"><emph rend="underline">№ 5.</emph></fw>
-    <fw type="pageNum" place="right">75.<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">75.</fw>
     <head>
       <l><emph rend="big">Дѣло</emph>.</l>
       <l>О еврее <persName ref="Моше_Шнеерсон">Мовше Шнеере</persName> пожелавшемъ</l>

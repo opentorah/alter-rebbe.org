@@ -11,11 +11,14 @@
         Распоряжение белорусского генерал-губернатора, со ссылкой на сенатский указ, о запрещении добровольных сборов со
         стороны евреев в пользу раввинов и о запрещении последним выступать в роли третейских судей
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="024-1"/>
-    <fw type="pageNum" place="right">24<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">24</fw>
     <opener place="left">
       <l>Отдѣленіе 1.</l>
       <l>Столъ 1.</l>
@@ -58,7 +61,7 @@
       <l>предписать губернскому начальству о</l>
       <l>строгомъ наблюденіи, чтобы на основаніи</l>
       <pb n="024-2"/>
-      <fw type="pageNum" place="left">24 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">24 об</fw>
       <l>положенія о евреяхъ 1804 года §§ 49, 51</l>
       <l>и 52, раббина не позволяли себѣ ни-</l>
       <l>какихъ сборовъ въ видѣ добровольныхъ</l>
@@ -91,7 +94,7 @@
       <l>нія и рѣшенія дѣлъ гражданскаго</l>
       <l>рода; о чемъ поставить въ извѣстность</l>
       <pb n="025-1"/>
-      <fw type="pageNum" place="right">25<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">25</fw>
       <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
       секретаря</note></fw>
       <l>и живущихъ въ <placeName ref="Могилевская_губерния"><unclear>Могилевской гу-</unclear><note place="end">верхний

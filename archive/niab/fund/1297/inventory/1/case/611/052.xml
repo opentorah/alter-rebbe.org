@@ -8,7 +8,11 @@
     <profileDesc><abstract><p>
       Перевод недатированного объяснения <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> о сумме собранных им
       в 1813 г. денег
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="052-1"/>
@@ -50,7 +54,7 @@
       <l>что безъпрерывно продолжаютъ свое дѣйствіе</l>
       <l>хотя на то нѣтъ имяннаго постановленія</l>
       <pb n="052-2"/>
-      <fw type="pageNum" place="right">52 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">52 об</fw>
       <l>и на сіе не нужны старанія, а первый родъ</l>
       <l>денегъ которые собраны чрезъ стараніи только</l>
       <l>времянно, въ то время только, въ новые мѣ</l>

@@ -10,13 +10,17 @@
         Перечень губернаторов-адресатов секретного распоряжения от <persName ref="Обольянинов">Обольянинова</persName>
       </p></abstract>
       <creation><date when="1800-11-02">1800 года Ноябрь 2 дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="274-1"/>
-    <fw type="pageNum" place="right">274</fw><note place="end">номер записан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">277</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">274</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">277</del></fw>
     <p>
       <l><date when="1800-11-02">1800 года Ноября 2<hi rend="superscript">го</hi> дня</date> въ принятiи посланныхъ
       при</l>

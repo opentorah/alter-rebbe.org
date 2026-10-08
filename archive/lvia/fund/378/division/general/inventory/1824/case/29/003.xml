@@ -12,6 +12,9 @@
         Сообщение гродненского губернатора литовскому генерал-губернатору о расследовании в связи со слухами о реформе
         положения о евреях, распространившихся в еврейских общинах
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -58,7 +61,7 @@
       <l>сли бы мнѣ поспѣшнѣе._ Въ особен</l>
       <l>ности предписалъ я гродненскому</l>
       <pb n="003-2"/>
-      <fw type="pageNum" place="left">3 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">3 об</fw>
       <l>полицмейстеру, чтобы по причинѣ проживанія въ <placeName ref="Гродно">Грод-<lb/>
        нѣ</placeName> бывшаго еврейскаго депутата <persName>Зунделя Зоненберга</persName><note place="end">см. <ref
       target="https://history.wikireading.ru/327078">Еврейские депутаты в 1812–1817 гг.</ref>. В другом фрагменте того

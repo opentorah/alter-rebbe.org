@@ -13,6 +13,9 @@
       </p></abstract>
       <creation><date when="1825-10">октябрь 1825 года</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -120,7 +123,7 @@
       <l>какого контракта или условія заключаемо на</l>
       <l>постройку для раввина <unclear>??? ???</unclear><note place="end">край листа поврежден и нечитабелен</note></l>
       <pb n="014-2"/>
-      <fw type="pageNum" place="right">14 об<note place="end">номер проставлен карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">14 об</fw>
       <l>по щетамъ въ 1813 году въ приходъ и расходъ за-</l>
       <l>писанными полученныя за сказанную постройку</l>
       <l>деньги; но какъ сія экономія увѣдомила, что отъ</l>

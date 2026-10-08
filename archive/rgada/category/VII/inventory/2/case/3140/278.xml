@@ -8,13 +8,17 @@
     <profileDesc>
       <abstract><p>Показания <persName ref="Юда_Файбишевич">Файбишовича</persName></p></abstract>
       <creation><date when="1800-11-14">ноября 14 дня 1800 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="278-1"/>
-    <fw type="pageNum" place="right">278</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">282</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">278</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">282</del></fw>
     <fw type="note"><l>докладовано <date when="1800-11-14">ноября 14 дня 1800 года</date> <placeName ref="Петербург">
     С:П:бургъ</placeName></l></fw>
     <l>Я <persName ref="Юда_Файбишевич">Юда Файбишовичь</persName> <placeName ref="Белоруссия">бѢлоруской губернiи

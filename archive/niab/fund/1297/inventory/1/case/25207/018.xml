@@ -11,12 +11,15 @@
         Решение <orgName ref="Сенат">Сената</orgName> по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
         – аналог документа <ref target="https://www.alter-rebbe.org/niab611/111">в деле 611</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="018-1"/>
     <fw type="docNum">№ 7<unclear>??</unclear><note place="end">верхний край листа поврежден</note></fw>
-    <fw type="pageNum" place="right">18<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">18</fw>
     <fw type="note">Полу: <date when="1827-12-12">12<hi rend="superscript">го</hi> декабря 1827 года</date></fw>
     <fw type="note" place="left margin"><fw type="docNum">№ 2397<hi rend="superscript">й</hi></fw></fw>
     <fw type="note" place="left margin"><unclear>тарь</unclear></fw>
@@ -104,7 +107,7 @@
       <l>1<hi rend="superscript">го</hi> департамента <orgName ref="Сенат">Правительствующаго Сената</orgName>, на
       ка</l>
       <pb n="019-1"/>
-      <fw type="pageNum" place="right">19<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">19</fw>
       <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
       канцеляриста</note></fw>
       <l>ковой конецъ означенный рапортъ препроводить въ</l>

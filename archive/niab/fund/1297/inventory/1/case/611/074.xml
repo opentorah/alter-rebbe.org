@@ -11,6 +11,9 @@
         проезд в <placeName ref="Любавичи">Любавичи</placeName>
       </p></abstract>
       <creation><date when="1826-02-11">11 Февраля 1826 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -48,7 +51,7 @@
       <l>число и всего двойныхъ прогоновъ 60<note place="end">приведен надстрочный символический знак рубля</note> 40<hi
       rend="superscript">ко</hi></l>
       <pb n="074-2"/>
-      <fw type="pageNum" place="right">74<hi rend="superscript">об</hi><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">74<hi rend="superscript">об</hi>
       </fw>
       <l>предписала витебскому уѣздному казначею</l>
       <l>выдать подъ росписку означеннаго частнаго</l>

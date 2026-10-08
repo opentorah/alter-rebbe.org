@@ -9,12 +9,16 @@
         экспедиции</orgName>
       </p></abstract>
       <creation><date notBefore="1800-11-15" notAfter="1800-11-16">15 или 16 ноября 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="282-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">286</del></fw><note place="end">номер обозначен чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">286</del></fw>
     <fw type="pageNum" place="right">282</fw><note place="end">новый номер листа вписан карандашом</note>
     <p><head><l>На вопросы въ тайной Експедиціи еврей <persName ref="alter-rebbe">Борухо-<lb/>
          вичъ</persName> симъ ответствуетъ.</l></head></p>
@@ -114,7 +118,7 @@
         </p></cell>
       </row>
       <pb n="282-2"/>
-      <fw type="pageNum">282 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">282 об.</fw>
       <row>
         <cell><p/></cell>
         <cell><p>

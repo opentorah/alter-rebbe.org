@@ -12,13 +12,16 @@
         <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> на момент передачи документов в <orgName ref="Сенат"
         >Сенат</orgName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="022-1"/>
     <fw type="note" place="left"><date when="1834-02-15">15 февраля 1834</date>.</fw>
     <fw type="note" place="left margin">лярный</fw>
-    <fw type="pageNum" place="right">22<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">22</fw>
     <p>
       <l>Изъ Могилевскаго Главнаго суда 1<hi rend="superscript">го</hi> де-</l>
       <l>партамента <note type="gloss">|: что нынѣ Палата уго-<lb/>
@@ -51,7 +54,7 @@
       <l>писано: что съ начала 1812 года никто</l>
       <l>не можетъ быть избранъ и опредѣленъ</l>
       <pb n="022-2"/>
-      <fw type="pageNum" place="left">22 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">22 об</fw>
       <l>ни въ какую должность ни въ кагалѣ ни</l>
       <l>въ раввинствѣ, если не будетъ знать чи-</l>
       <l>тать и писать на одномъ изъ языковъ рос-</l>
@@ -80,7 +83,7 @@
     <p>
       <l>2.) Поставить въ обязанность еврейскимъ</l>
       <pb n="023-1"/>
-      <fw type="pageNum" place="right">23<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">23</fw>
       <fw type="note" place="left">Совѣт-<note place="end">пометка на левом поле сделана карандашом</note></fw>
       <l>обществамъ, чтобъ при назначеніи рав</l>
       <l>винамъ ихъ, на основаніи положенія 1804<hi rend="superscript">го</hi></l>
@@ -112,7 +115,7 @@
       <l>нами, но и между одними евреями, и</l>
       <l>вообще вступать во власть судейскую</l>
       <pb n="023-2"/>
-      <fw type="pageNum" place="left">23 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">23 об</fw>
       <l>подъ какимибы видами и предлогами ни</l>
       <l>было, такъ какъ таковые разборы относятся</l>
       <l>до учрежденныхъ присутственныхъ мѣстъ,</l>

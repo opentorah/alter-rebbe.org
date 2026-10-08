@@ -12,11 +12,14 @@
         Рапорт Могилевского губернского суда генерал-губернатору, связывающий данное дело с делом 1825 г. по доносу
         <persName ref="Кисин_Симха">Симхи Кисина</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="003-1"/>
-    <fw type="pageNum" place="right">3<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">3</fw>
     <fw type="note" place="left margin">Секре-</fw>
     <salute>
       <l><emph rend="big">Его Сіятельству</emph></l>
@@ -78,7 +81,7 @@
       <l>ревизію въ сей Департаментъ <date when="1826-08-03">3<hi rend="superscript">го</hi> августа</date>; въ</l>
       <pb n="004-1"/>
       <fw type="note" place="left margin">тарь</fw>
-      <fw type="pageNum" place="right">4<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">4</fw>
       <l>семъ Департаментѣ между <unclear>??? ???</unclear><note place="end">верхний край листа поврежден, часть текста
       утрачена</note></l>
       <l>прочихъ дѣлъ рѣшено <date when="1826-11-29">29<hi rend="superscript">го</hi> ноября того же<lb/>

@@ -10,7 +10,11 @@
       приходно-расходные операции по постройке синагоги ("пришколка") с миквой; община упомянута как еврейское хасидское
       общество "хасиды <persName ref="мителер_ребе">любавицкого ребе</persName>"; судя по документу <ref
       target="/niab611/048">[48]</ref>, составлена <date when="1822-07-17">17.07. 1822 г.</date>
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="046-1"/>
@@ -53,7 +57,7 @@
       <l>уполномоченныхъ, и ихъ покупной суммы покуп-</l>
       <l>щикъ ни кому другому за таковые мѣста</l>
       <pb n="046-2"/>
-      <fw type="pageNum" place="right">46 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">46 об</fw>
       <l>не долженъ давать, какъ только подъ росписки</l>
       <l>за подписаніемъ тѣхъ старостъ. 3. Въ разсуж-</l>
       <l>деніи жъ недостающей суммы со всехъ вышепи-</l>

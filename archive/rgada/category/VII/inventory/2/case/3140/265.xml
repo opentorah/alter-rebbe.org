@@ -12,6 +12,9 @@
         счетов <persName ref="Хрущов">Хрущова</persName>
       </p></abstract>
       <creation><date when="1800-10-17">17 октября 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -40,7 +43,7 @@
     <l><date when="1800-10-17">Октября 17. дня<lb/>
      1800. года</date></l>
     <pb n="265-2"/>
-    <fw type="pageNum">265 об</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">265 об</fw>
     <l>Значущяися по ему денги четыреста</l>
     <l>семдесятъ семь рублей дватцать</l>
     <l>четыре копеики принял и росписалса</l>

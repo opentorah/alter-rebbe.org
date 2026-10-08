@@ -11,6 +11,9 @@
         потомками <persName ref="alter-rebbe">Шнеура Залмана</persName>, составленный в 1813 г.
       </p></abstract>
       <creation><date when="1813">1813</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -51,7 +54,7 @@
       <l>вѣчныя времена къ очищенію всѣхъ погреш-</l>
       <l>ностей его, и чтобы душа его связана была</l>
       <pb n="020-2"/>
-      <fw type="pageNum" place="right">20 об<note place="end">номер проставлен карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">20 об</fw>
       <l>съ душею и святымъ духомъ <persName ref="alter-rebbe">отца</persName> его от</l>
       <l>нюдь безъотдѣльно для того чтобы онъ пред</l>
       <l>стательствовалъ за него къ благу его, что</l>
@@ -126,7 +129,7 @@
       <l>домашній ея расходъ, а 1000 руб. въ настоящ.</l>
       <l>подарокъ. Брату моему почтенному <persName>Хаиму</persName></l>
       <pb n="021-2"/>
-      <fw type="pageNum" place="right">21 об<note place="end">номер проставлен карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">21 об</fw>
       <l><persName>Абраму</persName> женѣ и дочерямъ его недорослымъ</l>
       <l>на построеніе дома, домашній сосудъ и</l>
       <l>расходовъ на сей полгодъ 5000 руб. а 1000</l>
@@ -196,7 +199,7 @@
       <l>направо ли или налѣво, непремѣнно. и</l>
       <l>запрещено сомневаться по немъ хотя въ ма-</l>
       <pb n="022-2"/>
-      <fw type="pageNum" place="right">22 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">22 об</fw>
       <l>лѣйшемъ сомнѣніи, или же въ томъ</l>
       <l>если надбавилъ въ которомъ мѣстѣ, или</l>
       <l>убавилъ, то сіе послѣдовало по Божіей</l>

@@ -11,13 +11,17 @@
         Сенатское решение о возведении евреев - членов Комиссии по образованию евреев в России – в т.ч. <persName
         ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName> в личное почетное гражданство
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">2</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">6</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">2</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">6</fw>
     <p>
       <l><date when="1845-02-07">1845 года февраля 7<hi rend="superscript">го</hi> дня</date> по имян-</l>
       <l>ному <emph rend="big">Его Императорскаго Вели</emph>-</l>
@@ -62,9 +66,8 @@
       <l>ства на личное почетное</l>
       <l>гражданство; а о припечатаніи</l>
       <pb n="007-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">3</del></fw><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note>
-      <fw type="pageNum" place="right">7</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">3</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">7</fw>
       <fw type="note" place="left margin">
         <l>читалъ</l>
         <l><date when="1845-02-08">8 февр</date></l>

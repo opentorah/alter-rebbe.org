@@ -11,14 +11,18 @@
         Печатный текст решения <orgName ref="Сенат">Сената</orgName> о возведении <persName ref="Цемах_Цедек">Менахема
         Менделя Шнеерсона</persName> в личное почетное гражданство
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="009-1"/>
-    <fw type="pageNum" place="left">8 об.</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">5</del></fw><note place="end">номер вписан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">9</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="left" hand="#pencilHand">8 об.</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">5</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">9</fw>
     <head>
       <l><emph rend="big">свидѣтельство</emph></l>
       <l>на званіе личнаго почетнаго гражданина.</l>

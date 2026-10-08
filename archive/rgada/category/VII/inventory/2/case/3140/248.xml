@@ -11,14 +11,18 @@
         иметь явного адресата</note>
       </p></abstract>
       <creation><date when="1800-08">август 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="248-1"/>
     <fw type="note" place="left">Копія</fw>
-    <fw type="pageNum" place="right">248</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">253</del></fw><note place="end">номер записан чернилами,
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">248</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">253</del></fw>
     <p>
       <l>Извѣстной еврейской <orgName ref="Хасиды">секты</orgName> въ <placeName ref="Белоруссия">Бѣло-<lb/>
        руссіи</placeName> находящійся Патріархъ или началь-</l>

@@ -11,6 +11,9 @@
         найденном в его доме документе с расписанием пожертвований в пользу неизвестного раввина
       </p></abstract>
       <creation><date when="1825-10-19">1825 года октября 19 дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -46,7 +49,7 @@
        октября 19 дня</date></l>
     </closer>
     <pb n="055-2"/>
-    <fw type="pageNum" place="right">55 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">55 об</fw>
     <p>
       <l>Симъ почтеннѣйше честь имѣю объ-</l>
       <l>яснить, что г<hi rend="superscript">мъ</hi> членомъ коммисіи надвор</l>

@@ -15,6 +15,9 @@
       </p></abstract>
       <creation><date when="1825-11-10">1825 года ноября 10 дня</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -54,7 +57,7 @@
       <l>четы, когда и кому имянно?</l>
     </p>
     <pb n="016-2"/>
-    <fw type="pageNum" place="right">16 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">16 об</fw>
     <p>
       <l>Въ слѣдствїе сего имѣемъ честь до-</l>
       <l>нести Вашему Сіятельству, что во</l>
@@ -149,7 +152,7 @@
       </row>
     </table>
     <pb n="017-2"/>
-    <fw type="pageNum" place="right">17 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">17 об</fw>
     <table>
       <row>
         <cell>
@@ -250,7 +253,7 @@
       </row>
     </table>
     <pb n="018-2"/>
-    <fw type="pageNum" place="right">18 об<note place="end">номер проставлен карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">18 об</fw>
     <table>
       <row>
         <cell>
@@ -328,7 +331,7 @@
       <l>пришколка, но даже и о техъ приходахъ</l>
       <l>и расходахъ, кои будутъ и послѣ того, ихъ</l>
       <pb n="019-2"/>
-      <fw type="pageNum" place="right">19 об<note place="end">номер проставлен карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">19 об</fw>
       <l>малѣйшаго отчета". Сіе положенїе пи-</l>
       <l>сано на россїйскомъ языкѣ на 3<hi rend="superscript">х</hi> рубле</l>
       <l>вомъ листѣ и въ видѣ довѣренно-</l>

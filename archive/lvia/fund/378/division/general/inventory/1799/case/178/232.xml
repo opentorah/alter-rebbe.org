@@ -11,6 +11,9 @@
       жалобе <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> - см. <ref target="/lvia1799-178/225">225</ref>
       </abstract>
       <creation><date when="1799-07-15">15 Іюля 1799</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -18,7 +21,7 @@
     <fw type="pageNum" place="right">232.</fw>
     <fw type="note" place="left margin">Па</fw>
     <pb n="232-2"/>
-    <fw type="pageNum" place="right">232</fw><note place="end">номер обозначен карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">232</fw>
     <head>
       <l>Предложеніе</l>
       <l>Дѣйствительнаго статскаго совѣтника, <persName ref="Фризель">Ли-<lb/>

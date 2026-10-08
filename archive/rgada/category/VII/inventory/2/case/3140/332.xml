@@ -10,14 +10,18 @@
         Белорусского</placeName> гражданского губернатора
       </p></abstract>
       <creation><date when="1801-03-28">марта 28 дня 1801 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="332-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">335</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">332</fw><note place="end">номер вписан карандашом</note>
-    <fw type="docNum" place="left margin">№ 36</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">335</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">332</fw>
+    <fw type="docNum" place="left margin" hand="#inkHand">№ 36</fw>
     <p>
       <l>Объявитель сего еврей <persName ref="alter-rebbe">Зальманъ Бору-<lb/>
        ховичъ</persName> находившись здѣсь по некотором<del rend="overstrike">у</del>ъ</l>

@@ -13,6 +13,9 @@
         <p>Упомянут в документе <ref target="/dubnov/269">№ 19</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-12">декабрь 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -53,7 +56,7 @@
       <l>ливствуетъ. _ <emph rend="big">царь царей</emph>! _ милос</l>
       <l>тію своею да далъ бы въ сердце ево</l>
       <pb n="367-2"/>
-      <fw type="pageNum">367 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">367 об.</fw>
       <l>Ево совѣтниковъ и чиновниковъ милосердіе</l>
       <l>о благоденствіи нашемъ и всего</l>
       <l>израиля. _ <del rend="overstrike">вовѣки</del> <hi rend="superscript"><del rend="overstrike"><unclear>???

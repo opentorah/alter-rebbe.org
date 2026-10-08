@@ -13,11 +13,15 @@
         <p>Упомянут в документе <ref target="/dubnov/269">№ 19</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-12">декабрь 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="366-1"/>
-    <fw type="pageNum" place="right">366</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">366</fw>
     <p>
       <l><head>таковая молитва</head></l>
       <l>между книгами <persName ref="alter-rebbe">боруховича</persName> <del rend="overstrike">находится</del> на
@@ -60,7 +64,7 @@
       <l>праведность же оцарствуетъ царя,_</l>
     </p>
     <pb n="366-2"/>
-    <fw type="pageNum">366 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">366 об.</fw>
     <p>
       <l>Заступленіе закона и пророковъ</l>
       <l>заступили бъ <emph rend="big">всемилостивѣйшаго</emph></l>

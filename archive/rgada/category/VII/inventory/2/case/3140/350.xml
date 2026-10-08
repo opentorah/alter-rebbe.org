@@ -13,6 +13,10 @@
       <creation><date when="1800-11-16">ноября 16 дня 1800 года</date></creation>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -20,7 +24,7 @@
     <fw type="docNum" place="left">№ 1685</fw>
     <date when="1800-11-28">28<hi rend="superscript">го</hi> ноября 1800<hi rend="superscript">го</hi></date>
     <fw type="note" place="right">Секретно.</fw>
-    <fw type="pageNum" place="right">350</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">350</fw>
     <fw type="note" place="left">къ отпуску</fw>
     <p>
       <l><salute>Милостивый Государь!<lb/>
@@ -52,7 +56,7 @@
       <l>По припискѣ вашего высокопревосходитель</l>
       <l>ства, что всемилостивѣйшій указъ о позволеніи</l>
       <pb n="350-2"/>
-      <fw type="pageNum">350 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">350 об.</fw>
       <l>изключеннымъ и отставленнымъ изъ служ</l>
       <l>бы воинской и штатской вступать</l>
       <l>паки въ службу не относится до тѣхъ,</l>

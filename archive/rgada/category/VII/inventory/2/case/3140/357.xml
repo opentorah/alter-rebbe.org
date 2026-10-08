@@ -10,11 +10,16 @@
         <p>Упомянут в документе <ref target="/dubnov/269">№ 19</ref> у Дубнова</p>
       </abstract>
       <creation><date when="1800-12">декабрь 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="357-1"/>
-    <fw type="pageNum" place="right">357</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">357</fw>
     <p>
       <l>Реестръ</l>
       <l>Книгамъ еврея <persName ref="alter-rebbe">боруховича</persName> <del rend="overstrike">съ <unclear
@@ -165,7 +170,7 @@
       <l>прускаго владѣнія въ городѣ франкфортѣ</l>
     </p>
     <pb n="358-2"/>
-    <fw type="pageNum">358 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">358 об.</fw>
     <p>
       <l>29 Толдосъ гоудомъ<note place="end">"Толдот Адам" р. Шломо бен Авраама Адрета (Рашба)</note>. Книга
       древняго</l>
@@ -219,7 +224,7 @@
       <l>касательно обряда еврейской религіи</l>
     </p>
     <pb n="359-1"/>
-    <fw type="pageNum" place="right">359</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">359</fw>
     <p>
       <l>40 <emph rend="big">Сеферъ Гоорехъ</emph> древняя еврейская</l>
       <l>книга съ толкованиемъ еврейскихъ</l>
@@ -264,7 +269,7 @@
       <l>еврейской религіи</l>
     </p>
     <pb n="359-2"/>
-    <fw type="pageNum">359 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">359 об.</fw>
     <p>
       <l>51 талъ Еретъ. древняя книга, касательно обрядовъ</l>
       <l>суботы по еврейскому закону.</l>
@@ -315,8 +320,7 @@
       <l>запросами и отвѣтами,</l>
     </p>
     <pb n="360-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">380</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">380</del></fw>
     <fw type="pageNum" place="right">360</fw><note place="end">номер записан карандашом и обведен чернилами</note>
     <p>
       <l>64 Еругатъ Габешомъ древняя книга граматика</l>
@@ -369,7 +373,7 @@
       <l>еврейскаго Закона.</l>
     </p>
     <pb n="360-2"/>
-    <fw type="pageNum">360 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">360 об.</fw>
     <p>
       <l>76 Кузри<note place="end">возможно, "Кузари"</note> древняя еврейская книга</l>
       <l>нравоучительная <sic>преведенная</sic></l>

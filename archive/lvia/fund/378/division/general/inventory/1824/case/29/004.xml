@@ -13,6 +13,9 @@
         евреях; в качестве самого раннего источника таких сведений упомянуто письмо <persName ref="мителер_ребе"
         >Дов-Бера Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -60,7 +63,7 @@
       <l>щее ихъ въ страхъ; что по сему</l>
       <l>поводу раввины еврейския налагаютъ</l>
       <pb n="004-2"/>
-      <fw type="pageNum" place="left">4 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">4 об</fw>
       <l>на народъ сей посты, и происходитъ денеж-</l>
       <l>ной зборъ въ предосудительныхъ намѣреніяхъ?</l>
       <l>– Имѣю честь донести, что разнесшіяся</l>
@@ -101,7 +104,7 @@
       <l>ніе;_ Далее продолжаетъ писать такъ:</l>
       <l>„Nadewszystko iesce Bieda z Bieda <unclear>schodzonsie</unclear></l>
       <pb n="005-2"/>
-      <fw type="pageNum" place="left">5 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">5 об</fw>
       <l>Zal i wzdychania ogulno <unclear>skruszaioce</unclear> Cate</l>
       <l>cіalo i dusze az wszystkim glowa chora,</l>
       <l>Et ctra... also-wіem czas scisniony jest</l>

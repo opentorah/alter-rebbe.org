@@ -11,6 +11,9 @@
         <placeName ref="Лиозно">Лиозно</placeName>, на хранение - по реестру этих изданий
       </p></abstract>
       <creation><date when="1800-12-29">29 декабря 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -26,7 +29,7 @@
       <l><signed>???</signed><note place="end">подпись на иврите, судя по всему, <persName ref="alter-rebbe">Шнеура
       Залмана</persName></note></l>
     </p>
-    <fw type="pageNum" place="right">362</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">362</fw>
     <pb n="362-2"/>
   </body></text>
 </TEI>

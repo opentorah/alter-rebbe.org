@@ -11,6 +11,9 @@
         Прошение <persName ref="Цемах_Цедек">Менахема Менделя Шнеерсона</persName> на высочайшее имя о выдаче грамоты на
         возведение в личное почетное гражданство
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -22,7 +25,7 @@
       <l><date when="1845-07-17">јюля 17 1845</date></l>
     </fw>
     <fw type="pageNum" place="right">11<del rend="overstrike">номер записан чернилами и зачеркнут карандашом</del></fw>
-    <fw type="pageNum" place="right">15</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">15</fw>
     <fw type="note" place="left margin">15 руб. сер <signed><unclear>???</unclear></signed></fw>
     <opener>
       <l>всепресвѣтлѣйшій, державнѣйшій</l>

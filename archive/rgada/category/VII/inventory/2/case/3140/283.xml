@@ -11,13 +11,17 @@
         Обвинения <persName ref="Авигдор">Авигдора</persName> против <orgName ref="Хасиды">хасидов</orgName>
       </p></abstract>
       <creation><date notBefore="1800-11-15" notAfter="1800-11-16">15 или 16 ноября 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="283-1"/>
-    <fw type="pageNum" place="right">283</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">287</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">283</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">287</del></fw>
     <head>
       <l>Оберъ рабинъ <persName ref="Авигдор">Абикдаръ Хаймовичъ</persName> про-</l>
       <l>тивъ <persName ref="alter-rebbe">Залмана Боруховича</persName>, начальника бѣло-</l>
@@ -64,7 +68,7 @@
       <l>носятся, отверсты.</l>
     </p>
     <p>
-      <l><pb n="283-2"/> <fw type="pageNum" place="right">283 об</fw><note place="end">номер вписан карандашом</note> 3.
+      <l><pb n="283-2"/> <fw type="pageNum" place="right" hand="#pencilHand">283 об</fw> 3.
       Въ той же <orgName ref="Хасиды">Каролинской</orgName> КнигѢ</l>
       <l>написано, что человѢкъ не дол-</l>
       <l>женъ бояться никакого тво-</l>
@@ -96,9 +100,8 @@
     </p>
     <p>
       <pb n="284-1"/>
-      <fw type="pageNum" place="right">284</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">288</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">284</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">288</del></fw>
       <l>5. въ оной же Книги написано, что буде</l>
       <l>человѣкъ пожелаетъ какую вещь,</l>
       <l>то видно, что ему сїя вещь потре-</l>
@@ -128,7 +131,7 @@
       <l>7. Хотя <orgName ref="Хасиды">каролинской</orgName> равинъ</l>
       <l><persName ref="alter-rebbe">Салманъ боруховичъ</persName> и объяснилъ,</l>
       <l>что будто изъдревле обыкновенно</l>
-      <l><pb n="284-2"/> <fw type="pageNum">284 об</fw><note place="end">номер вписан карандашом</note> Собирать деньги
+      <l><pb n="284-2"/> <fw type="pageNum" hand="#pencilHand">284 об</fw> Собирать деньги
       на содержанiе</l>
       <l>богумолящихся в <placeName ref="Иерусалим">Јерусалимѣ</placeName>,</l>
       <l>однакожъ не такъ, какъ теперь;</l>
@@ -154,9 +157,8 @@
     </p>
     <p>
       <pb n="285-1"/>
-      <fw type="pageNum" place="right">285</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">289</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">285</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">289</del></fw>
       <l>9. <orgName ref="Хасиды">Каралинскою Сектою</orgName> называютъ</l>
       <l>оберъ рабинъ и прочїе <persName ref="alter-rebbe">Борухо-<lb/>
        вича</persName> и его сообщниковъ по тому,</l>
@@ -177,9 +179,8 @@
     </p>
     <pb n="285-2"/>
     <pb n="286-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">290</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">286</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">290</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">286</fw>
     <p>
       <l>10<hi rend="superscript">и</hi>. <orgName ref="Хасиды">Каролины</orgName> <del rend="overstrike">пославши</del>
       <hi rend="superscript">отправивъ въ <placeName ref="Палестина">израилскій край</placeName></hi> трехъ своихъ
@@ -222,7 +223,7 @@
     </p>
     <p>
       <pb n="286-2"/>
-      <fw type="pageNum">286 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">286 об.</fw>
       <l>11 Присяга у <orgName ref="Хасиды">каролиновъ</orgName> за ничто почитается.</l>
       <l>что можно доказать въ городѣ <placeName ref="Вильна">вильнѣ, но стѣмъ</placeName><note place="end">окончание
       п.11 вписано на левом поле страницы</note></l>
@@ -278,7 +279,7 @@
       <l><del rend="overstrike">Хаимовичу</del>, <del rend="overstrike">числомъ</del> по тысячи пятисотъ</l>
       <l>и болѣе человѣкъ, и причиняется отъ</l>
       <pb n="287-1"/>
-      <fw type="pageNum" place="right">287</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">287</fw>
       <fw type="pageNum" place="right">291</fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
       <l>того великая тѣснота въ</l>
       <l><del rend="overstrike">мѣстечке</del> домахъ того мѣ-</l>
@@ -308,7 +309,7 @@
     </p>
     <p>
       <pb n="287-2"/>
-      <fw type="pageNum">287</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">287</fw>
       <l>18 обо всѣхъ прописан</l>
       <l>ныхъ мною обстоя</l>
       <l>тельствахъ извѣстны</l>
@@ -334,9 +335,8 @@
       <l>тотъ каралинецъ боится</l>
       <l>ослушатся ево потому</l>
       <pb n="288-1"/>
-      <fw type="pageNum" place="right">288</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">292</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">288</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">292</del></fw>
       <l>что онъ подписалъ <del rend="overstrike"><unclear>???</unclear> упомянутой</del></l>
       <l>вышеприведенной рее</l>
       <l>стръ. По сему самому</l>

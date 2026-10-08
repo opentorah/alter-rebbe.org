@@ -11,6 +11,9 @@
         Копия решения <orgName ref="Сенат">Сената</orgName> о невиновности <persName ref="мителер_ребе">Дов-Бера
         Шнеерсона</persName>, отправленная в <placeName ref="Могилевская_губерния">Могилевскую губернию</placeName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -54,7 +57,7 @@
       <l><fw place="left margin" type="note"><hi rend="superscript">го</hi> отдѣленія<note place="end">левый край листа
       обрезан и не читается</note></fw></l>
       <pb n="111-2"/>
-      <fw place="right" type="pageNum">111об<note place="end">номер записан карандашом</note></fw>
+      <fw place="right" type="pageNum" hand="#pencilHand">111об</fw>
       <l>по желанію бѣлорусскихъ евреевъ съ обещаніемъ</l>
       <l>сдѣлать ему вознагражденіе за претерпенное</l>
       <l>имъ во время нашествія непріятеля раззореніе</l>
@@ -115,7 +118,7 @@
       <l>губернатора князя <persName>Хованскаго</persName>, изъясненыя</l>
       <l>въ рапортѣ его при которомъ представлено</l>
       <pb n="112-2"/>
-      <fw type="pageNum" place="right">112 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">112 об</fw>
       <l>въ <orgName ref="Сенат">Сенатъ</orgName> дѣло сіе касательно еврейскихъ</l>
       <l>раввиновъ, предоставить по принадлежности</l>
       <l>на разсмотрѣніе 1<hi rend="superscript">го</hi> департамента <orgName ref="Сенат">Прави-<lb/>

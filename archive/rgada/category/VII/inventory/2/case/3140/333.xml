@@ -13,13 +13,16 @@
       </p></abstract>
       <creation><date when="1801-03-27">марта 27 дня 1801</date></creation>
       <correspDesc><correspAction><persName ref="Пален" role="addressee">Палену</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="333-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">336</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">333</fw><note place="end">номер вписан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">336</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand">333</fw>
     <l><salute>М:Г:<note place="end">милостивый государь</note> <del rend="overstrike">мой</del><lb/>
        Графъ <persName ref="Пален">Петръ Алексеевичъ</persName></salute></l>
     <p>

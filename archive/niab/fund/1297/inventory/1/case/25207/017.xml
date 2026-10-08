@@ -12,12 +12,15 @@
         Рапорт Могилевского губернского ("Главного") суда белорусскому генерал-губернатору о представлении ему
         сенатского решения по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="017-1"/>
     <fw type="docNum">№ 45<unclear>1</unclear>.</fw>
-    <fw type="pageNum" place="right">17<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">17</fw>
     <fw type="note">Къ дѣлу</fw>
     <fw type="note" place="left margin">Помощникъ секре-</fw>
     <salute>

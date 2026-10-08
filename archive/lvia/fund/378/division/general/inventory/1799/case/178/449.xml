@@ -10,6 +10,9 @@
       >Фризеля</persName> в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName> (см.: <ref
       target="/lvia1799-178/446">446</ref>)</abstract>
       <creation><date when="1800-05-12">12 мая 1800 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -18,7 +21,7 @@
     архивиста</note>
     <fw type="note" place="left margin">Па</fw>
     <pb n="449-2"/>
-    <fw type="pageNum" place="right">449</fw><note place="end">номер проставлен карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">449</fw>
     <head>
       <l>Отъ <persName ref="Фризель">Литовскаго Гражданскаго Губернатора</persName></l>
       <l><orgName ref="Литовский_надворный_суд">Литовскому Надворному Суду</orgName></l>

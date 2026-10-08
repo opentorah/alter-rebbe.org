@@ -13,6 +13,9 @@
       <creation><date when="1800-11-15">15 ноября 1800</date></creation>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -21,7 +24,7 @@
     <date when="1800-11-26">26<hi rend="superscript">го</hi> ноября 1800<hi rend="superscript">го</hi></date>
     <fw type="note" place="right">секретно</fw>
     <fw type="note" place="right">къ отпуску</fw>
-    <fw type="pageNum" place="right">349</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">349</fw>
     <p>
       <l><salute>Милостивый Государь!<lb/>
          <persName ref="Обольянинов">Петръ Хрисанфовичь</persName>!</salute></l>

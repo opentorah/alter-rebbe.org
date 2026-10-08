@@ -15,6 +15,11 @@
       <creation><date when="1800-11-09">1800 года Ноября 9 дня</date></creation>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -24,9 +29,8 @@
       <fw type="note" place="right">Секретно</fw>
     </l>
     <fw type="docNum"><l>№1609.</l></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">279</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">275</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">279</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">275</fw>
     <salute><l>Ваше высокопревосходительство<lb/>
        Милостивый Государь!</l></salute>
     <p>

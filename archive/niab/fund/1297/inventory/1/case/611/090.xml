@@ -12,6 +12,9 @@
       </p></abstract>
       <creation><date when="1826-04-07">Апреля 7 дня 1826 года</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -42,7 +45,7 @@
       <l>оного равина командированнымъ ратма-</l>
       <l>номъ объясненїя, объ отобранїи подприсягою</l>
       <pb n="090-2"/>
-      <fw type="pageNum" place="right">90 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">90 об</fw>
       <l>Показанія отъ кагаловъ подвѣдомственныхъ</l>
       <l>оршанскому, и копыскому магистратамъ,</l>
       <l>и отъ шкловскихъ еврѣевъ, нащетъ того, точ-</l>
@@ -91,7 +94,7 @@
       <l>которому онъ преданъ суду, а въ отступ-</l>
       <l>леніе узаконеннаго порядка посылали</l>
       <pb n="091-2"/>
-      <fw type="pageNum" place="right">91 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">91 об</fw>
       <l>неподлежаще къ нему на мѣсто житель</l>
       <l>ства его запросы чрезъ нарочнаго своего сто</l>
       <l>рожа, какъ видно въ явное для него послабле-</l>
@@ -141,7 +144,7 @@
       <l>естьли члены оного сверхъ положенного губерн-</l>
       <l>скимъ правленіемъ штрафа подлежать</l>
       <pb n="092-2"/>
-      <fw type="pageNum" place="right">92 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">92 об</fw>
       <l>будутъ отвѣтственности, предоставить раз</l>
       <l>смотренію тому мѣсту, вкоторое означенное</l>
       <l>дѣло о равинѣ <persName ref="мителер_ребе">шнеуре</persName> поступитъ на ревизїю,</l>

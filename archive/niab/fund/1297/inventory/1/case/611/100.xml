@@ -12,6 +12,9 @@
         Сообщение Витебской казенной палаты генерал-губернатору с просьбой указать, с кого следует взыскать средства за
         прогоны, сделанные представителями следствия по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -58,7 +61,7 @@
       <fw type="note" place="left margin">31 октября <fw type="docNum">№ 4968</fw><note place="end">пометка на нижнем
       поле страницы сделана карандашом</note></fw>
       <pb n="100-2"/>
-      <fw type="pageNum" place="right">100 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">100 об</fw>
       <l><date when="1826-05-24">24 числа маїя</date> представ</l>
       <l>ляла вашему Сіятельству и проси-</l>
       <l>ла учинить кому слѣдуетъ предписа-</l>

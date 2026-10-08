@@ -12,6 +12,9 @@
       </p></abstract>
       <creation><date when="1826-02-24">24 февраля 1826 года</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -51,7 +54,7 @@
       <l>къ <persName ref="мителер_ребе">раввину</persName> и въ еврейскіе прикагалки</l>
       <l>сторожъ того магистрата 8<hi rend="superscript">го</hi> сего</l>
       <pb n="081-2"/>
-      <fw type="pageNum" place="right">81 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">81 об</fw>
       <l>февраля возвратясь объявилъ, что онъ полу-</l>
       <l>ченный ответъ отъ <persName ref="мителер_ребе">раввина</persName> утерялъ на пути</l>
       <l>отъ <placeName ref="Любавичи">любавичъ</placeName> къ городу Бабиновичамъ, по ка-</l>

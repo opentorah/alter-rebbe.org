@@ -11,6 +11,9 @@
       target="/lvia1799-178/164">164</ref></note> копий документов, представленных советником <persName ref="Елиашевич"
       >Елиашевичем</persName></abstract>
       <creation><date when="1799-06-07">1799 года июня 7 дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -40,9 +43,9 @@
       <l>многихъ чинимыхъ евреямъ <persName ref="Мовша_Ошерович">Мойжешомъ Ошерови-<lb/>
        чемъ</persName> злоупотребленій, подлога и беззаконнаго</l>
       <pb n="165-2"/>
-      <l>сбора съ общества денегъ три показанія взят<gap reason="обрыв края листа">_</gap></l>
+      <l>сбора съ общества денегъ три показанія взят<gap reason="обрыв края листа"/></l>
       <l>господиномъ комендантомъ <persName ref="Капцевич">капцевичемъ</persName> пр<gap reason="обрыв края листа"
-      >__</gap></l>
+      /></l>
       <l>немъ господинѣ <persName ref="Елиашевич">Еліашевичѣ</persName> и губернскомъ казна-</l>
       <l>чѣе <persName>Сербиновичѣ</persName> отъ евреевъ <persName ref="Зыскинд">Зискина берковича</persName>,</l>
       <l><persName>мовши вульфовича</persName>, <persName>бейнаша ароновича</persName>, <persName>Леибы<lb/>
@@ -59,7 +62,7 @@
        дѣ не имѣется, ибо оная изъ <orgName ref="Литовское_губернское_правление">Губернскаго прав<lb/>
        ленія</orgName> не доставлена, и чтобы онъ <persName ref="Мовша_Ошерович">ошеровичъ</persName></l>
       <pb n="166-1"/>
-      <fw type="pageNum" place="right">166</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">166</fw>
       <fw type="pageNum" place="right">160.</fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
       <fw type="note" place="left margin">тарь</fw>
       <l>безъ малейшаго продолженія времени представилъ</l>

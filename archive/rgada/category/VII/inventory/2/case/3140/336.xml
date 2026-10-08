@@ -3,13 +3,17 @@
   <teiHeader>
     <fileDesc><titleStmt><editor role="transcriber"><persName ref="ALD">Арье-Лейб Дубинский</persName></editor>
     </titleStmt></fileDesc>
-    <profileDesc><abstract><p>Заголовок раздела: Очные Ставки.</p></abstract></profileDesc>
+    <profileDesc><abstract><p>Заголовок раздела: Очные Ставки.</p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="336-1"/>
     <fw type="pageNum"><del rend="overstrike">338<hi rend="superscript">а</hi></del></fw><note place="end">номер записан
     карандашом и вычерукнут чернилами</note>
-    <fw type="pageNum">336</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">336</fw>
     <p>Очныя ставки.</p>
     <pb n="336-2"/>
   </body></text>

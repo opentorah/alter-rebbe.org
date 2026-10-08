@@ -8,7 +8,11 @@
     <profileDesc><abstract><p>
       Предложение (предписание) генерал-губернатора <persName>Хованского</persName> могилевскому губернскому прокурору
       передать дело <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> для рассмотрения в суд
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="066-1"/>
@@ -54,7 +58,7 @@
     <l>согласнымъ производствомъ</l>
     <l>дѣла сего въ томъ присудствен-</l>
     <pb n="066-2"/>
-    <fw type="pageNum" place="right">66 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">66 об</fw>
     <l>номъ мѣстѣ, въ кото-</l>
     <l>рое оно изъ Губернскаго</l>
     <l>правленія поступитъ.</l>

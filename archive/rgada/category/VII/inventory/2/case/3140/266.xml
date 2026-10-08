@@ -15,6 +15,9 @@
       <creation><date when="1800-10">октябрь 1800</date></creation>
       <correspDesc><correspAction><persName ref="Северин" role="addressee">Северину</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -46,7 +49,7 @@
       <l><del rend="overstrike">и дать знать прочимъ гражданскимъ</del></l>
     </p>
     <pb n="266-2"/>
-    <fw type="pageNum">266 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">266 об.</fw>
     <l><del rend="overstrike">губернаторамъ.</del> есмь въ прочемъ</l>
     <l>съ истиннымъ почтеніемъ</l>
     <l>вашего Превосходительства</l>

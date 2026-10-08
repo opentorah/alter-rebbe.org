@@ -12,15 +12,19 @@
         документы о крещении <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName> в связи с его переходом из
         католичества в православие
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="084-1"/>
     <fw type="docNum"><emph rend="underline">№ 1519.</emph></fw>
     <fw type="note" place="right">Получ: <date when="1820-10-12">12. октября 1820. года</date>.</fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">9</del><note place="end">номер записан чернилами и зачеркнут
-    карандашом</note></fw>
-    <fw type="pageNum" place="right">84<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">9</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">84</fw>
     <fw type="note" place="left margin">№ 2714.</fw>
     <head>
       <l>Изъ Могилевской духовной греко-россійской конси-</l>
@@ -76,9 +80,8 @@
       <l><emph rend="big">лила</emph> и Его высокопреосвященство ут-</l>
       <l>вердилъ сообщить въ оную римско като-</l>
       <pb n="085-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">10</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
-      <fw type="pageNum" place="right">85<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">10</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">85</fw>
       <l>лическую консисторію и сообщается имъ,</l>
       <l>дабы благоволено было по отысканіи подлин-</l>
       <l>ной метрики крещенія по вышеписанному</l>

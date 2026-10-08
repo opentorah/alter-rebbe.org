@@ -9,13 +9,17 @@
         стражи под подписку о невыезде
       </p></abstract>
       <creation><date when="1800-11-28">1800 года ноября 28 дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="329-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">332</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">329</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">332</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">329</fw>
     <p>
       <l><date when="1800-11-28">1800<hi rend="superscript">о</hi> года ноября 28<hi rend="superscript">го</hi>
       дня</date>, въ Тайной Экспедиціи еврѣй</l>

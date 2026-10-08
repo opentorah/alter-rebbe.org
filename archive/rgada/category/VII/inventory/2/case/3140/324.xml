@@ -12,13 +12,17 @@
         ref="Хасиды">хасидах</orgName>
       </p></abstract>
       <creation><date when="1800-12-22">22 декабря 1800 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="324-1"/>
-    <fw type="pageNum" place="right">324</fw><note place="end">номер вписан карандшом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">327</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">324</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">327</del></fw>
     <l>ЗдѢсь вынуто <sic>отнощенiе</sic> <placeName ref="Белоруссия">Белорускаго</placeName></l>
     <l>губернатора <persName ref="Северин">Северина</persName> отъ <date when="1800-11-13">13 ноября<lb/>
      1800 года</date> о преданiи и повиновенiи евреевъ</l>

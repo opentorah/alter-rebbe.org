@@ -8,7 +8,11 @@
     <profileDesc><abstract><p>
       Недатированный документ без указания составителя – справка о денежных средствах, собранных в пользу неизвестного
       раввина и обязательства евреев из разных городов о ежегодном перечислении ему таковых средств
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="058-1"/>
@@ -61,7 +65,7 @@
        Елулъ 1819 года</date> <persName>Мовша Уріяшевичъ</persName>.</l>
     </p>
     <pb n="058-2"/>
-    <fw type="pageNum" place="right">58 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">58 об</fw>
     <p>
       <l>7. Изъ жителей въ <unclear>Казаняхъ</unclear>, жена <persName>Лейзара<lb/>
        Шмуйловича Левиты</persName> изъ Шклова дала 5.</l>
@@ -164,7 +168,7 @@
       <l>Рязани 10 рублей ассигнаціями <persName>Путатинъ</persName></l>
     </p>
     <pb n="059-2"/>
-    <fw type="pageNum" place="right">59 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">59 об</fw>
     <p>
       <l>двадцать рублей ассигнаціями <persName>Шоломъ</persName></l>
       <l>изъ Лосьма, <persName>Янкель</persName> изъ <unclear>Милинксокъ</unclear></l>
@@ -293,7 +297,7 @@
       >Лядахъ</placeName></l>
       <l>восемь рублей ассигнаціями упомянутый <persName>Елья</persName></l>
       <pb n="060-2"/>
-      <fw type="pageNum" place="right">60 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">60 об</fw>
       <l>получилъ я отъ <persName>Мордуха Иссахаро<lb/>
        вича</persName> изъ <unclear>Дурвяцкина</unclear> восемь рублей ассиг-</l>
       <l>націями, получилъ я отъ почтеннаго</l>

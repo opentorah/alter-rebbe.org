@@ -10,6 +10,11 @@
       ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> - развернутый ответ на возражения, поданные к
       судебному процессу советником <persName ref="Елиашевич">Елиашевичем</persName> и иными участниками</abstract>
       <creation><date when="1799-06-28">28 июня 1799 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -217,8 +222,7 @@
       <l>браны, благоволитъ <orgName ref="Литовский_надворный_суд">судъ</orgName> истребовать изъ Литовскаго</l>
       <pb n="518-1"/>
       <fw type="pageNum" place="right">518</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">3</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">3</del></fw>
       <l><orgName ref="Литовское_губернское_правление">губернскаго правленїя</orgName>: оныя бумаги, у речен-</l>
       <l>наго <persName ref="Уриаш_Габриелович">Геврїеловича</persName><note place="end">фамилия (отчество) искажена
       канцеляристом</note> забранные и нынѣ въ о-</l>
@@ -350,8 +354,7 @@
       ref="Вильна">городѣ вильнѣ</placeName> по магистратскому</l>
       <pb n="519-1"/>
       <fw type="pageNum" place="right">519</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">4</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">4</del></fw>
       <l>паспорту <hi rend="superscript">пребыванїе</hi> еврея <persName>Лейбы Лейзаровича</persName> <hi
       rend="superscript">надзиратель</hi> <del rend="overstrike">сказанный</del></l>
       <l><persName>Естко</persName> въ присудствїи помянутыхъ <orgName ref="Хасиды">каролиновъ</orgName></l>
@@ -468,7 +471,7 @@
        ми</orgName> <persName>Гиршею Юделевичемъ</persName>, и <persName>Лейзеромъ Мовшовичемъ</persName></l>
       <pb n="520-1"/>
       <fw type="pageNum" place="right">520</fw>
-      <fw type="pageNum" place="right">520<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">520</fw>
       <l>прибывъ ко мнѣ опять, обревизовали <hi rend="superscript">тѣ</hi> запечатованныя</l>
       <l>комоды и забрали ввѣренныя мнѣ отъ разныхъ лю-</l>
       <l>дей вексели и прочїя бумаги; <del rend="overstrike">однако</del> <hi rend="superscript">и</hi> я при семъ</l>
@@ -569,8 +572,7 @@
       <l>касательно до своего дѣла, пошли отсель <hi rend="superscript">обратно</hi>, о чемъ</l>
       <pb n="521-1"/>
       <fw type="pageNum" place="right">521.</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">6</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">6</del></fw>
       <l>посвидѣтельствуетъ находившїйся при томъ</l>
       <l>шуринъ того жъ <persName>Юделя</persName> <persName>Лейзаръ Зельмановичъ</persName>.</l>
     </p>
@@ -687,8 +689,7 @@
       какъ только</hi> вышеписанныхъ</l>
       <pb n="522-1"/>
       <fw type="pageNum" place="right">522</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">7</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">7</del></fw>
       <l>людей, <del rend="overstrike">но дабы его не оставить безъ до</del> <hi rend="superscript">и допросить</hi></l>
       <l><del rend="overstrike">казательства, то благоволитъ <orgName ref="Литовский_надворный_суд">надворный<lb/>
        судъ</orgName> спросить</del> всѣхъ вышепрописанныхъ по имя-</l>
@@ -813,8 +814,7 @@
       плацъ-маїоръ</l>
       <pb n="523-1"/>
       <fw type="pageNum" place="right">523.</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">8</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">8</del></fw>
       <l>предоставить на волю таковый выборъ обществу</l>
       <l>коего при семъ выборѣ вовсе не было; <del rend="overstrike">поелику</del> <hi rend="superscript"><del
       rend="overstrike">каковою</del></hi></l>
@@ -887,7 +887,7 @@
       <l>щемся <del rend="overstrike">разноречїи несходствїи</del> въ донесенїяхъ г<hi rend="superscript">на</hi>
       плацъ</l>
       <l>маїора <del rend="overstrike">донесенїяхъ</del> несходствїи съ истиннымъ <unclear>???</unclear> <gap
-      reason="обрыв края листа">_</gap></l>
+      reason="обрыв края листа"/></l>
       <l>ломъ <hi rend="superscript">удостовѣрится</hi>, то смѣю просить, <hi rend="superscript">дабы</hi> <orgName
       ref="Литовский_надворный_суд">Надворный судъ</orgName>, дабы</l>
       <pb n="523-2"/>
@@ -949,8 +949,7 @@
       <l>ордеръ, данный <del rend="overstrike">Его превосходительству</del> г<hi rend="superscript">ну</hi></l>
       <pb n="524-1"/>
       <fw type="pageNum" place="right">524</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">9</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">9</del></fw>
       <l><persName ref="Капцевич">коменданту</persName> <hi rend="superscript">Капцевичу</hi> не прописывая ни числа <hi
       rend="superscript">его</hi> состоя-</l>
       <l>нїя, <del rend="overstrike">того жъ ордера</del> ниже номера, подъ ко-</l>
@@ -1053,8 +1052,7 @@
       <l>повторить принужденнымъ нахожу я: самъ</l>
       <pb n="525-1"/>
       <fw type="pageNum" place="right">525</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">10</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">10</del></fw>
       <l>господинъ <del rend="overstrike">совѣтникъ</del> <persName ref="Елиашевич">Елїяшевичъ</persName> <del
       rend="overstrike">въ</del> <hi rend="superscript">при</hi> коньцѣ сего же</l>
       <l>своего объясненїя описываетъ и похваляетъ себя</l>
@@ -1165,8 +1163,7 @@
       <l>ственный праздникъ, все, что ему понравилось учинил.</l>
       <pb n="526-1"/>
       <fw type="pageNum" place="right">526.</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">1</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">1</del></fw>
       <l><del rend="overstrike">Дальше</del> <hi rend="superscript">Потомъ</hi> прописываетъ г<hi rend="superscript"
       >нъ</hi> совѣтникъ <persName ref="Елиашевич">Елїяшевичъ</persName>: „По-</l>
       <l>слѣ того казалъ намъ же, что<del rend="overstrike">бъ</del> какъ по тому</l>
@@ -1216,7 +1213,7 @@
       <l>разсужденїемъ; <del rend="overstrike">ежели</del> ибо ежели позволить, <del rend="overstrike">въ</del> что</l>
       <l>въ силу вышеписаннаго ордера надобно было отбирать</l>
       <l>отъ <orgName ref="Виленский_кагал">кагала</orgName> книги, то такимъ ли порядкомъ</l>
-      <l>надлежало поступить, какъ ими поступлено? <unclear>откуда</unclear> <gap reason="обрыв края листа">_</gap></l>
+      <l>надлежало поступить, какъ ими поступлено? <unclear>откуда</unclear> <gap reason="обрыв края листа"/></l>
       <pb n="526-2"/>
       <fw type="note" place="left margin"><unclear>???</unclear></fw><note place="end">в левом верхнем углу страницы -
       зачеркнутые карандашные рассчеты; возможно, "to 8*27=216"</note>
@@ -1269,8 +1266,7 @@
       <l>кагальныхъ членовъ четырехъ человѣкъ, <del rend="overstrike">сами</del></l>
       <pb n="527-1"/>
       <fw type="pageNum" place="right">527</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">2</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">2</del></fw>
       <l><del rend="overstrike">именовали</del> <hi rend="superscript">имяновали</hi> ихъ наисправедливѣйшими,</l>
       <l>сами ихъ въ послѣднѣйшихъ своихъ <del rend="overstrike">письмахъ</del></l>
       <l><hi rend="superscript">объясненїяхъ</hi> одобряли и основываютъ на ихъ пока-</l>
@@ -1357,8 +1353,7 @@
       <l>предъявялетъ и предъявить не можетъ, чтобы</l>
       <pb n="528-1"/>
       <fw type="pageNum" place="right">528.</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">3</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">3</del></fw>
       <l>всей <orgName ref="Виленский_кагал">кагалъ</orgName> или которой нибудь <hi rend="superscript">одинъ</hi> его
       <del rend="overstrike"><orgName ref="Виленский_кагал">кагала</orgName></del></l>
       <l>членъ <hi rend="superscript">приказывалъ</hi> <del rend="overstrike">приказалъ</del> ему передѣлать книги и</l>
@@ -1449,8 +1444,7 @@
       <l>Но на то отвѣтствуется: какъ <del rend="overstrike">въ отдачѣ</del></l>
       <pb n="529-1"/>
       <fw type="pageNum" place="right">529</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">4</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">4</del></fw>
       <l><del rend="overstrike">сихъ книгъ</del> <hi rend="superscript">какъ</hi> не имѣлъ <orgName
       ref="Виленский_кагал">кагалъ</orgName> причины <del rend="overstrike">въ от</del></l>
       <l><del rend="overstrike">дачѣ сихъ книгъ</del> сопротивляться, такъ и</l>
@@ -1649,8 +1643,7 @@
       <l>строгомъ арестѣ содержалъ его чрезъ 10 дней, т:е</l>
       <pb n="531-1"/>
       <fw type="pageNum" place="right">531</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">6</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">6</del></fw>
       <l>съ <date when="1799-02-04">4<hi rend="superscript">го</hi></date> по <date when="1799-02-14">14 число февраля
       мѣсяца</date> и едва</l>
       <l>въ сей <date when="1799-02-14">14<hi rend="superscript">й</hi> день</date> вечеромъ по подачѣ евреемъ</l>
@@ -1732,8 +1725,7 @@
       совѣтникъ <persName ref="Елиашевич">Елїяшевичъ</persName></del></l>
       <pb n="532-1"/>
       <fw type="pageNum" place="right">532.</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">7</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">7</del></fw>
       <l>старался всегда привести насъ къ по-</l>
       <l>слѣдней пагубѣ; ибо самъ <hi rend="superscript">изображаетъ</hi> <del rend="overstrike">онъ изъясня-</del></l>
       <l>етъ въ своемъ <hi rend="superscript">обясненїи</hi> <del rend="overstrike">объявленїи</del>, что не долженъ</l>
@@ -1827,8 +1819,7 @@
       <l>въ актахъ довѣренность? а я вопреки сего</l>
       <pb n="533-1"/>
       <fw type="pageNum" place="right">533</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">8</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">8</del></fw>
       <l>предъявляю видзкаго кагала свидѣтель-</l>
       <l>ство въ <date when="1798-07-25">25<hi rend="superscript">й</hi> день јюля 1798 года</date></l>
       <l>подписанное въ томъ, что оный кагалъ</l>
@@ -1921,8 +1912,7 @@
       оного</del></l>
       <pb n="534-1"/>
       <fw type="pageNum" place="right">534</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">9</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">9</del></fw>
       <l>написать, каковый рапортъ благоволитъ</l>
       <l><orgName ref="Литовский_надворный_суд">Надворный судъ</orgName> у г<hi rend="superscript">на</hi> <persName
       ref="Елиашевич">совѣтника</persName> истребо-</l>
@@ -2004,8 +1994,7 @@
       <hi rend="superscript">поступившихъ</hi> за райскїя</l>
       <pb n="535-1"/>
       <fw type="pageNum" place="right">535</fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">10</del><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">10</del></fw>
       <l>яблоки, и 515 рублей <persName ref="Шимель_Вульфович">Шимелемъ вульфовичемъ</persName></l>
       <l>изъ прихожанъ рекрутской подати <hi rend="superscript">выбранныхъ</hi> <del rend="overstrike">собрано</del>;
       <hi rend="superscript">то</hi> <del rend="overstrike">и</del></l>
@@ -2587,7 +2576,7 @@
       >правленїи</orgName> резолю</l>
       <l>цїи и на основанїи послѣдней изъ вышеупо</l>
       <l>мянутыхъ довѣренности основываетъ нынѣ</l>
-      <l>всѣ свои доказательствы, и то есть несправедли<gap reason="обрыв строки - поврежден край листа">___</gap></l>
+      <l>всѣ свои доказательствы, и то есть несправедли<gap reason="обрыв строки - поврежден край листа"/></l>
       <l><unclear>???</unclear> <del rend="overstrike">есть <unclear>???</unclear></del>, что <del rend="overstrike"
       >ежели</del> когда</l>
       <pb n="560-2"/>
@@ -2786,7 +2775,7 @@
       <l>надобность въ чиненїи <hi rend="superscript">преждесказанныхъ</hi> копїй, <hi rend="superscript">о выдачѣ</hi>
       которыхъ самъ</l>
       <l>я не осмѣливаюсь подавать въ <orgName ref="Литовское_губернское_правление">правленїе</orgName></l>
-      <l>прозбы, поелику правленїе резолюцїею отъ<gap reason="обрыв края листа, утрачены цифры">___</gap></l>
+      <l>прозбы, поелику правленїе резолюцїею отъ<gap reason="обрыв края листа, утрачены цифры"/></l>
       <l>јюля застращало меня остерегаться сего</l>
       <l>подъ опасенїемъ наказанїя, какъ свдѣтел<note place="end">повреждение листа; видимо,
       "свидетельствует"</note></l>

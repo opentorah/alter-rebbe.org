@@ -10,7 +10,13 @@
       состоянию евреев-купцов Орши и Оршанского уезда <placeName ref="Могилевская_губерния">Могилевской
       губернии</placeName>; приведены данные по семьям трех сыновей <persName ref="Цемах_Цедек">Менахема Менделя
       Шнеерсона</persName>
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="179-2"/>
@@ -187,9 +193,8 @@
       </row>
     </table>
     <pb n="181-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">204</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">181</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">204</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">181</fw>
     <table>
       <row>
         <cell>39.</cell>

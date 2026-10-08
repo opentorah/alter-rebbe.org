@@ -16,6 +16,11 @@
       <creation><date when="1800-05-02">1800 года Мая 2 дня</date></creation>
       <correspDesc><correspAction><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -90,11 +95,9 @@
     <l>таковыхъ объясненіи и возраженіи господынъ совѣтникъ</l>
     <l>контримъ объявилъ слѣдующее мнѣніе, что онъ приступая</l>
     <pb n="811-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">485</del></fw><note place="end">номер записан и зачеркнут
-    карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">1194</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">811</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand"><del rend="overstrike" hand="#pencilStrike">485</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">1194</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">811</fw>
     <l>къ выполненію послѣдняго предписанія Его высокопревосходительства</l>
     <l>отъ <date when="1800-04-02">2<hi rend="superscript">го</hi> минувшаго апрѣля мѣсяца</date> относительно взысканія
     недоим-</l>

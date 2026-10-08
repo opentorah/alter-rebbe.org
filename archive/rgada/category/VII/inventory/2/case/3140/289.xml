@@ -22,13 +22,18 @@
       </abstract>
       <creation><date when="1800-11">ноябрь<note place="end">вероятно, 15 или 16 ноября 1800 г.</note> 1800</date>
       </creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+        <handNote xml:id="inkStrike" medium="ink">зачёркнуто чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="289-1"/>
-    <fw type="pageNum" place="right">289</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">293</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">289</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">293</del></fw>
     <head>
       <l><persName ref="alter-rebbe">Салманъ Боруховичъ</persName> почитаемый начальникомъ</l>
       <l>Каролинской секты или Хоседовъ отвѣчаетъ</l>
@@ -80,7 +85,7 @@
       <l>могъ ошибиться, хотя онъ ее читалъ</l>
       <l>однажды. О <persName ref="maggid">беркѣ мезерицком</persName> сказать</l>
       <pb n="289-2"/>
-      <l><fw type="pageNum" place="left">289 об</fw><note place="end">номер вписан карандашом</note></l>
+      <l><fw type="pageNum" place="left" hand="#pencilHand">289 об</fw></l>
       <l>долженъ, что и онъ самъ ничего не сочинялъ,</l>
       <l>а есть книга подъ его названїемъ имя-</l>
       <l>нуемая собранïе рѣчей нравоучительныхъ</l>
@@ -106,9 +111,8 @@
     <l><fw type="note" place="left"><emph rend="underline">Переводъ съ еврейскаго.</emph></fw></l>
     <fw type="note" place="right"><l>Листы<lb/>
      1<hi rend="superscript">й</hi>.</l></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">294</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">290</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">294</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">290</fw>
     <p>
       <l>На 3 и 4 пункты</l>
       <l>Хотя вящше сего написано въ книгѣ</l>
@@ -143,7 +147,7 @@
       <l>Его имва<note place="end">императорского величества</note> престола</l>
     </p>
     <pb n="290-2"/>
-    <fw type="pageNum">290 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">290 об.</fw>
     <p>
       <l>
         <note type="gloss">|: о да возвысилось бы сіяніе Его до<lb/>
@@ -199,11 +203,9 @@
       <l>управленіе симъ свѣтомъ про</l>
       <l>исходить отъ безъконечнаго</l>
       <pb n="291-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">2</del></fw><note place="end">номер записан и вычеркнут
-      чернилами</note>
-      <fw type="pageNum" place="right">291</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">295</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">2</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">291</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">295</del></fw>
       <l>то зависитъ оное отъ</l>
       <l>звѣздъ или планетъ;</l>
       <l>или же что ни сдѣлаетъ, все</l>
@@ -245,7 +247,7 @@
       <l>можетъ <del rend="overstrike">стать</del> быть, чтобъ безъ</l>
       <l>конечный <hi rend="superscript">и безъпредѣльно вознесенный</hi> призралъ толь низкихъ</l>
       <pb n="291-2"/>
-      <fw type="pageNum">291 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">291 об.</fw>
       <fw type="note" place="right">ст 21</fw>
       <l>тварей сего свѣта? <del rend="overstrike">нетъ</del> объясня</l>
       <l>ющее: поелику корень кабалистиче</l>
@@ -286,11 +288,9 @@
       <l><del rend="overstrike"><unclear>???</unclear></del> всїо по волѣ</l>
       <l>всевышняго; <del rend="overstrike">Итакъ</del> а самое сіяниіе и вліяніе</l>
       <pb n="292-1"/>
-      <fw type="pageNum" place="right">292</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">296</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">3</del></fw><note place="end">номер записан и вычеркнут
-      чернилами</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">292</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">296</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">3</del></fw>
       <l><del rend="overstrike">такое влиятельное</del></l>
       <l><del rend="overstrike">сіяніе существующее на</del></l>
       <l><del rend="overstrike"><unclear>???</unclear>существующая</del></l>
@@ -326,7 +326,7 @@
       <l>называются обитаніе</l>
       <l><del rend="overstrike"><unclear>???</unclear> обиталище</del> <emph rend="big">ЕЦИРО</emph>,</l>
       <pb n="292-2"/>
-      <fw type="pageNum">292 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">292 об.</fw>
       <l>Гдѣ снискиваютъ <unclear>???</unclear> свѣтлость</l>
       <l>отъ <hi rend="superscript">упомянутой</hi> <del rend="overstrike">сефиротъ</del> <emph rend="big">
       сефироты</emph>,</l>
@@ -362,11 +362,9 @@
       <l><del rend="overstrike">суть с <unclear>??? ???</unclear></del></l>
       <l>сефироты, <del rend="overstrike"><unclear>???</unclear></del></l>
       <pb n="293-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">4</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">293</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">297</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">4</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">293</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">297</del></fw>
       <l><del rend="overstrike">другихъ <unclear>???</unclear> сефиротъ</del> отъ вышеприведенной первѣйшей</l>
       <l>сефироты <emph rend="big">хохмы децире</emph>,</l>
       <l>получающей оной отъ безъконеч</l>
@@ -398,7 +396,7 @@
       <l>слѣдовало бы человѣка ни <del rend="overstrike"><unclear>???</unclear></del></l>
       <l>наградить ниже наказать.</l>
       <pb n="293-2"/>
-      <fw type="pageNum">293 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">293 об.</fw>
       <l>изъ чего и явствуетъ: что <del rend="overstrike">хотя</del> тогда</l>
       <l>когда человѣкъ <del rend="overstrike">мыслитъ дѣлаетъ вредную</del></l>
       <l>предпринимаетъ своимъ разумомъ дѣлать какую либо</l>
@@ -433,11 +431,9 @@
       <l>4. нынѣ же приступая <del rend="overstrike">къ <unclear>???</unclear></del></l>
       <l>къ <del rend="overstrike">обьазанію</del> объясненію <del rend="overstrike">словъ книжки</del></l>
       <pb n="294-1"/>
-      <fw type="pageNum" place="right">294</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">4</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">298</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">294</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">4</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">298</del></fw>
       <l>речей той книжки и мыслей оныхъ</l>
       <l>представляющихся всякому безъпристрастному читателю и симъ самымъ разрѣшится вопросъ <persName ref="Авигдор">
       хаимовича</persName>:</l>
@@ -469,7 +465,7 @@
       <l>сія книжка, что имъ въ плотской</l>
       <l>жизни пристойно <del rend="overstrike">имъ</del> соединится</l>
       <pb n="294-2"/>
-      <fw type="pageNum">294 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">294 об.</fw>
       <l>съ богом напримѣръ: ежели</l>
       <l>видѣть нечаянно</l>
       <l>лютой звѣрь или сему</l>
@@ -504,11 +500,9 @@
       <l>къ богу и не нападетъ</l>
       <l>страхъ отъ лютаго звѣря</l>
       <pb n="295-1"/>
-      <fw type="pageNum" place="right">295</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">6</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">299</del></fw><note place="end">номер записан и вычеркнут
-      чернилами</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">295</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">6</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">299</del></fw>
       <l>и такъ какъ въ вышеупом</l>
       <l>янутой книгѣ называемой</l>
       <l>ХевосГалвовесъ сказано; но <del rend="overstrike">цѣль</del> смыслъ</l>
@@ -540,7 +534,7 @@
       <l>которой можетъ</l>
       <l>вредить, но <del rend="overstrike">напротивъ того</del></l>
       <pb n="295-2"/>
-      <fw type="pageNum">295 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">295 об.</fw>
       <l>напротивъ того <del rend="overstrike">богъ</del></l>
       <l>богъ вліяетъ въ человѣка</l>
       <l>разумъ, что можетъ</l>
@@ -576,11 +570,9 @@
       <l>Она блаженная, она <del rend="overstrike">исполняетъ</del></l>
       <l>состоитъ въ томъ чтобъ исполнить</l>
       <pb n="296-1"/>
-      <fw type="pageNum" place="right">296</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">300</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">7</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">296</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">300</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">7</del></fw>
       <l>Заповѣди Господнія, и волю</l>
       <l>Безконечнаго, яко въ талъмутѣ</l>
       <l>сказано, что ежели Государь и оставляетъ</l>
@@ -611,7 +603,7 @@
       <l>никакого участія, ибо они</l>
       <l>мнятъ что Государь будьто самъ</l>
       <pb n="296-2"/>
-      <fw type="pageNum">296 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">296 об.</fw>
       <l>учинился царемъ и не</l>
       <l>разумѣетъ что отъ</l>
       <l>Бога онъ получилъ царство,</l>
@@ -640,11 +632,9 @@
       <l>къ тѣмъ желаніямъ которыя</l>
       <l>нечаянно случаются. Конечно</l>
       <pb n="297-1"/>
-      <fw type="pageNum" place="right">297</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">8</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">301</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">297</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">8</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">301</del></fw>
       <l>Иногда бы случилось что <del rend="overstrike">еврей</del></l>
       <l>человѣкъ пожелалъ грѣшнаго,</l>
       <l>отъ чего боже сохрани,</l>
@@ -677,7 +667,7 @@
       <l>божіей. Какой прославляющій</l>
       <l>имя божіе рабъ есть человѣкъ,</l>
       <pb n="297-2"/>
-      <fw type="pageNum" place="right">297 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">297 об.</fw>
       <l>прочія же сотворенныя</l>
       <l>вещества сего свѣта, изданы</l>
       <l>къ потребамъ и службамъ</l>
@@ -710,11 +700,9 @@
       <l>боже сохрани, извѣстно</l>
       <l>изъ греха адамова.</l>
       <pb n="298-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">9</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">298</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">302</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">9</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">298</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">302</del></fw>
       <l>Почему и называется человѣкъ</l>
       <l>Царемъ нижнихъ то есть</l>
       <l>всѣхъ твореній сего свѣта.</l>
@@ -739,7 +727,7 @@
       <l>чиняемой моимъ соперникомъ.</l>
     </p>
     <pb n="298-2"/>
-    <fw type="pageNum">298 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">298 об.</fw>
     <p>
       <l>На 6<hi rend="superscript">й</hi> пунктъ</l>
       <l>Разумъ той книжки состоитъ въ томъ</l>
@@ -761,11 +749,9 @@
       <l>мысліе, ибо кому жъ говоритъ</l>
       <l>человѣкъ въ молитвѣ,</l>
       <pb n="299-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">10.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">299</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">303</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">10.</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">299</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">303</del></fw>
       <l>Прославленъ ты богъ! Естьли самъ</l>
       <l>Богъ то говоритъ.__ Что же онъ</l>
       <l>пишетъ именемъ той книжки,</l>
@@ -787,7 +773,7 @@
       <l>великому Царю дѣлаю я одѣжду!</l>
       <l>Должно сіе чинить съ радостїю.</l>
       <pb n="299-2"/>
-      <fw type="pageNum">299 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">299 об.</fw>
       <l>Да возглаголитъ всею силою, ибо</l>
       <l>ибо симъ онъ дѣлается соединеннымъ</l>
       <l>съ богомъ, поелику какъ вся сила</l>
@@ -808,11 +794,9 @@
       <l>ніе и приближеніе<note place="end">в оригинале кавычка не закрыта</note> и не означаетъ</l>
       <l>того, что будто совершенно бываетъ</l>
       <pb n="300-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">11.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">300</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">304</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">11.</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">300</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">304</del></fw>
       <l>однимъ съ богомъ, впрочемъ кто по-</l>
       <l>смотритъ въ ту книжку увидитъ,</l>
       <l>что вовсе несовмѣстно во ономъ</l>
@@ -833,7 +817,7 @@
       <l>скихъ печатныхъ книгахъ.</l>
     </p>
     <pb n="300-2"/>
-    <fw type="pageNum">300 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">300 об.</fw>
     <p>
       <l>На 7<hi rend="superscript">й</hi> пунктъ.</l>
       <l>О деньгах, что онъ <persName ref="Авигдор">Хаймовичъ</persName> пи-</l>
@@ -856,11 +840,9 @@
       <l>а польскія называемыя тамо по ихъ</l>
       <l>обыкновенію нѣмецкими, даже и десяти</l>
       <pb n="301-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">12</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">301</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">305</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">12</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">301</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">305</del></fw>
       <l>человѣкъ тогда не составлявшія, имѣли</l>
       <l>помощь и достаточное содержаніе отъ</l>
       <l>своихъ сродниковъ, изъ того мѣста</l>
@@ -882,7 +864,7 @@
       Подольской</placeName></l>
       <l>и прочимъ губерніямъ, откуда</l>
       <pb n="301-2"/>
-      <fw type="pageNum">301 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">301 об.</fw>
       <l>тоже какъ я слыхалъ поѣхало</l>
       <l>туда немало человѣкъ, и слѣд-</l>
       <l>ственно они тоже имѣютъ</l>
@@ -903,15 +885,11 @@
       <l>нашемъ краю и въ близостяхъ</l>
       <l>онаго обыкновенія чтобъ посылать</l>
       <pb n="302-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">13.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">14.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">302</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">305</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">307</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">13.</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">14.</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">302</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">305</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">307</del></fw>
       <l>деньги на содержаніе богомольниковъ</l>
       <l><placeName ref="Палестина">израильскаго края</placeName> вовсе не проис-</l>
       <l>ходитъ отъ меня, но отъ послан-</l>
@@ -932,7 +910,7 @@
       <l>вѣрнымъ отъ нихъ избраннаго</l>
       <l>человѣка <persName ref="Янкель_Лейбович">Янкелемъ Лейбовичемъ</persName></l>
       <pb n="302-2"/>
-      <fw type="pageNum">302 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">302 об.</fw>
       <l>изъ Смоляна<note place="end">Смоляны - ныне деревня в 30 км к западу от Орши</note>.Но какъ такое обык-</l>
       <l>новеніе водворилось, чрезъ выше-</l>
       <l>упомянутыя посланники, то слу-</l>
@@ -955,11 +933,9 @@
       <l>туда</l>
       <l>квитанціи за подписамі</l>
       <pb n="303-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">14.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">303</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">307</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">14.</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">303</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">307</del></fw>
       <l>тамо жительствующихъ евреевъ, съ тѣмъ,</l>
       <l>дабы онъ могъ оныя показать каж-</l>
       <l>дому обѣты такія чинившему, что</l>
@@ -980,7 +956,7 @@
       <l>учители, ниже слышалъ отъ та-</l>
       <l>ковыхъ, чтобы иногда сказалъ:</l>
       <pb n="303-2"/>
-      <fw type="pageNum">303 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">303 об.</fw>
       <l>якобы то постановленіе написано, въ</l>
       <l>какой либо публичной или непублич-</l>
       <l>ной книгѣ. По истиннѣ всякой даетъ,</l>
@@ -1001,11 +977,9 @@
       <l>онъ насъ ненавидитъ, или можетъ</l>
       <l>статься онъ нанятъ на то отъ виленскихъ</l>
       <pb n="304-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">15.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">304</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">308</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">15.</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">304</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">308</del></fw>
       <l>евреевъ, намъ враждующихъ.</l>
     </p>
     <p>
@@ -1029,7 +1003,7 @@
       <l>за два года назадъ тому душа</l>
       <l>моя получила благодать въ очахъ</l>
       <pb n="304-2"/>
-      <fw type="pageNum" place="right">304 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">304 об.</fw>
       <l>всемилостивѣйшаго Государя импе-</l>
       <l>ратора нашего, что божественной</l>
       <l>разумъ и всемилостивѣйшимъ</l>
@@ -1045,13 +1019,10 @@
       <l>пишу въ 9<hi rend="superscript">м</hi> пунктѣ.</l>
     </p>
     <pb n="305-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">13</del></fw><note place="end">номер записан и вычеркнут
-    чернилами</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">17</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">305</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">309</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">13</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">17</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">305</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">309</del></fw>
     <p>
       <l>На 9 Пунктъ.</l>
       <l>1<hi rend="superscript">е</hi>. Прежде начатія объясненія моего</l>
@@ -1098,7 +1069,7 @@
       <pb n="305-2"/>
       <fw type="pageNum" place="left">2</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
       </note>
-      <fw type="pageNum">305 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">305 об.</fw>
       <l>требуемыя деньги; поелику по</l>
       <l>истиннѣ евреямъ вовсѣ нужды</l>
       <l>нѣтъ въ такомъ раввинѣ,</l>
@@ -1139,11 +1110,9 @@
       <pb n="306-1"/>
       <fw type="pageNum" place="left">3</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
       </note>
-      <fw type="pageNum" place="right"><del rend="overstrike">18</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">306</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">310</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">18</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">306</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">310</del></fw>
       <l>были такового рода раввину</l>
       <l>опредѣлены суть такія. Извѣстное</l>
       <l>число съ кагальской или тамошняго</l>
@@ -1189,7 +1158,7 @@
       <pb n="306-2"/>
       <fw type="pageNum" place="left">4</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
       </note>
-      <fw type="pageNum">306 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">306 об.</fw>
       <l><del rend="overstrike">не имѣетъ</del> никакой власти</l>
       <l>надъ кѣмъ либо, и никто не</l>
       <l>обьязанъ долгомъ отдать ему</l>
@@ -1247,11 +1216,9 @@
       <pb n="307-1"/>
       <fw type="pageNum" place="left"><del rend="overstrike">5</del></fw><note place="end">номер страницы в ответах на 9
       пункт, записан чернилами</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">19.</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">307</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">311</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">19.</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">307</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">311</del></fw>
       <l>въ томъ никакой нужды нѣтъ,</l>
       <l>да и власть моя въ томъ не</l>
       <l>состоитъ. такъ какъ и по</l>
@@ -1335,7 +1302,7 @@
         <l>да и не будетъ, боже сохрани!</l>
       </fw></p>
     <pb n="307-2"/>
-    <fw type="pageNum">307 об.</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">307 об.</fw>
     <fw type="pageNum" place="left">6</fw><note place="end">номер страницы записан чернилами</note>
     <del rend="overstrike">
       <l>большую на долгое время поправку и возчувствовніе</l>
@@ -1398,9 +1365,9 @@
         <l>ко мнѣ, что будто состоитъ</l>
         <l>въ 20 или 10 тысящахъ человѣкъ</l>
         <pb n="308-1"/>
-        <fw type="pageNum" place="right"><del rend="overstrike">20</del></fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
-        <fw type="pageNum" place="right">308</fw><note place="end">номер вписан карандашом</note>
-        <fw type="pageNum" place="right"><del rend="overstrike">312</del></fw><note place="end">номер записан чернилами и вычеркнут карандашом</note>
+        <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">20</del></fw>
+        <fw type="pageNum" place="right" hand="#pencilHand">308</fw>
+        <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">312</del></fw>
         <l>но по справедливости совсѣмъ болѣе</l>
         <l>не будетъ уже съ дѣтьми</l>
         <l>и учителями какъ только 3000</l>
@@ -1439,7 +1406,7 @@
       <l><del rend="overstrike">Изъ продолженія молитвы которая</del></l>
     </p>
     <pb n="308-2"/>
-    <fw type="pageNum">308 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">308 об.</fw>
     <fw type="pageNum" place="left">8</fw><note place="end">номер страницы в ответах на 9 пункт, записан чернилами
     </note>
     <p>
@@ -1482,11 +1449,9 @@
     <pb n="309-1"/>
     <fw type="pageNum" place="right"><del rend="overstrike">9</del></fw><note place="end">номер страницы записан и
     вычеркнут чернилами</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">21.</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">309</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">313</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">21.</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">309</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">313</del></fw>
     <p>
       <l><del rend="overstrike">продолжитель</del></l>
       <l>Чтобъ продолжительно богу молиться</l>
@@ -1522,7 +1487,7 @@
        <note type="gloss">|: то есть тѣ которыя отправляютъ<lb/>
        по еврейскіи богомоленіе :|</note></del></l>
       <pb n="309-2"/>
-      <fw type="pageNum">309 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">309 об.</fw>
       <fw type="pageNum" place="left">10</fw><note place="end">номер страницы записан чернилами</note>
       <l><del rend="overstrike">если начать отправленіе</del> Страхъ</l>
       <l>и ужасъ такого раввина обладалъ</l>
@@ -1555,11 +1520,9 @@
       <l><placeName ref="Минская_губерния">Минской</placeName>, <placeName ref="Волынская_губерния">
       волынской</placeName>, Новороссійской</l>
       <pb n="310-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">22</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">310</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">314</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">22</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">310</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">314</del></fw>
       <l>Малороссійской и Кіевской, гдѣ они никогда</l>
       <l>никѣмъ не назывались <orgName ref="Хасиды">каролинами</orgName>, но</l>
       <l><orgName ref="Хасиды">хоседами</orgName>, которое наименованіе происхо-</l>
@@ -1582,7 +1545,7 @@
       <l>по справѣдливости дѣло не такъ,</l>
       <l>и вовсе странно отъ таковаго мнѣнія,</l>
       <pb n="310-2"/>
-      <fw type="pageNum">310 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">310 об.</fw>
       <l>Можно видѣть изъ того, что раскольники</l>
       <l>никакого сообщенія съ русскими или другими</l>
       <l>не имѣютъ, не ѣдятъ и не пьютъ съ ними,</l>
@@ -1607,11 +1570,9 @@
       <l>но имѣлись рукописные у знамѣнитыхъ</l>
       <l>нынѣ же уже около сорока лѣтъ, какъ</l>
       <pb n="311-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">23</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">311</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">315</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">23</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">311</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">315</del></fw>
       <l>они напечатаны въ Амстердамѣ,</l>
       <l>съ позволенія тамошнихъ раввиновъ,</l>
       <l>хотя и не назывались <orgName ref="Хасиды">хосседами</orgName><note place="end">так в оригинале</note>.</l>
@@ -1624,13 +1585,10 @@
     </p>
     <pb n="311-2"/>
     <pb n="312-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">6</del><note place="end">номер записан чернилами и вычеркнут
-    карандашом</note></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">25</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">312</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">316</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">6</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">25</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">312</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">316</del></fw>
     <p>
       <l><del rend="overstrike">то же извѣстно ибо <unclear>???</unclear></del></l>
       <l>ибо такая съ прибавленіями</l>
@@ -1667,7 +1625,7 @@
       <l>называютъ насъ <orgName ref="Хасиды">хосидами</orgName>;</l>
       <l><note type="gloss">|: то есть благодѣтелями :|</note></l>
       <pb n="312-2"/>
-      <fw type="pageNum">312 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">312 об.</fw>
       <l>а никакой зависти и вражды не имѣютъ; но <placeName ref="Вильна">виленскія</placeName> богатыя</l>
       <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
       <l><del rend="overstrike">богатыя евреи будучи само</del></l>
@@ -1699,15 +1657,11 @@
        онаго раввина своего<lb/>
        столь гнали, что онъ</del></l>
       <pb n="313-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">7</del><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note></fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">18</del></fw><note place="end">номер записан и вычеркнут
-      чернилами</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">26</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">313</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">317</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">7</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">18</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">26</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">313</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">317</del></fw>
       <p>
         <l><del rend="overstrike">однажды былъ<lb/>
          принужденъ искать прибѣжище<lb/>
@@ -1768,7 +1722,7 @@
         <l>будучи гонимыми жаловались</l>
       </del>
       <pb n="313-2"/>
-      <fw type="pageNum">313 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">313 об.</fw>
       <del rend="overstrike">
         <l>тамошнему губернскому правленію</l>
         <l>чрезъ которое уничтожились тѣ</l>
@@ -1814,15 +1768,11 @@
       <l>что взяты <hi rend="superscript">въ губернское правленіе</hi> всѣ книги</l>
     </p>
     <pb n="314-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">4</del><note place="end">номер записан и вычеркнут
-    чернилами</note></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">19</del></fw><note place="end">номер записан и вычеркнут
-    чернилами</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">27</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">314</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">318</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">4</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">19</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">27</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">314</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">318</del></fw>
     <p>
       <l>О приходахъ тамошняго еврей-</l>
       <l>скаго кагала или собранїя</l>
@@ -1858,7 +1808,7 @@
       <l>4</l>
       <l>что же онъ <persName ref="Авигдор">хаимовичъ</persName> пишетъ</l>
       <pb n="314-2"/>
-      <fw type="pageNum">314 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">314 об.</fw>
       <l>будьто <orgName ref="Хасиды">хоседы</orgName> переменили обряды</l>
       <l>еврейскія въ молитвахъ и даже</l>
       <l>одежды, что не <del rend="overstrike">одеваются</del> носятъ</l>
@@ -1889,14 +1839,11 @@
       <l><orgName ref="Хасиды">хоседы</orgName>; а особливо изъ</l>
       <l>учѣниковъ <placeName ref="Вильна">вилинскаго</placeName> покойнаго раввина</l>
       <pb n="315-1"/>
-      <fw type="pageNum" place="right">315</fw><note place="end">Номер вписан карандашом</note>
-      <fw type="pageNum" place="right">5</fw><note place="end">номер записан черилами</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">18</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">28</del></fw><note place="end">номер записан и зачеркнут
-      чернилами</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">318<hi rend="superscript">а</hi></del></fw><note
-      place="end">номер записан чернилами и вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">315</fw>
+      <fw type="pageNum" place="right" hand="#inkHand">5</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">18</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">28</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">318<hi rend="superscript">а</hi></del></fw>
       <l><persName ref="Элиас">Еліаша</persName>, а напротивъ того</l>
       <l>въ <placeName ref="Белоруссия">бѣлорусіи</placeName> есть многіе</l>
       <l>изъ <orgName ref="Хасиды">хоседовъ</orgName>, которыя</l>
@@ -1905,13 +1852,10 @@
     </p>
     <pb n="315-2"/>
     <pb n="316-1"/>
-    <fw type="pageNum" place="right">316</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">29</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">319</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike"><unclear>26</unclear></del></fw><note place="end">номер
-    записан и вычернкут чернилами</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">316</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">29</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">319</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike"><unclear>26</unclear></del></fw>
     <p>
       <l>на 10.</l>
       <l>Сіе достойно удивленія<note place="end">над "достойно" поставлена цифра "1", над "удивления" – "2", вероятно,
@@ -1950,7 +1894,7 @@
       <l>не можетъ.</l>
     </p>
     <pb n="316-2"/>
-    <fw type="pageNum">316 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">316 об.</fw>
     <p>
       <l>на 11<hi rend="superscript">и</hi></l>
       <l>О присягѣ доношу, что то несправедливо</l>
@@ -1985,12 +1929,10 @@
       <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
       <l><del rend="overstrike">но тамошній Господинъ</del></l>
       <pb n="317-1"/>
-      <fw type="pageNum" place="right">317</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">320</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike"><unclear>27</unclear></del></fw><note place="end">номер
-      записан чернилами и вычеркнут карандашом</note>
-      <fw type="pageNum" place="right">30.</fw><note place="end">номер записан чернилами</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">317</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">320</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike"><unclear>27</unclear></del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand">30.</fw>
       <l><del rend="overstrike">Гражданскій губернаторъ чрезъ полицію</del></l>
       <l><del rend="overstrike">объявилъ</del> о присланномъ</l>
       <l><del rend="overstrike">къ нему</del> отъ Г<hi rend="superscript">на</hi> бывшаго</l>
@@ -2025,7 +1967,7 @@
       <l>почтенія отца и матери</l>
       <l>такъ какъ и прочія?</l>
       <pb n="317-2"/>
-      <fw type="pageNum">317 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">317 об.</fw>
       <l>а кольми паче присяги? <del rend="overstrike">важнѣе</del></l>
       <l>приважнѣишаго таковаго предмѣта?</l>
       <l>Да и естли бы случилось въ</l>
@@ -2063,14 +2005,11 @@
       <l>евреевъ, и отчасти даже и ученныхъ.</l>
     </p>
     <pb n="318-1"/>
-    <fw type="pageNum" place="right">318</fw><note place="end">номер вписан карандашом</note>
-    <fw type="pageNum" place="right">3</fw><note place="end">номер записан чернилами</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">321</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike">31</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right"><del rend="overstrike"><unclear>22</unclear></del></fw><note place="end">номер
-    записан чернилами и вычеркнут карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">318</fw>
+    <fw type="pageNum" place="right" hand="#inkHand">3</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">321</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">31</del></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike"><unclear>22</unclear></del></fw>
     <fw type="note" place="right margin"><p>
       <l>на 13. то есть несправедливо</l>
       <l>и никогда не бывало и не</l>
@@ -2122,7 +2061,7 @@
       <l>Удивительно мнѣ, какъ онъ</l>
     </p>
     <pb n="318-2"/>
-    <fw type="pageNum">318 об.</fw><note place="end">номерзаписан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">318 об.</fw>
     <p>
       <l><persName ref="Авигдор">хаимовичъ</persName> не стыдился</l>
       <l>говорить, такую</l>
@@ -2158,13 +2097,10 @@
       <l>того никакого сомнѣнія</l>
       <l>во вредѣ; а когда бываетъ</l>
       <pb n="319-1"/>
-      <fw type="pageNum" place="right">319</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">4</del></fw><note place="end">номер записан и вычеркнут
-      чернилами</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">32</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">322</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">319</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike">4</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">32</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">322</del></fw>
       <l>ярманка въ такомъ</l>
       <l>маломъ мѣстѣ, какъ</l>
       <l>напримѣръ <unclear>???</unclear>, слу</l>
@@ -2191,7 +2127,7 @@
       <l>тотъ а другія в другой</l>
       <l>мцъ<note place="end">месяц</note>, <del rend="overstrike">а на болѣе въ</del> естли пріезжаютъ</l>
       <pb n="319-2"/>
-      <fw type="pageNum">319 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">319 об.</fw>
       <l>нѣсколько сотъ человѣкъ, <hi rend="superscript">то уже весьма много</hi> а иногда</l>
       <l>по сто пятидѣсяти и ме</l>
       <l>нѣе. – онъ <persName ref="Авигдор">хаимовичъ</persName> самъ</l>
@@ -2224,13 +2160,11 @@
       <l>то что ему <persName ref="Авигдор">хаимовичу</persName> завидно? онъ</l>
       <l>самъ тоже когда <del rend="overstrike">нанималъ</del></l>
       <pb n="320-1"/>
-      <fw type="pageNum" place="right">320</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">320</fw>
       <fw type="pageNum" place="right"><del rend="overstrike">5</del></fw><note place="end">номер записан
       чернилами</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">33</del></fw><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">323</del></fw><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">33</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">323</del></fw>
       <l>былъ раввиномъ</l>
       <l>принималъ подарки</l>
       <l><del rend="overstrike">когда</del> естли ему давали,</l>
@@ -2263,7 +2197,7 @@
       <l>заключеннаго.</l>
     </p>
     <pb n="320-2"/>
-    <fw type="pageNum">320 об.</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" hand="#pencilHand">320 об.</fw>
     <p>
       <l>19</l>
       <l><del rend="overstrike"><unclear>??? ???</unclear></del></l>
@@ -2321,11 +2255,9 @@
       <l>дѣлѣ, затруднять вѣрно</l>
       <l>подданный и любезный сынъ</l>
       <pb n="321-1"/>
-      <fw type="pageNum" place="right">321</fw><note place="end">номер вписан карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">34</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">324</del></fw><note place="end">номер записан чернилами и
-      вычеркнут карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand">321</fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">34</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">324</del></fw>
       <l>отечества <del rend="overstrike">затруднять не</del> долженствуетъ?</l>
       <l><del rend="overstrike">въпрочемъ я <unclear>???</unclear></del></l>
       <l><del rend="overstrike">всемилостиѣйшій Государ</del></l>

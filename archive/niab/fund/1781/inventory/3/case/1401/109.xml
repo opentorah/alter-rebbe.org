@@ -11,14 +11,18 @@
         Документ могилевской православной консистории об обстоятельствах крещения <persName ref="Моше_Шнеерсон">Моше
         Шнеерсона</persName> на основе сведений, поступивших из губернской католической консистории
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="109-1"/>
     <fw type="note" place="left"><date when="1820-11-18">1820 года Nоября 18 дня</date></fw>
-    <fw type="pageNum" place="right"><del rend="overstrike">34</del><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note></fw>
-    <fw type="pageNum" place="right">109<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">34</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">109</fw>
     <p>
       <l><emph rend="big">Слушали</emph>: Сообщенїе Могилевской греко-римской консисторїи отъ <date when="1820-11-12">12
       числа<lb/>

@@ -13,6 +13,9 @@
       </p></abstract>
       <creation><date when="1826-02-12">12 февраля 1826 года</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -56,7 +59,7 @@
       <l>а во всѣ еврейскіе прикагалки указы чрезъ своего</l>
       <l>служителя; и таковую резолюцію исполнилъ</l>
       <pb n="075-2"/>
-      <fw type="pageNum" place="right">75 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">75 об</fw>
       <l>тѣмъже порядкомъ 16<hi rend="superscript">го</hi> генваря. Отряженный же воз--</l>
       <l>вращаясь уже съ отвѣтами въ магистратъ, первой</l>
       <l>то есть <persName ref="мителер_ребе">равина</persName> отвѣтъ неизвѣстно какимъ образомъ</l>

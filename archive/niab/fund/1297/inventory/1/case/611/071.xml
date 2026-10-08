@@ -11,6 +11,9 @@
         >Дов-Бера Шнеерсона</persName> в суд при Бабиновицком магистрате
       </p></abstract>
       <creation><date when="1826-01-09">Января 9 дня 1826 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -45,7 +48,7 @@
       <l>смотренія и поступленія съ виновными по зако</l>
       <l>намъ; и о наблюденіи за правильнымъ ходомъ</l>
       <pb n="071-2"/>
-      <fw type="pageNum" place="right">71 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">71 об</fw>
       <l>и скорѣйшимъ рѣшеніемъ онаго дѣла</l>
       <l>на точномъ основаніи законовъ, я ныне</l>
       <l>же предписалъ бабиновицкому уездному</l>

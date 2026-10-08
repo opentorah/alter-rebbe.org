@@ -10,13 +10,17 @@
         Авигдора Хаймовича</persName>
       </p></abstract>
       <creation><date notBefore="1800-11" notAfter="1800-12">ноябрь или декабрь 1800</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="337-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">339</del></fw><note place="end">номер записан чернилами и
-    вычеркнут карандашом</note>
-    <fw type="pageNum" place="right">337</fw><note place="end">номер вписан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">339</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">337</fw>
     <head>
       <l>переводъ съ еврейскихъ писемъ въ краткомъ</l>
       <l>содержаніи:</l>
@@ -51,7 +55,7 @@
       <l>наторъ учинивъ запросъ о томъ отъ <orgName ref="Виленский_кагал">кагалъ</orgName>,</l>
       <l>по объясненію коего, что никогда онъ тамо</l>
       <pb n="337-2"/>
-      <fw type="pageNum">337 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">337 об.</fw>
       <l>не былъ раввиномъ и никакихъ денегъ не давал,</l>
       <l>отрапортуетъ командѣ. пишетъ еще, что и</l>
       <l>г<hi rend="superscript">нъ</hi> губернаторъ сердясь удивляется, какъ оной</l>
@@ -83,9 +87,8 @@
       <l>получаемыхъ ими отъ еврея Лейба или леон-</l>
       <l>тія жителя лучинскаго; сумнѣваясь, что</l>
       <pb n="338-1"/>
-      <fw type="pageNum" place="right"><del rend="overstrike">340</del></fw><note place="end">номер записан чернилами и
-      зачеркнут карандашом</note>
-      <fw type="pageNum" place="right">338</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">340</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">338</fw>
       <l>не имѣютъ отъ него письма о полученіи имъ</l>
       <l>таковыхъ отъ нихъ, просятъ отъ него юдиля,</l>
       <l>чтобъ онъ имъ писалъ письмо, дабы они знали,</l>
@@ -111,7 +114,7 @@
       <l>всегда, когда ему нужно будетъ, а то было</l>
       <l>предполуднемъ; по окончаніи же разговоровъ</l>
       <pb n="338-2"/>
-      <fw type="pageNum">338 об.</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" hand="#pencilHand">338 об.</fw>
       <l>провожалъ <emph rend="big"><persName ref="Павел_I">Государь императоръ</persName></emph> самъ</l>
       <l><persName ref="Авигдор">раввина</persName> чрезъ три комнаты, покудова вы-</l>
       <l>шелъ. вполдень <emph rend="big"><persName ref="Павел_I">Государь императоръ</persName></emph></l>

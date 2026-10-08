@@ -15,6 +15,11 @@
       <creation><date when="1800-08-30">30 августа 1800</date></creation>
       <correspDesc><correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -55,7 +60,7 @@
       <l>тчихъ разгаворахъ сказалъ мне какъ каза-</l>
       <l>лось от искренности что онъ въ месте</l>
       <pb n="261-2"/>
-      <fw type="pageNum" place="left">261 об.</fw><note place="end">номер вписан карандашом</note>
+      <fw type="pageNum" place="left" hand="#pencilHand">261 об.</fw>
       <l>с симъ <persName ref="alter-rebbe">борковичѣмъ</persName> воспитывался и<note place="end">край листа оборван –
       вероятно, "и равно"</note></l>
       <l>мерно ево хвалилъ и что ани почита<note place="end">край листа оборван – вероятно, "ютъ"</note></l>
@@ -83,11 +88,9 @@
         <del rend="overstrike">366</del>
         <hi rend="superscript">а</hi>
       </fw>
-      <fw type="pageNum" place="right"><del rend="overstrike">266а</del></fw><note place="end">номер вписан и вычеркнут
-      карандашом</note>
-      <fw type="pageNum" place="right"><del rend="overstrike">368</del></fw><note place="end">номер вписан чернилами и
-      зачеркнут карандашом</note>
-      <fw type="pageNum" place="right">262</fw><note place="end">номер записан карандашом</note>
+      <fw type="pageNum" place="right" hand="#pencilHand"><del rend="overstrike" hand="#pencilStrike">266а</del></fw>
+      <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">368</del></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">262</fw>
       <l>остѣрегаяся хитрости евреискои не хотя</l>
       <l>пропустить сей первой почты чтобъ</l>
       <l>не известить что я по повелѣнию вашего вы-</l>

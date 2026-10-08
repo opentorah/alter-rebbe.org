@@ -11,11 +11,14 @@
         Сопроводительная записка к доккументам, представленным генерал-губернатором в Сенат по делу <persName
         ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="016-1"/>
-    <fw type="pageNum" place="right">16<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">16</fw>
     <fw type="note" place="left margin"><signed><unclear>???</unclear></signed><note place="end">подпись
     канцеляриста</note></fw>
     <opener place="left">

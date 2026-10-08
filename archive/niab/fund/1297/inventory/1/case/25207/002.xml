@@ -14,6 +14,9 @@
         Два распоряжения белорусского генерал-губернатора Первому департаменту Могилевского губернского суда о доставке
         решения и сопутствующих документов по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -48,7 +51,7 @@
       <l>жительномъ времяни.</l>
     </p>
     <pb n="002-2"/>
-    <fw type="pageNum" place="right">20 об<note place="end">номер вписан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">20 об</fw>
     <opener place="left">
       <l>отдѣленіе 1</l>
       <l>№ 1167.</l>
@@ -78,6 +81,6 @@
       <l>всї то<note place="end">два слова вписаны на левом поле при начале строки</note> сколь можно поспѣшнѣе.</l>
       <l>П.Г.Г.Л</l>
     </p>
-    <fw type="pageNum" place="right">2об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">2об</fw>
   </body></text>
 </TEI>

@@ -9,13 +9,19 @@
       Фрагмент именного списка купцов Оршанского уезда <placeName ref="Могилевская_губерния">Могилевской
       губернии</placeName> и членов их семейств, относящийся к <persName ref="Цемах_Цедек">Менахему Менделю
       Шнеерсону</persName>, его детям и внуку
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="138-1"/>
     <fw type="pageNum" place="right">136</fw><note place="end">номер записан чернилами и зачеркнут карандашом</note>
     <fw type="pageNum" place="right">163</fw><note place="end">номер записан чернилами и зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">188</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right" hand="#pencilHand">188</fw>
     <head>
       <l><emph rend="big">Имяный списокъ</emph></l>
       <l>Оршанской городской думы купцамъ города</l>
@@ -318,9 +324,8 @@
       </row>
     </table>
     <pb n="145-1"/>
-    <fw type="pageNum" place="right"><del rend="overstrike">169</del></fw><note place="end">номер записан чернилами и
-    зачеркнут карандашом</note>
-    <fw type="pageNum" place="right">145</fw><note place="end">номер записан карандашом</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">169</del></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">145</fw>
     <table>
       <row>января</row>
       <row>

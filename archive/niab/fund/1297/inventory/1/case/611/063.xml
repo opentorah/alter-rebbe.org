@@ -11,6 +11,9 @@
         следственных действиях по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> и передаче дела в суд
       </p></abstract>
       <creation><date when="1825-11-17">17 ноября 1825</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -62,7 +65,7 @@
       <l>отца своего <persName ref="alter-rebbe">Зальмана</persName> <del rend="overstrike">изъ</del></l>
       <l><del rend="overstrike">числа</del> собранную сумму <del rend="overstrike">чет-</del></l>
       <pb n="063-2"/>
-      <fw type="pageNum" place="right">63 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">63 об</fw>
       <l><del rend="overstrike">вертую часть</del> 35/т рублей<del rend="overstrike">,</del> <del rend="overstrike"
       >со</del>-</l>
       <l><del rend="overstrike">ставляющую</del> раздѣлилъ между</l>
@@ -132,7 +135,7 @@
       <l>съ еврейскаго общества, то</l>
       <l>кѣмъ деньги сіи собираются,</l>
       <pb n="064-2"/>
-      <fw type="pageNum" place="right">64 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">64 об</fw>
       <l>на основаніи какого закона,</l>
       <l>до какого количества въ</l>
       <l>годъ, по уравнительной ли</l>

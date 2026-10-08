@@ -12,6 +12,9 @@
       </p></abstract>
       <creation><date when="1826-01-23">23 января 1826 года</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -51,7 +54,7 @@
       <l>поступило въ магистратъ <date when="1825-12-23">23<hi rend="superscript">го</hi> декабря<lb/>
        прошлаго 1825<hi rend="superscript">го</hi> года</date> и оставалось безъ разсмотренія</l>
       <pb n="077-2"/>
-      <fw type="pageNum" place="right">77 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">77 об</fw>
       <l>При настаиванїи моемъ личномъ и письмен-</l>
       <l>номъ до <date when="1826-01-13">13<hi rend="superscript">го</hi> сего генваря</date> а 13<hi rend="superscript"
       >го</hi> числа магистратъ</l>

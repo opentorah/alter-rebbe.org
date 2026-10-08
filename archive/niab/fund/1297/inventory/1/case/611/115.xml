@@ -12,6 +12,9 @@
         Донесение Витебской казенной палаты о неуплате в казну излишне начисленных прпогонных средств во время следствия
         по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -50,7 +53,7 @@
       when="1828-03-03">3. марта</date> и <date when="1828-08-21">августа<lb/>
        21 числъ 1828. года</date>; Но какъ таковые деньги по</l>
       <pb n="115-2"/>
-      <fw type="pageNum" place="right">115 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">115 об</fw>
       <l>нынѣ въ казну не поступили и считаются</l>
       <l>въ Nедоимкѣ для того <emph rend="big">опредѣлено</emph>: пред</l>
       <l>ставить вновь Вашему Сїятельству и про-</l>

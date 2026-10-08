@@ -12,6 +12,9 @@
         делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> – аналог документа <ref target="/niab611/102">в
         деле 611 того же архива</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -46,7 +49,7 @@
       <l>еврейскимъ обществомъ секту,</l>
       <fw type="note" place="lower margin">5<hi rend="superscript">го</hi> департа по 2. отдѣленію.</fw>
       <pb n="006-2"/>
-      <fw type="pageNum" place="left">6 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">6 об</fw>
       <l><orgName ref="Хасиды">называемую королинскою, или хосы-<lb/>
        довъ</orgName> притесняющую разными спосо</l>
       <l>бами настоящихъ или старозакон-</l>
@@ -118,7 +121,7 @@
       <l>Сей Департаментъ приговоромъ</l>
       <l>своимъ заключилъ: поелику</l>
       <pb n="007-2"/>
-      <fw type="pageNum" place="left">7 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">7 об</fw>
       <l><unclear>??? ???</unclear>ться, что <persName ref="мителер_ребе">Шнееръ</persName> будучи</l>
       <l>
         <unclear>призванъ</unclear>
@@ -154,7 +157,7 @@
       <l>вить его отъ суда свободнымъ</l>
     </p>
     <pb n="008-1"/>
-    <fw type="pageNum" place="right">8<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">8</fw>
     <fw type="note" place="left margin">кре-</fw>
     <p><l>Разсмотревъ дѣло сіе съ <unclear>???</unclear></l>.</p>
     <p>
@@ -175,7 +178,7 @@
       <l>требляя къ сему сбору довѣрен-</l>
       <l>ныхъ людей. Сверъ того, какъ</l>
       <pb n="008-2"/>
-      <fw type="pageNum" place="left">8 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">8 об</fw>
       <l>самъ онъ признался, принималъ на</l>
       <l>себя разборъ нѣкоторыхъ дѣлъ по дол-</l>
       <l>говымъ претензіямъ спорящи-</l>
@@ -200,7 +203,7 @@
       <l>емыхъ въ каждое трехлѣтіе и ут-</l>
       <l>вержденныхъ по силѣ 50<hi rend="superscript">й</hi> статьи</l>
       <pb n="009-1"/>
-      <fw type="pageNum" place="right">9<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">9</fw>
       <fw type="note" place="left margin">тарь</fw>
       <l><unclear>??? ??? ??? 9<hi rend="superscript">й</hi></unclear><note place="end">верхний край листа поврежден,
       строка не читается</note></l>
@@ -224,7 +227,7 @@
       <l>на сборъ сей суммы, чтобъ оный</l>
       <l>былъ принужденный, или налогомъ</l>
       <pb n="009-2"/>
-      <fw type="pageNum" place="left">9 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">9 об</fw>
       <l><unclear>??? ???</unclear><note place="end">верхний край листа поврежден, начало строки не читается</note>.
       никто не жалуется и</l>
       <l>не жаловался, и чтобы кому изъ ста-</l>
@@ -250,7 +253,7 @@
       <l>третейскій судъ, джля котораго тяжу-</l>
       <l>щіеся избираютъ посредниковъ, не желая</l>
       <pb n="010-1"/>
-      <fw type="pageNum" place="right">10<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">10</fw>
       <fw type="note" place="left margin"><signed>Андрей <unclear>???</unclear></signed><note place="end">подпись
       канцеляриста</note></fw>
       <l>имѣть тяжбы судебной, <unclear>???</unclear><note place="end">верхний край листа поврежден, конец строки
@@ -279,7 +282,7 @@
       <l>ваньемъ„. Кромѣ раввина <persName ref="мителер_ребе">Шнеера</persName></l>
       <l>производился сборъ и на другаго раввина</l>
       <pb n="010-2"/>
-      <fw type="pageNum" place="left">10 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">10 об</fw>
       <l><unclear>??? ???</unclear><note place="end">верхний край листа поврежден, начало строки не читается</note> жно
       отъ пяти до трехъ</l>
       <l>тысячъ руб: и еще въ 1824<hi rend="superscript">м</hi> году на депу-</l>
@@ -307,7 +310,7 @@
       <l>ходить въ изтощеніе и безсиліе на-</l>
       <l>ходясь же въ таковомъ состояніи</l>
       <pb n="011-1"/>
-      <fw type="pageNum" place="right">11<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">11</fw>
       <fw type="note" place="left margin">коллеж</fw>
       <l>могутъ имѣть <unclear>??? ???</unclear><note place="end">верхний край листа поврежден, часть строки
       нечитабельна</note></l>
@@ -338,7 +341,7 @@
       <l>но не имѣлъ онъ права безъ наруше-</l>
       <l>нія закона производить съ нихъ на себя</l>
       <pb n="011-2"/>
-      <fw type="pageNum" place="left">11 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">11 об</fw>
       <l><unclear>??? ???</unclear><note place="end">верхний край листа поврежден, начало строки не читается</note> на
       родственниковъ сборовъ</l>
       <l>какого бы рода они ни были и какой бы пре-</l>
@@ -370,7 +373,7 @@
       <l>на семъ основаніи сбиралъ для себя, такъ<note place="end">слово обведено</note></l>
       <l>такъ называемое имъ добровольное пожертвованіе, на то</l>
       <pb n="012-1"/>
-      <fw type="pageNum" place="right">12<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">12</fw>
       <fw type="note" place="left margin">скій</fw>
       <l>доказательствъ не представилъ: <unclear>ибо</unclear></l>
       <l>онъ не предъявилъ ни подписокъ на</l>
@@ -408,7 +411,7 @@
       <l>статьи 153 и указа <date when="1818-03-05">5. марта 1818.<lb/>
        года</date> законы должно принимать въ</l>
       <pb n="012-2"/>
-      <fw type="pageNum" place="left">12 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">12 об</fw>
       <l>буквальномъ смыслѣ._ Еврей раввинъ</l>
       <l><persName ref="мителер_ребе">Шнееръ</persName> имѣя въ виду сіи столь яс-</l>
       <l>ныя и опредѣлительныя узаконенія,</l>
@@ -432,7 +435,7 @@
       <l>человѣколюбію и Богослуженію отно-</l>
       <l>сящимися проповѣдями, и что рав-</l>
       <pb n="013-1"/>
-      <fw type="pageNum" place="right">13<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">13</fw>
       <fw type="note" place="left margin">секре-</fw>
       <l>винамъ <orgName ref="Хасиды">хосыдской секты</orgName> будто бы не опре-</l>
       <l>дѣляется никакого отъ общества жа-</l>
@@ -465,7 +468,7 @@
       <l>жительствѣ и разномъ обращеніи полною</l>
     </p>
     <pb n="013-2"/>
-    <fw type="pageNum" place="left">13 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="left" hand="#pencilHand">13 об</fw>
     <p>
       <l>свободою безъ малѣйшаго отъ кого либо препятствія,</l>
       <l>равно и другое данное Его Королевскимъ Высочествомъ</l>
@@ -511,7 +514,7 @@
       <l>ленное толкованіе закона, тогда, какъ ему надлежа-</l>
       <l>ло быть точнымъ исполнителемъ словъ онаго</l>
       <pb n="014-1"/>
-      <fw type="pageNum" place="right">14<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">14</fw>
       <fw type="note" place="left margin">тарь</fw>
       <l>По симъ основаніямъ мнѣніемъ</l>
       <l>моимъ полагаю:</l>
@@ -576,7 +579,7 @@
       <l>ніе раввиновъ въ сихъ должностяхъ</l>
       <l>предоставлено было симже правленіямъ</l>
       <pb n="015-1"/>
-      <fw type="pageNum" place="right">15<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">15</fw>
       <fw type="note" place="left margin">Андрей</fw>
       <l>утверждать и оклады жалованья</l>
       <l>онымъ раввинамъ.</l>
@@ -612,7 +615,7 @@
       <l>предавая благоразсмотренію <orgName ref="Сенат">Пра-<lb/>
        вительствующаго Сената</orgName>, имѣю</l>
       <pb n="015-2"/>
-      <fw type="pageNum" place="left">15 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="left" hand="#pencilHand">15 об</fw>
       <l>честь представить при семъ под-</l>
       <l>линное дѣло съ выпискою изъ онаго</l>
       <l>краткою запискою и приговоромъ</l>

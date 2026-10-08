@@ -12,6 +12,9 @@
         <orgName ref="Хасиды">хасидов</orgName> в 1813 г. и о пожертвованиях, которые он получал в последующие годы
       </p></abstract>
       <creation><date when="1825-10-05">1825 года октября 5 дня</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -55,7 +58,7 @@
       <l>сказать не можетъ, но ему извѣстно, что</l>
       <l>всякій <orgName ref="Хасиды">хосидъ</orgName> жертвуетъ по возможности</l>
       <pb n="031-2"/>
-      <fw type="pageNum" place="right">31 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">31 об</fw>
       <l>буде кто изъ нихъ въ состояніи дать. Ду-</l>
       <l>ховная же власть равина <persName ref="мителер_ребе">Берки Шнеера</persName></l>
       <l>простирается на всѣхъ хосидовъ <placeName ref="Витебская_губерния">Витебской</placeName></l>

@@ -19,11 +19,14 @@
       <creation><date when="1800-12-22">Декабря 22 дня 1800</date></creation>
       <correspDesc><correspAction><persName ref="Оленин" role="addressee">Оленину</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="356-1"/>
-    <fw type="pageNum" place="right">356</fw><note place="end">номер записан чернилами</note>
+    <fw type="pageNum" place="right" hand="#inkHand">356</fw>
     <head><l>Ордеръ</l></head>
     <p>
       <l>Г<hi rend="superscript">ну</hi> оберъ прокурору<note place="end">здесь - обер-прокурору III департамента

@@ -14,6 +14,11 @@
       <creation><date when="1800-09-17">Сентября 17 дня 1800 года</date></creation>
       <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу І</persName></correspAction>
       </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -86,9 +91,8 @@
       <l>біи; но бывшій въ <placeName ref="Белоруссия">Бѣлоруссіи</placeName> губер-</l>
       <l>наторъ <persName ref="Жегулин">Жегулинъ</persName> къ предосужденію</l>
       <l>и обвиненію <persName ref="alter-rebbe">Боруховича</persName> ничего открыть</l>
-      <l><pb n="254-1"/> <fw type="pageNum" place="right">254</fw><note place="end">номер вписан карандашом</note> <fw
-      type="pageNum" place="right"><del rend="overstrike">259</del></fw><note place="end">номер проставлен чернилами,
-      зачеркнут карандашом</note> не могъ. При всеподданѣйшемъ о</l>
+      <l><pb n="254-1"/> <fw type="pageNum" place="right" hand="#pencilHand">254</fw> <fw
+      type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">259</del></fw> не могъ. При всеподданѣйшемъ о</l>
       <l>семъ <date when="1799-11-16">16 ноября</date><note place="end">не исключено, что 1798 г., когда проводилось
       первое следствие по доносам на <orgName ref="Хасиды">хасидов</orgName></note> отъ Князя <persName ref="Лопухин">
       Лопухина</persName></l>

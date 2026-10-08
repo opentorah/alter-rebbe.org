@@ -12,6 +12,9 @@
       </p></abstract>
       <creation><date when="1826-05-22">22 маія 1826</date></creation>
       <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -48,7 +51,7 @@
       <l>ніи же за симъ настоянія, я съ своей сторо-</l>
       <l>ны подтвердилъ тамошнему уездному</l>
       <pb n="094-2"/>
-      <fw type="pageNum" place="right">94 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">94 об</fw>
       <l>стряпчему, о чемъ Вашему Сіятельству</l>
       <l>долгомъ поставляю въ дополненіе рапорта</l>
       <l>моего отъ 10. минувшаго марта за <fw type="docNum">№ 740<hi rend="superscript">м</hi></fw></l>

@@ -10,6 +10,9 @@
         Письменные показания <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> – ответы на вопросы следствия
       </p></abstract>
       <creation><date when="1825-10-09">Октября 9 дня 1825 года</date></creation>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -54,7 +57,7 @@
       <l>чрезъвычайнымъ недостаткомъ.</l>
     </p>
     <pb n="026-2"/>
-    <fw type="pageNum" place="right">26 об<note place="end">номер проставлен карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">26 об</fw>
     <p>
       <l>Когда же Всемогущій <note type="gloss">|: Богъ :|</note> Господь открылъ</l>
       <l>свои чудеса и Всемилостивѣйшій Государь</l>
@@ -130,7 +133,7 @@
       <l>недостатки какъ въ 1<hi rend="superscript">мъ</hi> пунктѣ упомянуто.</l>
     </p>
     <pb n="027-2"/>
-    <fw type="pageNum" place="right">27 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">27 об</fw>
     <p>
       <fw type="note" place="left margin"><l>на № 3.</l></fw>
       <l>Не ровно ежегодно, яко изъяснено во 2</l>
@@ -202,7 +205,7 @@
       <l>случаю упадка евреевъ состоянія, не болѣе</l>
       <l>составитъ въ годъ какъ 10/т руб. или нѣсколько</l>
       <pb n="028-2"/>
-      <fw type="pageNum" place="right">28 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">28 об</fw>
       <l>меньше, да и въ прошедшихъ добрыхъ</l>
       <l>годахъ, больше не было какъ 13 или</l>
       <l>14/т руб. собственно же для меня толь</l>
@@ -276,7 +279,7 @@
       <fw type="note" place="left margin"><l>на № 7<hi rend="superscript">и</hi>.</l></fw>
       <l>Позволительный документъ значитъ</l>
       <pb n="029-2"/>
-      <fw type="pageNum" place="right">29 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">29 об</fw>
       <l>что Моисеевымъ закономъ запрещено</l>
       <l>роздать денегъ въ проценты, а древніе</l>
       <l>законоучители постановили способъ поз-</l>
@@ -352,7 +355,7 @@
       <l>бенной документъ и присяжное обеща</l>
       <l>ніе не толіко не имѣется но даже</l>
       <pb n="030-2"/>
-      <fw type="pageNum" place="right">30 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">30 об</fw>
       <l>и не были, кромѣ того что вмѣсто</l>
       <l>присяги оной утвержденъ; яко жива</l>
       <l>моя душа, всѣ мои изъясненіи пра-</l>

@@ -11,7 +11,11 @@
       обеспечении ходатаев, направляемых в <placeName ref="Петербург">Санкт-Петербург</placeName>, чтобы добиваться
       изменения законодательства о евреях из-за значительно ухудшившегося их материального положения; упомянут <persName
       ref="мителер_ребе">Дов-Бер Шнеерсон</persName>
-    </p></abstract></profileDesc>
+    </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="049-1"/>
@@ -53,7 +57,7 @@
       <l>ихъ тамъ въ такомъ великомъ городѣ</l>
       <l>и Богъ знаетъ сколько можетъ продолжаться</l>
       <pb n="049-2"/>
-      <fw type="pageNum" place="right">49 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">49 об</fw>
       <l>время и какія издержки издержаны на все</l>
       <l>вышеупомянутое могутъ быть на значитель-</l>
       <l>ную сумму. Того рода всѣ мы нижеподпи-</l>
@@ -134,7 +138,7 @@
        двухъ нашихъ <placeName ref="Могилевская_губерния">Могилевской</placeName> и <placeName ref="Витебская_губерния"
       >Витебской губерній</placeName> :|</note></l>
       <pb n="050-2"/>
-      <fw type="pageNum" place="right">50 об<note place="end">номер записан карандашом</note></fw>
+      <fw type="pageNum" place="right" hand="#pencilHand">50 об</fw>
       <l>выше сего значущаго, то есть: для учиненія раскладокъ</l>
       <l>на надобности тамо изображенныя изъ <placeName ref="Могилевская_губерния">губерніи Моги-<lb/>
        левской</placeName> шестьдесятъ процентовъ, а <placeName ref="Витебская_губерния">Витебская губер-<lb/>
@@ -212,7 +216,7 @@
       </row>
     </table>
     <pb n="051-2"/>
-    <fw type="pageNum" place="right">51 об<note place="end">номер записан карандашом</note></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">51 об</fw>
     <table>
       <row>
         <cell>Бѣлица.</cell>
