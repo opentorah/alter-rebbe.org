@@ -3,21 +3,21 @@
   <!--     selector="names" -->
   <title>Имена</title>
   <listPerson n="jews" role="jew">
-    <title>Жиды (они же Евреи)</title>
+    <head>Жиды (они же Евреи)</head>
   </listPerson>
   <listPerson n="officials" role="official">
-    <title>Начальство</title>
+    <head>Начальство</head>
   </listPerson>
   <listPerson n="unknown">
-    <title>Неизвестно кто</title>
+    <head>Неизвестно кто</head>
   </listPerson>
   <listPlace n="places">
-    <title>Места</title>
+    <head>Места</head>
   </listPlace>
   <listOrg n="organizations">
-    <title>Организации</title>
+    <head>Организации</head>
   </listOrg>
   <listPerson n="transcribers" role="transcriber">
-    <title>Расшифровщики</title>
+    <head>Расшифровщики</head>
   </listPerson>
 </entityLists>

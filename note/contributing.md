@@ -205,6 +205,13 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 <note type="gloss">|: о коем выше :|</note>
 ```
 
+Примечания самого источника (например, примечания Дубнова) кодируются элементом `note` с атрибутом `place` со значением
+`foot`.
+На сайте они идут отдельным списком, перед замечаниями расшифровщика.
+```xml
+<note place="foot">См. выше.</note>
+```
+
 То, что имеется в виду, может быть добавлено элементом `supplied`:
 ```xml
 <supplied reason="implied">Магид</supplied>
@@ -302,8 +309,9 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 - расшифровщик (`editor`; атрибут `role` со значением `transcriber`);
 - краткое содержание (`abstract`);
 - дата написания (`date` внутри элемента `creation`);
-- имя человека, которому документ адресован (внутри элемента `profileDesc` элементом `correspDesc`, содержащим элемент
-  `persName` с атрибутом `ref` со значением `addressee`):
+- имя человека, которому документ адресован: `persName` внутри `correspAction` с атрибутом `type` со значением
+  `received`.
+  Если такого нет, берётся `persName` с атрибутом `role` со значением `addressee`:
 
 Замечание о дате пишется внутри `date`.
 Элемент `creation` не содержит `note`.
@@ -321,7 +329,7 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
     <abstract><p>Донос</p></abstract>
     <creation><date when="1800-04-23">1800-04-23</date></creation>
     <correspDesc>
-      <correspAction><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
+      <correspAction type="received"><persName ref="Обольянинов" role="addressee">Обольянинову</persName></correspAction>
     </correspDesc>
   </profileDesc>
 </teiHeader>
