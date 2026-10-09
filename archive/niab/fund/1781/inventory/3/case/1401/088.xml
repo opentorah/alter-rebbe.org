@@ -1,14 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Сиодловский">Сиодловский</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Сиодловский">Сиодловский</persName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-25">25 октября 1820 года</date></creation>
-      <abstract><p>Отчет ксендза <persName ref="Сиодловский">Сиодловского</persName> (на латинском языке)</p></abstract>
+      <abstract><p>
+        Метрическое свидетельство ксендза <persName ref="Сиодловский">Сиодловского</persName> о крещении
+        <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName> <date when="1820-07-04">4 июля 1820 года</date>
+        одной водой; перевод: <ref target="/niab1401/088-ru">ru</ref>
+      </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="la"><body>
     <pb n="088-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">88</fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">13</fw>
+    <fw type="note" place="left margin"><unclear>???</unclear></fw>
+    <note place="end">вертикальная помета у корешка, не разобрана</note>
+    <fw type="note" place="right">печать</fw>
+    <note place="end">круглая печать с двуглавым орлом поверх первых строк. В легенде читаются «1819» и Mohylow;
+    прочее не разобрано</note>
+    <p>
+      <l>Ego infra scriptus, omnibus singulis</l>
+      <l>quorum interest aut quomodoli-</l>
+      <l>bet interesse potest Notum</l>
+      <l><choice><abbr>testatumq</abbr><expan>testatumque</expan></choice> facio, id quod sequi-</l>
+      <l>tur in autentico reperiri —</l>
+    </p>
+    <p>
+      <l><date when="1820-07-04">Anno Domini Millesimo octingentesimo<lb/>
+       vicesimo Die quarta Mensis Julij</date> — Ego</l>
+      <l><persName ref="Сиодловский">Josaphat Siodłowski</persName> existens ad Tempus</l>
+      <l><placeName ref="Улла">Ullae</placeName> loci Administratoris Ecclesiae Parochi-</l>
+      <l>alis — Post breve Examen, in extrema Ne-</l>
+      <l>cessitate, sed de libera Voluntate, et Magni</l>
+      <l>desiderium sacramenti designatum habentem</l>
+      <l>habentem etiam Annos Triginta Tria <hi rend="superscript">a nativitate sua</hi></l>
+      <l>Catechumenum ex Judaica Perfidia con-</l>
+      <l>versum, Dominica Septima post Pente-</l>
+      <l>costen, private in Cubiculo impositis</l>
+      <l>Nominibus, <persName ref="Моше_Шнеерсон">Leonis <unclear>Julianowicz</unclear></persName>, facta</l>
+      <l>debita intentione ex Aqua tantum</l>
+      <l><unclear>do</unclear> baptizavi —</l>
+      <note place="end">перед baptizavi две буквы, похожие на do. Консистория пересказывает это место как крещение
+      «с одной только воды»: <ref target="/niab271/030">030</ref></note>
+    </p>
+    <p>
+      <l>Patrini fuere M.D. <persName>Gabriel <unclear>Onaszki<lb break="no"/>ewicz</unclear></persName>, cum M.D.
+      <persName>Justina <unclear>Bonkowska</unclear></persName></l>
+      <l>Assistentes D. <persName ref="Павел_Сидорович">Paulus Sidorowicz</persName></l>
+      <l>cum M.D. <persName>Rosalia <unclear>Eliaszewiczowa</unclear></persName></l>
+      <note place="end">фамилии вписаны крупнее основного почерка, в пропуски после M.D. и D. Чтение неуверенное.
+      В пересказе этой записки (<ref target="/niab271/030">030</ref>) это Гавриил Михайлов сын Онашкевич, Юстина
+      Бонковская, Павел Сидорович и Розалия Елияшевичова. Там же имя крещёного передано как Леон, с пометой «Львов»,
+      Юльевич. M.D. — по-видимому, Magnificus Dominus и Magnifica Domina; перед Сидоровичем только D.</note>
+    </p>
+    <closer>
+      <l>In quorum fidem has testimo-</l>
+      <l>niales literas Manu propria</l>
+      <l>subscripsi. Datum Anno <choice><abbr>Dni</abbr><expan>Domini</expan></choice> <date when="1820-10-25">1820.<lb/>
+       Die 25. <choice><abbr>8bris</abbr><expan>Octobris</expan></choice></date></l>
+      <l><signed><persName ref="Сиодловский">Josaphat Siodłowski</persName></signed></l>
+      <l><signed><choice><abbr>L.S.</abbr><expan>loco sigilli</expan></choice></signed></l>
+    </closer>
     <pb n="088-2" missing="true"/>
   </body></text>
 </TEI>
