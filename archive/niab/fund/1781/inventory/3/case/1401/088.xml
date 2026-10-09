@@ -14,18 +14,22 @@
       </p></abstract>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
       </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="la"><body>
     <pb n="088-1"/>
+    <fw type="note" place="top"><unclear>???</unclear><note place="end">помета из нескольких петель посреди верхнего
+    поля, не разобрана</note></fw>
     <fw type="pageNum" place="right" hand="#pencilHand">88</fw>
-    <fw type="pageNum" place="right" hand="#pencilHand">13</fw>
-    <fw type="note" place="left margin"><unclear>???</unclear></fw>
-    <note place="end">вертикальная помета у корешка, не разобрана</note>
-    <fw type="note" place="right">печать</fw>
-    <note place="end">круглая печать с двуглавым орлом поверх первых строк. В легенде читаются «1819» и Mohylow;
-    прочее не разобрано</note>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">13</del></fw>
+    <fw type="note" place="left margin"><unclear>???</unclear><note place="end">вертикальная помета у корешка, не
+    разобрана</note></fw>
+    <fw type="note" place="right">печать<note place="end">круглая гербовая печать с двуглавым орлом на правом поле, по
+    концам первых строк. Легенда: «ЦѢНА 50 КОПѢЕКЪ ЛИСТЪ 1819 ГОДА». То же клеймо яснее на <ref target="/niab1401/086"
+    >086</ref></note></fw>
     <p>
       <l>Ego infra scriptus, omnibus singulis</l>
       <l>quorum interest aut quomodoli-</l>
@@ -47,19 +51,18 @@
       <l>costen, private in Cubiculo impositis</l>
       <l>Nominibus, <persName ref="Моше_Шнеерсон">Leonis <unclear>Julianowicz</unclear></persName>, facta</l>
       <l>debita intentione ex Aqua tantum</l>
-      <l><unclear>do</unclear> baptizavi —</l>
-      <note place="end">перед baptizavi две буквы, похожие на do. Консистория пересказывает это место как крещение
-      «с одной только воды»: <ref target="/niab271/030">030</ref></note>
+      <l><unclear>do</unclear><note place="end">перед baptizavi две буквы, похожие на do. Консистория пересказывает это
+      место как крещение «с одной только воды»: <ref target="/niab271/030">030</ref></note> baptizavi —</l>
     </p>
     <p>
       <l>Patrini fuere M.D. <persName>Gabriel <unclear>Onaszki<lb break="no"/>ewicz</unclear></persName>, cum M.D.
       <persName>Justina <unclear>Bonkowska</unclear></persName></l>
       <l>Assistentes D. <persName ref="Павел_Сидорович">Paulus Sidorowicz</persName></l>
-      <l>cum M.D. <persName>Rosalia <unclear>Eliaszewiczowa</unclear></persName></l>
-      <note place="end">фамилии вписаны крупнее основного почерка, в пропуски после M.D. и D. Чтение неуверенное.
-      В пересказе этой записки (<ref target="/niab271/030">030</ref>) это Гавриил Михайлов сын Онашкевич, Юстина
-      Бонковская, Павел Сидорович и Розалия Елияшевичова. Там же имя крещёного передано как Леон, с пометой «Львов»,
-      Юльевич. M.D. — по-видимому, Magnificus Dominus и Magnifica Domina; перед Сидоровичем только D.</note>
+      <l>cum M.D. <persName>Rosalia <unclear>Eliaszewiczowa</unclear></persName><note place="end">фамилии вписаны крупнее
+      основного почерка, в пропуски после M.D. и D. Чтение неуверенное. В пересказе этой записки (<ref
+      target="/niab271/030">030</ref>) это Гавриил Михайлов сын Онашкевич, Юстина Бонковская, Павел Сидорович и Розалия
+      Елияшевичова. Там же имя крещёного передано как Леон, с пометой «Львов», Юльевич. M.D. — по-видимому, Magnificus
+      Dominus и Magnifica Domina; перед Сидоровичем только D.</note></l>
     </p>
     <closer>
       <l>In quorum fidem has testimo-</l>
