@@ -2,8 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Логинов</persName></author>
-      <author><persName>Марков</persName></author>
+      <author><persName ref="Логинов">Логинов</persName></author>
+      <author><persName ref="Марков">Марков</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -36,8 +36,8 @@
       <l>князю <persName ref="Хованский">Николаю Николаевичу Хованскому</persName>.</l>
     </salute>
     <head>
-      <l>Полковника <persName>Логинова</persName> и</l>
-      <l>надворнаго совѣтника <persName>Маркова</persName></l>
+      <l>Полковника <persName ref="Логинов">Логинова</persName> и</l>
+      <l>надворнаго совѣтника <persName ref="Марков">Маркова</persName></l>
       <l>Рапортъ</l>
     </head>
     <p>
@@ -345,8 +345,8 @@
       <l>бумаги въ подлинникѣ, имѣемъ честь</l>
       <l>предать все сїе на благоусмотрѣ-</l>
       <l>нїе Вашего Сіятельства.</l>
-      <l><signed>Полковникъ <persName>Логиновъ</persName></signed></l>
-      <l><signed>Надворный совѣтникъ <persName>Марковъ</persName></signed></l>
+      <l><signed>Полковникъ <persName ref="Логинов">Логиновъ</persName></signed></l>
+      <l><signed>Надворный совѣтникъ <persName ref="Марков">Марковъ</persName></signed></l>
     </p>
     <closer place="left"><l><date when="1825-11-10">1825 года<lb/>
      ноября 10 дня</date>.</l></closer>

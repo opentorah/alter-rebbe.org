@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>Гамалея</author>
+      <author><persName ref="Гамалея">Гамалея</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -33,7 +33,7 @@
       <l>О раввинѣ <persName ref="Цемах_Цедек">Менделѣ<lb/>
        Шнеерсонѣ</persName>.</l>
     </opener>
-    <fw type="note" place="left margin">для гр. <persName>Орлова</persName><note place="end">резолюция на полях</note>
+    <fw type="note" place="left margin">для гр. <persName ref="Орлов">Орлова</persName><note place="end">резолюция на полях</note>
     </fw>
     <fw type="note" place="left margin"><unclear>???</unclear></fw>
     <salute>
@@ -61,7 +61,7 @@
         <l>Вашему Сіятельству, въ ис-</l>
         <l>полненіе предложенія отъ</l>
         <l><date when="1847-01-25">25 января</date> за <fw type="docNum">№ 37</fw>.</l>
-        <l><signed>Гражданскій губернаторъ <persName>Гамалея</persName></signed></l>
+        <l><signed>Гражданскій губернаторъ <persName ref="Гамалея">Гамалея</persName></signed></l>
         <l><signed>Правитель канцеляріи <unclear>Волковъ</unclear></signed></l>
       </p>
     </salute>

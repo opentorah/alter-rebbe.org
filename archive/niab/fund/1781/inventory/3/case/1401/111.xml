@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Меллер-Закомельский</persName></author>
+      <author><persName ref="Меллер-Закомельский">Меллер-Закомельский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -38,7 +38,7 @@
       <l>какъ мною отъ нея нетребованное, и мнѣ не</l>
       <l>нужное, препровождаю при семъ во оную Кон-</l>
       <l>систорію обратно._</l>
-      <l><signed>Баронъ <persName>Меллеръ-Закомельскій</persName></signed></l>
+      <l><signed>Баронъ <persName ref="Меллер-Закомельский">Меллеръ-Закомельскій</persName></signed></l>
       <l>Опрѣделили: таковое отношенїе приобщить къ дѣлу</l>
       <l>Слушали <date when="1820-11-26">26. Nоября</date>.</l>
     </p>

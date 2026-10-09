@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Смольянинов</persName></author>
+      <author><persName ref="Смольянинов">Смольянинов</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -116,7 +116,7 @@
     <p>
       <l>О каковомъ распоряженїи моемъ, долгомъ считаю</l>
       <l>Вашему Сіятельству почтеннѣйше симъ донѣсти.</l>
-      <l><signed>Губернскій прокуроръ <persName>Смольяниновъ</persName></signed></l>
+      <l><signed>Губернскій прокуроръ <persName ref="Смольянинов">Смольяниновъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 740</fw></l>

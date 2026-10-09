@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>Полоньски</author>
+      <author><persName ref="Полонский">Полоньски</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -40,11 +40,11 @@
       >Могилевской губернїи</placeName> Бабиновецкаго по-</l>
       <l>вѣта мѣстечка <placeName ref="Любавичи">Любавичь</placeName> жителямъ <persName ref="мителер_ребе"
       >Беркѣ</persName> и <persName>Абраму Залмановичевымъ Шнеерамъ</persName></l>
-      <l>что по дѣлу о помѣшательствѣ въ умѣ брата ихъ улянскаго равина <persName ref="Моше_Шнеерсон">Мовши
+      <l>что по дѣлу о помѣшательствѣ въ умѣ брата ихъ <placeName ref="Улла">улянскаго</placeName> равина <persName ref="Моше_Шнеерсон">Мовши
       Шнеера</persName></l>
       <l>входить въ разсмотренїе обстоятельствъ изясненныхъ въ ихъ прошенїи, вашему высоко</l>
       <l>преосвященству не есть угодно.</l>
-      <l><signed>Ксензъ <persName>Михайло Полоньски</persName>.</signed></l>
+      <l><signed>Ксензъ <persName ref="Полонский">Михайло Полоньски</persName>.</signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 401</fw>.</l>

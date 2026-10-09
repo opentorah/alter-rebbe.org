@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Орлай</persName></author>
+      <author><persName ref="Орлай">Орлай</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -40,7 +40,7 @@
       <l><emph rend="big">Вашего Высокопреосвященства</emph></l>
       <l>милостиваго государя</l>
       <l>покорнѣйшій слуга</l>
-      <l><persName>Иванъ Орлаи</persName><note place="end"><ref
+      <l><persName ref="Орлай">Иванъ Орлаи</persName><note place="end"><ref
       target="https://ru.wikipedia.org/wiki/Орлай,_Иван_Семёнович">[Википедия]</ref></note>.</l>
     </p>
     <closer place="left">

@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Киликовский</persName></author>
+      <author><persName ref="Киликовский">Киликовский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -93,7 +93,7 @@
       <l>скимъ губернскимъ правленіемъ <hi rend="superscript">ныне</hi> удаленъ._ О скорей</l>
       <l>шемже упомянутаго дела решенїи я неусыпное</l>
       <l>имею стараніе._</l>
-      <l><signed>Уѣздный стряпчій <persName>Киликовскій</persName></signed></l>
+      <l><signed>Уѣздный стряпчій <persName ref="Киликовский">Киликовскій</persName></signed></l>
     </p>
     <pb n="078-2" missing="true"/>
   </body></text>

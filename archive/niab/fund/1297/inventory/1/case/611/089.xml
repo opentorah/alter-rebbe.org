@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Киликовский</persName></author>
+      <author><persName ref="Киликовский">Киликовский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -51,7 +51,7 @@
       <l>янїи за симъ сообщено отъ меня къ тамошнимъ</l>
       <l>уезднымъ стряпчимъ отъ <date when="1826-02-24">24<hi rend="superscript">го</hi> февраля</date> и <date
       when="1826-03-17">17<hi rend="superscript">го</hi> сего марта</date></l>
-      <l><signed>Уѣздный стряпчій <persName>Киликовскій</persName></signed></l>
+      <l><signed>Уѣздный стряпчій <persName ref="Киликовский">Киликовскій</persName></signed></l>
     </p>
     <pb n="089-2" missing="true"/>
   </body></text>

@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Гамалея</persName></author>
+      <author><persName ref="Гамалея">Гамалея</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -174,7 +174,7 @@
        ющаго Сената</orgName> съ приложеніемъ</l>
       <l>всѣхъ упоминаемыхъ здѣсь по осо-</l>
       <l>бой описи, документов.</l>
-      <l><signed>Гражданскій губернаторъ <persName>Гамалея</persName></signed></l>
+      <l><signed>Гражданскій губернаторъ <persName ref="Гамалея">Гамалея</persName></signed></l>
     </p>
     <closer place="left">
       <l>По Департаменту</l>

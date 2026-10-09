@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Киликовский</persName></author>
+      <author><persName ref="Киликовский">Киликовский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -47,7 +47,7 @@
       <l>изысканіи съ разныхъ местъ присланы;</l>
       <l>кои къ делу приложены: и изъ онаго сочиня-</l>
       <l>ется выписка._</l>
-      <l><signed>Уездный стряпчіи <persName>Киликовскій</persName></signed></l>
+      <l><signed>Уездный стряпчіи <persName ref="Киликовский">Киликовскій</persName></signed></l>
     </p>
     <pb n="093-2" missing="true"/>
   </body></text>

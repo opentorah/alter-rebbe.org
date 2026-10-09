@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Одынец-Добровольский</persName></author>
+      <author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -19,7 +19,7 @@
     <fw type="note" place="left">Копія</fw>
     <fw type="pageNum" place="right">16</fw>
     <head>
-      <l>Мнѣнїе духовнаго депутата каноника <persName>Фадѣя<lb/>
+      <l>Мнѣнїе духовнаго депутата каноника <persName ref="Одынец-Добровольский">Фадѣя<lb/>
        Одынец Добровольскаго</persName>, поданное въ коммисїю</l>
       <l>состоящую въ Могилевской врачебной управѣ</l>
       <l>для освидѣтельствованїя еврея <persName ref="Моше_Шнеерсон">Мовши<lb/>
@@ -96,7 +96,7 @@
       <l>посѣщая онаго, съ разговоровъ, и испыта-</l>
       <l>нїи, могли совѣршенно узнать о его раз-</l>
       <l>судкѣ._ <date when="1820-08-21">Августа 21 дня 1820<hi rend="superscript">го</hi> года</date>._</l>
-      <l>съ подлиннымъ вѣрно Каноникъ <persName>Фадѣи Оды-<lb break="no"/>
+      <l>съ подлиннымъ вѣрно Каноникъ <persName ref="Одынец-Добровольский">Фадѣи Оды-<lb break="no"/>
        нецъ Добровольскій</persName></l>
     </p>
     <pb n="017-2" missing="true"/>

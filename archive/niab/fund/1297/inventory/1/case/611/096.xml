@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Смольянинов</persName></author>
+      <author><persName ref="Смольянинов">Смольянинов</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -47,7 +47,7 @@
       <l>вашему Сіятельству, во исполненіе предложенія</l>
       <l>отъ <date when="1825-11-17">17 ноября 1825 года</date> за <fw type="docNum">№ 3850</fw>. ко мнѣ послѣ-</l>
       <l>довавшаго, почтеннѣйше симъ донести._</l>
-      <l><signed>Губернскій прокуроръ <persName>Смольяниновъ</persName></signed></l>
+      <l><signed>Губернскій прокуроръ <persName ref="Смольянинов">Смольяниновъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 2157</fw>.</l>
