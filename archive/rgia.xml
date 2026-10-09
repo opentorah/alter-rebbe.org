@@ -2,7 +2,7 @@
 <store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="РГИА"/>
   <name lang="en" n="rgia"/>
-  <tei:title>Российский государственный исторический архив (Санкт-Петербург)</tei:title>
+  <tei:title>Российский государственный исторический архив (<placeName ref="Петербург">Санкт-Петербург</placeName>)</tei:title>
   <tei:abstract><ref target="https://rgia.su">Вебсайт</ref></tei:abstract>
   <by selector="fund">
     <xi:include href="rgia/fund/468.xml"/>

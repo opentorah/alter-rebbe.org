@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" n="lvia">
-  <tei:title>Литовский государственный исторический архив (Вильнюс)</tei:title>
+  <tei:title><placeName ref="Литва">Литовский</placeName> государственный исторический архив (Вильнюс)</tei:title>
   <tei:abstract>Lietuvos valstybės istorijos archyvas, Vilnius (Vilniua?)</tei:abstract>
   <body>
-    <l>Государственный Исторический Архив Литвы (ГИАЛ)</l>
+    <l>Государственный Исторический Архив <placeName ref="Литва">Литвы</placeName> (ГИАЛ)</l>
     <ref target="https://www.archyvai.lt/en/archives/historicalarchives.html">Вебсайт</ref>
     <ref target="https://www.archyvai.lt/lt/lvat.html">Вебсайт на литовском</ref>
     <p>

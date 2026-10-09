@@ -2,7 +2,7 @@
 <store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <name lang="ru" n="РНБ"/>
   <name lang="en" n="rnb"/>
-  <tei:title>Российская национальная библиотека (Санкт-Петербург)</tei:title>
+  <tei:title>Российская национальная библиотека (<placeName ref="Петербург">Санкт-Петербург</placeName>)</tei:title>
   <tei:abstract><ref target="http://nlr.ru/">Вебсайт</ref></tei:abstract>
   <by selector="category">
     <xi:include href="rnb/category/ro.xml"/>

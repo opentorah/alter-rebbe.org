@@ -9,7 +9,7 @@
     <profileDesc>
       <creation><date when="1824-01-12">12 января 1824 года</date></creation>
       <abstract><p>
-        Предписание литовского генерал-губернатора виленскому и гродненскому гражданским губернаторам о секретном
+        Предписание <placeName ref="Литва">литовского</placeName> генерал-губернатора <placeName ref="Вильна">виленскому</placeName> и <placeName ref="Гродно">гродненскому</placeName> гражданским губернаторам о секретном
         расследовании для выяснения источника слухов, касающихся перемен в законодательстве о евреях
       </p></abstract>
       <handNotes>
@@ -19,8 +19,8 @@
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="002-1"/>
-    <fw type="note" place="left"><fw type="docNum">№ 115</fw> Виленскому</fw>
-    <fw type="note" place="left"><fw type="docNum">№ 116</fw>. Гродненскому гражданскимъ губернаторамъ.</fw>
+    <fw type="note" place="left"><fw type="docNum">№ 115</fw> <placeName ref="Вильна">Виленскому</placeName></fw>
+    <fw type="note" place="left"><fw type="docNum">№ 116</fw>. <placeName ref="Гродно">Гродненскому</placeName> гражданскимъ губернаторамъ.</fw>
     <fw type="note"><date when="1824-01-12">12 генваря 1824</date>.</fw>
     <fw type="note" place="right">Секретно</fw>
     <fw type="pageNum" place="right">2.</fw>
@@ -63,7 +63,7 @@
       <l>бѣгать въ подобныхъ случаяхъ а</l>
       <l>посему предписать изволилъ приказать</l>
       <l>учинить безъ огласки не окажется ли</l>
-      <l>чего либо подобнаго <del rend="overstrike">въ литовскихъ</del> <hi rend="superscript">во вверенныхъ</hi></l>
+      <l>чего либо подобнаго <del rend="overstrike">въ <placeName ref="Литва">литовскихъ</placeName></del> <hi rend="superscript">во вверенныхъ</hi></l>
       <l>мнѣ губернїяхъ и не собирается ли секретныхъ</l>
       <l>на сей предмѣтъ складокъ</l>
       <l><del rend="overstrike">съ евреевъ</del> <hi rend="superscript">а</hi> притомъ открыть отъ кого</l>
@@ -76,7 +76,7 @@
       <l>въследствіе того будетъ здѣлано.</l>
       <l>Во исполненїе означеннаго повеленія</l>
       <l>я прошу ваше <choice><abbr rend="titlo">прво</abbr><expan>превосходительство</expan></choice> узнать безъ огласки</l>
-      <l>не окажется ли что- либо <hi rend="superscript">подобнаго</hi> по Виленской/Гроднен-</l>
+      <l>не окажется ли что- либо <hi rend="superscript">подобнаго</hi> по <placeName ref="Вильна">Виленской</placeName>/Гроднен-</l>
       <l>ской губерніи и не собирается ли <del rend="overstrike">на</del></l>
       <l>секретныхъ на сей предмѣтъ скла</l>
       <l>докъ а притомъ <hi rend="superscript">употребить</hi> <del rend="overstrike">старанія</del> всѣ<del

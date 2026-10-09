@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <collection n="119" directory="119" alias="rgia119">
   <title xmlns="http://www.tei-c.org/ns/1.0">Прошения разных лиц о выдаче пособий - по Калужской, Могилевской,
-  Гродненской, Минской, Курляндской губерниям и г. Риге за 1813 г.</title>
+  <placeName ref="Гродно">Гродненской</placeName>, <placeName ref="Минск">Минской</placeName>, Курляндской губерниям и г. <placeName ref="Рига">Риге</placeName> за 1813 г.</title>
   <abstract xmlns="http://www.tei-c.org/ns/1.0">1813 год. Прошение <persName ref="ребицен_Штерна">Штерны
   Лейбовны</persName>, вдовы <persName ref="alter-rebbe">Алтер Ребе</persName>, подписанное <persName ref="мителер_ребе"
   >Мителер Ребе</persName>. Открытый лист для проезда <persName ref="alter-rebbe">Алтер Ребе</persName> с семейством во
@@ -21,7 +21,7 @@
     <p>стр. 497-505, 508, 509</p>
     <p>
       Описание в <ref target="http://cahjp.nli.org.il/">CAHJP</ref>: Сословие попечителей призрения разоренных в 1812 г.
-      Прошения лиц, пострадавших от военных действий, о выдаче пособий по губерниям Гродненской, <placeName
+      Прошения лиц, пострадавших от военных действий, о выдаче пособий по губерниям <placeName ref="Гродно">Гродненской</placeName>, <placeName
       ref="Витебск">Витебской</placeName>, <placeName ref="Могилевская_губерния">Могилевской</placeName> и др., в т.ч.
       прошение <persName ref="ребицен_Штерна">Штерны Лейбовны</persName>, вдовы раввина м. <placeName ref="Ляды"
       >Ляды</placeName> <persName ref="alter-rebbe">р. Шнеера Залмана</persName>, подписанное его сыном <persName
@@ -29,6 +29,6 @@
       (подпись на иврите). В деле - Открытый лист для проезда <persName ref="alter-rebbe">р. Шнеера Залмана</persName> с
       семейством во внутрение губернии России.
     </p>
-    <p>Фотографии предоставил Константин Пименов.</p>
+    <p>Фотографии предоставил <persName>Константин Пименов</persName>.</p>
   </body>
 </collection>
