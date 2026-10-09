@@ -2,15 +2,21 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Хованский">Хованский<note place="end">подписи на л. 9 нет, оборот не снят. III отделение —
+      канцелярия генерал-губернатора (<ref target="/niab611/116">л. 116</ref>), и майора <persName>Морозова</persName>
+      назначал он (<ref target="/niab611/006">л. 6</ref>)</note></persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение, изданное, вероятно, <placeName ref="Витебск">витебским</placeName> губернатором, о персонах, которым поручено провести следствие по
+        Распоряжение генерал-губернатора <persName ref="Хованский">Хованского</persName> о персонах, которым поручено провести следствие по
         делу <persName ref="мителер_ребе">Дов-Бера Шнеесона</persName>
       </p></abstract>
       <creation><date when="1825-10-16">16 октября 1825</date></creation>
+      <correspDesc>
+        <correspAction><persName ref="Логинов" role="addressee">Логинову</persName></correspAction>
+        <correspAction><persName ref="Марков" role="addressee">Маркову</persName></correspAction>
+      </correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>

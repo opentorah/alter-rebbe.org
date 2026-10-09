@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="мителер_ребе">Дов-Бер Шнеерсон</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -259,10 +259,10 @@
     <p>
       <l>Сіе переводилъ и подлинникъ помѣтилъ</l>
       <l>присяжный разныхъ иностранныхъ</l>
-      <l>языковъ переводчикъ <signed><persName>Јсай</persName> <unclear>???</unclear></signed></l>
-      <l><signed><unclear>???</unclear></signed><note place="end">возможно, подпись <persName ref="мителер_ребе"
-      >Дов-Бера Шнеерсона</persName></note></l>
+      <l>языковъ переводчикъ <signed><persName>Јсай Финкелштейнъ</persName></signed></l>
     </p>
+    <fw type="note" place="right">м.п.<note place="end">буквы обведены по окружности для обозначения места печати на
+    оригинале документа</note></fw>
     <pb n="023-2" missing="true"/>
   </body></text>
 </TEI>

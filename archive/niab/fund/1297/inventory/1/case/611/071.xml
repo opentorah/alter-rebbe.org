@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Смольянинов">Смольянинов</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -11,6 +11,7 @@
         >Дов-Бера Шнеерсона</persName> в суд при Бабиновицком магистрате
       </p></abstract>
       <creation><date when="1826-01-09">Января 9 дня 1826 года</date></creation>
+      <correspDesc><correspAction><persName ref="Хованский" role="addressee">Хованскому</persName></correspAction></correspDesc>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
       </handNotes>
@@ -53,7 +54,7 @@
       <l>на точномъ основаніи законовъ, я ныне</l>
       <l>же предписалъ бабиновицкому уездному</l>
       <l>стряпчему<note place="end">помощнику прокурора, отвечавшему за ведение дел в уезде</note>._</l>
-      <l>Губернскій прокуроръ <signed><unclear>???</unclear></signed></l>
+      <l>Губернскій прокуроръ <signed><persName ref="Смольянинов">Смольяниновъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 10<hi rend="superscript">и</hi></fw></l>

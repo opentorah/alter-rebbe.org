@@ -2,12 +2,14 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Хованский">Хованский<note place="end">подпись на неснятом обороте. Казенная палата называет
+      предложение от <date when="1825-10-07">7 октября 1825 года</date> предложением его сиятельства (<ref
+      target="/niab611/012">л. 12</ref>)</note></persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение, направленное, вероятно, <placeName ref="Витебск">витебским</placeName> губернатором, губернской казенной палате об оплате дорожных
+        Распоряжение генерал-губернатора <persName ref="Хованский">Хованского</persName> губернской казенной палате об оплате дорожных
         расходов должностным лицам, выехавшим в <placeName ref="Любавичи">Любавичи</placeName> для привоза в <placeName
         ref="Витебск">Витебск</placeName> на допрос <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>

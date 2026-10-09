@@ -2,7 +2,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Хованский">Хованский<note place="end">подписи на листе нет. <persName ref="Курбацкий"
+      >Курбацкий</persName> называет предписание от <date when="1825-09-30">30 сентября 1825 года</date> предписанием
+      его сиятельства (<ref target="/niab611/072">л. 72</ref>)</note></persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -10,7 +12,7 @@
         Распоряжение частному приставу о доставлении в <placeName ref="Витебск">Витебск</placeName> на допрос <persName
         ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
-      <creation><date when="1825-09-20">30<hi rend="superscript">го</hi> сентября 1825</date></creation>
+      <creation><date when="1825-09-30">30<hi rend="superscript">го</hi> сентября 1825</date></creation>
       <correspDesc><correspAction><persName ref="Курбацкий" role="addressee">Курбацкому</persName></correspAction></correspDesc>
     </profileDesc>
   </teiHeader>
@@ -23,7 +25,7 @@
       <l>частному приставу <persName ref="Курбацкий">Курбацкому</persName>.</l>
     </head>
     <opener place="left">
-      <l><date when="1825-09-20">30<hi rend="superscript">го</hi> сентября 1825</date></l>
+      <l><date when="1825-09-30">30<hi rend="superscript">го</hi> сентября 1825</date></l>
       <l><fw type="docNum">№ 4767</fw></l>
     </opener>
     <p>

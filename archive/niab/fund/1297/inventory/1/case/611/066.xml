@@ -2,13 +2,19 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Хованский">Хованский<note place="end">лист без подписи. Отправитель назван его сиятельством в
+      рапорте о получении предложения № 5850 (<ref target="/niab611/067">л. 67</ref>)</note></persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc><abstract><p>
       Предложение (предписание) генерал-губернатора <persName ref="Хованский">Хованского</persName> могилевскому губернскому прокурору
       передать дело <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> для рассмотрения в суд
     </p></abstract>
+      <creation><date when="1825-11-17">17 ноября 1825<note place="end">на листе даты нет; так предложение № 5850
+      датировано в рапортах <persName ref="Смольянинов">Смольянинова</persName> (<ref target="/niab611/067">л. 67</ref>
+      и <ref target="/niab611/071">л. 71</ref>)</note></date></creation>
+      <correspDesc><correspAction><persName ref="Смольянинов" role="addressee">Смольянинову<note place="end">в адресе
+      назван только должностью; рапорт о получении подписан им (<ref target="/niab611/067">л. 67</ref>)</note></persName></correspAction></correspDesc>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
       </handNotes>

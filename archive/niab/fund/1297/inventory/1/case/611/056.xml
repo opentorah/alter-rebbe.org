@@ -2,7 +2,9 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>?</author>
+      <author><persName ref="Логинов">Логинов</persName></author>
+      <author><persName ref="Марков">Марков</persName></author>
+      <author><persName>Морозов</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -39,7 +41,7 @@
       <l>подлинной подписали:</l>
       <l>полковникъ <persName ref="Логинов">Логиновъ</persName></l>
       <l>надворный совѣтникъ <persName ref="Марков">Марковъ</persName></l>
-      <l>маіоръ Морозовъ.</l>
+      <l>маіоръ <persName>Морозовъ</persName>.</l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 2</fw></l>
