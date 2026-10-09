@@ -2,11 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author>Голицын</author>
+      <author><persName ref="Александр_Николаевич_Голицын">Голицын</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee"><persName>Богушу-Сестренцевичу</persName></persName>
+      <correspDesc><correspAction><persName ref="Богуш-Сестренцевич" role="addressee"><persName ref="Богуш-Сестренцевич">Богушу-Сестренцевичу</persName></persName>
       </correspAction></correspDesc>
       <creation><date when="1821-09-05">5 сентября 1821 года</date></creation>
       <abstract><p>
@@ -56,7 +56,7 @@
       <l>соизволенія, ваше высокопреосвященство можете</l>
       <fw type="note" place="left margin">
         <l>Его высокопревос<hi rend="superscript">ву</hi> митрополиту</l>
-        <l>р. католическихъ церквей <persName>Сестренцевичу-Богушу</persName>.</l>
+        <l>р. католическихъ церквей <persName ref="Богуш-Сестренцевич">Сестренцевичу-Богушу</persName>.</l>
       </fw>
       <fw type="note" place="lower margin">pisano do <unclear>??? ???</unclear> <fw type="docNum">№ 630</fw></fw>
       <pb n="009-2"/>

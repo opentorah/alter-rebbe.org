@@ -2,11 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Александр Голицын</persName></author>
+      <author><persName ref="Александр_Николаевич_Голицын">Александр Голицын</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Богушу-Сестренцевичу</persName></correspAction>
+      <correspDesc><correspAction><persName ref="Богуш-Сестренцевич" role="addressee">Богушу-Сестренцевичу</persName></correspAction>
       </correspDesc>
       <creation><date when="1821-01-24">24 января 1821 года</date></creation>
       <abstract><p>
@@ -53,7 +53,7 @@
       <l>что онъ притворяется сумасшедшимъ только</l>
       <fw type="note" place="left margin">
         <l>Его высокопреос<hi rend="superscript">ву</hi> митрополиту</l>
-        <l>р. католических церквей <persName>Сестрен-<lb break="no"/>
+        <l>р. католических церквей <persName ref="Богуш-Сестренцевич">Сестрен-<lb break="no"/>
          цевичу Богушу</persName><note place="end">Станислав Богуш-Сестренцевич - католический епископ, глава
         католической церкви в России в 1801 – 1826 гг. <ref
         target="https://ru.wikipedia.org/wiki/Богуш-Сестренцевич,_Станислав">[Википедия]</ref></note>.</l>
@@ -203,7 +203,7 @@
       <l>ніемъ и преданностію</l>
       <l>Вашего высокопреосвященства</l>
       <l><signed>покорнѣйшій слуга<lb/>
-       князь <persName>Александръ Голицынъ</persName></signed></l>
+       князь <persName ref="Александр_Николаевич_Голицын">Александръ Голицынъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 238</fw>.</l>

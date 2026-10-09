@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Палкин</persName></author>
+      <author><persName ref="Палкин">Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Сообщение плац-майора <persName>Палкина</persName> <orgName ref="Литовский_надворный_суд">Литовскому надворному
-        суду</orgName> об отсутствии в <placeName ref="Вильна">Вильно</placeName> <persName>Лейбы Рафаловича</persName>
+        Сообщение плац-майора <persName ref="Палкин">Палкина</persName> <orgName ref="Литовский_надворный_суд">Литовскому надворному
+        суду</orgName> об отсутствии в <placeName ref="Вильна">Вильно</placeName> <persName ref="Лейба_Рафалович">Лейбы Рафаловича</persName>
         – свидетеля, представленного <persName ref="Мовша_Ошерович">Мовшей Ошеровичем</persName>
       </p></abstract>
       <creation><date when="1799-12-09">декабря 9 дня 1799 года</date></creation>
@@ -31,11 +31,11 @@
       <l><date when="1799-12-07">7<hi rend="superscript">го</hi> сего мца<note place="end">месяца, над словом -
       титло</note></date> подъ <fw type="docNum">№ 489<hi rend="superscript">м</hi></fw> чрезъ городскую полицїю</l>
       <l>по частямъ города <placeName ref="Вильна">вильни</placeName> чиненъ поискъ еврея</l>
-      <l><persName>лѣибу Рафаловича</persName> потребного въ высылку во</l>
+      <l><persName ref="Лейба_Рафалович">лѣибу Рафаловича</persName> потребного въ высылку во</l>
       <l>оной судъ, то сїе нигдѣ по жительству въ городе</l>
       <l>не сысканъ, о чемъ и благоволитъ <orgName ref="Литовский_надворный_суд">оной Надвор-<lb break="no"/>
        ной судъ</orgName> быть извѣстенъ. Плацъ маиоръ</l>
-      <l>подполковникъ <persName>Палкинъ</persName></l>
+      <l>подполковникъ <persName ref="Палкин">Палкинъ</persName></l>
     </p>
     <closer place="left"><l><date when="1799-12-09">декабря 9<hi rend="superscript">го</hi> дня<lb/>
      1799<hi rend="superscript">го</hi> года</date></l></closer>

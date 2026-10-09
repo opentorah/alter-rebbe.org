@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Палкин</persName></author>
+      <author><persName ref="Палкин">Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Ответ <persName>Палкина</persName> Надворному суду о наличии среди <placeName ref="Вильна">виленских</placeName>
-        жителей евреев с именами и отчествами <persName>Лейба Рафалович</persName> и <persName>Лейба
+        Ответ <persName ref="Палкин">Палкина</persName> Надворному суду о наличии среди <placeName ref="Вильна">виленских</placeName>
+        жителей евреев с именами и отчествами <persName ref="Лейба_Рафалович">Лейба Рафалович</persName> и <persName>Лейба
         Давыдович</persName>
       </p></abstract>
       <creation><date when="1800-01-16">16 января 1800 года</date></creation>
@@ -40,7 +40,7 @@
       <l>летной а подъ № 345<hi rend="superscript">м</hi> таковаго Рафало:</l>
       <l>вича не оказалось; о чемъ оной <orgName ref="Литовский_надворный_суд">надво-<lb break="no"/>
        рной судъ</orgName> симъ увѣдомляю._</l>
-      <l><signed>Плацъ маиоръ подполковникъ <persName>Палкинъ</persName></signed></l>
+      <l><signed>Плацъ маиоръ подполковникъ <persName ref="Палкин">Палкинъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 33<hi rend="superscript">и</hi></fw></l>

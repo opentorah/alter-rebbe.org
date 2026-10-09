@@ -2,12 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Хованский</persName></author>
+      <author><persName ref="Хованский">Хованский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Распоряжение генерал-губернатора <persName>Хованского</persName> Могилевскому губернскому правлению о дальнейших
+        Распоряжение генерал-губернатора <persName ref="Хованский">Хованского</persName> Могилевскому губернскому правлению о дальнейших
         следственных действиях по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName> и передаче дела в суд
       </p></abstract>
       <creation><date when="1825-11-17">17 ноября 1825</date></creation>

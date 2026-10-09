@@ -11,7 +11,7 @@
         Шнеерсона</persName> на ревизию в губернский суд
       </p></abstract>
       <creation><date when="1826-08-04">Августа 4 дня 1826 года</date></creation>
-      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Хованский" role="addressee">Хованскому</persName></correspAction></correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -28,7 +28,7 @@
       <l>Господину генералъ губернатору витебскому,</l>
       <l>могилевскому, смоленскому. и калужскому, генералъ</l>
       <l>лейтенанту, сенатору и разныхъ орденовъ кавалеру,</l>
-      <l>князю <persName>Николаю Николаевичу Хованскому</persName>.</l>
+      <l>князю <persName ref="Хованский">Николаю Николаевичу Хованскому</persName>.</l>
       <l>могилевскаго губернскаго прокурора</l>
       <l><emph rend="big">рапортъ</emph>.</l>
     </head>

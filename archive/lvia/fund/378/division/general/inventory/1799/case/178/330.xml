@@ -2,12 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Палкин</persName></author>
+      <author><persName ref="Палкин">Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Ответ исполняющего обязанности виленского коменданта <persName>Палкина</persName> <orgName
+        Ответ исполняющего обязанности виленского коменданта <persName ref="Палкин">Палкина</persName> <orgName
         ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> о взятии сведений с ряда <placeName
         ref="Вильна">виленских</placeName> евреев для учета в ревизских данных
       </p></abstract>
@@ -31,8 +31,8 @@
       подъ</l>
       <l><fw type="docNum">№ 908<hi rend="superscript">м</hi></fw> о увѣдомленіи по какому поводу квар-</l>
       <l>тальными надзирателямивъ 1798<hi rend="superscript">м</hi> году и въ семъ</l>
-      <l>1799 годахъ отбираны были отъ евреевъ <persName>Абрама<lb/>
-       Гиршовича</persName>, <persName>Нисона Давыдовича</persName>, и <persName>Мордуха Цал-<lb break="no"/>
+      <l>1799 годахъ отбираны были отъ евреевъ <persName ref="Абрам_Гиршович">Абрама<lb/>
+       Гиршовича</persName>, <persName ref="Нисон_Давыдович">Нисона Давыдовича</persName>, и <persName>Мордуха Цал-<lb break="no"/>
        ковимча</persName> сказки для записанія въ ревизію? Въ</l>
       <l>отвѣтѣ на оное симъ извѣщаю что по учинен</l>
       <l>нымъ съ дѣлами виленской городовой полиціи</l>

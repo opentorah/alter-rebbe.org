@@ -2,11 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Сидоров</persName></author>
+      <author><persName ref="Павел_Сидорович">Сидоров</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc><abstract><p>
-      Письменное свидетельство дворянина <persName>Павла Сидорова</persName> о том, что он сопровождал <persName
+      Письменное свидетельство дворянина <persName ref="Павел_Сидорович">Павла Сидорова</persName> о том, что он сопровождал <persName
       ref="Моше_Шнеерсон">Моше Шнеерсона</persName> к крещению, но при самом этом акте не присутствовал
     </p></abstract>
       <handNotes>
@@ -39,7 +39,7 @@
       <l>втомъ что онъ желаетъ креститься</l>
       <l>въ чемъ и удовлетворили его желаніе</l>
       <l>и о томъ какъ выше сказано подпису</l>
-      <l>юсь своеручно Дворянинъ <persName>Павелъ Сидоровъ</persName></l>
+      <l>юсь своеручно Дворянинъ <persName ref="Павел_Сидорович">Павелъ Сидоровъ</persName></l>
     </p>
     <pb n="094-2" missing="true"/>
   </body></text>

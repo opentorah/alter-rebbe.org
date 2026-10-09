@@ -2,12 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Сербинович</persName></author>
+      <author><persName ref="Сербинович">Сербинович</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Объяснение губернского казначея <persName>Сербиновича</persName> для <orgName ref="Литовский_надворный_суд"
+        Объяснение губернского казначея <persName ref="Сербинович">Сербиновича</persName> для <orgName ref="Литовский_надворный_суд"
         >Литовского надворного суда</orgName> о событиях, связанных с отстранением действовавшего состава старшин
         <orgName ref="Виленский_кагал">виленского кагала</orgName> и изъятии приходно-расходных книг
       </p></abstract>
@@ -20,7 +20,7 @@
     <fw type="note" place="left margin">Ис-</fw>
     <head>
       <l>Въ Литовскую Казенную Палату</l>
-      <l>отъ губернскаго ея казначея <persName>Сербиновича</persName>.</l>
+      <l>отъ губернскаго ея казначея <persName ref="Сербинович">Сербиновича</persName>.</l>
       <l>Объясненіе</l>
     </head>
     <p>
@@ -125,7 +125,7 @@
       <l>справедливое объясненіе Литовскую казенную палату</l>
       <l>покорнѣйше прошу препроводить въ <orgName ref="Литовский_надворный_суд">Литовскій надворный<lb/>
        судъ</orgName> въ сходствіе его требованія. Губернскій казначей</l>
-      <l><signed><persName>Степан Сербиновичъ</persName></signed></l>
+      <l><signed><persName ref="Сербинович">Степан Сербиновичъ</persName></signed></l>
     </p>
     <closer place="left"><l><date when="1799-04-29">Апреля 29<hi rend="superscript">го</hi> дня<lb/>
      1799 года</date>.</l></closer>

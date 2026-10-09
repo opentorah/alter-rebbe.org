@@ -2,12 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Палкин</persName></author>
+      <author><persName ref="Палкин">Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Рапорт исполняющего должность <placeName ref="Вильна">виленского</placeName> коменданта <persName
+        Рапорт исполняющего должность <placeName ref="Вильна">виленского</placeName> коменданта <persName ref="Палкин"
         >Палкина</persName> <orgName ref="Литовский_надворный_суд">Литовскому надворному суду</orgName> о доставлении
         свидетеля <persName ref="Левин_Беркович">Левина Берковича</persName>
       </p></abstract>
@@ -34,7 +34,7 @@
        475<hi rend="superscript">м</hi></fw> еврей <persName ref="Левин_Беркович">левинъ берковичъ</persName> при
       семъ</l>
       <l>представляется, плацъ маиоръ</l>
-      <l>подполковникъ <persName>Палкинъ</persName></l>
+      <l>подполковникъ <persName ref="Палкин">Палкинъ</persName></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 1070</fw></l>

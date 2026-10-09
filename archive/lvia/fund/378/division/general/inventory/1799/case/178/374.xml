@@ -2,11 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Палкин</persName></author>
+      <author><persName ref="Палкин">Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <abstract>Сообщение исполнявшего комендантскую должность <persName>Палкина</persName> <orgName
+      <abstract>Сообщение исполнявшего комендантскую должность <persName ref="Палкин">Палкина</persName> <orgName
       ref="Литовский_надворный_суд">Надворному суду</orgName> о представлении разыскиваемых для допроса
       свидетелей</abstract>
       <creation><date when="1800-02-06">Февраля 6 дня 1800 года</date></creation>
@@ -23,14 +23,14 @@
       <l>Въ <orgName ref="Литовский_надворный_суд">Литовской Надворной Судъ</orgName>.</l>
       <l>отъ правящаго коммендантскую долж-</l>
       <l>ность виленскаго плацъ-маїора под-</l>
-      <l>полковника <persName>Палкина</persName>.</l>
+      <l>полковника <persName ref="Палкин">Палкина</persName>.</l>
     </head>
     <p>
       <l>Требуемые <orgName ref="Литовский_надворный_суд">онымъ Надворнымъ<lb/>
-       судомъ</orgName> еврей <persName>Гирша Юделевичъ</persName> и сынъ</l>
+       судомъ</orgName> еврей <persName ref="Гирш_Юделевич">Гирша Юделевичъ</persName> и сынъ</l>
       <l><persName ref="Меер_Рафалович">Меера Рафаловича</persName> <persName>Янкель</persName> при семъ</l>
       <l>представляются. <signed>Плацъ майоръ<lb/>
-       подполковникъ <persName>Палкинъ</persName></signed></l>
+       подполковникъ <persName ref="Палкин">Палкинъ</persName></signed></l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 159</fw></l>

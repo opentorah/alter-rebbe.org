@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Курбацкий</persName></author>
+      <author><persName ref="Курбацкий">Курбацкий</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -11,7 +11,7 @@
         <placeName ref="Любавичи">Любавичи</placeName>
       </p></abstract>
       <creation><date when="1826-02-08">не позднее 8 февраля 1826</date></creation>
-      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Хованский" role="addressee">Хованскому</persName></correspAction></correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -25,10 +25,10 @@
       <l><emph rend="big">Его Сїятельству</emph>._С</l>
       <l>Господину генералъ лейтенанту, сенатору генералъ-</l>
       <l>губернатору витебскому, могилевскому, смоленскому и</l>
-      <l>калужскому и ковалеру князю <persName>Nиколаю Nиколаевичу Хо-<lb break="no"/>
+      <l>калужскому и ковалеру князю <persName ref="Хованский">Nиколаю Nиколаевичу Хо-<lb break="no"/>
        ванскому</persName>._</l>
       <l>Витебской городской полицїи</l>
-      <l>частнаго пристава <persName>Курбацкаго</persName></l>
+      <l>частнаго пристава <persName ref="Курбацкий">Курбацкаго</persName></l>
       <l><emph rend="big">Рапортъ</emph>._</l>
     </head>
     <p>
@@ -45,7 +45,7 @@
       <l>Сїятельство всепокорнѣйше просить о предписанїи кому</l>
       <l>надлѣжитъ причитающееся число денегъ на прогоны</l>
       <l>мною употребленныхъ возвратить мнѣ изъ казны._</l>
-      <l>Частный приставъ <signed><persName>Курбацкій</persName></signed></l>
+      <l>Частный приставъ <signed><persName ref="Курбацкий">Курбацкій</persName></signed></l>
     </p>
     <closer place="left">
       <l><emph rend="underline"><fw type="docNum">№. 176</fw></emph></l>

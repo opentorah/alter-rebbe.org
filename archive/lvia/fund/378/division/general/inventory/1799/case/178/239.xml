@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Палкин</persName></author>
+      <author><persName ref="Палкин">Палкин</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <abstract>Сопроводительное письмо плац-майора <persName>Палкина</persName>, исполнявшего обязанности <placeName
+      <abstract>Сопроводительное письмо плац-майора <persName ref="Палкин">Палкина</persName>, исполнявшего обязанности <placeName
       ref="Вильна">виленского</placeName> коменданта, при передаче показаний в <orgName ref="Литовский_надворный_суд"
-      >Литовский надворный суд</orgName> письменных показаний квартального надзирателя <persName>Гески</persName>
+      >Литовский надворный суд</orgName> письменных показаний квартального надзирателя <persName ref="Естко">Гески</persName>
       </abstract>
       <creation><date when="1799-08-13">Августа 13 дня 1799 года</date></creation>
     </profileDesc>
@@ -32,9 +32,9 @@
        минувшаго июля</date> подъ <fw type="docNum">№ 268<hi rend="superscript">м</hi></fw> съ при-</l>
       <l>ложенїемъ доказательствъ еврея</l>
       <l><persName ref="Мовша_Ошерович">Ошеровича</persName> подано отъ квартальнаго</l>
-      <l>надзирателя <persName>Гестки</persName> объясненїе</l>
+      <l>надзирателя <persName ref="Естко">Гестки</persName> объясненїе</l>
       <l>оное при семъ представить честь</l>
-      <l>имѣю Плацъ маіоръ <persName>Палкинъ</persName>.</l>
+      <l>имѣю Плацъ маіоръ <persName ref="Палкин">Палкинъ</persName>.</l>
     </p>
     <closer place="left">
       <l><fw type="docNum">№ 330</fw>.</l>

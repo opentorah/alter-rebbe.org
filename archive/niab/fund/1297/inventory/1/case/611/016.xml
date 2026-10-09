@@ -14,7 +14,7 @@
         найденных по данному делу документах
       </p></abstract>
       <creation><date when="1825-11-10">1825 года ноября 10 дня</date></creation>
-      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Хованский" role="addressee">Хованскому</persName></correspAction></correspDesc>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
       </handNotes>
@@ -33,7 +33,7 @@
       <l>Господину генералъ лейтенанту, сена-</l>
       <l>тору, генералъ губернатору витебскому,</l>
       <l>могилевскому, смоленскому и кавалеру</l>
-      <l>князю <persName>Николаю Николаевичу Хованскому</persName>.</l>
+      <l>князю <persName ref="Хованский">Николаю Николаевичу Хованскому</persName>.</l>
     </salute>
     <head>
       <l>Полковника <persName>Логинова</persName> и</l>
@@ -209,14 +209,14 @@
           <l>зать, сколько въ число сихъ расходовъ упо-</l>
           <l>треблено изъ раздѣльной суммы и сколь-</l>
           <l>кл изъ поступившаго послѣ того дохода (6)</l>
-          <l>Напротивъ того частной приставъ <persName>Кур-<lb break="no"/>
+          <l>Напротивъ того частной приставъ <persName ref="Курбацкий">Кур-<lb break="no"/>
            бацкой</persName>, посыланный въ <placeName ref="Любавичи">Любавичи</placeName> для ос-</l>
           <l>видѣтельствованїя на мѣстѣ синагоги</l>
           <l>и принадлежащтихъ къ ней вещей, оце-</l>
           <l>нилъ все оной, кромѣ 611 книгъ, находя-</l>
           <l>щихся въ домѣ раввина, въ 3258<note place="end">справа к числу примыкает надстрочный знак - символ
           рубля</note>-50 <hi rend="superscript">к</hi>.</l>
-          <l>Тамошнїе же евреи увѣряли <persName>Курбацкаго</persName>,</l>
+          <l>Тамошнїе же евреи увѣряли <persName ref="Курбацкий">Курбацкаго</persName>,</l>
           <l>что <persName ref="мителер_ребе">Шнейеру</persName> обошлась постройка въ</l>
           <l>5/т р. люстры 1000 р. и Божїи заповѣди</l>
           <l>отъ 1000 до 1500 р.</l>

@@ -2,13 +2,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Хованский</persName></author>
+      <author><persName ref="Хованский">Хованский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1827-05-15">15 мая 1827 года</date></creation>
       <abstract><p>
-        Рапорт генерал-губернатора <persName>Хованского</persName> в <orgName ref="Сенат">Сенат</orgName> с обжалованием
+        Рапорт генерал-губернатора <persName ref="Хованский">Хованского</persName> в <orgName ref="Сенат">Сенат</orgName> с обжалованием
         оправдательного судебного решения по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
       <handNotes>
@@ -582,7 +582,7 @@
       <l>мною подлинное дѣло <date when="1827-03-02">2 марта</date> и напо-</l>
       <l>слѣдокъ получено <date when="1827-03-29">29 марта</date>. подписалъ:</l>
       <l>генералъ-губернаторъ, генералъ-лейтенантъ</l>
-      <l>князь <persName>Хованской</persName>. вѣрно: въ должности секре-</l>
+      <l>князь <persName ref="Хованский">Хованской</persName>. вѣрно: въ должности секре-</l>
       <l>таря <persName>Дмитревскій</persName></l>
       <l>Коллежскій секретарь А. <unclear>???</unclear></l>
     </p>

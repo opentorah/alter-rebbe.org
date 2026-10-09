@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Курбацкий</persName></author>
+      <author><persName ref="Курбацкий">Курбацкий</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -12,7 +12,7 @@
         >Дов-Бера Шнеерсона</persName> книгах
       </p></abstract>
       <creation><date when="1825-10">октябрь 1825 года</date></creation>
-      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Хованский" role="addressee">Хованскому</persName></correspAction></correspDesc>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
       </handNotes>
@@ -28,13 +28,13 @@
       <l>Его Сіятельству, господину генерал-Лейтенанту</l>
       <l>сенатору генерал-губернатору витебскому, мо-</l>
       <l>гилевскому, смоленскому и калужскому и</l>
-      <l>ковалеру князю <persName>Nиколаю Nиколаевичу<lb/>
+      <l>ковалеру князю <persName ref="Хованский">Nиколаю Nиколаевичу<lb/>
        Хованскому</persName>.</l>
     </salute>
     <head>
       <l>Витебской городской по-</l>
       <l>лиціи частнаго пристава</l>
-      <l><persName>Курбацкаго</persName></l>
+      <l><persName ref="Курбацкий">Курбацкаго</persName></l>
       <l>Рапортъ.</l>
     </head>
     <p>
@@ -160,7 +160,7 @@
       <l><unclear>??? ???</unclear><note place="end">край листа поврежден, начало строки нечитабельно</note>
       высоконачальничье благоуваженіе по</l>
       <l><unclear>??? ???</unclear><note place="end">край листа поврежден, начало строки нечитабельно</note> частнаго
-      пристава <persName>Курбацкаго</persName></l>
+      пристава <persName ref="Курбацкий">Курбацкаго</persName></l>
     </p>
   </body></text>
 </TEI>

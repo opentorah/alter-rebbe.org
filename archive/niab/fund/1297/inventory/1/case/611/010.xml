@@ -11,7 +11,7 @@
         ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
       <creation><date when="1825-09-20">30<hi rend="superscript">го</hi> сентября 1825</date></creation>
-      <correspDesc><correspAction><persName role="addressee">Курбацкому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Курбацкий" role="addressee">Курбацкому</persName></correspAction></correspDesc>
     </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
@@ -20,7 +20,7 @@
     <fw type="note" place="left margin">мощ</fw>
     <head>
       <l>Витебской городской полиціи</l>
-      <l>частному приставу <persName>Курбацкому</persName>.</l>
+      <l>частному приставу <persName ref="Курбацкий">Курбацкому</persName>.</l>
     </head>
     <opener place="left">
       <l><date when="1825-09-20">30<hi rend="superscript">го</hi> сентября 1825</date></l>

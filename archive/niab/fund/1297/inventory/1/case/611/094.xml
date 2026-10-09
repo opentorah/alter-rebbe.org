@@ -11,7 +11,7 @@
         на запросы по делу <persName ref="мителер_ребе">Дов-Бера Шнеерсона</persName>
       </p></abstract>
       <creation><date when="1826-05-22">22 маія 1826</date></creation>
-      <correspDesc><correspAction><persName role="addressee">Хованскому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Хованский" role="addressee">Хованскому</persName></correspAction></correspDesc>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
       </handNotes>
@@ -30,7 +30,7 @@
       <l>Господину генералъ губернатору витебскому,</l>
       <l>могилевскому, смоленскому и калужскому генералъ</l>
       <l>лейтенанту сенатору и разныхъ орденовъ</l>
-      <l>кавалеру князю <persName>Николаю Николевичу Хованскому</persName>.</l>
+      <l>кавалеру князю <persName ref="Хованский">Николаю Николевичу Хованскому</persName>.</l>
       <l>Могилевскаго губернскаго прокурора</l>
       <l><emph rend="big">Рапортъ</emph>.</l>
     </head>

@@ -2,11 +2,11 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Пузанов</persName></author>
+      <author><persName ref="Пузанов">Пузанов</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName role="addressee">Зраницкому</persName></correspAction></correspDesc>
+      <correspDesc><correspAction><persName ref="Зраницкий" role="addressee">Зраницкому</persName></correspAction></correspDesc>
       <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
       <abstract><p>
         Ответ свидетеля на запрос лепельского декана об обстоятельствах крещения <persName ref="Моше_Шнеерсон">Моше
@@ -28,14 +28,14 @@
     <fw type="note">П. <date when="1820-10-29">1820. года октября 29<hi rend="superscript">го</hi></date>.</fw>
     <salute>
       <l>Лепельскому декану и святой богосло-</l>
-      <l>віи доктору <persName>Зраницкому_</persName></l>
+      <l>віи доктору <persName ref="Зраницкий">Зраницкому_</persName></l>
     </salute>
     <opener place="left">
       <l>3<hi rend="superscript">и</hi> артиллеріи</l>
       <l>ской бригады ко</l>
       <l>мандира легкой</l>
       <l>№ 2 роты подпо</l>
-      <l>лковника <persName>Пузанова</persName></l>
+      <l>лковника <persName ref="Пузанов">Пузанова</persName></l>
       <l>№ <unclear>632</unclear> <hi rend="superscript">й</hi></l>
       <l><date when="1820-10-28">октября 28 дня<lb/>
        1820 года</date>.</l>
@@ -70,7 +70,7 @@
       <l>зделать вашему Преподобїю удовлетворительной</l>
       <l>по вашему отношенію о крещеніи равина <persName ref="Моше_Шнеерсон">моисея</persName></l>
       <l>отзывъ._</l>
-      <l><signed>Подполковникъ <persName>Пузановъ</persName></signed></l>
+      <l><signed>Подполковникъ <persName ref="Пузанов">Пузановъ</persName></signed></l>
     </p>
     <pb n="095-2" missing="true"/>
   </body></text>

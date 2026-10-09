@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName>Сиодловский</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="Сиодловский">Сиодловский</persName></author></titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
       <abstract><p>
-        Объяснение ксендза <persName>Сиодловского</persName>, данное лепельскому католическому декану <persName
+        Объяснение ксендза <persName ref="Сиодловский">Сиодловского</persName>, данное лепельскому католическому декану <persName ref="Зраницкий"
         >Зраницкому</persName> - на польском языке
       </p></abstract>
     </profileDesc>

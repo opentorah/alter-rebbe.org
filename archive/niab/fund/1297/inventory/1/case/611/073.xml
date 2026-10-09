@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author><persName>Хованский</persName></author>
+      <author><persName ref="Хованский">Хованский</persName></author>
       <editor role="transcriber"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
@@ -24,7 +24,7 @@
     <head><l>Витебской казенной палатѣ.</l></head>
     <p>
       <l>Здѣшней градской полиціи</l>
-      <l>Частный приставъ <persName>Курбацкій</persName></l>
+      <l>Частный приставъ <persName ref="Курбацкий">Курбацкій</persName></l>
       <l>былъ посыланъ мною по дѣламъ</l>
       <l>службы два раза чрезъ городъ Ба</l>
       <l>биновичи въ мѣстечко <placeName ref="Любавичи">Любавичи</placeName>;</l>
@@ -35,7 +35,7 @@
       <l>Курбацкимъ собственныя деньги,</l>
       <l><hi rend="superscript">почему</hi> предлагаю Казенной палатѣ</l>
       <l>выдать ему <hi rend="superscript"><unclear>столько</unclear>, сколько причитаться будетъ</hi> <del
-      rend="overstrike"><persName>Курбацкому</persName></del> безъ</l>
+      rend="overstrike"><persName ref="Курбацкий">Курбацкому</persName></del> безъ</l>
       <l>возврата <del rend="overstrike">оныхъ</del> въ казну и меня</l>
       <l>увѣдомить.</l>
     </p>

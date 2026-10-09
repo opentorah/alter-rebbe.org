@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName>Зраницкий</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt><author><persName ref="Зраницкий">Зраницкий</persName></author></titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-12-02">2 декабря 1820 года</date></creation>
       <abstract><p>
-        Рапорт католического декана <persName>Зраницкого</persName> в Могилевскую духовную римско-католическую
+        Рапорт католического декана <persName ref="Зраницкий">Зраницкого</persName> в Могилевскую духовную римско-католическую
         консисторию
       </p></abstract>
     </profileDesc>
