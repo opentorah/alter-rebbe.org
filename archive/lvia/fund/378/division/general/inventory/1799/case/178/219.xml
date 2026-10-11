@@ -1,11 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Указание (на шведском языке), как подать жалобу в королевский гофгерихт в <placeName>Або</placeName>: не
+        позднее тридцатого дня после вручения решения. На обороте — помета магистрата от <date when="1801-11-29">29
+        ноября 1801 года</date>.
+        К делу не относится. Дело — следствие 1798–1799 годов по жалобе <persName ref="Мовша_Ошерович">Мовшы
+        Ошеровича</persName>. Этот лист — шведское судебное указание об обжаловании в Або; почтальона и шкипера в нём
+        нет. Даты на листе — 1801 и 1847 годы. Лист вшит между отсутствующими 218 и 220.
+        Перевод: <ref target="/lvia1799-178/219-ru">ru</ref>
+      </p></abstract>
+      <creation><date when="1801-11-29">29 ноября 1801 года<note place="end">Дата пометы магистрата на обороте. Формула
+      жалобы на лицевой стороне даты не имеет: строка «Tid och ort föreskrifne» оставлена без заполнения. Ниже на
+      обороте — 1 января 1801 года. Помета кемнерского суда на лицевой стороне — 8 декабря 1847 года.</note></date></creation>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="fr"><body>
+  <text xml:lang="sv"><body>
     <pb n="219-1"/>
+    <fw type="pageNum" place="right">219 <unclear>Kopia</unclear><note place="end">Слово после номера подчёркнуто и
+    читается Kopia.</note></fw>
+    <p>
+      <l>söka ändring genom besvär, hvilka sed-</l>
+      <l>nast å Trettionde /30/ dagen efter del-</l>
+      <l>gifvandet, densamma dock oräknad, böra till</l>
+      <l><orgName>Högloflige <unclear>Kongelige</unclear> Hof Rätten</orgName> i <placeName>Åbo</placeName><note
+      place="end">Слово после Högloflige читается Kongelige; возможно сокращение Kongl.</note></l>
+      <l>ingifvas; och åligger Sökandens förty,<note place="end">Конечное s в Sökandens может быть росчерком. Обычная
+      форма — Sökanden.</note></l>
+      <l>att å dess afskrift <unclear>Göraf</unclear>, som Han<note place="end">Слово между afskrift и som похоже на
+      Göraf. В обычной формуле его нет: «att å dess afskrift, som han…».</note></l>
+      <l>genom twänne gode män, sin weder-</l>
+      <l>part tillställer, låta antecknas da-</l>
+      <l>gen då sådant skett, hvilken afskrift</l>
+      <l>sedermera bör besvären åtfölja. Tid</l>
+      <l>och ort föreskrifne.</l>
+    </p>
+    <p>
+      <l><del rend="overstrike"><unclear>N:o Abrahamson</unclear></del><note place="end">Строка зачёркнута, начало
+      закрыто кляксой. Читается как Abrahamson. Это не Anderson с листа <ref target="/lvia1799-178/217"
+      >217</ref>.</note></l>
+      <l><unclear>Prof.</unclear> <persName>Alexander</persName> <orgName>Universitets</orgName> n.v. Rector.<note
+      place="end">n.v. — nuvarande, «нынешний». Это титул ректора, не почтальон Александр Андерсон с листа 217.</note></l>
+    </p>
+    <fw type="note" place="left">печать<note place="end">Красная сургучная печать слева под текстом. Легенда не
+    разобрана.</note></fw>
+    <p>
+      <l>Genom <orgName><unclear>Kämnärsrätten</unclear></orgName> <placeName>Åbo</placeName> uppläst <date>19.
+      Dec</date><note place="end">Год при «19. Dec» не написан. Год 1847 стоит в следующей строке той же пометы.</note></l>
+      <l><unclear>60. kap. f.</unclear> <date when="1847-12-08">d. 8. Dec 1847</date>. ——</l>
+      <l><signed><unclear>Revisor</unclear></signed><note place="end">Подпись под датой не разобрана; похоже на
+      Revisor.</note></l>
+    </p>
+    <p>
+      <l><unclear>Utlöande Summa</unclear></l>
+      <l>à — <unclear>25</unclear> R:dr<note place="end">Четыре строки слева внизу — другой почерк, счёт. Первая строка
+      и сумма читаются неуверенно: 25 либо 85. R:dr — риксдалеры.</note></l>
+      <l><unclear>med Post protokollförande</unclear></l>
+      <l><unclear>Ett par 10–50</unclear></l>
+      <l><signed><persName><unclear>A. B. Wegelius</unclear></persName></signed><note place="end">Под фамилией две
+      короткие чёрточки.</note></l>
+    </p>
+    <p>
+      <l>Utslag uppå förre <unclear>Accusatorens</unclear> <persName>C. Christiernin</persName> anföring.<note
+      place="end">Слово перед именем похоже на Accusatorens («обвинителя») либо Anmärktares.</note></l>
+    </p>
     <pb n="219-2"/>
+    <fw type="note" place="right"><unclear>600</unclear></fw>
+    <p>
+      <l><unclear>Återkallas utmätning häraf äga</unclear><note place="end">Правый край оборота оборван, концы строк
+      срезаны. Первые строки пометы магистрата читаются лишь частично. Пятно лежит на втором слове второй строки.</note></l>
+      <l>stad <unclear>Kämnär bekanden</unclear></l>
+      <l>att <unclear>???</unclear></l>
+      <l><unclear>???</unclear>. <unclear>Wällofl.</unclear> Råd-</l>
+      <l>hus <date when="1801-11-29">den 29de November 1801</date>.</l>
+      <l>På <orgName>Magistratens</orgName> vägnar.</l>
+      <l><signed><persName><unclear>G. G. Åkerblom</unclear></persName></signed><note place="end">Фамилия в подписи
+      магистрата читается как Åkerblom.</note></l>
+    </p>
+    <p>
+      <l><unclear>Å</unclear> <persName>Christiernins</persName> vägnar är <unclear>återst</unclear></l>
+      <l><unclear>den af detta utslag innefattade</unclear></l>
+      <l><unclear>hvilket med 18 R:dr 83</unclear></l>
+      <l><unclear>???</unclear> <date when="1801-01-01">den 1. Januarii 1801</date><note place="end">Последняя цифра года
+      стоит у оборванного края и читается как 1.</note></l>
+      <l><signed><unclear>???</unclear></signed><note place="end">Подпись под январской пометой закрыта кляксой.</note></l>
+    </p>
+    <fw type="note" place="bottom"><unclear>???</unclear><note place="end">Внизу оборота — столбцы карандашных цифр, не
+    разобраны. Посередине листа — след печати.</note></fw>
   </body></text>
 </TEI>

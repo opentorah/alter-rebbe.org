@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName>Карл Густав <unclear>Дёк</unclear></persName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1805-10-09">9 октября 1805 года</date></creation>
+      <abstract><p>
+        Перевод свидетельства таможенного инспектора о почтальоне <persName>Александре Андерсоне</persName>.
+        К делу не относится: свидетельство от <date when="1805-10-09">9 октября 1805 года</date> о пути в
+        <placeName>Фридрихсгам</placeName>, а дело — следствие 1798–1799 годов по жалобе <persName
+        ref="Мовша_Ошерович">Мовшы Ошеровича</persName>.
+        Оригинал: <ref target="/lvia1799-178/217">217</ref>
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="217-1"/>
+      Что прилагаемый при сём почтальон, <persName>Александр Андерсон</persName>, состоит под вышезначенной властью; что
+      этот почтальон был и поныне заявлен сопровождать шкипера в <placeName>Фридрихсгам</placeName> и обратно; и что он
+      неоднократно нёс при этом службу, оправдал оказанное доверие и старался точно исполнять вверенное ему, —
+      удостоверяет <orgName><unclear>корабельная</unclear> контора</orgName>, <date when="1805-10-09">9 октября 1805
+      года</date>.
+      <note place="end">Перед именем в оригинале стоит hans («его»). Шведское postiljon — почтальон при почте или при
+      экипаже. Конечное s в postiljons может быть росчерком. Между «почтальон» и «был» читается ej funnits («не был
+      найден»); в перевод эта оговорка не внесена. Слово перед «шкипера» — åtfölja («сопровождать») либо afresa
+      («отбывать»). Фридрихсгам — шведское имя Хамины. Название конторы перед Contoir не разобрано; второе слово похоже
+      на skepps.</note>
+    </p>
+    <closer>
+      <l><signed><persName>Карл Густав <unclear>Дёк</unclear></persName></signed><note place="end">Фамилия в оригинале
+      короткая и начинается с D.</note></l>
+      <l><signed>таможенный инспектор</signed></l>
+    </closer>
+  </body></text>
+</TEI>

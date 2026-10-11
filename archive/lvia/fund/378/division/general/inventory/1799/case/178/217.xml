@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>язык и содержание документа не определены</abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author><persName>Carl Gustaf <unclear>Döck</unclear></persName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Свидетельство (на шведском языке) таможенного инспектора о почтальоне <persName>Александре
+        Андерсоне</persName>, сопровождающем шкипера в <placeName>Фридрихсгам</placeName> и обратно.
+        К делу не относится. Дело — следствие 1798–1799 годов по жалобе <persName ref="Мовша_Ошерович">Мовшы
+        Ошеровича</persName>. Этот лист — шведское таможенное свидетельство от <date when="1805-10-09">9 октября 1805
+        года</date> о почтальоне и шкипере на пути в Фридрихсгам; этих людей, этого пути и этого года в деле больше
+        нет. Лист вшит между отсутствующими 216 и 218.
+        Перевод: <ref target="/lvia1799-178/217-ru">ru</ref>
+      </p></abstract>
+      <creation><date when="1805-10-09">9 октября 1805 года</date></creation>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="fr"><body>
+  <text xml:lang="sv"><body>
     <pb n="217-1"/>
+    <fw type="pageNum" place="right">№ 217</fw>
+    <p>
+      <l>Att medföljande postiljons hans<hi rend="superscript">w</hi> <persName>Alexander</persName><note
+      place="end">Пятно лежит на верхней петле h в hans («его»). Над строкой перед Alexander — маленькое w. Конечное s
+      в postiljons может быть росчерком.</note></l>
+      <l><persName>Anderson</persName> under <unclear>föreställande</unclear> <unclear>auktoriteten</unclear><note
+      place="end">Слово после under похоже на föreställande или förestående («вышезначенная»). Последнее слово строки
+      — auktoriteten или auktoritet.</note></l>
+      <l>så Postiljon ej funnits, varit och ännu<note place="end">ej funnits читается так. Обычная форма супина —
+      funnit. «Не был найден» плохо стыкуется с удостоверением о службе.</note></l>
+      <l>anmäles att <unclear>åtfölja</unclear> skepparen till<note place="end">Слово перед skepparen: åtfölja
+      («сопровождать») либо afresa («отбывать»).</note></l>
+      <l><placeName>Fredrikshamn</placeName> och retur, och han <unclear>samfäldes</unclear></l>
+      <l>ofta deruti blifvit begagnat, hvarunder</l>
+      <l>han rättfärdigat detta förtroende och</l>
+      <l>varit angelägen om punktelig uppfyllande</l>
+      <l>i hvad honom blifvit anförtrodt, intygar</l>
+    </p>
+    <closer>
+      <l><unclear>???</unclear> <orgName><unclear>skepps</unclear> Contoir</orgName>, <date when="1805-10-09">d. 9
+      October 1805</date>.<note place="end">Два слова перед Contoir не разобраны. Второе похоже на skepps. Contoir —
+      старое написание kontor, «контора».</note></l>
+      <fw type="note" place="left">печать<note place="end">Большая сургучная печать слева под текстом: щит с гербом и
+      легенда по ободу. Легенда не разобрана.</note></fw>
+      <l><signed><persName>Carl Gustaf <unclear>Döck</unclear></persName></signed><note place="end">Фамилия короткая и
+      начинается с D; возможно Döck, Dörr или близкое чтение.</note></l>
+      <l><signed>Tull Inspector</signed></l>
+      <fw type="note" place="right">печать<note place="end">Меньшая сургучная печать справа, под подписью. Оттиск не
+      разобран.</note></fw>
+    </closer>
     <pb n="217-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

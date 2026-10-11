@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1801-11-29">29 ноября 1801 года<note place="end">Дата пометы магистрата на обороте. Прочие
+      даты листа — 1 января 1801 года и 8 декабря 1847 года.</note></date></creation>
+      <abstract><p>
+        Перевод указания, как подать жалобу в королевский гофгерихт в <placeName>Або</placeName>.
+        К делу не относится: это шведское судебное указание 1801 года об обжаловании в Або, а дело — следствие
+        1798–1799 годов по жалобе <persName ref="Мовша_Ошерович">Мовшы Ошеровича</persName>.
+        Оригинал: <ref target="/lvia1799-178/219">219</ref>
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="219-1"/>
+      Изменение через жалобу ищут так. Жалобы не позднее тридцатого дня после вручения, не считая самого этого дня,
+      подаются в <orgName>высокопохвальный королевский гофгерихт</orgName> в <placeName>Або</placeName>. Заявитель
+      должен на копии, которую он через двух добропорядочных людей вручает противной стороне, велеть отметить день,
+      когда это сделано. Эта копия затем сопровождает жалобу. Время и место предписываются.
+      <note place="end">Або — шведское имя Турку. Слово перед «как» в оригинале читается неуверенно (Göraf); в обычной
+      формуле его нет. Конечное s в Sökandens может быть росчерком.</note>
+    </p>
+    <p>
+      <del rend="overstrike"><unclear>№ Абрахамсон</unclear></del>
+      <note place="end">Строка зачёркнута. Это не Александр Андерсон с листа <ref target="/lvia1799-178/217"
+      >217</ref>.</note>
+      <unclear>Профессор</unclear> <persName>Александр</persName>, нынешний ректор <orgName>университета</orgName>.
+      <note place="end">Титул ректора, не почтальон с листа 217.</note>
+    </p>
+    <p>
+      Прочитано через <orgName><unclear>кемнерский суд</unclear></orgName> <placeName>Або</placeName> <date>19
+      декабря</date>. <unclear>60. кап.</unclear> <date when="1847-12-08">8 декабря 1847 года</date>.
+      <signed><unclear>Ревизор</unclear></signed>
+      <note place="end">Год при «19 декабря» в оригинале не написан и взят из следующей строки той же пометы только в
+      этом примечании; в дате перевода год не проставлен. Подпись не разобрана.</note>
+    </p>
+    <p>
+      <unclear>Сумма к выплате. По 25 риксдалеров. С почтой, ведущей протокол. Одна пара, 10–50.</unclear>
+      <signed><persName><unclear>А. Б. Вегелиус</unclear></persName></signed>
+      <note place="end">Нижний левый счёт другим почерком. Слова и сумма читаются неуверенно.</note>
+    </p>
+    <p>
+      Решение по объяснению прежнего <unclear>обвинителя</unclear> <persName>К. Чистиернина</persName>.
+    </p>
+    <p>
+      <pb n="219-2"/>
+      <unclear>Взыскание сим отменяется</unclear>. <unclear>???</unclear> Ратуша, <date when="1801-11-29">29 ноября 1801
+      года</date>. По уполномочию <orgName>магистрата</orgName>.
+      <signed><persName><unclear>Г. Г. Окерблум</unclear></persName></signed>
+      <note place="end">Правый край оборота оборван, начало пометы читается частично.</note>
+    </p>
+    <p>
+      От имени <persName>Чистиернина</persName> <unclear>возвращается то, что содержится в этом решении</unclear>.
+      <unclear>???</unclear> <date when="1801-01-01">1 января 1801 года</date>.
+      <signed><unclear>???</unclear></signed>
+      <note place="end">Сумма в строке не разобрана. Последняя цифра года стоит у оборванного края. Подпись закрыта
+      кляксой.</note>
+    </p>
+  </body></text>
+</TEI>
