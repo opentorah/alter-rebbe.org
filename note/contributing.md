@@ -3,12 +3,8 @@
 [TOC]
 ## Подача материала
 
- Содержимое сайта находится в GitHub <a href="https://github.com/opentorah/alter-rebbe.org">
-      <svg class="svg-icon"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/assets/icons.svg#github"></use></svg>
-      <span class="username">repository</span>
-    </a> <a href="https://github.com/opentorah/alter-rebbe.org/actions">
-  <img src="https://github.com/opentorah/alter-rebbe.org/workflows/CI/badge.svg" alt="CI badge"/>
-</a>.
+ Содержимое сайта находится в GitHub:
+[opentorah/alter-rebbe.org](https://github.com/opentorah/alter-rebbe.org).
 
 Рекомендуемый способ участия в расшифровке, исправлении ошибок и т.д. - открыть GitHub pull request.
 Прошёл ли Ваш pull request все проверки можно посмотреть в нём самом или на
@@ -104,9 +100,6 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">2</del></fw>
 ```
 
-Подсказка руки и это подчёркивание появляются в site-publisher новее 0.4.0.
-Пока этот выпуск не опубликован, их показывает локальная сборка.
-
 Заголовок документа (если он есть) кодируется элементом `head`:
 ```xml
 <head>Объяснение О начале и правилах секты Каролинов.</head>
@@ -126,7 +119,7 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 В тех (и только в тех!)
 случаях, когда новая строчка начинается внутри тага, начавшегося на предыдущей строчке, её начало кодируется тагом `lb`:
 ```xml
-<l>кавалеромъ <persName ref="Обольяниновъ">Петромъ Хрисанфови-<lb/>
+<l>кавалеромъ <persName ref="Обольяниновъ">Петромъ Хрисанфови-<lb break="no"/>
    чемъ Обольяниновымъ</persName> въ <date when="1800-11-27">27<hi rend="superscript">й</hi> день<lb/>
    сего ноября</date>, о разсмотренiи Сенату</l>
 ```
@@ -152,7 +145,6 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 Причина пишется в атрибуте `reason`.
 Знаки `_` внутри `gap` не ставятся.
 На сайте на этом месте стоит `[…]`, а при наведении видна причина.
-Знак `[…]` тоже появляется в site-publisher новее 0.4.0.
 
 ```xml
 <gap reason="обрыв края листа"/>
@@ -176,7 +168,9 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 Это не `supplied` и не `corr`.
 Слово не дописано расшифровщиком, и это не исправление описки.
 На сайте сокращение видно в строке, а чтение — в скобках.
-Скобки рисует site-publisher 0.4.0.
+
+Если чтение неизвестно, `choice` и `expan` не нужны.
+
 Буква, поднятая над строкой, остаётся `hi` внутри `abbr`.
 
 ```xml
@@ -185,8 +179,7 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 
 Титло кодируется атрибутом `rend="titlo"` на `abbr`.
 На сайте над сокращением черта.
-Надчёркивание появляется в site-publisher новее 0.4.0.
-Если чтение неизвестно, `choice` и `expan` не нужны.
+
 
 ```xml
 <choice><abbr rend="titlo">мца</abbr><expan>месяца</expan></choice>
@@ -341,9 +334,6 @@ Initiative", "Инициатива по Кодировке Текстов"), в�
 перечисляются на <a href="/errors.html" target="collectionViewer">странице ошибок</a>.
 
 Можно посмотреть различные <a href="/note/index.html" target="collectionViewer">заметки</a>.
-
-Исходные документы из репозитории GitHub обрабатываются и публикуются на сайте `store.alter-rebbe.org`.
-HTML для показа в браузерах порождается динамически сайтом `www.alter=rebbe.org`.
 
 Факсимиле документов опубликованы на сайте `facsimiles.alter-rebbe.org`.
 Туда ведут ссылки из страниц сайта `www.alter-rebbe.org`.

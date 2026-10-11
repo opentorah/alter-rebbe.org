@@ -38,7 +38,7 @@
 - <a href="/name" target="apparatusViewer">список людей и мест</a> упомянутых в документах;
 - <a href="/name/transcribers.html" target="apparatusViewer">список людей</a> предоставивших расшифровки документов;
 
-[Фотографии документов](https://drive.google.com/drive/folders/1hCfbEyTlt4UqLjqWOOr0yr11vZw-4KwQ?usp=sharing)
+[Фотографии документов](https://drive.google.com/drive/folders/1WoqwyaiDS5ara8Wl-gXHSjpR8aPh6H5_)
 были (если надо) переименованы, разрезаны, переведены в формат JPEG и сжаты.
 
 Если номер страницы не является ссылкой, значит, фотография этой страницы отсутствует.
@@ -48,7 +48,7 @@
 
 - 1902: Материалы второго ареста обнаружены Ю. И. Гессеном и описаны им в очерке "Религиозная борьба в конце 18
 и начале 19 в.", "Восход", 1902 г.; очерк впоследствии вошёл в его сборник статей "Евреи в России", Спб. 1906,
- <a href="https://drive.google.com/open?id=0B5KkfPXr7KENMy05U1JYVHVmdjA">стр. 143—191</a>.
+ <a href="https://drive.google.com/drive/folders/1hlSZiAn1-0vpl1iBolNAKkoUzQy8oKhq">стр. 143—191</a>.
 
 - 1910: Анализ материалов второго ареста опубликован С.М. Дубновым в книге "Еврейская старина",
  <a href="/dubnov" target="collectionViewer">том 3</a>,
@@ -152,12 +152,14 @@
 
 - 2021: сайт переделан из статического в динамический;
 
+- 2026: сайт переделан из динамического в статический; 
+
 ## Colophon
 
 Documents are encoded using [TEI Guidelines](https://tei-c.org/guidelines/p5/).
 
 TEI documents are transformed to HTML for display in the browser by
-static site generator https://github.com/dubinsky?tab=repositories.
+static site generator https://github.com/dubinsky/site-publisher.
 
 Site is hosted by GitHub at https://www.alter-rebbe.org/.
 
