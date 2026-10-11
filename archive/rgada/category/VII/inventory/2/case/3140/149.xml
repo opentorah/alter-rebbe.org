@@ -1,11 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName ref="alter-rebbe">Шнеур Залман</persName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Письмо на французском языке братьям общины в <placeName ref="Вильна">Вильне</placeName>. Подпись
+        «Salomon, fils de Baruch» — та же французская форма, что у <persName ref="alter-rebbe">Шнеура
+        Залмана</persName> в <ref target="/rgada/063">063</ref> («Salomon fils Baruch»). Само письмо не датировано.
+        В нём рассказ о <date when="1772">5532 (1772)</date> годе: прокламация и пасквили в Бродах, преследование
+        людей <placeName ref="Волынская_губерния">Волыни</placeName> и их уход к покойному великому раввину в <placeName
+        ref="Ровно">Ровно</placeName>,
+        <persName ref="maggid">Дов-Беру из Межерича</persName>. Совет — терпеть и молчать. Лист в разделе бумаг,
+        найденных у <persName ref="Меер_Рафалович">Меера Рафаловича</persName> (титул <ref target="/rgada/143a"
+        >143а</ref>, следующий титул — <ref target="/rgada/150a">150а</ref>). Под подписью карандашом: «у
+        рафаловича». Перевод: <ref target="/rgada/149-ru">ru</ref>.
+      </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="inkStrike" medium="ink">зачёркнуто чернилами</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="fr"><body>
-    <pb n="149-1"/>
+    <salute>
+      <l><pb n="149-1"/> <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#inkStrike"
+      >148</del></fw> <fw type="pageNum" place="right" hand="#pencilHand">149</fw> A mes frères de l'assemblée à
+      <placeName ref="Вильна">Vilna</placeName></l>
+      <l>Dieu avec Vous &amp; la Bénédiction &amp; Salut !</l>
+    </salute>
+    <p>
+      <l>- - - - C'est une chose fort difficile que Vous pretendez savoir</l>
+      <l>de moi, Vous Voulez, Vous Voulez savoir mon sentiment dans une<note place="end">Vous Voulez написано дважды
+      подряд.</note></l>
+      <l>affaire où je <del rend="overstrike"><unclear>???</unclear></del> n'ai point d'expérience — — mais lors du<note
+      place="end">Между je и n'ai зачёркнуто короткое слово. Чтение не разобрано.</note></l>
+      <l>tems qu'arriva le même cas, tels qu'a present — c'est qu'en</l>
+      <l><date when="1772">l'an 5532 — (1772)</date> on publia a <placeName>Brody</placeName> atte grandes
+      proclamation<note place="end">В рукописи 5532 приравнен к 1772. Еврейский 5532 год начался осенью 1771. Слово
+      перед grandes читается atte. Возможно, это cette, «эту». proclamation стоит в единственном числе, grandes — во
+      множественном.</note></l>
+      <l>&amp; encore quantités d'autres libelles <add place="above">pleins</add> invectives &amp; des mensonges<note
+      place="end">pleins вписано над строкой, между libelles и invectives.</note></l>
+      <l>on les faisoit imprimer sur plusieurs feuilles, &amp; qu'on distribuoit</l>
+      <l>&amp; envoyoit a presque toutes les Synagogues, &amp; l'on persecutoit</l>
+      <l>tellement les Gens de <placeName ref="Волынская_губерния">Wolin</placeName>. qu'ils quitterent leurs
+      domiciles</l>
+      <l>&amp; se refugierent chés<note place="end">chés — написание chez.</note> feu le <persName ref="maggid">Grand
+      Rabin<note place="end">Покойный великий раввин в Ровно, к которому в 1772 году ушли с Волыни, — <persName
+      ref="maggid">Дов-Бер из Межерича</persName>.</note></persName> à <placeName ref="Ровно">Rowno</placeName>,
+      dont ils</l>
+      <l>demanderent conseil, &amp; quoique à ce tems on auroit pu leur re-</l>
+      <l>pondres &amp; ecrire (contre eux), &amp; on avoit encore d'autres moyens<note place="end">На переносе re- /
+      pondres. Обычный инфинитив — répondre.</note></l>
+      <l>en mains, pourtant feu le <persName ref="maggid">Grand Rabin</persName> ne vouloit rien de</l>
+      <l>tout cela — Sçavant que les forces du Peuple Israel - consistent</l>
+      <l>en leur Bouches pour invoquer (Dieu &amp; son Assistance).</l>
+      <l>Enfin le tems a fait oublier leurs libelles — beaucoup que les</l>
+      <l>avoient lus — Voyant cet effet — sont venus par milliers miriades</l>
+      <l>s'associer avec nous, ce qui ne seroit point arrivé, si l'on s'etoit op-</l>
+      <l>posé. Ainsi que ce soit a present comme lors de ce tems.</l>
+      <l>C'est un devoir à nous, de souffrir &amp; se taire — Persuadé que Dieu</l>
+      <l>ne nous abandonnera . . . . amen, <choice><corr>telle</corr><sic>tell</sic></choice> soit sa volonté, Qu'il
+      tourne les</l>
+      <l>coeurs de Vos Concitoyens de Vous aimer. Qu'il Vous donne la paix dans les</l>
+    </p>
+    <closer>
+      <l>Portes de Votre Ville, — — — <signed>Sincèrement <persName ref="alter-rebbe">Salomon, fils de
+      Baruch</persName></signed><note place="end">В <ref target="/rgada/063">063</ref> подпись «Salomon fils Baruch»,
+      без de и без Sincèrement. Это <persName ref="alter-rebbe">Шнеур Залман бен Барух</persName>, не <persName
+      ref="Соломон">Соломон Карлинский</persName>: того в 063 называют Solomon.</note></l>
+      <fw type="note" place="bottom" hand="#pencilHand">у <persName ref="Меер_Рафалович">рафаловича</persName></fw>
+    </closer>
     <pb n="149-2"/>
   </body></text>
 </TEI>
