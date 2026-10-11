@@ -1,11 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>יעקב ראבינאוויץ</persName></author>
+      <author><persName>שמואל יאנקוביץ</persName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        На листе раздела «бумаги <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>» (титул <ref
+        target="/rgada/152a">152а</ref>, № 25) тот же заголовок написан ещё раз, и ниже наклеено еврейское письмо из
+        <placeName ref="Гродно">Гродно</placeName> <persName ref="Нохим_Ицкович">Нахуму Ицковичу</persName>, 26 сивана
+        550. Подписи: יעקב ראבינאוויץ и שמואל יאנקוביץ. Это подлинник первого письма французской выписки <ref
+        target="/rgada/153">153</ref>. Второго письма, от Беньямина Броды, на листе нет. Перевод: <ref
+        target="/rgada/152-ru">ru</ref>. Близким кадром подтверждены גרודנא, дата כ״ו סיון תק״ן, имя נחום איצקוביץ,
+        אבן נגף, אברהם סמוליאנער, אם יקיים דברו, יחזיר לו הוצאותיו и обе подписи. Буква дня недели обведена. На месте
+        французского «lundi prochain» читается עד יום, без уверенного «ו׳ תמוז». На обороте карандашом «151об» и
+        французский текст, уже разобранный на обороте <ref target="/rgada/151">151</ref>. Это другой снимок, не файл
+        151-2. Нижняя часть оборота — чистая оборотная сторона наклеенного письма.
+      </p></abstract>
+      <creation><date when="1790-05-28">26 сивана 550<note place="end">כ״ו סיון תק״ן. 26 сивана 5550 года — вторник,
+      28 мая 1790 года по юлианскому календарю. Буква дня в строке обведена: ב или ג. ג — вторник.</note></date></creation>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Нохим_Ицкович" role="addressee">נחום איצקוביץ</persName></correspAction>
+      </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="he"><body>
+  <text xml:lang="ru"><body>
     <pb n="152-1"/>
+    <fw type="pageNum" place="top" hand="#pencilHand">152<note place="end">После цифр росчерк. Это не номер
+    152а.</note></fw>
+    <fw type="docNum" hand="#inkHand">№ 25.</fw>
+    <p>
+      <l>Бумаги</l>
+      <l><persName ref="Нохим_Ицкович">Нохима ицковича</persName>.</l>
+    </p>
+    <opener xml:lang="he">
+        <dateline><placeName ref="Гродно">גרודנא</placeName> יום <unclear>?<note place="end">Буква дня обведена
+        кружком. Похожа и на ב, и на ג. 26 сивана 5550 года — вторник, יום ג׳. Во французской выписке <ref
+        target="/rgada/153">153</ref> дня недели нет.</note></unclear> כ״ו סיון תק״ן לפ״ק</dateline>
+        <l>שלום לאוהבנו <unclear>הרב</unclear> <persName ref="Нохим_Ицкович">נחום איצקוביץ</persName>
+        <unclear>נ״י</unclear></l>
+      </opener>
+      <p xml:lang="he">
+        מכתביך הגיעו לידינו. ברוך השם ויתן לך בריאות. כבר הודעתי את דעתי, ועתה אחזור על דברי. תנו כבוד לה׳
+        אלקינו, הכנעו, ואל תרבו מחלוקת בישראל. חושש אני מאד פן יצא מזה <unclear>ח״ו</unclear> חורבן כל ישראל. ועד מתי
+        תהיה לנו אבן נגף<note place="end">אבן נגף — Йешаягу, глава 8, стих 14. Во французской выписке <ref
+        target="/rgada/153">153</ref> скобки при «Боже сохрани» читаются Dieugarde.</note>.
+      </p>
+      <p xml:lang="he">
+        לא אאריך, כי כבר דיברנו בזה באריכות. מצדי יצאתי ידי חובת הדינים המחייבים, «הוכח תוכיח<note place="end">Ваикра,
+        глава 19, стих 17. Во французской выписке это «tes loix» и «Admonisez, Admonisez les»: «твои» там добавлено
+        переводчиком. Глаголы תנו, הכנעו, אל תרבו — множественное число, а מכתביך — единственное.</note>». ואם ירצה השם
+        עוד ירחם עלינו, ותספיק לך תוכחה זו.
+      </p>
+      <p xml:lang="he">
+        ובענין עסקינו עם הרב שמואל: הוא מסכים, ולפי מה שכותב הכל יסודר עד יום <unclear>?<note place="end">Близкий кадр
+        даёт עד יום. Буква дня и слово за ней не закреплены. «ו׳ תמוז» не читается. Во французской выписке
+        <ref target="/rgada/153">153</ref>: lundi prochain.</note></unclear>. אם יקיים דברו, יחזיר לו הוצאותיו. הרב
+        <persName>אברהם סמוליאנער<note place="end">Во французской выписке Smolianer: человек из Смолян.</note></persName>
+        הגיע, אבל <unclear>עדיין<note place="end">Может читаться и לעת עתה. Смысл тот же, что «je n'ai pas encore
+        Vû».</note></unclear> לא ראיתיו. וכו׳.
+      </p>
+      <closer xml:lang="he">
+        <l><signed>נאום <persName>יעקב ראבינאוויץ</persName></signed></l>
+        <l><signed>נאום <persName>שמואל יאנקוביץ</persName></signed></l>
+      </closer>
     <pb n="152-2"/>
+    <fw type="pageNum" hand="#pencilHand">151об<note place="end">Под номером французский текст оборота <ref
+    target="/rgada/151">151</ref>. Кадр другой: 151-2 шире и снят со своего разворота. Нижняя часть — чистая
+    оборотная сторона наклеенного письма.</note></fw>
   </body></text>
 </TEI>

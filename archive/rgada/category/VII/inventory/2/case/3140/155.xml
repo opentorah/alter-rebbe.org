@@ -1,11 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Адрес пакета из бумаг <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>: многоуважаемому Нохиму
+        Ицковичу, виленскому обывателю, в <placeName ref="Вильна">Вильну</placeName>. Это адресат французских писем
+        <ref target="/rgada/153">153</ref>. На том же листе обрывки еврейского письма и следы печати. Обрывки не
+        разобраны. Рядом с номером 155 короткая карандашная помета, тоже не разобрана. Перевод адреса: <ref
+        target="/rgada/155-ru">ru</ref>. На обороте номера 155 и 155а и короткая помета вдоль края. Помета не
+        разобрана.
+      </p></abstract>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Нохим_Ицкович" role="addressee">Нохим Ицкович</persName></correspAction>
+      </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="155-1"/>
+    <fw type="pageNum" hand="#pencilHand">155</fw>
+    <opener>
+      <l>Szanownemu</l>
+      <l><persName ref="Нохим_Ицкович">Nochimowi <unclear>Jckowicz<note place="end">Вторая буква похожа на c, может
+      читаться и как h. Окончание дательного «owi» начинается со следующей строки.</note></unclear></persName></l>
+      <l>owi obywatelowi wileń.<note place="end">wileń. — сокращение wileńskiemu.</note></l>
+      <l>w <placeName ref="Вильна">Wilnie</placeName></l>
+    </opener>
     <pb n="155-2"/>
+    <fw type="pageNum" hand="#inkHand">155</fw>
+    <fw type="pageNum" hand="#inkHand">155а<note place="end">Рядом короткая помета вдоль края листа. Её не
+    разобрал.</note></fw>
   </body></text>
 </TEI>

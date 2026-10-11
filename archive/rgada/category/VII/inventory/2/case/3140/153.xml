@@ -1,11 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><persName>Янкель Рабинович</persName></author>
+      <author><persName>Самуил Янкубович</persName></author>
+      <author><persName>Беньямин Броды</persName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Две французские выписки из еврейских писем из <placeName ref="Гродно">Гродно</placeName> рабби <persName
+        ref="Нохим_Ицкович">Нахуму</persName>. Первое: 26 сивана 550, подписи Янкель Рабинович и Самуил Янкубович.
+        Второе: понедельник 14 ияра, без года, подпись Беньямин Броды, приписка Хаима Рабиновича. Года во втором
+        письме нет. Лист в разделе «бумаги <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>» (титул <ref
+        target="/rgada/152a">152а</ref>, № 25). Тот же титул и наклеенное еврейское письмо — на листе <ref
+        target="/rgada/152">152</ref>. Зачёркнутый еврейский черновик и пометы — <ref target="/rgada/154">154</ref>.
+        Польский адрес Нохиму Ицковичу в Вильну — <ref target="/rgada/155">155</ref>. Первое письмо — выписка из
+        подлинника <ref target="/rgada/152">152</ref>. Второго письма на том листе нет. Подлинник подтверждает дату,
+        имя Нахума Ицковича, אבן נגף, Авраама Смолянера и обе подписи. Французское «lundi prochain» стоит там, где в
+        подлиннике читается «עד יום». «tes loix» в подлиннике — долг законов и стих «הוכח תוכיח». Черновик <ref
+        target="/rgada/154">154</ref> зачёркнут и с этим письмом по словам не сверен. Русского перевода в деле нет.
+        Перевод выписки: <ref target="/rgada/153-ru">ru</ref>. Оборот — отпечаток лицевой стороны.
+      </p></abstract>
+      <creation><date when="1790-05-28">26 сивана 550<note place="end">В строке год 550, без тысяч: еврейский 5550.
+      26 сивана 5550 — вторник. По юлианскому календарю это 28 мая 1790 года. В подлиннике <ref target="/rgada/152"
+      >152</ref> та же дата. Буква дня недели там обведена: ב или ג. ג — вторник. Второе письмо на этом листе
+      датировано только днём недели и 14 ияра.</note></date></creation>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Нохим_Ицкович" role="addressee">Нахум<note place="end">В адресе
+        обоих писем Rabi Nachum. В подлиннике <ref target="/rgada/152">152</ref> он назван נחום איצקוביץ. Адрес <ref
+        target="/rgada/155">155</ref> написан ему же, в Вильну.</note></persName></correspAction>
+      </correspDesc>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="fr"><body>
-    <pb n="153-1"/><note place="end">creation date: сиван 550???</note>
+    <opener>
+      <pb n="153-1"/>
+      <fw type="note" place="left margin">Extrait de l'hebreu.<note place="end">Фигурная скобка слева охватывает эту
+      помету. Это первое письмо, его подлинник — <ref target="/rgada/152">152</ref>. Ко второму письму на листе она не
+      относится: там на поле стоит B., и на листе 152 этого письма нет.</note></fw>
+      <fw type="pageNum" place="left margin" hand="#inkHand">156<note place="end">Вдоль левого поля. На соседних
+      листках раздела та же нумерация: 155, 156, 158 на <ref target="/rgada/154">154</ref>.</note></fw>
+      <dateline><placeName ref="Гродно">Grodno</placeName>. <date when="1790-05-28">26 du mois Siwan. 550.</date></dateline>
+      <fw type="pageNum" place="right" hand="#inkHand">153</fw>
+      <l>Salut à notre bienaimé &amp;c — <persName ref="Нохим_Ицкович">Rabi Nachum</persName>.</l>
+    </opener>
+    <p>
+      <l>Nous avons reçu tes lettres benis Soit Dieu &amp; qu'Il te donne la Sante;</l>
+      <l>J'ai déja declaré mon Sentiment, et à present je vient le repeter encore une fois</l>
+      <l>rendez gloires à Dieu notre Seigneur, humiliez Vous, ne multipliés pas les</l>
+      <l>debats en Israel, je craint très fort qu'il n'en derive (<unclear>Dieugarde<note place="end">В скобках,
+      одним словом. В подлиннике <ref target="/rgada/152">152</ref> здесь ח״ו. Это Dieu garde.</note></unclear>) les ruines</l>
+      <l>de tout Israel; Et jusqu'à quand sera ce pour nous la pierre d'achoppement<note place="end">Камень
+      преткновения — Йешаягу, глава 8, стих 14. В подлиннике <ref target="/rgada/152">152</ref>: אבן נגף.</note>?</l>
+      <l>Je ne veut être plus prolifiques après ce que nous en avons déja parlé ample-</l>
+      <l>ment; De ma part j'ai suffit à tes loix qui commande, "Admonisez, Admonisez les<note place="end">«Обличай,
+      обличай» — Ваикра, глава 19, стих 17. В подлиннике <ref target="/rgada/152">152</ref> стих «הוכח תוכיח» и «долг
+      законов», без «твои». В письме рядом tes и Vous. Глаголы увещания во множественном числе, остальное письмо —
+      на «ты».</note>,"</l>
+      <l>Et s'il plait à Dieu Il nous sera encore propices — que cette exhortation te suffisoit,</l>
+      <l>Touchant nos affaires avec Rabi Samuel il veut bien, &amp; selon ce qu'il écrit</l>
+      <l>tout seras arrangés lundi prochain<note place="end">В подлиннике <ref target="/rgada/152">152</ref> здесь
+      «עד יום». Продолжение даты не закреплено. «ו׳ תמוז» близкий кадр не даёт.</note>. S'il tient parole, on lui rendra ses depenses,</l>
+      <l><persName>Rabi Abraham Smolianer<note place="end">Смолянер: человек из Смолян. В подлиннике <ref
+      target="/rgada/152">152</ref>: אברהם סמוליאנער. «je n'ai pas encore Vû» там — не видел его.</note></persName> est arrivé, mais je n'ai pas encore Vû.</l>
+      <l>&amp;c &amp;c.</l>
+    </p>
+    <closer>
+      <l><signed><persName>Yankiel Rabenowitz<note place="end">В подлиннике <ref target="/rgada/152">152</ref>
+      подпись יעקב ראבינאוויץ.</note></persName></signed></l>
+      <l><signed><persName>Samuel <unclear>Jankubowitz<note place="end">Конец фамилии в росчерке. В подлиннике <ref
+      target="/rgada/152">152</ref> подпись שמואל יאנקוביץ.</note></unclear></persName></signed></l>
+    </closer>
+    <opener>
+      <fw type="note" place="left margin">B.</fw>
+      <dateline><placeName ref="Гродно">Grodno</placeName>. Lundi 14<hi rend="superscript">me</hi> du mois.
+      <unclear>Jir<note place="end">Месяц ияр. Перед ir заглавная с росчерком: I или J. Года в строке нет. 14 ияра
+      5550 года было средой, не понедельником, так что год первого письма сюда не переносится.</note></unclear>.</dateline>
+      <l>Salut à mon cher ami &amp;c. — <persName ref="Нохим_Ицкович">Rabi Nachum</persName>.</l>
+    </opener>
+    <p>
+      <l>Je Vous ai déja écrit par le dernier Courier. a present je reçoiis Votre lettres; j'ai</l>
+      <l>lû, &amp; relû. Ses paroles douces comme du miel, mon cher Amis, je prend le Ciel</l>
+      <l>à temoin que mon Coeur est sans faute, &amp; que je Vous aime Véritablement;</l>
+      <l>Avant toute chose, je me depeche à Vous ecrire, plus tot qu'aux autres, et</l>
+      <l>quoi faire avec ces fous, qui vivent au <unclear>Mal-bon<note place="end">Между словами черта. Второе
+      читается неуверенно.</note></unclear>, mais pour cela mon</l>
+      <l>cher Ami ne Vous souciés point d'eux — seulement pour l'amour de moi,</l>
+      <l>faites, efforcés Vous de mettre au jour la Verité, car je Sai que <add place="above">(Vous)</add> pouvez</l>
+      <l>tout &amp; Dieu sera Votre aide. Selon ce que je sai, ce n'est pas comme Vous</l>
+      <l>le croyés, que Rabi B... aye écrit ici, pour qu'on écrive, premièrement</l>
+      <l>à <unclear>Eu<note place="end">Возможно, Lui: «ему», не «им».</note></unclear>, non pas! mais la Verité, c'est qu'il avoit écrit, pour que j'ecrive à</l>
+      <l>Vous, mai je Vous avois déja écrit avant qu'il me le Voulait, pour l'amitié</l>
+      <l>qui consiste entre nous, je Vous prie de me faire savoir, particulierement</l>
+      <l>tout ce qui se passe là — —</l>
+    </p>
+    <closer>
+      <l><signed><persName>Benjamin Brody<note place="end">В <ref target="/rgada/149">149</ref> Brody — город.
+      Здесь подпись не разделена на имя и «из Брод».</note></persName></signed></l>
+    </closer>
+    <postscript>
+      <p>
+        <l>Et moi aussi je Vous salue — qu'ai-je à Vous Ecrire? Vous savez les secrets</l>
+        <l>de mon Coeur! faite aussi quelque chose par Amitié de moi, car je</l>
+        <l>ne peut exprimer mes idées &amp; les effectuer par l'ecriture.</l>
+      </p>
+      <closer>
+        <l><signed><persName>Chayme <unclear>Rabinowicz<note place="end">R фамилии написано как l. Если не считать
+        её за R, выходит Chaymelabinowicz. Та же фамилия, что Rabenowitz в первом письме.</note></unclear></persName></signed></l>
+      </closer>
+    </postscript>
     <pb n="153-2"/>
   </body></text>
 </TEI>

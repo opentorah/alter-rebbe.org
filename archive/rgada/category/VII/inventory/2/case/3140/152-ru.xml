@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName>Яаков Рабинович</persName></author>
+      <author><persName>Шмуэль Янкубович</persName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод еврейского письма <ref target="/rgada/152">152</ref> из <placeName ref="Гродно">Гродно</placeName>
+        <persName ref="Нохим_Ицкович">Нахуму Ицковичу</persName>, 26 сивана 550. Французская выписка — первое письмо
+        <ref target="/rgada/153">153</ref>. Русского перевода в деле нет.
+      </p></abstract>
+      <creation><date when="1790-05-28">26 сивана 550</date></creation>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Нохим_Ицкович" role="addressee">Нахум Ицкович</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <opener>
+      <dateline><placeName ref="Гродно">Гродно</placeName>, <date when="1790-05-28">26 сивана 550 года<note
+      place="end">Буква дня в подлиннике обведена: ב или ג. 26 сивана 5550 года — вторник.</note></date>.</dateline>
+      <p>Мир возлюбленному нашему, рабби <persName ref="Нохим_Ицкович">Нахуму Ицковичу</persName>.</p>
+    </opener>
+    <p>
+      Твои письма дошли до нас. Благословен Бог, и да подаст Он тебе здоровье. Я уже объявил, что думаю, и теперь
+      повторю. Воздайте славу Господу, Богу нашему, смиритесь и не умножайте споров в Израиле. Я очень боюсь, как бы
+      отсюда не вышло, <unclear>Боже сохрани</unclear>, разорение всего Израиля. И доколе будет это нам камнем
+      преткновения<note place="end">Йешаягу, глава 8, стих 14. В подлиннике אבן נגף.</note>?
+    </p>
+    <p>
+      Не буду распространяться: мы уже говорили об этом пространно. Со своей стороны я исполнил долг, который налагают
+      законы: «обличай, обличай<note place="end">Ваикра, глава 19, стих 17. Во французской выписке <ref
+      target="/rgada/153">153</ref> здесь «твои законы» и «обличайте их». «Твои» в подлиннике нет. Глаголы этого
+      увещания стоят во множественном числе, письмо в остальном обращено к нему на «ты».</note>». Если Богу будет
+      угодно, Он ещё помилует нас. Пусть этого увещания тебе довольно.
+    </p>
+    <p>
+      О наших делах с рабби Шмуэлем: он согласен, и, по тому как он пишет, всё будет улажено до дня <unclear>…<note
+      place="end">В подлиннике «עד יום». День дальше не закреплён. Во французской выписке <ref
+      target="/rgada/153">153</ref> твёрдо: lundi prochain.</note></unclear>. Если он сдержит слово, ему вернут издержки. Рабби Авраам Смолянер<note
+      place="end">В подлиннике אברהם סמוליאנער, человек из Смолян.</note> приехал, но я его ещё не видел. И так далее.
+    </p>
+    <closer>
+      <signed><persName>Яаков Рабинович</persName></signed>
+      <signed><persName>Шмуэль Янкубович</persName></signed>
+    </closer>
+  </body></text>
+</TEI>

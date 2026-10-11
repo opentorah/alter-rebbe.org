@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод польского адреса <ref target="/rgada/155">155</ref>: <persName ref="Нохим_Ицкович">Нохиму
+        Ицковичу</persName> в <placeName ref="Вильна">Вильну</placeName>.
+      </p></abstract>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Нохим_Ицкович" role="addressee">Нохим Ицкович</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <opener>
+      <p>Многоуважаемому <persName ref="Нохим_Ицкович">Нохиму Ицковичу</persName>, виленскому обывателю, в <placeName
+      ref="Вильна">Вильну</placeName>.</p>
+    </opener>
+  </body></text>
+</TEI>

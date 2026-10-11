@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Зачёркнутый еврейский черновик из бумаг <persName ref="Нохим_Ицкович">Нохима Ицковича</persName>. Курсив под
+        росчерками не разобран. На клочке сверху номер 158, неразобранная подпись и помета «переведено». Другой клочок
+        наклеен вверх ногами: латиницей <persName>Benjamin Brody</persName>, по-русски <persName>Янкель
+        Рабиновичъ</persName>. На листе черновика номера 154, 155, 156 и на поле 157. Та же нумерация на поле выписки
+        <ref target="/rgada/153">153</ref> (156) и на адресе <ref target="/rgada/155">155</ref>. Оборот — просвет
+        лицевой стороны.
+      </p></abstract>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
     <pb n="154-1"/>
+    <fw type="pageNum" place="top" hand="#inkHand">158</fw>
+    <fw type="note" place="top" xml:lang="ru" hand="#inkHand">переведено<note place="end">На том же клочке сверху номер
+    158 и подпись. Подпись не разобрана. После «переведено» короткий росчерк.</note></fw>
+    <p>
+      <l xml:lang="fr"><persName>Benjamin Brody</persName> <unclear>Rabinowicz<note place="end">Второе слово латинской
+      строки. Читается неуверенно. Клочок наклеен вверх ногами относительно черновика.</note></unclear></l>
+      <l xml:lang="ru"><persName>Янкель Рабиновичъ</persName></l>
+    </p>
+    <fw type="pageNum" place="left margin" hand="#inkHand">157</fw>
+    <fw type="pageNum" hand="#inkHand">155</fw>
+    <fw type="pageNum" hand="#inkHand">156</fw>
+    <fw type="pageNum" hand="#inkHand">154<note place="end">Номер на самом черновике. Текст под ним зачёркнут крупными
+    росчерками и не разобран.</note></fw>
     <pb n="154-2"/>
   </body></text>
 </TEI>
