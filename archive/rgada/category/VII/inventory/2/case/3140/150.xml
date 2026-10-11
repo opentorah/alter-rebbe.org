@@ -1,11 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><orgName ref="Хасиды">виленские хасиды</orgName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Письмо людей общины в <placeName ref="Вильна">Вильне</placeName>, прозванных <orgName ref="Хасиды"
+        >хасидами</orgName>, гаону, ав бейт-дину <placeName>Альтоны</placeName>, <placeName ref="Гамбург"
+        >Гамбурга</placeName> и <placeName>Вандсбека</placeName>. Имени адресата в письме нет: это <persName
+        ref="Рафал">Рафаил Коген</persName>, как в адресе выписки <ref target="/rgada/151">151</ref>. Письмо не
+        датировано. Французская выписка: <ref target="/rgada/151">151</ref>, её перевод: <ref target="/rgada/151-ru"
+        >ru</ref>. Русский перевод подлинника: <ref target="/rgada/150-ru">ru</ref>. Внизу листа другим почерком:
+        копия письма <persName ref="alter-rebbe">Залмана Боруха</persName> из <placeName ref="Лиозно">Лиозны</placeName
+        >, почти полгода спустя. Оборот чистый, в углу короткий росчерк. Лист в разделе «письмо, найденное у <persName ref="Вулф_Шимелиович"
+        >Волфа Шимелиовича</persName>» (титул <ref target="/rgada/150a">150а</ref>).
+      </p></abstract>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Рафал" role="addressee">Рафаил Коген</persName></correspAction>
+      </correspDesc>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="clerkHand" medium="ink">помета латиницей внизу листа</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
-    <pb n="150-1"/>
+    <p>
+      <l><pb n="150-1"/> <fw type="pageNum" place="right" hand="#pencilHand">150</fw> שלו' רב / וכליל היופי <unclear>נזר
+      רם ונישא עוטה<note place="end">Между היופי и הוד והדר крупная буква и несколько слов. Читается неуверенно.</note
+      ></unclear> הוד והדר</l>
+      <l>נפשותינו נמשכות לבקש מכב' ולעורר רחמיו עלינו להצילנו מן המיצר.</l>
+      <l>אל <persName ref="Рафал">הגאון אב״ד<note place="end">Имени в строке нет. Ав бейт-дин Альтоны, Гамбурга и
+      Вандсбека — <persName ref="Рафал">Рафаил Коген</persName>, как в адресе <ref target="/rgada/151">151</ref
+      >.</note></persName> דק״ק <placeName>אלטונא</placeName> <unclear>וה״ה<note place="end">Короткое слово между
+      Альтоной и Гамбургом.</note></unclear> <placeName ref="Гамбург">המבורג</placeName> <placeName>וואנדסבעק</placeName>
+      הי״ו.</l>
+      <l>כל פה דובר עלינו נבלה מחמת הידוע ויהי העם כמאכולת אש</l>
+      <l><unclear>איש על אחיו לא יחמול ולא יחונן<note place="end">Строка между «אש» и «נער» читается по этому
+      смыслу.</note></unclear> נער וזקן ונשוא פנים.</l>
+      <l>אך אויבינו קמו עלינו להרג גוף ונפש <unclear>ולרמוס ברגליהם</unclear> כטיט חוצות.</l>
+      <l>כאשר תראו בקצת העתקות מכתבי פלסתר שלהם<note place="end">В начале строки зачёркнутое слово, букв не
+      разобрал.</note></l>
+      <l>המה מרימים קולם בסערה <unclear>ובכח אשר איננו עובד בה׳</unclear>.</l>
+      <l>באמת נלאינו לכתוב על הנייר כל פרטי מעשיהם ותחבולותיהם</l>
+      <l><unclear>לעקור</unclear> חוקי התורה ולהעמידנו לחרפה לעיני כל יושבי תבל.</l>
+      <l>ואמרו הגוים ככל הגוים בית ישראל.</l>
+      <l>ולא עלינו לבד נותנים את ידם כי אם על כל הקהל ועל כל איש אשר נשאו לבו לעבודת ה׳ באמת.</l>
+      <l>וכבר <persName ref="alter-rebbe">רבינו שניאור זלמן<note place="end">Во французской выписке <ref
+      target="/rgada/151">151</ref> он же назван Salomon. Тот же, что в <ref target="/rgada/063">063</ref> и <ref
+      target="/rgada/149">149</ref>.</note></persName> נ״י <unclear>גם בלי מכתבים</unclear> אליכם דיבר</l>
+      <l>כי גזירותיהם קשות מגזירת האחשדרפנים<note place="end">Сатрапы, на тридцать дней запретившие всякое
+      обращение помимо царя, — Даниэль, глава 6, стих 8.</note> אשר אסרו רק ל׳ יום</l>
+      <l>והמה גזרו אומר שלא להזכיר את שם ה׳ בשום תנועה היוצאה מן הלב.</l>
+      <l>וידענו כי הרב הנ״ל לא יכתוב עוד יען לא עניתם</l>
+      <l><unclear>אולי כי נתעכב</unclear> בפוסט. על כן לדבר על לב <orgName ref="Виленский_кагал">זקני הקהל</orgName>
+      ולפייסם בדברים רכים</l>
+      <l>לאמור אל נא אחי אל תרעו ומדוע תבגדו באחיכם אשר נאמנה את אל רוחם.</l>
+      <l>מדברים תועה על הארז אשר ב<placeName>לבנון<note place="end">Кедр ливанский и иссоп на стене — Мелахим I, глава
+      5, стих 13.</note></placeName> ועל האזוב אשר בקיר.</l>
+      <l>אמרו אחינו שונאינו מנדינו לא נשקוט ולא ננוח עדי נבדילכם מקהל ח״ו.</l>
+      <l>ויעשו במחשך מעשיהם <unclear>מעשה תעתועים</unclear> ולא ישמעו לקול מורים</l>
+      <l><unclear>להפוך בצדדינו</unclear> אולי האמת אתנו. כאשר יורו המורים באצבע <unclear>צרירה</unclear> דרך הישרה
+      יכחידו תחת לשונם</l>
+      <l><unclear>לבלתי מצוא שום זכות כי אם חובה</unclear>.</l>
+      <l>על כן <unclear>יהיו נא דברינו לרצון</unclear> ויכתוב אל <orgName ref="Виленский_кагал">נגידי הקהל</orgName></l>
+      <l><unclear>במענה רך</unclear> לבל יצאו לריב ולשפוך דם נקיים כמונו.</l>
+      <l><unclear>הלא עליכם הדבר</unclear>. <unclear>גדול העצה ורב העליליה</unclear> הכל נשמעין לו.</l>
+      <l>כשל כחנו. <unclear>המגיש כתבנו</unclear> יגיד לכם בעל פה.</l>
+    </p>
+    <closer>
+      <l><signed><unclear>נאם</unclear> אנשי ק״ק <placeName ref="Вильна">ווילנא</placeName></signed></l>
+      <l><signed>המכונים <orgName ref="Хаסיды">חסידים</orgName></signed></l>
+    </closer>
+    <p xml:lang="fr" hand="#clerkHand">
+      <l>Copie du lettre de <persName ref="alter-rebbe">Salmann Boruch<note place="end">Помета относит лист к письму
+      Залмана, сына Боруха, из Лиозны, то есть <persName ref="alter-rebbe">Шнеура Залмана</persName>. В строке du
+      lettre. Само письмо написано от общины и говорит о нём в третьем лице.</note></persName> de <placeName
+      ref="Лиозно">Lozno</placeName>.</l>
+      <l>après près d'un demie année.<note place="end">Так в помете: près, demie année.</note></l>
+    </p>
     <pb n="150-2"/>
   </body></text>
 </TEI>

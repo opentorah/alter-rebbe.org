@@ -1,11 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author><orgName ref="Хасиды">виленские хасиды</orgName></author>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Выписка из еврейского текста: письмо людей общины в <placeName ref="Вильна">Вильне</placeName>, прозванных <orgName
+        ref="Хасиды">хасидами</orgName>, раввину <persName ref="Рафал">Рафаилу Когену</persName>, раввину синагог
+        Альтоны, <placeName ref="Гамбург">Гамбурга</placeName> и Вандсбека. Приветствие подлинника сокращено
+        («Salut &amp;c»). Само письмо не датировано. Еврейский подлинник — лист <ref target="/rgada/150">150</ref>
+        (оборот чистый). Лист в разделе «письмо, найденное у <persName
+        ref="Вулф_Шимелиович">Волфа Шимелиовича</persName>» (титул <ref target="/rgada/150a">150а</ref>); следующий
+        титул — бумаги <persName ref="Нохим_Ицкович">Нохима Ицковича</persName> (<ref target="/rgada/152a">152а</ref>).
+        Русского перевода в деле нет. Перевод выписки: <ref target="/rgada/151-ru">ru</ref>.
+      </p></abstract>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Рафал" role="addressee">Рафаил Коген<note place="end">В адресе
+        письма Raphael Cohen, раввин синагог Альтоны, Гамбурга и Вандсбека. В деле это <persName ref="Рафал">Рафал</persName>,
+        предположительно Рафаил бен Иекутиэл Коген.</note></persName></correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="fr"><body>
-    <pb n="151-1"/>
-    <pb n="151-2"/>
+    <opener>
+      <pb n="151-1"/>
+      <fw type="note" place="left margin">Extrait de l'hebreu<note place="end">Фигурная скобка слева
+      охватывает эту помету и строку «Salut &amp;c &amp;c-»: приветствие еврейского подлинника в выписке не
+      переведено.</note></fw>
+      <l>Salut &amp;c &amp;c-</l>
+      <l>Au <persName ref="Рафал">Rabi Raphael Cohen</persName>. Rabin des Synagogues <placeName>Altona</placeName></l>
+      <l><placeName ref="Гамбург">Hambourg</placeName> &amp; <placeName>Wandsbek</placeName>.</l>
+      <fw type="pageNum" place="right">151</fw>
+    </opener>
+    <p>
+      <l>Nos Ames sont portées à Vous demander, prier, &amp; supplier de nous retirer &amp; delivrer</l>
+      <l>de l'angoisse, de ce que nos Antagonistes, se sont èlevés, comme s'èlève un homme, &amp;</l>
+      <l>"et lui tuent le Corps &amp; l'ame &amp;c." &amp; le foulent aux pieds comme la boue sur les rues,</l>
+      <l>tel que Vous Verrez en partie, dans les extraits de leurs libelles fulminantes,</l>
+      <l>ou ils èlevent leur Voix tumultueuse comme un Ouragan et avec une force<note place="end">Слово force пересечено
+      разрывом листа. Зачёркиванием не считаю.</note></l>
+      <l>qui n'est point serviteur en Dieu — En Verité nous sommes las de coucher sur</l>
+      <l>le papier tous les particularités de leurs pas &amp; de leurs tours, pour deraciner</l>
+      <l>les loix fondamentales &amp; de nous exposer à l'ignominie, &amp; à l'opprobre devant</l>
+      <l>les yeux de tous les habitans du Monde, Et les Nations diront " Voila comme</l>
+      <l>tous les autres Payens, la maison d'Israel ;" — Les Communités sera<note place="end">sera в единственном числе,
+      Communités и divorciées — во множественном.</note> divorciées ;</l>
+      <l>Ils méprisent de mettre leur main seulement sur nous, mais sur toutes la Commun-</l>
+      <l>té et sur un chacun dont le Coeur est porté aux Veritables cultes de Dieu, &amp; qui</l>
+      <l>se plait en ce que son Coeur se révèle avec force, puissantes — Déja notre</l>
+      <l>Rabin. Rabi <unclear>Snéur<note place="end">Первая буква высокая: долгое s или f. Дальше néur. Читается Snéur,
+      не frère. На листе <ref target="/rgada/150">150</ref> то же имя: שניאור זלמן. Salomon в <ref
+      target="/rgada/063">063</ref> и <ref target="/rgada/149">149</ref> — <persName ref="alter-rebbe">Шнеур Залман</persName
+      >.</note></unclear> <persName ref="alter-rebbe">Salomon</persName> sans ses lettres à Vous
+      s'exprime, — Que leurs</l>
+      <l>defenses surpassent ceux de Satrapes<note place="end">Сатрапы, на тридцать дней запретившие всякое
+      обращение помимо царя, — Даниэль, глава 6, стих 8.</note>, lesquel n'avoient defendu les Cultes, que</l>
+      <l>l'espace de trente jours, mais eux, ils nous defendent de prononcer le nom de</l>
+      <l>Dieu, y joint la moindre ferveur ou mouvement qui sortent du fond du Coeur — Nous</l>
+      <l>savons aussi que le dit <persName ref="alter-rebbe">Rabin</persName> ne Vous écrira plus, parceque Vous ne
+      reponder<note place="end">Так читается конец строки. По следующей фразе о почте это «не ответили», не будущее
+      время.</note></l>
+      <l>peut-etre en est la Cause que par hazard la Poste retardes d'arriver, mais le</l>
+      <l>moments sont pressants, il est de la dernière nécessité de parler au Coeur</l>
+      <l>des Anciens du <orgName ref="Виленский_кагал">Kahal</orgName>, d'amadouer leur Colères par des paroles douces
+      — leur</l>
+      <l>dire — Non mes Amis, ne Vous fachez pas, &amp; pourquoi mal-agir avec Vos freres!</l>
+      <l>dont l'ame est entière envers Dieu; et c'est le même! — Veuillez Dieu par</l>
+      <l>sa Disposition &amp; providence, ils inseriront les lettres de Vos mains au Créateur</l>
+      <l>&amp; Vos paroles trouveront entrée dans leurs oreilles — O Monsieur, Vous connois-</l>
+      <l>sez l'état du misérables, chaques bouches Vomit sur nous son fiel à Cause de cela,</l>
+      <l>la populace se departe comme unes glaives<note place="end">В подлиннике на листе <ref target="/rgada/150"
+      >150</ref>: כמאכולת אש, «как огонь пожирающий». Французское слово в строке не менял.</note> flamboyantes, n'a pitié de son frere</l>
+      <l>n'épargnes ni le jeune homme ni le Vieillard, ni l'homme Vénérable, &amp; ne sau-</l>
+      <l>haitent<note place="end">На переносе sau- / haitent. Слово не складывается. Возможно, имелось в виду sauvent,
+      «не сохраняют жизнь».</note> la Vie à tous ceux qui respirent l'Esprit Vital, la Vie Véritable, Ils parlent</l>
+      <l>mal du Cedre Sur <placeName>Libanon<note place="end">Кедр ливанский и иссоп на стене — Мелахим I, глава 5, стих 13.</note></placeName> &amp; de l'Isopo sur la muraille, C'est ainsi qu'ont dit,
+      nos</l>
+      <l>freres, nos ennemis, nos persécuteurs = Nous ne nous reposeront &amp; ne nous</l>
+      <l>tranquiliseront pas, jusqu'à ce que nous ne Vous divorcient d'avec les</l>
+      <l>Communités = (Ce que Dieu ne Veuille.) <add place="below">dégoûtés<note place="end">Вписано между строками под
+      Veuille. Чтение неуверенное.</note></add> En Verité ces propos écorchent
+      l'oreille à</l>
+      <l>celui qui les écoute, nous sommes las d'entendre les paroles de ces Gens malicieux</l>
+    </p>
+    <p>
+      <l><pb n="151-2"/> <fw type="pageNum">151об.<note place="end">Нижняя половина оборота — отпечаток лицевой стороны,
+      не продолжение текста.</note></fw> et affrontés sur tout ce qui porte le nom d'Israel, &amp; ils
+      font sur les autels</l>
+      <l>faits, faits ignominieux, &amp; si Dieu &amp;c" Ils imaginent être sages, mais seulement</l>
+      <l>pour faire le mal; Ils n'écoutent plus leurs Docteurs &amp; à ceux qui Veulent</l>
+      <l>examiner, Si peut-etre la Verité soit avec nous, &amp; qu'il nous chargent à <unclear>f<note place="end">Возможно,
+      à faux.</note></unclear><gap reason="обрыв края листа"/></l>
+      <l>car dès qu'il s'aperçoivent du moindre Signe, que les Doctes, Vont le droit <unclear>ch<note place="end">Похоже
+      на chemin.</note></unclear><gap reason="обрыв края листа"/></l>
+      <l>ils les Contredisent, &amp; apostent des Guêts semblables aux Corbeaux, pour <unclear>e<note place="end">Следующая
+      строка — «que rien ne soit favorable». Возможно, pour empêcher.</note></unclear><gap reason="обрыв края листа"/></l>
+      <l>que rien ne soit favorable pour nous, mais tout a notre charge, comme Vous</l>
+      <l>Verrez Monsieur par Vos propres yeux dans les Copies. (Donc! que nos</l>
+      <l>supplications soyent agreables <add place="above">par<note place="end">Вписано над строкой между agreables и
+      devant.</note></add> devant Votre Siege honorable, que notre</l>
+      <l>Vous soit cher, &amp; comme Vous savez et connoissez <add place="above">(ces hommes)<note place="end">Вписано
+      над строкой над qui commencent.</note></add> qui commencent &amp;
+      qui<note place="end">Конец строки у корешка.</note></l>
+      <l>avec integrité, car ce sont des hommes elûs — qu'il nous soient mis de</l>
+      <l>et secours, &amp; que cela ne leur semble une chose penible, là où il s'agit que</l>
+      <l>le nom de Dieu ne soit profané, d'arranger Vos paroles, selon Vos larges</l>
+      <l>connoissances, aux seigneurs <orgName ref="Виленский_кагал">Kahal</orgName> de la Ville d'ici<note place="end"
+      >Письмо подписано общиной в Вильне, так что «здешний город» и его кагал — виленские.</note>, de les
+      admonester,</l>
+      <l>qu'ils ne s'adonnent point à la discorde, qu'ils ne se hâttent point de répandre</l>
+      <l>le Sang des innocents tels que nous les sommes — C'est un devoir pour Vous</l>
+      <l>très révérend Seigneur, car tous se règlent d'après le grand homme, &amp; tout</l>
+      <l>se soumet quand il prononce. C'est ainsi! —</l>
+      <l>Nos forces s'affoiblissent, nous sommes de plus écrirés<note place="end">Читается écrirés. Возможно, écrasés,
+      «раздавлены».</note> &amp; parler et person<unclear>ne</unclear><gap reason="обрыв края листа"/></l>
+      <l>nous ne sait<note place="end">Так в рукописи, не savons.</note> où finir, mais notre Ami porteur de cette
+      lettre, Vous dira<note place="end">Конец строки у корешка.</note></l>
+      <l>Spéciallement — Le bon Dieu miséricorde<note place="end">Может читаться miséricordieux.</note> de nous, de nous
+      delivrer de<note place="end">Конец строки у корешка.</note></l>
+      <l>rages, que la paix regne dans les portes de nos Villes &amp; de tous ceux qui lui sont</l>
+      <l>Véritablement de tout le Coeur.</l>
+    </p>
+    <closer>
+      <l><signed>Les gens de l'assemblée à <placeName ref="Вильна">Vilna</placeName></signed></l>
+      <l><signed>Surnommés <orgName ref="Хасиды">Hasidim</orgName></signed></l>
+    </closer>
   </body></text>
 </TEI>
