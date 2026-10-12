@@ -1,17 +1,1063 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Номер журнала <title>Israelitische Annalen</title> (издатель д-р И. М. Йост), № 6,
+        <date when="1841-02-05">5 февраля 1841</date>, печатные с. 41–48, вклеенный в дело.
+        Статья «Verhältnisse in Rußland», корреспонденция из <placeName ref="Вильна">Вильны</placeName>
+        от <date when="1841-01-04">4 января 1841</date>, занимает оба столбца л. 8 и левый столбец л. 9.
+        В ней <persName ref="Цемах_Цедек">Мендель Любавицер</persName>, носящий имя
+        <foreign xml:lang="he">צמח</foreign>, и основатель особой секты в русских землях около пятидесяти
+        лет назад, названный Salmon, — <persName ref="alter-rebbe">Шнеур Залман</persName>.
+        Выборочный русский перевод статьи — <ref target="/garf14/012">012</ref>: он начинается со слов
+        «an die Thatsachen», после упоминания <date when="1740">1740</date> года перескакивает к выводу
+        не ставить людей секты во главе общин и кончается на «größtes Unglück». Середины, где назван
+        Salmon, и заключительных абзацев об училищах в переводе нет. Дальше в номере — окончание
+        статьи Г. Грюнебаума о школах в Пфальце, продолжение «Neue Leistungen der kritischen Schule»,
+        корреспонденции из Праги и Штутгарта, рецензии и объявление о «Zion». Отдельного русского
+        перевода этих материалов в деле нет.
+      </p></abstract>
+      <creation><date when="1841-02-05">5 февраля 1841</date></creation>
+      <handNotes>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="de"><body>
-    <pb n="008-1"/>
-    <pb n="008-2"/>
-    <pb n="009-1"/>
-    <pb n="009-2"/>
-    <pb n="010-1"/>
-    <pb n="010-2"/>
-    <pb n="011-1"/>
-    <pb n="011-2"/>
+    <head>
+      <l><pb n="008-1"/> <date when="1841-02-05">5. Februar</date>. Nro 6. <date when="1841-02-05">1841</date>.<note
+      place="end">На архивном экземпляре «1841» обведено чернильной петлей.</note></l>
+      <l>Israelitische Annalen.</l>
+      <l>Ein Centralblatt</l>
+      <l>für</l>
+      <l>Geschichte, Literatur und Cultur der Israeliten</l>
+      <l>aller Zeiten und Länder.</l>
+      <l>Herausgegeben von Dr. I. M. Jost.</l>
+    </head>
+    <p>
+      <l>Von diesen Annalen erscheint jeden Freitag ein ganzer Bogen; Preis des Jahrganges Rthlr. 3. — fl. 5; man
+      subscribirt</l>
+      <l>bei allen löbl. Postämtern und in allen Buchhandlungen des In- und Auslandes.</l>
+    </p>
+    <p>
+      <l>Verhältnisse in Rußland. — Das israelitische Schulwesen in der Pfalz, von G. Grünebaum (Schluß.) — Neue
+      Leistungen der kritischen Schule (Forts.)</l>
+      <l>Nachrichten und Correspondenzen: Prag (Fortsetzung); Stuttgart (Schluß.) — Literatur: Eliah, von
+      Dr. Gotthold Salomon; Damascia von L. H. Löwenstein. — Anzeige.</l>
+    </p>
+    <head>
+      <l>Verhältnisse in Rußland.</l>
+    </head>
+    <p>
+      <l><dateline>Bericht aus <placeName ref="Вильна">Wilna</placeName>, <date when="1841-01-04">4. Jan.
+      1841</date>.</dateline></l>
+    </p>
+    <p>
+      <l>Die Freude, mit welcher die Nachricht, daß</l>
+      <l>Seitens des hohen <orgName>Ministerii der Aufklärung</orgName> nun</l>
+      <l>auch für die zahlreichen israelitischen Unterthanen</l>
+      <l>durch Gründung zeitgemäßer Bildungsanstalten und</l>
+      <l>Anstellung tüchtiger Volkslehrer gesorgt werden solle,</l>
+      <l>alle wahren Menschenfreunde und insbesondere die</l>
+      <l>nach Verbesserung der innern Verhältnisse sich seh-</l>
+      <l>nenden Israeliten erfüllt hat, wird gegenwärtig</l>
+      <l>noch immer durch die nicht ungegründete Besorgniß</l>
+      <l>getrübt, daß es den Finsterlingen, welche nichts so</l>
+      <l>sehr fürchten als das Licht der Wissenschaft, und</l>
+      <l>deren Zahl und Macht in manchen Gegenden größer</l>
+      <l>ist, als die Beförderer des Guten sich überreden</l>
+      <l>möchten, am Ende doch gelingen dürfte, ihre Par-</l>
+      <l>theimänner vorzuschieben, und alle überaus humanen</l>
+      <l>Absichten hoher Regierung wieder auf längere Zeit</l>
+      <l>zu vereiteln. Gegen die Machinationen einer fana-</l>
+      <l>tischen <orgName ref="Хасиды">Secte</orgName>, welche ihre nicht unbedeutenden Kräfte</l>
+      <l>mit eben so großer Keckheit im Innern wie wirksa-</l>
+      <l>mer Thätigkeit nach außen in Bewegung setzt, um</l>
+      <l>dort jeden Widerspruch einzuschüchtern und hier ei-</l>
+      <l>nen unbesiegbaren Einfluß zu gewinnen, läßt sich</l>
+      <l>schwer kämpfen; die meisten Waffen, die sie nicht</l>
+      <l>verschmäht, hält der Edle für unwürdig, und aus-</l>
+      <l>serdem beherrscht auch die Trägheit von jeher die</l>
+      <l>große Masse so sehr, daß selbst die bessere Ue-</l>
+      <l>berzeugung nur Wünsche, nicht aber Energie er-</l>
+      <l>weckt, während diese zum Widerstreben alles bereit</l>
+      <l>findet, da dies nur eine kurze Anstrengung fordert.</l>
+      <l>Die Weisheit hoher Regierung wird dies durch-</l>
+      <l>schauen, das leidet keinen Zweifel; aber ob eine</l>
+      <l>fortgesetzte Gegenwirkung und eine falsche Darstel-</l>
+      <l>lung der Sachlage, ja selbst der scheinbar nach vie-</l>
+      <l>len Richtungen hin sich offenbarende Volksgeist nicht</l>
+      <l>zuletzt es dahin bringen können, daß die Schwierig-</l>
+      <l>keiten unüberwindlich erscheinen, das ist eine Frage,</l>
+      <l>die nicht so entschieden erledigt werden kann. Um</l>
+      <l>so mehr dürfte es zweckmäßig sein, öffentlich ein</l>
+      <l>Wort zu reden, damit die Wahrheit, welche in ein-</l>
+      <l>zelnen Verhandlungen leicht verdunkelt wird, desto</l>
+      <l>eher an's Licht trete, und ohne alle gehässige In-</l>
+      <l>sinuationen, welche in direktem Kampfe kaum zu</l>
+      <l>vermeiden sind, den Maßstab zu den beabsichtigten</l>
+      <l>Verbesserungen darreiche.</l>
+    </p>
+    <p>
+      <l>Hierbei halten wir uns übrigens lediglich an<note place="end">С этого абзаца начинается перевод
+      <ref target="/garf14/012">012</ref>. Начала статьи в нем нет. <placeName>Reußen</placeName> передано «въ Россіи».
+      Имя <foreign xml:lang="he">צמח</foreign> в переводе не разобрано.</note></l>
+      <l>die Thatsachen. In diesem Augenblicke bieten die</l>
+      <l>sehr zahlreichen Gemeinden in <placeName>Reußen</placeName> (<placeName ref="Витебск">Witepsk</placeName>,</l>
+      <l><placeName>Mohilew</placeName>) alles auf, um einen der ersten Männer<note place="end"><placeName>Reußen</placeName>
+      здесь — русские земли, названные в скобках, не княжество Рейсс.</note></l>
+      <l>aus der <orgName ref="Хасиды">Secte der Chassidim</orgName>, welche den Namen</l>
+      <l><foreign xml:lang="he">צמח</foreign> führt, zum gemeinsamen Oberhaupte zu er-</l>
+      <l>langen. Sie sehen in <persName ref="Цемах_Цедек">Mendel Lobowitzer</persName> den</l>
+      <l>Inbegriff aller Weisheit, einen Wunderthäter, ei-</l>
+      <l>nen Heiligen, und in diesem Sinne haben alle</l>
+      <l><pb n="008-2"/> Mitglieder von einigem Einfluß ihr Gutachten an</l>
+      <l>hohes <orgName>Ministerium</orgName> gelangen lassen. Ueber die <orgName ref="Хасиды">Secte</orgName>,</l>
+      <l>von welcher diese Abtheilung nur einen Zweig bil-</l>
+      <l>det, ist in der Geschichte der Israeliten zwar</l>
+      <l>schon mancher Aufschluß gegeben worden, und in</l>
+      <l>der neuesten Zeit haben die Zeitschriften noch viele</l>
+      <l>merkwürdige Einzelnheiten nachgetragen, und man</l>
+      <l>möchte glauben, daß die Nachtheile, welche durch</l>
+      <l>den <persName ref="Баал_Шем_Тов">ersten Stifter</persName> derselben, seit <date when="1740">1740</date>, in allen<note
+      place="end">Имя в тексте не названо. Основатель с 1740 года — <persName ref="Баал_Шем_Тов">Баал-Шем-Тов</persName>.
+      После «bekannt seien» перевод <ref target="/garf14/012">012</ref> переходит к «Das Erste und Wichtigste» и
+      пропускает текст до этого места, включая имя Salmon.</note></l>
+      <l>diesseitigen Gemeinden hervortreten, genugsam be-</l>
+      <l>kannt seien, — dennoch ist das Thema für den,</l>
+      <l>welcher den Unfug in der Nähe täglich und stünd-</l>
+      <l>lich wahrzunehmen Gelegenheit hat, keinesweges er-</l>
+      <l>schöpft, und da wo es auf allgemein heilsame auf</l>
+      <l>innere Besserung der Volksmasse abzielende Maßre-</l>
+      <l>geln ankommt, einer weisen und wohlwollenden Nach-</l>
+      <l>forschung sehr zu empfehlen. Jede Sectirerei hat</l>
+      <l>schon an und für sich den Charakter der Selbstsucht,</l>
+      <l>des Heraustretens nicht bloß aus dem allgemeinen</l>
+      <l>Verbande der eigenen Religion, sondern zum Theil</l>
+      <l>auch des Staates; der nächste Zweck ist immer</l>
+      <l>Hemmung der Entwickelung, Widerstand gegen die</l>
+      <l>Einwirkung der fortschreitenden Zeit, gewaltsame Er-</l>
+      <l>tödtung des Lebens zu Gunsten einer fixen Idee, welche</l>
+      <l>der unkundigen Menge als etwas Göttliches vorge-</l>
+      <l>stellt wird. Mag immerhin der Urheber von löbli-</l>
+      <l>cher Gesinnung begeistert gewesen sein, die Folge</l>
+      <l>davon ist stets Mißbrauch und grober Irrthum, und</l>
+      <l>die Unnatur rächt sich selbst. Schlimmer und ver-</l>
+      <l>derblicher ist die Wirkung, wenn gar keine eigent-</l>
+      <l>liche Idee zum Grunde liegt, und die <orgName ref="Хасиды">Secte</orgName> stets</l>
+      <l>durch eine Reihe von Wunderthätern gehalten wird,</l>
+      <l>also von Persönlichkeiten, die geradezu um ihres</l>
+      <l>Vortheils und ihrer Macht willen, eine blinde Masse</l>
+      <l>an sich zu ziehen wissen. Hier ist der Mißbrauch</l>
+      <l>ganz unvermeidlich und der Einfluß um so zerstören-</l>
+      <l>der, als er um sich geltend zu machen, alle ander-</l>
+      <l>weitigen Einwirkungen auf Geist und Sitte zu ent-</l>
+      <l>fernen bemüht sein muß. Dies bewährt die in</l>
+      <l>Rede stehende <orgName ref="Хасиды">Secte</orgName> auf das Unwiderleglichste. We-</l>
+      <l>nige Jahrzehnte nach dem ersten Entstehen derselben</l>
+      <l>theilte sie sich bereits nach Oertlichkeiten in mehrere</l>
+      <l>Massen, alle gleich fanatisch für ihre resp. Ober-</l>
+      <l>häupter, an deren Wunderkräfte niemand zweifelte,</l>
+      <l>und die nur im Fanatismus wetteiferten. In den</l>
+      <l>russischen Ländern stiftete ein Schwärmer, <persName ref="alter-rebbe">Salmon</persName><note
+      place="end">Имя набрано вразрядку. Это <persName ref="alter-rebbe">Шнеур Залман</persName>.</note></l>
+      <l>genannt, vor etwa 50 Jahren die obenerwähnte</l>
+      <l>besondere <orgName ref="Хасиды">Secte</orgName>, durch Aufstellung einiger höhern</l>
+      <l>Ideen, von der Verachtung alles Irdischen, Ver-</l>
+      <l>nichtung aller Begierden nach Vergänglichem und</l>
+      <l>ähnlichen an sich unhaltbaren Sätzen, deren Vor-</l>
+      <l>schiebung wenigstens dem Oberhaupte und seiner</l>
+      <l>Umgebung eine fast unerreichbare und daher ange-</l>
+      <l>staunte Heiligkeit gaben. Diese Ideen leuchten noch</l>
+      <l>hie und da durch die Lehren des Stifters, aber bald</l>
+      <l>gingen sie ganz unter in dem Meere der Wunder-</l>
+      <l>thätereien und Gaukeleien, welche letztere selbst bis</l>
+      <l>in ihre sogenannten Bibelerklärungen eingedrungen</l>
+      <l>sind, indem von Verständniß der Schrift gar nicht</l>
+      <l>mehr die Rede ist, und an jedem Buchstaben und</l>
+      <l>Punkte geheime Winke und fratzenhaft verzerrte Ge-</l>
+      <l>danken und Anregungen aufgesucht werden, durch</l>
+      <l>welche das Volk ganz und gar in Staunen, in blin-</l>
+      <l>der Anbetung und in einem zu allem bereitwilligen</l>
+      <l>Gehorsam erhalten wird. — Bei solcher Beschaffen-</l>
+      <l>heit der Dinge kann man sich leicht denken, wie,</l>
+      <l>sobald ein solches Oberhaupt an die Spitze der</l>
+      <l>Volksbildung gestellt wird, sich bald alles gestalten</l>
+      <l>muß. Die sämmtlichen Gemeinden dieser Provinz</l>
+      <l>werden wie mit eisernen Mauern umzogen, und</l>
+      <l>auch nicht ein Strahl von besserer Erkenntniß wird</l>
+      <l>zugelassen werden. Selbst die Wenigen, welche für</l>
+      <l>sich einige europäische Bildung erlangen, wagen dann</l>
+      <l>kaum, ihr eigenes Streben zu offenbaren, geschweige</l>
+      <l>auf andere einzuwirken. Darf man da behaupten,</l>
+      <l>daß die edeln und humanen Wünsche hoher Regie-</l>
+      <l>rung beachtet, und selbst ihre Anordnungen zweck-</l>
+      <l>mäßig vollzogen werden, wenn das ganze Volk täg-</l>
+      <l>lich dagegen fanatisirt wird? —</l>
+    </p>
+    <p>
+      <l>Das Erste und Wichtigste bei so vortrefflichen<note place="end">Перевод <ref target="/garf14/012">012</ref>
+      возобновляется с этого абзаца.</note></l>
+      <l>Absichten ist die Lähmung dieser widerstrebenden Ge-</l>
+      <l>walten. Dieses kann nur durch Fernhaltung des</l>
+      <l>Einflusses dieser <orgName ref="Хасиды">Secte</orgName> geschehen, indem keiner, der</l>
+      <l>ihr zugethan ist, an die Spitze der Gemeinden ge-</l>
+      <l>stellt wird, damit mindestens dieser oft auf's Aeuß-</l>
+      <l>erste ausartende Glaube an die Unfehlbarkeit solcher</l>
+      <l>Schwärmer (wovon wir leider sehr betrübende Bei-</l>
+      <l>spiele vor uns haben) nicht Aufmunterung und Vor-</l>
+      <l>schub finde. Mit der Zeit wird sich das Volk, wel-</l>
+      <l>chem es an gesundem Verstande gar nicht fehlt, ei-</l>
+      <l>nes bessern überzeugen und selbst zu allen Bildungs-</l>
+      <l>anstalten die Hand bieten, statt daß es jetzt der</l>
+      <l>müßigen Träumerei nachgiebt und in seinem Elende</l>
+      <l>eine Art von sinnlicher Befriedigung findet, aus</l>
+      <l>welcher herauszutreten ihm als das größte Unglück</l>
+      <l>scheint.<note place="end">На этом перевод <ref target="/garf14/012">012</ref> кончается.</note> Hierzu trägt das
+      mystische Dunkel, in</l>
+      <l><pb n="009-1"/> welches sich die einzelnen Oberhäupter dieser <orgName ref="Хасиды">Secte</orgName></l>
+      <l>hüllen, nicht wenig bei, indem sie sich dem Auge</l>
+      <l>des großen Haufens entziehen, und nur immer ei-</l>
+      <l>nige Begünstigte in ihrer Nähe dulden, deren Eigen-</l>
+      <l>nutz und Herrschsucht gemeinhin durch Uebertreibun-</l>
+      <l>gen und Wundermährchen zu gewinnen sucht. Nichts</l>
+      <l>wäre geeigneter, sich von der erstaunlichen Täuschung,</l>
+      <l>worin man die Menge gängelt, zu überführen, als</l>
+      <l>wenn die hochgebildeten Staatsbeamten einmal solche</l>
+      <l>sogenannte Fromme vor sich kommen ließen. Eine</l>
+      <l>einzige Unterredung würde von der furchtbaren Ideen-</l>
+      <l>Verwirrung einen Begriff geben, welcher die unwiss-</l>
+      <l>ende Menge als Opfer überlassen wird.</l>
+    </p>
+    <p>
+      <l>Schreiber dieses ist durchaus dabei nicht bethei-</l>
+      <l>ligt und folgt bloß der Eingebung seines Herzens,</l>
+      <l>indem er die Wahrheit hiermit, ohne irgend jemand,</l>
+      <l>selbst nicht den Unglücklichen, die als betrogene Be-</l>
+      <l>trüger vor Gott verantwortlich bleiben, zu nahe zu</l>
+      <l>treten, der Oeffentlichkeit übergiebt, einzig und al-</l>
+      <l>lein wünschend, daß sie geprüft werde, und zufrie-</l>
+      <l>den, wenn dies eine Scherflein zum künftigen Heile<note place="end">В печати «eine Scherflein».</note></l>
+      <l>diesseitiger Gemeinden beitragen dürfte. Das Heil</l>
+      <l>aber glaubt er darin zu sehen, daß überall gute</l>
+      <l>Elementarschulen für die Kinder jedes Geschlechts</l>
+      <l>besonders, und nach Maßgabe der Oertlichkeit auch</l>
+      <l>höhere Bildungsanstalten errichtet werden, daß das</l>
+      <l>Volk geregelten Unterricht auch durch öffentliche Vor-</l>
+      <l>träge empfange, und daß es sich den bürgerlichen</l>
+      <l>Thätigkeiten aller Art mit ersprießlicher Betriebsam-</l>
+      <l>keit zuwende.</l>
+    </p>
+    <head>
+      <l>Das israelit. Schulwesen in der <placeName>Pfalz</placeName>.</l>
+      <l>Von <persName>G. Grünebaum</persName>, Bezirksrabbiner in <placeName>Landau</placeName>.</l>
+      <l>(Schluß.)</l>
+    </head>
+    <p>
+      <l>Es ist nämlich durchgängig nur ein Lehrer für das</l>
+      <l>Elementar- und Religionsfach angestellt. Dieser soll allein</l>
+      <l>an den drei Klassen, in welche unsere Schulen eingetheilt</l>
+      <l>und die natürlich in einem Zimmer versammelt sind, im</l>
+      <l>Elementarfach Folgendes unterrichten, wobei wir der „Lehr-</l>
+      <l>ordnung und Stundeneintheilung für die deutschen Schulen</l>
+      <l>im Rheinkreise <placeName>Speier</placeName>, <date when="1836">1836</date>“ folgen, da an derselben nach</l>
+      <l>dem Willen hoher Regierung auch für isr. Schulen, insofern</l>
+      <l>es auf den Inhalt der Lehrgegenstände, nicht die Stun-</l>
+      <l>deneintheilung u. s. w. ankommt, festgehalten werden soll.</l>
+      <l>An der ersten untern Hauptklasse: 1) Lautiren und</l>
+      <l>Lesen, 2) Schreiben, 3) Rechnen. Im Schreiben:</l>
+      <l>Buchstaben und allmählich Wörter, dann auch Ziffern, ein-</l>
+      <l>zeln und in Verbindung. Im Rechnen: Uebung in der</l>
+      <l>Einheitstabelle, mündlich vor- und rückwärts zählen, dann</l>
+      <l>auch zusammenzählen und abziehen (addiren und subtrahiren).</l>
+      <l>In der zweiten mittlern Hauptklasse: 1) Fertig</l>
+      <l>und gut Lesen und deutsche Sprachlehre, 2) Schreiben,</l>
+      <l>Schön- und Rechtschreiben, 3) Rechnen, Kopf- und Tafel-</l>
+      <l>rechnen, die 4 Species und Maaß- und Gewichtskenntniß,</l>
+      <l>4) Anfangsgründe der Erdbeschreibung.</l>
+      <l>An der dritten Hauptklasse kommen zu den Un-</l>
+      <l>terrichtsgegenständen der beiden frühern Klassen noch die</l>
+      <l>politische Geographie <placeName>Deutschlands</placeName> und <placeName>Baierns</placeName> in Verbin-</l>
+      <l>dung mit dem Umrisse der vaterländischen Geschichte, dann</l>
+      <l>die Elemente der Naturgeschichte und Naturkunde, mit Rück-</l>
+      <l>sichtnahme auf die künftigen Berufsverhältnisse der Schüler.</l>
+      <l>Im Schreiben wird die Schönheit der Form geübt.</l>
+      <l>Im Rechnen die vier Species angewendet auf Verhältniß-,</l>
+      <l>Gesellschafts-, Zins- und Bruchrechnung in gegebenen und</l>
+      <l>selbst erfundenen Beispielen. Deutsche Sprache bis zur Cor-</l>
+      <l>rectheit.</l>
+      <l>Die Naturgeschichte beschränkt sich auf das allgemein</l>
+      <l>Nützlichste aus dem Thier-, Pflanzen- und Mineralreiche,</l>
+      <l>in den Landschulen auf Vieh-, Bienen- und Seidenwürmer-</l>
+      <l>zucht und die Kenntniß der Giftpflanzen, auf die nützlichsten</l>
+      <l>Steinarten und brennbaren Materialien. Die Naturkunde</l>
+      <l>erstreckt sich auf Erklärung der Naturerscheinungen und all-</l>
+      <l>gemein bekannteren Gesetze.</l>
+      <l>Dabei soll durch alle Klassen im Zeichnen, das jedoch</l>
+      <l>die Grenzlinie des Anfangsunterrichts in dem Linear- und</l>
+      <l>Ornamenten-Zeichnen nicht überschreiten darf, unterrichtet</l>
+      <l>werden, da es eine Fertigkeit ist, welche Bildung des Auges</l>
+      <l>und der Hand voraussetzt und in der nächsten Berührung</l>
+      <l>mit dem bürgerlichen Berufe des Schülers steht.</l>
+      <l>Die Zeit des Unterrichts ist im Ganzen Morgens von</l>
+      <l>8 — 11 und Nachmittags von 1 — 4 Uhr. Dabei sind die</l>
+      <l>isr. Werktagsschüler die Feier- und Samstage, die Mitt-</l>
+      <l>woch- und Freitag-Nachmittage frei.</l>
+    </p>
+    <p>
+      <l>Die oben dargelegten Gegenstände des Religionsunter-</l>
+      <l>richts sind unsers Dafürhaltens in den einzelnen Klassen in</l>
+      <l>folgender Gradation zu lehren.</l>
+      <l>A. In der ersten untern Klasse, in der Regel bis zum</l>
+      <l>8. Lebensjahre, Hebräischlesen, verbunden mit den Lese-</l>
+      <l>regeln, bis zu einer gewissen Fertigkeit. Dabei hat der</l>
+      <l>Lehrer im Religionsunterricht, gleich wie in den christlichen</l>
+      <l>Schulen, die Begriffe von Recht und Unrecht, von Gutem</l>
+      <l>und Bösem u. s. w. den Kindern beizubringen und an Er-</l>
+      <l>zählungen aus der biblischen Geschichte und kleine schöne</l>
+      <l>Denksprüche anzuknüpfen. Beides zugleich als Gedächtniß-</l>
+      <l>übung. Von Katechismus-Unterricht darf in dieser Klasse</l>
+      <l>schon deßhalb keine Rede sein, weil damit die Religionslehre</l>
+      <l>gleich in ihrer Wurzel zu einem bloßen Mechanismus her-</l>
+      <l>abgewürdigt würde *).</l>
+      <l>B. In der zweiten Hauptklasse Fertigkeit im Lesen,</l>
+      <l>Uebersetzung der leichten Stücke der Gebete und des Pen-</l>
+      <l>tateuchs, die Leseregeln vollständig, das regelmäßige Zeit-</l>
+    </p>
+    <note place="foot">*) Das zu verhindern wäre Sache der Methode. J.</note>
+    <fw type="note" place="bottom">6*</fw>
+    <p>
+      <l><pb n="009-2"/> wort, die Fürwörter und die häufiger vorkommenden For-</l>
+      <l>men der Hauptwörter, vorzüglich in Berücksichtigung der</l>
+      <l>Trennung und Verbindung (<foreign xml:lang="he">נפרד ונסמך</foreign>) werden eingeübt.</l>
+      <l>Die biblische Geschichte, welche zugleich als deutsches Lese-</l>
+      <l>buch gebraucht wird, dient zur Anknüpfung der Religions-</l>
+      <l>lehre, welche mit Ausnahme der Hauptlehren aus der Glau-</l>
+      <l>bens- und Pflichtenlehre, noch immer nicht im eigentlichen</l>
+      <l>Katechismus streng systematisch gelehrt werden darf. Wir</l>
+      <l>sind der Meinung, daß dahin gestrebt werden müsse, daß</l>
+      <l>das Kind die Lehren des Religionsbuches als Resultat</l>
+      <l>des durch Lesen der Bibel und biblischen Geschichte mehr</l>
+      <l>historisch und innerlich, nicht allein aus den zusammenge-</l>
+      <l>drückten Rahmen des Katechismus dogmatisch aufzunehmen</l>
+      <l>gewöhnt werde. Deßhalb glauben wir, daß Letzterm eine</l>
+      <l>größere Kenntniß der biblischen Geschichte und namentlich</l>
+      <l>eine durch längere Zeit angehörte mündliche Darlegung der</l>
+      <l>Hauptmoment des Glaubens von Seiten des Lehrers vor-</l>
+      <l>angehen müsse.</l>
+    </p>
+    <p>
+      <l>C. Die dritte und obere Hauptklasse hätte mit der</l>
+      <l>Uebersetzung der Gebete und des Pentateuchs der Ordnung</l>
+      <l>nach zu beginnen, wobei die bereits gelehrten Stücke wie-</l>
+      <l>derholt werden, und von dem 10. bis zum zurückgelegten</l>
+      <l>13. Jahre, also in drei Jahren alle eigentlichen Gebet-</l>
+      <l>stücke des gewöhnlichen Siddurs, so wie den ganzen Penta-</l>
+      <l>teuch, mit Ausnahme der Opfergesetze und einiger andern</l>
+      <l>Stücke, deren Bezeichnung nicht nöthig ist, zu vollenden.</l>
+      <l>Dabei wird die grammatische Lehre von den Zeit- und</l>
+      <l>Hauptwörtern zu Ende zu führen sein und die übrigen</l>
+      <l>Redetheile, wenigstens ihrer äußern Form nach, durchge-</l>
+      <l>nommen werden müssen.</l>
+    </p>
+    <p>
+      <l>Da aber die Mädchen auf dem Lande, sowohl im Ele-</l>
+      <l>mentarfache, Manches, wie den größten Theil der Geo-</l>
+      <l>graphie, Geschichte und Naturgeschichte, als im Religions-</l>
+      <l>fache die Sprachlehre und Uebersetzung des Pentateuchs</l>
+      <l>nicht zu lernen haben, so wird dem Wunsche und dem Be-</l>
+      <l>dürfnisse besonders armer Mütter auf dem Lande, die Mäd-</l>
+      <l>chen nach zurückgelegtem 12. Jahre schon aus der Werktags-</l>
+      <l>schule entlassen zu sehen, entsprochen werden können. Damit</l>
+      <l>aber die Kräfte des Lehrers nicht allzu sehr zersplittert wer-</l>
+      <l>den, und Knaben und Mädchen so viel als möglich zusammen</l>
+      <l>den Unterricht genießen können, so möchte bis zum 12. Jahre</l>
+      <l>weniger Zeit auf die Uebersetzung des Pentateuchs zu ver-</l>
+      <l>wenden, dagegen die Uebersetzung der Gebete zu vollenden</l>
+      <l>und vom 12. bis zum 13. Jahre mit den Knaben keine</l>
+      <l>Gebete mehr zu übersetzen und alle Zeit für die Ueber-</l>
+      <l>setzung des Pentateuchs zu benutzen sein *).</l>
+    </p>
+    <p>
+      <l>Mit dem Gesange wird jeden Morgen die Schule zu</l>
+      <l>eröffnen und jeden Abend zu schließen, und mit einem</l>
+      <l>Gebete Vormittags zu schließen und Nachmittags zu eröff-</l>
+      <l>nen sein. Auch Hebräischschreiben muß getrieben werden;</l>
+      <note place="foot">
+        <l>*) Bei der fluctuirenden Verschiedenheit des Alters kann</l>
+        <l>dies dem Uebel nicht abhelfen. Besser wäre eine Schei-</l>
+        <l>dung der Beschäftigungen nach dem Geschlechte.</l>
+        <l>J.</l>
+      </note>
+      <fw type="pageNum">44</fw>
+      <l>doch blos nach Vorlegeblättern als stille Uebung, ohne daß</l>
+      <l>der Lehrer besondere Zeit darauf verwende.</l>
+    </p>
+    <p>
+      <l>Wie ist nun nach den angegebenen Grundzügen eine</l>
+      <l>Lehrordnung und Stundeneintheilung für die</l>
+      <l>israelitischen Schulen der <placeName>Pfalz</placeName> auf's Beste und</l>
+      <l>Zweckmäßigste einzurichten? Eine solche thut bei uns durch-</l>
+      <l>aus Noth, da auf der einen Seite dem Lehrer, welcher</l>
+      <l>allein Alles zu leisten hat, ein bestimmtes Regulativ in die</l>
+      <l>Hände gegeben werden muß, damit auch kein Augenblick</l>
+      <l>verloren gehe, andrerseits nur auf diese Weise die so sehr</l>
+      <l>nöthige Einheit erzielt werden kann. Die Zeit ist kurz, die</l>
+      <l>Arbeit groß; darum bitten wir praktische Schulmänner, ihre</l>
+      <l>deßfallsigen Ansichten und Erfahrungen in diesen Blättern</l>
+      <l>niederlegen zu wollen.</l>
+    </p>
+    <head>
+      <l>Neue Leistungen der kritischen Schule.</l>
+      <l>(Fortsetzung.)</l>
+    </head>
+    <p>
+      <l>Das sechste Schreiben ist von <persName>Dr. Geiger</persName>, noch aus</l>
+      <l><placeName>Berlin</placeName>, vom <date when="1839-10">Oct. 1839</date>. Es enthält eine Ankündigung des</l>
+      <l>damals unter der Presse befindlichen Melo Chophnajim mit</l>
+      <l>Angabe des Inhaltes, dessen Bearbeitung zur Zeit als Ent-</l>
+      <l>schuldigung diene, daß nur einige kleine Notizen hier erfol-</l>
+      <l>gen. Interessant finden wir zunächst die Bemerkung, „daß</l>
+      <l>A. <persName>E.</persName> im Sephat Jether §. 7 eine unter den Moslemen<note place="end">A. E. — Авраам ибн Эзра, автор Sephat Jether.</note></l>
+      <l>über die Wiederbelebung der vom <persName>Abraham</persName> bei'm Bundes-</l>
+      <l>schluß zerschnittenen Vögel (Koran II. 260) allgemein herr-</l>
+      <l>schende Sage irrigerweise für eine jüdische halte, wäh-</l>
+      <l>rend in keiner jüdischen Quelle von einer Wiederbele-</l>
+      <l>bung die Rede sei!“</l>
+    </p>
+    <p>
+      <l>In der That müssen wir hier genügende Nachforschung</l>
+      <l>voraussetzen. Aber doch halten wir es nicht für überflüssig,</l>
+      <l>nachzuweisen, daß der Karait <persName>Ahron b. Joseph</persName> zu Gen.</l>
+      <l>XV. 9 im Mibchar ebenfalls diese Deutung kennt und als</l>
+      <l>eine ältere, jedoch ungegründete, welche von denen herrühre,</l>
+      <l>die diese ganze Thatsache materiell nehmen, (die <orgName>Karäer</orgName></l>
+      <l>halten das Ganze für ein prophetisches Gesicht) erwähnt;</l>
+      <l>es müssen also schon Commentatoren vor ihm, vielleicht</l>
+      <l>schon <persName>Anan</persName>, die Sage gekannt haben, und es läßt sich nicht</l>
+      <l>gut denken, daß alle sie nur von den Moslemen angenom-</l>
+      <l>men hätten, während es immer wahrscheinlicher ist, daß (wie</l>
+      <l><persName>G.</persName> ja selbst bewiesen hat) <persName>Muhammed</persName> aus den jüdischen</l>
+      <l>Quellen geschöpft, wenn auch hie und da die Ideen entstellt</l>
+      <l>habe, wie z. B. daß <persName>Esra</persName> ein Sohn Gottes genannt werde.</l>
+    </p>
+    <p>
+      <l>So viel ist wohl klar, daß das Studium der arabischen</l>
+      <l>Literatur mancherlei historischen Aufschluß darreicht, wie über-</l>
+      <l>haupt die externen Studien nothwendig sind, um das</l>
+      <l>Dunkel der rabbin'schen Schriften aufzuhellen. Wenn</l>
+      <l>aber Herr <persName>Dr. Geiger</persName> die historischen Angaben Ende Bera-</l>
+      <l>choth auf die <orgName>Dositheaner</orgName> (einer Secte der <orgName>Samaritaner</orgName>)</l>
+      <l>bezieht, und das Zerwürfniß der <orgName>Samaritaner</orgName> somit fast in</l>
+      <l>die Zeit vor <persName>Alexander d. Gr.</persName> versetzt, so hegen wir Zwei-</l>
+      <l>fel dagegen. Die angezogenen arabischen Stellen beweisen</l>
+      <l>nichts für dies hohe Alter, und der Name <persName>Dositheos</persName></l>
+      <l>als Griechisch führt auf eine spätere Zeit. Wenn <persName>Krochmal</persName>s</l>
+      <l><pb n="010-1"/> Ansicht von dem spätern Schluß des Kanons richtig ist, kann</l>
+      <l>allerdings wie bisher die Stelle auf die <orgName>Sadducäer</orgName> bezogen</l>
+      <l>werden, deren Lehrsätze alsdann vor diesem Schlusse bekannt</l>
+      <l>waren. Nur der Punkt, welcher den Namen Gottes be-</l>
+      <l>trifft, scheint mehr für <persName>Geiger</persName>'s Hypothese zu sprechen.</l>
+    </p>
+    <p>
+      <l>— Um die Lehrsätze der <orgName>Samaritaner</orgName> und ihren Zwiespalt</l>
+      <l>zu kennen, bedarf es ebenfalls nicht gerade der arabischen</l>
+      <l>Quellen, so lange wir einheimische vor uns haben. Als solche</l>
+      <l>betrachten wir die gelehrten Arbeiten der <orgName>Karäer</orgName>, denn</l>
+      <l>auch sie sind sehr eifersüchtig darauf, Fremdes von sich zu</l>
+      <l>weisen, und beten nicht leicht den Arabern nach. Nun</l>
+      <l>giebt <persName>Juda Hadassi</persName> (im <date notBefore="1101" notAfter="1200">12ten Jahrh.</date>) in seinem Werke</l>
+      <l>Eschkol haccopher 97, eine ziemlich genaue Schilderung</l>
+      <l>der Lehrsätze der <orgName>Samaritaner</orgName>, deren eine Secte <orgName>Chusan</orgName>,</l>
+      <l>die andere <orgName>Dostan</orgName> heiße; letztere leugnen die Aufer-</l>
+      <l>stehung. (Derselbe nennt N. 98 eine Anzahl der Werke,</l>
+      <l>aus denen er die Grundsätze und Ansichten der verschiedenen</l>
+      <l>Secten geschöpft hat.) Ja es scheint fast, als ob diese Secte</l>
+      <l>damals noch existirte. Der Gegenstand bedarf daher noch</l>
+      <l>einer genauern Untersuchung. Auf jeden Fall ist die von</l>
+      <l>Herrn <persName>Dr. Geiger</persName> hier mit einer sehr sinnreichen Combi-</l>
+      <l>nation verbundene Anregung sehr dankenswerth. — Uebri-</l>
+      <l>gens werden wir bald über die <orgName>Samaritaner</orgName> noch Merk-</l>
+      <l>würdiges mittheilen.</l>
+    </p>
+    <p>
+      <l>7 — 12. Correspondenz des Herrn <persName>Slonimski</persName> mit</l>
+      <l>Herrn <persName>Reggio</persName> über unser Kalenderwesen. Ersterer be-</l>
+      <l>reits rühmlichst bekannt durch astronomische Werke,</l>
+      <l>insbesondere auch durch eine Schrift über die Halley'schen</l>
+      <l>Cometen (Annalen <date when="1840">1840</date> Seite 144, wo die Druck-</l>
+      <l>fehler im Namen des Verfassers und des Titels zu</l>
+      <l>berichtigen) weist unwiderleglich nach, daß die Einrich-</l>
+      <l>tung unsers Kalenderwesens, weit entfernt, der uralten</l>
+      <l>Tradition anzugehören, vielmehr augenscheinlich spätern</l>
+      <l>Ursprungs ist, und Irrthümer enthalte, welche nach einer</l>
+      <l>Reihe von Jahren die Festtage ganz aus der gesetzlichen</l>
+      <l>Zeit hinausrücken werde. <persName>Reggio</persName> erkennt nach mehreren</l>
+      <l>Einwendungen die Richtigkeit der Darstellung <persName>Slonimski</persName>'s</l>
+      <l>an, — wie denn seine Rechnungen jeden Widerspruch von</l>
+      <l>selbst unmöglich machen, — hält es aber für unräthlich, jetzt</l>
+      <l>eine Veränderung zu beantragen, da offenbar nicht alle Is-</l>
+      <l>raeliten auf dem Erdenrund sich zu einer so gemeinsamen</l>
+      <l>Maßregel gegen das Herkommen verstehen würden, und es</l>
+      <l>besser sei, daß die Gleichmäßigkeit selbst in dereinstiger Un-</l>
+      <l>richtigkeit der Festeszeiten beibehalten werde, als daß man</l>
+      <l>durch Einführung einer richtigern Rechnung ein Schisma</l>
+      <l>herbei führe, wie solches in der christlichen Kirche durch die</l>
+      <l>Aenderung des Kalenders entstanden sei.</l>
+    </p>
+    <p>
+      <l>Die nähere Auseinandersetzung der Nachweisungen des</l>
+      <l><persName>Slonimski</persName> finden wir für die Annalen zu umständlich.</l>
+      <l>Es wäre gut, daß dies Thema von einem Sachkenner voll-</l>
+      <l>ständig auch in deutscher Sprache bearbeitet würde. Die</l>
+      <l>Sache ist für Wissenschaft und Leben von der höchsten</l>
+      <l>Wichtigkeit, nicht bloß an und für sich, sondern auch zum</l>
+      <l>tiefern Eindringen in die Tradition überhaupt.</l>
+    </p>
+    <p>
+      <l>14) Lebensgeschichte des <persName>R. Asarja de' Rossi</persName> von</l>
+      <fw type="pageNum">45</fw>
+      <l><persName>Dr. Zunz</persName>. Ein unschätzbarer Beitrag zur Literaturkunde</l>
+      <l>des 16ten Jahrhunderts, methodisch und mit der sorgfältig-</l>
+      <l>sten Genauigkeit durchgeführt, — auch in einem klaren Styl</l>
+      <l>geschrieben. Nach einer Aufführung der bekannten Männer</l>
+      <l>aus dieser Familie, wird die Lebensgeschichte dieses Kritikers</l>
+      <l>durchgegangen, der sich kein schöneres Denkmal wünschen konnte.</l>
+      <l>Sie hat wenig Veränderungen und Schicksale, aber es knüpfen</l>
+      <l>sich an dieselbe mannichfache Ereignisse, als die Verbrennung</l>
+      <l>der rabbinischen Schriften auf Befehl Pabstes <persName>Julius III</persName>.,</l>
+      <l>die Vertreibung der Juden auf Befehl Pabstes <persName>Pius V</persName>.,</l>
+      <l>das große Erdbeben <date when="1570">1570</date>, und außerdem Erinnerungen an</l>
+      <l>eine große Anzahl Gelehrte jener Zeit, welches hier alles in</l>
+      <l>gedrängter Kürze zur Uebersicht gebracht wird. Den Mittel-</l>
+      <l>punkt der ganzen Abhandlung bilden das berühmte kritische</l>
+      <l>Werk Meor Enajim, verfaßt <date from="1571" to="1573">1571—73</date>, und die übrigen</l>
+      <l>Schriften des <persName>A.</persName> Weder sein Geburts- noch sein Sterbejahr</l>
+      <l>sind genau bekannt; ersteres fällt um <date from="1513" to="1514">1513—14</date>, letzteres ver-</l>
+      <l>muthlich vor <date when="1587">1587</date> (s. unten.) Nun wird jenes Hauptwerk analy-</l>
+      <l>sirt. Hebräische handschriftliche seltene Quellen finden sich in</l>
+      <l>demselben genannt 55, die hier aufgeführt werden. Hierauf</l>
+      <l>zeigt der Biograph die Belesenheit des <persName>Asarja</persName> in externer</l>
+      <l>Literatur, worin auch Andere ihm schon vorangegangen wa-</l>
+      <l>ren, obwohl er alle Vorgänger übertraf, und besonders mit</l>
+      <l>Kritik las, wie hier (S. 140) sehr schön entwickelt wird.</l>
+    </p>
+    <p>
+      <l>Sehr interessant sind die anfangs gegen das Werk erhobe-</l>
+      <l>nen Beschwerden, Seitens vieler Eifrer, deren Einige sogar</l>
+      <l>den Bann darüber aussprachen, andere dasselbe auch später-</l>
+      <l>hin den Schülern streng untersagten. Noch interessanter aber</l>
+      <l>ist, daß andere aus dem Werke, ohne ihren Autor zu nen-</l>
+      <l>nen, Stücke stahlen und ihre Schriften damit bereicherten.</l>
+      <l>Z. giebt ein hübsches Verzeichniß der Art (143) aus dem</l>
+      <l>Schalscheleth, und andere Nachweisungen (144), so wie ins-</l>
+      <l>besondere noch von Eiferern, die nebenher das Werk als</l>
+      <l>Quelle benutzten, oder bei andern Gelegenheiten es wieder</l>
+      <l>in Schutz nahmen. Größer ist die Zahl derer, die dem</l>
+      <l>Verfasser Gerechtigkeit widerfahren ließen, von denen hier</l>
+      <l>ein ansehnliches Verzeichniß folgt. Die Fehler des Werkes</l>
+      <l>werden hier (S. 149) ebenfalls nachgewiesen. Dann folgen</l>
+      <l>die Ausgaben und deren Werth, wobei sehr interessante bi-</l>
+      <l>bliographische Notizen: endlich Nachrichten über die andern</l>
+      <l>Schriften. Zum Schluß des Ganzen folgt ein Verzeichniß</l>
+      <l>der für die Literatur wichtigen Zeitgenossen mit den dazu</l>
+      <l>gehörigen Notizen.</l>
+    </p>
+    <p>
+      <l>Zu dieser vortrefflichen Arbeit, welche auf 30 Octav-</l>
+      <l>seiten eine ganze reichhaltige Literaturepoche vorführt, giebt</l>
+      <l><persName>Rapaport</persName> als Anhang noch einige Nachträge, 1) eine</l>
+      <l>kurze Nachricht über den bei <persName>Z.</persName> erwähnten <persName>Amatus Lusita-</persName></l>
+      <l><persName>nus</persName>, welcher in der Heilkunde sich auszeichnete; 2) einen</l>
+      <l>merkwürdigen Nachweis, daß <persName>R. Asarjah</persName> wahrscheinlich im</l>
+      <l>J. <date when="1577">1577</date> Ende, gestorben ist. <persName>Leo di Modena</persName> erzählt näm-</l>
+      <l>lich in seiner Lebensbeschreibung, Hdschr. bei <persName>Luzzato</persName>, er habe,</l>
+      <l>gleich dem <persName>R. Asarjah</persName>, Verse auf seinen baldigen Tod ge-</l>
+      <l>macht. Das Distichon gleicht genau einem andern, welches</l>
+      <l>auf <persName>R. A</persName>'s Grabstein, von ihm selbst verfaßt, gestanden ha-</l>
+      <l>ben soll, wie <persName>Luzzato</persName> aus andern Quellen berichtet. Somit</l>
+      <l>ist wohl dessen Inhalt zuverlässig. 3) Noch eine Quelle, die</l>
+      <l>Z. übersehen hat; und noch einige ergänzende Bemerkungen.</l>
+    </p>
+    <p>
+      <l>(Schluß folgt.)</l>
+    </p>
+    <head>
+      <l><pb n="010-2"/> Nachrichten und Correspondenzen.</l>
+    </head>
+    <p>
+      <l><placeName>Prag</placeName>, den 29. December <date when="1840-12-29">1840</date>. (Forts.) — In der</l>
+      <l>äußern Form unterscheiden sich die <persName>R.</persName>'schen Vorträge nicht<note place="end">R. в пражской корреспонденции не назван.</note></l>
+      <l>von denen der ältern Rabbinen. Auch. <persName>R.</persName> beginnt mit eini-<note place="end">После Auch в печати стоит точка.</note></l>
+      <l>gen hebräischen Versen, worauf eine Halachische Dissertation</l>
+      <l>folgt, und hierin wie in seinen thalm. Vorlesungen bewährt</l>
+      <l>er sich als gründlicher scharfsinniger Forscher und Erläuterer</l>
+      <l>der Halacha. Sachkenner, denen ein unpartheiisches Urtheil</l>
+      <l>zuzutrauen ist, bewundern die Geistesschärfe, womit <persName>R.</persName> in</l>
+      <l>die Tiefen des Thalmuds einzudringen vermag. Den Haupt-</l>
+      <l>theil des Vortrags bildet die Agada, durch deren Inhalt die-</l>
+      <l>ser Gelehrte wesentlich von allen seinen Vorgängern und Zeit-</l>
+      <l>genossen sich unterscheidet. Auch hier bewährt sich der scharf-</l>
+      <l>sinnige Forscher. Der lichtvolle nur Wahrheit suchende <persName>R.</persName></l>
+      <l>verschmäht es natürlicherweise in seinen moralisch-religiösen</l>
+      <l>Vorträgen, alberne abgeschmackte Witzeleien aufzusuchen, wo</l>
+      <l>durch Verdrehung und Verrenkung der schönsten und heilig-</l>
+      <l>sten Bibelstellen die Wahrheit mit Füßen getreten wird.</l>
+      <l>Sein Genie hat sich auf diesem Felde eine neue Bahn eröff-</l>
+      <l>net, die noch keiner vor ihm betreten. Er entwickelt das zu</l>
+      <l>behandelnde Thema nach allen Seiten hin mit erschöpfender</l>
+      <l>Umsicht und einer großen Gedankenfülle. Er will den Zuhö-</l>
+      <l>rer nicht bloß unterhalten, er will ihn belehren. Wenn da-</l>
+      <l>her auch solche Vorträge bei manchen noch nicht gehörigen</l>
+      <l>Anklang finden konnten, weil Viele noch an witzige Exegese</l>
+      <l>oder jämmerliche und barbarische Exclamationen gewöhnt</l>
+      <l>sind: so hört der Verständige desto aufmerksamer dunkle oder</l>
+      <l>sich widersprechende Stellen der alten Quellen klar und der</l>
+      <l>Wahrheit gemäß auseinandersetzen und erläutern; und so</l>
+      <l>läßt sich mit Gewißheit voraussehen, daß ein besserer Ge-</l>
+      <l>schmack, zugleich mit besserer Einsicht, bei uns einheimisch</l>
+      <l>werden wird. Dies beweist auch schon die größtentheils bei-</l>
+      <l>fällige Aufnahme, deren sich die diesmalige Rede zu erfreuen</l>
+      <l>hatte. Es wurde zwischen der Halacha und Agada ein 4tes</l>
+      <l>Stück eingeschaltet, nämlich eine kritische Forschung über</l>
+      <l>den eigentlichen Grund des Anzündens der Chanuka-Lampen.</l>
+      <l>Wie alle Geistesprodukte dieses hochgelehrten Mannes, zeich-</l>
+      <l>nete sich auch die Untersuchung aus durch treffende Combina-</l>
+      <l>tion, umsichtige Benutzung und kritisch-scharfsinnige Sichtung</l>
+      <l>der Quellen. Ist es auch wegen Beschränktheit des Raumes</l>
+      <l>nicht möglich, die mit reichen Belegen ausgestattete Darstel-</l>
+      <l>lung ihrer ganzen Fülle nach wiederzugeben, so erachte ich</l>
+      <l>es doch als Pflicht, das durch schlagende Beweisführung</l>
+      <l>gründlich erörterte Resultat dieser Forschung in möglichster</l>
+      <l>Kürze anzugeben. Denn die neue richtige Ansicht, welche</l>
+      <l>hier über die Feier des Chanuka-Festes aufgestellt wurde,</l>
+      <l>verdient die weiteste Verbreitung, da hierdurch viele schwer</l>
+      <l>zu hebende Widersprüche, als auch mehrere wichtige Fragen,</l>
+      <l>worunter die bekannte <persName>Karo</persName>'sche Nr. 670, als auch die</l>
+      <l><persName>Creizenach</persName>'sche, in der neu erschienenen Zeitschrift Zion</l>
+      <l>Nr. 1) einfach und zwanglos gelöst wurden. Chanuca und</l>
+      <l>Succoth stehen in innigster Beziehung auf einander; denn</l>
+      <l>letzteres, außerdem daß es als ein von <persName>Moses</persName> eingesetztes</l>
+      <l>Fest galt, wurden zur Zeit des Tempels auch als Erinne-</l>
+      <l>rungsfest der einstigen salomonischen Tempelweihe, welche um</l>
+      <l>diese Zeit stattgefunden, angesehen; und so erkläre sich die über-</l>
+      <l>große Freude, welche alljährlich nach Erzählung des Thalmuds</l>
+      <l>an diesem Feste laut wurde, daß auch wir es noch heutzutage</l>
+      <l>in unsern Gebeten Zeit der Freude heißen. Bei jedem Freu-</l>
+      <l>denfeste der Hebräer fanden Beleuchtungen statt (Esther VIII.</l>
+      <l>16); daher mit Sicherheit (?) zu schließen, daß während</l>
+      <l>der 8tägigen Feier des Succoth <placeName ref="Иерусалим">Jerusalem</placeName> jeden Abend illumi-</l>
+      <l>nirt wurde, und zum Beschlusse die dem hellsten Tageslichte</l>
+      <l>gleichkommende Beleuchtung der <foreign xml:lang="he">שמחת בית השואבה</foreign> (More</l>
+      <l>Nebuchim II. 29.) Im selben Jahre als die Hasmonäer in's</l>
+      <l>Feld zogen, konnte Succoth nicht gefeiert werden; als daher</l>
+      <l>diese den Tempel wieder erobert und gereinigt hatten, wurde</l>
+      <l>jetzt das Fest als Fest der Tempelweihe begangen unter lau-</l>
+      <l>ter Freude und großem Jubel (Makkab. II. 10). Die am</l>
+      <l>Succoth gewöhnliche Illumination wurde ebenfalls veranstal-</l>
+      <l>tet, und diese Tage wurden dann als bleibendes Befreiungs-</l>
+      <fw type="pageNum">46</fw>
+      <l>fest eingesetzt, und somit auch der eigentliche Grund des</l>
+      <l>Anzündens der Lampen. Diese in Wahrheit begründete</l>
+      <l>Erklärung des eben gefeierten Festes fesselte die allgemeine</l>
+      <l>Aufmerksamkeit. (Schluß folgt.)</l>
+    </p>
+    <p>
+      <l><placeName>Stuttgart</placeName>, <date when="1840-12">Dec. 1840</date>. (Schluß.) — Im letzten Jahre</l>
+      <l>wurden an die Stelle der Austretenden 5 neue Pfleglinge,</l>
+      <l>nur Mädchen, aufgenommen. Der Vater eines der aufge-</l>
+      <l>nommenen Kinder war kurz vorher nach Monate langem</l>
+      <l>Krankenlager und schwerem Leiden gestorben. Tief rührten</l>
+      <l>daher folgende Worte des Redners! „Glauben Sie nicht</l>
+      <l>auch mit mir, daß weit quälender und empfindlicher als die</l>
+      <l>anhaltenden Schmerzen, die Ungewißheit für ihn gewesen</l>
+      <l>sein mag: „Wer wird nach meinem Tode für meine armen</l>
+      <l>Kinder sorgen? Werden sie nicht lieblos hinausgestoßen wer-</l>
+      <l>den von lieblosen Menschen?“ O vermöchten wir es doch,</l>
+      <l>allen, welche in dieser bedauerlichen Lage sich befinden, die</l>
+      <l>schwer auf ihnen lastende Sorge zu benehmen, so daß sie</l>
+      <l>sterbend der mit Verzweiflung ringenden Gattin die trösten-</l>
+      <l>den Worte noch zurufen dürften: „Gräme dich nicht; wohl-</l>
+      <l>wollende Menschen werden für unsere Kinder sorgen, sie</l>
+      <l>werden nicht verlassen, nicht hülflos umherirren.“</l>
+    </p>
+    <p>
+      <l>Nachdem der Redner ferner über den Tod eines Pfleg-</l>
+      <l>lings und die Zurücksendung eines andern Unverbesserlichen</l>
+      <l>in seine Heimath, der übrigens unter die strenge Aufsicht</l>
+      <l>des Kirchenvorsteher-Amts seines Geburtsorts gestellt wor-</l>
+      <l>den, berichtet, fährt er fort: „Wozu den aber solche Anstal-<note place="end">В печати «den», не «denn».</note></l>
+      <l>ten, — so hört man einzelne Stimmen sich äußern — wenn</l>
+      <l>solche Kinder nicht zu retten sind?</l>
+    </p>
+    <p>
+      <l>„Lassen wir uns durch solche harte Urtheile nicht ein-</l>
+      <l>schüchtern; wir würden sonst dem Gärtner gleichen, der</l>
+      <l>seine Pflanzen zu begießen säumt, weil doch unter Hunder-</l>
+      <l>ten Eine verdorret. Möchten sie uns erst belehren, diese</l>
+      <l>strengen Richter, wenn es ihnen Ernst um die Sache ist,</l>
+      <l>wie man es anzugreifen hat, um bei solchen gesunkenen</l>
+      <l>Wesen eine völlige Sinnesänderung zu bewirken, — wie von</l>
+      <l>Herzen dankbar wollten wir ihnen sein. — Unser Wahlspruch</l>
+      <l>sei und bleibe: Menschenglück befördern, so viel</l>
+      <l>wir können. Unsere wahren Freunde werden unser Wir-</l>
+      <l>ken mit Nachsicht und Wohlwollen beurtheilen; sie werden</l>
+      <l>der Wirksamkeit des Vereines Gerechtigkeit widerfahren las-</l>
+      <l>sen und stille anerkennen, daß manches Werthvolle und Gute</l>
+      <l>geschehen ist, manches, das sich nicht in Rahmen und Ziffern</l>
+      <l>fassen läßt. Gestützt auf die Theilnahme dieser Freunde wol-</l>
+      <l>len wir unser Werk muthig fortsetzen. Durch diese theil-</l>
+      <l>nehmende Liebe, die einer sanften Flamme gleich ihre er-</l>
+      <l>wärmenden Strahlen weit, weit verbreitet, die Alles in</l>
+      <l>ihren Kreis zieht, was einen gemeinschaftlichen Vater im</l>
+      <l>Himmel mit uns anbetet — durch diese Liebe kann es uns</l>
+      <l>auch in der Zukunft nicht fehlen. Die zehnjährige Geschichte</l>
+      <l>unseres Vereines giebt redlich Zeugniß, daß dieses Gefühl</l>
+      <l>heimisch ist in unserem Vaterlande, erkannt und geübt wird</l>
+      <l>vom Gesalbten, der Krone und Scepter der Erde trägt, bis</l>
+      <l>hinunter zum Niedrigsten, heimisch ist in unserem theuern</l>
+      <l>Vaterlande, wo (Dank dem bessern Geist der Zeit) Ein-</l>
+      <l>tracht und Friede unter den Bekennern der verschiedenen</l>
+      <l>Religionen herrscht, die Rechte der Vernunft geehrt werden</l>
+      <l>und jedem freigestellt bleibt, Gott nach der Ueberzeugung</l>
+      <l>seines Gewissens frei und ungehindert zu dienen. Ein schö-</l>
+      <l>nerer Edelstein als diese mit strenger Gerechtigkeit gepaarte</l>
+      <l>Liebe findet sich nicht in der Krone unseres theuern Landes-</l>
+      <l>vaters; sein reines Feuer schmilzt die Fesseln, die einen</l>
+      <l>Theil seines treuen Volks so empfindlich drückten, und wird,</l>
+      <l>deß sind wir gewiß, sie zerstören bis auf die letzte Spur!“</l>
+    </p>
+    <p>
+      <l>Den Schluß der Feier machte das vom Liederkranz ge-</l>
+      <l>sungene Lied:</l>
+      <l>„Nur in des Herzens heilig ernster Stille 2c.“</l>
+      <l>Hierauf folgt im Bericht das Verzeichniß der neuaufgenom-</l>
+      <l>menen Pfleglinge von Assessor <persName>Dr. Weil</persName>. Mit Bedauern</l>
+      <l>vermißten wir diesmal den sonst so geist- und gemüthvollen</l>
+      <l>Vortrag dieses Herrn, der sich schon so viele Verdienste um</l>
+      <l>den Verein seit seinem Bestehen erwarb. — Zuletzt eine Ueber-</l>
+      <l>sicht über die Kasse-Verwaltung von Kassier <persName>Blumenfeld</persName>.</l>
+      <l><signed>R.</signed></l>
+    </p>
+    <head>
+      <l><pb n="011-1"/> <fw type="pageNum">47</fw> Literatur.</l>
+    </head>
+    <head>
+      <l><persName>Eliah</persName> (,) der hochbegeisterte Prophet des<note place="end">В печати после Eliah скобка и запятая.</note></l>
+      <l>Herrn, der Kämpfer für Licht und</l>
+      <l>Wahrheit. Ein heiliges Lebensgemälde.</l>
+      <l>— In neunzehn Kanzelvorträgen, gehalten im</l>
+      <l>neuen israelitischen Tempel zu <placeName>Hamburg</placeName> von</l>
+      <l><persName>Dr. Gotthold Salomon</persName>. <placeName>Hamburg</placeName> <date when="1840">1840</date>. Bei</l>
+      <l>Perthes, Besser und Mauke. gr. 8. XII. 298 S.</l>
+    </head>
+    <p>
+      <l>Mit Vergnügen unterzieht sich Ref. dem Geschäft, diese</l>
+      <l>neueste Sammlung der homiletischen Arbeiten seines ehema-</l>
+      <l>ligen langjährigen Mitarbeiters in dem Weinberge des Herrn</l>
+      <l>den Lesern der Annalen anzuzeigen. Denn nur auf eine</l>
+      <l>Anzeige, keinesweges aber auf eine genau eingehende Kri-</l>
+      <l>tik wollen diese Zeilen Anspruch machen. Herr Dr. <persName>S.</persName> ist</l>
+      <l>nicht nur der Zeit nach, in welcher er lehrt, sondern auch dem</l>
+      <l>Gehalte seiner Vorträge nach einer der ersten unter Is-</l>
+      <l>raels Volkslehrern und Kanzelrednern; seine Predigten sind</l>
+      <l>von der segenreichsten Wirkung, nicht nur bei seinen unmit-</l>
+      <l>telbaren Zuhörern, sondern haben auch den Weg gefunden</l>
+      <l>zu den entferntesten Herzen und Seelen, im deutschen Va-</l>
+      <l>terlande, wie außerhalb desselben, da eine Auswahl derselben</l>
+      <l>unlängst in's Englische übertragen wurde. Für diese Wirk-</l>
+      <l>samkeit in der Nähe und Ferne giebt die Theilnahme des</l>
+      <l>Publikums, die ihn aufmuntert, so schnell eine Sammlung</l>
+      <l>der andern folgen zu lassen, den sichersten Maßstab; bei der</l>
+      <l>Anzahl von gedruckten Predigten, die in den letzten Jahren</l>
+      <l>erschienen sind, findet sein Wort, so oft es auch anklopfe,</l>
+      <l>freudigen Anklang und Eingang als das eines beliebten Red-</l>
+      <l>ners. Die Vortragsweise <persName>Salomon</persName>'s ist durch die bisher er-</l>
+      <l>schienenen Sammlungen hinlänglich bekannt, also daß bei</l>
+      <l>Kritikern sowohl als Laien längst ein festes Urtheil sich gebil-</l>
+      <l>det haben muß; und auch diese theilen mit den frühern ihre</l>
+      <l>Vorzüge, wie ihre Mängel. — Gegenwärtige Sammlung</l>
+      <l>soll, nach dem kurzen Vorworte, mit dem „<persName>Moses</persName>, der</l>
+      <l>Mann Gottes“ und <persName>David</persName>, der Mann nach dem</l>
+      <l>Herzen Gottes“ ein dreifaches Band bilden, das</l>
+      <l>so schnell nicht reißen könne. — Aber gerade weil der Her-</l>
+      <l>ausgeber selbst sie mit jenen beiden als einen <foreign xml:lang="he">חוט המשולש</foreign></l>
+      <l>(trifolium) betrachtet wissen will, muß Ref. an diesem <persName>Eliah</persName></l>
+      <l>dieselbe Ausstellung machen, die auch an den beiden frühern,</l>
+      <l>wenn er nicht irrt, mehrfach gemacht wurde, und diese Aus-</l>
+      <l>stellung betrifft den Titel. Dieser ist bei jedem Buche eben</l>
+      <l>nicht das Unwesentlichste, eine richtige Wahl desselben daher</l>
+      <l>nicht so leicht. Nach dem Titel sind wir berechtigt, eine ge-</l>
+      <l>naue, tief eingehende, ja erschöpfende Charakteristik dieses</l>
+      <l>hochbegeisterten Propheten zu erwarten, zu verlangen, daß aus</l>
+      <l>dessen Leben, Reden und Handeln das „heilige Lebensgemälde,“</l>
+      <l>wie es der Titel angiebt, auf das Anschaulichste und Kennt-</l>
+      <l>lichste hervortrete, durch seine überirdische Erscheinung unser</l>
+      <l>Inneres ergreife, und, je fortgesetzter wir es betrachten, um</l>
+      <l>so vollständiger auch in uns auftauche und zum Bewußtsein</l>
+      <l>komme. In jedem Vortrage, der doch ein Theil dieses Ge-</l>
+      <l>mäldes sein soll, mußte der Prophet die Hauptperson sein</l>
+      <l>und den Vordergrund einnehmen; die Umgebung mußte nur</l>
+      <l>in so weit stärker oder schwächer beleuchtet werden, als sie</l>
+      <l>dazu beitragen kann, ihn in das rechte und volle Licht zu</l>
+      <l>stellen; jede Darstellung, hier das Thema, mußte sich natür-</l>
+      <l>lich, wie von selbst, aus des Propheten innerem oder äußern</l>
+      <l>Leben ablösen und immer dasselbe Bild in klarerer, vollkom-</l>
+      <l>menerer Gestaltung zurückstrahlen, nicht aber zufällig daran</l>
+      <l>sich knüpfen und Gegenstände behandeln, bei denen <persName>Eliah</persName></l>
+      <l>im Hintergrunde steht, auch wohl gar nicht sichtbar wird.</l>
+      <l>Dieser Forderung aber, die wir an die Sammlung als an</l>
+      <l>ein Ganzes, an ein Lebensgemälde machen müssen, ist</l>
+      <l>in keinerlei Weise genügt. Von den 19 Vorträgen sind, ge-</l>
+      <l>nau genommen, nur der erste: „<persName>Elias</persName> erste Erschei-</l>
+      <l>nung, der sechste: „<persName>E.</persName> Sieg auf dem Berge <placeName>Car-</placeName></l>
+      <l><placeName>mel</placeName>“ und der letzte: „<persName>E.</persName> Erhebung gen Himmel“</l>
+      <l>das, was sie sein sollen, bezeichnend und ihm entsprechend;</l>
+      <l>die übrigen verbreiten sich über Nebenpersonen und Neben-</l>
+      <l>dinge fast mehr als über den Helden; ja, der 14te mit der</l>
+      <l>Ueberschrift: „der Prophet auf dem Felde“ hat, wider</l>
+      <l>alles Vermuthen, nicht den <persName>Eliah</persName>, sondern dessen Nachfol-</l>
+      <l>ger <persName>Elisa</persName> zum einzigen Gegenstande. — Dagegen ist eine</l>
+      <l>der Hauptstellen im Leben des <persName>E.</persName> die Erscheinung auf <placeName>Horeb</placeName></l>
+      <l>(1. B. d. K. 19. 9 u. ff.) unbezweifelt das Seitenstück zu der</l>
+      <l>ähnlichen Erscheinung, die vor <persName>Mose</persName> an demselben Orte vor-</l>
+      <l>überzieht (2. B. M. 34. 1—7), und dort wie hier Gottes</l>
+      <l>Herrlichkeit in der Liebe offenbarend, nur im</l>
+      <l>Vorübergehen gleichsam berührt im 12ten Vortrage; im</l>
+      <l>11ten, die denselben Text hat, wird ihrer gar nicht einmal</l>
+      <l>erwähnt. Ref. hatte gerade diese Stelle und die Worte:</l>
+      <l>„nicht im Feuer ist der Herr“ 2c. als den Hauptau-</l>
+      <l>genpunkt angenommen, aus welchem der Feuereifer, den</l>
+      <l>dieser hochbegeisterte Prophet, dieser Kämpfer für Licht und</l>
+      <l>Wahrheit mit seinem Vorgänger <persName>Moses</persName> theilt, und, wie zu</l>
+      <l>wünschen wäre, recht viele wieder mit ihm theilen sollten,</l>
+      <l>betrachtet, und das Charaktergemälde eines solchen, von hei-</l>
+      <l>ligem Eifer getriebenen Gottesboten aufgenommen und aus-</l>
+      <l>geführt werden müsse. — Es scheint daß der geschätzte Red-</l>
+      <l>ner nicht von Anfang an nach einem wohl überdachten und</l>
+      <l>entworfenen Plane gearbeitet, sondern daß <persName>E.</persName> nur die gele-</l>
+      <l>gentliche Veranlassung zu den Vorträgen gewesen und diese</l>
+      <l>erst später, um das Dreiblatt vollzählig zu machen, als ein</l>
+      <l>Ganzes an einander gereiht worden sind; ganz gewiß wür-</l>
+      <l>den sonst andere Themata zur Behandlung gekommen sein,</l>
+      <l>als wir sie hier in Vortrag 3. 5. 7. 8. 14. 2c. antreffen: die</l>
+      <l>meisten derselben ließen sich an dem Leben andrer Personen,</l>
+      <l>z. B. der Patriarchen, oder aus andern Texten eben so gut,</l>
+      <l>vielleicht noch vollständiger, entwickeln. — Abgesehen indeß</l>
+      <l>von dem, was sie hier gerade sein sollen, gehören diese 19</l>
+      <l>Vorträge, jeder für sich, unstreitig zu den besten geistlichen</l>
+      <l>Gaben, die der Verf. uns bis jetzt gespendet hat. Zu den</l>
+      <l>früheren anerkannten Vorzügen einer bilderreichen Sprache,</l>
+      <l>eines lebendigen Ausdrucks, einer bedeutenden Kenntniß des</l>
+      <l>menschlichen Herzens und einer geschickten, ja kunstreichen</l>
+      <l>Anwendung der alten Verhältnisse auf das Leben der Zeit-</l>
+      <l>genossen, gesellt sich diesmal noch eine pragnante Kürze,</l>
+      <l>welche die Wirkung zu erhöhen geeignet ist. S. bleibt nicht</l>
+      <l>stehen, sondern schreitet rüstig noch immer vorwärts, davon</l>
+      <l>giebt vorliegende Sammlung wiederum sichtbares Zeugniß, und</l>
+      <l>der Wunsch des Vorwortes, die gute Aufnahme betreffend,</l>
+      <l>dürfte sicher in Erfüllung gehen. Wie aus der Literatur</l>
+      <l>überhaupt, aus den Reden insbesondere, der Geist einer Zeit</l>
+      <l>und eines Volkes uns entgegen tritt, wie namentlich in den</l>
+      <l>Reden der Propheten ein getreues Bild vom alten Israel</l>
+      <l>sich darstellt, so dürfte einst das neue Israel, wie es ist,</l>
+      <l>und was ihm Noth thut, auf daß es besser werde, von der</l>
+      <l>Nachwelt aus den Schriften und Reden der Jetztzeit erkannt</l>
+      <l>werden; und unstreitig liefert S. zu diesem Bilde die treue-</l>
+      <l>sten Züge in den lebendigsten Farben; wahrlich, kein gerin-</l>
+      <l>ges Verdienst, um deßwillen ihm mancher Mangel an logi-</l>
+      <l>scher Schärfe, manche Schwäche in der innern Anlage gern</l>
+      <l>zu gut gehalten wird. —</l>
+    </p>
+    <p>
+      <l>Die äußere Ausstattung des Buches ist splendid, fast</l>
+      <l>splenider, als es dem geistlichen Gewande gemäß ist; denn<note place="end">В печати «splenider».</note></l>
+      <l>die allzulangen Texte, die oft zwei enggedruckte Seiten und</l>
+      <l>darüber füllen, so wie die Mittheilung ganzer Lieder von</l>
+      <l>mitunter 7 achtzeiligen Strophen hätten besser wegbleiben</l>
+      <l>können, da sie zum bessern Verständniß des Inhalts nichts</l>
+      <l>beitragen und den Umfang des Buches, also auch den Preis,</l>
+      <l>ohne Noth vergrößern. — Eine englisch geschriebenene Zu-<note place="end">В печати «geschriebenene».</note></l>
+      <l>eignung an <persName>Sir Moses Montefiore</persName> dürfte in den bekannten</l>
+      <l>Zeitbeziehungen hinlänglich ihre Rechtfertigung finden; nicht</l>
+      <l>so die Auslassung des Inhaltsverzeichnisses, das Ref. minde-</l>
+      <l>stens willkommener als das Subscriptions-Verzeichniß gewe-</l>
+      <l>sen wäre. <persName>Dr. Kley</persName>.</l>
+    </p>
+    <head>
+      <l>Damascia von <persName>L. H. Löwenstein</persName>.</l>
+    </head>
+    <p>
+      <l>Diese zeitgemäße Schrift haben wir in der letzten Num-</l>
+      <l>mer des vorigen Jahrganges vorläufig kurz angezeigt und</l>
+      <l>nach unserer Ueberzeugung charakterisirt. Zur Vermeidung</l>
+      <l>einer daraus zum Theil bereits entstandenen Irrung, wollen</l>
+      <l>wir hier eine etwas detaillirtere Analyse geben, damit der</l>
+      <l>Standpunkt dieses auf jeden Fall anziehenden Buches rich-</l>
+      <l>tig gewürdigt werden könne.</l>
+    </p>
+    <p>
+      <l><pb n="011-2"/> Herr <persName>L.</persName>, bisher nur durch exegetische Werke bekannt,</l>
+      <l>betritt hier das publicistische Gebiet, jedoch nicht als Theo-</l>
+      <l>retiker, sondern vielmehr als fühlender und denkender Mensch,</l>
+      <l>der den Lauf der Begebenheiten beobachtend, die Thatsachen</l>
+      <l>sammelt und den dadurch angeregten starken Empfindungen,</l>
+      <l>besonders aber dem Unwillen über Ruchlosigkeit auf der ei-</l>
+      <l>nen und Kaltsinn auf der andern freien Lauf läßt, mitunter</l>
+      <l>auch die Irrenden zurechtzuweisen geneigt ist. Eine solche</l>
+      <l>Mischung der wechselnden Eindrücke läßt die in einem lite-</l>
+      <l>rarischen Werke über Geschichte eigentlich zu fordernde Ruhe</l>
+      <l>und Besonnenheit, welche allein volle Klarheit der Ansicht</l>
+      <l>entwickeln kann, nicht zu, vielmehr zeigt sie ein beständiges</l>
+      <l>Fluctuiren, nach Maßgabe der augenblicklichen Anregung, —</l>
+      <l>aber sie verstärkt andrerseits die Lebendigkeit der Bewegung,</l>
+      <l>und zugleich die ganze Individualität der Darstellung, beides</l>
+      <l>von nicht geringer Wirkung auf den Leser, und geeignet die</l>
+      <l>Theilnahme zu wecken. Bei vorliegendem, in ganz <placeName>Europa</placeName></l>
+      <l>fast bis zum Ueberdruß durchgesprochenen Gegenstande, hat</l>
+      <l>dies dem Buche einen starken Reiz gegeben, welcher durch</l>
+      <l>das an mehreren Stellen sehr glückliche stylistische Talent des</l>
+      <l>Verf. noch erhöht wird, wenn gleich wir nicht läugnen dür-</l>
+      <l>fen, daß bisweilen der Redefluß allzustark ausströmt und</l>
+      <l>die Gedanken in's Unbestimmte forttreibt, und daß die Ge-</l>
+      <l>reiztheit der Empfindung öfters von der Ironie da Ge-</l>
+      <l>brauch macht, wo nur Persönlichkeiten, die der Sache zufäl-</l>
+      <l>lig auf Augenblicke angehörten (wie z. B. <persName>Thiers</persName>) angegriffen</l>
+      <l>werden, deren unwürdiges Verhalten längst von der öffent-</l>
+      <l>lichen Meinung verurtheilt ist. Dies im Allgemeinen.</l>
+    </p>
+    <p>
+      <l>Der Eingang von XXX Seiten giebt eine Ansicht von</l>
+      <l>der Gemüthsbeschaffenheit, welcher die Schrift ihre Entstehung</l>
+      <l>verdankt. Sie ist stark ausgedrückt und namentlich stellt sie</l>
+      <l>die traurige Lauheit unsrer Zeit gegen die, wenn auch für</l>
+      <l>Irrthum kämpfende, thatkräftige Vorzeit in scharfen Gegen-</l>
+      <l>satz, und das unerwartete Verhalten der französischen Staats-</l>
+      <l>männer in dieser Angelegenheit wird mit einem Hinblick auf</l>
+      <l>die Zeitverhältnisse charakterisirt. Auch ist der fragliche Ge-</l>
+      <l>genstand, die Beschuldigung und die Art der Procedur kurz</l>
+      <l>und ad hominem beleuchtet. Dagegen kommen gegen den</l>
+      <l>Schluß S. XXVI — XXX mehrere Persönlichkeiten und über-</l>
+      <l>eilte Tiraden, die als Beleg zu dem dienen, was wir an</l>
+      <l>dem Buche nicht gut finden. Niemand wird die Schilderung</l>
+      <l>eines Staatsmannes, wie sie S. XXVI u. XXVII sich findet,</l>
+      <l>billigen, noch in der Apostrophe XXIX das Original, welches</l>
+      <l>nicht genannt ist, erkennen.</l>
+    </p>
+    <p>
+      <l>Im 1sten und 2ten Cap. bis S. 142 werden die Akten-</l>
+      <l>stücke, welche die Thatsache betreffen, vorgelegt und manche</l>
+      <l>gute Bemerkung hinzugefügt. Zu letztern rechnen wir ganz</l>
+      <l>besonders, — von der moralischen S. 34, als nicht dahin</l>
+      <l>gehörig, absehend — die S. 35, daß den Zeitstimmen der</l>
+      <l>Tagesblätter nicht der Werth geschichtlicher Urkunden beizule-</l>
+      <l>gen sei, sondern der eines traurigen Nachweises von</l>
+      <l>dem Gebrauche, welchen die Tagesschriftsteller von ihren Or-</l>
+      <l>ganen machen, und dessen, was von Leuten zu erwarten</l>
+      <l>sei, wenn die Reihe an sie käme, zu handeln! — Sehr</l>
+      <l>wahr und leider sehr traurig! Was dort kurz bemerkt ist,</l>
+      <l>findet man S. 91 noch etwas deutlicher enthüllt, nur schade,</l>
+      <l>daß nicht geradezu mehrere Beispiele, wie das eine, S. 92,</l>
+      <l>aufgestellt sind, obwohl schon das eine sehr viel sagt! So</l>
+      <l>wird mit der Tagesliteratur, welche die öffentliche Meinung</l>
+      <l>vertreten und lenken soll, auf schändliche Weise gefeilscht! —</l>
+      <l>(Es ist hier nicht der Ort, aber Anlaß mögen unsre Leser</l>
+      <l>davon nehmen, auf die Glaubwürdigkeit und Unpartheilich-</l>
+      <l>keit vieler Blätter, die lediglich aus Industrie entstehen, und</l>
+      <l>nur durch Lobhudelei und durch bittere Anfeindungen ver-</l>
+      <l>meintlicher Gegner bestehen, einen Schluß zu ziehen! —)</l>
+      <l>Recht zweckmäßig schildert der Vf. — gleichzeitig auch der,</l>
+      <l>wie er sich ausdrückt, eben so oft schmeichlerisch gerühmten,</l>
+      <l>wie noch öfter boshaft und neidisch geschmähten Familie</l>
+      <l><persName>Rothschild</persName> Gerechtigkeit widerfahren lassend — die viel-</l>
+      <fw type="pageNum">48</fw>
+      <l>fach thatkräftig gewordene Theilnahme vieler Individuen in</l>
+      <l><placeName>Europa</placeName>, recht gut, um abermals seinen Tadel gegen die,</l>
+      <l>welche bestimmter einwirken konnten, auszusprechen.</l>
+    </p>
+    <p>
+      <l>(Schluß folgt.)</l>
+    </p>
+    <head>
+      <l>Anzeige.</l>
+    </head>
+    <head>
+      <l><foreign xml:lang="he">ציון</foreign> Zion.</l>
+      <l>Hebräische Zeitschrift für Theologie und</l>
+      <l>deren Hülfswissenschaften.</l>
+      <l>Herausgegeben von</l>
+      <l><persName>Dr. M. Creizenach</persName> und <persName>Dr. I. M. Jost</persName>.</l>
+    </head>
+    <p>
+      <l>Nro. 5.</l>
+      <l>Inhalt: 1) Schluß des ersten Aufsatzes (Sendschreibens)</l>
+      <l>von Nro. 4., mehrere Mißbräuche und Mißverständnisse</l>
+      <l>in der Theologischen Praxis beleuchtend. 2) Ein Stück</l>
+      <l>aus einer größern philosophischen Abhandlung des Herrn</l>
+      <l><persName>Sal. Rosenthal</persName> in <placeName>Pesth</placeName>, im reinern philosophischen Styl</l>
+      <l>geschrieben. (Wir würden, wenn nicht der Raum uns</l>
+      <l>beschränkte mehr daraus haben liefern können, glauben aber</l>
+      <l>ohnehin, daß diese transcendentale Philosophie, obwohl</l>
+      <l>im freiern Raisonnement trefflich stylisirt, eher der allge-</l>
+      <l>meinen Wissenschaft als der Theologie insbesondere ange-</l>
+      <l>hört; und darum genüge die Probe. Diese Bemerkung</l>
+      <l>möge einerseits die Redaktion rechtfertigen, andrerseits</l>
+      <l>zur Entwickelung der Grundsätze für künftige Beiträge</l>
+      <l>dienen, deren Feststellung noch manchen Schwierigkeiten</l>
+      <l>unterliegt.) 3) Der Schluß der Recension des Herrn</l>
+      <l><persName>Dr. Hirschfeld</persName>, über den wahren Zweck der Predigt in</l>
+      <l>der Synagoge. 4) Auszug aus einer Correspondenz zwi-</l>
+      <l>schen Herrn <persName>Dr. Geiger</persName> und einem sehr viel versprechen-</l>
+      <l>den jungen Forscher in <placeName>Polen</placeName>, welcher verschiedene inte-</l>
+      <l>ressante kritische Entdeckungen gemacht hat. 5) Schreiben</l>
+      <l>des Herrn <persName>Munk</persName> an die Gemeinden in <placeName>Aegypten</placeName>. (Aus</l>
+      <l><placeName>Alexandrien</placeName> im <date when="1840-09">September 1840</date>.) 6) Addresse des</l>
+      <l>Herrn <persName>S. D. Oppenheim</persName>, an Herrn <persName>Cremieux</persName>, im</l>
+      <l>Namen der vielen Verehrer ihm bei der Tafel über-</l>
+      <l>reicht. 7) Nachricht des Herrn <persName>Dr. Creizenach</persName> über ein</l>
+      <l>Manuscript aus dem Nachlaß des sel. <persName>Heidenheim</persName>, —</l>
+      <l>Uebersetzung des Emunoth von <persName>Saadja</persName> ins Hebr. von</l>
+      <l>einem unbekannten Vf. — mit Probe daraus. 8) Ein</l>
+      <l>Wort an die <placeName>Londoner</placeName> Gemeinden über die dort ver-</l>
+      <l>breitete Proselytenmacherei.</l>
+    </p>
+    <p>
+      <l>Nro. 6 bringt das treffliche Gedicht <persName>Luzzato</persName>'s, beti-</l>
+      <l>telt <foreign xml:lang="he">דרך ארץ</foreign>, worauf wir vorläufig aufmerksam machen.</l>
+    </p>
+    <p>
+      <l>Die Redaktion</l>
+      <l>der hebräischen Monatschrift Zion</l>
+      <l>in <placeName>Frankfurt am Main</placeName>.</l>
+    </p>
+    <p>
+      <l>Von der hebräischen Monatschrift Zion erscheint jeden</l>
+      <l>Mondmonat des jüdischen Kalenders eine Nummer, bestehend</l>
+      <l>aus einem Bogen in gr. 8. — Sollte eine verbreitetere</l>
+      <l>Theilnahme es irgend möglich machen, so werden wir uns</l>
+      <l>beeilen, die Lieferungen zu vermehren.</l>
+    </p>
+    <p>
+      <l>Preis des Jahrgangs fl. 2. 12 kr. rhein.</l>
+    </p>
+    <p>
+      <l>Man subscribirt in allen Buchhandlungen und bei allen</l>
+      <l>löbl. Postämtern, in <placeName>Frankfurt a. M.</placeName> bei dem Unter-</l>
+      <l>zeichneten, so wie auch in der <persName>J. D. Sauerländer</persName>'schen</l>
+      <l>Buchhandlung.</l>
+    </p>
+    <p>
+      <l><persName>J. S. Adler</persName>,</l>
+      <l>Inhaber einer Verlagshandlung jüdischer</l>
+      <l>Schriften.</l>
+    </p>
+    <p>
+      <l>Druck und Verlag von <persName>Johann David Sauerländer</persName> in <placeName>Frankfurt am Main</placeName>.</l>
+    </p>
   </body></text>
 </TEI>

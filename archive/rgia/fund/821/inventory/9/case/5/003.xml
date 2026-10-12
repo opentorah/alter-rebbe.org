@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>Карандашная записка на немецком языке о деятельности раввинской комиссии</abstract>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Карандашный черновик на немецком, л. 3. То же мнение раввинской комиссии, что в русском
+        <ref target="/rgia5/002">002</ref>, но не дословный его перевод и не пересказ резолюции
+        <ref target="/rgia5/001">001</ref>. Имя Шнеерсона не написано: речь о <persName>Zaddike-Rabb.</persName>
+        Середина правленная: зачеркнуты «beständigen Sitzes» и три слова справа на следующей строке.
+        Оборот пуст.
+      </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="de"><body>
-    <pb n="003-1"/>
-    <fw type="pageNum" place="right">3</fw>
+    <p>
+      <l hand="#pencilHand"><pb n="003-1"/> <fw type="pageNum" place="right" hand="#pencilHand">3</fw> Die
+      <orgName>Rabb. Commission</orgName> läßt ein Gutachten<note place="end">Короткое слово — läßt, не findet: высокий
+      первый штрих, затем a, буква со спуском и t. Петля ниже принадлежит C в Commission. Дальше ясно ein и
+      длинное Gutachten с одним высоким h. Чтение in Betreff не подходит: перед словом стоит ein, не in.</note></l>
+      <l hand="#pencilHand">der Benutzung dieser <persName>Zaddike-Rabb.</persName><note place="end">Через дефис.
+      Вторая часть — сокращение Rabb., не слово Rabbiner. Имени в записке нет.</note></l>
+      <l hand="#pencilHand">für die Einrichtung der isr. kein<note place="end">isr. — сокращение israelitisch.
+      kein короткое, с высоким k; это не Gemeinden.</note></l>
+      <l hand="#pencilHand">anderes Mittel als dasjenige, was</l>
+      <l hand="#pencilHand">sie bereits in ihrem Bericht bezüglich<note place="end">Окончание bezüglich сжато у
+      края. Короче читалось бы bezügl.</note></l>
+      <l hand="#pencilHand">Denkschrift über Rabb. überhaupt</l>
+      <l hand="#pencilHand">unterlegt hat, daß nämlich jeder in</l>
+      <l hand="#pencilHand">dem <del rend="overstrike">beständigen Sitzes</del><note place="end">По «beständigen
+      Sitzes» проходит горизонтальная черта.</note></l>
+      <l hand="#pencilHand"><emph rend="underline">seines</emph> <emph rend="underline">Gemeinde</emph> <del
+      rend="overstrike">durch <unclear>???</unclear> <unclear>???</unclear></del><note place="end">«seines» и
+      «Gemeinde» подчеркнуты. Справа на той же строке зачеркнуты три слова. Первое читается durch. У следующего
+      спуск, как у g. Последнее короткое. Оба не разобраны.</note></l>
+      <l hand="#pencilHand">Gemeinde des Ortes seines. durch <unclear>Predigten</unclear><note place="end">После
+      seines точка или точка над i со строки выше. У Predigten уверенно читается начальное P. Дальнейшие буквы
+      бледные.</note></l>
+      <l hand="#pencilHand">die, Aufklärung von der Aufklärung<note place="end">После die запятая. Слово
+      Aufklärung написано на строке дважды. После второго может стоять двоеточие.</note></l>
+      <l hand="#pencilHand">frei wirken Belehrungen, und<note place="end">Читается Belehrungen: начальное B и
+      окончание -ungen. Другое возможное слово на -ungen — Anweisungen.</note></l>
+      <l hand="#pencilHand">- diesem Wege desto besser und<note place="end">Перед diesem короткое тире, не слово
+      auf.</note></l>
+      <l hand="#pencilHand">erreicht die erwarten, so glaubt die<note place="end">После второго die слово
+      читается erwarten. Слабее смотрятся anwenden и verwenden. Большая петля слева уходит на строку ниже и
+      отдельным словом не читается.</note></l>
+      <l hand="#pencilHand">wird man dadurch zum Ziele<note place="end">Короткое слово перед man — wird: высокий
+      штрих в конце слова, не в начале, поэтому не daß.</note></l>
+      <l hand="#pencilHand">gelangen kann. —<note place="end">kann из четырех букв, затем точка и короткое тире.
+      können было бы длиннее. Дальше лист пуст.</note></l>
+    </p>
     <pb n="003-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
