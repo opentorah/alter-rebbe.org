@@ -1,8 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Обложка части 2. Тот же заголовок, что на части 1, помета «часть 2» и год 1799. Справа от «Дѣло» фиолетовый штамп
+      «ОЦ». Два оттиска архивного штампа: ф. 378, оп. 1799, ед. хр. 2.
+    </p></abstract></profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body><pb n="000-1"/></body></text>
+  <text xml:lang="ru"><body>
+    <pb n="000-1"/>
+    <fw type="note" place="top"><unclear>№ 2<hi rend="superscript">ая</hi><note place="end">Подчёркнутая помета над
+    «Дѣло». После номера читается «ая». Перед номером два-три знака не разобраны.</note></unclear></fw>
+    <fw type="docNum">Дѣло</fw>
+    <fw type="note" place="right">ОЦ<note place="end">Фиолетовый штамп из двух букв.</note></fw>
+    <head>
+      <l>О устройствѣ въ <placeName ref="Польша">Поль-<lb break="no"/>
+      шѣ</placeName> порядка и о про-</l>
+      <l>чихъ распоряжені-</l>
+      <l>яхъ служащихъ къ</l>
+      <l>благу народа.</l>
+    </head>
+    <fw type="note">часть 2.</fw>
+    <fw type="note" place="left">
+      <l>378</l>
+      <l>1799</l>
+      <l>2<unclear>а<note place="end">Верхний оттиск того же штампа залит синими чернилами. Печатная легенда почти не
+      видна. После номера маленькая буква, похожая на «а». Справа от штампа проведена скобка.</note></unclear></l>
+    </fw>
+    <fw type="note" place="left">
+      <l>Центр. гос. историческій</l>
+      <l>архивъ <gap reason="правый край строки не читается"/></l>
+      <l>Ф. № 378 оп. 1799</l>
+      <l>Ед. хр. № 2<unclear>а<note place="end">После номера маленькая буква, похожая на «а».</note></unclear></l>
+    </fw>
+    <fw type="note">1799.</fw>
+  </body></text>
 </TEI>

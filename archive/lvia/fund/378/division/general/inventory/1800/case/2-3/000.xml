@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Современный красный переплёт. Канцелярского титульного листа на снимке нет. Ярлык: Lietuvos valstybės istorijos
+        archyvas, ф. 378, оп. 1800, ед. 2 (d. III). На обрезе карандашом 1845.
+      </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
+    </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body><pb n="000-1"/></body></text>
+  <text xml:lang="ru"><body>
+    <pb n="000-1"/>
+    <fw type="note" xml:lang="lt">
+      <l>Lietuvos valstybės</l>
+      <l>istorijos archyvas</l>
+      <l>F.Nr. 378</l>
+      <l>Ap.Nr. 1800</l>
+      <l><unclear>S.V.Nr.<note place="end">Печатная подпись строки закрыта краем ярлыка. Вписано «2 (d. III)».</note></unclear> 2 (d. III)</l>
+    </fw><note place="end">Наклеенный ярлык.</note>
+    <fw type="note">
+      <l>378</l>
+      <l>1800</l>
+      <l>2</l>
+      <l><unclear>III<note place="end">Нижняя клетка штампа. Кроме III в ней ещё знаки.</note></unclear></l>
+    </fw><note place="end">Штамп на переплёте. В клетках вписаны 1800 и III, рядом от руки 378 и 2. Печатный текст штампа не разобран.</note>
+    <fw type="note" place="right" hand="#pencilHand">1845</fw>
+  </body></text>
 </TEI>

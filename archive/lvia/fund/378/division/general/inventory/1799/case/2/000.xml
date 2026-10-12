@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Обложка части 1. Заголовок дела, сроки переписки с <date when="1799-01-03">3 января</date> по <date
+      when="1799-12-31">31 декабря 1799 года</date> и помета «Часть 1я». Фиолетовыми чернилами дописаны «Виленскаго
+      генералъ-губернатора» и номер дела. Внизу слева штамп архива: ф. 378, оп. 1799, ед. хр. 2.
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="top">(<unclear>архивныя<note place="end">Помета фиолетовыми чернилами над рамкой.</note></unclear>)</fw>
+    <fw type="note">
+      <l><placeName ref="Вильна">Виленскаго</placeName> <unclear>генералъ<note place="end">Конец слова закрыт позднейшей
+      припиской. Ниже той же рукой: губернатора.</note></unclear></l>
+      <l>губернатора</l>
+    </fw>
+    <fw type="docNum">Дѣло</fw>
+    <fw type="docNum">№ 2</fw>
+    <fw type="note" place="left"><unclear>202<note place="end">Синие чернила слева от «Дѣло». Похоже на 202; последняя
+    цифра перечёркнута.</note></unclear></fw>
+    <head>
+      <l>О устройствѣ въ <placeName ref="Польша">Польшѣ</placeName></l>
+      <l>порядка и о прочихъ рас</l>
+      <l>поряженіяхъ служащихъ</l>
+      <l>къ благу народа.</l>
+      <l>Переписка началась</l>
+      <l>съ <date when="1799-01-03">3<hi rend="superscript">го</hi> Генваря</date>, а кончи-</l>
+      <l>лась <date when="1799-12-31">31<hi rend="superscript">го</hi> Декабря 1799<hi rend="superscript">го</hi></date></l>
+      <l>года.</l>
+      <l>Часть 1<hi rend="superscript">я</hi></l>
+    </head>
+    <fw type="note" place="left">
+      <l><unclear>Центр. гос. историческій<note place="end">Оттиск слабый. Печатная легенда читается по более ясному
+      такому же штампу на обложке части 2. Вписаны 378, 1799 и 2.</note></unclear></l>
+      <l><unclear>архивъ</unclear></l>
+      <l>Ф. 378 оп. 1799</l>
+      <l>Ед. хр. № 2</l>
+    </fw>
+    <fw type="note">1799.</fw>
     <pb n="000-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

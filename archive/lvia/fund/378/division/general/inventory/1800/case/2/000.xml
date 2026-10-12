@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc><abstract><p>
+      Внешняя сторона переплёта, мраморная бумага. Канцелярского титульного листа на снимке нет. Штамп и наклеенный
+      ярлык: ф. 378, оп. bis 1800, ед. хр. 2 dal. По оборванному краю переплёта две строки синими чернилами.
+    </p></abstract></profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="note" place="left" xml:lang="lt">
+      <l>LIETUVOS VALSTYBĖS</l>
+      <l>ISTORIJOS ARCHYVAS</l>
+      <l>F.Nr. 378 <unclear>bis<note place="end">Мелкая приписка справа от номера фонда.</note></unclear></l>
+      <l>1800 m.</l>
+      <l>2 dal.</l>
+    </fw><note place="end">Штамп на мраморной бумаге. Подписи строк под номером фонда стёрты.</note>
+    <fw type="note" xml:lang="lt">
+      <l>LIETUVOS VALSTYBĖS</l>
+      <l>ISTORIJOS ARCHYVAS</l>
+      <l>F.Nr. 378</l>
+      <l>Ap.Nr. bis 1800</l>
+      <l>B.Nr. 2 dal.</l>
+    </fw><note place="end">Наклеенный ярлык.</note>
+    <fw type="note" place="right"><unclear>378-1800-2<note place="end">Две строки синими чернилами по оборванному краю
+    переплёта. Вторая строка не прочитана.</note></unclear></fw>
     <pb n="000-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
