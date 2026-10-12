@@ -1,6 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store xmlns:xi="http://www.w3.org/2001/XInclude" n="1">
   <title xmlns="http://www.tei-c.org/ns/1.0"/>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+    <l>Опись № 1</l>
+    <l>Крайние даты дела 1819-1896</l>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/001-1.jpg"
+      >титульный лист</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/001-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/015-2.jpg"
+      >с. 15 об.</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/015-2.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/021-2.jpg"
+      >с. 21 об.</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/021-2.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/024-1.jpg"
+      >с. 24</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/024-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/024-2.jpg"
+      >с. 24 об.</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/024-2.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/029-1.jpg"
+      >с. 29</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/029-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/040-1.jpg"
+      >с. 40</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/040-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/042-2.jpg"
+      >с. 42 об.</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2273/inventory/1/042-2.jpg"
+      width="150"/>
+    </figure>
+  </body>
   <by selector="case">
     <xi:include href="1/case/144.xml"/>
     <xi:include href="1/case/145.xml"/>

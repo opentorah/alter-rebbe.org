@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store xmlns:xi="http://www.w3.org/2001/XInclude" n="2">
   <title xmlns="http://www.tei-c.org/ns/1.0"/>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+    <l>Опись № 2, том 1</l>
+    <l>Крайние даты дела 1788-1848</l>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/1781/inventory/2/001-1.jpg"
+      >титульный лист</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/1781/inventory/2/001-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/1781/inventory/2/023-1.jpg"
+      >с. 23</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/1781/inventory/2/023-1.jpg"
+      width="150"/>
+    </figure>
+  </body>
   <by selector="case">
     <xi:include href="2/case/271.xml"/>
   </by>

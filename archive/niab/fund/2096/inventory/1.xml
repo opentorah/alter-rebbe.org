@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store xmlns:xi="http://www.w3.org/2001/XInclude" n="1">
   <title xmlns="http://www.tei-c.org/ns/1.0"/>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+    <l>Опись № 1</l>
+    <l>Крайние даты дела 1821-1879</l>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/001-1.jpg"
+      >титульный лист</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/001-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/003-2.jpg"
+      >с. 3 об.</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/003-2.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/004-1.jpg"
+      >с. 4</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/004-1.jpg"
+      width="150"/>
+    </figure>
+    <figure>
+      <ref
+      target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/005-2.jpg"
+      >с. 5 об.</ref>
+      <graphic
+      url="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/niab/fund/2096/inventory/1/005-2.jpg"
+      width="150"/>
+    </figure>
+  </body>
   <by selector="case">
     <xi:include href="1/case/19.xml"/>
     <xi:include href="1/case/24.xml"/>
