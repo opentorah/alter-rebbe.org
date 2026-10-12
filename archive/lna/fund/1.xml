@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store xmlns:xi="http://www.w3.org/2001/XInclude" n="1">
-  <title xmlns="http://www.tei-c.org/ns/1.0"/>
+  <title xmlns="http://www.tei-c.org/ns/1.0">Канцелярия генерал-губернатора Лифляндии, Эстляндии и Курляндии</title>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+    <p>
+      Vidzemes, Igaunijas un Kurzemes ģenerālgubernatora kanceleja (LVVA, F1).
+      В описании <ref target="http://cahjp.nli.org.il/">CAHJP</ref>:
+      Канцелярия Лифлянд., Курлянд. и Эстлянд. губернатора.
+    </p>
+    <p>
+      <ref target="https://www.arhivi.gov.lv/lv/strukturvieniba/latvijas-valsts-vestures-arhivs">Вебсайт</ref>.
+      <ref target="https://eresursi.arhivi.gov.lv/content.aspx?id=756&amp;mainId=271">MeklēLNA</ref>.
+    </p>
+  </body>
   <by selector="inventory">
     <xi:include href="1/inventory/2.xml"/>
   </by>
