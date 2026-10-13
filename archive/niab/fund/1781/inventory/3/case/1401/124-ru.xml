@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод адреса на конверте письма ксендза <persName ref="Сиодловский">Сиодловского</persName> декану <persName
+        ref="Зраницкий">Зраницкому</persName>; оригинал: <ref target="/niab1401/124">124</ref>
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="124-2"/>
+      Вельможному его милости ксендзу <persName ref="Зраницкий">Йороны Зраницкому</persName>, декану <placeName
+      >Лепельского</placeName> повета, доктору святой богословии и права, от комендария <placeName ref="Улла"
+      >Ульского</placeName> повета ксендза <persName ref="Сиодловский">Сиодловского</persName>.
+      <note place="end">В подлиннике Wielmożnemu написано целиком. Jmc с выносной петлей — Jegomości, «его милости».
+      Имя адресата написано Jorony. Śty с чертой сокращения — Świętej; следующее слово написано Teologiy. Pow с
+      выносным tu — Powiatu. Doktora стоит в родительном падеже. Комендарий — в подлиннике komendarz. На конверте он
+      комендарий повета Уллы; в адресе объяснения <ref target="/niab1401/089">089</ref> — комендарий костела в
+      Улле.</note>
+    </p>
+    <p>
+      Объяснение.
+    </p>
+  </body></text>
+</TEI>

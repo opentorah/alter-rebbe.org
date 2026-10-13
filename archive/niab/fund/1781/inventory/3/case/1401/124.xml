@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract><p>
-      Конверт от письма, адресованного католическому декану <persName ref="Зраницкий">Зраницкому</persName> – вероятно, к документу <ref
-      target="/niab1401/089">089</ref>
-    </p></abstract></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Конверт письма ксендза <persName ref="Сиодловский">Сиодловского</persName> лепельскому декану <persName
+        ref="Зраницкий">Зраницкому</persName>, доктору святой богословии и права, от комендария повета <placeName
+        ref="Улла">Уллы</placeName>. Заголовок «Объяснение». К документу <ref target="/niab1401/089">089</ref>. Лист
+        124-1 отсутствует. На адресной стороне номера листа нет. Перевод: <ref target="/niab1401/124-ru">ru</ref>
+      </p></abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="124-1" missing="true"/>
     <pb n="124-2"/>
+    <salute>
+      <l>Wielmożnemu <choice><abbr>Jmc<hi rend="superscript"><unclear>o<note place="end">Над сокращением маленькая незамкнутая петля. Чтение o. Рядом смотрелся знак сокращения без буквы.</note></unclear></hi></abbr><expan>Jegomości</expan></choice> Xiędzu <persName ref="Зраницкий">Jorony Zranickiemu</persName></l>
+      <l>Dziekanowi <choice><abbr>Pow<hi rend="superscript">tu</hi></abbr><expan>Powiatu</expan></choice> <placeName>Lepelskiego</placeName> — <choice><abbr>Śty</abbr><expan>Świętej</expan></choice> Teologiy —</l>
+      <l>i Praw Doktora —</l>
+      <l>Komendarza Powiat<unclear>u<note place="end">Последняя буква сжата. Чтение u: Powiatu, как в сокращении строкой выше. Рядом смотрелось a.</note></unclear> <placeName ref="Улла">Ulańskiego</placeName> —</l>
+      <l><persName ref="Сиодловский">Xiedza Siodłowskiego</persName> —</l>
+    </salute>
+    <head>
+      <l><hi rend="underline">Objaśnienie</hi></l>
+    </head>
   </body></text>
 </TEI>
