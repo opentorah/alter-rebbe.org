@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName>Игнатий Реут</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-30">30 октября 1820 года</date></creation>
       <abstract><p>
-        Донесение неизвестного лица декану <persName ref="Зраницкий">Зраницкому</persName> – на польском языке – об обстоятельствах
-        крещения <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+        Донесение <persName>Игнатия Реута</persName> декану <persName ref="Зраницкий">Зраницкому</persName>: когда
+        <persName ref="Моше_Шнеерсон">Мовшу Шнеера</persName> брали в его жилище в <placeName ref="Улла">Улле</placeName>
+        и увозили в <placeName ref="Бешенковичи">Бешенковичи</placeName>, его с дочерью дома не было; сказанный еврей
+        восемь лет в помешательстве ума, и кумой дочь без согласия быть не могла. Писано в Августове <date
+        when="1820-10-30">30 октября 1820 года</date>, получено в тот же день. Карандашный номер листа 96, зачёркнутый
+        чернильный 21. Оборот не снят. Перевод: <ref target="/niab1401/096-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="096-1"/>
+    <fw type="note" place="top">Otrzymano <date when="1820-10-30">1820. <choice><abbr>8br</abbr><expan>Octobra</expan></choice>. <choice><abbr>pazdzier.</abbr><expan>pazdziernika</expan></choice> 30. <choice><abbr>d.</abbr><expan>dnia</expan></choice></date></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">96</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">21</del><note place="end">Черта через цифру. Читается 21: двойка с чертой похожа на L.</note></fw>
+    <salute>
+      <l>Do <choice><abbr>Wgo</abbr><expan>Wielmożnego</expan></choice> Dziekana <choice><abbr>Xdza</abbr><expan>Xiedza</expan></choice> <choice><abbr>Pttu</abbr><expan>Powiatu</expan></choice> <persName ref="Зраницкий"><unclear>Poroni<note place="end">Читается Poroni. Первая буква смотрелась также J, тогда Joroni. На листе <ref target="/niab1401/089">089</ref> то же имя написано Jorony.</note></unclear></persName>—</l>
+      <l><persName ref="Зраницкий">Zranickiemu</persName> —</l>
+      <l>Od niżej <unclear>piszącego<note place="end">Читается piszącego. В формуле обычно podpisującego: «pod» на строке не видно.</note></unclear></l>
+    </salute>
+    <head>
+      <l>Doniesienie—</l>
+    </head>
+    <p>
+      <l>Na daną mi od <choice><abbr>Wgo</abbr><expan>Wielmożnego</expan></choice> <choice><abbr>Wmci</abbr><expan>Waszmości</expan></choice> Pana <choice><abbr>Dobr.</abbr><expan>Dobrodzieja</expan></choice> w dniu</l>
+      <l>Dzisiejszym za <choice><abbr>Nro</abbr><expan>Numero</expan></choice> 592 <unclear>Powiatu<note place="end">Слово читается Powiatu. Конец смотрелся также powieśdą. Рядом смотрелось «z Powiatu».</note></unclear>— mam</l>
+      <l>Honor Donieść, iż w razie wzięcia w <choice><abbr>mieszk.</abbr><expan>mieszkaniu</expan></choice></l>
+      <l>moim <placeName ref="Улла">Ulle</placeName> <persName ref="Моше_Шнеерсон">Żyda Mowszy Sznejera</persName>, y wzię-</l>
+      <l>cia go do <placeName ref="Бешенковичи">Bieszenkowicz</placeName> Ja z Córką moją</l>
+      <fw type="note" place="left"><unclear>Teologii<note place="end">На левом поле, у строки «nie naydowaliśmy». Через слово черта. Чтение Teologii. Рядом смотрелось Teolugii.</note></unclear></fw>
+      <l>nie naydowaliśmy w domu— i dla tego tak</l>
+      <l><unclear>Chrztu,<note place="end">Начало строки после «i dla tego tak». Читается Chrztu. Рядом смотрелось Świętego. Ожидалось takowego: «owego» на строке не видно.</note></unclear> jako też z powodu iż rzeczony</l>
+      <l><persName ref="Моше_Шнеерсон">Żyd</persName> mieszkając podemną lat ośm ciągle</l>
+      <l>znayduje się w pomieszaniu Rozumu—</l>
+      <l>kumą nigdy być nie mogła bez zezwolenia</l>
+      <l>nato wydaję świadectwo—</l>
+    </p>
+    <closer>
+      <l>w <placeName>Augustowie</placeName> — <date when="1820-10-30"><choice><abbr>d.</abbr><expan>dnia</expan></choice> 30 <choice><abbr>8br</abbr><expan>Octobra</expan></choice> 1820</date></l>
+      <l><signed><persName>Ignacy Reut</persName> <unclear>Szlachcic Marszałek<note place="end">Справа от имени. Чтение Szlachcic Marszałek. Рядом смотрелось Szl. Marsz.</note></unclear></signed></l>
+      <l><signed><unclear>Lepelski<note place="end">Строка под титулом. Чтение Lepelski. Рядом смотрелось Szlachcic. Под строкой росчерк, не слово.</note></unclear></signed></l>
+    </closer>
     <pb n="096-2" missing="true"/>
   </body></text>
 </TEI>

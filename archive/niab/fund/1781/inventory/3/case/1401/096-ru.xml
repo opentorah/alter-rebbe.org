@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName>Игнатий Реут</persName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1820-10-30">30 октября 1820 года</date></creation>
+      <abstract><p>
+        Перевод донесения <persName>Игнатия Реута</persName> декану <persName ref="Зраницкий">Зраницкому</persName> от
+        <date when="1820-10-30">30 октября 1820 года</date>; оригинал: <ref target="/niab1401/096">096</ref>
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="096-1"/>
+      Получено: <date when="1820-10-30">30 октября 1820 года</date>.
+    </p>
+    <p>
+      Вельможному ксендзу декану повета <unclear>Йороны<note place="end">В подлиннике читается Poroni. Первая буква
+      смотрелась также J, тогда Joroni. На листе <ref target="/niab1401/089">089</ref> то же имя написано Jorony.</note></unclear>
+      <persName ref="Зраницкий">Зраницкому</persName>, от <unclear>нижепишущего<note place="end">В подлиннике niżej
+      piszącego. В формуле обычно podpisującego, «нижеподписавшегося»: «pod» на строке не видно.</note></unclear>.
+      <note place="end">В подлиннике Wgo — Wielmożnego, «вельможного». Xdza — Xiedza, «ксендза». Pttu — Powiatu,
+      «повета».</note>
+    </p>
+    <p>
+      Донесение.
+    </p>
+    <p>
+      На данное мне сегодня от вельможного вашей милости пана благодетеля за № 592 <unclear>повета<note place="end">В
+      подлиннике слово после номера читается Powiatu. Конец смотрелся также powieśdą. Рядом смотрелось «z
+      Powiatu».</note></unclear> имею честь донести, что когда еврея <persName ref="Моше_Шнеерсон">Мовшу
+      Шнеера</persName> брали в моём жилище в <placeName ref="Улла">Улле</placeName> и увозили его в <placeName
+      ref="Бешенковичи">Бешенковичи</placeName>, меня с дочерью дома не было.
+      <note place="end">В подлиннике Wgo Wmci Pana Dobr. — Wielmożnego Waszmości Pana Dobrodzieja, «вельможного вашей
+      милости пана благодетеля».</note>
+    </p>
+    <p>
+      И потому при <unclear>таковом крещении<note place="end">В подлиннике строка после «i dla tego tak» начинается
+      словом, которое читается Chrztu, «крещения». Рядом смотрелось Świętego. Ожидалось takowego, «такового»: «owego»
+      на строке не видно.</note></unclear>, а также потому что сказанный <persName ref="Моше_Шнеерсон">еврей</persName>,
+      живя у меня, уже восемь лет непрерывно находится в помешательстве ума, кумой она никогда быть не могла без
+      согласия. О чём выдаю свидетельство.
+      <note place="end">Женский род kumą и mogła относится к дочери, названной строкой выше.</note>
+    </p>
+    <p>
+      <placeName>Августов</placeName>, <date when="1820-10-30">30 октября 1820 года</date>.
+    </p>
+    <p>
+      <persName>Игнатий Реут</persName>, <unclear>шляхтич, маршалок лепельский<note place="end">В подлиннике справа от
+      имени чтение Szlachcic Marszałek, строкой ниже Lepelski. Рядом смотрелось Szl. Marsz. В пересказе консистории,
+      лист <ref target="/niab271/030">030</ref>, он назван помещиком местечка Уллы, а позже маршалом.</note></unclear>.
+    </p>
+  </body></text>
+</TEI>
