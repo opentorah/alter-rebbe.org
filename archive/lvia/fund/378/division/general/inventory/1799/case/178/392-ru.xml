@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><orgName ref="Виленский_кагал">Виленский кагал</orgName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1800-03-19">19 марта 1800 года</date></creation>
+      <abstract><p>
+        Перевод представления <ref target="/lvia1799-178/392">392</ref>. <orgName ref="Виленский_кагал">Кагал</orgName>
+        называет магистрату шесть свидетелей. Отказ кагала от выбора — <ref target="/lvia1799-178/385">385</ref>,
+        решение суда не принять отказ — <ref target="/lvia1799-178/386">386</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="392-1"/>
+      В благородный магистрат губернского города <placeName ref="Вильна">Вильны</placeName> от <orgName
+      ref="Виленский_кагал">виленского кагала</orgName>. Представление.
+    </p>
+    <p>
+      Во исполнение указа его императорского величества, самодержца всея России, вышедшего из надворного суда
+      Литовского за № 78, presenti 15-го числа<note place="end">Тот же номер магистрат называет уже 7 марта в <ref
+      target="/lvia1799-178/384">384</ref>, так что это 15-е число не 15 марта. Решение суда от 12 марта, помеченное
+      исполненным 15 марта, — <ref target="/lvia1799-178/386">386</ref>, и там исходящий номер 98.</note>, и присланного магистратом в <orgName ref="Виленский_кагал">кагал</orgName>
+      в копии, — о присылке шести оседлых евреев-обывателей, не имеющих связи ни с членами кагала, ни с <orgName
+      ref="Хасиды">каролинами</orgName><note place="end">Так в этом деле названы хасиды.</note>, — кагал при сём представлении посылает в магистрат евреев <persName
+      ref="Мовша_Ицкович">Мовшу Ицковича</persName>, <persName>Гирша Йоновича</persName>, <persName>Арона
+      Шепшелевича</persName>, <persName>Иону Юделовича</persName>, <persName>Лейбу Вульфовича</persName> и <persName
+      >Самуила Йоселовича</persName>. <date when="1800-03-19">19 марта 1800 года</date>.
+    </p>
+    <p>Три подписи на иврите.</p>
+  </body></text>
+</TEI>

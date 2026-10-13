@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1800-03-27">27 марта 1800 года</date></creation>
+      <abstract><p>
+        Перевод требования <ref target="/lvia1799-178/397">397</ref>, № 333. Магистрат в третий раз просит полицию
+        вызвать троих свидетелей из списка <ref target="/lvia1799-178/392">392</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="397-1"/>
+      № 333. В полицию города <placeName ref="Вильна">Вильны</placeName> от виленского магистрата.
+    </p>
+    <p>
+      Виленский магистрат, дабы исполнить указ <orgName ref="Литовский_надворный_суд">Литовского надворного
+      суда</orgName>, в третий раз<note place="end">Первое распоряжение — <ref target="/lvia1799-178/394">394</ref> от
+      22 марта, № 312. Второе — <ref target="/lvia1799-178/395">395</ref> от 26 марта: там названы все шестеро.</note>
+      просит городскую полицию приказать через кого следует евреям <persName>Ионе
+      Юделовичу</persName>, дом № 228, <persName>Лейбе Вульфовичу</persName>, дом № 999<note place="end">В <ref
+      target="/lvia1799-178/395">395</ref> у него номер 499. Номера Ионы Юделовича и Самуила Йоселовича те же.</note>, и <persName>Самуилу
+      Йоселовичу</persName>, живущему на <placeName>Снипишках</placeName> под № 955, как свидетелям, выбранным <orgName
+      ref="Виленский_кагал">кагалом</orgName>, явиться <date when="1800-03-28">завтра</date> утром в восемь часов в
+      ратушу для окончания следствия и судебного допроса. <date when="1800-03-27">27 марта 1800 года</date>.
+    </p>
+    <p>
+      <persName>Винцентий Загорова Минкевич</persName>, председательствующий бургомистр города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+    <p>Подпись бургомистра.</p>
+    <p>
+      <persName ref="Franciszek_Sidorowicz">Францишек Сидорович</persName>, регент города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+  </body></text>
+</TEI>

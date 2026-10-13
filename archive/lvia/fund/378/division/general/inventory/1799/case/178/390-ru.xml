@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1800-04-16">16 апреля 1800 года</date></creation>
+      <abstract><p>
+        Перевод рапорта <ref target="/lvia1799-178/390">390</ref>. Магистрат представляет суду следствие о поведении пяти
+        евреев. Дознание приложили ратманы, <ref target="/lvia1799-178/391">391</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="390-1"/>
+      № 225. Получено <date when="1800-04-16">16 апреля 1800 года</date>.
+    </p>
+    <p>
+      В <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName> от магистрата города <placeName
+      ref="Вильна">Вильны</placeName>. Рапорт.
+    </p>
+    <p>
+      Во исполнение указа его императорского величества, самодержца всея России, вышедшего из <orgName
+      ref="Литовский_надворный_суд">Литовского надворного суда</orgName> <date when="1800-03-15">15 марта</date> за
+      № 383<note place="end">Так указ 15 марта назван в этом рапорте. В журнале решение 12 марта помечено исполненным
+      в тот же день за № 98, <ref target="/lvia1799-178/386">386</ref>. Пятеро те же, что в <ref
+      target="/lvia1799-178/384">384</ref> и в дознании ратманов <ref target="/lvia1799-178/391">391</ref>.</note>, виленский магистрат при сём рапорте представляет суду следствие о поведении евреев <persName
+      ref="Лейба_Рафалович">Лейбы Рафаловича</persName>, <persName ref="Абрам_Нотелевич">Абрагама Нотелевича</persName>,
+      <persName ref="Абрам_Гиршович">Абрагама Гиршовича</persName>, <persName ref="Нисон_Давыдович">Нисона
+      Давыдовича</persName> и <persName ref="Мордух_Цалкович">Мордуха Цалковича</persName>, произведённое назначенными
+      из магистрата членами. <date when="1800-04-16">16 апреля 1800 года</date>.
+    </p>
+    <p>
+      <persName>Винцентий Загорова Минкевич</persName>, председательствующий бургомистр города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+    <p>Подпись на иврите.</p>
+    <p>
+      <persName ref="Franciszek_Sidorowicz">Францишек Сидорович</persName>, регент города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+    <p>№ 371. Слушано <date when="1800-04-16">16 апреля</date>.</p>
+  </body></text>
+</TEI>

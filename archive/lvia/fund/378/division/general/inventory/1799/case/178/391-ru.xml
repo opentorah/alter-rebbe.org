@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1800-04-16">16 апреля 1800 года</date></creation>
+      <abstract><p>
+        Перевод рапорта <ref target="/lvia1799-178/391">391</ref>. Ратманы окончили дознание о поведении пяти евреев и
+        прилагают его магистрату. Магистрат представил следствие суду в <ref target="/lvia1799-178/390">390</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="391-1"/>
+      В магистрат города <placeName ref="Вильна">Вильны</placeName>.
+    </p>
+    <p>
+      Нижеподписавшиеся, окончив дознание о поведении евреев <persName ref="Лейба_Рафалович">Лейбы
+      Рафаловича</persName>, <persName ref="Абрам_Нотелевич">Абрагама Нотелевича</persName>, <persName
+      ref="Абрам_Гиршович">Абрагама Гиршовича</persName>, <persName ref="Нисон_Давыдович">Нисона Давыдовича</persName> и
+      <persName ref="Мордух_Цалкович">Мордуха Цалковича</persName> и запечатав его нашими печатями, прилагаем его при
+      сём рапорте виленскому магистрату для представления куда следует. <date when="1800-04-16">16 апреля 1800
+      года</date>.
+    </p>
+    <p>
+      <persName>Вильгельм Рефельд</persName>, ратман<note place="end">Польское Radny. Журнал суда <ref
+      target="/lvia1799-178/386">386</ref> называет обоих ратманами, а Рефельда пишет «рефильд». Дознание им поручено в
+      <ref target="/lvia1799-178/384">384</ref>. Готовое следствие магистрат представил суду в тот же день, <ref
+      target="/lvia1799-178/390">390</ref>.</note> города <placeName ref="Вильна">Вильны</placeName>.
+    </p>
+    <p><persName>Константин Левандовский</persName>, ратман города <placeName ref="Вильна">Вильны</placeName>.</p>
+  </body></text>
+</TEI>

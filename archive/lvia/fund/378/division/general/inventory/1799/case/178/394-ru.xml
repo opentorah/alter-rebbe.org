@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1800-03-22">22 марта 1800 года</date></creation>
+      <abstract><p>
+        Перевод распоряжения <ref target="/lvia1799-178/394">394</ref>, № 312. Магистрат велит полиции вызвать на
+        23 марта свидетелей, названных <orgName ref="Виленский_кагал">кагалом</orgName> в <ref target="/lvia1799-178/392"
+        >392</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="394-1"/>
+      № 312. В полицию города <placeName ref="Вильна">Вильны</placeName> от виленского магистрата.
+    </p>
+    <p>
+      Указом его императорского величества, самодержца всея России, вышедшим из <orgName ref="Литовский_надворный_суд"
+      >Литовского надворного суда</orgName>, магистрату велено произвести следствие о поведении евреев <persName
+      ref="Лейба_Рафалович">Лейбы Рафаловича</persName>, <persName ref="Абрам_Нотелевич">Абрагама Нотелевича</persName>,
+      <persName ref="Абрам_Гиршович">Абрагама Гиршовича</persName>, <persName ref="Нисон_Давыдович">Нисона
+      Давыдовича</persName> и <persName ref="Мордух_Цалкович">Мордуха Цалковича</persName> через лиц, которые не имели
+      бы никакой связи ни с членами кагала, ни с духовными, ни с <orgName ref="Хасиды">каролинами</orgName>. К этому
+      делу <orgName ref="Виленский_кагал">виленский кагал</orgName> представил свидетелями <persName ref="Мовша_Ицкович"
+      >Мовшу Ицковича</persName>, <persName>Гирша Йоновича</persName>, <persName>Арона Шепшелевича</persName><note
+      place="end">В польском тексте Szapszelowicz. В <ref target="/lvia1799-178/392">392</ref> и <ref
+      target="/lvia1799-178/395">395</ref> написано Szepszelowicz.</note>, <persName
+      >Иону Юделовича</persName>, <persName>Лейбу Вульфовича</persName> и <persName>Самуила Йоселовича</persName>. Но
+      выбранные свидетели к нужному дознанию не являются, и потому исполнение указа задерживается. Посему магистрат
+      обязывает городскую полицию приказать через кого следует названным евреям завтра, в два часа пополудни, немедленно
+      явиться в ратушу для окончания дела, порученного надворным судом. <date when="1800-03-22">22 марта 1800
+      года</date>.<note place="end">«Завтра» — 23 марта. Ответа полиции не последовало: повторное требование 26 марта
+      ссылается на этот № 312, <ref target="/lvia1799-178/395">395</ref>. Каролины — хасиды.</note>
+    </p>
+    <p>
+      <persName>Винцентий Загорова Минкевич</persName>, председательствующий бургомистр города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+    <p>Подпись.</p>
+    <p>
+      <persName ref="Franciszek_Sidorowicz">Францишек Сидорович</persName>, регент города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+  </body></text>
+</TEI>
