@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Зраницкий">Зраницкий</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
       <abstract><p>
-        Вопросы на польском языке, адресованные неизвестному лицу, для характеристики жителя м. <placeName ref="Улла">Уллы</placeName> <persName ref="Павел_Сидорович">Павла
-        Сидоровича</persName>
+        Вопросы ксендза декана <persName ref="Зраницкий">Зраницкого</persName> жителю местечка <placeName
+        ref="Улла">Уллы</placeName> <persName ref="Павел_Сидорович">Павлу Сидоровичу</persName>: был ли он кумом при
+        крещении <persName ref="Моше_Шнеерсон">Мовши</persName>, кто ещё был кумами и свидетелями, на каких бумагах
+        подписывался и какое имя дано при крещении. Подпись декана и дата <date when="1820-10-29">29 октября 1820
+        года</date>. Карандашный номер листа 93, зачёркнутый чернильный 17. Ответ: <ref target="/niab1401/094"
+        >094</ref>. Перевод: <ref target="/niab1401/093-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="093-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">93</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">17</del></fw>
+    <head>
+      <l><unclear>Oto na te tu<note place="end">Начало строки читается Oto na te tu. Первые буквы смотрелись OMa nate.</note></unclear>, <unclear>dozwolone<note place="end">Слово читается dozwolone, «дозволенные». Рядом смотрелось Dozwierzone.</note></unclear> <unclear>zapytania<note place="end">Первая буква с нижним выносом. Чтение zapytania. Рядом смотрелось kopytania.</note></unclear> odpowiedzi mieszk</l>
+      <l><unclear>kańce<note place="end">Перенос mieszk / kańce, без дефиса. Ожидалось mieszkańca или mieszkańcze. На строке kańce.</note></unclear> miasteczka <placeName ref="Улла">Uły</placeName>, <choice><abbr>w.</abbr><expan>Wielmożny</expan></choice> <persName ref="Павел_Сидорович">Paweł Sidorowicz</persName> —</l>
+    </head>
+    <p>
+      <l>1<hi rend="superscript">o</hi> Czy był <choice><abbr>P.</abbr><expan>Pan</expan></choice> <persName ref="Павел_Сидорович">Paweł Sidorowicz</persName> Kumem przy chrzcie u <persName ref="Моше_Шнеерсон">Mowszy</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Rabina</persName> w <placeName ref="Улла">Ule</placeName> mieszkającego — i w jakim stanowisku</l>
+      <l>oraz —</l>
+      <l>2<hi rend="superscript">do</hi> Kto był więcej Kumami, lub tego świadkami —</l>
+      <l>3<hi rend="superscript">o</hi> Czy podpisował się co jakie pisma, tyczących się Chrztu</l>
+      <l>pomienionego <persName ref="Моше_Шнеерсон">Mowszy</persName> —</l>
+      <l>4<hi rend="superscript">to</hi> Jakie nadano Imiona na Chrzcie, <persName ref="Моше_Шнеерсон">Mowszy Szneie-</persName></l>
+      <l><persName ref="Моше_Шнеерсон">rowi</persName><note place="end">Перенос Szneie- / rowi, то есть Szneierowi. На листе 091 фамилия написана Sznejera.</note></l>
+    </p>
+    <p>
+      <l>Na takowe punkta — ma <unclear>przynieść<note place="end">Слово читается przynieść, «принести». Рядом смотрелось przywieść и przybyć.</note></unclear> tu, <choice><abbr>w.</abbr><expan>Wielmożny</expan></choice> <persName ref="Павел_Сидорович">Sidorowicz</persName></l>
+    </p>
     <pb n="093-2"/>
+    <p>
+      <l>naycharakternieysze swe odpowiedzi —</l>
+      <l><signed><unclear>X.<note place="end">Перед Dziekan короткий знак с точкой. Чтение X., ксендз. Рядом смотрелось 1.</note></unclear> Dziekan <persName ref="Зраницкий">Zranicki</persName></signed></l>
+      <l><date when="1820-10-29">1820. <unclear>d.<note place="end">Короткое слово после года. Чтение d., «дня». Рядом смотрелось Oct.</note></unclear> <choice><abbr>Pazdz.</abbr><expan>Pazdziernika</expan></choice> 29.</date></l>
+    </p>
   </body></text>
 </TEI>
