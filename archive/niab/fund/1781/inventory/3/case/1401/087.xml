@@ -1,17 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Сиодловский">Сиодловский</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-25">25 октября 1820 года</date></creation>
       <abstract><p>
-        Рапорт ксендза <persName ref="Сиодловский">Сиодловского</persName>, представленный в Могилевскую римско-католическую духовную
-        консисторию (на польском языке)
+        Рапорт ксендза <persName ref="Сиодловский">Сиодловского</persName> в Могилевскую римско-католическую
+        митрополичью консисторию. По указу от <date when="1820-10-08">8 октября 1820 года</date>, дошедшему до него
+        <date when="1820-10-17">17 октября</date> (вторая цифра под кляксой), доставляет выпись метрики о крещении
+        водой <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName> — это <ref target="/niab1401/088">088</ref> от
+        того же <date when="1820-10-25">25 октября</date>. Входящий № 1676, получен <date when="1820-11-08">8 ноября</date>;
+        слушался <date when="1820-11-09">9 ноября</date>, в один день с прошением <persName>Власовой</persName>
+        (<ref target="/niab1401/086">086</ref>). Карандашный номер листа 87, зачёркнутый чернильный 12. Оборот не снят;
+        на лицевой стороне проступает его текст, так что лист не пустой. Перевод: <ref target="/niab1401/087-ru"
+        >ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="087-1"/>
+    <fw type="docNum">№ 1676.</fw>
+    <fw type="note" place="top">Otrzym: <date when="1820-11-08">8. <choice><abbr>9bra</abbr><expan>Novembra</expan></choice> 1820. r.</date></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">87</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">12</del></fw>
+    <salute>
+      <l>Do Prześwietnego Rzymsko-Katolickiego</l>
+      <l>Metropolitalnego Duchownego Mo-</l>
+      <l>hilewskiego Konsystorza. —</l>
+    </salute>
+    <head>
+      <l>Od zastępcy przy Kościele Ulań-</l>
+      <l>skim Xiedza <persName ref="Сиодловский">Jozeffata Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName></l>
+      <l>Raport.</l>
+    </head>
+    <p>
+      <l>W Stosowności Ukazu Jego Imperatorskiej</l>
+      <l>Mości wydanego pod Dniem <date when="1820-10-08">8. Października</date></l>
+      <l>Tegoż Roku, od Metropolitalnego Duchow-</l>
+      <l>nego Konsystorza, a do mnie Tegoż Miesią-</l>
+      <l>ca <date when="1820-10-17"><unclear>17<note place="end">Вторая цифра под кляксой и читается как 7. Указ от
+      8 октября, рапорт написан 25 октября, так что это 17 октября.</note></unclear>. Dnia</date> nadeszłego,</l>
+      <l>w którym zalecano abym ochrzconego</l>
+      <l><unclear>przeze mnie<note place="end">Буквы слиты. Чтение «мною»: раввин крещён самим Сиодловским. Рядом
+      смотрелись byłego и w Ule.</note></unclear> <persName ref="Моше_Шнеерсон">Rabina Mowszey Sznejera</persName> z</l>
+      <l>wody, Extrakt Metryki Tegoż chrztu już</l>
+      <l>nayrychley Prześwietnemu Konsystorzo-</l>
+      <l>wi dostawić. Co i wypełniwszy</l>
+      <l>dostawuię Extrakt,<note place="end">Прилагаемая выпись — <ref target="/niab1401/088">088</ref>, того же
+      25 октября.</note> a dla</l>
+      <l>lepszego przekonania się zostaje, który z</l>
+      <l>Xięży przy mnie się zostawał, który z</l>
+      <l><unclear>świadków<note place="end">Начало слова неясно. По смыслу «свидетелей».</note></unclear> a tamtejszych
+      Xięży; na</l>
+      <l>rozkazanie Prześwietnego Konsys-</l>
+      <l>torza raportowanie oraz mam honor</l>
+      <l>dostawić.</l>
+    </p>
+    <closer>
+      <l><signed><choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowski</persName>
+      zastępca</signed></l>
+      <l><signed>przy Kościele <placeName ref="Улла">Ulańskim</placeName>.</signed></l>
+      <l><placeName ref="Улла">Ulla</placeName>.</l>
+      <l><date when="1820-10-25">Dnia 25. Października</date></l>
+      <l><date when="1820-10-25"><hi rend="underline">1820 Roku</hi></date></l>
+    </closer>
+    <fw type="note" place="lower right">Słuch: <date when="1820-11-09">9. <choice><abbr>9bra</abbr><expan>Novembra</expan></choice></date> —</fw>
     <pb n="087-2" missing="true"/>
   </body></text>
 </TEI>
