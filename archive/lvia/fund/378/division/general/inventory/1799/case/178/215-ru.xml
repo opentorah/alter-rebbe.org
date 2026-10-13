@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName ref="Фризель">Фризель</persName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1799-01-09">9 января (20 января по новому стилю) 1799 года</date></creation>
+      <abstract><p>
+        Перевод предписания <ref target="/lvia1799-178/215">215</ref>. <persName ref="Фризель">Фризель</persName>
+        велит <orgName ref="Виленский_кагал">виленскому кагалу</orgName> представить привилегии, на которые кагал
+        сослался в прошении <persName ref="Лассий">Лассию</persName>. Приложение 3 к реестру <ref
+        target="/lvia1799-178/208">208</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="215-1"/>
+      Копия. Предписание действительного статского советника, <placeName ref="Литва">литовского</placeName> губернатора
+      и кавалера <persName ref="Фризель">Фризеля</persName> <orgName ref="Виленский_кагал">виленскому еврейскому
+      кагалу</orgName>.
+    </p>
+    <p>
+      <orgName ref="Виленский_кагал">Виленский кагал</orgName> в прошении, поданном в нынешнем году и месяце
+      ясновельможному <placeName ref="Литва">литовскому</placeName> генерал-губернатору <persName ref="Лассий"
+      >Лассию</persName>, написал, будто <orgName ref="Литовское_губернское_правление">Литовское губернское
+      правление</orgName> издало резолюцию, противную правам и привилегиям <orgName ref="Виленский_кагал"
+      >кагала</orgName>. Чтобы проверить это донесение, предписываю названному <orgName ref="Виленский_кагал"
+      >виленскому кагалу</orgName> немедленно по получении сего представить мне те привилегии и права, на которые он
+      ссылается в прошении: подлинные либо в юридически засвидетельствованных копиях, с переводом на российский язык.
+    </p>
+    <p><persName ref="Фризель">Ян Фризель</persName>, <placeName ref="Литва">литовский</placeName> губернатор.</p>
+    <p>
+      <signed><persName ref="Еремиаш_Нохимович">Слово Еремиаша, сына рабби Нахума, Сегала</persName>, синдика священной
+      общины <placeName ref="Вильна">Вильны</placeName></signed><note place="end">В подлиннике נאום — формула подписи.
+      בהר״ר: בן הרב רבי. סג״ל: סגן לויה. דק״ק: דקהילה קדושה. Подпись получателя, не <persName ref="Фризель"
+      >Фризеля</persName>.</note>
+    </p>
+    <p>
+      № 31. <placeName ref="Вильна">Вильна</placeName>, <date when="1799-01-09">9 января (20 января по новому стилю)
+      1799 года</date>.
+    </p>
+  </body></text>
+</TEI>
