@@ -1,19 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Зраницкий">Зраницкий</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-27">27 октября 1820 года</date></creation>
       <abstract><p>
-        Протокол - на польском языке – могилевской духовной римско-католической консистории в связи с выяснением
-        обстоятельств крещения <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+        Протокол лепельского декана <persName ref="Зраницкий">Зраницкого</persName> с <date when="1820-10-27">27</date> по
+        <date when="1820-10-30">30 октября 1820 года</date> по указу могилёвской митрополичьей консистории от <date
+        when="1820-10-16">16 октября</date> за № 2001 о крещении <persName ref="Моше_Шнеерсон">Мовши Шнеера</persName>.
+        Декан осматривает метрики <placeName ref="Улла">ульского</placeName> костёла, спрашивает <persName
+        ref="Сиодловский">Сиодловского</persName>, <persName ref="Пузанов">Пузанова</persName>, восприемников и
+        пономарей и принимает донесения <persName>Реута</persName> и земского комиссара <persName>Рылевича</persName>.
+        30 октября закрывает следствие и решает подать своё мнение. Карандашный номер листа 99, зачёркнутый чернильный
+        24; на листе 100 карандашный 100 и зачёркнутый чернильный 25. Перевод: <ref target="/niab1401/099-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="099-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">99</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">24</del></fw>
+    <head><hi rend="underline">Protokół</hi></head>
+    <p>
+      <l><date when="1820-10-27">1820. Roku <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Pazdziernika 27<hi rend="superscript">go</hi> Dnia</date>. w Skutek Jego Cesarskiej Mości Ukazu z Przeświet-</l>
+      <l>nego Konsystorza Metropolitalnego Mohylewskiego za <choice><abbr>№</abbr><expan>Numero</expan></choice> 2001. <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Pazdziernika <date when="1820-10-16">16<hi rend="superscript">go</hi></date></l>
+      <l>Dnia danego — po Dziele <persName ref="Моше_Шнеерсон">żyda Mowszy Sznejerowa</persName>, iakoby w <placeName ref="Улла">Ule</placeName> przez <choice><abbr>JX.</abbr><expan>Jegomość Xiądz</expan></choice> <persName ref="Сиодловский">Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName>, Ochrzczonego w Rzymskim Chrześcijańskim Kościele — Wiechałem do <placeName ref="Улла">Uły</placeName>, dla wy-</l>
+      <l>śledzenia tego przedmiotu — rozpoczynaiąc tę czynność —</l>
+    </p>
+    <p>
+      <l><hi rend="underline"><date when="1820-10-27">Dnia 27<hi rend="superscript">go</hi> Pazdzier:</date></hi> Przybywszy na miejsce zapotrebowałem od <choice><abbr>JX.</abbr><expan>Jegomość Xiądz</expan></choice> Komendarza <persName ref="Сиодловский">Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName> Metryk Chrzestnych tego Kościoła — te <unclear>powierciłem<note place="end">Читается powierciłem. Рядом смотрелось przewertowałem, «перелистал».</note></unclear>, przeyrzawszy</l>
+      <l>od <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Junii do dnia tego, nigdzie niemasz zapisanego Chrztu</l>
+      <l>pomienionego <persName ref="Моше_Шнеерсон">żyda Mowszy</persName> — w dniach kilku, pierwszego Julii, i <unclear>Otrzy-<note place="end">Конец строки. Читается Otrzy. Рядом смотрелось oraz и oświad. Следующая строка начинается tego.</note></unclear></l>
+      <l>tego, że Żydy, po metrykach zapisami, Ochrzczeni przez <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName> te od wizyty lustratorskiej tego roku, za skrupiłem, i zakomoto-</l>
+      <l>watem.</l>
+    </p>
+    <p>
+      <l><hi rend="underline"><date when="1820-10-28">Dnia 28<hi rend="superscript">go</hi> października</date></hi> Zalecaiąc <choice><abbr>JX.</abbr><expan>Jegomość Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowskiemu</persName> dać Na piśmie — Czy chrzcił On <persName ref="Моше_Шнеерсон">żyda</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Mowszę Szneiersona</persName>? w iakiey to dacie? Kto byli Onego kumami? i Tego świadkami? by notę ktorą piśmienne dowody? Dla czego</l>
+      <l>Metrykę Chrztu <persName ref="Моше_Шнеерсон">Mowszy</persName> — do Xiąg niezaciągnął Urzędowych? Czy żądał</l>
+      <l><persName ref="Моше_Шнеерсон">Mowsza Szneiersow</persName> prośbę do Jego, prosząc o Chrzest, i by złożoną</l>
+      <l>w Autentyku? Jako mieyscowemu Dziekanowi, do dnia tego, o tym</l>
+      <l>Chrzcie nieprzedstawił Raportem? w skutek Ukazu Metropolitalnego Kon-</l>
+      <l>systorza za <choice><abbr>№</abbr><expan>Numero</expan></choice> 1700. <date when="1820-08"><choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Sierpnia bieżącego roku</date> danego? Czy zawierzy-</l>
+      <l>ł i świadectwem Policyi to dopełnił, iak chce mieć Ukaz <unclear>Nowy torski<note place="end">Два слова читаются Nowy torski. Рядом смотрелось wyższy.</note></unclear>? w</l>
+      <l><date when="1817-08">Roku 1817. <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Augusta</date> za <choice><abbr>№</abbr><expan>Numero</expan></choice> 631. dany — by bez tego <add place="above">posłuszeństwa</add> Duchowieństwa</l>
+      <l>Rzymski nieprzyimować Żydow proszących o Chrzest —</l>
+    </p>
+    <p>
+      <l><hi rend="underline">Dnia tegoż.</hi> <unclear>Odmieniony<note place="end">Читается Odmieniony. Рядом смотрелось Udawszy się и Adresowany.</note></unclear> do <choice><abbr>JW<hi rend="superscript">go</hi></abbr><expan>Jaśnie Wielmożnego</expan></choice> Podpułkownika i kawalera Michała <add place="above">Alexiejewa</add> <del rend="overstrike"><unclear>Alexiejewa<note place="end">Слово зачёркнуто. Над строкой вписано Alexiejewa. Ниже на обороте то же лицо названо Michał Alexiejewicz.</note></unclear></del></l>
+      <l><persName ref="Пузанов">Puzanowa</persName>, w skutek wyższego Ukazu, z wypisaniem kategoryi</l>
+      <l>ściągających się do Jego, i z zapotrebowaniem doniesienia, w iakiey dacie</l>
+      <l>był On kumem, z <choice><abbr>JW<hi rend="superscript">ną</hi></abbr><expan>Jaśnie Wielmożną</expan></choice> <persName>Justyną <unclear>Bentową<note place="end">Читается Bentową. Рядом смотрелось Bonkową и Reuttową. На метрике <ref target="/niab1401/088">088</ref> восприемница Bonkowska.</note></unclear></persName>, Corką <choice><abbr>JMci</abbr><expan>Jegomości</expan></choice> Marszałka <placeName>Lepelskiego</placeName></l>
+      <l><persName>Reutta</persName>? Jakie nadano Imiona na Chrzcie <persName ref="Моше_Шнеерсон">Mowszy Szneiersowowi</persName>? Czy był</l>
+      <l>więcej przyjęty ze świadkow. — Jako widno 4. Julii przywiozłszy Pan</l>
+      <l>Podpułkownik <persName ref="Пузанов">Puzanow</persName> do Plebanii pomienionego <persName ref="Моше_Шнеерсон">żyda Mowszy</persName></l>
+      <l>pod mocną strażą ludzi <unclear>żołdatów<note place="end">Читается żołdatów, «солдат». Рядом смотрелось do Datow.</note></unclear>, i Ziemskiey Policyi, radząc się</l>
+    </p>
+    <fw type="catch" place="bottom">Czy można</fw>
     <pb n="099-2"/>
+    <p>
+      <l>Czy można Jego ochrzcić, iako pomieszanego na umyśle; i gdy on był</l>
+      <l>Żydom zwracany, przez Policyę, czemu niemamy, tego donieść, że On iest</l>
+      <l>Ochrzczonym —</l>
+    </p>
+    <p>
+      <l><hi rend="underline"><date when="1820-10-29">Dnia 29<hi rend="superscript">go</hi> Paździer:</date></hi> Wziął <choice><abbr>JX.</abbr><expan>Jegomość Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowski</persName>, nadane sobie zapytania, Obiaśnienie, które się tu</l>
+      <l>mieści do Dzieła — w tem Dwie pary Kumow, innych zupełnie pokazuje,</l>
+      <l>iak powiedziało w Ukazie, w Ochrzczeniu <persName ref="Моше_Шнеерсон">żyda Mowszy</persName> — i razem włożył</l>
+      <l>Autentyczną iakoby — Wielką kartę Metryki, Chrztu <persName ref="Моше_Шнеерсон">Mowszy</persName>, podpisaną</l>
+      <l>przez Kumow — zupełnie kartę, niewiadomo z iakich powodów, i zdaię się</l>
+      <l>świeżo zrobioną — <unclear>Niechaią tey dae<note place="end">Читается Niechaią tey dae do dzieła. Рядом смотрелось Niechaj tę da.</note></unclear> do dzieła, i iak pisze w swoiem Obiaś-</l>
+      <l>nieniu, że w kopii dostawnie — potem świadectwa te tu złożył, które się</l>
+      <l>też łączą do Dzieła —</l>
+    </p>
+    <p>
+      <l><hi rend="underline">Dnia tegoż</hi>: Zrobiono Egzamen stosowny do wypadki — Kumow pokazanych przez <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName> przy Chrzcie <persName ref="Моше_Шнеерсон">Mowszy</persName> — iakoto z <persName>Gabriella Onaszkiewicza</persName> — <persName>Justyny Bonkow-</persName></l>
+      <l><persName><unclear>skiej<note place="end">Начало строки, продолжение фамилии. С предыдущей Bonkow- читается Bonkowskiej. Конец у края листа. На метрике <ref target="/niab1401/088">088</ref> Bonkowska.</note></unclear></persName> — <persName>Rozalii Eliaszewiczowey</persName>, i <persName ref="Павел_Сидорович">Pawła Sidorowicza</persName> — Takowy własną ich ręką</l>
+      <l>podpisany — Tutaj dołącza do dzieła —</l>
+    </p>
+    <p>
+      <l>Wzięliśmy <hi rend="underline">Dnia Tegoż</hi> dopełniliśmy egzaminu w teyże kategoryi; Zakrystyanow</l>
+      <l><placeName ref="Улла">Ułańskiego</placeName> Kościoła, <persName>Makarego Holubickiego</persName>, i Jego brata <unclear>służącego<note place="end">Читается służącego. Рядом смотрелось Styżuiącego.</note></unclear> Au-</l>
+      <l><persName>dakima Sidorowa</persName> — teyże tu umieszczaiąc —</l>
+    </p>
+    <p>
+      <l><hi rend="underline"><date when="1820-10-29">Dnia tegoż 29.</date></hi> Odmówił Pan Podpułkownik Artyleryi <persName ref="Пузанов">Michał Alexiejewicz Puzanow</persName> —</l>
+      <l>iakowe tużę spowiada — żadney nieczyniąc, na dane Jemu Urzędowe za-</l>
+      <l>pytania, odpowiedzi — lecz tylko ustnie — iakby ma znaleźć w swoy —</l>
+      <l>czynności urzędnik, i swoie robi przepisy, dopominaiąc się całkowitego sobie</l>
+      <l>dostawienia Ukazu — kiedy sobie miał przez, dla Jego ziaśnienia, potrzebnie</l>
+      <l>wypisaną. Gdy zaś odwrotnie, ze świadectwa <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowskiego</persName>, że nie On,</l>
+      <l>lecz inni byli kumami, więc się z Xiędzem daley, mmiey potrzebne, nierobi,</l>
+      <l>porozumienie. Dla dopełnienia iednak woli Ukazu dano powieśtkę</l>
+      <l>Panią Podpułkownika <persName>Puzanową</persName>, a także <choice><abbr>JW<hi rend="superscript">ną</hi></abbr><expan>Jaśnie Wielmożną</expan></choice> <persName>Reutta</persName> żonę Mar-</l>
+      <l>szałka <placeName>Lepelskiego</placeName>, w tey samey myśli, co do Dzieła; iaką miał powie-</l>
+      <l>dzić Pan Podpułkownik —</l>
+    </p>
+    <p>
+      <l><hi rend="underline"><date when="1820-10-30">Dnia 30. Paździer:</date></hi> Na dane ode mnie Powieśtki — wprzód z pisma, iakowe przyłącza</l>
+      <l>do Dzieła — za dużą Corkę, donosił <choice><abbr>J. W.</abbr><expan>Jaśnie Wielmożny</expan></choice> Marszałek <persName>Reutto</persName> — że Ona być</l>
+      <l>niemogła kumą z J. Podpułkownikiem <persName ref="Пузанов">Puzanowym</persName> — przy Chrzcie <persName ref="Моше_Шнеерсон">żyda</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Mowszy</persName>, bo On od lat Ośmiu, iest pomieszanym na umyśle, i nawet</l>
+    </p>
+    <fw type="catch" place="bottom">w tey porze</fw>
     <pb n="100-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">100</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">25</del></fw>
+    <p>
+      <l>i nawet w tey porze w Domu swym nieznaydował: kiedy Go z <placeName ref="Улла">Uły</placeName></l>
+      <l><unclear>wywożono<note place="end">Читается wywożono. Рядом смотрелось wyprowadzono.</note></unclear> —</l>
+    </p>
+    <p>
+      <l><hi rend="underline">Dnia tegoż</hi> wprzód z doniesieniem <choice><abbr>W<hi rend="superscript">go</hi></abbr><expan>Wielmożnego</expan></choice> Komisarza Ziemskiego <placeName>Lepelskiego</placeName> <persName>Rylewicza</persName>,</l>
+      <l>by mi wydał <unclear>zaskrzepę<note place="end">Читается zaskrzepę, jeśli jest. Рядом смотрелось zaświadczenie и z kancelaryi.</note></unclear>, ieśli iest, akt Chrztu <persName ref="Моше_Шнеерсон">żyda Mowszy Szneiersona</persName></l>
+      <l>iakowy mu wydał w urzędzie w kopii, zkarty Metryczny Chrztu onego,</l>
+      <l>tu wniesiony do dzieła przez <choice><abbr>JX.</abbr><expan>Jegomość Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowskiego</persName> — a doniesienie</l>
+      <l>przyłącza do Dzieła —</l>
+    </p>
+    <p>
+      <l><date when="1820-10-30">Dnia tegoż 30. Października</date>, kończę ten akt śledztwa — niemając nic</l>
+      <l>więcej do Onego dopełnienia — postanawiam dać swoie przytom-</l>
+      <l>ne zdanie, o tey całey czynności <persName ref="Моше_Шнеерсон">żyda Mowszy</persName> — sprowadzić regestr <unclear>wziętych<note place="end">Читается wziętych tu papierów. Рядом смотрелось wertey.</note></unclear></l>
+      <l>tu papierów — Czynności te zanumerować — <unclear>za skrepie<note place="end">Короткое слово. Читается za skrepie. Дальше i za komon- / tować.</note></unclear>, i za komon-</l>
+      <l>tować — toż On przesłał przy raporcie do swego <unclear>Naczelnictwa<note place="end">Читается Naczelnictwa. Рядом смотрелось Zwierzchnictwa и Naoczelstwa.</note></unclear> —</l>
+    </p>
+    <closer>
+      <l>Dziekan <placeName>Lepelski</placeName></l>
+      <l><signed><choice><abbr>J. X.</abbr><expan>Jegomość Xiądz</expan></choice> <persName ref="Зраницкий">Zranicki</persName> <choice><abbr>S.T.</abbr><expan>Sacrae Theologiae</expan></choice> <unclear>D. D. D.<note place="end">После S.T. короткие знаки. Чтение D. D. D. Рядом смотрелось D. D. Дальше росчерк.</note></unclear></signed></l>
+    </closer>
     <pb n="100-2" missing="true"/>
   </body></text>
 </TEI>
