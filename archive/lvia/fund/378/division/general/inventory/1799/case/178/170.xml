@@ -7,9 +7,27 @@
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
-      <abstract>Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, представленное в
-      <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName>. Перевод на русский - см. <ref
-      target="/lvia1799-178/516">516</ref></abstract>
+      <abstract>
+        <p>
+          Объяснение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на польском языке, представленное в
+          <orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName>. Перевод на русский - см. <ref
+          target="/lvia1799-178/516">516</ref>
+        </p>
+        <p>
+          Перевод <ref target="/lvia1799-178/516">516</ref> передаёт объяснение близко. В подлиннике объяснение
+          <persName ref="Естко">Естко</persName> коменданту от <date when="1799-05-13">13 мая</date>, объяснение
+          <persName ref="Елиашевич">Елиашевича</persName> суду от <date when="1799-05-13">13 мая</date>, допрос
+          коменданта <date when="1799-03-15">15 марта 1799 года</date> и первая резолюция правления <date
+          when="1798-04-26">26 апреля 1798 года</date>. Перевод ставит 10 марта, 13 марта, 19 марта и 28 апреля.
+          <persName ref="Сербинович">Сербинович</persName> в подлиннике забыл, что <date when="1799-02-04">4
+          февраля</date> был праздник рождения Марии Павловны, а <persName ref="Палкин">Палкин</persName> забыл, что
+          <persName ref="Лейзар_Мовшович">Лейзер Мовшович</persName> до сих пор фактор в полиции. Перевод пишет, что оба
+          это упомнили. Откупщики заплатили не 3150, а 2650 рублей, из них 2100 при прежних старших. Перевод пишет «не
+          1150, но 2650» и «2160». Товиаш Абрамович один раз назван Фабияшем. Ассигнации отданы в рекрутскую комиссию,
+          перевод пишет в провиантскую. Избиратель Шимха Шимович передан как Шейевич. На ответ противной стороне
+          подлинник просит не менее полугода. Перевод пишет полтора года.
+        </p>
+      </abstract>
       <creation><date when="1799-06-28">1799 года июня месяца 28 дня/ июля 9 дня (по новому стилю)</date></creation>
     </profileDesc>
   </teiHeader>
@@ -472,7 +490,8 @@
       <fw type="pageNum" place="right">.6</fw>
       <pb n="175-2"/>
       <l><persName>Ercyka Hirszowicza</persName> y Moyżesza Aronowicza Szkolnikow.</l>
-      <l>Moyżesza Kapela y Anocha, Posługaczow Kahalnych,</l>
+      <l><persName>Moyżesza</persName> <persName ref="Копыл">Kopela</persName> y <persName ref="Енох_Янкелевич"
+      >Anocha</persName>, Posługaczow Kahalnych,</l>
       <l><persName>Judela Dawidowicza</persName>, Josiela <persName>Eliaszowicza</persName>, <persName>Dawida Ley<lb break="no"/>
       bowicza</persName>, Szymchi <persName>Szymowicza</persName> y Gierszona Jochelo</l>
       <l>wicza, Elektorow teyże Mniemaney Elekcyi_</l>
@@ -738,7 +757,7 @@
       <l>niezachowała się, Która podług Praw Kraio</l>
       <l>wych zachować się powinna była — A <choice><abbr>Wżny</abbr><expan>Wielmożny</expan></choice></l>
       <l><persName>Serbinowicz</persName>, mimo uwagi stał się rowną</l>
-      <l>Sprężyną do Ucisku nad <orgName ref="Хасиды">Karolinami</orgName> dopełnio</l>
+      <l>Sprężyną do Ucisku nad Kahalnemi dopełnio</l>
       <l>nego, Ktorego zarowno Skarzylismy, iako y <choice><abbr>JW<hi rend="superscript">o</hi></abbr><expan>Jaśnie Wielmożnego</expan></choice></l>
       <l><persName ref="Капцевич">Komendanta</persName> y <choice><abbr>W<hi rend="superscript">o</hi></abbr><expan>Wielmożnego</expan></choice> Sowietnika <persName ref="Елиашевич">Eliaszewicza</persName>.</l>
       <l>Ktoren to wspomniony WG<note place="end">Wielmożny Gubernski</note>: Kaznoczey takoż w</l>
