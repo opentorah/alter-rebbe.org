@@ -4,14 +4,17 @@
     <fileDesc><titleStmt>
       <author/>
       <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
+      <editor role="transcriber"><persName ref="Grok">Grok</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Запрос <placeName ref="Вильна">виленского</placeName> магистрата в городскую полицию о розыске уклонившихся
-        свидетелей и их доставлении в <orgName ref="Литовский_надворный_суд">Надворный суд</orgName>
+        Вторичное требование <placeName ref="Вильна">виленского</placeName> магистрата к городской полиции: ответа на
+        распоряжение 22 марта № 312, <ref target="/lvia1799-178/394">394</ref>, нет, и тех же шесть свидетелей надлежит
+        вызвать завтра, 27 марта, к восьми утра. Приложены адреса. Третье требование, уже о троих, — <ref
+        target="/lvia1799-178/397">397</ref>. Перевод: <ref target="/lvia1799-178/395-ru">ru</ref>.
       </p></abstract>
-      <creation><date when="1800-03-22">22 марта 1800 года</date></creation>
+      <creation><date when="1800-03-26">26 марта 1800 года</date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
@@ -49,17 +52,17 @@
     </p>
     <p>
       <l><persName ref="Мовша_Ицкович">Mowsza Jckowicz</persName> mieszka na Zarzeczu pod N<hi rend="superscript">m</hi>
-      1337.</l>
+      133.</l>
       <l><persName>Hirsz Jonowicz</persName> na Ƶydowskiey ulicy pod N<hi rend="superscript">m</hi> 249.</l>
       <l><persName>Aron Szepszelowicz</persName> na Jatkowey ulicy pod N<hi rend="superscript">m</hi> 235.</l>
-      <l><persName>Jona Judelowicz</persName> na Szklanney ulicy pod N<hi rend="superscript">m</hi> 220</l>
+      <l><persName>Jona Judelowicz</persName> na Szklanney ulicy pod N<hi rend="superscript">m</hi> 228</l>
       <l>Leyba_</l>
       <pb n="395-2"/>
       <l><persName>Leyba Wulfowicz</persName> przy Cekauzie pod N<hi rend="superscript">m</hi> 499.</l>
       <l><persName>Samuel Josielowicz</persName> na Snipiszkach pod N<hi rend="superscript">m</hi> 955.</l>
-      <l><date when="1800-03-22">Dnia 22 Marca 1800 Roku</date></l>
+      <l><date when="1800-03-26">Dnia 26 Marca 1800 Roku</date></l>
       <l><persName>Wincenty Zahorowa Mińkiewicz</persName></l>
-      <l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Rezyduiący</l>
+      <l>Burmistrz Miasta <placeName ref="Вильна">Wilna</placeName> Prezyduiący</l>
       <l><signed><unclear>???</unclear><note place="end">подпись бургомистра</note></signed></l>
       <l><persName ref="Franciszek_Sidorowicz">Franciszek Sidorowicz</persName><lb/>
        <placeName ref="Вильна"><choice><abbr>MW</abbr><expan>Miasta Wilna</expan></choice></placeName> Regent</l>
