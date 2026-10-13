@@ -1,17 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Сиодловский">Сиодловский</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Сиодловский">Сиодловский</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
       <abstract><p>
-        Объяснение ксендза <persName ref="Сиодловский">Сиодловского</persName>, данное лепельскому католическому декану <persName ref="Зраницкий"
-        >Зраницкому</persName> - на польском языке
+        Объяснение ксендза <persName ref="Сиодловский">Сиодловского</persName> лепельскому декану <persName
+        ref="Зраницкий">Зраницкому</persName> по предписанию от <date when="1820-10-28">28 октября 1820 года</date> за
+        № 509. Сам лист без даты: 29 октября — день получения. Семь пунктов о крещении водой <persName
+        ref="Моше_Шнеерсон">Мовши Шнееровича</persName> <date when="1820-07-04">4 июля 1820 года</date> в плебании
+        <placeName ref="Улла">Уллы</placeName>: восприемники и ассистенты, копия метрики при письме, подлинник у него,
+        требование Шнеера передано вице-декану <persName ref="Сушинский">Сушинскому</persName>, метрика в приходские
+        книги не внесена, декану не донесено по запрету Сушинского. Карандашный номер листа 89, зачёркнутый чернильный
+        14. Перевод: <ref target="/niab1401/089-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="089-1"/>
+    <fw type="note" place="top">Otrzymano <date when="1820-10-29">1820. <choice><abbr>8br</abbr><expan>Octobra</expan></choice> października 29<hi rend="superscript">go</hi></date></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">89</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">14</del></fw>
+    <salute>
+      <l>Wielmożnemu <choice><abbr>Jegom</abbr><expan>Jegomości</expan></choice> Xiędzu <persName ref="Зраницкий">Jorony Zranickiemu</persName></l>
+      <l>Dziekanowi <choice><abbr>Pttu</abbr><expan>Powiatu</expan></choice> <placeName>Lepelskiego</placeName></l>
+      <l>Komendarza Kościoła <placeName ref="Улла">Ulańskiego</placeName> —</l>
+      <l><persName ref="Сиодловский">Xiedza Siodłowskiego</persName> —</l>
+    </salute>
+    <head>
+      <l>Objaśnienie</l>
+    </head>
+    <p>
+      <l>Na skutek danego mnie pod dniem <date when="1820-10-28">28 <choice><abbr>msca</abbr><expan>Miesiąca</expan></choice> Pazdziernika</date> Roku</l>
+      <l>ninieyszego za <choice><abbr>Nro</abbr><expan>Numero</expan></choice> 509 od <choice><abbr>Wgo</abbr><expan>Wielmożnego</expan></choice> <choice><abbr>Wmci</abbr><expan>Waszmości</expan></choice> Pana Dobrodzieja Zalece-</l>
+      <l>nia potrzebującego abym stosowniej wedle wyrazow Onego na</l>
+      <l>wszystkie punkta odpowiedział, i Nay. akuratniey Objaśnił. Oczem</l>
+      <l>ninieyszym mem honor <choice><abbr>Wgo</abbr><expan>Wielmożnego</expan></choice> <choice><abbr>Wmci</abbr><expan>Waszmości</expan></choice> Pana Dobrodzieja w punktach</l>
+      <l>następujących pojaśnie — 1<hi rend="superscript">mo</hi> że <persName ref="Моше_Шнеерсон">Mowsze Sznejerowicza</persName> w <unclear>nagłey<note place="end">Конец строки у края листа. Читается nagłey: в этой крайней нужде. Дальше строка начинается с Tey potrzebie.</note></unclear></l>
+      <l>Tey potrzebie Ochrzciłem z Wody na <unclear>Nazw<note place="end">Четыре буквы, над концом черта. По смыслу nasz, «наш обряд». Рядом смотрелось сокращение nazwisko.</note></unclear> Obrządek Rzymsko-Katoli-</l>
+      <l>cki — nie w Kościele lecz prywatnie w Plebanij — 2<hi rend="superscript">do</hi> to działo się</l>
+      <l>w Niedzielę 7<hi rend="superscript">mą</hi> po Zielonych <choice><abbr>Świątk:</abbr><expan>Świątkach</expan></choice> przewzłego <choice><abbr>M<hi rend="superscript">ca</hi></abbr><expan>Miesiąca</expan></choice> Julij dnia <date when="1820-07-04">4<hi rend="superscript">go</hi></date> Ro-</l>
+      <l>ku bieżącego — o Godzinie Wtorey między trzecią po południu — 3<hi rend="superscript">tio</hi> Ku-</l>
+      <l>mami Onego byli. <persName>Gabryel Anaszkiewicz</persName>, z <persName>Justyną Bazkowską</persName>,</l>
+      <l>Asystentami <persName ref="Павел_Сидорович">Paweł Sidorowicz</persName>, z <persName>Rozalią Eliaszewiczową</persName> — a</l>
+      <l>co się tycze Świadkow. Ciż sami się <unclear>tłumowią<note place="end">Глагол сжат. Эти же лица и есть свидетели: о других он не помнит.</note></unclear>. bo o innych niepa-</l>
+      <l>miętam — i takową Metrykę w kopij Okładam — a Autentyk Oney</l>
+      <l>przy mnie się zostaje — 4<hi rend="superscript">to</hi> <persName ref="Моше_Шнеерсон">Mowsza Sznejer</persName> ustnie Obowiązywał</l>
+      <l>mnie, potrzebowany; naymocniey Prawił mnie aby co nayprędzey był Ochrzczonym, a</l>
+      <l>chociaż i było Objaśnienie przez tego <persName ref="Моше_Шнеерсон">Sznejera</persName> do mnie podane Żąda-</l>
+      <l>iącego, rychłego, i nieodmownego Chrztu; takowe Obowiązanie podałem</l>
+      <l><choice><abbr>Xdzu</abbr><expan>Xiędzu</expan></choice> <persName ref="Сушинский">Suszynskiemu</persName> Vice-Dziekanowi <placeName>Połockiemu</placeName> — ktory też</l>
+      <l>samey w Autentyku prezentat do <choice><abbr>JW<hi rend="superscript">go</hi></abbr><expan>Jaśnie Wielmożnego</expan></choice> Metropolity <persName ref="Богуш-Сестренцевич">Siestrzeń-</persName></l>
+      <l><persName ref="Богуш-Сестренцевич">cewicza</persName> — 5<hi rend="superscript">to</hi> że Metryka do dziś dnia nie jest <unclear>załączoną<note place="end">В слове большая петля. Чтение załączoną. Рядом смотрелось zaciągniętą, «не внесена»: дальше он пишет, что ждал окончания обрядов.</note></unclear> do</l>
+      <l>Xiąg Parochialnych — to wstrzymywało iż czekałem zupełnego ukon-</l>
+    </p>
+    <fw type="catch" place="bottom">czenia</fw>
     <pb n="089-2"/>
+    <p>
+      <l>Ukonczenia Ceremonij Chrztu <choice><abbr>S<hi rend="superscript">go</hi></abbr><expan>Świętego</expan></choice> — 6<hi rend="superscript">to</hi> o nie Raportowaniu</l>
+      <l>mieysowemu Dziekanowi — ta była przyczyna iż w Owczas Naydu-</l>
+      <l>jący w <placeName ref="Улла">Ulli</placeName> Vice-Dziekan <placeName>Połocki</placeName> <choice><abbr>Xdz.</abbr><expan>Xiądz</expan></choice> <persName ref="Сушинский">Suszynski</persName> nie kazał</l>
+      <l>mi tego czynić — 7<hi rend="superscript">mo</hi> Chrzest pomienionego <persName ref="Моше_Шнеерсон"><unclear>Mowsza<note place="end">Слово короткое. По имени в 1-м пункте читается Mowsza. Рядом смотрелось mraz.</note></unclear> Sznejera</persName>, usil-</l>
+      <l>niłem jako w nagłym Jego Żądaniu — bez wiedzy <unclear>Ziemskiey<note place="end">Середина сжата. Чтение Ziemskiej, согласовано с miasteczkowey Policji. Рядом смотрелось Ziemowszey.</note></unclear> — i mia-</l>
+      <l>steczkowey Policji — a Oświadczenie Onim jakiego był prowadzenia</l>
+      <l>nie będąc Żydem — Mieszkaniec miasteczka <placeName ref="Улла">Uły</placeName> naybliżey <unclear>zem<note place="end">Конец строки у края. Дальше строка начинается отдельным словом, не «nie».</note></unclear></l>
+      <l><unclear>Snadniey<note place="end">Первое слово строки. Рядом смотрелись Inaczey и zemnie. Глагол ниже — mogą, множественное число.</note></unclear> — dopiero wyznać i <unclear>przedwiedzieć<note place="end">Глагол неясен. По смыслу «засвидетельствовать». Рядом смотрелось poświadczyć.</note></unclear> mogą — Oczem usłu-</l>
+      <l>żyłem Nay-akuratniey Stosownie co do danych mnie Punktow</l>
+      <l><choice><abbr>Wgo</abbr><expan>Wielmożnego</expan></choice> <choice><abbr>Wmci</abbr><expan>Waszmości</expan></choice> Pana Dobrodzieja — Pojaśniłem</l>
+    </p>
+    <closer>
+      <l><signed><choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowski</persName></signed></l>
+      <l><signed>Komendarz <placeName ref="Улла">Ullański</placeName></signed></l>
+    </closer>
   </body></text>
 </TEI>
