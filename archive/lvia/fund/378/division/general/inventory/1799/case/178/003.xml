@@ -2,14 +2,17 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author/>
+      <author><persName ref="Мовша_Ошерович">Мовша Ошерович</persName></author>
       <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Жалоба на высочайшее имя от представителей отстраненного состава <orgName ref="Виленский_кагал">виленского
-        кагала</orgName>
+        Прошение <persName ref="Мовша_Ошерович">Мовши Ошеровича</persName> на высочайшее имя: <orgName
+        ref="Хасиды">каролины</orgName> при советнике <persName ref="Елиашевич">Елиашевиче</persName> отстранили <orgName
+        ref="Виленский_кагал">виленский кагал</orgName>, забрали бумаги и <date when="1799-02-06">6 февраля</date>
+        провели выбор восьми лиц. Подано <date when="1799-02-09">9 февраля 1799 года</date>. Перевод: <ref
+        target="/lvia1799-178/003-ru">ru</ref>.
       </p></abstract>
       <creation><date when="1799-02-09">9 февраля 1799 года</date></creation>
       <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
@@ -66,11 +69,11 @@
       <l>mieysce zastępuie teraz wedle Naywyższego Ukazu <orgName ref="Литовский_надворный_суд">Sąd Na-<lb break="no"/>
        dworny Gubernski Litewski</orgName> Zwyczaiow iednak dawnych, y raz</l>
       <l>ułozonego w tym Narodzie co do Duchowienstwa Porządku na</l>
-      <l>mocy słuzących od dawnych Krolow Przywilejow niezkas-</l>
+      <l>mocy słuzących sobie od dawnych Krolow Przywilejow niezkas-</l>
       <l>zowały y niezmieniły. —</l>
     </p>
     <p>
-      <l>Na tey to twierdzy zapadłe rozne Saneyta ywyroki w Kommisyach oraz</l>
+      <l>Na tey to twierdzy zapadłe rozne sancyta y wyroki w Kommisyach oraz</l>
       <pb n="003-2"/>
       <fw type="note" place="right"><placeName ref="Вильна">виленскій</placeName> уѣздный казначей<note place="end">пометка, удостоверяющая текст</note>
       </fw>
@@ -78,7 +81,7 @@
       <l>jakim Sposobem y na iaki przeciąg Czasu ludny Gmin</l>
       <l>Ƶydow miał wybierać dla siebie Zwierzchność Duchowną do u-</l>
       <l>trzymania Religii y Swiecką, czyli Cywilną, dla utrzymania</l>
-      <l>w Wiernosci Symplarzy, potrzebne pod ogulnym Tytułem Ka-</l>
+      <l>w Wiernosci Symplary, potrzebne pod ogulnym Tytułem Ka-</l>
       <l>hałow y Synagog dotąd exystowanych y licznemi Przywileja-</l>
       <l>mi dawnych Krolow zaszczyconych. Słowem mowiąc tak li-</l>
       <l>cznemi Ustawami zabespieczony ten Narod zawsze był wier-</l>
@@ -108,7 +111,7 @@
     </p>
     <p>
       <l>Nie długo wszakże y tą wygraną Rezolucyą, w którey Ustawy</l>
-      <l><orgName ref="Литовское_губернское_правление">Rządu</orgName> przeszłego Bez Rządem, a Nrod nasz podtym
+      <l><orgName ref="Литовское_губернское_правление">Rządu</orgName> przeszłego Bez Rządem, a Narod nasz podtym
       utytułowa-</l>
       <l>wszy Motłostwem pocieszyli się <orgName ref="Хасиды">Sektarze Karolini</orgName>. Gdyż prze-</l>
       <l>ciwko oney podał natychmiast <orgName ref="Виленский_кагал">Kahał</orgName> <persName ref="Булгаков">bywszemu
@@ -145,7 +148,7 @@
       <l>licyą, y tam one z <orgName ref="Хасиды">Sektarzami Karolinami</orgName> bez Widza Na-</l>
       <l>szego przezieraią; azarduiąc Nas na jakowy Podstęp, jaki</l>
       <l><orgName ref="Хасиды">Karolini Sektarze</orgName> wcisnieniem jakiego Paszkwilu domierzyc</l>
-      <l>mogą. Nadto wscisłe więzy Assesora Kahalnego <persName>Arona<lb/>
+      <l>mogą. Nadto wscisłe więzy Assesora Kahalnego <persName ref="Арон_Йонасович">Arona<lb/>
        Jonoszewicza</persName> wtrącili y dotąd onego trzymaią, ktorego</l>
       <l>tak pilnuią scisle, że ztrudnosią wielką iedzenia ledwo dosta-</l>
       <l>wic można.</l>
@@ -158,13 +161,13 @@
       <l>Wieczorem zas tego dnia rzeczony JW <persName ref="Капцевич">Kommendant</persName> zW Sowie-</l>
       <l>tnikiem <persName ref="Елиашевич">Eliaszewiczem</persName> bez Rezolucyi <orgName
       ref="Литовское_губернское_правление">Rządu Gubernskiego</orgName></l>
-      <l>wespoł z Gubernskim <persName>Kaznaczejem Sierbinowiczem</persName> Plac Majorem</l>
+      <l>wespoł z Gubernskim <persName ref="Сербинович">Kaznaczejem Sierbinowiczem</persName> Plac Majorem</l>
       <pb n="004-2"/>
       <fw type="note"><placeName ref="Вильна">виленскій</placeName> уездный казначей</fw>
-      <l>Majorem <persName>Pałkinem</persName> zDziesiątnikami y <orgName ref="Хасиды">Karolinami</orgName> przyby-</l>
+      <l>Majorem <persName ref="Палкин">Pałkinem</persName> zDziesiątnikami y <orgName ref="Хасиды">Karolinami</orgName> przyby-</l>
       <l>wszy do Szkoły Żydowskiej Wilenskiey wtenczas kiedy się</l>
       <l>iuz cały Narod ku Modlitwie do Szkoły zebrał, po zaczęciu</l>
-      <l>już Nabożenstwa wypowiedział Sowietnik <persName ref="Елиашевич">Eliaszewisz</persName>, że</l>
+      <l>już Nabożenstwa wypowiedział Sowietnik <persName ref="Елиашевич">Eliaszewicz</persName>, że</l>
       <l>nie może być Nabożeństwo podług Religii naszey odprawio-</l>
       <l>ne, gdyż ma pierwiey ogłosic, że nie ma <orgName ref="Виленский_кагал">Kahału</orgName> y Sądu</l>
       <l>Duchownego a na wybor którego dzień Niedzielny prze-</l>
@@ -173,7 +176,7 @@
       <l>Imienia prosił o Kommunikacyą takowego <choice><abbr>JW</abbr><expan>Jaśnie Wielmożnego</expan></choice> <persName ref="Лассий">Generał Gu-<lb break="no"/>
        bernatora</persName> Nakazu oswiadczaiąc przybyłym ze lubo dziesięć</l>
       <l>tylko Niedziel teraznieyszy <orgName ref="Виленский_кагал">Kahał</orgName> ma ieszcze exystować,</l>
-      <l>wszelak naypownnieyszą wzgędem siebie uczyni uległość</l>
+      <l>wszelak naypowinnieyszą wzgędem siebie uczyni uległość</l>
       <l>byleby tylko wproponowanym Wyborze Nowego <orgName ref="Виленский_кагал">Kahału</orgName></l>
       <l>zachowana była Formalność wedle starych Zwyczajów</l>
       <l>Dawnemi Przywilejami i Ukazami Monarszemi zatwierdzo-</l>
@@ -219,12 +222,12 @@
     <p>
       <l>W takim Ucisku na osbach naszych domierzony ja-</l>
       <l>ko to oddaleniem od Urzędow przed wysledzeniem Grzechu</l>
-      <l>bez formalnego <orgName ref="Литовский_надворный_суд">Sądu</orgName> yDekretu, osiągnieniemeim Examinow</l>
+      <l>bez formalnego <orgName ref="Литовский_надворный_суд">Sądu</orgName> yDekretu, osiągnieniem Examinow</l>
       <l>słownych pod strachem bicia, więzow y pokilkanaście</l>
       <l>razy wdzień domierzający się po Złamaniu wszelkiego</l>
-      <l>porządku. Udawaliśmy się do JW Prokurora <persName>Tormas-<lb break="no"/>
+      <l>porządku. Udawaliśmy się do JW Prokurora <persName ref="Тормасов">Tormas-<lb break="no"/>
        sowa</persName> lecz gdy pomieniony Prokuror składaiąc się</l>
-      <l>niewiadomością o nastałym Zaleceniu JW <persName ref="Лассий">Genarał<lb/>
+      <l>niewiadomością o nastałym Zaleceniu JW <persName ref="Лассий">Generał<lb/>
        Gubernatora</persName> nie dał nam żadney pomocy. Przeto teraz</l>
       <l>Naypoddaniey prosiemy._</l>
     </p>
@@ -241,26 +244,24 @@
       <l>gulnie Ƶydom Wilenskim od dawnych Krolow Polskich</l>
       <l>Manifestami Monarszemi zatwierdzonych nowe zas osm osoby</l>
       <pb n="005-2"/>
-      <l>Osoby <date when="1799-02-06">w dniu 6. Februanii 1799. Roku</date> nieprawnie</l>
-      <l>y nielegalnie oraz nie wczasie pzyzwoitym nie mniey</l>
+      <l>Osoby <date when="1799-02-06">w dniu 6. Februarii 1799. Roku</date> nieprawnie</l>
+      <l>y nielegalnie oraz nie wczasie przyzwoitym nie mniey</l>
       <l>y przeciwko Zwyczajom dawnym obranych usunąć.</l>
-      <p>
-        <l>2<hi rend="superscript">do</hi> Wskazać Kahałowi Drogę gdzie y w ktorym miey-</l>
-        <l>scu ma szukać Sprawiedliwości na <orgName ref="Хасиды">Karolinow</orgName> y Ich</l>
-        <l>Protektorow za dopełnione rozne Bezprawie y Akcye._</l>
-      </p>
+      <l>2<hi rend="superscript">do</hi> Wskazać Kahałowi Drogę gdzie y w ktorym miey-</l>
+      <l>scu ma szukać Sprawiedliwości na <orgName ref="Хасиды">Karolinow</orgName> y Ich</l>
+      <l>Protektorow za dopełnione rozne Bezprawie y Akcye._</l>
     </p>
     <p>
       <l>3<hi rend="superscript">tio</hi> Jeżeli Rządowi zda się potrzeba okalkulowac <orgName ref="Виленский_кагал"
       >Ka-<lb break="no"/>
-       hał</orgName> z Percept y Exponsow wyznaczyć Osob nie Inte-</l>
+       hał</orgName> z Percept y Expensow wyznaczyć Osob nie Inte-</l>
       <l>resowynch nieoskarzonych y do zadney Strony nie</l>
-      <l>przychylnych, albo litez odesłać to Dzieło do For-</l>
+      <l>przychylnych, albolitez odesłać to Dzieło do For-</l>
       <l>malnego Sądu, Ktoren wedle Ukazow Jego Impe-</l>
       <l>ratorskiey Mosci do takowych Dzieł należy. 4<hi rend="superscript">to</hi></l>
-      <l>Zapytać <persName ref="Нохим_Ицкович">Nochima Jckowicza</persName> z Biało Rusi urodzonego</l>
-      <l>a teraz niedawno w Wilnie mieszkaiącego za Jakiemi</l>
-      <l>Widami iest on wyzwolony z Guberni Biało Ruskiey</l>
+      <l>Zapytać <persName ref="Нохим_Ицкович">Nochima Jckowicza</persName> z <placeName ref="Белоруссия">Biało Rusi</placeName> urodzonego</l>
+      <l>a teraz niedawno w <placeName ref="Вильна">Wilnie</placeName> mieszkaiącego za Jakiemi</l>
+      <l>Widami iest on wyzwolony z Guberni <placeName ref="Белоруссия">Biało Ruskiey</placeName></l>
       <l>co za Sposob do Ƶycia on ma w <placeName ref="Вильна">Wilnie</placeName> y zakazać</l>
       <l>onemu aby odtąd Jntryg żadnych nie formował, Po-</l>
       <l>spulstwo nie burzył, nowe Sekty y Obrządki w Religii</l>
@@ -271,8 +272,8 @@
     <p>
       <l>Najmiłościwszy Panie proszę Waszey Impera-</l>
       <l>torskiej Mosci w tey mojey Prozbie uczynić Decyzyą.</l>
-      <l>Należy ku podaniu w Urzędzie Gubernskim Litewskim</l>
-      <l><date when="1799-02-06">Roku 1799. Miesiąca Februarii 9 dnia</date>._</l>
+      <l>Należy ku podaniu w Rządzie Gubernskim Litewskim</l>
+      <l><date when="1799-02-09">Roku 1799. Miesiąca Februarii 9 dnia</date>._</l>
       <l><unclear>??? ??? ???</unclear><note place="end">подпись на иврите</note></l>
     </p>
   </body></text>
