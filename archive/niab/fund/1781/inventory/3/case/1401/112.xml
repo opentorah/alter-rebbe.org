@@ -1,17 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Зраницкий">Зраницкий</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Зраницкий">Зраницкий</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-12-02">2 декабря 1820 года</date></creation>
       <abstract><p>
-        Рапорт католического декана <persName ref="Зраницкий">Зраницкого</persName> в Могилевскую духовную римско-католическую
-        консисторию
+        Рапорт лепельского декана <persName ref="Зраницкий">Зраницкого</persName> в Могилевскую римско-католическую
+        митрополитальную духовную консисторию от <date when="1820-12-02">2 декабря 1820 года</date>, из <placeName
+        ref="Бешенковичи">Бешенковичей</placeName>. По указу за № 1967 <date when="1820-11">ноября 1820 года</date>,
+        полученному 30-го числа прошлого месяца, он отвечает на обвинение подполковника артиллерии <persName
+        ref="Пузанов">Пузанова</persName>: будто декан и капитан низшего лепельского суда <persName>Гилевич</persName>
+        угрозами брали показания у кумовьёв еврея <persName ref="Моше_Шнеерсон">Мовши Шнеерсона</persName>. Клянётся, что
+        свидетелей не стращал, а только требовал правды. Ссылается на слова <persName ref="Сиодловский">Сиодловского
+        </persName> о прибывших в <placeName ref="Улла">Улу</placeName> евреях и на двор маршалка <persName>Реута
+        </persName>. Входящий № 1820, получен <date when="1820-12-08">8 декабря</date>; внизу слева № 729. Карандашный
+        номер листа 112, зачёркнутый чернильный 27. Оборот отсутствует. Перевод: <ref target="/niab1401/112-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="112-1"/>
+    <fw type="docNum">№ 1820</fw>
+    <fw type="note" place="top">dnia <date when="1820-12-08">8. grudnia 1820 roku</date> —</fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">112</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">27</del></fw>
+    <salute>
+      <l>Do Metropolitalnego Mohilewskiego Rzymsko-Katolickiego Duchownego Konsystorza</l>
+    </salute>
+    <head>
+      <l>Dziekana <placeName><choice><abbr>Lepel.</abbr><expan>Lepelskiego</expan></choice></placeName> <choice><abbr>Gub:</abbr><expan>Gubernii</expan></choice></l>
+      <l>Raport, osnowie Ukazu!</l>
+    </head>
+    <p>
+      <l>w Skutek Jego Cesarskiej Mości Ukazu z Urzędu Duchownego za <choice><abbr>№</abbr><expan>Numero</expan></choice> 1967. <choice><abbr>mca</abbr><expan>Miesiąca</expan></choice> listo-</l>
+      <l><date when="1820-11">pada 1820.</date> danego, a 30. przeszłego otrzymanego — mam honor następnie</l>
+      <l>złożyć się. Niewiem z jakich powodów Pan Podpułkownik od artyleryi</l>
+      <l><persName ref="Пузанов">Puzanow</persName> oskarżył mnie, i Pana Kapitana Niższego Sądu <placeName>Lepelskiego</placeName> <persName><unclear>hy-<note place="end">Читается hy-. Рядом смотрелось Ry-. Дальше через перенос lewicza.</note></unclear></persName></l>
+      <l><persName>lewicza</persName>, iakobym się z pogrożkami, i <unclear>nastrofając<note place="end">Читается nastrofając. Рядом смотрелось nastraszając, «пугая».</note></unclear> kumów żyda <persName ref="Моше_Шнеерсон">Mowszy</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Szneiersona</persName> z Ich sobie <unclear>dyprozy<note place="end">Читается dyprozy. Рядом смотрелось depozy, «показания».</note></unclear>. Bogiem się ślubuję, i Jego na świadec-</l>
+      <l>two wzywam, że żadnego ani z kumów, ani z innych świadków, niczym</l>
+      <l>niestraszyłem, tylko Im, przed Ich zeznaniami, iak <unclear>wyczytał<note place="end">Читается wyczytał, «зачитал». Рядом смотрелось huczytał.</note></unclear> karę!</l>
+      <l>uważyłem, by samą nayczystszą prawdę składali; bo idzie o rzecz Boską</l>
+      <l>i zbawienia, i owszem dowodzę, że jeśliby został fałszywie —</l>
+      <l>żyd <persName ref="Моше_Шнеерсон">Szneierson</persName> został, albo Chrześcianinem nieochrzczonym, albo</l>
+      <l>i żydem, i ochrzczonym: to by wyszło zeznaniach, sami widzieć by-</l>
+      <l>nie pokazał, albo <unclear>judyktowali<note place="end">Читается judyktowali. Рядом смотрелось iudykowali.</note></unclear>, i sami to podpisali; <unclear>naycharakterniey<note place="end">Читается naycharakterniey. Рядом смотрелось naycharakternieyszy. Следующая строка начинается с wszystko.</note></unclear></l>
+      <l>wszystko swe Dziele, wedle summienia, i prawdy <unclear>Uobiorym<note place="end">Читается Uobiorym. Рядом смотрелось obowiązkiem.</note></unclear>, moiemu</l>
+      <l>przedstawiłem wcześnie; niekalając wniczem, potem Dziele, wedle urzędu</l>
+      <l>mojego przełożę. tudzież też ani widziałem <unclear>sute porę<note place="end">Читается sute porę. Рядом смотрелось skutku.</note></unclear>, ani <unclear>znan<note place="end">Читается znan. Рядом смотрелось znam.</note></unclear></l>
+      <l>tego mieć <add place="above">w <placeName ref="Улла">Ule</placeName></add> <unclear>wcale<note place="end">Читается wcale. Над строкой приписано w Ule.</note></unclear> <unclear>niteż<note place="end">Читается niteż. Рядом смотрелось ni też.</note></unclear>; iak mowi <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowski</persName>, przybyłych Żydów.</l>
+      <l>Cały Dwór <choice><abbr>JWo</abbr><expan>Jaśnie Wielmożnego</expan></choice> marszałka <add place="above"><persName>Reutta</persName></add> mam za świadków — i na <unclear>umyśl<note place="end">Читается umyśl, «нарочно». Рядом смотрелось umysł.</note></unclear>, żeby prawdę</l>
+      <l>wszego uniknąć podejrzenia, w onym podanym o uczciwości w miasteczku</l>
+      <l><placeName ref="Улла">Uły</placeName>. Jakowe to objaśnienie mam honor do wyższej zwierz-</l>
+      <l>chności uwagi, mojego naczelnictwa, niniejszym raportem przedstawione.</l>
+    </p>
+    <fw type="docNum" place="lower left">№ 729.</fw>
+    <closer>
+      <l><signed>Dziekan <placeName>Lepelski</placeName> <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> J. J. <persName ref="Зраницкий">Zranicki</persName></signed></l>
+      <l><choice><abbr>S.T.D.</abbr><expan>Sacrae Theologiae Doctor</expan></choice> <unclear>D. D. D.<note place="end">После S.T.D. короткие знаки. Чтение D. D. D. Рядом смотрелось P. B. D. Дальше росчерк.</note></unclear></l>
+      <l><date when="1820-12-02"><choice><abbr>mca</abbr><expan>Miesiąca</expan></choice> Grudnia 2 Dnia</date></l>
+      <l><date when="1820-12-02">1820. roku</date></l>
+      <l>w <placeName ref="Бешенковичи">Bieszenkowiczach</placeName></l>
+    </closer>
     <pb n="112-2" missing="true"/>
   </body></text>
 </TEI>
