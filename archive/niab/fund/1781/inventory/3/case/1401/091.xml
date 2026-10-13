@@ -1,19 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName>Габриэль Онашкевич</persName></author>
+      <author><persName>Юстина Базковская</persName></author>
+      <author><persName>Розалия Элиашевичева</persName></author>
+      <author><persName>Макарий Голубицкий</persName></author>
+      <author><persName>Авдаким Сидоров</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
-      <creation><date when="1820-10-29">29 локтября 1820 года</date></creation>
+      <creation><date when="1820-10-29">29 октября 1820 года</date></creation>
       <abstract><p>
-        Показания – на польском языке – разных лиц относительно ксендза <persName ref="Сиодловский">Сиодловского</persName> и <persName
-        ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+        Показания <date when="1820-10-29">29 октября 1820 года</date> о крещении водой <persName
+        ref="Моше_Шнеерсон">Мовши Шнеера</persName> <date when="1820-07-04">4 июля 1820 года</date> в плебании <placeName
+        ref="Улла">Уллы</placeName>. Габриэль Онашкевич, Юстина Базковская и Розалия Элиашевичева — о том, как были
+        восприемниками; Макарий Голубицкий, ризничий улльского костела, при крещении не был; Авдаким Сидоров видел
+        раввина в плебании и вывоз в <placeName ref="Бешенковичи">Бешенковичи</placeName>, крещения не видел. За двоих
+        последних подписывается Юзеф Красовский. Карандашные номера 91 и 92, зачёркнутые чернильные 16 и 17. Лист 092 в
+        этом же файле. Перевод: <ref target="/niab1401/091-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="091-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">91</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">16</del></fw>
+    <head>
+      <l><date when="1820-10-29">1820: <choice><abbr>R<hi rend="superscript">u</hi></abbr><expan>Roku</expan></choice> <choice><abbr>m<hi rend="superscript">ca</hi></abbr><expan>Miesiąca</expan></choice> Oktobra 29<hi rend="superscript">o</hi> Dnia</date> Zeznania położonych</l>
+      <l>Kumow przez <choice><abbr>X:</abbr><expan>Xiądza</expan></choice> <persName ref="Сиодловский">Siodłowskiego</persName>, w Ochrzczeniu Żyda <persName ref="Моше_Шнеерсон">Moyzesza</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Sznejera</persName> w <placeName ref="Улла">Ule</placeName>.</l>
+    </head>
+    <p>
+      <l><persName>Gabryel Michała Syn Onaszkiewicz</persName>, 39. Latt od Urodzenia Wiary<note place="end">Строка кончается на Wiary. Определения веры на следующей строке нет.</note></l>
+      <l><unclear>Umielny<note place="end">Слово читается Umielny. В формуле состояния ожидалось бы Uczciwy.</note></unclear> Mieszkaniec Miasteczka <placeName ref="Улла">Uły</placeName> Szlachcic, na uczynione</l>
+      <l>Umnie Zapytanie, onże własney Ręki pismem wyznał</l>
+      <l>Że w Roku terazniejszym Miesiąca Julia <date when="1820-07-04">4 Dnia</date>, po obiedzie o trze-</l>
+      <l>ciey Godzinie przybywszy do Plebanij <placeName ref="Улла">Ulańskiey</placeName> <choice><abbr>Xdza</abbr><expan>Xiedza</expan></choice> <persName ref="Сиодловский">Siodłowskiego</persName></l>
+      <l>Zapotrzebowany w Kumy Dla <unclear>obrzenia<note place="end">Слово читается obrzenia. Рядом смотрелось obrzędu. У Юстины в том же месте dla Ochrzczenia.</note></unclear> <placeName ref="Улла">Ulańskiego</placeName> Żyda <persName ref="Моше_Шнеерсон">Mowszy</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Sznejera</persName> Do tego przychyliwszy się stanąłem kumem w parze z</l>
+      <l><persName>Panią Bazkowską</persName>, trzymałem Do Chrztu wyż rzezonego Żyda</l>
+      <l>a Xiądz <persName ref="Сиодловский">Siodłowski</persName> Ochrzcił Wodą y dał Imie Jemu <persName ref="Моше_Шнеерсон">Leon Julewicz</persName></l>
+      <l>przy jałowym Chrzcie Świadkami byli <persName ref="Павел_Сидорович">Paweł Sidorowicz</persName> y</l>
+      <fw type="note" place="left"><unclear>Powrót<note place="end">На левом поле, между строками. Через слово длинная черта. Чтение Powrót.</note></unclear></fw>
+      <l>Xiędzu <persName>Eliaszewicza</persName> Żona a więcey <unclear>nikogo<note place="end">Слово читается nikogo. Рядом смотрелось miłego.</note></unclear> tam nie było y był<unclear>em<note place="end">У тёмного края листа. Дальше строка начинается с Cerymonij.</note></unclear></l>
+      <l><unclear>Cerymonij<note place="end">Первая буква похожа на U. Чтение Cerymonij, «церемоний».</note></unclear> nad Żydem Sakramentu nikomu niewyjawiwszy</l>
+      <l>Jeżeli niesprawiedliwie wyznaję Obowiązuję się ulegać wedle prawa</l>
+      <l>karom, wyznaję jeszcze i to ze Świadectwo Ochrzczeniu Żyda <persName ref="Моше_Шнеерсон">Mo-</persName></l>
+      <l><persName ref="Моше_Шнеерсон">wszy</persName> podpisaliśmy na zajutrz <date when="1820-07-05">piątego Julia</date> w tym podpisując</l>
+    </p>
+    <closer>
+      <l>Takowe moie zeznanie własnoręcznie podpisuję</l>
+      <l><signed><unclear>X<note place="end">Крест перед именем, не сокращение Xiądz.</note></unclear> <persName>Gabryel Onaszkiewicz</persName></signed></l>
+    </closer>
     <pb n="091-2"/>
+    <p>
+      <l><persName>Justyna Bazkowska</persName> na uczynione Zapytanie nizey własną Ręką</l>
+      <l>podpisana, wyznała że w Roku terazniejszym <choice><abbr>mca</abbr><expan>Miesiąca</expan></choice> Julij</l>
+      <l>to iest w niedziele <date when="1820-07-04">Czwartego Dnia</date> Około godziny trzeciey po obiedzie</l>
+      <l>byłam użyta od Xiedza <persName ref="Сиодловский">Siodłowskiego</persName> w kumy dla Ochrzczenia</l>
+      <l><placeName ref="Улла">Ulańskiego</placeName> <persName ref="Моше_Шнеерсон">Żyda Rabina</persName> i bez przybyciem do Plebanij Sekretnym</l>
+      <l>sposobem w Pokoiku, Stanowszy w parze z <persName>Gabryelem Onaszki-</persName></l>
+      <l><persName>wiczem</persName>, a w Drugiey parze <choice><abbr>Xdza</abbr><expan>Xiedza</expan></choice> <persName>Eliaszewicza</persName> Parocha <placeName ref="Улла">Ulańskiego</placeName></l>
+      <l>Żona z <persName ref="Павел_Сидорович">Pawłem Sidorowiczem</persName> trzymaliśmy do Chrztu a Xiądz</l>
+      <l><persName ref="Сиодловский">Siodłowski</persName> bez <unclear>Komży<note place="end">После Kom буква с нижним выносом. Чтение Komży, «без комжи». Рядом смотрелось Komusy.</note></unclear> i przybiwszy wodą zlewał przy jałowym</l>
+      <l>czynności <unclear>nikogo<note place="end">Слово читается nikogo.</note></unclear> Świadkiem nie było i O takowym Ochrzczeniu</l>
+      <l>Świadectwo Xiędzu <persName ref="Сиодловский">Siodłowskiemu</persName> podpisali wszyscy razem</l>
+      <l>tego Dnia w Niedzielę przytym Xiądz zalecił aby O takowey</l>
+      <l>czynności był dochowany Sekret w czym podpisując</l>
+    </p>
+    <closer>
+      <l>takowe moie Zeznanie Własną Ręką podpisuję</l>
+      <l><signed><persName>Justyna Bazkowska</persName></signed></l>
+    </closer>
+    <p>
+      <l><persName>Rozalia Eliaszewiczowa</persName> Parocha <placeName ref="Улла">Ulańskiego</placeName> Żona na zapytanie wy-</l>
+      <l>znaje że była roku teraźnieyszego <choice><abbr>m<hi rend="superscript">ca</hi></abbr><expan>Miesiąca</expan></choice> Julij <date when="1820-07-04">czwartego dnia</date></l>
+      <l>w Niedzielę przed Nieszporami w plebanij Łacińskiey użyta</l>
+      <l>od Xiedza <persName ref="Сиодловский">Siodłowskiego</persName> w Kumy dla Ochrzczenia <placeName ref="Улла">Ulańskiego</placeName></l>
+      <l><persName ref="Моше_Шнеерсон">Żyda Rabina</persName> stawałem w parze z <persName ref="Павел_Сидорович">Pawłem Sidorowiczem</persName>, a</l>
+      <l>w pierwszey parze <persName>Gabryel Onaszkiewicz</persName> z <persName>Justyną Bazkow-</persName></l>
+      <l><persName>ską</persName> y w Obecnosci tych Kumow Chrzcił woda Xiądz <persName ref="Сиодловский">Siodło-</persName></l>
+      <l><persName ref="Сиодловский">wski</persName> y kazał mieć w sekrecie, a kiedy do Chrztu tey me-</l>
+      <l>tryki podpisali się niepamiętam, Oraz że przy takowey czy-</l>
+      <l>nności nikogo niebyło to wiem pewnie i w tym <unclear>własną<note place="end">Слово сжато у сгиба. Чтение własną: дальше «ręką».</note></unclear> ręką</l>
+    </p>
+    <closer>
+      <l>podpisuję. — <signed><persName>Rozalija Elijaszewiczowa</persName></signed></l>
+    </closer>
     <pb n="092-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">92</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">17</del></fw>
+    <head>
+      <l><date when="1820-10-29">1820. <choice><abbr>R<hi rend="superscript">u</hi></abbr><expan>Roku</expan></choice> <choice><abbr>8br</abbr><expan>Octobra</expan></choice> 29. Dnia</date></l>
+    </head>
+    <p>
+      <l><persName>Makary Hołubicki</persName> Katolickie<hi rend="superscript">go</hi> Religii na Examinie wyznał iż on—</l>
+      <l>znayduiąc się przy <placeName ref="Улла">Ulańskim</placeName> Katolickim Kościele Zakrystyanem wyznał</l>
+      <l>gdy <persName ref="Моше_Шнеерсон">Żyda</persName> <placeName ref="Улла">Ulańskiego</placeName> <persName ref="Моше_Шнеерсон">Moysieja</persName> przyprowadzono do oney y nadrugi-</l>
+      <l>dzień, potem na <unclear>vpraw chyżki<note place="end">Два слова не разобраны. То же сочетание на обороте, там дальше w zarobku. Затем он пишет, что уехал из Уллы.</note></unclear> kładł się z <placeName ref="Улла">Ułły</placeName> a na mieyscu swoim zosta-</l>
+      <l>wił dopełnienia Obowiązku Zakrystiana, Brata stryiecznego <persName>Awdaki-</persName></l>
+      <l><persName>ma</persName>, który y przy Xiędzu <persName ref="Сиодловский">Siodłowskim</persName> znayduiąc się Chłopcem odbywał</l>
+      <l>posługi i dokładniej wiedzieć może, czy <persName ref="Моше_Шнеерсон"><unclear>mawka<note place="end">Буквы читаются mawka. Выше он назван Moysieja, на обороте — Mowszę.</note></unclear></persName> ochrzczony, lub nie</l>
+      <l>a On <persName>Makary</persName> przy Ochrzczeniu nie był. —</l>
+    </p>
+    <closer>
+      <l>do takowego Examinu po prośbie <persName>Makara Hołubickiego</persName> podpisuję się</l>
+      <l><signed><persName>Józef <unclear>Krasowski<note place="end">Фамилия читается Krasowski. Начало закрыто росчерком. Рядом смотрелось Własowski.</note></unclear></persName></signed></l>
+      <l><signed><unclear>Horodniczy<note place="end">Строка под росчерком. Чтение Horodniczy. Рядом смотрелось Xiądz Pleban.</note></unclear></signed></l>
+    </closer>
+    <fw type="note" place="left"><persName ref="Зраницкий"><unclear>Zranicki<note place="end">На левом поле, подчеркнуто. Первая буква в сгибе.</note></unclear></persName></fw>
     <pb n="092-2"/>
+    <p>
+      <l><persName>Audakim Sidorow</persName> na Examinie wyznał że on <unclear>posługuiąc<note place="end">Конец строки у края. Окончания, в том числе się, не видно.</note></unclear></l>
+      <l><unclear>ta<note place="end">Короткое слово. Рядом смотрелось tego. Дальше iego Makara.</note></unclear> iego <persName>Makara</persName> Zakrystiana na <unclear>vpraw chyżki<note place="end">Те же два слова, что у Макария. Дальше w zarobku, «в заработке».</note></unclear> w zarobku od pier-</l>
+      <l>wszych Dni Julij zastępował przy Kościele <placeName ref="Улла">Ulańskim</placeName> mieysce</l>
+      <l><unclear>Za<note place="end">Начало строки у сгиба. Дальше ясно krystiana.</note></unclear>krystiana i jest razem Chłopcem w Plebanij u Xiedza <persName ref="Сиодловский">Siodłow.</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName>, i widział <persName ref="Моше_Шнеерсон">Żyda Mowszę</persName> Rabina gdy był wzięty do Pleba-</l>
+      <l>nij y wywieziony do <placeName ref="Бешенковичи">Bieszenkowicz</placeName> jednak gdyby był chrzczo-</l>
+      <l>ny Xiędzem <persName ref="Сиодловский">Siodłowskim</persName> tego nie widział y O tym nie słyszał an</l>
+      <l><unclear>wet<note place="end">Начало строки. Вместе с an в конце предыдущей читается ani też.</note></unclear> y do Ochrzczenia jako Zakrystyan y razem Chłopiec Xiedza</l>
+      <l><persName ref="Сиодловский">Siodłowskiego</persName> posługi żadney w tey mierze potrzebney nie czynił</l>
+    </p>
+    <closer>
+      <l>do tego Examinu po prośbie <persName>Audakima Sidorowego</persName> podpisuję się</l>
+      <l><signed><persName>Józef <unclear>Krasowski<note place="end">Та же подпись, что на лицевой стороне. Фамилия читается Krasowski. Рядом смотрелось Własowski.</note></unclear></persName></signed></l>
+      <l><signed><unclear>Horodniczy<note place="end">Строка под росчерком, как на лицевой стороне. Чтение Horodniczy. Рядом смотрелось Xiądz Pleban.</note></unclear></signed></l>
+    </closer>
   </body></text>
 </TEI>
