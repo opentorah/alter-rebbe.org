@@ -8,11 +8,15 @@
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Документ на польском языке, свидетельствующий о кражах, совершенных <persName ref="Мордух_Лейзерович">Мордухом Лейзеровичем</persName> -
-        свидетелем по делу в <orgName ref="Литовский_надворный_суд">Литовском надворном суде</orgName>, представленным
-        <persName ref="Мовша_Ошерович">Мовшей Ошеровичем</persName>
+        Свидетельство <persName>Михала Выржиковского</persName>, лифляндского подчашего: несколько лет назад у него
+        пропал первосортный мех, потом возвращённый; кражу совершил <persName ref="Мордух_Лейзерович">Мордух
+        Лейзерович</persName>, свидетель по делу в <orgName ref="Литовский_надворный_суд">Литовском надворном
+        суде</orgName>, представленный <persName ref="Мовша_Ошерович">Мовшей Ошеровичем</persName>. Дано <date
+        when="1799-10-21">21 октября (1 ноября по новому стилю) 1799 года</date>. Перевод: <ref
+        target="/lvia1799-178/417-ru">ru</ref>.
       </p></abstract>
-      <creation><date when="1799-10-01">1 октября 1799 года</date></creation>
+      <creation><date when="1799-10-21">21 октября (1 ноября по н. ст.) 1799 года<note place="end">Месяц записан 9bra,
+      ноябрь. DNS — день по новому стилю.</note></date></creation>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
@@ -30,8 +34,9 @@
       <l>Wiernie przyswiadczaiąc podpisuięsię. Pisan w</l>
       <l>
         <placeName ref="Вильна">wilnie</placeName>
-        <date when="1799-10-01">Roku 1799 <choice><abbr>mca</abbr><expan>Miesiąca</expan></choice> <choice><abbr>Obra</abbr><expan>Oktobra</expan></choice>
-        pierwszego DNS<note place="end">Dnia – według nowego stylu (дня по новому стилю)</note></date>
+        <date when="1799-10-21">Roku 1799 <choice><abbr>mca</abbr><expan>Miesiąca</expan></choice> <choice><abbr>9bra</abbr><expan>Novembra</expan></choice>
+        pierwszego DNS<note place="end">9bris — ноябрь. DNS — dnia nowego stylu. 1 ноября по новому стилю — 21 октября по
+        старому.</note></date>
       </l>
       <l><persName>Michał Wyrzykowski</persName></l>
       <l>Podcz Jnflandz<note place="end">Podczaszy Jnflandzi (лифляндский подчаший)</note></l>
@@ -59,7 +64,7 @@
         <l>Prawo mieć chcę</l>
         <l>podpisuię się_</l>
         <l><persName>Jgnacy Snarski</persName></l>
-        <l>Mostow. Brasła<note place="end">вероятно, Brasławski</note></l>
+        <l>Mostow. Brasła<note place="end">Mostowniczy Brasławski</note></l>
       </p></cell>
     </row></table>
     <pb n="417-2"/>

@@ -2,16 +2,21 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt>
-      <author/>
+      <author><persName ref="Мовша_Вульфович">Мовша Вульфович</persName></author>
       <editor role="transcriber"><persName ref="AW">Alina Wolska</persName></editor>
       <editor role="encoder"><persName ref="VK">Василий Когаловский</persName></editor>
     </titleStmt></fileDesc>
     <profileDesc>
       <abstract><p>
-        Жалоба на высочайшее имя, поданная отстраненными старшинами <orgName ref="Виленский_кагал">виленского
-        кагала</orgName>
+        Прошение <persName ref="Мовша_Вульфович">Мовши Вульфовича</persName> и других отстранённых старшин <orgName
+        ref="Виленский_кагал">виленского кагала</orgName> на высочайшее имя: прошение <persName ref="Мовша_Ошерович"
+        >Мовши Ошеровича</persName> подано без их ведома, советник <persName ref="Елиашевич">Елиашевич</persName> никого
+        не бил. Дано <date when="1799-03-21">21 марта (2 апреля по новому стилю)</date>, подано <date
+        when="1799-03-22">22 марта</date>. Перевод: <ref target="/lvia1799-178/039-ru">ru</ref>.
       </p></abstract>
-      <creation><date when="1799-03-22">21 марта 1799. года</date></creation>
+      <creation><date when="1799-03-21">21 марта (2 апреля по н. ст.) 1799 года<note place="end">Новый стиль написан под
+      чертой под 21 марта. Одиннадцать дней разницы в 1799 году дают 1 апреля. Подано <date when="1799-03-22">22
+      марта</date>.</note></date></creation>
       <correspDesc><correspAction><persName ref="Павел_I" role="addressee">Павлу I</persName></correspAction>
       </correspDesc>
     </profileDesc>
@@ -29,7 +34,7 @@
       <l>szy._</l>
     </salute>
     <p>
-      <l>Przynosi Prozbę Starozakonny Mowsza Wólfowicz bywszy Star-</l>
+      <l>Przynosi Prozbę Starozakonny <persName ref="Мовша_Вульфович">Mowsza Wólfowicz</persName> bywszy Star-</l>
       <l>szy <orgName ref="Виленский_кагал">Kahał Wilen<hi rend="superscript">o</hi></orgName> Jmieniem Swoim y Jmieniem
       Starozakonnych:</l>
       <l><persName>Beynesa Aronowicza</persName>, Szymela <persName>Abrahamowicza</persName>, <persName ref="Лейба_Зеликович">Leyby Zeliko-<lb break="no"/>
@@ -96,10 +101,15 @@
       <l>Naymiłościwszy Panie proszę Waszey Im-</l>
       <l>peratorskiey Mości w tey tu moiey Prozbie uczynić</l>
       <l>sprawiedliwy Wyrok — Należy ku podaniu <orgName ref="Литовское_губернское_правление">Rządowi<lb/>
-       Naywyższemu Gubernskiemu Lit<hi rend="superscript">m</hi></orgName> — Dałney <date when="1799-04-08">1799go<lb/>
-       Ru <choice><abbr>Mąca</abbr><expan>Miesiąca</expan></choice> marca 21/8 aprila Dnia</date>._</l>
+       Naywyższemu Gubernskiemu Lit<hi rend="superscript">m</hi></orgName> — Dan <date when="1799-03-21">1799<hi
+       rend="superscript">go</hi><lb/>
+       <choice><abbr>Ru</abbr><expan>Roku</expan></choice> <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> <hi
+       rend="underline">marca 21</hi> / <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> aprila 2 Dnia</date><note
+       place="end">«aprila 2» написано под чертой под «marca 21»: тот же день по новому стилю. В 1799 году разница
+       стилей — 11 дней, 21 марта приходится на 1 апреля. Помета о подаче — <date when="1799-03-22">22
+       марта</date>.</note>._</l>
     </p>
-    <l>Takową Prozbę sam absender po Starohebraysku podpisał <signed><unclear>???</unclear></signed><note place="end"
-    >Подпись на иврите</note></l>
+    <l>Takową Prozbę sam Aktor po Hebreysku podpisał <signed><unclear>???</unclear><note place="end">Подпись на
+    иврите</note></signed></l>
   </body></text>
 </TEI>
