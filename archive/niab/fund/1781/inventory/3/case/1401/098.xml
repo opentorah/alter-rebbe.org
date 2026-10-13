@@ -1,14 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Зраницкий">Зраницкий</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Зраницкий">Зраницкий</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-30">30 октября 1820 года</date></creation>
-      <abstract><p>Документ на польском языке, подписанный лепельским католическим деканом</p></abstract>
+      <abstract><p>
+        Мнение лепельского декана <persName ref="Зраницкий">Зраницкого</persName> от <date when="1820-10-30">30 октября
+        1820 года</date>: акт следствия о крещении <persName ref="Моше_Шнеерсон">Мовши Шнеера</persName> он считает
+        законченным. Ксендз <persName ref="Сиодловский">Сиодловский</persName> крестил без записи в метрические книги и
+        без ведома полиции. Показания <persName ref="Павел_Сидорович">Сидоровича</persName> и соседних ксендзов крещения
+        не подтверждают. <persName>Реут</persName> доносит, что Шнеер восемь лет в помешательстве ума. Декан заключает,
+        что крещения не было, и представляет акт своему начальству. Карандашный номер листа 98, зачёркнутый чернильный
+        23. Перевод: <ref target="/niab1401/098-ru">ru</ref>
+      </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+        <handNote xml:id="pencilStrike" medium="pencil">зачёркнуто карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="098-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">98</fw>
+    <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">23</del></fw>
+    <p>
+      <l><date when="1820-10-30">1820. Roku <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Pazdziernika 30. Dnia</date> — Nic więcey do dopełnienia</l>
+      <l>tego dzieła nie należy, i kończy ten akt śledztwa — To ztego</l>
+      <l>wnoszę — <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <choice><abbr>Jph.</abbr><expan>Józefat</expan></choice> <persName ref="Сиодловский">Siodłowski</persName> Komendarz <placeName ref="Улла">Ulański</placeName>, kiedy <persName ref="Моше_Шнеерсон">Żyda</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Mowszę Sznejerowicza</persName> ochrzcił, powinien był Metrykę tego</l>
+      <l>Chrztu Jego do Xiąg Urzędowych zaciągnąć; a tego pod</l>
+      <l>żadney dattey nierobi, kiedy innych Ochrzczonych nie nakar-</l>
+      <l>terbach, od Dnia pierwszego Lipca, do Dni ostatnich tego</l>
+      <l>miesiąca rozpatrywał, <unclear>lecz<note place="end">Читается lecz urzędowe. Рядом смотрелось bez urzędowe.</note></unclear> urzędowe — 2<hi rend="superscript">do</hi> powinien był,</l>
+      <l>jak mnie chce ukazu w Roku <date when="1817-08">1817. <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Augusta</date> z Urzędu</l>
+      <l>Duchownego za <choice><abbr>Nro</abbr><expan>Numero</expan></choice> 631. dany, bez wiedzy i świadectwa</l>
+      <l>Policyi, żadnego Żyda do Chrztu nieprzyimować, a <choice><abbr>X.</abbr><expan>Xiądz</expan></choice></l>
+      <l><persName ref="Сиодловский">Siodłowski</persName>, iak mówi, i dowodzi samowolnie, iakoby ochrzcił,</l>
+      <l><persName ref="Моше_Шнеерсон">Żyda Mowszę Szneiersona</persName>, pod sekretem, bez żadnych powo-</l>
+      <l>dów, a o tem do dziś Dnia niedał wiedzieć Mieyscowemu</l>
+      <l>Dziekanowi, wedle przepisania Ukazu w tym roku <date when="1820-08">1820</date></l>
+      <l><date when="1820-08"><choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Sierpnia</date> za <choice><abbr>Nro</abbr><expan>Numero</expan></choice> 1700. danego — 3<hi rend="superscript">tio</hi> Dodaie <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłow<unclear>ski<note place="end">Конец фамилии у края листа. На строке Siodłow, дальше край. Ожидалось Siodłowski. Следующая строка начинается с Dwie.</note></unclear></persName></l>
+      <l>Dwie pary zeznań, w swoim Obiasnieniu, i metryce, od</l>
+      <l>osobioney karty — <unclear>datę śmierci<note place="end">Читается datę śmierci zapisany. Мужской род zapisany при datę не сходится. Рядом смотрелось xwieży.</note></unclear> zapisany — a i to —</l>
+    </p>
     <pb n="098-2"/>
+    <p>
+      <l>a <unclear>ili<note place="end">Читается ili. Рядом смотрелось ile, «насколько».</note></unclear> w swoich zeznaniach, w kilku miyścach mierzgadzący się — miano-</l>
+      <l>wicie <persName ref="Павел_Сидорович">Paweł Sidorowicz</persName>, własno ręcznie odpowiada, że przy Chrzcie</l>
+      <l><persName ref="Моше_Шнеерсон">Mowszy Żyda Szneiersona</persName>, ani był <choice><abbr>P</abbr><expan>Pan</expan></choice> Kumem, ani świadkiem,</l>
+      <l>i niewiem czy był On chrzczonym — 4<hi rend="superscript">to</hi> naybliżsi Xięży okolicz-</l>
+      <l><unclear>ni<note place="end">Начало строки. С предыдущей okolicz- читается okoliczni. Рядом смотрелось liżni.</note></unclear>, zakrystyni Chrztu tego nie widzieli, i żadnych appara-</l>
+      <l>mentów do tego potrzebnych, i wody Chrzestney, nie podawali —</l>
+      <l>5<hi rend="superscript">to</hi> Jaśnie <choice><abbr>W.</abbr><expan>Wielmożny</expan></choice> Marszałek <persName>Reut</persName> Dziedzic miasteczka <placeName ref="Улла">Uły</placeName>, donosi,</l>
+      <l>że Żyd <persName ref="Моше_Шнеерсон">Mowsza <unclear>Szneierso<note place="end">Конец фамилии короткий. Читается Szneierso. Выше на этом листе Szneiersona, на лицевой Sznejerowicza.</note></unclear></persName> przez lat 8. pod <unclear>nim<note place="end">Читается nim, «у него». Рядом смотрелось Im.</note></unclear> mieszkający,</l>
+      <l>zawsze był p pomieszanego rozumu, a tem samem do przyjęcia</l>
+      <l>Chrztu niezdatny — bez <unclear>żadnych<note place="end">Читается żadnych powodów. Рядом смотрелось wiemnie powodów.</note></unclear> powodów, iako miał być ochrzczo-</l>
+      <l>nym taiemnie, i iak mówi <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowski</persName>, w nagłey potrzebie,</l>
+      <l>kiedy <unclear>który<note place="end">Слово читается który. Первые буквы смотрелись gtory и głowy.</note></unclear> usłyszy, iż był pod tę porę, pomieniony Żyd <persName ref="Моше_Шнеерсон">Mowsza</persName></l>
+      <l>pod strażą mocną Policyi, i woienney — wielkim ludzie może</l>
+      <l>był On nawet ukazywany w <placeName ref="Бешенковичи">Bieszenkowiczach</placeName>, i w dni kilka,</l>
+      <l>iako fikt, trochę tu wyżey zwierzchności, przez Policyę</l>
+      <l>Ziemską, <unclear>Kościoł<note place="end">Слово читается Kościoł. Рядом смотрелось ktoś.</note></unclear> Żydowi założony — iako nigdy nieochrzczony —</l>
+      <l>Jakowe to kategorycznie orzeczenie razem zdawszy, robię przeko-</l>
+      <l>nanie, że Żyd <persName ref="Моше_Шнеерсон">Mowsza Szneierso</persName>, nie był ochrzczonym.</l>
+    </p>
+    <closer>
+      <l>Co iednak wszystko do wyższey rozwagi Rządu moiego</l>
+      <l>mam honor przedstawić — ten akt podpisuię —</l>
+      <l>Dato ut supra, Dziekan <placeName>Lepelski</placeName> <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Зраницкий"><unclear>Joronia<note place="end">Читается Joronia. Рядом смотрелось Joroni. На листе <ref target="/niab1401/089">089</ref> то же имя написано Jorony.</note></unclear></persName></l>
+      <l><signed><persName ref="Зраницкий">Zranicki</persName> <choice><abbr>S.T.</abbr><expan>Sacrae Theologiae</expan></choice> Doktor <unclear>X. D. D. k.<note place="end">После Doktor короткие знаки. Чтение X. D. D. k. Рядом смотрелось X. P. D. k. Дальше росчерк.</note></unclear></signed></l>
+    </closer>
   </body></text>
 </TEI>
