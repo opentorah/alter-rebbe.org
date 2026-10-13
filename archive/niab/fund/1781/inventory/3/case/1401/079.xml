@@ -5,8 +5,17 @@
     <profileDesc>
       <creation><date when="1820-08-27">27 августа 1820 года</date></creation>
       <abstract><p>
-        Рапорт (на польском языке) представителя Могилевской римско-католической консистории в связи с
-        освидетельствованием <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+        Рапорт каноника <persName ref="Одынец-Добровольский">Одынца-Добровольского</persName> в Могилевскую
+        римско-католическую митрополичью консисторию об освидетельствовании <persName ref="Моше_Шнеерсон">Моше
+        Шнеерсона</persName> в Могилевской врачебной управе. Указ консистории от <date when="1820-08-20">20 августа
+        1820 года</date> за № 1673 исполнен в тот же день; рапорт получен <date when="1820-08-27">27 августа</date>,
+        входящий № 1263. Добровольский пишет, что Шнеерсон признаёт Иисуса Мессией и называет христианскую веру
+        наилучшей, но желает остаться евреем, и считает это не помешательством, а давлением окружающих. Врачи, по его
+        словам, признали Шнеерсона истинно помешанным; своё особое мнение он прилагает — это <ref target="/niab1401/078"
+        >078</ref> от <date when="1820-08-21">21 августа</date>, где Деветте и Михельсон просят шесть месяцев и шесть
+        недель наблюдения, а не объявляют его помешанным. Журналом консистории <date when="1820-09-24">24 сентября
+        1820 года</date> за № 50 рапорт принят к сведению задним числом 27 августа. Беловая копия: <ref
+        target="/niab271/019">019</ref>. Перевод: <ref target="/niab1401/079-ru">ru</ref>
       </p></abstract>
       <handNotes>
         <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
@@ -17,13 +26,166 @@
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="079-1"/>
-    <fw type="docNum"># 1263</fw>
+    <fw type="docNum">№ 1263</fw>
+    <fw type="note" place="top">Otrzym: <date when="1820-08-27">27. Augusta 1820. r.</date></fw>
     <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">4</del></fw>
     <fw type="pageNum" place="right" hand="#pencilHand">79</fw>
+    <fw type="note" place="left margin"><unclear>???</unclear><note place="end">вертикальная помета у корешка, не
+    разобрана</note></fw>
+    <salute>
+      <l>Do Duchownego Rzymsko-Katolickiego Mohilewskiego</l>
+      <l>Metropolitalnego Konsystorza.</l>
+    </salute>
+    <head>
+      <l>Onego Konsystorza Assessora, Kanonika <persName ref="Одынец-Добровольский">Tadeusza</persName></l>
+      <l><persName ref="Одынец-Добровольский">Odyńca Dobrowolskiego</persName></l>
+      <l>Raport.</l>
+    </head>
+    <p>
+      <l>Ukaz JEGO Imperatorskiey Mości z Onego Konsy-</l>
+      <l>storza pod Dniem <date when="1820-08-20">20. praesentis</date> za № 1673.<note place="end">В беловой копии
+      того же рапорта (<ref target="/niab271/019">019</ref>) номер указа читается 1678.</note> Mnie dany,</l>
+      <l>abym spełnił Urząd Deputata w Mohilewskiey Wraczebney</l>
+      <l>Uprawie przy obeyrzeniu Izraelity <persName ref="Моше_Шнеерсон">Mowszy Sznejera</persName></l>
+      <l>Obiawiwszego przedtym, że chce być Chrześcianinem Katoli-</l>
+      <l>kiem, czyli On jest przytomnym na umyśle? Spełniłem.</l>
+      <l>Jak zaś rzecz była w istocie, niniejszym Raportem dono-</l>
+      <l>szę. — w Dacie powyższey, iakiy Ukaz mi wydany,</l>
+      <l>do Wraczebney Uprawy przybywszy, czekałem wraz z innemi</l>
+      <l>Członkami około pół godziny wezwanego Izraelity, którego</l>
+      <l>przyprowadzono w Asystencyi Żydów, ani sami Żydzi</l>
+      <l>od Drzwiów nie odstąpili przez cały ciąg czasu, póki wspo-</l>
+      <l>mniony Izraelita był na Examinie, po skończeniu Exami-</l>
+      <l>nu, Żydzi wzięli Onego na powrót w bezpośredni swóy</l>
+      <l>Dozór y Opiekę. — w Czasie Examinu okazał się <persName ref="Моше_Шнеерсон">Mowsza</persName></l>
+      <l><persName ref="Моше_Шнеерсон">Sznejer</persName> zmieszanym, y iakoby nieprzytomnym. — Okazywał</l>
+      <l>swoie <unclear>Rydunki</unclear> udaiąc, czyli istotnie będąc warya-</l>
+      <l>tem; lecz poźniey gdy on łagodnie z Onym wszedł w</l>
+      <l>Rozmowę, na niektóre zapytania ustne, y na piśmie</l>
+      <l>odpowiadał rozważnie y przytomnie. — Między innemi</l>
+      <l>na ustne zapytanie moie, odpowiedział, że Chrystu-</l>
+      <l>sa Pana uznaje być istotnym Mesyaszem, na zapy-</l>
+      <l>tanie zaś przeze mnie dane mu na piśmie, „Jak On mniema,</l>
+      <l>czyli Religia Chrześcijańska, czyli Żydowska iest lepsza?“ Odpi-</l>
+      <l>sał „Religia Chrześcijańska iest naylepsza, lecz Ja chcę być</l>
+      <l>Żydem.“ — Oświadczenie się Jego, że chce być Żydem,</l>
+      <l>pomimo tego, że Religia Chrześcijańska iest naylepsza, mnie-</l>
+      <l>małbym, że nie pochodziło z pomieszania umysłu, ale</l>
+      <l>z uwagi, trwogi y boiaźni, widząc, że Żydzi są w bliskości,</l>
+      <l>y że w ręku Onych zostaje; Dla czego Ja podałem moią</l>
+      <fw type="catch" place="bottom">opinią.</fw>
+    </p>
     <pb n="079-2"/>
+    <p>
+      <l>Opinią, żeby Jego na nieiaki czas odłączyć od Żydów —</l>
+      <l>przyznawali tę potrzebę y Doktorowie; a tem wszystkiem</l>
+      <l>w swoiey opinii uznali Onego być istotnym wariatem. —</l>
+      <l>Przeciw czego Ja <unclear>respektuię</unclear>, y Jaką Moią przyłączy-</l>
+      <l>łem Opinią, w kopii przy tym wkładam, a ponieważ</l>
+      <l>pod opinią Doktorów, odpowiednie do Ukazu <date when="1815-06-08">8. Czerwca</date></l>
+      <l><date when="1815-06-08">1815. r.</date> niepodpisani Urzędnicy, w Onym oznaczeni,</l>
+      <l>a Deputat nie wziął Decyzyi Doktorów sto-</l>
+      <l>sownie do powyższego Ukazu, żadney mocy nie-</l>
+      <l>ma, y na uwagę nie zasługuje. — Ja z moiey strony</l>
+      <l>znayduię nieodmienną potrzebę odebrania Jego od</l>
+      <l>Żydów, ponieważ, gdy iuż On publicznie obiawił, że chce być</l>
+      <l>Chrześcianinem, y gdy iuż podał na piśmie swoie żądanie,</l>
+      <l>y gdy iuż przeniósłszy się do Chrześcian, a poźniey przez obrót</l>
+      <l>Żydowski w ich ręce się dostał — którzy może zarzucą,</l>
+      <l>że od onych nie iest męczony, y zmuszanym, żeby</l>
+      <l>udawał waryata? któż może być pewnym? że mu</l>
+      <l>nie daią iakich proszków, mieszaiących Jego umysł? —</l>
+      <l>Znaią Oni bardzo dobrze, że gdy tak uczony Żyd, y tak</l>
+      <l>wielki Ich Rabin zostanie Chrześcianinem, Tysiące, nietylko</l>
+      <l>krocie mogą pójść w ślad za Onym; a tem samem wszy-</l>
+      <l>stko sakryfikować, y na wszystko się determinować</l>
+      <l>gotowi, aby tylko mogli utrzymać Onego w Żydow-</l>
+      <l>stwie. — Jeśli tedy Oni o utrzymanie swojego błęd-</l>
+      <l>nego rozumienia tak silnie się staraią; tedy My</l>
+      <l>maiąc naygruntownieysze przekonanie, że Zbawi-</l>
+      <l>ciel nasz Chrystus Jezus za wszystkich ogólnie</l>
+      <l>ludzi ucierpiał — za wszystkich generalnie Krew</l>
+      <l>swoią przelał; — powinniśmy tedy iest naszą</l>
+      <l>konieczną, wszelkich choćby naytrudnieyszych uży-</l>
+      <l>wać sposobów, aby lud w błędzie zostaiący na drogę</l>
+      <fw type="catch" place="bottom">prawdy</fw>
+    </p>
     <pb n="080-1"/>
     <fw type="pageNum" place="right" hand="#inkHand"><del rend="overstrike" hand="#pencilStrike">5</del></fw>
     <fw type="pageNum" place="right" hand="#pencilHand">80</fw>
+    <p>
+      <l>prawdy zaprowadzać, a Dusze Krwią Chrystusową</l>
+      <l>omyte, według sił y możności naszey starać się Bogu</l>
+      <l>pozyskać; Zostawując, gdy dla pomnożenia Czei Boga</l>
+      <l>naysilniey nam dopomaga w tym przedsięwzięciu Nay-</l>
+      <l>wyższa Wola JEGO Imperatorskiey Mości</l>
+      <l>wyiawiona w Manifeście Ru <date when="1817">1817.</date> w Dzień Zmar-</l>
+      <l>twychwstania Pańskiego; — A zatym Ja ile chrześcianin,</l>
+      <l>y ile wierny poddany Moiego Monarchy, mam</l>
+      <l>honor Prześwietnemu Konsystorzowi przedstawić moią</l>
+      <l>opinią w punktach następnych. — 1<hi rend="superscript">mo</hi> Czyby się</l>
+      <l>nie zdało donieść do JW. Gubernatora Mohilewskie-<note place="end">В копии (<ref target="/niab271/019">019</ref>):
+      tuteyszego, «здешнего», без названия губернии.</note></l>
+      <l>go z Prośbą, aby raczył rozkazać <persName ref="Моше_Шнеерсон">Mowszę Sznej-</persName></l>
+      <l><persName ref="Моше_Шнеерсон">era</persName> odebrać od Żydów, oddać Onego pod</l>
+      <l>Wieżę Konsystorza, przynaymniey do pory, póki</l>
+      <l>On nie przyidzie do zupełnego zdrowia. — 2<hi rend="superscript">do</hi> Ponie-</l>
+      <l>waż On mówił mnie w Wraczebney Uprawie, że</l>
+      <l>On znajomym był y konferował często z WW. Dzie-</l>
+      <l>kanem <persName>Lubryckim</persName>. — Że po Obiawieniu chęci</l>
+      <l>być Chrześcianinem, przeniósłszy się do</l>
+      <l>Półkownika w <placeName ref="Улла">Ule</placeName> konwytuiaącego, y u tamecz-</l>
+      <l>nych XX. bywał, a zaś przez Kapitana Sprawnika</l>
+      <l>Lepelskiego wzięty, do <placeName ref="Бешенковичи">Bieszenkowicz</placeName> zawieziony,</l>
+      <l>y tam iuż się dostał w ręce Brata swego</l>
+      <l>Rabina <persName ref="мителер_ребе">Lubawickiego</persName>; a że Katechizm Rzym-</l>
+      <l>ski mówiąc de Sacramento Baptismi na za-</l>
+      <l>pytanie quando Baptizandi amentes et dormien-</l>
+      <l>tes? odpowiada: „Amentes, et furiosi, qui cum ali-</l>
+      <l>quando compotes mentis essent, in insaniam deinde</l>
+      <l>inciderunt, et qui eo tempore nullam Baptismi</l>
+      <fw type="catch" place="bottom">suscipiendi</fw>
+    </p>
     <pb n="080-2"/>
+    <p>
+      <l><foreign xml:lang="la">suscipiendi voluntatem habebant, nisi vitae periculum immineat,</foreign></l>
+      <l><foreign xml:lang="la">Baptizandos non esse: cum autem in vitae discrimine</foreign></l>
+      <l><foreign xml:lang="la">versantur, si ante quam furere inciperent, eius vo-</foreign></l>
+      <l><foreign xml:lang="la">luntatis significationem dederunt, abluendi sunt.“</foreign> — Z mocy</l>
+      <l>więc tego Prawa znayduię być rzeczą potrzebną do Wo-</l>
+      <l>iennego Naczalstwa, y do <placeName ref="Витебская_губерния">Witebskiego</placeName> Gubernskiego Rządu się</l>
+      <l>donieść, a WW. Dziekanowi <persName>Lubryckiemu</persName>, vice Dzie-</l>
+      <l>kanowi <persName ref="Сушинский">Suszyńskiemu</persName>, y Komendarzowi Ulańskiemu</l>
+      <l><persName ref="Сиодловский">Siodłowskiemu</persName> Ukazami przepisać, potrzebuiąc nay-</l>
+      <l>przód od Woienney Komendy, aby wziąwszy poiaśnienie</l>
+      <l>od Półkownika konwytuiaącego w <placeName ref="Улла">Ule</placeName>, czyli <persName ref="Моше_Шнеерсон">Mowsza Szne-</persName></l>
+      <l><persName ref="Моше_Шнеерсон">ier</persName> był przytomnym na umyśle wtenczas, kiedy o</l>
+      <l>Chrzest prosił, one w oryginale do Konsystorza dostawić.</l>
+      <l>Również poiaśnienie powinni dać XX. <persName ref="Сушинский">Suszyński</persName></l>
+      <l>i <persName ref="Сиодловский">Siodłowski</persName>, a WW. Dziekan <persName>Lubrycki</persName> ma poin-</l>
+      <l>formować, czyli <persName ref="Моше_Шнеерсон">Mowsza</persName>, gdy z Onym konferował —</l>
+      <l>miał skłonność do Wiary Chrześcijańskiey, y czy był wten-</l>
+      <l>czas przytomnym na umyśle. — Co do <placeName ref="Витебская_губерния">Witebsk.</placeName> Gub.</l>
+      <l>Rządu, trzeba ony potrzebować obiaśnienia od Lepel-</l>
+      <l>skiego Kapitana Sprawnika, na iaki koniec on wziął</l>
+      <l><persName ref="Моше_Шнеерсон">Mowszę</persName> z <placeName ref="Улла">Uły</placeName>? w iakim celu odwiózł Jego do <placeName ref="Бешенковичи">Bieszen-</placeName></l>
+      <l><placeName ref="Бешенковичи">kowicz</placeName>? komu oddał tam Jego na ręce? i iakim</l>
+      <l>sposobem On dostał się do Brata swego Rabina</l>
+      <l><persName ref="мителер_ребе">Lubawickiego</persName>? —</l>
+    </p>
+    <closer>
+      <l><signed>Kanonik Xiądz <persName ref="Одынец-Добровольский">Tadeusz</persName></signed></l>
+      <l><signed><persName ref="Одынец-Добровольский">Odyniec Dobrowolski</persName> Delegowany Deputat.</signed></l>
+    </closer>
+    <p>
+      <l><date when="1820-09-24">1820 roku Września 24. dnia</date> w Jurnale Metropoli-</l>
+      <l>talnego Mohilewskiego Rzymsko-Katolickiego Duchow-</l>
+      <l>nego Konsystorza zapisano, po wysłuchaniu tego za</l>
+      <l>№ 50. postanowiono: Canony raport przyjąć</l>
+      <l><date when="1820-08-27">Aug. 27. dnia</date> za wiadomość dołączyć do dzieła. — Jurnal za podpisa-</l>
+      <l>mi Zasiadaiących i Skreśla Sekretarza.</l>
+      <l><date when="1820">1820. r.</date> Zgodno: Sekretarz 10. klassy <persName ref="Яцентий_Заремба">Jacenty Zaremba</persName>.</l>
+      <l>Mohilew.</l>
+    </p>
   </body></text>
 </TEI>
