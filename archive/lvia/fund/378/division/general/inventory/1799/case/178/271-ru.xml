@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1799-10-12">12 октября 1799 года</date></creation>
+      <abstract><p>
+        Перевод рапорта <ref target="/lvia1799-178/271">271</ref>. Магистрат доносит, что указ № 409 получен и для
+        дознания назначены два ратмана. Сама резолюция — <ref target="/lvia1799-178/285">285</ref>, их донесение —
+        <ref target="/lvia1799-178/284">284</ref>, препровождение дознания в суд — <ref target="/lvia1799-178/283"
+        >283</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="271-1"/>
+      № 814. Получено <date when="1799-10-13">13 октября 1799 года</date>. Записав, приобщить к делу.
+    </p>
+    <p>
+      В <orgName ref="Литовский_надворный_суд">Литовский губернский надворный суд</orgName> от магистрата города
+      <placeName ref="Вильна">Вильны</placeName>. Рапорт.
+    </p>
+    <p>
+      Виленский магистрат сим рапортом представляет <orgName ref="Литовский_надворный_суд">Литовскому губернскому
+      надворному суду</orgName>, что указ его императорского величества, самодержца всея России, вышедший из оного суда
+      сего дня за № 409, дошёл до магистрата. Указ предписывает назначить из своей среды двух членов и допросить об
+      оседлости, поведении и добром образе жизни евреев, кагальных сторожей <persName ref="Енох_Янкелевич"
+      >Еноха</persName>, <persName>Мовши</persName> и <persName ref="Копыл">Копыла</persName><note place="end">Польское
+      «z Kopyla». Журнал суда <ref target="/lvia1799-178/296">296</ref> называет трёх сторожей: Геноха, Мойжеша и
+      Копеля.</note>, и жителей <persName ref="Зельман_Аронович">Зельмана Ароновича</persName>, <persName
+      ref="Мордух_Лейзерович">Мордуха Лейзеровича</persName> и <persName ref="Абрам_Янкелевич">Абрама
+      Янкелевича</persName>: достойны ли они доверия и того, чтобы быть употреблёнными к свидетельству. Во исполнение
+      оного для совершения порученного дела назначены ратманы<note place="end">Польское Radca. Так же в этом деле
+      передано Radny, <ref target="/lvia1799-178/391">391</ref>.</note> <persName>Василий Артецкий</persName> и
+      <persName>Казимир Пашкевич</persName>. <date when="1799-10-12">12 октября 1799 года</date>.
+    </p>
+    <p>
+      <persName>Ян Мюллер</persName>, бургомистр города <placeName ref="Вильна">Вильны</placeName>.
+    </p>
+    <p>
+      <persName>Казимир Сидорович</persName>, регент города <placeName ref="Вильна">Вильны</placeName><note
+      place="end">С марта 1800 года регентские подписи принадлежат <persName ref="Franciszek_Sidorowicz">Францишку
+      Сидоровичу</persName>, например <ref target="/lvia1799-178/384">384</ref>.</note>.
+    </p>
+    <p>№ 739.</p>
+  </body></text>
+</TEI>

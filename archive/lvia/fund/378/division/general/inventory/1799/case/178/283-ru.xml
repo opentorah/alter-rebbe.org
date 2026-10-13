@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author/>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1799-10-19">19 октября 1799 года</date></creation>
+      <abstract><p>
+        Перевод рапорта <ref target="/lvia1799-178/283">283</ref>. Магистрат препровождает в суд дознание, порученное
+        <ref target="/lvia1799-178/285">285</ref> и изложенное в <ref target="/lvia1799-178/284">284</ref>. Суд слушал
+        рапорт <date when="1799-10-21">21 октября</date>, <ref target="/lvia1799-178/296">296</ref>.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="283-1"/>
+      № 833. Получено <date when="1799-10-20">20 октября 1799 года</date>.
+    </p>
+    <p>
+      В <orgName ref="Литовский_надворный_суд">Литовский губернский надворный суд</orgName> от магистрата города
+      <placeName ref="Вильна">Вильны</placeName>. Рапорт.
+    </p>
+    <p>
+      Виленский магистрат при сём рапорте представляет <orgName ref="Литовский_надворный_суд">Литовскому губернскому
+      надворному суду</orgName> дознание о поведении и добром образе жизни евреев, кагальных сторожей <persName
+      ref="Енох_Янкелевич">Еноха</persName>, <persName>Мовши</persName> и <persName ref="Копыл">Копыла</persName>, а
+      также жителей <persName ref="Зельман_Аронович">Зельмана Ароновича</persName>, <persName ref="Мордух_Лейзерович"
+      >Мордуха Лейзеровича</persName> и <persName ref="Абрам_Янкелевич">Абрама Янкелевича</persName>, произведённое
+      назначенными из магистрата членами во исполнение указа его императорского величества, владеющего всею Россией,
+      вышедшего из <orgName ref="Литовский_надворный_суд">Литовского губернского надворного суда</orgName> <date
+      when="1799-10-12">12-го числа сего месяца</date> за № 409. <date when="1799-10-19">19 октября 1799 года</date>.
+    </p>
+    <p>
+      <persName>Винцентий Загорова Минкевич</persName>, председательствующий бургомистр города <placeName ref="Вильна"
+      >Вильны</placeName>. Подпись не разобрана.
+    </p>
+    <p>
+      <persName ref="Franciszek_Sidorowicz">Францишек Сидорович</persName>, регент города <placeName ref="Вильна"
+      >Вильны</placeName>.
+    </p>
+    <p>№ 755.</p>
+    <p>Слушано: <date when="1799-10-21">21 октября</date>.</p>
+  </body></text>
+</TEI>
