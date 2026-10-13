@@ -1,17 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Зраницкий">Зраницкий</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Зраницкий">Зраницкий</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-30">30 октября 1820 года</date></creation>
       <abstract><p>
-        Рапорт католического декана <persName ref="Зраницкий">Зраницкого</persName> в Могилевскую духовную римско-католическую
-        консисторию в связи с обстоятельствами крещения <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+        Рапорт лепельского декана <persName ref="Зраницкий">Зраницкого</persName> в Могилевскую римско-католическую
+        митрополичью консисторию от <date when="1820-10-30">30 октября 1820 года</date>. По указу за № 2001 от <date
+        when="1820-10-16">16 октября</date> он в <placeName ref="Улла">Уле</placeName> истребовал метрики крещений с
+        1 июля и крещения <persName ref="Моше_Шнеерсон">Мовши Шнеерсона</persName> не нашёл. Из объяснения <persName
+        ref="Сиодловский">Сиодловского</persName>, показаний, в том числе <persName ref="Павел_Сидорович">Павла
+        Сидоровича</persName>, и донесений маршалка и <persName>Реута</persName> заключает, что этот еврей не крещён.
+        Входящий № 1725, получен <date when="1820-11-15">15 ноября</date>, номер 20; внизу слева № 3942. Карандашный
+        номер листа 101. Чернильного номера нет. Оборот без номера. Перевод: <ref target="/niab1401/101-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+        <handNote xml:id="inkHand" medium="ink">записано чернилами</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="101-1"/>
+    <fw type="docNum">№ 1725.</fw>
+    <fw type="note" place="top">otrzymano <date when="1820-11-15">1820. roku Listopada 15. dnia</date> 20</fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">101</fw>
+    <salute>
+      <l>Do Prześwietnego Rzymsko-Katolickiego Metropolitalnego Mohylewskiego</l>
+      <l>Konsystorza —</l>
+    </salute>
+    <head>
+      <l>Dziekana <placeName><choice><abbr>Lepel.</abbr><expan>Lepelskiego</expan></choice></placeName> <choice><abbr>Gub:</abbr><expan>Gubernii</expan></choice> Raport, osnowie ukazu!</l>
+    </head>
+    <p>
+      <l>w Skutek Jego Cesarskiej Mości Ukazu z Urzędu Duchownego za <choice><abbr>№</abbr><expan>Numero</expan></choice> 2001. <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice></l>
+      <l><date when="1820-10-16"><choice><abbr>Pazdzier:</abbr><expan>Pazdziernika</expan></choice> 16<hi rend="superscript">go</hi> Dnia</date> danego — po dziele <persName ref="Моше_Шнеерсон">żyda Mowsza Szneiersona</persName>, iakoby</l>
+      <l>w <placeName ref="Улла">Ule</placeName> ochrzczonego — ziechawszy na mieysce do <placeName ref="Улла">Uły</placeName>, dla wyprowadze-</l>
+      <l>nia śledztwa — w dniu <date when="1820-10-27">27. przeszłym</date>, wypotrebowałem metryk Chrzestnych</l>
+      <l><placeName ref="Улла">Ułańskiego</placeName> Kościoła od tych 1<hi rend="superscript">go</hi> Julii do dni ostatnich, nigdzie</l>
+      <l>nieodkryłem Chrztu <persName ref="Моше_Шнеерсон">żyda Mowszy</persName>, lubo w dniach pierwszych, i czwartego</l>
+      <l>Tegoż Miesiąca, <unclear>nimi<note place="end">Читается nimi. Рядом смотрелось innymi, «иными».</note></unclear> ochrzczeni przez <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowskiego</persName>, zapisani znajdują się</l>
+      <l>w tey xiedze żadney kartki <unclear>od osobno<note place="end">Читается od osobno. Рядом смотрелось od osobna, «отдельно».</note></unclear> nieznalezłem — Te za</l>
+      <l>skrepiłem, i za kommotowałem. Dalej śledzę, odzyskałem od <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName>, swey obiaśnienie: i to dzień cały, z <choice><abbr>Jmści</abbr><expan>Jegomości</expan></choice> Mego, nim mnie uważał,</l>
+      <l>dowodzę, że miał obowiązany / metrykę urzędową niby, tego Chrztu, na</l>
+      <l>karcie, osobno zapisanej — <unclear>skartę<note place="end">Читается skartę. Рядом смотрелось i kartę.</note></unclear> na <unclear>umyśl<note place="end">Читается umyśl, «нарочно». Рядом смотрелось umysł.</note></unclear>, zdaje się świeżo zrobioną, i</l>
+      <l>przez kumow podpisaną: z Ich zaś zeznań, w kilku punktach me-</l>
+      <l>go, a mianowicie <persName ref="Павел_Сидорович">Pawła Sidorowicza</persName> — ze świadectw zakrystya-</l>
+      <l>nów, z doniesienia <choice><abbr>JWgo</abbr><expan>Jaśnie Wielmożnego</expan></choice> marszałka i Dziedzica <persName>Reutta</persName>, i innych</l>
+      <l>dowodów, można widzieć, i dorozumiewać się, że żyd ten ochrzczonym nie</l>
+      <l>został. Jakoż to moją całą czynność, za numerowaną, sortowaną,</l>
+      <l><unclear>kowaną<note place="end">Строка начинается с kowaną. Предыдущая кончается на sortowaną, головы слова нет. Рядом смотрелся хвост skomunikowaną.</note></unclear> i za kommotowaną spełniwszy, ile mogłem, mam honor</l>
+    </p>
+    <fw type="docNum" place="lower left">№ 3942</fw>
     <pb n="101-2"/>
+    <p>
+      <l>mam honor, do wyższego rozważania, Waszmości moiemu, przy należytem raporcie</l>
+      <l>przedstawić —</l>
+    </p>
+    <closer>
+      <l><signed>Dziekan <placeName>Lepelski</placeName> <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> J. <persName ref="Зраницкий"><unclear>Joronia<note place="end">Читается Joronia. Рядом смотрелось Joroni. Перед именем буквы X. J. На листе <ref target="/niab1401/089">089</ref> то же имя написано Jorony, на <ref target="/niab1401/098">098</ref> — Joronia.</note></unclear> Zranicki</persName> <choice><abbr>S.T.D.</abbr><expan>Sacrae Theologiae Doctor</expan></choice> <unclear>D. D. D.<note place="end">После S.T.D. короткие знаки. Чтение D. D. D. Рядом смотрелось D. D. Дальше росчерк.</note></unclear></signed></l>
+      <l><date when="1820-10-30">Dan w <placeName ref="Улла">Ule</placeName> 1820. roku</date></l>
+      <l><date when="1820-10-30"><hi rend="underline"><choice><abbr>mca</abbr><expan>Miesiąca</expan></choice> <choice><abbr>Pazdzier:</abbr><expan>Pazdziernika</expan></choice> 30. dnia</hi></date></l>
+    </closer>
   </body></text>
 </TEI>
