@@ -1,17 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
-      <creation><date when="1820-08-24">24 августа 1820 года</date></creation>
+      <creation><date when="1820-07-24">24 июля 1820 года</date></creation>
       <abstract><p>
-        Документ, подписанный католическим каноником, об обстоятельствах, связаанных с медицинским освидетельствованием
-        <persName ref="Моше_Шнеерсон">Моше Шнеерсона</persName> - на польском языке
+        Окончание рапорта каноника <persName ref="Одынец-Добровольский">Тадеуша Одынца-Добровольского</persName> от
+        <date when="1820-07-24">24 июля 1820 года</date>, <placeName>Могилёв</placeName>. Евреи добиваются, чтобы
+        его признали помешанным; каноник держится иного и прилагает рапорт для консистории. Имени на листе нет.
+        Оборот отсутствует, текст начинается с середины. № 51. Чернильный номер листа 21. Перевод:
+        <ref target="/niab271/021-ru">ru</ref>
       </p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="021-1"/>
+    <fw type="pageNum" place="right">21.</fw>
+    <p>
+      <l>Żydzi mają forsę, i nie przestają,</l>
+      <l>Chcąc, aby Onego w rzeczy uznawali za</l>
+      <l>Waryata; Ja jednak wszystko to utrzy-</l>
+      <l>muię, bo mi Sumienie każe; A zatem</l>
+      <l>teraz z jakowych wypadkow mówić prze-</l>
+      <l><unclear>nieć<note place="end">С предыдущей строки prze-. Чтение nieć, «przenieść». Рядом смотрелось stać, «przestać».</note></unclear> do <unclear>Hołaysi<note place="end">Чтение Hołaysi. Рядом смотрелось Kolacyi и policyi.</note></unclear>. — Mnie jako już przy-</l>
+      <l>gotowanemu podać tem w Wraczebney</l>
+      <l>Uprawie czynię — Jaki Raport dla</l>
+      <l>podania do Konsystorza <unclear>załatwionym<note place="end">Чтение załatwionym. Рядом смотрелось Łagodowatem.</note></unclear>,</l>
+      <l>Dla Wiadomości Excellentissimi Domini</l>
+      <l>przytym włączam, z naygłębszym usza-</l>
+      <l>nowaniem. Mam honor zostawać. —</l>
+    </p>
+    <closer>
+      <l><signed><choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Одынец-Добровольский">Tadeusz Odyniec Dobrowolski</persName> <choice><abbr>Kan.</abbr><expan>Kanonik</expan></choice></signed></l>
+      <l><fw type="docNum"><emph rend="underline">№ 51.</emph></fw></l>
+      <l><choice><abbr>D.</abbr><expan>Dnia</expan></choice> <date when="1820-07-24">24. Lipca</date></l>
+      <l><date when="1820-07-24">1820. v</date></l>
+      <l><placeName>Mohilew</placeName>.</l>
+    </closer>
     <pb n="021-2" missing="true"/>
   </body></text>
 </TEI>
