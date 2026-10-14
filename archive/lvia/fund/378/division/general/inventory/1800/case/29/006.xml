@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author><orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName></author>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> <persName ref="Кутузов"
+        >Кутузову</persName> от 28 сентября 1800 года: во исполнение его предложения от 10 сентября суд представляет
+        следствие по жалобе <persName ref="Мовша_Ошерович">Мовшы Ошеровича</persName> на <orgName
+        ref="Литовское_губернское_правление">губернское правление</orgName>, с описью. Прежний рапорт по той же жалобе —
+        <ref target="/lvia1800-29/001">001</ref>
+      </p></abstract>
+      <creation><date when="1800-09-28">28 сентября 1800 года</date></creation>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="006-1"/>
+    <fw type="pageNum" place="right">6.</fw>
+    <salute>
+      <l>Его Высокопревосходительству,</l>
+      <l>Господину Генералу отъ инфантеріи, <placeName ref="Литва">Литовскому</placeName> военному</l>
+      <l>Губернатору, начальствующему въ <placeName ref="Литва">Литовской</placeName> Губерніи по граж-</l>
+      <l>данской части, шефъ мушкатерскаго полка своего имени и</l>
+      <l>Кавалеру <persName ref="Кутузов">Михаилъ Ларіоновичу Голенищевъ-Кутузову</persName>.</l>
+    </salute>
+    <head>
+      <l><orgName ref="Литовский_надворный_суд">Литовскаго Надворнаго суда</orgName></l>
+      <l>Рапортъ.</l>
+    </head>
+    <p>
+      <l>Слѣдствіе произведенное симъ судомъ по жалобѣ</l>
+      <l>бывшаго <placeName ref="Вильна">виленскаго</placeName> <orgName ref="Виленский_кагал">Кагальнаго</orgName>
+      Старшины <persName ref="Мовша_Ошерович">Мойжеша Ошеро-</persName></l>
+      <l><persName ref="Мовша_Ошерович">вича</persName> на <orgName ref="Литовское_губернское_правление">Литовское
+      Губернское правленіе</orgName> и другихъ чиновнико-</l>
+      <l>въ въ причиненіи ему и товарищамъ его обидъ, притѣсненій и по-</l>
+      <l>боевъ, въ сходство предложенія вашего высокопревосходитель-</l>
+      <l>ства отъ <date when="1800-09-10">10<hi rend="superscript">го</hi> числа сего Сентября</date> съ описью, <orgName
+      ref="Литовский_надворный_суд">Надворный судъ</orgName></l>
+      <l>имѣетъ честь при семъ почтительнѣйше къ вашему высокопрево-</l>
+      <l>сходительству представить.</l>
+    </p>
+    <closer>
+      <signed>Надворный Судья <unclear>Гроховскій<note place="end"
+      >Фамилия другим почерком. Первые буквы неуверенны; возможно, Троховскій. Та же подпись на <ref
+      target="/lvia1800-29/001">л. 1</ref>.</note></unclear></signed>
+      <signed>Секретарь <persName ref="Искрицкий">Павелъ Искрицкій</persName></signed>
+      <dateline>
+        <fw type="docNum"><emph rend="underline">№ 400<hi rend="superscript">м</hi></emph></fw>
+        <l><date when="1800-09-28"><unclear>Сен<note place="end">Начало слова уходит в корешок. Выше в тексте назван
+        сентябрь.</note></unclear>тября 28<hi rend="superscript">го</hi> дня</date></l>
+        <l><date when="1800-09-28">1800<hi rend="superscript">го</hi> года</date>.</l>
+      </dateline>
+      <signed>
+        <l>Канцеляристъ, четырнадцатаго класса, Александръ</l>
+        <l>Янкинскій.</l>
+      </signed>
+    </closer>
     <pb n="006-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

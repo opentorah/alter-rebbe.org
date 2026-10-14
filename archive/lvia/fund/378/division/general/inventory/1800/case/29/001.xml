@@ -1,11 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author><orgName ref="Литовский_надворный_суд">Литовский надворный суд</orgName></author>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Рапорт <orgName ref="Литовский_надворный_суд">Литовского надворного суда</orgName> <persName ref="Кутузов"
+        >Кутузову</persName>: по жалобе бывшего виленского кагального старшины <persName ref="Мовша_Ошерович">Мовшы
+        Ошеровича</persName>, поданной бывшему генерал-прокурору <persName ref="Лопухин">Лопухину</persName> на <orgName
+        ref="Литовское_губернское_правление">Литовское губернское правление</orgName>, суд провел следствие и
+        представляет копию за подписанием присутствующих. Позднейший рапорт по той же жалобе — <ref
+        target="/lvia1800-29/006">006</ref>
+      </p></abstract>
+      <creation><date when="1800-08-10">10 августа 1800 года</date></creation>
+      <correspDesc>
+        <correspAction type="received"><persName ref="Кутузов" role="addressee">Кутузову</persName></correspAction>
+      </correspDesc>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="001-1"/>
+    <fw type="pageNum" place="right">1</fw>
+    <fw type="note" place="top">получено <date when="1800-08-19">19. авг.</date></fw>
+    <salute>
+      <l>Его Высокопревосходительству,</l>
+      <l>Господину Генералу отъ инфантеріи, <placeName ref="Литва">Литовскому</placeName> военному</l>
+      <l>Губернатору, начальствующему въ <placeName ref="Литва">Литовской</placeName> Губерніи по граж-</l>
+      <l>данской части, шефъ мушкатерскаго полка своего имени и</l>
+      <l>Кавалеру <persName ref="Кутузов">Михаилъ Ларіоновичу Голенищевъ-Кутузову</persName>.</l>
+    </salute>
+    <head>
+      <l><orgName ref="Литовский_надворный_суд">Литовскаго Надворнаго суда</orgName>.</l>
+      <l>Рапортъ.</l>
+    </head>
+    <p>
+      <l>По вступившей къ бывшему Господину Генералъ-</l>
+      <l>Прокурору и Кавалеру Князю <persName ref="Лопухин">Петру Васильевичу Лопухину</persName></l>
+      <l>отъ бывшаго <placeName ref="Вильна">виленскаго</placeName> <orgName ref="Виленский_кагал">Кагальнаго</orgName>
+      старшины <persName ref="Мовша_Ошерович">Мойжеша</persName></l>
+      <l><persName ref="Мовша_Ошерович">Ошеровича</persName> жалобъ на <orgName ref="Литовское_губернское_правление"
+      >Литовское Губернское правленіе</orgName> и дру-</l>
+      <l>гихъ чиновниковъ въ причиненіи ему и сотоварищамъ его</l>
+      <l>обидъ, притѣсненій и побоевъ, произведя сей <orgName ref="Литовский_надворный_суд">Надворный судъ</orgName></l>
+      <l>основательное изслѣдованіе, съ <unclear>учиненнымъ<note place="end">Окончание читается неуверенно; возможно
+      «учиненнаго».</note></unclear> по оному <unclear>положеніемъ<note place="end">Окончание читается неуверенно;
+      возможно «положенія».</note></unclear>,</l>
+      <l>имѣетъ честь копію за подписаніемъ присутствующихъ</l>
+      <l>при семъ вашему высокопревосходительству почтительнѣйше</l>
+      <l>представить.</l>
+    </p>
+    <closer>
+      <signed>Надворный Судья <unclear>Гроховскій<note place="end"
+      >Фамилия другим почерком. Первые буквы неуверенны; возможно, Троховскій. Та же подпись на <ref
+      target="/lvia1800-29/006">л. 6</ref>.</note></unclear></signed>
+      <signed>Секретарь <persName ref="Искрицкий">Павелъ Искрицкій</persName></signed>
+      <dateline>
+        <fw type="docNum">№ 342<hi rend="superscript">м</hi></fw>
+        <l><date when="1800-08-10">Августа 10<hi rend="superscript">го</hi><note place="end">Справа от числа чернильное
+        пятно.</note> дня</date></l>
+        <l><date when="1800-08-10">1800<hi rend="superscript">го</hi> года</date>.</l>
+      </dateline>
+      <signed>Коллежскій Регистраторъ Александръ Янкинскій</signed>
+    </closer>
     <pb n="001-2" missing="true" empty="true"/>
   </body></text>
 </TEI>

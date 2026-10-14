@@ -1,11 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract/></profileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Обложка дела: следствие по жалобе бывшего виленского кагального старшины <persName
+        ref="Мовша_Ошерович">Мовшы Ошеровича</persName> на <orgName ref="Литовское_губернское_правление">Литовское
+        губернское правление</orgName> и других чиновников. На листе архивные штампы и помета «листовъ: 20»
+      </p></abstract>
+      <creation><date when="1800">1800 год</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="ru"><body>
     <pb n="000-1"/>
+    <fw type="docNum"><emph rend="underline">№ 29.</emph></fw>
+    <head>
+      <l><emph rend="big">Дѣло</emph></l>
+      <l>Слѣдственное</l>
+      <l>по жалобѣ бывшаго <placeName ref="Вильна">Виленскаго</placeName></l>
+      <l><orgName ref="Виленский_кагал">Кагальнаго</orgName> Старшины <persName ref="Мовша_Ошерович">Мойжеша</persName></l>
+      <l><persName ref="Мовша_Ошерович">Ошеровича</persName> на <orgName ref="Литовское_губернское_правление">Литовское
+      Губерн-<lb break="no"/>
+      ское Правленіе</orgName> и другихъ чинов-</l>
+      <l>никовъ въ причиненіи ему и сото-</l>
+      <l>варищамъ его обидъ, притѣсненій</l>
+      <l>и побоевъ.</l>
+    </head>
+    <fw type="note"><date when="1800">1800<hi rend="superscript">го</hi></date></fw>
+    <fw type="note" place="left">
+      <l>LIETUVOS VALSTYBĖS</l>
+      <l>ISTORIJOS ARCHYVAS</l>
+      <l>F.Nr. 378</l>
+      <l>Ap.Nr. bis 1800</l>
+      <l>B.Nr. 29</l>
+    </fw><note place="end">заполненный штамп архивного дела</note>
+    <fw type="note" place="left">
+      <l>Центральный исторический</l>
+      <l>архив <placeName ref="Литва">Литовской</placeName> ССР</l>
+      <l>Ф. № 378 оп. № 1800</l>
+      <l>Ед. хр. № 29</l>
+    </fw><note place="end">заполненный штамп архивного дела</note>
+    <fw type="note" place="lower margin">-20-</fw>
+    <fw type="note" place="lower margin">Листовъ: 20.</fw>
     <pb n="000-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
