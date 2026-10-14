@@ -2,7 +2,14 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author/></titleStmt></fileDesc>
-    <profileDesc><abstract>?</abstract></profileDesc>
+    <profileDesc>
+      <abstract><p>
+        Подлинник на иврите письма видзского кагала о его непричастности к переводу <persName ref="Гирш_Иоселиович"
+        >Гиршем Иоселиовичем</persName> письма <orgName ref="Виленский_кагал">виленского кагала</orgName>. Русский
+        перевод — <ref target="/lvia1799-178/211">211</ref>.
+      </p></abstract>
+      <creation><date when="1798-07-25">25 июля 1798 года</date></creation>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
     <pb n="212-1"/>
