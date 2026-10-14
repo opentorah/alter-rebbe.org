@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author/>
+    </titleStmt></fileDesc>
     <profileDesc><abstract>
       <p>Заявление о составлении списка книг при обыске</p>
       <p>Список книг <persName ref="alter-rebbe">Алтер Ребе</persName></p>
@@ -10,6 +12,28 @@
   </teiHeader>
   <text xml:lang="he"><body>
     <pb n="020-1"/>
+    <fw type="pageNum" place="right"><del rend="overstrike">56</del></fw>
+    <fw type="pageNum" place="right">20</fw>
+    <p>
+      <l>אנחנו הח״מ עינינו ראו הספרים שנמצאו אצל <persName ref="alter-rebbe">זלמן ברוך</persName>
+      <unclear>בכ׳<note place="end">Короткое слово после имени. Похоже на בכ׳.</note></unclear> גם הרב הנ״ל
+      <unclear>שנמצאו אצל זלמן ברוך<note place="end">Между הרב הנ״ל и הספרים הנ״ל чтение не закреплено.</note></unclear>
+      הספרים הנ״ל יש ויש שהם <unclear>מאד אסורים<note place="end">Последние два слова читаются неуверенно.</note></unclear></l>
+      <l>והספרים הנמצאים בבית הרב הנ״ל גם הספרים הנמצאים אצל <persName ref="alter-rebbe">זלמן
+      ברוך</persName> הנ״ל עיין רשימה הזאת וכלם אין בהם שום דבר נגד דת היהודים ולא נגד</l>
+      <l>וגם כאן על הספרים שנמצאו פה אצל <persName ref="alter-rebbe">זלמן ברוך</persName> הנ״ל</l>
+    </p>
+    <p xml:lang="ru">
+      <l><unclear>Гилель<note place="end">Первое имя может читаться и Лейба.</note></unclear> Гиршовичъ мещанинъ</l>
+      <l>Мееръ довидовичъ</l>
+      <l><unclear>Довидъ мовшовичъ<note place="end">Первое имя третьей строки читается неуверенно.</note></unclear></l>
+    </p>
+    <signed>
+      <l>נאום <persName>מאיר במהור״ר דוד</persName><note place="end">Буквы דוד обведены. Слева три русские
+      подписи, справа две еврейские. Мееръ довидовичъ — это מאיר בן דוד. Вторая еврейская подпись с третьей
+      русской строкой не совпадает.</note></l>
+      <l>ונאום <persName>ברוך במהר״ר משה</persName> נ״י</l>
+    </signed>
     <pb n="020-2"/>
   </body></text>
 </TEI>
