@@ -2,32 +2,9 @@
 
 ## What already matches the best archives
 
-- Transcription keeps old orthography, deletions, hands, unclear words, and abbreviations.
-  The guide at `/note/contributing.html` is as explicit as the Bentham or Newton instructions.
+- The guide at `/note/contributing.html` is as explicit as the Bentham or Newton instructions.
 - People and places are authority records, and documents link back to them.
   That is the same idea as Early Modern Letters Online and London Lives.
-
-## What a first visit shows
-
-Unfinished catalog records are public: “???”, “UNKNOWN”, “ISBN-10(13)”, and an empty RNB file.
-That is honest, and it also looks abandoned.
-
-## Comparison
-
-| What a reader needs | alter-rebbe.org now | What strong history sites do |
-| --- | --- | --- |
-| A way in | Entrance, then archive, person, year, and the file list. No “how to read” page yet | Founders Online and Old Bailey Online open with a search box, a short explanation, and a few paths (person, year, topic) |
-| Search | Diplomatic text from the header, plus year, archive, and language. No normalized spelling | Old Bailey, Founders, EMLO, and JPress are usable because the text is searchable |
-| Reading a page | On a wide window the current scan sits beside the text. A missing page number is still only a link, and the page does not name the photographer | Newton Project, Old Bailey, and Transkribus put image and text side by side |
-| Old spelling and modern reading | Diplomatic text only. A modern Russian reading is promised, not offered | Newton offers diplomatic and normalized text from the same encoding. The TEI already has `sic` / `corr` and `abbr` / `expan` for this |
-| Who this person is | Identity sentence, encyclopedia links, then snippets | EMLO and London Lives give a short identity, variant names, and a dated list of documents |
-| Where it happened | Place names as links | EMLO and Mapping the Republic of Letters put the same places on a map |
-| How to cite | Cite copies the archive path, the URL, the transcriber, the license, the git hash, and the GitHub file URL. The words are not shown on the page. The TEI file is linked from the same line | Documentary editions give a copyable citation: archive, folio, URL, and date viewed |
-| Language of the site | Russian interface. Documents are Russian, Hebrew, Polish, and French | The readers of this story search in English and Hebrew as well as Russian. Chabad.org and Mondshine’s *Kerem Chabad* edition meet them there. The edition can stay Russian and still offer an English and a Hebrew front door |
-| Status of the work | A reader cannot see what is transcribed, what has a scan, and what is only a title | Transcribe Bentham shows “not started / in progress / complete” |
-| Parallel texts | A note says that 063 is a French translation of the Hebrew testimony and that 289 is the Russian draft | Sefaria and Newton show the two texts together |
-| Images as research objects | JPEGs in a bucket, opened by exact URL. The transcription pane shows one scan at a time | Libraries now serve images through IIIF, so a page can be zoomed, cited, and compared |
-| Editorial silence | The about page refuses critical interpretation. The document header is cataloging (who, to whom, when, and the description), not a commentary | The best editions keep that line. A short headnote is cataloging, not a commentary |
 
 ## Do these first
 
