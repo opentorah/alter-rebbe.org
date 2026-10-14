@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1798-10-09">9 октября 1798 года</date></creation>
+      <abstract><p>
+        Перевод польского письма <ref target="/rgada/144">144</ref> от <date when="1798-10-09">9 октября
+        1798 года</date>. Семеро евреев пишут кагальным <placeName ref="Вильна">Вильны</placeName>, что рабби их
+        <orgName ref="Хасиды">секты</orgName> <persName ref="alter-rebbe">Зельмана</persName> из <placeName
+        ref="Лиозно">Лиозно</placeName> увезли в <placeName ref="Петербург">Петербург</placeName>, и зовут просить
+        указ против этой секты.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <opener>
+      <dateline><pb n="144-1"/> <placeName>Латвия</placeName><note place="end">В поле листа Łotwa. По-польски
+      так называется Латвия. Города письмо не называет.</note>, <date when="1798-10-09">9 октября 1798 года</date
+      >.</dateline>
+      <salute>
+        <p>Мира желаем почтенным кагальным <placeName ref="Вильна">Вильны</placeName>.</p>
+      </salute>
+    </opener>
+    <p>
+      Извещаем вас: по указу из <placeName ref="Петербург">Петербурга</placeName> в прошлый вторник <persName
+      ref="alter-rebbe">рабби</persName> нашей <orgName ref="Хасиды">секты</orgName><note place="end">В подлиннике
+      naszej, «нашей». Ниже тех же людей письмо называет «они» и просит указа против них.</note> из
+      <placeName ref="Лиозно">Лиозно</placeName>, по имени <persName ref="alter-rebbe">Зельман</persName>, неожиданно
+      взят в <placeName ref="Петербург">Петербург</placeName>. Не знаем, откуда это вышло: от ваших ли стараний,
+      дошло ли до Его Императорского Величества — да возвысит Бог могущество его, —
+      или из других мест. Как бы то ни было, в <placeName ref="Петербург">Петербурге</placeName> он ещё только теперь,
+      и не ему во благо.<note place="end">В подлиннике nie na Jego dobroci. Понято как «не ему во благо», не как
+      милость императора: о ней сказано следом.</note> Если же Бог всемогущий даст, то по великому милосердию
+      Его Императорского Величества может прийти помощь всему Израилю,<note
+      place="end">В подлиннике powszedności. Принято за powszechności: всей совокупности Израиля.</note> чтобы ни о
+      таких людях, ни о таких делах, как у этой нашей <orgName ref="Хасиды">секты</orgName>, больше не было слышно.
+    </p>
+    <p>
+      Обо всём этом извещаем, чтобы вы знали, как поступить. Следовало бы послать достойных<note place="end">В
+      подлиннике odonych osób. Принято за godnych, «достойных».</note> людей в <placeName ref="Петербург"
+      >Петербург</placeName> и там изложить дела этой <orgName ref="Хасиды">секты</orgName>, чтобы впредь они не
+      усиливались: старания их велики. Вчера из нашего города в <placeName ref="Петербург">Петербург</placeName> уже
+      выехали люди этой <orgName ref="Хасиды">секты</orgName>, и из других городов тоже.
+    </p>
+    <p>
+      Итак, вы знаете, что делать. Теперь самое время просить и умолять Его Императорское Величество об указе,
+      чтобы по делам их больше не поступали и чтобы никто не пошёл за ними, как они
+      до сих пор делали.
+    </p>
+    <p>
+      Не удивляйтесь, что из нашего города мы никого не послали. Вам известно наше дело большой важности с нашим
+      паном, из-за которого нам нельзя тронуться с места. Это дело оставляем на вас. Остаётся выхлопотать то, что
+      нужно, а мы знаем, что выхлопотать это легко. Просьбы наши против них у вас. Мы с вами заодно.
+    </p>
+    <closer>
+      <signed><persName>Ицко Файвишевич</persName></signed>
+      <signed><persName>Берко Лейкович</persName></signed>
+      <signed><persName>Беньямин Зельманович</persName></signed>
+      <signed><persName>Нохман Мовшович</persName></signed>
+      <signed><persName>Румиель Мовшович</persName></signed>
+      <signed><persName>Михель Гершович</persName></signed>
+      <signed><persName>Мовша Беркович</persName></signed>
+    </closer>
+    <pb n="144-2"/>
+  </body></text>
+</TEI>

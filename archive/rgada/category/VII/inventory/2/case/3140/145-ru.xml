@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author>?</author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <abstract><p>
+        Перевод польского текста <ref target="/rgada/145">145</ref>. Письмо <placeName ref="Вильна">виленской</placeName>
+        общины <orgName ref="Хасиды">хасидов</orgName> к единоверцам с просьбой о помощи после ареста <persName
+        ref="alter-rebbe">Шнеура Залмана</persName>. Польский текст сам есть перевод.
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <opener>
+      <p><pb n="145-1"/> № 1</p>
+      <salute>
+        <p>Нашим богобоязненным друзьям в общине.<note place="end">В подлиннике w złączeniu, ниже zgromadzenie
+        tutejsze wileńskie. И то и другое передано словом «община»: виленская община хасидов, не кагал.</note>
+        Да будет Бог над ними.</p>
+      </salute>
+    </opener>
+    <p>
+      Сегодня мы посылаем нашего друга, подателя сего письма, по делу, о котором он вам расскажет. Очень просим помочь
+      ему и сделать всё возможное, всеми способами, чтобы дело его исполнилось: нам это очень нужно. Вам известно, что
+      Бог избавил не нас одних, но и вас вместе с нами. Если бы не имя Божие, это вышло бы на погибель всякому, кто
+      только взялся служить Богу, и не подобало бы поминать имя Божие.
+    </p>
+    <p>
+      Слава Богу, что не отдал нас в пищу зубам их<note place="end">Тегилим, глава 124, стих 6.</note> и явил чудеса
+      милости Своей в великом городе, чтобы всякий, кто видит дела Божии, признал и увидел, что Он страшен, и через
+      это Всевышний будет прославлен.
+    </p>
+    <p>
+      Мы уже постарались со всех сторон, чтобы вам не было никакого ущерба и позора. Потому ваш долг ради Бога сделать
+      это со всем усердием. А добрый Бог да утвердит смирение и да просветит ослеплённые глаза.<note place="end">После
+      zaślepione в подлиннике stu. Дальше сразу имя общины. В перевод не вошло.</note>
+    </p>
+    <closer>
+      <p>Мы, ваши друзья, здешняя <placeName ref="Вильна">виленская</placeName> община.</p>
+      <signed><persName ref="Меер_Рафалович">Меер Рафалович</persName></signed>
+      <signed><persName ref="Лейба_Зеликович">Лейба Зеликович</persName></signed>
+      <signed><persName>Хаим Йохелевич</persName></signed>
+      <signed><persName>Янкель Меиерович</persName></signed>
+      <signed><persName ref="Зелман_Янкелевич">Зелман Янкелевич</persName></signed>
+      <signed><persName ref="Нохим_Ицкович">Нохим Ицкович</persName></signed>
+      <signed><persName>Рома Мордух Сытынк</persName></signed>
+      <signed><persName ref="Лейба_Меиерович">Лейба Меиерович</persName><note place="end">В подписи между именем и
+      отчеством написано Kroz.</note></signed>
+    </closer>
+    <pb n="145-2"/>
+  </body></text>
+</TEI>

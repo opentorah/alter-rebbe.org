@@ -1,17 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-07">7 октября 1820 года</date></creation>
       <abstract><p>
-        Рапорт (на польском языке) представителя Могилевской римско-католической консистории в связи с делом <persName
-        ref="Моше_Шнеерсон">Моше Шнеерсона</persName>
+        Рапорт каноника <persName ref="Одынец-Добровольский">Одынца-Добровольского</persName> в могилевское
+        митрополичье римско-католическое духовное присутствие. <date when="1820-10-06">6 октября</date> ему передали
+        бумагу подполковника <persName ref="Пузанов">Пузанова</persName> о бывшем улльском раввине <persName
+        ref="Моше_Шнеерсон">Моше Шнеерсоне</persName>; он просит предписать ксендзу <persName ref="Сиодловский"
+        >Сиодловскому</persName> немедленно доставить подлинную метрику крещения для представления губернатору.
+        Входящий № 1506, пометка «секретно», получен <date when="1820-10-07">7 октября</date>; слушано <date
+        when="1820-10-08">8 октября</date> — постановление <ref target="/niab1401/083">083</ref>. Подлинная метрика —
+        <ref target="/niab1401/090">090</ref>; выпись по этому указу — <ref target="/niab1401/087">087</ref> и <ref
+        target="/niab1401/088">088</ref>. В заголовке имя читается как ксендз Винценты Ганус; подпись — Т. Одынец
+        Добровольский. Перевод: <ref target="/niab1401/082-ru">ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="082-1"/>
+    <fw type="docNum">№ 1506</fw>
+    <fw type="note" place="top"><hi rend="underline">Sekretny</hi> Otrzym: <date when="1820-10-07">7. <choice><abbr>8br</abbr><expan>Octobris</expan></choice> 1820.</date></fw>
+    <fw type="pageNum" place="right" hand="#pencilHand">F 82</fw>
+    <salute>
+      <l>Do Duchownego Rzymsko-Katolickiego</l>
+      <l>Mohilewskiego Metropolitalnego</l>
+      <l>Urzędu —</l>
+    </salute>
+    <head>
+      <l>Od <choice><abbr>X.</abbr><expan>Xiądza</expan></choice> <persName><unclear>Wincentego Hanusa</unclear><note
+      place="end">Имя в заголовке читается Wincentego Hanusa: фамилия начинается с H, не с O, и не совпадает с Odyńca
+      на <ref target="/niab1401/079">079</ref>. Подпись на обороте — <choice><abbr>X.</abbr><expan>Xiądz</expan></choice>
+      <choice><abbr>T.</abbr><expan>Tadeusz</expan></choice> Odyniec Dobrowolski. Рядом с заголовком смотрелось Tadeusza
+      Odyńca.</note></persName>,</l>
+      <l>Kanonika <persName ref="Одынец-Добровольский">Dobrowolskiego</persName></l>
+      <l>Raport.</l>
+    </head>
+    <p>
+      <l><date when="1820-10-06">Dnia wczorajszego <choice><abbr>tj.</abbr><expan>to jest</expan></choice> 6. <choice><abbr>8br</abbr><expan>Octobris</expan></choice>.</date></l>
+      <l>Arcy-biskupa <unclear>???<note place="end">Два коротких знака между Arcy-biskupa и Mohilewskiego, не
+      разобраны.</note></unclear> Mohilewskiego <persName><unclear>Daniela</unclear><note place="end">Слово читается
+      Daniela.</note></persName>,</l>
+      <l>miałem honor z komunikowania Onemu</l>
+      <l>miejscowej Artyleryi Podpułkownika <persName ref="Пузанов">Puza-</persName></l>
+      <l><persName ref="Пузанов">nowa</persName> do mnie przyłączonego, o byłym Ra-</l>
+      <l>binie <placeName ref="Улла">Ullańskim</placeName> <persName ref="Моше_Шнеерсон">Mowszy Szneierze</persName> —
+      Żydzie</l>
+      <l>go Zastępujący <choice><abbr>JW.</abbr><expan>Jaśnie Wielmożny</expan></choice> Xiądz Biskup. <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> Kanonik</l>
+      <l>już jest ochrzczonym i między poufnymi <choice><abbr>X.</abbr><expan>Xędza</expan></choice> <persName
+      ref="Сиодловский">Siodłow-</persName></l>
+      <l><persName ref="Сиодловский">skiego</persName>. <unclear>Objawie<note place="end">Слово читается Objawie. Рядом
+      смотрелось Objaśnienie.</note></unclear> mieszczący, że rzeczony z Woli</l>
+      <l>Bożej chrześcijanin, jest pod bezpośrednią</l>
+      <l>Opieką Bratelską — Komunikując się jednocze-</l>
+      <fw type="catch" place="bottom">śnie</fw>
+    </p>
+    <fw type="note" place="lower right">Słuch: <date when="1820-10-08">8. teym.<note place="end">teym — tego miesiąca,
+    то есть 8 октября. В этот день постановление <ref target="/niab1401/083">083</ref>.</note></date></fw>
     <pb n="082-2"/>
+    <p>
+      <l>śnie. do mnie ad <choice><abbr>W.</abbr><expan>Wielmożnego</expan></choice> <persName ref="Пузанов">Puzanowa</persName> przyłączy-</l>
+      <l>wioł, a mnie polecił, abym <unclear>???<note place="end">Слово перед Xiądz Duchowny не разобрано. Рядом
+      смотрелись tamtejszy и miejscowy.</note></unclear> Xiądz</l>
+      <l>Duchowny jak nayrychley</l>
+      <l><unclear>wyprawił<note place="end">Глагол перед Chrzestną Metrykę читается wyprawił.</note></unclear> Chrzestną
+      Metrykę Onie-</l>
+      <l>go, oryginalną, onemu, Dla przedsta-</l>
+      <l>wienia <choice><abbr>JW.</abbr><expan>Jaśnie Wielmożnemu</expan></choice> Xięciu Gubernatorowi dosta-</l>
+      <l>wić. — w skutek czego Przeświet-</l>
+      <l>nego Konsystorza naypokorniey proszę</l>
+      <l><choice><abbr>X.</abbr><expan>Xiędzu</expan></choice> <persName ref="Сиодловский">Siodłowskiemu</persName> przy
+      kogo należy na-</l>
+      <l>pisać, aby wspomnioną metrykę do Se-</l>
+      <l>kretu,<note place="end">Читается Sekretu: входящая помета листа — Sekretny. Рядом смотрелось chrztu.</note>
+      nieodwłocznie do Zwierzchności</l>
+      <l>Dostawił.</l>
+    </p>
+    <closer>
+      <l><signed><choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <choice><abbr>T.</abbr><expan>Tadeusz</expan></choice> <persName ref="Одынец-Добровольский">Odyniec Dobrowolski</persName></signed></l>
+      <l><signed><choice><abbr>Ass.</abbr><expan>Assessor</expan></choice> Kanonik</signed></l>
+    </closer>
+    <fw type="docNum" place="left margin">№ <unclear>???<note place="end">Номер под чёрточкой у левого края оборота, не
+    разобран. Ниже: W. Puzanow и 1820 r.</note></unclear></fw>
+    <fw type="note" place="left margin"><choice><abbr>W.</abbr><expan>Wielmożny</expan></choice> <persName
+    ref="Пузанов">Puzanow</persName>.</fw>
+    <fw type="note" place="left margin"><date when="1820">1820 r.</date></fw>
   </body></text>
 </TEI>

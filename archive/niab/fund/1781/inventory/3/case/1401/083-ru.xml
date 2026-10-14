@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName ref="Яцентий_Заремба">Яцентий Заремба</persName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <creation><date when="1820-10-08">8 октября 1820 года</date></creation>
+      <abstract><p>
+        Перевод журнального постановления Могилевской римско-католической консистории от <date when="1820-10-08">8
+        октября 1820 года</date> об истребовании выписи метрики крещения <persName ref="Моше_Шнеерсон">Шнеера</persName>;
+        оригинал: <ref target="/niab1401/083">083</ref>
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="083-1"/>
+      <date when="1820-10-08">8 октября 1820 года</date> в журнале митрополичьей могилевской римско-католической духовной
+      консистории записано.
+    </p>
+    <p>
+      По выслушании этого рапорта постановлено: согласно вышеизложенному рапорту предписать ксендзу <persName
+      ref="Сиодловский">Сиодловскому</persName>, чтобы он как можно скорее при своём рапорте немедленно доставил сюда
+      выпись метрики крещения <persName ref="Моше_Шнеерсон">Шнеера</persName>, крещённого им.
+      <note place="end">Рапорт, выслушанный в этот день, — <ref target="/niab1401/082">082</ref>. Сиодловский исполнил
+      указ <date when="1820-10-25">25 октября</date>: <ref target="/niab1401/087">087</ref> и выпись <ref
+      target="/niab1401/088">088</ref>.</note>
+    </p>
+    <p>
+      Верно, с подписью судей и асессора-секретаря. Согласно. Секретарь.
+    </p>
+    <p>
+      10-го класса <persName ref="Яцентий_Заремба">Яцентий Заремба</persName>.
+    </p>
+  </body></text>
+</TEI>

@@ -1,17 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Яцентий_Заремба">Яцентий Заремба</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
       <creation><date when="1820-10-08">8 октября 1820 года</date></creation>
       <abstract><p>
-        Постановление Могилевской римско-католической духовной консистории о крещении <persName ref="Моше_Шнеерсон">Моше
-        Шнеерсона</persName> (на польском языке)
+        Выпись из журнала Могилевской римско-католической митрополичьей духовной консистории от <date
+        when="1820-10-08">8 октября 1820 года</date>. По выслушании рапорта <ref target="/niab1401/082">082</ref>
+        консистория предписывает ксендзу <persName ref="Сиодловский">Сиодловскому</persName> немедленно доставить выпись
+        метрики крещения <persName ref="Моше_Шнеерсон">Шнеера</persName>. Это указ, который <persName
+        ref="Сиодловский">Сиодловский</persName> исполняет рапортом <ref target="/niab1401/087">087</ref> и выписью <ref
+        target="/niab1401/088">088</ref>. Скрепил секретарь 10-го класса <persName ref="Яцентий_Заремба">Яцентий
+        Заремба</persName>. Карандашный номер листа 83. Оборот не снят. Перевод: <ref target="/niab1401/083-ru"
+        >ru</ref>
       </p></abstract>
+      <handNotes>
+        <handNote xml:id="pencilHand" medium="pencil">записано карандашом</handNote>
+      </handNotes>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="083-1"/>
+    <fw type="pageNum" place="right" hand="#pencilHand">83</fw>
+    <p>
+      <l><date when="1820-10-08">1820-go roku Października 8 dnia</date> w Jurnale Me-</l>
+      <l>tropolitalnego Mohilowskiego Rzymsko Kato-</l>
+      <l>lickiego duchownego Konsystorza zapisano. —</l>
+    </p>
+    <p>
+      <l>Po wysłuchaniu tego raportu Postano-</l>
+      <l>wiono: Stosownie do powyższego raportu,</l>
+      <l>zalecić <choice><abbr>Xżu</abbr><expan>Xiędzu</expan></choice> <persName ref="Сиодловский">Siodłowskiemu</persName> aby on iak nayrych-</l>
+      <l>ley Extrakt Metryki chrztu <persName ref="Моше_Шнеерсон">Sznejera</persName> prze-</l>
+      <l>zeń ochrzczonego, natychmiast tu dostawił</l>
+      <l>przy swym raporcie. Wierność z podpisem</l>
+      <l>Sędziów i assessora Sekretarza. — Zgodno, Sekretarz</l>
+    </p>
+    <closer>
+      <l><signed>10. klassy <persName ref="Яцентий_Заремба">Jacenty Zaremba</persName></signed></l>
+    </closer>
     <pb n="083-2" missing="true"/>
   </body></text>
 </TEI>
