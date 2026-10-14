@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc><titleStmt>
+      <author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author>
+      <editor role="translator"><persName ref="Grok">Grok</persName></editor>
+    </titleStmt></fileDesc>
+    <profileDesc>
+      <correspDesc><correspAction>
+        <persName ref="Богуш-Сестренцевич" role="addressee">Богушу-Сестренцевичу</persName>
+      </correspAction></correspDesc>
+      <abstract><p>
+        Перевод рапорта каноника <persName ref="Одынец-Добровольский">Одынца-Добровольского</persName>; оригинал:
+        <ref target="/niab271/018">018</ref>
+      </p></abstract>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="ru"><body>
+    <p>
+      <pb n="018-1"/>
+      № 741. Получено <date when="1820-12-01">1 декабря 1820 года</date>.
+      <note place="end">Даты составления на листе нет. После года в подлиннике буква v.</note>
+    </p>
+    <p>
+      Ясновельможному митрополиту римских церквей в <placeName>России</placeName>, архиепископу <placeName
+      >могилёвскому</placeName>, администратору <placeName ref="Вильна">виленского</placeName> епископства, кавалеру
+      святого Андрея, иных российских и польских орденов и большого креста святого Иоанна Иерусалимского, <persName
+      ref="Богуш-Сестренцевич">Станиславу Сестренцевичу-Богушу</persName>.
+      <note place="end">В подлиннике Jaśnie Wielmożnego написано целиком. S. — Świętego. Церкви названы Rzymskich.
+      «Большого креста» — Wielkiego Krzyża. Mohilewskiego через i.</note>
+    </p>
+    <p>
+      <placeName>Киевского</placeName> каноника, заседателя консистории Тадеуша <persName ref="Одынец-Добровольский"
+      >Одынца Добровольского</persName>. Рапорт.
+    </p>
+    <p>
+      Сын прежнего иудейского раввина, живущий в местечке <placeName ref="Улла">Улле</placeName> <placeName
+      >лепельского</placeName> повета <placeName ref="Витебская_губерния">витебской</placeName> губернии, с
+      конференции, бывшей с вельможным деканом <persName>Любрицким</persName>, впоследствии основательно усвоив
+      истинное принятие Мессии в лице Иисуса Христа, объявил, что хочет быть христианином. Он был при тамошних
+      ксендзах и при некоем ксендзе <persName><unclear>Бестовиче<note place="end">В подлиннике Bestowicza. Рядом
+      смотрелось Kestowicza и Besztowicza. Имени сына раввина на листе нет.</note></unclear></persName>.
+      <note place="end">Вельможный — WWym. Ксендзы — XX. Ксендз — X. Христа — Xtusa.</note>
+    </p>
+    <p>
+      <pb n="018-2"/>
+      А потом, не знаю каким образом, при лепельском капитане-исправнике он снова попал в руки евреев. Те назвали его
+      помешанным. Теперь снова, не знаю по каким причинам, велели навести справки о его помешательстве в <placeName
+      >могилёвской</placeName> врачебной управе. В ней заседали доктора: один евангелик, а другой <unclear>монах<note
+      place="end">В подлиннике Mnisz. Рядом смотрелось Minisz. Дальше Hebrayczyk, «еврей».</note></unclear>, еврей. Я
+      был депутатом. Доктора же положили, что он действительно помешан, а я замечаю, что он сам себя к этому
+      принуждает, ибо непрестанно находится под непосредственным надзором евреев.
+    </p>
+  </body></text>
+</TEI>

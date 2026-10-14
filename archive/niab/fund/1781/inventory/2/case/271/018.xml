@@ -1,20 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Одынец-Добровольский">Одынец-Добровольский</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
-      <correspDesc><correspAction><persName ref="Богуш-Сестренцевич" role="addressee">Богушу-Сестренцевичу</persName></correspAction>
-      </correspDesc>
-      <creation><date when="1820-10-01">1 октября 1820 года<note place="end">не позднее указанного числа: на
-      рапорте обозначена дата его получения</note></date></creation>
+      <correspDesc><correspAction>
+        <persName ref="Богуш-Сестренцевич" role="addressee">Богушу-Сестренцевичу</persName>
+      </correspAction></correspDesc>
       <abstract><p>
-        Рапорт каноника католическому митрополиту об обстоятельствах, связанных с крещением <persName
-        ref="Моше_Шнеерсон">Моше Шнеерсона</persName> - на польском языке
+        Рапорт киевского каноника <persName ref="Одынец-Добровольский">Тадеуша Одынца-Добровольского</persName>
+        митрополиту <persName ref="Богуш-Сестренцевич">Богушу-Сестренцевичу</persName>. Сын прежнего еврейского
+        раввина из местечка <placeName ref="Улла">Уллы</placeName> объявил, что хочет быть христианином; при
+        лепельском исправнике его снова отдали евреям, назвавшим его помешанным. В могилёвской врачебной управе
+        доктора признали помешательство, депутат этого не видит. Имени сына на листе нет. Даты составления нет.
+        Получен <date when="1820-12-01">1 декабря 1820 года</date>, входящий № 741. Чернильный номер листа 18.
+        На обороте номера листа нет. Перевод: <ref target="/niab271/018-ru">ru</ref>
       </p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="018-1"/>
+    <fw type="docNum">№ <emph rend="underline">741.</emph></fw>
+    <fw type="note" place="top"><choice><abbr>Otrzym.</abbr><expan>Otrzymano</expan></choice> <date when="1820-12-01">1. <choice><abbr>Xbra</abbr><expan>Decembra</expan></choice> 1820. v.</date></fw>
+    <fw type="pageNum" place="right">18.</fw>
+    <salute>
+      <l>Do Jaśnie Wielmożnego Metropolity Rzym-</l>
+      <l>skich Kościołów w <placeName>Rossyi</placeName>, Arcy-Bisku-</l>
+      <l>pa <placeName>Mohilewskiego</placeName>, Administratora</l>
+      <l>Biskupstwa <placeName ref="Вильна">Wilenskiego</placeName>. <choice><abbr>S.</abbr><expan>Świętego</expan></choice> Andrzeja,</l>
+      <l>i innych Orderów Rossyiskich, Polskich</l>
+      <l>i <choice><abbr>S.</abbr><expan>Świętego</expan></choice> Jana Jerozolimskiego Wielkiego Krzyża Kawe-</l>
+      <l>lera <persName ref="Богуш-Сестренцевич">Stanisława Siestrzencewicza</persName></l>
+      <l><persName ref="Богуш-Сестренцевич">Bohusza</persName>. —</l>
+    </salute>
+    <head>
+      <l>Kanonika <placeName>Kiiowskiego</placeName>, Asesora Konsy-</l>
+      <l>storskiego <persName ref="Одынец-Добровольский">Tadeusza Odyńca Dobro-</persName></l>
+      <l><persName ref="Одынец-Добровольский">wolskiego</persName> — Raport.</l>
+    </head>
+    <p>
+      <l>Syn niegdyś starozakonne-</l>
+      <l>go Rabina, mieszkaiącego w Miasteczku <placeName ref="Улла">Ule</placeName>,</l>
+      <l>Powiatu <placeName>Lepelskiego</placeName>. Gubernij <placeName ref="Витебская_губерния">Witepskiej</placeName>,</l>
+      <l>z Konferencyi odbytey z <choice><abbr>WWym</abbr><expan>Wielmożnym</expan></choice> Dziekanem <persName>Lu-</persName></l>
+      <l><persName>bryckim</persName>, przybrawszy się późniey grun-</l>
+      <l>townie o istotnym przyięciu Mesyasza</l>
+      <l>w osobie Jezusa <choice><abbr>Xtusa</abbr><expan>Chrystusa</expan></choice>, obiąwił, że</l>
+      <l>chce bydź Chrześcianinem — Był przy <choice><abbr>XX.</abbr><expan>Xięży</expan></choice></l>
+      <l>tamtecznych i niejakiego <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName><unclear>Bestowicza<note place="end">Чтение Bestowicza. Рядом смотрелось Kestowicza и Besztowicza.</note></unclear></persName>,</l>
+    </p>
     <pb n="018-2"/>
+    <p>
+      <l>potym niewiem iakim Sposobem przy Lepel-</l>
+      <l>skiego Kapitana Sprawnika dostał się na</l>
+      <l>powrot w ręce Żydow — Ci nazwali Jego-</l>
+      <l>Waryatem. — Teraz znowuż niewiem ja-</l>
+      <l>kich powodow kazano dowiadzać się Jego</l>
+      <l>Waryacyi w <placeName>Mohilewskiey</placeName> Wraczebney U-</l>
+      <l>prawie. — w Tey zasiadali Doktorowie,</l>
+      <l>jeden Ewangelik, a Drugi iest <unclear>Mnisz<note place="end">Чтение Mnisz. Рядом смотрелось Minisz. Дальше Hebrayczyk.</note></unclear></l>
+      <l>Hebrayczyk. Ja byłem Deputatem. Do-</l>
+      <l>ktorowie zaś Opiniowali, że on istotnie</l>
+      <l>jest pomieszanym — a Ja postrzegam,</l>
+      <l>iż on zmusza siebie do tego; gdyż jest</l>
+      <l>nieustannie pod bezpośrednim dozorem Żydów.</l>
+    </p>
   </body></text>
 </TEI>
