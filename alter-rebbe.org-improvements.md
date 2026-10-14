@@ -1,11 +1,5 @@
 # How to improve alter-rebbe.org
 
-## What already matches the best archives
-
-- The guide at `/note/contributing.html` is as explicit as the Bentham or Newton instructions.
-- People and places are authority records, and documents link back to them.
-  That is the same idea as Early Modern Letters Online and London Lives.
-
 ## Do these first
 
 1. **Say when the scan is missing, and name the photographer.** The scan already sits beside the text on a wide window.
