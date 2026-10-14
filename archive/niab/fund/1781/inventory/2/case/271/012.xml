@@ -1,17 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-    <fileDesc><titleStmt><author/></titleStmt></fileDesc>
+    <fileDesc><titleStmt>
+      <author><persName ref="Сушинский">Сушинский</persName></author>
+    </titleStmt></fileDesc>
     <profileDesc>
+      <correspDesc><correspAction>
+        <persName ref="Богуш-Сестренцевич" role="addressee">Богушу-Сестренцевичу</persName>
+      </correspAction></correspDesc>
       <creation><date when="1820-07-16">16 июля 1820 года</date></creation>
       <abstract><p>
-        Рапорт полоцкого католического декана в митрополию римско-католической церкви в России об обстоятельствах,
-        связанных с <persName ref="Моше_Шнеерсон">Моше Шнеерсоном</persName> - на польском языке
+        Рапорт полоцкого декана ксендза <persName ref="Сушинский">Антония Сушинского</persName> митрополиту <persName
+        ref="Богуш-Сестренцевич">Богушу-Сестренцевичу</persName> от <date when="1820-07-16">16 июля 1820 года</date>.
+        Замещающий его в <placeName ref="Улла">Улле</placeName> ксендз <persName ref="Сиодловский">Сиодловский</persName> донёс, что еврейский раввин уже почти два года просит крещения и содержится под стражей. Подполковник
+        <persName ref="Пузанов">Пузанов</persName> передал его в плебанию; земский капитан лепельского повета <persName
+        >Рылевич</persName> отвёз его к декану <persName ref="Зраницкий">Зраницкому</persName> в <placeName
+        ref="Бешенковичи">Бешенковичи</placeName>, после чего раввина выдали евреям как помешанного. Имени раввина на
+        листе нет. Получен <date when="1820-08-01">1 августа 1820 года</date>, входящий № 592; внизу № 140. Чернильный
+        номер листа 12. На обороте номера листа нет. Перевод: <ref target="/niab271/012-ru">ru</ref>
       </p></abstract>
     </profileDesc>
   </teiHeader>
   <text xml:lang="pl"><body>
     <pb n="012-1"/>
+    <fw type="docNum">№ 592.</fw>
+    <fw type="note" place="top"><choice><abbr>Otrzym:</abbr><expan>Otrzymano</expan></choice> <date when="1820-08-01">1. Augusta 1820.</date></fw>
+    <fw type="pageNum" place="right">12</fw>
+    <fw type="note" place="left margin">pisano do <unclear>???<note place="end">Помета вдоль левого поля, снизу вверх. После pisano do строка уходит в сгиб. Рядом смотрелись имя и номер № 1450.</note></unclear></fw>
+    <salute>
+      <l>Jaśnie Wielmożnemu.</l>
+      <l>Metropolicie Rzymsko Katolickich w Rossyi</l>
+      <l>Kościołów, Arcy Biskupowi Mohilewskiemu</l>
+      <l>Administratorowi Biskupstwa <placeName ref="Вильна">Wilenskiego</placeName></l>
+      <l><choice><abbr>S<hi rend="superscript">go</hi></abbr><expan>Świętego</expan></choice> Andrzeja i Jana Jeruzolimskiego wielu</l>
+      <l>Krzyżów oraz i innych Rossyiskich i Polskich</l>
+      <l>Orderów Kawalerowi <persName ref="Богуш-Сестренцевич">Stanisławowi Siestrzeń-</persName></l>
+      <l><persName ref="Богуш-Сестренцевич">cewiczowi Bohuszowi</persName>-</l>
+    </salute>
+    <head>
+      <l>Od <placeName>Połockiego</placeName> Dziekana <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> Antoniego</l>
+      <l><persName ref="Сушинский">Suszyńskiego</persName></l>
+      <l>Raport.</l>
+    </head>
+    <p>
+      <l>Ostatnich dni <choice><abbr>Mca</abbr><expan>Miesiąca</expan></choice> Julii Kapłan zastępujący miejsce moje</l>
+      <l>w plebanii <placeName ref="Улла">ulańskiej</placeName> <persName ref="Сиодловский">Siodłowski</persName> doniósł mi, że żydowski Ra-</l>
+      <l>bin z miasteczka <placeName><unclear>Łeź<note place="end">Короткое слово перед запятой. Чтение Łeź. Рядом смотрелось Ład.</note></unclear></placeName>, mający od lat dziewięciu powołanie</l>
+      <l>do Wiary <choice><abbr>S.</abbr><expan>Świętej</expan></choice> Chrześcijańskiej, nayduje się pod ścisłą strażą</l>
+      <l>żydowską, od dwóch lat prawie w miasteczku <placeName ref="Улла">Ule</placeName> i że prosi</l>
+      <l>iuż, najgorliwiey o Chrzest święty. Wnet więc tam poje-</l>
+      <l>chałem, dla dania pomocy proszącemu niewolnikowi, i dla</l>
+      <l>uskutecznienia jego świętego zamiaru. — Ale iuż znalazłem go</l>
+      <l>w plebanii opatrzonego strażą wojskową: gdyż podpułkownik</l>
+      <l>Artylerii <persName ref="Пузанов">Puzanow</persName> w tymże miasteczku <placeName ref="Улла">Ule</placeName> kwartyrujący,</l>
+      <l>znając zamiar Rabina i stan w którym zostawał, a wy-</l>
+      <l>konywając powinność chrześcijańską, wolą Nayjaśniej-</l>
+      <l>szego Imperatora i ustawiczne prośby tegoż Rabina</l>
+      <l>Oswobodził go z niewoli Żydów a przyprowadziwszy do ple-</l>
+      <l>banii, oddał go na ręce temuż <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сиодловский">Siodłowskiemu</persName> i dla</l>
+      <l>zupełnego zabezpieczenia /: gdyż <unclear>nieustannie do dwudziestu czterech<note place="end">Конец строки у обрыва листа. Чтение nieustannie do dwudziestu czterech. Следующая строка начинается с godzin.</note></unclear></l>
+      <l>godzin a iuż żydzi z pobliskich miast <placeName>Połocka</placeName>, <placeName ref="Витебск">Witebska</placeName></l>
+      <l>; <unclear>z inney niedbałość<note place="end">Чтение z inney niedbałość. Рядом смотрелось niedbaiąc. Дальше i na swój sabas.</note></unclear> i na swój sabas. biegli na wybawienie</l>
+      <l>Rabina / dał mu pomoc woienną. Chciałem iuż tego</l>
+      <l>Rabina wziąć z sobą do <placeName>Połocka</placeName> dla nauczenia go Dogmatów Wiary <choice><abbr>S.</abbr><expan>Świętej</expan></choice></l>
+    </p>
     <pb n="012-2"/>
+    <p>
+      <l>Lecz wnet Kapitan Ziemski <persName>Rylewicz</persName> <choice><abbr>Ptu</abbr><expan>Powiatu</expan></choice> <placeName>Lepelskiego</placeName> nadiechał —</l>
+      <l>a widząc ode mnie iak chcę postąpić z Rabinem, mocno się temu sprze-</l>
+      <l>ciwiał, przekonywając mię, że to bydź w iego powiecie i że wolał</l>
+      <l>iżby <choice><abbr>JW.</abbr><expan>Jaśnie Wielmożnego</expan></choice> Cywilnego Gubernatora aby go odesłać do Klasztoru <choice><abbr>XX.</abbr><expan>Xięży</expan></choice></l>
+      <l>Franciszkanów <unclear>Hubińskich<note place="end">Чтение Hubińskich. Рядом смотрелось Hubieńskich.</note></unclear>, nayduiącego się w <unclear>łypskim<note place="end">Название повета сжато. Чтение łypskim. Рядом смотрелось lubskim.</note></unclear> Powiecie.</l>
+      <l>Wreszcie postrzegając mnie stałego w moim zamiarze, użył poli-</l>
+      <l>cii swoiey do odebrania z rąk moich tego Rabina. — Ja niebędąc</l>
+      <l>w stanie iemu się oprzeć, prosiłem tylko i zaklinałem na</l>
+      <l>sumienie i honor iego, aby nie zdradził — uczynił przede mną solem-</l>
+      <l>ną obietnicę i zaręczywszy o bezpieczeństwie, charakterze swoim i po-</l>
+      <l>czciwości; powiózł go do Miasteczka <placeName ref="Бешенковичи">Bieszenkowicz</placeName> do tamecznego</l>
+      <l><choice><abbr>X.</abbr><expan>Xiądz</expan></choice> Dziekana <persName ref="Зраницкий">Zranickiego</persName>. — W kilka dni potem dowiedziałem się</l>
+      <l>że żydzi iuż przekonali Kapitana sprawnego, Wraczebną</l>
+      <l>uprawę, i innych, iż ten Rabin miał pomieszanie. — Na mocy</l>
+      <l>więc tego wydano go Żydom, którego gdy wyprowadzono</l>
+      <l>z plebanii <choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Зраницкий">Zranickiego</persName> w te się do przytomnych odezwał</l>
+      <l>słowy „ Rowny mię los potyka iak JEZUsa, lecz żal mi się:</l>
+      <l>bo JEGO, żyd żydom rozprzedał, a tu się przeciwni żydzi...</l>
+      <l>że tak było <unclear>napewny<note place="end">Чтение napewny dyskursem. Рядом смотрелось na pewny dyskurs.</note></unclear> dyskursem. — —</l>
+    </p>
+    <p>
+      <l>Nadowod że ten Rabin prawdziwe miał powodzenie do Wiary</l>
+      <l><choice><abbr>S.</abbr><expan>Świętej</expan></choice> Chrześcijańskiey w Jasne iego prośby przysyłam</l>
+      <l>Jaśnie Wielmożnemu Metropolicie.</l>
+    </p>
+    <p>
+      <l>A co się tycze pomieszania; ani ie, ani świadkowie tey</l>
+      <l>prośby nic podobnego po tymże Rabinie nie postrzegliśmy.</l>
+    </p>
+    <fw type="docNum" place="lower left">№ 140</fw>
+    <closer>
+      <l><signed><choice><abbr>X.</abbr><expan>Xiądz</expan></choice> <persName ref="Сушинский">Antoni Suszyński</persName> Dziekan <placeName>Połocki</placeName></signed></l>
+      <l><date when="1820-07-16">Julii 16.</date></l>
+      <l><date when="1820-07-16"><unclear>A.<note place="end">Буква перед 1820. Чтение A. Рядом смотрелось R., «roku».</note></unclear> 1820.</date></l>
+    </closer>
   </body></text>
 </TEI>
