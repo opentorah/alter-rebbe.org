@@ -2,7 +2,17 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc><titleStmt><author>?</author></titleStmt></fileDesc>
-    <profileDesc/>
+    <profileDesc>
+      <abstract>
+        <p>
+          На сайте ранние фотографии листа.
+          <ref target="/note/замена-листов.html">Два снимка одного дела</ref>.
+          Как лист выглядит в архиве сейчас:
+          <ref target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/rgada/category/VII/inventory/2/case/3140/236-1.now.jpg">236-1</ref>,
+          <ref target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/rgada/category/VII/inventory/2/case/3140/236-2.now.jpg">236-2</ref>.
+        </p>
+      </abstract>
+    </profileDesc>
   </teiHeader>
   <text xml:lang="he"><body>
     <pb n="236-1"/>
