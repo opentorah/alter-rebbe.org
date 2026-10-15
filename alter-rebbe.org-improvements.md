@@ -2,20 +2,12 @@
 
 ## Do these first
 
-1. **Say when the scan is missing, and name the photographer.** The scan already sits beside the text on a wide window.
-   If the scan is missing, say “no facsimile” in the margin instead of leaving a dead page number.
-   Credit the photographer on that page (Elena Volk, F. Z. Shvaiger, and the others named in the about page).
-
 2. **Turn the person page into a record.** The standard name, the spellings, one sentence of identity, and the
    encyclopedia links are already at the top.
    Label the spellings as variants.
    Under that, list documents by date.
    Keep the snippets as a second view.
    Do the same for a place.
-
-3. **Mark completeness.** On each file, show counts: documents, documents with a transcription, documents with a scan.
-   Hide or badge records that are still `???` and `UNKNOWN`.
-   An empty record should say “not yet catalogued”.
 
 4. **Write a “How to read these documents” page.** One page, not a monograph.
    Explain Julian dates, pre-reform spelling, the words *karlinisty*, *kagal*, *misnagdim*, and the path from
@@ -38,12 +30,6 @@
    The interface is the part readers meet first.
 
 ## Do these later
-
-
-11. **Transcription status for volunteers.** A page of folios that have a scan and no transcription, with a button that
-    does not require a pull request for the first draft.
-    Keep GitHub for reviewers.
-    The guide already allows email; the missing piece is a list of what to do next.
 
 12. **Names as a network, only after the list is clean.** Who wrote to whom, who denounced whom, who was arrested with
     whom.
