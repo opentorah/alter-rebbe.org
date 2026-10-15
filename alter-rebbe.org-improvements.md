@@ -39,8 +39,6 @@
 
 ## Do these later
 
-10. **IIIF for the facsimiles.** Serve each folio so it can be zoomed, deep-linked, and reused in another viewer.
-    A private bucket of JPEGs cannot do that.
 
 11. **Transcription status for volunteers.** A page of folios that have a scan and no transcription, with a button that
     does not require a pull request for the first draft.
