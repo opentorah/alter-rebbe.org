@@ -32,10 +32,6 @@
    Dubnow already numbered the second arrest; the site can point at his numbers and at Mondshine’s Hebrew edition
    without reprinting their arguments.
 
-6. **Parallel texts.** When one document is a translation of another (Hebrew testimony, French 063, Russian 289, the
-   modern Russian reading when it exists), show them in two columns.
-   A reader who has only one language can see that the other text exists.
-
 7. **A normalized reading beside the diplomatic one.** Do not replace the old spelling.
    Add a switch, as the Newton Project does.
    Use the `corr` and `expan` already in the TEI.
@@ -58,17 +54,12 @@
 10. **IIIF for the facsimiles.** Serve each folio so it can be zoomed, deep-linked, and reused in another viewer.
     A private bucket of JPEGs cannot do that.
 
-11. **A public data download.** One ZIP of the TEI, plus a CSV of documents (id, archive, date, author, addressee,
-    language, transcriber).
-    Each document already links to its own TEI file.
-    The ZIP and the CSV are what let other researchers check the corpus without scraping the HTML.
-
-12. **Transcription status for volunteers.** A page of folios that have a scan and no transcription, with a button that
+11. **Transcription status for volunteers.** A page of folios that have a scan and no transcription, with a button that
     does not require a pull request for the first draft.
     Keep GitHub for reviewers.
     The guide already allows email; the missing piece is a list of what to do next.
 
-13. **Names as a network, only after the list is clean.** Who wrote to whom, who denounced whom, who was arrested with
+12. **Names as a network, only after the list is clean.** Who wrote to whom, who denounced whom, who was arrested with
     whom.
     EMLO’s correspondence graph is the model.
     It will mislead if the `ref` on names is still incomplete.
