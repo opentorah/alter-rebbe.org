@@ -25,13 +25,6 @@
 
 ## Do these next
 
-5. **A calendar of the two arrests.** 1798: denunciation, arrest in Liozna, interrogation, release on 19 Kislev.
-   1800–1801: Avigdor’s complaint, second arrest, release under Alexander I.
-   Each event links to the document.
-   This is an index, not an interpretation.
-   Dubnow already numbered the second arrest; the site can point at his numbers and at Mondshine’s Hebrew edition
-   without reprinting their arguments.
-
 7. **A normalized reading beside the diplomatic one.** Do not replace the old spelling.
    Add a switch, as the Newton Project does.
    Use the `corr` and `expan` already in the TEI.
@@ -43,11 +36,6 @@
    Leave the diplomatic transcription in its own language.
    The about page already lists translation as a goal.
    The interface is the part readers meet first.
-
-9. **A map.** Liozna, Liadi, Vilna, Pinsk, Vitebsk, Mogilev, Petersburg.
-   One point per place, sized by the number of documents.
-   EMLO is the model.
-   A static map is enough.
 
 ## Do these later
 
