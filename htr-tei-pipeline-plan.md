@@ -500,7 +500,7 @@ Review effort should drop below about 1 correction per line.
      sic over corr, orig over reg; drop ex and supplied; keep unclear and in-line del with flags; displaced add gets its
      own record; `l` is a line and `lb` splits it, with no space inserted when `break='no'`; `fw` inside `l` stays in
      that line and any other `fw` is its own line; editorial notes are dropped and any other note is a `gloss` line;
-     inherited xml:lang and @hand.
+     inherited xml:lang and `@hand`.
      Flag lines containing un-paired reg/corr/expan as `normalized`.
      Add property tests: extraction is a pure function, NFC-stable.
    - (c) For case B: run kraken segmentation (subprocess, `--device cpu --threads 4`) and recognition with a
@@ -534,7 +534,7 @@ Review effort should drop below about 1 correction per line.
    facsimile/surface/zone (verbatim coordinates), pb/@facs, region ab with xml:lang, lb/@facs, margin note / interlinear
    add by region type, and annotations mapped to unclear/abbr/del/add/sic.
    Then run the blocking identity check: per-line equality between the PAGE text and `diplomatic.extract()` of the
-   output; check lb/pb counts; every @facs resolves; validate against the RNG.
+   output; check lb/pb counts; every `@facs` resolves; validate against the RNG.
    Fail with a page/line diff."
 8. **Orchestration:** "Add a Makefile and systemd timers wiring ingest → segment → recognize → import nightly, a weekly
    train, and on-demand tei.
