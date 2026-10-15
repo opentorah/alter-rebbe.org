@@ -1,13 +1,5 @@
 # How to improve alter-rebbe.org
 
-## Do these first
-
-4. **Write a “How to read these documents” page.** One page, not a monograph.
-   Explain Julian dates, pre-reform spelling, the words *karlinisty*, *kagal*, *misnagdim*, and the path from
-   denunciation to the Secret Expedition.
-   Old Bailey’s historical background is the model.
-   Link it from the home page and from the first document of each file.
-
 ## Do these next
 
 7. **A normalized reading beside the diplomatic one.** Do not replace the old spelling.
