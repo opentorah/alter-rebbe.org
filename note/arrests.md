@@ -7,34 +7,38 @@ title: Хронология двух арестов
 Указатель документов двух арестов.
 Дата юлианская, как в деле.
 Это не пересказ.
-Все документы по дате написания — на странице [Годы](/archive-years).
+Все документы по дате написания — на странице <a href="/archive-years" target="collectionViewer">Годы</a>.
 
 ## 1798
 
 ### <date when="1798-05-08">8 мая</date>
 
-Донос на [Шнеура Залмана](/name/alter-rebbe.html) и хасидов, подписанный именем
-[Гирша Давыдовича](/name/Гирш_Давидович.html).
-Подлинник — [020](/rgada/020), копия — [002](/rgada/002).
+Донос на <a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> и хасидов, подписанный именем
+<a href="/name/Гирш_Давидович.html" target="apparatusViewer">Гирша Давыдовича</a>.
+Подлинник — <a href="/rgada/020" target="collectionViewer">020</a>, копия —
+<a href="/rgada/002" target="collectionViewer">002</a>.
 В описании подлинник назван подложным.
 У Мондшайна это документ א.
 
 ### <date when="1798-08-14">14 августа</date>
 
-Рапорт [Лопухина](/name/Лопухин.html) о трёх анонимных письмах из Вильно, в том числе об этом доносе, и резолюция
-императора — [004](/rgada/004).
+Рапорт <a href="/name/Лопухин.html" target="apparatusViewer">Лопухина</a> о трёх анонимных письмах из Вильно, в том
+числе об этом доносе, и резолюция императора — <a href="/rgada/004" target="collectionViewer">004</a>.
 У Мондшайна это документ ג.
 
 ### <date when="1798-08-16">16 августа</date>
 
-Распоряжение провести расследование по этим письмам — [006](/rgada/006).
+Распоряжение провести расследование по этим письмам — <a href="/rgada/006" target="collectionViewer">006</a>.
 У Мондшайна это документ ד.
 
 ### <date when="1798-09-15">15 сентября</date>
 
-Распоряжение [Лопухина](/name/Лопухин.html) [Жегулину](/name/Жегулин.html) прислать в Петербург
-[Шнеура Залмана](/name/alter-rebbe.html) и его ближайших сторонников — [028](/rgada/028).
-Черновик связанного распоряжения [Булгакову](/name/Булгаков.html) — [029](/rgada/029).
+Распоряжение <a href="/name/Лопухин.html" target="apparatusViewer">Лопухина</a>
+<a href="/name/Жегулин.html" target="apparatusViewer">Жегулину</a> прислать в Петербург
+<a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> и его ближайших сторонников —
+<a href="/rgada/028" target="collectionViewer">028</a>.
+Черновик связанного распоряжения <a href="/name/Булгаков.html" target="apparatusViewer">Булгакову</a> —
+<a href="/rgada/029" target="collectionViewer">029</a>.
 У Мондшайна это документы ט и י.
 
 День взятия в Лиозно в датированных бумагах не назван.
@@ -43,103 +47,121 @@ title: Хронология двух арестов
 ### <date when="1798-10-01">1 октября</date>
 
 Протоколы допросов виленских хасидов, подлинники и переводы.
-Они собраны под этим днём в [списке по дате написания](/archive-years#y1798-m10).
+Они собраны под этим днём в <a href="/archive-years#y1798-m10" target="collectionViewer">списке по дате написания</a>.
 
 ### <date when="1798-10-07">7 октября</date>
 
-[Лопухин](/name/Лопухин.html) подтверждает, что [Шнеур Залман](/name/alter-rebbe.html) доставлен в Петербург —
-[035](/rgada/035).
+<a href="/name/Лопухин.html" target="apparatusViewer">Лопухин</a> подтверждает, что
+<a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеур Залман</a> доставлен в Петербург —
+<a href="/rgada/035" target="collectionViewer">035</a>.
 У Мондшайна это документ יד.
-Вопросы первого допроса и ответы — [032](/rgada/032), дата проставлена по документам 034 и 035.
+Вопросы первого допроса и ответы — <a href="/rgada/032" target="collectionViewer">032</a>, дата проставлена по
+документам 034 и 035.
 У Мондшайна это документ טו.
-Доклад [Лопухина](/name/Лопухин.html) о первом допросе и резолюция вести следствие на еврейском языке —
-[034](/rgada/034).
+Доклад <a href="/name/Лопухин.html" target="apparatusViewer">Лопухина</a> о первом допросе и резолюция вести следствие
+на еврейском языке — <a href="/rgada/034" target="collectionViewer">034</a>.
 У Мондшайна это документ טז.
 
 ### <date notBefore="1798-10-10" notAfter="1798-10-11">11 октября</date>
 
-Собственноручные показания [Шнеура Залмана](/name/alter-rebbe.html) — [059](/rgada/059).
+Собственноручные показания <a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> —
+<a href="/rgada/059" target="collectionViewer">059</a>.
 В описании день назван <date when="1798-10-11">11 октября</date>, с оговоркой, что это может быть
 <date when="1798-10-10">10 октября</date>.
 У Мондшайна это документ יז.
-Перевод на французский, <date when="1798-11-01">1 ноября</date> — [063](/rgada/063).
-Краткое изложение, <date when="1798-11-14">14 ноября</date> — [079](/rgada/079), у Мондшайна документ לד.
-Русский перевод — [059-ru](/rgada/059-ru).
+Перевод на французский, <date when="1798-11-01">1 ноября</date> — <a href="/rgada/063" target="collectionViewer">063</a>.
+Краткое изложение, <date when="1798-11-14">14 ноября</date> — <a href="/rgada/079" target="collectionViewer">079</a>, у
+Мондшайна документ לד.
+Русский перевод — <a href="/rgada/059-ru" target="collectionViewer">059-ru</a>.
 
 ### <date when="1798-11-16">16 ноября</date>
 
 <date when="1798-11-16">16 ноября 1798 года</date> — 19 кислева 5559, по григорианскому календарю 27 ноября.
-Доклад [Лопухина](/name/Лопухин.html) и резолюция [Павла](/name/Павел_I.html) об освобождении
-[Шнеура Залмана](/name/alter-rebbe.html) и других взятых под стражу — [081](/rgada/081).
+Доклад <a href="/name/Лопухин.html" target="apparatusViewer">Лопухина</a> и резолюция
+<a href="/name/Павел_I.html" target="apparatusViewer">Павла</a> об освобождении
+<a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> и других взятых под стражу —
+<a href="/rgada/081" target="collectionViewer">081</a>.
 У Мондшайна это документ לה.
-<date when="1798-11-17">17 ноября</date>, черновик сообщений об освобождении — [084](/rgada/084), у Мондшайна документ
-לו.
-Черновик пропуска в Лиозно — [085](/rgada/085).
+<date when="1798-11-17">17 ноября</date>, черновик сообщений об освобождении —
+<a href="/rgada/084" target="collectionViewer">084</a>, у Мондшайна документ לו.
+Черновик пропуска в Лиозно — <a href="/rgada/085" target="collectionViewer">085</a>.
 
 ## 1800–1801
 
 ### <date notAfter="1800-04-23">Не позднее 23 апреля 1800</date>
 
-Прошение [Авигдора Хаймовича](/name/Авигдор.html) на высочайшее имя.
+Прошение <a href="/name/Авигдор.html" target="apparatusViewer">Авигдора Хаймовича</a> на высочайшее имя.
 День прошения в деле не назван: начало 1800 года, не позднее препроводительного письма.
-Русский перевод — [002](/rgia2213/002), немецкий — [036](/rgia2213/036).
-Препроводительное письмо, <date when="1800-04-23">23 апреля</date> — [001](/rgia2213/001).
+Русский перевод — <a href="/rgia2213/002" target="collectionViewer">002</a>, немецкий —
+<a href="/rgia2213/036" target="collectionViewer">036</a>.
+Препроводительное письмо, <date when="1800-04-23">23 апреля</date> — <a href="/rgia2213/001" target="collectionViewer">001</a>.
 Ивритский подлинник прошения отдельным текстом в деле не положен.
-У Дубнова прошение — [№ 2](/dubnov/090.2), препроводительное — [№ 1](/dubnov/090.1).
+У Дубнова прошение — <a href="/dubnov/090.2" target="collectionViewer">№ 2</a>, препроводительное —
+<a href="/dubnov/090.1" target="collectionViewer">№ 1</a>.
 
 ### <date when="1800-10-30">30 октября</date>
 
-Распоряжение задержать [Шнеура Залмана](/name/alter-rebbe.html) и доставить его в Петербург — [266](/rgada/266).
+Распоряжение задержать <a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> и доставить его в
+Петербург — <a href="/rgada/266" target="collectionViewer">266</a>.
 Письмо датировано <date when="1800-10-30">30 октября</date>.
 В заголовке дела указан только месяц.
-Ордер на арест — [267](/rgada/267).
+Ордер на арест — <a href="/rgada/267" target="collectionViewer">267</a>.
 
 ### <date when="1800-11-09">9 ноября</date>
 
-[Северин](/name/Северин.html) сообщает об отправке [Шнеура Залмана](/name/alter-rebbe.html) в Петербург.
-В описании сказано, что бумага составлена в момент отправки — [276](/rgada/276).
-Тот же текст в деле Сената датирован <date when="1800-11-13">13 ноября</date> — [008](/rgia413/008).
-У Дубнова это [№ 14](/dubnov/263.2).
+<a href="/name/Северин.html" target="apparatusViewer">Северин</a> сообщает об отправке
+<a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> в Петербург.
+В описании сказано, что бумага составлена в момент отправки — <a href="/rgada/276" target="collectionViewer">276</a>.
+Тот же текст в деле Сената датирован <date when="1800-11-13">13 ноября</date> —
+<a href="/rgia413/008" target="collectionViewer">008</a>.
+У Дубнова это <a href="/dubnov/263.2" target="collectionViewer">№ 14</a>.
 
 ### <date when="1800-11-14">14 ноября</date>
 
-Донесение о задержании [Шнеура Залмана](/name/alter-rebbe.html) и о болезни в пути — [277](/rgada/277).
+Донесение о задержании <a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> и о болезни в пути —
+<a href="/rgada/277" target="collectionViewer">277</a>.
 
 ### <date notBefore="1800-11-15" notAfter="1800-11-16">15 или 16 ноября</date>
 
-Показания [Шнеура Залмана](/name/alter-rebbe.html) в Тайной экспедиции.
-День в деле не выбран, <date notBefore="1800-11-15" notAfter="1800-11-16">15 или 16 ноября</date> — [282](/rgada/282).
+Показания <a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> в Тайной экспедиции.
+День в деле не выбран, <date notBefore="1800-11-15" notAfter="1800-11-16">15 или 16 ноября</date> —
+<a href="/rgada/282" target="collectionViewer">282</a>.
 
 ### <date when="1800-11-21">21 ноября</date>
 
-Доклад [Обольянинова](/name/Обольянинов.html) о следствии и резолюция об освобождении
-[Шнеура Залмана](/name/alter-rebbe.html) и о передаче дела в Сенат — [325](/rgada/325).
+Доклад <a href="/name/Обольянинов.html" target="apparatusViewer">Обольянинова</a> о следствии и резолюция об
+освобождении <a href="/name/alter-rebbe.html" target="apparatusViewer">Шнеура Залмана</a> и о передаче дела в Сенат —
+<a href="/rgada/325" target="collectionViewer">325</a>.
 
 ### <date when="1800-11-27">27 ноября</date>
 
-Сообщение об этой резолюции — [327](/rgada/327).
-В деле Сената — [001](/rgia413/001).
-У Дубнова это [№ 16](/dubnov/268.1).
+Сообщение об этой резолюции — <a href="/rgada/327" target="collectionViewer">327</a>.
+В деле Сената — <a href="/rgia413/001" target="collectionViewer">001</a>.
+У Дубнова это <a href="/dubnov/268.1" target="collectionViewer">№ 16</a>.
 
 ### <date when="1800-11-28">28 ноября</date>
 
 Перевод из-под стражи на квартиру, под подписку о невыезде.
-Подписи — [329](/rgada/329), сообщение [Обольянинова](/name/Обольянинов.html) — [330](/rgada/330).
+Подписи — <a href="/rgada/329" target="collectionViewer">329</a>, сообщение
+<a href="/name/Обольянинов.html" target="apparatusViewer">Обольянинова</a> —
+<a href="/rgada/330" target="collectionViewer">330</a>.
 
 ### <date from="1801-03-22" to="1801-03-28">22–28 марта 1801</date>
 
 Отпуск из Петербурга в Лиозно.
-<date when="1801-03-12">12 марта 1801 года</date> умер [Павел](/name/Павел_I.html), так что это уже решение
-[Александра](/name/Александр_I.html).
-<date when="1801-03-22">22 марта</date>, сообщение [Палена](/name/Пален.html) — [335](/rgada/335).
-<date when="1801-03-27">27 марта</date>, сообщение [Беклешова](/name/Беклешов.html) о решении отпустить в Лиозно —
-[333](/rgada/333).
-<date when="1801-03-28">28 марта</date>, вид на выезд — [332](/rgada/332).
+<date when="1801-03-12">12 марта 1801 года</date> умер <a href="/name/Павел_I.html" target="apparatusViewer">Павел</a>,
+так что это уже решение <a href="/name/Александр_I.html" target="apparatusViewer">Александра</a>.
+<date when="1801-03-22">22 марта</date>, сообщение <a href="/name/Пален.html" target="apparatusViewer">Палена</a> —
+<a href="/rgada/335" target="collectionViewer">335</a>.
+<date when="1801-03-27">27 марта</date>, сообщение <a href="/name/Беклешов.html" target="apparatusViewer">Беклешова</a>
+о решении отпустить в Лиозно — <a href="/rgada/333" target="collectionViewer">333</a>.
+<date when="1801-03-28">28 марта</date>, вид на выезд — <a href="/rgada/332" target="collectionViewer">332</a>.
 
 ### <date when="1801-06-13">13 июня 1801</date>
 
-Извещение [Тарбеева](/name/Тарбеев.html), что [Залман](/name/alter-rebbe.html) по высочайшему повелению освобождён и
-отпущен из Петербурга — [031](/rgia413/031).
+Извещение <a href="/name/Тарбеев.html" target="apparatusViewer">Тарбеева</a>, что
+<a href="/name/alter-rebbe.html" target="apparatusViewer">Залман</a> по высочайшему повелению освобождён и отпущен из
+Петербурга — <a href="/rgia413/031" target="collectionViewer">031</a>.
 В тексте извещения <date when="1801-06-13">13 июня</date>.
 В заголовке дела стоит <date when="1801-07-13">13 июля</date>.
-У Дубнова это [№ 23](/dubnov/275.1).
+У Дубнова это <a href="/dubnov/275.1" target="collectionViewer">№ 23</a>.

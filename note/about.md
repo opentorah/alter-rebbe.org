@@ -24,7 +24,7 @@
 просто интересующихся.
 Для желающих помочь имеется <a href="/note/contributing.html" target="collectionViewer">инструкция</a>.
 
-Новости сайта публикуются в [блоге](/posts.html).
+Новости сайта публикуются в <a href="/posts.html" target="collectionViewer">блоге</a>.
 
 ## Что мы имеем
 
@@ -32,7 +32,7 @@
 History of the Jewish People" [CAHJP](http://cahjp.nli.org.il/) ("Центральный архив истории еврейского народа") имеет не
 очень качественные копии многих из них.
 Некоторые из этих документов были опубликованы.
-Вот [дела](/collections) которыми мы занимаемся.
+Вот <a href="/collections" target="collectionViewer">дела</a> которыми мы занимаемся.
 
 Имеются также:
 - <a href="/name" target="apparatusViewer">список людей и мест</a> упомянутых в документах;
@@ -114,7 +114,8 @@ History of the Jewish People" [CAHJP](http://cahjp.nli.org.il/) ("Централ
   (Санкт-Петербург).
   Использовались фотографии документов из РГАДА.
 
-Многие исследователи [_использовали_](/note/research-publications.html) документы этих дел не _публикуя_ их полностью.
+Многие исследователи <a href="/note/research-publications.html" target="collectionViewer"><em>использовали</em></a>
+документы этих дел не _публикуя_ их полностью.
 
 
 ## История сайта
