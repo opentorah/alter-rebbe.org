@@ -30,12 +30,12 @@
       </handNotes>
     </profileDesc>
   </teiHeader>
-  <text xml:lang="ru"><body>
+  <text xml:lang="he"><body>
     <pb n="152-1"/>
-    <fw type="pageNum" place="top" hand="#pencilHand">152<note place="end">После цифр росчерк. Это не номер
+    <fw type="pageNum" place="top" hand="#pencilHand" xml:lang="ru">152<note place="end">После цифр росчерк. Это не номер
     152а.</note></fw>
-    <fw type="docNum" hand="#inkHand">№ 25.</fw>
-    <p>
+    <fw type="docNum" hand="#inkHand" xml:lang="ru">№ 25.</fw>
+    <p xml:lang="ru">
       <l>Бумаги</l>
       <l><persName ref="Нохим_Ицкович">Нохима ицковича</persName>.</l>
     </p>
@@ -71,7 +71,7 @@
         <l><signed>נאום <persName>שמואל יאנקוביץ</persName></signed></l>
       </closer>
     <pb n="152-2"/>
-    <fw type="pageNum" hand="#pencilHand">151об<note place="end">Под номером французский текст оборота <ref
+    <fw type="pageNum" hand="#pencilHand" xml:lang="ru">151об<note place="end">Под номером французский текст оборота <ref
     target="/rgada/151">151</ref>. Кадр другой: 151-2 шире и снят со своего разворота. Нижняя часть — чистая
     оборотная сторона наклеенного письма.</note></fw>
   </body></text>
