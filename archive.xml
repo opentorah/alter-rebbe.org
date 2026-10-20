@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <name lang="ru" n="Архивы"/>
+  <name lang="en" n="Archives"/>
   <by selector="archive">
     <xi:include href="archive/books.xml"/>
     <!--   <xi:include href"archive/cgia.xml"/>-->
