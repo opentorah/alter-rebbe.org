@@ -32,7 +32,7 @@
 History of the Jewish People" [CAHJP](http://cahjp.nli.org.il/) ("Центральный архив истории еврейского народа") имеет не
 очень качественные копии многих из них.
 Некоторые из этих документов были опубликованы.
-Вот <a href="/collections" target="collectionViewer">дела</a> которыми мы занимаемся.
+Вот <a href="/archive-collections.html" target="collectionViewer">дела</a> которыми мы занимаемся.
 
 Имеются также:
 - <a href="/name" target="apparatusViewer">список людей и мест</a> упомянутых в документах;

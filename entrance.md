@@ -23,4 +23,4 @@
 Дела:
 - [по архивам](/archive-collections)
 - [по датам](/archive-years)
-- [по алфавиту](/archive-index.html)
+- [подряд](/archive-index.html)
