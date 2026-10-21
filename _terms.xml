@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Terms>
+  <term id="book" selector="yes">
+    <name lang="en" n="book" plural="books"/>
+    <name lang="ru" n="книга" plural="книги"/>
+  </term>
+  <term id="archive" selector="yes">
+    <name lang="en" n="archive" plural="archives"/>
+    <name lang="ru" n="архив" plural="архивы"/>
+  </term>
+  <term id="fund" selector="yes">
+    <name lang="en" n="fund"/>
+    <name lang="ru" n="фонд"/>
+  </term>
+  <term id="category" selector="yes">
+    <name lang="en" n="category"/>
+    <name lang="ru" n="разряд"/>
+  </term>
+  <term id="division" selector="yes">
+    <name lang="en" n="division"/>
+    <name lang="ru" n="отдел"/>
+  </term>
+  <term id="inventory" selector="yes">
+    <name lang="en" n="inventory"/>
+    <name lang="ru" n="опись"/>
+  </term>
+  <term id="case" selector="yes">
+    <name lang="en" n="case" plural="cases"/>
+    <name lang="ru" n="дело" plural="дела"/>
+  </term>
+  <term id="volume" selector="yes">
+    <name lang="en" n="volume"/>
+    <name lang="ru" n="том"/>
+  </term>
+  <term id="report" selector="yes">
+    <name lang="en" n="report" plural="reports"/>
+    <name lang="ru" n="отчет" plural="отчеты"/>
+  </term>
+</Terms>

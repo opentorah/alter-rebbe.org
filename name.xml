@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<entityLists xmlns="http://www.tei-c.org/ns/1.0">
-  <!--     selector="names" -->
-  <title>Имена</title>
+<entityLists xmlns="http://www.tei-c.org/ns/1.0" ref="name" plural="yes">
   <listPerson n="jews" role="jew">
     <head>Жиды (они же Евреи)</head>
   </listPerson>
