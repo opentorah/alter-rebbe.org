@@ -178,6 +178,7 @@ Schedule it with a systemd timer from 22:00 to 07:00 and `nice -n 10`, so that e
    **Don't copy back `.ckpt` files**: checkpoints can execute code when loaded.
 5. Destroy the instance and delete its volume, then run `ketos test` locally on CPU to confirm the CER.
 6. Expected cost: a few GPU-hours per script per round.
+   The October 2026 recommendation, including when not to rent, is §12.
 
 ## 3. Starting models
 
@@ -198,7 +199,7 @@ Status legend: ✅ = record checked on Zenodo or HTRMoPo on 14 Oct 2026.
 | German Kurrent | **german_handwriting_kurrent_v3** (J. Alze, Aug 2026) | `kraken get 10.5281/zenodo.21747522` | ✅ CC-BY-4.0. Only 12 pages and a single hand; fine-tuned from Weil's model. Use for comparison, not as the base |
 | German Kurrent GT | 19th c. Kurrent lines (9,317 lines) | Zenodo 10.5281/zenodo.17252677 | ✅ Dataset. Can be mixed into Kurrent training |
 | Russian (pre-reform) | none as a Kraken model; PP-OCRv6 includes Russian | — | ⚠️ Fine-tune PP-OCRv6. The YeniseiGovReports-HWR dataset (Hugging Face, 19th c. pre-reform letters ѣ ѳ і) is possible extra GT; licence not checked ❓. HTR_ru (GitHub) is not Kraken ❓ |
-| Polish | no dedicated public Kraken model found | — | ⚠️ Use PP-OCRv6. Transkribus "Polski Wieszcz" (17th–19th c.) is for comparison only (PyLaia, inside Transkribus) |
+| Polish | no dedicated public Kraken model found | — | ⚠️ Use PP-OCRv6. Transkribus "Polski Wieszcz" (17th–19th c.) is for comparison only (PyLaia, inside Transkribus). When to pay for Transkribus at all: §12. |
 
 **Bake-off (Phase 2):** on held-out TEI-aligned lines per script, compare PP-OCRv6 small/medium against the
 script-specific model with `ketos test`, then pick the best base per script.
@@ -562,3 +563,81 @@ Review effort should drop below about 1 correction per line.
 - Whether eScriptorium accepts `.safetensors` uploads in the models UI: expected with Kraken 7.1, not confirmed.
 - No public Kraken models were found for Tikkoun Sofrim, pre-reform Russian handwriting, or Polish handwriting.
 - The YeniseiGovReports-HWR licence was not checked.
+
+## 12. Paid GPU and Transkribus (22 Oct 2026)
+
+Leonid can pay for one rented GPU and for Transkribus.
+These are the bounds.
+Do not start either until he says to, and do not interrupt the Latin iteration-1 run that is already on the house CPU.
+
+A GPU does not fix missing ground truth.
+The small Cyrillic model is already at validation character error rate 0.090, and 0.063 on its one-page frozen test.
+The Latin small model, on French and Polish plus the other Latin-script pages, reached validation character error rate
+0.149 at iteration-1 epoch 0.
+German Kurrent is at 0.295 on RGIA 2213/036 because seed 0 kept both German files out of Latin training.
+Hebrew has no kept lines.
+More compute on the current arrows will not teach Kurrent or Hebrew.
+
+### 12.1 German, before either bill
+
+Train a separate Kurrent model on the house CPU.
+Mix the public 19th-century Kurrent lines (Zenodo 10.5281/zenodo.17252677, 9,317 lines) with RGIA 2213/035.
+Leave RGIA 2213/036 as the frozen test, the same 22 pages and 629 lines already scored at 0.295.
+Do not put those pages into the French/Polish Latin model, and do not reshuffle seed 0.
+Fine-tune from PP-OCRv6 small, or from the public Kurrent model if a short comparison shows it is the better start.
+This costs nothing and uses the data the plan already named.
+
+### 12.2 One GPU, for the medium bake-off only
+
+After the Latin iteration-1 small model has stopped, rent one 24 GB GPU for a single comparison.
+A 4090-class card is enough.
+On 22 Oct 2026 a 4090 was listed from about $0.34 per hour on a marketplace to $0.89 per hour on RunPod on-demand.
+Do not rent an A100 or an H100.
+Cap the instance at 8 hours and destroy it the same day.
+At those rates the cap is about $3–$8.
+
+Ship only the compiled arrow files and the PP-OCRv6 medium weights.
+Do not ship page images.
+Fine-tune medium on the Cyrillic iteration-0 arrows and on the Latin iteration-1 arrows.
+Copy back the `.safetensors` and the metrics.
+Leave the checkpoints on the instance and delete them with it.
+Run `ketos test` at home on the same validation sets the small models used.
+
+Adopt medium for a script only if its validation character error rate is at least 0.01 lower than the small model's on
+that same set.
+Otherwise keep small.
+Medium recognition on this CPU is the slower of the two, and the small models are already inside the plan's Russian band
+on the tiny frozen test.
+Do not rent a second time for iteration 2 unless that bake-off actually picks medium.
+Do not rent one to train Kurrent or Hebrew.
+
+### 12.3 Transkribus, for readings the house model will not own
+
+Transkribus stays a comparison reader.
+It does not replace Kraken, and its text is not written into TEI.
+A hypothesis from it is stored the same way as §4.9: beside the line, named for the model, and accepted only by a hand
+edit.
+
+Do not upload the archive.
+The pages that are worth paying for are:
+
+1. The 22 pages of RGIA 2213/036, scored against the TEI and against the house Kurrent model from §12.1.
+   That says whether a commercial Kurrent reader beats the local one on the held-out hand.
+2. Later, lines the promoted house model still marks low-confidence, and lines flagged `unclear`.
+   Not pages the local model already reads inside the CER goals.
+3. A sample of the few Hebrew pages, only to see whether a Transkribus Hebrew model fits this hand.
+   There is not enough local Hebrew text to train, and a bulk Hebrew purchase is not justified by three files.
+
+Polish is already inside the Latin model and inside its line-count band.
+Do not buy a Polish transcription of the corpus.
+"Polski Wieszcz" remains a comparison model, not a pipeline step.
+
+Prices checked on https://www.transkribus.org/pricing on 22 Oct 2026, including 20% Austrian VAT.
+The free plan includes 50 credits a month, and handwritten recognition costs 1 credit a page, so the 22-page German test
+fits in one free month if the recognizer on that plan can read Kurrent.
+The Scholar plan is €99 a year for 900 credits, and it is the plan that advertises the stronger model (Text Titan).
+Buy Scholar if the free recognizer is not the Kurrent model, and stop there.
+Do not buy Team (€449 a year).
+A 250-credit top-up is €59.50 and does not expire.
+Buy one only if a year of Scholar runs out.
+Recheck the price and which plan includes the Kurrent model on the day of signup.
