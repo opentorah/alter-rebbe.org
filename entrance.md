@@ -14,7 +14,7 @@
 - [Инструкция по расшифровке](/note/contributing.html)
 - [Новости](/posts)
 - [Люди, места и организации](/name)
-- [Карта](/name/places.html)
+- [Карта](/map)
 - [Хронология двух арестов](/note/arrests.html)
 
 
