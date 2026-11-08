@@ -223,6 +223,23 @@ Each script model is trained on the lines of that script from this snapshot, in 
 Phase 2 pilots about 50 pages (about 20 Hebrew, 10 Russian, 8 German, 6 French, 6 Polish).
 Phase 3 runs the same extraction over every TEI document in the snapshot.
 Pages with no TEI are not used until those iterations have finished.
+The snapshot is not filtered by handwriting versus print.
+`@hand` records the writing medium, pencil, ink, or strike.
+It does not record print, and it is not a scribe.
+A file enters the training arrows only when it has line markup (`l` or `lb`), which is alignment case B. Case C stays
+out of the arrows.
+In this snapshot that case is 41 files: 35 files of the printed Dubnov book, transcribed as paragraphs, and six other
+paragraph pages (LVIA 378/1799/178/347, NIAB 1781/3/1401/079, NIAB 2273/1/240/009, RGADA 3140/059, RGADA 3140/336, and
+RGIA 821/9/5/003).
+Derzhavin's contents lists have a few `l` lines, and `archive/books` is not in the role split, so that book is not in
+the arrows either.
+Printed letterheads and filled forms stay in when the case transcription already wrote them as lines.
+Examples in the Cyrillic training arrow are NIAB 1297/1/611/122, RGIA 1343/39/5580/110, RGIA 1343/41/73/015, and RGIA
+1343/39/5580/135.
+A line that only mentions a printed book is a handwritten inventory of that book.
+The pasted journal in GARF 109/16/14, *Israelitische Annalen* (sheets 8–11) and the Russian extract on sheet 12, has
+only empty `pb` elements at this commit, so it contributed no lines.
+A later line transcription of that journal is after the commit and stays out.
 
 ### 4.1 Inventory
 
@@ -306,6 +323,7 @@ segmentation and match its lines to zones by IoU ≥ 0.5.
 - Alternative: chunk the text by expected line length and use the same DP aligner at word level.
 - Treat this as lowest priority.
   Case B will provide most of the GT.
+  The training arrows do not include Case C. See §4.0.
 
 ### 4.6 Quality filtering
 
@@ -345,6 +363,39 @@ segmentation and match its lines to zones by IoU ≥ 0.5.
 4. **Only then** use the model on pages that have no TEI.
 5. Optional: fine-tune a **segmentation** model (`ketos segtrain`) from the corrected PAGE files once 50–100 pages have
    reviewed segmentation, especially for margins and interlinear lines.
+   That review includes the unclear lines in §4.9 whose polygon is shared with another TEI line, or that have no
+   polygon.
+   Splitting or drawing those lines is what lets a later §4.9 pass read them.
+
+   The list for that review is `htr-work/unclears/segmentation-review/review.jsonl`, from commit `4dcc22dff`.
+   It has 228 shared polygons, covering 270 unclear lines, and 59 lines with no polygon, on 224 pages.
+   Forty-two of the polygons contain two unclear lines.
+   RGIA 2213/036 is not in the file.
+   A shared-polygon row names both diplomatic lines, says which of them is unclear, and gives the hypothesis of the one
+   polygon.
+   Its line image is the crop of that polygon, and its page image is the preview beside the crop.
+   A missing-line row names the diplomatic line and the previous and next lines on the page.
+   It has a page preview and no crop.
+   The 2:1 joins already written under `/srv/htr/unclears/` are not part of this list.
+
+   A sitting is one pass over a chosen set of those rows.
+   The first sitting is the five documents with the most rows, 58 rows in all, in this order: RGADA 3140/289 (16 shared,
+   2 missing), NIAB 1781/2/271/034 (13 shared), NIAB 1781/3/1401/113 (10 shared), NIAB 1297/1/25207/006 (7 shared, 2
+   missing), LVIA 178/261 (7 shared, 1 missing).
+   Take one document at a time, and within it follow page order and then line number.
+   For a shared polygon, look at the crop and the page preview, then mark `split` or `one-line`.
+   `split` means the polygon holds two written lines and a later correction will cut it.
+   `one-line` means the polygon stays one line: the other diplomatic line is not this ink.
+   For a missing line, look at the page preview, then mark `draw` or `not-on-page`.
+   `draw` means the ink is on the page and a baseline comes later.
+   `not-on-page` means this scan does not show that line.
+   Either kind may be marked `unsure`.
+   Write the marks to `htr-work/unclears/segmentation-review/sitting-1.jsonl`, one row per review row, copying the
+   document, the page, the kind, and the TEI line numbers, and adding the mark.
+   The sitting does not change a crop, a PAGE file, or the TEI.
+   It does not run `ketos segtrain`.
+   Cutting a polygon marked `split`, and drawing a baseline marked `draw`, wait until the RGIA 2213/036 export has been
+   scored (§4.10).
 
 ### 4.9 Readings of unclear lines
 
@@ -356,8 +407,68 @@ The hypothesis is written beside it.
 One JSONL record per line goes to `/srv/htr/unclears/<script>/<model-version>.jsonl`: document, page, line number, TEI
 XPath, diplomatic text, the `<unclear>` spans, the hypothesis, the model id, and the mean glyph confidence.
 Import that hypothesis into eScriptorium as a transcription named for the model, on the page that holds the line.
+That import waits until the RGIA 2213/036 export has been scored (§4.10).
 Do not write the hypothesis into the TEI.
 Accepting a reading is a hand edit of the TEI.
+
+A 1:1 alignment is one line image, and that is the record above.
+
+A 2:1 alignment is two polygons for one TEI line.
+When both polygons are real lines, at least 40px wide, join the two hypotheses in reading order with one space and write
+that record to `/srv/htr/unclears/<script>/<model-version>-2to1.jsonl`, with the same fields.
+Mean glyph confidence is the mean of the glyph scores on both polygons.
+A polygon that is only a speck stays out of that file.
+Character cuts in §4.4 remain the way to turn a 2:1 into training geometry.
+An unclear line stays out of training either way.
+
+A 1:2 alignment is one polygon over two TEI lines.
+Do not write that hypothesis as the reading of either line.
+Splitting the polygon so each TEI line has its own image is a segmentation correction, done in the review in §4.8 before
+`ketos segtrain`.
+After the split, §4.9 runs on the new line images.
+
+A TEI line with no polygon is a skip.
+There is nothing to recognize until a baseline is drawn.
+Those lines go to the same segmentation review.
+After a line is drawn, §4.9 runs on it.
+
+### 4.10 While the RGIA 2213/036 export is outstanding
+
+The export is the measurement §12.3 is waiting on.
+Until `score.py` has written a score for it, the work is the list below.
+Nothing on this list writes into the TEI.
+
+1. The segmentation sitting in §4.8.
+   Marks only.
+   No split, no drawn baseline, no `ketos segtrain`.
+2. The unclear readings already on disk whose mean glyph confidence is under 0.5.
+   They are in `htr-work/unclears/cyrillic/best_0.9351.jsonl`, `htr-work/unclears/latin/best_0.8902.jsonl`, and the two
+   `-2to1.jsonl` files beside them.
+   The Cyrillic 1:1 file has median confidence 0.925 and one line under 0.5.
+   The 2:1 files have four lines under 0.5.
+   Pull each of those lines with its line image.
+   This look does not re-recognize, and it decides whether §12.3 item 2 has anything left to send to Transkribus.
+3. A reading of the RGADA 3140/059 sides already recognized with PP-OCRv6 medium.
+   The files are `htr-work/unclears/hebrew/medium-059-1.jsonl` through `medium-062-2.jsonl`.
+   Kept lines are baseline width at least 200px, and their mean glyph confidence is about 0.85 to 0.88.
+   `059-2`, `060-2`, and `061-2` were recognized from a 180-degree copy, because those site JPEGs are upside down.
+   `062-2` is a blank verso.
+   The only stored text on these sheets is one paragraph of 316 characters between the `061-1` and `061-2` page breaks.
+   That paragraph is not lines, so `061-1` has no line score.
+
+These stay behind the export:
+
+- The 110 unclear lines on RGIA 2213/036.
+  They stay out of §4.9 and out of the segmentation review.
+- Another fine-tune, and another GPU rental.
+  Medium stays the adopted model (§12.2).
+- The 235-page Hebrew pass (§12.3 item 3).
+- Cutting a polygon marked `split`, or drawing a baseline marked `draw`.
+- Pages without TEI (§5, phase 4).
+- The eScriptorium import of a §4.9 hypothesis.
+
+After that export is scored, if the German job has credits left, the Hebrew sample is Pinkas Brody on two pages only:
+RGADA 3140/150-1 and RGADA 3140/059-1 (§12.3).
 
 ## 5. Production pipeline stages (pages without TEI)
 
@@ -610,6 +721,13 @@ Medium recognition on this CPU is the slower of the two, and the small models ar
 on the tiny frozen test.
 Do not rent a second time for iteration 2 unless that bake-off actually picks medium.
 Do not rent one to train Kurrent or Hebrew.
+On 5 Nov 2026 a home `ketos test` compared an iteration-2 fine-tune of the adopted medium weights with those same medium
+weights, on the iteration-2 validation arrows.
+Neither new file had a lower character error rate.
+Cyrillic medium scored 0.041 and the new file 0.044.
+Latin medium scored 0.078 and the new file 0.094.
+Medium stays the adopted model for both scripts.
+Do not rent another GPU to repeat that fine-tune.
 
 ### 12.3 Transkribus, for readings the house model will not own
 
@@ -622,11 +740,40 @@ Do not upload the archive.
 The pages that are worth paying for are:
 
 1. The 22 pages of RGIA 2213/036, scored against the TEI and against the house Kurrent model from §12.1.
+   That document is `archive/rgia/fund/1374/inventory/3/case/2213/036.xml`, sheets 36 through 46, both sides:
+   `036-1.jpg` through `046-2.jpg`.
    That says whether a commercial Kurrent reader beats the local one on the held-out hand.
+   The house frozen test of `best_0.9208.safetensors` on these pages is character error rate 0.120.
+   That figure is `ketos test` on the frozen arrow's own line cuts, 41,986 characters.
+   The export score is a separate alignment of Transkribus polygons to the TEI.
+   The scorer is `htr-work/transkribus-rgia-2213-036/score.py`.
+   With no Page XML in that directory it exits without writing a score.
+   When all 22 pages are present it writes `score.json` and `lines.jsonl` there.
+   Transkribus wins if the NFD character error rate of that alignment is under 0.120.
 2. Later, lines the promoted house model still marks low-confidence, and lines flagged `unclear`.
    Not pages the local model already reads inside the CER goals.
-3. A sample of the few Hebrew pages, only to see whether a Transkribus Hebrew model fits this hand.
-   There is not enough local Hebrew text to train, and a bulk Hebrew purchase is not justified by three files.
+   Before spending credits on this, look at the lines already under 0.5 in the §4.9 JSONL (§4.10).
+3. The Hebrew and Yiddish scans, as a recognition pass, not a training set.
+   The snapshot has 61 Hebrew lines, so a Hebrew model cannot be trained from it.
+   The archive tags 105 documents as Hebrew and one as Yiddish.
+   Those files have 238 page breaks, and 235 of them have a scan.
+   A public model can read those scans.
+   The set is 235 credits at the handwritten rate.
+   The free plan covers that in about five months.
+   One 250-credit pack covers it in one pass.
+   Run a sample before buying the pack.
+   The home sample has been run.
+   PP-OCRv6 medium reads the RGADA 3140/059 autograph (mean glyph confidence about 0.86 on the kept lines) and does not
+   read RGADA 3140/150-1 (joined Hebrew character error rate 1.044 on the working-tree lines).
+   If the German job leaves credits, the paid sample is Pinkas Brody on `150-1` and `059-1` only.
+   It waits until the RGIA 2213/036 export is scored (§4.10).
+   It does not start the 235-page pass, and it does not use the credits the German test still needs.
+   The closest advertised fits are Pinkas Brody, for 19th-century Hebrew and Yiddish cursive, and DiJeSt, for general
+   Hebrew manuscripts.
+   The same sample can be run at home for nothing with the PP-OCRv6 medium weights already on LXC 107.
+   That model's published Hebrew figure is 5.1% on its own benchmark, not on this hand.
+   BiblIA and Ashkenazi_01 are medieval bookhands, and these pages are later Ashkenazi writing.
+   Do not buy Scholar or Team for this, and do not rent a GPU to train Hebrew.
 
 Polish is already inside the Latin model and inside its line-count band.
 Do not buy a Polish transcription of the corpus.
@@ -641,3 +788,22 @@ Do not buy Team (€449 a year).
 A 250-credit top-up is €59.50 and does not expire.
 Buy one only if a year of Scholar runs out.
 Recheck the price and which plan includes the Kurrent model on the day of signup.
+Prices rechecked on https://www.transkribus.org/plans and https://www.transkribus.org/credits on 5 Nov 2026.
+The free plan is still 50 credits a month.
+Handwritten text plus lines is 1 credit a page.
+Printed text plus lines is 0.5.
+Lines alone are 0.25, and that is a separate Layout job.
+Scholar is still €99 a year for 900 credits, and it is the plan that includes Text Titan II.
+The Team card on that page lists €449 a year, and the FAQ on the same page says the annual Team price is €399.
+Do not buy Team either way.
+A 250-credit pack is still €59.50 and does not expire.
+The recognizer for the German test is the public model Transkribus German Kurrent, model ID 36508, published 11 Sep 2021.
+Do not use Transkribus German Kurrent M2 of 27 Apr 2021.
+The two share the sentence about including German Kurrent M1.
+The September model adds that it was retrained and is better than models 32524 and 29820, and its validation character
+error rate is 5.40%.
+Leave every advanced setting off: keep original line polygons, no polygon simplification, language model, word
+segmentation, delete text from other regions, restrict on structure tags, Search, and Smart Search.
+Do not run a separate Layout job.
+Do not correct the text before export.
+Export Page XML, which the free plan includes, and score that export against the TEI and against `best_0.9208`.
