@@ -204,6 +204,7 @@ Status legend: ✅ = record checked on Zenodo or HTRMoPo on 14 Oct 2026.
 **Bake-off (Phase 2):** on held-out TEI-aligned lines per script, compare PP-OCRv6 small/medium against the
 script-specific model with `ketos test`, then pick the best base per script.
 Expect PP-OCRv6 medium to win in most cases, and BiblIA or Ashkenazi_01 to be competitive on Hebrew.
+On the two pages in §4.11 they were not competitive with medium.
 
 **Unicode note:** the base models are NFD (MiDRASH: NFKD).
 Store GT and output in **NFC** for TEI, but train and test with `-u NFD` consistently.
@@ -455,6 +456,7 @@ Nothing on this list writes into the TEI.
    `062-2` is a blank verso.
    The only stored text on these sheets is one paragraph of 316 characters between the `061-1` and `061-2` page breaks.
    That paragraph is not lines, so `061-1` has no line score.
+   The check of these readings, and of `150-1`, is §4.11.
 
 These stay behind the export:
 
@@ -467,8 +469,107 @@ These stay behind the export:
 - Pages without TEI (§5, phase 4).
 - The eScriptorium import of a §4.9 hypothesis.
 
-After that export is scored, if the German job has credits left, the Hebrew sample is Pinkas Brody on two pages only:
-RGADA 3140/150-1 and RGADA 3140/059-1 (§12.3).
+After that export is scored, the Hebrew sample and what follows it are §4.11.
+That section does not start the 235-page pass.
+
+### 4.11 Hebrew, after the two-page sample
+
+The German export is scored, and the Hebrew sample is scored.
+Pinkas Brody (model 59324, language model off) read `150-1` and `059-1`.
+The export is job 31897625, document 20105419, in `htr-work/transkribus-rgada-3140-hebrew/`.
+The house readings of the same pages are `htr-work/unclears/hebrew/pages/150-1.xml` and `059-1.xml`.
+The kept lines are `medium-150.jsonl` and `medium-059-1.jsonl`.
+PP-OCRv6 medium is the reading to work from.
+Pinkas Brody is a second witness on the upper third of `150-1`, and a weaker reading of the same sentences on `059-1`.
+It does not replace medium.
+The remaining free credits are not spent on the 235-page pass.
+
+The character error rate against `150.xml` is not the decision.
+Those lines were added after `4dcc22dff`.
+The editor named in the file is Grok, and no person has checked them.
+They follow the Vilna petition on sheet 151.
+The ink on `150-1` is the copy of Shneur Zalman's letter from Liozna.
+The French note on the page says so, and medium read that note.
+Pinkas Brody read it as Hebrew.
+`059-1` has no line transcription.
+The only text a person has written on sheets 59–62 is the paragraph between `061-1` and `061-2`.
+
+Nothing in this section is written into the TEI.
+A reading enters the TEI only as a hand edit after the check below.
+
+At home, the two bookhand readers have been run.
+No credits, and no GPU.
+Kraken 7.1.1 on LXC 107 loaded both legacy `.mlmodel` files on 2026-11-08.
+The unit was `htr-hebrew-bookhand`.
+It finished in about a minute, exit 0, and the peak was 1.6G.
+There was no conversion and no training run.
+The base direction was `R`, the same order as the house lines.
+
+BiblIA_01 is Zenodo 5468286, 16,079,359 bytes, md5 `f5674150b558844d690466cc5d7357c7`.
+Ashkenazi_01 is Zenodo 5468478, 16,077,591 bytes, md5 `21c3314ee4e7d50a341a4cf94b384c82`.
+Both sit at `/srv/htr/unclears/hebrew/models/`.
+The baselines are the ones already in `htr-work/unclears/hebrew/pages/150-1.xml` and `059-1.xml`.
+Those PAGE files were not overwritten.
+The new PAGE files, on the guest and in that same directory, are `biblia-059-1.xml`, `biblia-150-1.xml`,
+`ashkenazi-059-1.xml`, and `ashkenazi-150-1.xml`.
+The JSONL files are `htr-work/unclears/hebrew/biblia.jsonl` and `ashkenazi.jsonl`, beside `medium-059-1.jsonl`.
+Each file has both pages and the same fields as `medium-059-1.jsonl`: document, page, line number, hypothesis, model,
+mean glyph confidence, base direction, and width.
+A kept line is a baseline at least 200px wide.
+`059-1` keeps 43 lines and `150-1` keeps 32.
+Italian_01, Sephardi_01, and MiDRASH were not run.
+Sofer Mahir stays the segmentation model in §4.4 and §10.
+DiJeSt stays off this hand.
+
+These readings were not scored against `150.xml`.
+Neither page has a checked line transcription.
+The reading-order file is `htr-work/unclears/hebrew/bookhand-side-by-side.txt`.
+House, BiblIA, and Ashkenazi share a baseline, so a line number is the same line.
+Pinkas Brody keeps its own polygons and is placed by baseline height.
+Agreement is evidence for the check.
+It is not a character error rate, and it does not adopt a model.
+
+On the 43 kept lines of `059-1`, the house lines hold 272 Hebrew words of four letters or more.
+BiblIA repeats 31 of those words, on 21 lines.
+Ashkenazi repeats 9, on 7 lines.
+The Russia line still shows רוסי in the house reading, in Pinkas Brody, and in BiblIA (`בשון רוסי`).
+Ashkenazi keeps `בשון` and drops רוסי.
+The emperor line still shows a form of כנפיו in all four readings.
+הקיסר survives in the house reading and in Pinkas Brody.
+BiblIA has העסר there, and Ashkenazi has הער.
+On the 32 kept lines of `150-1`, the house lines hold 287 such words.
+BiblIA repeats 5 of them, on 4 lines, and Ashkenazi repeats none.
+Neither bookhand reads the opening blessing, the French note, or folio 150.
+The house model reads that number as 150, Pinkas Brody reads 82, and both bookhands read מט.
+Neither bookhand has כי לא במרד ולא במעל.
+That formula stays a Pinkas Brody reading of the upper third.
+Mean glyph confidence on the 75 kept lines is 0.816 for BiblIA and 0.654 for Ashkenazi.
+The higher figure is not a better reading.
+Neither model replaces medium, and neither is adopted.
+
+After a person has written checked lines, score NFD with the aligner in `htr-work/transkribus-rgia-2213-036/score.py`.
+Until those lines exist, there is nothing to score.
+Do not start the 235-page pass.
+A local model is run on those pages only after the check says that model reads this hand.
+
+A person then checks the readings against the scan:
+
+1. `059-1`, then the other sides already recognized (`medium-059-2.jsonl` through `medium-062-1.jsonl`).
+   `062-2` has no kept line.
+   On `059-1` the house file is the text to read.
+   Pinkas Brody and the two bookhands are beside it in `htr-work/unclears/hebrew/bookhand-side-by-side.txt`.
+   The testimony is: there is no new religion; the matter is what this is called in Russia, in our country; study of
+   Tanakh and Talmud, and then prayer; the Emperor; prayer for the peace of the kingdom; a request for healing and a
+   livelihood.
+2. `150-1`.
+   Read the house file.
+   Check the upper third against Pinkas Brody and against the two new models.
+   One formula on the scan, `כי לא במרד ולא במעל`, is in the Pinkas Brody reading and not in the house reading.
+   The two bookhands do not have it either.
+   Do not correct any reading against the Grok lines in `150.xml`.
+3. For each line, mark it usable, usable with a correction, or not readable.
+   This check does not transcribe the 235 pages.
+   Accepting a line is a hand edit of the TEI, as in §4.9.
 
 ## 5. Production pipeline stages (pages without TEI)
 
@@ -762,17 +863,13 @@ The pages that are worth paying for are:
    The free plan covers that in about five months.
    One 250-credit pack covers it in one pass.
    Run a sample before buying the pack.
-   The home sample has been run.
-   PP-OCRv6 medium reads the RGADA 3140/059 autograph (mean glyph confidence about 0.86 on the kept lines) and does not
-   read RGADA 3140/150-1 (joined Hebrew character error rate 1.044 on the working-tree lines).
-   If the German job leaves credits, the paid sample is Pinkas Brody on `150-1` and `059-1` only.
-   It waits until the RGIA 2213/036 export is scored (§4.10).
-   It does not start the 235-page pass, and it does not use the credits the German test still needs.
-   The closest advertised fits are Pinkas Brody, for 19th-century Hebrew and Yiddish cursive, and DiJeSt, for general
-   Hebrew manuscripts.
-   The same sample can be run at home for nothing with the PP-OCRv6 medium weights already on LXC 107.
-   That model's published Hebrew figure is 5.1% on its own benchmark, not on this hand.
-   BiblIA and Ashkenazi_01 are medieval bookhands, and these pages are later Ashkenazi writing.
+   The home sample, the Pinkas Brody sample, and the two local bookhands have been run.
+   What they show, and the check, is §4.11.
+   The joined Hebrew character error rate 1.044 on `150-1` was measured against the unchecked Grok lines and is not the
+   decision.
+   PP-OCRv6 medium's published Hebrew figure is 5.1% on its own benchmark, not on this hand.
+   Do not buy the 235-page pass on this sample.
+   DiJeSt is a general Hebrew manuscript model and is not the model for this cursive.
    Do not buy Scholar or Team for this, and do not rent a GPU to train Hebrew.
 
 Polish is already inside the Latin model and inside its line-count band.

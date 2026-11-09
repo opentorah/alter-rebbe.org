@@ -13,10 +13,10 @@
         </p>
         <p>
           На сайте ранняя фотография лицевой стороны.
+          Оборот раннего снимка не имеет.
           <ref target="/note/замена-листов.html">Два снимка одного дела</ref>.
           Как эта сторона выглядит в архиве сейчас:
           <ref target="https://storage.googleapis.com/facsimiles.alter-rebbe.org/archive/rgada/category/VII/inventory/2/case/3140/362-1.now.jpg">362-1</ref>.
-          Оборот раннего снимка не имеет.
         </p>
       </abstract>
       <creation><date when="1800-12-29">29 декабря 1800</date></creation>
@@ -38,6 +38,6 @@
       <l><signed>שניאור זלמן בן ברוך</signed></l>
     </p>
     <fw type="pageNum" place="right" hand="#inkHand">362</fw>
-    <pb n="362-2"/>
+    <pb n="362-2" missing="true" empty="true"/>
   </body></text>
 </TEI>
