@@ -17,7 +17,7 @@ idea {
 }
 
 // There is no Java in the project :)
-project.gradle.startParameter.excludedTaskNames.add('compileJava')
+podval.compileJavaEnabled = false
 
 site {
   treatErrorsAsWarnings = true
