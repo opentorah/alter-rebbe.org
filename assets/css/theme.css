@@ -1,0 +1,34 @@
+/* Light palette. Print uses these values. */
+:root {
+    --background-color: #f6f1e6;
+    --heading-color: #1c1916;
+    --text-color: #1c1916;
+    --site-title-color: #1c1916;
+    --brand-color: #5f574d;
+    --link-base-color: #1e3f66;
+    --quote-mark: #8a3d2f;
+    --code-background-color: #fffdf8;
+
+    --border-color-01: #d2c7b6;
+    --border-color-02: #d2c7b6;
+    --border-color-03: #1c1916;
+
+    --table-zebra-color: #efeade;
+    --table-header-bg-color: #e9e3d6;
+    --table-header-border: #d2c7b6;
+    --table-header-border-bottom: #c9bba6;
+    --table-border-color: #e3d9c8;
+}
+
+@media screen {
+    html.color-scheme-dark {
+        --background-color: #1c1916;
+        --heading-color: #f3eee4;
+        --text-color: #f3eee4;
+        --site-title-color: #f3eee4;
+        --brand-color: #b7ae9f;
+        --link-base-color: #9ec0e4;
+        --quote-mark: #e2a898;
+        /* Code ground stays #303030 so highlight.js dark.min.css still matches. */
+    }
+}
